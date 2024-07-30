@@ -822,21 +822,21 @@
 | 820 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 21 | 0 |
 | 820 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 21 | 0 |
 | 822 | [Arms Race 2](games/d/d3b4722b35674be186318c5f5e14b13e.md) | 20 | 0 |
+| 822 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 20 | 1 |
 | 822 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 20 | 0 |
 | 822 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 20 | 5 |
 | 822 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 20 | 0 |
 | 822 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 20 | 0 |
 | 822 | [Vlad Circus - Descend Into Madness](games/8/8fbc379433724c8382bfc79d1d8dcb77.md) | 20 | 2 |
-| 828 | [JYDGE](games/j/jydge.md) | 19 | 0 |
-| 828 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 19 | 6 |
-| 828 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 19 | 1 |
-| 831 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 18 | 3 |
-| 831 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 18 | 0 |
-| 831 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 18 | 0 |
-| 834 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 17 | 0 |
-| 834 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 17 | 1 |
-| 834 | [Hunt the Night](games/h/hunt_the_night.md) | 17 | 0 |
-| 834 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 17 | 0 |
+| 829 | [JYDGE](games/j/jydge.md) | 19 | 0 |
+| 829 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 19 | 6 |
+| 829 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 19 | 1 |
+| 832 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 18 | 3 |
+| 832 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 18 | 0 |
+| 832 | [Super Hydorah](games/0/0a17427d84184578bd1bc06a2f410a58.md) | 18 | 0 |
+| 835 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 17 | 0 |
+| 835 | [Hunt the Night](games/h/hunt_the_night.md) | 17 | 0 |
+| 835 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 17 | 0 |
 | 838 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 16 | 1 |
 | 838 | [Firelight Fantasy: Force Energy](games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 16 | 3 |
 | 838 | [LOVE 3](games/l/love_3.md) | 16 | 0 |
@@ -911,108 +911,108 @@
 | 909 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 7 | 0 |
 | 909 | [Lunar Lander Beyond](games/6/62604a9708a14eed8b10b31ebd2056d7.md) | 7 | 1 |
 | 909 | [Planet Cube - Edge](games/p/planet_cube_-_edge.md) | 7 | 0 |
+| 909 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 7 | 0 |
 | 909 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 7 | 0 |
 | 909 | [SPIRITUS](games/2/2b96380a243e4883bb007b67b78b18c1.md) | 7 | 0 |
 | 909 | [The Land Beneath Us](games/c/c99e1a5d5bd5462d8fbaabf6951bbbdf.md) | 7 | 0 |
 | 909 | [Trail Of Ayash](games/5/538efd8138f94b088f2d9e3da178edd6.md) | 7 | 0 |
 | 909 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 7 | 0 |
 | 909 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 7 | 0 |
-| 918 | [Absolute Tactics](games/a/absolute_tactics.md) | 6 | 1 |
-| 918 | [Euphoria: Supreme Mechanics](games/1/18051c2571964edbaeb83f87d12a189c.md) | 6 | 0 |
-| 918 | [Faraday Protocol](games/f/faraday_protocol.md) | 6 | 0 |
-| 918 | [Freshly Frosted](games/f/freshly_frosted.md) | 6 | 0 |
-| 918 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 6 | 0 |
-| 918 | [Hazel Sky](games/h/hazel_sky.md) | 6 | 0 |
-| 918 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 6 | 0 |
-| 918 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 6 | 0 |
-| 918 | [Monorail Stories](games/m/monorail_stories.md) | 6 | 0 |
-| 918 | [Monster Outbreak](games/m/monster_outbreak.md) | 6 | 0 |
-| 918 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 6 | 3 |
-| 918 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 6 | 0 |
-| 918 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 6 | 0 |
-| 918 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 6 | 0 |
-| 918 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 6 | 0 |
-| 933 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 5 | 0 |
-| 933 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 5 | 0 |
-| 933 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 5 | 0 |
-| 933 | [Overloop](games/o/overloop.md) | 5 | 2 |
-| 933 | [Overrogue](games/2/2a300323ee504893b9006ca8cac53a0d.md) | 5 | 0 |
-| 933 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 5 | 0 |
-| 933 | [Shadow Gangs](games/s/shadow_gangs.md) | 5 | 0 |
-| 933 | [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 5 | 0 |
-| 933 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 5 | 0 |
-| 942 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 4 | 0 |
-| 942 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 4 | 0 |
-| 942 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 4 | 0 |
-| 942 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 4 | 0 |
-| 942 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 4 | 0 |
-| 942 | [Gravity Oddity](games/b/bd49e68e53fc4da0b14d054354575cea.md) | 4 | 0 |
-| 942 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 4 | 0 |
-| 942 | [Jusant](games/9/9091161212874dca85088ef75d712cc2.md) | 4 | 0 |
-| 942 | [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 4 | 0 |
-| 942 | [Panic Porcupine](games/p/panic_porcupine.md) | 4 | 1 |
-| 942 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 4 | 0 |
-| 942 | [System Shock](games/s/system_shock.md) | 4 | 0 |
-| 942 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4 | 0 |
-| 942 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 4 | 1 |
-| 956 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 3 | 0 |
-| 956 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 3 | 0 |
-| 956 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 3 | 0 |
-| 956 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 3 | 0 |
-| 956 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 3 | 0 |
-| 956 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 3 | 0 |
-| 956 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 3 | 0 |
-| 956 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 3 | 0 |
-| 956 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 3 | 0 |
-| 956 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 3 | 0 |
-| 956 | [Lichenvale](games/l/lichenvale.md) | 3 | 0 |
-| 956 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 3 | 0 |
-| 956 | [Red Planet Rampart](games/d/dc66053dbf6248cfbcb8c9a406b54dfb.md) | 3 | 0 |
-| 956 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 3 | 0 |
-| 956 | [Showgunners](games/s/showgunners.md) | 3 | 0 |
-| 956 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | 3 | 0 |
-| 956 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 3 | 0 |
-| 973 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2 | 0 |
-| 973 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2 | 0 |
-| 973 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2 | 0 |
-| 973 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2 | 0 |
-| 973 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2 | 0 |
-| 973 | [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2 | 0 |
-| 973 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2 | 0 |
-| 973 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2 | 0 |
-| 973 | [Bread and Fred](games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 2 | 0 |
-| 973 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 2 | 0 |
-| 973 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2 | 0 |
-| 973 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2 | 0 |
-| 973 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2 | 0 |
-| 973 | [Lost Islands](games/3/3b0aa55999714473a49215e89289f883.md) | 2 | 0 |
-| 973 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2 | 0 |
-| 973 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2 | 0 |
-| 973 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2 | 0 |
-| 973 | [Poi](games/p/poi.md) | 2 | 0 |
-| 973 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2 | 0 |
-| 973 | [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2 | 0 |
-| 973 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2 | 0 |
-| 973 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | 2 | 0 |
-| 973 | [Road 96](games/r/road_96.md) | 2 | 0 |
-| 973 | [Road Maintenance Simulator](games/9/98c157cecc744a6393d86f60ccd43b53.md) | 2 | 0 |
-| 973 | [Roboplant](games/r/roboplant.md) | 2 | 0 |
-| 973 | [Rocco's Island](games/r/rocco's_island.md) | 2 | 0 |
-| 973 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2 | 0 |
-| 973 | [Still Joking](games/s/still_joking.md) | 2 | 0 |
-| 973 | [Survive on Raft](games/s/survive_on_raft.md) | 2 | 0 |
-| 973 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 2 | 0 |
-| 973 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2 | 0 |
-| 973 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2 | 0 |
-| 973 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 2 | 0 |
-| 973 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2 | 0 |
-| 973 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2 | 0 |
-| 973 | [The Wraith of the Galaxy](games/d/daed3ae775ab4986a0ce9ec1c3daab83.md) | 2 | 0 |
-| 973 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 2 | 0 |
-| 973 | [Undead Horde](games/u/undead_horde.md) | 2 | 0 |
-| 973 | [Youtubers Life](games/a/aa743bad41d24af0a14b3d1e979e1f85.md) | 2 | 0 |
-| 973 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2 | 0 |
-| 973 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2 | 0 |
+| 919 | [Absolute Tactics](games/a/absolute_tactics.md) | 6 | 1 |
+| 919 | [Euphoria: Supreme Mechanics](games/1/18051c2571964edbaeb83f87d12a189c.md) | 6 | 0 |
+| 919 | [Faraday Protocol](games/f/faraday_protocol.md) | 6 | 0 |
+| 919 | [Freshly Frosted](games/f/freshly_frosted.md) | 6 | 0 |
+| 919 | [FRONT MISSION 1st: Remake](games/e/e6c7d54c946f4d3da27a4a6d4a45202f.md) | 6 | 0 |
+| 919 | [Hazel Sky](games/h/hazel_sky.md) | 6 | 0 |
+| 919 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 6 | 0 |
+| 919 | [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 6 | 0 |
+| 919 | [Monorail Stories](games/m/monorail_stories.md) | 6 | 0 |
+| 919 | [Monster Outbreak](games/m/monster_outbreak.md) | 6 | 0 |
+| 919 | [Sea of Dreams](games/a/a7414e60172b4759a136d064018119c1.md) | 6 | 3 |
+| 919 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 6 | 0 |
+| 919 | [Shinogi Chess Club](games/s/shinogi_chess_club.md) | 6 | 0 |
+| 919 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 6 | 0 |
+| 919 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 6 | 0 |
+| 934 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 5 | 0 |
+| 934 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 5 | 0 |
+| 934 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 5 | 0 |
+| 934 | [Overloop](games/o/overloop.md) | 5 | 2 |
+| 934 | [Overrogue](games/2/2a300323ee504893b9006ca8cac53a0d.md) | 5 | 0 |
+| 934 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 5 | 0 |
+| 934 | [Shadow Gangs](games/s/shadow_gangs.md) | 5 | 0 |
+| 934 | [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 5 | 0 |
+| 934 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 5 | 0 |
+| 943 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 4 | 0 |
+| 943 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 4 | 0 |
+| 943 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 4 | 0 |
+| 943 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 4 | 0 |
+| 943 | [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 4 | 0 |
+| 943 | [Gravity Oddity](games/b/bd49e68e53fc4da0b14d054354575cea.md) | 4 | 0 |
+| 943 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 4 | 0 |
+| 943 | [Jusant](games/9/9091161212874dca85088ef75d712cc2.md) | 4 | 0 |
+| 943 | [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 4 | 0 |
+| 943 | [Panic Porcupine](games/p/panic_porcupine.md) | 4 | 1 |
+| 943 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 4 | 0 |
+| 943 | [System Shock](games/s/system_shock.md) | 4 | 0 |
+| 943 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4 | 0 |
+| 943 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 4 | 1 |
+| 957 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 3 | 0 |
+| 957 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 3 | 0 |
+| 957 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 3 | 0 |
+| 957 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 3 | 0 |
+| 957 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 3 | 0 |
+| 957 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 3 | 0 |
+| 957 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 3 | 0 |
+| 957 | [Gambit Shifter](games/b/ba3fea8881d54b1a805074c89f03874f.md) | 3 | 0 |
+| 957 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 3 | 0 |
+| 957 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 3 | 0 |
+| 957 | [Lichenvale](games/l/lichenvale.md) | 3 | 0 |
+| 957 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 3 | 0 |
+| 957 | [Red Planet Rampart](games/d/dc66053dbf6248cfbcb8c9a406b54dfb.md) | 3 | 0 |
+| 957 | [Reyna Darkness](games/f/f23600737cfe43d0a3c807c938c5e94b.md) | 3 | 0 |
+| 957 | [Showgunners](games/s/showgunners.md) | 3 | 0 |
+| 957 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | 3 | 0 |
+| 957 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 3 | 0 |
+| 974 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2 | 0 |
+| 974 | [Anvil Saga](games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 2 | 0 |
+| 974 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2 | 0 |
+| 974 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2 | 0 |
+| 974 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2 | 0 |
+| 974 | [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2 | 0 |
+| 974 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2 | 0 |
+| 974 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2 | 0 |
+| 974 | [Bread and Fred](games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 2 | 0 |
+| 974 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 2 | 0 |
+| 974 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2 | 0 |
+| 974 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2 | 0 |
+| 974 | [Iragon](games/6/693d136b854d4a38a1dee6bc9020a5a4.md) | 2 | 0 |
+| 974 | [Lost Islands](games/3/3b0aa55999714473a49215e89289f883.md) | 2 | 0 |
+| 974 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2 | 0 |
+| 974 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2 | 0 |
+| 974 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2 | 0 |
+| 974 | [Poi](games/p/poi.md) | 2 | 0 |
+| 974 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2 | 0 |
+| 974 | [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2 | 0 |
+| 974 | [REMORE INFESTED KINGDOM](games/2/27ac7a9891e546e3937d21797b5409b9.md) | 2 | 0 |
+| 974 | [Road 96](games/r/road_96.md) | 2 | 0 |
+| 974 | [Road Maintenance Simulator](games/9/98c157cecc744a6393d86f60ccd43b53.md) | 2 | 0 |
+| 974 | [Roboplant](games/r/roboplant.md) | 2 | 0 |
+| 974 | [Rocco's Island](games/r/rocco's_island.md) | 2 | 0 |
+| 974 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2 | 0 |
+| 974 | [Still Joking](games/s/still_joking.md) | 2 | 0 |
+| 974 | [Survive on Raft](games/s/survive_on_raft.md) | 2 | 0 |
+| 974 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 2 | 0 |
+| 974 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2 | 0 |
+| 974 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2 | 0 |
+| 974 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 2 | 0 |
+| 974 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2 | 0 |
+| 974 | [The Story Goes On](games/d/d3242d8296924a93a4d235e702f2e4ed.md) | 2 | 0 |
+| 974 | [The Wraith of the Galaxy](games/d/daed3ae775ab4986a0ce9ec1c3daab83.md) | 2 | 0 |
+| 974 | [Tour de France 2023](games/c/c20377f30dfa44eb929b0081c1182381.md) | 2 | 0 |
+| 974 | [Undead Horde](games/u/undead_horde.md) | 2 | 0 |
+| 974 | [Youtubers Life](games/a/aa743bad41d24af0a14b3d1e979e1f85.md) | 2 | 0 |
+| 974 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2 | 0 |
+| 974 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2 | 0 |
 | 1,014 | [Active DBG Brave's Rage](games/7/767ef5b53bde471090219bbec4f9d78a.md) | 1 | 0 |
 | 1,014 | [Apotheorasis • Lab of the Blind Gods](games/a/apotheorasis_•_lab_of_the_blind_gods.md) | 1 | 0 |
 | 1,014 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 1 | 0 |

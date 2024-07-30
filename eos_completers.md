@@ -96,22 +96,22 @@
 | 94 | [Chicken Journey](games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 6.06% |
 | 95 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 6.03% |
 | 96 | [Dungeons 4](games/d/dungeons_4.md) | 6.01% |
-| 97 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 5.88% |
-| 98 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 5.84% |
-| 99 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.54% |
-| 100 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.46% |
-| 100 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.46% |
-| 102 | [ZZT!](games/z/zzt!.md) | 5.44% |
-| 103 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 5.36% |
-| 104 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.34% |
-| 104 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.34% |
-| 106 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.26% |
-| 106 | [Time Loader](games/t/time_loader.md) | 5.26% |
-| 108 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.15% |
-| 109 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.13% |
-| 109 | [Potato Sack Racing Simulator 2024](games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 5.13% |
-| 111 | [Bugsnax](games/b/bugsnax.md) | 5.10% |
-| 112 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5.07% |
+| 97 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 5.84% |
+| 98 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.54% |
+| 99 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.46% |
+| 99 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 5.46% |
+| 101 | [ZZT!](games/z/zzt!.md) | 5.44% |
+| 102 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 5.36% |
+| 103 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.34% |
+| 103 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 5.34% |
+| 105 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.26% |
+| 105 | [Time Loader](games/t/time_loader.md) | 5.26% |
+| 107 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.15% |
+| 108 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 5.13% |
+| 108 | [Potato Sack Racing Simulator 2024](games/2/2ea4230c2a664c27a7e3d1c94a487241.md) | 5.13% |
+| 110 | [Bugsnax](games/b/bugsnax.md) | 5.10% |
+| 111 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5.07% |
+| 112 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 5.00% |
 | 113 | [Scorn](games/s/scorn.md) | 4.92% |
 | 114 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.90% |
 | 115 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 4.89% |
