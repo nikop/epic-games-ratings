@@ -1,7 +1,7 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.53 (Ranked 615)  
+Rating: 4.53 (Ranked 614)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -344,8 +344,8 @@ Completed: 176 (0.03%) (Ranked 469)
 | 2024-06-17 | 673,220 | 176 |
 ## Awards
 Max (Amazing Storytelling): 40  (Ranked 561)  
-Sum: 216 (Ranked 484)  
-Diff (max vs sum): 77  
+Sum: 217 (Ranked 483)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |
@@ -353,8 +353,8 @@ Diff (max vs sum): 77
 | This game is Highly Recommended | 34 |
 | This game has Amazing Characters | 32 |
 | This game is Great for Beginners | 30 |
+| This game is Extremely Fun | 28 |
 | This game has Quickly Understood Controls | 28 |
-| This game is Extremely Fun | 27 |
 | This game has Unique Visuals | 25 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -487,3 +487,4 @@ Diff (max vs sum): 77
 | 2024-07-24 | 4.53 | - | 40 | 214 |
 | 2024-07-28 | 4.53 | - | 40 | 215 |
 | 2024-07-29 | 4.53 | - | 40 | 216 |
+| 2024-07-30 | 4.53 | - | 40 | 217 |

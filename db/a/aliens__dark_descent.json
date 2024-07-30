@@ -4,7 +4,7 @@
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 483,
   "Ranking_Popularity": 437,
-  "Ranking_PopularitySum": 546,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 28,
@@ -877,18 +877,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 104,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-07-30T17:58:46.6983562+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 105,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 104,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 105,
+  "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 104
+      "Count": 105
     }
   ],
   "EOS_Progressed": 7453,
@@ -11093,9 +11099,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2024-07-27T14:58:33.7883516+00:00",
+  "LastChanged": "2024-07-30T17:58:46.698356+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:36.6051593+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:25.2785434+00:00",
-  "LastUpdate_Ratings": "2024-07-30T16:01:59.3719067+00:00",
+  "LastUpdate_Ratings": "2024-07-30T17:58:46.6983564+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:36.605236+00:00"
 }
