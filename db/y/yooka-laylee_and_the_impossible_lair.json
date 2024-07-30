@@ -4,7 +4,7 @@
   "ProductSlug": "yooka-laylee-and-the-impossible-lair",
   "Ranking_Rating": 926,
   "Ranking_Popularity": 593,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 28,
@@ -948,6 +948,6 @@
   "FirstSeen": "2022-07-22T20:26:15.7946917+00:00",
   "LastChanged": "2024-07-25T16:58:17.4901723+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:02.9194274+00:00",
-  "LastUpdate_Ratings": "2024-07-30T08:58:56.6876864+00:00",
+  "LastUpdate_Ratings": "2024-07-30T10:57:19.1904592+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:55.5001676+00:00"
 }
