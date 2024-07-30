@@ -156,7 +156,7 @@
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | 12 (1,000 XP) | 48 | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 7 | - | - |
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 42 | - | 0 |
-| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 17,979 | 4.54 | 41 |
+| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 17,979 | 4.53 | 41 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 26 | - | 0 |
 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 315,532 | 4.48 | 657 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 5 | - | - |

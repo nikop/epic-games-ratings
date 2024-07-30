@@ -49,7 +49,6 @@
 | [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
-| [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-12-31 | - |  | - | - |
 | [Coffee Town](games/a/a8b07df0c03c4a29992d60683e17cf84.md) | 2024-12-31 | - |  | - | - |
 | [Decimated](games/d/d37fcefd6be042c5a232b716ac56f118.md) | 2024-12-31 | - |  | - | - |
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
@@ -64,12 +63,13 @@
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2024-07-31 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-07-30 | - |  | - | - |
+| [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-07-30 | - |  | - | - |
 | [Valor Rising: Quest for the 7](games/5/580aa156a1fb43eeb45e5c6e39d18d20.md) | 2024-07-20 | - |  | - | 0 |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-07-19 | - |  | - | 0 |
 | [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.54 | 0 |
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.52 | 38 |
-| [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.35 | 0 |
+| [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.37 | 0 |
 | [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2024-06-30 | - |  | - | 0 |
 | [CryptoBall](games/5/539a43c4910f41ae851d7acc184c92f1.md) | 2024-06-30 | - |  | - | - |
 | [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-06-30 | - |  | - | 0 |
@@ -114,7 +114,7 @@
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 7,002 | 4.52 | 38 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
-| [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.85 | 37 |
+| [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.79 | 37 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
@@ -155,7 +155,7 @@
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.65 | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.62 | 0 |
-| [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.41 | 31 |
+| [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.42 | 31 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.86 | 62 |
 | [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.42 | 56 |

@@ -190,7 +190,7 @@
 | [Doodle Kingdom](games/5/57516fb42c924c54be764afa7d006718.md) | 2024-04-30 | 14 (1,000 XP) | 24 | - | 0 |
 | [Summer's Gone](games/4/451da11e3adf4275ace500815e0453fb.md) | 2024-04-30 | 44 (1,000 XP) | 1 | - | 0 |
 | [Womanizer](games/f/f5b1e856606c4990af9f705d1cd92623.md) | 2024-04-30 | 46 (1,000 XP) | 1 | - | 0 |
-| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 17,979 | 4.54 | 41 |
+| [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 17,979 | 4.53 | 41 |
 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 2024-04-25 | 26 (1,000 XP) | 28 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 608 | - | 0 |
@@ -686,7 +686,7 @@
 | [STASIS : BONE TOTEM](games/1/1cc65ff03931492b8e8c288b6fd92e8c.md) | 2023-06-20 | 20 (1,000 XP) | 87 | - | 0 |
 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2023-06-20 | 6 (1,000 XP) | 877 | - | 0 |
 | [Crimsonland](games/0/04d22e276f144358875f1789bd49f135.md) | 2023-06-20 | 22 (1,000 XP) | 0 | - | - |
-| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 7,453 | 4.59 | 104 |
+| [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-19 | 45 (1,000 XP) | 7,453 | 4.59 | 105 |
 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 2023-06-19 | 24 (1,000 XP) | 236 | - | 0 |
 | [The House of Da Vinci 3](games/6/6bd33f792d3d4350ab80acb891597df8.md) | 2023-06-19 | 30 (1,000 XP) | 224 | - | 0 |
 | [Scribble It!](games/d/dc989527f6684c218eb8f5992e85cfea.md) | 2023-06-16 | 25 (1,000 XP) | 19,678 | 4.24 | 0 |
@@ -926,7 +926,7 @@
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,385 | 4.36 | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,351 | 4.37 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,246,479 | 4.01 | 12,058 |
-| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 27,304 | 4.24 | 194 |
+| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 27,304 | 4.24 | 195 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 79,217 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 396 | - | 0 |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 2022-11-18 | 15 (1,000 XP) | 575 | - | 0 |
@@ -1004,7 +1004,7 @@
 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2022-08-19 | 29 (1,000 XP) | 2 | - | 0 |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 5,125 | 4.29 | 63 |
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
-| [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 3,150 | 4.29 | 0 |
+| [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 3,150 | 4.30 | 0 |
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 48,808 | 4.54 | 0 |
 | [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 789 | 4.35 | 22 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 379,067 | 4.30 | 54 |
@@ -1018,7 +1018,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 742,125 | 4.08 | 184 |
 | [LOOPMANCER](games/l/loopmancer.md) | 2022-07-27 | 57 (1,000 XP) | 111 | - | 0 |
 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 648 | 4.61 | 0 |
-| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 165,697 | 4.01 | 5,299 |
+| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 165,697 | 4.01 | 5,303 |
 | [Silence](games/s/silence.md) | 2022-07-21 | 46 (1,000 XP) | 260 | - | 0 |
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 2022-07-19 | 28 (1,000 XP) | 763 | 4.63 | 0 |
@@ -1209,7 +1209,7 @@
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 39,473 | 4.42 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 2,938 | 4.64 | 44 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 3,114 | 4.84 | 56 |
-| [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 146,324 | 4.87 | 826 |
+| [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 146,324 | 4.87 | 827 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 366 (3,480 XP) | 19,981 | 4.65 | 257 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 114,039 | 4.74 | 10,011 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,086 | 4.69 | 963 |

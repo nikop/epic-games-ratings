@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | 36 (1,000 XP) | 7 | - | - |
+| [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-07-30 | - |  | - | - |
 | [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
 | [Cats on Duty](games/2/2819d0278f1b4fe7bcf06b783950f64d.md) | 2024-07-29 | - |  | - | 0 |
 | [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-07-26 | - |  | - | - |
@@ -94,4 +95,4 @@
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | 21 (1,000 XP) | 1 | - | - |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 14 | - | - |
 | [Skybound: Only Up](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | 0 |
-| [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.35 | 0 |
+| [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.37 | 0 |

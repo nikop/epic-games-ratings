@@ -134,7 +134,6 @@
 | [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |
 | [Card Clash Chronicles](games/e/eb594d29ab71410fb26280a6fedb01b6.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
-| [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-12-31 | - |  | - | - |
 | [City 20](games/8/8b1072dbd9c84374935b5c4b9d363865.md) | 2024-12-31 | - |  | - | - |
 | [Coffee Town](games/a/a8b07df0c03c4a29992d60683e17cf84.md) | 2024-12-31 | - |  | - | - |
 | [Commandos: Origins](games/7/7c64b0352fb7449082d7331141b36d97.md) | 2024-12-31 | - |  | - | - |
