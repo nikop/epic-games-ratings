@@ -32,7 +32,7 @@
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | - |  | - | 0 |
 | [Extreme Climbing Mirage City](games/a/a3044ee7c09245fc833224d5f57550a2.md) | 2024-07-22 | - |  | - | - |
 | [NINJA KATO 4](games/e/e44eb86202844dfe9644e88d0c9c232a.md) | 2024-07-21 | - |  | - | - |
-| [Intonight](games/0/05b4ad092cdc434b8a078c9a645f31a9.md) | 2024-07-21 | - |  | - | 0 |
+| [Intonight](games/0/05b4ad092cdc434b8a078c9a645f31a9.md) | 2024-07-21 | - |  | 4.14 | 0 |
 | [Valor Rising: Quest for the 7](games/5/580aa156a1fb43eeb45e5c6e39d18d20.md) | 2024-07-20 | - |  | - | 0 |
 | [Roll the Dark Heart](games/7/7ffc08b0c9be43d59113d0e72d95605f.md) | 2024-07-19 | - |  | - | - |
 | [Astro Wars](games/3/3115ba037dbf4ef18d21e24422ee9c7a.md) | 2024-07-19 | - |  | - | 0 |
@@ -90,7 +90,7 @@
 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 2024-07-02 | - |  | 4.30 | 34 |
 | [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | - |  | 4.81 | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | - |  | - | - |
-| [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | 4.51 | 4,151 |
+| [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 2024-07-02 | - |  | 4.51 | 8,005 |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | - |  | - | - |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | - |  | - | - |
 | [Skybound: Only Up](games/6/6732880ea603405698daad12f6011d79.md) | 2024-07-01 | - |  | - | 0 |
