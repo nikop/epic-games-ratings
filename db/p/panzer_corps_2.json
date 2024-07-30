@@ -4,7 +4,7 @@
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 664,
   "Ranking_Popularity": 571,
-  "Ranking_PopularitySum": 488,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 1107,
   "Ranking_EOS_Completed": 515,
   "Ranking_EOS_NewPlayers": 28,
@@ -934,6 +934,6 @@
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
   "LastChanged": "2024-07-28T06:00:41.8029353+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:13.0072914+00:00",
-  "LastUpdate_Ratings": "2024-07-30T00:01:10.0523119+00:00",
+  "LastUpdate_Ratings": "2024-07-30T02:59:07.5962015+00:00",
   "LastUpdate_Achievements": "2024-07-29T18:05:10.7002052+00:00"
 }
