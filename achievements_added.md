@@ -1,7 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-24 | 36 (1,000 XP) | 1 | - | - |
-| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 794 | 4.59 | 0 |
+| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 794 | 4.63 | 0 |
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | 9 (1,000 XP) | 111 | - | 0 |
 | [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | 37 (1,000 XP) | 200 | - | 0 |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | 34 (1,000 XP) | 3 | - | 0 |
@@ -221,7 +221,7 @@
 | [Stories from the Outbreak](games/5/54b2781b490444debc7739e562b05291.md) | 2024-03-14 | 37 (1,000 XP) | 10 | - | 0 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 2020-09-08 | 69 (1,000 XP) | 1,221 | 4.55 | 86 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 482 | 4.69 | 55 |
-| [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 169,555 | 4.18 | 0 |
+| [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 169,555 | 4.18 | 20 |
 | [Winter Survival](games/0/041ae72fbe004d19a36ee417318e7b94.md) | 2024-03-06 | 25 (1,000 XP) | 214 | - | 0 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 172 | 4.15 | 0 |
 | [Never Alone](games/e/e578f95e616d4dc29a70d0f7be01ebb5.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
@@ -235,7 +235,7 @@
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 442 | - | 0 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 112 |
 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 7,113 | 4.20 | 35 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,185 | 4.82 | 509 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,185 | 4.82 | 518 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 2,177 | 4.64 | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 26 | - | 0 |
 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2024-01-23 | 37 (1,000 XP) | 2 | - | 0 |
@@ -514,7 +514,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 124 | - | 0 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.38 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 241 | - | 0 |
-| [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 2023-10-31 | 12 (1,000 XP) | 1,255 | 4.42 | 0 |
+| [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 2023-10-31 | 12 (1,000 XP) | 1,255 | 4.44 | 0 |
 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 2023-10-14 | 67 (1,000 XP) | 16,251 | 4.36 | 0 |
 | [100 Doors - Escape from Work](games/2/2e8b593f066d4ec59a473a0650c2794a.md) | 2023-10-15 | 14 (1,000 XP) | 0 | - | 0 |
 | [Haunted House](games/8/81970ccb964d4720adccf2e2244fe754.md) | 2023-10-12 | 25 (1,000 XP) | 1 | - | 0 |
