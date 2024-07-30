@@ -2,9 +2,9 @@
   "ID": "camellia",
   "Name": "Assassin\u0027s Creed Origins Standard Edition",
   "ProductSlug": "assassins-creed-origins",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 284,
   "Ranking_Popularity": 93,
-  "Ranking_PopularitySum": 126,
+  "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -12018,10 +12018,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 9318,
       "NumberOfAwardsMax": 5006
+    },
+    {
+      "Time": "2024-07-30T18:58:31.8398654+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 9319,
+      "NumberOfAwardsMax": 5006
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9318,
+  "NumberOfAwards": 9319,
   "NumberOfAwardsMax": 5006,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12089,7 +12095,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 418
+      "Count": 419
     },
     {
       "Text": "This game has a Creative Community",
@@ -12109,8 +12115,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2024-07-29T22:58:17.9345289+00:00",
+  "LastChanged": "2024-07-30T18:58:31.839865+00:00",
   "LastUpdate_AppInfo": "2024-07-29T07:57:12.891175+00:00",
-  "LastUpdate_Ratings": "2024-07-30T16:59:40.0479636+00:00",
+  "LastUpdate_Ratings": "2024-07-30T18:58:31.8398662+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:10.5098361+00:00"
 }

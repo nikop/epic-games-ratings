@@ -2,7 +2,7 @@
   "ID": "amaranth",
   "Name": "Ancestors: The Humankind Odyssey",
   "ProductSlug": "ancestors",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 481,
   "RatingHistory": [
     {
@@ -802,6 +802,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-07-30T18:57:53.6309245+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
@@ -875,8 +881,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2024-07-26T19:59:42.4538328+00:00",
+  "LastChanged": "2024-07-30T18:57:53.6309244+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:18.5649996+00:00",
-  "LastUpdate_Ratings": "2024-07-30T16:59:00.671899+00:00",
+  "LastUpdate_Ratings": "2024-07-30T18:57:53.6309249+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:11.8744965+00:00"
 }

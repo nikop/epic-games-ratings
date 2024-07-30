@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 525,
+  "Ranking_Rating": 524,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 178,
@@ -12181,10 +12181,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 15367,
       "NumberOfAwardsMax": 4327
+    },
+    {
+      "Time": "2024-07-30T18:58:20.8295128+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 15388,
+      "NumberOfAwardsMax": 4327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15367,
+  "NumberOfAwards": 15388,
   "NumberOfAwardsMax": 4327,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12216,13 +12222,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1043
+      "Count": 1048
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1087
+      "Count": 1093
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12246,7 +12252,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1067
+      "Count": 1071
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -12258,7 +12264,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 1244
+      "Count": 1250
     }
   ],
   "EOS_Progressed": 30054,
@@ -25134,9 +25140,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-07-30T16:59:28.7359878+00:00",
+  "LastChanged": "2024-07-30T18:58:20.8295124+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:57.6455218+00:00",
   "LastUpdate_AppInfo": "2024-07-28T14:57:14.6942922+00:00",
-  "LastUpdate_Ratings": "2024-07-30T16:59:28.7359886+00:00",
+  "LastUpdate_Ratings": "2024-07-30T18:58:20.8295133+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:57.6455948+00:00"
 }
