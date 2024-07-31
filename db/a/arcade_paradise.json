@@ -3,8 +3,8 @@
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
   "Ranking_Rating": 914,
-  "Ranking_Popularity": 646,
-  "Ranking_PopularitySum": 582,
+  "Ranking_Popularity": 642,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -325,12 +325,18 @@
       "Rating": 4.36,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-07-31T17:59:14.6337345+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67,
-  "NumberOfAwardsMax": 23,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 69,
+  "NumberOfAwardsMax": 24,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -342,7 +348,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1745,9 +1751,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-07-31T13:09:07.5237188+00:00",
+  "LastChanged": "2024-07-31T17:59:14.6337344+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:05.1254949+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:10.0370821+00:00",
-  "LastUpdate_Ratings": "2024-07-31T16:00:29.0182084+00:00",
+  "LastUpdate_Ratings": "2024-07-31T17:59:14.6337349+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:05.1255325+00:00"
 }

@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.48 (Ranked 704)  
+Rating: 4.48 (Ranked 705)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -346,7 +346,7 @@ Completed: 3 (0.03%) (Ranked 469)
 | 2024-06-17 | 11,320 | 3 |
 ## Awards
 Max (Great for Beginners): 67  (Ranked 501)  
-Sum: 474 (Ranked 399)  
+Sum: 475 (Ranked 399)  
 Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): 102
 | This game is Relaxing | 66 |
 | This game has Quickly Understood Controls | 65 |
 | This game is Extremely Fun | 61 |
-| This game has Diverse Characters | 60 |
+| This game has Diverse Characters | 61 |
 | This game has Amazing Characters | 58 |
 | This game has Obsessive Gameplay | 51 |
 | This game has Amazing Storytelling | 51 |
@@ -462,3 +462,4 @@ Diff (max vs sum): 102
 | 2024-06-09 | 4.48 | - | 67 | 472 |
 | 2024-06-21 | 4.48 | - | 67 | 473 |
 | 2024-06-22 | 4.48 | - | 67 | 474 |
+| 2024-07-31 | 4.48 | - | 67 | 475 |

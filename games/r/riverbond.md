@@ -1,7 +1,7 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 738)  
+Rating: 4.46 (Ranked 739)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -353,8 +353,8 @@ Completed: 598 (0.11%) (Ranked 406)
 | 2024-06-17 | 543,735 | 584 |
 | 2024-07-25 | 545,224 | 598 |
 ## Awards
-Max (Relaxing): 23  (Ranked 646)  
-Sum: 67 (Ranked 582)  
+Max (Relaxing): 23  (Ranked 647)  
+Sum: 67 (Ranked 583)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
