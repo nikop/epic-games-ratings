@@ -5,8 +5,8 @@ Rating: 4.53 (Ranked 614)
 Number of Ratings: 233  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 40  (Ranked 561)  
-Sum: 311 (Ranked 447)  
-Diff (max vs sum): 114  
+Sum: 312 (Ranked 446)  
+Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 40 |
@@ -20,7 +20,7 @@ Diff (max vs sum): 114
 | This game has Quickly Understood Controls | 28 |
 | This game is Extremely Fun | 28 |
 | This game has Amazing Storytelling | 25 |
-| This game has a Competitive Community | 23 |
+| This game has a Competitive Community | 24 |
 | This game has Obsessive Gameplay | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -184,3 +184,4 @@ Diff (max vs sum): 114
 | 2024-07-12 | 4.53 | - | 40 | 309 |
 | 2024-07-20 | 4.53 | - | 40 | 310 |
 | 2024-07-27 | 4.53 | - | 40 | 311 |
+| 2024-07-31 | 4.53 | - | 40 | 312 |
