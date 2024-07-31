@@ -11,7 +11,7 @@
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 137,092 | 4.69 | 260 |
 | 10 | [VALORANT](games/v/valorant.md) | 132,400 | 4.49 | 688 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 82,733 | 4.44 | 775 |
-| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 71,116 | 4.58 | 502 |
+| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 71,156 | 4.58 | 502 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 65,012 | 4.62 | 404 |
 | 14 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 58,890 | 4.72 | 211 |
 | 15 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 58,352 | 4.74 | 173 |
@@ -53,7 +53,7 @@
 | 51 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 10,785 | 4.89 | 11 |
 | 52 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 10,436 | 4.68 | 284 |
 | 53 | [Remnant II®](games/r/remnant_2.md) | 10,132 | 4.70 | 236 |
-| 54 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 10,106 | 4.55 | 567 |
+| 54 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 10,111 | 4.55 | 567 |
 | 55 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 10,086 | 4.68 | 284 |
 | 55 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 10,086 | 4.51 | 646 |
 | 57 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 10,032 | 4.74 | 173 |
@@ -242,7 +242,7 @@
 | 240 | [RimWorld](games/r/rimworld.md) | 591 | 4.88 | 15 |
 | 241 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 581 | 4.59 | 483 |
 | 242 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 576 | 4.74 | 173 |
-| 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 568 | 4.56 | 547 |
+| 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 570 | 4.56 | 547 |
 | 244 | [Loop Hero](games/l/loop_hero.md) | 566 | 4.68 | 284 |
 | 245 | [Terraforming Mars](games/t/terraforming_mars.md) | 565 | 4.54 | 592 |
 | 246 | [Slime Rancher](games/s/slime_rancher.md) | 558 | 4.82 | 71 |
@@ -353,7 +353,7 @@
 | 350 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 201 | 4.62 | 404 |
 | 352 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 198 | 4.62 | 404 |
 | 353 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 195 | 4.24 | 1,043 |
-| 354 | [Mothergunship](games/m/mothergunship.md) | 193 | 4.38 | 887 |
+| 354 | [Mothergunship](games/m/mothergunship.md) | 194 | 4.38 | 887 |
 | 355 | [Encased](games/e/encased.md) | 192 | 4.34 | 942 |
 | 356 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 189 | 4.79 | 104 |
 | 356 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 189 | 4.28 | 1,004 |
