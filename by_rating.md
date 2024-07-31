@@ -921,7 +921,7 @@
 | 915 | [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 4.36 | 0 | 678 |
 | 915 | [Hammerting](games/h/hammerting.md) | 4.36 | 0 | 678 |
 | 915 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.36 | 0 | 678 |
-| 915 | [MORDHAU](games/m/mordhau.md) | 4.36 | 2,004 | 137 |
+| 915 | [MORDHAU](games/m/mordhau.md) | 4.36 | 2,012 | 137 |
 | 915 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 27 | 625 |
 | 915 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 55 | 525 |
 | 915 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 187 | 362 |
@@ -1029,19 +1029,19 @@
 | 1,021 | [Rise of Industry](games/r/rise_of_industry.md) | 4.26 | 46 | 544 |
 | 1,021 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 678 |
 | 1,021 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.26 | 0 | 678 |
-| 1,021 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.26 | 163 | 378 |
 | 1,021 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.26 | 69 | 495 |
 | 1,021 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 303 |
-| 1,033 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.25 | 23 | 646 |
-| 1,033 | [Breakout: Recharged](games/b/breakout__recharged.md) | 4.25 | 0 | 678 |
-| 1,033 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 678 |
-| 1,033 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 689 | 229 |
-| 1,033 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 27 | 625 |
-| 1,033 | [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 4.25 | 0 | 678 |
-| 1,033 | [Predecessor](games/p/predecessor.md) | 4.25 | 744 | 222 |
-| 1,033 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 678 |
-| 1,033 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 678 |
-| 1,033 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 27 | 625 |
+| 1,032 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.25 | 23 | 646 |
+| 1,032 | [Breakout: Recharged](games/b/breakout__recharged.md) | 4.25 | 0 | 678 |
+| 1,032 | [Circus Electrique](games/c/circus_electrique.md) | 4.25 | 0 | 678 |
+| 1,032 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.25 | 689 | 229 |
+| 1,032 | [Mortal Shell](games/m/mortal_shell.md) | 4.25 | 27 | 625 |
+| 1,032 | [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 4.25 | 0 | 678 |
+| 1,032 | [Predecessor](games/p/predecessor.md) | 4.25 | 744 | 222 |
+| 1,032 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 678 |
+| 1,032 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 678 |
+| 1,032 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.25 | 163 | 378 |
+| 1,032 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.25 | 27 | 625 |
 | 1,043 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 678 |
 | 1,043 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 34 | 592 |
 | 1,043 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 678 |
@@ -1241,7 +1241,7 @@
 | 1,239 | [Survive on Raft](games/s/survive_on_raft.md) | 3.59 | 0 | 678 |
 | 1,240 | [Adios](games/a/adios.md) | 3.56 | 0 | 678 |
 | 1,241 | [Operation New Earth](games/o/operation_new_earth.md) | 3.55 | 0 | 678 |
-| 1,242 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.49 | 236 | 334 |
-| 1,243 | [War of Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 3.48 | 0 | 678 |
+| 1,242 | [War of Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 3.54 | 0 | 678 |
+| 1,243 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 3.49 | 236 | 334 |
 | 1,244 | [Superbrothers: Sword & Sworcery EP](games/s/superbrothers__sword_&_sworcery_ep.md) | 3.45 | 0 | 678 |
 | 1,245 | [fell in love with coser](games/e/e4088fe230d843c18e1d45c4109d2713.md) | 3.38 | 0 | 678 |
