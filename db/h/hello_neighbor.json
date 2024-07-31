@@ -2,7 +2,7 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 547,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 1141,
@@ -8710,10 +8710,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 3460,
       "NumberOfAwardsMax": 568
+    },
+    {
+      "Time": "2024-07-31T01:37:54.5781361+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 3464,
+      "NumberOfAwardsMax": 568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3460,
+  "NumberOfAwards": 3464,
   "NumberOfAwardsMax": 568,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8763,7 +8769,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 404
+      "Count": 408
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8789,8 +8795,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2024-07-30T20:00:09.9597606+00:00",
+  "LastChanged": "2024-07-31T01:37:54.5781359+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:25.2980234+00:00",
-  "LastUpdate_Ratings": "2024-07-30T23:57:38.5525645+00:00",
+  "LastUpdate_Ratings": "2024-07-31T01:37:54.5781365+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:56.5603032+00:00"
 }
