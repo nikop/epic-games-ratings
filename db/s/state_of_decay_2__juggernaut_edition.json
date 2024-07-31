@@ -2,7 +2,7 @@
   "ID": "11eb2ae2943641b498efb54501511b86",
   "Name": "State of Decay 2: Juggernaut Edition",
   "ProductSlug": "state-of-decay-2-juggernaut-edition",
-  "Ranking_Rating": 211,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 1141,
@@ -4481,10 +4481,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2912,
       "NumberOfAwardsMax": 427
+    },
+    {
+      "Time": "2024-07-31T22:58:24.5512516+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 2913,
+      "NumberOfAwardsMax": 427
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2912,
+  "NumberOfAwards": 2913,
   "NumberOfAwardsMax": 427,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4528,7 +4534,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 316
+      "Count": 317
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4572,8 +4578,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:15.4995457+00:00",
-  "LastChanged": "2024-07-31T14:57:34.0933964+00:00",
+  "LastChanged": "2024-07-31T22:58:24.5512514+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:33.9217695+00:00",
-  "LastUpdate_Ratings": "2024-07-31T20:59:46.8223052+00:00",
+  "LastUpdate_Ratings": "2024-07-31T22:58:24.5512524+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:44.2652975+00:00"
 }

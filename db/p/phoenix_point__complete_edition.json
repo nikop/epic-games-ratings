@@ -4,7 +4,7 @@
   "ProductSlug": "phoenix-point",
   "Ranking_Rating": 546,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -4723,10 +4723,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 7601,
       "NumberOfAwardsMax": 1896
+    },
+    {
+      "Time": "2024-07-31T22:57:53.7853819+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7603,
+      "NumberOfAwardsMax": 1896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7601,
+  "NumberOfAwards": 7603,
   "NumberOfAwardsMax": 1896,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4740,7 +4746,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 720
+      "Count": 721
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4752,7 +4758,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 703
+      "Count": 704
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4802,8 +4808,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-07-31T20:59:12.0716834+00:00",
+  "LastChanged": "2024-07-31T22:57:53.7853818+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:45.1233849+00:00",
-  "LastUpdate_Ratings": "2024-07-31T20:59:12.0716841+00:00",
+  "LastUpdate_Ratings": "2024-07-31T22:57:53.7853824+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:23.2363115+00:00"
 }
