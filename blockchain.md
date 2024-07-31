@@ -61,7 +61,7 @@
 | [Metarush](games/c/c9bc37f95dbc4104bdfa7f8e1da7a149.md) | 2024-09-30 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-09 | - |  | - | - |
-| [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2024-07-31 | - |  | - | - |
+| [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2024-07-31 | - |  | - | 0 |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-07-30 | - |  | - | 0 |
 | [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-07-30 | - |  | - | 0 |
