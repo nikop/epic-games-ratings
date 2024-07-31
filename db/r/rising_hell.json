@@ -4,7 +4,7 @@
   "ProductSlug": "rising-hell-253707",
   "Ranking_Rating": 858,
   "Ranking_Popularity": 485,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -417,10 +417,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 686,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-07-31T14:00:20.3785853+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 688,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 686,
+  "NumberOfAwards": 688,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -482,7 +488,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Unique Visuals",
@@ -515,8 +521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2024-07-30T21:59:34.8885049+00:00",
+  "LastChanged": "2024-07-31T14:00:20.3785851+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:11.0215239+00:00",
-  "LastUpdate_Ratings": "2024-07-31T13:08:33.2838094+00:00",
+  "LastUpdate_Ratings": "2024-07-31T14:00:20.3785857+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:45.625772+00:00"
 }
