@@ -3,8 +3,8 @@
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
   "Ranking_Rating": 800,
-  "Ranking_Popularity": 661,
-  "Ranking_PopularitySum": 664,
+  "Ranking_Popularity": 655,
+  "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -417,18 +417,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-07-31T18:57:37.7897858+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 3417,
@@ -9960,9 +9966,9 @@
   "FirstSeen": "2023-04-27T21:57:06.0397133+00:00",
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
-  "LastChanged": "2024-07-29T03:58:18.9797301+00:00",
+  "LastChanged": "2024-07-31T18:57:37.7897856+00:00",
   "LastChanged_Achievements": "2024-07-24T02:05:18.1140325+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:21.3052427+00:00",
-  "LastUpdate_Ratings": "2024-07-31T16:59:04.2211817+00:00",
+  "LastUpdate_Ratings": "2024-07-31T18:57:37.7897862+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:05:18.114123+00:00"
 }
