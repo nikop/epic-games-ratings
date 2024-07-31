@@ -3,8 +3,8 @@
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 43,
-  "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 192,
+  "Ranking_Popularity": 262,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -7130,18 +7130,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 3669,
       "NumberOfAwardsMax": 462
+    },
+    {
+      "Time": "2024-07-31T20:59:00.6301468+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3678,
+      "NumberOfAwardsMax": 465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3669,
-  "NumberOfAwardsMax": 462,
+  "NumberOfAwards": 3678,
+  "NumberOfAwardsMax": 465,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 401
+      "Count": 406
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7177,7 +7183,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 334
+      "Count": 335
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7201,7 +7207,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 462
+      "Count": 465
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7221,8 +7227,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-07-31T15:59:46.0599201+00:00",
+  "LastChanged": "2024-07-31T20:59:00.6301466+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:29.5654509+00:00",
-  "LastUpdate_Ratings": "2024-07-31T19:01:08.826484+00:00",
+  "LastUpdate_Ratings": "2024-07-31T20:59:00.6301473+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:34.8701393+00:00"
 }

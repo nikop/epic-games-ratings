@@ -2,9 +2,9 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
-  "Ranking_Rating": 503,
-  "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 313,
+  "Ranking_Rating": 482,
+  "Ranking_Popularity": 377,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 1912,
   "RatingHistory": [
     {
@@ -4477,10 +4477,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 995,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-07-31T20:57:04.779658+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 996,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 995,
+  "NumberOfAwards": 996,
   "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4518,7 +4524,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 158
+      "Count": 159
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -4574,8 +4580,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2024-07-30T05:57:50.5641507+00:00",
+  "LastChanged": "2024-07-31T20:57:04.7796578+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:42.9763261+00:00",
-  "LastUpdate_Ratings": "2024-07-31T18:58:31.7468462+00:00",
+  "LastUpdate_Ratings": "2024-07-31T20:57:04.7796585+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:02:59.5207538+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 642,
   "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 415,
@@ -22,7 +22,7 @@
       "isPromotionalContentUsed": "false"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2022-10-03T03:02:52.8117429+00:00",
@@ -329,6 +329,12 @@
     {
       "Time": "2024-07-31T17:59:14.6337345+00:00",
       "Rating": 4.36,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-07-31T20:59:31.2019316+00:00",
+      "Rating": 4.35,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 24
     }
@@ -1751,9 +1757,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-07-31T17:59:14.6337344+00:00",
+  "LastChanged": "2024-07-31T20:59:31.2019314+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:05.1254949+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:10.0370821+00:00",
-  "LastUpdate_Ratings": "2024-07-31T19:57:35.5992374+00:00",
+  "LastUpdate_Ratings": "2024-07-31T20:59:31.2019321+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:05.1255325+00:00"
 }
