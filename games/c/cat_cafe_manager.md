@@ -1,7 +1,7 @@
 # Cat Cafe Manager
 [Store](https://store.epicgames.com/en-US/p/cat-cafe-manager-68bd0d)  
 [View Rawdata](../../db/c/cat_cafe_manager.json)  
-Rating: 4.67 (Ranked 300)  
+Rating: 4.68 (Ranked 283)  
 Number of Ratings: 34  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -24,3 +24,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2024-01-30 | 4.64 | - | 0 | 0 |
 | 2024-02-25 | 4.65 | - | 0 | 0 |
 | 2024-03-02 | 4.67 | - | 0 | 0 |
+| 2024-07-31 | 4.68 | - | 0 | 0 |
