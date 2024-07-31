@@ -1,7 +1,7 @@
 # Torchlight II
 [Store](https://store.epicgames.com/en-US/p/torchlight-2)  
 [View Rawdata](../../db/t/torchlight_ii.json)  
-Rating: 4.60 (Ranked 460)  
+Rating: 4.59 (Ranked 482)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,167  (Ranked 175)  
@@ -403,3 +403,4 @@ Diff (max vs sum): -58
 | 2024-07-26 | 4.60 | - | 1,163 | 2,377 |
 | 2024-07-28 | 4.59 | - | 1,165 | 2,380 |
 | 2024-07-30 | 4.60 | - | 1,167 | 2,384 |
+| 2024-07-31 | 4.59 | - | 1,167 | 2,384 |

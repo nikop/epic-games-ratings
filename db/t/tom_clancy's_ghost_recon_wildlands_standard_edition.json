@@ -2,7 +2,7 @@
   "ID": "hyacinth",
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 1141,
@@ -8493,10 +8493,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3254,
       "NumberOfAwardsMax": 461
+    },
+    {
+      "Time": "2024-07-31T09:59:56.156538+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3256,
+      "NumberOfAwardsMax": 461
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3254,
+  "NumberOfAwards": 3256,
   "NumberOfAwardsMax": 461,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8522,7 +8528,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 411
+      "Count": 413
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8572,8 +8578,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2024-07-29T12:01:15.4331683+00:00",
+  "LastChanged": "2024-07-31T09:59:56.1565378+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:29.0214313+00:00",
-  "LastUpdate_Ratings": "2024-07-31T08:58:13.0579243+00:00",
+  "LastUpdate_Ratings": "2024-07-31T09:59:56.1565384+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:05:00.7342233+00:00"
 }
