@@ -2,7 +2,7 @@
   "ID": "06a97980aac14fdfb914ef603a113792",
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 775,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 565,
   "RatingHistory": [
     {
@@ -5005,10 +5005,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 3069,
       "NumberOfAwardsMax": 748
+    },
+    {
+      "Time": "2024-07-31T17:00:43.0174261+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 3071,
+      "NumberOfAwardsMax": 748
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3069,
+  "NumberOfAwards": 3071,
   "NumberOfAwardsMax": 748,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5076,7 +5082,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 350
+      "Count": 352
     }
   ],
   "EOS_Progressed": 0,
@@ -5090,8 +5096,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-07-31T01:36:24.3547789+00:00",
+  "LastChanged": "2024-07-31T17:00:43.0174259+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:22.9292622+00:00",
-  "LastUpdate_Ratings": "2024-07-31T15:57:52.4058801+00:00",
+  "LastUpdate_Ratings": "2024-07-31T17:00:43.0174267+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:29.1356108+00:00"
 }

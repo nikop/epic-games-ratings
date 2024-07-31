@@ -4,7 +4,7 @@
   "ProductSlug": "tribes-of-midgard",
   "Ranking_Rating": 433,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 559,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -568,18 +568,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 94,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2024-07-31T16:59:57.8649669+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 95,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 94,
-  "NumberOfAwardsMax": 94,
+  "NumberOfAwards": 95,
+  "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 94
+      "Count": 95
     }
   ],
   "EOS_Progressed": 0,
@@ -593,8 +599,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
-  "LastChanged": "2024-04-30T14:58:21.5262308+00:00",
+  "LastChanged": "2024-07-31T16:59:57.8649667+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:06.8328944+00:00",
-  "LastUpdate_Ratings": "2024-07-31T15:00:03.0338859+00:00",
+  "LastUpdate_Ratings": "2024-07-31T16:59:57.8649678+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:11.8744368+00:00"
 }
