@@ -44,8 +44,8 @@ Completed: 12 (0.12%) (Ranked 400)
 | 2024-04-10 | 753 | 3 |
 | 2024-06-17 | 10,164 | 12 |
 ## Awards
-Max (Great for Quick Sessions): 29  (Ranked 614)  
-Sum: 29 (Ranked 638)  
+Max (Great for Quick Sessions): 29  (Ranked 613)  
+Sum: 29 (Ranked 637)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
