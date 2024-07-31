@@ -375,7 +375,7 @@ Completed: 8 (0.00%) (Ranked 528)
 | 2024-06-17 | 379,067 | 8 |
 ## Awards
 Max (Diverse Characters): 54  (Ranked 530)  
-Sum: 333 (Ranked 437)  
+Sum: 334 (Ranked 437)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
@@ -388,7 +388,7 @@ Diff (max vs sum): 93
 | This game has Unique Visuals | 36 |
 | This game has Amazing Storytelling | 35 |
 | This game has Easy Combat | 25 |
-| This game has a Creative Community | 21 |
+| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -605,3 +605,4 @@ Diff (max vs sum): 93
 | 2024-07-27 | 4.30 | 53 | 328 |
 | 2024-07-29 | 4.30 | 54 | 332 |
 | 2024-07-30 | 4.30 | 54 | 333 |
+| 2024-07-31 | 4.30 | 54 | 334 |
