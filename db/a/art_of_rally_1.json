@@ -2,8 +2,8 @@
   "ID": "4751c4f6a96547209a33831d847d2810",
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
-  "Ranking_Rating": 460,
-  "Ranking_Popularity": 425,
+  "Ranking_Rating": 433,
+  "Ranking_Popularity": 421,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 503,
@@ -21,7 +21,7 @@
       "isManuallySetViewableDate": "true"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 56,
   "RatingHistory": [
     {
@@ -2576,11 +2576,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 765,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-07-31T14:57:48.7362194+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 768,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 765,
-  "NumberOfAwardsMax": 114,
+  "NumberOfAwards": 768,
+  "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -2605,7 +2611,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 94
+      "Count": 95
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2617,7 +2623,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 114
+      "Count": 116
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9230,9 +9236,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-07-30T09:58:58.5729128+00:00",
+  "LastChanged": "2024-07-31T14:57:48.7362192+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:03.8590846+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:12.9144857+00:00",
-  "LastUpdate_Ratings": "2024-07-31T13:09:41.5065261+00:00",
+  "LastUpdate_Ratings": "2024-07-31T14:57:48.7362197+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:03.859128+00:00"
 }

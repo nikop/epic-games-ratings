@@ -4,7 +4,7 @@
   "ProductSlug": "faeria",
   "Ranking_Rating": 776,
   "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1149,10 +1149,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 435,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2024-07-31T14:58:45.1674869+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 436,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 435,
+  "NumberOfAwards": 436,
   "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1178,7 +1184,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game is Relaxing",
@@ -1228,8 +1234,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-07-29T05:01:12.8003202+00:00",
+  "LastChanged": "2024-07-31T14:58:45.1674867+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:50.8254801+00:00",
-  "LastUpdate_Ratings": "2024-07-31T13:10:47.3287156+00:00",
+  "LastUpdate_Ratings": "2024-07-31T14:58:45.1674871+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:04:48.8718642+00:00"
 }
