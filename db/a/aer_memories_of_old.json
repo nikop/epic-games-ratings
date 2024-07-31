@@ -2,7 +2,7 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 801,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 171,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 170,
   "RatingHistory": [
     {
@@ -477,6 +477,12 @@
     {
       "Time": "2024-07-28T08:59:44.7477445+00:00",
       "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-07-31T10:58:32.5618933+00:00",
+      "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -31081,9 +31087,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
-  "LastChanged": "2024-07-28T08:59:44.7477443+00:00",
+  "LastChanged": "2024-07-31T10:58:32.5618931+00:00",
   "LastChanged_Achievements": "2024-07-25T19:02:54.0995672+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:04.9310776+00:00",
-  "LastUpdate_Ratings": "2024-07-31T08:59:43.3683683+00:00",
+  "LastUpdate_Ratings": "2024-07-31T10:58:32.5618937+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:02:54.0997157+00:00"
 }
