@@ -3,7 +3,7 @@
   "Name": "Ghostbusters: The Video Game Remastered",
   "ProductSlug": "ghostbusters-the-video-game-remastered",
   "Ranking_Rating": 778,
-  "Ranking_Popularity": 416,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -558,18 +558,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 122,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2024-08-01T09:00:04.1946775+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 123,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 122,
-  "NumberOfAwardsMax": 122,
+  "NumberOfAwards": 123,
+  "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 122
+      "Count": 123
     }
   ],
   "EOS_Progressed": 0,
@@ -583,8 +589,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:54.5305968+00:00",
-  "LastChanged": "2024-07-02T14:57:56.407097+00:00",
+  "LastChanged": "2024-08-01T09:00:04.1946773+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:04.8219573+00:00",
-  "LastUpdate_Ratings": "2024-08-01T07:57:39.3135766+00:00",
+  "LastUpdate_Ratings": "2024-08-01T09:00:04.194678+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:00.7759131+00:00"
 }
