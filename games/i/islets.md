@@ -3,9 +3,9 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.72 (Ranked 212)  
 ## Awards
-Max (Great for Beginners): 42  (Ranked 555)  
-Sum: 298 (Ranked 453)  
-Diff (max vs sum): 102  
+Max (Great for Beginners): 42  (Ranked 554)  
+Sum: 299 (Ranked 453)  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 42 |
@@ -15,7 +15,7 @@ Diff (max vs sum): 102
 | This game is Relaxing | 36 |
 | This game is Great for Quick Sessions | 34 |
 | This game has Amazing Storytelling | 33 |
-| This game has Amazing Characters | 28 |
+| This game has Amazing Characters | 29 |
 | This game has Playful Visuals | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -111,3 +111,4 @@ Diff (max vs sum): 102
 | 2024-07-29 | 4.72 | 42 | 294 |
 | 2024-07-30 | 4.72 | 42 | 296 |
 | 2024-07-31 | 4.72 | 42 | 298 |
+| 2024-08-01 | 4.72 | 42 | 299 |
