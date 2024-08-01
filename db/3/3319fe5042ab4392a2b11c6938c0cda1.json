@@ -2,7 +2,7 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_Rating": 1031,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 56,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2024-04-06T03:58:46.1197859+00:00",
@@ -981,6 +981,12 @@
     {
       "Time": "2024-07-31T21:59:30.1182205+00:00",
       "Rating": 4.25,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-07-31T23:58:37.1862714+00:00",
+      "Rating": 4.26,
       "NumberOfAwards": 318,
       "NumberOfAwardsMax": 70
     }
@@ -2237,9 +2243,9 @@
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenRating": "2024-04-06T03:58:46.1197856+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged": "2024-07-31T21:59:30.1182204+00:00",
+  "LastChanged": "2024-07-31T23:58:37.1862713+00:00",
   "LastChanged_Achievements": "2024-06-17T16:12:35.2800907+00:00",
   "LastUpdate_AppInfo": "2024-07-25T09:57:00.0638825+00:00",
-  "LastUpdate_Ratings": "2024-07-31T21:59:30.1182211+00:00",
+  "LastUpdate_Ratings": "2024-07-31T23:58:37.186272+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:35.2801176+00:00"
 }
