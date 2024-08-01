@@ -1,7 +1,7 @@
 # Iron Harvest
 [Store](https://store.epicgames.com/en-US/p/iron-harvest)  
 [View Rawdata](../../db/i/iron_harvest.json)  
-Rating: 4.41 (Ranked 842)  
+Rating: 4.40 (Ranked 856)  
 Number of Ratings: 165  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -89,3 +89,4 @@ Number of Ratings: 165  (23.09.2022)
 | 2024-06-04 | 4.41 | - | 0 | 0 |
 | 2024-07-26 | 4.42 | - | 0 | 0 |
 | 2024-07-31 | 4.41 | - | 0 | 0 |
+| 2024-08-01 | 4.40 | - | 0 | 0 |
