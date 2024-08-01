@@ -4,7 +4,7 @@
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 926,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1590,10 +1590,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 446,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-08-01T03:57:25.6607576+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 448,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 446,
+  "NumberOfAwards": 448,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1637,7 +1643,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6631,9 +6637,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-08-01T02:04:27.9126613+00:00",
+  "LastChanged": "2024-08-01T03:57:25.6607573+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:51.3212724+00:00",
   "LastUpdate_AppInfo": "2024-07-31T08:57:13.9154938+00:00",
-  "LastUpdate_Ratings": "2024-08-01T02:04:27.9126618+00:00",
+  "LastUpdate_Ratings": "2024-08-01T03:57:25.6607577+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:51.3213274+00:00"
 }

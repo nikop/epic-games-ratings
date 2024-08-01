@@ -1,7 +1,7 @@
 # Fell Seal: Arbiter's Mark
 [Store](https://store.epicgames.com/en-US/p/fell-seal-arbiters-mark)  
 [View Rawdata](../../db/f/fell_seal__arbiter's_mark.json)  
-Rating: 4.55 (Ranked 568)  
+Rating: 4.54 (Ranked 591)  
 Number of Ratings: 39  (23.09.2022)  
 ## Awards
 Max (Character Customization): 28  (Ranked 619)  
@@ -48,3 +48,4 @@ Diff (max vs sum): -22
 | 2024-03-22 | 4.57 | - | 28 | 28 |
 | 2024-05-08 | 4.54 | - | 28 | 28 |
 | 2024-05-10 | 4.55 | - | 28 | 28 |
+| 2024-08-01 | 4.54 | - | 28 | 28 |
