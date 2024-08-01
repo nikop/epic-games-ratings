@@ -1,7 +1,7 @@
 # Art of Rally
 [Store](https://store.epicgames.com/en-US/p/art-of-rally)  
 [View Rawdata](../../db/a/art_of_rally_1.json)  
-Rating: 4.60 (Ranked 460)  
+Rating: 4.61 (Ranked 434)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -269,14 +269,14 @@ Completed: 61 (0.01%) (Ranked 503)
 | 2024-06-17 | 518,123 | 61 |
 ## Awards
 Max (Great for Quick Sessions): 116  (Ranked 421)  
-Sum: 768 (Ranked 349)  
+Sum: 770 (Ranked 349)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 116 |
 | This game is Highly Recommended | 95 |
+| This game has Quickly Understood Controls | 84 |
 | This game is Extremely Fun | 83 |
-| This game has Quickly Understood Controls | 82 |
 | This game is Relaxing | 76 |
 | This game has Amazing Storytelling | 76 |
 | This game has Challenging Combat | 66 |
@@ -506,3 +506,4 @@ Diff (max vs sum): 72
 | 2024-07-29 | 4.61 | - | 113 | 764 |
 | 2024-07-30 | 4.60 | - | 114 | 765 |
 | 2024-07-31 | 4.61 | - | 116 | 768 |
+| 2024-08-01 | 4.61 | - | 116 | 770 |
