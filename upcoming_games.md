@@ -10,6 +10,7 @@
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | - |  | - | - |
 | [Hero of the Kingdom II](games/e/ed5411fb63534b74952a4dba16d5a38f.md) | 2024-08-05 | 48 (1,000 XP) | 1 | - | - |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | 34 (1,000 XP) | 1 | - | - |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 6 | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | - |  | - | - |
 | [Morels The Hunt 2](games/7/76bfcee1bbb9456ba20226bc0194659f.md) | 2024-08-07 | - |  | - | - |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-08-08 | 35 (1,000 XP) | 0 | - | - |
@@ -270,7 +271,6 @@
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
 | [Annulus](games/3/349361a5a00a462783a6110e576dc911.md) | 2099-01-01 | - |  | - | - |
 | [Another World](games/4/4c209f89f2b64535aa82d5828426353d.md) | 2099-01-01 | - |  | - | - |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2099-01-01 | 12 (1,000 XP) | 6 | - | - |
 | [Archery RED](games/e/e17cbf6cf17b4e8dbe4119c99f668cb0.md) | 2099-01-01 | - |  | - | - |
 | [Architect of the Union](games/b/b3b5006256614445a18a91bcaf6b3fd9.md) | 2099-01-01 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2099-01-01 | - |  | - | - |
