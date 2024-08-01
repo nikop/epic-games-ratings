@@ -2,7 +2,7 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 914,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 1141,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -3275,10 +3275,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1047,
       "NumberOfAwardsMax": 326
+    },
+    {
+      "Time": "2024-08-01T05:58:43.8786954+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1048,
+      "NumberOfAwardsMax": 326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1047,
+  "NumberOfAwards": 1048,
   "NumberOfAwardsMax": 326,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3298,7 +3304,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3361,8 +3367,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-07-31T13:08:09.2898458+00:00",
+  "LastChanged": "2024-08-01T05:58:43.8786952+00:00",
   "LastUpdate_AppInfo": "2024-07-26T22:57:10.5961367+00:00",
-  "LastUpdate_Ratings": "2024-08-01T04:00:02.8587881+00:00",
+  "LastUpdate_Ratings": "2024-08-01T05:58:43.8786958+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:52.7705494+00:00"
 }
