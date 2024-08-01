@@ -4,7 +4,7 @@
   "ProductSlug": "arcade-paradise",
   "Ranking_Rating": 927,
   "Ranking_Popularity": 613,
-  "Ranking_PopularitySum": 566,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -355,10 +355,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-08-01T19:00:22.0906419+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 101,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
+  "NumberOfAwards": 101,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -379,6 +385,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 26
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 789,
@@ -1775,9 +1787,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-08-01T17:58:23.1402861+00:00",
+  "LastChanged": "2024-08-01T19:00:22.0906417+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:05.1254949+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:10.0370821+00:00",
-  "LastUpdate_Ratings": "2024-08-01T17:58:23.1402866+00:00",
+  "LastUpdate_Ratings": "2024-08-01T19:00:22.0906421+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:05.1255325+00:00"
 }
