@@ -1,7 +1,7 @@
 # Dying Light: Standard Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light)  
 [View Rawdata](../../db/d/dying_light_enhanced_edition.json)  
-Rating: 4.62 (Ranked 405)  
+Rating: 4.62 (Ranked 406)  
 Number of Ratings: 3,181  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -373,12 +373,12 @@ Completed: 66 (0.00%) (Ranked 528)
 | 2024-04-10 | 4,280,519 | 59 |
 | 2024-06-17 | 4,369,614 | 66 |
 ## Awards
-Max (Character Customization): 65,091  (Ranked 13)  
-Sum: 130,777 (Ranked 17)  
+Max (Character Customization): 65,154  (Ranked 13)  
+Sum: 130,840 (Ranked 17)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 65,091 |
+| This game has Inclusive Character Customization | 65,154 |
 | This game has Great Boss Battles | 31,037 |
 | This game is Great for Beginners | 6,533 |
 | This game has Diverse Characters | 5,481 |
@@ -968,4 +968,4 @@ Diff (max vs sum): -4
 | 2024-07-29 | 4.62 | - | 64,961 | 130,459 |
 | 2024-07-30 | 4.62 | - | 65,012 | 130,588 |
 | 2024-07-31 | 4.62 | - | 65,091 | 130,742 |
-| 2024-08-01 | 4.62 | - | 65,091 | 130,777 |
+| 2024-08-01 | 4.62 | - | 65,154 | 130,840 |
