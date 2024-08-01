@@ -1,7 +1,7 @@
 # Darkwood
 [Store](https://store.epicgames.com/en-US/p/darkwood-fa73bd)  
 [View Rawdata](../../db/d/darkwood.json)  
-Rating: 4.62 (Ranked 406)  
+Rating: 4.62 (Ranked 407)  
 ## Awards
 Max (Extremely Fun): 341  (Ranked 289)  
 Sum: 2,537 (Ranked 228)  

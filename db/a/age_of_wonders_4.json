@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 320,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 467,
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 241,
@@ -1849,10 +1849,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 498,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-08-01T21:59:39.4037589+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 502,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 498,
+  "NumberOfAwards": 502,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1872,7 +1878,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1902,7 +1908,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
@@ -1914,7 +1920,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has a Creative Community",
@@ -13198,9 +13204,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-07-31T08:59:42.0194059+00:00",
+  "LastChanged": "2024-08-01T21:59:39.4037587+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:07.2011229+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:03.8739834+00:00",
-  "LastUpdate_Ratings": "2024-08-01T20:57:46.0071418+00:00",
+  "LastUpdate_Ratings": "2024-08-01T21:59:39.4037593+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:07.2012147+00:00"
 }

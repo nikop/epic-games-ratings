@@ -2,7 +2,7 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 800,
   "Ranking_Popularity": 201,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 1141,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -6107,6 +6107,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 2846,
       "NumberOfAwardsMax": 917
+    },
+    {
+      "Time": "2024-08-01T21:58:16.3835186+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2846,
+      "NumberOfAwardsMax": 917
     }
   ],
   "ReviewsDisabled": false,
@@ -6187,8 +6193,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-08-01T08:58:08.9104164+00:00",
+  "LastChanged": "2024-08-01T21:58:16.3835184+00:00",
   "LastUpdate_AppInfo": "2024-07-26T17:57:14.8768233+00:00",
-  "LastUpdate_Ratings": "2024-08-01T19:59:23.83931+00:00",
+  "LastUpdate_Ratings": "2024-08-01T21:58:16.3835192+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:14.4516326+00:00"
 }

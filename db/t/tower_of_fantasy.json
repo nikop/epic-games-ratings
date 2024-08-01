@@ -2,7 +2,7 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 1141,
@@ -6173,10 +6173,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2023,
       "NumberOfAwardsMax": 751
+    },
+    {
+      "Time": "2024-08-01T21:57:04.3530356+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2024,
+      "NumberOfAwardsMax": 751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2023,
+  "NumberOfAwards": 2024,
   "NumberOfAwardsMax": 751,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6238,7 +6244,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 113
+      "Count": 114
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6259,8 +6265,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2024-08-01T19:58:12.190354+00:00",
+  "LastChanged": "2024-08-01T21:57:04.3530354+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:46.9277224+00:00",
-  "LastUpdate_Ratings": "2024-08-01T19:58:12.1903573+00:00",
+  "LastUpdate_Ratings": "2024-08-01T21:57:04.353036+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:35.7886784+00:00"
 }

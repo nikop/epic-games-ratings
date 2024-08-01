@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.72 (Ranked 212)  
+Rating: 4.72 (Ranked 213)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -194,7 +194,7 @@ Completed: 126 (0.49%) (Ranked 305)
 | 2024-06-17 | 25,807 | 126 |
 ## Awards
 Max (Great Boss Battles): 503  (Ranked 256)  
-Sum: 676 (Ranked 370)  
+Sum: 677 (Ranked 370)  
 Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
@@ -202,7 +202,7 @@ Diff (max vs sum): -114
 | This game is Extremely Fun | 32 |
 | This game has Diverse Characters | 31 |
 | This game has Quickly Understood Controls | 31 |
-| This game is Highly Recommended | 28 |
+| This game is Highly Recommended | 29 |
 | This game has Amazing Storytelling | 27 |
 | This game has Amazing Characters | 24 |
 | This game is Relaxing | 20 |
@@ -476,4 +476,4 @@ Diff (max vs sum): -114
 | 2024-07-29 | 4.71 | 497 | 669 |
 | 2024-07-30 | 4.72 | 500 | 672 |
 | 2024-07-31 | 4.72 | 502 | 675 |
-| 2024-08-01 | 4.72 | 503 | 676 |
+| 2024-08-01 | 4.72 | 503 | 677 |
