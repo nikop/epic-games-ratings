@@ -1,7 +1,7 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.32 (Ranked 960)  
+Rating: 4.30 (Ranked 977)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -270,3 +270,4 @@ Completed: 4 (0.48%) (Ranked 306)
 | 2024-01-28 | 4.30 | - | 0 | 0 |
 | 2024-02-24 | 4.31 | - | 0 | 0 |
 | 2024-04-03 | 4.32 | - | 0 | 0 |
+| 2024-08-01 | 4.30 | - | 0 | 0 |
