@@ -1,7 +1,7 @@
 # KID A MNESIA EXHIBITION
 [Store](https://store.epicgames.com/en-US/p/kid-a-mnesia-exhibition)  
 [View Rawdata](../../db/k/kid_a_mnesia_exhibition.json)  
-Rating: 4.82 (Ranked 71)  
+Rating: 4.81 (Ranked 85)  
 Number of Ratings: 41  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -46,3 +46,4 @@ Number of Ratings: 41  (23.09.2022)
 | 2023-11-25 | 4.80 | - | 0 | 0 |
 | 2024-02-03 | 4.81 | - | 0 | 0 |
 | 2024-06-15 | 4.82 | - | 0 | 0 |
+| 2024-08-01 | 4.81 | - | 0 | 0 |
