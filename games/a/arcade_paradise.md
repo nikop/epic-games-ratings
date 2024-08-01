@@ -175,13 +175,13 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 781 | 0 |
 | 2024-06-17 | 789 | 0 |
 ## Awards
-Max (Relaxing): 24  (Ranked 643)  
-Sum: 69 (Ranked 578)  
-Diff (max vs sum): 65  
+Max (Highly Recommended): 29  (Ranked 614)  
+Sum: 75 (Ranked 573)  
+Diff (max vs sum): 41  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 29 |
 | This game is Relaxing | 24 |
-| This game is Highly Recommended | 23 |
 | This game is Great for Beginners | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -215,3 +215,4 @@ Diff (max vs sum): 65
 | 2024-07-29 | 4.35 | 0 | 0 |
 | 2024-07-30 | 4.35 | 22 | 64 |
 | 2024-07-31 | 4.36 | 24 | 69 |
+| 2024-08-01 | 4.35 | 29 | 75 |

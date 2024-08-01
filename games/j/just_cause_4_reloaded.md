@@ -1,7 +1,7 @@
 # Just Cause 4 Reloaded
 [Store](https://store.epicgames.com/en-US/p/just-cause-4)  
 [View Rawdata](../../db/j/just_cause_4_reloaded.json)  
-Rating: 4.25 (Ranked 1,032)  
+Rating: 4.24 (Ranked 1,042)  
 Number of Ratings: 5,442  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 689  (Ranked 228)  
@@ -490,3 +490,4 @@ Diff (max vs sum): 38
 | 2024-07-28 | 4.25 | - | 687 | 3,800 |
 | 2024-07-29 | 4.25 | - | 687 | 3,801 |
 | 2024-07-30 | 4.25 | - | 689 | 3,805 |
+| 2024-08-01 | 4.24 | - | 689 | 3,805 |
