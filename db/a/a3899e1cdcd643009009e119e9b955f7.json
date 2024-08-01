@@ -2,9 +2,9 @@
   "ID": "a3899e1cdcd643009009e119e9b955f7",
   "Name": null,
   "ProductSlug": "3dmark",
-  "Ranking_Rating": 85,
-  "Ranking_Popularity": 647,
-  "Ranking_PopularitySum": 651,
+  "Ranking_Rating": 86,
+  "Ranking_Popularity": 648,
+  "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -298,7 +298,7 @@
   "FirstSeen": "2023-06-20T19:00:08.0227684+00:00",
   "FirstSeenRating": "2023-10-31T00:01:13.5106703+00:00",
   "LastChanged": "2024-07-21T14:58:13.9749532+00:00",
-  "LastUpdate_AppInfo": "2024-07-25T01:56:04.283493+00:00",
-  "LastUpdate_Ratings": "2024-07-31T23:57:20.1408568+00:00",
+  "LastUpdate_AppInfo": "2024-08-01T02:03:05.1331552+00:00",
+  "LastUpdate_Ratings": "2024-08-01T02:05:08.1561003+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:50.5674195+00:00"
 }

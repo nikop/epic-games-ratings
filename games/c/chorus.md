@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 756)  
+Rating: 4.45 (Ranked 757)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -289,8 +289,8 @@ Completed: 24 (1.46%) (Ranked 205)
 | 2024-06-17 | 1,648 | 24 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 574)  
-Sum: 37 (Ranked 622)  
-Diff (max vs sum): -48  
+Sum: 37 (Ranked 623)  
+Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 37 |

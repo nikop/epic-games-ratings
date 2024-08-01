@@ -2,9 +2,9 @@
   "ID": "53ea1f0a585f4fbc9c8adc6b76af1165",
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
-  "Ranking_Rating": 368,
-  "Ranking_Popularity": 678,
-  "Ranking_PopularitySum": 678,
+  "Ranking_Rating": 320,
+  "Ranking_Popularity": 679,
+  "Ranking_PopularitySum": 679,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2024-07-29T08:58:31.2395445+00:00",
@@ -52,6 +52,12 @@
     {
       "Time": "2024-07-31T18:01:49.3237259+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-01T02:04:37.4219576+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -336,9 +342,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-07-31T18:01:49.3237257+00:00",
+  "LastChanged": "2024-08-01T02:04:37.4219574+00:00",
   "LastChanged_Achievements": "2024-07-30T16:02:45.3315722+00:00",
   "LastUpdate_AppInfo": "2024-07-31T04:57:10.6447259+00:00",
-  "LastUpdate_Ratings": "2024-07-31T22:59:48.7134221+00:00",
+  "LastUpdate_Ratings": "2024-08-01T02:04:37.4219579+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:45.332204+00:00"
 }

@@ -1,7 +1,7 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 896)  
+Rating: 4.37 (Ranked 897)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -369,9 +369,9 @@ Completed: 29 (0.05%) (Ranked 446)
 | 2024-04-10 | 54,621 | 28 |
 | 2024-06-17 | 58,358 | 29 |
 ## Awards
-Max (Character Customization): 2,192  (Ranked 129)  
+Max (Character Customization): 2,192  (Ranked 130)  
 Sum: 4,279 (Ranked 181)  
-Diff (max vs sum): -52  
+Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 2,192 |
