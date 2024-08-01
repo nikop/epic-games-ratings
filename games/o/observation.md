@@ -1,7 +1,7 @@
 # Observation
 [Store](https://store.epicgames.com/en-US/p/observation)  
 [View Rawdata](../../db/o/observation.json)  
-Rating: 4.48 (Ranked 704)  
+Rating: 4.49 (Ranked 686)  
 Number of Ratings: 23  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -29,3 +29,4 @@ Number of Ratings: 23  (23.09.2022)
 | 2024-05-18 | 4.55 | - | 0 | 0 |
 | 2024-06-13 | 4.49 | - | 0 | 0 |
 | 2024-07-05 | 4.48 | - | 0 | 0 |
+| 2024-08-01 | 4.49 | - | 0 | 0 |

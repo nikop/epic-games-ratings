@@ -4,7 +4,7 @@
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 978,
   "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 476,
+  "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -493,10 +493,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 241,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-08-01T11:58:32.0994908+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241,
+  "NumberOfAwards": 270,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -510,7 +516,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -573,8 +579,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-08-01T03:58:14.8105429+00:00",
+  "LastChanged": "2024-08-01T11:58:32.0994903+00:00",
   "LastUpdate_AppInfo": "2024-07-30T15:57:02.8808859+00:00",
-  "LastUpdate_Ratings": "2024-08-01T10:00:06.965429+00:00",
+  "LastUpdate_Ratings": "2024-08-01T11:58:32.0994922+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:17.8840829+00:00"
 }
