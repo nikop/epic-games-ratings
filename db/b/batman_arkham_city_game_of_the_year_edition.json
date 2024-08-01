@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 96,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 227,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -3622,18 +3622,24 @@
       "Rating": 4.8,
       "NumberOfAwards": 2605,
       "NumberOfAwardsMax": 1903
+    },
+    {
+      "Time": "2024-08-01T09:58:51.3993696+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 2609,
+      "NumberOfAwardsMax": 1907
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2605,
-  "NumberOfAwardsMax": 1903,
+  "NumberOfAwards": 2609,
+  "NumberOfAwardsMax": 1907,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1903
+      "Count": 1907
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3695,8 +3701,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2024-07-30T22:57:33.8541248+00:00",
+  "LastChanged": "2024-08-01T09:58:51.3993694+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:04.6090835+00:00",
-  "LastUpdate_Ratings": "2024-08-01T08:00:42.8667558+00:00",
+  "LastUpdate_Ratings": "2024-08-01T09:58:51.3993699+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:50.7753322+00:00"
 }

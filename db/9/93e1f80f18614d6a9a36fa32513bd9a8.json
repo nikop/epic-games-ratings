@@ -2,7 +2,7 @@
   "ID": "93e1f80f18614d6a9a36fa32513bd9a8",
   "Name": "Prince of Persia: The Two Thrones Standard Edition",
   "ProductSlug": "prince-of-persia-the-two-thrones",
-  "Ranking_Rating": 668,
+  "Ranking_Rating": 704,
   "Ranking_Popularity": 679,
   "Ranking_PopularitySum": 679,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2024-05-24T23:58:59.7477302+00:00",
@@ -35,6 +35,12 @@
     {
       "Time": "2024-06-19T02:58:56.1359101+00:00",
       "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-01T09:59:00.6571628+00:00",
+      "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -55,8 +61,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-18T22:09:38.1977736+00:00",
   "FirstSeenRating": "2024-05-24T23:58:59.74773+00:00",
-  "LastChanged": "2024-06-19T02:58:56.13591+00:00",
+  "LastChanged": "2024-08-01T09:59:00.6571625+00:00",
   "LastUpdate_AppInfo": "2024-07-25T23:57:05.9920532+00:00",
-  "LastUpdate_Ratings": "2024-08-01T08:00:56.5581656+00:00",
+  "LastUpdate_Ratings": "2024-08-01T09:59:00.6571631+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:57.8495934+00:00"
 }
