@@ -2,9 +2,9 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 649,
+  "Ranking_Rating": 650,
   "Ranking_Popularity": 61,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 75,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1085,10 +1085,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 18500,
       "NumberOfAwardsMax": 9088
+    },
+    {
+      "Time": "2024-08-02T17:58:35.0814153+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 18659,
+      "NumberOfAwardsMax": 9088
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18500,
+  "NumberOfAwards": 18659,
   "NumberOfAwardsMax": 9088,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1108,13 +1114,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 473
+      "Count": 518
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 518
+      "Count": 555
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1126,13 +1132,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 484
+      "Count": 527
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 442
+      "Count": 476
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1177,8 +1183,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-08-02T13:09:12.7939683+00:00",
+  "LastChanged": "2024-08-02T17:58:35.0814151+00:00",
   "LastUpdate_AppInfo": "2024-07-30T01:56:22.4271723+00:00",
-  "LastUpdate_Ratings": "2024-08-02T15:59:53.736764+00:00",
+  "LastUpdate_Ratings": "2024-08-02T17:58:35.0814155+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.2551306+00:00"
 }

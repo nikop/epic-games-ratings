@@ -1,12 +1,12 @@
 # RollerCoaster Tycoon 3 Complete Edition
 [Store](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition)  
 [View Rawdata](../../db/r/rollercoaster_tycoon_3_complete_edition.json)  
-Rating: 4.65 (Ranked 341)  
+Rating: 4.65 (Ranked 342)  
 Number of Ratings: 687  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 68  (Ranked 498)  
-Sum: 510 (Ranked 394)  
-Diff (max vs sum): 104  
+Sum: 511 (Ranked 393)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 68 |
@@ -18,7 +18,7 @@ Diff (max vs sum): 104
 | This game has Amazing Characters | 46 |
 | This game has Quickly Understood Controls | 46 |
 | This game has Obsessive Gameplay | 42 |
-| This game has a Creative Community | 39 |
+| This game has a Creative Community | 40 |
 | This game has Easy Combat | 38 |
 | This game has Diverse Characters | 28 |
 ## Ratings History
@@ -207,4 +207,4 @@ Diff (max vs sum): 104
 | 2024-07-19 | 4.65 | - | 68 | 507 |
 | 2024-07-25 | 4.65 | - | 68 | 508 |
 | 2024-07-26 | 4.65 | - | 68 | 509 |
-| 2024-08-02 | 4.65 | - | 68 | 510 |
+| 2024-08-02 | 4.65 | - | 68 | 511 |

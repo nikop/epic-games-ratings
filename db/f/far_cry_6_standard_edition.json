@@ -2,7 +2,7 @@
   "ID": "b4565296c22549e4830c13bc7506642d",
   "Name": "Far Cry 6 Standard Edition",
   "ProductSlug": "far-cry-6",
-  "Ranking_Rating": 739,
+  "Ranking_Rating": 738,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 1141,
@@ -14543,10 +14543,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 10073,
       "NumberOfAwardsMax": 1329
+    },
+    {
+      "Time": "2024-08-02T17:57:19.7716915+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 10075,
+      "NumberOfAwardsMax": 1329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10073,
+  "NumberOfAwards": 10075,
   "NumberOfAwardsMax": 1329,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14584,7 +14590,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1275
+      "Count": 1277
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14616,8 +14622,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2024-08-02T15:58:35.1565657+00:00",
+  "LastChanged": "2024-08-02T17:57:19.7716914+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:25.6555993+00:00",
-  "LastUpdate_Ratings": "2024-08-02T15:58:35.1565664+00:00",
+  "LastUpdate_Ratings": "2024-08-02T17:57:19.7716919+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:29.9644292+00:00"
 }
