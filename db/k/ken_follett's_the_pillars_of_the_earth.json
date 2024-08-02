@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 649,
+  "Ranking_Rating": 668,
   "Ranking_Popularity": 375,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 195,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 368,
   "RatingHistory": [
     {
@@ -644,6 +644,12 @@
     {
       "Time": "2024-08-01T09:59:08.5977798+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-08-02T09:58:48.4589546+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 214,
       "NumberOfAwardsMax": 167
     }
@@ -19690,9 +19696,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2024-08-01T09:59:08.5977796+00:00",
+  "LastChanged": "2024-08-02T09:58:48.4589544+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:09.0248092+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:09.6133717+00:00",
-  "LastUpdate_Ratings": "2024-08-02T07:59:43.0600402+00:00",
+  "LastUpdate_Ratings": "2024-08-02T09:58:48.4589553+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:09.0249568+00:00"
 }

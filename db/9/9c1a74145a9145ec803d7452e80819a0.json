@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 408,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2203,10 +2203,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1330,
       "NumberOfAwardsMax": 516
+    },
+    {
+      "Time": "2024-08-02T09:59:36.9824293+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1334,
+      "NumberOfAwardsMax": 516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1330,
+  "NumberOfAwards": 1334,
   "NumberOfAwardsMax": 516,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2220,7 +2226,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 138
+      "Count": 142
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2994,9 +3000,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-08-02T06:58:41.4306081+00:00",
+  "LastChanged": "2024-08-02T09:59:36.9824291+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:41.819819+00:00",
   "LastUpdate_AppInfo": "2024-08-02T01:56:02.8078987+00:00",
-  "LastUpdate_Ratings": "2024-08-02T08:57:40.2396272+00:00",
+  "LastUpdate_Ratings": "2024-08-02T09:59:36.9824297+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:41.8198888+00:00"
 }
