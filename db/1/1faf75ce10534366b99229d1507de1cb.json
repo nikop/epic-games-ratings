@@ -2,7 +2,7 @@
   "ID": "1faf75ce10534366b99229d1507de1cb",
   "Name": "RENNSPORT",
   "ProductSlug": "rennsport-3776b8",
-  "Ranking_Rating": 1117,
+  "Ranking_Rating": 1110,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2024-07-12T12:00:28.909022+00:00",
@@ -210,6 +210,12 @@
       "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-02T08:58:55.7604925+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -228,8 +234,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T13:08:52.5809065+00:00",
   "FirstSeenRating": "2024-07-12T12:00:28.9090218+00:00",
-  "LastChanged": "2024-08-01T13:58:24.6315567+00:00",
+  "LastChanged": "2024-08-02T08:58:55.7604921+00:00",
   "LastUpdate_AppInfo": "2024-08-01T02:03:06.1861619+00:00",
-  "LastUpdate_Ratings": "2024-08-02T06:59:30.3325934+00:00",
+  "LastUpdate_Ratings": "2024-08-02T08:58:55.7604929+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:47.5985159+00:00"
 }
