@@ -4,7 +4,7 @@
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 17,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 291,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 489,
   "Ranking_EOS_NewPlayers": 28,
@@ -2210,10 +2210,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1295,
       "NumberOfAwardsMax": 830
+    },
+    {
+      "Time": "2024-08-02T19:59:26.0798927+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1296,
+      "NumberOfAwardsMax": 830
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1295,
+  "NumberOfAwards": 1296,
   "NumberOfAwardsMax": 830,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2281,7 +2287,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Easy Combat",
@@ -30947,9 +30953,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-08-01T13:57:53.1834821+00:00",
+  "LastChanged": "2024-08-02T19:59:26.0798924+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:34.944362+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:35.7164367+00:00",
-  "LastUpdate_Ratings": "2024-08-02T18:57:48.9808107+00:00",
+  "LastUpdate_Ratings": "2024-08-02T19:59:26.0798934+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:34.944517+00:00"
 }
