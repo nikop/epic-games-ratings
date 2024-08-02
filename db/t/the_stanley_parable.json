@@ -2,7 +2,7 @@
   "ID": "4c00c7506c4b4fa695f749bd6bb07ff6",
   "Name": "The Stanley Parable",
   "ProductSlug": "the-stanley-parable",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 194,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "NumberOfRatings": 188,
   "RatingHistory": [
     {
@@ -381,6 +381,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-02T11:57:58.2103572+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -398,8 +404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:56.8335668+00:00",
-  "LastChanged": "2024-07-27T09:58:54.5061015+00:00",
+  "LastChanged": "2024-08-02T11:57:58.210357+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:57.1455698+00:00",
-  "LastUpdate_Ratings": "2024-08-02T09:59:10.964803+00:00",
+  "LastUpdate_Ratings": "2024-08-02T11:57:58.2103577+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:08:59.270251+00:00"
 }
