@@ -1,16 +1,16 @@
 # Crashlands
 [Store](https://store.epicgames.com/en-US/p/crashlands)  
 [View Rawdata](../../db/c/crashlands.json)  
-Rating: 4.66 (Ranked 321)  
+Rating: 4.67 (Ranked 302)  
 Number of Ratings: 517  (23.09.2022)  
 ## Awards
 Max (Character Customization): 206  (Ranked 347)  
-Sum: 304 (Ranked 452)  
+Sum: 305 (Ranked 452)  
 Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 206 |
-| This game has Great Boss Battles | 98 |
+| This game has Great Boss Battles | 99 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -131,3 +131,4 @@ Diff (max vs sum): -105
 | 2024-06-20 | 4.66 | - | 205 | 302 |
 | 2024-07-13 | 4.66 | - | 205 | 303 |
 | 2024-07-16 | 4.66 | - | 206 | 304 |
+| 2024-08-02 | 4.67 | - | 206 | 305 |

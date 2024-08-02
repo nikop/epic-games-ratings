@@ -2,7 +2,7 @@
   "ID": "1b8a504ec52d4430b65cca2990ad6c7f",
   "Name": "Crashlands",
   "ProductSlug": "crashlands",
-  "Ranking_Rating": 321,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 517,
   "RatingHistory": [
     {
@@ -801,10 +801,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 304,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2024-08-02T04:58:33.8988113+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 304,
+  "NumberOfAwards": 305,
   "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -818,7 +824,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 98
+      "Count": 99
     }
   ],
   "EOS_Progressed": 0,
@@ -832,8 +838,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2024-07-16T11:00:10.1143004+00:00",
+  "LastChanged": "2024-08-02T04:58:33.8988112+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:42.8357951+00:00",
-  "LastUpdate_Ratings": "2024-08-02T03:00:47.2945405+00:00",
+  "LastUpdate_Ratings": "2024-08-02T04:58:33.8988117+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:13.1037668+00:00"
 }
