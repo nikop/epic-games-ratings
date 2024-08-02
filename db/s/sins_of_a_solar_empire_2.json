@@ -4,7 +4,7 @@
   "ProductSlug": "sins-of-a-solar-empire-ii",
   "Ranking_Rating": 525,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 443,
+  "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1339,10 +1339,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 324,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-08-02T10:57:58.215299+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 328,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 324,
+  "NumberOfAwards": 328,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1356,7 +1362,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Relaxing",
@@ -1368,7 +1374,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1380,7 +1386,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1392,7 +1398,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Competitive Players",
@@ -1413,8 +1419,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2024-08-01T17:57:17.0351993+00:00",
+  "LastChanged": "2024-08-02T10:57:58.2152988+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:06.3893427+00:00",
-  "LastUpdate_Ratings": "2024-08-02T09:00:13.4198957+00:00",
+  "LastUpdate_Ratings": "2024-08-02T10:57:58.2152994+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:06:57.4186403+00:00"
 }
