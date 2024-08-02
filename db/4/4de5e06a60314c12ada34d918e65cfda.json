@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 900,
   "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 393,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1212,10 +1212,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 511,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-08-02T19:00:06.0538918+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 547,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 511,
+  "NumberOfAwards": 547,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1277,7 +1283,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -1292,8 +1298,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-08-02T17:00:16.0714833+00:00",
+  "LastChanged": "2024-08-02T19:00:06.0538917+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:20.3849248+00:00",
-  "LastUpdate_Ratings": "2024-08-02T17:00:16.0714838+00:00",
+  "LastUpdate_Ratings": "2024-08-02T19:00:06.0538922+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:01:54.1629684+00:00"
 }
