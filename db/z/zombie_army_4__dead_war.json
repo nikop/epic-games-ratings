@@ -3,7 +3,7 @@
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
   "Ranking_Rating": 261,
-  "Ranking_Popularity": 194,
+  "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 446,
@@ -3682,10 +3682,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2866,
       "NumberOfAwardsMax": 963
+    },
+    {
+      "Time": "2024-08-02T03:00:40.3176641+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2867,
+      "NumberOfAwardsMax": 963
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2866,
+  "NumberOfAwards": 2867,
   "NumberOfAwardsMax": 963,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3741,7 +3747,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Diverse Characters",
@@ -13286,9 +13292,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2024-08-01T19:57:45.5746325+00:00",
+  "LastChanged": "2024-08-02T03:00:40.3176639+00:00",
   "LastChanged_Achievements": "2024-07-25T19:04:56.4149026+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:56:59.0450078+00:00",
-  "LastUpdate_Ratings": "2024-08-02T01:56:37.0268801+00:00",
+  "LastUpdate_Ratings": "2024-08-02T03:00:40.3176644+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:56.414995+00:00"
 }
