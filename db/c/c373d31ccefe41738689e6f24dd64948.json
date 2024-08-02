@@ -1,0 +1,31 @@
+{
+  "ID": "c373d31ccefe41738689e6f24dd64948",
+  "Name": null,
+  "Ranking_EOS_Progress": 1141,
+  "Ranking_EOS_Completed": 528,
+  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewCompleters": 7,
+  "Store": {
+    "ReleaseDate": null,
+    "PcReleaseDate": null,
+    "isBlockchainUsed": false,
+    "isEpicFirstRun": false,
+    "EpicFirstRunAdded": null,
+    "EpicFirstRunRemoved": null,
+    "CustomAttributes": {}
+  },
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [],
+  "LastUpdate_Ratings": "2024-08-02T15:57:18.3114013+00:00"
+}

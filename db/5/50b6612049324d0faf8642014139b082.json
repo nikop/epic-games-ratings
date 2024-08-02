@@ -3,7 +3,7 @@
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 989,
-  "Ranking_Popularity": 605,
+  "Ranking_Popularity": 606,
   "Ranking_PopularitySum": 496,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 528,
@@ -889,10 +889,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 196,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-08-02T15:57:44.8240949+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 196,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -906,7 +912,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -3077,9 +3083,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-08-01T13:58:53.1431643+00:00",
+  "LastChanged": "2024-08-02T15:57:44.8240947+00:00",
   "LastChanged_Achievements": "2024-07-25T19:04:32.1694332+00:00",
   "LastUpdate_AppInfo": "2024-07-31T15:57:04.4271967+00:00",
-  "LastUpdate_Ratings": "2024-08-02T13:59:01.9284436+00:00",
+  "LastUpdate_Ratings": "2024-08-02T15:57:44.8240953+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:32.1694586+00:00"
 }

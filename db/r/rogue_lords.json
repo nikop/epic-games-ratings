@@ -2,7 +2,7 @@
   "ID": "e901b6ea77454b0e9d944976a975165c",
   "Name": "Rogue Lords",
   "ProductSlug": "rogue-lords",
-  "Ranking_Rating": 409,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -178,6 +178,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-02T15:57:58.0199637+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -195,8 +201,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:30.3189892+00:00",
-  "LastChanged": "2024-04-14T19:27:55.8658755+00:00",
+  "LastChanged": "2024-08-02T15:57:58.0199635+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:02.6180918+00:00",
-  "LastUpdate_Ratings": "2024-08-02T13:59:16.6008307+00:00",
+  "LastUpdate_Ratings": "2024-08-02T15:57:58.0199642+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:05:18.6512059+00:00"
 }

@@ -175,12 +175,12 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 781 | 0 |
 | 2024-06-17 | 789 | 0 |
 ## Awards
-Max (Highly Recommended): 29  (Ranked 613)  
-Sum: 101 (Ranked 553)  
-Diff (max vs sum): 60  
+Max (Highly Recommended): 32  (Ranked 599)  
+Sum: 104 (Ranked 549)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 29 |
+| This game is Highly Recommended | 32 |
 | This game is Great for Beginners | 26 |
 | This game is Relaxing | 25 |
 | This game is Extremely Fun | 21 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 60
 | 2024-07-30 | 4.35 | 22 | 64 |
 | 2024-07-31 | 4.36 | 24 | 69 |
 | 2024-08-01 | 4.35 | 29 | 101 |
+| 2024-08-02 | 4.35 | 32 | 104 |
