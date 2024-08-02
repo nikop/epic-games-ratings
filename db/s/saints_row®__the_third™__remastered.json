@@ -2,7 +2,7 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 856,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "NumberOfRatings": 6169,
   "RatingHistory": [
     {
@@ -3215,10 +3215,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3294,
       "NumberOfAwardsMax": 2336
+    },
+    {
+      "Time": "2024-08-02T13:59:32.8587503+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 3295,
+      "NumberOfAwardsMax": 2336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3294,
+  "NumberOfAwards": 3295,
   "NumberOfAwardsMax": 2336,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3256,7 +3262,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3306,8 +3312,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2024-08-01T15:58:55.3273463+00:00",
+  "LastChanged": "2024-08-02T13:59:32.8587501+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:03.3996726+00:00",
-  "LastUpdate_Ratings": "2024-08-02T12:00:26.2453218+00:00",
+  "LastUpdate_Ratings": "2024-08-02T13:59:32.858751+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:05:15.8489467+00:00"
 }
