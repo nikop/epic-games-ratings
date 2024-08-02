@@ -3,7 +3,7 @@
   "Name": "Football Manager 2023",
   "ProductSlug": "football-manager-2023",
   "Ranking_Rating": 161,
-  "Ranking_Popularity": 145,
+  "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 503,
@@ -14231,11 +14231,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 11807,
       "NumberOfAwardsMax": 1854
+    },
+    {
+      "Time": "2024-08-02T13:09:09.2910886+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 11819,
+      "NumberOfAwardsMax": 1859
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11807,
-  "NumberOfAwardsMax": 1854,
+  "NumberOfAwards": 11819,
+  "NumberOfAwardsMax": 1859,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -14260,13 +14266,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1854
+      "Count": 1859
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1342
+      "Count": 1346
     },
     {
       "Text": "This game has Competitive Players",
@@ -14278,7 +14284,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1051
+      "Count": 1054
     },
     {
       "Text": "This game is Highly Recommended",
@@ -47173,9 +47179,9 @@
   "FirstSeen": "2022-11-08T02:50:04.1543779+00:00",
   "FirstSeenRating": "2022-11-08T17:57:47.9405885+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.5210365+00:00",
-  "LastChanged": "2024-08-02T09:58:01.914291+00:00",
+  "LastChanged": "2024-08-02T13:09:09.2910884+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:37.3105658+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:38.4327789+00:00",
-  "LastUpdate_Ratings": "2024-08-02T10:59:39.2435591+00:00",
+  "LastUpdate_Ratings": "2024-08-02T13:09:09.2910891+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:37.3107717+00:00"
 }

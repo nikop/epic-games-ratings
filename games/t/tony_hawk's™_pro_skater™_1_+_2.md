@@ -1,7 +1,7 @@
 # Tony Hawk's™ Pro Skater™ 1 + 2
 [Store](https://store.epicgames.com/en-US/p/tony-hawks-pro-skater-1-and-2)  
 [View Rawdata](../../db/t/tony_hawk's™_pro_skater™_1_+_2.json)  
-Rating: 4.81 (Ranked 83)  
+Rating: 4.82 (Ranked 71)  
 Number of Ratings: 1,298  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 107  (Ranked 436)  
@@ -251,3 +251,4 @@ Diff (max vs sum): 95
 | 2024-07-28 | 4.82 | - | 107 | 817 |
 | 2024-07-29 | 4.81 | - | 107 | 819 |
 | 2024-07-31 | 4.81 | - | 107 | 820 |
+| 2024-08-02 | 4.82 | - | 107 | 820 |

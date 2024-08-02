@@ -3,7 +3,7 @@
   "Name": "Mutant Year Zero: Road to Eden",
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 668,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -1917,18 +1917,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 1060,
       "NumberOfAwardsMax": 724
+    },
+    {
+      "Time": "2024-08-02T13:07:49.6294601+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1061,
+      "NumberOfAwardsMax": 725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1060,
-  "NumberOfAwardsMax": 724,
+  "NumberOfAwards": 1061,
+  "NumberOfAwardsMax": 725,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 724
+      "Count": 725
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1996,8 +2002,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2024-07-31T13:08:42.7639688+00:00",
+  "LastChanged": "2024-08-02T13:07:49.62946+00:00",
   "LastUpdate_AppInfo": "2024-07-29T07:57:11.9312615+00:00",
-  "LastUpdate_Ratings": "2024-08-02T10:58:43.4045067+00:00",
+  "LastUpdate_Ratings": "2024-08-02T13:07:49.6294605+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:34.7560171+00:00"
 }

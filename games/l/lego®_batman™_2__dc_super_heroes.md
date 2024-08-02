@@ -1,7 +1,7 @@
 # LEGO® Batman™ 2: DC Super Heroes
 [Store](https://store.epicgames.com/en-US/p/lego-batman-2)  
 [View Rawdata](../../db/l/lego®_batman™_2__dc_super_heroes.json)  
-Rating: 4.62 (Ranked 408)  
+Rating: 4.63 (Ranked 388)  
 Number of Ratings: 489  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 202  (Ranked 349)  
@@ -111,3 +111,4 @@ Diff (max vs sum): -143
 | 2024-07-25 | 4.62 | - | 200 | 200 |
 | 2024-07-26 | 4.62 | - | 201 | 201 |
 | 2024-08-01 | 4.62 | - | 202 | 202 |
+| 2024-08-02 | 4.63 | - | 202 | 202 |

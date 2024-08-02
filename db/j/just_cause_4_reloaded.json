@@ -2,7 +2,7 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 1042,
+  "Ranking_Rating": 1031,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "NumberOfRatings": 5442,
   "RatingHistory": [
     {
@@ -6713,10 +6713,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 3806,
       "NumberOfAwardsMax": 689
+    },
+    {
+      "Time": "2024-08-02T13:07:39.4608039+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 3810,
+      "NumberOfAwardsMax": 689
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3806,
+  "NumberOfAwards": 3810,
   "NumberOfAwardsMax": 689,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6736,7 +6742,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 471
+      "Count": 474
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6754,7 +6760,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 458
+      "Count": 459
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6786,8 +6792,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2024-08-01T15:59:30.6370895+00:00",
+  "LastChanged": "2024-08-02T13:07:39.4608037+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:11.2888736+00:00",
-  "LastUpdate_Ratings": "2024-08-02T10:58:36.1948422+00:00",
+  "LastUpdate_Ratings": "2024-08-02T13:07:39.4608043+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:01.6478551+00:00"
 }

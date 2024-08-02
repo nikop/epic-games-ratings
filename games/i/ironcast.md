@@ -1,7 +1,7 @@
 # Ironcast
 [Store](https://store.epicgames.com/en-US/p/ironcast)  
 [View Rawdata](../../db/i/ironcast.json)  
-Rating: 3.91 (Ranked 1,205)  
+Rating: 3.92 (Ranked 1,204)  
 Number of Ratings: 238  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -98,3 +98,4 @@ Number of Ratings: 238  (23.09.2022)
 | 2024-01-09 | 3.93 | - | 0 | 0 |
 | 2024-03-23 | 3.92 | - | 0 | 0 |
 | 2024-07-21 | 3.91 | - | 0 | 0 |
+| 2024-08-02 | 3.92 | - | 0 | 0 |

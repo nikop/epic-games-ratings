@@ -4,7 +4,7 @@
   "ProductSlug": "wuthering-waves-76ebc5",
   "Ranking_Rating": 738,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1926,10 +1926,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 4411,
       "NumberOfAwardsMax": 3301
+    },
+    {
+      "Time": "2024-08-02T13:07:23.890544+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 4573,
+      "NumberOfAwardsMax": 3301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4411,
+  "NumberOfAwards": 4573,
   "NumberOfAwardsMax": 3301,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1997,7 +2003,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 155
+      "Count": 162
     }
   ],
   "EOS_Progressed": 0,
@@ -2012,8 +2018,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-08-02T10:58:27.3467955+00:00",
+  "LastChanged": "2024-08-02T13:07:23.8905438+00:00",
   "LastUpdate_AppInfo": "2024-07-27T11:56:58.2400129+00:00",
-  "LastUpdate_Ratings": "2024-08-02T10:58:27.3467961+00:00",
+  "LastUpdate_Ratings": "2024-08-02T13:07:23.8905443+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:44.4058835+00:00"
 }
