@@ -881,7 +881,7 @@
 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2023-02-16 | 48 (1,000 XP) | 1,921 | - | - |
 | [Loretta](games/l/loretta.md) | 2023-02-16 | 22 (1,000 XP) | 15 | - | 0 |
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 2023-02-15 | 46 (1,000 XP) | 48 | - | 0 |
-| [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 14,198 | 4.16 | 0 |
+| [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 14,198 | 4.15 | 0 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 22,739 | 4.56 | 123 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 18,972 | 4.53 | 32 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 6,220 | - | 0 |
@@ -1165,7 +1165,7 @@
 | [DEMON'S TILT](games/d/demon's_tilt.md) | 2021-05-10 | 29 (1,000 XP) | 10,164 | 4.55 | 29 |
 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2021-04-29 | 32 (1,000 XP) | 739 | 3.75 | 0 |
 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 2021-04-22 | 48 (1,000 XP) | 673,220 | 4.53 | 40 |
-| [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 2021-04-15 | 41 (1,000 XP) | 20,672 | 4.51 | 167 |
+| [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 2021-04-15 | 41 (1,000 XP) | 20,672 | 4.50 | 167 |
 | [The First Tree](games/t/the_first_tree.md) | 2021-04-15 | 14 (1,000 XP) | 45,557 | 4.04 | 0 |
 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 2021-04-13 | 12 (1,000 XP) | 995 | - | 0 |
 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 2021-03-26 | 30 (1,000 XP) | 18 | - | 0 |
@@ -1175,7 +1175,7 @@
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,428 | 4.35 | 0 |
 | [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 149,841 | 4.41 | 2,365 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 831 | 4.30 | 0 |
-| [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 52,242 | 4.60 | 239 |
+| [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 52,242 | 4.60 | 240 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 88 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,586,282 | 4.46 | 0 |
 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 580 (2,900 XP) | 331,239 | 4.06 | 6,447 |
@@ -1199,7 +1199,7 @@
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 82,565 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,747 | 4.04 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 518,123 | 4.61 | 116 |
-| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 29,902,296 | 4.44 | 902,149 |
+| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 29,902,296 | 4.44 | 903,562 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 261,525 | 4.58 | 374 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 2020-09-08 | 69 (1,000 XP) | 1,221 | 4.55 | 86 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 30,056 | 4.84 | 237 |
