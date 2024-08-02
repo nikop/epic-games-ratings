@@ -3,8 +3,8 @@
   "Name": "Suicide Squad: Kill the Justice League",
   "ProductSlug": "suicide-squad-kill-the-justice-league",
   "Ranking_Rating": 1216,
-  "Ranking_Popularity": 382,
-  "Ranking_PopularitySum": 325,
+  "Ranking_Popularity": 376,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 440,
   "Ranking_EOS_NewPlayers": 28,
@@ -1795,11 +1795,17 @@
       "Rating": 3.84,
       "NumberOfAwards": 897,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2024-08-02T05:57:18.1211062+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 906,
+      "NumberOfAwardsMax": 166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 897,
-  "NumberOfAwardsMax": 157,
+  "NumberOfAwards": 906,
+  "NumberOfAwardsMax": 166,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1818,7 +1824,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 157
+      "Count": 166
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2290,9 +2296,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-08-01T19:59:52.2020063+00:00",
+  "LastChanged": "2024-08-02T05:57:18.1211061+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:56.6293404+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:44.5665144+00:00",
-  "LastUpdate_Ratings": "2024-08-02T03:58:28.8167477+00:00",
+  "LastUpdate_Ratings": "2024-08-02T05:57:18.1211064+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:56.6293694+00:00"
 }

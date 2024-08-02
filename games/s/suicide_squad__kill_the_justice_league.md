@@ -64,13 +64,13 @@ Completed: 2 (0.06%) (Ranked 440)
 | 2024-04-10 | 604 | 0 |
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
-Max (Diverse Characters): 157  (Ranked 382)  
-Sum: 897 (Ranked 325)  
-Diff (max vs sum): 57  
+Max (Diverse Characters): 166  (Ranked 376)  
+Sum: 906 (Ranked 323)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |
-| This game has Diverse Characters | 157 |
+| This game has Diverse Characters | 166 |
 | This game is Extremely Fun | 152 |
 | This game is Highly Recommended | 149 |
 | This game has Amazing Characters | 148 |
@@ -192,3 +192,4 @@ Diff (max vs sum): 57
 | 2024-07-30 | 3.85 | 1,767 | 2,722 |
 | 2024-07-31 | 3.85 | 1,767 | 2,741 |
 | 2024-08-01 | 3.84 | 157 | 897 |
+| 2024-08-02 | 3.84 | 166 | 906 |
