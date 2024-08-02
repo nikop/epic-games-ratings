@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Revenge Of The Colon](games/b/be90059f81674291a0a2d348f7918cc9.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | - |
+| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | - |  | - | - |
 | [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | - | - |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 0 | - | - |
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
@@ -88,7 +90,7 @@
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | 0 |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 56 | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.45 | 0 |
-| [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2024-07-10 | - |  | 4.17 | 0 |
+| [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2024-07-10 | - |  | 4.18 | 0 |
 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.47 | 232 |
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | 17 (1,000 XP) | 10 | - | 0 |
 | [Maisa: Galactic Bounty Hunter](games/1/15e3c5fe82e84c31b49eeb842b4fa001.md) | 2024-07-08 | - |  | - | - |
