@@ -181,7 +181,7 @@
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 20 | - | - |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 43 | - | 0 |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 319,143 | 4.70 | 152 |
-| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 511,263 | 4.56 | 1,233 |
+| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 511,263 | 4.56 | 1,241 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | 50 (1,000 XP) | 1 | - | 0 |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | 15 (1,000 XP) | 4 | - | 0 |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 36 | - | 0 |
@@ -1187,7 +1187,7 @@
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,104 | 4.65 | 130 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 118 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.45 | 300 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,730 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,749 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,446 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,061 | 4.66 | 2,026 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,102,820 | 4.69 | 172,853 |
