@@ -3,7 +3,7 @@
   "Name": "Metro Exodus Standard Edition",
   "ProductSlug": "metro-exodus",
   "Ranking_Rating": 130,
-  "Ranking_Popularity": 76,
+  "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -8566,18 +8566,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 12475,
       "NumberOfAwardsMax": 6676
+    },
+    {
+      "Time": "2024-08-02T22:58:35.4833732+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 12492,
+      "NumberOfAwardsMax": 6693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12475,
-  "NumberOfAwardsMax": 6676,
+  "NumberOfAwards": 12492,
+  "NumberOfAwardsMax": 6693,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6676
+      "Count": 6693
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8665,9 +8671,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "LastChanged": "2024-08-02T19:57:49.3850324+00:00",
+  "LastChanged": "2024-08-02T22:58:35.483373+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:22.6229445+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:42.7050158+00:00",
-  "LastUpdate_Ratings": "2024-08-02T21:00:07.9532236+00:00",
+  "LastUpdate_Ratings": "2024-08-02T22:58:35.4833736+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:22.6229522+00:00"
 }
