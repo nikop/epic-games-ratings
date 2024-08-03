@@ -2,7 +2,7 @@
   "ID": "25b5ab5928784a74a502f6a84bb8b49f",
   "Name": "Darkwood",
   "ProductSlug": "darkwood-fa73bd",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 289,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 1141,
@@ -1182,10 +1182,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2539,
       "NumberOfAwardsMax": 341
+    },
+    {
+      "Time": "2024-08-03T02:57:56.2113845+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2540,
+      "NumberOfAwardsMax": 341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2539,
+  "NumberOfAwards": 2540,
   "NumberOfAwardsMax": 341,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1205,7 +1211,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 312
+      "Count": 313
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1262,8 +1268,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2024-08-02T23:59:14.1136005+00:00",
+  "LastChanged": "2024-08-03T02:57:56.2113843+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:21.0856263+00:00",
-  "LastUpdate_Ratings": "2024-08-02T23:59:14.113601+00:00",
+  "LastUpdate_Ratings": "2024-08-03T02:57:56.2113848+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:02:43.8577672+00:00"
 }
