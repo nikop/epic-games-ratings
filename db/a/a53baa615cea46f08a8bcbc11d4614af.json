@@ -4,7 +4,7 @@
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 977,
   "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -635,6 +635,6 @@
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
   "LastChanged": "2024-08-02T18:57:35.2149184+00:00",
   "LastUpdate_AppInfo": "2024-07-30T15:57:02.8808859+00:00",
-  "LastUpdate_Ratings": "2024-08-02T23:57:25.9416954+00:00",
+  "LastUpdate_Ratings": "2024-08-03T01:56:07.8833107+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:17.8840829+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 650,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 61,
-  "Ranking_PopularitySum": 75,
+  "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2024-07-03T05:57:28.5370943+00:00",
@@ -1103,10 +1103,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 19038,
       "NumberOfAwardsMax": 9088
+    },
+    {
+      "Time": "2024-08-03T01:54:29.0614881+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 19130,
+      "NumberOfAwardsMax": 9088
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19038,
+  "NumberOfAwards": 19130,
   "NumberOfAwardsMax": 9088,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1168,13 +1174,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 505
+      "Count": 561
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 526
+      "Count": 562
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1195,8 +1201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-08-02T20:59:56.1917764+00:00",
+  "LastChanged": "2024-08-03T01:54:29.0614879+00:00",
   "LastUpdate_AppInfo": "2024-07-30T01:56:22.4271723+00:00",
-  "LastUpdate_Ratings": "2024-08-02T22:58:24.1624991+00:00",
+  "LastUpdate_Ratings": "2024-08-03T01:54:29.0614883+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.2551306+00:00"
 }

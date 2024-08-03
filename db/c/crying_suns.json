@@ -4,7 +4,7 @@
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 632,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 456,
+  "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -821,10 +821,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 245
+    },
+    {
+      "Time": "2024-08-03T01:57:06.2057939+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 310,
+      "NumberOfAwardsMax": 245
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 290,
+  "NumberOfAwards": 310,
   "NumberOfAwardsMax": 245,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -851,6 +857,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 23
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 480177,
@@ -30637,9 +30649,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2024-08-02T05:57:47.5562145+00:00",
+  "LastChanged": "2024-08-03T01:57:06.2057937+00:00",
   "LastChanged_Achievements": "2024-06-17T16:17:26.1668431+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:12.9385657+00:00",
-  "LastUpdate_Ratings": "2024-08-02T23:58:27.2759656+00:00",
+  "LastUpdate_Ratings": "2024-08-03T01:57:06.2057942+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:26.1670375+00:00"
 }

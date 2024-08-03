@@ -2,7 +2,7 @@
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
   "ProductSlug": "biped",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 218,
@@ -23,7 +23,7 @@
       "isPromotionalContentUsed": "false"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-04-22T05:57:51.3460148+00:00",
@@ -40,6 +40,12 @@
     {
       "Time": "2024-06-10T14:57:23.5499052+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-03T01:54:53.7284186+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -18010,9 +18016,9 @@
   "FirstSeen": "2023-04-22T05:57:51.3460102+00:00",
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
-  "LastChanged": "2024-06-10T14:57:23.549905+00:00",
+  "LastChanged": "2024-08-03T01:54:53.7284184+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:49.4221027+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:21.6923416+00:00",
-  "LastUpdate_Ratings": "2024-08-02T22:58:48.459982+00:00",
+  "LastUpdate_Ratings": "2024-08-03T01:54:53.728419+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:49.4222125+00:00"
 }
