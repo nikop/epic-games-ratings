@@ -365,8 +365,8 @@ Completed: 214 (0.12%) (Ranked 400)
 | 2024-07-25 | 173,757 | 214 |
 ## Awards
 Max (Amazing Characters): 25  (Ranked 641)  
-Sum: 114 (Ranked 542)  
-Diff (max vs sum): 99  
+Sum: 134 (Ranked 524)  
+Diff (max vs sum): 117  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 153 |
@@ -375,6 +375,7 @@ Diff (max vs sum): 99
 | This game has Amazing Storytelling | 23 |
 | This game has Unique Visuals | 21 |
 | This game has Quickly Understood Controls | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -498,3 +499,4 @@ Diff (max vs sum): 99
 | 2024-07-13 | 4.47 | - | 25 | 114 |
 | 2024-07-18 | 4.48 | - | 25 | 114 |
 | 2024-07-26 | 4.47 | - | 25 | 114 |
+| 2024-08-03 | 4.47 | - | 25 | 134 |
