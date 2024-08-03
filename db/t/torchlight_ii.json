@@ -2,7 +2,7 @@
   "ID": "8432511ef63b489b843d21ff486a0355",
   "Name": "Torchlight II",
   "ProductSlug": "torchlight-2",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 482,
   "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 2280,
   "RatingHistory": [
     {
@@ -3766,6 +3766,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 2388,
       "NumberOfAwardsMax": 1170
+    },
+    {
+      "Time": "2024-08-03T16:59:19.8850609+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2388,
+      "NumberOfAwardsMax": 1170
     }
   ],
   "ReviewsDisabled": false,
@@ -3851,8 +3857,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-08-02T16:58:36.8280686+00:00",
+  "LastChanged": "2024-08-03T16:59:19.8850608+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:33.243518+00:00",
-  "LastUpdate_Ratings": "2024-08-03T15:57:06.9018427+00:00",
+  "LastUpdate_Ratings": "2024-08-03T16:59:19.8850613+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:20.7688471+00:00"
 }
