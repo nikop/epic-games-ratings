@@ -1,7 +1,7 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 407)  
+Rating: 4.63 (Ranked 387)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -362,3 +362,4 @@ Completed: 4 (0.15%) (Ranked 387)
 | 2023-10-17 | 4.62 | - | 0 | 0 |
 | 2024-02-23 | 4.63 | - | 0 | 0 |
 | 2024-06-05 | 4.62 | - | 0 | 0 |
+| 2024-08-03 | 4.63 | - | 0 | 0 |

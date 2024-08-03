@@ -2,7 +2,7 @@
   "ID": "c8b495f1a9a34972ba0b0c46e8afec31",
   "Name": "Rain World",
   "ProductSlug": "rain-world-4c860c",
-  "Ranking_Rating": 44,
+  "Ranking_Rating": 37,
   "Ranking_Popularity": 620,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 1141,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:25.9902036+00:00",
@@ -251,6 +251,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-08-03T21:58:59.7253261+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -289,8 +295,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2024-07-31T16:59:07.3743701+00:00",
+  "LastChanged": "2024-08-03T21:58:59.725326+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:28.230393+00:00",
-  "LastUpdate_Ratings": "2024-08-03T20:00:18.9274821+00:00",
+  "LastUpdate_Ratings": "2024-08-03T21:58:59.7253264+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:19.6123939+00:00"
 }
