@@ -10,8 +10,8 @@
 | 8 | [Fall Guys](games/f/fall_guys.md) | 163,350 | 4.50 | 668 |
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 137,261 | 4.69 | 261 |
 | 10 | [VALORANT](games/v/valorant.md) | 133,441 | 4.49 | 686 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 82,871 | 4.44 | 781 |
-| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 71,238 | 4.58 | 502 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 82,962 | 4.44 | 781 |
+| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 71,284 | 4.58 | 502 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 65,219 | 4.62 | 408 |
 | 14 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 59,749 | 4.72 | 214 |
 | 15 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 58,542 | 4.74 | 175 |
@@ -23,7 +23,7 @@
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 29,692 | 4.89 | 11 |
 | 22 | [Warframe](games/w/warframe.md) | 25,799 | 4.61 | 432 |
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 24,688 | 4.57 | 524 |
-| 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,593 | 4.26 | 1,022 |
+| 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,593 | 4.26 | 1,023 |
 | 25 | [Satisfactory](games/s/satisfactory.md) | 19,006 | 4.87 | 17 |
 | 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 18,633 | 4.60 | 461 |
 | 27 | [Borderlands 2](games/b/borderlands_2.md) | 18,464 | 4.76 | 145 |
@@ -36,7 +36,7 @@
 | 34 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 15,867 | 4.84 | 44 |
 | 35 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 15,783 | 4.46 | 738 |
 | 36 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 15,218 | 4.61 | 432 |
-| 37 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 15,028 | 4.58 | 502 |
+| 37 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 15,033 | 4.58 | 502 |
 | 38 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 14,900 | 4.68 | 283 |
 | 39 | [Bloons TD 6](games/b/bloons_td_6.md) | 14,473 | 4.77 | 130 |
 | 40 | [Maneater](games/m/maneater.md) | 14,397 | 4.49 | 686 |
@@ -99,7 +99,7 @@
 | 97 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,758 | 4.70 | 237 |
 | 98 | [Paladins](games/p/paladins.md) | 4,706 | 4.31 | 970 |
 | 99 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,396 | 4.47 | 726 |
-| 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4,360 | 4.57 | 524 |
+| 100 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4,376 | 4.57 | 524 |
 | 101 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,244 | 4.51 | 651 |
 | 102 | [Hades](games/h/hades.md) | 4,076 | 4.92 | 4 |
 | 103 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,918 | 4.66 | 322 |
@@ -111,7 +111,7 @@
 | 109 | [Among Us](games/a/among_us.md) | 3,659 | 4.55 | 570 |
 | 110 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,571 | 4.54 | 594 |
 | 111 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 3,336 | 4.46 | 738 |
-| 112 | [RAGE 2](games/r/rage_2.md) | 3,271 | 4.26 | 1,022 |
+| 112 | [RAGE 2](games/r/rage_2.md) | 3,271 | 4.26 | 1,023 |
 | 113 | [Path of Exile](games/p/path_of_exile.md) | 3,137 | 4.62 | 408 |
 | 114 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,097 | 4.13 | 1,137 |
 | 115 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 3,027 | 4.79 | 109 |
@@ -302,7 +302,7 @@
 | 300 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 408 |
 | 300 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 305 | 4.44 | 781 |
 | 302 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 302 | 4.45 | 758 |
-| 303 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 1,022 |
+| 303 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 1,023 |
 | 304 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 296 | 4.69 | 261 |
 | 305 | [Sheltered](games/s/sheltered.md) | 292 | 4.41 | 843 |
 | 306 | [Crysis Remastered](games/c/crysis_remastered.md) | 285 | 4.43 | 798 |
@@ -370,7 +370,7 @@
 | 368 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 178 | 4.77 | 130 |
 | 369 | [Space Punks](games/s/space_punks.md) | 176 | 4.16 | 1,117 |
 | 370 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 174 | 4.37 | 898 |
-| 370 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 174 | 4.26 | 1,022 |
+| 370 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 174 | 4.26 | 1,023 |
 | 372 | [Going Medieval](games/g/going_medieval.md) | 173 | 4.61 | 432 |
 | 372 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 1,003 |
 | 374 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 171 | 4.46 | 738 |
@@ -513,7 +513,7 @@
 | 509 | [The Alto Collection](games/t/the_alto_collection.md) | 61 | 4.67 | 302 |
 | 512 | [Northgard](games/n/northgard.md) | 60 | 4.63 | 387 |
 | 512 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 60 | 4.43 | 798 |
-| 514 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 59 | 4.26 | 1,022 |
+| 514 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 59 | 4.26 | 1,023 |
 | 514 | [Warpips](games/w/warpips.md) | 59 | 4.43 | 798 |
 | 516 | [ATOM RPG](games/a/atom_rpg.md) | 58 | 4.52 | 632 |
 | 516 | [Isonzo](games/i/isonzo.md) | 58 | 4.57 | 524 |
@@ -655,7 +655,7 @@
 | 648 | [Moving Out](games/m/moving_out.md) | 23 | 4.58 | 502 |
 | 648 | [Riverbond](games/r/riverbond.md) | 23 | 4.46 | 738 |
 | 655 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 22 | 4.63 | 387 |
-| 655 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.26 | 1,022 |
+| 655 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.27 | 1,013 |
 | 655 | [Figment](games/f/figment.md) | 22 | 4.48 | 708 |
 | 655 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 22 | 4.42 | 823 |
 | 655 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.19 | 1,087 |
