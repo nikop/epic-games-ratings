@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_Rating": 1015,
   "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 342,
+  "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2477,10 +2477,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 820,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2024-08-03T17:57:19.4589477+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 823,
+      "NumberOfAwardsMax": 143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 820,
+  "NumberOfAwards": 823,
   "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2530,7 +2536,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 131
+      "Count": 134
     },
     {
       "Text": "This game has a Creative Community",
@@ -3736,9 +3742,9 @@
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenRating": "2024-03-15T19:58:30.0365601+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged": "2024-08-03T15:58:12.3379246+00:00",
+  "LastChanged": "2024-08-03T17:57:19.4589475+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:58.5053218+00:00",
   "LastUpdate_AppInfo": "2024-08-01T09:57:25.0298392+00:00",
-  "LastUpdate_Ratings": "2024-08-03T15:58:12.337925+00:00",
+  "LastUpdate_Ratings": "2024-08-03T17:57:19.4589481+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:58.5053856+00:00"
 }
