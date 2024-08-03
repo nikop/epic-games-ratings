@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 166,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.52,
   "NumberOfRatings": 88,
   "RatingHistory": [
     {
@@ -351,6 +351,12 @@
     {
       "Time": "2024-07-29T08:01:00.2752643+00:00",
       "Rating": 4.54,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-03T00:00:11.8965938+00:00",
+      "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -22568,9 +22574,9 @@
   "FirstSeen": "2022-08-13T01:31:43.4157574+00:00",
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
-  "LastChanged": "2024-07-29T08:01:00.2752641+00:00",
+  "LastChanged": "2024-08-03T00:00:11.8965936+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:41.0377304+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:31.2672243+00:00",
-  "LastUpdate_Ratings": "2024-08-02T22:57:52.7755502+00:00",
+  "LastUpdate_Ratings": "2024-08-03T00:00:11.8965943+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:41.0378633+00:00"
 }

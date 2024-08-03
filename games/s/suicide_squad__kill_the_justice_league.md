@@ -64,9 +64,9 @@ Completed: 2 (0.06%) (Ranked 440)
 | 2024-04-10 | 604 | 0 |
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
-Max (Diverse Characters): 166  (Ranked 377)  
-Sum: 933 (Ranked 321)  
-Diff (max vs sum): 56  
+Max (Diverse Characters): 166  (Ranked 378)  
+Sum: 1,068 (Ranked 306)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |
@@ -77,7 +77,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 152 |
 | This game has Quickly Understood Controls | 151 |
 | This game is Great for Beginners | 136 |
-| This game is Relaxing | 71 |
+| This game is Relaxing | 135 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -192,4 +192,4 @@ Diff (max vs sum): 56
 | 2024-07-30 | 3.85 | 1,767 | 2,722 |
 | 2024-07-31 | 3.85 | 1,767 | 2,741 |
 | 2024-08-01 | 3.84 | 157 | 897 |
-| 2024-08-02 | 3.84 | 166 | 933 |
+| 2024-08-02 | 3.84 | 166 | 1,068 |

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/a/aimlabs.json)  
 Rating: 4.58 (Ranked 502)  
 ## Awards
-Max (Great for Quick Sessions): 166  (Ranked 377)  
-Sum: 940 (Ranked 320)  
+Max (Great for Quick Sessions): 166  (Ranked 378)  
+Sum: 940 (Ranked 321)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |

@@ -4,9 +4,9 @@
 Rating: 4.72 (Ranked 214)  
 Number of Ratings: 615  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 164  (Ranked 380)  
+Max (Impact the Story): 164  (Ranked 381)  
 Sum: 164 (Ranked 509)  
-Diff (max vs sum): -129  
+Diff (max vs sum): -128  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 164 |
