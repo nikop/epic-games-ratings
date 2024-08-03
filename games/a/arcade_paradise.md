@@ -175,13 +175,13 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 781 | 0 |
 | 2024-06-17 | 789 | 0 |
 ## Awards
-Max (Relaxing): 33  (Ranked 596)  
-Sum: 137 (Ranked 523)  
-Diff (max vs sum): 73  
+Max (Highly Recommended): 34  (Ranked 592)  
+Sum: 139 (Ranked 521)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 34 |
 | This game is Relaxing | 33 |
-| This game is Highly Recommended | 32 |
 | This game is Great for Beginners | 30 |
 | This game is Extremely Fun | 22 |
 | This game has Amazing Characters | 20 |
@@ -219,4 +219,4 @@ Diff (max vs sum): 73
 | 2024-07-31 | 4.36 | 24 | 69 |
 | 2024-08-01 | 4.35 | 29 | 101 |
 | 2024-08-02 | 4.36 | 32 | 108 |
-| 2024-08-03 | 4.36 | 33 | 137 |
+| 2024-08-03 | 4.36 | 34 | 139 |

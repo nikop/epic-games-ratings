@@ -64,9 +64,9 @@ Completed: 2 (0.06%) (Ranked 440)
 | 2024-04-10 | 604 | 0 |
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
-Max (Diverse Characters): 175  (Ranked 370)  
+Max (Diverse Characters): 175  (Ranked 371)  
 Sum: 1,092 (Ranked 303)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |

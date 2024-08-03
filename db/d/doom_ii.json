@@ -2,7 +2,7 @@
   "ID": "5bfa503eec24408ba1723b81117520e5",
   "Name": "DOOM II",
   "ProductSlug": "doom-ii",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 302,
   "Ranking_Popularity": 606,
   "Ranking_PopularitySum": 634,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 48,
   "RatingHistory": [
     {
@@ -279,6 +279,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-08-03T20:58:38.5068366+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
@@ -305,8 +311,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T20:02:33.9663963+00:00",
   "FirstSeenRating": "2022-09-01T17:32:34.6447237+00:00",
-  "LastChanged": "2024-07-19T17:59:53.4792924+00:00",
+  "LastChanged": "2024-08-03T20:58:38.5068362+00:00",
   "LastUpdate_AppInfo": "2024-07-28T14:57:13.9529539+00:00",
-  "LastUpdate_Ratings": "2024-08-03T18:59:36.5052617+00:00",
+  "LastUpdate_Ratings": "2024-08-03T20:58:38.506837+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:15.9739834+00:00"
 }
