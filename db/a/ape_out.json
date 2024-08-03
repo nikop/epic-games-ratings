@@ -3,8 +3,8 @@
   "Name": "APE OUT",
   "ProductSlug": "ape-out",
   "Ranking_Rating": 387,
-  "Ranking_Popularity": 678,
-  "Ranking_PopularitySum": 678,
+  "Ranking_Popularity": 677,
+  "Ranking_PopularitySum": 677,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -204,6 +204,6 @@
   "FirstSeenRating": "2022-08-11T22:01:52.3350114+00:00",
   "LastChanged": "2024-03-22T15:58:58.7278953+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:06.9411464+00:00",
-  "LastUpdate_Ratings": "2024-08-03T09:59:41.0993596+00:00",
+  "LastUpdate_Ratings": "2024-08-03T11:57:54.7141694+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:47.0615346+00:00"
 }
