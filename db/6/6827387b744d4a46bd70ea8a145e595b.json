@@ -4,7 +4,7 @@
   "ProductSlug": "zenless-zone-zero-c7c151",
   "Ranking_Rating": 631,
   "Ranking_Popularity": 60,
-  "Ranking_PopularitySum": 73,
+  "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1133,10 +1133,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 19792,
       "NumberOfAwardsMax": 9584
+    },
+    {
+      "Time": "2024-08-03T19:58:28.0122049+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 20140,
+      "NumberOfAwardsMax": 9584
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19792,
+  "NumberOfAwards": 20140,
   "NumberOfAwardsMax": 9584,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1150,7 +1156,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5195
+      "Count": 5465
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1174,7 +1180,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 527
+      "Count": 573
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1192,7 +1198,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 561
+      "Count": 593
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1225,8 +1231,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-08-03T18:00:16.7091798+00:00",
+  "LastChanged": "2024-08-03T19:58:28.0122048+00:00",
   "LastUpdate_AppInfo": "2024-07-30T01:56:22.4271723+00:00",
-  "LastUpdate_Ratings": "2024-08-03T18:00:16.7091806+00:00",
+  "LastUpdate_Ratings": "2024-08-03T19:58:28.0122052+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:07.2551306+00:00"
 }

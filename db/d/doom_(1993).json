@@ -2,7 +2,7 @@
   "ID": "149849cfbf324cc2a3d42fc4e5c19f91",
   "Name": "DOOM (1993)",
   "ProductSlug": "doom-1993",
-  "Ranking_Rating": 86,
+  "Ranking_Rating": 108,
   "Ranking_Popularity": 570,
   "Ranking_PopularitySum": 619,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.81,
+  "Rating": 4.79,
   "NumberOfRatings": 96,
   "RatingHistory": [
     {
@@ -285,6 +285,12 @@
       "Rating": 4.81,
       "NumberOfAwards": 38,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-08-03T19:58:27.2991343+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
@@ -311,8 +317,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-19T14:31:30.8251329+00:00",
   "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
-  "LastChanged": "2024-07-28T17:59:30.8530837+00:00",
+  "LastChanged": "2024-08-03T19:58:27.2991341+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:15.0334896+00:00",
-  "LastUpdate_Ratings": "2024-08-03T18:00:15.8350777+00:00",
+  "LastUpdate_Ratings": "2024-08-03T19:58:27.2991345+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:00.422517+00:00"
 }
