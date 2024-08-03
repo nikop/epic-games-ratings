@@ -10917,10 +10917,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 8671,
       "NumberOfAwardsMax": 998
+    },
+    {
+      "Time": "2024-08-03T18:59:31.7267651+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8674,
+      "NumberOfAwardsMax": 998
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8671,
+  "NumberOfAwards": 8674,
   "NumberOfAwardsMax": 998,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -10988,7 +10994,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 843
+      "Count": 846
     }
   ],
   "EOS_Progressed": 0,
@@ -11010,9 +11016,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-08-03T17:58:09.6263811+00:00",
+  "LastChanged": "2024-08-03T18:59:31.7267649+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:46.38651+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:59:06.1045284+00:00",
-  "LastUpdate_Ratings": "2024-08-03T17:58:09.6263816+00:00",
+  "LastUpdate_Ratings": "2024-08-03T18:59:31.7267655+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:46.3865121+00:00"
 }

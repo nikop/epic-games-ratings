@@ -2,7 +2,7 @@
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 312,
   "RatingHistory": [
     {
@@ -753,6 +753,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 390,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-08-03T18:59:57.3278351+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
@@ -852,9 +858,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "FirstSeenAchievements": "2023-10-25T15:04:44.0813586+00:00",
-  "LastChanged": "2024-07-28T17:58:28.9603141+00:00",
+  "LastChanged": "2024-08-03T18:59:57.327835+00:00",
   "LastChanged_Achievements": "2024-06-26T14:05:24.9875512+00:00",
   "LastUpdate_AppInfo": "2024-07-29T02:57:11.9349524+00:00",
-  "LastUpdate_Ratings": "2024-08-03T17:58:46.2753674+00:00",
+  "LastUpdate_Ratings": "2024-08-03T18:59:57.3278354+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:05:24.9875583+00:00"
 }

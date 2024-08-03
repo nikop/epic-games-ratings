@@ -2,7 +2,7 @@
   "ID": "e4a2a414d46849f49a35c0f80df2903a",
   "Name": "Verdun",
   "ProductSlug": "verdun",
-  "Ranking_Rating": 616,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 142,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.53,
+  "Rating": 4.52,
   "NumberOfRatings": 1999,
   "RatingHistory": [
     {
@@ -2575,6 +2575,12 @@
     {
       "Time": "2024-08-02T18:58:53.9803846+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 1087,
+      "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-08-03T18:58:42.6980752+00:00",
+      "Rating": 4.52,
       "NumberOfAwards": 1087,
       "NumberOfAwardsMax": 128
     }
@@ -34337,9 +34343,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-08-02T18:58:53.9803844+00:00",
+  "LastChanged": "2024-08-03T18:58:42.6980748+00:00",
   "LastChanged_Achievements": "2024-07-30T00:05:54.6992263+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:22.5978386+00:00",
-  "LastUpdate_Ratings": "2024-08-03T17:00:17.5948174+00:00",
+  "LastUpdate_Ratings": "2024-08-03T18:58:42.6980755+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:05:54.6994009+00:00"
 }
