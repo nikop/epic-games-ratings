@@ -1,7 +1,7 @@
 # Biped
 [Store](https://store.epicgames.com/en-US/p/biped)  
 [View Rawdata](../../db/b/biped.json)  
-Rating: 4.41 (Ranked 844)  
+Rating: 4.41 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -3,8 +3,8 @@
   "Name": "Ratchet \u0026 Clank: Rift Apart",
   "ProductSlug": "ratchet-clank-rift-apart",
   "Ranking_Rating": 237,
-  "Ranking_Popularity": 663,
-  "Ranking_PopularitySum": 613,
+  "Ranking_Popularity": 655,
+  "Ranking_PopularitySum": 611,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -625,18 +625,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-08-03T09:59:30.3621932+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42,
-  "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 43,
+  "NumberOfAwardsMax": 22,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Great for Beginners",
@@ -657,8 +663,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-26T17:57:55.6867011+00:00",
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
-  "LastChanged": "2024-07-29T22:59:36.7550201+00:00",
+  "LastChanged": "2024-08-03T09:59:30.3621931+00:00",
   "LastUpdate_AppInfo": "2024-08-01T07:57:12.8797006+00:00",
-  "LastUpdate_Ratings": "2024-08-03T08:01:32.2006116+00:00",
+  "LastUpdate_Ratings": "2024-08-03T09:59:30.3621945+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:53.0910034+00:00"
 }
