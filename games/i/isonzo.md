@@ -336,12 +336,12 @@ Completed: 1 (0.01%) (Ranked 503)
 | 2024-05-13 | 9,032 | 1 |
 | 2024-06-17 | 8,841 | 1 |
 ## Awards
-Max (Diverse Characters): 56  (Ranked 522)  
-Sum: 459 (Ranked 401)  
-Diff (max vs sum): 121  
+Max (Diverse Characters): 58  (Ranked 516)  
+Sum: 461 (Ranked 401)  
+Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 56 |
+| This game has Diverse Characters | 58 |
 | This game has a Competitive Community | 48 |
 | This game has Challenging Combat | 47 |
 | This game has Realistic Visuals | 46 |
@@ -556,3 +556,4 @@ Diff (max vs sum): 121
 | 2024-07-28 | 4.57 | - | 55 | 456 |
 | 2024-08-01 | 4.57 | - | 55 | 457 |
 | 2024-08-02 | 4.57 | - | 56 | 459 |
+| 2024-08-03 | 4.57 | - | 58 | 461 |

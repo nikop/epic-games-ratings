@@ -1,7 +1,7 @@
 # Expeditions: Viking
 [Store](https://store.epicgames.com/en-US/p/expeditions-viking)  
 [View Rawdata](../../db/e/expeditions__viking.json)  
-Rating: 4.30 (Ranked 977)  
+Rating: 4.30 (Ranked 978)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
