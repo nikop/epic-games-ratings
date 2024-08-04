@@ -2,7 +2,7 @@
   "ID": "f1bbea1c0d694e95a8ba0f649a396352",
   "Name": "Black Skylands",
   "ProductSlug": "black-skylands",
-  "Ranking_Rating": 303,
+  "Ranking_Rating": 342,
   "Ranking_Popularity": 677,
   "Ranking_PopularitySum": 677,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:15.3608078+00:00",
@@ -57,6 +57,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-04T02:59:44.2159085+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -75,8 +81,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:43.6265107+00:00",
   "FirstSeenRating": "2023-03-31T05:57:15.3608075+00:00",
-  "LastChanged": "2024-07-30T01:57:12.5722447+00:00",
+  "LastChanged": "2024-08-04T02:59:44.2159083+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:20.1262512+00:00",
-  "LastUpdate_Ratings": "2024-08-04T02:02:21.7732649+00:00",
+  "LastUpdate_Ratings": "2024-08-04T02:59:44.2159089+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:04.7425664+00:00"
 }

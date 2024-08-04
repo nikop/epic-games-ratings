@@ -3,8 +3,8 @@
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 761,
-  "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 317,
+  "Ranking_Popularity": 350,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -3108,18 +3108,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 995,
       "NumberOfAwardsMax": 197
+    },
+    {
+      "Time": "2024-08-04T02:57:36.9914754+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1016,
+      "NumberOfAwardsMax": 204
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 995,
-  "NumberOfAwardsMax": 197,
+  "NumberOfAwards": 1016,
+  "NumberOfAwardsMax": 204,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 197
+      "Count": 204
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3137,13 +3143,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 82
+      "Count": 84
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 113
+      "Count": 119
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3155,7 +3161,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 89
+      "Count": 95
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3380,9 +3386,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-08-03T18:58:38.4416753+00:00",
+  "LastChanged": "2024-08-04T02:57:36.9914752+00:00",
   "LastChanged_Achievements": "2024-06-17T16:11:48.6664216+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:10.0461852+00:00",
-  "LastUpdate_Ratings": "2024-08-03T23:58:38.7068865+00:00",
+  "LastUpdate_Ratings": "2024-08-04T02:57:36.9914758+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:48.6664377+00:00"
 }
