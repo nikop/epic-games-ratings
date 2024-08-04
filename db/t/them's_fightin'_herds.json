@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 486,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 606,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 89,
@@ -471,10 +471,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 102,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-08-04T11:58:12.7262633+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 103,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 102,
+  "NumberOfAwards": 103,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -506,7 +512,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -29346,9 +29352,9 @@
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-07-29T08:58:35.0778558+00:00",
+  "LastChanged": "2024-08-04T11:58:12.726263+00:00",
   "LastChanged_Achievements": "2024-06-17T16:10:18.3458431+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:16.0556298+00:00",
-  "LastUpdate_Ratings": "2024-08-04T09:59:34.6517419+00:00",
+  "LastUpdate_Ratings": "2024-08-04T11:58:12.7262636+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:18.3459878+00:00"
 }
