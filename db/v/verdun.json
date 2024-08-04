@@ -4,7 +4,7 @@
   "ProductSlug": "verdun",
   "Ranking_Rating": 633,
   "Ranking_Popularity": 409,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2583,10 +2583,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1087,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-08-04T10:59:27.8912179+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1088,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1087,
+  "NumberOfAwards": 1088,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2636,7 +2642,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 119
+      "Count": 120
     },
     {
       "Text": "This game is Extremely Fun",
@@ -34343,9 +34349,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-08-03T18:58:42.6980748+00:00",
+  "LastChanged": "2024-08-04T10:59:27.8912177+00:00",
   "LastChanged_Achievements": "2024-07-30T00:05:54.6992263+00:00",
   "LastUpdate_AppInfo": "2024-07-28T17:57:22.5978386+00:00",
-  "LastUpdate_Ratings": "2024-08-04T09:00:10.0809213+00:00",
+  "LastUpdate_Ratings": "2024-08-04T10:59:27.8912182+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:05:54.6994009+00:00"
 }
