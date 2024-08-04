@@ -2,9 +2,9 @@
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -3213,10 +3213,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1270,
       "NumberOfAwardsMax": 842
+    },
+    {
+      "Time": "2024-08-03T23:57:25.2248928+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1272,
+      "NumberOfAwardsMax": 842
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1270,
+  "NumberOfAwards": 1272,
   "NumberOfAwardsMax": 842,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3242,7 +3248,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3305,8 +3311,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-08-03T21:58:41.5994953+00:00",
+  "LastChanged": "2024-08-03T23:57:25.2248926+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:20.9756531+00:00",
-  "LastUpdate_Ratings": "2024-08-03T21:58:41.599496+00:00",
+  "LastUpdate_Ratings": "2024-08-03T23:57:25.2248931+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:41.4378071+00:00"
 }

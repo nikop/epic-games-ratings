@@ -2,6 +2,9 @@
   "ID": "10aa3c43a96642b3845f741a169c95b3",
   "Name": "EARTH DEFENSE FORCE \uFF16",
   "ProductSlug": "earth-defense-force-6-129839",
+  "Ranking_Rating": 161,
+  "Ranking_Popularity": 677,
+  "Ranking_PopularitySum": 677,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 458,
   "Ranking_EOS_NewPlayers": 28,
@@ -20,7 +23,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.75,
+  "RatingHistory": [
+    {
+      "Time": "2024-08-03T23:59:46.9471218+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -363,9 +374,11 @@
     }
   ],
   "FirstSeen": "2024-07-25T13:07:03.6627965+00:00",
+  "FirstSeenRating": "2024-08-03T23:59:46.9471215+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:13.3675269+00:00",
+  "LastChanged": "2024-08-03T23:59:46.9471216+00:00",
   "LastChanged_Achievements": "2024-07-30T16:02:13.3675203+00:00",
   "LastUpdate_AppInfo": "2024-07-29T17:57:10.8482887+00:00",
-  "LastUpdate_Ratings": "2024-08-03T22:57:48.0340373+00:00",
+  "LastUpdate_Ratings": "2024-08-03T23:59:46.9471224+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:13.3683883+00:00"
 }

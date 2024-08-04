@@ -2,7 +2,7 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 617,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 1141,
@@ -20481,10 +20481,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 86824,
       "NumberOfAwardsMax": 30856
+    },
+    {
+      "Time": "2024-08-03T23:57:33.7085042+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 86828,
+      "NumberOfAwardsMax": 30856
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86824,
+  "NumberOfAwards": 86828,
   "NumberOfAwardsMax": 30856,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -20528,7 +20534,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4839
+      "Count": 4843
     },
     {
       "Text": "This game is Great for Beginners",
@@ -20566,8 +20572,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-08-03T16:58:59.9897606+00:00",
+  "LastChanged": "2024-08-03T23:57:33.708504+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:25.394634+00:00",
-  "LastUpdate_Ratings": "2024-08-03T21:58:51.265712+00:00",
+  "LastUpdate_Ratings": "2024-08-03T23:57:33.7085046+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:25.4691628+00:00"
 }
