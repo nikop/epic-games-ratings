@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-23",
   "Ranking_Rating": 983,
   "Ranking_Popularity": 600,
-  "Ranking_PopularitySum": 493,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -919,10 +919,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 201,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-04T06:00:22.6489537+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 221,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 201,
+  "NumberOfAwards": 221,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -979,6 +985,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 3839,
@@ -3107,9 +3119,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-08-03T23:58:56.327115+00:00",
+  "LastChanged": "2024-08-04T06:00:22.6489536+00:00",
   "LastChanged_Achievements": "2024-07-25T19:04:32.1694332+00:00",
   "LastUpdate_AppInfo": "2024-07-31T15:57:04.4271967+00:00",
-  "LastUpdate_Ratings": "2024-08-04T04:01:42.6633811+00:00",
+  "LastUpdate_Ratings": "2024-08-04T06:00:22.648954+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:32.1694586+00:00"
 }

@@ -30227,10 +30227,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 979355,
       "NumberOfAwardsMax": 344402
+    },
+    {
+      "Time": "2024-08-04T05:58:22.4596704+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 979435,
+      "NumberOfAwardsMax": 344402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 979355,
+  "NumberOfAwards": 979435,
   "NumberOfAwardsMax": 344402,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -30268,7 +30274,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 43752
+      "Count": 43832
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -30330,8 +30336,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-08-04T02:05:05.9307348+00:00",
+  "LastChanged": "2024-08-04T05:58:22.4596702+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:26.6384486+00:00",
-  "LastUpdate_Ratings": "2024-08-04T03:59:40.7157559+00:00",
+  "LastUpdate_Ratings": "2024-08-04T05:58:22.4596708+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:07:04.717553+00:00"
 }
