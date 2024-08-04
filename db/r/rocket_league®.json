@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 803,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -13340,10 +13340,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 5342575,
       "NumberOfAwardsMax": 905526
+    },
+    {
+      "Time": "2024-08-04T16:57:26.0236626+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5345586,
+      "NumberOfAwardsMax": 905526
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5342575,
+  "NumberOfAwards": 5345586,
   "NumberOfAwardsMax": 905526,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -13375,13 +13381,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 686597
+      "Count": 687558
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 651263
+      "Count": 652080
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13393,13 +13399,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 556481
+      "Count": 557047
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 544391
+      "Count": 545058
     },
     {
       "Text": "This game has Challenging Combat",
@@ -46808,9 +46814,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-08-04T14:58:23.4100969+00:00",
+  "LastChanged": "2024-08-04T16:57:26.0236624+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:34.8154769+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:47.9804486+00:00",
-  "LastUpdate_Ratings": "2024-08-04T14:58:23.4100974+00:00",
+  "LastUpdate_Ratings": "2024-08-04T16:57:26.0236633+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:34.8156831+00:00"
 }
