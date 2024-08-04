@@ -3,7 +3,7 @@
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
   "Ranking_Rating": 1007,
-  "Ranking_Popularity": 359,
+  "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -3350,11 +3350,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 1564,
       "NumberOfAwardsMax": 189
+    },
+    {
+      "Time": "2024-08-04T20:57:52.9267107+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 1567,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1564,
-  "NumberOfAwardsMax": 189,
+  "NumberOfAwards": 1567,
+  "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3373,7 +3379,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 145
+      "Count": 146
     },
     {
       "Text": "This game is Relaxing",
@@ -3397,7 +3403,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3427,7 +3433,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 140
+      "Count": 141
     }
   ],
   "EOS_Progressed": 0,
@@ -3442,8 +3448,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2024-08-02T23:57:38.712736+00:00",
+  "LastChanged": "2024-08-04T20:57:52.9267105+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:05.0043924+00:00",
-  "LastUpdate_Ratings": "2024-08-04T18:58:53.0709693+00:00",
+  "LastUpdate_Ratings": "2024-08-04T20:57:52.9267113+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:02.3011243+00:00"
 }

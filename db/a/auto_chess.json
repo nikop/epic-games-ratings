@@ -2,7 +2,7 @@
   "ID": "37baf50c268d47779020d73143bb02b0",
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
-  "Ranking_Rating": 671,
+  "Ranking_Rating": 670,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 1141,
@@ -7510,10 +7510,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7008,
       "NumberOfAwardsMax": 997
+    },
+    {
+      "Time": "2024-08-04T20:57:58.5557425+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7009,
+      "NumberOfAwardsMax": 997
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7008,
+  "NumberOfAwards": 7009,
   "NumberOfAwardsMax": 997,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7575,7 +7581,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 539
+      "Count": 540
     },
     {
       "Text": "This game has a Competitive Community",
@@ -7595,8 +7601,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2024-08-04T17:01:31.4309264+00:00",
+  "LastChanged": "2024-08-04T20:57:58.5557423+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:58:05.2743596+00:00",
-  "LastUpdate_Ratings": "2024-08-04T18:58:56.9731049+00:00",
+  "LastUpdate_Ratings": "2024-08-04T20:57:58.5557429+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:10.4235003+00:00"
 }

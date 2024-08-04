@@ -2,7 +2,7 @@
   "ID": "fb9cd4d7c3cd49108b09aec351470fda",
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 802,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 411,
@@ -22,11 +22,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2024-07-22T13:57:41.0632467+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-04T20:58:46.7165928+00:00",
+      "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3091,9 +3097,9 @@
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenRating": "2024-07-22T13:57:41.0632464+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged": "2024-07-22T13:57:41.0632465+00:00",
+  "LastChanged": "2024-08-04T20:58:46.7165925+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:31.9317741+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:50.2935633+00:00",
-  "LastUpdate_Ratings": "2024-08-04T18:59:28.6095114+00:00",
+  "LastUpdate_Ratings": "2024-08-04T20:58:46.7165931+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:31.9318334+00:00"
 }
