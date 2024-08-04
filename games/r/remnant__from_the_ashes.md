@@ -1,11 +1,11 @@
 # Remnant: From the Ashes
 [Store](https://store.epicgames.com/en-US/p/remnant-from-the-ashes)  
 [View Rawdata](../../db/r/remnant__from_the_ashes.json)  
-Rating: 4.61 (Ranked 432)  
+Rating: 4.61 (Ranked 431)  
 Number of Ratings: 12,107  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 11,753  (Ranked 49)  
-Sum: 18,486 (Ranked 78)  
+Sum: 18,487 (Ranked 78)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -29
 | This game has Diverse Characters | 859 |
 | This game has Quickly Understood Controls | 857 |
 | This game has Amazing Storytelling | 840 |
-| This game is Relaxing | 786 |
+| This game is Relaxing | 787 |
 | This game has Amazing Characters | 785 |
 | This game has Obsessive Gameplay | 419 |
 | This game has Unique Visuals | 305 |
@@ -581,4 +581,4 @@ Diff (max vs sum): -29
 | 2024-08-01 | 4.61 | - | 11,734 | 18,445 |
 | 2024-08-02 | 4.61 | - | 11,743 | 18,458 |
 | 2024-08-03 | 4.61 | - | 11,753 | 18,479 |
-| 2024-08-04 | 4.61 | - | 11,753 | 18,486 |
+| 2024-08-04 | 4.61 | - | 11,753 | 18,487 |
