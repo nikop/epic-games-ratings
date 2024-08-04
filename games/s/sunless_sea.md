@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.60 (Ranked 462)  
+Rating: 4.60 (Ranked 464)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -349,13 +349,13 @@ Completed: 4 (0.01%) (Ranked 503)
 | 2024-06-17 | 52,242 | 4 |
 ## Awards
 Max (Character Customization): 240  (Ranked 329)  
-Sum: 414 (Ranked 412)  
+Sum: 415 (Ranked 412)  
 Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 240 |
 | This game has Amazing Storytelling | 30 |
-| This game has Unique Visuals | 28 |
+| This game has Unique Visuals | 29 |
 | This game is Relaxing | 24 |
 | This game has Diverse Characters | 24 |
 | This game is Highly Recommended | 24 |
@@ -514,3 +514,4 @@ Diff (max vs sum): -83
 | 2024-07-24 | 4.60 | - | 237 | 410 |
 | 2024-07-25 | 4.60 | - | 239 | 412 |
 | 2024-08-02 | 4.60 | - | 240 | 414 |
+| 2024-08-04 | 4.60 | - | 240 | 415 |

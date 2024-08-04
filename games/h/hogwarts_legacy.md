@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.73 (Ranked 195)  
+Rating: 4.73 (Ranked 196)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -340,15 +340,15 @@ Completed: 754 (0.18%) (Ranked 373)
 | 2024-06-17 | 419,052 | 754 |
 ## Awards
 Max (Character Customization): 41,517  (Ranked 17)  
-Sum: 95,131 (Ranked 22)  
+Sum: 95,147 (Ranked 22)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 41,517 |
 | This game has Great Boss Battles | 23,936 |
-| This game is Great for Beginners | 3,396 |
+| This game is Great for Beginners | 3,404 |
 | This game has Diverse Characters | 3,181 |
-| This game has Amazing Storytelling | 3,171 |
+| This game has Amazing Storytelling | 3,179 |
 | This game is Extremely Fun | 3,167 |
 | This game is Relaxing | 3,111 |
 | This game is Highly Recommended | 3,043 |
@@ -858,4 +858,4 @@ Diff (max vs sum): -5
 | 2024-08-01 | 4.73 | 41,403 | 94,833 |
 | 2024-08-02 | 4.73 | 41,461 | 94,982 |
 | 2024-08-03 | 4.73 | 41,517 | 95,113 |
-| 2024-08-04 | 4.73 | 41,517 | 95,131 |
+| 2024-08-04 | 4.73 | 41,517 | 95,147 |

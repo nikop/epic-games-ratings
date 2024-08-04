@@ -1,7 +1,7 @@
 # Figment
 [Store](https://store.epicgames.com/en-US/p/figment)  
 [View Rawdata](../../db/f/figment.json)  
-Rating: 4.48 (Ranked 711)  
+Rating: 4.48 (Ranked 712)  
 Number of Ratings: 109  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 654)  
