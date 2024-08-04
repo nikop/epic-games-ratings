@@ -4,7 +4,7 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 409,
   "Ranking_Popularity": 323,
-  "Ranking_PopularitySum": 464,
+  "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1037,10 +1037,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 252
+    },
+    {
+      "Time": "2024-08-04T06:58:16.4972682+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 252
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 252,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1054,7 +1060,7 @@
       "Text": "This game is Hard for Beginners",
       "Prefix": "This game is",
       "Type": "Hard for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1069,8 +1075,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-08-02T02:59:39.0186055+00:00",
+  "LastChanged": "2024-08-04T06:58:16.497268+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:31.2518956+00:00",
-  "LastUpdate_Ratings": "2024-08-04T04:59:39.8096072+00:00",
+  "LastUpdate_Ratings": "2024-08-04T06:58:16.4972684+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:46.8883023+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "The Telltale Batman Shadows Edition",
   "ProductSlug": "the-telltale-batman",
   "Ranking_Rating": 130,
-  "Ranking_Popularity": 477,
+  "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 568,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -591,18 +591,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-08-04T06:59:36.7903256+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
-  "NumberOfAwardsMax": 80,
+  "NumberOfAwards": 81,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 80
+      "Count": 81
     }
   ],
   "EOS_Progressed": 0,
@@ -616,8 +622,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2024-07-27T14:57:23.3147891+00:00",
+  "LastChanged": "2024-08-04T06:59:36.7903253+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:45.494543+00:00",
-  "LastUpdate_Ratings": "2024-08-04T05:00:55.6449303+00:00",
+  "LastUpdate_Ratings": "2024-08-04T06:59:36.7903259+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:40.9898511+00:00"
 }

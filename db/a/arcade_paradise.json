@@ -4,7 +4,7 @@
   "ProductSlug": "arcade-paradise",
   "Ranking_Rating": 917,
   "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 521,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -403,10 +403,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 139,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-08-04T06:58:09.6016829+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 139,
+  "NumberOfAwards": 161,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -439,6 +445,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 789,
@@ -1835,9 +1847,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-08-03T20:59:26.5410695+00:00",
+  "LastChanged": "2024-08-04T06:58:09.6016827+00:00",
   "LastChanged_Achievements": "2024-06-17T16:13:05.1254949+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:10.0370821+00:00",
-  "LastUpdate_Ratings": "2024-08-04T04:59:33.443227+00:00",
+  "LastUpdate_Ratings": "2024-08-04T06:58:09.6016831+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:05.1255325+00:00"
 }
