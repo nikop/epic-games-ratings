@@ -1,10 +1,10 @@
 # Islets
 [Store](https://store.epicgames.com/en-US/p/islets-5f2670)  
 [View Rawdata](../../db/i/islets.json)  
-Rating: 4.71 (Ranked 224)  
+Rating: 4.71 (Ranked 223)  
 ## Awards
 Max (Great for Beginners): 44  (Ranked 550)  
-Sum: 303 (Ranked 453)  
+Sum: 304 (Ranked 453)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 97
 | This game is Relaxing | 36 |
 | This game is Great for Quick Sessions | 35 |
 | This game has Amazing Storytelling | 33 |
-| This game has Amazing Characters | 29 |
+| This game has Amazing Characters | 30 |
 | This game has Playful Visuals | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -113,3 +113,4 @@ Diff (max vs sum): 97
 | 2024-07-31 | 4.72 | 42 | 298 |
 | 2024-08-01 | 4.72 | 42 | 299 |
 | 2024-08-03 | 4.71 | 44 | 303 |
+| 2024-08-04 | 4.71 | 44 | 304 |

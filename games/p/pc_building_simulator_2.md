@@ -1,7 +1,7 @@
 # PC Building Simulator 2
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator-2)  
 [View Rawdata](../../db/p/pc_building_simulator_2.json)  
-Rating: 4.59 (Ranked 484)  
+Rating: 4.59 (Ranked 485)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

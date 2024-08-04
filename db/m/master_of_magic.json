@@ -2,7 +2,7 @@
   "ID": "138f49a79acc42f2bbc9bde86ad33b75",
   "Name": "Master of Magic",
   "ProductSlug": "master-of-magic",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 284,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:34.5096652+00:00",
@@ -59,6 +59,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-04T19:57:46.8838398+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -77,8 +83,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-14T16:58:58.1255887+00:00",
   "FirstSeenRating": "2023-03-31T05:58:34.5096649+00:00",
-  "LastChanged": "2024-04-01T14:59:29.2211944+00:00",
+  "LastChanged": "2024-08-04T19:57:46.8838396+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:15.4354389+00:00",
-  "LastUpdate_Ratings": "2024-08-04T17:58:52.1423401+00:00",
+  "LastUpdate_Ratings": "2024-08-04T19:57:46.8838403+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:18.0704313+00:00"
 }
