@@ -46,7 +46,7 @@
 | [Globe Go](games/6/68a38fd9bc32457caaf02d55b7e7fe18.md) | 2024-07-24 | - |  | - | - |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
 | [Strike Protocol](games/8/81166c1b906a438ba914544318339de1.md) | 2024-07-24 | - |  | - | - |
-| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | 4.46 | 0 |
+| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | 4.48 | 0 |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | 34 (1,000 XP) | 3 | - | 0 |
 | [Werewolf: The Apocalypse - Purgatory](games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 2024-07-23 | 47 (1,000 XP) | 0 | - | - |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 794 | 4.62 | 0 |
@@ -54,7 +54,7 @@
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | - |  | - | 0 |
 | [Extreme Climbing Mirage City](games/a/a3044ee7c09245fc833224d5f57550a2.md) | 2024-07-22 | - |  | - | - |
 | [NINJA KATO 4](games/e/e44eb86202844dfe9644e88d0c9c232a.md) | 2024-07-21 | 6 (1,000 XP) | 2 | - | - |
-| [Intonight](games/0/05b4ad092cdc434b8a078c9a645f31a9.md) | 2024-07-21 | - |  | 4.14 | 0 |
+| [Intonight](games/0/05b4ad092cdc434b8a078c9a645f31a9.md) | 2024-07-21 | - |  | 4.08 | 0 |
 | [Valor Rising: Quest for the 7](games/5/580aa156a1fb43eeb45e5c6e39d18d20.md) | 2024-07-20 | - |  | - | 0 |
 | [Roll the Dark Heart](games/7/7ffc08b0c9be43d59113d0e72d95605f.md) | 2024-07-19 | - |  | - | - |
 | [Astro Wars](games/3/3115ba037dbf4ef18d21e24422ee9c7a.md) | 2024-07-19 | - |  | - | 0 |
