@@ -2749,10 +2749,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 822,
       "NumberOfAwardsMax": 377
+    },
+    {
+      "Time": "2024-08-04T22:57:02.0264966+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 823,
+      "NumberOfAwardsMax": 377
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 822,
+  "NumberOfAwards": 823,
   "NumberOfAwardsMax": 377,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2820,7 +2826,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 30
+      "Count": 31
     }
   ],
   "EOS_Progressed": 261525,
@@ -29474,9 +29480,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-08-04T18:59:27.7932705+00:00",
+  "LastChanged": "2024-08-04T22:57:02.0264964+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:36.225163+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:49.9746488+00:00",
-  "LastUpdate_Ratings": "2024-08-04T20:58:45.5573287+00:00",
+  "LastUpdate_Ratings": "2024-08-04T22:57:02.0264974+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:36.2253576+00:00"
 }

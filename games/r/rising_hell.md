@@ -4,12 +4,12 @@
 Rating: 4.40 (Ranked 861)  
 ## Awards
 Max (Quickly Understood Controls): 76  (Ranked 485)  
-Sum: 689 (Ranked 367)  
+Sum: 690 (Ranked 367)  
 Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 76 |
-| This game has Amazing Storytelling | 69 |
+| This game has Amazing Storytelling | 70 |
 | This game has Diverse Characters | 69 |
 | This game is Relaxing | 65 |
 | This game has Unique Visuals | 64 |
@@ -78,3 +78,4 @@ Diff (max vs sum): 118
 | 2024-07-30 | 4.40 | 76 | 686 |
 | 2024-07-31 | 4.40 | 76 | 688 |
 | 2024-08-01 | 4.40 | 76 | 689 |
+| 2024-08-04 | 4.40 | 76 | 690 |
