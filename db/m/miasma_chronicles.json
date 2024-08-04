@@ -2,9 +2,9 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 711,
-  "Ranking_Popularity": 568,
-  "Ranking_PopularitySum": 617,
+  "Ranking_Rating": 712,
+  "Ranking_Popularity": 563,
+  "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -487,18 +487,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 39,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-08-04T13:57:39.6973644+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 40,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39,
-  "NumberOfAwardsMax": 39,
+  "NumberOfAwards": 40,
+  "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 39
+      "Count": 40
     }
   ],
   "EOS_Progressed": 1870,
@@ -5196,9 +5202,9 @@
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged": "2024-07-27T22:58:34.6874377+00:00",
+  "LastChanged": "2024-08-04T13:57:39.6973642+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:32.3197309+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:51.077331+00:00",
-  "LastUpdate_Ratings": "2024-08-04T11:58:39.4343103+00:00",
+  "LastUpdate_Ratings": "2024-08-04T13:57:39.6973647+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:32.3197843+00:00"
 }
