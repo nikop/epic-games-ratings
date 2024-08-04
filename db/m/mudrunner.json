@@ -4,7 +4,7 @@
   "ProductSlug": "mudrunner",
   "Ranking_Rating": 463,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 227,
+  "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -5279,10 +5279,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2621,
       "NumberOfAwardsMax": 374
+    },
+    {
+      "Time": "2024-08-04T17:58:33.228881+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2623,
+      "NumberOfAwardsMax": 374
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2621,
+  "NumberOfAwards": 2623,
   "NumberOfAwardsMax": 374,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5308,7 +5314,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 306
+      "Count": 308
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5364,8 +5370,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-08-03T20:58:56.3220658+00:00",
+  "LastChanged": "2024-08-04T17:58:33.2288809+00:00",
   "LastUpdate_AppInfo": "2024-07-29T09:57:28.5392555+00:00",
-  "LastUpdate_Ratings": "2024-08-04T16:01:15.7553125+00:00",
+  "LastUpdate_Ratings": "2024-08-04T17:58:33.2288813+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:02:57.6790599+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 17)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 813  (Ranked 211)  
-Sum: 1,231 (Ranked 296)  
+Sum: 1,232 (Ranked 296)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -85
 | This game has Unique Visuals | 40 |
 | This game has Easy Combat | 40 |
 | This game has Amazing Characters | 35 |
-| This game has Quickly Understood Controls | 31 |
+| This game has Quickly Understood Controls | 32 |
 | This game has a Creative Community | 29 |
 | This game is Relaxing | 25 |
 ## Ratings History
@@ -370,4 +370,4 @@ Diff (max vs sum): -85
 | 2024-08-01 | 4.87 | - | 807 | 1,221 |
 | 2024-08-02 | 4.87 | - | 812 | 1,227 |
 | 2024-08-03 | 4.87 | - | 812 | 1,230 |
-| 2024-08-04 | 4.87 | - | 813 | 1,231 |
+| 2024-08-04 | 4.87 | - | 813 | 1,232 |
