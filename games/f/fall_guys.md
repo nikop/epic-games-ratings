@@ -330,7 +330,7 @@ Completed: 57,368 (0.14%) (Ranked 390)
 | 2024-07-24 | 40,265,234 | 57,368 |
 ## Awards
 Max (Great for Beginners): 163,429  (Ranked 8)  
-Sum: 1,452,884 (Ranked 5)  
+Sum: 1,452,920 (Ranked 5)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): 3
 | This game has Competitive Players | 138,884 |
 | This game has Diverse Characters | 138,538 |
 | This game has Quickly Understood Controls | 138,371 |
-| This game is Extremely Fun | 127,188 |
+| This game is Extremely Fun | 127,224 |
 | This game is Highly Recommended | 121,918 |
 | This game has Amazing Characters | 118,158 |
 | This game has Amazing Storytelling | 111,944 |
@@ -905,4 +905,4 @@ Diff (max vs sum): 3
 | 2024-08-01 | 4.50 | - | 163,244 | 1,451,599 |
 | 2024-08-02 | 4.50 | - | 163,350 | 1,452,116 |
 | 2024-08-03 | 4.50 | - | 163,429 | 1,452,633 |
-| 2024-08-04 | 4.50 | - | 163,429 | 1,452,884 |
+| 2024-08-04 | 4.50 | - | 163,429 | 1,452,920 |

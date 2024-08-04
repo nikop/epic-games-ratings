@@ -2,7 +2,7 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 378,
   "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:50.8966306+00:00",
@@ -4081,6 +4081,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1025,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-08-04T18:57:39.8147305+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1025,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
@@ -4173,8 +4179,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-08-04T08:57:58.1169229+00:00",
+  "LastChanged": "2024-08-04T18:57:39.8147303+00:00",
   "LastUpdate_AppInfo": "2024-07-29T06:57:08.2079469+00:00",
-  "LastUpdate_Ratings": "2024-08-04T16:59:32.9326963+00:00",
+  "LastUpdate_Ratings": "2024-08-04T18:57:39.8147309+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:35.8371618+00:00"
 }

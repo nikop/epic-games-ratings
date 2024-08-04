@@ -2,9 +2,9 @@
   "ID": "749a943da8ca4937883c195aea8b2652",
   "Name": "Gods Unchained",
   "ProductSlug": "gods-unchained-9b2cb5",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 711,
   "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 525,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-07-14T19:57:17.9448105+00:00",
@@ -659,10 +659,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 135,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-08-04T18:59:28.4845049+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 137,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 135,
+  "NumberOfAwards": 137,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -670,7 +676,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Great for Beginners",
@@ -682,7 +688,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Challenging Combat",
@@ -703,8 +709,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-08-04T13:59:19.416628+00:00",
+  "LastChanged": "2024-08-04T18:59:28.4845047+00:00",
   "LastUpdate_AppInfo": "2024-08-02T11:56:59.4282378+00:00",
-  "LastUpdate_Ratings": "2024-08-04T17:57:12.3293302+00:00",
+  "LastUpdate_Ratings": "2024-08-04T18:59:28.4845053+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:19.1447873+00:00"
 }
