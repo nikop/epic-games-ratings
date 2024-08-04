@@ -1,7 +1,7 @@
 # Operation New Earth
 [Store](https://store.epicgames.com/en-US/p/operation-new-earth-1d27c4)  
 [View Rawdata](../../db/o/operation_new_earth.json)  
-Rating: 3.57 (Ranked 1,247)  
+Rating: 3.52 (Ranked 1,247)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -315,3 +315,4 @@ Completed: 1 (0.03%) (Ranked 469)
 | 2024-07-09 | 3.52 | 0 | 0 |
 | 2024-07-30 | 3.55 | 0 | 0 |
 | 2024-08-01 | 3.57 | 0 | 0 |
+| 2024-08-04 | 3.52 | 0 | 0 |

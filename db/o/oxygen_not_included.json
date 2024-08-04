@@ -4,7 +4,7 @@
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 46,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 224,
+  "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -3698,10 +3698,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2625,
       "NumberOfAwardsMax": 313
+    },
+    {
+      "Time": "2024-08-04T14:59:21.5908527+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2627,
+      "NumberOfAwardsMax": 313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2625,
+  "NumberOfAwards": 2627,
   "NumberOfAwardsMax": 313,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3769,7 +3775,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 258
+      "Count": 260
     }
   ],
   "EOS_Progressed": 0,
@@ -3783,8 +3789,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-08-03T14:58:06.9150451+00:00",
+  "LastChanged": "2024-08-04T14:59:21.5908525+00:00",
   "LastUpdate_AppInfo": "2024-07-29T05:57:15.6360355+00:00",
-  "LastUpdate_Ratings": "2024-08-04T13:04:39.9617462+00:00",
+  "LastUpdate_Ratings": "2024-08-04T14:59:21.5908531+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:39.38716+00:00"
 }
