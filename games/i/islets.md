@@ -1,7 +1,7 @@
 # Islets
 [Store](https://store.epicgames.com/en-US/p/islets-5f2670)  
 [View Rawdata](../../db/i/islets.json)  
-Rating: 4.71 (Ranked 223)  
+Rating: 4.71 (Ranked 224)  
 ## Awards
 Max (Great for Beginners): 45  (Ranked 549)  
 Sum: 305 (Ranked 452)  

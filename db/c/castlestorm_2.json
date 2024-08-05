@@ -2,7 +2,7 @@
   "ID": "ed355406eacb4633a648f682ddb492b8",
   "Name": "CastleStorm 2",
   "ProductSlug": "castlestorm2",
-  "Ranking_Rating": 959,
+  "Ranking_Rating": 969,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:48.4221754+00:00",
@@ -37,6 +37,12 @@
     {
       "Time": "2024-04-15T09:57:21.8221891+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-05T18:59:31.8134988+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -57,8 +63,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:31.5303918+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.4221752+00:00",
-  "LastChanged": "2024-04-15T09:57:21.8221889+00:00",
+  "LastChanged": "2024-08-05T18:59:31.8134987+00:00",
   "LastUpdate_AppInfo": "2024-08-05T03:57:11.994159+00:00",
-  "LastUpdate_Ratings": "2024-08-05T17:00:31.8313438+00:00",
+  "LastUpdate_Ratings": "2024-08-05T18:59:31.8134992+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:15.09775+00:00"
 }
