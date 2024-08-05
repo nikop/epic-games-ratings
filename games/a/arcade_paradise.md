@@ -176,8 +176,8 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-06-17 | 789 | 0 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 591)  
-Sum: 165 (Ranked 509)  
-Diff (max vs sum): 82  
+Sum: 185 (Ranked 506)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 34 |
@@ -186,6 +186,7 @@ Diff (max vs sum): 82
 | This game is Extremely Fun | 22 |
 | This game has Amazing Storytelling | 22 |
 | This game has Amazing Characters | 20 |
+| This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -222,3 +223,4 @@ Diff (max vs sum): 82
 | 2024-08-02 | 4.36 | 32 | 108 |
 | 2024-08-03 | 4.36 | 34 | 139 |
 | 2024-08-04 | 4.36 | 34 | 165 |
+| 2024-08-05 | 4.36 | 34 | 185 |
