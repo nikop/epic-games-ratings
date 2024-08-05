@@ -4,7 +4,7 @@
   "ProductSlug": "armored-warfare",
   "Ranking_Rating": 1182,
   "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2967,10 +2967,16 @@
       "Rating": 4.01,
       "NumberOfAwards": 875,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2024-08-05T06:58:30.0682344+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 878,
+      "NumberOfAwardsMax": 142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 875,
+  "NumberOfAwards": 878,
   "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3020,7 +3026,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 126
+      "Count": 129
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3046,8 +3052,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2024-08-04T19:57:12.7351583+00:00",
+  "LastChanged": "2024-08-05T06:58:30.0682343+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:13.5715477+00:00",
-  "LastUpdate_Ratings": "2024-08-05T04:59:15.0468813+00:00",
+  "LastUpdate_Ratings": "2024-08-05T06:58:30.0682347+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:02:40.2215226+00:00"
 }
