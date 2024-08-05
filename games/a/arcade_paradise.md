@@ -176,14 +176,14 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-06-17 | 789 | 0 |
 ## Awards
 Max (Highly Recommended): 34  (Ranked 592)  
-Sum: 165 (Ranked 509)  
-Diff (max vs sum): 83  
+Sum: 167 (Ranked 510)  
+Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 34 |
 | This game is Great for Beginners | 34 |
 | This game is Relaxing | 33 |
-| This game is Extremely Fun | 22 |
+| This game is Extremely Fun | 24 |
 | This game has Amazing Storytelling | 22 |
 | This game has Amazing Characters | 20 |
 | This game has Easy Combat | 20 |

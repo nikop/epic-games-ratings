@@ -3,8 +3,8 @@
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 976,
-  "Ranking_Popularity": 538,
-  "Ranking_PopularitySum": 440,
+  "Ranking_Popularity": 534,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -625,18 +625,24 @@
       "Rating": 4.31,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-08-05T13:59:35.3321196+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 339,
+  "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game is Relaxing",
@@ -711,8 +717,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-08-05T11:00:04.0367555+00:00",
+  "LastChanged": "2024-08-05T13:59:35.3321194+00:00",
   "LastUpdate_AppInfo": "2024-07-30T15:57:02.8808859+00:00",
-  "LastUpdate_Ratings": "2024-08-05T13:10:17.7244867+00:00",
+  "LastUpdate_Ratings": "2024-08-05T13:59:35.3321199+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:17.8840829+00:00"
 }
