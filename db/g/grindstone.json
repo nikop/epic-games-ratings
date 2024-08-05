@@ -2,7 +2,7 @@
   "ID": "76355dbd22b249d9a6f77790aba9547b",
   "Name": "Grindstone",
   "ProductSlug": "grindstone",
-  "Ranking_Rating": 46,
+  "Ranking_Rating": 58,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 261,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 63,
   "RatingHistory": [
     {
@@ -219,6 +219,12 @@
     {
       "Time": "2024-03-26T05:00:23.0577017+00:00",
       "Rating": 4.84,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-05T07:59:33.5021944+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1675,9 +1681,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
-  "LastChanged": "2024-03-26T05:00:23.0577014+00:00",
+  "LastChanged": "2024-08-05T07:59:33.5021942+00:00",
   "LastChanged_Achievements": "2024-07-09T22:04:44.1354464+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:07.0019546+00:00",
-  "LastUpdate_Ratings": "2024-08-05T05:59:48.427673+00:00",
+  "LastUpdate_Ratings": "2024-08-05T07:59:33.502196+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:44.1354829+00:00"
 }
