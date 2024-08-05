@@ -4,7 +4,7 @@
   "ProductSlug": "rollercoaster-tycoon-3-complete-edition",
   "Ranking_Rating": 341,
   "Ranking_Popularity": 496,
-  "Ranking_PopularitySum": 394,
+  "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1514,10 +1514,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 512,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-08-05T02:00:04.4222781+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 513,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 512,
+  "NumberOfAwards": 513,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1573,7 +1579,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1605,8 +1611,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:06.1047421+00:00",
-  "LastChanged": "2024-08-04T11:57:26.0466462+00:00",
+  "LastChanged": "2024-08-05T02:00:04.4222779+00:00",
   "LastUpdate_AppInfo": "2024-07-29T01:58:51.2879379+00:00",
-  "LastUpdate_Ratings": "2024-08-04T23:00:15.059405+00:00",
+  "LastUpdate_Ratings": "2024-08-05T02:00:04.4222785+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:10:13.9405585+00:00"
 }
