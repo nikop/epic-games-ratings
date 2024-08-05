@@ -4,7 +4,7 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 884,
   "Ranking_Popularity": 427,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2748,10 +2748,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 689,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2024-08-05T17:00:21.5145783+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 690,
+      "NumberOfAwardsMax": 115
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 689,
+  "NumberOfAwards": 690,
   "NumberOfAwardsMax": 115,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2783,7 +2789,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2833,8 +2839,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2024-08-04T15:59:59.7145433+00:00",
+  "LastChanged": "2024-08-05T17:00:21.5145781+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:07.2390658+00:00",
-  "LastUpdate_Ratings": "2024-08-05T15:58:05.2559217+00:00",
+  "LastUpdate_Ratings": "2024-08-05T17:00:21.5145787+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:51.9179883+00:00"
 }

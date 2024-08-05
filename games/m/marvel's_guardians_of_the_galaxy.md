@@ -1,11 +1,11 @@
 # Marvel's Guardians of the Galaxy
 [Store](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy)  
 [View Rawdata](../../db/m/marvel's_guardians_of_the_galaxy.json)  
-Rating: 4.62 (Ranked 410)  
+Rating: 4.62 (Ranked 409)  
 Number of Ratings: 898  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 12,512  (Ranked 46)  
-Sum: 16,734 (Ranked 84)  
+Sum: 16,737 (Ranked 84)  
 Diff (max vs sum): -38  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -38
 | This game is Extremely Fun | 488 |
 | This game is Relaxing | 482 |
 | This game has Amazing Characters | 478 |
-| This game has Quickly Understood Controls | 440 |
+| This game has Quickly Understood Controls | 443 |
 | This game has a Creative Community | 281 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -432,4 +432,4 @@ Diff (max vs sum): -38
 | 2024-08-02 | 4.62 | - | 12,398 | 16,576 |
 | 2024-08-03 | 4.62 | - | 12,457 | 16,661 |
 | 2024-08-04 | 4.62 | - | 12,512 | 16,726 |
-| 2024-08-05 | 4.62 | - | 12,512 | 16,734 |
+| 2024-08-05 | 4.62 | - | 12,512 | 16,737 |
