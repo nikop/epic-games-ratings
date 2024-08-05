@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/stranded__alien_dawn.json)  
 Rating: 4.58 (Ranked 503)  
 ## Awards
-Max (Great for Beginners): 35  (Ranked 586)  
+Max (Great for Beginners): 35  (Ranked 587)  
 Sum: 79 (Ranked 571)  
-Diff (max vs sum): 15  
+Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |

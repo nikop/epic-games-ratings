@@ -229,6 +229,13 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-07 | 1,289 | 0 |
 | 2024-04-10 | 1,291 | 0 |
 | 2024-06-17 | 83,765 | 0 |
+## Awards
+Max (Beautiful Visuals): 20  (Ranked 669)  
+Sum: 20 (Ranked 670)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Beautiful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -276,3 +283,4 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-07-27 | 4.53 | 0 | 0 |
 | 2024-07-30 | 4.54 | 0 | 0 |
 | 2024-08-02 | 4.55 | 0 | 0 |
+| 2024-08-05 | 4.55 | 20 | 20 |
