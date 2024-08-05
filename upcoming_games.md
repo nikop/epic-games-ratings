@@ -426,6 +426,7 @@
 | [Highway Police Simulator](games/7/7845c6fd0d5e47cd8ca951c3053209db.md) | 2099-01-01 | - |  | - | - |
 | [Hit and Boom](games/h/hit_and_boom.md) | 2099-01-01 | - |  | - | - |
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |
+| [Holy Clash Cards](games/0/0211b3c0025c4883a872953748c73b65.md) | 2099-01-01 | - |  | - | - |
 | [Homaysa](games/9/98e145c3fa464271a0ee3e6d6f6bf75f.md) | 2099-01-01 | - |  | - | - |
 | [Horizon Heat](games/c/c0ec8837e5e248259075443e531da3ab.md) | 2099-01-01 | - |  | - | - |
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2099-01-01 | - |  | - | - |
