@@ -2,7 +2,7 @@
   "ID": "158a0eaa18574bb39347c04286d118c7",
   "Name": "SLUDGE LIFE",
   "ProductSlug": "sludge-life",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 679,
   "Ranking_PopularitySum": 679,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 176,
   "RatingHistory": [
     {
@@ -419,6 +419,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-05T21:57:30.6252381+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -436,8 +442,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:12.4151557+00:00",
-  "LastChanged": "2024-01-25T13:10:16.2987183+00:00",
+  "LastChanged": "2024-08-05T21:57:30.6252379+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:24.334882+00:00",
-  "LastUpdate_Ratings": "2024-08-05T19:59:32.6528763+00:00",
+  "LastUpdate_Ratings": "2024-08-05T21:57:30.6252389+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:32.3726396+00:00"
 }

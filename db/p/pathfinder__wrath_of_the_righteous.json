@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 147,
   "Ranking_Popularity": 141,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 215,
@@ -6927,18 +6927,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7728,
       "NumberOfAwardsMax": 1880
+    },
+    {
+      "Time": "2024-08-05T22:00:46.2633461+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7735,
+      "NumberOfAwardsMax": 1882
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7728,
-  "NumberOfAwardsMax": 1880,
+  "NumberOfAwards": 7735,
+  "NumberOfAwardsMax": 1882,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1880
+      "Count": 1882
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6956,7 +6962,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 708
+      "Count": 709
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6968,7 +6974,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 711
+      "Count": 714
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6998,7 +7004,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 446
+      "Count": 447
     }
   ],
   "EOS_Progressed": 14278,
@@ -23464,9 +23470,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-08-05T11:57:14.3811365+00:00",
+  "LastChanged": "2024-08-05T22:00:46.2633459+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:37.1533291+00:00",
   "LastUpdate_AppInfo": "2024-08-05T03:57:10.4980482+00:00",
-  "LastUpdate_Ratings": "2024-08-05T20:58:06.1785343+00:00",
+  "LastUpdate_Ratings": "2024-08-05T22:00:46.2633466+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:37.1536024+00:00"
 }
