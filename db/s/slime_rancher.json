@@ -2,7 +2,7 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 72,
+  "Ranking_Rating": 73,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 1141,
@@ -6377,10 +6377,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3931,
       "NumberOfAwardsMax": 563
+    },
+    {
+      "Time": "2024-08-05T17:57:13.3622727+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3932,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3931,
+  "NumberOfAwards": 3932,
   "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6436,7 +6442,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 401
+      "Count": 402
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6468,8 +6474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2024-08-05T11:57:38.1004503+00:00",
+  "LastChanged": "2024-08-05T17:57:13.3622725+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:58.9847178+00:00",
-  "LastUpdate_Ratings": "2024-08-05T15:58:37.3609283+00:00",
+  "LastUpdate_Ratings": "2024-08-05T17:57:13.3622731+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:05:11.1679919+00:00"
 }

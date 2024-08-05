@@ -2,7 +2,7 @@
   "ID": "2236052ecf0d480b838196b379726922",
   "Name": "OverTrip",
   "ProductSlug": "overtrip-79b8b0",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 783,
   "Ranking_Popularity": 678,
   "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
@@ -243,6 +243,6 @@
   "FirstSeenRating": "2024-07-16T20:58:34.8152521+00:00",
   "LastChanged": "2024-08-05T02:01:28.8648594+00:00",
   "LastUpdate_AppInfo": "2024-08-05T13:09:20.9119885+00:00",
-  "LastUpdate_Ratings": "2024-08-05T16:58:13.4085672+00:00",
+  "LastUpdate_Ratings": "2024-08-05T17:59:47.7868536+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:30.80513+00:00"
 }

@@ -2,6 +2,9 @@
   "ID": "cb54020e6f7344368b8b14b20d63952a",
   "Name": "The Legend of Heroes: Trails of Cold Steel III",
   "ProductSlug": "the-legend-of-heroes-trails-of-cold-steel-iii",
+  "Ranking_Rating": 36,
+  "Ranking_Popularity": 678,
+  "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
+  "Rating": 4.85,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.3788931+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-05T18:00:27.6304945+00:00",
+      "Rating": 4.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:00.7844929+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.3788928+00:00",
-  "LastChanged": "2023-03-31T05:56:57.3788929+00:00",
+  "LastChanged": "2024-08-05T18:00:27.6304943+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:04.86532+00:00",
-  "LastUpdate_Ratings": "2024-08-05T16:58:47.3751573+00:00",
+  "LastUpdate_Ratings": "2024-08-05T18:00:27.630495+00:00",
   "LastUpdate_Achievements": "2024-06-26T14:06:13.3117367+00:00"
 }

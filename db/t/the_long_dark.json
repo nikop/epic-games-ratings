@@ -2,7 +2,7 @@
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
-  "Ranking_Rating": 195,
+  "Ranking_Rating": 196,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 1141,
@@ -8423,10 +8423,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 6053,
       "NumberOfAwardsMax": 1006
+    },
+    {
+      "Time": "2024-08-05T17:57:32.6750254+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6055,
+      "NumberOfAwardsMax": 1006
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6053,
+  "NumberOfAwards": 6055,
   "NumberOfAwardsMax": 1006,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -8464,7 +8470,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 827
+      "Count": 829
     },
     {
       "Text": "This game has a Creative Community",
@@ -8490,8 +8496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2024-08-05T15:58:54.5879156+00:00",
+  "LastChanged": "2024-08-05T17:57:32.6750252+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:04.7815186+00:00",
-  "LastUpdate_Ratings": "2024-08-05T15:58:54.5879162+00:00",
+  "LastUpdate_Ratings": "2024-08-05T17:57:32.6750259+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:11.7014162+00:00"
 }
