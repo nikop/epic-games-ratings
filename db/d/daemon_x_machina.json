@@ -4,7 +4,7 @@
   "ProductSlug": "daemon-x-machina",
   "Ranking_Rating": 861,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 267,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2444,7 +2444,7 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
   "LastChanged": "2024-08-03T18:01:04.9711284+00:00",
-  "LastUpdate_AppInfo": "2024-07-29T09:57:46.3327027+00:00",
-  "LastUpdate_Ratings": "2024-08-05T08:59:30.3156478+00:00",
+  "LastUpdate_AppInfo": "2024-08-05T10:57:17.7179866+00:00",
+  "LastUpdate_Ratings": "2024-08-05T10:58:54.5549508+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:05.9829819+00:00"
 }
