@@ -21123,10 +21123,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 36078,
       "NumberOfAwardsMax": 10096
+    },
+    {
+      "Time": "2024-08-05T05:00:11.7603638+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 36079,
+      "NumberOfAwardsMax": 10096
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36078,
+  "NumberOfAwards": 36079,
   "NumberOfAwardsMax": 10096,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21152,7 +21158,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1965
+      "Count": 1966
     },
     {
       "Text": "This game is Highly Recommended",
@@ -21214,8 +21220,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-08-04T17:58:54.4248479+00:00",
+  "LastChanged": "2024-08-05T05:00:11.7603636+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:17.8223474+00:00",
-  "LastUpdate_Ratings": "2024-08-05T03:00:40.3314381+00:00",
+  "LastUpdate_Ratings": "2024-08-05T05:00:11.7603642+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:30.7432232+00:00"
 }
