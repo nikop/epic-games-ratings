@@ -241,6 +241,7 @@
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [Promise Mascot Agency](games/9/9cdcb83442bd412fa8d0c47704e358b7.md) | 2025-12-31 | - |  | - | - |
 | [Revomon Novus](games/5/555331295ae1426b921b8919bfc38039.md) | 2025-12-31 | - |  | - | - |
+| [Saturday Super Day](games/e/eb0a6b8162c44225b5226b51f3b4a6fa.md) | 2025-12-31 | - |  | - | - |
 | [Skyformer](games/0/04758c0780e24a16b433fa56456790d9.md) | 2025-12-31 | - |  | - | - |
 | [SpasmsOfStupidity](games/c/c56dd8ab2daf431c9feacc0fc87b42fc.md) | 2025-12-31 | - |  | - | - |
 | [Splitgate 2](games/7/7c5be037103c457a92ffc6e0d911be2e.md) | 2025-12-31 | - |  | - | - |
