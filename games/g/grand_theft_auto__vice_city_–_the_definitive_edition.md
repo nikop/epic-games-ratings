@@ -329,8 +329,8 @@ Completed: 144 (0.76%) (Ranked 269)
 | 2024-06-17 | 18,972 | 144 |
 ## Awards
 Max (Amazing Storytelling): 32  (Ranked 602)  
-Sum: 192 (Ranked 502)  
-Diff (max vs sum): 100  
+Sum: 216 (Ranked 488)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 177 |
@@ -340,8 +340,8 @@ Diff (max vs sum): 100
 | This game is Extremely Fun | 27 |
 | This game is Great for Beginners | 25 |
 | This game has Easy Combat | 24 |
+| This game is Relaxing | 24 |
 | This game has Quickly Understood Controls | 23 |
-| This game is Relaxing | 22 |
 | This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -578,3 +578,4 @@ Diff (max vs sum): 100
 | 2024-07-28 | 4.53 | 31 | 190 |
 | 2024-07-29 | 4.53 | 32 | 191 |
 | 2024-08-01 | 4.53 | 32 | 192 |
+| 2024-08-05 | 4.53 | 32 | 216 |

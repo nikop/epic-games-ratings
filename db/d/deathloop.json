@@ -4,7 +4,7 @@
   "ProductSlug": "deathloop",
   "Ranking_Rating": 782,
   "Ranking_Popularity": 458,
-  "Ranking_PopularitySum": 374,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2806,6 +2806,6 @@
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
   "LastChanged": "2024-08-04T13:04:47.0150956+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:15.3014464+00:00",
-  "LastUpdate_Ratings": "2024-08-05T13:58:00.3743161+00:00",
+  "LastUpdate_Ratings": "2024-08-05T16:00:11.5838209+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:49.3073233+00:00"
 }
