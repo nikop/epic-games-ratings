@@ -29,6 +29,7 @@
 | [Hero of the Kingdom: The Lost Tales 1](games/0/0ff213fbaec14c7c89ab968f5ebd2a8a.md) | 2024-08-19 | 26 (1,000 XP) | 0 | - | - |
 | [Lost in Space: Madness](games/7/798b7ebbde4d4904aa528a4a8823203b.md) | 2024-08-19 | - |  | - | - |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | - |  | - | - |
+| [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-08-21 | - |  | - | - |
 | [Alien Paradise](games/6/64d8cc2fb5cc4798a6db9796b7e73e3f.md) | 2024-08-23 | - |  | - | - |
@@ -43,7 +44,6 @@
 | [Cafe Maid - Cute Anime Girls](games/3/3dfc7c92bb4846b5bfbb0066ba5149e8.md) | 2024-08-31 | - |  | - | - |
 | [Departed Away](games/8/8fb3b92706e84e07ad8b2804599b6677.md) | 2024-08-31 | - |  | - | - |
 | [DimonD Hunt](games/4/412632fc3f0d4a8e8294f22149e1dff1.md) | 2024-08-31 | - |  | - | - |
-| [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-31 | - |  | - | - |
 | [Exo Mayhem](games/0/05a60577cbce49f987ccebfd548cd088.md) | 2024-08-31 | - |  | - | - |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-31 | - |  | - | - |
 | [Juna - The Dreamwalker](games/e/e424e1d51e114ae8b6d685c943043cd7.md) | 2024-08-31 | - |  | - | - |
