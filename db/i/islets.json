@@ -2,7 +2,7 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
-  "Ranking_Rating": 223,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 549,
   "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 1141,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.72,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:48.8913886+00:00",
@@ -934,6 +934,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 305,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-08-06T17:59:27.7889001+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -1008,8 +1014,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-08-05T15:59:01.3406933+00:00",
+  "LastChanged": "2024-08-06T17:59:27.7888999+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:10.996717+00:00",
-  "LastUpdate_Ratings": "2024-08-06T15:59:46.216558+00:00",
+  "LastUpdate_Ratings": "2024-08-06T17:59:27.7889004+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:54.0109005+00:00"
 }
