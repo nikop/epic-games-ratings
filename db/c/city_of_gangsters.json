@@ -3,8 +3,8 @@
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
   "Ranking_Rating": 984,
-  "Ranking_Popularity": 532,
-  "Ranking_PopularitySum": 439,
+  "Ranking_Popularity": 524,
+  "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1622,18 +1622,24 @@
       "Rating": 4.3,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-08-06T03:59:54.2579207+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 342,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 342,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Relaxing",
@@ -1669,7 +1675,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 54
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1687,7 +1693,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 379067,
@@ -34637,9 +34643,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-08-04T02:57:45.351086+00:00",
+  "LastChanged": "2024-08-06T03:59:54.2579206+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:50.033867+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:56:59.7800884+00:00",
-  "LastUpdate_Ratings": "2024-08-06T01:59:36.1368758+00:00",
+  "LastUpdate_Ratings": "2024-08-06T03:59:54.257921+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:50.0340786+00:00"
 }
