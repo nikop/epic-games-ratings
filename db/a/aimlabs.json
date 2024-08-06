@@ -2,7 +2,7 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 1141,
@@ -4117,10 +4117,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1035,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2024-08-06T16:59:10.6768409+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1036,
+      "NumberOfAwardsMax": 170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1035,
+  "NumberOfAwards": 1036,
   "NumberOfAwardsMax": 170,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4158,7 +4164,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4209,8 +4215,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-08-06T11:58:08.3708496+00:00",
+  "LastChanged": "2024-08-06T16:59:10.6768407+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:48.5233345+00:00",
-  "LastUpdate_Ratings": "2024-08-06T15:00:32.4495616+00:00",
+  "LastUpdate_Ratings": "2024-08-06T16:59:10.6768414+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:35.8371618+00:00"
 }
