@@ -5,7 +5,7 @@
 | [BeachHead Meta](games/b/b7aa9cc2cc0348b5a096b79424eed41b.md) | 2024-08-05 | - |  | - | - |
 | [Revenge Of The Colon](games/b/be90059f81674291a0a2d348f7918cc9.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | 0 |
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | - |  | - | 0 |
-| [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | 4.81 | 0 |
+| [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | 4.80 | 0 |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 0 | - | - |
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [Welcome to Elk](games/9/93a34c70b09247f396e5124b3f6c1302.md) | 2024-08-01 | - |  | - | - |
@@ -93,7 +93,7 @@
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 56 | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.41 | 0 |
 | [RENNSPORT](games/1/1faf75ce10534366b99229d1507de1cb.md) | 2024-07-10 | - |  | 4.20 | 0 |
-| [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.46 | 311 |
+| [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 2024-07-09 | - |  | 4.47 | 311 |
 | [Lifeless Moon](games/c/c0366c16b96b47e99aa88c5ba360e851.md) | 2024-07-09 | 17 (1,000 XP) | 10 | - | 0 |
 | [Maisa: Galactic Bounty Hunter](games/1/15e3c5fe82e84c31b49eeb842b4fa001.md) | 2024-07-08 | - |  | - | - |
 | [Blood West](games/c/cfd5606247d5400480bb7dccec626f1a.md) | 2024-07-08 | 35 (1,000 XP) | 2 | - | 0 |
