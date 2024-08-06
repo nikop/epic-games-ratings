@@ -3,8 +3,8 @@
   "Name": "Valiant Hearts: The Great War",
   "ProductSlug": "valiant-hearts",
   "Ranking_Rating": 11,
-  "Ranking_Popularity": 680,
-  "Ranking_PopularitySum": 680,
+  "Ranking_Popularity": 681,
+  "Ranking_PopularitySum": 681,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -228,6 +228,6 @@
   "FirstSeenRating": "2022-09-02T13:33:41.2971392+00:00",
   "LastChanged": "2024-07-03T22:59:05.8110721+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:16.9623227+00:00",
-  "LastUpdate_Ratings": "2024-08-06T20:59:15.8039513+00:00",
+  "LastUpdate_Ratings": "2024-08-06T22:58:20.1536642+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:06.2233892+00:00"
 }

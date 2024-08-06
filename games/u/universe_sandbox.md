@@ -3,6 +3,13 @@
 [View Rawdata](../../db/u/universe_sandbox.json)  
 Rating: 4.65 (Ranked 343)  
 Number of Ratings: 63  (23.09.2022)  
+## Awards
+Max (Great for Beginners): 20  (Ranked 670)  
+Sum: 20 (Ranked 672)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -89,3 +96,4 @@ Number of Ratings: 63  (23.09.2022)
 | 2024-07-12 | 4.67 | - | 0 | 0 |
 | 2024-07-24 | 4.66 | - | 0 | 0 |
 | 2024-07-25 | 4.65 | - | 0 | 0 |
+| 2024-08-06 | 4.65 | - | 20 | 20 |

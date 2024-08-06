@@ -3,8 +3,8 @@
   "Name": "Trackmania Turbo",
   "ProductSlug": "trackmania-turbo",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 680,
-  "Ranking_PopularitySum": 680,
+  "Ranking_Popularity": 681,
+  "Ranking_PopularitySum": 681,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -109,6 +109,6 @@
   "FirstSeenRating": "2023-01-21T19:58:17.0263364+00:00",
   "LastChanged": "2024-05-10T11:00:33.7605513+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:29.6759891+00:00",
-  "LastUpdate_Ratings": "2024-08-06T21:57:30.5496128+00:00",
+  "LastUpdate_Ratings": "2024-08-06T22:59:18.193419+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:23.2679731+00:00"
 }
