@@ -1,11 +1,11 @@
 # Core
 [Store](https://store.epicgames.com/en-US/p/core)  
 [View Rawdata](../../db/c/core.json)  
-Rating: 4.34 (Ranked 948)  
+Rating: 4.34 (Ranked 949)  
 Number of Ratings: 1,439  (23.09.2022)  
 ## Awards
 Max (Character Customization): 823  (Ranked 210)  
-Sum: 2,297 (Ranked 236)  
+Sum: 2,298 (Ranked 236)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -15,10 +15,10 @@ Diff (max vs sum): -26
 | This game is Great for Quick Sessions | 143 |
 | This game is Highly Recommended | 140 |
 | This game has Quickly Understood Controls | 132 |
+| This game is Extremely Fun | 129 |
 | This game is Relaxing | 129 |
 | This game has a Creative Community | 129 |
 | This game has Amazing Characters | 129 |
-| This game is Extremely Fun | 128 |
 | This game has Amazing Storytelling | 112 |
 | This game has Easy Combat | 111 |
 | This game has Obsessive Gameplay | 77 |
@@ -339,3 +339,4 @@ Diff (max vs sum): -26
 | 2024-07-27 | 4.34 | - | 820 | 2,292 |
 | 2024-07-30 | 4.34 | - | 821 | 2,295 |
 | 2024-08-01 | 4.34 | - | 823 | 2,297 |
+| 2024-08-06 | 4.34 | - | 823 | 2,298 |
