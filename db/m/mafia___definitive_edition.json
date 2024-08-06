@@ -3,7 +3,7 @@
   "Name": "Mafia: Definitive Edition",
   "ProductSlug": "mafia-definitive-edition",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 214,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -1998,18 +1998,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 1013,
       "NumberOfAwardsMax": 802
+    },
+    {
+      "Time": "2024-08-06T11:57:28.9780662+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1018,
+      "NumberOfAwardsMax": 806
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1013,
-  "NumberOfAwardsMax": 802,
+  "NumberOfAwards": 1018,
+  "NumberOfAwardsMax": 806,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 802
+      "Count": 806
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2027,7 +2033,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2065,8 +2071,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:45.942623+00:00",
-  "LastChanged": "2024-08-05T08:58:45.2616152+00:00",
+  "LastChanged": "2024-08-06T11:57:28.9780661+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:30.0505403+00:00",
-  "LastUpdate_Ratings": "2024-08-06T09:58:57.0434728+00:00",
+  "LastUpdate_Ratings": "2024-08-06T11:57:28.9780666+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:10.7320857+00:00"
 }

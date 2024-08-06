@@ -2,7 +2,7 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 1028,
+  "Ranking_Rating": 1037,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 1141,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -9862,10 +9862,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 3998,
       "NumberOfAwardsMax": 757
+    },
+    {
+      "Time": "2024-08-06T11:58:46.7938992+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 4003,
+      "NumberOfAwardsMax": 757
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3998,
+  "NumberOfAwards": 4003,
   "NumberOfAwardsMax": 757,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9897,7 +9903,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 484
+      "Count": 489
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9942,8 +9948,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2024-08-06T08:57:32.8462156+00:00",
+  "LastChanged": "2024-08-06T11:58:46.793899+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:56:57.8686415+00:00",
-  "LastUpdate_Ratings": "2024-08-06T10:00:30.7464121+00:00",
+  "LastUpdate_Ratings": "2024-08-06T11:58:46.7938995+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:11.3008674+00:00"
 }
