@@ -2,7 +2,7 @@
   "ID": "75ec0c7498894d1a99a5c8f02f3e4c55",
   "Name": "Automachef",
   "ProductSlug": "automachef",
-  "Ranking_Rating": 949,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 1141,
@@ -711,6 +711,6 @@
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
   "LastChanged": "2024-08-01T22:58:44.8851031+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:08.687882+00:00",
-  "LastUpdate_Ratings": "2024-08-06T06:00:05.7050002+00:00",
+  "LastUpdate_Ratings": "2024-08-06T07:59:04.2338699+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:29.0350323+00:00"
 }
