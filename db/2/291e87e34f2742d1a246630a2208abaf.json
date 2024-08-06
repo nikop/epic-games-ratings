@@ -2,9 +2,9 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 1047,
+  "Ranking_Rating": 1037,
   "Ranking_Popularity": 398,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -2657,10 +2657,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 554,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2024-08-06T13:11:30.3576087+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 555,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 554,
+  "NumberOfAwards": 555,
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2716,7 +2722,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 61
+      "Count": 62
     }
   ],
   "EOS_Progressed": 0,
@@ -2731,8 +2737,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-08-06T04:58:36.5111587+00:00",
+  "LastChanged": "2024-08-06T13:11:30.3576085+00:00",
   "LastUpdate_AppInfo": "2024-08-06T04:57:32.2889371+00:00",
-  "LastUpdate_Ratings": "2024-08-06T11:57:17.9190369+00:00",
+  "LastUpdate_Ratings": "2024-08-06T13:11:30.3576092+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:31.9130002+00:00"
 }
