@@ -1139,4 +1139,4 @@
 | 528 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
 | 528 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 0.00% |
 | 528 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 0.00% |
-| 4,743 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.75% |
+| 4,744 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.75% |
