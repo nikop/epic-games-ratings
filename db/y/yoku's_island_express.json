@@ -3,8 +3,8 @@
   "Name": "Yoku\u0027s Island Express",
   "ProductSlug": "yokus-island-express",
   "Ranking_Rating": 240,
-  "Ranking_Popularity": 679,
-  "Ranking_PopularitySum": 679,
+  "Ranking_Popularity": 670,
+  "Ranking_PopularitySum": 672,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -494,12 +494,26 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-06T21:57:40.6096333+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Playful Visuals",
+  "Tags": [
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -511,8 +525,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:47.6965849+00:00",
-  "LastChanged": "2024-08-01T11:57:21.6464806+00:00",
+  "LastChanged": "2024-08-06T21:57:40.6096331+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:17.1144175+00:00",
-  "LastUpdate_Ratings": "2024-08-06T19:58:43.6584175+00:00",
+  "LastUpdate_Ratings": "2024-08-06T21:57:40.6096336+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:35.9905218+00:00"
 }

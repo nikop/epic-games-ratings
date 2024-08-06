@@ -3,8 +3,8 @@
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
   "Ranking_Rating": 505,
-  "Ranking_Popularity": 679,
-  "Ranking_PopularitySum": 679,
+  "Ranking_Popularity": 680,
+  "Ranking_PopularitySum": 680,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -393,6 +393,6 @@
   "LastChanged": "2024-08-06T11:58:43.8754201+00:00",
   "LastChanged_Achievements": "2024-07-30T16:02:45.3315722+00:00",
   "LastUpdate_AppInfo": "2024-07-31T04:57:10.6447259+00:00",
-  "LastUpdate_Ratings": "2024-08-06T19:59:32.9119113+00:00",
+  "LastUpdate_Ratings": "2024-08-06T21:58:28.4547553+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:45.332204+00:00"
 }

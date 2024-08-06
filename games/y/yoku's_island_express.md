@@ -3,6 +3,13 @@
 [View Rawdata](../../db/y/yoku's_island_express.json)  
 Rating: 4.70 (Ranked 240)  
 Number of Ratings: 354  (23.09.2022)  
+## Awards
+Max (Playful Visuals): 20  (Ranked 670)  
+Sum: 20 (Ranked 672)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -84,3 +91,4 @@ Number of Ratings: 354  (23.09.2022)
 | 2024-07-07 | 4.70 | - | 0 | 0 |
 | 2024-07-28 | 4.71 | - | 0 | 0 |
 | 2024-08-01 | 4.70 | - | 0 | 0 |
+| 2024-08-06 | 4.70 | - | 20 | 20 |

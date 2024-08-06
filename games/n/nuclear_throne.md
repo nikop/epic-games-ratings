@@ -1,16 +1,16 @@
 # Nuclear Throne
 [Store](https://store.epicgames.com/en-US/p/nuclear-throne)  
 [View Rawdata](../../db/n/nuclear_throne.json)  
-Rating: 4.79 (Ranked 109)  
+Rating: 4.79 (Ranked 108)  
 Number of Ratings: 631  (23.09.2022)  
 ## Awards
 Max (Character Customization): 466  (Ranked 263)  
-Sum: 1,590 (Ranked 272)  
+Sum: 1,591 (Ranked 272)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 466 |
-| This game has Great Boss Battles | 395 |
+| This game has Great Boss Battles | 396 |
 | This game is Great for Quick Sessions | 98 |
 | This game has Unique Visuals | 86 |
 | This game has Challenging Combat | 86 |
@@ -364,4 +364,4 @@ Diff (max vs sum): -9
 | 2024-08-01 | 4.79 | - | 464 | 1,579 |
 | 2024-08-02 | 4.79 | - | 465 | 1,584 |
 | 2024-08-05 | 4.79 | - | 466 | 1,588 |
-| 2024-08-06 | 4.79 | - | 466 | 1,590 |
+| 2024-08-06 | 4.79 | - | 466 | 1,591 |

@@ -1,7 +1,7 @@
 # Offworld Trading Company
 [Store](https://store.epicgames.com/en-US/p/offworld-trading-company)  
 [View Rawdata](../../db/o/offworld_trading_company.json)  
-Rating: 4.29 (Ranked 996)  
+Rating: 4.30 (Ranked 985)  
 Number of Ratings: 432  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 58  (Ranked 517)  
@@ -161,3 +161,4 @@ Diff (max vs sum): 71
 | 2024-08-02 | 4.29 | - | 58 | 323 |
 | 2024-08-03 | 4.30 | - | 58 | 323 |
 | 2024-08-05 | 4.29 | - | 58 | 323 |
+| 2024-08-06 | 4.30 | - | 58 | 323 |
