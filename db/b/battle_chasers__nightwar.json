@@ -3,8 +3,8 @@
   "Name": "Battle Chasers: Nightwar",
   "ProductSlug": "battle-chasers-nightwar",
   "Ranking_Rating": 388,
-  "Ranking_Popularity": 669,
-  "Ranking_PopularitySum": 670,
+  "Ranking_Popularity": 664,
+  "Ranking_PopularitySum": 666,
   "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 209,
   "Ranking_EOS_NewPlayers": 28,
@@ -225,18 +225,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-08-06T04:58:02.1776417+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 146,
@@ -660,9 +666,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:10.7090851+00:00",
-  "LastChanged": "2024-08-03T02:59:07.4083649+00:00",
+  "LastChanged": "2024-08-06T04:58:02.1776415+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:34.871039+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:16.3843789+00:00",
-  "LastUpdate_Ratings": "2024-08-06T02:59:16.7427273+00:00",
+  "LastUpdate_Ratings": "2024-08-06T04:58:02.1776419+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:34.8710693+00:00"
 }
