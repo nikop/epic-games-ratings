@@ -2,7 +2,7 @@
   "ID": "6b4c7e0047c048469d8930191422349f",
   "Name": "Coffee Talk",
   "ProductSlug": "coffee-talk",
-  "Ranking_Rating": 96,
+  "Ranking_Rating": 89,
   "Ranking_Popularity": 679,
   "Ranking_PopularitySum": 679,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:45.780354+00:00",
@@ -103,6 +103,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-06T05:57:19.102999+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -121,8 +127,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:07.7118718+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.7803537+00:00",
-  "LastChanged": "2024-07-30T03:58:40.2377635+00:00",
+  "LastChanged": "2024-08-06T05:57:19.1029988+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:38.4383036+00:00",
-  "LastUpdate_Ratings": "2024-08-06T03:59:07.4179021+00:00",
+  "LastUpdate_Ratings": "2024-08-06T05:57:19.1029994+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:17.8432383+00:00"
 }
