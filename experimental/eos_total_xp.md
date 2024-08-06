@@ -166,7 +166,7 @@
 | [Asurya's Embers](../games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 5 | 1,000 |
 | [Asylum Nightmares](../games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 24 | 1,000 |
 | [Atari Mania](../games/a/atari_mania.md) | 18 | 1,000 |
-| [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
+| [Atlas Fallen: Reign Of Sand](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [Automate It](../games/a/a0f980262590468d989261e3c0f291ed.md) | 39 | 1,000 |

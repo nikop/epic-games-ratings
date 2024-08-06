@@ -455,7 +455,7 @@
 | [ANNO Mutationem](../games/a/anno_mutationem.md) | 36 | 1,000 |
 | [Anvil Saga](../games/3/3d0d05ac4f044b5b901eb481e9084c28.md) | 36 | 1,000 |
 | [Arranger: A Role-Puzzling Adventure](../games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 36 | 1,000 |
-| [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
+| [Atlas Fallen: Reign Of Sand](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
 | [Born of Bread](../games/2/269f94247b4f471b9381fd4052bf1fad.md) | 36 | 1,000 |
 | [Deceive Inc.](../games/d/deceive_inc..md) | 36 | 1,000 |

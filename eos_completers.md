@@ -369,7 +369,7 @@
 | 365 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 365 | [Them and Us](games/t/them_and_us.md) | 0.20% |
 | 365 | [Yars: Recharged](games/y/yars__recharged.md) | 0.20% |
-| 370 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.19% |
+| 370 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.19% |
 | 370 | [Going Medieval](games/g/going_medieval.md) | 0.19% |
 | 370 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
 | 373 | [Against the Storm](games/a/against_the_storm.md) | 0.18% |

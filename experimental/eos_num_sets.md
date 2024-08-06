@@ -5,7 +5,7 @@
 | [Alan Wake 2](../games/a/alan_wake_2.md) | 78 | 1,200 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
-| [Atlas Fallen](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 | 2 |
+| [Atlas Fallen: Reign Of Sand](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 | 2 |
 | [Battlefield 4™ Premium Edition](../games/0/0a541deb1bbb42c987cb48d695431e18.md) | 67 | 1,990 | 2 |
 | [Battlefield™ 1 Revolution](../games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 50 | 2,000 | 2 |
 | [Battlefield™ Hardline Ultimate Edition](../games/d/d0328a2bc8e04364b1fff1253a986174.md) | 62 | 2,000 | 2 |

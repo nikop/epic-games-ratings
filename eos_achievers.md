@@ -295,7 +295,7 @@
 | 293 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 3,275 | 1 |
 | 294 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 3,210 | 0 |
 | 295 | [Songs of Conquest](games/s/songs_of_conquest.md) | 3,199 | 0 |
-| 296 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3,178 | 6 |
+| 296 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 3,178 | 6 |
 | 297 | [The Surge 2](games/t/the_surge_2.md) | 3,150 | 16 |
 | 298 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 3,145 | 3 |
 | 299 | [Operation New Earth](games/o/operation_new_earth.md) | 3,137 | 1 |
