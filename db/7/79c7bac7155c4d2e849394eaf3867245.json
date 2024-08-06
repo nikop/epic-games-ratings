@@ -2,7 +2,7 @@
   "ID": "79c7bac7155c4d2e849394eaf3867245",
   "Name": "World of Goo 2",
   "ProductSlug": "world-of-goo-2",
-  "Ranking_Rating": 98,
+  "Ranking_Rating": 89,
   "Ranking_Popularity": 679,
   "Ranking_PopularitySum": 679,
   "Ranking_EOS_Progress": 1141,
@@ -24,7 +24,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2024-08-04T03:58:20.4552695+00:00",
@@ -55,6 +55,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-06T06:57:33.6962927+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -73,8 +79,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-02T17:59:13.8716367+00:00",
   "FirstSeenRating": "2024-08-04T03:58:20.4552693+00:00",
-  "LastChanged": "2024-08-06T04:59:23.7952886+00:00",
+  "LastChanged": "2024-08-06T06:57:33.6962926+00:00",
   "LastUpdate_AppInfo": "2024-08-01T05:57:05.5033745+00:00",
-  "LastUpdate_Ratings": "2024-08-06T04:59:23.7952897+00:00",
+  "LastUpdate_Ratings": "2024-08-06T06:57:33.6962931+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:53.2672087+00:00"
 }
