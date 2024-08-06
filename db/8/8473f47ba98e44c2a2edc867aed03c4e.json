@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-939868",
   "Ranking_Rating": 1008,
   "Ranking_Popularity": 664,
-  "Ranking_PopularitySum": 666,
+  "Ranking_PopularitySum": 667,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -243,6 +243,6 @@
   "FirstSeenRating": "2023-11-16T13:59:57.3096202+00:00",
   "LastChanged": "2024-07-29T20:57:48.844085+00:00",
   "LastUpdate_AppInfo": "2024-08-03T04:57:39.2597591+00:00",
-  "LastUpdate_Ratings": "2024-08-06T13:58:49.0019269+00:00",
+  "LastUpdate_Ratings": "2024-08-06T15:58:09.2700031+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:04:48.8683451+00:00"
 }

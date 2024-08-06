@@ -231,8 +231,8 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-06-17 | 83,765 | 0 |
 ## Awards
 Max (Beautiful Visuals): 20  (Ranked 670)  
-Sum: 20 (Ranked 671)  
-Diff (max vs sum): -1  
+Sum: 20 (Ranked 672)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
 | This game has Beautiful Visuals | 20 |
