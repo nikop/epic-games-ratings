@@ -6,7 +6,7 @@
 | [BeachHead Meta](games/b/b7aa9cc2cc0348b5a096b79424eed41b.md) | 2024-08-05 | - |  | - | - |
 | [Revenge Of The Colon](games/b/be90059f81674291a0a2d348f7918cc9.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | 0 |
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | - |  | - | 0 |
-| [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | 4.80 | 0 |
+| [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | 4.81 | 0 |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 0 | - | - |
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [Welcome to Elk](games/9/93a34c70b09247f396e5124b3f6c1302.md) | 2024-08-01 | - |  | - | - |
@@ -87,8 +87,8 @@
 | [Populous The Beginning](games/b/be74291506de49a6ba20d352ca8a2820.md) | 2024-07-11 | - |  | - | - |
 | [Sid Meier's Alpha Centauri Planetary Pack](games/6/6cd9529fec9145acb8898105755eef87.md) | 2024-07-11 | - |  | - | - |
 | [Sim City 3000™ Unlimited](games/0/0a28b32f06b54b6a968ae69ed5f1360b.md) | 2024-07-11 | - |  | - | - |
-| [The Saboteur™](games/5/59069ba54f7843a6934c9123a9061816.md) | 2024-07-11 | - |  | - | - |
 | [The Saboteur™](games/1/1e4d942571ec4e13851b3449e2486a8f.md) | 2024-07-11 | - |  | - | - |
+| [The Saboteur™](games/5/59069ba54f7843a6934c9123a9061816.md) | 2024-07-11 | - |  | - | - |
 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | 18 (1,000 XP) | 61,037 | 4.44 | 0 |
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | 0 |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 56 | - | 0 |
