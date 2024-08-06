@@ -4,7 +4,7 @@
   "ProductSlug": "ruined-king-a-league-of-legends-story",
   "Ranking_Rating": 410,
   "Ranking_Popularity": 353,
-  "Ranking_PopularitySum": 498,
+  "Ranking_PopularitySum": 497,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -627,18 +627,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 198,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-08-06T02:59:30.9898903+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 199,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 198,
-  "NumberOfAwardsMax": 198,
+  "NumberOfAwards": 199,
+  "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 198
+      "Count": 199
     }
   ],
   "EOS_Progressed": 0,
@@ -652,8 +658,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:34.6874306+00:00",
-  "LastChanged": "2024-07-09T10:56:58.0152386+00:00",
+  "LastChanged": "2024-08-06T02:59:30.9898901+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:09.7893361+00:00",
-  "LastUpdate_Ratings": "2024-08-06T00:00:41.5069091+00:00",
+  "LastUpdate_Ratings": "2024-08-06T02:59:30.9898906+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:22.7852979+00:00"
 }
