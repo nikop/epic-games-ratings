@@ -2,9 +2,9 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 300,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -1723,18 +1723,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 565,
       "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2024-08-06T09:57:25.0047598+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 568,
+      "NumberOfAwardsMax": 308
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 565,
-  "NumberOfAwardsMax": 306,
+  "NumberOfAwards": 568,
+  "NumberOfAwardsMax": 308,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 306
+      "Count": 308
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1752,7 +1758,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1803,8 +1809,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-08-05T06:59:06.3688354+00:00",
+  "LastChanged": "2024-08-06T09:57:25.0047596+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:12.8541307+00:00",
-  "LastUpdate_Ratings": "2024-08-06T07:58:07.7299243+00:00",
+  "LastUpdate_Ratings": "2024-08-06T09:57:25.0047602+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:38.568418+00:00"
 }
