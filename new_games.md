@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 14 (1,000 XP) | 0 | - | - |
 | [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-08-07 | - |  | - | 0 |
 | [HSHS Turn Me on](games/b/b649aa0038df4d5db0d3607239b71112.md) | 2024-08-07 | - |  | - | - |
 | [Morels The Hunt 2](games/7/76bfcee1bbb9456ba20226bc0194659f.md) | 2024-08-07 | - |  | - | - |

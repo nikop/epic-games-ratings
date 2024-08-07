@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 14 (1,000 XP) | 0 | - | - |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-08-08 | 35 (1,000 XP) | 0 | - | - |
 | [Vitamin Girl](games/0/0c9536f6fadb4d849d79c3fbea65afd1.md) | 2024-08-08 | - |  | - | - |
 | [Arhaekon](games/6/64dea372b84044eca4d917dbf5575a84.md) | 2024-08-08 | - |  | - | - |
