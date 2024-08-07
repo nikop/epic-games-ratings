@@ -3,6 +3,7 @@
 | [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-08-07 | - |  | - | 0 |
 | [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-08-08 | 35 (1,000 XP) | 0 | - | - |
 | [Vitamin Girl](games/0/0c9536f6fadb4d849d79c3fbea65afd1.md) | 2024-08-08 | - |  | - | - |
+| [Arhaekon](games/6/64dea372b84044eca4d917dbf5575a84.md) | 2024-08-08 | - |  | - | - |
 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | 20 (1,000 XP) | 3 | - | - |
 | [Inquisitor's Heart and Soul](games/2/2ac0cd69936144c0b4e7ff7ae136905f.md) | 2024-08-08 | - |  | - | - |
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | - |  | - | - |
@@ -20,6 +21,7 @@
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-08-15 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2024-08-15 | - |  | - | - |
+| [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
 | [Baby Boomer 2: 35 Years Too Soon](games/e/ec138d2df7af46d39a50c5f454c7317d.md) | 2024-08-16 | 29 (1,000 XP) | 3 | - | - |
 | [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | - | - |
 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | - | - |
@@ -35,6 +37,7 @@
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2024-08-27 | - |  | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | - |  | - | - |
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | - |  | - | - |
+| [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-29 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2024-08-30 | - |  | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
 | [Blacksmith of the Sand Kingdom](games/f/f2892c9f78c04780b6a40463a162b6c2.md) | 2024-08-31 | - |  | - | - |
@@ -50,7 +53,6 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-31 | - |  | - | - |
 | [Police, Open The Door!](games/8/80a8fe6079784d4c89a71a69063badc9.md) | 2024-08-31 | - |  | - | - |
 | [SEIDEN](games/4/4a8d265d048b4423bf30317aa9ad371d.md) | 2024-08-31 | - |  | - | - |
-| [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-31 | - |  | - | - |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-31 | 100 (1,000 XP) | 2 | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-08-31 | - |  | - | - |
 | [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | - |  | - | - |
@@ -162,6 +164,7 @@
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
 | [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | 2024-12-31 | - |  | - | - |
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
+| [Kingmakers](games/d/d01caa04441f4cbf8e2a0fc68cd95d03.md) | 2024-12-31 | - |  | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
 | [Little Big Adventure – Twinsen’s Quest](games/t/twinsen's_little_big_adventure_remastered.md) | 2024-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2024-12-31 | - |  | - | - |
