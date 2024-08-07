@@ -232,7 +232,7 @@
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 22 | - | 0 |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 915 | - | 0 |
-| [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 2,434 | 4.40 | 0 |
+| [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 2,434 | 4.42 | 0 |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.41 | 0 |
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 1,118 | - | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,152 | 4.67 | 0 |
@@ -1006,7 +1006,7 @@
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
 | [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 3,150 | 4.27 | 0 |
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 48,808 | 4.52 | 0 |
-| [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 789 | 4.36 | 37 |
+| [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 789 | 4.36 | 39 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 379,067 | 4.30 | 56 |
 | [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,082 | 4.33 | 607 |
 | [Project Highrise](games/p/project_highrise.md) | 2022-08-11 | 88 (1,000 XP) | 699 | - | 0 |
@@ -1178,14 +1178,14 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 52,242 | 4.60 | 240 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 88 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,586,282 | 4.46 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 580 (2,900 XP) | 331,239 | 4.06 | 6,491 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 580 (2,900 XP) | 331,239 | 4.06 | 6,501 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,444 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 591,303 | - | 0 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 7,787 | - | 0 |
 | [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 480,177 | 4.52 | 246 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,104 | 4.64 | 131 |
-| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 118 |
+| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 563,197 | 4.53 | 120 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 503,157 | 4.45 | 303 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,422,239 | 4.65 | 8,815 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,446 | 4.65 | 0 |

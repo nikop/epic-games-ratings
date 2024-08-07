@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | - |  | - | - |
 | [Space Fishing](games/3/3df23be2365443668cc6ebedfe11476f.md) | 2024-08-06 | - |  | - | - |
 | [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 6 | - | 0 |
 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2024-08-06 | 36 (1,000 XP) | 3,178 | 4.20 | 0 |
@@ -54,7 +55,7 @@
 | [Globe Go](games/6/68a38fd9bc32457caaf02d55b7e7fe18.md) | 2024-07-24 | - |  | - | - |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2024-07-24 | - |  | - | - |
 | [Strike Protocol](games/8/81166c1b906a438ba914544318339de1.md) | 2024-07-24 | - |  | - | - |
-| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | 4.45 | 0 |
+| [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | - |  | 4.46 | 0 |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | 34 (1,000 XP) | 3 | - | 0 |
 | [Werewolf: The Apocalypse - Purgatory](games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 2024-07-23 | 47 (1,000 XP) | 0 | - | - |
 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 794 | 4.58 | 0 |
@@ -92,8 +93,8 @@
 | [Populous The Beginning](games/b/be74291506de49a6ba20d352ca8a2820.md) | 2024-07-11 | - |  | - | - |
 | [Sid Meier's Alpha Centauri Planetary Pack](games/6/6cd9529fec9145acb8898105755eef87.md) | 2024-07-11 | - |  | - | - |
 | [Sim City 3000™ Unlimited](games/0/0a28b32f06b54b6a968ae69ed5f1360b.md) | 2024-07-11 | - |  | - | - |
-| [The Saboteur™](games/5/59069ba54f7843a6934c9123a9061816.md) | 2024-07-11 | - |  | - | - |
 | [The Saboteur™](games/1/1e4d942571ec4e13851b3449e2486a8f.md) | 2024-07-11 | - |  | - | - |
+| [The Saboteur™](games/5/59069ba54f7843a6934c9123a9061816.md) | 2024-07-11 | - |  | - | - |
 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | 18 (1,000 XP) | 61,037 | 4.43 | 0 |
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | 0 |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 56 | - | 0 |
