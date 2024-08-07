@@ -4,7 +4,7 @@
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
   "Ranking_Rating": 1018,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 503,
   "Ranking_EOS_NewPlayers": 28,
@@ -2801,10 +2801,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 950,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2024-08-07T14:57:34.0279359+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 953,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 950,
+  "NumberOfAwards": 953,
   "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2836,7 +2842,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 150
+      "Count": 153
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5557,9 +5563,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-08-07T10:59:23.5387941+00:00",
+  "LastChanged": "2024-08-07T14:57:34.0279355+00:00",
   "LastChanged_Achievements": "2024-07-25T19:03:34.8199129+00:00",
   "LastUpdate_AppInfo": "2024-08-01T04:56:52.107217+00:00",
-  "LastUpdate_Ratings": "2024-08-07T13:10:47.2426146+00:00",
+  "LastUpdate_Ratings": "2024-08-07T14:57:34.0279361+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:03:34.8199754+00:00"
 }
