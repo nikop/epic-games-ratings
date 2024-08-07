@@ -230,8 +230,8 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 1,291 | 0 |
 | 2024-06-17 | 83,765 | 0 |
 ## Awards
-Max (Beautiful Visuals): 20  (Ranked 670)  
-Sum: 20 (Ranked 672)  
+Max (Beautiful Visuals): 20  (Ranked 671)  
+Sum: 20 (Ranked 673)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
