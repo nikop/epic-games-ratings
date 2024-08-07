@@ -2,7 +2,7 @@
   "ID": "silene",
   "Name": "Close To The Sun",
   "ProductSlug": "close-to-the-sun",
-  "Ranking_Rating": 1192,
+  "Ranking_Rating": 1198,
   "Ranking_Popularity": 681,
   "Ranking_PopularitySum": 681,
   "Ranking_EOS_Progress": 1141,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 3.98,
+  "Rating": 3.97,
   "NumberOfRatings": 147,
   "RatingHistory": [
     {
@@ -435,6 +435,12 @@
       "Rating": 3.98,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-07T18:59:48.1183814+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -452,8 +458,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
-  "LastChanged": "2024-07-31T18:59:23.1517481+00:00",
+  "LastChanged": "2024-08-07T18:59:48.1183812+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:00.3287812+00:00",
-  "LastUpdate_Ratings": "2024-08-07T17:57:47.5262896+00:00",
+  "LastUpdate_Ratings": "2024-08-07T18:59:48.1183818+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:41.0873576+00:00"
 }
