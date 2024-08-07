@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 552,
   "Ranking_Popularity": 123,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -18454,10 +18454,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 18637,
       "NumberOfAwardsMax": 2434
+    },
+    {
+      "Time": "2024-08-07T08:58:08.1156867+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 18641,
+      "NumberOfAwardsMax": 2434
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18637,
+  "NumberOfAwards": 18641,
   "NumberOfAwardsMax": 2434,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18465,7 +18471,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2048
+      "Count": 2052
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18533,8 +18539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2024-08-06T21:58:26.6603302+00:00",
+  "LastChanged": "2024-08-07T08:58:08.1156865+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:26.643687+00:00",
-  "LastUpdate_Ratings": "2024-08-07T07:00:18.3552029+00:00",
+  "LastUpdate_Ratings": "2024-08-07T08:58:08.1156871+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:12:52.2469825+00:00"
 }
