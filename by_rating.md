@@ -423,7 +423,7 @@
 | 411 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 681 |
 | 411 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 681 |
 | 411 | [Pacific Drive](games/p/pacific_drive.md) | 4.62 | 0 | 681 |
-| 411 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 3,165 | 113 |
+| 411 | [Path of Exile](games/p/path_of_exile.md) | 4.62 | 3,179 | 113 |
 | 411 | [Prince of Persia: Warrior Within Standard Edition](games/0/0e0f32d81c1b4ce98a0db2bc03f2312c.md) | 4.62 | 0 | 681 |
 | 411 | [Ruined King: A League of Legends Story™](games/r/ruined_king__a_league_of_legends_story™.md) | 4.62 | 199 | 353 |
 | 411 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.62 | 325 | 294 |
@@ -505,7 +505,7 @@
 | 486 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.59 | 0 | 681 |
 | 486 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.59 | 166 | 380 |
 | 505 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.58 | 108 | 437 |
-| 505 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 71,427 | 12 |
+| 505 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 71,460 | 12 |
 | 505 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,203 | 172 |
 | 505 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.58 | 371 | 284 |
 | 505 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.58 | 454 | 267 |

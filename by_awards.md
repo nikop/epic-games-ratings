@@ -11,7 +11,7 @@
 | 9 | [Borderlands 3](games/b/borderlands_3.md) | 137,601 | 4.69 | 265 |
 | 10 | [VALORANT](games/v/valorant.md) | 134,840 | 4.49 | 690 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 83,290 | 4.44 | 782 |
-| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 71,427 | 4.58 | 505 |
+| 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 71,460 | 4.58 | 505 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 65,531 | 4.62 | 411 |
 | 14 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 60,463 | 4.72 | 215 |
 | 15 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 58,807 | 4.74 | 179 |
@@ -112,7 +112,7 @@
 | 110 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,592 | 4.54 | 598 |
 | 111 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 3,435 | 4.46 | 740 |
 | 112 | [RAGE 2](games/r/rage_2.md) | 3,285 | 4.26 | 1,028 |
-| 113 | [Path of Exile](games/p/path_of_exile.md) | 3,165 | 4.62 | 411 |
+| 113 | [Path of Exile](games/p/path_of_exile.md) | 3,179 | 4.62 | 411 |
 | 114 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,110 | 4.13 | 1,136 |
 | 115 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 3,046 | 4.79 | 108 |
 | 116 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 2,980 | 4.71 | 224 |
