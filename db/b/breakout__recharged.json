@@ -2,7 +2,7 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_Rating": 1036,
+  "Ranking_Rating": 1046,
   "Ranking_Popularity": 681,
   "Ranking_PopularitySum": 681,
   "Ranking_EOS_Progress": 220,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:34.1207637+00:00",
@@ -31,6 +31,12 @@
     {
       "Time": "2024-07-19T13:58:19.1176769+00:00",
       "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-07T16:59:43.374791+00:00",
+      "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -621,9 +627,9 @@
   "FirstSeen": "2022-07-22T20:31:10.9468103+00:00",
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
-  "LastChanged": "2024-07-19T13:58:19.1176767+00:00",
+  "LastChanged": "2024-08-07T16:59:43.3747909+00:00",
   "LastChanged_Achievements": "2024-07-30T00:04:56.496065+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:42.1126756+00:00",
-  "LastUpdate_Ratings": "2024-08-07T14:59:57.699959+00:00",
+  "LastUpdate_Ratings": "2024-08-07T16:59:43.3747913+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:04:56.496094+00:00"
 }

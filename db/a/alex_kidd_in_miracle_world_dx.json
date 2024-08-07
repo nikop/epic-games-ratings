@@ -2,7 +2,7 @@
   "ID": "de876d33cd8742ab90988913097c4ade",
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
-  "Ranking_Rating": 782,
+  "Ranking_Rating": 825,
   "Ranking_Popularity": 681,
   "Ranking_PopularitySum": 681,
   "Ranking_EOS_Progress": 443,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:14.2511124+00:00",
@@ -43,6 +43,12 @@
     {
       "Time": "2024-08-06T17:00:22.0272666+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-07T17:01:16.9344665+00:00",
+      "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1281,9 +1287,9 @@
   "FirstSeen": "2022-07-22T20:28:38.7032999+00:00",
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
-  "LastChanged": "2024-08-06T17:00:22.0272664+00:00",
+  "LastChanged": "2024-08-07T17:01:16.9344664+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:20.2168117+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:32.5096383+00:00",
-  "LastUpdate_Ratings": "2024-08-07T15:57:25.455377+00:00",
+  "LastUpdate_Ratings": "2024-08-07T17:01:16.9344673+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:20.2168263+00:00"
 }
