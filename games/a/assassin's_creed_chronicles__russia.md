@@ -1,7 +1,7 @@
 # Assassin's Creed Chronicles: Russia
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-chronicles-russia)  
 [View Rawdata](../../db/a/assassin's_creed_chronicles__russia.json)  
-Rating: 4.59 (Ranked 486)  
+Rating: 4.60 (Ranked 463)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.59 (Ranked 486)
 | 2024-04-01 | 4.59 | 0 | 0 |
 | 2024-04-11 | 4.57 | 0 | 0 |
 | 2024-05-28 | 4.59 | 0 | 0 |
+| 2024-08-07 | 4.60 | 0 | 0 |

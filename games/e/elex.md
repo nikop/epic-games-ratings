@@ -1,7 +1,7 @@
 # ELEX
 [Store](https://store.epicgames.com/en-US/p/elex)  
 [View Rawdata](../../db/e/elex.json)  
-Rating: 4.42 (Ranked 825)  
+Rating: 4.42 (Ranked 826)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -66,9 +66,9 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 198 | 0 |
 | 2024-06-17 | 390 | 0 |
 ## Awards
-Max (Character Customization): 30  (Ranked 613)  
+Max (Character Customization): 30  (Ranked 614)  
 Sum: 30 (Ranked 638)  
-Diff (max vs sum): -25  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 30 |
