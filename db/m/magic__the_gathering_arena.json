@@ -3,7 +3,7 @@
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
   "Ranking_Rating": 740,
-  "Ranking_Popularity": 36,
+  "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -25070,18 +25070,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 120248,
       "NumberOfAwardsMax": 15926
+    },
+    {
+      "Time": "2024-08-07T20:58:33.2649+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 120287,
+      "NumberOfAwardsMax": 15965
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 120248,
-  "NumberOfAwardsMax": 15926,
+  "NumberOfAwards": 120287,
+  "NumberOfAwardsMax": 15965,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 15926
+      "Count": 15965
     },
     {
       "Text": "This game has Competitive Players",
@@ -25155,8 +25161,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-08-07T18:59:39.4835195+00:00",
+  "LastChanged": "2024-08-07T20:58:33.2648998+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:43.3431576+00:00",
-  "LastUpdate_Ratings": "2024-08-07T18:59:39.4835202+00:00",
+  "LastUpdate_Ratings": "2024-08-07T20:58:33.2649004+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:18:03.1738981+00:00"
 }
