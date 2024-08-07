@@ -4,7 +4,7 @@
   "ProductSlug": "skyrim",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -7651,10 +7651,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 5039,
       "NumberOfAwardsMax": 2139
+    },
+    {
+      "Time": "2024-08-07T11:58:11.9856641+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 5041,
+      "NumberOfAwardsMax": 2139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5039,
+  "NumberOfAwards": 5041,
   "NumberOfAwardsMax": 2139,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7704,7 +7710,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 422
+      "Count": 424
     },
     {
       "Text": "This game is Relaxing",
@@ -7731,8 +7737,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2024-08-07T08:57:09.5305799+00:00",
+  "LastChanged": "2024-08-07T11:58:11.9856626+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:31.1586016+00:00",
-  "LastUpdate_Ratings": "2024-08-07T09:59:27.0798313+00:00",
+  "LastUpdate_Ratings": "2024-08-07T11:58:11.9856643+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:22.5928377+00:00"
 }
