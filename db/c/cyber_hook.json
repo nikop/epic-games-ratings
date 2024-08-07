@@ -2,7 +2,7 @@
   "ID": "c3c4d7b5cd4544ada5e8f492723d7801",
   "Name": "Cyber Hook",
   "ProductSlug": "cyber-hook-064d2c",
-  "Ranking_Rating": 996,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 683,
   "Ranking_PopularitySum": 683,
   "Ranking_EOS_Progress": 1141,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:34.3756779+00:00",
@@ -154,6 +154,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-07T22:57:13.720133+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -172,8 +178,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-02T15:33:12.8917999+00:00",
   "FirstSeenRating": "2023-03-31T05:58:34.3756775+00:00",
-  "LastChanged": "2024-07-25T19:58:43.0160633+00:00",
+  "LastChanged": "2024-08-07T22:57:13.7201328+00:00",
   "LastUpdate_AppInfo": "2024-08-04T16:57:24.820833+00:00",
-  "LastUpdate_Ratings": "2024-08-07T20:57:59.3321558+00:00",
+  "LastUpdate_Ratings": "2024-08-07T22:57:13.7201334+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:02.5339074+00:00"
 }

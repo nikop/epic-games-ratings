@@ -4,7 +4,7 @@
   "ProductSlug": "predator-hunting-grounds",
   "Ranking_Rating": 740,
   "Ranking_Popularity": 199,
-  "Ranking_PopularitySum": 226,
+  "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -3433,10 +3433,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 2625,
       "NumberOfAwardsMax": 953
+    },
+    {
+      "Time": "2024-08-07T22:57:23.2187211+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 2627,
+      "NumberOfAwardsMax": 953
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2625,
+  "NumberOfAwards": 2627,
   "NumberOfAwardsMax": 953,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3474,7 +3480,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3492,7 +3498,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3530,8 +3536,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2024-08-05T16:59:29.8932314+00:00",
+  "LastChanged": "2024-08-07T22:57:23.218721+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:21.1208724+00:00",
-  "LastUpdate_Ratings": "2024-08-07T20:58:07.6183111+00:00",
+  "LastUpdate_Ratings": "2024-08-07T22:57:23.2187216+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:44.6000128+00:00"
 }
