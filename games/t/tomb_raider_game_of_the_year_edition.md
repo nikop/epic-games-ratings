@@ -1,15 +1,15 @@
 # Tomb Raider GAME OF THE YEAR EDITION
 [Store](https://store.epicgames.com/en-US/p/tomb-raider)  
 [View Rawdata](../../db/t/tomb_raider_game_of_the_year_edition.json)  
-Rating: 4.66 (Ranked 327)  
+Rating: 4.66 (Ranked 326)  
 Number of Ratings: 20,961  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 6,448  (Ranked 80)  
-Sum: 7,652 (Ranked 141)  
+Max (Great Boss Battles): 6,451  (Ranked 80)  
+Sum: 7,655 (Ranked 141)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,448 |
+| This game has Great Boss Battles | 6,451 |
 | This game has Diverse Characters | 159 |
 | This game has Quickly Understood Controls | 150 |
 | This game is Great for Beginners | 146 |
@@ -427,4 +427,4 @@ Diff (max vs sum): -61
 | 2024-08-04 | 4.66 | - | 6,432 | 7,629 |
 | 2024-08-05 | 4.66 | - | 6,439 | 7,638 |
 | 2024-08-06 | 4.66 | - | 6,448 | 7,650 |
-| 2024-08-07 | 4.66 | - | 6,448 | 7,652 |
+| 2024-08-07 | 4.66 | - | 6,451 | 7,655 |

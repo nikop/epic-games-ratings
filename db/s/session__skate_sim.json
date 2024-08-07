@@ -2,7 +2,7 @@
   "ID": "e29e6ef093fd468db40b6fb505de6fa8",
   "Name": "Session: Skate Sim",
   "ProductSlug": "session-skate-sim",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 273,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 111,
   "RatingHistory": [
     {
@@ -2189,10 +2189,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 770,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-08-07T17:57:19.405966+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 772,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 770,
+  "NumberOfAwards": 772,
   "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2212,7 +2218,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9524,9 +9530,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-08-07T02:57:22.8080318+00:00",
+  "LastChanged": "2024-08-07T17:57:19.4059657+00:00",
   "LastChanged_Achievements": "2024-06-17T16:09:08.3514342+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:22.8440181+00:00",
-  "LastUpdate_Ratings": "2024-08-07T15:58:12.2248592+00:00",
+  "LastUpdate_Ratings": "2024-08-07T17:57:19.4059663+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:08.35149+00:00"
 }
