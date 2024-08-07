@@ -2,7 +2,7 @@
   "ID": "bd46d4ce259349e5bd8b3ded20274737",
   "Name": "Chivalry 2",
   "ProductSlug": "chivalry-2",
-  "Ranking_Rating": 598,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 1141,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 18078,
   "RatingHistory": [
     {
@@ -16890,6 +16890,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 39697,
       "NumberOfAwardsMax": 6931
+    },
+    {
+      "Time": "2024-08-07T02:00:07.1251761+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 39697,
+      "NumberOfAwardsMax": 6931
     }
   ],
   "ReviewsDisabled": false,
@@ -16963,8 +16969,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2024-08-06T21:57:56.2966153+00:00",
+  "LastChanged": "2024-08-07T02:00:07.1251759+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:09.2013982+00:00",
-  "LastUpdate_Ratings": "2024-08-06T22:59:45.1358437+00:00",
+  "LastUpdate_Ratings": "2024-08-07T02:00:07.1251765+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:24.8015167+00:00"
 }
