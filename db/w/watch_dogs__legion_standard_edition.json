@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs-legion",
   "Ranking_Rating": 918,
   "Ranking_Popularity": 364,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -5357,10 +5357,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1377,
       "NumberOfAwardsMax": 188
+    },
+    {
+      "Time": "2024-08-07T08:00:28.053727+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1379,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1377,
+  "NumberOfAwards": 1379,
   "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5374,7 +5380,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 181
+      "Count": 183
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5436,8 +5442,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-08-06T18:00:35.9714678+00:00",
+  "LastChanged": "2024-08-07T08:00:28.0537268+00:00",
   "LastUpdate_AppInfo": "2024-08-04T18:57:13.1910984+00:00",
-  "LastUpdate_Ratings": "2024-08-07T06:58:17.6658008+00:00",
+  "LastUpdate_Ratings": "2024-08-07T08:00:28.0537273+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:54.7852266+00:00"
 }
