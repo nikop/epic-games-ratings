@@ -434,6 +434,7 @@
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2099-01-01 | - |  | - | - |
 | [House of Legacy](games/5/5ef78d1f002246fa924d4618da242456.md) | 2099-01-01 | - |  | - | - |
 | [HumanitZ](games/h/humanitz.md) | 2099-01-01 | - |  | - | - |
+| [HUNGER](games/b/b81917c3f5b741dbb6cfde1e4e9e2a43.md) | 2099-01-01 | - |  | - | - |
 | [Hunter's Arena: Revolution](games/f/f76e449df2564f97ad005d4bc56c91a2.md) | 2099-01-01 | - |  | - | - |
 | [HYENAS](games/h/hyenas.md) | 2099-01-01 | - |  | - | - |
 | [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2099-01-01 | - |  | - | - |
