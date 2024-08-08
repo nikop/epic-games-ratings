@@ -4,7 +4,7 @@
   "ProductSlug": "20-minutes-till-dawn-be3305",
   "Ranking_Rating": 462,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2141,10 +2141,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1488,
       "NumberOfAwardsMax": 1079
+    },
+    {
+      "Time": "2024-08-08T18:00:02.7563827+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1489,
+      "NumberOfAwardsMax": 1079
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1488,
+  "NumberOfAwards": 1489,
   "NumberOfAwardsMax": 1079,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2200,7 +2206,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Creative Community",
@@ -2221,8 +2227,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-08-08T16:57:39.3676305+00:00",
+  "LastChanged": "2024-08-08T18:00:02.7563826+00:00",
   "LastUpdate_AppInfo": "2024-08-07T10:57:19.7792566+00:00",
-  "LastUpdate_Ratings": "2024-08-08T16:57:39.3676309+00:00",
+  "LastUpdate_Ratings": "2024-08-08T18:00:02.756383+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:05:54.5272846+00:00"
 }
