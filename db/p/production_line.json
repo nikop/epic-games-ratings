@@ -2,6 +2,9 @@
   "ID": "03f7951c81af45e48a1caf6f8e24dba9",
   "Name": "Production Line",
   "ProductSlug": "production-line",
+  "Ranking_Rating": 1215,
+  "Ranking_Popularity": 683,
+  "Ranking_PopularitySum": 683,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -18,10 +21,17 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
+  "Rating": 3.9,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:52.107027+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-07T23:58:15.0060107+00:00",
+      "Rating": 3.9,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -42,8 +52,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:02.2686653+00:00",
   "FirstSeenRating": "2023-03-31T05:57:52.1070267+00:00",
-  "LastChanged": "2023-03-31T05:57:52.1070269+00:00",
+  "LastChanged": "2024-08-07T23:58:15.0060105+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:33.9735713+00:00",
-  "LastUpdate_Ratings": "2024-08-07T21:59:57.1298989+00:00",
+  "LastUpdate_Ratings": "2024-08-07T23:58:15.006011+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:36.6014051+00:00"
 }
