@@ -3,7 +3,7 @@
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 225,
-  "Ranking_Popularity": 589,
+  "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -802,11 +802,17 @@
       "Rating": 4.71,
       "NumberOfAwards": 225,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-08-08T23:01:21.3293569+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 225,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 226,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -825,7 +831,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -876,8 +882,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-08-07T15:58:26.9909727+00:00",
+  "LastChanged": "2024-08-08T23:01:21.3293568+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:27.81601+00:00",
-  "LastUpdate_Ratings": "2024-08-08T21:58:12.3823855+00:00",
+  "LastUpdate_Ratings": "2024-08-08T23:01:21.3293575+00:00",
   "LastUpdate_Achievements": "2024-07-09T22:04:08.3927194+00:00"
 }
