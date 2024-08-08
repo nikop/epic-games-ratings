@@ -4,7 +4,7 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 572,
   "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 413,
   "Ranking_EOS_NewPlayers": 28,
@@ -671,10 +671,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-08-08T02:00:41.2020522+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -700,7 +706,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9297,9 +9303,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "LastChanged": "2024-08-07T19:58:41.9121374+00:00",
+  "LastChanged": "2024-08-08T02:00:41.2020512+00:00",
   "LastChanged_Achievements": "2024-07-24T02:04:47.4869589+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:12.2216466+00:00",
-  "LastUpdate_Ratings": "2024-08-07T23:00:19.1189179+00:00",
+  "LastUpdate_Ratings": "2024-08-08T02:00:41.2020525+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:47.4870162+00:00"
 }

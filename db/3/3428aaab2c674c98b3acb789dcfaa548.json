@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 286,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 21,
@@ -19269,10 +19269,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 46670,
       "NumberOfAwardsMax": 15033
+    },
+    {
+      "Time": "2024-08-08T02:00:29.6797351+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 46690,
+      "NumberOfAwardsMax": 15033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46670,
+  "NumberOfAwards": 46690,
   "NumberOfAwardsMax": 15033,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19304,7 +19310,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 2405
+      "Count": 2409
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19328,7 +19334,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1781
+      "Count": 1785
     },
     {
       "Text": "This game is Relaxing",
@@ -19346,7 +19352,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3949
+      "Count": 3961
     }
   ],
   "EOS_Progressed": 1102179,
@@ -49117,9 +49123,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-08-07T21:57:42.1731723+00:00",
+  "LastChanged": "2024-08-08T02:00:29.6797349+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:49.2037505+00:00",
   "LastUpdate_AppInfo": "2024-08-03T06:57:27.2222099+00:00",
-  "LastUpdate_Ratings": "2024-08-07T23:00:10.568926+00:00",
+  "LastUpdate_Ratings": "2024-08-08T02:00:29.6797354+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:49.2039742+00:00"
 }
