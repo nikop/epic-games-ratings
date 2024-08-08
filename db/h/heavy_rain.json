@@ -3,8 +3,8 @@
   "Name": "Heavy Rain",
   "ProductSlug": "heavy-rain",
   "Ranking_Rating": 488,
-  "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 583,
+  "Ranking_Popularity": 496,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -564,18 +564,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 68,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-08-08T21:59:45.694666+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 68,
-  "NumberOfAwardsMax": 68,
+  "NumberOfAwards": 69,
+  "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 68
+      "Count": 69
     }
   ],
   "EOS_Progressed": 0,
@@ -589,8 +595,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2024-07-25T20:57:29.4693625+00:00",
+  "LastChanged": "2024-08-08T21:59:45.6946658+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:04.4332864+00:00",
-  "LastUpdate_Ratings": "2024-08-08T20:00:02.150294+00:00",
+  "LastUpdate_Ratings": "2024-08-08T21:59:45.6946663+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:31.5329298+00:00"
 }
