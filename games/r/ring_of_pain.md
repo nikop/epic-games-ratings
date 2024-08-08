@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 506)  
+Rating: 4.58 (Ranked 505)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -434,14 +434,14 @@ Completed: 330 (0.13%) (Ranked 396)
 | 2024-06-17 | 248,751 | 330 |
 ## Awards
 Max (Great for Beginners): 1,676  (Ranked 149)  
-Sum: 13,785 (Ranked 99)  
+Sum: 13,787 (Ranked 99)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,676 |
 | This game has Quickly Understood Controls | 1,538 |
-| This game has Challenging Combat | 1,485 |
-| This game is Relaxing | 1,481 |
+| This game has Challenging Combat | 1,486 |
+| This game is Relaxing | 1,482 |
 | This game is Extremely Fun | 1,458 |
 | This game is Highly Recommended | 1,440 |
 | This game has Amazing Storytelling | 1,357 |
@@ -835,4 +835,4 @@ Diff (max vs sum): 50
 | 2024-08-05 | 4.58 | - | 1,671 | 13,763 |
 | 2024-08-06 | 4.58 | - | 1,673 | 13,772 |
 | 2024-08-07 | 4.58 | - | 1,673 | 13,774 |
-| 2024-08-08 | 4.58 | - | 1,676 | 13,785 |
+| 2024-08-08 | 4.58 | - | 1,676 | 13,787 |
