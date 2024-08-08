@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 463,
   "Ranking_Popularity": 543,
-  "Ranking_PopularitySum": 514,
+  "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -348,10 +348,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 161,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-08-08T10:57:46.0038981+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 161,
+  "NumberOfAwards": 190,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -384,6 +390,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -398,8 +410,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-08-07T21:58:30.4389164+00:00",
+  "LastChanged": "2024-08-08T10:57:46.0038979+00:00",
   "LastUpdate_AppInfo": "2024-08-02T19:57:10.6686512+00:00",
-  "LastUpdate_Ratings": "2024-08-08T08:58:50.8547606+00:00",
+  "LastUpdate_Ratings": "2024-08-08T10:57:46.0038983+00:00",
   "LastUpdate_Achievements": "2024-07-30T16:02:10.1044719+00:00"
 }
