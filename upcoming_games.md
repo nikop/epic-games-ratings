@@ -1,12 +1,12 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-08-08 | 35 (1,000 XP) | 0 | - | - |
 | [Vitamin Girl](games/0/0c9536f6fadb4d849d79c3fbea65afd1.md) | 2024-08-08 | - |  | - | - |
 | [Arhaekon](games/6/64dea372b84044eca4d917dbf5575a84.md) | 2024-08-08 | - |  | - | - |
 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | 20 (1,000 XP) | 3 | - | - |
 | [Inquisitor's Heart and Soul](games/2/2ac0cd69936144c0b4e7ff7ae136905f.md) | 2024-08-08 | - |  | - | - |
 | [Unholy Village](games/9/9fb0adc767184d57ae4d6f4dc47235ba.md) | 2024-08-08 | 6 (1,000 XP) | 0 | - | - |
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | - |  | - | - |
+| [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2024-08-08 | - |  | - | - |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | - |  | - | - |
 | [Solo Path](games/0/006f58d65fcf4ce896d28335e1ef93c5.md) | 2024-08-09 | - |  | - | - |
 | [Looper Tactics Deluxe Edition](games/e/e551ed37b11f45ec9fb62af82ed0354f.md) | 2024-08-09 | - |  | - | - |
@@ -19,6 +19,7 @@
 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2024-08-13 | 40 (1,000 XP) | 4 | - | - |
 | [Monster Adventurer X](games/e/e597ab37bf5241579b5e6c7bc209def3.md) | 2024-08-14 | - |  | - | - |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | - |
+| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-08-15 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2024-08-15 | - |  | - | - |
 | [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
@@ -439,6 +440,7 @@
 | [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2099-01-01 | - |  | - | - |
 | [iCode STEM Universe](games/9/9e13650094b74cb68ed5ccac5439ee26.md) | 2099-01-01 | - |  | - | - |
 | [Idle Calibur(选王之剑)](games/i/idle_calibur(选王之剑).md) | 2099-01-01 | - |  | - | - |
+| [IfSunSets](games/1/1d4d9a627e8548e1821d67ccb55ad146.md) | 2099-01-01 | - |  | - | - |
 | [IncrediMarble](games/i/incredimarble.md) | 2099-01-01 | - |  | - | - |
 | [INDIKA](games/d/d28938c1044945239079d371d545e5c7.md) | 2099-01-01 | - |  | - | - |
 | [INDUSTRIA 2](games/b/b923c7c232814d448af46a02f1e1107b.md) | 2099-01-01 | - |  | - | - |
@@ -552,7 +554,6 @@
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |
 | [Quest Master](games/9/9e2b675e684a484997fa4794a6ede505.md) | 2099-01-01 | - |  | - | - |
 | [R-Type Tactics I - II Cosmos](games/r/r-type_tactics_i_-_ii_cosmos.md) | 2099-01-01 | - |  | - | - |
-| [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2099-01-01 | - |  | - | - |
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | - |  | - | - |
 | [Realife Simulator](games/b/b45f4ea9d6ca4644a06b5f52ee87930e.md) | 2099-01-01 | - |  | - | - |
 | [Realms of Alterra: Prologue](games/d/d779b7aef075456b9b056a8eb4172819.md) | 2099-01-01 | - |  | - | - |

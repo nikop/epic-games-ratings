@@ -61,6 +61,7 @@
 | [Metarush](games/c/c9bc37f95dbc4104bdfa7f8e1da7a149.md) | 2024-09-30 | - |  | - | - |
 | [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
+| [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2024-08-08 | - |  | - | - |
 | [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-08-07 | - |  | - | 0 |
 | [BeachHead Meta](games/b/b7aa9cc2cc0348b5a096b79424eed41b.md) | 2024-08-05 | - |  | - | 0 |
 | [Stumble Upon Rumble](games/f/f1d5f83e3a294b0b988e5dcc925ce96c.md) | 2024-07-31 | - |  | - | 0 |
@@ -121,7 +122,7 @@
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.41 | 125 |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.72 | 1,874 |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.72 | 1,883 |
 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-11-21 | - |  | 4.49 | 0 |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-15 | - |  | 4.14 | 0 |
 | [Meta Lordz](games/6/63d008723df74b828d6916c39b26052d.md) | 2023-11-06 | - |  | - | 0 |

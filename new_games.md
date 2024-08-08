@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Alphadia I & II](games/4/49940871788f45ec914934e6af085284.md) | 2024-08-08 | 35 (1,000 XP) | 0 | - | - |
 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 14 (1,000 XP) | 0 | - | - |
 | [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-08-07 | - |  | - | 0 |
 | [HSHS Turn Me on](games/b/b649aa0038df4d5db0d3607239b71112.md) | 2024-08-07 | - |  | - | - |
@@ -17,7 +18,7 @@
 | [BeachHead Meta](games/b/b7aa9cc2cc0348b5a096b79424eed41b.md) | 2024-08-05 | - |  | - | 0 |
 | [Revenge Of The Colon](games/b/be90059f81674291a0a2d348f7918cc9.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | 0 |
 | [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | - |  | - | 0 |
-| [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | 4.78 | 0 |
+| [World of Goo 2](games/7/79c7bac7155c4d2e849394eaf3867245.md) | 2024-08-02 | - |  | 4.76 | 0 |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 0 | - | - |
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [Welcome to Elk](games/9/93a34c70b09247f396e5124b3f6c1302.md) | 2024-08-01 | - |  | - | - |
@@ -33,7 +34,6 @@
 | [Light - Die to Survive](games/5/59714a4f6551469ca752fbf4d00a21ad.md) | 2024-07-31 | - |  | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Humay](games/4/4f761277f93544bdb88ce9ff1a298bd7.md) | 2024-07-31 | - |  | - | - |
-| [IfSunSets](games/1/1d4d9a627e8548e1821d67ccb55ad146.md) | 2024-07-31 | - |  | - | - |
 | [Kiteboarding](games/a/afd2ae1e0fcf4831898b8033d4986403.md) | 2024-07-31 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-07-30 | - |  | - | 0 |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | 36 (1,000 XP) | 7 | - | 0 |
