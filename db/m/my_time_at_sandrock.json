@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 265,
   "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -13515,6 +13515,6 @@
   "LastChanged": "2024-08-08T05:59:13.5337661+00:00",
   "LastChanged_Achievements": "2024-06-17T16:14:06.8719835+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:11.6547179+00:00",
-  "LastUpdate_Ratings": "2024-08-08T05:59:13.5337667+00:00",
+  "LastUpdate_Ratings": "2024-08-08T07:58:40.6674525+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:06.8721491+00:00"
 }
