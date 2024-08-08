@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-fenyx-rising",
   "Ranking_Rating": 462,
   "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 277,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -3718,18 +3718,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 1539,
       "NumberOfAwardsMax": 977
+    },
+    {
+      "Time": "2024-08-08T14:58:44.0350356+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1540,
+      "NumberOfAwardsMax": 978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1539,
-  "NumberOfAwardsMax": 977,
+  "NumberOfAwards": 1540,
+  "NumberOfAwardsMax": 978,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 977
+      "Count": 978
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3797,8 +3803,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2024-08-07T17:58:03.619857+00:00",
+  "LastChanged": "2024-08-08T14:58:44.0350353+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:06.2524168+00:00",
-  "LastUpdate_Ratings": "2024-08-08T13:12:07.8604505+00:00",
+  "LastUpdate_Ratings": "2024-08-08T14:58:44.0350362+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:25.8784447+00:00"
 }
