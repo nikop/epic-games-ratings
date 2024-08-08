@@ -4,7 +4,7 @@
   "ProductSlug": "duskers-672fdc",
   "Ranking_Rating": 574,
   "Ranking_Popularity": 665,
-  "Ranking_PopularitySum": 614,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -377,10 +377,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-08-08T20:58:26.183611+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 61,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -395,6 +401,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 21
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -409,8 +421,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T18:58:14.3629002+00:00",
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
-  "LastChanged": "2024-08-08T11:59:39.9174521+00:00",
+  "LastChanged": "2024-08-08T20:58:26.1836108+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:10.4100169+00:00",
-  "LastUpdate_Ratings": "2024-08-08T18:59:32.5686785+00:00",
+  "LastUpdate_Ratings": "2024-08-08T20:58:26.1836113+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:34.9922484+00:00"
 }

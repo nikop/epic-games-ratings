@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 884,
   "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 446,
+  "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -1601,10 +1601,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 328,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2024-08-08T20:59:11.3242412+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 330,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 328,
+  "NumberOfAwards": 330,
   "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1636,7 +1642,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game has Competitive Players",
@@ -1681,8 +1687,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-08-08T10:58:31.4338423+00:00",
+  "LastChanged": "2024-08-08T20:59:11.324241+00:00",
   "LastUpdate_AppInfo": "2024-08-08T08:56:59.1578354+00:00",
-  "LastUpdate_Ratings": "2024-08-08T19:00:19.0351179+00:00",
+  "LastUpdate_Ratings": "2024-08-08T20:59:11.3242416+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:15.4419717+00:00"
 }

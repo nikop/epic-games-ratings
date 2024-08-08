@@ -2,7 +2,7 @@
   "ID": "dda64c2956b54f1ba3cd97f6aaee775f",
   "Name": "Total War: WARHAMMER III",
   "ProductSlug": "total-war-warhammer-3",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 225,
   "Ranking_Popularity": 116,
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 1141,
@@ -16442,10 +16442,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 11501,
       "NumberOfAwardsMax": 2983
+    },
+    {
+      "Time": "2024-08-08T20:58:18.3379339+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 11507,
+      "NumberOfAwardsMax": 2983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11501,
+  "NumberOfAwards": 11507,
   "NumberOfAwardsMax": 2983,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -16513,13 +16519,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 726
+      "Count": 728
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 857
+      "Count": 861
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16539,8 +16545,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-08-08T18:59:24.2984918+00:00",
+  "LastChanged": "2024-08-08T20:58:18.3379337+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:17.3087978+00:00",
-  "LastUpdate_Ratings": "2024-08-08T18:59:24.2984922+00:00",
+  "LastUpdate_Ratings": "2024-08-08T20:58:18.3379343+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:34.2533642+00:00"
 }
