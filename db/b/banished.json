@@ -2,7 +2,7 @@
   "ID": "196202dd9d8f453bb50ceea83a759840",
   "Name": "Banished",
   "ProductSlug": "banished-a8eee5",
-  "Ranking_Rating": 1147,
+  "Ranking_Rating": 1145,
   "Ranking_Popularity": 683,
   "Ranking_PopularitySum": 683,
   "Ranking_EOS_Progress": 1141,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-02-04T23:58:43.0680411+00:00",
@@ -136,6 +136,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-08T14:00:28.8964183+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -154,8 +160,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-16T23:33:03.3482571+00:00",
   "FirstSeenRating": "2023-02-04T23:58:43.0680409+00:00",
-  "LastChanged": "2024-08-02T21:57:32.0203966+00:00",
+  "LastChanged": "2024-08-08T14:00:28.8964181+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:49.5955943+00:00",
-  "LastUpdate_Ratings": "2024-08-08T13:09:45.4675841+00:00",
+  "LastUpdate_Ratings": "2024-08-08T14:00:28.8964187+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:05.9650434+00:00"
 }

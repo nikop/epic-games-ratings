@@ -2,7 +2,7 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 950,
   "Ranking_Popularity": 493,
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 53,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-12-21T06:03:01.412471+00:00",
@@ -1666,6 +1666,12 @@
     {
       "Time": "2024-08-07T17:00:22.134726+00:00",
       "Rating": 4.35,
+      "NumberOfAwards": 464,
+      "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-08-08T14:00:43.4958588+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 464,
       "NumberOfAwardsMax": 72
     }
@@ -6709,9 +6715,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-08-07T17:00:22.1347259+00:00",
+  "LastChanged": "2024-08-08T14:00:43.4958586+00:00",
   "LastChanged_Achievements": "2024-06-17T16:16:51.3212724+00:00",
   "LastUpdate_AppInfo": "2024-08-07T09:57:05.4989869+00:00",
-  "LastUpdate_Ratings": "2024-08-08T13:09:55.2335152+00:00",
+  "LastUpdate_Ratings": "2024-08-08T14:00:43.495859+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:16:51.3213274+00:00"
 }
