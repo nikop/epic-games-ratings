@@ -2,7 +2,7 @@
   "ID": "4b4cf9f6797e47099d1a132d485ed0f2",
   "Name": "HAWKED",
   "ProductSlug": "hawked-b256b5",
-  "Ranking_Rating": 1117,
+  "Ranking_Rating": 1116,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 275,
@@ -411,6 +411,6 @@
   "LastChanged": "2024-08-08T03:59:58.4397552+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:51.9066716+00:00",
   "LastUpdate_AppInfo": "2024-08-08T13:09:22.6970762+00:00",
-  "LastUpdate_Ratings": "2024-08-09T21:58:25.0307696+00:00",
+  "LastUpdate_Ratings": "2024-08-09T23:00:12.2972618+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:51.9066853+00:00"
 }

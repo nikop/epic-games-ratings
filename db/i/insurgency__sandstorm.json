@@ -2,9 +2,9 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 435,
+  "Ranking_Rating": 434,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -7832,18 +7832,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 4252,
       "NumberOfAwardsMax": 526
+    },
+    {
+      "Time": "2024-08-09T22:58:17.8386711+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4259,
+      "NumberOfAwardsMax": 528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4252,
-  "NumberOfAwardsMax": 526,
+  "NumberOfAwards": 4259,
+  "NumberOfAwardsMax": 528,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 492
+      "Count": 493
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7861,13 +7867,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 428
+      "Count": 429
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 526
+      "Count": 528
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7885,7 +7891,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 477
+      "Count": 480
     },
     {
       "Text": "This game has a Competitive Community",
@@ -40727,9 +40733,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-08-09T17:59:45.5983894+00:00",
+  "LastChanged": "2024-08-09T22:58:17.838671+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:40.820247+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:28.8627022+00:00",
-  "LastUpdate_Ratings": "2024-08-09T20:58:58.570054+00:00",
+  "LastUpdate_Ratings": "2024-08-09T22:58:17.8386716+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:40.8204518+00:00"
 }

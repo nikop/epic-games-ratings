@@ -1,7 +1,7 @@
 # The Bridge
 [Store](https://store.epicgames.com/en-US/p/the-bridge)  
 [View Rawdata](../../db/t/the_bridge.json)  
-Rating: 4.19 (Ranked 1,093)  
+Rating: 4.20 (Ranked 1,087)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -94,3 +94,4 @@ Diff (max vs sum): -1
 | 2024-07-29 | 4.18 | 0 | 0 |
 | 2024-07-30 | 4.18 | 20 | 20 |
 | 2024-08-02 | 4.19 | 20 | 20 |
+| 2024-08-09 | 4.20 | 20 | 20 |
