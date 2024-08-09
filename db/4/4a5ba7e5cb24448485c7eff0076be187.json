@@ -2,10 +2,10 @@
   "ID": "4a5ba7e5cb24448485c7eff0076be187",
   "Name": "Hanoi Puzzles - Flip Match",
   "ProductSlug": "hanoi-puzzles-flip-match-fc5fbd",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2021-10-15T13:30:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-07T09:57:05.5401626+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:49.0047652+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:28.0267083+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:40.416497+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:00.3962856+00:00"
 }

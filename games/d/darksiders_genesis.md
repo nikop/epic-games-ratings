@@ -6,26 +6,26 @@ Number of Ratings: 67  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 8.00% | ~180 |
-| Soul Cache | 7.00% | ~157 |
-| Close the Rift | 3.00% | ~67 |
-| Mammon | 3.00% | ~67 |
-| A Bullet for All Seasons | 2.00% | ~45 |
-| Astarte | 2.00% | ~45 |
-| Demolition Derby | 2.00% | ~45 |
-| Hell's Forge | 2.00% | ~45 |
-| Infested | 2.00% | ~45 |
-| Master of Strife | 2.00% | ~45 |
-| Master of War | 2.00% | ~45 |
-| Mint II | 2.00% | ~45 |
-| The Dead Court | 2.00% | ~45 |
-| Walking Armory | 2.00% | ~45 |
-| Why'd It Have to Be Snakes? | 2.00% | ~45 |
-| Good Deeds | 1.00% | ~22 |
-| Mint III | 1.00% | ~22 |
-| Gatekeeper | 0.90% | ~20 |
-| Ready to Blow | 0.90% | ~20 |
-| Wicked Killington | 0.90% | ~20 |
+| Mint I | 8.00% | ~183 |
+| Soul Cache | 7.00% | ~160 |
+| Close the Rift | 4.00% | ~91 |
+| Mammon | 3.00% | ~68 |
+| A Bullet for All Seasons | 2.00% | ~46 |
+| Astarte | 2.00% | ~46 |
+| Demolition Derby | 2.00% | ~46 |
+| Hell's Forge | 2.00% | ~46 |
+| Infested | 2.00% | ~46 |
+| Master of Strife | 2.00% | ~46 |
+| Master of War | 2.00% | ~46 |
+| Mint II | 2.00% | ~46 |
+| The Dead Court | 2.00% | ~46 |
+| Walking Armory | 2.00% | ~46 |
+| Why'd It Have to Be Snakes? | 2.00% | ~46 |
+| Gatekeeper | 1.00% | ~23 |
+| Good Deeds | 1.00% | ~23 |
+| Mint III | 1.00% | ~23 |
+| Ready to Blow | 1.00% | ~23 |
+| Wicked Killington | 0.90% | ~21 |
 | Are You Not Entertained? | 0.70% | ~16 |
 | Collector | 0.50% | ~11 |
 | Full of Hell | 0.40% | ~9 |
@@ -37,8 +37,8 @@ Number of Ratings: 67  (23.09.2022)
 | Dagon | 0.00% | ~0 |
 | Moloch | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,246 (Ranked 329)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,283 (Ranked 340)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 1,473 | 0 |
 | 2024-06-17 | 1,990 | 0 |
 | 2024-07-30 | 2,246 | 0 |
+| 2024-08-09 | 2,283 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 541)  
 Sum: 48 (Ranked 606)  

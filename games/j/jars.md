@@ -5,29 +5,29 @@ Rating: 4.30 (Ranked 983)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Missing data | 79.00% | ~137 |
-| Broken jar | 75.00% | ~130 |
-| The child of the night | 72.00% | ~125 |
-| It fits. IT FITS! | 68.00% | ~118 |
-| Uncle will be happy | 58.00% | ~100 |
-| I have an army! | 54.00% | ~93 |
-| Sticky fingers | 33.00% | ~57 |
-| A horrible thing will happen... | 29.00% | ~50 |
-| Vampires | 27.00% | ~47 |
-| Bloody stream | 23.00% | ~40 |
-| Fangs | 14.00% | ~24 |
-| Mirrors | 8.00% | ~14 |
-| At least there is something to read | 6.00% | ~10 |
+| Missing data | 78.00% | ~146 |
+| Broken jar | 74.00% | ~138 |
+| The child of the night | 71.00% | ~133 |
+| It fits. IT FITS! | 68.00% | ~127 |
+| Uncle will be happy | 57.00% | ~107 |
+| I have an army! | 53.00% | ~99 |
+| Sticky fingers | 33.00% | ~62 |
+| A horrible thing will happen... | 28.00% | ~52 |
+| Vampires | 25.00% | ~47 |
+| Bloody stream | 22.00% | ~41 |
+| Fangs | 13.00% | ~24 |
+| Mirrors | 7.00% | ~13 |
+| At least there is something to read | 5.00% | ~9 |
 | Coat | 5.00% | ~9 |
-| I need a hero | 5.00% | ~9 |
-| I love you all | 5.00% | ~9 |
-| Skills to pay the bills | 5.00% | ~9 |
 | Sarcophagus | 4.00% | ~7 |
-| Missing pages | 3.00% | ~5 |
-| Master of puppets | 3.00% | ~5 |
+| Missing pages | 4.00% | ~7 |
+| I need a hero | 4.00% | ~7 |
+| I love you all | 4.00% | ~7 |
+| Skills to pay the bills | 4.00% | ~7 |
+| Master of puppets | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 173 (Ranked 578)  
-Completed: 5 (2.89%) (Ranked 161)  
+Progressed: 187 (Ranked 585)  
+Completed: 5 (2.67%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 5 (2.89%) (Ranked 161)
 | 2024-03-21 | 131 | 5 |
 | 2024-04-10 | 140 | 5 |
 | 2024-06-17 | 173 | 5 |
+| 2024-08-09 | 187 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

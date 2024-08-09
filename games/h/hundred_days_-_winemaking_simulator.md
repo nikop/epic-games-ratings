@@ -1,45 +1,45 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 935)  
+Rating: 4.35 (Ranked 934)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 46.00% | ~16,708 |
-| It's a good start | 11.00% | ~3,995 |
-| Bonjour! | 8.00% | ~2,906 |
-| Quack | 8.00% | ~2,906 |
-| The Assistant | 6.00% | ~2,179 |
-| The Blue Marl | 6.00% | ~2,179 |
-| Ostinata | 5.00% | ~1,816 |
-| Better than nothing? | 5.00% | ~1,816 |
-| A long journey | 4.00% | ~1,453 |
-| Famous | 4.00% | ~1,453 |
-| Big Money | 3.00% | ~1,090 |
-| Keep the doctor away | 3.00% | ~1,090 |
-| Surprise of Langhe | 3.00% | ~1,090 |
-| What is that? A castle? | 2.00% | ~726 |
-| A lot of space | 2.00% | ~726 |
-| A big garage | 2.00% | ~726 |
-| Millionaire | 2.00% | ~726 |
-| Exotic | 2.00% | ~726 |
-| Pastry Chef | 2.00% | ~726 |
-| Welcome to the club | 2.00% | ~726 |
-| Very Important Winemaker | 2.00% | ~726 |
-| King of Langhe | 1.00% | ~363 |
-| Gem of Monferrato | 1.00% | ~363 |
-| Treasure of Roero | 0.70% | ~254 |
-| Knight of Langhe | 0.50% | ~182 |
-| King of red wines | 0.20% | ~73 |
-| King of white wines | 0.10% | ~36 |
-| Sales Expert | 0.10% | ~36 |
-| Big deals | 0.10% | ~36 |
-| Master Winemaker | 0.10% | ~36 |
-| Unsuitable Terroir | 0.10% | ~36 |
+| Bye Bye | 46.00% | ~18,659 |
+| It's a good start | 11.00% | ~4,462 |
+| Quack | 9.00% | ~3,651 |
+| Bonjour! | 8.00% | ~3,245 |
+| The Assistant | 7.00% | ~2,839 |
+| The Blue Marl | 6.00% | ~2,434 |
+| Ostinata | 5.00% | ~2,028 |
+| Better than nothing? | 5.00% | ~2,028 |
+| A long journey | 4.00% | ~1,622 |
+| Famous | 4.00% | ~1,622 |
+| Big Money | 3.00% | ~1,217 |
+| Keep the doctor away | 3.00% | ~1,217 |
+| Surprise of Langhe | 3.00% | ~1,217 |
+| What is that? A castle? | 2.00% | ~811 |
+| A lot of space | 2.00% | ~811 |
+| A big garage | 2.00% | ~811 |
+| Millionaire | 2.00% | ~811 |
+| Exotic | 2.00% | ~811 |
+| Pastry Chef | 2.00% | ~811 |
+| Welcome to the club | 2.00% | ~811 |
+| Very Important Winemaker | 2.00% | ~811 |
+| King of Langhe | 1.00% | ~406 |
+| Gem of Monferrato | 1.00% | ~406 |
+| Treasure of Roero | 0.70% | ~284 |
+| Knight of Langhe | 0.50% | ~203 |
+| King of red wines | 0.20% | ~81 |
+| King of white wines | 0.10% | ~41 |
+| Sales Expert | 0.10% | ~41 |
+| Big deals | 0.10% | ~41 |
+| Master Winemaker | 0.10% | ~41 |
+| Unsuitable Terroir | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,322 (Ranked 175)  
-Completed: 16 (0.04%) (Ranked 458)  
+Progressed: 40,562 (Ranked 178)  
+Completed: 17 (0.04%) (Ranked 476)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,6 +198,7 @@ Completed: 16 (0.04%) (Ranked 458)
 | 2024-03-21 | 27,838 | 14 |
 | 2024-04-10 | 29,779 | 15 |
 | 2024-06-17 | 36,322 | 16 |
+| 2024-08-09 | 40,562 | 17 |
 ## Awards
 Max (Relaxing): 213  (Ranked 346)  
 Sum: 1,644 (Ranked 271)  

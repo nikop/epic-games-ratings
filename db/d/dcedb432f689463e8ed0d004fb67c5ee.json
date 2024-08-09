@@ -2,10 +2,10 @@
   "ID": "dcedb432f689463e8ed0d004fb67c5ee",
   "Name": "Dofamine",
   "ProductSlug": "dofamine-ed4b81",
-  "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-12T09:00:00+00:00",
     "PcReleaseDate": "2020-10-29T10:00:00+00:00",
@@ -97,8 +97,8 @@
   ],
   "FirstSeen": "2024-06-30T03:59:36.8465273+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:48.7737998+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:23.0412685+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:55.4898007+00:00",
   "LastUpdate_AppInfo": "2024-08-03T16:57:01.3330216+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:44.3764169+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:23.0412869+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:32.7786597+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:55.4898076+00:00"
 }

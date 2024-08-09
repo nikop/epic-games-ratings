@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Island | 93.00% | ~66 |
-| Island 2 | 85.00% | ~60 |
-| Island 3 | 80.00% | ~57 |
-| Island 4 | 72.00% | ~51 |
-| Island 5 | 66.00% | ~47 |
-| Island 6 | 52.00% | ~37 |
-| Island 7 | 49.00% | ~35 |
-| Island 8 | 48.00% | ~34 |
-| Island 9 | 46.00% | ~33 |
-| Island 10 | 45.00% | ~32 |
-| Island 11 | 42.00% | ~30 |
-| Island 12 | 42.00% | ~30 |
-| Island 13 | 37.00% | ~26 |
-| Island 14 | 37.00% | ~26 |
-| Island 15 | 35.00% | ~25 |
-| Island 16 | 35.00% | ~25 |
-| Island 17 | 32.00% | ~23 |
-| Island 18 | 30.00% | ~21 |
-| Island 19 | 30.00% | ~21 |
-| Island 20 | 30.00% | ~21 |
-| Island 21 | 27.00% | ~19 |
-| Island 22 | 27.00% | ~19 |
-| Island 23 | 27.00% | ~19 |
-| Island 24 | 24.00% | ~17 |
-| Island 25 | 24.00% | ~17 |
-| Island 26 | 24.00% | ~17 |
-| Island 27 | 24.00% | ~17 |
-| Island 28 | 23.00% | ~16 |
-| Island 29 | 21.00% | ~15 |
-| Island 30 | 20.00% | ~14 |
-| Island 31 | 20.00% | ~14 |
-| Island 32 | 18.00% | ~13 |
-| Island 33 | 18.00% | ~13 |
-| Island 34 | 18.00% | ~13 |
-| Island 35 | 18.00% | ~13 |
+| First Island | 94.00% | ~75 |
+| Island 2 | 85.00% | ~68 |
+| Island 3 | 83.00% | ~66 |
+| Island 4 | 73.00% | ~58 |
+| Island 5 | 64.00% | ~51 |
+| Island 6 | 51.00% | ~41 |
+| Island 7 | 49.00% | ~39 |
+| Island 8 | 48.00% | ~38 |
+| Island 9 | 46.00% | ~37 |
+| Island 10 | 45.00% | ~36 |
+| Island 11 | 43.00% | ~34 |
+| Island 12 | 43.00% | ~34 |
+| Island 13 | 36.00% | ~29 |
+| Island 14 | 36.00% | ~29 |
+| Island 15 | 35.00% | ~28 |
+| Island 16 | 35.00% | ~28 |
+| Island 17 | 33.00% | ~26 |
+| Island 18 | 30.00% | ~24 |
+| Island 19 | 29.00% | ~23 |
+| Island 20 | 29.00% | ~23 |
+| Island 21 | 28.00% | ~22 |
+| Island 22 | 28.00% | ~22 |
+| Island 23 | 26.00% | ~21 |
+| Island 24 | 23.00% | ~18 |
+| Island 25 | 23.00% | ~18 |
+| Island 26 | 23.00% | ~18 |
+| Island 27 | 23.00% | ~18 |
+| Island 28 | 21.00% | ~17 |
+| Island 29 | 20.00% | ~16 |
+| Island 30 | 19.00% | ~15 |
+| Island 31 | 19.00% | ~15 |
+| Island 32 | 18.00% | ~14 |
+| Island 33 | 18.00% | ~14 |
+| Island 34 | 18.00% | ~14 |
+| Island 35 | 18.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 694)  
-Completed: 13 (18.31%) (Ranked 39)  
+Progressed: 80 (Ranked 708)  
+Completed: 14 (17.50%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 13 (18.31%) (Ranked 39)
 | 2024-03-21 | 46 | 10 |
 | 2024-04-10 | 50 | 10 |
 | 2024-06-17 | 71 | 13 |
+| 2024-08-09 | 80 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

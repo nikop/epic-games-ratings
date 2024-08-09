@@ -2,10 +2,10 @@
   "ID": "12b7efdc754646698a2e47012a94bd13",
   "Name": "EscapeGameShow : THE TIMELINE",
   "ProductSlug": "escapegameshow-1cfe48",
-  "Ranking_EOS_Progress": 906,
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 907,
+  "Ranking_EOS_Completed": 97,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-04T14:00:00+00:00",
     "PcReleaseDate": "2024-07-04T14:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 14,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.09,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:24.0764135+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-07-30T16:02:35.4305719+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-09T18:08:07.5156186+00:00",
+      "NumProgressed": 14,
       "NumCompleted": 1
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "antiquity",
       "SetID": "7h95odl",
       "Name": "Antiquity",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -58,7 +63,7 @@
       "ID": "contemporary",
       "SetID": "7h95odl",
       "Name": "Contemporary",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -66,7 +71,7 @@
       "ID": "cup",
       "SetID": "7h95odl",
       "Name": "The cup",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -74,7 +79,7 @@
       "ID": "debut",
       "SetID": "7h95odl",
       "Name": "Winning ticket",
-      "Percentage": 18,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -82,7 +87,7 @@
       "ID": "end",
       "SetID": "7h95odl",
       "Name": "The end",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "gold",
       "SetID": "7h95odl",
       "Name": "Full pockets",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "loose",
       "SetID": "7h95odl",
       "Name": "The big loser",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "medieval",
       "SetID": "7h95odl",
       "Name": "Medieval",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "prehistoire",
       "SetID": "7h95odl",
       "Name": "Prehistory",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "secret",
       "SetID": "7h95odl",
       "Name": "Observation is the key",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 180,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "studio",
       "SetID": "7h95odl",
       "Name": "TV studio",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "win",
       "SetID": "7h95odl",
       "Name": "Jackpot",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -147,14 +152,14 @@
     {
       "ID": "7h95odl",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 14,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-07-23T11:57:48.6383043+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:24.0764159+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:35.4305713+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:07.5156179+00:00",
   "LastUpdate_AppInfo": "2024-08-02T18:57:23.5286449+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:06.1635948+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:35.430582+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:00.2573771+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:07.5156272+00:00"
 }

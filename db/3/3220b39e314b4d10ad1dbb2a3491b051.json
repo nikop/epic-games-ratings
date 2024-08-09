@@ -2,10 +2,10 @@
   "ID": "3220b39e314b4d10ad1dbb2a3491b051",
   "Name": "Townopolis",
   "ProductSlug": "townopolis-c55fc5",
-  "Ranking_EOS_Progress": 698,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 722,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-05T16:00:00+00:00",
     "PcReleaseDate": "2008-10-19T16:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:15.2624908+00:00",
       "NumProgressed": 69,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:48.2232749+00:00",
+      "NumProgressed": 74,
       "NumCompleted": 0
     }
   ],
@@ -45,9 +50,9 @@
       "ID": "H1",
       "SetID": "67o35n9",
       "Name": "Builder",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "H10",
@@ -101,15 +106,15 @@
       "ID": "H16",
       "SetID": "67o35n9",
       "Name": "Architect",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "H2",
       "SetID": "67o35n9",
       "Name": "Expert builder",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -119,7 +124,7 @@
       "Name": "Master builder",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "H4",
@@ -127,7 +132,7 @@
       "Name": "Improver",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "H5",
@@ -141,23 +146,23 @@
       "ID": "H6",
       "SetID": "67o35n9",
       "Name": "Master improver",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H7",
       "SetID": "67o35n9",
       "Name": "Demolisher",
-      "Percentage": 51,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "H8",
       "SetID": "67o35n9",
       "Name": "Expert demolisher",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
       "UsersEstimate": 17
     },
@@ -165,15 +170,15 @@
       "ID": "H9",
       "SetID": "67o35n9",
       "Name": "Master demolisher",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HA",
       "SetID": "67o35n9",
       "Name": "Preparator",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -197,9 +202,9 @@
       "ID": "HD",
       "SetID": "67o35n9",
       "Name": "Storekeeper",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HE",
@@ -207,7 +212,7 @@
       "Name": "Trainer",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HF",
@@ -215,21 +220,21 @@
       "Name": "Manager",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "67o35n9",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-07T16:58:30.1583704+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:15.2624968+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:15.2624903+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:48.2232742+00:00",
   "LastUpdate_AppInfo": "2024-08-08T17:57:25.7944303+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:07.280749+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:15.2631103+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:57.7786364+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:48.2232877+00:00"
 }

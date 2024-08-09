@@ -2,10 +2,10 @@
   "ID": "87beabc82e8a4a4f9a4914ee5d97decc",
   "Name": "Internet Cafe Evolution",
   "ProductSlug": "internet-cafe-evolution-c1271a",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-18T03:30:00+00:00",
     "PcReleaseDate": "2024-04-19T08:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-06-19T11:58:19.8125786+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:08.0775443+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:29.4455972+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:01.8079243+00:00",
   "LastUpdate_AppInfo": "2024-08-06T07:57:04.0250276+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:03.7176358+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:29.4456003+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:50.3997282+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:01.8079269+00:00"
 }

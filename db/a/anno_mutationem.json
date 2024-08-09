@@ -5,10 +5,10 @@
   "Ranking_Rating": 463,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -166,7 +166,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 921,
+  "EOS_Progressed": 936,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1446,6 +1446,11 @@
       "Time": "2024-06-17T16:11:10.9643047+00:00",
       "NumProgressed": 921,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:03:03.2222883+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -1465,7 +1470,7 @@
       "Name": "Annakin Skyscroller",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "Arm_Wrestling",
@@ -1473,7 +1478,7 @@
       "Name": "Arm Wrestlin\u0027",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "Big_Spender",
@@ -1481,7 +1486,7 @@
       "Name": "Big Spender",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 365
     },
     {
       "ID": "Clarity_of_Mind",
@@ -1489,31 +1494,31 @@
       "Name": "Clarity of Mind",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Club_Star",
       "SetID": "gl7plp",
       "Name": "Club Star",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 234
     },
     {
       "ID": "Combine",
       "SetID": "gl7plp",
       "Name": "1\u002B1\u003E2",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 94
     },
     {
       "ID": "Deadly_Kombationem",
       "SetID": "gl7plp",
       "Name": "Deadly Kombationem",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 178
     },
     {
       "ID": "Fire in the hole!",
@@ -1521,7 +1526,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 184
+      "UsersEstimate": 187
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -1529,7 +1534,7 @@
       "Name": "I feel secure, contained \u0026 protected",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "I\u0027m walking here!",
@@ -1537,31 +1542,31 @@
       "Name": "I\u0027m walking here!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 402
     },
     {
       "ID": "I_think_its_broke",
       "SetID": "gl7plp",
       "Name": "I think it\u0027s broke",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 249
+      "UsersEstimate": 262
     },
     {
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 103
     },
     {
       "ID": "Keep_em_coming",
@@ -1569,7 +1574,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 396
+      "UsersEstimate": 402
     },
     {
       "ID": "Lady_Luck",
@@ -1583,9 +1588,9 @@
       "ID": "Omnipotence",
       "SetID": "gl7plp",
       "Name": "Omnipotence",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 184
+      "UsersEstimate": 197
     },
     {
       "ID": "SERENITY_NOW",
@@ -1593,7 +1598,7 @@
       "Name": "SERENITY NOW",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Science_it_works",
@@ -1601,7 +1606,7 @@
       "Name": "Science, it works!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "So_Fresh",
@@ -1609,7 +1614,7 @@
       "Name": "So Fresh and So clean clean",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Supreme_Bartender_Ann",
@@ -1617,7 +1622,7 @@
       "Name": "Supreme Bartender Ann",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Tell_me_your_story",
@@ -1625,7 +1630,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 691
+      "UsersEstimate": 702
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -1633,7 +1638,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 341
+      "UsersEstimate": 346
     },
     {
       "ID": "The Traveler",
@@ -1641,7 +1646,7 @@
       "Name": "The Traveler",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "The_Age_of_Mutationem",
@@ -1655,9 +1660,9 @@
       "ID": "The_Ann_Flores_Combo_Experience",
       "SetID": "gl7plp",
       "Name": "The Ann Flores Combo Experience",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 239
+      "UsersEstimate": 253
     },
     {
       "ID": "The_Warlord",
@@ -1665,7 +1670,7 @@
       "Name": "The Warlord",
       "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -1673,7 +1678,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "The_truth_is_out_there",
@@ -1681,7 +1686,7 @@
       "Name": "The truth is out there",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "This_cant_be_right",
@@ -1689,7 +1694,7 @@
       "Name": "This can\u0027t be right\u2026",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Welcome_home_06",
@@ -1697,7 +1702,7 @@
       "Name": "Welcome home, 06",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Woman on a (side) mission",
@@ -1705,23 +1710,23 @@
       "Name": "Woman on a (side) mission",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "You_are_the_One",
       "SetID": "gl7plp",
       "Name": "You are the One",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 187
     },
     {
       "ID": "manhole",
       "SetID": "gl7plp",
       "Name": "Don\u0027t judge a manhole by its cover",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 553
+      "UsersEstimate": 571
     },
     {
       "ID": "posters",
@@ -1737,14 +1742,14 @@
       "Name": "I just got real good",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 921,
+      "Progressed": 936,
       "Completed": 0
     }
   ],
@@ -1752,8 +1757,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2024-07-19T23:58:18.8949157+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:10.9643044+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:03.2222875+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:51.2554753+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:36.6752853+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:10.9643292+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:29.3272018+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:03.2223225+00:00"
 }

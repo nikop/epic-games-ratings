@@ -2,10 +2,10 @@
   "ID": "76e9bc3f4ccd4061b471ee52735daf45",
   "Name": "Entomophobia",
   "ProductSlug": "entomophobia-5e766c",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 860,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2022-04-16T17:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 21,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
     {
       "Time": "2024-06-17T16:09:24.1923353+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:02:20.8772392+00:00",
+      "NumProgressed": 21,
       "NumCompleted": 0
     }
   ],
@@ -120,9 +125,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "73fploh",
       "Name": "Might",
-      "Percentage": 107,
+      "Percentage": 105,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "FIRST_UPGRADE",
@@ -168,9 +173,9 @@
       "ID": "PRESS_ESCAPE",
       "SetID": "73fploh",
       "Name": "Take a Breather",
-      "Percentage": 80,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "PRESS_SPACE",
@@ -193,14 +198,14 @@
     {
       "ID": "73fploh",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 21,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-01T21:58:52.843175+00:00",
   "FirstSeenAchievements": "2023-10-12T05:03:22.9962515+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:24.1923349+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:20.8772385+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:17.4142873+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:46.1923931+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:24.1923444+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:40.8912247+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:20.877249+00:00"
 }

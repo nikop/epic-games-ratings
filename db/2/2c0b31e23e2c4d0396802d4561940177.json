@@ -2,10 +2,10 @@
   "ID": "2c0b31e23e2c4d0396802d4561940177",
   "Name": "CyberCorp",
   "ProductSlug": "cybercorp-b444a3",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-03T11:57:00.8030553+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:18.4294463+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:15.7245981+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:56.7464549+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:29.6434689+00:00"
 }

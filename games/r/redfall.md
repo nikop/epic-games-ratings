@@ -5,25 +5,25 @@ Rating: 3.68 (Ranked 1,246)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 29.00% | ~761 |
+| I Like My Stakes Rare! | 29.00% | ~762 |
 | Catch and Release | 23.00% | ~604 |
-| Home Is Where the Heart Is | 21.00% | ~551 |
-| ICU | 21.00% | ~551 |
-| Wounded Whispers | 21.00% | ~551 |
-| Blood Will Have Blood | 18.00% | ~472 |
-| Ne Plus Ultra | 18.00% | ~472 |
-| Peek-a-boo | 18.00% | ~472 |
-| Fly Fisher | 17.00% | ~446 |
-| Sucks To Be You | 17.00% | ~446 |
+| Home Is Where the Heart Is | 22.00% | ~578 |
+| ICU | 21.00% | ~552 |
+| Wounded Whispers | 21.00% | ~552 |
+| Blood Will Have Blood | 18.00% | ~473 |
+| Ne Plus Ultra | 18.00% | ~473 |
+| Fly Fisher | 18.00% | ~473 |
+| Peek-a-boo | 18.00% | ~473 |
+| Sucks To Be You | 17.00% | ~447 |
 | Throw The First Stone | 16.00% | ~420 |
 | Enter of Your Own Free Will | 15.00% | ~394 |
 | Welcome to the Neighborhood | 15.00% | ~394 |
 | Heart Attack | 15.00% | ~394 |
-| Grounded | 13.00% | ~341 |
-| Skin of Their Teeth | 13.00% | ~341 |
+| Grounded | 13.00% | ~342 |
+| Skin of Their Teeth | 13.00% | ~342 |
 | Neighborhood Revitalization | 11.00% | ~289 |
 | Radio Silence | 11.00% | ~289 |
-| Bad Wiring | 10.00% | ~262 |
+| Bad Wiring | 10.00% | ~263 |
 | You Clean It Up | 8.00% | ~210 |
 | From the Shadows | 8.00% | ~210 |
 | Sic Transit Umbra | 7.00% | ~184 |
@@ -33,7 +33,7 @@ Rating: 3.68 (Ranked 1,246)
 | Harvest’s End | 7.00% | ~184 |
 | Helping Hand | 7.00% | ~184 |
 | I Spit On Your Grave | 7.00% | ~184 |
-| Revelations | 6.00% | ~157 |
+| Revelations | 6.00% | ~158 |
 | Contingency Plans | 5.00% | ~131 |
 | Block Party | 5.00% | ~131 |
 | Check, Please! | 5.00% | ~131 |
@@ -43,13 +43,13 @@ Rating: 3.68 (Ranked 1,246)
 | Right This Way | 3.00% | ~79 |
 | Nice Try | 3.00% | ~79 |
 | Blacklight Down | 3.00% | ~79 |
-| Neighborhood Watch | 2.00% | ~52 |
-| Blood Brother | 2.00% | ~52 |
-| Sisterhood | 2.00% | ~52 |
-| What Lies Below | 2.00% | ~52 |
-| Bloody Initiate | 2.00% | ~52 |
-| Under a Bushel | 2.00% | ~52 |
-| Good Samaritan | 2.00% | ~52 |
+| Neighborhood Watch | 2.00% | ~53 |
+| Blood Brother | 2.00% | ~53 |
+| Sisterhood | 2.00% | ~53 |
+| What Lies Below | 2.00% | ~53 |
+| Bloody Initiate | 2.00% | ~53 |
+| Under a Bushel | 2.00% | ~53 |
+| Good Samaritan | 2.00% | ~53 |
 | Scream Team | 1.00% | ~26 |
 | Monster Hunters Club | 1.00% | ~26 |
 | Friendgineering | 1.00% | ~26 |
@@ -58,11 +58,11 @@ Rating: 3.68 (Ranked 1,246)
 | Enemy of My Enemy | 0.90% | ~24 |
 | Bob’s Final Hour | 0.80% | ~21 |
 | Someplace to Be | 0.50% | ~13 |
-| A Cry in the Dark | 0.40% | ~10 |
+| A Cry in the Dark | 0.40% | ~11 |
+| Sepsis | 0.40% | ~11 |
+| Friends 'Til The End | 0.40% | ~11 |
 | Faith Healer | 0.30% | ~8 |
-| Sepsis | 0.30% | ~8 |
 | Rum Runner | 0.30% | ~8 |
-| Friends 'Til The End | 0.30% | ~8 |
 | Ask Not For Whom The Horns Blow | 0.20% | ~5 |
 | Eagle Eyes | 0.20% | ~5 |
 | Deforestation | 0.00% | ~0 |
@@ -72,8 +72,8 @@ Rating: 3.68 (Ranked 1,246)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,624 (Ranked 314)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,627 (Ranked 326)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,9 +238,10 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-05-13 | 2,583 | 0 |
 | 2024-06-17 | 2,610 | 0 |
 | 2024-07-24 | 2,624 | 0 |
+| 2024-08-09 | 2,627 | 0 |
 ## Awards
-Max (Great Boss Battles): 46  (Ranked 546)  
-Sum: 46 (Ranked 607)  
+Max (Great Boss Battles): 46  (Ranked 547)  
+Sum: 46 (Ranked 608)  
 Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |

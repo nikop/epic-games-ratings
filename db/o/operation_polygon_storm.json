@@ -2,10 +2,10 @@
   "ID": "d705b04f61c04c5ebe30c7314d34a377",
   "Name": "Operation Polygon Storm",
   "ProductSlug": "operation-polygon-storm-65c37e",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -28,9 +28,179 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-08-09T18:04:01.083647+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_Academy",
+      "SetID": "9oicnd9",
+      "Name": "Academy Graduate",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Airstrike",
+      "SetID": "9oicnd9",
+      "Name": "Airstrike Ambush",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Artillery",
+      "SetID": "9oicnd9",
+      "Name": "Artillery Addict",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Campaign",
+      "SetID": "9oicnd9",
+      "Name": "Campaign Vanquisher",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Champion",
+      "SetID": "9oicnd9",
+      "Name": "Challenge Champion",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Crafter",
+      "SetID": "9oicnd9",
+      "Name": "Cover Crafter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Endless",
+      "SetID": "9oicnd9",
+      "Name": "Endless Expert",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Exterminator",
+      "SetID": "9oicnd9",
+      "Name": "Enemy Exterminator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Footman",
+      "SetID": "9oicnd9",
+      "Name": "Footman Fabricator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Havoc",
+      "SetID": "9oicnd9",
+      "Name": "Headshot Havoc",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Infantry",
+      "SetID": "9oicnd9",
+      "Name": "Infantry Ace",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Magnat",
+      "SetID": "9oicnd9",
+      "Name": "Crypto Magnat",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Massacre",
+      "SetID": "9oicnd9",
+      "Name": "Mine Massacre",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Mortar",
+      "SetID": "9oicnd9",
+      "Name": "Mortar Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Savior",
+      "SetID": "9oicnd9",
+      "Name": "Sky Savior",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Scavenger",
+      "SetID": "9oicnd9",
+      "Name": "Supply Scavenger",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Tower",
+      "SetID": "9oicnd9",
+      "Name": "Tower Saver",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Turret",
+      "SetID": "9oicnd9",
+      "Name": "Turret Terror",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Welcome",
+      "SetID": "9oicnd9",
+      "Name": "Welcome Recrute!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Wheel",
+      "SetID": "9oicnd9",
+      "Name": "Wheel Wrecker",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_Wizard",
+      "SetID": "9oicnd9",
+      "Name": "Motor Wizard",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9oicnd9",
@@ -40,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:13:31.9807137+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:31.9807126+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:01.0836457+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:00.7355276+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:26.7384215+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:31.9807148+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:22.7744794+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:01.084323+00:00"
 }

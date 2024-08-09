@@ -2,10 +2,10 @@
   "ID": "f6f888bc947145dfadda50a043c880fc",
   "Name": "TRIB3",
   "ProductSlug": "trib3-78216c",
-  "Ranking_EOS_Progress": 638,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 635,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-27T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T23:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 111,
+  "EOS_Progressed": 126,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:43.2243749+00:00",
       "NumProgressed": 111,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:08:14.9600176+00:00",
+      "NumProgressed": 126,
       "NumCompleted": 0
     }
   ],
@@ -53,9 +58,9 @@
       "ID": "Centurion",
       "SetID": "c75ho1o",
       "Name": "Centurion Unlocked",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Champion",
@@ -77,9 +82,9 @@
       "ID": "Duelist",
       "SetID": "c75ho1o",
       "Name": "Duelist Unlocked",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "Elite-Warlord",
@@ -93,17 +98,17 @@
       "ID": "Gladiator",
       "SetID": "c75ho1o",
       "Name": "Gladiator Unlocked",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Skirmisher",
       "SetID": "c75ho1o",
       "Name": "Skirmisher Unlocked",
-      "Percentage": 2,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 16
     },
     {
       "ID": "Warlord",
@@ -118,14 +123,14 @@
     {
       "ID": "c75ho1o",
       "IsBase": true,
-      "Progressed": 111,
+      "Progressed": 126,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-01T10:57:44.270106+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.9609259+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:43.2243746+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:14.960017+00:00",
   "LastUpdate_AppInfo": "2024-08-07T02:57:02.3982033+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:21.9908736+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:43.2249218+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:18.2367527+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:14.9600239+00:00"
 }

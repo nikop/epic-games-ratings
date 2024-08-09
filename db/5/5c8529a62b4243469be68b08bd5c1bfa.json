@@ -2,10 +2,10 @@
   "ID": "5c8529a62b4243469be68b08bd5c1bfa",
   "Name": "We Love Katamari REROLL\u002B Royal Reverie",
   "ProductSlug": "we-love-katamari-reroll-and-royal-reverie",
-  "Ranking_EOS_Progress": 895,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 926,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-23T01:00:00+00:00",
     "PcReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -332,8 +332,8 @@
   ],
   "FirstSeen": "2024-05-27T09:58:09.8305155+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:58.3721393+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:26.0210324+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:58.5230451+00:00",
   "LastUpdate_AppInfo": "2024-08-08T06:57:12.2575533+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:36.6577497+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:26.0210568+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:29.0409127+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:58.5230644+00:00"
 }

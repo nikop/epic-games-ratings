@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 47.00% | ~532 |
-| Challenge Accepted | 38.00% | ~430 |
-| Terminated I | 38.00% | ~430 |
-| Nanonic I | 36.00% | ~408 |
-| Unlocked and Loaded | 35.00% | ~396 |
-| Terminated II | 30.00% | ~340 |
-| The City | 24.00% | ~272 |
-| Challenge Mastered | 21.00% | ~238 |
-| Terminated III | 21.00% | ~238 |
-| Nanonic II | 18.00% | ~204 |
-| Fully Modded | 17.00% | ~192 |
-| Starship Docks | 14.00% | ~158 |
-| Nanonic III | 13.00% | ~147 |
-| Rookie | 13.00% | ~147 |
-| Supply Run | 13.00% | ~147 |
-| Cybernetic | 11.00% | ~125 |
-| The Bigger They Are | 10.00% | ~113 |
-| Eden Heights | 8.00% | ~91 |
-| Up Close And Personal | 8.00% | ~91 |
-| Outer Core | 6.00% | ~68 |
-| Inner Core | 5.00% | ~57 |
-| Integration | 4.00% | ~45 |
-| Destruction | 2.00% | ~23 |
-| Trickshot | 2.00% | ~23 |
+| Augmented | 48.00% | ~566 |
+| Challenge Accepted | 39.00% | ~460 |
+| Terminated I | 39.00% | ~460 |
+| Nanonic I | 37.00% | ~436 |
+| Unlocked and Loaded | 36.00% | ~424 |
+| Terminated II | 31.00% | ~365 |
+| The City | 25.00% | ~295 |
+| Challenge Mastered | 22.00% | ~259 |
+| Terminated III | 22.00% | ~259 |
+| Nanonic II | 19.00% | ~224 |
+| Fully Modded | 17.00% | ~200 |
+| Starship Docks | 14.00% | ~165 |
+| Nanonic III | 14.00% | ~165 |
+| Rookie | 13.00% | ~153 |
+| Supply Run | 13.00% | ~153 |
+| Cybernetic | 12.00% | ~141 |
+| The Bigger They Are | 11.00% | ~130 |
+| Up Close And Personal | 9.00% | ~106 |
+| Eden Heights | 8.00% | ~94 |
+| Outer Core | 6.00% | ~71 |
+| Inner Core | 5.00% | ~59 |
+| Integration | 4.00% | ~47 |
+| Destruction | 2.00% | ~24 |
+| Trickshot | 2.00% | ~24 |
 | Ripperdoc | 0.70% | ~8 |
 | Hard Boiled | 0.60% | ~7 |
-| Cyborg | 0.40% | ~5 |
-| Weaponsmith | 0.30% | ~3 |
+| Cyborg | 0.30% | ~4 |
+| Weaponsmith | 0.30% | ~4 |
 | Hell Raiser | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,132 (Ranked 381)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1,179 (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,6 +204,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,038 | 0 |
 | 2024-04-10 | 1,059 | 0 |
 | 2024-06-17 | 1,132 | 0 |
+| 2024-08-09 | 1,179 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

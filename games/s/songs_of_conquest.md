@@ -6,63 +6,63 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 56.00% | ~1,791 |
-| Double Kill | 48.00% | ~1,536 |
-| Veteran | 31.00% | ~992 |
-| Critical Hit | 30.00% | ~960 |
-| Dressed For Success | 22.00% | ~704 |
-| Humiliation | 15.00% | ~480 |
-| Veni, Vidi, Vici | 14.00% | ~448 |
-| Multi Kill | 12.00% | ~384 |
-| Sorcerous Spree | 11.00% | ~352 |
-| Master | 11.00% | ~352 |
-| The Song of Stoutheart | 8.00% | ~256 |
-| Whoops! | 8.00% | ~256 |
-| Landlord Extraordinaire | 8.00% | ~256 |
-| This Spot's Taken | 7.00% | ~224 |
-| Trojan Horse | 7.00% | ~224 |
-| Don't Touch My Stuff | 6.00% | ~192 |
-| Expert Essence Employment | 5.00% | ~160 |
-| Infernal Influence | 4.00% | ~128 |
-| From the Ashes | 4.00% | ~128 |
-| Deepstrike | 3.00% | ~96 |
-| In The Thick of It | 3.00% | ~96 |
-| Together For Her | 3.00% | ~96 |
-| Ultra Kill | 3.00% | ~96 |
-| Pyrrhic Victory | 3.00% | ~96 |
-| The Price of Freedom | 2.00% | ~64 |
-| Grand Master | 2.00% | ~64 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~64 |
-| Unlimited Power! | 1.00% | ~32 |
-| Killing Spree | 1.00% | ~32 |
-| Such A Fungi | 1.00% | ~32 |
-| Get Over Here! | 1.00% | ~32 |
-| Cleave | 1.00% | ~32 |
-| Hello There | 0.90% | ~29 |
-| Death To Diplomacy | 0.80% | ~26 |
-| Versatile Wielder | 0.70% | ~22 |
-| Fully Charged | 0.60% | ~19 |
-| Coming Through! | 0.40% | ~13 |
-| Barbecue | 0.40% | ~13 |
-| Oops! | 0.40% | ~13 |
-| The Marsh Expands | 0.40% | ~13 |
-| Attack Bonanza | 0.30% | ~10 |
-| An Empress's Hope | 0.30% | ~10 |
-| A Free Man | 0.20% | ~6 |
-| Bringer of Ruin | 0.10% | ~3 |
-| Full House | 0.10% | ~3 |
-| Proof That Luck Can Be Consistent | 0.10% | ~3 |
-| Death From Above | 0.10% | ~3 |
-| Kneel, peasant! | 0.10% | ~3 |
-| Contractually Obligated to Win | 0.10% | ~3 |
-| I like it a Loth | 0.10% | ~3 |
+| Adept | 58.00% | ~2,048 |
+| Double Kill | 50.00% | ~1,766 |
+| Veteran | 33.00% | ~1,165 |
+| Critical Hit | 32.00% | ~1,130 |
+| Dressed For Success | 24.00% | ~847 |
+| Humiliation | 16.00% | ~565 |
+| Veni, Vidi, Vici | 16.00% | ~565 |
+| Multi Kill | 13.00% | ~459 |
+| Sorcerous Spree | 13.00% | ~459 |
+| Master | 12.00% | ~424 |
+| Don't Touch My Stuff | 11.00% | ~388 |
+| The Song of Stoutheart | 9.00% | ~318 |
+| Whoops! | 9.00% | ~318 |
+| This Spot's Taken | 8.00% | ~282 |
+| Landlord Extraordinaire | 8.00% | ~282 |
+| Trojan Horse | 8.00% | ~282 |
+| From the Ashes | 5.00% | ~177 |
+| Expert Essence Employment | 5.00% | ~177 |
+| Infernal Influence | 4.00% | ~141 |
+| Together For Her | 4.00% | ~141 |
+| Pyrrhic Victory | 4.00% | ~141 |
+| The Price of Freedom | 3.00% | ~106 |
+| Deepstrike | 3.00% | ~106 |
+| In The Thick of It | 3.00% | ~106 |
+| Ultra Kill | 3.00% | ~106 |
+| Grand Master | 3.00% | ~106 |
+| Get Over Here! | 2.00% | ~71 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~71 |
+| Hello There | 1.00% | ~35 |
+| Versatile Wielder | 1.00% | ~35 |
+| Unlimited Power! | 1.00% | ~35 |
+| Killing Spree | 1.00% | ~35 |
+| Such A Fungi | 1.00% | ~35 |
+| Cleave | 1.00% | ~35 |
+| Death To Diplomacy | 0.80% | ~28 |
+| Fully Charged | 0.70% | ~25 |
+| Oops! | 0.70% | ~25 |
+| The Marsh Expands | 0.60% | ~21 |
+| Coming Through! | 0.50% | ~18 |
+| Attack Bonanza | 0.40% | ~14 |
+| Barbecue | 0.40% | ~14 |
+| An Empress's Hope | 0.40% | ~14 |
+| A Free Man | 0.30% | ~11 |
+| Death From Above | 0.20% | ~7 |
+| Bringer of Ruin | 0.10% | ~4 |
+| Full House | 0.10% | ~4 |
+| Proof That Luck Can Be Consistent | 0.10% | ~4 |
+| Kneel, peasant! | 0.10% | ~4 |
+| Contractually Obligated to Win | 0.10% | ~4 |
+| I like it a Loth | 0.10% | ~4 |
 | Die by the Bow | 0.00% | ~0 |
 | Die by the Staff | 0.00% | ~0 |
 | Die by the Sword | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,199 (Ranked 295)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 3,531 (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,6 +144,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,736 | 0 |
 | 2024-04-10 | 1,935 | 0 |
 | 2024-06-17 | 3,199 | 0 |
+| 2024-08-09 | 3,531 | 0 |
 ## Awards
 Max (Diverse Characters): 32  (Ranked 604)  
 Sum: 284 (Ranked 458)  

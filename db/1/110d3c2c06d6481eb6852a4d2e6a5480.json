@@ -2,10 +2,10 @@
   "ID": "110d3c2c06d6481eb6852a4d2e6a5480",
   "Name": "Until Dawn\u2122",
   "ProductSlug": "until-dawn",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T17:57:27.0511869+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:29.311294+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:55.3410711+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:08.5574028+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:04.6360285+00:00"
 }

@@ -9,13 +9,13 @@
 | Merchant Prince I | 57.00% | ~48 |
 | 5Gb HDD | 52.00% | ~44 |
 | Fighting Fit I | 37.00% | ~31 |
-| Dominating | 35.00% | ~29 |
+| Dominating | 36.00% | ~30 |
 | Rambo I | 32.00% | ~27 |
-| 10Gb HDD | 31.00% | ~26 |
+| 10Gb HDD | 32.00% | ~27 |
 | The Vette | 27.00% | ~23 |
-| Mega Kill | 24.00% | ~20 |
+| Mega Kill | 25.00% | ~21 |
 | Almost There I | 20.00% | ~17 |
-| Stoic | 18.00% | ~15 |
+| Stoic | 19.00% | ~16 |
 | Omicron Alpha | 15.00% | ~13 |
 | Galactic Cadet | 15.00% | ~13 |
 | Bronze Prince of Ball-air | 12.00% | ~10 |
@@ -137,8 +137,8 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 678)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 84 (Ranked 702)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

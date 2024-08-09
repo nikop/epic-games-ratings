@@ -2,10 +2,10 @@
   "ID": "e93d97d4ad334c75b10412ae114c00dd",
   "Name": "Happy Lab",
   "ProductSlug": "my-product-7756c4",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-25T03:00:00+00:00",
     "PcReleaseDate": "2023-10-26T03:00:00+00:00",
@@ -29,9 +29,315 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-08-09T18:06:15.6023152+00:00",
+  "TotalAchievements": 38,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "d575n3m",
+      "Name": "BodyShot",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_10",
+      "SetID": "d575n3m",
+      "Name": "Portal: Connecting people",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_11",
+      "SetID": "d575n3m",
+      "Name": "Triggered Magnet",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_12",
+      "SetID": "d575n3m",
+      "Name": "First Blood",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_13",
+      "SetID": "d575n3m",
+      "Name": "Say hallo to my little friend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_14",
+      "SetID": "d575n3m",
+      "Name": "Total Destroy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_15",
+      "SetID": "d575n3m",
+      "Name": "Only Flamethrowers",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_16",
+      "SetID": "d575n3m",
+      "Name": "May the frost be with you",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_17",
+      "SetID": "d575n3m",
+      "Name": "Entrepreneur",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_18",
+      "SetID": "d575n3m",
+      "Name": "Investor",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_19",
+      "SetID": "d575n3m",
+      "Name": "Stock Owner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "d575n3m",
+      "Name": "The world is Mine",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_20",
+      "SetID": "d575n3m",
+      "Name": "Floor is a lava",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_21",
+      "SetID": "d575n3m",
+      "Name": "Ice and fire",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_22",
+      "SetID": "d575n3m",
+      "Name": "I love the smell of napalm in the morning",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_23",
+      "SetID": "d575n3m",
+      "Name": "Cube, James Cube",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_24",
+      "SetID": "d575n3m",
+      "Name": "Eat hot lead",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_25",
+      "SetID": "d575n3m",
+      "Name": "Challenge Everything",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_26",
+      "SetID": "d575n3m",
+      "Name": "Maniac",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_27",
+      "SetID": "d575n3m",
+      "Name": "Colorado springs",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_28",
+      "SetID": "d575n3m",
+      "Name": "Push me",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_29",
+      "SetID": "d575n3m",
+      "Name": "Hot dog",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "d575n3m",
+      "Name": "Use the Crossbow",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_30",
+      "SetID": "d575n3m",
+      "Name": "Spike, take it",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_31",
+      "SetID": "d575n3m",
+      "Name": "Pressing atmosphere",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_32",
+      "SetID": "d575n3m",
+      "Name": "Mineality",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_33",
+      "SetID": "d575n3m",
+      "Name": "Happy Loop",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_34",
+      "SetID": "d575n3m",
+      "Name": "Happy Birthday",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_35",
+      "SetID": "d575n3m",
+      "Name": "Happy End",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_36",
+      "SetID": "d575n3m",
+      "Name": "Fatality Frenzy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_37",
+      "SetID": "d575n3m",
+      "Name": "Debut Victory",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_38",
+      "SetID": "d575n3m",
+      "Name": "Incident",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "d575n3m",
+      "Name": "Use the Minigun",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_5",
+      "SetID": "d575n3m",
+      "Name": "Triggered Grinder",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "d575n3m",
+      "Name": "I saw some Spikes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_7",
+      "SetID": "d575n3m",
+      "Name": "Pusher Gives You Wings",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_8",
+      "SetID": "d575n3m",
+      "Name": "Fasten your seatbelts",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_9",
+      "SetID": "d575n3m",
+      "Name": "Triggered Laser",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d575n3m",
@@ -41,8 +347,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:08.8902103+00:00",
-  "LastChanged_Achievements": "2024-06-25T15:01:47.6027555+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:15.6023143+00:00",
   "LastUpdate_AppInfo": "2024-08-07T13:09:47.583942+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:02.1490933+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:47.602765+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:52.8323983+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:15.6029173+00:00"
 }

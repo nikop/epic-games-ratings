@@ -2,10 +2,10 @@
   "ID": "23e0d8cad86d45308001a2c4151969c0",
   "Name": "Cyber Avenger",
   "ProductSlug": "cyber-avenger-77cc63",
-  "Ranking_EOS_Progress": 986,
-  "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 976,
+  "Ranking_EOS_Completed": 8,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2024-06-20T09:00:00+00:00",
     "PcReleaseDate": "2024-01-04T10:00:00+00:00",
@@ -23,16 +23,21 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 66.67,
+  "EOS_Progressed": 6,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 50,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:12.9021737+00:00",
       "NumProgressed": 3,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-09T18:07:46.0535164+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:12.9021816+00:00",
@@ -43,54 +48,54 @@
       "ID": "ACH_1",
       "SetID": "3a52g1d",
       "Name": "Level 1",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_2",
       "SetID": "3a52g1d",
       "Name": "Level 2",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_3",
       "SetID": "3a52g1d",
       "Name": "Level 3",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_4",
       "SetID": "3a52g1d",
       "Name": "Level 4",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_5",
       "SetID": "3a52g1d",
       "Name": "Level 5",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "3a52g1d",
       "IsBase": true,
-      "Progressed": 3,
-      "Completed": 2
+      "Progressed": 6,
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:12.9021816+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:12.9021732+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:46.0535157+00:00",
   "LastUpdate_AppInfo": "2024-08-06T15:57:16.0919065+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:59.2182385+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:12.9029653+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:27.7550165+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:46.0535228+00:00"
 }

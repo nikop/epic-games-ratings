@@ -6,41 +6,44 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 0.50% | ~1,622 |
-| I Found it! | 0.20% | ~649 |
-| Leveling Up | 0.20% | ~85 |
-| Contender | 0.10% | ~324 |
-| My Table, my Rules | 0.10% | ~324 |
-| Collect Them All | 0.10% | ~324 |
-| Shiny Memento | 0.10% | ~324 |
-| First but not Last | 0.10% | ~324 |
-| Table Mastered, part 10 | 0.10% | ~324 |
-| Medal Hunter | 0.10% | ~324 |
-| Medal Wizard | 0.10% | ~324 |
-| Ready Steady Score | 0.10% | ~324 |
-| Pinball Hoarder | 0.10% | ~324 |
-| Virtual Pinball Museum | 0.10% | ~324 |
-| Nine Zeroes | 0.10% | ~324 |
-| Challenge Accepted! | 0.10% | ~324 |
-| Full Loot Madness | 0.10% | ~324 |
-| Relic Hunter | 0.10% | ~324 |
-| Interior Designer | 0.10% | ~324 |
-| Show Them | 0.10% | ~324 |
-| Totally Furnished | 0.10% | ~324 |
-| Dress Code | 0.10% | ~324 |
-| Customizer | 0.10% | ~324 |
-| I know the Rules | 0.10% | ~324 |
-| Catomic Bomb | 0.10% | ~42 |
-| The Captain | 0.10% | ~42 |
-| Battle of Cardassia | 0.10% | ~42 |
-| Did It for the Dowry | 0.10% | ~42 |
-| End of Gloom | 0.10% | ~42 |
-| Knight Rider | 0.10% | ~42 |
-| True Neural | 0.10% | ~42 |
-| Golden Boot Trophy | 0.10% | ~42 |
-| Getting The Hang Of It | 0.10% | ~42 |
-| Halfway There | 0.10% | ~42 |
-| A Few More Steps | 0.10% | ~42 |
+| Ball Launched | 1.00% | ~3,275 |
+| I Found it! | 0.60% | ~1,965 |
+| Leveling Up | 0.40% | ~183 |
+| Ready Steady Score | 0.30% | ~983 |
+| First but not Last | 0.20% | ~655 |
+| Contender | 0.10% | ~328 |
+| My Table, my Rules | 0.10% | ~328 |
+| Collect Them All | 0.10% | ~328 |
+| Shiny Memento | 0.10% | ~328 |
+| Table Mastered, part 10 | 0.10% | ~328 |
+| Medal Hunter | 0.10% | ~328 |
+| Medal Wizard | 0.10% | ~328 |
+| Pinball Hoarder | 0.10% | ~328 |
+| Virtual Pinball Museum | 0.10% | ~328 |
+| Nine Zeroes | 0.10% | ~328 |
+| Challenge Accepted! | 0.10% | ~328 |
+| Full Loot Madness | 0.10% | ~328 |
+| Relic Hunter | 0.10% | ~328 |
+| Interior Designer | 0.10% | ~328 |
+| Show Them | 0.10% | ~328 |
+| Totally Furnished | 0.10% | ~328 |
+| Dress Code | 0.10% | ~328 |
+| Customizer | 0.10% | ~328 |
+| I know the Rules | 0.10% | ~328 |
+| Catomic Bomb | 0.10% | ~46 |
+| The Captain | 0.10% | ~46 |
+| Battle of Cardassia | 0.10% | ~46 |
+| Did It for the Dowry | 0.10% | ~46 |
+| Glorious victory | 0.10% | ~46 |
+| End of Gloom | 0.10% | ~46 |
+| Daybreak | 0.10% | ~46 |
+| Knight Rider | 0.10% | ~46 |
+| True Neural | 0.10% | ~46 |
+| Golden Boot Trophy | 0.10% | ~46 |
+| Getting The Hang Of It | 0.10% | ~46 |
+| Halfway There | 0.10% | ~46 |
+| A Few More Steps | 0.10% | ~46 |
+| Maxed Out | 0.10% | ~46 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -50,15 +53,12 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Terraformer | 0.00% | ~0 |
 | To boldly go… | 0.00% | ~0 |
-| Glorious victory | 0.00% | ~0 |
 | The most beautiful Christmas | 0.00% | ~0 |
 | Evil AI unplugged | 0.00% | ~0 |
 | Balanced Chakram | 0.00% | ~0 |
-| Daybreak | 0.00% | ~0 |
-| Maxed Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 324,327 (Ranked 75)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 327,541 (Ranked 76)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,6 +344,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 310,363 | 0 |
 | 2024-04-10 | 314,529 | 0 |
 | 2024-06-17 | 324,327 | 0 |
+| 2024-08-09 | 327,541 | 0 |
 ## Awards
 Max (Great for Beginners): 265  (Ranked 316)  
 Sum: 1,893 (Ranked 251)  

@@ -2,10 +2,10 @@
   "ID": "d74283065a944ffbb440c830d1bd692d",
   "Name": "Be The Master of Yihongyuan",
   "ProductSlug": "be-the-master-of-yihongyuan-f50eb3",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-22T22:33:15+00:00",
     "PcReleaseDate": "2024-06-22T22:33:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-23T07:57:27.2874831+00:00",
   "LastUpdate_AppInfo": "2024-08-04T03:57:18.747342+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:12.1480952+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:11.774231+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:58.0520137+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:44.877484+00:00"
 }

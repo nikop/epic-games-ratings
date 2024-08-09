@@ -5,63 +5,63 @@ Rating: 4.83 (Ranked 60)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Mined Too Greedily and Too Deep | 2.00% | ~226 |
-| This Took Half My Life | 2.00% | ~226 |
-| It's All a Simulation | 1.00% | ~113 |
-| Gastroscopy | 1.00% | ~113 |
-| Goat Got Brains | 1.00% | ~113 |
-| Appliance in Disguise | 1.00% | ~113 |
-| Forgotten Sorority | 0.90% | ~2,746 |
-| Reach the Stratosphere | 0.70% | ~2,135 |
-| Private Club | 0.60% | ~1,830 |
-| Rogue Guild | 0.50% | ~1,525 |
-| Hell of a Ride | 0.50% | ~56 |
-| Egg Simulator | 0.40% | ~1,220 |
-| What a Waste of Money | 0.40% | ~1,220 |
-| Goat Queen | 0.40% | ~1,220 |
-| Into the Matrix | 0.40% | ~1,220 |
-| Secret Society | 0.40% | ~1,220 |
-| Covert Consortium | 0.40% | ~1,220 |
-| Synchronization Complete | 0.40% | ~1,220 |
-| Try Hard With a Vengeance | 0.40% | ~45 |
-| San Angora: Become Human | 0.30% | ~915 |
-| New Goat Order | 0.30% | ~915 |
-| Raider of the Lost Parking Garage | 0.30% | ~915 |
-| Don't touch the servers | 0.30% | ~915 |
-| I Watched the Intro | 0.30% | ~915 |
-| Shadow Syndicate | 0.30% | ~915 |
-| Real Buoy | 0.30% | ~915 |
-| Lousy References | 0.30% | ~34 |
-| Welcome to Earth | 0.20% | ~610 |
-| Who Baywatches the Baywatch? | 0.20% | ~610 |
-| Where is It? | 0.20% | ~610 |
-| Beauty, Mindfulness and Meditation | 0.20% | ~610 |
-| Black Market | 0.20% | ~610 |
-| 401(K.O.) | 0.20% | ~610 |
-| Dr. Pheelsgood | 0.20% | ~23 |
-| You Gotta Licket to Ride | 0.20% | ~23 |
-| Cannibanana | 0.10% | ~305 |
-| Car Cave | 0.10% | ~305 |
-| Crocsquatch | 0.10% | ~305 |
-| Club Mohair | 0.10% | ~305 |
-| French Fika | 0.10% | ~305 |
-| G.O.A.T | 0.10% | ~305 |
-| You Trusted Your Instincts | 0.10% | ~305 |
-| Nasty! | 0.10% | ~305 |
-| Certified Fresh | 0.10% | ~305 |
-| Daredevil | 0.10% | ~305 |
-| [REDACTED] | 0.10% | ~305 |
-| Move! That! Bus! | 0.10% | ~305 |
-| A Center for Ants? | 0.10% | ~305 |
-| Streaking | 0.10% | ~305 |
-| Try Hard 2 | 0.10% | ~305 |
-| I Love History | 0.10% | ~11 |
-| Wow, Such Instincts | 0.10% | ~11 |
-| Ultrasonic Speedy | 0.10% | ~11 |
-| So Aerodynamic | 0.10% | ~11 |
+| You Mined Too Greedily and Too Deep | 2.00% | ~258 |
+| This Took Half My Life | 2.00% | ~258 |
+| Goat Got Brains | 2.00% | ~258 |
+| Forgotten Sorority | 1.00% | ~3,067 |
+| Reach the Stratosphere | 1.00% | ~3,067 |
+| It's All a Simulation | 1.00% | ~129 |
+| Gastroscopy | 1.00% | ~129 |
+| Appliance in Disguise | 1.00% | ~129 |
+| Private Club | 0.90% | ~2,760 |
+| Rogue Guild | 0.80% | ~2,453 |
+| Goat Queen | 0.60% | ~1,840 |
+| Into the Matrix | 0.60% | ~1,840 |
+| Covert Consortium | 0.60% | ~1,840 |
+| Synchronization Complete | 0.60% | ~1,840 |
+| Hell of a Ride | 0.60% | ~77 |
+| Egg Simulator | 0.50% | ~1,533 |
+| What a Waste of Money | 0.50% | ~1,533 |
+| Secret Society | 0.50% | ~1,533 |
+| I Watched the Intro | 0.50% | ~1,533 |
+| Shadow Syndicate | 0.50% | ~1,533 |
+| Real Buoy | 0.50% | ~1,533 |
+| San Angora: Become Human | 0.40% | ~1,227 |
+| New Goat Order | 0.40% | ~1,227 |
+| Raider of the Lost Parking Garage | 0.40% | ~1,227 |
+| Don't touch the servers | 0.40% | ~1,227 |
+| Lousy References | 0.40% | ~52 |
+| Try Hard With a Vengeance | 0.40% | ~52 |
+| Welcome to Earth | 0.30% | ~920 |
+| Where is It? | 0.30% | ~920 |
+| You Gotta Licket to Ride | 0.30% | ~39 |
+| Car Cave | 0.20% | ~613 |
+| Who Baywatches the Baywatch? | 0.20% | ~613 |
+| Club Mohair | 0.20% | ~613 |
+| Beauty, Mindfulness and Meditation | 0.20% | ~613 |
+| Black Market | 0.20% | ~613 |
+| A Center for Ants? | 0.20% | ~613 |
+| 401(K.O.) | 0.20% | ~613 |
+| Ultrasonic Speedy | 0.20% | ~26 |
+| Dr. Pheelsgood | 0.20% | ~26 |
+| Cannibanana | 0.10% | ~307 |
+| Crocsquatch | 0.10% | ~307 |
+| French Fika | 0.10% | ~307 |
+| G.O.A.T | 0.10% | ~307 |
+| You Trusted Your Instincts | 0.10% | ~307 |
+| Nasty! | 0.10% | ~307 |
+| Certified Fresh | 0.10% | ~307 |
+| Daredevil | 0.10% | ~307 |
+| [REDACTED] | 0.10% | ~307 |
+| Move! That! Bus! | 0.10% | ~307 |
+| Streaking | 0.10% | ~307 |
+| Try Hard 2 | 0.10% | ~307 |
+| I Love History | 0.10% | ~13 |
+| Wow, Such Instincts | 0.10% | ~13 |
+| So Aerodynamic | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,066 (Ranked 78)  
-Completed: 1,141 (0.37%) (Ranked 325)  
+Progressed: 306,666 (Ranked 79)  
+Completed: 1,149 (0.37%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -348,6 +348,7 @@ Completed: 1,141 (0.37%) (Ranked 325)
 | 2024-04-10 | 291,928 | 1,047 |
 | 2024-06-17 | 299,551 | 1,108 |
 | 2024-07-25 | 305,066 | 1,141 |
+| 2024-08-09 | 306,666 | 1,149 |
 ## Awards
 Max (Great for Beginners): 846  (Ranked 208)  
 Sum: 6,628 (Ranked 154)  

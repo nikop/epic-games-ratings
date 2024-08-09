@@ -5,10 +5,10 @@
   "Ranking_Rating": 742,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 19,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -25160,10 +25160,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 120662,
       "NumberOfAwardsMax": 16004
+    },
+    {
+      "Time": "2024-08-09T17:57:20.4022858+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 120705,
+      "NumberOfAwardsMax": 16004
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 120662,
+  "NumberOfAwards": 120705,
   "NumberOfAwardsMax": 16004,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -25195,7 +25201,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 11060
+      "Count": 11086
     },
     {
       "Text": "This game has Diverse Characters",
@@ -25219,7 +25225,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8474
+      "Count": 8491
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -25245,8 +25251,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-08-09T15:58:48.427292+00:00",
+  "LastChanged": "2024-08-09T17:57:20.4022857+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:43.3431576+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:48.4272927+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:03.1738981+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:20.4022862+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:57.5210718+00:00"
 }

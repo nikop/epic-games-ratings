@@ -2,10 +2,10 @@
   "ID": "dc66053dbf6248cfbcb8c9a406b54dfb",
   "Name": "Red Planet Rampart",
   "ProductSlug": "red-planet-rampart-00867e",
-  "Ranking_EOS_Progress": 969,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1002,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-06T16:00:00+00:00",
     "PcReleaseDate": "2024-06-06T16:00:00+00:00",
@@ -118,8 +118,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:50.0712572+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:23.3925685+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:55.9380628+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:30.139622+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:11.2214295+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:23.392576+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:05.4277172+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:55.9380695+00:00"
 }

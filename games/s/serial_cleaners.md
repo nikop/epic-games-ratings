@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 50.00% | ~218 |
-| So it goes | 45.00% | ~197 |
-| A New Broom Sweeps Clean | 22.00% | ~96 |
-| Off to a Good Start | 18.00% | ~79 |
-| Small-time Finder | 18.00% | ~79 |
-| Business as usual | 15.00% | ~66 |
-| Mr. Hygeni | 11.00% | ~48 |
-| Pride and Joy | 9.00% | ~39 |
-| Eyes Yet To Open | 8.00% | ~35 |
-| Hackathon | 8.00% | ~35 |
-| Total Recall | 6.00% | ~26 |
-| All the Stories | 5.00% | ~22 |
-| Something Rotten | 5.00% | ~22 |
-| Witness Protection | 5.00% | ~22 |
-| The Wing and the Thigh | 4.00% | ~17 |
-| Bee Squat | 3.00% | ~13 |
-| Blood Capade | 2.00% | ~9 |
-| … Women Inherit The Earth | 2.00% | ~6 |
+| Clean Conscience | 51.00% | ~244 |
+| So it goes | 45.00% | ~215 |
+| A New Broom Sweeps Clean | 22.00% | ~105 |
+| Small-time Finder | 19.00% | ~91 |
+| Off to a Good Start | 18.00% | ~86 |
+| Business as usual | 15.00% | ~72 |
+| Mr. Hygeni | 10.00% | ~48 |
+| Pride and Joy | 9.00% | ~43 |
+| Eyes Yet To Open | 8.00% | ~38 |
+| Hackathon | 8.00% | ~38 |
+| Total Recall | 6.00% | ~29 |
+| All the Stories | 5.00% | ~24 |
+| Something Rotten | 5.00% | ~24 |
+| Witness Protection | 5.00% | ~24 |
+| The Wing and the Thigh | 5.00% | ~24 |
+| Bee Squat | 3.00% | ~14 |
+| Blood Capade | 2.00% | ~10 |
+| … Women Inherit The Earth | 2.00% | ~7 |
+| The Germophobes | 2.00% | ~10 |
 | The Crush And Smash The Dino Four | 1.00% | ~3 |
-| The Germophobes | 1.00% | ~4 |
-| Crazy SOB, You Did It | 0.50% | ~2 |
+| Crazy SOB, You Did It | 0.40% | ~1 |
 | Do-you-think-he-saurus | 0.20% | ~1 |
 | Cha Cha Real Smooth | 0.20% | ~1 |
 | That’s One Big Pile | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 437 (Ranked 472)  
-Completed: 6 (1.37%) (Ranked 209)  
+Progressed: 478 (Ranked 473)  
+Completed: 7 (1.46%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -130,6 +130,7 @@ Completed: 6 (1.37%) (Ranked 209)
 | 2024-03-21 | 372 | 6 |
 | 2024-04-10 | 394 | 6 |
 | 2024-06-17 | 437 | 6 |
+| 2024-08-09 | 478 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

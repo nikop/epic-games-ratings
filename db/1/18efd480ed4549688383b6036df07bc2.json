@@ -2,10 +2,10 @@
   "ID": "18efd480ed4549688383b6036df07bc2",
   "Name": "Space Accident",
   "ProductSlug": "space-accident-vr-8aa915",
-  "Ranking_EOS_Progress": 765,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 790,
+  "Ranking_EOS_Completed": 18,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-03T09:00:00+00:00",
     "PcReleaseDate": "2022-02-10T10:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30.95,
+  "EOS_Completed_Percentage": 30.23,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:50.341303+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-07-30T16:02:23.5662766+00:00",
       "NumProgressed": 42,
+      "NumCompleted": 13
+    },
+    {
+      "Time": "2024-08-09T18:07:56.0947856+00:00",
+      "NumProgressed": 43,
       "NumCompleted": 13
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "ACH_1",
       "SetID": "94p2dg4",
       "Name": "First puzzle",
-      "Percentage": 79,
+      "Percentage": 77,
       "XP": 200,
       "UsersEstimate": 33
     },
@@ -58,7 +63,7 @@
       "ID": "ACH_2",
       "SetID": "94p2dg4",
       "Name": "Second puzzle",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 200,
       "UsersEstimate": 22
     },
@@ -74,7 +79,7 @@
       "ID": "ACH_4",
       "SetID": "94p2dg4",
       "Name": "Fourth puzzle",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 200,
       "UsersEstimate": 15
     },
@@ -82,7 +87,7 @@
       "ID": "ACH_5",
       "SetID": "94p2dg4",
       "Name": "Command centre",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 200,
       "UsersEstimate": 13
     }
@@ -91,14 +96,14 @@
     {
       "ID": "94p2dg4",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 13
     }
   ],
   "FirstSeen": "2024-06-18T17:57:14.7380975+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:50.3413118+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:23.5662762+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:56.094785+00:00",
   "LastUpdate_AppInfo": "2024-08-07T20:57:00.5342036+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:34.4312184+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:23.5662849+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:06.9352885+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:56.094791+00:00"
 }

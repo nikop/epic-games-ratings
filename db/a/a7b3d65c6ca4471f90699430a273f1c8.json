@@ -2,10 +2,10 @@
   "ID": "a7b3d65c6ca4471f90699430a273f1c8",
   "Name": "The New Order",
   "ProductSlug": "tno-6ec55e",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-11T05:00:00+00:00",
     "PcReleaseDate": "2024-06-11T05:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-14T02:59:59.3660683+00:00",
   "LastUpdate_AppInfo": "2024-08-07T09:57:06.4810215+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:42.0037486+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:25.49621+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:30.46939+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:57.8586737+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d998151b857341e29d5241b6d7f6fd3a",
   "Name": "Get Slapped!",
   "ProductSlug": "get-slapped-d1aea8",
-  "Ranking_EOS_Progress": 783,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 755,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-01T07:00:00+00:00",
     "PcReleaseDate": "2024-05-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -54,6 +54,11 @@
       "Time": "2024-06-17T16:18:43.0761182+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:13.6038391+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:05:30.8192119+00:00",
@@ -64,7 +69,7 @@
       "ID": "BTreeAchieve",
       "SetID": "8ko4ph7",
       "Name": "Booty Booty Booty",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -72,9 +77,9 @@
       "ID": "CSAchieve",
       "SetID": "8ko4ph7",
       "Name": "Crouching Slapper Hidden Cockroach",
-      "Percentage": 39,
+      "Percentage": 35,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "CappyDefeat",
@@ -88,7 +93,7 @@
       "ID": "DataLogsAchieve",
       "SetID": "8ko4ph7",
       "Name": "Lore? In my Slapciety?",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -96,31 +101,31 @@
       "ID": "EarlyAccessAchieve",
       "SetID": "8ko4ph7",
       "Name": "Early Access Supporter",
-      "Percentage": 100,
+      "Percentage": 98,
       "XP": 200,
-      "UsersEstimate": 36
+      "UsersEstimate": 54
     },
     {
       "ID": "SlappaAchieve",
       "SetID": "8ko4ph7",
       "Name": "For A Few Slappers More",
-      "Percentage": 25,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ko4ph7",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-04T06:59:08.967281+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:30.8192118+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:18:43.0761177+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:13.6038387+00:00",
   "LastUpdate_AppInfo": "2024-08-03T11:57:00.3152495+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:56.392677+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:43.0761247+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:51.2260745+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:13.6038451+00:00"
 }

@@ -5,69 +5,69 @@ Rating: 4.70 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Requiem of the Forgotten Kingdom | 1.00% | ~1,803 |
-| Master of Elements | 0.90% | ~1,623 |
-| The Killing Jar | 0.80% | ~3,209 |
-| First of Many | 0.80% | ~3,209 |
-| Not Your Average Trait | 0.70% | ~2,808 |
-| Expanding Horizons | 0.60% | ~2,407 |
-| Gleaming the Cube | 0.60% | ~2,407 |
-| Not So Special Now | 0.60% | ~2,407 |
-| Quest for Survival | 0.60% | ~2,407 |
-| Familiar Face | 0.60% | ~2,407 |
-| Boss'n Up | 0.60% | ~2,407 |
-| Trait Chaser | 0.60% | ~2,407 |
-| Am I Seeing This? | 0.50% | ~2,006 |
-| Forever is a Long Time Coming | 0.50% | ~2,006 |
-| Not a Janitor | 0.50% | ~2,006 |
-| Equal Measures | 0.50% | ~2,006 |
-| Blue Goddess | 0.50% | ~2,006 |
-| Duality | 0.50% | ~2,006 |
-| Top Performer | 0.50% | ~2,006 |
-| Shhh...It's a Secret | 0.50% | ~2,006 |
-| Almost There | 0.50% | ~2,006 |
-| Make Some Room | 0.50% | ~2,006 |
-| Good, But Could Be Better! | 0.50% | ~2,006 |
-| Thank You For Being a Friend | 0.50% | ~902 |
-| Ghost in the Machine | 0.40% | ~1,605 |
-| Chaos | 0.40% | ~1,605 |
-| Traitor | 0.40% | ~1,605 |
-| Power Surge | 0.40% | ~1,605 |
-| The God Gambit | 0.40% | ~1,605 |
-| Dark Designs | 0.40% | ~1,605 |
-| Madman's Paradise | 0.40% | ~1,605 |
-| Was This Supposed To Happen? | 0.40% | ~1,605 |
-| Strapped | 0.40% | ~1,605 |
-| The Web | 0.40% | ~1,605 |
-| Scrap Collector | 0.40% | ~1,605 |
-| Scrap Hoarder | 0.40% | ~1,605 |
-| All These Traits� | 0.40% | ~1,605 |
-| The Ultimate Weapon | 0.40% | ~1,605 |
-| Regicide | 0.40% | ~721 |
-| Triple Takeover | 0.40% | ~721 |
-| The Burden Hardest to Bear | 0.40% | ~721 |
-| Crafty | 0.30% | ~1,203 |
-| The Agenda | 0.30% | ~1,203 |
-| Tall Tales | 0.30% | ~1,203 |
-| Bad Moon Rising | 0.30% | ~1,203 |
-| The Trigger | 0.30% | ~1,203 |
-| Edgelord | 0.30% | ~1,203 |
-| Cutting Edge | 0.30% | ~1,203 |
-| The Collector | 0.30% | ~1,203 |
-| No One Should Have All That Power | 0.30% | ~1,203 |
-| Maxed Out! | 0.30% | ~1,203 |
-| Transmutate | 0.30% | ~1,203 |
-| Master of the Dark Arts | 0.30% | ~541 |
-| Only Human | 0.20% | ~802 |
-| Red Room | 0.20% | ~802 |
-| Proving Grounds | 0.20% | ~802 |
-| Carnage in C-Minor | 0.20% | ~802 |
-| Succession | 0.20% | ~361 |
-| A Foul Feast | 0.10% | ~180 |
-| You Shall Pass | 0.10% | ~180 |
+| The Killing Jar | 1.00% | ~4,136 |
+| Requiem of the Forgotten Kingdom | 1.00% | ~1,927 |
+| Master of Elements | 1.00% | ~1,927 |
+| First of Many | 0.90% | ~3,722 |
+| Not Your Average Trait | 0.90% | ~3,722 |
+| Expanding Horizons | 0.80% | ~3,308 |
+| Quest for Survival | 0.80% | ~3,308 |
+| Gleaming the Cube | 0.70% | ~2,895 |
+| Not So Special Now | 0.70% | ~2,895 |
+| Not a Janitor | 0.70% | ~2,895 |
+| Familiar Face | 0.70% | ~2,895 |
+| Duality | 0.70% | ~2,895 |
+| Top Performer | 0.70% | ~2,895 |
+| Boss'n Up | 0.70% | ~2,895 |
+| Good, But Could Be Better! | 0.70% | ~2,895 |
+| Trait Chaser | 0.70% | ~2,895 |
+| Am I Seeing This? | 0.60% | ~2,481 |
+| Equal Measures | 0.60% | ~2,481 |
+| Blue Goddess | 0.60% | ~2,481 |
+| Shhh...It's a Secret | 0.60% | ~2,481 |
+| Almost There | 0.60% | ~2,481 |
+| Make Some Room | 0.60% | ~2,481 |
+| Chaos | 0.50% | ~2,068 |
+| Traitor | 0.50% | ~2,068 |
+| Forever is a Long Time Coming | 0.50% | ~2,068 |
+| Power Surge | 0.50% | ~2,068 |
+| The God Gambit | 0.50% | ~2,068 |
+| Dark Designs | 0.50% | ~2,068 |
+| Madman's Paradise | 0.50% | ~2,068 |
+| Was This Supposed To Happen? | 0.50% | ~2,068 |
+| The Web | 0.50% | ~2,068 |
+| Scrap Collector | 0.50% | ~2,068 |
+| All These Traits� | 0.50% | ~2,068 |
+| Thank You For Being a Friend | 0.50% | ~964 |
+| Triple Takeover | 0.50% | ~964 |
+| Ghost in the Machine | 0.40% | ~1,654 |
+| The Agenda | 0.40% | ~1,654 |
+| Tall Tales | 0.40% | ~1,654 |
+| Bad Moon Rising | 0.40% | ~1,654 |
+| Strapped | 0.40% | ~1,654 |
+| Edgelord | 0.40% | ~1,654 |
+| Scrap Hoarder | 0.40% | ~1,654 |
+| The Ultimate Weapon | 0.40% | ~1,654 |
+| No One Should Have All That Power | 0.40% | ~1,654 |
+| Maxed Out! | 0.40% | ~1,654 |
+| Transmutate | 0.40% | ~1,654 |
+| Regicide | 0.40% | ~771 |
+| Master of the Dark Arts | 0.40% | ~771 |
+| The Burden Hardest to Bear | 0.40% | ~771 |
+| Crafty | 0.30% | ~1,241 |
+| Only Human | 0.30% | ~1,241 |
+| Red Room | 0.30% | ~1,241 |
+| The Trigger | 0.30% | ~1,241 |
+| Cutting Edge | 0.30% | ~1,241 |
+| The Collector | 0.30% | ~1,241 |
+| Proving Grounds | 0.30% | ~1,241 |
+| Carnage in C-Minor | 0.30% | ~1,241 |
+| Succession | 0.20% | ~385 |
+| A Foul Feast | 0.10% | ~193 |
+| You Shall Pass | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 401,157 (Ranked 67)  
-Completed: 2,091 (0.52%) (Ranked 301)  
+Progressed: 413,558 (Ranked 67)  
+Completed: 2,125 (0.51%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,9 +267,10 @@ Completed: 2,091 (0.52%) (Ranked 301)
 | 2024-04-10 | 341,926 | 1,714 |
 | 2024-06-17 | 384,042 | 2,014 |
 | 2024-07-24 | 401,157 | 2,091 |
+| 2024-08-09 | 413,558 | 2,125 |
 ## Awards
 Max (Great Boss Battles): 10,248  (Ranked 54)  
-Sum: 27,123 (Ranked 62)  
+Sum: 27,126 (Ranked 62)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -279,11 +280,11 @@ Diff (max vs sum): -8
 | This game has Challenging Combat | 1,775 |
 | This game is Extremely Fun | 1,758 |
 | This game has Quickly Understood Controls | 1,753 |
-| This game has Amazing Storytelling | 1,742 |
+| This game has Amazing Storytelling | 1,743 |
 | This game is Relaxing | 1,691 |
 | This game has Amazing Characters | 1,657 |
 | This game has Unique Visuals | 1,545 |
-| This game has a Creative Community | 1,227 |
+| This game has a Creative Community | 1,229 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -667,4 +668,4 @@ Diff (max vs sum): -8
 | 2024-08-06 | 4.70 | 10,213 | 27,049 |
 | 2024-08-07 | 4.70 | 10,228 | 27,079 |
 | 2024-08-08 | 4.70 | 10,248 | 27,117 |
-| 2024-08-09 | 4.70 | 10,248 | 27,123 |
+| 2024-08-09 | 4.70 | 10,248 | 27,126 |

@@ -2,10 +2,10 @@
   "ID": "e597ab37bf5241579b5e6c7bc209def3",
   "Name": "Monster Adventurer X",
   "ProductSlug": "monster_adventurer_x-47a4be",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-14T16:00:00+00:00",
     "PcReleaseDate": "2024-08-14T16:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-06T03:57:18.8461697+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:46.0579376+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:37.913487+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:04.9735798+00:00"
 }

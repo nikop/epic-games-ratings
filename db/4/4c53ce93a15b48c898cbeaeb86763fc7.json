@@ -2,10 +2,10 @@
   "ID": "4c53ce93a15b48c898cbeaeb86763fc7",
   "Name": "Protector Goddess Fight",
   "ProductSlug": "the-five-sistersinlaw-526295",
-  "Ranking_EOS_Progress": 769,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-24T00:00:00+00:00",
     "PcReleaseDate": "2024-07-19T00:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
     {
       "Time": "2024-07-30T16:02:21.009302+00:00",
       "NumProgressed": 41,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:53.7377237+00:00",
+      "NumProgressed": 64,
       "NumCompleted": 0
     }
   ],
@@ -251,14 +256,14 @@
     {
       "ID": "co1j0e5",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-23T15:59:03.6093666+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:43.0464569+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:21.0093015+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:53.7377231+00:00",
   "LastUpdate_AppInfo": "2024-08-06T21:57:05.1289104+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:20.6984041+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:21.0093423+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:14.2561962+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:53.7377388+00:00"
 }

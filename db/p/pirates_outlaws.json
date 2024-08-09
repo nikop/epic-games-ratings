@@ -2,10 +2,10 @@
   "ID": "c281373e4f7f45d2981dc4072c571173",
   "Name": "Pirates Outlaws",
   "ProductSlug": "pirates-outlaws-a8cc60",
-  "Ranking_EOS_Progress": 686,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-12-12T06:00:00+00:00",
     "PcReleaseDate": "2022-12-12T06:00:00+00:00",
@@ -1051,8 +1051,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.2996269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:15.3224895+00:00",
   "LastChanged": "2023-03-31T05:58:13.299627+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:38.9743338+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:57.2006529+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:07.6374682+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:37.4628852+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:38.9744737+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:52.1758177+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:57.2007846+00:00"
 }

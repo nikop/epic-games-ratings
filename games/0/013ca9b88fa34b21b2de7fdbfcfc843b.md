@@ -5,52 +5,60 @@ Rating: 4.61 (Ranked 435)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 15.00% | ~1,614 |
-| A Thorny Situation | 15.00% | ~1,614 |
-| ... And Spit Back Out | 13.00% | ~1,399 |
-| Break-Net Speed | 11.00% | ~1,184 |
-| Bramble Breaker | 10.00% | ~1,076 |
-| Miner 49er | 9.00% | ~968 |
-| Humble Collector | 9.00% | ~968 |
-| Calm Sailing | 8.00% | ~861 |
-| Open the Gate! | 8.00% | ~861 |
-| Mist Walker | 7.00% | ~753 |
-| Lumberjack | 6.00% | ~646 |
-| Oui, Chef! | 6.00% | ~646 |
-| Clear the Air | 5.00% | ~538 |
-| Search for the Hairy Grell | 4.00% | ~430 |
-| Higher Tax Bracket | 4.00% | ~430 |
-| Botanical Breakthrough | 4.00% | ~430 |
-| Beach Comber | 3.00% | ~323 |
-| Rumble in the Jumble | 3.00% | ~323 |
-| Skilled | 3.00% | ~323 |
-| Flaming Hot Completos | 2.00% | ~215 |
-| Fae Farmer | 2.00% | ~215 |
-| Got to Catch Them All | 2.00% | ~215 |
-| Scattered Scroll Scrounger | 2.00% | ~215 |
-| Fanatical Farmer | 2.00% | ~215 |
-| Azorian Anniversary | 2.00% | ~215 |
-| Azorian Hat Dance | 2.00% | ~68 |
-| Exit Through The Gift Shop | 2.00% | ~68 |
-| I Now Pronounce You... | 1.00% | ~108 |
-| Chatty Neighbor | 1.00% | ~108 |
-| Right Tool For the Job | 1.00% | ~108 |
-| House Proud | 1.00% | ~108 |
-| Going Down | 1.00% | ~34 |
-| Angling Authority | 0.70% | ~75 |
-| Captain of Cozy | 0.50% | ~54 |
-| Polyglot | 0.50% | ~17 |
+| Azoria Beckons | 2.00% | ~222 |
+| A Thorny Situation | 2.00% | ~222 |
+| ... And Spit Back Out | 2.00% | ~222 |
+| Bramble Breaker | 2.00% | ~222 |
+| Calm Sailing | 1.00% | ~111 |
+| Open the Gate! | 1.00% | ~111 |
+| Lumberjack | 1.00% | ~111 |
+| Miner 49er | 1.00% | ~111 |
+| Break-Net Speed | 1.00% | ~111 |
+| Humble Collector | 1.00% | ~111 |
+| Mist Walker | 1.00% | ~111 |
+| Oui, Chef! | 0.90% | ~100 |
+| Clear the Air | 0.80% | ~89 |
+| Search for the Hairy Grell | 0.80% | ~89 |
+| Botanical Breakthrough | 0.80% | ~89 |
+| Beach Comber | 0.70% | ~78 |
+| Flaming Hot Completos | 0.60% | ~67 |
+| Higher Tax Bracket | 0.60% | ~67 |
+| Skilled | 0.60% | ~67 |
+| Fae Farmer | 0.50% | ~56 |
+| Scattered Scroll Scrounger | 0.50% | ~56 |
+| Rumble in the Jumble | 0.50% | ~56 |
+| Fanatical Farmer | 0.50% | ~56 |
+| Azorian Anniversary | 0.50% | ~56 |
+| Azorian Hat Dance | 0.50% | ~19 |
+| Got to Catch Them All | 0.40% | ~44 |
+| Chatty Neighbor | 0.40% | ~44 |
+| Right Tool For the Job | 0.40% | ~44 |
+| I Now Pronounce You... | 0.30% | ~33 |
+| House Proud | 0.30% | ~33 |
+| Going Down | 0.30% | ~11 |
+| Exit Through The Gift Shop | 0.30% | ~11 |
+| Angling Authority | 0.20% | ~22 |
+| Captain of Cozy | 0.20% | ~22 |
+| Polyglot | 0.20% | ~7 |
+| Star-chiologist | 0.20% | ~7 |
+| Heirlooms Rebloom | 0.20% | ~7 |
 | Cloverfield Island | 0.10% | ~11 |
 | Workaholic | 0.10% | ~11 |
 | Giving the People What They Want | 0.10% | ~11 |
 | Very Skilled | 0.10% | ~11 |
-| A Pal To All | 0.10% | ~3 |
-| Scroll Hunter | 0.10% | ~3 |
-| Splish-Splash | 0.10% | ~3 |
-| Archi-Pal-igo Aficionado | 0.10% | ~3 |
+| A Pal To All | 0.10% | ~4 |
+| Scroll Hunter | 0.10% | ~4 |
+| Splish-Splash | 0.10% | ~4 |
+| Archi-Pal-igo Aficionado | 0.10% | ~4 |
+| Cloud Bound | 0.00% | ~0 |
+| Wonders of Windhaven | 0.00% | ~0 |
+| Secrets of Starlight Isles | 0.00% | ~0 |
+| Hero of Howling Heights | 0.00% | ~0 |
+| Climate Clientele | 0.00% | ~0 |
+| Among Us | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,761 (Ranked 230)  
-Completed: 3 (0.03%) (Ranked 469)  
+Progressed: 11,105 (Ranked 240)  
+Completed: 3 (0.03%) (Ranked 487)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -209,6 +217,7 @@ Completed: 3 (0.03%) (Ranked 469)
 | 2024-03-21 | 9,863 | 1 |
 | 2024-04-10 | 10,096 | 1 |
 | 2024-06-17 | 10,761 | 3 |
+| 2024-08-09 | 11,105 | 3 |
 ## Awards
 Max (Character Customization): 33  (Ranked 599)  
 Sum: 33 (Ranked 633)  

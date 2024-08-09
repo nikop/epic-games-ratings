@@ -2,10 +2,10 @@
   "ID": "dfceea48e2974b4aafb5e5e76e7ed1c6",
   "Name": "Getting There",
   "ProductSlug": "getting-there-cf24d1",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-09T09:30:00+00:00",
     "PcReleaseDate": "2024-03-09T06:30:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-06T15:57:16.2178969+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:09.772784+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:28.6353429+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:34.7592654+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:07.518497+00:00"
 }

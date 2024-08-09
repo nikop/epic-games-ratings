@@ -2,13 +2,13 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -385,11 +385,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1428,
-  "EOS_Completed": 4,
+  "EOS_Progressed": 1646,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.4589703+00:00",
@@ -3940,6 +3940,11 @@
       "Time": "2024-06-17T16:11:08.3109706+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-09T18:03:02.1641304+00:00",
+      "NumProgressed": 1646,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 19,
@@ -3951,7 +3956,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 471
+      "UsersEstimate": 543
     },
     {
       "ID": "cool-shirts",
@@ -3959,23 +3964,23 @@
       "Name": "Sense Of Style",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "custom-sandbox",
       "SetID": "bed33dd",
       "Name": "Architect of Fortunes",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 346
     },
     {
       "ID": "dont-miss-calls",
       "SetID": "bed33dd",
       "Name": "Didn\u0027t Miss A Single One",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 614
+      "UsersEstimate": 691
     },
     {
       "ID": "female-conqueror",
@@ -3983,7 +3988,7 @@
       "Name": "Iron Lady",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "finish-tutorial",
@@ -3991,7 +3996,7 @@
       "Name": "That was base",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 741
     },
     {
       "ID": "hire-lieutenant",
@@ -3999,7 +4004,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1383
     },
     {
       "ID": "kill-lieutenants",
@@ -4007,15 +4012,15 @@
       "Name": "Spreading Fear",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 132
     },
     {
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 1086
     },
     {
       "ID": "play-at-night",
@@ -4023,7 +4028,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 443
+      "UsersEstimate": 510
     },
     {
       "ID": "product-profit",
@@ -4031,15 +4036,15 @@
       "Name": "Follow the Money",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 99
     },
     {
       "ID": "rage-quit",
       "SetID": "bed33dd",
       "Name": "Bad Trip",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 643
+      "UsersEstimate": 757
     },
     {
       "ID": "rename-lieutenant",
@@ -4047,7 +4052,7 @@
       "Name": "I\u0027m Going To Call You Kitty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 115
     },
     {
       "ID": "rob-village",
@@ -4055,23 +4060,23 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 362
     },
     {
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 628
+      "UsersEstimate": 708
     },
     {
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 757
+      "UsersEstimate": 839
     },
     {
       "ID": "unlock-residences",
@@ -4079,15 +4084,15 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 300
+      "UsersEstimate": 346
     },
     {
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1366
     },
     {
       "ID": "use-submarine",
@@ -4095,22 +4100,22 @@
       "Name": "Operation Odessa",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1428,
-      "Completed": 4
+      "Progressed": 1646,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-08-01T19:58:18.3436938+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:08.3109699+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:02.1641287+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:47.8273136+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:31.4903974+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:08.3109973+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:24.3876393+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:02.1641618+00:00"
 }

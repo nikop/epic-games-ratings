@@ -2,10 +2,10 @@
   "ID": "28cf4c9348854bf5869237e0b4c8ca22",
   "Name": "Day of the Shell",
   "ProductSlug": "day-of-the-shell-925ad6",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-03-31T00:00:00+00:00",
     "PcReleaseDate": "2025-03-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T01:59:16.4082819+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:26.750636+00:00",
-  "LastUpdate_Achievements": "2024-07-30T00:02:29.9813433+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:22.3035859+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:27.5430173+00:00"
 }

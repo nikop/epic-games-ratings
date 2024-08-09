@@ -5,10 +5,10 @@
   "Ranking_Rating": 164,
   "Ranking_Popularity": 193,
   "Ranking_PopularitySum": 133,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
     "PcReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -11073,10 +11073,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 8756,
       "NumberOfAwardsMax": 1002
+    },
+    {
+      "Time": "2024-08-09T17:58:13.0327544+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 8759,
+      "NumberOfAwardsMax": 1002
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8756,
+  "NumberOfAwards": 8759,
   "NumberOfAwardsMax": 1002,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -11144,7 +11150,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 854
+      "Count": 857
     }
   ],
   "EOS_Progressed": 0,
@@ -11166,9 +11172,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-08-09T13:59:59.0378357+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:46.38651+00:00",
+  "LastChanged": "2024-08-09T17:58:13.0327542+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:07.0255501+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:12.1164078+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:11.34233+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:46.3865121+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:13.0327548+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:07.0255522+00:00"
 }

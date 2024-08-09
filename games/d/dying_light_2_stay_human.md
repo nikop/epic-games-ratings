@@ -1,79 +1,79 @@
 # Dying Light 2 Stay Human - Reloaded Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.59 (Ranked 487)  
+Rating: 4.59 (Ranked 486)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 24.00% | ~272,337 |
-| Into the Unknown | 23.00% | ~260,990 |
-| First Shot | 23.00% | ~260,990 |
-| Herzlich Wilkommen! | 21.00% | ~238,295 |
-| Good Night & Good Luck | 21.00% | ~238,295 |
-| Sancho Panza | 20.00% | ~226,948 |
-| Oh, So This Is How It Works! | 18.00% | ~204,253 |
-| Flag Burning | 17.00% | ~192,905 |
-| Under Pressure | 16.00% | ~181,558 |
-| On the Trail of the Enemy | 15.00% | ~170,211 |
-| Light in the Darkness | 15.00% | ~170,211 |
-| Get Outta My House! | 15.00% | ~170,211 |
-| It Wasn't That Hard, Was It? | 15.00% | ~170,211 |
-| Can't Touch This! | 15.00% | ~170,211 |
-| Night Hunter | 15.00% | ~170,211 |
-| Being All Social | 14.00% | ~158,863 |
-| We Will Be Heard! | 12.00% | ~136,169 |
-| After the Fall | 12.00% | ~136,169 |
-| Known Associate | 11.00% | ~124,821 |
-| Tunnel Entrance | 11.00% | ~124,821 |
-| Debris and Ashes | 10.00% | ~113,474 |
-| Brush with Death | 10.00% | ~113,474 |
-| Going Down | 10.00% | ~113,474 |
-| Family First | 10.00% | ~113,474 |
-| Your World, Your Rules | 10.00% | ~113,474 |
-| Death From Afar | 9.00% | ~102,126 |
-| Terminal Headache | 9.00% | ~102,126 |
-| Slowpoke! | 8.00% | ~90,779 |
-| Tickets, Please! | 5.00% | ~56,737 |
-| Parkour Master | 4.00% | ~45,390 |
-| Combat Master | 4.00% | ~45,390 |
-| Modder | 4.00% | ~45,390 |
-| Municipal Services | 3.00% | ~34,042 |
-| Don Quixote | 3.00% | ~34,042 |
-| Can't You Read the Signs? | 3.00% | ~34,042 |
-| Ban Hammer | 3.00% | ~34,042 |
-| Boot Licker | 3.00% | ~34,042 |
-| You're Going Down! | 3.00% | ~34,042 |
-| Nemesis | 3.00% | ~23,405 |
-| Tube Map | 2.00% | ~22,695 |
-| Who Wants To Be a... | 2.00% | ~22,695 |
-| Tanning Salon | 2.00% | ~22,695 |
-| That's Teamwork! | 2.00% | ~22,695 |
-| Fit as a Fiddle | 2.00% | ~22,695 |
-| Ironheart | 2.00% | ~22,695 |
-| Enter the Hall | 2.00% | ~15,604 |
-| Night of Terrors | 2.00% | ~15,604 |
-| Find Anything Interesting? | 1.00% | ~11,347 |
-| Revenants | 1.00% | ~11,347 |
-| My Friend, Ciro | 1.00% | ~7,802 |
-| Skullcrusher | 1.00% | ~7,802 |
-| Lightning Reflexes | 0.90% | ~10,213 |
-| Get the Point? | 0.70% | ~7,943 |
-| A Friend in Need... | 0.60% | ~6,808 |
-| Man On a Mission | 0.60% | ~6,808 |
-| Ultramarathon | 0.30% | ~3,404 |
-| The Madman of Villedor | 0.30% | ~2,341 |
-| Don't Look Up | 0.20% | ~2,269 |
-| True Nightrunner | 0.10% | ~1,135 |
-| Bing Bang Boom! | 0.10% | ~1,135 |
-| Archivist | 0.10% | ~1,135 |
-| Audiophile | 0.10% | ~1,135 |
-| Street Art Aficionado | 0.10% | ~1,135 |
-| True Champion | 0.10% | ~780 |
-| Connoisseur | 0.10% | ~780 |
+| You Never Forget Your First... | 23.00% | ~276,724 |
+| Into the Unknown | 22.00% | ~264,693 |
+| First Shot | 22.00% | ~264,693 |
+| Herzlich Wilkommen! | 20.00% | ~240,630 |
+| Good Night & Good Luck | 20.00% | ~240,630 |
+| Sancho Panza | 19.00% | ~228,598 |
+| Oh, So This Is How It Works! | 18.00% | ~216,567 |
+| Flag Burning | 16.00% | ~192,504 |
+| Under Pressure | 15.00% | ~180,472 |
+| On the Trail of the Enemy | 15.00% | ~180,472 |
+| Light in the Darkness | 15.00% | ~180,472 |
+| It Wasn't That Hard, Was It? | 15.00% | ~180,472 |
+| Get Outta My House! | 14.00% | ~168,441 |
+| Can't Touch This! | 14.00% | ~168,441 |
+| Night Hunter | 14.00% | ~168,441 |
+| Being All Social | 14.00% | ~168,441 |
+| After the Fall | 12.00% | ~144,378 |
+| We Will Be Heard! | 11.00% | ~132,346 |
+| Tunnel Entrance | 11.00% | ~132,346 |
+| Debris and Ashes | 10.00% | ~120,315 |
+| Known Associate | 10.00% | ~120,315 |
+| Brush with Death | 10.00% | ~120,315 |
+| Going Down | 9.00% | ~108,283 |
+| Family First | 9.00% | ~108,283 |
+| Your World, Your Rules | 9.00% | ~108,283 |
+| Death From Afar | 9.00% | ~108,283 |
+| Terminal Headache | 9.00% | ~108,283 |
+| Slowpoke! | 8.00% | ~96,252 |
+| Tickets, Please! | 5.00% | ~60,157 |
+| Parkour Master | 4.00% | ~48,126 |
+| Combat Master | 4.00% | ~48,126 |
+| Modder | 4.00% | ~48,126 |
+| Municipal Services | 3.00% | ~36,094 |
+| Don Quixote | 3.00% | ~36,094 |
+| Can't You Read the Signs? | 3.00% | ~36,094 |
+| Ban Hammer | 3.00% | ~36,094 |
+| Boot Licker | 3.00% | ~36,094 |
+| You're Going Down! | 3.00% | ~36,094 |
+| Nemesis | 3.00% | ~25,458 |
+| Tube Map | 2.00% | ~24,063 |
+| Who Wants To Be a... | 2.00% | ~24,063 |
+| Tanning Salon | 2.00% | ~24,063 |
+| That's Teamwork! | 2.00% | ~24,063 |
+| Fit as a Fiddle | 2.00% | ~24,063 |
+| Ironheart | 2.00% | ~24,063 |
+| Enter the Hall | 2.00% | ~16,972 |
+| Night of Terrors | 2.00% | ~16,972 |
+| Find Anything Interesting? | 1.00% | ~12,031 |
+| Revenants | 1.00% | ~12,031 |
+| My Friend, Ciro | 1.00% | ~8,486 |
+| Skullcrusher | 1.00% | ~8,486 |
+| Lightning Reflexes | 0.90% | ~10,828 |
+| Get the Point? | 0.70% | ~8,422 |
+| A Friend in Need... | 0.60% | ~7,219 |
+| Man On a Mission | 0.60% | ~7,219 |
+| The Madman of Villedor | 0.40% | ~3,394 |
+| Ultramarathon | 0.30% | ~3,609 |
+| Don't Look Up | 0.20% | ~2,406 |
+| True Nightrunner | 0.10% | ~1,203 |
+| Bing Bang Boom! | 0.10% | ~1,203 |
+| Archivist | 0.10% | ~1,203 |
+| Audiophile | 0.10% | ~1,203 |
+| Street Art Aficionado | 0.10% | ~1,203 |
+| True Champion | 0.10% | ~849 |
+| Connoisseur | 0.10% | ~849 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,134,738 (Ranked 19)  
-Completed: 86 (0.01%) (Ranked 503)  
+Progressed: 1,203,149 (Ranked 18)  
+Completed: 92 (0.01%) (Ranked 524)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -359,9 +359,10 @@ Completed: 86 (0.01%) (Ranked 503)
 | 2024-03-21 | 1,024,375 | 79 |
 | 2024-04-10 | 1,052,209 | 80 |
 | 2024-06-17 | 1,134,738 | 86 |
+| 2024-08-09 | 1,203,149 | 92 |
 ## Awards
 Max (Character Customization): 18,032  (Ranked 28)  
-Sum: 55,136 (Ranked 33)  
+Sum: 55,142 (Ranked 33)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +370,7 @@ Diff (max vs sum): -5
 | This game has Great Boss Battles | 12,278 |
 | This game is Great for Beginners | 3,462 |
 | This game has Diverse Characters | 3,122 |
-| This game is Highly Recommended | 2,940 |
+| This game is Highly Recommended | 2,946 |
 | This game has Amazing Characters | 2,765 |
 | This game has Amazing Storytelling | 2,687 |
 | This game is Extremely Fun | 2,627 |
@@ -955,4 +956,4 @@ Diff (max vs sum): -5
 | 2024-08-06 | 4.59 | - | 17,982 | 54,963 |
 | 2024-08-07 | 4.59 | - | 18,002 | 55,032 |
 | 2024-08-08 | 4.59 | - | 18,015 | 55,095 |
-| 2024-08-09 | 4.59 | - | 18,032 | 55,136 |
+| 2024-08-09 | 4.59 | - | 18,032 | 55,142 |

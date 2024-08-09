@@ -2,10 +2,10 @@
   "ID": "580aa156a1fb43eeb45e5c6e39d18d20",
   "Name": "Valor Rising: Quest for the 7",
   "ProductSlug": "valor-rising-quest-for-the-7-1073ef",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-20T07:00:00+00:00",
     "PcReleaseDate": "2024-04-01T15:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-22T23:59:35.4461943+00:00",
   "LastUpdate_AppInfo": "2024-08-04T02:01:18.8858881+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:21.1106937+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:15.5887089+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:58.4550271+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:48.5726129+00:00"
 }

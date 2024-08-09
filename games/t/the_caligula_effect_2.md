@@ -1,22 +1,22 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.43 (Ranked 804)  
+Rating: 4.43 (Ranked 803)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 95.00% | ~279 |
-| Daily Life Begins Anew | 80.00% | ~235 |
-| Our World Now | 79.00% | ~232 |
-| Never Saw It Coming | 64.00% | ~188 |
-| Coup de Grace | 56.00% | ~165 |
-| Go-Home Club Activities START! | 47.00% | ~138 |
-| Philanthropist | 36.00% | ~106 |
-| Test Your Luck | 32.00% | ~94 |
-| Behind the Curtain | 31.00% | ~91 |
-| Master of Surprise | 28.00% | ~82 |
-| Be Who You Wanna Be | 26.00% | ~76 |
+| Welcome to Redo | 95.00% | ~281 |
+| Daily Life Begins Anew | 79.00% | ~234 |
+| Our World Now | 78.00% | ~231 |
+| Never Saw It Coming | 64.00% | ~189 |
+| Coup de Grace | 55.00% | ~163 |
+| Go-Home Club Activities START! | 47.00% | ~139 |
+| Philanthropist | 36.00% | ~107 |
+| Test Your Luck | 32.00% | ~95 |
+| Behind the Curtain | 31.00% | ~92 |
+| Master of Surprise | 28.00% | ~83 |
+| Be Who You Wanna Be | 26.00% | ~77 |
 | Counter Champion | 24.00% | ~71 |
 | Friendly Neighborhood | 23.00% | ~68 |
 | Investment Ban-χ-ing | 23.00% | ~68 |
@@ -34,10 +34,10 @@ Number of Ratings: 32  (23.09.2022)
 | Extracurricular Affair | 17.00% | ~50 |
 | Hopes Rewarded | 16.00% | ~47 |
 | Guarding Guru | 16.00% | ~47 |
-| To Each Their Own | 11.00% | ~32 |
-| Eat Your Heart Out | 11.00% | ~32 |
-| Hustled and Bustled | 10.00% | ~29 |
-| Extra! Extra! Journalism Club Showdown | 9.00% | ~26 |
+| To Each Their Own | 11.00% | ~33 |
+| Eat Your Heart Out | 11.00% | ~33 |
+| Hustled and Bustled | 10.00% | ~30 |
+| Extra! Extra! Journalism Club Showdown | 9.00% | ~27 |
 | Prince of Lettuce | 8.00% | ~24 |
 | Love, Loss, and the Omega Nebula | 8.00% | ~24 |
 | Redo Redone | 7.00% | ~21 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294 (Ranked 518)  
-Completed: 3 (1.02%) (Ranked 243)  
+Progressed: 296 (Ranked 530)  
+Completed: 3 (1.01%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 3 (1.02%) (Ranked 243)
 | 2024-04-10 | 269 | 2 |
 | 2024-06-17 | 288 | 3 |
 | 2024-07-24 | 294 | 3 |
+| 2024-08-09 | 296 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "341b8002fa094d72905999eb8aa900b1",
   "Name": "Doodle Devil",
   "ProductSlug": "doodle-devil-8e65af",
-  "Ranking_EOS_Progress": 643,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Completed": 37,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-07-01T17:00:00+00:00",
     "PcReleaseDate": "2017-05-25T00:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
-  "EOS_Completed": 21,
+  "EOS_Progressed": 108,
+  "EOS_Completed": 22,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 20,
+  "EOS_Completed_Percentage": 20.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:19.0754835+00:00",
@@ -175,6 +175,11 @@
       "Time": "2024-06-17T16:16:55.5639679+00:00",
       "NumProgressed": 105,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-08-09T18:05:29.8758528+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 9,
@@ -186,7 +191,7 @@
       "Name": "Master of Sins",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "701322",
@@ -194,13 +199,13 @@
       "Name": "Master of Warfare",
       "Percentage": 35,
       "XP": 150,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "701332",
       "SetID": "3n3mm3c",
       "Name": "Lucky Strike",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
       "UsersEstimate": 60
     },
@@ -210,7 +215,7 @@
       "Name": "Paradise lost",
       "Percentage": 94,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "701392",
@@ -218,15 +223,15 @@
       "Name": "Dark Kingdom Come",
       "Percentage": 70,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "701402",
       "SetID": "3n3mm3c",
       "Name": "Cardinal Sins",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "701422",
@@ -234,7 +239,7 @@
       "Name": "Hellfire",
       "Percentage": 24,
       "XP": 150,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "701432",
@@ -242,7 +247,7 @@
       "Name": "Vicious Delicious",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "701442",
@@ -250,23 +255,23 @@
       "Name": "Warm and Fuzzy",
       "Percentage": 48,
       "XP": 150,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
     {
       "ID": "3n3mm3c",
       "IsBase": true,
-      "Progressed": 105,
-      "Completed": 21
+      "Progressed": 108,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:24:53.4158862+00:00",
   "FirstSeenRating": "2023-03-31T05:57:51.0518288+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.0754842+00:00",
   "LastChanged": "2023-03-31T05:57:51.0518289+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:16:55.5639674+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:29.8758525+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:06.171743+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:27.2162662+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:16:55.5639774+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:45.9196681+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:29.875859+00:00"
 }

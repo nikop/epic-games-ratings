@@ -2,10 +2,10 @@
   "ID": "272516e06b114390af92429cba34eb6a",
   "Name": "The Origin Theory - Episode One",
   "ProductSlug": "the-origin-theory-episode-one-5aff33",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-06T22:00:00+00:00",
     "PcReleaseDate": "2024-05-06T22:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-14T21:58:10.6653482+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:42.2451401+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:02.6164009+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:26.7886684+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:56.9494119+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:59.2150788+00:00"
 }

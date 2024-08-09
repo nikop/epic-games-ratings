@@ -4,10 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Long-Term Consequences | 14.00% | ~2 |
-| Hurricane | 7.00% | ~1 |
-| Kidney Sold | 7.00% | ~1 |
-| Made It! | 7.00% | ~1 |
+| Long-Term Consequences | 19.00% | ~3 |
+| Kidney Sold | 13.00% | ~2 |
+| Made It! | 13.00% | ~2 |
+| Hurricane | 6.00% | ~1 |
+| Leaving Earth | 6.00% | ~1 |
 | Bookworm | 0.00% | ~0 |
 | Boondoggle | 0.00% | ~0 |
 | Cat Person | 0.00% | ~0 |
@@ -16,7 +17,6 @@
 | Lisp Expert | 0.00% | ~0 |
 | Good Samaritan | 0.00% | ~0 |
 | Highwater Today | 0.00% | ~0 |
-| Leaving Earth | 0.00% | ~0 |
 | MVP | 0.00% | ~0 |
 | Movie Trivia Night | 0.00% | ~0 |
 | Perfect Run | 0.00% | ~0 |
@@ -25,11 +25,12 @@
 | Supplement Junkie | 0.00% | ~0 |
 | Unbalanced Mechanic | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 876)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 16 (Ranked 889)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 4 | 0 |
 | 2024-06-17 | 12 | 0 |
 | 2024-07-25 | 14 | 0 |
+| 2024-08-09 | 16 | 0 |

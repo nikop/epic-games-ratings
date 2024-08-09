@@ -2,10 +2,10 @@
   "ID": "894b17f2131c4a38b2c43b50621730cc",
   "Name": "Revenge of Sardine",
   "ProductSlug": "revenge-of-sardine-1023c4",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-10T00:00:00+00:00",
     "PcReleaseDate": "2022-09-15T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T08:56:59.7903567+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:33.4678744+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:34.6864812+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:22.4232447+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:06.8102483+00:00"
 }

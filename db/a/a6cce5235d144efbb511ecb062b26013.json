@@ -2,10 +2,10 @@
   "ID": "a6cce5235d144efbb511ecb062b26013",
   "Name": "Storm Warfare",
   "ProductSlug": "storm-warfare-416c11",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-01T10:50:59.842+00:00",
     "PcReleaseDate": "2024-06-13T15:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-05T20:57:07.4000782+00:00",
   "LastUpdate_AppInfo": "2024-08-07T20:56:59.7995646+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:03.5862081+00:00",
-  "LastUpdate_Achievements": "2024-06-26T14:04:29.7940939+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:08.1493771+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:15.8891807+00:00"
 }

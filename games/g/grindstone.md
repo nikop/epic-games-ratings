@@ -6,44 +6,44 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,194 |
-| The Journey Begins | 98.00% | ~5,194 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,134 |
-| There is No Escape | 72.00% | ~3,816 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,339 |
-| Royal Flush | 62.00% | ~3,286 |
-| Timber! | 61.00% | ~3,233 |
-| Survive the Bombsequences | 59.00% | ~3,127 |
-| Killed 20 Jerks | 54.00% | ~2,862 |
-| Death Defied | 54.00% | ~2,862 |
-| Fortunate Soul | 49.00% | ~2,597 |
-| Jerk-Slayer | 44.00% | ~2,332 |
-| Employee of the Month | 37.00% | ~1,961 |
-| I Believe I Can Fly | 37.00% | ~1,961 |
-| Bone Collector | 36.00% | ~1,908 |
-| Fe-Festival | 35.00% | ~1,855 |
-| Pardon my Slob | 33.00% | ~1,749 |
-| Top of the Food Chain | 32.00% | ~1,696 |
-| Humerus Achievement | 32.00% | ~1,696 |
-| Ghost Facers! | 28.00% | ~1,484 |
-| If It Bleeds, You Can Kill It | 22.00% | ~1,166 |
-| Trying To Get Into That 1%, Huh? | 19.00% | ~1,007 |
-| Royal Flush, Again | 19.00% | ~1,007 |
-| Can't Touch This | 18.00% | ~954 |
-| Yummy! | 17.00% | ~901 |
-| That Was Quick | 17.00% | ~901 |
-| Goldrush Glory Days | 16.00% | ~848 |
-| Best Party Guest | 15.00% | ~795 |
-| Collected 50 mushrooms | 15.00% | ~795 |
-| Budding Gardener | 15.00% | ~795 |
-| Stop Hitting Each Other | 15.00% | ~795 |
-| Shrub it Off | 15.00% | ~795 |
-| Ultimate Jerk | 13.00% | ~689 |
-| Hot Potato | 11.00% | ~583 |
-| Off the Beaten Path | 10.00% | ~530 |
-| It's Been a Blast | 9.00% | ~477 |
-| For Rock and Stone! | 9.00% | ~477 |
-| Don't Get Too Greedy | 8.00% | ~424 |
+| Quinceañera Time | 98.00% | ~5,201 |
+| The Journey Begins | 98.00% | ~5,201 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,139 |
+| There is No Escape | 72.00% | ~3,821 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,343 |
+| Royal Flush | 62.00% | ~3,290 |
+| Timber! | 61.00% | ~3,237 |
+| Survive the Bombsequences | 59.00% | ~3,131 |
+| Killed 20 Jerks | 54.00% | ~2,866 |
+| Death Defied | 54.00% | ~2,866 |
+| Fortunate Soul | 49.00% | ~2,600 |
+| Jerk-Slayer | 44.00% | ~2,335 |
+| Employee of the Month | 37.00% | ~1,964 |
+| I Believe I Can Fly | 37.00% | ~1,964 |
+| Bone Collector | 36.00% | ~1,911 |
+| Fe-Festival | 35.00% | ~1,857 |
+| Pardon my Slob | 33.00% | ~1,751 |
+| Top of the Food Chain | 32.00% | ~1,698 |
+| Humerus Achievement | 32.00% | ~1,698 |
+| Ghost Facers! | 28.00% | ~1,486 |
+| If It Bleeds, You Can Kill It | 22.00% | ~1,168 |
+| Trying To Get Into That 1%, Huh? | 19.00% | ~1,008 |
+| Royal Flush, Again | 19.00% | ~1,008 |
+| Can't Touch This | 18.00% | ~955 |
+| Yummy! | 17.00% | ~902 |
+| That Was Quick | 17.00% | ~902 |
+| Goldrush Glory Days | 16.00% | ~849 |
+| Best Party Guest | 15.00% | ~796 |
+| Collected 50 mushrooms | 15.00% | ~796 |
+| Budding Gardener | 15.00% | ~796 |
+| Stop Hitting Each Other | 15.00% | ~796 |
+| Shrub it Off | 15.00% | ~796 |
+| Ultimate Jerk | 13.00% | ~690 |
+| Hot Potato | 11.00% | ~584 |
+| Off the Beaten Path | 10.00% | ~531 |
+| It's Been a Blast | 9.00% | ~478 |
+| For Rock and Stone! | 9.00% | ~478 |
+| Don't Get Too Greedy | 8.00% | ~425 |
 | You're In a Cult, Call Your Dad | 6.00% | ~318 |
 | The Poison You Just Drank | 5.00% | ~265 |
 | Survived The Slaughter | 5.00% | ~265 |
@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,300 (Ranked 261)  
-Completed: 32 (0.60%) (Ranked 287)  
+Progressed: 5,307 (Ranked 273)  
+Completed: 32 (0.60%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -181,6 +181,7 @@ Completed: 32 (0.60%) (Ranked 287)
 | 2024-04-10 | 5,274 | 32 |
 | 2024-06-17 | 5,298 | 32 |
 | 2024-07-09 | 5,300 | 32 |
+| 2024-08-09 | 5,307 | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

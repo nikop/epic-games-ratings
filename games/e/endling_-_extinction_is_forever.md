@@ -5,37 +5,37 @@ Rating: 4.64 (Ranked 371)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 94.00% | ~717 |
-| A Friend in Need | 60.00% | ~458 |
-| Surviving | 42.00% | ~320 |
-| Detox diet | 41.00% | ~313 |
-| Never Give Up | 39.00% | ~298 |
-| Tasty | 36.00% | ~275 |
-| Lullaby | 31.00% | ~237 |
-| You Can Pet The Fox | 29.00% | ~221 |
-| Hard Fox Life | 23.00% | ~175 |
-| Never Let Down | 22.00% | ~168 |
-| Chicken Dinner | 21.00% | ~160 |
-| A Barking Fox Doesn't Bite | 20.00% | ~153 |
-| Peaceful Instinct | 18.00% | ~137 |
-| Barking in The Rain | 17.00% | ~130 |
-| Maternity | 16.00% | ~122 |
-| Family Reunion | 14.00% | ~107 |
-| Beyond Words | 14.00% | ~107 |
-| Never Run Around | 13.00% | ~99 |
-| Three Little Foxes | 10.00% | ~76 |
-| Two Peas in a Pod | 10.00% | ~76 |
-| All For One | 10.00% | ~76 |
-| Extinction is Forever | 10.00% | ~76 |
-| We Are a Family | 9.00% | ~69 |
-| Mother Love | 4.00% | ~31 |
-| For a Better Tomorrow | 3.00% | ~23 |
-| Omnivore | 2.00% | ~15 |
-| Easter Egg | 2.00% | ~15 |
-| Endling | 0.70% | ~5 |
+| Home Sweet Home | 95.00% | ~758 |
+| A Friend in Need | 61.00% | ~487 |
+| Surviving | 42.00% | ~335 |
+| Detox diet | 41.00% | ~327 |
+| Never Give Up | 39.00% | ~311 |
+| Tasty | 37.00% | ~295 |
+| Lullaby | 31.00% | ~247 |
+| You Can Pet The Fox | 29.00% | ~231 |
+| Hard Fox Life | 23.00% | ~184 |
+| Never Let Down | 22.00% | ~176 |
+| A Barking Fox Doesn't Bite | 21.00% | ~168 |
+| Chicken Dinner | 21.00% | ~168 |
+| Peaceful Instinct | 18.00% | ~144 |
+| Barking in The Rain | 17.00% | ~136 |
+| Maternity | 16.00% | ~128 |
+| Family Reunion | 14.00% | ~112 |
+| Never Run Around | 14.00% | ~112 |
+| Beyond Words | 14.00% | ~112 |
+| Three Little Foxes | 10.00% | ~80 |
+| Two Peas in a Pod | 10.00% | ~80 |
+| All For One | 10.00% | ~80 |
+| Extinction is Forever | 10.00% | ~80 |
+| We Are a Family | 9.00% | ~72 |
+| Mother Love | 4.00% | ~32 |
+| For a Better Tomorrow | 3.00% | ~24 |
+| Omnivore | 2.00% | ~16 |
+| Easter Egg | 2.00% | ~16 |
+| Endling | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763 (Ranked 418)  
-Completed: 3 (0.39%) (Ranked 323)  
+Progressed: 798 (Ranked 425)  
+Completed: 3 (0.38%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -193,6 +193,7 @@ Completed: 3 (0.39%) (Ranked 323)
 | 2024-03-21 | 657 | 3 |
 | 2024-04-10 | 693 | 3 |
 | 2024-06-17 | 763 | 3 |
+| 2024-08-09 | 798 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

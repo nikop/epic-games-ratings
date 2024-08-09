@@ -5,10 +5,10 @@
   "Ranking_Rating": 884,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 394,
-  "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 83,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -2227,8 +2227,8 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 264813,
-  "EOS_Completed": 5,
+  "EOS_Progressed": 265063,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
@@ -29122,6 +29122,11 @@
       "Time": "2024-07-24T02:04:24.7534532+00:00",
       "NumProgressed": 264813,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-08-09T18:06:41.5850167+00:00",
+      "NumProgressed": 265063,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -29133,7 +29138,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18537
+      "UsersEstimate": 18554
     },
     {
       "ID": "Act2",
@@ -29141,7 +29146,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10603
     },
     {
       "ID": "Act3",
@@ -29149,7 +29154,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "Act4",
@@ -29157,7 +29162,7 @@
       "Name": "The Gamble",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "Act5",
@@ -29165,7 +29170,7 @@
       "Name": "The Descent",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "BackHomeAfterTimesUp",
@@ -29173,7 +29178,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5301
     },
     {
       "ID": "BackHomeFirstTime",
@@ -29181,7 +29186,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 82092
+      "UsersEstimate": 82170
     },
     {
       "ID": "BackHomeNTimes",
@@ -29189,7 +29194,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13241
+      "UsersEstimate": 13253
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -29197,7 +29202,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10603
     },
     {
       "ID": "BreakNWindows",
@@ -29205,7 +29210,7 @@
       "Name": "Vandalism",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13241
+      "UsersEstimate": 13253
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -29213,7 +29218,7 @@
       "Name": "A major purchase",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "BuyNWeapons",
@@ -29221,7 +29226,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "CompleteBestiary",
@@ -29229,7 +29234,7 @@
       "Name": "Expert Hunter",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "CreditLevel1",
@@ -29237,7 +29242,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26481
+      "UsersEstimate": 26506
     },
     {
       "ID": "CreditLevel2",
@@ -29245,7 +29250,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7944
+      "UsersEstimate": 7952
     },
     {
       "ID": "CreditLevel3",
@@ -29253,7 +29258,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "CreedsInBank1",
@@ -29261,7 +29266,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13241
+      "UsersEstimate": 13253
     },
     {
       "ID": "CreedsInBank2",
@@ -29269,7 +29274,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "CreedsInBank3",
@@ -29293,7 +29298,7 @@
       "Name": "Fungi hunter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "EatNPills",
@@ -29301,7 +29306,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "FullHomeExpansion",
@@ -29325,7 +29330,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "GrowPlants1",
@@ -29333,7 +29338,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15889
+      "UsersEstimate": 15904
     },
     {
       "ID": "GrowPlants2",
@@ -29341,7 +29346,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "GrowPlants3",
@@ -29365,7 +29370,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "KillCrawlingThing",
@@ -29373,7 +29378,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7944
+      "UsersEstimate": 7952
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -29389,7 +29394,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15889
+      "UsersEstimate": 15904
     },
     {
       "ID": "KillOtherWithKatana",
@@ -29397,7 +29402,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5301
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -29405,7 +29410,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7944
+      "UsersEstimate": 7952
     },
     {
       "ID": "KillOtherWithMine",
@@ -29413,7 +29418,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5301
     },
     {
       "ID": "KillOthers1",
@@ -29421,7 +29426,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60907
+      "UsersEstimate": 60964
     },
     {
       "ID": "KillOthers2",
@@ -29429,7 +29434,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7944
+      "UsersEstimate": 7952
     },
     {
       "ID": "KillOthers3",
@@ -29437,7 +29442,7 @@
       "Name": "Predator III",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "KillUnstableThing",
@@ -29445,7 +29450,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5301
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -29453,7 +29458,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5301
     },
     {
       "ID": "MaxImagoLevel",
@@ -29477,7 +29482,7 @@
       "Name": "Committed Relationship",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2121
     },
     {
       "ID": "NewFloor",
@@ -29485,7 +29490,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     },
     {
       "ID": "OldCoinCollected",
@@ -29493,7 +29498,7 @@
       "Name": "Number 1",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2121
     },
     {
       "ID": "Patrimony1",
@@ -29501,7 +29506,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10593
+      "UsersEstimate": 10603
     },
     {
       "ID": "Patrimony2",
@@ -29525,7 +29530,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26481
+      "UsersEstimate": 26506
     },
     {
       "ID": "ReachNDays2",
@@ -29533,7 +29538,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5296
+      "UsersEstimate": 5301
     },
     {
       "ID": "ReachNDays3",
@@ -29549,7 +29554,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "TakeHomeNHearts",
@@ -29557,7 +29562,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "UnlockAllAchievements",
@@ -29573,23 +29578,23 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2651
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 264813,
-      "Completed": 5
+      "Progressed": 265063,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-08-09T02:59:31.2887718+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:04:24.7534524+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:41.5850164+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:17.5961046+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:24.270877+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:04:24.7535979+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:17.6488428+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:41.5852058+00:00"
 }

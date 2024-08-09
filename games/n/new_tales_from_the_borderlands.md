@@ -5,35 +5,35 @@ Rating: 4.10 (Ranked 1,150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Who Needs Keys? | 53.00% | ~2,133 |
-| Totally Intentional | 47.00% | ~1,892 |
-| Each Sold Separately | 39.00% | ~1,570 |
-| We're In | 34.00% | ~1,368 |
-| You're Not Naked | 31.00% | ~1,248 |
-| Tale in the Toilet | 31.00% | ~1,248 |
-| From Zeroes... | 30.00% | ~1,208 |
-| Don't Get Cocky | 28.00% | ~1,127 |
-| Shard Snatchers | 26.00% | ~1,046 |
-| You Rich Now! | 23.00% | ~926 |
-| Our Lucky Winner | 22.00% | ~886 |
-| You Poor Now! | 21.00% | ~845 |
-| You Got the Goods, Kid | 21.00% | ~845 |
-| The Shardmenstration | 20.00% | ~805 |
-| Those Were the Days... | 20.00% | ~805 |
-| ...To Heroes | 19.00% | ~765 |
-| Mas, Por Favor | 19.00% | ~765 |
-| And Still Champion... | 15.00% | ~604 |
-| Super Trusting Friend! | 10.00% | ~402 |
-| Hey, thanks! | 5.00% | ~201 |
-| Bring back the butt! | 4.00% | ~161 |
-| Murderous Mascot Mayhem | 3.00% | ~121 |
-| New Business | 0.90% | ~36 |
-| Okay, Vain Much? | 0.60% | ~24 |
+| Who Needs Keys? | 53.00% | ~2,175 |
+| Totally Intentional | 48.00% | ~1,969 |
+| Each Sold Separately | 39.00% | ~1,600 |
+| We're In | 34.00% | ~1,395 |
+| Tale in the Toilet | 31.00% | ~1,272 |
+| You're Not Naked | 30.00% | ~1,231 |
+| From Zeroes... | 30.00% | ~1,231 |
+| Don't Get Cocky | 28.00% | ~1,149 |
+| Shard Snatchers | 25.00% | ~1,026 |
+| You Rich Now! | 23.00% | ~944 |
+| Our Lucky Winner | 22.00% | ~903 |
+| You Poor Now! | 21.00% | ~862 |
+| You Got the Goods, Kid | 21.00% | ~862 |
+| The Shardmenstration | 20.00% | ~821 |
+| Those Were the Days... | 20.00% | ~821 |
+| ...To Heroes | 19.00% | ~780 |
+| Mas, Por Favor | 19.00% | ~780 |
+| And Still Champion... | 15.00% | ~615 |
+| Super Trusting Friend! | 10.00% | ~410 |
+| Hey, thanks! | 5.00% | ~205 |
+| Bring back the butt! | 4.00% | ~164 |
+| Murderous Mascot Mayhem | 3.00% | ~123 |
+| New Business | 0.90% | ~37 |
+| Okay, Vain Much? | 0.60% | ~25 |
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,025 (Ranked 279)  
-Completed: 1 (0.02%) (Ranked 489)  
+Progressed: 4,103 (Ranked 294)  
+Completed: 1 (0.02%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,6 +247,7 @@ Completed: 1 (0.02%) (Ranked 489)
 | 2024-06-17 | 4,007 | 1 |
 | 2024-07-24 | 4,024 | 1 |
 | 2024-07-25 | 4,025 | 1 |
+| 2024-08-09 | 4,103 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

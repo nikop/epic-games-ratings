@@ -24,8 +24,8 @@
 | Star Specialist | 0.00% | ~0 |
 | Star Sergeant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 839)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 20 (Ranked 864)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

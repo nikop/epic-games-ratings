@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Final square (Eternal Battle) | 70.00% | ~7 |
-| I'll be back | 50.00% | ~5 |
-| Chain Reaction | 40.00% | ~4 |
-| Combo Pro | 30.00% | ~3 |
-| Sense of Priorities | 30.00% | ~3 |
-| Victory Royale | 30.00% | ~3 |
-| Versus Victory | 20.00% | ~2 |
-| Business Acumen | 20.00% | ~2 |
-| Sound Barrier | 20.00% | ~2 |
-| Final chance | 20.00% | ~2 |
-| Legend | 10.00% | ~1 |
-| Champion | 10.00% | ~1 |
-| Flawless Round | 10.00% | ~1 |
-| Neo Victory | 10.00% | ~1 |
-| Arcade Room King | 10.00% | ~1 |
-| Juggler | 10.00% | ~1 |
-| Expert | 10.00% | ~1 |
-| Pro | 10.00% | ~1 |
-| Semi-pro | 10.00% | ~1 |
-| Collector | 10.00% | ~1 |
-| Purist | 10.00% | ~1 |
-| Insatiable | 10.00% | ~1 |
+| Final square (Eternal Battle) | 67.00% | ~8 |
+| I'll be back | 50.00% | ~6 |
+| Combo Pro | 42.00% | ~5 |
+| Sense of Priorities | 33.00% | ~4 |
+| Chain Reaction | 33.00% | ~4 |
+| Victory Royale | 33.00% | ~4 |
+| Business Acumen | 25.00% | ~3 |
+| Sound Barrier | 25.00% | ~3 |
+| Versus Victory | 17.00% | ~2 |
+| Juggler | 17.00% | ~2 |
+| Final chance | 17.00% | ~2 |
+| Legend | 8.00% | ~1 |
+| Champion | 8.00% | ~1 |
+| Flawless Round | 8.00% | ~1 |
+| Neo Victory | 8.00% | ~1 |
+| Arcade Room King | 8.00% | ~1 |
+| Expert | 8.00% | ~1 |
+| Pro | 8.00% | ~1 |
+| Semi-pro | 8.00% | ~1 |
+| Collector | 8.00% | ~1 |
+| Purist | 8.00% | ~1 |
+| Insatiable | 8.00% | ~1 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 910)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 12 (Ranked 926)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -39,6 +39,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-01-05 | 8 | 0 |
 | 2024-01-12 | 9 | 0 |
 | 2024-06-17 | 10 | 0 |
+| 2024-08-09 | 12 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

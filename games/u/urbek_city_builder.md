@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 30.00% | ~193 |
-| I like parks | 26.00% | ~167 |
-| The spiritual world... | 15.00% | ~96 |
-| It is nice to share with friends in the city | 13.00% | ~84 |
-| Sport is good for you | 12.00% | ~77 |
-| The woodcutter | 11.00% | ~71 |
-| I like books | 10.00% | ~64 |
-| I like my life | 10.00% | ~64 |
-| Clean energy | 8.00% | ~51 |
-| Soviet town | 8.00% | ~51 |
-| Bucolic city | 6.00% | ~39 |
+| Small town | 31.00% | ~202 |
+| I like parks | 27.00% | ~176 |
+| The spiritual world... | 15.00% | ~98 |
+| It is nice to share with friends in the city | 13.00% | ~85 |
+| Sport is good for you | 12.00% | ~78 |
+| I like my life | 11.00% | ~72 |
+| The woodcutter | 11.00% | ~72 |
+| I like books | 10.00% | ~65 |
+| Clean energy | 8.00% | ~52 |
+| Soviet town | 8.00% | ~52 |
+| Bucolic city | 7.00% | ~46 |
+| I love parks | 5.00% | ~33 |
 | I love books! | 4.00% | ~26 |
 | King of fish | 4.00% | ~26 |
-| I love parks | 4.00% | ~26 |
-| Food producer | 3.00% | ~19 |
-| What would we do if we can't go out with friends? | 3.00% | ~19 |
-| Rebel city | 3.00% | ~19 |
+| Food producer | 3.00% | ~20 |
+| What would we do if we can't go out with friends? | 3.00% | ~20 |
+| Rebel city | 3.00% | ~20 |
 | City crisis | 2.00% | ~13 |
 | I am very happy! | 2.00% | ~13 |
 | Metropolurbek | 2.00% | ~13 |
-| Banking city | 1.00% | ~6 |
+| Banking city | 1.00% | ~7 |
 | Food provider master | 0.80% | ~5 |
 | Archipelago builder | 0.60% | ~4 |
 | Read! Everyone should read! | 0.60% | ~4 |
@@ -40,6 +40,7 @@
 | I don't feel well, I have to drink a coffe | 0.30% | ~2 |
 | Town planner | 0.30% | ~2 |
 | Restorer | 0.30% | ~2 |
+| Sport is the best thing | 0.30% | ~2 |
 | Rainforest builder | 0.30% | ~2 |
 | Rainforest urban planner | 0.30% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
@@ -56,7 +57,6 @@
 | Metropolurbek Plus | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
 | Singapore | 0.20% | ~1 |
-| Sport is the best thing | 0.20% | ~1 |
 | Everyone should always do sport! | 0.20% | ~1 |
 | Temperate urban planner | 0.20% | ~1 |
 | Full rainforest | 0.20% | ~1 |
@@ -84,8 +84,8 @@
 | Temperate master | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 643 (Ranked 431)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 651 (Ranked 442)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,6 +278,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-06-17 | 628 | 0 |
 | 2024-06-26 | 630 | 0 |
 | 2024-07-25 | 643 | 0 |
+| 2024-08-09 | 651 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

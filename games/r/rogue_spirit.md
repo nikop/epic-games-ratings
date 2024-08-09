@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 57.00% | ~23 |
-| Liberator | 35.00% | ~14 |
-| Famine Defeated | 33.00% | ~13 |
-| Parry Mastery | 30.00% | ~12 |
-| Perceptive | 28.00% | ~11 |
+| Silent Assassin | 56.00% | ~23 |
+| Liberator | 34.00% | ~14 |
+| Famine Defeated | 32.00% | ~13 |
+| Parry Mastery | 29.00% | ~12 |
+| Perceptive | 27.00% | ~11 |
 | Gold Collector | 15.00% | ~6 |
 | Possess Mastery | 15.00% | ~6 |
-| Master Assassin | 13.00% | ~5 |
-| Token Collector | 8.00% | ~3 |
-| War Defeated | 8.00% | ~3 |
+| Master Assassin | 12.00% | ~5 |
+| Token Collector | 7.00% | ~3 |
+| War Defeated | 7.00% | ~3 |
 | Body Spawn Master | 5.00% | ~2 |
 | Death Defeated | 5.00% | ~2 |
 | Decay Defeated | 5.00% | ~2 |
 | Demon Butcher | 5.00% | ~2 |
 | Group Fight Mastery | 5.00% | ~2 |
-| Body Blast Master | 3.00% | ~1 |
-| Body Swapper | 3.00% | ~1 |
-| Dash Mastery | 3.00% | ~1 |
-| Demon King Defeated | 3.00% | ~1 |
-| Earth Shatter Master | 3.00% | ~1 |
-| Elemental Butcher | 3.00% | ~1 |
-| Elemental Mastery | 3.00% | ~1 |
-| Elite Butcher | 3.00% | ~1 |
-| Familiar Catcher | 3.00% | ~1 |
-| Familiar Trainer | 3.00% | ~1 |
-| Fire Blast Master | 3.00% | ~1 |
-| Land Mine Master | 3.00% | ~1 |
-| Lone Wolf Champion | 3.00% | ~1 |
-| Reanimate Master | 3.00% | ~1 |
-| Skill Adept | 3.00% | ~1 |
-| Vanish Master | 3.00% | ~1 |
+| Body Blast Master | 2.00% | ~1 |
+| Body Swapper | 2.00% | ~1 |
+| Dash Mastery | 2.00% | ~1 |
+| Demon King Defeated | 2.00% | ~1 |
+| Earth Shatter Master | 2.00% | ~1 |
+| Elemental Butcher | 2.00% | ~1 |
+| Elemental Mastery | 2.00% | ~1 |
+| Elite Butcher | 2.00% | ~1 |
+| Familiar Catcher | 2.00% | ~1 |
+| Familiar Trainer | 2.00% | ~1 |
+| Fire Blast Master | 2.00% | ~1 |
+| Land Mine Master | 2.00% | ~1 |
+| Lone Wolf Champion | 2.00% | ~1 |
+| Reanimate Master | 2.00% | ~1 |
+| Skill Adept | 2.00% | ~1 |
+| Vanish Master | 2.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |
 | Cold Skin Master | 0.00% | ~0 |
@@ -65,8 +65,8 @@
 | Sprinter Champion | 0.00% | ~0 |
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 774)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 41 (Ranked 793)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 35 | 0 |
 | 2024-04-10 | 37 | 0 |
 | 2024-06-17 | 40 | 0 |
+| 2024-08-09 | 41 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,59 +1,59 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 506)  
+Rating: 4.58 (Ranked 507)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 65.00% | ~5,747 |
-| Tutti Eroi! | 64.00% | ~5,658 |
-| Avanti Savoia! | 57.00% | ~5,039 |
-| Peak Performance | 56.00% | ~4,951 |
-| Mamma Mia! | 45.00% | ~3,978 |
-| Gabriele D'Annunzio | 42.00% | ~3,713 |
-| Conrad von Hotzensocks | 40.00% | ~3,536 |
-| Silver Lining | 35.00% | ~3,094 |
-| Aurelio Baruzzi | 27.00% | ~2,387 |
-| Decimation | 26.00% | ~2,299 |
-| Donatello | 26.00% | ~2,299 |
-| Shaken, Not Stirred | 26.00% | ~2,299 |
-| The Italian Job | 25.00% | ~2,210 |
-| Insubordination | 24.00% | ~2,122 |
-| Ragazzi del '99 | 24.00% | ~2,122 |
-| Veni Vidi Vici | 24.00% | ~2,122 |
-| Luigi Cadorna | 22.00% | ~1,945 |
-| The Lion of the Isonzo | 18.00% | ~1,591 |
-| Die Bosniaken Kommen! | 16.00% | ~1,415 |
-| Uomo Universale | 16.00% | ~1,415 |
-| Dirty Dozen | 15.00% | ~1,326 |
-| Machiavelli | 15.00% | ~1,326 |
-| Millenial | 13.00% | ~1,149 |
-| The Devil's Paintbrush | 13.00% | ~1,149 |
-| I Have the High Ground | 12.00% | ~1,061 |
-| Thus With A Kiss | 12.00% | ~1,061 |
-| Dante's Inferno | 11.00% | ~973 |
-| The Show Must Go On | 11.00% | ~973 |
-| Tosca | 10.00% | ~884 |
-| Cercatore d'Oro | 9.00% | ~796 |
-| 12th Bottle of the Isonzo | 8.00% | ~707 |
-| The Enlightment | 7.00% | ~619 |
-| Generalissimo | 5.00% | ~442 |
-| Farewell to Arms | 4.00% | ~354 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~354 |
-| Seeing Red | 4.00% | ~354 |
-| Ponte of No Return | 3.00% | ~265 |
-| Soča Drag | 3.00% | ~265 |
-| Malpractice | 2.00% | ~177 |
-| Saboteur | 2.00% | ~177 |
-| Compagnia della Morte | 1.00% | ~88 |
-| Drop and Give Me 20 | 1.00% | ~88 |
-| Rome Wasn't Built In A Day | 1.00% | ~88 |
-| "Sacro Egoismo" | 0.80% | ~71 |
+| You Shall Not Pass | 69.00% | ~6,035 |
+| Tutti Eroi! | 68.00% | ~5,948 |
+| Avanti Savoia! | 60.00% | ~5,248 |
+| Peak Performance | 58.00% | ~5,073 |
+| Mamma Mia! | 47.00% | ~4,111 |
+| Gabriele D'Annunzio | 44.00% | ~3,849 |
+| Conrad von Hotzensocks | 42.00% | ~3,674 |
+| Silver Lining | 37.00% | ~3,236 |
+| Shaken, Not Stirred | 32.00% | ~2,799 |
+| Aurelio Baruzzi | 29.00% | ~2,537 |
+| Decimation | 28.00% | ~2,449 |
+| Donatello | 27.00% | ~2,362 |
+| Insubordination | 26.00% | ~2,274 |
+| The Italian Job | 26.00% | ~2,274 |
+| Ragazzi del '99 | 25.00% | ~2,187 |
+| Veni Vidi Vici | 25.00% | ~2,187 |
+| Luigi Cadorna | 23.00% | ~2,012 |
+| The Lion of the Isonzo | 18.00% | ~1,574 |
+| Die Bosniaken Kommen! | 17.00% | ~1,487 |
+| Uomo Universale | 17.00% | ~1,487 |
+| Dirty Dozen | 16.00% | ~1,400 |
+| Machiavelli | 16.00% | ~1,400 |
+| The Devil's Paintbrush | 14.00% | ~1,225 |
+| I Have the High Ground | 13.00% | ~1,137 |
+| Millenial | 13.00% | ~1,137 |
+| Thus With A Kiss | 13.00% | ~1,137 |
+| Dante's Inferno | 11.00% | ~962 |
+| The Show Must Go On | 11.00% | ~962 |
+| Tosca | 11.00% | ~962 |
+| Cercatore d'Oro | 10.00% | ~875 |
+| 12th Bottle of the Isonzo | 9.00% | ~787 |
+| The Enlightment | 8.00% | ~700 |
+| Generalissimo | 5.00% | ~437 |
+| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~437 |
+| Farewell to Arms | 4.00% | ~350 |
+| Seeing Red | 4.00% | ~350 |
+| Ponte of No Return | 3.00% | ~262 |
+| Soča Drag | 3.00% | ~262 |
+| Saboteur | 3.00% | ~262 |
+| Malpractice | 2.00% | ~175 |
+| Compagnia della Morte | 1.00% | ~87 |
+| Drop and Give Me 20 | 1.00% | ~87 |
+| Rome Wasn't Built In A Day | 1.00% | ~87 |
+| "Sacro Egoismo" | 0.80% | ~70 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,841 (Ranked 238)  
-Completed: 1 (0.01%) (Ranked 503)  
+Progressed: 8,747 (Ranked 250)  
+Completed: 1 (0.01%) (Ranked 524)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,6 +335,7 @@ Completed: 1 (0.01%) (Ranked 503)
 | 2024-04-10 | 9,230 | 2 |
 | 2024-05-13 | 9,032 | 1 |
 | 2024-06-17 | 8,841 | 1 |
+| 2024-08-09 | 8,747 | 1 |
 ## Awards
 Max (Diverse Characters): 60  (Ranked 514)  
 Sum: 474 (Ranked 399)  

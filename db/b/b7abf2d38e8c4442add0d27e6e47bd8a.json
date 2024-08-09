@@ -2,10 +2,10 @@
   "ID": "b7abf2d38e8c4442add0d27e6e47bd8a",
   "Name": "The Lullaby of Life",
   "ProductSlug": "the-lullaby-of-life-0c5767",
-  "Ranking_EOS_Progress": 891,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 876,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-06T23:00:00+00:00",
     "PcReleaseDate": "2024-04-30T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -31,6 +31,11 @@
     {
       "Time": "2024-06-17T16:09:26.5145036+00:00",
       "NumProgressed": 13,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:02:21.8931067+00:00",
+      "NumProgressed": 18,
       "NumCompleted": 0
     }
   ],
@@ -50,31 +55,31 @@
       "ID": "ACH_FIRST_SECRET_OHMIE",
       "SetID": "4ham3ma",
       "Name": "Hidden Life",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LVL_COMPLETE_1",
       "SetID": "4ham3ma",
       "Name": "Creation",
-      "Percentage": 54,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_LVL_COMPLETE_2",
       "SetID": "4ham3ma",
       "Name": "Energy",
-      "Percentage": 31,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_LVL_COMPLETE_3",
       "SetID": "4ham3ma",
       "Name": "Harmony",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "ACH_LVL_COMPLETE_4",
       "SetID": "4ham3ma",
       "Name": "Infinity",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "ACH_LVL_COMPLETE_5",
       "SetID": "4ham3ma",
       "Name": "Union",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -123,13 +128,13 @@
     {
       "ID": "4ham3ma",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:06:02.9588374+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:26.5145032+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:21.8931061+00:00",
   "LastUpdate_AppInfo": "2024-08-08T17:57:27.4601457+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:06.0935197+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:26.5152744+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:32.4789635+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:21.893115+00:00"
 }

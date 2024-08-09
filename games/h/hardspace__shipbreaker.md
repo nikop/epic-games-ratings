@@ -6,36 +6,36 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~858 |
-| It’s Heating up! | 69.00% | ~822 |
-| Let’s patch things up | 64.00% | ~762 |
-| I can fix it! | 61.00% | ~727 |
-| Post No Bills | 54.00% | ~643 |
-| Truly Shocking! | 48.00% | ~572 |
-| Critical Thinker | 35.00% | ~417 |
-| Act I Complete | 30.00% | ~357 |
-| Always Finding Your Mark | 29.00% | ~345 |
-| A drop in the Ocean | 29.00% | ~345 |
-| The Weight of the World | 29.00% | ~345 |
-| No Niños | 27.00% | ~322 |
-| I ain’t afraid of no Ghost | 25.00% | ~298 |
-| Act II Complete | 21.00% | ~250 |
-| A successful procedure! | 19.00% | ~226 |
-| Bing Bang BOOM | 19.00% | ~226 |
-| Breaking the Ice | 18.00% | ~214 |
-| Solidarity Forever | 12.00% | ~143 |
-| A Tucked Tale | 10.00% | ~119 |
-| The best thing money can buy | 9.00% | ~107 |
-| Act III Complete | 6.00% | ~71 |
-| See you Space Cowboy | 6.00% | ~71 |
-| Fire and Brimstone | 5.00% | ~60 |
+| Breathe In… Breathe Out… | 72.00% | ~875 |
+| It’s Heating up! | 69.00% | ~838 |
+| Let’s patch things up | 65.00% | ~790 |
+| I can fix it! | 62.00% | ~753 |
+| Post No Bills | 54.00% | ~656 |
+| Truly Shocking! | 48.00% | ~583 |
+| Critical Thinker | 36.00% | ~437 |
+| Act I Complete | 30.00% | ~364 |
+| Always Finding Your Mark | 29.00% | ~352 |
+| A drop in the Ocean | 29.00% | ~352 |
+| The Weight of the World | 29.00% | ~352 |
+| No Niños | 27.00% | ~328 |
+| I ain’t afraid of no Ghost | 25.00% | ~304 |
+| Act II Complete | 21.00% | ~255 |
+| A successful procedure! | 19.00% | ~231 |
+| Bing Bang BOOM | 19.00% | ~231 |
+| Breaking the Ice | 19.00% | ~231 |
+| Solidarity Forever | 12.00% | ~146 |
+| A Tucked Tale | 10.00% | ~122 |
+| The best thing money can buy | 10.00% | ~122 |
+| Act III Complete | 7.00% | ~85 |
+| Fire and Brimstone | 6.00% | ~73 |
+| See you Space Cowboy | 6.00% | ~73 |
 | Ghost in the Ship | 2.00% | ~24 |
-| Disagree and Commit | 0.10% | ~1 |
+| Disagree and Commit | 0.20% | ~2 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,191 (Ranked 378)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1,215 (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -214,6 +214,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,122 | 0 |
 | 2024-04-10 | 1,141 | 0 |
 | 2024-06-17 | 1,191 | 0 |
+| 2024-08-09 | 1,215 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

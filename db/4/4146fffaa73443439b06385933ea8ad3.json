@@ -2,10 +2,10 @@
   "ID": "4146fffaa73443439b06385933ea8ad3",
   "Name": "Bridge Constructor Stunts",
   "ProductSlug": "bridge-constructor-stunts-da814c",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-12-08T16:00:00+00:00",
     "PcReleaseDate": "2016-02-23T07:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-28T07:57:16.2016869+00:00",
   "LastUpdate_AppInfo": "2024-08-03T10:57:11.9451451+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:03.4603251+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:04.5562329+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:50.1706906+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:33.3469233+00:00"
 }

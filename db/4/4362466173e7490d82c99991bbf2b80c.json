@@ -2,10 +2,10 @@
   "ID": "4362466173e7490d82c99991bbf2b80c",
   "Name": "Rise Of Anupet",
   "ProductSlug": "rise-of-anupet-b02993",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-04T01:25:26.986+00:00",
     "PcReleaseDate": "2024-07-04T01:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-03T16:57:01.4864311+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:10.6747983+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:11.6688753+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:51.223762+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:44.7460909+00:00"
 }

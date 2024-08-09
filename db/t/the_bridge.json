@@ -5,10 +5,10 @@
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 676,
-  "Ranking_EOS_Progress": 99,
-  "Ranking_EOS_Completed": 387,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 100,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2013-02-22T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -331,11 +331,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 169555,
-  "EOS_Completed": 257,
+  "EOS_Progressed": 176424,
+  "EOS_Completed": 305,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:09:26.5019627+00:00",
@@ -351,6 +351,11 @@
       "Time": "2024-06-17T16:12:59.6293794+00:00",
       "NumProgressed": 169555,
       "NumCompleted": 257
+    },
+    {
+      "Time": "2024-08-09T18:03:47.5304892+00:00",
+      "NumProgressed": 176424,
+      "NumCompleted": 305
     }
   ],
   "AchievementsAdded": "2024-03-21T17:09:26.5019663+00:00",
@@ -361,9 +366,9 @@
       "ID": "Academic",
       "SetID": "bl94o66",
       "Name": "Academic",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 32215
+      "UsersEstimate": 35285
     },
     {
       "ID": "AftermathInverter",
@@ -371,7 +376,7 @@
       "Name": "Aftermath-Inverter",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 13564
+      "UsersEstimate": 14114
     },
     {
       "ID": "Bridgewalker",
@@ -379,7 +384,7 @@
       "Name": "Bridgewalker",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3528
     },
     {
       "ID": "Catcher",
@@ -387,7 +392,7 @@
       "Name": "Catcher",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1764
     },
     {
       "ID": "Challenger",
@@ -395,7 +400,7 @@
       "Name": "Challenger",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3528
     },
     {
       "ID": "Collector",
@@ -403,7 +408,7 @@
       "Name": "Collector",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 353
     },
     {
       "ID": "CorridorInverter",
@@ -411,7 +416,7 @@
       "Name": "Corridor-Inverter",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1764
     },
     {
       "ID": "GardenInverter",
@@ -419,15 +424,15 @@
       "Name": "Garden-Inverter",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 339
+      "UsersEstimate": 353
     },
     {
       "ID": "Genius",
       "SetID": "bl94o66",
       "Name": "Genius",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 509
+      "UsersEstimate": 706
     },
     {
       "ID": "Heretic",
@@ -435,15 +440,15 @@
       "Name": "Heretic",
       "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1588
     },
     {
       "ID": "Hermit",
       "SetID": "bl94o66",
       "Name": "Hermit",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 848
+      "UsersEstimate": 1059
     },
     {
       "ID": "Outcast",
@@ -451,7 +456,7 @@
       "Name": "Outcast",
       "Percentage": 0.7,
       "XP": 60,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1235
     },
     {
       "ID": "Plummeter",
@@ -459,23 +464,23 @@
       "Name": "Plummeter",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3391
+      "UsersEstimate": 3528
     },
     {
       "ID": "Refrainer",
       "SetID": "bl94o66",
       "Name": "Refrainer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 678
+      "UsersEstimate": 882
     },
     {
       "ID": "Runner",
       "SetID": "bl94o66",
       "Name": "Runner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5087
+      "UsersEstimate": 7057
     },
     {
       "ID": "Scholar",
@@ -483,23 +488,23 @@
       "Name": "Scholar",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 16956
+      "UsersEstimate": 17642
     },
     {
       "ID": "Slider",
       "SetID": "bl94o66",
       "Name": "Slider",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 529
     },
     {
       "ID": "Thinker",
       "SetID": "bl94o66",
       "Name": "Thinker",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 71213
+      "UsersEstimate": 75862
     },
     {
       "ID": "Visionary",
@@ -507,31 +512,31 @@
       "Name": "Visionary",
       "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 509
+      "UsersEstimate": 529
     },
     {
       "ID": "Whisperer",
       "SetID": "bl94o66",
       "Name": "Whisperer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 509
+      "UsersEstimate": 706
     }
   ],
   "AchievementSets": [
     {
       "ID": "bl94o66",
       "IsBase": true,
-      "Progressed": 169555,
-      "Completed": 257
+      "Progressed": 176424,
+      "Completed": 305
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.769788+00:00",
   "FirstSeenRating": "2023-03-31T05:57:36.1011646+00:00",
   "FirstSeenAchievements": "2024-03-21T17:09:26.5019662+00:00",
   "LastChanged": "2024-08-02T22:58:19.9334661+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:12:59.629379+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:47.530489+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:16.9033649+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:43.0008229+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:59.6293925+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:37.7762886+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:47.5304996+00:00"
 }

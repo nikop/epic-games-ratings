@@ -2,10 +2,10 @@
   "ID": "04db5160b1fa4fb9acd8f8603f65e12d",
   "Name": "Your Computer Might Be At Risk",
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
-  "Ranking_EOS_Progress": 916,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 945,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-28T12:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -64,6 +64,11 @@
       "Time": "2024-06-17T16:10:59.9780445+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:02:58.8972547+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-06T23:07:53.4814974+00:00",
@@ -74,7 +79,7 @@
       "ID": "0_0",
       "SetID": "92c5pfn",
       "Name": "0.0%",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -82,7 +87,7 @@
       "ID": "ALL_EYES_ON_ME",
       "SetID": "92c5pfn",
       "Name": "All eyes on me",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "ALMOST",
       "SetID": "92c5pfn",
       "Name": "Almost",
-      "Percentage": 78,
+      "Percentage": 70,
       "XP": 45,
       "UsersEstimate": 7
     },
@@ -106,7 +111,7 @@
       "ID": "BASIC_NEED",
       "SetID": "92c5pfn",
       "Name": "Basic need",
-      "Percentage": 78,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -122,7 +127,7 @@
       "ID": "BODY_CLEAN",
       "SetID": "92c5pfn",
       "Name": "Clean body, clean mind",
-      "Percentage": 67,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -138,7 +143,7 @@
       "ID": "BURN",
       "SetID": "92c5pfn",
       "Name": "Burn",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "BZZZ",
       "SetID": "92c5pfn",
       "Name": "Bzzz",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -154,7 +159,7 @@
       "ID": "CLEANING_OUT_MY_CLOSET",
       "SetID": "92c5pfn",
       "Name": "Cleaning out my closet",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "CURIOUS",
       "SetID": "92c5pfn",
       "Name": "Curious",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -178,7 +183,7 @@
       "ID": "DARK_MODE",
       "SetID": "92c5pfn",
       "Name": "Dark Mode",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "ESCAPE",
       "SetID": "92c5pfn",
       "Name": "Escape",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -194,7 +199,7 @@
       "ID": "EUTHANASIA",
       "SetID": "92c5pfn",
       "Name": "Euthanasia",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "HAND_CARE",
       "SetID": "92c5pfn",
       "Name": "Take care of those hands",
-      "Percentage": 78,
+      "Percentage": 70,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -210,7 +215,7 @@
       "ID": "HEARTBREAKER",
       "SetID": "92c5pfn",
       "Name": "Heartbreaker",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -218,7 +223,7 @@
       "ID": "IN_THE_FLESH",
       "SetID": "92c5pfn",
       "Name": "In the flesh",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -226,7 +231,7 @@
       "ID": "LA_RATA_ESCARLATA",
       "SetID": "92c5pfn",
       "Name": "La Rata Escarlata",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -234,7 +239,7 @@
       "ID": "MERRY_CHRISTMAS",
       "SetID": "92c5pfn",
       "Name": "Merry Christmas",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -242,7 +247,7 @@
       "ID": "NO_TRACE",
       "SetID": "92c5pfn",
       "Name": "Leave no trace",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -250,7 +255,7 @@
       "ID": "PERFECT",
       "SetID": "92c5pfn",
       "Name": "Perfect",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -258,7 +263,7 @@
       "ID": "PLUMBING_COURSE",
       "SetID": "92c5pfn",
       "Name": "Plumbing course",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -266,7 +271,7 @@
       "ID": "PROFESSIONAL",
       "SetID": "92c5pfn",
       "Name": "Professional",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -274,7 +279,7 @@
       "ID": "RECKLESS",
       "SetID": "92c5pfn",
       "Name": "Reckless",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "SUDOKU_KING",
       "SetID": "92c5pfn",
       "Name": "Sudoku king",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -306,7 +311,7 @@
       "ID": "THATS_ALL",
       "SetID": "92c5pfn",
       "Name": "That\u0027s all?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -314,7 +319,7 @@
       "ID": "THE_BOX",
       "SetID": "92c5pfn",
       "Name": "The box",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 45,
       "UsersEstimate": 5
     },
@@ -322,7 +327,7 @@
       "ID": "TLALOC",
       "SetID": "92c5pfn",
       "Name": "Tlaloc",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -330,7 +335,7 @@
       "ID": "WAS_ANYTHING_REAL",
       "SetID": "92c5pfn",
       "Name": "Was anything real?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -338,7 +343,7 @@
       "ID": "WHERE_HAVE_YOU_BEEN",
       "SetID": "92c5pfn",
       "Name": "Where have you been?",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -346,7 +351,7 @@
       "ID": "WHICH_WILL",
       "SetID": "92c5pfn",
       "Name": "Which will",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -362,7 +367,7 @@
       "ID": "YOU_MIGHT_BE_AT_RISK",
       "SetID": "92c5pfn",
       "Name": "You Might Be At Risk",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -371,14 +376,14 @@
     {
       "ID": "92c5pfn",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-28T02:23:17.9466472+00:00",
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:59.978044+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:58.8972538+00:00",
   "LastUpdate_AppInfo": "2024-08-05T23:57:30.1157509+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:33.8813861+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:59.9780675+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:29.3066932+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:58.8972775+00:00"
 }

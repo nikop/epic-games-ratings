@@ -5,30 +5,30 @@ Rating: 4.29 (Ranked 996)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~2,819 |
-| Big Spender | 53.00% | ~2,716 |
-| MVP | 53.00% | ~2,716 |
-| Stud Finder | 40.00% | ~2,050 |
-| Dealmaker | 38.00% | ~1,948 |
-| ROTY | 32.00% | ~1,640 |
-| Roster Reshuffle | 31.00% | ~1,589 |
-| Future of the Franchise | 19.00% | ~974 |
-| Throwin’ Dots | 18.00% | ~922 |
-| Already in Progress | 17.00% | ~871 |
-| Primetime | 16.00% | ~820 |
-| Change of Scenery | 16.00% | ~820 |
-| Pro Bowler | 16.00% | ~820 |
-| Unblockable | 9.00% | ~461 |
-| Pocket Ace | 6.00% | ~308 |
-| Lockdown Corner | 5.00% | ~256 |
-| Head-to-Head | 5.00% | ~256 |
-| Gain Train | 1.00% | ~51 |
-| Ol' Reliable | 0.80% | ~41 |
-| Lockdown Leader | 0.50% | ~26 |
-| The Fortress | 0.40% | ~20 |
+| Bragging Rights | 55.00% | ~2,883 |
+| MVP | 54.00% | ~2,830 |
+| Big Spender | 53.00% | ~2,778 |
+| Stud Finder | 40.00% | ~2,096 |
+| Dealmaker | 38.00% | ~1,992 |
+| ROTY | 32.00% | ~1,677 |
+| Roster Reshuffle | 32.00% | ~1,677 |
+| Future of the Franchise | 19.00% | ~996 |
+| Throwin’ Dots | 18.00% | ~943 |
+| Already in Progress | 17.00% | ~891 |
+| Primetime | 16.00% | ~839 |
+| Change of Scenery | 16.00% | ~839 |
+| Pro Bowler | 16.00% | ~839 |
+| Unblockable | 9.00% | ~472 |
+| Pocket Ace | 6.00% | ~314 |
+| Lockdown Corner | 5.00% | ~262 |
+| Head-to-Head | 5.00% | ~262 |
+| Gain Train | 1.00% | ~52 |
+| Ol' Reliable | 0.80% | ~42 |
+| Lockdown Leader | 0.60% | ~31 |
+| The Fortress | 0.40% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,125 (Ranked 264)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 5,241 (Ranked 274)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,10 +166,11 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 4,932 | 0 |
 | 2024-04-10 | 4,992 | 0 |
 | 2024-06-17 | 5,125 | 0 |
+| 2024-08-09 | 5,241 | 0 |
 ## Awards
-Max (Diverse Characters): 63  (Ranked 504)  
+Max (Diverse Characters): 63  (Ranked 505)  
 Sum: 284 (Ranked 458)  
-Diff (max vs sum): 46  
+Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 63 |

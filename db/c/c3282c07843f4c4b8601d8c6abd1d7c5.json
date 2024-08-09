@@ -2,10 +2,10 @@
   "ID": "c3282c07843f4c4b8601d8c6abd1d7c5",
   "Name": "FRACTALS OF DESTINY",
   "ProductSlug": "fractals-of-destiny-afbda4",
-  "Ranking_EOS_Progress": 1045,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1085,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-07-28T01:00:00+00:00",
@@ -42,17 +42,17 @@
       "ID": "ACH_CHALLENGER",
       "SetID": "2m9do4f",
       "Name": "The Challenger",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_JOYFULGAME",
       "SetID": "2m9do4f",
       "Name": "Fun Game",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_KINDGENERAL",
@@ -74,9 +74,9 @@
       "ID": "ACH_RICHPEOPLE",
       "SetID": "2m9do4f",
       "Name": "Nouveau Riche",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 175,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SKY_GUARDIAN",
@@ -98,9 +98,9 @@
       "ID": "ACH_TROOP_SLAYER",
       "SetID": "2m9do4f",
       "Name": "Clear the Way",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -112,8 +112,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-22T01:44:07.1414242+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:49.171951+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:30.9425833+00:00",
   "LastUpdate_AppInfo": "2024-08-03T04:57:33.1212548+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:50.1128284+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:49.1719585+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:45.1266454+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:30.9425907+00:00"
 }

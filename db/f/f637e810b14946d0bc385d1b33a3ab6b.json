@@ -2,10 +2,10 @@
   "ID": "f637e810b14946d0bc385d1b33a3ab6b",
   "Name": "Space Will",
   "ProductSlug": "space-will-bfe98b",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1002,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-10T04:00:00+00:00",
     "PcReleaseDate": "2024-07-17T04:00:00+00:00",
@@ -23,17 +23,834 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:06:49.7281197+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:06:49.7281211+00:00",
+  "TotalAchievements": 100,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_CORE_01",
+      "SetID": "7me85cc",
+      "Name": "The Strongest Brave",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CORE_02",
+      "SetID": "7me85cc",
+      "Name": "Magic Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_03",
+      "SetID": "7me85cc",
+      "Name": "Stable as a rock",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_04",
+      "SetID": "7me85cc",
+      "Name": "The Eye of the Falcon",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_CORE_05",
+      "SetID": "7me85cc",
+      "Name": "God of War",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_06",
+      "SetID": "7me85cc",
+      "Name": "Agile flight",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_07",
+      "SetID": "7me85cc",
+      "Name": "Transfer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_08",
+      "SetID": "7me85cc",
+      "Name": "Becoming a master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_09",
+      "SetID": "7me85cc",
+      "Name": "Comprehensive strength",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_10",
+      "SetID": "7me85cc",
+      "Name": "Quantum research",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_CORE_11",
+      "SetID": "7me85cc",
+      "Name": "Leap Forward",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_12",
+      "SetID": "7me85cc",
+      "Name": "Interstellar Heritage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_13",
+      "SetID": "7me85cc",
+      "Name": "Stubborn as a rock",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_14",
+      "SetID": "7me85cc",
+      "Name": "Graduation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_15",
+      "SetID": "7me85cc",
+      "Name": "Ionization research",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_16",
+      "SetID": "7me85cc",
+      "Name": "Turn over a new leaf",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_17",
+      "SetID": "7me85cc",
+      "Name": "Scorching heat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_18",
+      "SetID": "7me85cc",
+      "Name": "Luck Comes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_19",
+      "SetID": "7me85cc",
+      "Name": "the way of management",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_20",
+      "SetID": "7me85cc",
+      "Name": "Stage achievements",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_21",
+      "SetID": "7me85cc",
+      "Name": "Collection Master",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_22",
+      "SetID": "7me85cc",
+      "Name": "Optimistic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_23",
+      "SetID": "7me85cc",
+      "Name": "Don\u0027t even move",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CORE_24",
+      "SetID": "7me85cc",
+      "Name": "Fighting side by side",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_25",
+      "SetID": "7me85cc",
+      "Name": "Triumph",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_26",
+      "SetID": "7me85cc",
+      "Name": "Wisdom incarnation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_27",
+      "SetID": "7me85cc",
+      "Name": "Immortal Knight",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_28",
+      "SetID": "7me85cc",
+      "Name": "Interstellar Tour",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_29",
+      "SetID": "7me85cc",
+      "Name": "Mysterious Force Field",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_30",
+      "SetID": "7me85cc",
+      "Name": "Experimental error",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_31",
+      "SetID": "7me85cc",
+      "Name": "Nanocells",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_32",
+      "SetID": "7me85cc",
+      "Name": "Scientific Miracle",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_33",
+      "SetID": "7me85cc",
+      "Name": "Laser control",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_34",
+      "SetID": "7me85cc",
+      "Name": "Flame research",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_35",
+      "SetID": "7me85cc",
+      "Name": "Cold Frost Research",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CORE_36",
+      "SetID": "7me85cc",
+      "Name": "Mist research",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_37",
+      "SetID": "7me85cc",
+      "Name": "Magic manipulation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_38",
+      "SetID": "7me85cc",
+      "Name": "Legendary",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_39",
+      "SetID": "7me85cc",
+      "Name": "Retreat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_40",
+      "SetID": "7me85cc",
+      "Name": "Release of constraints",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_41",
+      "SetID": "7me85cc",
+      "Name": "Crystal Core Fortress",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_42",
+      "SetID": "7me85cc",
+      "Name": "Shadowless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_43",
+      "SetID": "7me85cc",
+      "Name": "Gem research and development",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_44",
+      "SetID": "7me85cc",
+      "Name": "Miracle occurs",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_45",
+      "SetID": "7me85cc",
+      "Name": "Angel Descends",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_46",
+      "SetID": "7me85cc",
+      "Name": "Endless growth and vitality",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_47",
+      "SetID": "7me85cc",
+      "Name": "Storm attack",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_48",
+      "SetID": "7me85cc",
+      "Name": "Electromagnetic storm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_49",
+      "SetID": "7me85cc",
+      "Name": "Magnetic storm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_50",
+      "SetID": "7me85cc",
+      "Name": "Engineering",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_51",
+      "SetID": "7me85cc",
+      "Name": "Liberation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_52",
+      "SetID": "7me85cc",
+      "Name": "Fall",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_53",
+      "SetID": "7me85cc",
+      "Name": "Rights",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_54",
+      "SetID": "7me85cc",
+      "Name": "Magic Turning Buddha",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_55",
+      "SetID": "7me85cc",
+      "Name": "Self-awareness",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CORE_56",
+      "SetID": "7me85cc",
+      "Name": "Peaceful guardianship",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_57",
+      "SetID": "7me85cc",
+      "Name": "Victory Dawn",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_58",
+      "SetID": "7me85cc",
+      "Name": "Shadowless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CORE_59",
+      "SetID": "7me85cc",
+      "Name": "Achieve one\u0027s aspirations",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_01",
+      "SetID": "7me85cc",
+      "Name": "Slaying snakes",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_DEFEAT_02",
+      "SetID": "7me85cc",
+      "Name": "Cosmic rift",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_DEFEAT_03",
+      "SetID": "7me85cc",
+      "Name": "Satellite defense",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_04",
+      "SetID": "7me85cc",
+      "Name": "Defeat the Apostles",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_05",
+      "SetID": "7me85cc",
+      "Name": "Dangerous barrage",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_06",
+      "SetID": "7me85cc",
+      "Name": "Destruction prevention",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_07",
+      "SetID": "7me85cc",
+      "Name": "Orbital control",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_08",
+      "SetID": "7me85cc",
+      "Name": "Superalloy",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DEFEAT_09",
+      "SetID": "7me85cc",
+      "Name": "Unidentified jet",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_10",
+      "SetID": "7me85cc",
+      "Name": "Becoming a legend",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEAT_11",
+      "SetID": "7me85cc",
+      "Name": "Be careful of bees",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_DEFEAT_12",
+      "SetID": "7me85cc",
+      "Name": "Dragon Slayer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXPLORE_01",
+      "SetID": "7me85cc",
+      "Name": "Exploration \u00B7 I",
+      "Percentage": 100,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACH_EXPLORE_02",
+      "SetID": "7me85cc",
+      "Name": "Exploration \u00B7 II",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_EXPLORE_03",
+      "SetID": "7me85cc",
+      "Name": "Exploration \u00B7 III",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_EXPLORE_04",
+      "SetID": "7me85cc",
+      "Name": "Exploration \u00B7 IV",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_EXPLORE_05",
+      "SetID": "7me85cc",
+      "Name": "Exploration \u00B7 V",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_EXPLORE_06",
+      "SetID": "7me85cc",
+      "Name": "Exploration \u00B7 VI",
+      "Percentage": 50,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_EXP_01",
+      "SetID": "7me85cc",
+      "Name": "Exploring \u00B7 I",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_EXP_02",
+      "SetID": "7me85cc",
+      "Name": "Exploring \u00B7 II",
+      "Percentage": 75,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_EXP_03",
+      "SetID": "7me85cc",
+      "Name": "Exploring \u00B7 III",
+      "Percentage": 75,
+      "XP": 100,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_GALAXY_01",
+      "SetID": "7me85cc",
+      "Name": "Alpha",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_GALAXY_02",
+      "SetID": "7me85cc",
+      "Name": "Beta",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GALAXY_03",
+      "SetID": "7me85cc",
+      "Name": "Gamma",
+      "Percentage": 25,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GALAXY_04",
+      "SetID": "7me85cc",
+      "Name": "Delta",
+      "Percentage": 25,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GALAXY_05",
+      "SetID": "7me85cc",
+      "Name": "Epsilon",
+      "Percentage": 25,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GALAXY_06",
+      "SetID": "7me85cc",
+      "Name": "Zeta",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LAYOUT_01",
+      "SetID": "7me85cc",
+      "Name": "Layout \u00B7 I",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_LAYOUT_02",
+      "SetID": "7me85cc",
+      "Name": "Layout \u00B7 II",
+      "Percentage": 25,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_LAYOUT_03",
+      "SetID": "7me85cc",
+      "Name": "Layout \u00B7 III",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVEL_01",
+      "SetID": "7me85cc",
+      "Name": "Breakthrough \u00B7 I",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_LEVEL_02",
+      "SetID": "7me85cc",
+      "Name": "Breakthrough \u00B7 II",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_LEVEL_03",
+      "SetID": "7me85cc",
+      "Name": "Breakthrough \u00B7 \u2162",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_OTHER_01",
+      "SetID": "7me85cc",
+      "Name": "Evolution",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_OTHER_02",
+      "SetID": "7me85cc",
+      "Name": "Extreme Slash",
+      "Percentage": 75,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_OTHER_03",
+      "SetID": "7me85cc",
+      "Name": "Escape from death",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OTHER_04",
+      "SetID": "7me85cc",
+      "Name": "Sweeping",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OTHER_05",
+      "SetID": "7me85cc",
+      "Name": "Treatment",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OTHER_06",
+      "SetID": "7me85cc",
+      "Name": "Endurance",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OTHER_07",
+      "SetID": "7me85cc",
+      "Name": "Strike",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OTHER_08",
+      "SetID": "7me85cc",
+      "Name": "Solitude",
+      "Percentage": 25,
+      "XP": 5,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "7me85cc",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:06:49.7281211+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:49.7281194+00:00",
   "LastUpdate_AppInfo": "2024-08-07T18:57:04.5850635+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:45.7195414+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:49.7780851+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:37.6873747+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:49.7289787+00:00"
 }

@@ -1,70 +1,71 @@
 # Darksiders II Deathinitive Edition
 [Store](https://store.epicgames.com/en-US/p/darksiders2)  
 [View Rawdata](../../db/d/darksiders_ii_deathinitive_edition.json)  
-Rating: 4.57 (Ranked 529)  
+Rating: 4.57 (Ranked 528)  
 Number of Ratings: 827  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Crow Carrion | 46.00% | ~3,335 |
-| Pathfinder | 23.00% | ~1,667 |
-| Fire of the Mountain | 20.00% | ~1,450 |
-| Looks Familiar | 20.00% | ~1,450 |
-| Grim Reaping | 15.00% | ~1,087 |
-| Tears of the Mountain | 13.00% | ~942 |
-| Feeding Time | 11.00% | ~797 |
-| To Move a Mountain | 11.00% | ~797 |
-| The Spectral Touch | 10.00% | ~725 |
-| Dust to Dust | 9.00% | ~652 |
-| Heart of the Mountain | 9.00% | ~652 |
-| Tree of Life | 8.00% | ~580 |
-| By Your Command | 7.00% | ~507 |
-| The Lord of Bones | 7.00% | ~507 |
-| The Toll of Kings | 7.00% | ~507 |
-| Death Will Tear Us Apart | 5.00% | ~362 |
-| Respec Yourself | 5.00% | ~362 |
-| The Court of Bones | 5.00% | ~362 |
-| City of the Dead | 4.00% | ~290 |
-| Diamond Geezertron | 4.00% | ~290 |
-| Full Potential | 4.00% | ~290 |
-| I Can Has Cake? | 4.00% | ~290 |
-| Soul Crushing | 4.00% | ~290 |
-| The Rod of Arafel | 4.00% | ~290 |
-| A Stroll In The Demonic Park | 3.00% | ~217 |
-| Clipped Wings | 3.00% | ~217 |
-| Four My Brother | 3.00% | ~217 |
-| It's Not Over | 3.00% | ~217 |
-| Lord of the Black Stone | 3.00% | ~217 |
-| Stains of Heresy | 3.00% | ~217 |
-| Tearing Time A New One | 3.00% | ~217 |
-| The Big Boss | 3.00% | ~217 |
-| The Mad Queen | 3.00% | ~217 |
-| The Root Of Corruption | 3.00% | ~217 |
-| Like a Noss | 2.00% | ~145 |
-| A True Horseman | 0.90% | ~65 |
-| I've Brought You A Gift | 0.90% | ~65 |
-| Gnomad | 0.60% | ~43 |
-| Abracadabra | 0.50% | ~36 |
-| The Book of the Dead | 0.50% | ~36 |
-| Antiquing | 0.40% | ~29 |
-| It's Definitive | 0.40% | ~29 |
-| All You Can Eat Buffet | 0.30% | ~22 |
-| Epic! | 0.30% | ~22 |
-| Mass Ruckus | 0.30% | ~22 |
-| The Secondary Adventure | 0.30% | ~22 |
-| Is There Anyone Else? | 0.20% | ~14 |
-| The Triple Lindy | 0.20% | ~14 |
-| BFA | 0.10% | ~7 |
-| Bravo Old Chap | 0.10% | ~7 |
+| Crow Carrion | 48.00% | ~5,046 |
+| Pathfinder | 23.00% | ~2,418 |
+| Fire of the Mountain | 21.00% | ~2,208 |
+| Looks Familiar | 21.00% | ~2,208 |
+| Grim Reaping | 16.00% | ~1,682 |
+| Tears of the Mountain | 14.00% | ~1,472 |
+| Feeding Time | 12.00% | ~1,262 |
+| To Move a Mountain | 11.00% | ~1,156 |
+| The Spectral Touch | 10.00% | ~1,051 |
+| Dust to Dust | 9.00% | ~946 |
+| Heart of the Mountain | 9.00% | ~946 |
+| Tree of Life | 9.00% | ~946 |
+| The Lord of Bones | 8.00% | ~841 |
+| By Your Command | 7.00% | ~736 |
+| The Toll of Kings | 7.00% | ~736 |
+| Death Will Tear Us Apart | 6.00% | ~631 |
+| The Court of Bones | 6.00% | ~631 |
+| City of the Dead | 5.00% | ~526 |
+| Respec Yourself | 5.00% | ~526 |
+| Soul Crushing | 5.00% | ~526 |
+| Clipped Wings | 4.00% | ~421 |
+| Diamond Geezertron | 4.00% | ~421 |
+| Full Potential | 4.00% | ~421 |
+| It's Not Over | 4.00% | ~421 |
+| I Can Has Cake? | 4.00% | ~421 |
+| Lord of the Black Stone | 4.00% | ~421 |
+| Stains of Heresy | 4.00% | ~421 |
+| Tearing Time A New One | 4.00% | ~421 |
+| The Mad Queen | 4.00% | ~421 |
+| The Rod of Arafel | 4.00% | ~421 |
+| The Root Of Corruption | 4.00% | ~421 |
+| A Stroll In The Demonic Park | 3.00% | ~315 |
+| Four My Brother | 3.00% | ~315 |
+| The Big Boss | 3.00% | ~315 |
+| Like a Noss | 2.00% | ~210 |
+| A True Horseman | 1.00% | ~105 |
+| I've Brought You A Gift | 1.00% | ~105 |
+| Gnomad | 0.80% | ~84 |
+| Abracadabra | 0.60% | ~63 |
+| It's Definitive | 0.60% | ~63 |
+| The Book of the Dead | 0.60% | ~63 |
+| All You Can Eat Buffet | 0.40% | ~42 |
+| Antiquing | 0.40% | ~42 |
+| Epic! | 0.40% | ~42 |
+| Mass Ruckus | 0.30% | ~32 |
+| The Secondary Adventure | 0.30% | ~32 |
+| Bravo Old Chap | 0.20% | ~21 |
+| Is There Anyone Else? | 0.20% | ~21 |
+| The Triple Lindy | 0.20% | ~21 |
+| BFA | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,249 (Ranked 247)  
-Completed: 6 (0.08%) (Ranked 424)  
+Progressed: 10,513 (Ranked 242)  
+Completed: 11 (0.10%) (Ranked 432)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 813 | 0 |
 | 2024-04-10 | 2,421 | 1 |
 | 2024-06-17 | 7,249 | 6 |
+| 2024-08-09 | 10,513 | 11 |
 ## Awards
 Max (Character Customization): 455  (Ranked 267)  
 Sum: 782 (Ranked 351)  

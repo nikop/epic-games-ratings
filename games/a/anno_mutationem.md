@@ -5,45 +5,45 @@ Rating: 4.60 (Ranked 463)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~691 |
-| Don't judge a manhole by its cover | 60.00% | ~553 |
-| Keep 'em coming! | 43.00% | ~396 |
-| I just love stuff! | 42.00% | ~387 |
-| The things they print nowadays | 40.00% | ~368 |
-| Big Spender | 39.00% | ~359 |
-| That's gotta hurt | 37.00% | ~341 |
-| I think it's broke | 27.00% | ~249 |
-| The Ann Flores Combo Experience | 26.00% | ~239 |
-| Club Star | 24.00% | ~221 |
-| The Warlord | 21.00% | ~193 |
-| Fire in the hole! | 20.00% | ~184 |
-| Omnipotence | 20.00% | ~184 |
-| You are the One | 19.00% | ~175 |
-| Deadly Kombationem | 18.00% | ~166 |
-| The truth is out there | 17.00% | ~157 |
-| Annakin Skyscroller | 14.00% | ~129 |
-| Arm Wrestlin' | 10.00% | ~92 |
-| In the smacker...I think | 10.00% | ~92 |
-| 1+1>2 | 9.00% | ~83 |
-| This can't be right… | 9.00% | ~83 |
-| Supreme Bartender Ann | 8.00% | ~74 |
-| Welcome home, 06 | 8.00% | ~74 |
-| Clarity of Mind | 7.00% | ~64 |
-| I feel secure, contained & protected | 7.00% | ~64 |
-| I'm walking here! | 7.00% | ~64 |
-| So Fresh and So clean clean | 7.00% | ~64 |
-| Science, it works! | 6.00% | ~55 |
-| The Traveler | 6.00% | ~55 |
-| Woman on a (side) mission | 5.00% | ~46 |
+| Tell me your story | 75.00% | ~702 |
+| Don't judge a manhole by its cover | 61.00% | ~571 |
+| I just love stuff! | 43.00% | ~402 |
+| Keep 'em coming! | 43.00% | ~402 |
+| The things they print nowadays | 40.00% | ~374 |
+| Big Spender | 39.00% | ~365 |
+| That's gotta hurt | 37.00% | ~346 |
+| I think it's broke | 28.00% | ~262 |
+| The Ann Flores Combo Experience | 27.00% | ~253 |
+| Club Star | 25.00% | ~234 |
+| Omnipotence | 21.00% | ~197 |
+| The Warlord | 21.00% | ~197 |
+| Fire in the hole! | 20.00% | ~187 |
+| You are the One | 20.00% | ~187 |
+| Deadly Kombationem | 19.00% | ~178 |
+| The truth is out there | 17.00% | ~159 |
+| Annakin Skyscroller | 14.00% | ~131 |
+| In the smacker...I think | 11.00% | ~103 |
+| Arm Wrestlin' | 10.00% | ~94 |
+| 1+1>2 | 10.00% | ~94 |
+| This can't be right… | 9.00% | ~84 |
+| Supreme Bartender Ann | 8.00% | ~75 |
+| Welcome home, 06 | 8.00% | ~75 |
+| Clarity of Mind | 7.00% | ~66 |
+| I feel secure, contained & protected | 7.00% | ~66 |
+| I'm walking here! | 7.00% | ~66 |
+| So Fresh and So clean clean | 7.00% | ~66 |
+| Science, it works! | 6.00% | ~56 |
+| The Traveler | 6.00% | ~56 |
+| Woman on a (side) mission | 5.00% | ~47 |
 | Ann ULTRA | 3.00% | ~28 |
 | Lady Luck is a cool cat | 3.00% | ~28 |
-| SERENITY NOW | 2.00% | ~18 |
-| I just got real good | 2.00% | ~18 |
+| SERENITY NOW | 2.00% | ~19 |
+| I just got real good | 2.00% | ~19 |
 | Love me like I love my posters | 1.00% | ~9 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 936 (Ranked 410)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,6 +182,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 885 | 0 |
 | 2024-04-10 | 895 | 0 |
 | 2024-06-17 | 921 | 0 |
+| 2024-08-09 | 936 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

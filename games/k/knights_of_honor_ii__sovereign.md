@@ -5,109 +5,109 @@ Rating: 4.38 (Ranked 893)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Can’t Touch This | 40.00% | ~940 |
-| Help! Help! I’m being repressed | 38.00% | ~893 |
-| Path of Glory | 37.00% | ~870 |
-| Hail to the King, Baby | 35.00% | ~823 |
-| Bring it on! | 32.00% | ~752 |
-| They Got What They Deserved | 31.00% | ~729 |
-| There is no Nobility in Poverty | 30.00% | ~705 |
-| Full House | 25.00% | ~588 |
-| Playerxander the Great | 25.00% | ~588 |
-| The finest merchandise this side of river Jordan | 24.00% | ~564 |
-| Big Apple | 19.00% | ~447 |
-| Dinner Time | 16.00% | ~376 |
-| What we’ve got here is failure to communicate | 16.00% | ~376 |
-| Call the Boys | 15.00% | ~353 |
-| Cut-Me-Own-Throat | 15.00% | ~353 |
-| All the King's Men | 14.00% | ~329 |
-| Blinded by Science | 14.00% | ~329 |
-| ‘Tis but a scratch | 14.00% | ~329 |
-| Black Sheep Wall | 13.00% | ~306 |
-| Learn Me a Book | 13.00% | ~306 |
-| Forth, Eorlingas! | 12.00% | ~282 |
-| He made it out, but with an arrow in his back | 12.00% | ~282 |
-| Do you read Sutter Cane? | 11.00% | ~259 |
-| Dust and Salt | 11.00% | ~259 |
-| Greed is Good | 11.00% | ~259 |
-| Let Us Pray | 11.00% | ~259 |
-| Let us trade with these fine people | 11.00% | ~259 |
-| On the third day at dawn, look east | 11.00% | ~259 |
-| Pillars of the Earth | 11.00% | ~259 |
-| The Magnificent Nine | 11.00% | ~259 |
-| Vlad the Impaler | 11.00% | ~259 |
-| Desperate Times Call for Desperate Measures | 10.00% | ~235 |
-| His name is King | 10.00% | ~235 |
-| Kingslayer | 10.00% | ~235 |
-| Naught but a Seamless Victory | 10.00% | ~235 |
-| Scientia potentia es | 10.00% | ~235 |
-| A Quiet Palace | 9.00% | ~212 |
-| Blessed Be His Name | 9.00% | ~212 |
-| His All-Holiness | 9.00% | ~212 |
-| Brutus | 8.00% | ~188 |
-| Time to find India | 8.00% | ~188 |
-| Battle of the Four Armies | 7.00% | ~165 |
-| Buyin' the Dip | 7.00% | ~165 |
-| I started a joke | 7.00% | ~165 |
-| Ibn Battuta | 7.00% | ~165 |
-| Fight Another Day | 7.00% | ~165 |
-| New Mineland | 7.00% | ~165 |
-| Power Overwhelming | 7.00% | ~165 |
-| Fighting with Power and Steel | 6.00% | ~141 |
-| Master of Puppets | 6.00% | ~141 |
-| You reap what you sow | 6.00% | ~141 |
-| Crusader “you know what” | 5.00% | ~118 |
-| Renaissance Man | 5.00% | ~118 |
-| Spartacus | 5.00% | ~118 |
-| Ashes to Ashes | 4.00% | ~94 |
-| Prison Break | 4.00% | ~94 |
-| The Merchant of Venice | 4.00% | ~94 |
-| Why is there no culture victory?! | 4.00% | ~94 |
-| You are not the boss of me now | 4.00% | ~94 |
-| His Holiness | 3.00% | ~71 |
-| I am the senate | 3.00% | ~71 |
-| Lord of the Kings | 3.00% | ~71 |
-| Open Your Eyes | 3.00% | ~71 |
-| Prince Ali! Fabulous he! | 3.00% | ~71 |
-| Together We Stand | 3.00% | ~71 |
-| From Rags to Riches | 2.00% | ~47 |
-| Genghis Khan | 2.00% | ~47 |
-| Hail and Kill | 2.00% | ~47 |
-| Holy Trinity | 2.00% | ~47 |
-| I’ll Be Back | 2.00% | ~47 |
-| Kingdom Fall: Disappearance | 2.00% | ~47 |
-| The Antipope | 2.00% | ~47 |
-| Crusade Invoker, no Regret | 1.00% | ~24 |
-| The New World Order | 1.00% | ~24 |
-| Liberty or Death! | 0.90% | ~21 |
-| Game of Thorns | 0.80% | ~19 |
-| A Leinster always pays his debts | 0.60% | ~14 |
-| Everything the light touches is our kingdom | 0.50% | ~12 |
-| Import is my second nature | 0.50% | ~12 |
-| Our Arrows Will Blot Out the Sun | 0.50% | ~12 |
-| Zerg Rush | 0.40% | ~9 |
-| Join the Dark Side | 0.40% | ~9 |
-| I got a knight in Paris, I got a knight in Rome | 0.30% | ~7 |
-| This is why we're here: Unobtanium | 0.30% | ~7 |
-| We want the money, Playerowski | 0.30% | ~7 |
-| You’re Not My Real Dad | 0.30% | ~7 |
-| How much for Greenland? | 0.20% | ~5 |
-| Valhalla Awaits Me | 0.20% | ~5 |
-| You dare challenge the Salamanca? | 0.20% | ~5 |
-| Edge of the World | 0.10% | ~2 |
-| Crom, I have never prayed to you before | 0.10% | ~2 |
-| Die By My Hand | 0.10% | ~2 |
-| Probably Just the Wind | 0.10% | ~2 |
-| The Beginning of a Beautiful Friendship | 0.10% | ~2 |
-| We Are the Champions | 0.10% | ~2 |
-| Where’s your crown, king Nothing? | 0.10% | ~2 |
+| Can’t Touch This | 38.00% | ~1,131 |
+| Help! Help! I’m being repressed | 36.00% | ~1,072 |
+| Path of Glory | 36.00% | ~1,072 |
+| Hail to the King, Baby | 33.00% | ~982 |
+| Bring it on! | 30.00% | ~893 |
+| They Got What They Deserved | 29.00% | ~863 |
+| There is no Nobility in Poverty | 28.00% | ~834 |
+| Full House | 24.00% | ~714 |
+| Playerxander the Great | 24.00% | ~714 |
+| The finest merchandise this side of river Jordan | 23.00% | ~685 |
+| Big Apple | 18.00% | ~536 |
+| Dinner Time | 16.00% | ~476 |
+| Call the Boys | 15.00% | ~447 |
+| What we’ve got here is failure to communicate | 15.00% | ~447 |
+| All the King's Men | 14.00% | ~417 |
+| Blinded by Science | 14.00% | ~417 |
+| Cut-Me-Own-Throat | 14.00% | ~417 |
+| ‘Tis but a scratch | 14.00% | ~417 |
+| Learn Me a Book | 13.00% | ~387 |
+| Black Sheep Wall | 12.00% | ~357 |
+| Do you read Sutter Cane? | 11.00% | ~327 |
+| Forth, Eorlingas! | 11.00% | ~327 |
+| He made it out, but with an arrow in his back | 11.00% | ~327 |
+| Let Us Pray | 11.00% | ~327 |
+| Vlad the Impaler | 11.00% | ~327 |
+| Desperate Times Call for Desperate Measures | 10.00% | ~298 |
+| Dust and Salt | 10.00% | ~298 |
+| Greed is Good | 10.00% | ~298 |
+| Kingslayer | 10.00% | ~298 |
+| Let us trade with these fine people | 10.00% | ~298 |
+| Naught but a Seamless Victory | 10.00% | ~298 |
+| On the third day at dawn, look east | 10.00% | ~298 |
+| Pillars of the Earth | 10.00% | ~298 |
+| Scientia potentia es | 10.00% | ~298 |
+| The Magnificent Nine | 10.00% | ~298 |
+| A Quiet Palace | 9.00% | ~268 |
+| Blessed Be His Name | 9.00% | ~268 |
+| His name is King | 9.00% | ~268 |
+| His All-Holiness | 8.00% | ~238 |
+| Time to find India | 8.00% | ~238 |
+| Battle of the Four Armies | 7.00% | ~208 |
+| Brutus | 7.00% | ~208 |
+| Buyin' the Dip | 7.00% | ~208 |
+| I started a joke | 7.00% | ~208 |
+| Ibn Battuta | 7.00% | ~208 |
+| Fight Another Day | 7.00% | ~208 |
+| New Mineland | 7.00% | ~208 |
+| Power Overwhelming | 7.00% | ~208 |
+| Master of Puppets | 6.00% | ~179 |
+| You reap what you sow | 6.00% | ~179 |
+| Crusader “you know what” | 5.00% | ~149 |
+| Fighting with Power and Steel | 5.00% | ~149 |
+| Renaissance Man | 5.00% | ~149 |
+| Ashes to Ashes | 4.00% | ~119 |
+| Prison Break | 4.00% | ~119 |
+| Spartacus | 4.00% | ~119 |
+| The Merchant of Venice | 4.00% | ~119 |
+| Why is there no culture victory?! | 4.00% | ~119 |
+| You are not the boss of me now | 4.00% | ~119 |
+| His Holiness | 3.00% | ~89 |
+| I am the senate | 3.00% | ~89 |
+| Lord of the Kings | 3.00% | ~89 |
+| Open Your Eyes | 3.00% | ~89 |
+| Together We Stand | 3.00% | ~89 |
+| From Rags to Riches | 2.00% | ~60 |
+| Genghis Khan | 2.00% | ~60 |
+| Hail and Kill | 2.00% | ~60 |
+| Holy Trinity | 2.00% | ~60 |
+| I’ll Be Back | 2.00% | ~60 |
+| Kingdom Fall: Disappearance | 2.00% | ~60 |
+| Prince Ali! Fabulous he! | 2.00% | ~60 |
+| The Antipope | 2.00% | ~60 |
+| The New World Order | 2.00% | ~60 |
+| Crusade Invoker, no Regret | 1.00% | ~30 |
+| Game of Thorns | 0.90% | ~27 |
+| Liberty or Death! | 0.80% | ~24 |
+| Import is my second nature | 0.60% | ~18 |
+| Our Arrows Will Blot Out the Sun | 0.60% | ~18 |
+| A Leinster always pays his debts | 0.50% | ~15 |
+| Everything the light touches is our kingdom | 0.50% | ~15 |
+| Join the Dark Side | 0.50% | ~15 |
+| Zerg Rush | 0.40% | ~12 |
+| I got a knight in Paris, I got a knight in Rome | 0.40% | ~12 |
+| We want the money, Playerowski | 0.40% | ~12 |
+| This is why we're here: Unobtanium | 0.30% | ~9 |
+| You’re Not My Real Dad | 0.30% | ~9 |
+| How much for Greenland? | 0.20% | ~6 |
+| Valhalla Awaits Me | 0.20% | ~6 |
+| Edge of the World | 0.10% | ~3 |
+| Crom, I have never prayed to you before | 0.10% | ~3 |
+| Die By My Hand | 0.10% | ~3 |
+| Probably Just the Wind | 0.10% | ~3 |
+| Ragnarok | 0.10% | ~3 |
+| The Beginning of a Beautiful Friendship | 0.10% | ~3 |
+| Two Sides to Every Story | 0.10% | ~3 |
+| We Are the Champions | 0.10% | ~3 |
+| Where’s your crown, king Nothing? | 0.10% | ~3 |
+| You dare challenge the Salamanca? | 0.10% | ~3 |
 | Freeeedom! | 0.00% | ~0 |
 | Ragium quitos? | 0.00% | ~0 |
-| Ragnarok | 0.00% | ~0 |
-| Two Sides to Every Story | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,351 (Ranked 322)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,977 (Ranked 316)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,262 | 0 |
 | 2024-04-10 | 1,513 | 0 |
 | 2024-06-17 | 2,351 | 0 |
+| 2024-08-09 | 2,977 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

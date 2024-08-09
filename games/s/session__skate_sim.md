@@ -6,57 +6,57 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 66.00% | ~2,955 |
-| Keeping it classy | 28.00% | ~1,254 |
-| Welcome to the family | 21.00% | ~940 |
-| The finer things in life | 20.00% | ~896 |
-| Backpacker | 14.00% | ~627 |
-| Go with the Flow | 13.00% | ~582 |
-| The hard way | 11.00% | ~493 |
-| Plastic Surgeon | 10.00% | ~448 |
-| The flip trick crown jewel | 10.00% | ~448 |
-| Upfront shredder | 10.00% | ~448 |
-| Good vibes | 9.00% | ~403 |
-| Keep the dream alive | 9.00% | ~403 |
-| Bottom ply killer | 8.00% | ~358 |
-| That pinch! | 8.00% | ~358 |
-| Tight lipslides | 8.00% | ~358 |
-| Fashionista | 7.00% | ~313 |
-| Finally he zips it | 7.00% | ~313 |
-| Fulfilled the dream | 6.00% | ~269 |
-| G'Day Mate! | 6.00% | ~269 |
-| Laid back | 6.00% | ~269 |
-| NAHELL! | 6.00% | ~269 |
-| Purple passion | 6.00% | ~269 |
-| Squad goals | 6.00% | ~269 |
-| Sup widdit big dog! | 6.00% | ~269 |
-| Commence the Hijinx! | 5.00% | ~224 |
-| Cops called! | 5.00% | ~224 |
-| DIY Boss | 5.00% | ~224 |
-| Globetrotter | 5.00% | ~224 |
-| Lines for days | 5.00% | ~224 |
-| Manny Destroys All | 5.00% | ~224 |
-| Renaissance man | 5.00% | ~224 |
-| Trick shot marksman | 5.00% | ~224 |
-| We get it, you're good | 5.00% | ~224 |
-| G.O.A.T. status | 4.00% | ~179 |
-| Hoarder | 4.00% | ~179 |
-| Pew-Pew | 4.00% | ~179 |
-| Prince of Philly | 4.00% | ~179 |
-| Tank commander | 4.00% | ~179 |
-| Cross lock country | 3.00% | ~134 |
-| Many plys later... | 3.00% | ~134 |
-| Dipped! | 2.00% | ~90 |
-| That was wheelie fun | 2.00% | ~90 |
-| Skatepark hero | 1.00% | ~45 |
-| That's how it's done! | 0.20% | ~9 |
-| Bing Bong! | 0.10% | ~4 |
-| Golden! | 0.10% | ~4 |
-| Loves You Back | 0.10% | ~4 |
-| Ultimate skate nerd | 0.10% | ~4 |
+| You're free now! | 66.00% | ~3,106 |
+| Keeping it classy | 28.00% | ~1,318 |
+| Welcome to the family | 22.00% | ~1,035 |
+| The finer things in life | 21.00% | ~988 |
+| Backpacker | 14.00% | ~659 |
+| Go with the Flow | 13.00% | ~612 |
+| Plastic Surgeon | 11.00% | ~518 |
+| The flip trick crown jewel | 11.00% | ~518 |
+| The hard way | 11.00% | ~518 |
+| Upfront shredder | 10.00% | ~471 |
+| Good vibes | 9.00% | ~424 |
+| Keep the dream alive | 9.00% | ~424 |
+| Bottom ply killer | 8.00% | ~376 |
+| Fashionista | 8.00% | ~376 |
+| Finally he zips it | 8.00% | ~376 |
+| That pinch! | 8.00% | ~376 |
+| Tight lipslides | 8.00% | ~376 |
+| Commence the Hijinx! | 6.00% | ~282 |
+| Fulfilled the dream | 6.00% | ~282 |
+| G'Day Mate! | 6.00% | ~282 |
+| Globetrotter | 6.00% | ~282 |
+| Laid back | 6.00% | ~282 |
+| NAHELL! | 6.00% | ~282 |
+| Purple passion | 6.00% | ~282 |
+| Squad goals | 6.00% | ~282 |
+| Sup widdit big dog! | 6.00% | ~282 |
+| Cops called! | 5.00% | ~235 |
+| DIY Boss | 5.00% | ~235 |
+| Lines for days | 5.00% | ~235 |
+| Manny Destroys All | 5.00% | ~235 |
+| Renaissance man | 5.00% | ~235 |
+| Tank commander | 5.00% | ~235 |
+| Trick shot marksman | 5.00% | ~235 |
+| We get it, you're good | 5.00% | ~235 |
+| G.O.A.T. status | 4.00% | ~188 |
+| Hoarder | 4.00% | ~188 |
+| Pew-Pew | 4.00% | ~188 |
+| Prince of Philly | 4.00% | ~188 |
+| Cross lock country | 3.00% | ~141 |
+| Many plys later... | 3.00% | ~141 |
+| Dipped! | 2.00% | ~94 |
+| That was wheelie fun | 2.00% | ~94 |
+| Skatepark hero | 1.00% | ~47 |
+| Bing Bong! | 0.20% | ~9 |
+| Ultimate skate nerd | 0.20% | ~9 |
+| Golden! | 0.10% | ~5 |
+| Loves You Back | 0.10% | ~5 |
+| That's how it's done! | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,478 (Ranked 273)  
-Completed: 3 (0.07%) (Ranked 434)  
+Progressed: 4,706 (Ranked 283)  
+Completed: 3 (0.06%) (Ranked 459)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,6 +314,7 @@ Completed: 3 (0.07%) (Ranked 434)
 | 2024-03-21 | 3,980 | 2 |
 | 2024-04-10 | 4,090 | 2 |
 | 2024-06-17 | 4,478 | 3 |
+| 2024-08-09 | 4,706 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 92  (Ranked 460)  
 Sum: 773 (Ranked 353)  

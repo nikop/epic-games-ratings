@@ -2,10 +2,10 @@
   "ID": "bd7abb8b7b1b46408a4eb7de6f50b9c9",
   "Name": "Deadly Domain",
   "ProductSlug": "deadly-domain-2acb41",
-  "Ranking_EOS_Progress": 610,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 605,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-16T08:53:01.477+00:00",
     "PcReleaseDate": "2024-06-23T19:00:00+00:00",
@@ -24,16 +24,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
-  "EOS_Completed": 3,
+  "EOS_Progressed": 165,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.19,
+  "EOS_Completed_Percentage": 2.42,
   "EosHistory": [
     {
       "Time": "2024-07-09T22:02:47.1058677+00:00",
       "NumProgressed": 137,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-09T18:06:22.6550518+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:42.5639519+00:00",
@@ -46,53 +51,53 @@
       "Name": "Diamond Medal",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "GoldenMedal",
       "SetID": "1pi5ek",
       "Name": "Golden Medal",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "MedalA",
       "SetID": "1pi5ek",
       "Name": "Medal A",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "MedalB",
       "SetID": "1pi5ek",
       "Name": "Medal B",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 50
     },
     {
       "ID": "MedalSilver",
       "SetID": "1pi5ek",
       "Name": "Silver Medal",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "1pi5ek",
       "IsBase": true,
-      "Progressed": 137,
-      "Completed": 3
+      "Progressed": 165,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-06-24T09:59:19.0315881+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:42.5639519+00:00",
-  "LastChanged_Achievements": "2024-07-09T22:02:47.1058669+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:22.6550515+00:00",
   "LastUpdate_AppInfo": "2024-08-04T13:01:38.3898817+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:32.6005993+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:02:47.1060714+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:21.5599448+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:22.655056+00:00"
 }

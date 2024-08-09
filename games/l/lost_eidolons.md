@@ -5,21 +5,21 @@ Rating: 4.33 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 85.00% | ~898 |
-| First Blood | 81.00% | ~856 |
-| Ready to Learn | 78.00% | ~824 |
-| Monster Hunter | 66.00% | ~698 |
-| Earning Trust | 64.00% | ~676 |
-| Monster Slayer | 36.00% | ~381 |
-| Awakening | 29.00% | ~307 |
-| Huntmaster | 28.00% | ~296 |
-| Complete the sidequest 'Malice and Greed' | 23.00% | ~243 |
-| Digging Deep | 18.00% | ~190 |
-| House Vulisica's Heirloom | 18.00% | ~190 |
+| The First Step | 87.00% | ~915 |
+| First Blood | 83.00% | ~873 |
+| Ready to Learn | 79.00% | ~831 |
+| Monster Hunter | 68.00% | ~715 |
+| Earning Trust | 65.00% | ~684 |
+| Monster Slayer | 37.00% | ~389 |
+| Awakening | 29.00% | ~305 |
+| Huntmaster | 29.00% | ~305 |
+| Complete the sidequest 'Malice and Greed' | 24.00% | ~252 |
+| House Vulisica's Heirloom | 19.00% | ~200 |
+| Digging Deep | 18.00% | ~189 |
 | Broken Oath | 11.00% | ~116 |
-| Way of the King | 9.00% | ~95 |
+| Way of the King | 10.00% | ~105 |
+| Til We Meet Again | 6.00% | ~63 |
 | Way of the Warlord | 5.00% | ~53 |
-| Til We Meet Again | 5.00% | ~53 |
 | Arrow in the Wind | 4.00% | ~42 |
 | The Unvanquished | 3.00% | ~32 |
 | Let Us Cling Together | 3.00% | ~32 |
@@ -27,10 +27,10 @@ Rating: 4.33 (Ranked 960)
 | A Promised Voyage | 2.00% | ~21 |
 | Life or Death | 1.00% | ~11 |
 | Someone to Protect | 1.00% | ~11 |
-| Lean on Me | 0.90% | ~10 |
+| Lean on Me | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057 (Ranked 387)  
-Completed: 1 (0.09%) (Ranked 418)  
+Progressed: 1,052 (Ranked 404)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,6 +191,7 @@ Completed: 1 (0.09%) (Ranked 418)
 | 2024-03-21 | 1,088 | 1 |
 | 2024-04-10 | 1,082 | 1 |
 | 2024-06-17 | 1,057 | 1 |
+| 2024-08-09 | 1,052 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

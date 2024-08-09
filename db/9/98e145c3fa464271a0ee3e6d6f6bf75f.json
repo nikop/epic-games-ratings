@@ -2,10 +2,10 @@
   "ID": "98e145c3fa464271a0ee3e6d6f6bf75f",
   "Name": "Homaysa",
   "ProductSlug": "homaysa-460e7c",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-12-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-06T21:57:05.1281216+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:23.4156498+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:30.2347273+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:16.8279269+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:02.5142425+00:00"
 }

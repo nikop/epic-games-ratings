@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 424,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Completed": 442,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1220,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2966,6 +2966,11 @@
       "Time": "2024-06-17T16:14:53.2427278+00:00",
       "NumProgressed": 1220,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-09T18:04:35.3978092+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2993,7 +2998,7 @@
       "Name": "Bad Blood",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
@@ -3009,7 +3014,7 @@
       "Name": "Castle Of The Wolf",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_DOOMED",
@@ -3033,7 +3038,7 @@
       "Name": "First Blood",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_GEARS_OF_DOOR",
@@ -3041,7 +3046,7 @@
       "Name": "Gears of Door",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_HALF_A_LIFE",
@@ -3049,7 +3054,7 @@
       "Name": "Half a Life",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_ICE_WORK",
@@ -3057,7 +3062,7 @@
       "Name": "Ice Work",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_MAX_PAIN",
@@ -3097,7 +3102,7 @@
       "Name": "Purely Not",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_QUAKIN",
@@ -3105,7 +3110,7 @@
       "Name": "Quakin\u0027",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_RAGE_QUIT",
@@ -3145,15 +3150,15 @@
       "Name": "Shocking Bio",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -3161,7 +3166,7 @@
       "Name": "Slaving Grace",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SUCH_SIN",
@@ -3169,7 +3174,7 @@
       "Name": "Such Sin",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_TAKIN_NAMES",
@@ -3177,7 +3182,7 @@
       "Name": "Takin\u0027 Names",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_THE_KINGPIN",
@@ -3185,7 +3190,7 @@
       "Name": "The Kingpin",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_UNREAL",
@@ -3201,7 +3206,7 @@
       "Name": "Unreal 4",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_UNTIL_DUSK",
@@ -3216,7 +3221,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 1220,
+      "Progressed": 1260,
       "Completed": 1
     }
   ],
@@ -3224,8 +3229,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:53.2427273+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:35.3978089+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:30.9745404+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:49.385568+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:53.2427596+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:40.7718301+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:35.3978508+00:00"
 }

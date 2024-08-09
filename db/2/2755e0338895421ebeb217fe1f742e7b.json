@@ -2,10 +2,10 @@
   "ID": "2755e0338895421ebeb217fe1f742e7b",
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
-  "Ranking_EOS_Progress": 649,
-  "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 665,
+  "Ranking_EOS_Completed": 132,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 102,
+  "EOS_Progressed": 109,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 4.59,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -424,6 +424,11 @@
       "Time": "2024-06-17T16:15:13.1226206+00:00",
       "NumProgressed": 102,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-08-09T18:04:43.8654112+00:00",
+      "NumProgressed": 109,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 11,
@@ -433,9 +438,9 @@
       "ID": "Nocturnal_Achivement_10_Brun",
       "SetID": "329ifed",
       "Name": "Mr. Brightside",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 150,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "Nocturnal_Achivement_11_FireShrine",
@@ -449,17 +454,17 @@
       "ID": "Nocturnal_Achivement_1_Flame",
       "SetID": "329ifed",
       "Name": "Form Blazing Sword",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "Nocturnal_Achivement_2_Shrine",
       "SetID": "329ifed",
       "Name": "A Light in Dark Places",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 75
     },
     {
       "ID": "Nocturnal_Achivement_3_Azita",
@@ -467,7 +472,7 @@
       "Name": "Unfortunate Enemies",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Nocturnal_Achivement_4_Avatar",
@@ -475,7 +480,7 @@
       "Name": "Avatar Ascendant",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Nocturnal_Achivement_5_Berserker",
@@ -483,7 +488,7 @@
       "Name": "Stand Your Ground",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Nocturnal_Achivement_6_Arsia",
@@ -491,7 +496,7 @@
       "Name": "Baleful Shadow",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Nocturnal_Achivement_7_Letter",
@@ -499,7 +504,7 @@
       "Name": "Words Unspoken",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Nocturnal_Achivement_8_End",
@@ -507,29 +512,29 @@
       "Name": "A Grim Farewell",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
       "SetID": "329ifed",
       "Name": "The Torchbearer",
-      "Percentage": 66,
+      "Percentage": 64,
       "XP": 150,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "329ifed",
       "IsBase": true,
-      "Progressed": 102,
+      "Progressed": 109,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:13.1226195+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:43.865411+00:00",
   "LastUpdate_AppInfo": "2024-08-06T23:57:36.8918196+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:34.3579182+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:13.1226329+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:11.4387449+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:43.8654184+00:00"
 }

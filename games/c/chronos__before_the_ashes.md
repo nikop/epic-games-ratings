@@ -5,58 +5,59 @@ Rating: 4.15 (Ranked 1,123)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is this safe? | 73.00% | ~126 |
-| Not Your Enemy | 59.00% | ~101 |
-| It Burns! | 54.00% | ~93 |
-| Hard Choices | 52.00% | ~89 |
-| A Hidden Treasure | 49.00% | ~84 |
-| First of Many | 48.00% | ~83 |
-| Stories of Old | 36.00% | ~62 |
-| Rock Wall | 34.00% | ~58 |
-| You Can't Touch This | 34.00% | ~58 |
-| The Bigger They Are… | 34.00% | ~58 |
-| I'll take it! | 33.00% | ~57 |
-| Light our Darkest Hour… | 31.00% | ~53 |
-| All Seeing Eye | 31.00% | ~53 |
-| Like Thunder | 30.00% | ~52 |
-| Riddle me this | 30.00% | ~52 |
-| Point the Sharp End at Enemies | 29.00% | ~50 |
-| Do it yourself | 29.00% | ~50 |
-| Your Royal Highness | 28.00% | ~48 |
-| Well Read | 28.00% | ~48 |
-| More of a Buckler | 27.00% | ~46 |
-| What Evil Lurks… | 27.00% | ~46 |
-| Ball and Chain | 27.00% | ~46 |
-| Many Faces, Few Words | 27.00% | ~46 |
-| Maximum Power! | 27.00% | ~46 |
-| Continuance of Life | 26.00% | ~45 |
-| Worth It | 26.00% | ~45 |
-| A Small Momento | 25.00% | ~43 |
-| Surprisingly Spry | 24.00% | ~41 |
-| Don't Fear the Reaper | 23.00% | ~40 |
-| What is the Labyrinth? | 23.00% | ~40 |
-| Strength in Numbers | 21.00% | ~36 |
-| The Hero's Journey | 19.00% | ~33 |
-| Shouldn't Have Done That | 19.00% | ~33 |
-| A True Adventurer | 17.00% | ~29 |
-| Mirror, Mirror | 17.00% | ~29 |
-| Too Clever | 14.00% | ~24 |
-| With Age Comes Wisdom | 9.00% | ~15 |
-| A Heroic Feat | 5.00% | ~9 |
-| Old Enough | 2.00% | ~3 |
-| BFA | 2.00% | ~3 |
+| Is this safe? | 72.00% | ~166 |
+| Not Your Enemy | 60.00% | ~139 |
+| It Burns! | 52.00% | ~120 |
+| Hard Choices | 52.00% | ~120 |
+| A Hidden Treasure | 48.00% | ~111 |
+| First of Many | 46.00% | ~106 |
+| Rock Wall | 32.00% | ~74 |
+| You Can't Touch This | 32.00% | ~74 |
+| Stories of Old | 32.00% | ~74 |
+| The Bigger They Are… | 31.00% | ~72 |
+| I'll take it! | 30.00% | ~69 |
+| All Seeing Eye | 29.00% | ~67 |
+| Light our Darkest Hour… | 28.00% | ~65 |
+| Do it yourself | 27.00% | ~62 |
+| Like Thunder | 26.00% | ~60 |
+| Riddle me this | 26.00% | ~60 |
+| Point the Sharp End at Enemies | 25.00% | ~58 |
+| Ball and Chain | 25.00% | ~58 |
+| Your Royal Highness | 25.00% | ~58 |
+| Well Read | 25.00% | ~58 |
+| Maximum Power! | 24.00% | ~55 |
+| More of a Buckler | 23.00% | ~53 |
+| What Evil Lurks… | 23.00% | ~53 |
+| Many Faces, Few Words | 23.00% | ~53 |
+| Continuance of Life | 23.00% | ~53 |
+| Worth It | 22.00% | ~51 |
+| What is the Labyrinth? | 21.00% | ~49 |
+| A Small Momento | 21.00% | ~49 |
+| Surprisingly Spry | 20.00% | ~46 |
+| Don't Fear the Reaper | 19.00% | ~44 |
+| Strength in Numbers | 19.00% | ~44 |
+| The Hero's Journey | 18.00% | ~42 |
+| Shouldn't Have Done That | 18.00% | ~42 |
+| A True Adventurer | 16.00% | ~37 |
+| Mirror, Mirror | 16.00% | ~37 |
+| Too Clever | 12.00% | ~28 |
+| With Age Comes Wisdom | 8.00% | ~18 |
+| A Heroic Feat | 4.00% | ~9 |
+| Old Enough | 1.00% | ~2 |
+| BFA | 1.00% | ~2 |
 | Dedicated Adventurer | 0.00% | ~0 |
 | …The Harder They Fall. | 0.00% | ~0 |
 | Ultimate Power! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 172 (Ranked 579)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 231 (Ranked 561)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 40 | 0 |
 | 2024-04-10 | 72 | 0 |
 | 2024-06-17 | 172 | 0 |
+| 2024-08-09 | 231 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

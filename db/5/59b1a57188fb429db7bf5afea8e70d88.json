@@ -2,10 +2,10 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 716,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Completed": 220,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 70,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-08-30T16:03:06.0737443+00:00",
@@ -264,6 +264,11 @@
       "Time": "2024-06-17T16:18:05.5410335+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:58.4487583+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-30T15:02:12.9396867+00:00",
@@ -274,215 +279,215 @@
       "ID": "A_PATH_TO_SAFETY_ACH",
       "SetID": "7jaf9il",
       "Name": "A Patch to Safety",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COMBAT_EVOLUTION_ACH",
       "SetID": "7jaf9il",
       "Name": "Combat Evolution",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CUTTING_EDGE_ACH",
       "SetID": "7jaf9il",
       "Name": "Cutting Edge",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "DINO_HUNTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Hunter",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EXTERMINATOR_ACH",
       "SetID": "7jaf9il",
       "Name": "Exterminator",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 82,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 59
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
       "SetID": "7jaf9il",
       "Name": "Heroic Rescue",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "HORRIFIC_BEYOND_BELIEF_ACH",
       "SetID": "7jaf9il",
       "Name": "Horrific Beyond Belief",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "IMPORTANT_FUEL_ACH",
       "SetID": "7jaf9il",
       "Name": "Important Fuel",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ITS_JUST_US_ACH",
       "SetID": "7jaf9il",
       "Name": "It\u0027s Just Us",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JAW_HURTS_FROM_MUNCHING_ACH",
       "SetID": "7jaf9il",
       "Name": "Jaw Hurts From Munching",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MAKE_THE_CALL_ACH",
       "SetID": "7jaf9il",
       "Name": "Make the Call",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "QUITE_THE_CRISIS_ACH",
       "SetID": "7jaf9il",
       "Name": "Quite the Crisis",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SHE_WOULD_BE_PROUD_ACH",
       "SetID": "7jaf9il",
       "Name": "She Would Be Proud",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "SPEED_RUNNER_ACH",
       "SetID": "7jaf9il",
       "Name": "Speed Runner",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 125,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 38,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
       "SetID": "7jaf9il",
       "Name": "The Fourth Survivor",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_RIGHT_WAY_OUT_ACH",
       "SetID": "7jaf9il",
       "Name": "The Right Way Out",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THIS_ISNT_FUNNY_ACH",
       "SetID": "7jaf9il",
       "Name": "This Isn\u0027t Funny",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "THREE_IS_A_CROWD_ACH",
       "SetID": "7jaf9il",
       "Name": "Three is a Crowd",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 60,
-      "Completed": 0
+      "Progressed": 70,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:18:05.5410332+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:58.4487581+00:00",
   "LastUpdate_AppInfo": "2024-08-08T20:57:11.6420359+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:13.2925477+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:05.5410474+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:10.2707373+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:58.4487738+00:00"
 }

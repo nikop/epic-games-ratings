@@ -9,7 +9,7 @@
 | Pirate | 78.00% | ~46 |
 | Miner | 66.00% | ~39 |
 | Cookie Addict | 53.00% | ~31 |
-| Expert Mechanic | 49.00% | ~29 |
+| Expert Mechanic | 51.00% | ~30 |
 | Salvager | 44.00% | ~26 |
 | You're Hired! | 29.00% | ~17 |
 | Expert Miner | 24.00% | ~14 |
@@ -28,8 +28,8 @@
 | Master Salvager | 0.00% | ~0 |
 | Day Trip | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 717)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 59 (Ranked 746)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

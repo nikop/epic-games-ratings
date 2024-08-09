@@ -5,63 +5,63 @@ Rating: 4.36 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~765 |
-| Fetch Quest Complete | 90.00% | ~710 |
-| I can't wait! | 82.00% | ~647 |
-| Swish | 55.00% | ~434 |
-| Clean up on Aisle 9 | 39.00% | ~308 |
-| Machine Maxed | 29.00% | ~229 |
-| Existential dread | 28.00% | ~221 |
-| Gerald of Riviera | 25.00% | ~197 |
-| Bug Fixer | 24.00% | ~189 |
-| Goal | 22.00% | ~174 |
-| I ran the numbers | 15.00% | ~118 |
-| Taking the plunge | 13.00% | ~103 |
-| Hidden Packages | 12.00% | ~95 |
-| GOOOAAAL | 10.00% | ~79 |
-| Ahoy Hoy | 7.00% | ~55 |
-| New Kid on the Block | 7.00% | ~55 |
-| Bombscare | 6.00% | ~47 |
-| Rhythm is a dancer | 6.00% | ~47 |
-| Jimmy Goldman Would be Proud | 6.00% | ~47 |
-| You Spin Me Round | 6.00% | ~47 |
-| Your Bloody Valentine | 5.00% | ~39 |
-| Crowning achievement | 4.00% | ~32 |
-| GoldGuy Jr | 4.00% | ~32 |
-| Nose to the Grindstone | 4.00% | ~32 |
-| Waking nightmare | 4.00% | ~32 |
-| To do. Done! | 3.00% | ~24 |
-| We come in peace | 3.00% | ~24 |
-| Hammer time | 3.00% | ~24 |
-| 1CC | 2.00% | ~16 |
-| GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~16 |
-| Modern Gorefare | 2.00% | ~16 |
-| GTA: Crime City | 2.00% | ~16 |
-| Slacker | 2.00% | ~16 |
-| 1337 HAXXOR | 1.00% | ~8 |
-| Fresh Prince of Grindstone | 1.00% | ~8 |
-| Drop the ball | 1.00% | ~8 |
-| Fat Princess | 1.00% | ~8 |
-| Hexadecimal | 1.00% | ~8 |
-| IMANOK CODE | 1.00% | ~8 |
-| Intergalactic, planetary, planetary... | 1.00% | ~8 |
-| True Capitalist | 0.90% | ~7 |
-| Smells like teen spirit | 0.90% | ~7 |
-| Once upon a slime | 0.80% | ~6 |
-| It's a horror game | 0.80% | ~6 |
-| Got 9999 problem but a Zombie ain't one | 0.80% | ~6 |
-| Friends Reunited | 0.60% | ~5 |
-| Arcadeception | 0.60% | ~5 |
-| Corporate Restructrure | 0.40% | ~3 |
-| Sonically Youthful | 0.40% | ~3 |
-| Many Machines Maxed | 0.30% | ~2 |
-| Pimp My Ride | 0.30% | ~2 |
-| Ballz To The Wallz | 0.10% | ~1 |
-| Another all nighter? | 0.10% | ~1 |
-| Video killed the radio star | 0.00% | ~0 |
+| Pushing a pull door | 95.00% | ~367,108 |
+| Fetch Quest Complete | 73.00% | ~282,093 |
+| I can't wait! | 57.00% | ~220,265 |
+| Swish | 29.00% | ~112,064 |
+| Existential dread | 11.00% | ~42,507 |
+| Clean up on Aisle 9 | 10.00% | ~38,643 |
+| Gerald of Riviera | 10.00% | ~38,643 |
+| Machine Maxed | 7.00% | ~27,050 |
+| Bug Fixer | 5.00% | ~19,321 |
+| Goal | 4.00% | ~15,457 |
+| Jimmy Goldman Would be Proud | 3.00% | ~11,593 |
+| Ahoy Hoy | 2.00% | ~7,729 |
+| I ran the numbers | 2.00% | ~7,729 |
+| Taking the plunge | 2.00% | ~7,729 |
+| GOOOAAAL | 1.00% | ~3,864 |
+| Rhythm is a dancer | 1.00% | ~3,864 |
+| New Kid on the Block | 1.00% | ~3,864 |
+| Hidden Packages | 1.00% | ~3,864 |
+| Your Bloody Valentine | 0.80% | ~3,091 |
+| You Spin Me Round | 0.80% | ~3,091 |
+| Bombscare | 0.70% | ~2,705 |
+| Nose to the Grindstone | 0.70% | ~2,705 |
+| Waking nightmare | 0.70% | ~2,705 |
+| Crowning achievement | 0.60% | ~2,319 |
+| IMANOK CODE | 0.60% | ~2,319 |
+| GoldGuy Jr | 0.50% | ~1,932 |
+| We come in peace | 0.40% | ~1,546 |
+| Fresh Prince of Grindstone | 0.40% | ~1,546 |
+| Modern Gorefare | 0.40% | ~1,546 |
+| GTA: Crime City | 0.40% | ~1,546 |
+| 1CC | 0.30% | ~1,159 |
+| To do. Done! | 0.30% | ~1,159 |
+| Hammer time | 0.30% | ~1,159 |
+| True Capitalist | 0.30% | ~1,159 |
+| Slacker | 0.30% | ~1,159 |
+| Got 9999 problem but a Zombie ain't one | 0.30% | ~1,159 |
+| GOOOOOOAAAAAAALLLL!!!! | 0.20% | ~773 |
+| Intergalactic, planetary, planetary... | 0.20% | ~773 |
+| 1337 HAXXOR | 0.10% | ~386 |
+| Many Machines Maxed | 0.10% | ~386 |
+| Friends Reunited | 0.10% | ~386 |
+| Drop the ball | 0.10% | ~386 |
+| Fat Princess | 0.10% | ~386 |
+| Hexadecimal | 0.10% | ~386 |
+| Arcadeception | 0.10% | ~386 |
+| Video killed the radio star | 0.10% | ~386 |
+| Corporate Restructrure | 0.10% | ~386 |
+| Ballz To The Wallz | 0.10% | ~386 |
+| Another all nighter? | 0.10% | ~386 |
+| Pimp My Ride | 0.10% | ~386 |
+| Once upon a slime | 0.10% | ~386 |
+| It's a horror game | 0.10% | ~386 |
+| Smells like teen spirit | 0.10% | ~386 |
+| Sonically Youthful | 0.10% | ~386 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 415)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 386,429 (Ranked 71)  
+Completed: 2 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,10 +174,11 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 776 | 0 |
 | 2024-04-10 | 781 | 0 |
 | 2024-06-17 | 789 | 0 |
+| 2024-08-09 | 386,429 | 2 |
 ## Awards
-Max (Great for Beginners): 42  (Ranked 559)  
+Max (Great for Beginners): 42  (Ranked 560)  
 Sum: 225 (Ranked 487)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |

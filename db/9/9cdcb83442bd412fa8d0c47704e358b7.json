@@ -2,10 +2,10 @@
   "ID": "9cdcb83442bd412fa8d0c47704e358b7",
   "Name": "Promise Mascot Agency",
   "ProductSlug": "promise-mascot-agency-dd7a9c",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-06T04:57:33.3572839+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:09.1830185+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:30.0903941+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:59.978748+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:02.4069203+00:00"
 }

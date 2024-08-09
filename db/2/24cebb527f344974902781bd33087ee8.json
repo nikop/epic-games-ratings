@@ -2,10 +2,10 @@
   "ID": "24cebb527f344974902781bd33087ee8",
   "Name": "Pandemic Train",
   "ProductSlug": "pandemic-train-9aa653",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-05T21:36:26.933+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -301,8 +301,8 @@
   ],
   "FirstSeen": "2024-04-09T04:57:01.9429758+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.1998961+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:01:31.328002+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:35.8191094+00:00",
   "LastUpdate_AppInfo": "2024-08-03T06:57:23.8358379+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:15.9710055+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:01:31.3280211+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:10.0984248+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:35.819132+00:00"
 }

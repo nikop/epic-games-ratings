@@ -2,10 +2,10 @@
   "ID": "bf0038eec29b4f4aa758636ed5fc6b40",
   "Name": "Headquarters World War 2",
   "ProductSlug": "headquarters-world-war-2-7ad107",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-24T15:07:22.442+00:00",
     "PcReleaseDate": "2024-04-11T13:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T17:59:39.9233407+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:10.7401446+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:53.9350922+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:03:37.3679875+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:49.1195357+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:03.3468214+00:00"
 }

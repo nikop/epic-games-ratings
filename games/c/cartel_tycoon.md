@@ -1,33 +1,33 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 935)  
+Rating: 4.35 (Ranked 934)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 84.00% | ~1,200 |
-| Take-Off | 82.00% | ~1,171 |
-| Hokey-Pokey | 67.00% | ~957 |
-| Camellos | 53.00% | ~757 |
-| That was base | 45.00% | ~643 |
-| Bad Trip | 45.00% | ~643 |
-| Spread | 44.00% | ~628 |
-| Didn't Miss A Single One | 43.00% | ~614 |
-| Safe Pair of Hands | 33.00% | ~471 |
-| Don't Let Mom Know You're A Druglord | 31.00% | ~443 |
-| Architect of Fortunes | 22.00% | ~314 |
-| Bite the Blow | 22.00% | ~314 |
-| Pampered Life | 21.00% | ~300 |
-| Spreading Fear | 8.00% | ~114 |
-| I'm Going To Call You Kitty | 7.00% | ~100 |
-| Follow the Money | 6.00% | ~86 |
-| Operation Odessa | 2.00% | ~29 |
-| Sense Of Style | 0.40% | ~6 |
-| Iron Lady | 0.40% | ~6 |
+| Our Man | 84.00% | ~1,383 |
+| Take-Off | 83.00% | ~1,366 |
+| Hokey-Pokey | 66.00% | ~1,086 |
+| Camellos | 51.00% | ~839 |
+| Bad Trip | 46.00% | ~757 |
+| That was base | 45.00% | ~741 |
+| Spread | 43.00% | ~708 |
+| Didn't Miss A Single One | 42.00% | ~691 |
+| Safe Pair of Hands | 33.00% | ~543 |
+| Don't Let Mom Know You're A Druglord | 31.00% | ~510 |
+| Bite the Blow | 22.00% | ~362 |
+| Architect of Fortunes | 21.00% | ~346 |
+| Pampered Life | 21.00% | ~346 |
+| Spreading Fear | 8.00% | ~132 |
+| I'm Going To Call You Kitty | 7.00% | ~115 |
+| Follow the Money | 6.00% | ~99 |
+| Operation Odessa | 2.00% | ~33 |
+| Sense Of Style | 0.40% | ~7 |
+| Iron Lady | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,428 (Ranked 366)  
-Completed: 4 (0.28%) (Ranked 347)  
+Progressed: 1,646 (Ranked 368)  
+Completed: 5 (0.30%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,6 +270,7 @@ Completed: 4 (0.28%) (Ranked 347)
 | 2024-03-21 | 1,195 | 4 |
 | 2024-04-10 | 1,231 | 4 |
 | 2024-06-17 | 1,428 | 4 |
+| 2024-08-09 | 1,646 | 5 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

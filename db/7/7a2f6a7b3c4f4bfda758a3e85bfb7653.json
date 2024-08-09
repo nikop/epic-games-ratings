@@ -2,10 +2,10 @@
   "ID": "7a2f6a7b3c4f4bfda758a3e85bfb7653",
   "Name": "Plot of the Druid",
   "ProductSlug": "plot-of-the-druid-32cc49",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1085,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-07T20:30:00+00:00",
     "PcReleaseDate": "2022-10-31T22:00:00+00:00",
@@ -22,14 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:07:48.4527714+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-07-30T16:02:15.4404673+00:00",
-  "TotalAchievements": 14,
+  "TotalAchievements": 11,
   "TotalAchievementsXP": 1000,
   "Achievements": [
     {
@@ -133,7 +139,7 @@
       "SetID": "60f0heb",
       "Name": "Sniffer",
       "Percentage": 0,
-      "XP": 200,
+      "XP": 50,
       "UsersEstimate": 0
     },
     {
@@ -141,7 +147,55 @@
       "SetID": "60f0heb",
       "Name": "Troublemaker",
       "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MASTER_C0",
+      "SetID": "60f0heb",
+      "Name": "Conquer the Prologue like a True Druid!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MASTER_C1",
+      "SetID": "60f0heb",
+      "Name": "Beat Chapter 1 like a pro!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TBD",
+      "SetID": "60f0heb",
+      "Name": "To be defined",
+      "Percentage": 0,
       "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TBD_2",
+      "SetID": "60f0heb",
+      "Name": "To be defined",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TBD_3",
+      "SetID": "60f0heb",
+      "Name": "To be defined",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TBD_4",
+      "SetID": "60f0heb",
+      "Name": "To be defined",
+      "Percentage": 0,
+      "XP": 50,
       "UsersEstimate": 0
     }
   ],
@@ -149,13 +203,13 @@
     {
       "ID": "60f0heb",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:15.4404672+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:15.440464+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:48.4527707+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:16.0716533+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:10.8481987+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:15.4412046+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:05.0742645+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:48.4527837+00:00"
 }

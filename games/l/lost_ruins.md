@@ -5,49 +5,49 @@ Rating: 4.81 (Ranked 89)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 34.00% | ~283 |
-| Goblin Tales | 26.00% | ~216 |
-| Bug Hunter | 22.00% | ~183 |
-| Boss Killer | 21.00% | ~175 |
-| The Fallen | 19.00% | ~158 |
-| Artifact Collector | 17.00% | ~141 |
-| Trap Master | 17.00% | ~141 |
-| Ghost Buster | 14.00% | ~116 |
-| Iconoclasm | 13.00% | ~108 |
-| Reincarnation | 13.00% | ~108 |
-| Gladiator | 12.00% | ~100 |
-| Librarian | 12.00% | ~100 |
-| The End | 12.00% | ~100 |
-| Lumberjack | 11.00% | ~92 |
-| Orcs Must Die! | 11.00% | ~92 |
-| Troubleshooter | 9.00% | ~75 |
-| Money Swag | 8.00% | ~67 |
-| Oops | 7.00% | ~58 |
-| Shield Crusher | 7.00% | ~58 |
-| Treasure Hunter | 6.00% | ~50 |
-| Explorer | 5.00% | ~42 |
-| Trio | 5.00% | ~42 |
-| Arrive Home | 3.00% | ~25 |
-| Holy Knight | 3.00% | ~25 |
-| Marksman | 3.00% | ~25 |
-| Pyromancer | 3.00% | ~25 |
-| Spell Master | 3.00% | ~25 |
-| Hoarder | 2.00% | ~17 |
-| Meat Lover | 2.00% | ~17 |
-| Sling of David | 2.00% | ~17 |
-| Roughneck | 1.00% | ~8 |
-| Rune Master | 1.00% | ~8 |
-| Sword Master | 1.00% | ~8 |
-| Weapon Master | 1.00% | ~8 |
-| Witch | 1.00% | ~8 |
+| Inquisitor | 33.00% | ~289 |
+| Goblin Tales | 26.00% | ~228 |
+| Boss Killer | 21.00% | ~184 |
+| Bug Hunter | 21.00% | ~184 |
+| The Fallen | 19.00% | ~167 |
+| Artifact Collector | 17.00% | ~149 |
+| Trap Master | 17.00% | ~149 |
+| Ghost Buster | 13.00% | ~114 |
+| Iconoclasm | 13.00% | ~114 |
+| Reincarnation | 13.00% | ~114 |
+| Librarian | 12.00% | ~105 |
+| The End | 12.00% | ~105 |
+| Gladiator | 11.00% | ~96 |
+| Lumberjack | 11.00% | ~96 |
+| Orcs Must Die! | 11.00% | ~96 |
+| Troubleshooter | 9.00% | ~79 |
+| Money Swag | 8.00% | ~70 |
+| Oops | 7.00% | ~61 |
+| Shield Crusher | 7.00% | ~61 |
+| Treasure Hunter | 6.00% | ~53 |
+| Explorer | 5.00% | ~44 |
+| Trio | 5.00% | ~44 |
+| Arrive Home | 3.00% | ~26 |
+| Holy Knight | 3.00% | ~26 |
+| Pyromancer | 3.00% | ~26 |
+| Spell Master | 3.00% | ~26 |
+| Hoarder | 2.00% | ~18 |
+| Marksman | 2.00% | ~18 |
+| Meat Lover | 2.00% | ~18 |
+| Sling of David | 2.00% | ~18 |
+| Roughneck | 1.00% | ~9 |
+| Rune Master | 1.00% | ~9 |
+| Sword Master | 1.00% | ~9 |
+| Weapon Master | 1.00% | ~9 |
+| Witch | 1.00% | ~9 |
 | Assassin | 0.80% | ~7 |
 | Art Collector | 0.60% | ~5 |
+| Cryomancer | 0.50% | ~4 |
 | Necromancer | 0.50% | ~4 |
-| Cryomancer | 0.40% | ~3 |
 | Hardboiled | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 832 (Ranked 406)  
-Completed: 1 (0.12%) (Ranked 400)  
+Progressed: 877 (Ranked 416)  
+Completed: 1 (0.11%) (Ranked 426)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -203,6 +203,7 @@ Completed: 1 (0.12%) (Ranked 400)
 | 2024-03-21 | 768 | 1 |
 | 2024-04-10 | 781 | 1 |
 | 2024-06-17 | 832 | 1 |
+| 2024-08-09 | 877 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

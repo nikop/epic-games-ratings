@@ -2,10 +2,10 @@
   "ID": "5bb27a0d5617488aa983f5b3f77c9611",
   "Name": "Valiant Hearts: Coming Home",
   "ProductSlug": "valiant-hearts-coming-home",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-24T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-26T15:01:02.0786663+00:00",
   "LastUpdate_AppInfo": "2024-08-02T23:57:19.9012776+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:31.810621+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:23.65873+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:27.2743148+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:56.0911637+00:00"
 }

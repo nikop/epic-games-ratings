@@ -2,10 +2,10 @@
   "ID": "c5ca2bb23eed43d29d7e4cbc164513a4",
   "Name": "Outbreak Contagious Memories",
   "ProductSlug": "outbreak-contagious-memories-9e3c2a",
-  "Ranking_EOS_Progress": 829,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-08-16T14:00:00+00:00",
     "PcReleaseDate": "2022-04-06T14:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -84,6 +84,11 @@
       "Time": "2024-06-17T16:13:51.8666063+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:29.4506206+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.572745+00:00",
@@ -102,7 +107,7 @@
       "ID": "ALWAYS_RECYCLE_ACH",
       "SetID": "1ln1olh",
       "Name": "Always Recycle",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -150,7 +155,7 @@
       "ID": "CLASSIC_SAFE_ROOM_ACH",
       "SetID": "1ln1olh",
       "Name": "Classic Safe Room",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -166,7 +171,7 @@
       "ID": "DINE_AND_ASH_ACH",
       "SetID": "1ln1olh",
       "Name": "Dine and Ash",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -198,7 +203,7 @@
       "ID": "EXPERIENCE_THE_NIGHTLIFE_ACH",
       "SetID": "1ln1olh",
       "Name": "Experience the Nightlife",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -230,7 +235,7 @@
       "ID": "THAT_OLD_FAMILIAR_FEELING_ACH",
       "SetID": "1ln1olh",
       "Name": "That Old Familiar Feeling",
-      "Percentage": 100,
+      "Percentage": 96,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -254,7 +259,7 @@
       "ID": "TIME_FOR_PAYBACK_ACH",
       "SetID": "1ln1olh",
       "Name": "Time for Payback",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -286,7 +291,7 @@
       "ID": "YOU_DIED_ACH",
       "SetID": "1ln1olh",
       "Name": "You Died",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 12
     }
@@ -295,14 +300,14 @@
     {
       "ID": "1ln1olh",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-18T22:09:37.4633891+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:20.5727447+00:00",
-  "LastChanged_Achievements": "2024-07-09T22:05:19.629944+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:29.4506204+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:16.3185288+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:26.0333072+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:05:19.6299598+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:21.6805399+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:29.4506356+00:00"
 }

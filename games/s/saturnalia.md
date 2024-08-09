@@ -5,29 +5,29 @@ Rating: 4.26 (Ranked 1,028)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~2,986 |
-| Bonfire Lit | 3.00% | ~2,239 |
-| Survival Expert | 3.00% | ~2,239 |
-| Denial | 2.00% | ~1,493 |
-| Acceptance | 2.00% | ~1,493 |
-| Bargaining | 2.00% | ~1,493 |
-| Anger | 1.00% | ~746 |
-| Fear Of The Dark | 1.00% | ~746 |
-| Detective of the occult | 1.00% | ~746 |
-| Depression | 1.00% | ~746 |
-| Bless me Father... | 0.80% | ~597 |
-| Phone Bill | 0.80% | ~597 |
-| Power of Friendship | 0.70% | ~522 |
-| Chain Breaker | 0.70% | ~522 |
-| Let there be light | 0.50% | ~373 |
-| Silent Advisor | 0.50% | ~373 |
-| Soda addiction | 0.40% | ~299 |
-| Paparazzi | 0.40% | ~299 |
-| Are you still there? | 0.40% | ~299 |
-| Ear Ringing | 0.10% | ~75 |
+| Out of Shape | 4.00% | ~3,029 |
+| Bonfire Lit | 3.00% | ~2,272 |
+| Survival Expert | 3.00% | ~2,272 |
+| Denial | 2.00% | ~1,515 |
+| Acceptance | 2.00% | ~1,515 |
+| Bargaining | 2.00% | ~1,515 |
+| Anger | 1.00% | ~757 |
+| Fear Of The Dark | 1.00% | ~757 |
+| Detective of the occult | 1.00% | ~757 |
+| Depression | 1.00% | ~757 |
+| Bless me Father... | 0.80% | ~606 |
+| Phone Bill | 0.80% | ~606 |
+| Power of Friendship | 0.70% | ~530 |
+| Chain Breaker | 0.70% | ~530 |
+| Let there be light | 0.50% | ~379 |
+| Silent Advisor | 0.50% | ~379 |
+| Soda addiction | 0.40% | ~303 |
+| Paparazzi | 0.40% | ~303 |
+| Are you still there? | 0.30% | ~227 |
+| Ear Ringing | 0.10% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74,641 (Ranked 144)  
-Completed: 18 (0.02%) (Ranked 489)  
+Progressed: 75,730 (Ranked 151)  
+Completed: 19 (0.03%) (Ranked 487)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -313,6 +313,7 @@ Completed: 18 (0.02%) (Ranked 489)
 | 2024-04-07 | 73,008 | 18 |
 | 2024-04-10 | 73,060 | 18 |
 | 2024-06-17 | 74,641 | 18 |
+| 2024-08-09 | 75,730 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

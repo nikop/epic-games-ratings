@@ -5,41 +5,41 @@ Rating: 4.61 (Ranked 435)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 24.00% | ~268 |
-| Dental maturity | 19.00% | ~212 |
-| Devil's in the details | 14.00% | ~156 |
-| Uprooting | 13.00% | ~145 |
-| Forbidden techniques | 11.00% | ~123 |
-| Devoted | 9.00% | ~101 |
-| Slavic squatter | 8.00% | ~89 |
-| Spirit animal | 7.00% | ~78 |
-| Liar Liar | 7.00% | ~78 |
-| Fishing fanatic | 6.00% | ~67 |
-| Gold rush | 6.00% | ~67 |
-| The word around is... | 5.00% | ~56 |
-| A friend in need... | 5.00% | ~56 |
-| The cycle acknowledged | 5.00% | ~56 |
-| Baba Yaga | 5.00% | ~56 |
-| Extensive retelling | 4.00% | ~45 |
-| Sneak peek | 4.00% | ~45 |
-| Favorite | 4.00% | ~45 |
-| Queen | 4.00% | ~45 |
-| Specialist | 4.00% | ~45 |
-| Goal! | 3.00% | ~34 |
-| Both sides | 3.00% | ~34 |
-| Toxic | 3.00% | ~34 |
-| Witch's cookbook | 3.00% | ~34 |
-| Bad apple | 2.00% | ~22 |
-| Loremaster | 2.00% | ~22 |
-| Gnowlledgeable | 2.00% | ~22 |
-| Always worth a try | 2.00% | ~22 |
-| Entangled | 2.00% | ~22 |
-| Awards unwarded | 1.00% | ~11 |
+| Tooth fairy | 24.00% | ~278 |
+| Dental maturity | 19.00% | ~220 |
+| Devil's in the details | 14.00% | ~162 |
+| Uprooting | 13.00% | ~151 |
+| Forbidden techniques | 11.00% | ~127 |
+| Devoted | 9.00% | ~104 |
+| Slavic squatter | 8.00% | ~93 |
+| Spirit animal | 7.00% | ~81 |
+| Liar Liar | 7.00% | ~81 |
+| Fishing fanatic | 6.00% | ~70 |
+| Gold rush | 6.00% | ~70 |
+| The word around is... | 5.00% | ~58 |
+| A friend in need... | 5.00% | ~58 |
+| The cycle acknowledged | 5.00% | ~58 |
+| Baba Yaga | 5.00% | ~58 |
+| Extensive retelling | 4.00% | ~46 |
+| Sneak peek | 4.00% | ~46 |
+| Favorite | 4.00% | ~46 |
+| Queen | 4.00% | ~46 |
+| Specialist | 4.00% | ~46 |
+| Both sides | 3.00% | ~35 |
+| Toxic | 3.00% | ~35 |
+| Witch's cookbook | 3.00% | ~35 |
+| Loremaster | 2.00% | ~23 |
+| Goal! | 2.00% | ~23 |
+| Gnowlledgeable | 2.00% | ~23 |
+| Always worth a try | 2.00% | ~23 |
+| Entangled | 2.00% | ~23 |
+| Bad apple | 1.00% | ~12 |
+| Awards unwarded | 1.00% | ~12 |
 | Mushrooming enthusiast | 0.70% | ~8 |
-| Apex predator | 0.40% | ~4 |
+| Apex predator | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,117 (Ranked 384)  
-Completed: 2 (0.18%) (Ranked 373)  
+Progressed: 1,159 (Ranked 393)  
+Completed: 2 (0.17%) (Ranked 400)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -267,6 +267,7 @@ Completed: 2 (0.18%) (Ranked 373)
 | 2024-03-21 | 1,009 | 2 |
 | 2024-04-10 | 1,040 | 2 |
 | 2024-06-17 | 1,117 | 2 |
+| 2024-08-09 | 1,159 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "14e5ac79eb304c5d834a9985cd4d127e",
   "Name": "Quiztopia : The Ultimate Trivia",
   "ProductSlug": "quiztopia-the-ultimate-trivia-6d42e0",
-  "Ranking_EOS_Progress": 1002,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1037,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-01T18:30:00+00:00",
     "PcReleaseDate": "2024-08-01T18:30:00+00:00",
@@ -97,8 +97,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-25T19:01:48.1122768+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:01:48.1122563+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:49.3925327+00:00",
   "LastUpdate_AppInfo": "2024-08-05T18:57:39.8121243+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:52.6130715+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:48.1133235+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:40.8020072+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:49.3925397+00:00"
 }

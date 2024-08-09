@@ -2,10 +2,10 @@
   "ID": "2c01f88a21d94b10846433931e3fb628",
   "Name": "Command \u0026 Conquer\u2122 Remastered Collection",
   "ProductSlug": "command-and-conquer-remastered-e107f6",
-  "Ranking_EOS_Progress": 636,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 632,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-06T20:00:00+00:00",
     "PcReleaseDate": "2020-06-05T08:00:00+00:00",
@@ -23,9 +23,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 115,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37,6 +37,11 @@
     {
       "Time": "2024-07-30T16:02:39.4957561+00:00",
       "NumProgressed": 115,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:08:10.9312474+00:00",
+      "NumProgressed": 131,
       "NumCompleted": 0
     }
   ],
@@ -50,7 +55,7 @@
       "Name": "The Eagle has Landed",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_10",
@@ -64,15 +69,15 @@
       "ID": "achievement_11",
       "SetID": "8mp536c",
       "Name": "Capture X16-Y42",
-      "Percentage": 58,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_12",
       "SetID": "8mp536c",
       "Name": "Nikoomba\u0027s Demise",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -80,17 +85,17 @@
       "ID": "achievement_13",
       "SetID": "8mp536c",
       "Name": "Tanks A Lot!",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_14",
       "SetID": "8mp536c",
       "Name": "To the Front Lines!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_15",
@@ -104,7 +109,7 @@
       "ID": "achievement_16",
       "SetID": "8mp536c",
       "Name": "Act on Instinct",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -114,7 +119,7 @@
       "Name": "No Remorse",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_18",
@@ -122,13 +127,13 @@
       "Name": "Crush the Resistance",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_19",
       "SetID": "8mp536c",
       "Name": "Electrotherapy",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "Name": "I did Nod See that Coming!",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_20",
@@ -168,25 +173,25 @@
       "ID": "achievement_23",
       "SetID": "8mp536c",
       "Name": "Time will Tell",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "achievement_24",
       "SetID": "8mp536c",
       "Name": "No Survivors",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_25",
       "SetID": "8mp536c",
       "Name": "Ship Happens",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_26",
@@ -194,15 +199,15 @@
       "Name": "Short Fuse",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_27",
       "SetID": "8mp536c",
       "Name": "Mission Casualties",
-      "Percentage": 60,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_28",
@@ -216,9 +221,9 @@
       "ID": "achievement_29",
       "SetID": "8mp536c",
       "Name": "A Bit of Everything",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_3",
@@ -232,9 +237,9 @@
       "ID": "achievement_30",
       "SetID": "8mp536c",
       "Name": "All of Everything",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_31",
@@ -248,7 +253,7 @@
       "ID": "achievement_32",
       "SetID": "8mp536c",
       "Name": "Hell March",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -258,7 +263,7 @@
       "Name": "I\u0027ve got a present for ya!",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_4",
@@ -282,29 +287,29 @@
       "Name": "Befriend the Robot Overlords",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_7",
       "SetID": "8mp536c",
       "Name": "Destroy the Robot Overlords",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_8",
       "SetID": "8mp536c",
       "Name": "Making Friends",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_9",
       "SetID": "8mp536c",
       "Name": "Death From Above",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -313,13 +318,13 @@
     {
       "ID": "8mp536c",
       "IsBase": true,
-      "Progressed": 115,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:34.5706881+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:39.4957556+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:10.9312468+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:06.0189675+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:00.821436+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:39.4957739+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:51.564027+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:10.931265+00:00"
 }

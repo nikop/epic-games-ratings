@@ -5,10 +5,10 @@
   "Ranking_Rating": 848,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 133,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-23T17:00:00+00:00",
     "PcReleaseDate": "2024-07-23T17:00:00+00:00",
@@ -239,20 +239,372 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 100678,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:03:17.6295352+00:00",
+      "NumProgressed": 100678,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:03:17.6295371+00:00",
+  "TotalAchievements": 43,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALL_GAS",
+      "SetID": "3el58oc",
+      "Name": "All Gas",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "ALL_YOUR_BOUILLABAISSE",
+      "SetID": "3el58oc",
+      "Name": "All Your Bouillabaisse Are Belong to Us",
+      "Percentage": 0.2,
+      "XP": 10,
+      "UsersEstimate": 201
+    },
+    {
+      "ID": "BEASTMASTER",
+      "SetID": "3el58oc",
+      "Name": "Beastmaster",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 5034
+    },
+    {
+      "ID": "BIG_DIPPER",
+      "SetID": "3el58oc",
+      "Name": "Big Dipper",
+      "Percentage": 47,
+      "XP": 5,
+      "UsersEstimate": 47319
+    },
+    {
+      "ID": "BON_VIVANT",
+      "SetID": "3el58oc",
+      "Name": "Bon Vivant",
+      "Percentage": 26,
+      "XP": 10,
+      "UsersEstimate": 26176
+    },
+    {
+      "ID": "BROTHSPORT",
+      "SetID": "3el58oc",
+      "Name": "Brothsport",
+      "Percentage": 29,
+      "XP": 10,
+      "UsersEstimate": 29197
+    },
+    {
+      "ID": "CHALLENGE_A_DAY",
+      "SetID": "3el58oc",
+      "Name": "A Challenge a Day",
+      "Percentage": 0.1,
+      "XP": 25,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "CHILIAD",
+      "SetID": "3el58oc",
+      "Name": "Chiliad",
+      "Percentage": 0.2,
+      "XP": 40,
+      "UsersEstimate": 201
+    },
+    {
+      "ID": "CREATURE_OF_HABIT",
+      "SetID": "3el58oc",
+      "Name": "Creature of Habit",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEATH_FROM_ABOVE",
+      "SetID": "3el58oc",
+      "Name": "Death from Above",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 3020
+    },
+    {
+      "ID": "DILETTANTE",
+      "SetID": "3el58oc",
+      "Name": "Dilettante",
+      "Percentage": 90,
+      "XP": 5,
+      "UsersEstimate": 90610
+    },
+    {
+      "ID": "DRESSED_TO_CHILL",
+      "SetID": "3el58oc",
+      "Name": "Dressed to Chill",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 503
+    },
+    {
+      "ID": "FANCY_PANTS",
+      "SetID": "3el58oc",
+      "Name": "Fancy Pants",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "FLAVOR_OF_MONTH",
+      "SetID": "3el58oc",
+      "Name": "Flavor of the Month",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FRESH_MEAT",
+      "SetID": "3el58oc",
+      "Name": "Fresh Meat",
+      "Percentage": 74,
+      "XP": 5,
+      "UsersEstimate": 74502
+    },
+    {
+      "ID": "GLOBETROTTER",
+      "SetID": "3el58oc",
+      "Name": "Globetrotter",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 3020
+    },
+    {
+      "ID": "HARD_DAYS_WORK",
+      "SetID": "3el58oc",
+      "Name": "Hard Day\u0027s Work",
+      "Percentage": 0.4,
+      "XP": 10,
+      "UsersEstimate": 403
+    },
+    {
+      "ID": "HIT_EM_FOR_SIX",
+      "SetID": "3el58oc",
+      "Name": "Hit em\u0027 for Six",
+      "Percentage": 0.2,
+      "XP": 100,
+      "UsersEstimate": 201
+    },
+    {
+      "ID": "HOLY_SPLIT",
+      "SetID": "3el58oc",
+      "Name": "Holy Split!!!",
+      "Percentage": 28,
+      "XP": 5,
+      "UsersEstimate": 28190
+    },
+    {
+      "ID": "HUMBLE_FLEX",
+      "SetID": "3el58oc",
+      "Name": "Humble Flex",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "LIPSTICK_ON_A_PIG",
+      "SetID": "3el58oc",
+      "Name": "Lipstick on a Pig",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "MIDLIFE_CRISIS",
+      "SetID": "3el58oc",
+      "Name": "Midlife Crisis",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "MY_IMMORTAL",
+      "SetID": "3el58oc",
+      "Name": "My Immortal",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 8054
+    },
+    {
+      "ID": "NICE",
+      "SetID": "3el58oc",
+      "Name": "Nice!",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "NICE_TO_MEAT_YOU",
+      "SetID": "3el58oc",
+      "Name": "Nice to Meat You",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "OLD_ENOUGH",
+      "SetID": "3el58oc",
+      "Name": "Old Enough",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "PERFECTION",
+      "SetID": "3el58oc",
+      "Name": "Perfection",
+      "Percentage": 0.9,
+      "XP": 10,
+      "UsersEstimate": 906
+    },
+    {
+      "ID": "POP_GOES_THE_WEASEL",
+      "SetID": "3el58oc",
+      "Name": "Pop Goes the Weasel",
+      "Percentage": 17,
+      "XP": 5,
+      "UsersEstimate": 17115
+    },
+    {
+      "ID": "POT_SHOT",
+      "SetID": "3el58oc",
+      "Name": "Pot Shot",
+      "Percentage": 74,
+      "XP": 5,
+      "UsersEstimate": 74502
+    },
+    {
+      "ID": "POULTRY_IN_MOTION",
+      "SetID": "3el58oc",
+      "Name": "Poultry in Motion",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "QUINCEANERA",
+      "SetID": "3el58oc",
+      "Name": "Quincea\u00F1era!",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 201
+    },
+    {
+      "ID": "SEASONED_VETERAN",
+      "SetID": "3el58oc",
+      "Name": "Seasoned Veteran",
+      "Percentage": 0.3,
+      "XP": 100,
+      "UsersEstimate": 302
+    },
+    {
+      "ID": "SEASONING_GREETINGS",
+      "SetID": "3el58oc",
+      "Name": "Seasoning\u0027s Greetings",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "SOUPREME_MAKEOVER",
+      "SetID": "3el58oc",
+      "Name": "Soupreme Makeover",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "SOUP_SUPPLIER",
+      "SetID": "3el58oc",
+      "Name": "Soup Supplier",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 201
+    },
+    {
+      "ID": "SUPPLY_AND_DEMAND",
+      "SetID": "3el58oc",
+      "Name": "Soupply and Demand",
+      "Percentage": 0.3,
+      "XP": 5,
+      "UsersEstimate": 302
+    },
+    {
+      "ID": "TALKIN_ABOUT_PRACTICE",
+      "SetID": "3el58oc",
+      "Name": "Talkin\u0027 About Practice",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 1007
+    },
+    {
+      "ID": "TEAMWORK_MAKES_MEME",
+      "SetID": "3el58oc",
+      "Name": "Teamwork Makes the Meme Work",
+      "Percentage": 64,
+      "XP": 5,
+      "UsersEstimate": 64434
+    },
+    {
+      "ID": "THE_GOOSE_IS_LOOSE",
+      "SetID": "3el58oc",
+      "Name": "The Goose is Loose",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "THE_SOUP_SAVIOR",
+      "SetID": "3el58oc",
+      "Name": "The Soup Savior",
+      "Percentage": 0.1,
+      "XP": 100,
+      "UsersEstimate": 101
+    },
+    {
+      "ID": "THREEPEAT",
+      "SetID": "3el58oc",
+      "Name": "Three-peat",
+      "Percentage": 3,
+      "XP": 75,
+      "UsersEstimate": 3020
+    },
+    {
+      "ID": "WEEK_SAUCE",
+      "SetID": "3el58oc",
+      "Name": "Week Sauce",
+      "Percentage": 0.3,
+      "XP": 40,
+      "UsersEstimate": 302
+    },
+    {
+      "ID": "WISECRACKER",
+      "SetID": "3el58oc",
+      "Name": "Wisecracker",
+      "Percentage": 0.2,
+      "XP": 5,
+      "UsersEstimate": 201
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3el58oc",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 100678,
       "Completed": 0
     }
   ],
@@ -260,8 +612,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:47.2562781+00:00",
   "LastChanged": "2024-08-09T11:58:32.6377862+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:47.2562762+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:17.6295346+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:24.7170324+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:47.0237459+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:47.2562795+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:38.6217888+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:17.6304616+00:00"
 }

@@ -4,56 +4,56 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~78,437 |
-| Safety in the Storm | 22.00% | ~18,164 |
-| A Better Idea | 22.00% | ~18,164 |
-| Begin the Ceremony | 18.00% | ~14,862 |
-| Mission Accomplished | 17.00% | ~14,036 |
-| The Galaxy's Finest (Story Mode) | 14.00% | ~11,559 |
-| Asset Secured | 12.00% | ~9,908 |
-| A Starfighter of Your Own | 11.00% | ~9,082 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~4,954 |
-| Unkillable | 6.00% | ~4,954 |
-| Together, Vanguard | 6.00% | ~4,954 |
-| Sound Strategy | 5.00% | ~4,128 |
-| Stomped | 5.00% | ~4,128 |
-| Fearless | 4.00% | ~3,303 |
-| Flames Over Mon Cala | 4.00% | ~3,303 |
-| A Promising Career | 4.00% | ~3,303 |
-| Great Shot, Kid | 3.00% | ~2,477 |
-| Stronger Together | 3.00% | ~2,477 |
-| Back From the Brink | 3.00% | ~2,477 |
-| Temporary Guardian | 3.00% | ~2,477 |
-| Baited | 3.00% | ~2,477 |
-| Punch It | 3.00% | ~2,477 |
-| Stun 'Em | 2.00% | ~1,651 |
-| Squadron Hunter | 2.00% | ~1,651 |
-| Combat Pilot | 2.00% | ~1,651 |
-| Dressed for the Job You Want | 1.00% | ~826 |
-| I Have You Now | 0.90% | ~743 |
-| Against the Current | 0.80% | ~661 |
-| Denied | 0.70% | ~578 |
-| Found Your Place | 0.60% | ~495 |
-| Unstoppable Ace | 0.40% | ~330 |
-| Seasoned Star Pilot | 0.30% | ~248 |
-| Heavy Hitter | 0.30% | ~248 |
-| The Trap is Set | 0.30% | ~248 |
-| The Galaxy's Finest (Veteran) | 0.30% | ~248 |
-| Across the Stars | 0.30% | ~248 |
-| Got 'Em | 0.30% | ~248 |
-| Special Modifications | 0.30% | ~248 |
-| Victory for the New Republic | 0.20% | ~165 |
-| Victory for the Empire | 0.20% | ~165 |
-| Stay on Target | 0.20% | ~165 |
-| I Know a Few Maneuvers | 0.10% | ~83 |
-| Trigger Happy | 0.10% | ~83 |
-| Shallow Grave | 0.10% | ~83 |
-| Fully Decorated | 0.10% | ~83 |
-| The Galaxy's Finest (Ace) | 0.10% | ~83 |
-| Ultimate Weapon | 0.10% | ~83 |
+| Fracture at Fostar Haven | 95.00% | ~80,467 |
+| Safety in the Storm | 22.00% | ~18,634 |
+| A Better Idea | 22.00% | ~18,634 |
+| Begin the Ceremony | 18.00% | ~15,246 |
+| Mission Accomplished | 17.00% | ~14,399 |
+| The Galaxy's Finest (Story Mode) | 14.00% | ~11,858 |
+| Asset Secured | 12.00% | ~10,164 |
+| A Starfighter of Your Own | 11.00% | ~9,317 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~5,082 |
+| Unkillable | 6.00% | ~5,082 |
+| Together, Vanguard | 6.00% | ~5,082 |
+| Sound Strategy | 5.00% | ~4,235 |
+| Stomped | 5.00% | ~4,235 |
+| Fearless | 4.00% | ~3,388 |
+| Flames Over Mon Cala | 4.00% | ~3,388 |
+| A Promising Career | 4.00% | ~3,388 |
+| Great Shot, Kid | 3.00% | ~2,541 |
+| Stronger Together | 3.00% | ~2,541 |
+| Back From the Brink | 3.00% | ~2,541 |
+| Temporary Guardian | 3.00% | ~2,541 |
+| Baited | 3.00% | ~2,541 |
+| Punch It | 3.00% | ~2,541 |
+| Stun 'Em | 2.00% | ~1,694 |
+| Squadron Hunter | 2.00% | ~1,694 |
+| Combat Pilot | 2.00% | ~1,694 |
+| Dressed for the Job You Want | 1.00% | ~847 |
+| I Have You Now | 0.80% | ~678 |
+| Against the Current | 0.80% | ~678 |
+| Denied | 0.70% | ~593 |
+| Found Your Place | 0.60% | ~508 |
+| Unstoppable Ace | 0.40% | ~339 |
+| Seasoned Star Pilot | 0.30% | ~254 |
+| Heavy Hitter | 0.30% | ~254 |
+| The Trap is Set | 0.30% | ~254 |
+| The Galaxy's Finest (Veteran) | 0.30% | ~254 |
+| Across the Stars | 0.30% | ~254 |
+| Got 'Em | 0.30% | ~254 |
+| Special Modifications | 0.30% | ~254 |
+| Victory for the New Republic | 0.20% | ~169 |
+| Victory for the Empire | 0.20% | ~169 |
+| Stay on Target | 0.20% | ~169 |
+| I Know a Few Maneuvers | 0.10% | ~85 |
+| Trigger Happy | 0.10% | ~85 |
+| Shallow Grave | 0.10% | ~85 |
+| Fully Decorated | 0.10% | ~85 |
+| The Galaxy's Finest (Ace) | 0.10% | ~85 |
+| Ultimate Weapon | 0.10% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,565 (Ranked 140)  
-Completed: 4 (0.00%) (Ranked 528)  
+Progressed: 84,702 (Ranked 146)  
+Completed: 4 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -191,6 +191,7 @@ Completed: 4 (0.00%) (Ranked 528)
 | 2024-04-10 | 61,475 | 4 |
 | 2024-06-17 | 77,038 | 4 |
 | 2024-07-25 | 82,565 | 4 |
+| 2024-08-09 | 84,702 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

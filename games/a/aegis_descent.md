@@ -12,10 +12,10 @@
 | What-A-Shot | 42.00% | ~198 |
 | Batteries Included | 38.00% | ~179 |
 | Death from Above | 33.00% | ~155 |
-| Hull King | 24.00% | ~113 |
+| Hull King | 25.00% | ~118 |
+| Extra Ammo | 19.00% | ~89 |
 | Splash Damage | 19.00% | ~89 |
 | Boss Down | 18.00% | ~85 |
-| Extra Ammo | 18.00% | ~85 |
 | Hazardous Duty | 16.00% | ~75 |
 | Perky | 14.00% | ~66 |
 | Perk King | 10.00% | ~47 |
@@ -49,8 +49,8 @@
 | Burn Them | 0.20% | ~1 |
 | Final Ascension | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471 (Ranked 460)  
-Completed: 1 (0.21%) (Ranked 362)  
+Progressed: 471 (Ranked 478)  
+Completed: 1 (0.21%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 996,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 124,
+  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -560,8 +560,8 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112062,
-  "EOS_Completed": 526,
+  "EOS_Progressed": 116038,
+  "EOS_Completed": 543,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.47,
@@ -32115,6 +32115,11 @@
       "Time": "2024-06-17T16:14:02.7312842+00:00",
       "NumProgressed": 112062,
       "NumCompleted": 526
+    },
+    {
+      "Time": "2024-08-09T18:04:14.1813399+00:00",
+      "NumProgressed": 116038,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 10,
@@ -32126,7 +32131,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 5603
+      "UsersEstimate": 5802
     },
     {
       "ID": "Drawings01",
@@ -32134,7 +32139,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1160
     },
     {
       "ID": "Drawings02",
@@ -32142,7 +32147,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1160
     },
     {
       "ID": "Drawings03",
@@ -32150,7 +32155,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 784
+      "UsersEstimate": 812
     },
     {
       "ID": "Drawings04",
@@ -32158,7 +32163,7 @@
       "Name": "Closet Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 696
     },
     {
       "ID": "DrawingsAll",
@@ -32166,7 +32171,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 560
+      "UsersEstimate": 580
     },
     {
       "ID": "DrawingsDLC",
@@ -32174,7 +32179,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 672
+      "UsersEstimate": 696
     },
     {
       "ID": "GameCompleted",
@@ -32182,7 +32187,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 11206
+      "UsersEstimate": 11604
     },
     {
       "ID": "Level00BowlingStrike",
@@ -32190,7 +32195,7 @@
       "Name": "Strike",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 38101
+      "UsersEstimate": 39453
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -32198,22 +32203,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 12327
+      "UsersEstimate": 12764
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 112062,
-      "Completed": 526
+      "Progressed": 116038,
+      "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-07-26T20:57:36.7770701+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:02.7312837+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:14.1813396+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:11.0457213+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:23.2911806+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:02.7314471+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:19.4454602+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:14.1815059+00:00"
 }

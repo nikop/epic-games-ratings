@@ -2,10 +2,10 @@
   "ID": "e9b119f0f7e04e35a9abc86e415cc233",
   "Name": "Hidden Oddities",
   "ProductSlug": "hidden-oddities-521a62",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-11-30T00:00:00+00:00",
     "PcReleaseDate": "2024-11-30T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "a6a51e2",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:03.0258594+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:03.0258552+00:00",
   "LastUpdate_AppInfo": "2024-08-07T06:57:18.898162+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:07.4412337+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:49.082562+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:03.0258617+00:00"
 }

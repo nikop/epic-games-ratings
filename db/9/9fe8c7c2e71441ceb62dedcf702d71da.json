@@ -2,10 +2,10 @@
   "ID": "9fe8c7c2e71441ceb62dedcf702d71da",
   "Name": "Pluto Lost Its Colors",
   "ProductSlug": "pluto-lost-its-colors-4fb4c4",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-03-31T00:00:00+00:00",
     "PcReleaseDate": "2025-03-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-07T20:57:00.0942483+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:44.2935918+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:12.4387517+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:33.7474268+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:45.604248+00:00"
 }

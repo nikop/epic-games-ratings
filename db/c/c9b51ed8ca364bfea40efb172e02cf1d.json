@@ -2,10 +2,10 @@
   "ID": "c9b51ed8ca364bfea40efb172e02cf1d",
   "Name": "Run Hero",
   "ProductSlug": "run-hero-16c891",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1085,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-02T10:00:00+00:00",
     "PcReleaseDate": "2024-08-02T10:00:00+00:00",
@@ -23,12 +23,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:06:34.8447277+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-07-24T02:01:06.0321802+00:00",
   "TotalAchievements": 5,
   "TotalAchievementsXP": 1000,
@@ -78,13 +84,13 @@
     {
       "ID": "9an6hod",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-24T02:01:06.0321802+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:01:06.0311708+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:34.8447275+00:00",
   "LastUpdate_AppInfo": "2024-08-05T11:57:06.2897116+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:55.1233018+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:01:06.0638576+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:46.0448094+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:34.844732+00:00"
 }

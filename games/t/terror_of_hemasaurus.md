@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 84.00% | ~72 |
-| Jalopy Poppy | 80.00% | ~69 |
-| Green-Bodied Monster | 69.00% | ~59 |
-| Chopper Stopper | 57.00% | ~49 |
-| Aerosolized | 52.00% | ~45 |
-| Monstrosity Atrocity | 47.00% | ~40 |
-| Test of Faith | 41.00% | ~35 |
-| Reign of Terror | 41.00% | ~35 |
-| Crushing All Cars | 27.00% | ~23 |
-| Brain Chopper | 23.00% | ~20 |
-| Night Bird | 19.00% | ~16 |
-| Horror Show | 19.00% | ~16 |
+| Terror Rising | 85.00% | ~74 |
+| Jalopy Poppy | 82.00% | ~71 |
+| Green-Bodied Monster | 69.00% | ~60 |
+| Chopper Stopper | 60.00% | ~52 |
+| Aerosolized | 54.00% | ~47 |
+| Monstrosity Atrocity | 47.00% | ~41 |
+| Test of Faith | 44.00% | ~38 |
+| Reign of Terror | 41.00% | ~36 |
+| Crushing All Cars | 28.00% | ~24 |
+| Brain Chopper | 24.00% | ~21 |
+| Night Bird | 20.00% | ~17 |
+| Horror Show | 20.00% | ~17 |
 | Demolition Ambition | 13.00% | ~11 |
 | Hindenburgerer | 10.00% | ~9 |
 | Punchy Wagon | 8.00% | ~7 |
+| Trash the Planet. | 7.00% | ~6 |
 | Holy Terror | 6.00% | ~5 |
-| Trash the Planet. | 6.00% | ~5 |
 | Kill All Humans! | 6.00% | ~5 |
 | Midair Affair | 5.00% | ~4 |
 | Demolition Tactician | 5.00% | ~4 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~3 |
 | Simulation 8e7d28c1 | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 673)  
-Completed: 1 (1.16%) (Ranked 229)  
+Progressed: 87 (Ranked 693)  
+Completed: 1 (1.15%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -92,6 +92,7 @@ Completed: 1 (1.16%) (Ranked 229)
 | 2024-03-21 | 87 | 2 |
 | 2024-04-10 | 88 | 2 |
 | 2024-06-17 | 86 | 1 |
+| 2024-08-09 | 87 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

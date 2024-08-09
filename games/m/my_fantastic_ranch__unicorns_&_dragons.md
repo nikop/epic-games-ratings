@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 57.00% | ~36 |
-| Spirit of competition | 38.00% | ~24 |
-| Prized Possession | 35.00% | ~22 |
-| Creature Evolution | 33.00% | ~21 |
-| Festival Fever | 27.00% | ~17 |
-| Kingdom Party Time | 27.00% | ~17 |
-| Entering New Territory | 25.00% | ~16 |
-| Think Positive | 22.00% | ~14 |
-| Gotta Adopt Them All! | 14.00% | ~9 |
-| Just One More Go | 11.00% | ~7 |
-| Lecturer | 11.00% | ~7 |
-| Landscaper | 8.00% | ~5 |
-| Dream Big | 8.00% | ~5 |
+| Let the Adventure Begin! | 58.00% | ~40 |
+| Spirit of competition | 41.00% | ~28 |
+| Creature Evolution | 36.00% | ~25 |
+| Prized Possession | 36.00% | ~25 |
+| Festival Fever | 29.00% | ~20 |
+| Kingdom Party Time | 29.00% | ~20 |
+| Entering New Territory | 28.00% | ~19 |
+| Think Positive | 22.00% | ~15 |
+| Gotta Adopt Them All! | 16.00% | ~11 |
+| Just One More Go | 12.00% | ~8 |
+| Lecturer | 12.00% | ~8 |
+| Dream Big | 10.00% | ~7 |
+| Neverending Story | 9.00% | ~6 |
+| Landscaper | 7.00% | ~5 |
 | Diamonds in the Rough | 6.00% | ~4 |
-| Neverending Story | 6.00% | ~4 |
 | Kindred Spirits | 6.00% | ~4 |
 | Protected Nature Reserve | 3.00% | ~2 |
 | Fully Booked! | 3.00% | ~2 |
-| Kingdom Champions | 2.00% | ~1 |
-| Paving the Way | 2.00% | ~1 |
+| Kingdom Champions | 1.00% | ~1 |
+| Paving the Way | 1.00% | ~1 |
 | Dream Team | 0.00% | ~0 |
 | S is for Sensational | 0.00% | ~0 |
 | Dragon Academy | 0.00% | ~0 |
 | Job Done! | 0.00% | ~0 |
 | Claim to Fame | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 713)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 69 (Ranked 730)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 55 | 0 |
 | 2024-04-10 | 57 | 0 |
 | 2024-06-17 | 63 | 0 |
+| 2024-08-09 | 69 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

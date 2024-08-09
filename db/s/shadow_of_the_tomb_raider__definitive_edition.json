@@ -5,10 +5,10 @@
   "Ranking_Rating": 371,
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 43,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
     "PcReleaseDate": "2018-09-14T16:00:00+00:00",
@@ -10669,10 +10669,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 40813,
       "NumberOfAwardsMax": 30738
+    },
+    {
+      "Time": "2024-08-09T17:59:35.2886294+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 40817,
+      "NumberOfAwardsMax": 30738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40813,
+  "NumberOfAwards": 40817,
   "NumberOfAwardsMax": 30738,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10728,13 +10734,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 561
+      "Count": 563
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1209
+      "Count": 1211
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10760,8 +10766,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2024-08-09T14:58:20.7372795+00:00",
+  "LastChanged": "2024-08-09T17:59:35.288629+00:00",
   "LastUpdate_AppInfo": "2024-08-04T18:57:14.028663+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:40.132063+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:02.5765292+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:35.2886302+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:24.2215372+00:00"
 }

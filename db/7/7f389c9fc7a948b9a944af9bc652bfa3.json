@@ -2,10 +2,10 @@
   "ID": "7f389c9fc7a948b9a944af9bc652bfa3",
   "Name": "Madiha In The Forsaken Dungeon",
   "ProductSlug": "madiha-in-the-forsaken-dungeon-579971",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-24T17:22:00+00:00",
     "PcReleaseDate": "2024-06-24T17:22:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T08:57:18.0077805+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:03.7394768+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:34.8025823+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:50.4459227+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:14.2167298+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "eff9150abbd240558978d1285945ac45",
   "Name": "Silence of the Siren",
   "ProductSlug": "silence-of-the-siren-508ec8",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-05T18:57:39.8125106+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:37.5435686+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:27.184335+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:26.2829263+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:59.5864247+00:00"
 }

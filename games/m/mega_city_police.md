@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Mega City | 35.00% | ~17 |
-| Licence To Kill | 25.00% | ~12 |
-| Law and Order | 17.00% | ~8 |
-| Vintage Collector | 15.00% | ~7 |
-| Gibbing Love | 13.00% | ~6 |
-| Overkill | 13.00% | ~6 |
-| Hammer Time | 13.00% | ~6 |
+| Licence To Kill | 24.00% | ~12 |
+| Law and Order | 16.00% | ~8 |
+| Vintage Collector | 14.00% | ~7 |
+| Gibbing Love | 12.00% | ~6 |
+| Overkill | 12.00% | ~6 |
+| Hammer Time | 12.00% | ~6 |
 | Feel the Spark | 10.00% | ~5 |
 | The Hunt | 10.00% | ~5 |
 | Escape From M.C. | 8.00% | ~4 |
@@ -32,8 +32,8 @@
 | Speedrunner | 2.00% | ~1 |
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 746)  
-Completed: 1 (2.08%) (Ranked 183)  
+Progressed: 49 (Ranked 771)  
+Completed: 1 (2.04%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,3 +63,4 @@ Completed: 1 (2.08%) (Ranked 183)
 | 2024-02-22 | 43 | 1 |
 | 2024-03-21 | 44 | 1 |
 | 2024-04-10 | 48 | 1 |
+| 2024-08-09 | 49 | 1 |

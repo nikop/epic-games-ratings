@@ -4,30 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 93.00% | ~224 |
-| Dousing a Venerable Flame | 13.00% | ~31 |
-| Advanced Armaments | 13.00% | ~31 |
-| A Small Thirsty Thing | 12.00% | ~29 |
-| Spirit Within | 11.00% | ~27 |
-| Overboard | 10.00% | ~24 |
-| Bladesmith | 10.00% | ~24 |
-| Leisis Bless You | 10.00% | ~24 |
-| Rain Must Fall | 9.00% | ~22 |
-| The Guardian of Fire | 9.00% | ~22 |
-| Sovereignty of Irons | 8.00% | ~19 |
-| Explorer | 7.00% | ~17 |
-| The River Styx | 7.00% | ~17 |
-| Twin Thorns | 7.00% | ~17 |
-| Let Me Solo Them | 6.00% | ~14 |
-| Sommelier | 5.00% | ~12 |
-| A Sandwyrm's Hoard | 5.00% | ~12 |
+| Setting Sail | 92.00% | ~238 |
+| Dousing a Venerable Flame | 13.00% | ~34 |
+| Advanced Armaments | 13.00% | ~34 |
+| A Small Thirsty Thing | 12.00% | ~31 |
+| Spirit Within | 11.00% | ~28 |
+| Overboard | 10.00% | ~26 |
+| Bladesmith | 10.00% | ~26 |
+| Leisis Bless You | 10.00% | ~26 |
+| Rain Must Fall | 9.00% | ~23 |
+| The River Styx | 8.00% | ~21 |
+| The Guardian of Fire | 8.00% | ~21 |
+| Sovereignty of Irons | 8.00% | ~21 |
+| Let Me Solo Them | 7.00% | ~18 |
+| Explorer | 7.00% | ~18 |
+| Twin Thorns | 7.00% | ~18 |
+| A Sandwyrm's Hoard | 6.00% | ~16 |
+| Sommelier | 5.00% | ~13 |
 | Frigid Winds | 4.00% | ~10 |
-| Missing Melodies | 2.00% | ~5 |
+| Missing Melodies | 3.00% | ~8 |
+| Pommelsmith | 2.00% | ~5 |
 | Redeemer | 2.00% | ~5 |
 | Smotherly Love | 2.00% | ~5 |
 | Transformative Nature | 2.00% | ~5 |
-| Pommelsmith | 1.00% | ~2 |
 | One Size Fits All | 0.40% | ~1 |
+| The Trinket Tracker | 0.40% | ~1 |
 | Champion of Starspire | 0.40% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
@@ -36,7 +37,6 @@
 | Barophobia | 0.00% | ~0 |
 | Shattered Illusions | 0.00% | ~0 |
 | Aura Mastered | 0.00% | ~0 |
-| The Trinket Tracker | 0.00% | ~0 |
 | Family Heirlooms | 0.00% | ~0 |
 | A Casualty of Truth | 0.00% | ~0 |
 | Ignorant Bliss | 0.00% | ~0 |
@@ -63,8 +63,8 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 241 (Ranked 537)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 259 (Ranked 544)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 191 | 0 |
 | 2024-04-10 | 200 | 0 |
 | 2024-06-17 | 241 | 0 |
+| 2024-08-09 | 259 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

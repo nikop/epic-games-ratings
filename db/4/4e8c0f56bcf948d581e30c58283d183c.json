@@ -2,10 +2,10 @@
   "ID": "4e8c0f56bcf948d581e30c58283d183c",
   "Name": "Dragon Age II: Ultimate Edition",
   "ProductSlug": "dragon-age-ii-ultimate-edition-12b171",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-23T20:00:00+00:00",
     "PcReleaseDate": "2011-03-08T08:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-25T13:57:29.9038116+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:15.9720226+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:17.2205103+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:21.7278769+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:13.7486641+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:54.2758318+00:00"
 }

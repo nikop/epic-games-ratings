@@ -5,25 +5,25 @@ Rating: 4.09 (Ranked 1,156)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 53.00% | ~56,736 |
-| More Power to You | 39.00% | ~41,749 |
-| As Far Away As Possible | 23.00% | ~24,621 |
-| A Most Unstable Organism | 15.00% | ~16,057 |
-| Nano Connoisseur | 9.00% | ~9,634 |
-| No Time to Follow Protocol | 9.00% | ~9,634 |
-| Float Like a Butterfly... | 7.00% | ~7,493 |
-| In Two Places At Once | 5.00% | ~5,352 |
-| Pulling Your Weight | 2.00% | ~2,141 |
-| Reaping Rivals | 2.00% | ~2,141 |
-| Gone Rogue | 2.00% | ~2,141 |
-| fifteenth Time's the Charm | 1.00% | ~1,070 |
-| Completely Customizable | 0.60% | ~642 |
-| Memory Keeper | 0.50% | ~535 |
-| Past Master | 0.40% | ~428 |
-| Runs for Your Money | 0.20% | ~214 |
+| Your Lucky Day | 53.00% | ~57,312 |
+| More Power to You | 39.00% | ~42,173 |
+| As Far Away As Possible | 23.00% | ~24,871 |
+| A Most Unstable Organism | 15.00% | ~16,220 |
+| Nano Connoisseur | 9.00% | ~9,732 |
+| No Time to Follow Protocol | 9.00% | ~9,732 |
+| Float Like a Butterfly... | 7.00% | ~7,570 |
+| In Two Places At Once | 5.00% | ~5,407 |
+| Pulling Your Weight | 2.00% | ~2,163 |
+| Reaping Rivals | 2.00% | ~2,163 |
+| Gone Rogue | 2.00% | ~2,163 |
+| fifteenth Time's the Charm | 1.00% | ~1,081 |
+| Memory Keeper | 0.50% | ~541 |
+| Completely Customizable | 0.50% | ~541 |
+| Past Master | 0.40% | ~433 |
+| Runs for Your Money | 0.20% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107,049 (Ranked 121)  
-Completed: 87 (0.08%) (Ranked 424)  
+Progressed: 108,136 (Ranked 127)  
+Completed: 87 (0.08%) (Ranked 442)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,10 +180,11 @@ Completed: 87 (0.08%) (Ranked 424)
 | 2024-03-21 | 98,040 | 85 |
 | 2024-04-10 | 102,435 | 86 |
 | 2024-06-17 | 107,049 | 87 |
+| 2024-08-09 | 108,136 | 87 |
 ## Awards
 Max (Great for Beginners): 188  (Ranked 365)  
-Sum: 767 (Ranked 354)  
-Diff (max vs sum): 11  
+Sum: 767 (Ranked 355)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 188 |

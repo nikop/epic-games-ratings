@@ -2,10 +2,10 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 515,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
     "PcReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
-  "EOS_Completed": 11,
+  "EOS_Progressed": 338,
+  "EOS_Completed": 12,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.37,
+  "EOS_Completed_Percentage": 3.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -505,6 +505,11 @@
       "Time": "2024-06-17T16:13:21.0056427+00:00",
       "NumProgressed": 326,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-08-09T18:03:56.373992+00:00",
+      "NumProgressed": 338,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 22,
@@ -516,31 +521,31 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 310
+      "UsersEstimate": 321
     },
     {
       "ID": "605742",
       "SetID": "4lpaifm",
       "Name": "Creator of Diversity",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 241
+      "UsersEstimate": 247
     },
     {
       "ID": "605752",
       "SetID": "4lpaifm",
       "Name": "Creator of Life",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 284
     },
     {
       "ID": "605762",
       "SetID": "4lpaifm",
       "Name": "Creator of Humanity",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "605772",
@@ -548,7 +553,7 @@
       "Name": "Creator of Civilization",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "605782",
@@ -556,7 +561,7 @@
       "Name": "Creator of Technology",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "605792",
@@ -564,7 +569,7 @@
       "Name": "Creator of Modernity",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "605802",
@@ -572,7 +577,7 @@
       "Name": "Creator of Magic",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "605812",
@@ -580,15 +585,15 @@
       "Name": "God of Fun",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "605822",
       "SetID": "4lpaifm",
       "Name": "Brilliant Inventor",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "605832",
@@ -596,15 +601,15 @@
       "Name": "Deity of Darkness",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "605842",
       "SetID": "4lpaifm",
       "Name": "God of Patience",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "605852",
@@ -612,7 +617,7 @@
       "Name": "Doodle Bar",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "605862",
@@ -620,15 +625,15 @@
       "Name": "Half the Kingdom",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "605872",
       "SetID": "4lpaifm",
       "Name": "Practice Makes Perfect",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 280
+      "UsersEstimate": 287
     },
     {
       "ID": "605892",
@@ -636,7 +641,7 @@
       "Name": "Similar to Similar",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 243
     },
     {
       "ID": "605912",
@@ -644,15 +649,15 @@
       "Name": "Master of Alchemy",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "605942",
       "SetID": "4lpaifm",
       "Name": "Master of the Worlds",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "610000",
@@ -660,15 +665,15 @@
       "Name": "Greatest inventor",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "610001",
       "SetID": "4lpaifm",
       "Name": "Salvation!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 30
     },
     {
       "ID": "740512",
@@ -676,7 +681,7 @@
       "Name": "Honorable Santa",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "844452",
@@ -684,23 +689,23 @@
       "Name": "Heavenly Virtues",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 326,
-      "Completed": 11
+      "Progressed": 338,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:31:33.9017854+00:00",
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:21.0056423+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:56.3739914+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:10.6121991+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:55.687802+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:21.0056581+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:41.3760016+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:56.3740077+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "833ef2482db54a19a83c264f5371f550",
   "Name": "Eriksholm: The Stolen Dream",
   "ProductSlug": "eriksholm-the-stolen-dream-c90ad9",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T03:57:19.144888+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:45.7058799+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:02:01.4552472+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:57.5978224+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:51.2181285+00:00"
 }

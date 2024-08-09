@@ -5,10 +5,10 @@
   "Ranking_Rating": 828,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 453,
-  "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Completed": 362,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -1049,11 +1049,11 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5988,
-  "EOS_Completed": 7,
+  "EOS_Progressed": 6400,
+  "EOS_Completed": 19,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-10-12T19:05:41.6405528+00:00",
@@ -5019,6 +5019,11 @@
       "Time": "2024-06-17T16:13:23.4076568+00:00",
       "NumProgressed": 5988,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-08-09T18:03:57.523159+00:00",
+      "NumProgressed": 6400,
+      "NumCompleted": 19
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -5029,233 +5034,233 @@
       "ID": "FindSkillBook",
       "SetID": "80nhi4a",
       "Name": "I\u0027d Buy That For a Dollar!",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 419
+      "UsersEstimate": 704
     },
     {
       "ID": "FinishCSI",
       "SetID": "80nhi4a",
       "Name": "Hard Boiled",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 299
+      "UsersEstimate": 512
     },
     {
       "ID": "GiveTicket",
       "SetID": "80nhi4a",
       "Name": "Uphold the Law",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 539
+      "UsersEstimate": 832
     },
     {
       "ID": "HackTurret",
       "SetID": "80nhi4a",
       "Name": "May Be Used Against You",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 320
     },
     {
       "ID": "HighRatedEvaluation",
       "SetID": "80nhi4a",
       "Name": "Officer of the month",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 359
+      "UsersEstimate": 640
     },
     {
       "ID": "Kill3WithExplosion",
       "SetID": "80nhi4a",
       "Name": "Nukem!",
-      "Percentage": 5,
+      "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 299
+      "UsersEstimate": 576
     },
     {
       "ID": "KillBikerWithHisBike",
       "SetID": "80nhi4a",
       "Name": "Live by the bike...",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 512
     },
     {
       "ID": "KillEnemyWithThrowable",
       "SetID": "80nhi4a",
       "Name": "Strikeout!",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 659
+      "UsersEstimate": 1024
     },
     {
       "ID": "L15Efficiency",
       "SetID": "80nhi4a",
       "Name": "There Can Only Be One",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 60
+      "UsersEstimate": 128
     },
     {
       "ID": "ModifyAuto9",
       "SetID": "80nhi4a",
       "Name": "All Adds Up",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 419
+      "UsersEstimate": 704
     },
     {
       "ID": "Ql01station",
       "SetID": "80nhi4a",
       "Name": "Night Has Just Begun",
-      "Percentage": 12,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 719
+      "UsersEstimate": 1088
     },
     {
       "ID": "Ql04soot",
       "SetID": "80nhi4a",
       "Name": "Dead or Alive",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 419
+      "UsersEstimate": 704
     },
     {
       "ID": "Ql06ED",
       "SetID": "80nhi4a",
       "Name": "Twenty Seconds to Comply",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 359
+      "UsersEstimate": 640
     },
     {
       "ID": "Ql09bank",
       "SetID": "80nhi4a",
       "Name": "Don\u0027t Mess With the Money!",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 359
+      "UsersEstimate": 576
     },
     {
       "ID": "Ql12mall",
       "SetID": "80nhi4a",
       "Name": "Book Him!",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 299
+      "UsersEstimate": 512
     },
     {
       "ID": "Ql17prisonbreak",
       "SetID": "80nhi4a",
       "Name": "Let\u0027s Talk",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 240
+      "UsersEstimate": 448
     },
     {
       "ID": "Ql21ocphq",
       "SetID": "80nhi4a",
       "Name": "Cashing Out",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 384
     },
     {
       "ID": "Ql25wendel",
       "SetID": "80nhi4a",
       "Name": "Not Arresting You Anymore",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 180
+      "UsersEstimate": 320
     },
     {
       "ID": "Ql27ENDGAME",
       "SetID": "80nhi4a",
       "Name": "\u0022Nice shooting, son\u0022",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 256
     },
     {
       "ID": "SaveCat",
       "SetID": "80nhi4a",
       "Name": "A Real Hero",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 320
     },
     {
       "ID": "SecretArcadeRoom",
       "SetID": "80nhi4a",
       "Name": "No stone unturned",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 180
+      "UsersEstimate": 256
     },
     {
       "ID": "SecretAuto9Board",
       "SetID": "80nhi4a",
       "Name": "Good eyes, Murphy!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 128
     },
     {
       "ID": "ShootInTheBalls",
       "SetID": "80nhi4a",
       "Name": "Zip This Up",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 659
+      "UsersEstimate": 1088
     },
     {
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 419
+      "UsersEstimate": 640
     },
     {
       "ID": "ShootingRangeGold",
       "SetID": "80nhi4a",
       "Name": "SuperCop",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 240
+      "UsersEstimate": 384
     },
     {
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 299
+      "UsersEstimate": 512
     },
     {
       "ID": "SkillBranchMax",
       "SetID": "80nhi4a",
       "Name": "Practice Makes Perfect",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 240
+      "UsersEstimate": 384
     }
   ],
   "AchievementSets": [
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 5988,
-      "Completed": 7
+      "Progressed": 6400,
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
   "LastChanged": "2024-08-07T18:58:22.7332071+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:23.4076565+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:57.5231588+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:00.9636735+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:13.9412953+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:23.4076847+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:04.5972415+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:57.523187+00:00"
 }

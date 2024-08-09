@@ -2,10 +2,10 @@
   "ID": "4d7b7a63e2f4443bb29486d8f4db941b",
   "Name": "Lysfanga: The Time Shift Warrior",
   "ProductSlug": "lysfanga-9608f2",
-  "Ranking_EOS_Progress": 671,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 692,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-13T15:00:00+00:00",
     "PcReleaseDate": "2024-02-13T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -49,6 +49,11 @@
       "Time": "2024-06-17T16:16:20.8244043+00:00",
       "NumProgressed": 87,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:14.8404012+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:42.4571292+00:00",
@@ -59,7 +64,7 @@
       "ID": "ACH_SIDE_001",
       "SetID": "bh57elp",
       "Name": "Mote of Magic",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 5,
       "UsersEstimate": 80
     },
@@ -179,7 +184,7 @@
       "ID": "ACH_SIDE_051",
       "SetID": "bh57elp",
       "Name": "The Codex",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 5,
       "UsersEstimate": 54
     },
@@ -195,7 +200,7 @@
       "ID": "ACH_SIDE_061",
       "SetID": "bh57elp",
       "Name": "Shard of power",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
       "UsersEstimate": 66
     },
@@ -203,7 +208,7 @@
       "ID": "ACH_SIDE_062",
       "SetID": "bh57elp",
       "Name": "Remnant crafting",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 37
     },
@@ -219,7 +224,7 @@
       "ID": "ACH_SIDE_101",
       "SetID": "bh57elp",
       "Name": "Speedy Fight",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -379,7 +384,7 @@
       "ID": "ACH_STORY_01",
       "SetID": "bh57elp",
       "Name": "Welcome to Mayura",
-      "Percentage": 97,
+      "Percentage": 95,
       "XP": 5,
       "UsersEstimate": 84
     },
@@ -387,7 +392,7 @@
       "ID": "ACH_STORY_02",
       "SetID": "bh57elp",
       "Name": "Me, me, and... me!",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 5,
       "UsersEstimate": 78
     },
@@ -395,7 +400,7 @@
       "ID": "ACH_STORY_03",
       "SetID": "bh57elp",
       "Name": "Lost Brother",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
       "UsersEstimate": 61
     },
@@ -403,7 +408,7 @@
       "ID": "ACH_STORY_04",
       "SetID": "bh57elp",
       "Name": "Power of the Goddess",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 46
     },
@@ -411,7 +416,7 @@
       "ID": "ACH_STORY_11",
       "SetID": "bh57elp",
       "Name": "The High City",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 44
     },
@@ -427,7 +432,7 @@
       "ID": "ACH_STORY_13",
       "SetID": "bh57elp",
       "Name": "Sacred Weapons",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -435,7 +440,7 @@
       "ID": "ACH_STORY_14",
       "SetID": "bh57elp",
       "Name": "Family Reunion",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -564,14 +569,14 @@
     {
       "ID": "bh57elp",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-15T03:58:04.4668239+00:00",
   "FirstSeenAchievements": "2023-07-16T17:04:11.7793699+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:16:20.8244038+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:14.8404003+00:00",
   "LastUpdate_AppInfo": "2024-08-03T06:57:26.9690938+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:29.0375204+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:16:20.82446+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:03.5873776+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:14.840457+00:00"
 }

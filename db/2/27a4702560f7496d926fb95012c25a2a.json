@@ -2,10 +2,10 @@
   "ID": "27a4702560f7496d926fb95012c25a2a",
   "Name": "Please Comply",
   "ProductSlug": "please-comply-1eab88",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-11-12T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:50.7939919+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:01:56.2197876+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:50.5630289+00:00",
   "LastUpdate_AppInfo": "2024-08-07T02:57:01.5666846+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:30.8012721+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:56.219796+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:04.6820352+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:50.5630304+00:00"
 }

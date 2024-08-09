@@ -2,10 +2,10 @@
   "ID": "ab72c57fc8ba452eaf3575d1c0f4792b",
   "Name": "Inn Keeper",
   "ProductSlug": "inn-keeper-7a4979",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-28T01:52:13.3206794+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:12:52.3928667+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:44.3945078+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:21.3104038+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:16.9729403+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:52.3928706+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:13.5084335+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:44.3945137+00:00"
 }

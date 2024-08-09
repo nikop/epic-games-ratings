@@ -1,66 +1,66 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.59 (Ranked 487)  
+Rating: 4.59 (Ranked 486)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 52.00% | ~760 |
-| Rail Rat | 39.00% | ~570 |
-| The Mysterious Stranger | 38.00% | ~555 |
-| Immaculate Aim | 33.00% | ~482 |
-| The Brass Boss | 32.00% | ~468 |
-| Make Up For Lost Time | 30.00% | ~438 |
-| Time Flies | 30.00% | ~438 |
-| No, Thanks! | 30.00% | ~438 |
-| The Prince in Heels | 30.00% | ~438 |
-| Honest Mistake | 30.00% | ~438 |
-| Fast Learner | 30.00% | ~438 |
-| The Harder They Fall | 29.00% | ~424 |
-| Immaculate Aim | 29.00% | ~424 |
-| The Steel Shadow | 28.00% | ~409 |
-| The Wicked Twins | 27.00% | ~394 |
-| Like Clockwork | 26.00% | ~380 |
-| The Betrayer | 26.00% | ~380 |
-| Breaking Down Barriers | 26.00% | ~380 |
-| Golem Chaser | 26.00% | ~380 |
-| Right On Time | 25.00% | ~365 |
-| The Loose Cannon | 24.00% | ~351 |
-| Check Your Pulse | 24.00% | ~351 |
-| Street Style | 23.00% | ~336 |
-| The Man Who Shattered Time | 23.00% | ~336 |
-| The Family Fortune | 23.00% | ~336 |
-| Whiz Kid | 19.00% | ~278 |
-| Good Neighbor | 18.00% | ~263 |
-| Chaincrawler Explorer | 16.00% | ~234 |
-| Family Memories | 15.00% | ~219 |
-| Syron for Hope | 15.00% | ~219 |
-| Ask Questions Later | 15.00% | ~219 |
-| Treasure Trove | 14.00% | ~205 |
-| Cartographer | 14.00% | ~205 |
-| Sump Explorer | 14.00% | ~205 |
-| Factorywood Explorer | 13.00% | ~190 |
-| Theater Explorer | 13.00% | ~190 |
-| Fairgrounds Explorer | 12.00% | ~175 |
-| Cultivair Explorer | 11.00% | ~161 |
-| Entresol Explorer | 11.00% | ~161 |
-| Corin Goes Home | 10.00% | ~146 |
-| Sartorialist | 10.00% | ~146 |
-| Golem Hunter | 8.00% | ~117 |
-| Clovemary for Remembering | 7.00% | ~102 |
-| Hexlock for Protection | 7.00% | ~102 |
-| Rungs Was Right | 7.00% | ~102 |
+| Time Heals All Wounds | 52.00% | ~769 |
+| Rail Rat | 40.00% | ~592 |
+| The Mysterious Stranger | 39.00% | ~577 |
+| Immaculate Aim | 34.00% | ~503 |
+| The Brass Boss | 32.00% | ~473 |
+| Time Flies | 31.00% | ~458 |
+| No, Thanks! | 31.00% | ~458 |
+| The Prince in Heels | 31.00% | ~458 |
+| Honest Mistake | 31.00% | ~458 |
+| Make Up For Lost Time | 30.00% | ~444 |
+| The Harder They Fall | 30.00% | ~444 |
+| Fast Learner | 30.00% | ~444 |
+| Immaculate Aim | 30.00% | ~444 |
+| The Steel Shadow | 29.00% | ~429 |
+| Like Clockwork | 27.00% | ~399 |
+| Breaking Down Barriers | 27.00% | ~399 |
+| The Wicked Twins | 27.00% | ~399 |
+| Golem Chaser | 27.00% | ~399 |
+| Right On Time | 26.00% | ~385 |
+| The Betrayer | 26.00% | ~385 |
+| The Loose Cannon | 24.00% | ~355 |
+| Check Your Pulse | 24.00% | ~355 |
+| Street Style | 23.00% | ~340 |
+| The Man Who Shattered Time | 23.00% | ~340 |
+| The Family Fortune | 23.00% | ~340 |
+| Whiz Kid | 19.00% | ~281 |
+| Good Neighbor | 18.00% | ~266 |
+| Chaincrawler Explorer | 16.00% | ~237 |
+| Family Memories | 16.00% | ~237 |
+| Ask Questions Later | 16.00% | ~237 |
+| Syron for Hope | 15.00% | ~222 |
+| Treasure Trove | 14.00% | ~207 |
+| Cartographer | 14.00% | ~207 |
+| Sump Explorer | 14.00% | ~207 |
+| Factorywood Explorer | 13.00% | ~192 |
+| Theater Explorer | 13.00% | ~192 |
+| Fairgrounds Explorer | 12.00% | ~177 |
+| Cultivair Explorer | 11.00% | ~163 |
+| Entresol Explorer | 11.00% | ~163 |
+| Corin Goes Home | 10.00% | ~148 |
+| Sartorialist | 10.00% | ~148 |
+| Golem Hunter | 8.00% | ~118 |
+| Clovemary for Remembering | 7.00% | ~104 |
+| Hexlock for Protection | 7.00% | ~104 |
+| Rungs Was Right | 7.00% | ~104 |
 | Wunderkind | 3.00% | ~44 |
 | Fitting In | 3.00% | ~44 |
-| Thinking Two Steps Ahead | 2.00% | ~29 |
+| Thinking Two Steps Ahead | 2.00% | ~30 |
 | A Lesson in Precision | 1.00% | ~15 |
 | No Time to Waste | 1.00% | ~15 |
 | Wildlife Protection | 0.80% | ~12 |
 | Raw Talent | 0.80% | ~12 |
 | Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,461 (Ranked 365)  
-Completed: 8 (0.55%) (Ranked 297)  
+Progressed: 1,479 (Ranked 377)  
+Completed: 8 (0.54%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,6 +252,7 @@ Completed: 8 (0.55%) (Ranked 297)
 | 2024-03-21 | 1,422 | 8 |
 | 2024-04-10 | 1,433 | 8 |
 | 2024-06-17 | 1,461 | 8 |
+| 2024-08-09 | 1,479 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

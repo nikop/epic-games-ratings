@@ -6,9 +6,9 @@
   "Ranking_Popularity": 574,
   "Ranking_PopularitySum": 622,
   "Ranking_EOS_Progress": 307,
-  "Ranking_EOS_Completed": 458,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Completed": 487,
+  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2017-11-05T23:00:00+00:00",
@@ -314,11 +314,11 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 2844,
+  "EOS_Progressed": 3300,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.04,
+  "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:52.937689+00:00",
@@ -334,6 +334,11 @@
       "Time": "2024-07-30T16:02:40.0506227+00:00",
       "NumProgressed": 2844,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-09T18:08:11.8542132+00:00",
+      "NumProgressed": 3300,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:52.9377008+00:00",
@@ -346,79 +351,79 @@
       "Name": "Welcome to Fortune Valley",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 2844
+      "UsersEstimate": 3300
     },
     {
       "ID": "achievement_10",
       "SetID": "ck8npoh",
       "Name": "Big Sister",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1320
     },
     {
       "ID": "achievement_11",
       "SetID": "ck8npoh",
       "Name": "Underground Soldier",
-      "Percentage": 42,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1287
     },
     {
       "ID": "achievement_12",
       "SetID": "ck8npoh",
       "Name": "Gallo Rivera",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 882
+      "UsersEstimate": 957
     },
     {
       "ID": "achievement_13",
       "SetID": "ck8npoh",
       "Name": "Faith Jones",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 825
     },
     {
       "ID": "achievement_14",
       "SetID": "ck8npoh",
       "Name": "Aki Kimura",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 825
+      "UsersEstimate": 891
     },
     {
       "ID": "achievement_15",
       "SetID": "ck8npoh",
       "Name": "Natalia Nova",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 693
     },
     {
       "ID": "achievement_16",
       "SetID": "ck8npoh",
       "Name": "Mitko Vasilev",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 627
     },
     {
       "ID": "achievement_17",
       "SetID": "ck8npoh",
       "Name": "Holtzman",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 569
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_18",
       "SetID": "ck8npoh",
       "Name": "Training Wheels Off",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2409
     },
     {
       "ID": "achievement_19",
@@ -426,23 +431,23 @@
       "Name": "Top Dog",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 142
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_2",
       "SetID": "ck8npoh",
       "Name": "Back in the Game",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2442
     },
     {
       "ID": "achievement_20",
       "SetID": "ck8npoh",
       "Name": "One Man\u0027s Trash",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 939
+      "UsersEstimate": 1023
     },
     {
       "ID": "achievement_21",
@@ -450,31 +455,31 @@
       "Name": "Another Man\u0027s Treasure",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_22",
       "SetID": "ck8npoh",
       "Name": "The Artist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_23",
       "SetID": "ck8npoh",
       "Name": "The Mogul",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 759
     },
     {
       "ID": "achievement_24",
       "SetID": "ck8npoh",
       "Name": "The Strategist",
-      "Percentage": 48,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_25",
@@ -482,7 +487,7 @@
       "Name": "Hope and Glory",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_26",
@@ -490,7 +495,7 @@
       "Name": "Outlaws on the Rise",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_27",
@@ -498,7 +503,7 @@
       "Name": "Tech Mate",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_28",
@@ -506,7 +511,7 @@
       "Name": "Carbon Cartel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_29",
@@ -514,15 +519,15 @@
       "Name": "Under the Hood",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_3",
       "SetID": "ck8npoh",
       "Name": "We Got This",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1650
     },
     {
       "ID": "achievement_30",
@@ -530,7 +535,7 @@
       "Name": "First Strike is Deadly",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_31",
@@ -544,25 +549,25 @@
       "ID": "achievement_32",
       "SetID": "ck8npoh",
       "Name": "Friendly Competition",
-      "Percentage": 49,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1485
     },
     {
       "ID": "achievement_33",
       "SetID": "ck8npoh",
       "Name": "A Daily a Day",
-      "Percentage": 62,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1763
+      "UsersEstimate": 1914
     },
     {
       "ID": "achievement_34",
       "SetID": "ck8npoh",
       "Name": "You\u0027ve Got the Need",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_35",
@@ -570,7 +575,7 @@
       "Name": "Flat-Out",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_36",
@@ -578,23 +583,23 @@
       "Name": "Sideways Style",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_37",
       "SetID": "ck8npoh",
       "Name": "Aces High",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_38",
       "SetID": "ck8npoh",
       "Name": "All In",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_39",
@@ -602,55 +607,55 @@
       "Name": "Wherever I May Roam",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_4",
       "SetID": "ck8npoh",
       "Name": "I Fought the Law",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1188
     },
     {
       "ID": "achievement_40",
       "SetID": "ck8npoh",
       "Name": "Does Not Obey",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_41",
       "SetID": "ck8npoh",
       "Name": "Tinker, Tailor, Racer, Fly",
-      "Percentage": 30,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 924
     },
     {
       "ID": "achievement_42",
       "SetID": "ck8npoh",
       "Name": "Scrappy Racer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_43",
       "SetID": "ck8npoh",
       "Name": "Comeback is Real",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 825
     },
     {
       "ID": "achievement_44",
       "SetID": "ck8npoh",
       "Name": "Hyperspeed",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_45",
@@ -658,23 +663,23 @@
       "Name": "1500 bhp... Easy",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_46",
       "SetID": "ck8npoh",
       "Name": "Perfect Shift",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1122
     },
     {
       "ID": "achievement_47",
       "SetID": "ck8npoh",
       "Name": "Take Them Down",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 626
+      "UsersEstimate": 660
     },
     {
       "ID": "achievement_48",
@@ -682,13 +687,13 @@
       "Name": "Active Lifestyle",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_49",
       "SetID": "ck8npoh",
       "Name": "Who Runs this Town?",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 60,
       "UsersEstimate": 23
     },
@@ -696,9 +701,9 @@
       "ID": "achievement_5",
       "SetID": "ck8npoh",
       "Name": "Double or Nothing",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 711
+      "UsersEstimate": 759
     },
     {
       "ID": "achievement_50",
@@ -706,7 +711,7 @@
       "Name": "Pranked",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_51",
@@ -714,7 +719,7 @@
       "Name": "Cover Stars",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 57
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_52",
@@ -722,7 +727,7 @@
       "Name": "Driving the Incredible",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_53",
@@ -730,7 +735,7 @@
       "Name": "Supercars for Breakfast",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_54",
@@ -738,7 +743,7 @@
       "Name": "Accelerate Your Potential",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_55",
@@ -746,13 +751,13 @@
       "Name": "Built for the Adventurer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_56",
       "SetID": "4ic11he",
       "Name": "Maximum Insanity",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 23
     },
@@ -760,54 +765,54 @@
       "ID": "achievement_57",
       "SetID": "4ic11he",
       "Name": "Speedcross Champion",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 363
     },
     {
       "ID": "achievement_6",
       "SetID": "ck8npoh",
       "Name": "Against All Odds",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 512
+      "UsersEstimate": 528
     },
     {
       "ID": "achievement_7",
       "SetID": "ck8npoh",
       "Name": "Spread the Word",
-      "Percentage": 71,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2277
     },
     {
       "ID": "achievement_8",
       "SetID": "ck8npoh",
       "Name": "La Catrina",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1914
     },
     {
       "ID": "achievement_9",
       "SetID": "ck8npoh",
       "Name": "Udo Roth",
-      "Percentage": 56,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1782
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ic11he",
       "IsBase": false,
-      "Progressed": 2844,
+      "Progressed": 3300,
       "Completed": 11
     },
     {
       "ID": "ck8npoh",
       "IsBase": true,
-      "Progressed": 2844,
+      "Progressed": 3300,
       "Completed": 1
     }
   ],
@@ -815,8 +820,8 @@
   "FirstSeenRating": "2024-05-26T21:59:48.4589208+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9377006+00:00",
   "LastChanged": "2024-08-05T02:57:36.1157163+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:40.0506223+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:11.8542126+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:07.0650188+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:25.3053173+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:40.0506605+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:15.0668716+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:11.8542532+00:00"
 }

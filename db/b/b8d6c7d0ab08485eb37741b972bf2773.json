@@ -2,10 +2,10 @@
   "ID": "b8d6c7d0ab08485eb37741b972bf2773",
   "Name": "Pneumata",
   "ProductSlug": "pneumata-b5de46",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T08:57:01.0787394+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:28.7574784+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:39.8780926+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:46.8438604+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:57.0643072+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "553ca63b8abf4b708198cae44504fa92",
   "Name": "Victorian Admirals Samoan Crisis 1889",
   "ProductSlug": "victorian-admirals-samoan-crisis-1889-3eab06",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-01-24T04:00:00+00:00",
     "PcReleaseDate": "2024-01-24T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-07T20:56:59.6308564+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:48.0369036+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:59.1359631+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:59.0545761+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:34.9108935+00:00"
 }

@@ -6,31 +6,31 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~17,206 |
-| Battering Crew | 19.00% | ~8,173 |
-| The Kingsroad | 17.00% | ~7,312 |
-| Well Stocked | 13.00% | ~5,592 |
-| Royal Fleet | 12.00% | ~5,162 |
-| The Kraken’s Grasp | 8.00% | ~3,441 |
-| Daggers in the Dark | 7.00% | ~3,011 |
-| Oathkeeper | 7.00% | ~3,011 |
-| Alliance | 7.00% | ~3,011 |
-| Influential | 7.00% | ~3,011 |
-| A Long Journey | 7.00% | ~3,011 |
-| Ours is the Fury | 6.00% | ~2,581 |
-| Winter is Coming | 6.00% | ~2,581 |
-| We Do Not Sow | 5.00% | ~2,151 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~2,151 |
-| Hear me Roar! | 5.00% | ~2,151 |
-| Defender of the Wall | 5.00% | ~2,151 |
-| Growing Strong | 4.00% | ~1,721 |
-| What is Dead may Never Die | 3.00% | ~1,290 |
-| King in the North | 2.00% | ~860 |
-| The Swift | 2.00% | ~860 |
-| War of the Five Kings | 1.00% | ~430 |
+| Conqueror | 41.00% | ~19,120 |
+| Battering Crew | 19.00% | ~8,861 |
+| The Kingsroad | 17.00% | ~7,928 |
+| Well Stocked | 13.00% | ~6,063 |
+| Royal Fleet | 12.00% | ~5,596 |
+| The Kraken’s Grasp | 8.00% | ~3,731 |
+| Daggers in the Dark | 7.00% | ~3,264 |
+| Oathkeeper | 7.00% | ~3,264 |
+| Alliance | 7.00% | ~3,264 |
+| Influential | 7.00% | ~3,264 |
+| A Long Journey | 7.00% | ~3,264 |
+| Ours is the Fury | 6.00% | ~2,798 |
+| Winter is Coming | 6.00% | ~2,798 |
+| We Do Not Sow | 5.00% | ~2,332 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~2,332 |
+| Hear me Roar! | 5.00% | ~2,332 |
+| Defender of the Wall | 5.00% | ~2,332 |
+| Growing Strong | 4.00% | ~1,865 |
+| What is Dead may Never Die | 3.00% | ~1,399 |
+| King in the North | 2.00% | ~933 |
+| The Swift | 2.00% | ~933 |
+| War of the Five Kings | 1.00% | ~466 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,014 (Ranked 170)  
-Completed: 111 (0.26%) (Ranked 353)  
+Progressed: 46,635 (Ranked 175)  
+Completed: 119 (0.26%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,6 +316,7 @@ Completed: 111 (0.26%) (Ranked 353)
 | 2024-03-21 | 37,925 | 98 |
 | 2024-04-10 | 39,150 | 99 |
 | 2024-06-17 | 43,014 | 111 |
+| 2024-08-09 | 46,635 | 119 |
 ## Awards
 Max (Quickly Understood Controls): 132  (Ranked 406)  
 Sum: 846 (Ranked 340)  

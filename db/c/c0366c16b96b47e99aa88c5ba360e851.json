@@ -2,10 +2,10 @@
   "ID": "c0366c16b96b47e99aa88c5ba360e851",
   "Name": "Lifeless Moon",
   "ProductSlug": "lifeless-moon-9bdb88",
-  "Ranking_EOS_Progress": 910,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 926,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-09T16:00:00+00:00",
     "PcReleaseDate": "2024-07-09T16:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T00:02:19.5871103+00:00",
       "NumProgressed": 10,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:26.8853202+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -44,7 +49,7 @@
       "ID": "ach1",
       "SetID": "5ioogf2",
       "Name": "Moon Rocks",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -52,7 +57,7 @@
       "ID": "ach10",
       "SetID": "5ioogf2",
       "Name": "Relic",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -60,7 +65,7 @@
       "ID": "ach11",
       "SetID": "5ioogf2",
       "Name": "Creative Power",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -76,7 +81,7 @@
       "ID": "ach13",
       "SetID": "5ioogf2",
       "Name": "The Woods",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "ach15",
       "SetID": "5ioogf2",
       "Name": "Second Chances",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "ach16",
       "SetID": "5ioogf2",
       "Name": "Memorial",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -108,7 +113,7 @@
       "ID": "ach17",
       "SetID": "5ioogf2",
       "Name": "Return Home",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -116,15 +121,15 @@
       "ID": "ach2",
       "SetID": "5ioogf2",
       "Name": "Undergrounderground lab",
-      "Percentage": 70,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ach3",
       "SetID": "5ioogf2",
       "Name": "Lake House",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -132,7 +137,7 @@
       "ID": "ach4",
       "SetID": "5ioogf2",
       "Name": "Breakthrough",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "ach5",
       "SetID": "5ioogf2",
       "Name": "Feline Friend",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "ach6",
       "SetID": "5ioogf2",
       "Name": "Across the Canyon",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "ach8",
       "SetID": "5ioogf2",
       "Name": "Eight Legs",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -172,7 +177,7 @@
       "ID": "ach9",
       "SetID": "5ioogf2",
       "Name": "Underwater Explorer",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -181,14 +186,14 @@
     {
       "ID": "5ioogf2",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-14T20:59:30.1858269+00:00",
   "FirstSeenAchievements": "2024-07-30T00:02:19.5883675+00:00",
-  "LastChanged_Achievements": "2024-07-30T00:02:19.5871094+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:26.8853199+00:00",
   "LastUpdate_AppInfo": "2024-08-07T20:56:58.4174663+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:50.5802232+00:00",
-  "LastUpdate_Achievements": "2024-07-30T00:02:19.6200415+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:38.8306417+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:26.8853275+00:00"
 }

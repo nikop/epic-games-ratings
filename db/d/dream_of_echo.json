@@ -2,10 +2,10 @@
   "ID": "bc2d472f63654c939fe9ad2e50c0ab6e",
   "Name": "Dream of Echo",
   "ProductSlug": "dream-of-echo-f5957c",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-05-11T11:00:00+00:00",
     "PcReleaseDate": "2023-05-11T11:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-05T02:57:10.2354969+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:02.6279782+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:38.5361157+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:07.5355022+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:26.9872442+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders",
   "Ranking_Rating": 435,
   "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 552,
-  "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_PopularitySum": 553,
+  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2016-11-26T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -951,7 +951,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 6757,
+  "EOS_Progressed": 9940,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -981,6 +981,11 @@
       "Time": "2024-06-17T16:18:21.685516+00:00",
       "NumProgressed": 6757,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:04.8360407+00:00",
+      "NumProgressed": 9940,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:06:53.6036766+00:00",
@@ -999,33 +1004,33 @@
       "ID": "ACHI_002",
       "SetID": "bnd0j9a",
       "Name": "Prison Break",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 2770
+      "UsersEstimate": 4175
     },
     {
       "ID": "ACHI_003",
       "SetID": "bnd0j9a",
       "Name": "Death Dealer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 3378
+      "UsersEstimate": 5069
     },
     {
       "ID": "ACHI_004",
       "SetID": "bnd0j9a",
       "Name": "One Tough Cookie",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1554
+      "UsersEstimate": 2386
     },
     {
       "ID": "ACHI_005",
       "SetID": "bnd0j9a",
       "Name": "Rocked Your Face Off",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 1351
+      "UsersEstimate": 2087
     },
     {
       "ID": "ACHI_006",
@@ -1033,39 +1038,39 @@
       "Name": "Ashes to Ashes",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACHI_007",
       "SetID": "bnd0j9a",
       "Name": "One Mean Mother",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1690
     },
     {
       "ID": "ACHI_008",
       "SetID": "bnd0j9a",
       "Name": "Payback\u0027s A B****",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 946
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACHI_009",
       "SetID": "bnd0j9a",
       "Name": "The Final Challenger?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 811
+      "UsersEstimate": 1292
     },
     {
       "ID": "ACHI_010",
       "SetID": "bnd0j9a",
       "Name": "Balance Restored",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 743
+      "UsersEstimate": 1193
     },
     {
       "ID": "ACHI_011",
@@ -1073,15 +1078,15 @@
       "Name": "The True Horseman",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHI_012",
       "SetID": "bnd0j9a",
       "Name": "To Move A Mountain",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3176
+      "UsersEstimate": 4771
     },
     {
       "ID": "ACHI_013",
@@ -1089,39 +1094,39 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1487
+      "UsersEstimate": 2187
     },
     {
       "ID": "ACHI_014",
       "SetID": "bnd0j9a",
       "Name": "Reach Out And Touch Somebody",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACHI_015",
       "SetID": "bnd0j9a",
       "Name": "Into the Void",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1690
     },
     {
       "ID": "ACHI_016",
       "SetID": "bnd0j9a",
       "Name": "Elemental Thief",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2027
+      "UsersEstimate": 3081
     },
     {
       "ID": "ACHI_017",
       "SetID": "bnd0j9a",
       "Name": "Sight Beyond Sight",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACHI_018",
@@ -1129,39 +1134,39 @@
       "Name": "Devastator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHI_019",
       "SetID": "bnd0j9a",
       "Name": "Treasure Hunter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1789
     },
     {
       "ID": "ACHI_020",
       "SetID": "bnd0j9a",
       "Name": "Tremor Bringer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1419
+      "UsersEstimate": 2187
     },
     {
       "ID": "ACHI_021",
       "SetID": "bnd0j9a",
       "Name": "An Old Friend",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 2087
     },
     {
       "ID": "ACHI_022",
       "SetID": "bnd0j9a",
       "Name": "Reaper",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2230
+      "UsersEstimate": 3380
     },
     {
       "ID": "ACHI_023",
@@ -1169,7 +1174,7 @@
       "Name": "Aerial Predator",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHI_024",
@@ -1177,7 +1182,7 @@
       "Name": "Full Power",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHI_025",
@@ -1185,15 +1190,15 @@
       "Name": "Wrath of War",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHI_026",
       "SetID": "bnd0j9a",
       "Name": "Ultimate Blade",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 1392
     },
     {
       "ID": "ACHI_027",
@@ -1201,15 +1206,15 @@
       "Name": "Wrath Machine",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 795
     },
     {
       "ID": "ACHI_028",
       "SetID": "bnd0j9a",
       "Name": "Reunited",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1889
     },
     {
       "ID": "ACHI_029",
@@ -1217,23 +1222,23 @@
       "Name": "Slayer",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2982
     },
     {
       "ID": "ACHI_030",
       "SetID": "bnd0j9a",
       "Name": "Don\u0027t Make Me Angry",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1689
+      "UsersEstimate": 2584
     },
     {
       "ID": "ACHI_031",
       "SetID": "bnd0j9a",
       "Name": "Chasm Jumper",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2770
+      "UsersEstimate": 4175
     },
     {
       "ID": "ACHI_032",
@@ -1241,7 +1246,7 @@
       "Name": "World Raider",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 298
     },
     {
       "ID": "ACHI_033",
@@ -1249,7 +1254,7 @@
       "Name": "Legendary Form",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 596
     },
     {
       "ID": "ACHI_034",
@@ -1257,7 +1262,7 @@
       "Name": "River of Blood",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACHI_035",
@@ -1265,7 +1270,7 @@
       "Name": "Dark Rider",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHI_036",
@@ -1273,23 +1278,23 @@
       "Name": "Horseman",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHI_037",
       "SetID": "bnd0j9a",
       "Name": "Time Lapse",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 2087
     },
     {
       "ID": "ACHI_038",
       "SetID": "bnd0j9a",
       "Name": "Battle Hardened",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 199
     },
     {
       "ID": "ACHI_039",
@@ -1297,23 +1302,23 @@
       "Name": "High Flier",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1554
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACHI_040",
       "SetID": "bnd0j9a",
       "Name": "Improvised Kills",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHI_041",
       "SetID": "bnd0j9a",
       "Name": "You Call This Easy?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 1292
     },
     {
       "ID": "ACHI_042",
@@ -1321,30 +1326,30 @@
       "Name": "Open Air Parking",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 199
     },
     {
       "ID": "NEW_ACHIEVEMENT_44_11",
       "SetID": "bnd0j9a",
       "Name": "Like A Bat Outta Hell",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 1689
+      "UsersEstimate": 2584
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnd0j9a",
       "IsBase": true,
-      "Progressed": 6757,
+      "Progressed": 9940,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:18.0300294+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:53.6036766+00:00",
   "LastChanged": "2024-08-04T14:57:40.7496378+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:18:21.685515+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:04.8360405+00:00",
   "LastUpdate_AppInfo": "2024-08-05T03:57:17.0479676+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:41.3228092+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:21.6855449+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:31.980525+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:04.8360663+00:00"
 }

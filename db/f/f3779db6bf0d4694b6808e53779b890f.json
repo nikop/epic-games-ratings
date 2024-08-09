@@ -2,10 +2,10 @@
   "ID": "f3779db6bf0d4694b6808e53779b890f",
   "Name": "House of Golf 2",
   "ProductSlug": "house-of-golf-2-f346a4",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1085,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-07-31T00:00:00+00:00",
@@ -23,17 +23,282 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:08:09.6963124+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:08:09.6963151+00:00",
+  "TotalAchievements": 31,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_99GoldStars",
+      "SetID": "6l171io",
+      "Name": "Astronomer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_99Medals",
+      "SetID": "6l171io",
+      "Name": "Hoarder",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AllChampsGold",
+      "SetID": "6l171io",
+      "Name": "Full Cabinet",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AllHazards",
+      "SetID": "6l171io",
+      "Name": "Test Pilot",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp01",
+      "SetID": "6l171io",
+      "Name": "Throwing Shapes",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp02",
+      "SetID": "6l171io",
+      "Name": "It\u0027s a Jungle... In Here?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp03",
+      "SetID": "6l171io",
+      "Name": "Model Performance",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp04",
+      "SetID": "6l171io",
+      "Name": "Like Clockwork",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp05",
+      "SetID": "6l171io",
+      "Name": "Play After Dark",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp06",
+      "SetID": "6l171io",
+      "Name": "Truffle Snuffle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp07",
+      "SetID": "6l171io",
+      "Name": "Fly Away",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp08",
+      "SetID": "6l171io",
+      "Name": "Dive Deep",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp09",
+      "SetID": "6l171io",
+      "Name": "Keep Rolling",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteChamp10",
+      "SetID": "6l171io",
+      "Name": "Local Legend",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CompleteTutorial",
+      "SetID": "6l171io",
+      "Name": "FORE!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DistanceTravelledToHole",
+      "SetID": "6l171io",
+      "Name": "Miles Away!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_First48HourChallenge",
+      "SetID": "6l171io",
+      "Name": "48 Hours",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FirstHoleInOne",
+      "SetID": "6l171io",
+      "Name": "Bullseye!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FiveLiveEvents",
+      "SetID": "6l171io",
+      "Name": "Five Alive",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FourHazardsOneShot",
+      "SetID": "6l171io",
+      "Name": "(Ra Ra) Rasputin",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LiveTournamentBeaten",
+      "SetID": "6l171io",
+      "Name": "Scored Big",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LiveTournamentPlayed",
+      "SetID": "6l171io",
+      "Name": "Big Stage",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MultiplayerChampionship",
+      "SetID": "6l171io",
+      "Name": "Better with Friends",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NineHolesInOne",
+      "SetID": "6l171io",
+      "Name": "Sharpshooter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PinballScore",
+      "SetID": "6l171io",
+      "Name": "Pinball Wizard",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PlayInstruments",
+      "SetID": "6l171io",
+      "Name": "Virtuoso",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PlayWithNewBall",
+      "SetID": "6l171io",
+      "Name": "New Looks",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PlayWithTenBalls",
+      "SetID": "6l171io",
+      "Name": "Accomplished Fashionista",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SnakeOneShot",
+      "SetID": "6l171io",
+      "Name": "Serpentine Shortcut",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Third48HourChallenges",
+      "SetID": "6l171io",
+      "Name": "Days Later",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TutorialMedals",
+      "SetID": "6l171io",
+      "Name": "Exceeds Expectations",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6l171io",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:08:09.696315+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:09.6963117+00:00",
   "LastUpdate_AppInfo": "2024-08-08T19:57:09.3894225+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:12.3305436+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:37.6778867+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:06.4008514+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:09.6971556+00:00"
 }

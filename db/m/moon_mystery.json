@@ -2,10 +2,10 @@
   "ID": "13ccdbe4cb8148b2b965957d4ec441f5",
   "Name": "Moon Mystery",
   "ProductSlug": "moon-mystery-9028e8",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-05T02:57:02.239239+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:08.2966208+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:20.3809862+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:33.8514176+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:42.5775791+00:00"
 }

@@ -14,7 +14,7 @@
 | Tech Breakthrough | 4.00% | ~3 |
 | 2nd AI War | 3.00% | ~2 |
 | Punish Eastgalaxy | 3.00% | ~2 |
-| Death of Princess | 1.00% | ~1 |
+| Death of Princess | 3.00% | ~2 |
 | Sendai Shogunate | 1.00% | ~1 |
 | Pirate Raid | 1.00% | ~1 |
 | Heaven Tower | 1.00% | ~1 |
@@ -53,8 +53,8 @@
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 692)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 76 (Ranked 717)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,3 +107,4 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 69 | 0 |
 | 2024-04-10 | 71 | 0 |
 | 2024-06-17 | 74 | 0 |
+| 2024-08-09 | 76 | 0 |

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 0.60% | ~2 |
-| Ram First Sergeant | 0.60% | ~2 |
-| Senior Sergeant Baran | 0.60% | ~2 |
-| Captain Baran | 0.30% | ~1 |
-| Senior Major Baran | 0.30% | ~1 |
-| Ram Corporal | 0.30% | ~1 |
-| Ram Sergeant | 0.30% | ~1 |
-| Ram Staff Sergeant | 0.30% | ~1 |
-| Sergeant Major Baran | 0.30% | ~1 |
-| Senior warrant officer Baran 3rd class | 0.00% | ~0 |
-| Senior warrant officer Baran 4th class | 0.00% | ~0 |
-| Junior Lieutenant Baran | 0.00% | ~0 |
-| Baran Senior Warrant Officer Grade 5 | 0.00% | ~0 |
-| Senior Lieutenant Baran | 0.00% | ~0 |
-| Lieutenant Colonel Baran | 0.00% | ~0 |
+| START | 3.00% | ~10 |
+| Ram Corporal | 2.00% | ~6 |
+| Ram First Sergeant | 1.00% | ~3 |
+| Senior Sergeant Baran | 1.00% | ~3 |
+| Sergeant Major Baran | 1.00% | ~3 |
+| Ram Sergeant | 0.90% | ~3 |
+| Ram Staff Sergeant | 0.90% | ~3 |
+| Senior warrant officer Baran 3rd class | 0.60% | ~2 |
+| Senior warrant officer Baran 4th class | 0.60% | ~2 |
+| Captain Baran | 0.60% | ~2 |
+| Senior Major Baran | 0.60% | ~2 |
+| Brigadier General Baran | 0.60% | ~2 |
+| Lieutenant General Baran | 0.60% | ~2 |
+| Senior warrant officer Baran 1st class | 0.60% | ~2 |
+| Senior warrant officer Baran 2nd class | 0.60% | ~2 |
+| Junior Lieutenant Baran | 0.30% | ~1 |
+| Baran Senior Warrant Officer Grade 5 | 0.30% | ~1 |
+| Senior Lieutenant Baran | 0.30% | ~1 |
+| Lieutenant Colonel Baran | 0.30% | ~1 |
+| EMERAID RAM | 0.30% | ~1 |
 | Colonel Baran | 0.00% | ~0 |
-| Brigadier General Baran | 0.00% | ~0 |
-| Lieutenant General Baran | 0.00% | ~0 |
-| EMERAID RAM | 0.00% | ~0 |
 | GOLDEN RAM | 0.00% | ~0 |
-| Senior warrant officer Baran 1st class | 0.00% | ~0 |
-| Senior warrant officer Baran 2nd class | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 318 (Ranked 510)  
-Completed: 15 (4.72%) (Ranked 124)  
+Progressed: 325 (Ranked 521)  
+Completed: 15 (4.62%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,3 +128,4 @@ Completed: 15 (4.72%) (Ranked 124)
 | 2024-03-21 | 308 | 0 |
 | 2024-04-10 | 313 | 0 |
 | 2024-06-17 | 318 | 15 |
+| 2024-08-09 | 325 | 15 |

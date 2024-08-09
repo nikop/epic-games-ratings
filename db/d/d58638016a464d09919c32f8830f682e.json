@@ -2,10 +2,10 @@
   "ID": "d58638016a464d09919c32f8830f682e",
   "Name": "Silenced: The House",
   "ProductSlug": "silenced-the-house-e6fd68",
-  "Ranking_EOS_Progress": 959,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 967,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-24T16:00:00+00:00",
     "PcReleaseDate": "2018-03-07T22:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:18.2401172+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:51.1728887+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -43,7 +48,7 @@
       "ID": "Blind faith",
       "SetID": "7decmfm",
       "Name": "Blind faith",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -51,7 +56,7 @@
       "ID": "Dead man",
       "SetID": "7decmfm",
       "Name": "Dead man",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -99,15 +104,15 @@
       "ID": "Savior",
       "SetID": "7decmfm",
       "Name": "Savior",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "The deadliest mistake",
       "SetID": "7decmfm",
       "Name": "The deadliest mistake",
-      "Percentage": 20,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -132,13 +137,13 @@
     {
       "ID": "7decmfm",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:18.2401222+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:18.2401166+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:51.1728882+00:00",
   "LastUpdate_AppInfo": "2024-08-03T04:57:39.0390665+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:12.7627066+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:18.2408434+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:58.6389953+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:51.1728967+00:00"
 }

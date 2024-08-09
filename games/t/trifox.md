@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 73.00% | ~80 |
-| Complete Level 1-1 | 64.00% | ~70 |
-| Immortal | 56.00% | ~62 |
-| Complete Level 1-2 | 45.00% | ~50 |
-| Scraping by | 34.00% | ~37 |
-| Engineer-mage hybrid | 34.00% | ~37 |
-| Complete Level 1-3 | 32.00% | ~35 |
+| What is this? | 73.00% | ~81 |
+| Complete Level 1-1 | 64.00% | ~71 |
+| Immortal | 57.00% | ~63 |
+| Complete Level 1-2 | 46.00% | ~51 |
+| Scraping by | 34.00% | ~38 |
+| Engineer-mage hybrid | 34.00% | ~38 |
+| Complete Level 1-3 | 32.00% | ~36 |
 | Defeat the warrior boss | 25.00% | ~28 |
 | Get out of my way | 22.00% | ~24 |
 | Redecorator | 20.00% | ~22 |
+| Complete Level 2-1 | 20.00% | ~22 |
 | Just a sip | 19.00% | ~21 |
-| Complete Level 2-1 | 19.00% | ~21 |
-| Complete Level 2-2 | 18.00% | ~20 |
-| Complete Level 2-3 | 15.00% | ~16 |
-| Defeat the engineer boss | 15.00% | ~16 |
-| Versatile | 15.00% | ~16 |
+| Complete Level 2-2 | 19.00% | ~21 |
+| Complete Level 2-3 | 15.00% | ~17 |
+| Defeat the engineer boss | 14.00% | ~16 |
+| Versatile | 14.00% | ~16 |
 | Well-off | 13.00% | ~14 |
 | Too many crates | 13.00% | ~14 |
 | Complete Level 3-1 | 13.00% | ~14 |
@@ -51,8 +51,8 @@
 | Almost there | 0.90% | ~1 |
 | Go go go | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110 (Ranked 640)  
-Completed: 1 (0.91%) (Ranked 257)  
+Progressed: 111 (Ranked 659)  
+Completed: 1 (0.90%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 1 (0.91%) (Ranked 257)
 | 2024-03-21 | 107 | 1 |
 | 2024-06-17 | 108 | 1 |
 | 2024-07-25 | 110 | 1 |
+| 2024-08-09 | 111 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

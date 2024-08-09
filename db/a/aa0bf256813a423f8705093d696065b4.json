@@ -2,10 +2,10 @@
   "ID": "aa0bf256813a423f8705093d696065b4",
   "Name": "Dragon Age\u2122: Origins - Ultimate Edition",
   "ProductSlug": "dragon-age-origins-ultimate-edition-ca4fbf",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-23T20:00:00+00:00",
     "PcReleaseDate": "2010-10-27T12:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-26T04:57:36.5883669+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:15.7221264+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:16.8666336+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:24.8530154+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:13.4548532+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:57.1527553+00:00"
 }

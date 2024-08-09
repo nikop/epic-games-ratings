@@ -2,10 +2,10 @@
   "ID": "e44eb86202844dfe9644e88d0c9c232a",
   "Name": "NINJA KATO 4",
   "ProductSlug": "ninja-kato-4-1d251c",
-  "Ranking_EOS_Progress": 1002,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1022,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-21T15:00:00+00:00",
     "PcReleaseDate": "2024-07-21T15:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:19.2266396+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:51.9135909+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -92,13 +97,13 @@
     {
       "ID": "2ooefg0",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:19.2266445+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:19.2266391+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:51.9135903+00:00",
   "LastUpdate_AppInfo": "2024-08-06T15:57:15.2807892+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:32.1974178+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:19.2272715+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:21.1044559+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:51.9135968+00:00"
 }

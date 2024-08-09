@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Journey Begins | 92.00% | ~12 |
-| The Boy That Came With The Rain | 62.00% | ~8 |
+| Your Journey Begins | 100.00% | ~13 |
+| The Boy That Came With The Rain | 69.00% | ~9 |
 | Welcome To The Kabaret | 54.00% | ~7 |
 | Let There Be Light | 54.00% | ~7 |
 | Congkak Hero | 38.00% | ~5 |
@@ -72,8 +72,8 @@
 | I Need Batteries | 0.00% | ~0 |
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 891)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 13 (Ranked 919)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,35 +6,35 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My first attempt | 75.00% | ~385 |
-| This is the end | 62.00% | ~318 |
-| Office bearer | 36.00% | ~185 |
-| The golden spoon | 30.00% | ~154 |
-| Pirates of the European Seas | 17.00% | ~87 |
-| Out-Of-Sync | 11.00% | ~56 |
-| Yes, Master! | 10.00% | ~51 |
-| The Ruler am I! | 7.00% | ~36 |
-| The cart is creaking... | 7.00% | ~36 |
-| Competitor | 4.00% | ~21 |
-| Filthy Rich | 4.00% | ~21 |
-| Witchmaster | 3.00% | ~15 |
-| Magnate | 2.00% | ~10 |
-| I am the Master! | 1.00% | ~5 |
-| Executed | 0.80% | ~4 |
-| Serious Foe | 0.80% | ~4 |
-| Courageous | 0.80% | ~4 |
-| Who is this Luther? | 0.60% | ~3 |
-| You want war? You get war! | 0.20% | ~1 |
-| Better than Heracles | 0.20% | ~1 |
+| My first attempt | 76.00% | ~514 |
+| This is the end | 64.00% | ~433 |
+| Office bearer | 37.00% | ~250 |
+| The golden spoon | 32.00% | ~216 |
+| Pirates of the European Seas | 16.00% | ~108 |
+| Out-Of-Sync | 11.00% | ~74 |
+| Yes, Master! | 11.00% | ~74 |
+| The cart is creaking... | 8.00% | ~54 |
+| The Ruler am I! | 7.00% | ~47 |
+| Filthy Rich | 5.00% | ~34 |
+| Competitor | 4.00% | ~27 |
+| Witchmaster | 3.00% | ~20 |
+| Magnate | 3.00% | ~20 |
+| I am the Master! | 2.00% | ~14 |
+| Executed | 0.90% | ~6 |
+| Serious Foe | 0.70% | ~5 |
+| Courageous | 0.60% | ~4 |
+| Who is this Luther? | 0.40% | ~3 |
+| You want war? You get war! | 0.30% | ~2 |
+| Better than Heracles | 0.30% | ~2 |
+| Make it your way! | 0.10% | ~1 |
 | What is this Prussia? | 0.00% | ~0 |
 | Further than most others | 0.00% | ~0 |
-| Make it your way! | 0.00% | ~0 |
 | Casanova | 0.00% | ~0 |
 | Sandwich maker | 0.00% | ~0 |
 | Proud as a rooster | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513 (Ranked 450)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 676 (Ranked 439)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,6 +42,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 114 | 0 |
 | 2024-04-10 | 215 | 0 |
 | 2024-06-17 | 513 | 0 |
+| 2024-08-09 | 676 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

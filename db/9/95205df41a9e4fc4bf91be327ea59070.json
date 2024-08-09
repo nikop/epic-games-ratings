@@ -2,10 +2,10 @@
   "ID": "95205df41a9e4fc4bf91be327ea59070",
   "Name": "Chronicles of 2 Heroes: Amaterasu\u0027s Wrath",
   "ProductSlug": "chronicles-of-2-heroes-cf6bb6",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2023-05-25T22:00:00+00:00",
@@ -28,9 +28,331 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-08-09T18:05:00.4885483+00:00",
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "3fmknjh",
+      "Name": "NIND\u014C?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "3fmknjh",
+      "Name": "DEATH FROM ABOVE",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "3fmknjh",
+      "Name": "SAY HELLO TO MY LITTLE FRIEND",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "3fmknjh",
+      "Name": "IT\u0027S WORSE THAN YOU THINK",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "13",
+      "SetID": "3fmknjh",
+      "Name": "POWEEEEER",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "14",
+      "SetID": "3fmknjh",
+      "Name": "SELF-PROPELLED GATLING",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15",
+      "SetID": "3fmknjh",
+      "Name": "I AM THE BONE OF MY SWORD",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16",
+      "SetID": "3fmknjh",
+      "Name": "I\u0027M SOMETHING OF A KUNOICHI MYSELF",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "17",
+      "SetID": "3fmknjh",
+      "Name": "THANK YOU DEVS",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "18",
+      "SetID": "3fmknjh",
+      "Name": "SKILL MASTER",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "19",
+      "SetID": "3fmknjh",
+      "Name": "BREAK NEEDED",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "3fmknjh",
+      "Name": "BUSHIDO",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20",
+      "SetID": "3fmknjh",
+      "Name": "TEA TIME",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21",
+      "SetID": "3fmknjh",
+      "Name": "CAT LOVER",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22",
+      "SetID": "3fmknjh",
+      "Name": "BEAM ME UP",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23",
+      "SetID": "3fmknjh",
+      "Name": "TOO EASY",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24",
+      "SetID": "3fmknjh",
+      "Name": "I WOULD LIKE A REAL CHALLENGE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25",
+      "SetID": "3fmknjh",
+      "Name": "HERE WE GO AGAIN",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "26",
+      "SetID": "3fmknjh",
+      "Name": "GODSLAYER",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "27",
+      "SetID": "3fmknjh",
+      "Name": "YOU WERE SUPPOSED TO DESTROY HIM NOT TO JOIN HIM",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "28",
+      "SetID": "3fmknjh",
+      "Name": "YOU HAVE A LOT OF PATIENCE I SEE",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29",
+      "SetID": "3fmknjh",
+      "Name": "LIE DETECOR",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "3fmknjh",
+      "Name": "IT\u0027S ALIVE",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "30",
+      "SetID": "3fmknjh",
+      "Name": "HOW WILL IT END?",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "31",
+      "SetID": "3fmknjh",
+      "Name": "RETURNED TO SENDER",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "32",
+      "SetID": "3fmknjh",
+      "Name": "RIGHT BEHIND YOU",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "33",
+      "SetID": "3fmknjh",
+      "Name": "FIRE IN THE HOLE?",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "34",
+      "SetID": "3fmknjh",
+      "Name": "RAIJIN BY MY SIDE",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "35",
+      "SetID": "3fmknjh",
+      "Name": "DRAGON\u0027S FURY",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "36",
+      "SetID": "3fmknjh",
+      "Name": "EVERYONE HAS A WEAKNESS",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "37",
+      "SetID": "3fmknjh",
+      "Name": "MARK OF A TRUE HERO",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "38",
+      "SetID": "3fmknjh",
+      "Name": "COVER ME WITH MONEY",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "39",
+      "SetID": "3fmknjh",
+      "Name": "DRAGON MADNESS",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "3fmknjh",
+      "Name": "TERROR FROM THE DEEP",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "40",
+      "SetID": "3fmknjh",
+      "Name": "YOU WILL NOT GET REAL MONEY IN EXCHANGE. DO YOU KNOW IT?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "3fmknjh",
+      "Name": "YOUR FRIENDLY NEIGHBORHOOD...",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "3fmknjh",
+      "Name": "IT\u0027S A BIRD... IT\u0027S A PLANE...",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "3fmknjh",
+      "Name": "FACE THE WRATH",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "3fmknjh",
+      "Name": "REAL VILLAIN",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "3fmknjh",
+      "Name": "BIRDMANIA",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3fmknjh",
@@ -40,8 +362,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:15:46.3887359+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:46.3887342+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:00.4885473+00:00",
   "LastUpdate_AppInfo": "2024-08-08T08:56:58.7164726+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:06.6770874+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:46.3887376+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:00.7437556+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:00.489295+00:00"
 }

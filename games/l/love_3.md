@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Friendly Fire | 31.00% | ~5 |
-| Safety | 25.00% | ~4 |
-| kuso | 25.00% | ~4 |
-| LOVE | 19.00% | ~3 |
-| Air walker | 13.00% | ~2 |
-| Jump rope | 13.00% | ~2 |
-| Longest Fall | 13.00% | ~2 |
-| Threading the Needle | 13.00% | ~2 |
+| Friendly Fire | 44.00% | ~8 |
+| Safety | 33.00% | ~6 |
+| LOVE | 22.00% | ~4 |
+| kuso | 22.00% | ~4 |
+| Air walker | 17.00% | ~3 |
+| Jump rope | 17.00% | ~3 |
+| Longest Fall | 17.00% | ~3 |
+| Threading the Needle | 17.00% | ~3 |
+| Ball Dropper | 11.00% | ~2 |
+| Frequent Flyer | 11.00% | ~2 |
+| Gotta Go Fast | 11.00% | ~2 |
+| Just a Scratch or Two | 11.00% | ~2 |
 | 13 Years in 69 Minutes | 6.00% | ~1 |
-| Ball Dropper | 6.00% | ~1 |
 | Bork & Niko | 6.00% | ~1 |
 | Cautious Completionist | 6.00% | ~1 |
 | Freedom | 6.00% | ~1 |
-| Frequent Flyer | 6.00% | ~1 |
 | Where did I put my keys? | 6.00% | ~1 |
-| Gotta Go Fast | 6.00% | ~1 |
-| Just a Scratch or Two | 6.00% | ~1 |
 | Nostalgia | 6.00% | ~1 |
 | YOLO | 6.00% | ~1 |
 | やり甲斐 | 6.00% | ~1 |
 | Charlie | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 858)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 18 (Ranked 876)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -43,6 +43,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 13 | 0 |
 | 2024-04-10 | 14 | 0 |
 | 2024-06-17 | 16 | 0 |
+| 2024-08-09 | 18 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

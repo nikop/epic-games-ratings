@@ -2,10 +2,10 @@
   "ID": "9704b88f02244a60b9b0ab81e0e31389",
   "Name": "ROBOBEAT",
   "ProductSlug": "robobeat-5f084b",
-  "Ranking_EOS_Progress": 795,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 711,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-14T16:00:00+00:00",
     "PcReleaseDate": "2024-05-14T16:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-06-17T16:11:21.4174388+00:00",
       "NumProgressed": 32,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:03:07.229119+00:00",
+      "NumProgressed": 78,
       "NumCompleted": 0
     }
   ],
@@ -45,17 +50,17 @@
       "ID": "BOSS_FRAZZER",
       "SetID": "1miingc",
       "Name": "Break the Game",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_RAY_PUNK",
       "SetID": "1miingc",
       "Name": "Punk Slayer",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 23
     },
     {
       "ID": "BOSS_RAY_PUNK_FAST",
@@ -69,73 +74,73 @@
       "ID": "BOSS_SHOWMAN",
       "SetID": "1miingc",
       "Name": "Buzz Kill",
-      "Percentage": 31,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 18
     },
     {
       "ID": "BOSS_THE_MASK",
       "SetID": "1miingc",
       "Name": "Face Off",
-      "Percentage": 16,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "CUE_EASY",
       "SetID": "1miingc",
       "Name": "Beginner\u0027s Luck",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 50
     },
     {
       "ID": "CUE_HARD",
       "SetID": "1miingc",
       "Name": "UnBEATable",
-      "Percentage": 9,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "CUE_MEDIUM",
       "SetID": "1miingc",
       "Name": "Rookie",
-      "Percentage": 22,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "CUE_TRAINING",
       "SetID": "1miingc",
       "Name": "Let\u0027s Begin",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 59
     },
     {
       "ID": "MUSIC_CUSTOM",
       "SetID": "1miingc",
       "Name": "Composer\u0027s Choice",
-      "Percentage": 56,
+      "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 48
     },
     {
       "ID": "MUSIC_MIXTAPE",
       "SetID": "1miingc",
       "Name": "The Remix",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 14
     },
     {
       "ID": "PRO_FORGOT_EQUIP",
       "SetID": "1miingc",
       "Name": "False Start",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 11
     },
     {
       "ID": "PRO_REVOLVER",
@@ -149,9 +154,9 @@
       "ID": "PRO_TRANSCENDENCE",
       "SetID": "1miingc",
       "Name": "Infinity",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PRO_TRANSCENDENCE_PRO",
@@ -165,17 +170,17 @@
       "ID": "ROOM_COMBAT_UTILITY_ONLY",
       "SetID": "1miingc",
       "Name": "Resourceful",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "ROOM_COMBO_LEARN",
       "SetID": "1miingc",
       "Name": "Learning Combos",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 51
     },
     {
       "ID": "ROOM_RUSH_1ST",
@@ -189,7 +194,7 @@
       "ID": "ROOM_RUSH_2ND",
       "SetID": "1miingc",
       "Name": "Rush Runner-Up",
-      "Percentage": 3,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -205,31 +210,31 @@
       "ID": "STAT_BEAT_COMBO",
       "SetID": "1miingc",
       "Name": "Rhythm Rider",
-      "Percentage": 34,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 20
     },
     {
       "ID": "STAT_CAMERA",
       "SetID": "1miingc",
       "Name": "Privacy",
-      "Percentage": 19,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "STAT_DPS",
       "SetID": "1miingc",
       "Name": "High DPS",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 36
     },
     {
       "ID": "STAT_MONEY",
       "SetID": "1miingc",
       "Name": "Fancy Pants",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -237,63 +242,63 @@
       "ID": "STAT_PARRY",
       "SetID": "1miingc",
       "Name": "Parry Pro",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 45
     },
     {
       "ID": "STYLE_360",
       "SetID": "1miingc",
       "Name": "360",
-      "Percentage": 3,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 10
     },
     {
       "ID": "STYLE_DUCK_HUNT",
       "SetID": "1miingc",
       "Name": "Advanced Duck Hunt",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 8
     },
     {
       "ID": "STYLE_MONSTER_KILL",
       "SetID": "1miingc",
       "Name": "Monster Kill",
-      "Percentage": 19,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "STYLE_MONSTER_PARRY",
       "SetID": "1miingc",
       "Name": "Monster Parry",
-      "Percentage": 16,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "THE_CITADEL",
       "SetID": "1miingc",
       "Name": "The Citadel",
-      "Percentage": 19,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "THE_GALLERY",
       "SetID": "1miingc",
       "Name": "The Gallery",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 43
     },
     {
       "ID": "THE_MACHINE",
       "SetID": "1miingc",
       "Name": "The Machine",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -301,63 +306,63 @@
       "ID": "THE_PASSAGE",
       "SetID": "1miingc",
       "Name": "The Passage",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 60
     },
     {
       "ID": "THE_RUINS",
       "SetID": "1miingc",
       "Name": "The Ruins",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 23
     },
     {
       "ID": "UNLOCK_DATA_CHIP",
       "SetID": "1miingc",
       "Name": "Chip Chap",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 39
     },
     {
       "ID": "UNLOCK_PARKOUR",
       "SetID": "1miingc",
       "Name": "Parkour Pioneer",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 10
     },
     {
       "ID": "UNLOCK_SHOP",
       "SetID": "1miingc",
       "Name": "Retail Raid",
-      "Percentage": 13,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 17
     },
     {
       "ID": "UNLOCK_TARGET_RUSH",
       "SetID": "1miingc",
       "Name": "Rush Reveal",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "1miingc",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-15T11:58:17.9923616+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:21.4174412+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:21.4174383+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:07.2291184+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:33.7983684+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:29.4731764+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:21.4180746+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:18.8076928+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:07.229143+00:00"
 }

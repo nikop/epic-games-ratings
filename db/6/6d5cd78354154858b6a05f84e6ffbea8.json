@@ -2,10 +2,10 @@
   "ID": "6d5cd78354154858b6a05f84e6ffbea8",
   "Name": "Time Travel: Escape Room Game",
   "ProductSlug": "time-travel-escape-room-game-527090",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-09-05T22:00:00+00:00",
     "PcReleaseDate": "2024-09-05T22:00:00+00:00",
@@ -147,8 +147,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:16.3383839+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:16.3383794+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:49.4060571+00:00",
   "LastUpdate_AppInfo": "2024-08-09T11:57:17.956967+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:28.3395905+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:16.3392217+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:17.6953421+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:49.406068+00:00"
 }

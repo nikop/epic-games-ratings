@@ -4,11 +4,11 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 390,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 281,
-  "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_PopularitySum": 280,
+  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-25T14:00:00+00:00",
     "PcReleaseDate": "2015-11-10T00:00:00+00:00",
@@ -2407,10 +2407,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1503,
       "NumberOfAwardsMax": 590
+    },
+    {
+      "Time": "2024-08-09T18:01:15.897305+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1505,
+      "NumberOfAwardsMax": 590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1503,
+  "NumberOfAwards": 1505,
   "NumberOfAwardsMax": 590,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2454,7 +2460,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 94
+      "Count": 96
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2487,7 +2493,7 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 20499,
+  "EOS_Progressed": 20868,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -2501,6 +2507,11 @@
     {
       "Time": "2024-07-25T19:03:41.8198195+00:00",
       "NumProgressed": 20499,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:04.2337896+00:00",
+      "NumProgressed": 20868,
       "NumCompleted": 0
     }
   ],
@@ -3185,22 +3196,22 @@
     {
       "ID": "a4i91nk",
       "IsBase": false,
-      "Progressed": 20499,
+      "Progressed": 20868,
       "Completed": 0
     },
     {
       "ID": "bpbje0m",
       "IsBase": true,
-      "Progressed": 20499,
+      "Progressed": 20868,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-08-09T13:57:59.877754+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:03:41.819819+00:00",
+  "LastChanged": "2024-08-09T18:01:15.8973047+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:04.2337891+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:07.3859078+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:26.4116316+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:03:41.8198888+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:15.8973055+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:04.2338641+00:00"
 }

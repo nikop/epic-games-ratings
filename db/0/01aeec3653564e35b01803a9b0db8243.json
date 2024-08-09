@@ -2,10 +2,10 @@
   "ID": "01aeec3653564e35b01803a9b0db8243",
   "Name": "The Mims Beginning",
   "ProductSlug": "the-mims-beginning-996468",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-13T15:00:00+00:00",
     "PcReleaseDate": "2015-01-14T17:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-13T21:57:52.4664321+00:00",
   "LastUpdate_AppInfo": "2024-08-08T06:57:11.7137694+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:05.289977+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:28.7749956+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:09.2198084+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:01.1610039+00:00"
 }

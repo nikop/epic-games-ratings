@@ -2,10 +2,10 @@
   "ID": "f41697594aa546a09dcd518284b290d1",
   "Name": "Strike Solitaire 2",
   "ProductSlug": "strike-solitaire-2-fe76a2",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-01-14T21:00:00+00:00",
     "PcReleaseDate": "2020-06-10T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-20T22:58:40.2603418+00:00",
   "LastUpdate_AppInfo": "2024-08-06T23:57:36.657925+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:06.3885333+00:00",
-  "LastUpdate_Achievements": "2024-07-30T00:03:47.3239227+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:53.169197+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:31.3592195+00:00"
 }

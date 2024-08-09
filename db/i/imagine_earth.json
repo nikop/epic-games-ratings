@@ -5,10 +5,10 @@
   "Ranking_Rating": 969,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 462,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 478,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,7 +83,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 470,
+  "EOS_Progressed": 471,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -553,6 +553,11 @@
       "Time": "2024-07-25T19:03:25.3652483+00:00",
       "NumProgressed": 470,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:01.983971+00:00",
+      "NumProgressed": 471,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -572,7 +577,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "CampaignStars2",
@@ -628,7 +633,7 @@
       "Name": "Environmentalist",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "Forester",
@@ -684,7 +689,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "PlanetLorian",
@@ -724,15 +729,15 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 38
     },
     {
       "ID": "Scientist",
@@ -740,7 +745,7 @@
       "Name": "Scientist",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "WorldCreator",
@@ -755,7 +760,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 470,
+      "Progressed": 471,
       "Completed": 0
     }
   ],
@@ -763,8 +768,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:03:25.365248+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:01.9839702+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:16.6232212+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:51.0805299+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:03:25.3652678+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:39.3196277+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:01.9839895+00:00"
 }

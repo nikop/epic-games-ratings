@@ -2,10 +2,10 @@
   "ID": "97e89a0da1004cdfb0661afb798fc495",
   "Name": "Stone Guardian",
   "ProductSlug": "stone-guardian-81fcc1",
-  "Ranking_EOS_Progress": 876,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 899,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-12-07T08:00:00+00:00",
     "PcReleaseDate": "2023-10-25T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -77,6 +77,11 @@
       "Time": "2024-06-17T16:11:51.2584412+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:26.9687997+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T19:03:44.7323973+00:00",
@@ -87,33 +92,33 @@
       "ID": "01_Sailor",
       "SetID": "dm5l9m1",
       "Name": "Sailor",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "02_MusicianHelper",
       "SetID": "dm5l9m1",
       "Name": "Musician helper",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "03_CarCrasher",
       "SetID": "dm5l9m1",
       "Name": "Car crasher",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "04_FlowerPicker",
       "SetID": "dm5l9m1",
       "Name": "Flower picker",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "05_LandExplorer",
@@ -135,9 +140,9 @@
       "ID": "07_SnowRider",
       "SetID": "dm5l9m1",
       "Name": "Snow rider",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "08_MazeRunner",
@@ -151,9 +156,9 @@
       "ID": "09_Courier",
       "SetID": "dm5l9m1",
       "Name": "Courier",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "10_MooseTamer",
@@ -167,33 +172,33 @@
       "ID": "11_DragonMaster",
       "SetID": "dm5l9m1",
       "Name": "Dragon master",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "12_TrapMaster",
       "SetID": "dm5l9m1",
       "Name": "Trap master",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "13_OnDuty",
       "SetID": "dm5l9m1",
       "Name": "On duty",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "14_StoneGuardian",
       "SetID": "dm5l9m1",
       "Name": "The Stone Guardian",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "15_StoneCollector",
@@ -216,13 +221,13 @@
     {
       "ID": "dm5l9m1",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-05T19:03:44.7323973+00:00",
-  "LastChanged_Achievements": "2024-07-09T22:04:26.9428696+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:26.9687993+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:33.9377406+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:39.2545642+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:04:26.9428941+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:14.8309073+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:26.9688085+00:00"
 }

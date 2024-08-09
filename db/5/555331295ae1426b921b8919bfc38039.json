@@ -2,10 +2,10 @@
   "ID": "555331295ae1426b921b8919bfc38039",
   "Name": "Revomon Novus",
   "ProductSlug": "revomon-novus-486571",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-03T19:57:13.76619+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:51.2089613+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:02:06.8617297+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:39.4367146+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:52.0210893+00:00"
 }

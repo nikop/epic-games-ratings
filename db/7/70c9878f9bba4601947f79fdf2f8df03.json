@@ -3,9 +3,9 @@
   "Name": "Survivor Cells",
   "ProductSlug": "survivor-cells-a0622f",
   "Ranking_EOS_Progress": 1002,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-05-10T17:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:33.1181223+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:08:05.3355306+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -115,9 +120,9 @@
       "ID": "ACHIEVEMENT_SC_10",
       "SetID": "39a80p3",
       "Name": "100 Years",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_100",
@@ -283,9 +288,9 @@
       "ID": "ACHIEVEMENT_SC_19",
       "SetID": "39a80p3",
       "Name": "Cella",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_20",
@@ -379,7 +384,7 @@
       "ID": "ACHIEVEMENT_SC_32",
       "SetID": "39a80p3",
       "Name": "V01",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -387,7 +392,7 @@
       "ID": "ACHIEVEMENT_SC_33",
       "SetID": "39a80p3",
       "Name": "V02",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -435,33 +440,33 @@
       "ID": "ACHIEVEMENT_SC_39",
       "SetID": "39a80p3",
       "Name": "V08",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_40",
       "SetID": "39a80p3",
       "Name": "V09",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_41",
       "SetID": "39a80p3",
       "Name": "V10",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_42",
       "SetID": "39a80p3",
       "Name": "V11",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_43",
@@ -491,9 +496,9 @@
       "ID": "ACHIEVEMENT_SC_46",
       "SetID": "39a80p3",
       "Name": "V15",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_47",
@@ -507,17 +512,17 @@
       "ID": "ACHIEVEMENT_SC_48",
       "SetID": "39a80p3",
       "Name": "V17",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_49",
       "SetID": "39a80p3",
       "Name": "V18",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_50",
@@ -525,15 +530,15 @@
       "Name": "Shield \u002B",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_54",
       "SetID": "39a80p3",
       "Name": "Barrier",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_55",
@@ -547,9 +552,9 @@
       "ID": "ACHIEVEMENT_SC_56",
       "SetID": "39a80p3",
       "Name": "Orbit",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_57",
@@ -683,7 +688,7 @@
       "ID": "ACHIEVEMENT_SC_77",
       "SetID": "39a80p3",
       "Name": "An evolved being",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -844,13 +849,13 @@
     {
       "ID": "39a80p3",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:18.508804+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:33.1181218+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:05.3355299+00:00",
   "LastUpdate_AppInfo": "2024-08-04T03:57:18.9591871+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:44.3716936+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:33.1182357+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:56.6141853+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:05.3356261+00:00"
 }

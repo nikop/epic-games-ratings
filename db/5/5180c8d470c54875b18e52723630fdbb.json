@@ -2,10 +2,10 @@
   "ID": "5180c8d470c54875b18e52723630fdbb",
   "Name": "Myth \u0026 Mirage",
   "ProductSlug": "bgrpg-665404",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:46.9960306+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:22.4236374+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:54.9381647+00:00",
   "LastUpdate_AppInfo": "2024-08-07T02:57:03.6056176+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:56.5347176+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:22.4236414+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:47.2911801+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:54.9381682+00:00"
 }

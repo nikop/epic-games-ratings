@@ -3,12 +3,12 @@
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
   "Ranking_Rating": 919,
-  "Ranking_Popularity": 559,
+  "Ranking_Popularity": 560,
   "Ranking_PopularitySum": 487,
-  "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 71,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -579,8 +579,8 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 789,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 386429,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
@@ -1524,6 +1524,11 @@
       "Time": "2024-06-17T16:13:05.1254953+00:00",
       "NumProgressed": 789,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:03:49.8804412+00:00",
+      "NumProgressed": 386429,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 54,
@@ -1533,297 +1538,297 @@
       "ID": "1337Trophy",
       "SetID": "32aeje8",
       "Name": "1337 HAXXOR",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 386
     },
     {
       "ID": "15MachineTrophy",
       "SetID": "32aeje8",
       "Name": "Many Machines Maxed",
-      "Percentage": 0.3,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 386
     },
     {
       "ID": "1CCTrophy",
       "SetID": "32aeje8",
       "Name": "1CC",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 1159
     },
     {
       "ID": "2DigitGoalTrophy",
       "SetID": "32aeje8",
       "Name": "GOOOAAAL",
-      "Percentage": 10,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 3864
     },
     {
       "ID": "3DigitGoalTrophy",
       "SetID": "32aeje8",
       "Name": "GOOOOOOAAAAAAALLLL!!!!",
-      "Percentage": 2,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 773
     },
     {
       "ID": "4DigitGoalTrophy",
       "SetID": "32aeje8",
       "Name": "To do. Done!",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 1159
     },
     {
       "ID": "4HopperTrophy",
       "SetID": "32aeje8",
       "Name": "Fetch Quest Complete",
-      "Percentage": 90,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 282093
     },
     {
       "ID": "AhoyTrophy",
       "SetID": "32aeje8",
       "Name": "Ahoy Hoy",
-      "Percentage": 7,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 7729
     },
     {
       "ID": "AlienTrophy",
       "SetID": "32aeje8",
       "Name": "We come in peace",
-      "Percentage": 3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 1546
     },
     {
       "ID": "AllGoalTrophy",
       "SetID": "32aeje8",
       "Name": "Goal",
-      "Percentage": 22,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 15457
     },
     {
       "ID": "AllUpgrdTrophy",
       "SetID": "32aeje8",
       "Name": "Fresh Prince of Grindstone",
-      "Percentage": 1,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 1546
     },
     {
       "ID": "BombTrophy",
       "SetID": "32aeje8",
       "Name": "Bombscare",
-      "Percentage": 6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 2705
     },
     {
       "ID": "BorkTrophy",
       "SetID": "32aeje8",
       "Name": "Friends Reunited",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 386
     },
     {
       "ID": "CompleteTrophy",
       "SetID": "32aeje8",
       "Name": "Crowning achievement",
-      "Percentage": 4,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 32
+      "UsersEstimate": 2319
     },
     {
       "ID": "DancerTrophy",
       "SetID": "32aeje8",
       "Name": "Rhythm is a dancer",
-      "Percentage": 6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 3864
     },
     {
       "ID": "DebugTrophy",
       "SetID": "32aeje8",
       "Name": "Bug Fixer",
-      "Percentage": 24,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 19321
     },
     {
       "ID": "DreadTrophy",
       "SetID": "32aeje8",
       "Name": "Existential dread",
-      "Percentage": 28,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 42507
     },
     {
       "ID": "DropBallTrophy",
       "SetID": "32aeje8",
       "Name": "Drop the ball",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 386
     },
     {
       "ID": "EntryTrophy",
       "SetID": "32aeje8",
       "Name": "Pushing a pull door",
-      "Percentage": 97,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 765
+      "UsersEstimate": 367108
     },
     {
       "ID": "Ext4Trophy",
       "SetID": "32aeje8",
       "Name": "New Kid on the Block",
-      "Percentage": 7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 3864
     },
     {
       "ID": "FatTrophy",
       "SetID": "32aeje8",
       "Name": "Fat Princess",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 386
     },
     {
       "ID": "FloorTrophy",
       "SetID": "32aeje8",
       "Name": "Your Bloody Valentine",
-      "Percentage": 5,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 3091
     },
     {
       "ID": "GoalMachineTrophy",
       "SetID": "32aeje8",
       "Name": "Machine Maxed",
-      "Percentage": 29,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 27050
     },
     {
       "ID": "GoldGuyTrophy",
       "SetID": "32aeje8",
       "Name": "GoldGuy Jr",
-      "Percentage": 4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 1932
     },
     {
       "ID": "GoreTrophy",
       "SetID": "32aeje8",
       "Name": "Modern Gorefare",
-      "Percentage": 2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 1546
     },
     {
       "ID": "GrindTrophy",
       "SetID": "32aeje8",
       "Name": "Nose to the Grindstone",
-      "Percentage": 4,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 2705
     },
     {
       "ID": "GumTrophy",
       "SetID": "32aeje8",
       "Name": "Hidden Packages",
-      "Percentage": 12,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 3864
     },
     {
       "ID": "HammerTrophy",
       "SetID": "32aeje8",
       "Name": "Hammer time",
-      "Percentage": 3,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 1159
     },
     {
       "ID": "HexaTrophy",
       "SetID": "32aeje8",
       "Name": "Hexadecimal",
-      "Percentage": 1,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 386
     },
     {
       "ID": "HighScoreTrophy",
       "SetID": "32aeje8",
       "Name": "Arcadeception",
-      "Percentage": 0.6,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 386
     },
     {
       "ID": "IceTrophy",
       "SetID": "32aeje8",
       "Name": "Video killed the radio star",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 386
     },
     {
       "ID": "IncomeTrophy",
       "SetID": "32aeje8",
       "Name": "I ran the numbers",
-      "Percentage": 15,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 7729
     },
     {
       "ID": "KKBossTrophy",
       "SetID": "32aeje8",
       "Name": "Corporate Restructrure",
-      "Percentage": 0.4,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 386
     },
     {
       "ID": "KonamiTrophy",
       "SetID": "32aeje8",
       "Name": "IMANOK CODE",
-      "Percentage": 1,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 2319
     },
     {
       "ID": "LoseTrophy",
       "SetID": "32aeje8",
       "Name": "Waking nightmare",
-      "Percentage": 4,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 2705
     },
     {
       "ID": "MachineTrophy",
       "SetID": "32aeje8",
       "Name": "I can\u0027t wait!",
-      "Percentage": 82,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 220265
     },
     {
       "ID": "MaxPriceTrophy",
       "SetID": "32aeje8",
       "Name": "Jimmy Goldman Would be Proud",
-      "Percentage": 6,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 11593
     },
     {
       "ID": "MergeBallsTrophy",
@@ -1831,15 +1836,15 @@
       "Name": "Ballz To The Wallz",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 386
     },
     {
       "ID": "MillionTrophy",
       "SetID": "32aeje8",
       "Name": "True Capitalist",
-      "Percentage": 0.9,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 1159
     },
     {
       "ID": "PassOutTrophy",
@@ -1847,135 +1852,135 @@
       "Name": "Another all nighter?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 386
     },
     {
       "ID": "PlungeTrophy",
       "SetID": "32aeje8",
       "Name": "Taking the plunge",
-      "Percentage": 13,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 7729
     },
     {
       "ID": "RacerTrophy",
       "SetID": "32aeje8",
       "Name": "GTA: Crime City",
-      "Percentage": 2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 1546
     },
     {
       "ID": "RideTrophy",
       "SetID": "32aeje8",
       "Name": "Pimp My Ride",
-      "Percentage": 0.3,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 386
     },
     {
       "ID": "SlimeTrophy",
       "SetID": "32aeje8",
       "Name": "Once upon a slime",
-      "Percentage": 0.8,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 386
     },
     {
       "ID": "SolitaireTrophy",
       "SetID": "32aeje8",
       "Name": "Slacker",
-      "Percentage": 2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 1159
     },
     {
       "ID": "SpinTrophy",
       "SetID": "32aeje8",
       "Name": "You Spin Me Round",
-      "Percentage": 6,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 3091
     },
     {
       "ID": "SwishTrophy",
       "SetID": "32aeje8",
       "Name": "Swish",
-      "Percentage": 55,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 112064
     },
     {
       "ID": "TerrorTrophy",
       "SetID": "32aeje8",
       "Name": "It\u0027s a horror game",
-      "Percentage": 0.8,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 386
     },
     {
       "ID": "ToiletTrophy",
       "SetID": "32aeje8",
       "Name": "Smells like teen spirit",
-      "Percentage": 0.9,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 386
     },
     {
       "ID": "TouristTrophy",
       "SetID": "32aeje8",
       "Name": "Intergalactic, planetary, planetary...",
-      "Percentage": 1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 773
     },
     {
       "ID": "TrashTrophy",
       "SetID": "32aeje8",
       "Name": "Clean up on Aisle 9",
-      "Percentage": 39,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 38643
     },
     {
       "ID": "WhiteWolfTrophy",
       "SetID": "32aeje8",
       "Name": "Gerald of Riviera",
-      "Percentage": 25,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 38643
     },
     {
       "ID": "YouthTrophy",
       "SetID": "32aeje8",
       "Name": "Sonically Youthful",
-      "Percentage": 0.4,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 386
     },
     {
       "ID": "ZombieKillTrophy",
       "SetID": "32aeje8",
       "Name": "Got 9999 problem but a Zombie ain\u0027t one",
-      "Percentage": 0.8,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 1159
     }
   ],
   "AchievementSets": [
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 789,
-      "Completed": 0
+      "Progressed": 386429,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2024-08-08T22:00:23.5578935+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:05.1254949+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:49.8804407+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:17.9181125+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:34.0488512+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:05.1255325+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:06.7026334+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:49.8804766+00:00"
 }

@@ -6,52 +6,52 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 63.00% | ~1,817 |
-| Cowardice | 58.00% | ~1,673 |
-| The Breaking Point | 36.00% | ~1,038 |
-| It's Just an Accident | 32.00% | ~923 |
-| The Motivation | 29.00% | ~836 |
-| Heroism | 26.00% | ~750 |
-| Collectibles of Chapter I | 24.00% | ~692 |
-| Consequences | 24.00% | ~692 |
-| Sniper Wolf | 24.00% | ~692 |
-| Opportunities | 22.00% | ~634 |
-| The Horror | 20.00% | ~577 |
-| Helping Hand | 20.00% | ~577 |
-| The Difference | 18.00% | ~519 |
-| Vengeance | 17.00% | ~490 |
-| Prospector | 16.00% | ~461 |
-| Collectibles of Chapter II | 16.00% | ~461 |
-| Broken Hopes | 16.00% | ~461 |
-| King of Knives | 15.00% | ~433 |
-| Bullseye! | 15.00% | ~433 |
-| Sorrow | 14.00% | ~404 |
-| Here Comes the Boom | 14.00% | ~404 |
-| NO LIFE IS WORTH SAVING... | 14.00% | ~404 |
-| Eat Lead! | 14.00% | ~404 |
-| Atonement | 13.00% | ~375 |
-| Treasure Hunter | 12.00% | ~346 |
-| Missing in Action | 11.00% | ~317 |
-| Tiptoe Around | 11.00% | ~317 |
-| Without a Second Thought | 10.00% | ~288 |
-| Collectibles of Chapter III | 8.00% | ~231 |
-| Collectibles of Chapter IV | 8.00% | ~231 |
-| Collectibles of Chapter V | 6.00% | ~173 |
-| Such is War! | 6.00% | ~173 |
-| It Will Rain | 6.00% | ~173 |
-| Food Massacre | 5.00% | ~144 |
-| Not Spill a Drop | 5.00% | ~144 |
-| Collectibles of Chapter XII | 4.00% | ~115 |
-| The Good Samaritan | 4.00% | ~115 |
-| Collectibles of Chapter VII | 3.00% | ~87 |
-| Collectibles of Chapter VIII | 2.00% | ~58 |
-| Collectibles of Chapter X | 2.00% | ~58 |
-| Collectibles of Chapter XI | 2.00% | ~58 |
-| Piece of Cake | 2.00% | ~58 |
-| Collectibles of Chapter VI | 1.00% | ~29 |
-| Collectibles of Chapter IX | 1.00% | ~29 |
-| Daddy Would Be Proud | 0.90% | ~26 |
-| Hold a Door | 0.70% | ~20 |
+| Explorer | 63.00% | ~1,965 |
+| Cowardice | 58.00% | ~1,809 |
+| The Breaking Point | 35.00% | ~1,092 |
+| It's Just an Accident | 32.00% | ~998 |
+| The Motivation | 29.00% | ~905 |
+| Heroism | 26.00% | ~811 |
+| Collectibles of Chapter I | 24.00% | ~749 |
+| Consequences | 24.00% | ~749 |
+| Sniper Wolf | 24.00% | ~749 |
+| Opportunities | 22.00% | ~686 |
+| The Horror | 20.00% | ~624 |
+| Helping Hand | 20.00% | ~624 |
+| The Difference | 18.00% | ~561 |
+| Vengeance | 17.00% | ~530 |
+| Prospector | 16.00% | ~499 |
+| Collectibles of Chapter II | 16.00% | ~499 |
+| Broken Hopes | 15.00% | ~468 |
+| King of Knives | 15.00% | ~468 |
+| Bullseye! | 15.00% | ~468 |
+| Sorrow | 14.00% | ~437 |
+| Here Comes the Boom | 14.00% | ~437 |
+| NO LIFE IS WORTH SAVING... | 14.00% | ~437 |
+| Atonement | 13.00% | ~405 |
+| Eat Lead! | 13.00% | ~405 |
+| Treasure Hunter | 11.00% | ~343 |
+| Tiptoe Around | 11.00% | ~343 |
+| Missing in Action | 10.00% | ~312 |
+| Without a Second Thought | 10.00% | ~312 |
+| Collectibles of Chapter III | 9.00% | ~281 |
+| Collectibles of Chapter IV | 8.00% | ~250 |
+| Collectibles of Chapter V | 6.00% | ~187 |
+| Such is War! | 6.00% | ~187 |
+| It Will Rain | 6.00% | ~187 |
+| Food Massacre | 5.00% | ~156 |
+| Not Spill a Drop | 5.00% | ~156 |
+| Collectibles of Chapter XII | 4.00% | ~125 |
+| The Good Samaritan | 4.00% | ~125 |
+| Collectibles of Chapter VII | 3.00% | ~94 |
+| Collectibles of Chapter VIII | 2.00% | ~62 |
+| Collectibles of Chapter X | 2.00% | ~62 |
+| Collectibles of Chapter XI | 2.00% | ~62 |
+| Piece of Cake | 2.00% | ~62 |
+| Collectibles of Chapter VI | 1.00% | ~31 |
+| Collectibles of Chapter IX | 1.00% | ~31 |
+| Daddy Would Be Proud | 0.90% | ~28 |
+| Hold a Door | 0.70% | ~22 |
 | Warm Up | 0.30% | ~9 |
 | Challenges of Chapter I | 0.10% | ~3 |
 | Challenges of Chapter II | 0.10% | ~3 |
@@ -66,8 +66,8 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~3 |
 | Challenges of Chapter XII | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,884 (Ranked 305)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 3,119 (Ranked 314)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,6 +291,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 2,543 | 0 |
 | 2024-05-13 | 2,746 | 0 |
 | 2024-06-17 | 2,884 | 0 |
+| 2024-08-09 | 3,119 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

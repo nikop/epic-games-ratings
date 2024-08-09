@@ -2,10 +2,10 @@
   "ID": "7e5660658d644368a5c0f5851125d196",
   "Name": "Alchemist: The Potion Monger",
   "ProductSlug": "alchemist-the-potion-monger-3aab61",
-  "Ranking_EOS_Progress": 813,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 833,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-21T15:00:01.867+00:00",
     "PcReleaseDate": "2023-10-16T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-06-17T16:16:29.7347363+00:00",
       "NumProgressed": 27,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:32.2067715+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:12:41.6565335+00:00",
@@ -62,15 +67,15 @@
       "ID": "ACH_10_AUTO_RECIPES",
       "SetID": "7l7cdc9",
       "Name": "Magic Paper",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_10_FURNITURES",
       "SetID": "7l7cdc9",
       "Name": "Cozy house",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -78,33 +83,33 @@
       "ID": "ACH_20_FURNITURES",
       "SetID": "7l7cdc9",
       "Name": "Live Laugh Love",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_30_FURNITURES",
       "SetID": "7l7cdc9",
       "Name": "IKEA enjoyer",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_3_STAR_4_TIER",
       "SetID": "7l7cdc9",
       "Name": "Perfect Potion",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ADOPT_CAT",
       "SetID": "7l7cdc9",
       "Name": "Cat Owner",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_ADOPT_SALAMANDER",
@@ -158,9 +163,9 @@
       "ID": "ACH_DEFEAT_SLIMEKING",
       "SetID": "7l7cdc9",
       "Name": "Viva la revoluci\u00F3n",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DEFEAT_SNAKEKING",
@@ -174,17 +179,17 @@
       "ID": "ACH_DESTROY_ALL_HOUSE_VINES",
       "SetID": "7l7cdc9",
       "Name": "Vines Slayer",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_DESTROY_VINES",
       "SetID": "7l7cdc9",
       "Name": "The whole world to discover",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_DISCOVER_50_RECIPES",
@@ -222,9 +227,9 @@
       "ID": "ACH_EARTH_ASPECTS",
       "SetID": "7l7cdc9",
       "Name": "Master of Earth",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_FIRE_ASPECTS",
@@ -238,7 +243,7 @@
       "ID": "ACH_FIRST_AIR_POTION",
       "SetID": "7l7cdc9",
       "Name": "Air Alchemist",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -286,9 +291,9 @@
       "ID": "ACH_PLAYER_DIES",
       "SetID": "7l7cdc9",
       "Name": "Why do we fall?",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_PLAYER_RESURRECT",
@@ -319,14 +324,14 @@
     {
       "ID": "7l7cdc9",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-28T19:57:10.8814796+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:51.6695472+00:00",
-  "LastChanged_Achievements": "2024-07-09T22:06:22.5857654+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:32.2067711+00:00",
   "LastUpdate_AppInfo": "2024-08-03T04:57:37.7856867+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:22.6163822+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:06:22.5857912+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:12.5394836+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:32.2067904+00:00"
 }

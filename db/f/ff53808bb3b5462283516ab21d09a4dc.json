@@ -2,10 +2,10 @@
   "ID": "ff53808bb3b5462283516ab21d09a4dc",
   "Name": "Mass Effect 3 N7 Digital Deluxe Edition",
   "ProductSlug": "mass-effect-3-n7-digital-deluxe-edition-4ef6ed",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-13T20:00:00+00:00",
     "PcReleaseDate": "2012-03-06T06:00:00+00:00",
@@ -50,8 +50,8 @@
   ],
   "FirstSeen": "2024-06-20T20:57:20.6633545+00:00",
   "FirstSeenAchievements": "2024-06-25T15:01:36.4111415+00:00",
-  "LastChanged_Achievements": "2024-06-25T15:01:36.4111379+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:14.356014+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:09.5163992+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:54.4130472+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:36.41125+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:42.4721195+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:14.3560158+00:00"
 }

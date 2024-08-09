@@ -5,50 +5,50 @@ Rating: 4.71 (Ranked 225)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 66.00% | ~211 |
-| Gorilla warfare | 60.00% | ~192 |
-| Isenburg's fall | 49.00% | ~157 |
-| Pieces of eight! | 42.00% | ~134 |
-| Elephant in the room | 32.00% | ~102 |
-| Aboard the Sea Bird | 31.00% | ~99 |
-| Dark and stinky | 29.00% | ~93 |
-| Sneak in, sneak out | 26.00% | ~83 |
-| Is this the end? | 25.00% | ~80 |
-| A gift horse | 25.00% | ~80 |
-| You sssaved me | 23.00% | ~74 |
-| Say hello to my little friends | 21.00% | ~67 |
-| Heal thyself | 20.00% | ~64 |
-| Gotcha | 19.00% | ~61 |
-| It's not cheating | 17.00% | ~54 |
-| Double trouble | 16.00% | ~51 |
-| Stronk | 16.00% | ~51 |
-| Welcome to Forte Ailes | 14.00% | ~45 |
-| Super Moth Boy | 13.00% | ~42 |
-| The Bad Place | 10.00% | ~32 |
-| Meet your maker | 9.00% | ~29 |
-| Pacifist fanatic | 9.00% | ~29 |
-| The pelican brief | 8.00% | ~26 |
-| The Good Place | 8.00% | ~26 |
+| Caged tiger | 66.00% | ~217 |
+| Gorilla warfare | 60.00% | ~197 |
+| Isenburg's fall | 49.00% | ~161 |
+| Pieces of eight! | 43.00% | ~141 |
+| Elephant in the room | 33.00% | ~109 |
+| Aboard the Sea Bird | 31.00% | ~102 |
+| Dark and stinky | 30.00% | ~99 |
+| Sneak in, sneak out | 26.00% | ~86 |
+| Is this the end? | 25.00% | ~82 |
+| A gift horse | 25.00% | ~82 |
+| You sssaved me | 23.00% | ~76 |
+| Say hello to my little friends | 21.00% | ~69 |
+| Heal thyself | 20.00% | ~66 |
+| Gotcha | 19.00% | ~63 |
+| Double trouble | 16.00% | ~53 |
+| It's not cheating | 16.00% | ~53 |
+| Stronk | 16.00% | ~53 |
+| Super Moth Boy | 14.00% | ~46 |
+| Welcome to Forte Ailes | 14.00% | ~46 |
+| Meet your maker | 10.00% | ~33 |
+| The Bad Place | 10.00% | ~33 |
+| The pelican brief | 9.00% | ~30 |
+| Pacifist fanatic | 9.00% | ~30 |
+| The Good Place | 9.00% | ~30 |
+| A grave matter | 8.00% | ~26 |
 | Trial by combat | 8.00% | ~26 |
-| A grave matter | 7.00% | ~22 |
-| A bard day's night | 6.00% | ~19 |
-| Money talks | 6.00% | ~19 |
-| Peaceful protest | 6.00% | ~19 |
+| Peaceful protest | 7.00% | ~23 |
+| A bard day's night | 6.00% | ~20 |
+| Money talks | 6.00% | ~20 |
 | Lyre lyre pants on fyre | 5.00% | ~16 |
 | Squid Game | 4.00% | ~13 |
 | D4RK V0L3P41N | 4.00% | ~13 |
-| Family reunion | 3.00% | ~10 |
-| Be kind to monsters | 2.00% | ~6 |
-| One shot blade | 2.00% | ~6 |
-| The Medium Place | 1.00% | ~3 |
-| Done negotiating | 0.60% | ~2 |
-| Invulnerable | 0.30% | ~1 |
+| Family reunion | 4.00% | ~13 |
+| Be kind to monsters | 2.00% | ~7 |
+| One shot blade | 2.00% | ~7 |
+| The Medium Place | 2.00% | ~7 |
+| Done negotiating | 0.90% | ~3 |
+| Invulnerable | 0.60% | ~2 |
+| Force of nature | 0.30% | ~1 |
 | Blind as a bat | 0.00% | ~0 |
-| Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 320 (Ranked 508)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 329 (Ranked 518)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 310 | 0 |
 | 2024-04-10 | 312 | 0 |
 | 2024-06-17 | 320 | 0 |
+| 2024-08-09 | 329 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

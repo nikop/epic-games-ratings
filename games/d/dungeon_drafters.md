@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 38.00% | ~68 |
+| Might be useful… | 38.00% | ~69 |
 | Treasure Hunting | 37.00% | ~67 |
-| Shine! | 31.00% | ~56 |
-| Friend! | 30.00% | ~54 |
+| Friend! | 30.00% | ~55 |
+| Shine! | 30.00% | ~55 |
 | Uncut Gem | 27.00% | ~49 |
 | Clear as Water | 26.00% | ~47 |
-| Setting Off | 23.00% | ~41 |
-| Card Collector | 23.00% | ~41 |
+| Setting Off | 23.00% | ~42 |
+| Card Collector | 23.00% | ~42 |
 | Riddlesolver | 20.00% | ~36 |
-| Dungeon Mastery | 18.00% | ~32 |
-| A Strange Proposition | 11.00% | ~20 |
-| Card Completionist | 11.00% | ~20 |
+| Dungeon Mastery | 18.00% | ~33 |
 | The Steed | 10.00% | ~18 |
-| The Bodyguard | 8.00% | ~14 |
-| The Apprentice | 8.00% | ~14 |
-| No Stone Unturned | 8.00% | ~14 |
+| A Strange Proposition | 10.00% | ~18 |
+| Card Completionist | 10.00% | ~18 |
+| The Bodyguard | 8.00% | ~15 |
+| The Apprentice | 8.00% | ~15 |
+| No Stone Unturned | 8.00% | ~15 |
 | Braving Miasma | 7.00% | ~13 |
 | The Familiar | 7.00% | ~13 |
 | Ancient Nemesis | 7.00% | ~13 |
 | Oracle Mastery | 6.00% | ~11 |
-| Raider Mastery | 6.00% | ~11 |
-| The Plot Thickens | 6.00% | ~11 |
+| Raider Mastery | 5.00% | ~9 |
 | Traveler Mastery | 5.00% | ~9 |
 | Warden Mastery | 5.00% | ~9 |
+| The Plot Thickens | 5.00% | ~9 |
 | Best Pupil | 3.00% | ~5 |
 | FOR JUSTICE! | 3.00% | ~5 |
 | Journey’s End | 3.00% | ~5 |
@@ -45,8 +45,8 @@
 | Gladiator | 2.00% | ~4 |
 | True Drafter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180 (Ranked 569)  
-Completed: 2 (1.11%) (Ranked 235)  
+Progressed: 182 (Ranked 587)  
+Completed: 2 (1.10%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 2 (1.11%) (Ranked 235)
 | 2024-04-10 | 172 | 1 |
 | 2024-06-17 | 178 | 1 |
 | 2024-07-25 | 180 | 2 |
+| 2024-08-09 | 182 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

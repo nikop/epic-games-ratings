@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 70.00% | ~92 |
-| Remembering of the past | 53.00% | ~69 |
-| Fight like an idiot | 51.00% | ~67 |
-| Ouch, that hurt! | 41.00% | ~54 |
-| Slam-KABAM | 34.00% | ~45 |
-| Heavy Thoughts | 29.00% | ~38 |
-| Flee like an idiot | 25.00% | ~33 |
-| A heavy thinker | 22.00% | ~29 |
-| Elementary, My Dear Dusty | 20.00% | ~26 |
-| Dance like an idiot | 19.00% | ~25 |
-| I'm Back at the Surface now | 18.00% | ~24 |
-| Repair the Mind Validation Machine | 18.00% | ~24 |
-| Come full circle | 12.00% | ~16 |
-| Patient Listener | 8.00% | ~10 |
+| Black Hog Down | 72.00% | ~103 |
+| Remembering of the past | 55.00% | ~79 |
+| Fight like an idiot | 52.00% | ~74 |
+| Ouch, that hurt! | 42.00% | ~60 |
+| Slam-KABAM | 34.00% | ~49 |
+| Heavy Thoughts | 27.00% | ~39 |
+| Flee like an idiot | 24.00% | ~34 |
+| A heavy thinker | 22.00% | ~31 |
+| Elementary, My Dear Dusty | 20.00% | ~29 |
+| Dance like an idiot | 17.00% | ~24 |
+| I'm Back at the Surface now | 17.00% | ~24 |
+| Repair the Mind Validation Machine | 17.00% | ~24 |
+| Come full circle | 12.00% | ~17 |
+| Patient Listener | 8.00% | ~11 |
 | GOAAAAAAAAAL! | 5.00% | ~7 |
-| Whac-a-worker | 2.00% | ~3 |
-| You're a-MAZE-ing! | 0.80% | ~1 |
-| Memory Completionist | 0.80% | ~1 |
+| Whac-a-worker | 3.00% | ~4 |
+| You're a-MAZE-ing! | 0.70% | ~1 |
+| Memory Completionist | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 131 (Ranked 616)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 143 (Ranked 625)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 95 | 0 |
 | 2024-04-10 | 106 | 0 |
 | 2024-06-17 | 131 | 0 |
+| 2024-08-09 | 143 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

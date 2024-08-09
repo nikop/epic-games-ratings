@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Proving Your Skills | 92.00% | ~249 |
-| Bakery Startup | 42.00% | ~114 |
-| Apprentice Baker | 33.00% | ~89 |
-| The Kitchen Is On Fire | 32.00% | ~87 |
-| Adept Baker | 15.00% | ~41 |
-| Perfect Server | 15.00% | ~41 |
-| Luxury Kitchen | 12.00% | ~33 |
-| Bustling Store | 12.00% | ~33 |
-| Expert Baker | 11.00% | ~30 |
-| Verdant Greenhouse | 11.00% | ~30 |
-| Bakery Business | 8.00% | ~22 |
-| Master Baker | 8.00% | ~22 |
-| The Famous Lemon Cake | 8.00% | ~22 |
-| Gotta Go Fast | 8.00% | ~22 |
-| Bakery Empire | 7.00% | ~19 |
-| Swing The Broom | 7.00% | ~19 |
-| A Loving Home | 6.00% | ~16 |
+| Proving Your Skills | 93.00% | ~288 |
+| Bakery Startup | 42.00% | ~130 |
+| Apprentice Baker | 34.00% | ~105 |
+| The Kitchen Is On Fire | 30.00% | ~93 |
+| Adept Baker | 14.00% | ~43 |
+| Perfect Server | 14.00% | ~43 |
+| Luxury Kitchen | 12.00% | ~37 |
+| Bustling Store | 12.00% | ~37 |
+| Verdant Greenhouse | 11.00% | ~34 |
+| Expert Baker | 10.00% | ~31 |
+| Bakery Business | 8.00% | ~25 |
+| Master Baker | 8.00% | ~25 |
+| The Famous Lemon Cake | 8.00% | ~25 |
+| Gotta Go Fast | 8.00% | ~25 |
+| Bakery Empire | 7.00% | ~22 |
+| Swing The Broom | 6.00% | ~19 |
+| A Loving Home | 5.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 525)  
-Completed: 3 (1.11%) (Ranked 235)  
+Progressed: 310 (Ranked 526)  
+Completed: 4 (1.29%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,6 +107,7 @@ Completed: 3 (1.11%) (Ranked 235)
 | 2024-03-21 | 238 | 3 |
 | 2024-04-10 | 247 | 3 |
 | 2024-06-17 | 271 | 3 |
+| 2024-08-09 | 310 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

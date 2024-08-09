@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hero Arrives | 89.00% | ~164 |
-| Eat the Rich | 54.00% | ~99 |
-| Killing Machine | 38.00% | ~70 |
-| Death Battle | 34.00% | ~63 |
-| Phantom Kunoichi | 34.00% | ~63 |
-| Divine Retribution | 33.00% | ~61 |
-| Captain Mustache | 31.00% | ~57 |
-| Final Showdown | 28.00% | ~52 |
-| The End of an Outlaw | 28.00% | ~52 |
-| Dispel Rumors | 23.00% | ~42 |
-| Demon Slayer | 21.00% | ~39 |
-| Steal Her Away | 20.00% | ~37 |
-| Fight Fire With Fire | 20.00% | ~37 |
-| Urban Explorer | 18.00% | ~33 |
-| Sewer Rat | 18.00% | ~33 |
-| Big Eater | 17.00% | ~31 |
-| Coward | 17.00% | ~31 |
-| Tour Guide | 16.00% | ~29 |
-| Not Today | 16.00% | ~29 |
-| Tomb Raider | 16.00% | ~29 |
-| The Real O.G. | 13.00% | ~24 |
-| The Hero of the People | 10.00% | ~18 |
-| Talk to the Fist | 9.00% | ~17 |
-| Collector | 8.00% | ~15 |
-| Taoist | 6.00% | ~11 |
-| The Legend | 5.00% | ~9 |
+| Hero Arrives | 87.00% | ~184 |
+| Eat the Rich | 55.00% | ~117 |
+| Killing Machine | 36.00% | ~76 |
+| Death Battle | 33.00% | ~70 |
+| Phantom Kunoichi | 33.00% | ~70 |
+| Divine Retribution | 32.00% | ~68 |
+| Captain Mustache | 31.00% | ~66 |
+| Final Showdown | 28.00% | ~59 |
+| The End of an Outlaw | 28.00% | ~59 |
+| Dispel Rumors | 22.00% | ~47 |
+| Demon Slayer | 19.00% | ~40 |
+| Steal Her Away | 18.00% | ~38 |
+| Sewer Rat | 18.00% | ~38 |
+| Fight Fire With Fire | 18.00% | ~38 |
+| Urban Explorer | 17.00% | ~36 |
+| Tour Guide | 16.00% | ~34 |
+| Coward | 16.00% | ~34 |
+| Tomb Raider | 16.00% | ~34 |
+| Big Eater | 15.00% | ~32 |
+| Not Today | 15.00% | ~32 |
+| The Real O.G. | 12.00% | ~25 |
+| The Hero of the People | 10.00% | ~21 |
+| Talk to the Fist | 8.00% | ~17 |
+| Collector | 7.00% | ~15 |
+| Taoist | 6.00% | ~13 |
+| The Legend | 5.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 568)  
-Completed: 9 (4.89%) (Ranked 122)  
+Progressed: 212 (Ranked 569)  
+Completed: 10 (4.72%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,6 +98,7 @@ Completed: 9 (4.89%) (Ranked 122)
 | 2024-03-21 | 122 | 7 |
 | 2024-04-10 | 124 | 7 |
 | 2024-06-17 | 184 | 9 |
+| 2024-08-09 | 212 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

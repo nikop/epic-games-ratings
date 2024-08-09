@@ -2,10 +2,10 @@
   "ID": "3d6e656e1ca044c880daffbf72cf9261",
   "Name": "The Slayer:Rebirth",
   "ProductSlug": "the-slayer-d43d68",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-05T06:57:47.8781051+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:31.4562628+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:46.436786+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:24.2919239+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:18.1370149+00:00"
 }

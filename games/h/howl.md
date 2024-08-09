@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overpower | 175.00% | ~14 |
-| Skilled | 163.00% | ~13 |
-| Tactician | 163.00% | ~13 |
-| Complete Chapter 1 | 138.00% | ~11 |
-| Complete Chapter 2 | 113.00% | ~9 |
-| Sparks and Smoke | 113.00% | ~9 |
-| Combat Prophet | 100.00% | ~8 |
-| From the Shadows | 88.00% | ~7 |
-| Burn the Wolf | 75.00% | ~6 |
-| Complete Chapter 3 | 75.00% | ~6 |
-| Master | 63.00% | ~5 |
-| Complete Chapter 4 | 63.00% | ~5 |
-| Attacrobatics | 63.00% | ~5 |
-| Efficiency | 50.00% | ~4 |
-| Ruthless | 38.00% | ~3 |
-| The Perfect Prophecy | 25.00% | ~2 |
+| Overpower | 189.00% | ~17 |
+| Skilled | 167.00% | ~15 |
+| Tactician | 167.00% | ~15 |
+| Complete Chapter 1 | 144.00% | ~13 |
+| Complete Chapter 2 | 111.00% | ~10 |
+| Sparks and Smoke | 111.00% | ~10 |
+| Combat Prophet | 100.00% | ~9 |
+| From the Shadows | 89.00% | ~8 |
+| Burn the Wolf | 78.00% | ~7 |
+| Complete Chapter 3 | 78.00% | ~7 |
+| Master | 67.00% | ~6 |
+| Complete Chapter 4 | 67.00% | ~6 |
+| Attacrobatics | 67.00% | ~6 |
+| Efficiency | 56.00% | ~5 |
+| Ruthless | 44.00% | ~4 |
+| The Perfect Prophecy | 33.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 925)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 9 (Ranked 947)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -31,3 +31,4 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-02-22 | 4 | 0 |
 | 2024-03-21 | 5 | 0 |
 | 2024-06-17 | 8 | 0 |
+| 2024-08-09 | 9 | 0 |

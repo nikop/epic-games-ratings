@@ -4,59 +4,59 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 97.00% | ~1,218 |
-| Waff! | 95.00% | ~1,193 |
-| Into the Barn | 87.00% | ~1,093 |
-| A Prophecy | 85.00% | ~1,068 |
-| Sword, Shield, Fight! | 76.00% | ~955 |
-| A Grand Visit | 72.00% | ~904 |
-| Vibing | 63.00% | ~791 |
-| Fun Guy | 63.00% | ~791 |
-| Tragic Brave | 54.00% | ~678 |
-| Awakened Spirits | 51.00% | ~641 |
-| Little Shop | 50.00% | ~628 |
-| An Actor! | 46.00% | ~578 |
-| Surprise! | 45.00% | ~565 |
-| Curtain Call | 44.00% | ~553 |
-| Piece of Cake | 42.00% | ~528 |
-| Gooey Delight! | 41.00% | ~515 |
-| Glimmer of Hope | 41.00% | ~515 |
-| Teacups for Toppy | 41.00% | ~515 |
-| Well Rested | 41.00% | ~515 |
-| The Guardian | 40.00% | ~502 |
-| Nightmare Fuel | 39.00% | ~490 |
-| Take Heart | 39.00% | ~490 |
-| Frog Facts! | 38.00% | ~477 |
-| All That Glistens | 38.00% | ~477 |
-| Stronger! | 38.00% | ~477 |
-| Ancient Wisdom | 37.00% | ~465 |
-| Spellbound | 36.00% | ~452 |
-| All Skilled Up! | 36.00% | ~452 |
-| It's Pointy! | 36.00% | ~452 |
-| Extinct Again! | 35.00% | ~440 |
-| Bird of Prey | 35.00% | ~440 |
-| Stardust | 34.00% | ~427 |
-| Heartbreaker | 34.00% | ~427 |
-| Kidnapped! | 34.00% | ~427 |
-| Pull the Plug | 33.00% | ~414 |
-| Soul Slayer | 33.00% | ~414 |
-| All Heart | 33.00% | ~414 |
-| Trick Question! | 33.00% | ~414 |
-| Final Showdown | 33.00% | ~414 |
-| The Downfall | 32.00% | ~402 |
-| Spot of Tea? | 32.00% | ~402 |
-| Going Home | 32.00% | ~402 |
-| Extraordinary! | 31.00% | ~389 |
-| Mirror, Mirror | 30.00% | ~377 |
-| Flower Power | 27.00% | ~339 |
-| Shopping Spree! | 25.00% | ~314 |
-| Crowned | 22.00% | ~276 |
-| Max Level! | 15.00% | ~188 |
-| Dance Master | 10.00% | ~126 |
-| Bombs Away! | 9.00% | ~113 |
+| Once Upon a Time | 97.00% | ~1,235 |
+| Waff! | 95.00% | ~1,209 |
+| Into the Barn | 87.00% | ~1,108 |
+| A Prophecy | 85.00% | ~1,082 |
+| Sword, Shield, Fight! | 76.00% | ~967 |
+| A Grand Visit | 73.00% | ~929 |
+| Vibing | 63.00% | ~802 |
+| Fun Guy | 63.00% | ~802 |
+| Tragic Brave | 53.00% | ~675 |
+| Awakened Spirits | 52.00% | ~662 |
+| Little Shop | 49.00% | ~624 |
+| Surprise! | 45.00% | ~573 |
+| An Actor! | 45.00% | ~573 |
+| Curtain Call | 44.00% | ~560 |
+| Piece of Cake | 41.00% | ~522 |
+| Gooey Delight! | 41.00% | ~522 |
+| Glimmer of Hope | 41.00% | ~522 |
+| Well Rested | 41.00% | ~522 |
+| The Guardian | 40.00% | ~509 |
+| Teacups for Toppy | 40.00% | ~509 |
+| Nightmare Fuel | 39.00% | ~496 |
+| Take Heart | 39.00% | ~496 |
+| Frog Facts! | 38.00% | ~484 |
+| Stronger! | 38.00% | ~484 |
+| Ancient Wisdom | 37.00% | ~471 |
+| All That Glistens | 37.00% | ~471 |
+| It's Pointy! | 36.00% | ~458 |
+| Spellbound | 35.00% | ~446 |
+| All Skilled Up! | 35.00% | ~446 |
+| Extinct Again! | 34.00% | ~433 |
+| Bird of Prey | 34.00% | ~433 |
+| Stardust | 34.00% | ~433 |
+| Heartbreaker | 34.00% | ~433 |
+| Kidnapped! | 34.00% | ~433 |
+| Pull the Plug | 33.00% | ~420 |
+| All Heart | 33.00% | ~420 |
+| Trick Question! | 33.00% | ~420 |
+| Soul Slayer | 32.00% | ~407 |
+| The Downfall | 32.00% | ~407 |
+| Final Showdown | 32.00% | ~407 |
+| Spot of Tea? | 32.00% | ~407 |
+| Going Home | 32.00% | ~407 |
+| Extraordinary! | 31.00% | ~395 |
+| Mirror, Mirror | 30.00% | ~382 |
+| Flower Power | 26.00% | ~331 |
+| Shopping Spree! | 24.00% | ~306 |
+| Crowned | 21.00% | ~267 |
+| Max Level! | 15.00% | ~191 |
+| Dance Master | 10.00% | ~127 |
+| Bombs Away! | 9.00% | ~115 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,256 (Ranked 372)  
-Completed: 93 (7.40%) (Ranked 86)  
+Progressed: 1,273 (Ranked 385)  
+Completed: 94 (7.38%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,6 +232,7 @@ Completed: 93 (7.40%) (Ranked 86)
 | 2024-03-21 | 1,225 | 93 |
 | 2024-04-10 | 1,233 | 93 |
 | 2024-06-17 | 1,256 | 93 |
+| 2024-08-09 | 1,273 | 94 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "7835e0cee5f244368043d0ba83528856",
   "Name": "SOKOCAT - DUNGEON",
   "ProductSlug": "sokocat-dungeon-f58b6d",
-  "Ranking_EOS_Progress": 759,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-30T13:00:00+00:00",
     "PcReleaseDate": "2021-09-02T13:00:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-07-25T19:01:52.8499637+00:00",
       "NumProgressed": 44,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:50.0269761+00:00",
+      "NumProgressed": 49,
       "NumCompleted": 0
     }
   ],
@@ -43,7 +48,7 @@
       "ID": "Deep dungeon",
       "SetID": "5h87ic2",
       "Name": "Deep dungeon",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 80,
       "UsersEstimate": 2
     },
@@ -53,7 +58,7 @@
       "Name": "Enter the dungeon",
       "Percentage": 39,
       "XP": 80,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "Exit the dungeon",
@@ -75,9 +80,9 @@
       "ID": "Into to the castle",
       "SetID": "5h87ic2",
       "Name": "Into to the castle",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "The floor is lava",
@@ -91,7 +96,7 @@
       "ID": "amethyst item",
       "SetID": "5h87ic2",
       "Name": "First treasure",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -101,7 +106,7 @@
       "Name": "The Boomerang",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "cup gold item",
@@ -148,13 +153,13 @@
     {
       "ID": "5h87ic2",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-25T19:01:52.8499714+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:01:52.8499633+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:50.0269759+00:00",
   "LastUpdate_AppInfo": "2024-08-08T20:57:14.5319883+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:42.6854864+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:52.8507848+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:32.8366535+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:50.0269827+00:00"
 }

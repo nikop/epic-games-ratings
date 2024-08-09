@@ -2,10 +2,10 @@
   "ID": "a63da3e34b8a46799ea1bcc4cf62c97d",
   "Name": "BIOMORPH",
   "ProductSlug": "biomorph-281d6e",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1085,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-05T09:00:00+00:00",
@@ -23,16 +23,274 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:02:09.3859323+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:02:09.3859376+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ARSENAL_01",
+      "SetID": "6hblg1e",
+      "Name": "Biomorphologist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ATTACKMODULES_01",
+      "SetID": "6hblg1e",
+      "Name": "Force of Nature",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BUILDINGS_01",
+      "SetID": "6hblg1e",
+      "Name": "Harlo the Builder",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHIPS_01",
+      "SetID": "6hblg1e",
+      "Name": "Combat Curator",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CHIPS_02",
+      "SetID": "6hblg1e",
+      "Name": "Chipsmith",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DISCS_01",
+      "SetID": "6hblg1e",
+      "Name": "Tune Enthusiast",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EFFICIENCYMODULES_01",
+      "SetID": "6hblg1e",
+      "Name": "Master of Efficiency",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KERTARS_01",
+      "SetID": "6hblg1e",
+      "Name": "Kertar\u0027s Preferred Patron",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LETTERTAPPERS_01",
+      "SetID": "6hblg1e",
+      "Name": "Archaeo Afficionado",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MAP_01",
+      "SetID": "6hblg1e",
+      "Name": "Golden Explorer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MEMENTOS_01",
+      "SetID": "6hblg1e",
+      "Name": "Memento Gatherers",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MEMENTOS_02",
+      "SetID": "6hblg1e",
+      "Name": "Memento Keepers",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MONSTERS_01",
+      "SetID": "6hblg1e",
+      "Name": "Little Helper, Big Help",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MONSTERS_02",
+      "SetID": "6hblg1e",
+      "Name": "Stealthy Executioner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MONSTERS_03",
+      "SetID": "6hblg1e",
+      "Name": "Ferrox Carnage",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_QUESTS_01",
+      "SetID": "6hblg1e",
+      "Name": "Benevolence",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_QUESTS_02",
+      "SetID": "6hblg1e",
+      "Name": "Fate Defier",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_QUESTS_03",
+      "SetID": "6hblg1e",
+      "Name": "Sister Seeker",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCARGATOS_01",
+      "SetID": "6hblg1e",
+      "Name": "Scargato Whisperer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_01",
+      "SetID": "6hblg1e",
+      "Name": "Cool Guys Don\u0027t Look at Explosions",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_02",
+      "SetID": "6hblg1e",
+      "Name": "Freedom Awaits",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_03",
+      "SetID": "6hblg1e",
+      "Name": "Purge of Gluttony",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_04",
+      "SetID": "6hblg1e",
+      "Name": "Triumph Over Deception",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_05",
+      "SetID": "6hblg1e",
+      "Name": "Steel Sentinel Smashed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_06",
+      "SetID": "6hblg1e",
+      "Name": "Monarch\u0027s Downfall",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_07",
+      "SetID": "6hblg1e",
+      "Name": "Perseverance Pays",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_08",
+      "SetID": "6hblg1e",
+      "Name": "Friendship\u0027s Farewell",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STORY_09",
+      "SetID": "6hblg1e",
+      "Name": "All\u0027s Well that Ends Well",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VITALCONTAINERS_01",
+      "SetID": "6hblg1e",
+      "Name": "Container Collector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VITALMODULES_01",
+      "SetID": "6hblg1e",
+      "Name": "Unassailable Vitality",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6hblg1e",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:09.3859376+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:09.385932+00:00",
   "LastUpdate_AppInfo": "2024-08-06T19:57:01.6905563+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:17.3341419+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:16.5509925+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:09.386695+00:00"
 }

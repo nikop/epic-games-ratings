@@ -5,10 +5,10 @@
   "Ranking_Rating": 463,
   "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 411,
-  "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 503,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Completed": 524,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1102,7 +1102,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 52242,
+  "EOS_Progressed": 56349,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -30047,6 +30047,11 @@
       "Time": "2024-06-17T16:09:55.6959615+00:00",
       "NumProgressed": 52242,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-09T18:02:33.4409644+00:00",
+      "NumProgressed": 56349,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -30058,7 +30063,7 @@
       "Name": "A zee-change",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 451
     },
     {
       "ID": "ach_abysslady",
@@ -30066,7 +30071,7 @@
       "Name": "The Lady\u0027s Parlour",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_admirality10",
@@ -30074,7 +30079,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 8881
+      "UsersEstimate": 9579
     },
     {
       "ID": "ach_antiquarian10",
@@ -30082,7 +30087,7 @@
       "Name": "Old Unhappy Far-Off Things",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2254
     },
     {
       "ID": "ach_combuoy",
@@ -30090,7 +30095,7 @@
       "Name": "A buoyant escape",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 563
     },
     {
       "ID": "ach_constant",
@@ -30098,7 +30103,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_contdrownie",
@@ -30106,7 +30111,7 @@
       "Name": "A Drownie devotee",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_controman",
@@ -30114,7 +30119,7 @@
       "Name": "Romans 6:9",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_cursesalt",
@@ -30122,7 +30127,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 6198
     },
     {
       "ID": "ach_cursestone",
@@ -30130,7 +30135,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 394
     },
     {
       "ID": "ach_cursestorm",
@@ -30138,7 +30143,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1690
     },
     {
       "ID": "ach_dawnmachine",
@@ -30146,7 +30151,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 6198
     },
     {
       "ID": "ach_deathofermod",
@@ -30154,7 +30159,7 @@
       "Name": "Ofermod",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_deathphlebas",
@@ -30162,7 +30167,7 @@
       "Name": "Consider Phlebas",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_deathwat",
@@ -30170,7 +30175,7 @@
       "Name": "Death By Water",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_die1",
@@ -30178,7 +30183,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 18807
+      "UsersEstimate": 20286
     },
     {
       "ID": "ach_die10",
@@ -30186,7 +30191,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 418
+      "UsersEstimate": 451
     },
     {
       "ID": "ach_die5",
@@ -30194,7 +30199,7 @@
       "Name": "Sink Beneath the Waves. Again.",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2254
     },
     {
       "ID": "ach_dive",
@@ -30202,7 +30207,7 @@
       "Name": "Frightful, sheer, no-man-fathomed",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 522
+      "UsersEstimate": 563
     },
     {
       "ID": "ach_dreadnaught",
@@ -30210,7 +30215,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1690
     },
     {
       "ID": "ach_eye",
@@ -30218,7 +30223,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1127
     },
     {
       "ID": "ach_hunterskeep",
@@ -30226,7 +30231,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5747
+      "UsersEstimate": 6198
     },
     {
       "ID": "ach_invictus",
@@ -30234,7 +30239,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1127
     },
     {
       "ID": "ach_ladylilac",
@@ -30242,7 +30247,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1690
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -30250,15 +30255,15 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6762
     },
     {
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3944
     },
     {
       "ID": "ach_legacyrival",
@@ -30266,7 +30271,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7314
+      "UsersEstimate": 7889
     },
     {
       "ID": "ach_legacysalvager",
@@ -30274,7 +30279,7 @@
       "Name": "Salvager",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3381
     },
     {
       "ID": "ach_legacyshipmate",
@@ -30282,7 +30287,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 6198
     },
     {
       "ID": "ach_newstories",
@@ -30290,7 +30295,7 @@
       "Name": "Open Your Ears",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3381
     },
     {
       "ID": "ach_portbell",
@@ -30298,7 +30303,7 @@
       "Name": "The Bell Tolls",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 563
     },
     {
       "ID": "ach_portbones",
@@ -30306,7 +30311,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portdeep",
@@ -30314,7 +30319,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portdragon",
@@ -30322,7 +30327,7 @@
       "Name": "The dragon in the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portfish",
@@ -30330,7 +30335,7 @@
       "Name": "Thanks for all the fish",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portknife",
@@ -30338,7 +30343,7 @@
       "Name": "Knife, Cup and Bone",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portleviathan",
@@ -30346,7 +30351,7 @@
       "Name": "Leviathan",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 451
     },
     {
       "ID": "ach_portpearls",
@@ -30354,15 +30359,15 @@
       "Name": "Those are pearls that were his eyes",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portregret",
       "SetID": "ammcm",
       "Name": "No regrets",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 451
     },
     {
       "ID": "ach_portrose",
@@ -30370,7 +30375,7 @@
       "Name": "Rosewater sailor",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_portunder",
@@ -30378,7 +30383,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 470
+      "UsersEstimate": 507
     },
     {
       "ID": "ach_scion",
@@ -30386,7 +30391,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2817
     },
     {
       "ID": "ach_stranger",
@@ -30394,7 +30399,7 @@
       "Name": "A Past Wreathed in Shadows",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_surface",
@@ -30402,7 +30407,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3944
     },
     {
       "ID": "ach_sweetheart",
@@ -30410,7 +30415,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 9404
+      "UsersEstimate": 10143
     },
     {
       "ID": "ach_terror100",
@@ -30418,7 +30423,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6762
     },
     {
       "ID": "ach_terror90",
@@ -30426,7 +30431,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 7836
+      "UsersEstimate": 8452
     },
     {
       "ID": "ach_undercurrent",
@@ -30434,7 +30439,7 @@
       "Name": "A current under zee",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 522
+      "UsersEstimate": 563
     },
     {
       "ID": "ach_underdepth",
@@ -30442,7 +30447,7 @@
       "Name": "Depth charge",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 451
     },
     {
       "ID": "ach_underpressure",
@@ -30450,7 +30455,7 @@
       "Name": "Under pressure",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_will",
@@ -30458,7 +30463,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 6269
+      "UsersEstimate": 6762
     },
     {
       "ID": "ach_year1",
@@ -30466,7 +30471,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4508
     },
     {
       "ID": "ach_year10",
@@ -30474,7 +30479,7 @@
       "Name": "Ten Years at Zee",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_year5",
@@ -30482,22 +30487,22 @@
       "Name": "Five Years at Zee",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 282
     }
   ],
   "AchievementSets": [
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 52242,
+      "Progressed": 56349,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-08-08T19:57:32.812635+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:55.6959611+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:33.4409638+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:01.7823746+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:13.0729009+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:55.6961609+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:03.6515017+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:33.4411198+00:00"
 }

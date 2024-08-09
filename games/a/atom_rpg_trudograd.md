@@ -5,41 +5,41 @@ Rating: 4.54 (Ranked 598)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,370 |
-| Household | 7.00% | ~110 |
-| An Old Friend | 6.00% | ~94 |
-| Lot 49 | 5.00% | ~79 |
-| Viva La Revolution | 5.00% | ~79 |
-| Atomic Soda | 4.00% | ~63 |
-| Mysterious Knife | 4.00% | ~63 |
-| Shadow over Trudograd | 4.00% | ~63 |
-| Walking Fortress | 4.00% | ~63 |
-| Freelance Police | 3.00% | ~47 |
-| The Great and Powerful | 3.00% | ~47 |
-| Albino Bloodsucker | 2.00% | ~32 |
-| Fight Club | 2.00% | ~32 |
-| Human Antidote | 2.00% | ~32 |
-| Death of the Author | 1.00% | ~16 |
-| Memoirs of a Nibbler | 1.00% | ~16 |
+| Fresh Prince of Trudograd | 86.00% | ~1,437 |
+| Household | 6.00% | ~100 |
+| An Old Friend | 6.00% | ~100 |
+| Lot 49 | 5.00% | ~84 |
+| Viva La Revolution | 5.00% | ~84 |
+| Atomic Soda | 4.00% | ~67 |
+| Walking Fortress | 4.00% | ~67 |
+| Freelance Police | 3.00% | ~50 |
+| Mysterious Knife | 3.00% | ~50 |
+| The Great and Powerful | 3.00% | ~50 |
+| Shadow over Trudograd | 3.00% | ~50 |
+| Albino Bloodsucker | 2.00% | ~33 |
+| Fight Club | 2.00% | ~33 |
+| Human Antidote | 2.00% | ~33 |
+| Death of the Author | 1.00% | ~17 |
+| Memoirs of a Nibbler | 1.00% | ~17 |
 | KGB Bunker | 0.80% | ~13 |
 | Rising Star | 0.80% | ~13 |
-| Sixth Sense | 0.70% | ~11 |
-| Baby Eater | 0.60% | ~9 |
-| Admiral | 0.40% | ~6 |
-| Incompetence | 0.40% | ~6 |
-| Goose Sacrifice | 0.40% | ~6 |
-| Second Thought | 0.40% | ~6 |
-| Bronzovka | 0.30% | ~5 |
-| Commando | 0.30% | ~5 |
+| Sixth Sense | 0.70% | ~12 |
+| Baby Eater | 0.60% | ~10 |
+| Admiral | 0.40% | ~7 |
+| Incompetence | 0.40% | ~7 |
+| Goose Sacrifice | 0.40% | ~7 |
+| Second Thought | 0.40% | ~7 |
 | Holy Mountain | 0.30% | ~5 |
-| Power of Simplicity | 0.30% | ~5 |
 | Sick Freak | 0.30% | ~5 |
 | Goodbye ATOM | 0.20% | ~3 |
+| Bronzovka | 0.20% | ~3 |
+| Commando | 0.20% | ~3 |
+| Power of Simplicity | 0.20% | ~3 |
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,575 (Ranked 359)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1,671 (Ranked 366)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,6 +242,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,489 | 0 |
 | 2024-04-10 | 1,507 | 0 |
 | 2024-06-17 | 1,575 | 0 |
+| 2024-08-09 | 1,671 | 0 |
 ## Awards
 Max (Character Customization): 28  (Ranked 622)  
 Sum: 28 (Ranked 643)  

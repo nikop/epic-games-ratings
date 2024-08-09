@@ -2,10 +2,10 @@
   "ID": "b0beeaad664a41ddb029247838a5a930",
   "Name": "The Legend of Heroes: Trails through Daybreak",
   "ProductSlug": "the-legend-of-heroes-trails-through-daybreak-dac84d",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 814,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-05T17:00:00.733+00:00",
     "PcReleaseDate": "2023-03-02T00:00:00+00:00",
@@ -25,27 +25,451 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:05:59.8739819+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:05:59.873983+00:00",
+  "TotalAchievements": 52,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "TROPHY1_AAA_RANK",
+      "SetID": "4an397",
+      "Name": "AAA-rkride Solutions",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_ACHIEVE_COMP",
+      "SetID": "4an397",
+      "Name": "Working Overtime",
+      "Percentage": 0,
+      "XP": 115,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_ADRIVER_CHANGE",
+      "SetID": "4an397",
+      "Name": "Arts Virtuoso",
+      "Percentage": 36,
+      "XP": 5,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "TROPHY1_ADRIVER_COUNT",
+      "SetID": "4an397",
+      "Name": "Master Driver",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TROPHY1_ADVANTAGE_ATTACK_COUNT",
+      "SetID": "4an397",
+      "Name": "Caught \u0027Em Off Shard",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "TROPHY1_ALIGNMENT_COMP",
+      "SetID": "4an397",
+      "Name": "Enlightened Centrist",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_BOOK_NOTE_COMP",
+      "SetID": "4an397",
+      "Name": "Fervent Bibliophile",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_CHAIN_HIT_COUNT",
+      "SetID": "4an397",
+      "Name": "Chain Smoker",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "TROPHY1_CHAOS_LV3",
+      "SetID": "4an397",
+      "Name": "Chaos Bringer",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "TROPHY1_CINEMA_COMP",
+      "SetID": "4an397",
+      "Name": "Unmatched Cinephile",
+      "Percentage": 12,
+      "XP": 50,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "TROPHY1_CONNECT_MAX",
+      "SetID": "4an397",
+      "Name": "Unrivaled Connection",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TROPHY1_CONNECT_MAX_COMP",
+      "SetID": "4an397",
+      "Name": "Unbreakable Bonds",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_FBATTLE_KILL_COUNT",
+      "SetID": "4an397",
+      "Name": "Rookie Warrior",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "TROPHY1_GIFT_COUNT",
+      "SetID": "4an397",
+      "Name": "Vanta Claus",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TROPHY1_GOURMET_LV_MAX",
+      "SetID": "4an397",
+      "Name": "Gourmaniac",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_GRAY_LV3",
+      "SetID": "4an397",
+      "Name": "Morally Gray",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TROPHY1_HOLLOW_CHANGE_1ST",
+      "SetID": "4an397",
+      "Name": "Aftermarket Modder",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "TROPHY1_HOLLOW_COMP",
+      "SetID": "4an397",
+      "Name": "Holostar",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "TROPHY1_HOLLOW_LV_MAX",
+      "SetID": "4an397",
+      "Name": "HOLO 9000",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "TROPHY1_KILL_COUNT_1",
+      "SetID": "4an397",
+      "Name": "Talented Spriggan",
+      "Percentage": 24,
+      "XP": 5,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "TROPHY1_KILL_COUNT_2",
+      "SetID": "4an397",
+      "Name": "Legendary Champion",
+      "Percentage": 15,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "TROPHY1_LAW_LV3",
+      "SetID": "4an397",
+      "Name": "Law-Abiding Spriggan",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "TROPHY1_MONS_NOTE_COMP",
+      "SetID": "4an397",
+      "Name": "Carving a New Trail",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_NIGHTMARE",
+      "SetID": "4an397",
+      "Name": "Bear the Nightmare",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_ORBMENT_SLOT_COMP",
+      "SetID": "4an397",
+      "Name": "Master of Orbments",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_QUEST_COMP",
+      "SetID": "4an397",
+      "Name": "Time For Sweets",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "TROPHY1_SBOOST_COUNT",
+      "SetID": "4an397",
+      "Name": "The Fast and the S-Boosted",
+      "Percentage": 30,
+      "XP": 5,
+      "UsersEstimate": 10
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_0",
+      "SetID": "4an397",
+      "Name": "Spriggan of the Slums",
+      "Percentage": 21,
+      "XP": 25,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_1",
+      "SetID": "4an397",
+      "Name": "The Young Flame Departs",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_2",
+      "SetID": "4an397",
+      "Name": "Bright Star of the Dazzling City",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_3",
+      "SetID": "4an397",
+      "Name": "Pleasure in Delirium",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_4",
+      "SetID": "4an397",
+      "Name": "Disaster Protocol",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_4I",
+      "SetID": "4an397",
+      "Name": "A Mysterious Tale in Longlai",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_5",
+      "SetID": "4an397",
+      "Name": "The Restless Carnival",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_5A",
+      "SetID": "4an397",
+      "Name": "Taking Up the Gauntlet",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_5B",
+      "SetID": "4an397",
+      "Name": "My Way or the Heiyue",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_5C",
+      "SetID": "4an397",
+      "Name": "The Silver Lining",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_5D",
+      "SetID": "4an397",
+      "Name": "Partners in Crime",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_6",
+      "SetID": "4an397",
+      "Name": "For you, Upon Your Return",
+      "Percentage": 0,
+      "XP": 115,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_SCENARIO_BEGIN",
+      "SetID": "4an397",
+      "Name": "Let\u0027s Go, Spriggan!",
+      "Percentage": 82,
+      "XP": 25,
+      "UsersEstimate": 27
+    },
+    {
+      "ID": "TROPHY1_SCLM_COUNT",
+      "SetID": "4an397",
+      "Name": "SCLM Addict",
+      "Percentage": 27,
+      "XP": 5,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "TROPHY1_SCRAFT_COUNT",
+      "SetID": "4an397",
+      "Name": "S-Crutch",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "TROPHY1_SIMULATOR_CLEAR",
+      "SetID": "4an397",
+      "Name": "Virtually Victorious",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "TROPHY1_SIMULATOR_COMP",
+      "SetID": "4an397",
+      "Name": "Virtual Vanguard",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TROPHY1_SPA_COMP",
+      "SetID": "4an397",
+      "Name": "Solitary Spa Fanatic",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TROPHY1_STOCK_TIME_ADD_1ST",
+      "SetID": "4an397",
+      "Name": "Time Lord",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "TROPHY1_STRONG_WEAPON_GET",
+      "SetID": "4an397",
+      "Name": "Unlimited Power",
+      "Percentage": 9,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "TROPHY1_S_RANK",
+      "SetID": "4an397",
+      "Name": "Hotshot Spriggan",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_TAC_BONUS_COUNT",
+      "SetID": "4an397",
+      "Name": "W-W-Wombo Combo",
+      "Percentage": 3,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "TROPHY1_TBOX_COUNT",
+      "SetID": "4an397",
+      "Name": "Chestiny",
+      "Percentage": 12,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "TROPHY1_TOPIC_USE_COUNT",
+      "SetID": "4an397",
+      "Name": "Chatterbox",
+      "Percentage": 15,
+      "XP": 5,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "TROPHY1_TOTAL_DAMAGE",
+      "SetID": "4an397",
+      "Name": "Van the Stampede",
+      "Percentage": 42,
+      "XP": 5,
+      "UsersEstimate": 14
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4an397",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-06T10:58:09.3457457+00:00",
   "FirstSeenAchievements": "2024-06-17T16:18:09.1250961+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:18:09.1250942+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:59.8739817+00:00",
   "LastUpdate_AppInfo": "2024-08-02T23:57:16.0767162+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:04.8350798+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:09.1250982+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:51.4709514+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:59.8746207+00:00"
 }

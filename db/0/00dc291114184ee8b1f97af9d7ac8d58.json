@@ -2,10 +2,10 @@
   "ID": "00dc291114184ee8b1f97af9d7ac8d58",
   "Name": "Sift Heads Rush",
   "ProductSlug": "sift-heads-rush-b6403d",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-01T18:00:00+00:00",
     "PcReleaseDate": "2024-08-01T18:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T18:57:09.1689066+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:30.3858465+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:15.8417605+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:23.3346952+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:48.8291551+00:00"
 }

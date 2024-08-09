@@ -2,10 +2,10 @@
   "ID": "32aff53b2ea849249541da8da6d6592a",
   "Name": "The Eightfold Path",
   "ProductSlug": "the-eightfold-path-a45184",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T10:57:01.5176384+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:54.699081+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:23.6734288+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:02.5905409+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:20.7084175+00:00"
 }

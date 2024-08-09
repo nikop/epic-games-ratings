@@ -2,10 +2,10 @@
   "ID": "c3c107b5e1894020ae78c0346c43598f",
   "Name": "Garden In",
   "ProductSlug": "garden-in-671c44",
-  "Ranking_EOS_Progress": 538,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 553,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-01-26T13:00:00+00:00",
     "PcReleaseDate": "2023-01-26T13:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 244,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:31.2425799+00:00",
@@ -476,6 +476,11 @@
       "Time": "2024-06-17T16:10:49.4245723+00:00",
       "NumProgressed": 240,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-09T18:02:54.8993812+00:00",
+      "NumProgressed": 244,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 31,
@@ -485,17 +490,17 @@
       "ID": "ACH_A_GREENER_DAY",
       "SetID": "95o50of",
       "Name": "A Greener Day",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_A_SAD_MOMENT",
       "SetID": "95o50of",
       "Name": "A Sad Moment",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_BALCONY_OPTIMIZER",
@@ -509,17 +514,17 @@
       "ID": "ACH_BUDDING_SCIENTIST",
       "SetID": "95o50of",
       "Name": "Budding Scientist",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_DRY_NO_MORE",
       "SetID": "95o50of",
       "Name": "Dry No More",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_FEET_IN_THE_WATER",
@@ -533,17 +538,17 @@
       "ID": "ACH_FOOD_FOR_INSECTS",
       "SetID": "95o50of",
       "Name": "Food for Insects",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_HANDS_IN_THE_DIRT",
       "SetID": "95o50of",
       "Name": "Hands in the Dirt",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_HEAD_IN_THE_CLOUDS",
@@ -557,33 +562,33 @@
       "ID": "ACH_LAB_ROOM",
       "SetID": "95o50of",
       "Name": "Lab-Room",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LANDLORD",
       "SetID": "95o50of",
       "Name": "Landlord",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_LEAVE_MY_BABY_ALONE",
       "SetID": "95o50of",
       "Name": "Leave My Baby Alone!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_LETS_GO_FOR_A_WALK",
       "SetID": "95o50of",
       "Name": "Let\u0027s Go for a Walk",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LOVE_AND_SCIENCE",
@@ -597,17 +602,17 @@
       "ID": "ACH_MASTER_GARDENER",
       "SetID": "95o50of",
       "Name": "Master Gardener",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_NEWFILTER",
       "SetID": "95o50of",
       "Name": "#NewFilter",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_PERFECTIONIST",
@@ -621,65 +626,65 @@
       "ID": "ACH_PET_PET_PET",
       "SetID": "95o50of",
       "Name": "Pet Pet Pet",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_POTTERY_CONNOISSEUR",
       "SetID": "95o50of",
       "Name": "Pottery Connoisseur",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_RESEARCH_COMPLETE",
       "SetID": "95o50of",
       "Name": "Research Complete",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ROOM_REVEALER",
       "SetID": "95o50of",
       "Name": "Room Revealer",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_SAY_CHEESE",
       "SetID": "95o50of",
       "Name": "Say Cheese!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SEED_OF_LOVE",
       "SetID": "95o50of",
       "Name": "Seed of Love",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_SPRAY_SPRAY_SPRAY",
       "SetID": "95o50of",
       "Name": "Spray Spray Spray",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_TAKING_NOTES",
       "SetID": "95o50of",
       "Name": "Taking Notes",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_THE_BEST_ONE",
@@ -693,17 +698,17 @@
       "ID": "ACH_THE_MENDEL_EXPERIMENT",
       "SetID": "95o50of",
       "Name": "The Mendel Experiment",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_TIME_FOR_RENOVATIONS",
       "SetID": "95o50of",
       "Name": "Time for Renovations",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_WATER_WATER_WATER",
@@ -717,24 +722,24 @@
       "ID": "ACH_WEEDS_HAVE_FEELINGS_TOO",
       "SetID": "95o50of",
       "Name": "Weeds Have Feelings Too",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_WHO_IS_A_GOOD_PLANT",
       "SetID": "95o50of",
       "Name": "Who\u0027s a Good Plant?",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "95o50of",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 244,
       "Completed": 2
     }
   ],
@@ -742,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:23.5695131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.2425806+00:00",
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:49.4245719+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:54.8993808+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:56:59.4313221+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:06.7914951+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:49.424593+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:57.2327508+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:54.8994014+00:00"
 }

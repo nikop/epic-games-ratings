@@ -2,10 +2,10 @@
   "ID": "0e92b6115f284c358aace04dd4e89e42",
   "Name": "Drowned God Conspiracy of Ages",
   "ProductSlug": "drowned-god-conspiracy-of-ages-cdb965",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-14T00:00:00+00:00",
     "PcReleaseDate": "2024-06-17T08:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-20T04:58:08.9106089+00:00",
   "LastUpdate_AppInfo": "2024-08-03T16:57:01.333738+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:05.6368034+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:05:50.9100796+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:56.193282+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:22.1665472+00:00"
 }

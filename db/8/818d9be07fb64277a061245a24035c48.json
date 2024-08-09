@@ -2,10 +2,10 @@
   "ID": "818d9be07fb64277a061245a24035c48",
   "Name": "Might \u0026 Magic: Heroes VI",
   "ProductSlug": "might-and-magic-heroes-6",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-08T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-09T02:18:13.1617458+00:00",
   "LastUpdate_AppInfo": "2024-08-06T04:57:35.1273481+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:27.3907118+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:03:08.9486488+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:45.8594615+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:23.5125675+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "20793453c6ee412cadbc2932db902e86",
   "Name": "Spectra",
   "ProductSlug": "spectra-354d90",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 881,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-26T08:00:00+00:00",
     "PcReleaseDate": "2024-07-26T08:00:00+00:00",
@@ -25,12 +25,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:06:50.020653+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-07-25T19:01:52.3509011+00:00",
   "TotalAchievements": 5,
   "TotalAchievementsXP": 1000,
@@ -80,14 +86,14 @@
     {
       "ID": "7bdgihm",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-07T22:00:43.0167549+00:00",
   "FirstSeenAchievements": "2024-07-25T19:01:52.350901+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:01:52.3508955+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:50.0206528+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:32.4563673+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:28.200279+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:52.3518072+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:17.4951687+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:50.0206579+00:00"
 }

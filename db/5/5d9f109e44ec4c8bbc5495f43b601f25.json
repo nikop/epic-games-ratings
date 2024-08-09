@@ -2,10 +2,10 @@
   "ID": "5d9f109e44ec4c8bbc5495f43b601f25",
   "Name": "CYGNI - All Guns Blazing",
   "ProductSlug": "cygni-all-guns-blazing-98f872",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 183,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-05T23:00:00+00:00",
     "PcReleaseDate": "2024-08-05T23:00:00+00:00",
@@ -25,17 +25,211 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 36702,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:02:07.6773716+00:00",
+      "NumProgressed": 36702,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:02:07.6773784+00:00",
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Classic",
+      "SetID": "73kjaa6",
+      "Name": "CLASSIC",
+      "Percentage": 0.5,
+      "XP": 10,
+      "UsersEstimate": 184
+    },
+    {
+      "ID": "Deadly_duo",
+      "SetID": "73kjaa6",
+      "Name": "Deadly Duo",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "Game_easy",
+      "SetID": "73kjaa6",
+      "Name": "TRAINING WHEELS",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 367
+    },
+    {
+      "ID": "Game_hard",
+      "SetID": "73kjaa6",
+      "Name": "ACE",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "Game_normal",
+      "SetID": "73kjaa6",
+      "Name": "ALL GUNS BLAZING",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "Level_1",
+      "SetID": "73kjaa6",
+      "Name": "BATTLE OVER THE WHITE SANDS",
+      "Percentage": 15,
+      "XP": 100,
+      "UsersEstimate": 5505
+    },
+    {
+      "ID": "Level_2",
+      "SetID": "73kjaa6",
+      "Name": "CANYON GRAVEYARD",
+      "Percentage": 8,
+      "XP": 100,
+      "UsersEstimate": 2936
+    },
+    {
+      "ID": "Level_3",
+      "SetID": "73kjaa6",
+      "Name": "THE DEAD SHALLOWS",
+      "Percentage": 5,
+      "XP": 100,
+      "UsersEstimate": 1835
+    },
+    {
+      "ID": "Level_4",
+      "SetID": "73kjaa6",
+      "Name": "STORMY SEAS",
+      "Percentage": 3,
+      "XP": 100,
+      "UsersEstimate": 1101
+    },
+    {
+      "ID": "Level_5",
+      "SetID": "73kjaa6",
+      "Name": "OVER THE CLOUDS",
+      "Percentage": 2,
+      "XP": 100,
+      "UsersEstimate": 734
+    },
+    {
+      "ID": "Level_6",
+      "SetID": "73kjaa6",
+      "Name": "STRATOSPHERE",
+      "Percentage": 2,
+      "XP": 100,
+      "UsersEstimate": 734
+    },
+    {
+      "ID": "Level_7",
+      "SetID": "73kjaa6",
+      "Name": "PERDITION",
+      "Percentage": 1,
+      "XP": 100,
+      "UsersEstimate": 367
+    },
+    {
+      "ID": "No_mercy",
+      "SetID": "73kjaa6",
+      "Name": "NO MERCY",
+      "Percentage": 12,
+      "XP": 10,
+      "UsersEstimate": 4404
+    },
+    {
+      "ID": "Pattern_design",
+      "SetID": "73kjaa6",
+      "Name": "PATTERN DESIGN",
+      "Percentage": 0.3,
+      "XP": 20,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "Tutorial_complete",
+      "SetID": "73kjaa6",
+      "Name": "NEW RECRUIT",
+      "Percentage": 43,
+      "XP": 10,
+      "UsersEstimate": 15782
+    },
+    {
+      "ID": "Upgrade_ship",
+      "SetID": "73kjaa6",
+      "Name": "MECHANIC",
+      "Percentage": 8,
+      "XP": 10,
+      "UsersEstimate": 2936
+    },
+    {
+      "ID": "Wingman",
+      "SetID": "73kjaa6",
+      "Name": "WINGMAN",
+      "Percentage": 0.3,
+      "XP": 10,
+      "UsersEstimate": 110
+    },
+    {
+      "ID": "air_superiority",
+      "SetID": "73kjaa6",
+      "Name": "Air Superiority",
+      "Percentage": 3,
+      "XP": 10,
+      "UsersEstimate": 1101
+    },
+    {
+      "ID": "eye_in_the_sky",
+      "SetID": "73kjaa6",
+      "Name": "EYE IN THE SKY",
+      "Percentage": 9,
+      "XP": 10,
+      "UsersEstimate": 3303
+    },
+    {
+      "ID": "looped",
+      "SetID": "73kjaa6",
+      "Name": "LOOPED IT",
+      "Percentage": 0.1,
+      "XP": 10,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "red_kite",
+      "SetID": "73kjaa6",
+      "Name": "THE RED KITE",
+      "Percentage": 0.1,
+      "XP": 155,
+      "UsersEstimate": 37
+    },
+    {
+      "ID": "titan_hunter",
+      "SetID": "73kjaa6",
+      "Name": "TITAN HUNTER",
+      "Percentage": 0.1,
+      "XP": 20,
+      "UsersEstimate": 37
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "73kjaa6",
+      "IsBase": true,
+      "Progressed": 36702,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-08-08T16:57:11.2585749+00:00",
+  "FirstSeenAchievements": "2024-08-09T18:02:07.6773784+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:07.677371+00:00",
   "LastUpdate_AppInfo": "2024-08-08T16:57:07.8726882+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:02.583244+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:49.3521457+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:07.6783381+00:00"
 }

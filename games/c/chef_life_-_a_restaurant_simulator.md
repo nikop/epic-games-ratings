@@ -5,23 +5,23 @@ Rating: 4.50 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 61.00% | ~987 |
-| You're the Expert! | 26.00% | ~421 |
-| Home Cook | 23.00% | ~372 |
-| So Clean You Can Eat Off the Floor | 17.00% | ~275 |
-| French Flair | 15.00% | ~243 |
-| S is for Scrumptious | 14.00% | ~227 |
-| Next Level Cuisine | 8.00% | ~129 |
-| Haute Cuisine | 7.00% | ~113 |
-| Italian Style | 6.00% | ~97 |
-| Well-Stocked Kitchen | 5.00% | ~81 |
-| Culinary Arts | 4.00% | ~65 |
-| Sous-Chef | 4.00% | ~65 |
-| Rolling in Dough | 4.00% | ~65 |
-| Perfectionist | 3.00% | ~49 |
-| Leaning Tower of Pizza | 2.00% | ~32 |
-| Eco Warrior | 0.40% | ~6 |
-| The Bigger the Better | 0.40% | ~6 |
+| The Big Day | 60.00% | ~1,042 |
+| You're the Expert! | 26.00% | ~452 |
+| Home Cook | 23.00% | ~400 |
+| So Clean You Can Eat Off the Floor | 17.00% | ~295 |
+| French Flair | 15.00% | ~261 |
+| S is for Scrumptious | 14.00% | ~243 |
+| Next Level Cuisine | 8.00% | ~139 |
+| Haute Cuisine | 7.00% | ~122 |
+| Italian Style | 7.00% | ~122 |
+| Well-Stocked Kitchen | 5.00% | ~87 |
+| Culinary Arts | 4.00% | ~69 |
+| Sous-Chef | 4.00% | ~69 |
+| Rolling in Dough | 4.00% | ~69 |
+| Perfectionist | 3.00% | ~52 |
+| Leaning Tower of Pizza | 2.00% | ~35 |
+| Eco Warrior | 0.50% | ~9 |
+| The Bigger the Better | 0.30% | ~5 |
 | Kitchen Model | 0.20% | ~3 |
 | Chef, Yes Chef! | 0.20% | ~3 |
 | Teamwork | 0.10% | ~2 |
@@ -46,8 +46,8 @@ Rating: 4.50 (Ranked 675)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,618 (Ranked 357)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1,737 (Ranked 363)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -285,6 +285,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,235 | 0 |
 | 2024-04-10 | 1,341 | 0 |
 | 2024-06-17 | 1,618 | 0 |
+| 2024-08-09 | 1,737 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

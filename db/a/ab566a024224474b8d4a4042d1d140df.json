@@ -2,10 +2,10 @@
   "ID": "ab566a024224474b8d4a4042d1d140df",
   "Name": "SPGP",
   "ProductSlug": "spgp-43c03b",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-08-06T07:00:00+00:00",
@@ -29,10 +29,278 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-08-09T18:02:03.3400044+00:00",
+  "TotalAchievements": 32,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHI_1",
+      "SetID": "4e8704c",
+      "Name": "Rookie Racer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_10",
+      "SetID": "4e8704c",
+      "Name": "Special Win",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_11",
+      "SetID": "4e8704c",
+      "Name": "On the up",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_12",
+      "SetID": "4e8704c",
+      "Name": "Seasoned Pro",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_13",
+      "SetID": "4e8704c",
+      "Name": "True Contender",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_14",
+      "SetID": "4e8704c",
+      "Name": "Superstar",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_15",
+      "SetID": "4e8704c",
+      "Name": "Arcade Veteran",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_16",
+      "SetID": "4e8704c",
+      "Name": "Arcade Expert",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_17",
+      "SetID": "4e8704c",
+      "Name": "Arcade Completionist",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_18",
+      "SetID": "4e8704c",
+      "Name": "Full garage",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_19",
+      "SetID": "4e8704c",
+      "Name": "World Tourer",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_2",
+      "SetID": "4e8704c",
+      "Name": "Top 10",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_20",
+      "SetID": "4e8704c",
+      "Name": "Emergancy Repairs",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_21",
+      "SetID": "4e8704c",
+      "Name": "Maintainer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_22",
+      "SetID": "4e8704c",
+      "Name": "Try to go easy on  the car!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_23",
+      "SetID": "4e8704c",
+      "Name": "Demolition Derby",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_24",
+      "SetID": "4e8704c",
+      "Name": "Through the falls",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_25",
+      "SetID": "4e8704c",
+      "Name": "Lemming",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_26",
+      "SetID": "4e8704c",
+      "Name": "Looping Star",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_27",
+      "SetID": "4e8704c",
+      "Name": "Desert Storm",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_28",
+      "SetID": "4e8704c",
+      "Name": "Royal Wave",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_29",
+      "SetID": "4e8704c",
+      "Name": "Gladiator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_3",
+      "SetID": "4e8704c",
+      "Name": "Winners Row",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_30",
+      "SetID": "4e8704c",
+      "Name": "Taming the Beast",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_31",
+      "SetID": "4e8704c",
+      "Name": "Tipper",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_32",
+      "SetID": "4e8704c",
+      "Name": "You\u0027re Going the Wrong Way!",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_4",
+      "SetID": "4e8704c",
+      "Name": "Warming the tyres",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_5",
+      "SetID": "4e8704c",
+      "Name": "Rising Star",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_6",
+      "SetID": "4e8704c",
+      "Name": "Taste of glory",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_7",
+      "SetID": "4e8704c",
+      "Name": "A Day to Remember",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_8",
+      "SetID": "4e8704c",
+      "Name": "Contender",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHI_9",
+      "SetID": "4e8704c",
+      "Name": "Champion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4e8704c",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:03.3400043+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:03.3399999+00:00",
   "LastUpdate_AppInfo": "2024-08-07T13:57:37.7194434+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:42.102679+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:37.1961228+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:03.3407764+00:00"
 }

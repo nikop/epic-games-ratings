@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Declawing | 65.00% | ~142 |
-| Target Practice | 48.00% | ~105 |
-| The Bigger They Are | 33.00% | ~72 |
-| Over the Moon | 33.00% | ~72 |
-| Enemies of Fate | 32.00% | ~70 |
-| Your Training Continues | 31.00% | ~68 |
-| Armored | 30.00% | ~65 |
-| Freedom | 28.00% | ~61 |
-| Amokuali Tower | 28.00% | ~61 |
-| Winner | 24.00% | ~52 |
-| The Pride of Moozhaw | 23.00% | ~50 |
-| Omnia Vincit Amor | 22.00% | ~48 |
-| Stilt House | 16.00% | ~35 |
-| Corwid Hill | 14.00% | ~31 |
-| Armor Collector | 12.00% | ~26 |
-| Dreamwalker | 11.00% | ~24 |
-| Your Training Is Complete | 9.00% | ~20 |
-| Total Eclipse | 8.00% | ~17 |
-| Red in Tooth and Claw | 6.00% | ~13 |
-| Vivid Dreams | 2.00% | ~4 |
+| Declawing | 63.00% | ~142 |
+| Target Practice | 48.00% | ~108 |
+| Over the Moon | 32.00% | ~72 |
+| The Bigger They Are | 31.00% | ~70 |
+| Enemies of Fate | 31.00% | ~70 |
+| Your Training Continues | 30.00% | ~68 |
+| Armored | 29.00% | ~66 |
+| Freedom | 27.00% | ~61 |
+| Amokuali Tower | 27.00% | ~61 |
+| The Pride of Moozhaw | 23.00% | ~52 |
+| Winner | 23.00% | ~52 |
+| Omnia Vincit Amor | 22.00% | ~50 |
+| Stilt House | 16.00% | ~36 |
+| Corwid Hill | 13.00% | ~29 |
+| Armor Collector | 12.00% | ~27 |
+| Dreamwalker | 10.00% | ~23 |
+| Your Training Is Complete | 8.00% | ~18 |
+| Total Eclipse | 8.00% | ~18 |
+| Red in Tooth and Claw | 6.00% | ~14 |
+| Vivid Dreams | 2.00% | ~5 |
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218 (Ranked 550)  
-Completed: 1 (0.46%) (Ranked 310)  
+Progressed: 226 (Ranked 563)  
+Completed: 1 (0.44%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,6 +112,7 @@ Completed: 1 (0.46%) (Ranked 310)
 | 2024-04-10 | 203 | 1 |
 | 2024-06-17 | 217 | 1 |
 | 2024-06-26 | 218 | 1 |
+| 2024-08-09 | 226 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

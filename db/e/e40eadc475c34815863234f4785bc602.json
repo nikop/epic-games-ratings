@@ -2,10 +2,10 @@
   "ID": "e40eadc475c34815863234f4785bc602",
   "Name": "Amerzone - The Explorer\u0027s Legacy Remake",
   "ProductSlug": "amerzone-the-explorers-legacy-remake-88464f",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T06:57:18.3731155+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:39.6639114+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:44.766098+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:28.3591425+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:16.4370077+00:00"
 }

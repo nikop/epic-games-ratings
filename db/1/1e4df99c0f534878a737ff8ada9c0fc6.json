@@ -2,10 +2,10 @@
   "ID": "1e4df99c0f534878a737ff8ada9c0fc6",
   "Name": "Peggle Nights",
   "ProductSlug": "peggle-nights-c10dc6",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-30T20:00:00+00:00",
     "PcReleaseDate": "2008-10-15T05:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-02T10:59:50.7185765+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:16.535951+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:34.0948205+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:34.8322819+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:29.4666846+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:06.9336051+00:00"
 }

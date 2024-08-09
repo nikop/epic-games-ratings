@@ -2,10 +2,10 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 685,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
     "PcReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -64,6 +64,11 @@
       "Time": "2024-07-30T00:06:10.0223201+00:00",
       "NumProgressed": 79,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:39.0285261+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:09.8652595+00:00",
@@ -82,9 +87,9 @@
       "ID": "ANY_CHALLENGES_GOLD",
       "SetID": "1oh5c4a",
       "Name": "Becoming Midas",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BEAT_ENNEMIES",
@@ -106,7 +111,7 @@
       "ID": "BOSS_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "Slimy kisses",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -138,7 +143,7 @@
       "ID": "CHALLENGES_GOLD_MOUNTAIN",
       "SetID": "1oh5c4a",
       "Name": "The Gold Mountain",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -146,7 +151,7 @@
       "ID": "CHALLENGES_GOLD_VOLCANO",
       "SetID": "1oh5c4a",
       "Name": "Hot stuff",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -154,7 +159,7 @@
       "ID": "CHALLENGE_CHOPTOU",
       "SetID": "1oh5c4a",
       "Name": "Catch them all!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -170,7 +175,7 @@
       "ID": "CHALLENGE_POUSSTOU",
       "SetID": "1oh5c4a",
       "Name": "Talk to the hand",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -226,7 +231,7 @@
       "ID": "EARN_CURRENCY",
       "SetID": "1oh5c4a",
       "Name": "Numismatist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 45,
       "UsersEstimate": 2
     },
@@ -252,13 +257,13 @@
       "Name": "Release the pressure",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ULTIMATE_BRAINY",
       "SetID": "1oh5c4a",
       "Name": "The Apprentice Smurf",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -274,7 +279,7 @@
       "ID": "ULTIMATE_HANDY",
       "SetID": "1oh5c4a",
       "Name": "Ex Machina",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -282,7 +287,7 @@
       "ID": "ULTIMATE_STORM",
       "SetID": "1oh5c4a",
       "Name": "Eye of the Lynx",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -298,7 +303,7 @@
       "ID": "UPGRADE_CHOPTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Catch as catch can!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -314,7 +319,7 @@
       "ID": "UPGRADE_DIMWITTY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Happy idiot",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -330,7 +335,7 @@
       "ID": "UPGRADE_HANDY_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Trust me, I\u2019m an engineer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -338,7 +343,7 @@
       "ID": "UPGRADE_POUSSTOU_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Push me excuse you",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -346,7 +351,7 @@
       "ID": "UPGRADE_STORM_CRYSTAL",
       "SetID": "1oh5c4a",
       "Name": "Intrepid adventurer",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -354,9 +359,9 @@
       "ID": "UPGRADE_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Odds and ends",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "WEAR_SKIN",
@@ -371,14 +376,14 @@
     {
       "ID": "1oh5c4a",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2024-07-30T00:06:10.0223196+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:39.0285258+00:00",
   "LastUpdate_AppInfo": "2024-08-09T05:57:21.1958135+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:36.0944748+00:00",
-  "LastUpdate_Achievements": "2024-07-30T00:06:10.022361+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:51.3353645+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:39.0285467+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1c18ca5d42ac4b5d89509f75aa026846",
   "Name": "Chiral",
   "ProductSlug": "chiral-f23600",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-03T21:57:03.0853197+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:19.3156982+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:15.5666959+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:12.9834481+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:48.5127428+00:00"
 }

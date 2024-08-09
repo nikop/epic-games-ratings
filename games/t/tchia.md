@@ -27,8 +27,8 @@ Rating: 4.71 (Ranked 225)
 | Arrr! | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,402 (Ranked 236)  
-Completed: 39 (0.41%) (Ranked 322)  
+Progressed: 9,404 (Ranked 247)  
+Completed: 39 (0.41%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,6 +312,7 @@ Completed: 39 (0.41%) (Ranked 322)
 | 2024-03-21 | 9,335 | 39 |
 | 2024-04-10 | 9,398 | 39 |
 | 2024-06-17 | 9,402 | 39 |
+| 2024-08-09 | 9,404 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

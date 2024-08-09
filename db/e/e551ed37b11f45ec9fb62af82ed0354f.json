@@ -2,10 +2,10 @@
   "ID": "e551ed37b11f45ec9fb62af82ed0354f",
   "Name": "Looper Tactics Deluxe Edition",
   "ProductSlug": "looper-tactics-7b0edf",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-09T02:00:00+00:00",
     "PcReleaseDate": "2023-08-28T03:00:00+00:00",
@@ -29,10 +29,246 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-08-09T18:02:08.5839765+00:00",
+  "TotalAchievements": 28,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_101",
+      "SetID": "bn3k9ic",
+      "Name": "Main Quests",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_102",
+      "SetID": "bn3k9ic",
+      "Name": "Main Quests",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_103",
+      "SetID": "bn3k9ic",
+      "Name": "Main Quests",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_104",
+      "SetID": "bn3k9ic",
+      "Name": "Main Quests",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_105",
+      "SetID": "bn3k9ic",
+      "Name": "Main Quests",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_201",
+      "SetID": "bn3k9ic",
+      "Name": "Dragon Lord",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_202",
+      "SetID": "bn3k9ic",
+      "Name": "Male Dragon Spirit",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_203",
+      "SetID": "bn3k9ic",
+      "Name": "Vice Demon Captain",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_204",
+      "SetID": "bn3k9ic",
+      "Name": "Corrupted Tree of Life",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_205",
+      "SetID": "bn3k9ic",
+      "Name": "Megalithic Idol",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_206",
+      "SetID": "bn3k9ic",
+      "Name": "Elemental Lord",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_207",
+      "SetID": "bn3k9ic",
+      "Name": "Mothership",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_208",
+      "SetID": "bn3k9ic",
+      "Name": "Huge Insane Doll",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_209",
+      "SetID": "bn3k9ic",
+      "Name": "Type-0",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_210",
+      "SetID": "bn3k9ic",
+      "Name": "Angel of Divinity",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_211",
+      "SetID": "bn3k9ic",
+      "Name": "Soul Dragon",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_212",
+      "SetID": "bn3k9ic",
+      "Name": "Final Angel",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_301",
+      "SetID": "bn3k9ic",
+      "Name": "E Stages",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_303",
+      "SetID": "bn3k9ic",
+      "Name": "World in a Box",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_304",
+      "SetID": "bn3k9ic",
+      "Name": "E-level instance (challenge)",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_306",
+      "SetID": "bn3k9ic",
+      "Name": "World in a Box (challenge)",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_501",
+      "SetID": "bn3k9ic",
+      "Name": "Demon Cards",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_502",
+      "SetID": "bn3k9ic",
+      "Name": "Elves Cards",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_503",
+      "SetID": "bn3k9ic",
+      "Name": "Mech Cards",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_504",
+      "SetID": "bn3k9ic",
+      "Name": "Elemental Cards",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_505",
+      "SetID": "bn3k9ic",
+      "Name": "Dragon Cards",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_506",
+      "SetID": "bn3k9ic",
+      "Name": "Spell Cards",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_601",
+      "SetID": "bn3k9ic",
+      "Name": "Treasures",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "bn3k9ic",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:08.5839764+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:08.5839712+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:56:58.1564082+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:17.3038205+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:07.5728362+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:08.5848215+00:00"
 }

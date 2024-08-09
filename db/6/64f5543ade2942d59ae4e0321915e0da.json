@@ -5,10 +5,10 @@
   "Ranking_Rating": 178,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 426,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 437,
+  "Ranking_EOS_Completed": 245,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -71,11 +71,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 688,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -2226,6 +2226,11 @@
       "Time": "2024-06-17T16:10:27.7941215+00:00",
       "NumProgressed": 676,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-09T18:02:45.4786026+00:00",
+      "NumProgressed": 688,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2238,15 +2243,15 @@
       "Name": "Sound",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_ALL_COLUMNS",
       "SetID": "16i2akc",
       "Name": "Empire",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 95
+      "UsersEstimate": 103
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -2260,9 +2265,9 @@
       "ID": "AC_ALL_RECIPES",
       "SetID": "16i2akc",
       "Name": "Cookbook",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 41
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -2278,7 +2283,7 @@
       "Name": "Arsenal",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_ALL_WEAPON_SLOTS",
@@ -2286,7 +2291,7 @@
       "Name": "Armory",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_BLACKJACK_GAMES_1",
@@ -2294,7 +2299,7 @@
       "Name": "Gambler",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2302,7 +2307,7 @@
       "Name": "Ludopath",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "AC_BOSS_00",
@@ -2310,7 +2315,7 @@
       "Name": "Hunger",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 372
     },
     {
       "ID": "AC_BOSS_01",
@@ -2318,23 +2323,23 @@
       "Name": "Misery",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 151
     },
     {
       "ID": "AC_BOSS_03",
       "SetID": "16i2akc",
       "Name": "Sacrilege",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_BOSS_04",
@@ -2342,15 +2347,15 @@
       "Name": "Heresy",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 206
     },
     {
       "ID": "AC_COMBO_2",
@@ -2374,7 +2379,7 @@
       "Name": "Bolt",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_DEATH_1",
@@ -2382,15 +2387,15 @@
       "Name": "Corpse",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 289
     },
     {
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 110
     },
     {
       "ID": "AC_DEATH_3",
@@ -2398,7 +2403,7 @@
       "Name": "Skeleton",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_DEATH_ENEMIES_1",
@@ -2406,23 +2411,23 @@
       "Name": "Killer",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 365
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
       "SetID": "16i2akc",
       "Name": "Psycopath",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 227
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 162
+      "UsersEstimate": 172
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -2430,7 +2435,7 @@
       "Name": "Excursion",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 564
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2438,7 +2443,7 @@
       "Name": "Journey",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 330
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2446,7 +2451,7 @@
       "Name": "Voyage",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 237
+      "UsersEstimate": 241
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2454,39 +2459,39 @@
       "Name": "Player",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "AC_FLASHBACK_01",
       "SetID": "16i2akc",
       "Name": "Creation",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 144
     },
     {
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 117
     },
     {
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_FULL_MAP",
       "SetID": "16i2akc",
       "Name": "Vision",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -2494,7 +2499,7 @@
       "Name": "Winner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2502,23 +2507,23 @@
       "Name": "Band",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 103
     },
     {
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 138
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2526,15 +2531,15 @@
       "Name": "Cheff",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "AC_ROCKET_MAX",
       "SetID": "16i2akc",
       "Name": "Rocket",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 14
     },
     {
       "ID": "AC_ROSCOBOSS",
@@ -2542,15 +2547,15 @@
       "Name": "Loss",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 303
     },
     {
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2566,14 +2571,14 @@
       "Name": "Machine",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 688,
       "Completed": 8
     }
   ],
@@ -2581,8 +2586,8 @@
   "FirstSeenRating": "2024-02-16T19:59:17.8579962+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
   "LastChanged": "2024-07-20T16:57:39.5387688+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:27.7941211+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:45.4786019+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:29.8783711+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:05.2345285+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:27.7941546+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:59.5491243+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:45.4786403+00:00"
 }

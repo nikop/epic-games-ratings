@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Greengrocer | 31.00% | ~15 |
-| Cabbage in the Baggage | 29.00% | ~14 |
-| Seven Days of Endless Adventure | 25.00% | ~12 |
-| Go-Getter | 19.00% | ~9 |
-| River Cleaner | 19.00% | ~9 |
-| Masu-ter Angler | 17.00% | ~8 |
-| It's Alive! | 17.00% | ~8 |
-| Handyman Extraordinaire | 17.00% | ~8 |
-| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~6 |
-| Just Hoverin' Along | 13.00% | ~6 |
-| What's That Smell? | 13.00% | ~6 |
+| Cabbage in the Baggage | 33.00% | ~16 |
+| Greengrocer | 33.00% | ~16 |
+| Seven Days of Endless Adventure | 27.00% | ~13 |
+| It's Alive! | 18.00% | ~9 |
+| Go-Getter | 18.00% | ~9 |
+| River Cleaner | 18.00% | ~9 |
+| Masu-ter Angler | 16.00% | ~8 |
+| Handyman Extraordinaire | 16.00% | ~8 |
+| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~6 |
+| Just Hoverin' Along | 12.00% | ~6 |
+| What's That Smell? | 12.00% | ~6 |
 | A New Time | 10.00% | ~5 |
 | Farm Life! | 10.00% | ~5 |
 | Dragonfly Whiz | 8.00% | ~4 |
@@ -29,9 +29,9 @@
 | Cicada Connoisseur | 6.00% | ~3 |
 | The Holly Grail | 6.00% | ~3 |
 | Biwa Be Mine | 6.00% | ~3 |
+| Ice Fishing | 6.00% | ~3 |
 | Asso Bridge Enthusiast | 6.00% | ~3 |
 | Beetle Savant | 4.00% | ~2 |
-| Ice Fishing | 4.00% | ~2 |
 | Veggie Virtuoso | 4.00% | ~2 |
 | Brachio Battler | 4.00% | ~2 |
 | T-Rex Wrangler | 4.00% | ~2 |
@@ -51,8 +51,8 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 746)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 49 (Ranked 771)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-02-22 | 44 | 0 |
 | 2024-03-21 | 45 | 0 |
 | 2024-06-17 | 48 | 0 |
+| 2024-08-09 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

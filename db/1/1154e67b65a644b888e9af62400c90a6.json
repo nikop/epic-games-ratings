@@ -5,10 +5,10 @@
   "Ranking_Rating": 598,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 107,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -10511,18 +10511,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11643,
       "NumberOfAwardsMax": 3620
+    },
+    {
+      "Time": "2024-08-09T17:58:07.416394+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11663,
+      "NumberOfAwardsMax": 3632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11643,
-  "NumberOfAwardsMax": 3620,
+  "NumberOfAwards": 11663,
+  "NumberOfAwardsMax": 3632,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3620
+      "Count": 3632
     },
     {
       "Text": "This game is Relaxing",
@@ -10564,7 +10570,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 795
+      "Count": 801
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10576,7 +10582,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 651
+      "Count": 653
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10603,8 +10609,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-08-09T05:58:18.729402+00:00",
+  "LastChanged": "2024-08-09T17:58:07.4163938+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:36.3878495+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:02.4313805+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:33.7129162+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:07.4163944+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:11.8570825+00:00"
 }

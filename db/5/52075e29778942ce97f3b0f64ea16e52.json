@@ -2,10 +2,10 @@
   "ID": "52075e29778942ce97f3b0f64ea16e52",
   "Name": "SILENT BREATH",
   "ProductSlug": "silent-breath-902571",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T06:57:20.782196+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:03.3098278+00:00",
-  "LastUpdate_Achievements": "2024-06-26T14:08:50.0267662+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:57.6519186+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:20.5361209+00:00"
 }

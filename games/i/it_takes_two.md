@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~159,213 |
-| Struck A Pose | 82.00% | ~155,422 |
-| Look At Him Go | 73.00% | ~138,363 |
-| On Rails Experience | 50.00% | ~94,770 |
-| A Daring Devil | 47.00% | ~89,083 |
-| It Took Two | 41.00% | ~77,711 |
-| Break the Bank | 36.00% | ~68,234 |
-| Bug Sized Relaxation | 18.00% | ~34,117 |
-| Plastic Prison Breakers | 14.00% | ~26,535 |
-| Terror Of The Seven Seas | 13.00% | ~24,640 |
-| Meditation Maestro | 10.00% | ~18,954 |
-| Realize Your Art | 9.00% | ~17,059 |
-| Force Triangulated | 9.00% | ~17,059 |
-| Lost And Found | 8.00% | ~15,163 |
-| Something Fishy | 8.00% | ~15,163 |
-| Snackosaurus | 7.00% | ~13,268 |
-| Platforming Prodigy | 7.00% | ~13,268 |
-| Mood Swing | 6.00% | ~11,372 |
-| Faraway Frequencies | 3.00% | ~5,686 |
-| Minigame Megalomania | 2.00% | ~3,791 |
+| Fried Friendship | 84.00% | ~171,321 |
+| Struck A Pose | 83.00% | ~169,281 |
+| Look At Him Go | 74.00% | ~150,925 |
+| On Rails Experience | 51.00% | ~104,016 |
+| A Daring Devil | 48.00% | ~97,897 |
+| It Took Two | 42.00% | ~85,660 |
+| Break the Bank | 37.00% | ~75,463 |
+| Bug Sized Relaxation | 18.00% | ~36,712 |
+| Plastic Prison Breakers | 14.00% | ~28,553 |
+| Terror Of The Seven Seas | 13.00% | ~26,514 |
+| Meditation Maestro | 11.00% | ~22,435 |
+| Realize Your Art | 10.00% | ~20,395 |
+| Force Triangulated | 9.00% | ~18,356 |
+| Something Fishy | 9.00% | ~18,356 |
+| Lost And Found | 8.00% | ~16,316 |
+| Snackosaurus | 7.00% | ~14,277 |
+| Platforming Prodigy | 7.00% | ~14,277 |
+| Mood Swing | 6.00% | ~12,237 |
+| Faraway Frequencies | 3.00% | ~6,119 |
+| Minigame Megalomania | 2.00% | ~4,079 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 189,539 (Ranked 94)  
-Completed: 670 (0.35%) (Ranked 328)  
+Progressed: 203,953 (Ranked 95)  
+Completed: 751 (0.37%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,3 +164,4 @@ Completed: 670 (0.35%) (Ranked 328)
 | 2024-03-21 | 164,892 | 528 |
 | 2024-04-10 | 171,377 | 563 |
 | 2024-06-17 | 189,539 | 670 |
+| 2024-08-09 | 203,953 | 751 |

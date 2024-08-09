@@ -2,10 +2,10 @@
   "ID": "a516fac159ae4af39f50dc7bcdb94b7d",
   "Name": "Island Idle RPG",
   "ProductSlug": "island-idle-rpg-350c2e",
-  "Ranking_EOS_Progress": 610,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 589,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-07T17:00:00+00:00",
     "PcReleaseDate": "2022-06-27T09:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 137,
+  "EOS_Progressed": 181,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.84,
+  "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:06:16.4116843+00:00",
@@ -49,6 +49,11 @@
       "Time": "2024-07-09T22:03:32.1924551+00:00",
       "NumProgressed": 137,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-09T18:06:24.3877551+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2024-03-21T17:06:16.411687+00:00",
@@ -59,25 +64,25 @@
       "ID": "IIRAchievement1",
       "SetID": "19mhfcm",
       "Name": "Collect 40 Woods",
-      "Percentage": 80,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 141
     },
     {
       "ID": "IIRAchievement10",
       "SetID": "19mhfcm",
       "Name": "Engineer Master",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "IIRAchievement11",
       "SetID": "19mhfcm",
       "Name": "Hero III",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 70,
-      "UsersEstimate": 27
+      "UsersEstimate": 34
     },
     {
       "ID": "IIRAchievement12",
@@ -85,31 +90,31 @@
       "Name": "Hero IV",
       "Percentage": 15,
       "XP": 70,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "IIRAchievement13",
       "SetID": "19mhfcm",
       "Name": "Legendary Hero",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "IIRAchievement14",
       "SetID": "19mhfcm",
       "Name": "1k Coins",
-      "Percentage": 66,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 112
     },
     {
       "ID": "IIRAchievement15",
       "SetID": "19mhfcm",
       "Name": "10k coins",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 62
     },
     {
       "ID": "IIRAchievement16",
@@ -117,7 +122,7 @@
       "Name": "100k coins",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 31
     },
     {
       "ID": "IIRAchievement17",
@@ -125,79 +130,79 @@
       "Name": "500k coins",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "IIRAchievement18",
       "SetID": "19mhfcm",
       "Name": "1M coins",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "IIRAchievement19",
       "SetID": "19mhfcm",
       "Name": "10M coins",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "IIRAchievement2",
       "SetID": "19mhfcm",
       "Name": "Defeat 10 monsters in a row",
-      "Percentage": 55,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 94
     },
     {
       "ID": "IIRAchievement20",
       "SetID": "19mhfcm",
       "Name": "100M coins",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "IIRAchievement21",
       "SetID": "19mhfcm",
       "Name": "NobleMan",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "IIRAchievement22",
       "SetID": "19mhfcm",
       "Name": "Chef I",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "IIRAchievement23",
       "SetID": "19mhfcm",
       "Name": "Chef II",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "IIRAchievement3",
       "SetID": "19mhfcm",
       "Name": "Hire your first worker",
-      "Percentage": 71,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 125
     },
     {
       "ID": "IIRAchievement4",
       "SetID": "19mhfcm",
       "Name": "Adventurer I",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 136
     },
     {
       "ID": "IIRAchievement5",
@@ -205,53 +210,53 @@
       "Name": "Build a Boat and a Ship",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 72
     },
     {
       "ID": "IIRAchievement6",
       "SetID": "19mhfcm",
       "Name": "Hero I",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 98
     },
     {
       "ID": "IIRAchievement7",
       "SetID": "19mhfcm",
       "Name": "Hero II",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 56
     },
     {
       "ID": "IIRAchievement8",
       "SetID": "19mhfcm",
       "Name": "Engineer II",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 49
     },
     {
       "ID": "IIRAchievement9",
       "SetID": "19mhfcm",
       "Name": "Engineer III",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "19mhfcm",
       "IsBase": true,
-      "Progressed": 137,
+      "Progressed": 181,
       "Completed": 8
     }
   ],
   "FirstSeen": "2024-02-08T23:58:49.0594749+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:16.4116869+00:00",
-  "LastChanged_Achievements": "2024-07-09T22:03:32.1924545+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:24.3877546+00:00",
   "LastUpdate_AppInfo": "2024-08-08T08:57:00.4142202+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:11.3423365+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:03:32.1924784+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:35.7263651+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:24.3877711+00:00"
 }

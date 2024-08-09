@@ -2,10 +2,10 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 416,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 787,
-  "EOS_Completed": 9,
+  "EOS_Progressed": 818,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.14,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-06-26T18:04:48.9323975+00:00",
@@ -2939,6 +2939,11 @@
       "Time": "2024-06-17T16:09:26.203017+00:00",
       "NumProgressed": 787,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-08-09T18:02:21.6962697+00:00",
+      "NumProgressed": 818,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 14,
@@ -2948,17 +2953,17 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "296pn27",
       "Name": "The gateway to the underworld",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 499
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 441
+      "UsersEstimate": 466
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2966,15 +2971,15 @@
       "Name": "The crucifixion",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "296pn27",
       "Name": "The choice",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 65
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2982,23 +2987,23 @@
       "Name": "Hubris",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "296pn27",
       "Name": "Humility",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 299
+      "UsersEstimate": 319
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -3006,23 +3011,23 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 260
+      "UsersEstimate": 270
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "296pn27",
       "Name": "This looks really bad",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 228
+      "UsersEstimate": 245
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 221
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -3030,7 +3035,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -3038,7 +3043,7 @@
       "Name": "The court",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 98
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -3046,7 +3051,7 @@
       "Name": "Holy Nails",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -3054,21 +3059,21 @@
       "Name": "Flagellation",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 787,
-      "Completed": 9
+      "Progressed": 818,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:26.2030166+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:21.696269+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:06.3661047+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:00.3793692+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:26.2030413+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:28.6237949+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:21.6962962+00:00"
 }

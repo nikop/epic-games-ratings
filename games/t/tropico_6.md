@@ -6,49 +6,49 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 72.00% | ~6,555 |
-| Un-Lonely Island | 44.00% | ~4,006 |
-| The Beginning of a Servantship | 43.00% | ~3,915 |
-| Trade Is My Trait | 35.00% | ~3,186 |
-| Number 18 | 23.00% | ~2,094 |
-| We Don't Have Time For That | 18.00% | ~1,639 |
-| The Governator | 16.00% | ~1,457 |
-| Caribbean Comrade | 15.00% | ~1,366 |
-| The Legend of Langostino | 15.00% | ~1,366 |
-| The Dreamer of Dreams | 14.00% | ~1,275 |
-| Happy Ending? | 10.00% | ~910 |
-| Go Sovereigns! | 10.00% | ~910 |
-| For Science! | 10.00% | ~910 |
-| Of Seals And Men | 9.00% | ~819 |
-| Shackadelic | 9.00% | ~819 |
-| Double Trouble | 7.00% | ~637 |
-| Firestarter | 7.00% | ~637 |
-| I Owe You Nothing | 7.00% | ~637 |
-| Make Tropico Great Again! | 7.00% | ~637 |
-| Don't Panic! | 6.00% | ~546 |
-| Beware The Betman | 6.00% | ~546 |
-| French Connection | 6.00% | ~546 |
-| Viva Tropico! | 5.00% | ~455 |
-| Computer Says "No" | 5.00% | ~455 |
-| Watch The World Burn | 5.00% | ~455 |
-| Fairy Tale Come True | 4.00% | ~364 |
-| Been there, Done That | 3.00% | ~273 |
-| Apocalypso | 3.00% | ~273 |
-| Narcissist | 3.00% | ~273 |
-| The Time For Wonders | 3.00% | ~273 |
-| One Does Not Simply Stage A Coup | 2.00% | ~182 |
-| Promising Endeavors | 2.00% | ~182 |
-| Sublime Subliminal Supreme | 2.00% | ~182 |
-| Teamplayer | 2.00% | ~182 |
-| Terraformer | 2.00% | ~182 |
-| Curse of the Mummy | 2.00% | ~182 |
-| Chain Gang | 1.00% | ~91 |
-| From Knight to Little Duck | 1.00% | ~91 |
+| Just One...More...Term... | 72.00% | ~6,601 |
+| Un-Lonely Island | 44.00% | ~4,034 |
+| The Beginning of a Servantship | 43.00% | ~3,942 |
+| Trade Is My Trait | 35.00% | ~3,209 |
+| Number 18 | 23.00% | ~2,109 |
+| We Don't Have Time For That | 18.00% | ~1,650 |
+| The Governator | 16.00% | ~1,467 |
+| Caribbean Comrade | 15.00% | ~1,375 |
+| The Legend of Langostino | 15.00% | ~1,375 |
+| The Dreamer of Dreams | 14.00% | ~1,284 |
+| Happy Ending? | 10.00% | ~917 |
+| Go Sovereigns! | 10.00% | ~917 |
+| For Science! | 10.00% | ~917 |
+| Of Seals And Men | 9.00% | ~825 |
+| Shackadelic | 9.00% | ~825 |
+| Firestarter | 8.00% | ~733 |
+| Double Trouble | 7.00% | ~642 |
+| I Owe You Nothing | 7.00% | ~642 |
+| Make Tropico Great Again! | 7.00% | ~642 |
+| Beware The Betman | 6.00% | ~550 |
+| French Connection | 6.00% | ~550 |
+| Don't Panic! | 5.00% | ~458 |
+| Viva Tropico! | 5.00% | ~458 |
+| Computer Says "No" | 5.00% | ~458 |
+| Watch The World Burn | 5.00% | ~458 |
+| Fairy Tale Come True | 4.00% | ~367 |
+| Been there, Done That | 3.00% | ~275 |
+| Apocalypso | 3.00% | ~275 |
+| Narcissist | 3.00% | ~275 |
+| The Time For Wonders | 3.00% | ~275 |
+| One Does Not Simply Stage A Coup | 2.00% | ~183 |
+| Promising Endeavors | 2.00% | ~183 |
+| Sublime Subliminal Supreme | 2.00% | ~183 |
+| Teamplayer | 2.00% | ~183 |
+| Terraformer | 2.00% | ~183 |
+| Curse of the Mummy | 2.00% | ~183 |
+| Chain Gang | 1.00% | ~92 |
+| From Knight to Little Duck | 1.00% | ~92 |
 | Survivor | 0.70% | ~64 |
 | My Ways | 0.20% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,104 (Ranked 237)  
-Completed: 2 (0.02%) (Ranked 489)  
+Progressed: 9,168 (Ranked 248)  
+Completed: 2 (0.02%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,6 +337,7 @@ Completed: 2 (0.02%) (Ranked 489)
 | 2024-06-17 | 8,851 | 2 |
 | 2024-07-25 | 9,080 | 2 |
 | 2024-07-30 | 9,104 | 2 |
+| 2024-08-09 | 9,168 | 2 |
 ## Awards
 Max (Highly Recommended): 132  (Ranked 406)  
 Sum: 907 (Ranked 328)  

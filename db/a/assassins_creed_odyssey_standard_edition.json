@@ -3,12 +3,12 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 164,
-  "Ranking_Popularity": 62,
+  "Ranking_Popularity": 63,
   "Ranking_PopularitySum": 65,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20469,6 +20469,6 @@
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
   "LastChanged": "2024-08-09T14:57:23.2769473+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:06.3551197+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:53.014071+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:05.3191894+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:39.3245749+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:33.6093011+00:00"
 }

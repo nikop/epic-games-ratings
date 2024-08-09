@@ -2,10 +2,10 @@
   "ID": "504480ef54fb44a1902de7511f42a74d",
   "Name": "Terra Memoria",
   "ProductSlug": "terra-memoria-8b0a0e",
-  "Ranking_EOS_Progress": 969,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1002,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-02T13:00:00+00:00",
     "PcReleaseDate": "2024-03-27T02:00:00+00:00",
@@ -289,8 +289,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:13.1642459+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:13.1642397+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:46.3196095+00:00",
   "LastUpdate_AppInfo": "2024-08-07T13:09:47.8009896+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:15.5975382+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:13.1649835+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:06.115801+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:46.3196281+00:00"
 }

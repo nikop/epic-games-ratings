@@ -2,10 +2,10 @@
   "ID": "afdf048047cd452482ad7c19b2e39733",
   "Name": "BUNKERZONE",
   "ProductSlug": "bunkerzone-f0914b",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-01T09:00:00+00:00",
     "PcReleaseDate": "2024-02-02T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-01T19:57:09.9351437+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:05.3151805+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:53.0550136+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:45.2804288+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:44.1825074+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:00.0103868+00:00"
 }

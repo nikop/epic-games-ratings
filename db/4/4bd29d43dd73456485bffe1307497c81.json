@@ -2,10 +2,10 @@
   "ID": "4bd29d43dd73456485bffe1307497c81",
   "Name": "Never Ending Dungeon",
   "ProductSlug": "never-ending-dungeon-6703b7",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-06T04:57:34.2817336+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:10.3406577+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:43.5565176+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:56.6727393+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:49.0606693+00:00"
 }

@@ -5,55 +5,55 @@ Rating: 4.37 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 87.00% | ~503 |
-| Luc Piette | 73.00% | ~422 |
-| Angeline Van den Bosch | 72.00% | ~416 |
-| Elizabeth Padget | 68.00% | ~393 |
-| Little Grey Cells | 67.00% | ~387 |
-| The Bracelet | 65.00% | ~376 |
-| Florette Duval | 54.00% | ~312 |
-| Fine-toothed Comb | 53.00% | ~306 |
-| The Blackmail | 53.00% | ~306 |
-| Major Felix Hagen | 53.00% | ~306 |
-| Order and Method | 51.00% | ~295 |
-| The Altercation | 48.00% | ~277 |
-| Truth from Within | 47.00% | ~272 |
-| The Major | 46.00% | ~266 |
-| Curious and Beautiful | 44.00% | ~254 |
-| Comtesse Margaux de Vos | 44.00% | ~254 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~249 |
-| The Interrogations | 43.00% | ~249 |
-| Well-acquainted | 42.00% | ~243 |
-| Zakariya Demir | 41.00% | ~237 |
-| Well-read | 39.00% | ~225 |
-| Cassandra Van den Bosch | 38.00% | ~220 |
-| The Secret | 38.00% | ~220 |
-| Gedeon Demir | 35.00% | ~202 |
-| Rehana Piette | 35.00% | ~202 |
-| Instinct is Marvellous | 33.00% | ~191 |
-| Ernesto da Silva | 33.00% | ~191 |
-| Inge Frank | 31.00% | ~179 |
-| The Search | 31.00% | ~179 |
-| Hugo Beckers | 30.00% | ~173 |
-| The Family | 29.00% | ~168 |
-| Well-travelled | 27.00% | ~156 |
-| Thinking of Everything | 27.00% | ~156 |
-| Viscount Edwin Van den Bosch | 27.00% | ~156 |
-| Exquisite Artwork | 26.00% | ~150 |
-| Archibald Sterling | 26.00% | ~150 |
-| Well-prepared | 22.00% | ~127 |
-| The Truth | 22.00% | ~127 |
-| I Like an Audience | 20.00% | ~116 |
-| The Denouement | 19.00% | ~110 |
-| What Else Did I Miss? | 19.00% | ~110 |
-| Sunken Secrets | 18.00% | ~104 |
-| Probably the Greatest Detective in the World | 12.00% | ~69 |
+| It Wasn’t a Burglary | 87.00% | ~507 |
+| Luc Piette | 73.00% | ~426 |
+| Angeline Van den Bosch | 72.00% | ~420 |
+| Little Grey Cells | 68.00% | ~396 |
+| Elizabeth Padget | 68.00% | ~396 |
+| The Bracelet | 65.00% | ~379 |
+| The Blackmail | 54.00% | ~315 |
+| Florette Duval | 54.00% | ~315 |
+| Fine-toothed Comb | 53.00% | ~309 |
+| Major Felix Hagen | 53.00% | ~309 |
+| Order and Method | 51.00% | ~297 |
+| The Altercation | 48.00% | ~280 |
+| Truth from Within | 47.00% | ~274 |
+| The Major | 46.00% | ~268 |
+| Curious and Beautiful | 44.00% | ~257 |
+| Comtesse Margaux de Vos | 44.00% | ~257 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~251 |
+| The Interrogations | 43.00% | ~251 |
+| Well-acquainted | 41.00% | ~239 |
+| Zakariya Demir | 41.00% | ~239 |
+| Well-read | 39.00% | ~227 |
+| Cassandra Van den Bosch | 38.00% | ~222 |
+| The Secret | 38.00% | ~222 |
+| Gedeon Demir | 36.00% | ~210 |
+| Rehana Piette | 35.00% | ~204 |
+| Instinct is Marvellous | 33.00% | ~192 |
+| Ernesto da Silva | 33.00% | ~192 |
+| Inge Frank | 32.00% | ~187 |
+| The Search | 31.00% | ~181 |
+| Hugo Beckers | 30.00% | ~175 |
+| The Family | 28.00% | ~163 |
+| Well-travelled | 27.00% | ~157 |
+| Thinking of Everything | 27.00% | ~157 |
+| Exquisite Artwork | 26.00% | ~152 |
+| Archibald Sterling | 26.00% | ~152 |
+| Viscount Edwin Van den Bosch | 26.00% | ~152 |
+| Well-prepared | 22.00% | ~128 |
+| The Truth | 22.00% | ~128 |
+| I Like an Audience | 20.00% | ~117 |
+| What Else Did I Miss? | 19.00% | ~111 |
+| The Denouement | 18.00% | ~105 |
+| Sunken Secrets | 18.00% | ~105 |
+| Probably the Greatest Detective in the World | 12.00% | ~70 |
 | Take a Break | 11.00% | ~64 |
-| Room with a View | 8.00% | ~46 |
+| Room with a View | 8.00% | ~47 |
 | Work-life Balance | 3.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 578 (Ranked 437)  
-Completed: 8 (1.38%) (Ranked 208)  
+Progressed: 583 (Ranked 449)  
+Completed: 8 (1.37%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,6 +172,7 @@ Completed: 8 (1.38%) (Ranked 208)
 | 2024-04-10 | 545 | 8 |
 | 2024-06-17 | 573 | 8 |
 | 2024-07-09 | 578 | 8 |
+| 2024-08-09 | 583 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

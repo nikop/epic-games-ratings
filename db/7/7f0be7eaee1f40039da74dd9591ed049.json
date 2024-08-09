@@ -2,10 +2,10 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 599,
-  "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 611,
+  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 156,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.03,
+  "EOS_Completed_Percentage": 3.85,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -429,6 +429,11 @@
       "Time": "2024-06-17T16:10:59.4383756+00:00",
       "NumProgressed": 149,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-08-09T18:02:58.679713+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -441,13 +446,13 @@
       "Name": "Track Explorer",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "10_RACES",
       "SetID": "2g288ag",
       "Name": "Swift Decade Sprinter",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 34
     },
@@ -457,39 +462,39 @@
       "Name": "Turbocharged Odyssey",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "1_RACE",
       "SetID": "2g288ag",
       "Name": "Rookie Racer",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "20_RACES",
       "SetID": "2g288ag",
       "Name": "Race Maestro",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "25_RACES",
       "SetID": "2g288ag",
       "Name": "Silver Streak Spectacle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 160,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "2PLAYERS",
       "SetID": "2g288ag",
       "Name": "Dynamic Duo",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "2_MAPS",
@@ -497,15 +502,15 @@
       "Name": "Twice on the Track, Twice to win",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "2_RACES",
       "SetID": "2g288ag",
       "Name": "Double Trouble",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "30_RACES",
@@ -519,9 +524,9 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "5_MAPS",
@@ -529,23 +534,23 @@
       "Name": "Track Tourist",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "5_RACES",
       "SetID": "2g288ag",
       "Name": "Quintessential Quest",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "WIN_AGAINST_BOT",
@@ -553,21 +558,21 @@
       "Name": "Unbeatable Challenge",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 156,
       "Completed": 6
     }
   ],
   "FirstSeen": "2024-01-16T20:58:00.8579865+00:00",
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:59.4383753+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:58.6797125+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:12.4209391+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:20.9265329+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:59.4383881+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:58.3422899+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:58.6797235+00:00"
 }

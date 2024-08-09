@@ -2,10 +2,10 @@
   "ID": "099401b5b55a4a38a0cdc8e2759d0fcf",
   "Name": "Weko The Mask Gatherer",
   "ProductSlug": "wekothemaskgatherer-3148f9",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1037,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,17 +22,234 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:03:34.7403886+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:03:34.7403914+00:00",
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ADVENTURE_READY",
+      "SetID": "6kjbjn4",
+      "Name": "Ready for the Adventure!",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_ALL_MASKS",
+      "SetID": "6kjbjn4",
+      "Name": "The Mask Gatherer",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ANIMALS_FRIENDS",
+      "SetID": "6kjbjn4",
+      "Name": "Animal\u0027s best friend",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BEGIN_JOURNEY",
+      "SetID": "6kjbjn4",
+      "Name": "The Journey Begins!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CRYSTAL_PIRATE",
+      "SetID": "6kjbjn4",
+      "Name": "Crystal Corsair",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ENVY_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Envy Mask",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIRE_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Flame\u0027s Visage",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GLADIATOR",
+      "SetID": "6kjbjn4",
+      "Name": "Arena\u0027s conqueror",
+      "Percentage": 0,
+      "XP": 180,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GLUTTONY_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Gluttony Mask",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GOLEM_QUEST",
+      "SetID": "6kjbjn4",
+      "Name": "Golem Family",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GREED_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Greed Mask",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HEAVY_HAMMER",
+      "SetID": "6kjbjn4",
+      "Name": "Hammerfall",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HP_UPGRADES",
+      "SetID": "6kjbjn4",
+      "Name": "Life\u0027s Bounty",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEGENDARY_WEAPON",
+      "SetID": "6kjbjn4",
+      "Name": "Legendary Warrior",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LUST_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Lust Mask",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MASK_WRATH",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Wrath Mask",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NAME_CHOSEN",
+      "SetID": "6kjbjn4",
+      "Name": "W\u00E9ko I am your father!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ONIBI_FRIEND",
+      "SetID": "6kjbjn4",
+      "Name": "Onibi\u0027s Friend",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PRIDE_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Pride Mask",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RACE_TIME",
+      "SetID": "6kjbjn4",
+      "Name": "The Best Racer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCAVENGER_CHEF",
+      "SetID": "6kjbjn4",
+      "Name": "Chef\u0027s Bane",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SLOTH_MASK",
+      "SetID": "6kjbjn4",
+      "Name": "Primordial Sloth Mask",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SOULS",
+      "SetID": "6kjbjn4",
+      "Name": "Souls collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_STAMINA_UPGRADES",
+      "SetID": "6kjbjn4",
+      "Name": "Stamina\u0027s Bounty",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VAGABOND_POTIONS",
+      "SetID": "6kjbjn4",
+      "Name": "Potion Collector",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6kjbjn4",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:03:34.7403914+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:34.7403881+00:00",
   "LastUpdate_AppInfo": "2024-08-03T10:57:12.5890313+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:54.9897517+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:28.3231688+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:45.9269699+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:34.7411255+00:00"
 }

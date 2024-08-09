@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~246 |
-| Lochos | 5.00% | ~246 |
-| Strength of Herakles | 5.00% | ~246 |
-| Initiate's Resolve | 5.00% | ~246 |
-| Go For the Head | 4.00% | ~197 |
-| Spartan Sandal | 4.00% | ~197 |
-| Missilis | 4.00% | ~197 |
-| Modest Earnings | 4.00% | ~197 |
-| Armaments of the Pantheon | 4.00% | ~197 |
-| Persephone's Guidance | 4.00% | ~197 |
-| Eidola | 4.00% | ~197 |
-| Reign in Blood | 4.00% | ~197 |
-| Pillars of Eternity | 3.00% | ~148 |
-| Immolator | 3.00% | ~148 |
-| War Chest | 3.00% | ~148 |
-| Chthonic Investor | 3.00% | ~148 |
-| Symbols of Heresy | 3.00% | ~148 |
-| The Sons of Minos | 3.00% | ~148 |
-| Sisters of the Pantheon | 3.00% | ~148 |
-| Siege Unit | 3.00% | ~148 |
-| Divine Assemblage | 3.00% | ~148 |
-| Ophiolatreia | 3.00% | ~148 |
-| Comedy and Tragedy | 2.00% | ~98 |
-| Forged in Fire | 2.00% | ~98 |
-| The Midas Touch | 2.00% | ~98 |
-| First Fragment | 2.00% | ~98 |
-| Hapax Legomenon | 2.00% | ~98 |
-| Labour of Apollo | 2.00% | ~98 |
-| Vandili | 2.00% | ~98 |
-| Cloaca Maxima | 2.00% | ~98 |
-| Halls of Marble | 2.00% | ~98 |
-| Mors Omnibus | 2.00% | ~98 |
-| Blot Out the Sky | 2.00% | ~98 |
-| Serpentine | 2.00% | ~98 |
-| The Nameless One | 1.00% | ~49 |
-| Wayward Son of Hephaestus | 1.00% | ~49 |
-| Lament of the Constellations | 1.00% | ~49 |
-| Rule of Thirds | 1.00% | ~49 |
-| Rock and a Hard Place | 1.00% | ~49 |
-| Don't Pay the Ferryman | 1.00% | ~49 |
-| Veneration of Hephaestus | 1.00% | ~49 |
-| Biotechnology | 1.00% | ~49 |
-| No Scylla in Sight | 1.00% | ~49 |
-| The Archimedes Principle | 1.00% | ~49 |
-| Rites at Sea | 1.00% | ~49 |
-| Close Shut the Doors | 1.00% | ~49 |
-| Baby Crabs They Ain't | 1.00% | ~49 |
-| Scrap Metal | 1.00% | ~49 |
-| Pyr Demon | 0.90% | ~44 |
-| Athenian Treasury | 0.80% | ~39 |
-| Invicta | 0.70% | ~34 |
+| To Suffer is to Learn | 5.00% | ~248 |
+| Lochos | 5.00% | ~248 |
+| Strength of Herakles | 5.00% | ~248 |
+| Initiate's Resolve | 5.00% | ~248 |
+| Go For the Head | 4.00% | ~199 |
+| Spartan Sandal | 4.00% | ~199 |
+| Missilis | 4.00% | ~199 |
+| Modest Earnings | 4.00% | ~199 |
+| Armaments of the Pantheon | 4.00% | ~199 |
+| Persephone's Guidance | 4.00% | ~199 |
+| Eidola | 4.00% | ~199 |
+| Reign in Blood | 4.00% | ~199 |
+| Pillars of Eternity | 3.00% | ~149 |
+| Immolator | 3.00% | ~149 |
+| War Chest | 3.00% | ~149 |
+| Chthonic Investor | 3.00% | ~149 |
+| Symbols of Heresy | 3.00% | ~149 |
+| The Sons of Minos | 3.00% | ~149 |
+| Sisters of the Pantheon | 3.00% | ~149 |
+| Siege Unit | 3.00% | ~149 |
+| Divine Assemblage | 3.00% | ~149 |
+| Ophiolatreia | 3.00% | ~149 |
+| Comedy and Tragedy | 2.00% | ~99 |
+| Forged in Fire | 2.00% | ~99 |
+| First Fragment | 2.00% | ~99 |
+| Hapax Legomenon | 2.00% | ~99 |
+| Labour of Apollo | 2.00% | ~99 |
+| Vandili | 2.00% | ~99 |
+| Cloaca Maxima | 2.00% | ~99 |
+| Halls of Marble | 2.00% | ~99 |
+| Mors Omnibus | 2.00% | ~99 |
+| Blot Out the Sky | 2.00% | ~99 |
+| Serpentine | 2.00% | ~99 |
+| The Nameless One | 1.00% | ~50 |
+| Wayward Son of Hephaestus | 1.00% | ~50 |
+| Lament of the Constellations | 1.00% | ~50 |
+| Rule of Thirds | 1.00% | ~50 |
+| Rock and a Hard Place | 1.00% | ~50 |
+| The Midas Touch | 1.00% | ~50 |
+| Don't Pay the Ferryman | 1.00% | ~50 |
+| Veneration of Hephaestus | 1.00% | ~50 |
+| Biotechnology | 1.00% | ~50 |
+| No Scylla in Sight | 1.00% | ~50 |
+| The Archimedes Principle | 1.00% | ~50 |
+| Rites at Sea | 1.00% | ~50 |
+| Close Shut the Doors | 1.00% | ~50 |
+| Baby Crabs They Ain't | 1.00% | ~50 |
+| Scrap Metal | 1.00% | ~50 |
+| Pyr Demon | 0.90% | ~45 |
+| Athenian Treasury | 0.70% | ~35 |
+| Invicta | 0.70% | ~35 |
 | Olympian | 0.50% | ~25 |
 | Elephantine | 0.40% | ~20 |
 | Hipparchia's Labour | 0.30% | ~15 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,917 (Ranked 265)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 4,968 (Ranked 278)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,6 +337,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-06-17 | 4,842 | 0 |
 | 2024-07-24 | 4,914 | 0 |
 | 2024-07-25 | 4,917 | 0 |
+| 2024-08-09 | 4,968 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "5e307f50567c4f8fb0c187f0729bfd08",
   "Name": "Diamond Drone",
   "ProductSlug": "my-product-3b0853",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-05T21:00:00+00:00",
     "PcReleaseDate": "2024-05-05T21:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-17T01:45:01.7182296+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:36.7346678+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:12.7527518+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:25.6493661+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:13.9390552+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:58.1169246+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "048550a9623d4824894430a2c2823e02",
   "Name": "SUPER CRAZY RHYTHM CASTLE",
   "ProductSlug": "super-crazy-rhythm-castle-e3b464",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-15T00:00:00+00:00",
     "PcReleaseDate": "2023-11-14T01:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "76nlj17",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:04.2373302+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:04.2373257+00:00",
   "LastUpdate_AppInfo": "2024-08-08T01:58:04.625353+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:25.2670058+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:44.4933718+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:04.2373319+00:00"
 }

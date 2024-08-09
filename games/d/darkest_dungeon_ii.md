@@ -6,88 +6,88 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 24.00% | ~4,124 |
-| Autodidact | 15.00% | ~21,347 |
-| Lost and Found | 14.00% | ~2,406 |
-| Serenity Now! | 13.00% | ~18,501 |
-| This Belongs in a Museum | 13.00% | ~18,501 |
-| Creep and Sleep | 13.00% | ~18,501 |
-| Overdue Notice | 13.00% | ~18,501 |
-| Don't Make Me Turn This Coach Around | 12.00% | ~17,078 |
-| Escape from the Black Hole | 12.00% | ~17,078 |
-| Rush Hour | 12.00% | ~17,078 |
-| To Grandmother's House | 12.00% | ~17,078 |
-| This guy... again? | 12.00% | ~2,062 |
-| It Rings a Bell | 11.00% | ~15,655 |
-| Meat and Greet | 11.00% | ~15,655 |
-| It Happens | 11.00% | ~15,655 |
-| A Place to Lay Your Head | 11.00% | ~15,655 |
-| FNG | 11.00% | ~15,655 |
-| Catch and Decease | 10.00% | ~14,232 |
-| Merry Time | 10.00% | ~14,232 |
-| Harvest Festival | 10.00% | ~14,232 |
-| Whale | 10.00% | ~14,232 |
-| Nope | 10.00% | ~14,232 |
-| Ploughshares to Swords | 10.00% | ~1,718 |
-| Unleash Hell | 9.00% | ~12,808 |
-| Long Live the King | 9.00% | ~12,808 |
-| Unfulfilled Desires | 9.00% | ~12,808 |
-| Hope Rekindled | 9.00% | ~12,808 |
-| Not Today! | 9.00% | ~12,808 |
-| Ramble On | 9.00% | ~12,808 |
-| Unshackled | 9.00% | ~12,808 |
-| Resurrection | 8.00% | ~11,385 |
-| Funny Guy | 8.00% | ~11,385 |
-| Wyrdly Reconstructed | 8.00% | ~11,385 |
-| Boxcar Kid | 8.00% | ~11,385 |
-| Dissector | 8.00% | ~11,385 |
-| Banishment | 8.00% | ~11,385 |
-| Now Stay Dead | 8.00% | ~11,385 |
-| Spelunker | 8.00% | ~11,385 |
-| A Clear Conscience | 8.00% | ~11,385 |
-| Bloody Graduation | 8.00% | ~1,375 |
-| Predator | 7.00% | ~9,962 |
-| Deprogramming | 7.00% | ~9,962 |
-| Reverse Banditry | 7.00% | ~9,962 |
-| Road Trip | 7.00% | ~9,962 |
-| Friends 'Til the End | 7.00% | ~1,203 |
-| This Looks Familiar | 6.00% | ~8,539 |
-| When You Want Something Done Right | 6.00% | ~8,539 |
-| Utopia | 6.00% | ~8,539 |
-| Hot Air | 6.00% | ~8,539 |
-| Ichthyophobic | 5.00% | ~7,116 |
-| Eyes Up | 5.00% | ~7,116 |
-| No More Mouths to Feed | 4.00% | ~5,693 |
-| Worldly Traveller | 4.00% | ~5,693 |
-| Handled | 4.00% | ~5,693 |
-| Body of Work | 4.00% | ~5,693 |
-| Shrine of Reflection | 3.00% | ~4,269 |
-| The World As It Was | 2.00% | ~2,846 |
-| Loop Year | 2.00% | ~2,846 |
-| Clearing the Ledger | 2.00% | ~2,846 |
-| Hat Trick | 2.00% | ~2,846 |
-| Triage | 2.00% | ~2,846 |
-| No Mercy | 2.00% | ~344 |
-| Slap on the Wrist | 2.00% | ~344 |
-| Et Tu, Riposte? | 2.00% | ~344 |
-| For Old Time' Sake | 2.00% | ~344 |
-| A Life Well Lived | 1.00% | ~1,423 |
-| Bacon Bits | 1.00% | ~1,423 |
-| Eidetic | 1.00% | ~1,423 |
-| On This Long Road, We Found Redemption | 1.00% | ~172 |
-| Tears in the Rain | 0.80% | ~1,139 |
-| Battle Hardened | 0.80% | ~137 |
-| Grand Slam | 0.70% | ~996 |
-| Circle of Life | 0.60% | ~854 |
-| 20,000 Leagues Above the Sea | 0.50% | ~712 |
-| Maître De La Lame | 0.50% | ~86 |
-| Hard Mode | 0.30% | ~427 |
-| These Boots Are Made For Kickin' | 0.30% | ~52 |
-| No Gravestone Left Unturned | 0.20% | ~285 |
-| The Clash | 0.20% | ~285 |
+| Malpractice Assurance | 26.00% | ~5,037 |
+| Autodidact | 16.00% | ~23,121 |
+| Serenity Now! | 15.00% | ~21,676 |
+| This Belongs in a Museum | 14.00% | ~20,231 |
+| Creep and Sleep | 14.00% | ~20,231 |
+| Overdue Notice | 14.00% | ~20,231 |
+| To Grandmother's House | 14.00% | ~20,231 |
+| Lost and Found | 14.00% | ~2,712 |
+| Don't Make Me Turn This Coach Around | 13.00% | ~18,786 |
+| It Rings a Bell | 13.00% | ~18,786 |
+| Escape from the Black Hole | 13.00% | ~18,786 |
+| Rush Hour | 13.00% | ~18,786 |
+| This guy... again? | 13.00% | ~2,519 |
+| Meat and Greet | 12.00% | ~17,341 |
+| It Happens | 12.00% | ~17,341 |
+| A Place to Lay Your Head | 12.00% | ~17,341 |
+| FNG | 12.00% | ~17,341 |
+| Nope | 12.00% | ~17,341 |
+| Catch and Decease | 11.00% | ~15,896 |
+| Merry Time | 11.00% | ~15,896 |
+| Harvest Festival | 11.00% | ~15,896 |
+| Whale | 11.00% | ~15,896 |
+| Unleash Hell | 10.00% | ~14,450 |
+| Long Live the King | 10.00% | ~14,450 |
+| Unfulfilled Desires | 10.00% | ~14,450 |
+| Hope Rekindled | 10.00% | ~14,450 |
+| Not Today! | 10.00% | ~14,450 |
+| Ramble On | 10.00% | ~14,450 |
+| Unshackled | 10.00% | ~14,450 |
+| Ploughshares to Swords | 10.00% | ~1,937 |
+| Resurrection | 9.00% | ~13,005 |
+| Funny Guy | 9.00% | ~13,005 |
+| Wyrdly Reconstructed | 9.00% | ~13,005 |
+| Boxcar Kid | 9.00% | ~13,005 |
+| Banishment | 9.00% | ~13,005 |
+| Now Stay Dead | 9.00% | ~13,005 |
+| Spelunker | 9.00% | ~13,005 |
+| A Clear Conscience | 9.00% | ~13,005 |
+| Bloody Graduation | 9.00% | ~1,744 |
+| Predator | 8.00% | ~11,560 |
+| Dissector | 8.00% | ~11,560 |
+| Deprogramming | 8.00% | ~11,560 |
+| Road Trip | 8.00% | ~11,560 |
+| Friends 'Til the End | 8.00% | ~1,550 |
+| This Looks Familiar | 7.00% | ~10,115 |
+| Reverse Banditry | 7.00% | ~10,115 |
+| When You Want Something Done Right | 7.00% | ~10,115 |
+| Utopia | 6.00% | ~8,670 |
+| Hot Air | 6.00% | ~8,670 |
+| Eyes Up | 6.00% | ~8,670 |
+| Ichthyophobic | 5.00% | ~7,225 |
+| No More Mouths to Feed | 5.00% | ~7,225 |
+| Handled | 5.00% | ~7,225 |
+| Worldly Traveller | 4.00% | ~5,780 |
+| Body of Work | 4.00% | ~5,780 |
+| Hat Trick | 3.00% | ~4,335 |
+| Shrine of Reflection | 3.00% | ~4,335 |
+| Triage | 3.00% | ~4,335 |
+| A Life Well Lived | 2.00% | ~2,890 |
+| The World As It Was | 2.00% | ~2,890 |
+| Loop Year | 2.00% | ~2,890 |
+| Clearing the Ledger | 2.00% | ~2,890 |
+| No Mercy | 2.00% | ~387 |
+| Slap on the Wrist | 2.00% | ~387 |
+| Et Tu, Riposte? | 2.00% | ~387 |
+| For Old Time' Sake | 2.00% | ~387 |
+| Bacon Bits | 1.00% | ~1,445 |
+| Eidetic | 1.00% | ~1,445 |
+| On This Long Road, We Found Redemption | 1.00% | ~194 |
+| Tears in the Rain | 0.90% | ~1,301 |
+| Battle Hardened | 0.90% | ~174 |
+| Grand Slam | 0.80% | ~1,156 |
+| Circle of Life | 0.70% | ~1,012 |
+| Maître De La Lame | 0.60% | ~116 |
+| 20,000 Leagues Above the Sea | 0.50% | ~723 |
+| These Boots Are Made For Kickin' | 0.40% | ~77 |
+| Hard Mode | 0.30% | ~434 |
+| No Gravestone Left Unturned | 0.20% | ~289 |
+| The Clash | 0.20% | ~289 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142,316 (Ranked 109)  
-Completed: 29 (0.02%) (Ranked 489)  
+Progressed: 144,505 (Ranked 112)  
+Completed: 31 (0.02%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -363,9 +363,10 @@ Completed: 29 (0.02%) (Ranked 489)
 | 2024-03-21 | 137,092 | 6 |
 | 2024-04-10 | 138,230 | 6 |
 | 2024-06-17 | 142,316 | 29 |
+| 2024-08-09 | 144,505 | 31 |
 ## Awards
 Max (Character Customization): 8,698  (Ranked 65)  
-Sum: 24,084 (Ranked 70)  
+Sum: 24,085 (Ranked 70)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
@@ -376,7 +377,7 @@ Diff (max vs sum): -5
 | This game has Amazing Characters | 1,717 |
 | This game is Extremely Fun | 1,678 |
 | This game has Unique Visuals | 1,674 |
-| This game has Amazing Storytelling | 1,610 |
+| This game has Amazing Storytelling | 1,611 |
 | This game has Quickly Understood Controls | 1,546 |
 | This game has a Creative Community | 1,266 |
 | This game has Obsessive Gameplay | 585 |
@@ -941,4 +942,4 @@ Diff (max vs sum): -5
 | 2024-08-06 | 4.69 | - | 8,676 | 24,030 |
 | 2024-08-07 | 4.69 | - | 8,681 | 24,046 |
 | 2024-08-08 | 4.69 | - | 8,689 | 24,067 |
-| 2024-08-09 | 4.69 | - | 8,698 | 24,084 |
+| 2024-08-09 | 4.69 | - | 8,698 | 24,085 |

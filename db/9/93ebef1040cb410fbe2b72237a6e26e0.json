@@ -2,10 +2,10 @@
   "ID": "93ebef1040cb410fbe2b72237a6e26e0",
   "Name": "Hidden Shapes Old West",
   "ProductSlug": "hidden-shapes-old-west-d25c87",
-  "Ranking_EOS_Progress": 822,
-  "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-12T17:00:00+00:00",
     "PcReleaseDate": "2021-06-17T05:00:00+00:00",
@@ -80,57 +80,57 @@
       "ID": "ACHIEVEMENT_HSOW_05",
       "SetID": "1a274d0",
       "Name": "HSOW - 05",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSOW_06",
       "SetID": "1a274d0",
       "Name": "HSOW - 06",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_HSOW_07",
       "SetID": "1a274d0",
       "Name": "HSOW - 07",
-      "Percentage": 52,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_HSOW_08",
       "SetID": "1a274d0",
       "Name": "HSOW - 08",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_HSOW_09",
       "SetID": "1a274d0",
       "Name": "HSOW - 09",
-      "Percentage": 40,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_HSOW_10",
       "SetID": "1a274d0",
       "Name": "HSOW - 10",
-      "Percentage": 40,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_HSOW_11",
       "SetID": "1a274d0",
       "Name": "HSOW - 11",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSOW_12",
@@ -240,57 +240,57 @@
       "ID": "ACHIEVEMENT_HSOW_25",
       "SetID": "1a274d0",
       "Name": "HSOW - 25",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_26",
       "SetID": "1a274d0",
       "Name": "HSOW - 26",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_27",
       "SetID": "1a274d0",
       "Name": "HSOW - 27",
-      "Percentage": 20,
-      "XP": 25,
-      "UsersEstimate": 5
-    },
-    {
-      "ID": "ACHIEVEMENT_HSOW_28",
-      "SetID": "1a274d0",
-      "Name": "HSOW - 28",
       "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 6
     },
     {
+      "ID": "ACHIEVEMENT_HSOW_28",
+      "SetID": "1a274d0",
+      "Name": "HSOW - 28",
+      "Percentage": 28,
+      "XP": 25,
+      "UsersEstimate": 7
+    },
+    {
       "ID": "ACHIEVEMENT_HSOW_29",
       "SetID": "1a274d0",
       "Name": "HSOW - 29",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_HSOW_30",
       "SetID": "1a274d0",
       "Name": "HSOW - 30",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_HSOW_31",
       "SetID": "1a274d0",
       "Name": "HSOW - 31",
-      "Percentage": 20,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_HSOW_32",
@@ -390,8 +390,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:10.1131784+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:29.9570386+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:02.2748166+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:11.7778796+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:01.9655036+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:29.9570654+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:29.9217988+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:02.2748518+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fbe32f5aded6419aa99ef9ed8c719426",
   "Name": "Carnage Chase",
   "ProductSlug": "carnage-chase-8445af",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-01T07:45:49.405+00:00",
     "PcReleaseDate": "2024-01-31T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-01T20:59:07.5297527+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:13.888178+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:08.0534187+00:00",
-  "LastUpdate_Achievements": "2024-07-30T00:05:49.6838532+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:10.9366063+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:37.6677428+00:00"
 }

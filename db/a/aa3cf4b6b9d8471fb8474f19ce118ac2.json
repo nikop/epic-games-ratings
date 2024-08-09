@@ -2,10 +2,10 @@
   "ID": "aa3cf4b6b9d8471fb8474f19ce118ac2",
   "Name": "1001 Jigsaw. World Tour: Australian Puzzles",
   "ProductSlug": "1001-jigsaw-world-tour-australian-puzzles-ae477c",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-22T21:00:00+00:00",
     "PcReleaseDate": "2019-01-06T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-28T23:58:03.3422164+00:00",
   "LastUpdate_AppInfo": "2024-08-08T02:57:03.8890454+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:28.4664259+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:04:34.1545453+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:17.816289+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:42.492674+00:00"
 }

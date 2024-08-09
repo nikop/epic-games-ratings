@@ -2,10 +2,10 @@
   "ID": "160f324cdc904f8eb98b47214ee1a3e9",
   "Name": "Night Project",
   "ProductSlug": "night-project-bb26f2",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-20T22:00:00+00:00",
     "PcReleaseDate": "2024-05-20T22:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-21T10:00:02.5668023+00:00",
   "LastUpdate_AppInfo": "2024-08-04T18:57:09.1688621+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:24.9096098+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:23.3762267+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:14.6319031+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:55.8339094+00:00"
 }

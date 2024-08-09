@@ -2,10 +2,10 @@
   "ID": "b859d03955d0401e984b81c5e7a15654",
   "Name": "Worker Simulator",
   "ProductSlug": "worker-simulator-db704e",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-09T22:00:00+00:00",
     "PcReleaseDate": "2023-12-11T09:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T05:57:17.7701538+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:44.5440683+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:43.2350062+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:56.7319991+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:15.0438393+00:00"
 }

@@ -5,56 +5,56 @@ Rating: 4.24 (Ranked 1,048)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 39.00% | ~10,649 |
-| Flesh Wound | 38.00% | ~10,376 |
-| Desperate Times | 37.00% | ~10,102 |
-| Paper Jams | 33.00% | ~9,010 |
-| Get a Grip | 31.00% | ~8,464 |
-| Chew 'Em Up | 31.00% | ~8,464 |
-| Reforged | 29.00% | ~7,918 |
-| Float Like A Butterfly | 26.00% | ~7,099 |
-| If the SHU Fits... | 26.00% | ~7,099 |
-| Workplace Hazard | 25.00% | ~6,826 |
-| Without A Paddle | 22.00% | ~6,007 |
-| In the Pipe, Five by Five | 19.00% | ~5,188 |
-| Crash Site | 19.00% | ~5,188 |
-| Two Heads Are Better Than One | 18.00% | ~4,915 |
-| Power Up | 18.00% | ~4,915 |
-| Giving Back | 16.00% | ~4,369 |
-| Terminated | 16.00% | ~4,369 |
-| What Lies Beneath | 16.00% | ~4,369 |
-| Full Circle | 16.00% | ~4,369 |
-| You Need a Gun | 13.00% | ~3,550 |
-| I Do Belong Here | 12.00% | ~3,276 |
-| Keep Fighting | 9.00% | ~1,371 |
-| The Commonality | 8.00% | ~2,184 |
-| In Striking Distance | 7.00% | ~1,911 |
-| It's Time | 7.00% | ~1,066 |
-| One Last Job | 4.00% | ~609 |
-| Armed to the Teeth | 2.00% | ~305 |
-| Mugshot | 2.00% | ~546 |
-| Instigator | 2.00% | ~305 |
-| Big Spender | 2.00% | ~305 |
-| This Isn't About Escape | 2.00% | ~305 |
-| Grim Reaper | 1.00% | ~273 |
-| Parole Denied | 1.00% | ~152 |
-| Information Overload | 1.00% | ~152 |
-| Quick Pick | 1.00% | ~152 |
-| Subject Alpha | 0.80% | ~122 |
-| The Protocol is About Life | 0.50% | ~137 |
-| Hoard Mode | 0.50% | ~76 |
-| Don't Let It Mellow | 0.50% | ~76 |
-| Recidivist | 0.40% | ~61 |
-| Bear Trap | 0.30% | ~46 |
-| It's over, Jacob! | 0.10% | ~27 |
-| Glutton for Punishment | 0.10% | ~15 |
-| You Belong Here | 0.10% | ~15 |
-| Lifer | 0.10% | ~15 |
-| Big Game Hunter | 0.10% | ~15 |
+| The Outer Way | 43.00% | ~12,807 |
+| Flesh Wound | 42.00% | ~12,509 |
+| Desperate Times | 41.00% | ~12,211 |
+| Paper Jams | 37.00% | ~11,020 |
+| Get a Grip | 34.00% | ~10,126 |
+| Chew 'Em Up | 34.00% | ~10,126 |
+| Reforged | 32.00% | ~9,531 |
+| Float Like A Butterfly | 29.00% | ~8,637 |
+| If the SHU Fits... | 29.00% | ~8,637 |
+| Workplace Hazard | 28.00% | ~8,339 |
+| Without A Paddle | 25.00% | ~7,446 |
+| In the Pipe, Five by Five | 22.00% | ~6,552 |
+| Crash Site | 22.00% | ~6,552 |
+| Two Heads Are Better Than One | 20.00% | ~5,957 |
+| Power Up | 20.00% | ~5,957 |
+| Giving Back | 18.00% | ~5,361 |
+| Terminated | 18.00% | ~5,361 |
+| What Lies Beneath | 18.00% | ~5,361 |
+| Full Circle | 18.00% | ~5,361 |
+| You Need a Gun | 14.00% | ~4,170 |
+| I Do Belong Here | 13.00% | ~3,872 |
+| Keep Fighting | 9.00% | ~1,594 |
+| In Striking Distance | 8.00% | ~2,383 |
+| The Commonality | 8.00% | ~2,383 |
+| It's Time | 7.00% | ~1,240 |
+| One Last Job | 4.00% | ~708 |
+| Armed to the Teeth | 2.00% | ~354 |
+| Mugshot | 2.00% | ~596 |
+| Instigator | 2.00% | ~354 |
+| Big Spender | 2.00% | ~354 |
+| This Isn't About Escape | 2.00% | ~354 |
+| Grim Reaper | 1.00% | ~298 |
+| Parole Denied | 1.00% | ~177 |
+| Information Overload | 1.00% | ~177 |
+| Quick Pick | 1.00% | ~177 |
+| Subject Alpha | 0.80% | ~142 |
+| The Protocol is About Life | 0.60% | ~179 |
+| Recidivist | 0.50% | ~89 |
+| Hoard Mode | 0.50% | ~89 |
+| Don't Let It Mellow | 0.50% | ~89 |
+| Bear Trap | 0.30% | ~53 |
+| It's over, Jacob! | 0.10% | ~30 |
+| Glutton for Punishment | 0.10% | ~18 |
+| You Belong Here | 0.10% | ~18 |
+| Lifer | 0.10% | ~18 |
+| Big Game Hunter | 0.10% | ~18 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,304 (Ranked 182)  
-Completed: 86 (0.31%) (Ranked 338)  
+Progressed: 29,783 (Ranked 190)  
+Completed: 88 (0.30%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,6 +332,7 @@ Completed: 86 (0.31%) (Ranked 338)
 | 2024-03-21 | 23,825 | 84 |
 | 2024-04-10 | 24,357 | 84 |
 | 2024-06-17 | 27,304 | 86 |
+| 2024-08-09 | 29,783 | 88 |
 ## Awards
 Max (Amazing Characters): 199  (Ranked 355)  
 Sum: 1,049 (Ranked 312)  

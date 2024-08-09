@@ -2,10 +2,10 @@
   "ID": "537812b78c3e41949594db56674dbbe3",
   "Name": "Blacksad - Under the Skin",
   "ProductSlug": "blacksad-under-the-skin-c1be50",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 706,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-27T08:00:00+00:00",
     "PcReleaseDate": "2019-03-19T09:00:00+00:00",
@@ -25,27 +25,347 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:06:02.5399569+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:06:02.5399591+00:00",
+  "TotalAchievements": 39,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "10__strike_one",
+      "SetID": "2i1kc7p",
+      "Name": "Strike one",
+      "Percentage": 28,
+      "XP": 15,
+      "UsersEstimate": 23
+    },
+    {
+      "ID": "11__shield",
+      "SetID": "2i1kc7p",
+      "Name": "Shield",
+      "Percentage": 24,
+      "XP": 15,
+      "UsersEstimate": 20
+    },
+    {
+      "ID": "12__back_to_normal",
+      "SetID": "2i1kc7p",
+      "Name": "Back to normal",
+      "Percentage": 23,
+      "XP": 15,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "13__congrats",
+      "SetID": "2i1kc7p",
+      "Name": "Congrats!",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "14__case_solved",
+      "SetID": "2i1kc7p",
+      "Name": "Case solved",
+      "Percentage": 22,
+      "XP": 30,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "15__immortal",
+      "SetID": "2i1kc7p",
+      "Name": "Immortal",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "16__nine_lives",
+      "SetID": "2i1kc7p",
+      "Name": "Nine lives",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "17__smart_aleck",
+      "SetID": "2i1kc7p",
+      "Name": "Smart aleck",
+      "Percentage": 2,
+      "XP": 90,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "18__good_samaritan",
+      "SetID": "2i1kc7p",
+      "Name": "Good samaritan",
+      "Percentage": 18,
+      "XP": 15,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "19__slap_shot",
+      "SetID": "2i1kc7p",
+      "Name": "Slap Shot",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1__hitting_a_brick_wall",
+      "SetID": "2i1kc7p",
+      "Name": "Hitting a brick wall",
+      "Percentage": 89,
+      "XP": 10,
+      "UsersEstimate": 73
+    },
+    {
+      "ID": "20__any_given_sunday",
+      "SetID": "2i1kc7p",
+      "Name": "Any Given Sunday",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "21__raging_cat",
+      "SetID": "2i1kc7p",
+      "Name": "Raging Cat",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "22__the_natural",
+      "SetID": "2i1kc7p",
+      "Name": "The Natural",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "23__sports_illustrated",
+      "SetID": "2i1kc7p",
+      "Name": "Sports Illustrated",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "24__the_quiet_lynx",
+      "SetID": "2i1kc7p",
+      "Name": "The Quiet Lynx",
+      "Percentage": 10,
+      "XP": 15,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "25__billy_sorrows_reading_club",
+      "SetID": "2i1kc7p",
+      "Name": "Billy Sorrows\u0027 Reading Club",
+      "Percentage": 9,
+      "XP": 30,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "26__refusal_of_the_call",
+      "SetID": "2i1kc7p",
+      "Name": "Refusal of the call",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "27__not_a_detective",
+      "SetID": "2i1kc7p",
+      "Name": "Not a detective",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "28__the_ends",
+      "SetID": "2i1kc7p",
+      "Name": "The End(s)",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "29__the_reaper",
+      "SetID": "2i1kc7p",
+      "Name": "The Reaper",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2__heavily_armed",
+      "SetID": "2i1kc7p",
+      "Name": "Heavily armed",
+      "Percentage": 66,
+      "XP": 15,
+      "UsersEstimate": 54
+    },
+    {
+      "ID": "30__when_angels_fall",
+      "SetID": "2i1kc7p",
+      "Name": "When angels fall...",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "31__the_400_blows",
+      "SetID": "2i1kc7p",
+      "Name": "The 400 Blows",
+      "Percentage": 4,
+      "XP": 30,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "32__americas_pussycat",
+      "SetID": "2i1kc7p",
+      "Name": "America\u0027s Pussycat",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "33__say_no_to_bullying",
+      "SetID": "2i1kc7p",
+      "Name": "Say no to bullying",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "34__zero_tolerance",
+      "SetID": "2i1kc7p",
+      "Name": "Zero tolerance",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "35__good_cop",
+      "SetID": "2i1kc7p",
+      "Name": "Good cop",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "36__bad_cop",
+      "SetID": "2i1kc7p",
+      "Name": "Bad cop",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "37__niagara_falls",
+      "SetID": "2i1kc7p",
+      "Name": "Niagara Falls",
+      "Percentage": 16,
+      "XP": 30,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "38__the_sweetest_story_in_the_whole_world",
+      "SetID": "2i1kc7p",
+      "Name": "The sweetest story in the whole wide world",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "39__morleys",
+      "SetID": "2i1kc7p",
+      "Name": "Morley\u0027s",
+      "Percentage": 40,
+      "XP": 15,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "3__wrong_answer",
+      "SetID": "2i1kc7p",
+      "Name": "Wrong answer",
+      "Percentage": 61,
+      "XP": 15,
+      "UsersEstimate": 50
+    },
+    {
+      "ID": "4__civil_disobedience",
+      "SetID": "2i1kc7p",
+      "Name": "Civil disobedience",
+      "Percentage": 43,
+      "XP": 15,
+      "UsersEstimate": 35
+    },
+    {
+      "ID": "5__one_mississippi",
+      "SetID": "2i1kc7p",
+      "Name": "One Mississippi",
+      "Percentage": 40,
+      "XP": 15,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "6__extra_time",
+      "SetID": "2i1kc7p",
+      "Name": "Extra time",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "7__shadow_play",
+      "SetID": "2i1kc7p",
+      "Name": "Shadow play",
+      "Percentage": 30,
+      "XP": 15,
+      "UsersEstimate": 25
+    },
+    {
+      "ID": "8__bluffing",
+      "SetID": "2i1kc7p",
+      "Name": "Bluffing",
+      "Percentage": 30,
+      "XP": 15,
+      "UsersEstimate": 25
+    },
+    {
+      "ID": "9__vertigo",
+      "SetID": "2i1kc7p",
+      "Name": "Vertigo",
+      "Percentage": 29,
+      "XP": 15,
+      "UsersEstimate": 24
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2i1kc7p",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-27T21:57:42.5676353+00:00",
   "FirstSeenAchievements": "2024-05-13T20:05:19.3035502+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:18:16.0352597+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:02.5399565+00:00",
   "LastUpdate_AppInfo": "2024-08-08T04:57:16.7514522+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:28.6324637+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:18:16.035268+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:23.91161+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:02.5406762+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "798b7ebbde4d4904aa528a4a8823203b",
   "Name": "Lost in Space: Madness",
   "ProductSlug": "lost-in-space-cf76ae",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1037,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-19T19:00:00+00:00",
     "PcReleaseDate": "2023-12-17T20:30:00+00:00",
@@ -23,16 +23,202 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:02:03.6802967+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:02:03.6803031+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ALARM",
+      "SetID": "4hea6a1",
+      "Name": "Attention!",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "CUP1",
+      "SetID": "4hea6a1",
+      "Name": "The captain survived",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CUP2",
+      "SetID": "4hea6a1",
+      "Name": "The captain made a choice",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEAD",
+      "SetID": "4hea6a1",
+      "Name": "We all die!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "END1",
+      "SetID": "4hea6a1",
+      "Name": "Contact lost",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "END2",
+      "SetID": "4hea6a1",
+      "Name": "What have we done",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "END3",
+      "SetID": "4hea6a1",
+      "Name": "You saved everyone!",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ING1",
+      "SetID": "4hea6a1",
+      "Name": "The engineer survived",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ING2",
+      "SetID": "4hea6a1",
+      "Name": "The engineer is consumed by madness",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KOLBEZ",
+      "SetID": "4hea6a1",
+      "Name": "The Complete Madness Collection",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KOLMUS",
+      "SetID": "4hea6a1",
+      "Name": "Complete Music Collection",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KOLPOD",
+      "SetID": "4hea6a1",
+      "Name": "Complete Support Collection",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KOLTAC",
+      "SetID": "4hea6a1",
+      "Name": "Complete Tactics Collection",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Locks",
+      "SetID": "4hea6a1",
+      "Name": "Open all locks",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MED1",
+      "SetID": "4hea6a1",
+      "Name": "The doctor survived",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MED2",
+      "SetID": "4hea6a1",
+      "Name": "The doctor is consumed by madness",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RAZUM",
+      "SetID": "4hea6a1",
+      "Name": "Do you see this too?...",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sec1",
+      "SetID": "4hea6a1",
+      "Name": "What is this?",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sec2",
+      "SetID": "4hea6a1",
+      "Name": "Errors everywhere",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Sec3",
+      "SetID": "4hea6a1",
+      "Name": "The truth will be revealed",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Triggers",
+      "SetID": "4hea6a1",
+      "Name": "Super fast!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4hea6a1",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:03.680303+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:03.680296+00:00",
   "LastUpdate_AppInfo": "2024-08-06T13:57:00.1411966+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:24.0170931+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:17.3921047+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:03.6811947+00:00"
 }

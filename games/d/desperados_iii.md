@@ -6,45 +6,45 @@ Number of Ratings: 351  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodbye Colorado | 23.00% | ~716 |
-| Another One Bites the Dust | 21.00% | ~654 |
-| Watch Out Below! | 20.00% | ~623 |
-| Out of Sight, Out of Mind | 18.00% | ~561 |
-| Yakety Sax | 17.00% | ~529 |
-| Wait, Did You Say Marshal? | 16.00% | ~498 |
-| Damn Good Marksman | 15.00% | ~467 |
-| Goodbye Louisiana | 15.00% | ~467 |
-| Someone Call the Undertaker | 14.00% | ~436 |
-| Package Delivered | 12.00% | ~374 |
-| They Wear Red Bandanas | 12.00% | ~374 |
-| Five Good Shots | 11.00% | ~343 |
-| Seasoned Bounty Hunter | 11.00% | ~343 |
-| Puppet Master | 10.00% | ~311 |
-| Good Girl | 8.00% | ~249 |
-| Kaboom! | 7.00% | ~218 |
-| M-M-M-M-MONSTER KILL | 7.00% | ~218 |
-| Maneater Shrub | 5.00% | ~156 |
-| Exterminator | 4.00% | ~125 |
-| Hardcore | 4.00% | ~125 |
-| Vendetta | 4.00% | ~125 |
-| Lindberg and Hutch | 3.00% | ~93 |
-| Most Entertaining | 3.00% | ~93 |
-| Follow Me Darling | 2.00% | ~62 |
-| Gunslinger's Creed | 2.00% | ~62 |
-| Lost and Found | 2.00% | ~62 |
-| Need a Dentist? | 2.00% | ~62 |
-| Like Clockwork | 1.00% | ~31 |
-| Sorry Dad! | 1.00% | ~31 |
-| Inferno | 0.80% | ~25 |
-| Sheriff's Badge | 0.70% | ~22 |
-| The Picnic | 0.60% | ~19 |
-| Doubletime | 0.40% | ~12 |
-| Chicken Dinner | 0.30% | ~9 |
-| Power Nap | 0.30% | ~9 |
+| Goodbye Colorado | 23.00% | ~742 |
+| Another One Bites the Dust | 21.00% | ~677 |
+| Watch Out Below! | 20.00% | ~645 |
+| Out of Sight, Out of Mind | 18.00% | ~580 |
+| Yakety Sax | 18.00% | ~580 |
+| Wait, Did You Say Marshal? | 17.00% | ~548 |
+| Damn Good Marksman | 15.00% | ~484 |
+| Goodbye Louisiana | 15.00% | ~484 |
+| Someone Call the Undertaker | 14.00% | ~451 |
+| Package Delivered | 13.00% | ~419 |
+| Five Good Shots | 12.00% | ~387 |
+| They Wear Red Bandanas | 12.00% | ~387 |
+| Seasoned Bounty Hunter | 11.00% | ~355 |
+| Puppet Master | 10.00% | ~322 |
+| Good Girl | 9.00% | ~290 |
+| Kaboom! | 7.00% | ~226 |
+| M-M-M-M-MONSTER KILL | 7.00% | ~226 |
+| Maneater Shrub | 5.00% | ~161 |
+| Exterminator | 4.00% | ~129 |
+| Hardcore | 4.00% | ~129 |
+| Vendetta | 4.00% | ~129 |
+| Follow Me Darling | 3.00% | ~97 |
+| Lindberg and Hutch | 3.00% | ~97 |
+| Most Entertaining | 3.00% | ~97 |
+| Gunslinger's Creed | 2.00% | ~64 |
+| Lost and Found | 2.00% | ~64 |
+| Need a Dentist? | 2.00% | ~64 |
+| Like Clockwork | 1.00% | ~32 |
+| Sorry Dad! | 1.00% | ~32 |
+| Inferno | 0.80% | ~26 |
+| Sheriff's Badge | 0.70% | ~23 |
+| The Picnic | 0.70% | ~23 |
+| Doubletime | 0.40% | ~13 |
+| Chicken Dinner | 0.30% | ~10 |
+| Power Nap | 0.30% | ~10 |
 | Veteran Bounty Hunter | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,114 (Ranked 301)  
-Completed: 4 (0.13%) (Ranked 396)  
+Progressed: 3,224 (Ranked 311)  
+Completed: 4 (0.12%) (Ranked 421)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -52,10 +52,11 @@ Completed: 4 (0.13%) (Ranked 396)
 | 2024-04-10 | 1,246 | 0 |
 | 2024-06-17 | 2,516 | 3 |
 | 2024-07-30 | 3,114 | 4 |
+| 2024-08-09 | 3,224 | 4 |
 ## Awards
-Max (Amazing Storytelling): 56  (Ranked 525)  
+Max (Amazing Storytelling): 56  (Ranked 526)  
 Sum: 379 (Ranked 425)  
-Diff (max vs sum): 100  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 56 |

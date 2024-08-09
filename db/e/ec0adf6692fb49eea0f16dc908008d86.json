@@ -2,10 +2,10 @@
   "ID": "ec0adf6692fb49eea0f16dc908008d86",
   "Name": "Yars Rising",
   "ProductSlug": "yars-rising-e591ca",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bhji2c8",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:08:10.8627076+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:10.8627059+00:00",
   "LastUpdate_AppInfo": "2024-08-08T02:57:07.5409247+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:16.4832234+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:39.2962227+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:13.2182816+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:10.8627092+00:00"
 }

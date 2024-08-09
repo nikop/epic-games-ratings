@@ -4,52 +4,52 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete 25 levels | 8.00% | ~9 |
-| Fast 6x6 | 6.00% | ~7 |
-| Use 10 hints | 6.00% | ~7 |
+| Complete 25 levels | 7.00% | ~9 |
+| Fast 6x6 | 6.00% | ~8 |
+| Use 10 hints | 6.00% | ~8 |
 | Complete 50 levels | 5.00% | ~6 |
 | Use 20 hints | 5.00% | ~6 |
-| Fast 13x13 | 3.00% | ~4 |
-| Complete 25 6x6 levels | 3.00% | ~4 |
 | By Yourself 5x5 | 3.00% | ~4 |
-| By Yourself 7x7 | 3.00% | ~4 |
 | Play for 5 hours | 3.00% | ~4 |
-| Switch off the light | 3.00% | ~4 |
-| Use 50 hints | 3.00% | ~4 |
-| Fast 7x7 | 2.00% | ~2 |
-| Fast 10x10 | 2.00% | ~2 |
-| Complete 100 levels | 2.00% | ~2 |
-| By Yourself 6x6 | 2.00% | ~2 |
-| By Yourself 8x8 | 2.00% | ~2 |
-| Play for 10 hours | 2.00% | ~2 |
-| Addicted for 3 Days | 0.90% | ~1 |
-| Addicted for 7 Days | 0.90% | ~1 |
-| Addicted for 10 Days | 0.90% | ~1 |
-| Complete the Pack: Earth | 0.90% | ~1 |
-| Complete a Daily Pack | 0.90% | ~1 |
-| Fast 8x8 | 0.90% | ~1 |
-| Fast 9x9 | 0.90% | ~1 |
-| Fast 11x11 | 0.90% | ~1 |
-| Fast 12x12 | 0.90% | ~1 |
-| Complete 25 7x7 levels | 0.90% | ~1 |
-| Complete 25 8x8 levels | 0.90% | ~1 |
-| Complete 25 9x9 levels | 0.90% | ~1 |
-| Complete 25 10x10 levels | 0.90% | ~1 |
-| Complete 25 11x11 levels | 0.90% | ~1 |
-| Complete 25 13x13 levels | 0.90% | ~1 |
-| By Yourself 9x9 | 0.90% | ~1 |
-| By Yourself 10x10 | 0.90% | ~1 |
-| By Yourself 11x11 | 0.90% | ~1 |
-| By Yourself 12x12 | 0.90% | ~1 |
-| By Yourself 13x13 | 0.90% | ~1 |
-| Play for 24 hours | 0.90% | ~1 |
+| Fast 7x7 | 2.00% | ~3 |
+| Fast 10x10 | 2.00% | ~3 |
+| Fast 13x13 | 2.00% | ~3 |
+| Complete 100 levels | 2.00% | ~3 |
+| Complete 25 6x6 levels | 2.00% | ~3 |
+| By Yourself 6x6 | 2.00% | ~3 |
+| By Yourself 7x7 | 2.00% | ~3 |
+| By Yourself 8x8 | 2.00% | ~3 |
+| Play for 10 hours | 2.00% | ~3 |
+| Switch off the light | 2.00% | ~3 |
+| Use 50 hints | 2.00% | ~3 |
+| Addicted for 3 Days | 0.80% | ~1 |
+| Addicted for 7 Days | 0.80% | ~1 |
+| Addicted for 10 Days | 0.80% | ~1 |
+| Complete the Pack: Earth | 0.80% | ~1 |
+| Complete a Daily Pack | 0.80% | ~1 |
+| Fast 8x8 | 0.80% | ~1 |
+| Fast 9x9 | 0.80% | ~1 |
+| Fast 11x11 | 0.80% | ~1 |
+| Fast 12x12 | 0.80% | ~1 |
+| Complete 25 7x7 levels | 0.80% | ~1 |
+| Complete 25 8x8 levels | 0.80% | ~1 |
+| Complete 25 9x9 levels | 0.80% | ~1 |
+| Complete 25 10x10 levels | 0.80% | ~1 |
+| Complete 25 11x11 levels | 0.80% | ~1 |
+| Complete 25 13x13 levels | 0.80% | ~1 |
+| By Yourself 9x9 | 0.80% | ~1 |
+| By Yourself 10x10 | 0.80% | ~1 |
+| By Yourself 11x11 | 0.80% | ~1 |
+| By Yourself 12x12 | 0.80% | ~1 |
+| By Yourself 13x13 | 0.80% | ~1 |
+| Play for 24 hours | 0.80% | ~1 |
 | Complete 500 levels | 0.00% | ~0 |
 | Complete 1000 levels | 0.00% | ~0 |
 | Complete 5000 levels | 0.00% | ~0 |
 | Complete 25 12x12 levels | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 628)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 126 (Ranked 635)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,3 +117,4 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 104 | 0 |
 | 2024-04-10 | 107 | 0 |
 | 2024-06-17 | 117 | 0 |
+| 2024-08-09 | 126 | 0 |

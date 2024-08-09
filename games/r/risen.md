@@ -1,63 +1,63 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.57 (Ranked 529)  
+Rating: 4.57 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 91.00% | ~358 |
-| Map reader | 72.00% | ~283 |
-| Adventurer | 70.00% | ~275 |
-| Philanthropist | 67.00% | ~263 |
-| Archer | 47.00% | ~185 |
-| The brave little tailor | 44.00% | ~173 |
-| Field hand | 43.00% | ~169 |
-| Well-to-do | 35.00% | ~138 |
-| Samaritan | 32.00% | ~126 |
-| The merciful one | 31.00% | ~122 |
-| Ladies' man | 31.00% | ~122 |
-| Ferocious wild boars | 25.00% | ~98 |
-| Beast slayer | 25.00% | ~98 |
-| Death of a legend | 24.00% | ~94 |
-| Idiot | 24.00% | ~94 |
-| Ogre friend | 23.00% | ~90 |
-| Family man | 22.00% | ~86 |
-| Archaeologist | 22.00% | ~86 |
-| Little hero | 21.00% | ~83 |
-| The fourth triplet | 21.00% | ~83 |
-| Sidelined | 20.00% | ~79 |
-| Pandora's box | 19.00% | ~75 |
-| Ghost hunter | 19.00% | ~75 |
-| Hard worker | 18.00% | ~71 |
-| Wise man | 17.00% | ~67 |
-| Fence | 17.00% | ~67 |
-| Defender | 16.00% | ~63 |
-| Workaholic | 16.00% | ~63 |
-| Master detective | 15.00% | ~59 |
-| Showdown | 14.00% | ~55 |
-| Peacekeeper | 14.00% | ~55 |
-| Titan Lord | 12.00% | ~47 |
-| Safecracker | 12.00% | ~47 |
-| Freedom fighter | 11.00% | ~43 |
-| Master thief | 11.00% | ~43 |
-| The traveler | 8.00% | ~31 |
-| Terror of the hens | 8.00% | ~31 |
-| Expert | 7.00% | ~28 |
-| King of the handymen | 7.00% | ~28 |
-| Moneybags | 5.00% | ~20 |
-| Rune master | 4.00% | ~16 |
-| Fervent swimmer | 4.00% | ~16 |
-| King Midas | 4.00% | ~16 |
-| Big game hunter | 3.00% | ~12 |
-| Jester | 3.00% | ~12 |
-| Mage | 2.00% | ~8 |
-| Sharpshooter | 2.00% | ~8 |
-| Weaponsmith | 1.00% | ~4 |
-| Gladiator | 0.80% | ~3 |
-| Master of the classes | 0.80% | ~3 |
+| Beginner | 91.00% | ~408 |
+| Map reader | 73.00% | ~327 |
+| Adventurer | 71.00% | ~318 |
+| Philanthropist | 68.00% | ~305 |
+| Archer | 47.00% | ~211 |
+| The brave little tailor | 45.00% | ~202 |
+| Field hand | 44.00% | ~197 |
+| Well-to-do | 36.00% | ~161 |
+| Samaritan | 32.00% | ~143 |
+| The merciful one | 31.00% | ~139 |
+| Ladies' man | 31.00% | ~139 |
+| Ferocious wild boars | 25.00% | ~112 |
+| Beast slayer | 25.00% | ~112 |
+| Idiot | 24.00% | ~108 |
+| Death of a legend | 23.00% | ~103 |
+| Ogre friend | 23.00% | ~103 |
+| Archaeologist | 22.00% | ~99 |
+| Family man | 21.00% | ~94 |
+| Little hero | 21.00% | ~94 |
+| The fourth triplet | 21.00% | ~94 |
+| Sidelined | 21.00% | ~94 |
+| Pandora's box | 19.00% | ~85 |
+| Ghost hunter | 19.00% | ~85 |
+| Hard worker | 18.00% | ~81 |
+| Wise man | 17.00% | ~76 |
+| Fence | 17.00% | ~76 |
+| Defender | 16.00% | ~72 |
+| Showdown | 15.00% | ~67 |
+| Workaholic | 15.00% | ~67 |
+| Peacekeeper | 15.00% | ~67 |
+| Master detective | 15.00% | ~67 |
+| Safecracker | 13.00% | ~58 |
+| Titan Lord | 12.00% | ~54 |
+| Freedom fighter | 11.00% | ~49 |
+| Master thief | 10.00% | ~45 |
+| The traveler | 8.00% | ~36 |
+| Terror of the hens | 8.00% | ~36 |
+| King of the handymen | 8.00% | ~36 |
+| Expert | 7.00% | ~31 |
+| Moneybags | 6.00% | ~27 |
+| Rune master | 4.00% | ~18 |
+| King Midas | 4.00% | ~18 |
+| Big game hunter | 3.00% | ~13 |
+| Fervent swimmer | 3.00% | ~13 |
+| Jester | 3.00% | ~13 |
+| Mage | 2.00% | ~9 |
+| Sharpshooter | 2.00% | ~9 |
+| Gladiator | 0.90% | ~4 |
+| Master of the classes | 0.90% | ~4 |
+| Weaponsmith | 0.90% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 483)  
-Completed: 2 (0.51%) (Ranked 303)  
+Progressed: 448 (Ranked 486)  
+Completed: 3 (0.67%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -147,6 +147,7 @@ Completed: 2 (0.51%) (Ranked 303)
 | 2024-03-21 | 276 | 1 |
 | 2024-04-10 | 300 | 1 |
 | 2024-06-17 | 393 | 2 |
+| 2024-08-09 | 448 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

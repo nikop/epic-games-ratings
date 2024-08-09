@@ -2,10 +2,10 @@
   "ID": "36b233c2231a4751a9ffd998768dfd36",
   "Name": "Dynasty Legends 2",
   "ProductSlug": "comnewtypegamesdl2hmt-9052d1",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T10:57:01.7750372+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:03.8487188+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:46.8023698+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:05.2511614+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 1020,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 380,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_PopularitySum": 379,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-26T06:00:00+00:00",
     "PcReleaseDate": "2023-08-22T09:00:00+00:00",
@@ -2717,10 +2717,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 634,
       "NumberOfAwardsMax": 111
+    },
+    {
+      "Time": "2024-08-09T17:57:52.6442192+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 637,
+      "NumberOfAwardsMax": 111
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 634,
+  "NumberOfAwards": 637,
   "NumberOfAwardsMax": 111,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2740,7 +2746,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 79
+      "Count": 82
     },
     {
       "Text": "This game has Competitive Players",
@@ -2797,8 +2803,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-31T02:58:28.8259872+00:00",
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
-  "LastChanged": "2024-08-09T03:58:55.2444364+00:00",
+  "LastChanged": "2024-08-09T17:57:52.6442191+00:00",
   "LastUpdate_AppInfo": "2024-08-07T10:57:20.2365112+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:38.2355644+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:03:42.2120284+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:52.6442194+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:24.7925694+00:00"
 }

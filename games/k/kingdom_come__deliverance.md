@@ -6,91 +6,91 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 33.00% | ~281,258 |
-| Cavalier | 26.00% | ~221,597 |
-| Fatso | 24.00% | ~204,552 |
-| Awakening | 22.00% | ~187,506 |
-| Ranger | 21.00% | ~178,983 |
-| Scrooge | 21.00% | ~178,983 |
-| Anorectic | 17.00% | ~144,891 |
-| Firestarter | 16.00% | ~136,368 |
-| Bookworm | 15.00% | ~127,845 |
-| Insomniac | 14.00% | ~119,322 |
-| Buddy | 12.00% | ~102,276 |
-| Sinner | 12.00% | ~102,276 |
-| Thief | 12.00% | ~102,276 |
-| Traveller | 11.00% | ~93,753 |
-| Convict | 10.00% | ~85,230 |
-| Haggler | 10.00% | ~85,230 |
-| Runt | 8.00% | ~68,184 |
-| McLovin | 7.00% | ~59,661 |
-| Casanova | 6.00% | ~51,138 |
-| Monk | 6.00% | ~51,138 |
-| Bad Trip | 5.00% | ~42,615 |
-| Plague Doctor | 5.00% | ~42,615 |
-| Serial Killer | 5.00% | ~42,615 |
-| Bard | 4.00% | ~34,092 |
-| Bastard | 4.00% | ~34,092 |
-| Conqueror | 4.00% | ~34,092 |
-| Hunter | 4.00% | ~34,092 |
-| Ginger in a Pickle | 3.00% | ~25,569 |
-| Kingdom did not come | 3.00% | ~25,569 |
-| Completionist | 2.00% | ~17,046 |
-| Death by splinter | 2.00% | ~17,046 |
-| King Charming | 2.00% | ~17,046 |
-| Knightrider | 2.00% | ~17,046 |
-| Level Cap | 2.00% | ~17,046 |
-| Arena Master | 2.00% | ~17,046 |
-| Robber Baron | 2.00% | ~17,046 |
-| Talmberger | 2.00% | ~17,046 |
-| The End | 2.00% | ~17,046 |
-| Woman's Lot | 1.00% | ~8,523 |
-| Bailiff | 1.00% | ~8,523 |
-| Chivalrous Soul | 1.00% | ~8,523 |
-| Spoilsport | 1.00% | ~8,523 |
-| Freud | 1.00% | ~8,523 |
-| Gambler | 1.00% | ~8,523 |
-| Master Huntsman | 1.00% | ~8,523 |
-| Stealth Killer | 1.00% | ~8,523 |
-| Tracker | 0.90% | ~7,671 |
-| David Horak | 0.80% | ~6,818 |
-| Mercenary's Honour | 0.80% | ~6,818 |
-| Saviour | 0.80% | ~6,818 |
-| Fighter | 0.70% | ~5,966 |
-| Edward Kelly | 0.60% | ~5,114 |
-| I Can Quit Anytime | 0.50% | ~4,261 |
-| Perfectionist | 0.50% | ~4,261 |
-| Alcoholic | 0.30% | ~2,557 |
-| Sniper | 0.30% | ~2,557 |
-| Angel of Mercy | 0.20% | ~1,705 |
-| Christian Burial | 0.20% | ~1,705 |
-| Friends without benefits | 0.20% | ~1,705 |
-| Game Over | 0.20% | ~1,705 |
-| Not-so-Christian Burial | 0.20% | ~1,705 |
-| True Friend | 0.20% | ~1,705 |
-| Wingman | 0.20% | ~1,705 |
-| Bad Girl | 0.10% | ~852 |
-| Cleric's pet | 0.10% | ~852 |
-| Full House Sinner | 0.10% | ~852 |
-| Lord Capon's Ghost | 0.10% | ~852 |
-| Hardcore Henry | 0.10% | ~852 |
-| Infernal Justice | 0.10% | ~852 |
-| Judas | 0.10% | ~852 |
-| Like a Ghost | 0.10% | ~852 |
-| Lost Trinket | 0.10% | ~852 |
-| Merciful | 0.10% | ~852 |
-| You had one job! | 0.10% | ~852 |
-| Pilgrim | 0.10% | ~852 |
-| Pinky Promis | 0.10% | ~852 |
-| Ledetchko Revenant | 0.10% | ~852 |
-| 'Tis but a scratch | 0.10% | ~852 |
-| Torturer | 0.10% | ~852 |
-| Trial-And-Error | 0.10% | ~852 |
-| Virgin | 0.10% | ~852 |
-| Voyeur | 0.10% | ~852 |
+| Blacksmith's Son | 33.00% | ~283,795 |
+| Cavalier | 26.00% | ~223,596 |
+| Fatso | 24.00% | ~206,396 |
+| Awakening | 22.00% | ~189,196 |
+| Ranger | 21.00% | ~180,597 |
+| Scrooge | 21.00% | ~180,597 |
+| Anorectic | 17.00% | ~146,197 |
+| Firestarter | 16.00% | ~137,597 |
+| Bookworm | 15.00% | ~128,998 |
+| Insomniac | 14.00% | ~120,398 |
+| Buddy | 12.00% | ~103,198 |
+| Sinner | 12.00% | ~103,198 |
+| Thief | 12.00% | ~103,198 |
+| Convict | 11.00% | ~94,598 |
+| Traveller | 11.00% | ~94,598 |
+| Haggler | 10.00% | ~85,998 |
+| Runt | 8.00% | ~68,799 |
+| McLovin | 7.00% | ~60,199 |
+| Casanova | 6.00% | ~51,599 |
+| Monk | 6.00% | ~51,599 |
+| Bad Trip | 5.00% | ~42,999 |
+| Bastard | 5.00% | ~42,999 |
+| Plague Doctor | 5.00% | ~42,999 |
+| Serial Killer | 5.00% | ~42,999 |
+| Bard | 4.00% | ~34,399 |
+| Conqueror | 4.00% | ~34,399 |
+| Hunter | 4.00% | ~34,399 |
+| Ginger in a Pickle | 3.00% | ~25,800 |
+| Kingdom did not come | 3.00% | ~25,800 |
+| The End | 3.00% | ~25,800 |
+| Completionist | 2.00% | ~17,200 |
+| Death by splinter | 2.00% | ~17,200 |
+| King Charming | 2.00% | ~17,200 |
+| Knightrider | 2.00% | ~17,200 |
+| Level Cap | 2.00% | ~17,200 |
+| Arena Master | 2.00% | ~17,200 |
+| Robber Baron | 2.00% | ~17,200 |
+| Talmberger | 2.00% | ~17,200 |
+| Woman's Lot | 1.00% | ~8,600 |
+| Bailiff | 1.00% | ~8,600 |
+| Chivalrous Soul | 1.00% | ~8,600 |
+| Spoilsport | 1.00% | ~8,600 |
+| Freud | 1.00% | ~8,600 |
+| Gambler | 1.00% | ~8,600 |
+| Master Huntsman | 1.00% | ~8,600 |
+| Stealth Killer | 1.00% | ~8,600 |
+| Tracker | 1.00% | ~8,600 |
+| David Horak | 0.80% | ~6,880 |
+| Mercenary's Honour | 0.80% | ~6,880 |
+| Saviour | 0.80% | ~6,880 |
+| Fighter | 0.70% | ~6,020 |
+| Edward Kelly | 0.60% | ~5,160 |
+| I Can Quit Anytime | 0.50% | ~4,300 |
+| Perfectionist | 0.50% | ~4,300 |
+| Alcoholic | 0.30% | ~2,580 |
+| Friends without benefits | 0.30% | ~2,580 |
+| Sniper | 0.30% | ~2,580 |
+| Angel of Mercy | 0.20% | ~1,720 |
+| Christian Burial | 0.20% | ~1,720 |
+| Game Over | 0.20% | ~1,720 |
+| Not-so-Christian Burial | 0.20% | ~1,720 |
+| True Friend | 0.20% | ~1,720 |
+| Wingman | 0.20% | ~1,720 |
+| Bad Girl | 0.10% | ~860 |
+| Cleric's pet | 0.10% | ~860 |
+| Full House Sinner | 0.10% | ~860 |
+| Lord Capon's Ghost | 0.10% | ~860 |
+| Hardcore Henry | 0.10% | ~860 |
+| Infernal Justice | 0.10% | ~860 |
+| Judas | 0.10% | ~860 |
+| Like a Ghost | 0.10% | ~860 |
+| Lost Trinket | 0.10% | ~860 |
+| Merciful | 0.10% | ~860 |
+| You had one job! | 0.10% | ~860 |
+| Pilgrim | 0.10% | ~860 |
+| Pinky Promis | 0.10% | ~860 |
+| Ledetchko Revenant | 0.10% | ~860 |
+| 'Tis but a scratch | 0.10% | ~860 |
+| Torturer | 0.10% | ~860 |
+| Trial-And-Error | 0.10% | ~860 |
+| Virgin | 0.10% | ~860 |
+| Voyeur | 0.10% | ~860 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 852,298 (Ranked 26)  
-Completed: 63 (0.01%) (Ranked 503)  
+Progressed: 859,984 (Ranked 26)  
+Completed: 67 (0.01%) (Ranked 524)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -376,6 +376,7 @@ Completed: 63 (0.01%) (Ranked 503)
 | 2024-03-21 | 828,671 | 57 |
 | 2024-04-10 | 832,015 | 58 |
 | 2024-06-17 | 852,298 | 63 |
+| 2024-08-09 | 859,984 | 67 |
 ## Awards
 Max (Character Customization): 8,687  (Ranked 66)  
 Sum: 31,713 (Ranked 56)  

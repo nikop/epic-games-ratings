@@ -2,10 +2,10 @@
   "ID": "a64669daa91845c094bd01c537658db2",
   "Name": "Hero of the Kingdom III",
   "ProductSlug": "hero-of-the-kingdom-iii-03147d",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-12T11:00:00+00:00",
     "PcReleaseDate": "2018-08-30T16:00:00+00:00",
@@ -499,8 +499,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:09.3461266+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:09.3449977+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:42.6316822+00:00",
   "LastUpdate_AppInfo": "2024-08-09T10:57:11.0242274+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:06.2800276+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:09.3781884+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:09.8341831+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:42.631723+00:00"
 }

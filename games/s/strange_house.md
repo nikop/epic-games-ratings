@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nice Glass | 26.00% | ~18 |
-| Alcoholic | 23.00% | ~16 |
-| Underground | 23.00% | ~16 |
-| Lost Cat | 19.00% | ~13 |
-| Chapter 1 | 17.00% | ~12 |
-| Piglet | 17.00% | ~12 |
+| Nice Glass | 24.00% | ~18 |
+| Alcoholic | 21.00% | ~16 |
+| Underground | 21.00% | ~16 |
+| Piglet | 17.00% | ~13 |
+| Lost Cat | 17.00% | ~13 |
+| Chapter 1 | 16.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70 (Ranked 696)  
-Completed: 3 (4.29%) (Ranked 130)  
+Progressed: 75 (Ranked 720)  
+Completed: 3 (4.00%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,3 +57,4 @@ Completed: 3 (4.29%) (Ranked 130)
 | 2024-03-21 | 60 | 1 |
 | 2024-04-10 | 64 | 2 |
 | 2024-06-17 | 70 | 3 |
+| 2024-08-09 | 75 | 3 |

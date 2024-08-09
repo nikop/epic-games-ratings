@@ -4,11 +4,11 @@
   "ProductSlug": "infinifactory-ec9686",
   "Ranking_Rating": 573,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 416,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_PopularitySum": 417,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-01-25T16:00:00+00:00",
     "PcReleaseDate": "2015-06-30T07:00:00+00:00",
@@ -1252,8 +1252,8 @@
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
   "LastChanged": "2024-08-08T23:01:27.2027671+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:05:15.3970989+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:17.317283+00:00",
   "LastUpdate_AppInfo": "2024-08-09T06:57:19.4722665+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:44.4354741+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:05:15.3971022+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:18.2002582+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:17.3172856+00:00"
 }

@@ -4,61 +4,63 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 83.00% | ~391 |
-| First Blood | 66.00% | ~311 |
-| Triple Kill | 65.00% | ~306 |
-| No Asperascope | 59.00% | ~278 |
-| Aspairagus | 58.00% | ~244 |
-| Cornivore | 54.00% | ~254 |
-| Survivor | 54.00% | ~227 |
-| I Believe I Can Fly | 50.00% | ~236 |
-| No Diggity | 45.00% | ~189 |
-| Early Survivor | 36.00% | ~152 |
-| Bouncemato | 32.00% | ~135 |
-| 10K | 26.00% | ~122 |
-| Amateur Survivor | 25.00% | ~105 |
-| Grave Digger | 24.00% | ~101 |
-| 15K | 23.00% | ~108 |
-| Quick-Draw Pod | 22.00% | ~93 |
-| Drinking Problem | 21.00% | ~99 |
-| Pork Chop Express | 21.00% | ~99 |
-| Getting Started | 17.00% | ~80 |
-| Skin Of Your Teeth | 17.00% | ~80 |
-| Eggtraordinary | 17.00% | ~80 |
-| Carrocketeer | 17.00% | ~80 |
-| Professional Survivor | 17.00% | ~72 |
-| This Is My Boomstick | 17.00% | ~72 |
-| Summers Here | 14.00% | ~59 |
-| Oh My Gourd | 13.00% | ~55 |
-| Perfect | 13.00% | ~55 |
-| Quit Horsin' Around | 11.00% | ~52 |
-| Quadsparagus | 11.00% | ~46 |
-| Fresh Pancake | 10.00% | ~47 |
-| Bring Home The Bacon | 9.00% | ~42 |
-| Expert Survivor | 7.00% | ~29 |
-| Chick Magnet | 6.00% | ~28 |
-| I Have The High Ground | 6.00% | ~28 |
-| Early Bird | 6.00% | ~28 |
-| Pyromaniac | 5.00% | ~21 |
+| Seeds of War | 84.00% | ~409 |
+| First Blood | 67.00% | ~326 |
+| Triple Kill | 65.00% | ~317 |
+| No Asperascope | 60.00% | ~292 |
+| Aspairagus | 58.00% | ~253 |
+| Survivor | 55.00% | ~240 |
+| Cornivore | 53.00% | ~258 |
+| I Believe I Can Fly | 49.00% | ~239 |
+| No Diggity | 45.00% | ~197 |
+| Early Survivor | 36.00% | ~157 |
+| Bouncemato | 32.00% | ~140 |
+| 10K | 26.00% | ~127 |
+| Amateur Survivor | 26.00% | ~114 |
+| Grave Digger | 24.00% | ~105 |
+| 15K | 23.00% | ~112 |
+| Drinking Problem | 22.00% | ~107 |
+| Quick-Draw Pod | 21.00% | ~92 |
+| Pork Chop Express | 20.00% | ~97 |
+| Getting Started | 17.00% | ~83 |
+| Skin Of Your Teeth | 17.00% | ~83 |
+| Eggtraordinary | 17.00% | ~83 |
+| Carrocketeer | 17.00% | ~83 |
+| This Is My Boomstick | 17.00% | ~74 |
+| Professional Survivor | 16.00% | ~70 |
+| Perfect | 14.00% | ~61 |
+| Summers Here | 14.00% | ~61 |
+| Oh My Gourd | 13.00% | ~57 |
+| Quit Horsin' Around | 12.00% | ~58 |
+| Quadsparagus | 11.00% | ~48 |
+| Fresh Pancake | 10.00% | ~49 |
+| Bring Home The Bacon | 9.00% | ~44 |
+| Expert Survivor | 7.00% | ~31 |
+| Chick Magnet | 6.00% | ~29 |
+| I Have The High Ground | 6.00% | ~29 |
+| Early Bird | 6.00% | ~29 |
+| Pyromaniac | 5.00% | ~22 |
 | Heart Breaker | 4.00% | ~17 |
-| Honk Honk | 3.00% | ~14 |
-| 15 Days | 2.00% | ~9 |
-| Pro Shotgunner | 2.00% | ~9 |
-| Master Survivor | 2.00% | ~8 |
-| Easy Peasy | 2.00% | ~8 |
+| Honk Honk | 3.00% | ~15 |
+| 15 Days | 2.00% | ~10 |
+| Pro Shotgunner | 2.00% | ~10 |
+| Master Survivor | 2.00% | ~9 |
+| Easy Peasy | 2.00% | ~9 |
 | Pro Carrocketeer | 1.00% | ~5 |
 | Pro Sniperagus | 1.00% | ~5 |
 | Tomassacred | 1.00% | ~4 |
 | Graveside Survivor | 0.80% | ~4 |
 | King of the Crow | 0.80% | ~3 |
+| Darkside Survivor | 0.60% | ~3 |
 | Forestside Survivor | 0.60% | ~3 |
 | Pro Pyromancer | 0.60% | ~3 |
 | Pro Meloneer | 0.60% | ~3 |
 | Death From Above | 0.60% | ~3 |
 | 30 Days | 0.40% | ~2 |
 | Unstoppable | 0.40% | ~2 |
-| Darkside Survivor | 0.20% | ~1 |
-| Berry Loved | 0.20% | ~1 |
+| Berry Loved | 0.40% | ~2 |
+| Pro Digger | 0.20% | ~1 |
+| Gnome Thief | 0.20% | ~1 |
 | Carrocket From Above | 0.20% | ~1 |
 | Heal Me Peas | 0.20% | ~1 |
 | Hardcore Parkour | 0.00% | ~0 |
@@ -70,8 +72,6 @@
 | Pro Pineappler | 0.00% | ~0 |
 | Pro Moolotover | 0.00% | ~0 |
 | Pro Peavolver | 0.00% | ~0 |
-| Pro Digger | 0.00% | ~0 |
-| Gnome Thief | 0.00% | ~0 |
 | Pum-King | 0.00% | ~0 |
 | First Place | 0.00% | ~0 |
 | Prestige 2 - Country Bumpkin | 0.00% | ~0 |
@@ -79,8 +79,8 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 471 (Ranked 460)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 487 (Ranked 469)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,6 +257,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 429 | 0 |
 | 2024-04-10 | 440 | 0 |
 | 2024-06-17 | 471 | 0 |
+| 2024-08-09 | 487 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

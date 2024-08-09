@@ -2,10 +2,10 @@
   "ID": "37c7383b38294eeaa49c2c2139cb3807",
   "Name": "AneeMate",
   "ProductSlug": "aneemate-896b7e",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T17:57:28.7961601+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:48.5769233+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:35.2327796+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:36.4978764+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:07.2319231+00:00"
 }

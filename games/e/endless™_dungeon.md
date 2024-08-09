@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 67.00% | ~1,372 |
-| Getting the Hang of It | 41.00% | ~840 |
-| Hoarder | 33.00% | ~676 |
-| Pest Control | 29.00% | ~594 |
-| Blobmeister | 27.00% | ~553 |
-| Exhaustive Explorer | 26.00% | ~532 |
-| How Low Can We Go? | 25.00% | ~512 |
-| Team Builder | 20.00% | ~410 |
-| Long Live Rock | 17.00% | ~348 |
-| Aggressive Antivirus | 16.00% | ~328 |
-| Unblurred Lines | 13.00% | ~266 |
-| Effective Efficiency | 13.00% | ~266 |
-| Obsessively Thorough | 12.00% | ~246 |
-| Endlessly Effective | 12.00% | ~246 |
+| Leap Before You Look | 67.00% | ~1,377 |
+| Getting the Hang of It | 41.00% | ~843 |
+| Hoarder | 33.00% | ~678 |
+| Pest Control | 29.00% | ~596 |
+| Blobmeister | 27.00% | ~555 |
+| Exhaustive Explorer | 26.00% | ~534 |
+| How Low Can We Go? | 25.00% | ~514 |
+| Team Builder | 20.00% | ~411 |
+| Long Live Rock | 17.00% | ~349 |
+| Aggressive Antivirus | 16.00% | ~329 |
+| Unblurred Lines | 13.00% | ~267 |
+| Effective Efficiency | 13.00% | ~267 |
+| Obsessively Thorough | 12.00% | ~247 |
+| Endlessly Effective | 12.00% | ~247 |
 | What's Behind Every Door? | 6.00% | ~123 |
-| No Stone Unturned | 5.00% | ~102 |
+| No Stone Unturned | 5.00% | ~103 |
 | Turret Syndrome | 2.00% | ~41 |
-| Endless Biographer | 1.00% | ~20 |
-| All Your Secrets Are Belong to Us | 1.00% | ~20 |
+| Endless Biographer | 1.00% | ~21 |
+| All Your Secrets Are Belong to Us | 1.00% | ~21 |
 | Grab 'Em All | 0.40% | ~8 |
 | Unnaturally Curious | 0.10% | ~2 |
 | Starting an Endless Story | 0.00% | ~0 |
@@ -35,8 +35,8 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,048 (Ranked 338)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,055 (Ranked 349)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,3 +146,4 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-06-17 | 1,978 | 0 |
 | 2024-07-25 | 2,044 | 0 |
 | 2024-07-30 | 2,048 | 0 |
+| 2024-08-09 | 2,055 | 0 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 1251,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 469,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Completed": 487,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -221,7 +221,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3137,
+  "EOS_Progressed": 3419,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -9116,6 +9116,11 @@
       "Time": "2024-06-17T16:12:25.9512229+00:00",
       "NumProgressed": 3137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-09T18:03:33.8840924+00:00",
+      "NumProgressed": 3419,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -9127,15 +9132,15 @@
       "Name": "Know The Enemy",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 282
+      "UsersEstimate": 308
     },
     {
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 342
     },
     {
       "ID": "ach_defeat_players_10",
@@ -9143,7 +9148,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 376
     },
     {
       "ID": "ach_defeat_players_100",
@@ -9151,7 +9156,7 @@
       "Name": "Player Betrayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 251
+      "UsersEstimate": 274
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -9159,7 +9164,7 @@
       "Name": "Gold Achiever",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -9191,7 +9196,7 @@
       "Name": "Silver Competitor",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 376
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -9199,7 +9204,7 @@
       "Name": "Silver Achiever",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 308
     },
     {
       "ID": "objective_headquarters_10",
@@ -9207,7 +9212,7 @@
       "Name": "Keeping Busy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 376
+      "UsersEstimate": 410
     },
     {
       "ID": "objective_headquarters_15",
@@ -9215,7 +9220,7 @@
       "Name": "Moving On Up",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 282
+      "UsersEstimate": 308
     },
     {
       "ID": "objective_headquarters_20",
@@ -9223,23 +9228,23 @@
       "Name": "Advanced Warfare",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 188
+      "UsersEstimate": 205
     },
     {
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 752
     },
     {
       "ID": "objective_hero_level_up_1",
       "SetID": "bm61c2p",
       "Name": "Corporal",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 581
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -9247,15 +9252,15 @@
       "Name": "Sergeant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 479
     },
     {
       "ID": "objective_hero_level_up_3",
       "SetID": "bm61c2p",
       "Name": "Lieutenant",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 410
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -9263,7 +9268,7 @@
       "Name": "Captain",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 345
+      "UsersEstimate": 376
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -9271,7 +9276,7 @@
       "Name": "Major",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 274
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -9279,7 +9284,7 @@
       "Name": "Colonel",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 205
     },
     {
       "ID": "objective_hero_level_up_7",
@@ -9287,7 +9292,7 @@
       "Name": "General",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_key_alliance_help_2",
@@ -9295,31 +9300,31 @@
       "Name": "Brothers in Arms",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 308
     },
     {
       "ID": "objective_key_alliance_join_1",
       "SetID": "bm61c2p",
       "Name": "It\u0027s Good to have Allies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 941
+      "UsersEstimate": 992
     },
     {
       "ID": "objective_key_contest_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Covert Operative",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 479
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
       "SetID": "bm61c2p",
       "Name": "Getting Deployment",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 410
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -9327,13 +9332,13 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 376
     },
@@ -9343,15 +9348,15 @@
       "Name": "Resourceful",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 239
     },
     {
       "ID": "objective_key_objectives_completed_2",
       "SetID": "bm61c2p",
       "Name": "On Target",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 408
+      "UsersEstimate": 410
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -9359,7 +9364,7 @@
       "Name": "Battle Ready",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 171
     },
     {
       "ID": "objective_multiple_barracks_1",
@@ -9367,7 +9372,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 410
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -9375,7 +9380,7 @@
       "Name": "Factory Expansion",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 376
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -9383,7 +9388,7 @@
       "Name": "Defenses Online",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 847
+      "UsersEstimate": 923
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -9391,7 +9396,7 @@
       "Name": "Advanced Interceptors",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
@@ -9399,7 +9404,7 @@
       "Name": "Titan Tanks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -9407,7 +9412,7 @@
       "Name": "Shock Troops",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 103
     },
     {
       "ID": "objective_research_unlock_light_infantry_tier_4",
@@ -9415,7 +9420,7 @@
       "Name": "Jet Troops",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "objective_upgrade_dropships_2",
@@ -9423,14 +9428,14 @@
       "Name": "Control the Skies",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 205
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 3137,
+      "Progressed": 3419,
       "Completed": 1
     }
   ],
@@ -9438,8 +9443,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-08-04T15:00:43.2141741+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:12:25.9512225+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:33.8840919+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:31.3153788+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:51.7868255+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:25.9512784+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:42.9924117+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:33.8841625+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4706bb0e4a72425c8fbeea69d63acf1f",
   "Name": "Valannia Arena",
   "ProductSlug": "valannia-arena-a56172",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-06-30T00:00:00+00:00",
     "PcReleaseDate": "2025-06-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T05:57:21.0469115+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:00.1887726+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:37.2827052+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:28.50271+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:14.4481801+00:00"
 }

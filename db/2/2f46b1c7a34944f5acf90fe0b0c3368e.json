@@ -2,10 +2,10 @@
   "ID": "2f46b1c7a34944f5acf90fe0b0c3368e",
   "Name": "Epic World - Hunt For Quest",
   "ProductSlug": "epic-world-hunt-for-quest-4500b1",
-  "Ranking_EOS_Progress": 986,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 976,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-12-07T18:30:00+00:00",
     "PcReleaseDate": "2019-06-20T18:30:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -42,6 +42,11 @@
       "Time": "2024-01-17T13:11:17.5978015+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:37.3047376+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T05:03:06.3410136+00:00",
@@ -52,7 +57,7 @@
       "ID": "epic_breaker",
       "SetID": "1ajjb7b",
       "Name": "The breaker of chains",
-      "Percentage": 33,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -60,7 +65,7 @@
       "ID": "epic_cameout",
       "SetID": "1ajjb7b",
       "Name": "Came out from hell",
-      "Percentage": 33,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -133,13 +138,13 @@
     {
       "ID": "1ajjb7b",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-03T05:03:06.3410136+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:13.1455392+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:37.304737+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:06.7075402+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:32.9054529+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:13.1455492+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:06.0012995+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:37.3047461+00:00"
 }

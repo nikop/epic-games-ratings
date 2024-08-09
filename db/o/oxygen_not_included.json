@@ -5,10 +5,10 @@
   "Ranking_Rating": 49,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 224,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
     "PcReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -3752,10 +3752,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2637,
       "NumberOfAwardsMax": 315
+    },
+    {
+      "Time": "2024-08-09T17:59:43.7980665+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2638,
+      "NumberOfAwardsMax": 315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2637,
+  "NumberOfAwards": 2638,
   "NumberOfAwardsMax": 315,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3805,7 +3811,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 262
+      "Count": 263
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3837,8 +3843,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-08-09T02:58:52.9994811+00:00",
+  "LastChanged": "2024-08-09T17:59:43.7980664+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:27.933307+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:48.8019166+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:39.38716+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:43.7980668+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:47.7877741+00:00"
 }

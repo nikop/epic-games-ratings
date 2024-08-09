@@ -1,62 +1,62 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.57 (Ranked 529)  
+Rating: 4.57 (Ranked 528)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~20,162 |
-| On the Top Step | 87.00% | ~18,862 |
-| Setting up for Success | 76.00% | ~16,477 |
-| Team Orders | 73.00% | ~15,826 |
-| Engineer | 51.00% | ~11,057 |
-| Familiar Faces | 47.00% | ~10,190 |
-| Hitting a Season | 42.00% | ~9,106 |
-| Sharing the Love | 42.00% | ~9,106 |
-| Going the Extra Mile | 41.00% | ~8,889 |
-| A Dozen Pieces | 34.00% | ~7,371 |
-| Challenge Yourself | 31.00% | ~6,721 |
-| Network Success | 30.00% | ~6,504 |
-| Making History | 30.00% | ~6,504 |
-| Writing a new Chapter | 24.00% | ~5,203 |
-| Spring Cleaning | 21.00% | ~4,553 |
-| Hitting a Bullseye | 20.00% | ~4,336 |
-| Reduce | 19.00% | ~4,119 |
-| Ups and Downs | 19.00% | ~4,119 |
-| Crucial Combo | 18.00% | ~3,902 |
-| Lightning Round the World | 18.00% | ~3,902 |
-| Proving Them Wrong | 17.00% | ~3,686 |
-| Oil and Water | 16.00% | ~3,469 |
-| Reuse | 16.00% | ~3,469 |
-| Gathering Dust | 15.00% | ~3,252 |
-| One for the Book | 15.00% | ~3,252 |
-| Eagle Eye | 14.00% | ~3,035 |
-| All in a Weekend's Work | 14.00% | ~3,035 |
-| Switcheroo | 14.00% | ~3,035 |
-| Spinning Around | 14.00% | ~3,035 |
-| Undisputed Winner | 13.00% | ~2,818 |
-| Friendly Competition | 13.00% | ~2,818 |
-| Tinkerer | 11.00% | ~2,385 |
-| Recycle | 10.00% | ~2,168 |
-| For all Those Back at the Factory | 9.00% | ~1,951 |
-| Hitting a Century | 7.00% | ~1,518 |
-| Smooth Operator | 7.00% | ~1,518 |
-| Living up to Expectations | 6.00% | ~1,301 |
-| Loyal Bond | 5.00% | ~1,084 |
-| Peak Performance | 5.00% | ~1,084 |
-| Seasoned Rookie | 4.00% | ~867 |
-| Wait, I know you? | 3.00% | ~650 |
-| Filling in the Gaps | 3.00% | ~650 |
-| Saturday Night Drama | 2.00% | ~434 |
-| Media Darling | 2.00% | ~434 |
-| Under the Microscope | 1.00% | ~217 |
-| Ultimate Collector | 0.80% | ~173 |
-| Golden Touch | 0.40% | ~87 |
+| Getting on the Step | 93.00% | ~20,413 |
+| On the Top Step | 87.00% | ~19,096 |
+| Setting up for Success | 77.00% | ~16,901 |
+| Team Orders | 74.00% | ~16,242 |
+| Engineer | 51.00% | ~11,194 |
+| Familiar Faces | 48.00% | ~10,536 |
+| Hitting a Season | 44.00% | ~9,658 |
+| Sharing the Love | 44.00% | ~9,658 |
+| Going the Extra Mile | 41.00% | ~8,999 |
+| A Dozen Pieces | 35.00% | ~7,682 |
+| Network Success | 31.00% | ~6,804 |
+| Challenge Yourself | 31.00% | ~6,804 |
+| Making History | 30.00% | ~6,585 |
+| Writing a new Chapter | 25.00% | ~5,487 |
+| Spring Cleaning | 22.00% | ~4,829 |
+| Hitting a Bullseye | 22.00% | ~4,829 |
+| Reduce | 20.00% | ~4,390 |
+| Crucial Combo | 19.00% | ~4,170 |
+| Lightning Round the World | 19.00% | ~4,170 |
+| Ups and Downs | 19.00% | ~4,170 |
+| Oil and Water | 17.00% | ~3,731 |
+| Reuse | 17.00% | ~3,731 |
+| Proving Them Wrong | 17.00% | ~3,731 |
+| Gathering Dust | 15.00% | ~3,292 |
+| All in a Weekend's Work | 15.00% | ~3,292 |
+| Spinning Around | 15.00% | ~3,292 |
+| One for the Book | 15.00% | ~3,292 |
+| Eagle Eye | 14.00% | ~3,073 |
+| Undisputed Winner | 14.00% | ~3,073 |
+| Friendly Competition | 14.00% | ~3,073 |
+| Switcheroo | 14.00% | ~3,073 |
+| Recycle | 11.00% | ~2,414 |
+| Tinkerer | 11.00% | ~2,414 |
+| For all Those Back at the Factory | 10.00% | ~2,195 |
+| Hitting a Century | 8.00% | ~1,756 |
+| Smooth Operator | 8.00% | ~1,756 |
+| Living up to Expectations | 6.00% | ~1,317 |
+| Loyal Bond | 5.00% | ~1,097 |
+| Peak Performance | 5.00% | ~1,097 |
+| Seasoned Rookie | 4.00% | ~878 |
+| Wait, I know you? | 3.00% | ~658 |
+| Filling in the Gaps | 3.00% | ~658 |
+| Saturday Night Drama | 2.00% | ~439 |
+| Media Darling | 2.00% | ~439 |
+| Under the Microscope | 1.00% | ~219 |
+| Ultimate Collector | 0.90% | ~198 |
+| Golden Touch | 0.40% | ~88 |
 | Shot in the Dark | 0.10% | ~22 |
 | Elite Racer | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,680 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 21,949 (Ranked 204)  
+Completed: 1 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -196,6 +196,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 20,681 | 0 |
 | 2024-04-10 | 21,009 | 0 |
 | 2024-06-17 | 21,680 | 0 |
+| 2024-08-09 | 21,949 | 1 |
 ## Awards
 Max (Diverse Characters): 295  (Ranked 306)  
 Sum: 1,788 (Ranked 260)  

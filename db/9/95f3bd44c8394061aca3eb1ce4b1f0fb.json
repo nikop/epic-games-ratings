@@ -2,10 +2,10 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 532,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 543,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
     "PcReleaseDate": "2020-05-15T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2024-07-30T00:04:36.2842786+00:00",
       "NumProgressed": 252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:34.0704363+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -860,7 +865,7 @@
       "Name": "Student",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CreateTemplate",
@@ -868,15 +873,15 @@
       "Name": "Creator",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FourPlayers",
       "SetID": "9ajogia",
       "Name": "Socialite",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "NotPermitted",
@@ -890,23 +895,23 @@
       "ID": "WithFriend",
       "SetID": "9ajogia",
       "Name": "Friendship",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 55
+      "UsersEstimate": 63
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2024-07-30T00:04:36.2842781+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:34.0704361+00:00",
   "LastUpdate_AppInfo": "2024-08-03T04:57:39.8771529+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:13.235652+00:00",
-  "LastUpdate_Achievements": "2024-07-30T00:04:36.284296+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:37.0204289+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:34.0704482+00:00"
 }

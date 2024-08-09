@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Will This Help? | 78.00% | ~362 |
-| Career Woman | 67.00% | ~311 |
-| No One Is Safe | 64.00% | ~297 |
-| Deal Or No Deal | 52.00% | ~241 |
-| He's Off His Meds | 51.00% | ~237 |
-| Impress Theron | 47.00% | ~218 |
-| Personal Life | 42.00% | ~195 |
-| On Your Bike | 26.00% | ~121 |
-| Save Dad | 24.00% | ~111 |
-| A Little Extra | 18.00% | ~84 |
-| Unhelpful | 13.00% | ~60 |
-| The Marriage Is Off | 12.00% | ~56 |
-| Pearce | 11.00% | ~51 |
-| Use Your Connections | 10.00% | ~46 |
-| Horrific | 7.00% | ~32 |
-| Hopeful | 5.00% | ~23 |
-| Shady Truth | 5.00% | ~23 |
+| Will This Help? | 78.00% | ~383 |
+| Career Woman | 67.00% | ~329 |
+| No One Is Safe | 64.00% | ~314 |
+| Deal Or No Deal | 52.00% | ~255 |
+| He's Off His Meds | 51.00% | ~250 |
+| Impress Theron | 46.00% | ~226 |
+| Personal Life | 42.00% | ~206 |
+| On Your Bike | 26.00% | ~128 |
+| Save Dad | 24.00% | ~118 |
+| A Little Extra | 18.00% | ~88 |
+| The Marriage Is Off | 13.00% | ~64 |
+| Unhelpful | 13.00% | ~64 |
+| Pearce | 11.00% | ~54 |
+| Use Your Connections | 10.00% | ~49 |
+| Horrific | 8.00% | ~39 |
+| Hopeful | 5.00% | ~25 |
+| Shady Truth | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464 (Ranked 464)  
-Completed: 8 (1.72%) (Ranked 192)  
+Progressed: 491 (Ranked 468)  
+Completed: 11 (2.24%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,6 +131,7 @@ Completed: 8 (1.72%) (Ranked 192)
 | 2024-04-10 | 387 | 7 |
 | 2024-05-13 | 403 | 7 |
 | 2024-06-17 | 464 | 8 |
+| 2024-08-09 | 491 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

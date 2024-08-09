@@ -6,43 +6,44 @@ Number of Ratings: 276  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome Paladin | 18.00% | ~1,830 |
-| Apprentice Blacksmith | 14.00% | ~1,423 |
-| Pachi Master | 10.00% | ~1,016 |
-| Reversed High Priestess | 10.00% | ~1,016 |
-| Gore Slayer | 9.00% | ~915 |
-| Victory Laps | 9.00% | ~915 |
-| Master Blacksmith | 8.00% | ~813 |
-| Matryoshka Masher | 8.00% | ~813 |
-| Ritual Magi | 7.00% | ~711 |
-| Bloodbat Butcher | 6.00% | ~610 |
-| Iron Maiden | 5.00% | ~508 |
-| Legendary Blacksmith | 5.00% | ~508 |
-| Number of the Beast | 5.00% | ~508 |
-| Army of Darkness | 4.00% | ~407 |
-| Ever Burning Sulfur | 4.00% | ~407 |
-| Ritual Seer | 4.00% | ~407 |
-| Master of Hermits | 3.00% | ~305 |
-| Candlelight Vigil | 2.00% | ~203 |
-| The Eighth House | 2.00% | ~203 |
-| A Dark Ritual, HERMIT | 2.00% | ~203 |
-| Ritual Warlock | 2.00% | ~203 |
-| Eyeball Expunger | 1.00% | ~102 |
-| A Dark Ritual, ZODIAC | 1.00% | ~102 |
-| If You Ain’t Tilting you Ain’t Trying | 1.00% | ~102 |
-| Billionaire's Club | 0.80% | ~81 |
-| A Dark Ritual, ARCANE | 0.80% | ~81 |
-| I Am Providence | 0.70% | ~71 |
-| WIZARD MODE | 0.50% | ~51 |
-| You Say Homonculus, I Say Homonculi | 0.10% | ~10 |
+| Welcome Paladin | 44.00% | ~6,658 |
+| Apprentice Blacksmith | 31.00% | ~4,691 |
+| Pachi Master | 22.00% | ~3,329 |
+| Reversed High Priestess | 21.00% | ~3,178 |
+| Gore Slayer | 19.00% | ~2,875 |
+| Victory Laps | 19.00% | ~2,875 |
+| Master Blacksmith | 18.00% | ~2,724 |
+| Matryoshka Masher | 16.00% | ~2,421 |
+| Ritual Magi | 14.00% | ~2,118 |
+| Bloodbat Butcher | 13.00% | ~1,967 |
+| Iron Maiden | 10.00% | ~1,513 |
+| Number of the Beast | 10.00% | ~1,513 |
+| Legendary Blacksmith | 9.00% | ~1,362 |
+| Ritual Seer | 9.00% | ~1,362 |
+| Army of Darkness | 8.00% | ~1,210 |
+| Ever Burning Sulfur | 8.00% | ~1,210 |
+| Master of Hermits | 7.00% | ~1,059 |
+| Ritual Warlock | 5.00% | ~757 |
+| Candlelight Vigil | 3.00% | ~454 |
+| The Eighth House | 3.00% | ~454 |
+| Eyeball Expunger | 3.00% | ~454 |
+| A Dark Ritual, HERMIT | 3.00% | ~454 |
+| A Dark Ritual, ZODIAC | 2.00% | ~303 |
+| If You Ain’t Tilting you Ain’t Trying | 2.00% | ~303 |
+| Billionaire's Club | 1.00% | ~151 |
+| I Am Providence | 1.00% | ~151 |
+| A Dark Ritual, ARCANE | 1.00% | ~151 |
+| WIZARD MODE | 0.80% | ~121 |
+| You Say Homonculus, I Say Homonculi | 0.20% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,164 (Ranked 232)  
-Completed: 12 (0.12%) (Ranked 400)  
+Progressed: 15,131 (Ranked 229)  
+Completed: 17 (0.11%) (Ranked 426)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 753 | 3 |
 | 2024-06-17 | 10,164 | 12 |
+| 2024-08-09 | 15,131 | 17 |
 ## Awards
 Max (Great for Quick Sessions): 29  (Ranked 617)  
 Sum: 29 (Ranked 640)  

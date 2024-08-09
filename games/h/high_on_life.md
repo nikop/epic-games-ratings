@@ -5,44 +5,44 @@ Rating: 4.66 (Ranked 326)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Bounty Down | 9.00% | ~2,313 |
-| Satisfied Gus-tomer | 8.00% | ~2,056 |
-| Sweezy Like Sunday Morning | 8.00% | ~2,056 |
-| G3 Graduation | 8.00% | ~2,056 |
-| Cold-Blooded Driller | 8.00% | ~2,056 |
-| Are You Packin'? | 7.00% | ~1,799 |
-| Bring A Knife to a Gun Fight | 7.00% | ~1,799 |
-| We're All Very Impressed, Trust Me | 7.00% | ~1,799 |
-| Don't Knife The Hand That Feeds | 7.00% | ~1,799 |
-| Creature Feature | 6.00% | ~1,542 |
-| RIP Davey Glutes | 6.00% | ~1,542 |
-| Hardest Battle In The Game | 6.00% | ~1,542 |
-| Who's The Boss? | 6.00% | ~1,542 |
-| Fallout Doesn't Let You Do This | 6.00% | ~1,542 |
-| Lezduit! | 4.00% | ~1,028 |
-| Eye Scream, You Scream | 4.00% | ~1,028 |
-| Legendary Bounty Hunter | 4.00% | ~1,028 |
-| Self-Actualization | 4.00% | ~1,028 |
-| Spent 15 Hours At The Alien Strip Club | 4.00% | ~1,028 |
-| Series Wrap on Suit-O | 4.00% | ~1,028 |
-| Eatin' Good in the Neighborhood | 3.00% | ~771 |
-| Gunning For Your Job | 2.00% | ~514 |
-| We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~514 |
-| Bathe With A Giant Nude Alien | 2.00% | ~60 |
-| Mux Ado About Shipping | 1.00% | ~30 |
-| We Came, We Chainsaw, We Conquered | 1.00% | ~30 |
-| Carried Stan's Load To Completion | 0.80% | ~206 |
-| Fall In Love With A Parasite | 0.80% | ~24 |
-| Sequel-Bait | 0.70% | ~180 |
-| A Starfish Is Born | 0.50% | ~129 |
-| Playing Favorites | 0.50% | ~129 |
+| Satisfied Gus-tomer | 9.00% | ~2,326 |
+| First Bounty Down | 9.00% | ~2,326 |
+| Cold-Blooded Driller | 9.00% | ~2,326 |
+| Are You Packin'? | 8.00% | ~2,067 |
+| Bring A Knife to a Gun Fight | 8.00% | ~2,067 |
+| Sweezy Like Sunday Morning | 8.00% | ~2,067 |
+| We're All Very Impressed, Trust Me | 8.00% | ~2,067 |
+| G3 Graduation | 8.00% | ~2,067 |
+| Don't Knife The Hand That Feeds | 8.00% | ~2,067 |
+| Creature Feature | 7.00% | ~1,809 |
+| Who's The Boss? | 7.00% | ~1,809 |
+| RIP Davey Glutes | 6.00% | ~1,550 |
+| Hardest Battle In The Game | 6.00% | ~1,550 |
+| Fallout Doesn't Let You Do This | 6.00% | ~1,550 |
+| Lezduit! | 5.00% | ~1,292 |
+| Legendary Bounty Hunter | 5.00% | ~1,292 |
+| Self-Actualization | 5.00% | ~1,292 |
+| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,292 |
+| Eye Scream, You Scream | 4.00% | ~1,034 |
+| Series Wrap on Suit-O | 4.00% | ~1,034 |
+| Eatin' Good in the Neighborhood | 3.00% | ~775 |
+| Gunning For Your Job | 2.00% | ~517 |
+| We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~517 |
+| Bathe With A Giant Nude Alien | 2.00% | ~63 |
+| Mux Ado About Shipping | 1.00% | ~31 |
+| We Came, We Chainsaw, We Conquered | 1.00% | ~31 |
+| Carried Stan's Load To Completion | 0.90% | ~233 |
+| Fall In Love With A Parasite | 0.80% | ~25 |
+| Sequel-Bait | 0.70% | ~181 |
+| A Starfish Is Born | 0.60% | ~155 |
+| Playing Favorites | 0.60% | ~155 |
 | Epic Legendary Prize | 0.40% | ~103 |
-| Meet Frasier from Frasier | 0.40% | ~12 |
-| Mods Please Ban | 0.30% | ~77 |
-| Luglox Genocide | 0.30% | ~77 |
+| Meet Frasier from Frasier | 0.40% | ~13 |
+| Mods Please Ban | 0.30% | ~78 |
+| Luglox Genocide | 0.30% | ~78 |
 | Give Away All Your Money | 0.30% | ~9 |
-| Playing Card To Get | 0.20% | ~51 |
-| Seeing All The Sights | 0.20% | ~51 |
+| Playing Card To Get | 0.20% | ~52 |
+| Seeing All The Sights | 0.20% | ~52 |
 | It's Like The Santa Clause | 0.20% | ~6 |
 | That's B.A.L.L., Folks | 0.10% | ~3 |
 | Cardbored | 0.10% | ~3 |
@@ -50,8 +50,8 @@ Rating: 4.66 (Ranked 326)
 | Porch Pirate | 0.10% | ~3 |
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,705 (Ranked 184)  
-Completed: 15 (0.06%) (Ranked 440)  
+Progressed: 25,839 (Ranked 193)  
+Completed: 15 (0.06%) (Ranked 459)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,6 +335,7 @@ Completed: 15 (0.06%) (Ranked 440)
 | 2024-03-21 | 25,416 | 14 |
 | 2024-04-10 | 25,541 | 14 |
 | 2024-06-17 | 25,705 | 15 |
+| 2024-08-09 | 25,839 | 15 |
 ## Awards
 Max (Unique Visuals): 20  (Ranked 675)  
 Sum: 20 (Ranked 676)  

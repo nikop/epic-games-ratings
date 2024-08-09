@@ -2,10 +2,10 @@
   "ID": "d51a89fa65574cba9d7c13ec3c899a1a",
   "Name": "Tales of Monkey Island - Chapter 2",
   "ProductSlug": "tales-of-monkey-island-chapter-2-232d83",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-07-07T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T20:57:12.3941142+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:14.3505019+00:00",
-  "LastUpdate_Achievements": "2024-07-09T22:03:03.8555155+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:08.438457+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:23.3873591+00:00"
 }

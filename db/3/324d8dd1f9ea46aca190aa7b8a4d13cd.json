@@ -2,10 +2,10 @@
   "ID": "324d8dd1f9ea46aca190aa7b8a4d13cd",
   "Name": "The Rusty Sword: Vanguard Island",
   "ProductSlug": "the-rusty-sword-vanguard-island-704cbe",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-01-10T17:00:00+00:00",
     "PcReleaseDate": "2022-05-02T04:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-12T16:58:10.7543217+00:00",
   "LastUpdate_AppInfo": "2024-08-08T06:57:13.490684+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:21.1026155+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:02:22.199175+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:17.4512805+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:53.9962839+00:00"
 }

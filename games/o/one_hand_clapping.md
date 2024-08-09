@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent City | 32.00% | ~350 |
+| Silent City | 33.00% | ~364 |
 | Duet Desert | 6.00% | ~66 |
 | Fermata | 5.00% | ~55 |
-| Cadenza | 3.00% | ~33 |
+| Cadenza | 4.00% | ~44 |
+| Staccato | 3.00% | ~33 |
 | Maestro Mountain | 3.00% | ~33 |
 | Tempo | 2.00% | ~22 |
-| Staccato | 2.00% | ~22 |
 | Fugue Forest | 2.00% | ~22 |
 | Cadence | 2.00% | ~22 |
 | Coda Cave | 1.00% | ~11 |
@@ -18,8 +18,8 @@
 | Silent City: Reprise | 1.00% | ~11 |
 | Maestro Mountain Glyph | 0.70% | ~8 |
 | Coda Cave Glyph | 0.60% | ~7 |
-| Antiphony | 0.50% | ~5 |
-| Silent City Glyph | 0.50% | ~5 |
+| Antiphony | 0.50% | ~6 |
+| Silent City Glyph | 0.50% | ~6 |
 | Symphony | 0.40% | ~4 |
 | Musica Universalis | 0.30% | ~3 |
 | Fugue Forest Glyph | 0.30% | ~3 |
@@ -33,8 +33,8 @@
 | Tritone | 0.10% | ~1 |
 | Ostinato | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,095 (Ranked 385)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1,102 (Ranked 397)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -136,6 +136,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 1,032 | 0 |
 | 2024-04-10 | 1,040 | 0 |
 | 2024-06-17 | 1,095 | 0 |
+| 2024-08-09 | 1,102 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

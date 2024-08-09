@@ -5,66 +5,66 @@ Rating: 4.27 (Ranked 1,020)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,457 |
-| Don't I Know You...? | 74.00% | ~2,331 |
-| Jailbreak | 63.00% | ~1,984 |
-| HEADSHOT! | 37.00% | ~1,166 |
-| Suited and Booted | 36.00% | ~1,134 |
-| Sleeping With The Fishes | 34.00% | ~1,071 |
-| Overheated | 29.00% | ~913 |
-| High Performance | 29.00% | ~913 |
-| Powered Up | 27.00% | ~850 |
-| Studied The Blade | 24.00% | ~756 |
-| Home Invasion | 22.00% | ~693 |
-| Luminary | 22.00% | ~693 |
-| True Survivor | 21.00% | ~662 |
-| It's a Trap | 21.00% | ~662 |
-| Shocking | 20.00% | ~630 |
-| Court Martial | 19.00% | ~598 |
-| Offensive Defense | 19.00% | ~598 |
-| Unforeseeable Consequences | 19.00% | ~598 |
-| Clean Cut | 18.00% | ~567 |
-| Dead Again | 17.00% | ~536 |
-| Full Arsenal | 17.00% | ~536 |
-| Can't Trust Banks | 15.00% | ~472 |
-| Mommy Dearest | 14.00% | ~441 |
-| Bad Dog | 13.00% | ~410 |
-| Where It All Began | 13.00% | ~410 |
-| Risk Tolerant | 13.00% | ~410 |
-| What A Catchy Song | 13.00% | ~410 |
-| Corrupted Beauty | 12.00% | ~378 |
-| Marked For Success | 12.00% | ~378 |
-| Sorry, Didn't See You There | 12.00% | ~378 |
-| Stimulating The Local Economy | 10.00% | ~315 |
-| Triplets | 10.00% | ~315 |
-| Denying Prophecy | 9.00% | ~284 |
-| A Little Banged Up | 8.00% | ~252 |
-| Following In Their Footsteps | 8.00% | ~252 |
-| Defense in Depth | 8.00% | ~252 |
-| Reverse Engineering | 7.00% | ~221 |
-| Reborn | 6.00% | ~189 |
-| Remote Surgery | 6.00% | ~189 |
-| Turbo Booster | 6.00% | ~189 |
-| Juiced Up | 6.00% | ~189 |
-| Squid Pro Quo | 6.00% | ~189 |
-| Hello Darkness My Old Friend | 5.00% | ~158 |
-| Counter-Sniper | 5.00% | ~158 |
-| Shrimp Cocktail | 5.00% | ~158 |
-| Plank of Wood | 5.00% | ~158 |
-| Geronimo! | 4.00% | ~126 |
-| Homewrecker | 4.00% | ~126 |
-| It Lives! It Sniffs! It Conquers! | 3.00% | ~94 |
-| Gotta Craft 'em All | 3.00% | ~94 |
-| Own Medicine | 2.00% | ~63 |
-| Box Office Smash | 2.00% | ~63 |
-| Going Postal | 2.00% | ~63 |
-| Loot, Pillage & Craft | 2.00% | ~63 |
-| Swiss Army Drone | 1.00% | ~32 |
-| Three Birds With One Stone | 1.00% | ~32 |
-| The Easy Way Out | 1.00% | ~32 |
+| Rigged And Ready | 77.00% | ~2,539 |
+| Don't I Know You...? | 73.00% | ~2,408 |
+| Jailbreak | 62.00% | ~2,045 |
+| HEADSHOT! | 37.00% | ~1,220 |
+| Suited and Booted | 36.00% | ~1,187 |
+| Sleeping With The Fishes | 34.00% | ~1,121 |
+| Overheated | 29.00% | ~956 |
+| High Performance | 29.00% | ~956 |
+| Powered Up | 27.00% | ~890 |
+| Studied The Blade | 24.00% | ~792 |
+| Home Invasion | 22.00% | ~726 |
+| Luminary | 22.00% | ~726 |
+| True Survivor | 21.00% | ~693 |
+| It's a Trap | 21.00% | ~693 |
+| Shocking | 20.00% | ~660 |
+| Court Martial | 19.00% | ~627 |
+| Offensive Defense | 19.00% | ~627 |
+| Unforeseeable Consequences | 19.00% | ~627 |
+| Clean Cut | 18.00% | ~594 |
+| Dead Again | 17.00% | ~561 |
+| Full Arsenal | 17.00% | ~561 |
+| Mommy Dearest | 14.00% | ~462 |
+| Can't Trust Banks | 14.00% | ~462 |
+| Bad Dog | 13.00% | ~429 |
+| Where It All Began | 13.00% | ~429 |
+| Risk Tolerant | 13.00% | ~429 |
+| What A Catchy Song | 13.00% | ~429 |
+| Corrupted Beauty | 12.00% | ~396 |
+| Marked For Success | 12.00% | ~396 |
+| Sorry, Didn't See You There | 12.00% | ~396 |
+| Stimulating The Local Economy | 10.00% | ~330 |
+| Triplets | 10.00% | ~330 |
+| Denying Prophecy | 9.00% | ~297 |
+| A Little Banged Up | 8.00% | ~264 |
+| Following In Their Footsteps | 8.00% | ~264 |
+| Defense in Depth | 8.00% | ~264 |
+| Reverse Engineering | 7.00% | ~231 |
+| Reborn | 6.00% | ~198 |
+| Remote Surgery | 6.00% | ~198 |
+| Turbo Booster | 6.00% | ~198 |
+| Juiced Up | 6.00% | ~198 |
+| Squid Pro Quo | 6.00% | ~198 |
+| Hello Darkness My Old Friend | 5.00% | ~165 |
+| Counter-Sniper | 5.00% | ~165 |
+| Geronimo! | 5.00% | ~165 |
+| Shrimp Cocktail | 5.00% | ~165 |
+| Plank of Wood | 5.00% | ~165 |
+| Homewrecker | 4.00% | ~132 |
+| It Lives! It Sniffs! It Conquers! | 3.00% | ~99 |
+| Gotta Craft 'em All | 3.00% | ~99 |
+| Own Medicine | 2.00% | ~66 |
+| Box Office Smash | 2.00% | ~66 |
+| Going Postal | 2.00% | ~66 |
+| The Easy Way Out | 2.00% | ~66 |
+| Loot, Pillage & Craft | 2.00% | ~66 |
+| Swiss Army Drone | 1.00% | ~33 |
+| Three Birds With One Stone | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,150 (Ranked 297)  
-Completed: 16 (0.51%) (Ranked 303)  
+Progressed: 3,298 (Ranked 308)  
+Completed: 18 (0.55%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -284,6 +284,7 @@ Completed: 16 (0.51%) (Ranked 303)
 | 2024-03-21 | 2,813 | 14 |
 | 2024-04-10 | 2,905 | 15 |
 | 2024-06-17 | 3,150 | 16 |
+| 2024-08-09 | 3,298 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

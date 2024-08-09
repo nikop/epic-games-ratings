@@ -2,10 +2,10 @@
   "ID": "2a976892ec1c4e2cb2061582e7287d03",
   "Name": "Mystery Solitaire. Grimm\u0027s Tales 2",
   "ProductSlug": "mystery-solitaire-grimms-tales-2-e1e538",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-11T00:00:00+00:00",
     "PcReleaseDate": "2019-09-24T01:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-29T19:59:37.582907+00:00",
   "LastUpdate_AppInfo": "2024-08-08T06:57:11.3921421+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:03.5880264+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:04:55.8117827+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:08.1973679+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:15.0819247+00:00"
 }

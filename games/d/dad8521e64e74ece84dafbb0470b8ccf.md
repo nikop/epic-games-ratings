@@ -16,8 +16,8 @@
 | Synergy | 0.00% | ~0 |
 | Trinity | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,045)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1 (Ranked 1,085)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

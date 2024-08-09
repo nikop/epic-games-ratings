@@ -2,10 +2,10 @@
   "ID": "5ca398e6eb974fd08748c29f79453ea3",
   "Name": "Dragon Throne: Battle of Red Cliffs",
   "ProductSlug": "dragon-throne-battle-of-red-cliffs-44ba6b",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-01-08T18:38:17.476+00:00",
     "PcReleaseDate": "2002-03-25T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-13T15:02:40.1184551+00:00",
   "LastUpdate_AppInfo": "2024-08-04T06:57:14.6213418+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:10.7244333+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:04:47.2327327+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:01.495917+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:13.8497388+00:00"
 }

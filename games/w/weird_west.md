@@ -1,67 +1,67 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.43 (Ranked 804)  
+Rating: 4.43 (Ranked 803)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 97.00% | ~11,459 |
-| Self-Improvement | 50.00% | ~5,906 |
-| Perky | 41.00% | ~4,843 |
-| Let’s Ride | 37.00% | ~4,371 |
-| Dead or Alive | 32.00% | ~3,780 |
-| Welcome to the Weird West | 30.00% | ~3,544 |
-| Full House | 17.00% | ~2,008 |
-| Off the Trail | 14.00% | ~1,654 |
-| Dishonored | 12.00% | ~1,418 |
-| Justice Served | 11.00% | ~1,299 |
-| Chain Reaction | 10.00% | ~1,181 |
-| Rain of Death | 9.00% | ~1,063 |
-| The Great Escape | 9.00% | ~1,063 |
-| Through Their Eyes | 9.00% | ~1,063 |
-| Scholar | 8.00% | ~945 |
-| Here Comes Santa Claus | 6.00% | ~709 |
-| That’s All, Folks | 6.00% | ~709 |
-| Fallen Star | 5.00% | ~591 |
-| Winds of War | 5.00% | ~591 |
-| Workers' Rights | 5.00% | ~591 |
-| Do Not Pass Go… | 4.00% | ~473 |
-| Elusive Prey | 4.00% | ~473 |
-| For Balance | 4.00% | ~473 |
-| Out on the Ebb Tide | 4.00% | ~473 |
-| Turning the Tables | 4.00% | ~473 |
-| Dog Days | 3.00% | ~354 |
-| Power Behind the Pulpit | 3.00% | ~354 |
-| Something Wicked This Way Comes… | 3.00% | ~354 |
-| There is Hope | 3.00% | ~354 |
-| Getting the Gang Back Together | 2.00% | ~236 |
-| Gold Digger | 2.00% | ~236 |
-| Healing Old Wounds | 2.00% | ~236 |
-| Loyalty to the Pack | 2.00% | ~236 |
-| Eternity Can Wait | 2.00% | ~236 |
-| Monster Hunter | 2.00% | ~236 |
-| Mystery Machine | 2.00% | ~236 |
-| Knuckle Sandwich | 2.00% | ~236 |
-| The Philosopher’s Stone | 2.00% | ~236 |
-| This Is Sparta | 2.00% | ~236 |
-| Ghost Town | 1.00% | ~118 |
-| Lord Inut Sends His Regards | 1.00% | ~118 |
-| What’s in the Box? | 1.00% | ~118 |
-| Who You Gonna Call? | 1.00% | ~118 |
-| Moondrunk | 0.90% | ~106 |
-| 'Ma Barker | 0.40% | ~47 |
-| I Kicked a Bird and I Liked it | 0.30% | ~35 |
-| Hog Wild | 0.30% | ~35 |
-| Dirt and Blame | 0.20% | ~24 |
-| Explorer | 0.20% | ~24 |
-| End the world | 0.20% | ~24 |
-| Moon Hunter | 0.20% | ~24 |
-| Winter Has Come | 0.10% | ~12 |
-| Revenant | 0.10% | ~12 |
+| Unforgiven | 98.00% | ~22,978 |
+| Self-Improvement | 49.00% | ~11,489 |
+| Perky | 40.00% | ~9,379 |
+| Let’s Ride | 36.00% | ~8,441 |
+| Dead or Alive | 31.00% | ~7,269 |
+| Welcome to the Weird West | 29.00% | ~6,800 |
+| Full House | 17.00% | ~3,986 |
+| Off the Trail | 14.00% | ~3,283 |
+| Dishonored | 13.00% | ~3,048 |
+| Justice Served | 12.00% | ~2,814 |
+| Chain Reaction | 11.00% | ~2,579 |
+| Rain of Death | 10.00% | ~2,345 |
+| The Great Escape | 10.00% | ~2,345 |
+| Scholar | 9.00% | ~2,110 |
+| Through Their Eyes | 9.00% | ~2,110 |
+| That’s All, Folks | 7.00% | ~1,641 |
+| Here Comes Santa Claus | 6.00% | ~1,407 |
+| Do Not Pass Go… | 5.00% | ~1,172 |
+| Fallen Star | 5.00% | ~1,172 |
+| For Balance | 5.00% | ~1,172 |
+| Turning the Tables | 5.00% | ~1,172 |
+| Winds of War | 5.00% | ~1,172 |
+| Workers' Rights | 5.00% | ~1,172 |
+| Dog Days | 4.00% | ~938 |
+| Elusive Prey | 4.00% | ~938 |
+| Out on the Ebb Tide | 4.00% | ~938 |
+| Gold Digger | 3.00% | ~703 |
+| Monster Hunter | 3.00% | ~703 |
+| Power Behind the Pulpit | 3.00% | ~703 |
+| Something Wicked This Way Comes… | 3.00% | ~703 |
+| There is Hope | 3.00% | ~703 |
+| The Philosopher’s Stone | 3.00% | ~703 |
+| Getting the Gang Back Together | 2.00% | ~469 |
+| Healing Old Wounds | 2.00% | ~469 |
+| Loyalty to the Pack | 2.00% | ~469 |
+| Eternity Can Wait | 2.00% | ~469 |
+| Mystery Machine | 2.00% | ~469 |
+| Knuckle Sandwich | 2.00% | ~469 |
+| This Is Sparta | 2.00% | ~469 |
+| Who You Gonna Call? | 2.00% | ~469 |
+| Ghost Town | 1.00% | ~234 |
+| Lord Inut Sends His Regards | 1.00% | ~234 |
+| What’s in the Box? | 1.00% | ~234 |
+| Moondrunk | 0.90% | ~211 |
+| 'Ma Barker | 0.50% | ~117 |
+| I Kicked a Bird and I Liked it | 0.40% | ~94 |
+| End the world | 0.30% | ~70 |
+| Hog Wild | 0.30% | ~70 |
+| Moon Hunter | 0.20% | ~47 |
+| Dirt and Blame | 0.10% | ~23 |
+| Explorer | 0.10% | ~23 |
+| Winter Has Come | 0.10% | ~23 |
+| Revenant | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,813 (Ranked 223)  
-Completed: 10 (0.08%) (Ranked 424)  
+Progressed: 23,447 (Ranked 196)  
+Completed: 14 (0.06%) (Ranked 459)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,14 +269,15 @@ Completed: 10 (0.08%) (Ranked 424)
 | 2024-04-07 | 2,162 | 7 |
 | 2024-05-13 | 2,180 | 7 |
 | 2024-06-17 | 11,813 | 10 |
+| 2024-08-09 | 23,447 | 14 |
 ## Awards
-Max (Impact the Story): 56  (Ranked 525)  
-Sum: 56 (Ranked 598)  
+Max (Impact the Story): 57  (Ranked 525)  
+Sum: 57 (Ranked 598)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 63 |
-| In this game, your choices Impact the Story | 56 |
+| In this game, your choices Impact the Story | 57 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -384,3 +385,4 @@ Diff (max vs sum): -73
 | 2024-07-30 | 4.44 | - | 53 | 53 |
 | 2024-08-02 | 4.43 | - | 55 | 55 |
 | 2024-08-05 | 4.43 | - | 56 | 56 |
+| 2024-08-09 | 4.43 | - | 57 | 57 |

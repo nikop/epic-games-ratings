@@ -5,10 +5,10 @@
   "Ranking_Rating": 435,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 534,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 529,
+  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -85,15 +85,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 248,
+  "EOS_Progressed": 299,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.21,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:14:56.9225793+00:00",
       "NumProgressed": 248,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-09T18:04:36.9576865+00:00",
+      "NumProgressed": 299,
       "NumCompleted": 3
     }
   ],
@@ -105,9 +110,9 @@
       "ID": "main_trophy_1_1",
       "SetID": "a0onbg4",
       "Name": "Last One to Appear",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 51
     },
     {
       "ID": "main_trophy_1_10",
@@ -115,119 +120,119 @@
       "Name": "Treasure Hunter",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "main_trophy_1_11",
       "SetID": "a0onbg4",
       "Name": "The Primal Lens",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 233
     },
     {
       "ID": "main_trophy_1_12",
       "SetID": "a0onbg4",
       "Name": "A Day in the Life of the Watch",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 197
     },
     {
       "ID": "main_trophy_1_13",
       "SetID": "a0onbg4",
       "Name": "Hometown on Fire",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 191
     },
     {
       "ID": "main_trophy_1_14",
       "SetID": "a0onbg4",
       "Name": "Raising the Flag of Resistance",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 182
     },
     {
       "ID": "main_trophy_1_15",
       "SetID": "a0onbg4",
       "Name": "Conquering the Proving Grounds",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 158
     },
     {
       "ID": "main_trophy_1_16",
       "SetID": "a0onbg4",
       "Name": "Hishahn is Defended",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 141
     },
     {
       "ID": "main_trophy_1_17",
       "SetID": "a0onbg4",
       "Name": "Valorous Shi\u2019arcs",
-      "Percentage": 40,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 132
     },
     {
       "ID": "main_trophy_1_18",
       "SetID": "a0onbg4",
       "Name": "Bidding Father Farewell",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 129
     },
     {
       "ID": "main_trophy_1_19",
       "SetID": "a0onbg4",
       "Name": "I Will Reclaim This Place",
-      "Percentage": 31,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 108
     },
     {
       "ID": "main_trophy_1_2",
       "SetID": "a0onbg4",
       "Name": "Hero\u2019s Victory",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 63
     },
     {
       "ID": "main_trophy_1_20",
       "SetID": "a0onbg4",
       "Name": "Songs of Valor on the Great Sandy Sea",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 96
     },
     {
       "ID": "main_trophy_1_21",
       "SetID": "a0onbg4",
       "Name": "Sweet Taste of Victory",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 81
     },
     {
       "ID": "main_trophy_1_22",
       "SetID": "a0onbg4",
       "Name": "Eve of the Battle",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 66
     },
     {
       "ID": "main_trophy_1_23",
       "SetID": "a0onbg4",
       "Name": "Trusted Hero",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 164
     },
     {
       "ID": "main_trophy_1_24",
@@ -235,63 +240,63 @@
       "Name": "Hero Combo Master",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_25",
       "SetID": "a0onbg4",
       "Name": "Polished Partner",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 57
     },
     {
       "ID": "main_trophy_1_26",
       "SetID": "a0onbg4",
       "Name": "Hot Spring Enthusiast",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_27",
       "SetID": "a0onbg4",
       "Name": "Hero of Destruction",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 48
     },
     {
       "ID": "main_trophy_1_28",
       "SetID": "a0onbg4",
       "Name": "Know Thy Enemy, Know Thyself",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_29",
       "SetID": "a0onbg4",
       "Name": "Expert Appraiser",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 111
     },
     {
       "ID": "main_trophy_1_3",
       "SetID": "a0onbg4",
       "Name": "I Love Weapons!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "main_trophy_1_30",
       "SetID": "a0onbg4",
       "Name": "Town Building Beginner",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 150
     },
     {
       "ID": "main_trophy_1_31",
@@ -299,7 +304,7 @@
       "Name": "The Hero Who Fished the World",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_32",
@@ -307,7 +312,7 @@
       "Name": "The Hero Whom the Runes Smile On",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "main_trophy_1_33",
@@ -315,7 +320,7 @@
       "Name": "I Like Runeshards!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_34",
@@ -323,15 +328,15 @@
       "Name": "Gourmand Hero",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_35",
       "SetID": "a0onbg4",
       "Name": "Art Is Explosive!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 42
     },
     {
       "ID": "main_trophy_1_36",
@@ -339,13 +344,13 @@
       "Name": "I Love Animals!",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 194
     },
     {
       "ID": "main_trophy_1_37",
       "SetID": "a0onbg4",
       "Name": "Eggfoot Breeder",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -355,7 +360,7 @@
       "Name": "Eggfoot Race Hero",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "main_trophy_1_39",
@@ -363,7 +368,7 @@
       "Name": "Whirled Peace",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_4",
@@ -371,7 +376,7 @@
       "Name": "Town-Building Hero",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "main_trophy_1_40",
@@ -379,7 +384,7 @@
       "Name": "Beigoma Collector",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "main_trophy_1_41",
@@ -387,7 +392,7 @@
       "Name": "Card Game Champ",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "main_trophy_1_42",
@@ -395,158 +400,158 @@
       "Name": "Card Collector",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "main_trophy_1_43",
       "SetID": "a0onbg4",
       "Name": "Valorous Finned Hero",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "main_trophy_1_44",
       "SetID": "a0onbg4",
       "Name": "Skilled in War",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "main_trophy_1_45",
       "SetID": "a0onbg4",
       "Name": "Epic Success!",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 126
     },
     {
       "ID": "main_trophy_1_46",
       "SetID": "a0onbg4",
       "Name": "A Distinguished Theater",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 48
     },
     {
       "ID": "main_trophy_1_47",
       "SetID": "a0onbg4",
       "Name": "A Big Bag and a Big Sack",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 57
     },
     {
       "ID": "main_trophy_1_48",
       "SetID": "a0onbg4",
       "Name": "Honorable Statue",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 99
     },
     {
       "ID": "main_trophy_1_49",
       "SetID": "a0onbg4",
       "Name": "Hot Spring Revelry",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 108
     },
     {
       "ID": "main_trophy_1_5",
       "SetID": "a0onbg4",
       "Name": "Hero Beyond Time and Space",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 24
     },
     {
       "ID": "main_trophy_1_50",
       "SetID": "a0onbg4",
       "Name": "Take a Proper Rest",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 155
     },
     {
       "ID": "main_trophy_1_51",
       "SetID": "a0onbg4",
       "Name": "Binge Shopping Hero",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "main_trophy_1_52",
       "SetID": "a0onbg4",
       "Name": "Are You Working Hard?",
-      "Percentage": 34,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 111
     },
     {
       "ID": "main_trophy_1_53",
       "SetID": "a0onbg4",
       "Name": "Guild Founder",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 129
     },
     {
       "ID": "main_trophy_1_54",
       "SetID": "a0onbg4",
       "Name": "Bond of Heroes",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 239
     },
     {
       "ID": "main_trophy_1_55",
       "SetID": "a0onbg4",
       "Name": "Ace Forager",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 96
     },
     {
       "ID": "main_trophy_1_6",
       "SetID": "a0onbg4",
       "Name": "Invincible Hero",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 21
     },
     {
       "ID": "main_trophy_1_7",
       "SetID": "a0onbg4",
       "Name": "Monument Builder",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 48
     },
     {
       "ID": "main_trophy_1_8",
       "SetID": "a0onbg4",
       "Name": "Hero of Commerce",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "main_trophy_1_9",
       "SetID": "a0onbg4",
       "Name": "A Place for Heroes to Return",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 87
     }
   ],
   "AchievementSets": [
     {
       "ID": "a0onbg4",
       "IsBase": true,
-      "Progressed": 248,
+      "Progressed": 299,
       "Completed": 3
     }
   ],
@@ -554,8 +559,8 @@
   "FirstSeenRating": "2024-05-26T01:53:53.0838099+00:00",
   "FirstSeenAchievements": "2024-03-21T17:11:11.5861303+00:00",
   "LastChanged": "2024-08-07T08:57:13.0084481+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:56.9225789+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:36.9576863+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:11.476533+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:58.2272149+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:56.923278+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:52.8376466+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:36.9577185+00:00"
 }

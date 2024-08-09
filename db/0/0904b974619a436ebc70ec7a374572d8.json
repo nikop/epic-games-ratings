@@ -2,10 +2,10 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 591,
-  "Ranking_EOS_Completed": 141,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 174,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.82,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-10-23T15:08:04.2785758+00:00",
@@ -494,6 +494,11 @@
       "Time": "2024-06-17T16:15:17.6310708+00:00",
       "NumProgressed": 157,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-08-09T18:04:46.1983376+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-23T15:08:04.2785789+00:00",
@@ -504,15 +509,15 @@
       "ID": "ach_picklock1",
       "SetID": "753ghg2",
       "Name": "Paper Fun",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_picklock10",
       "SetID": "753ghg2",
       "Name": "Pizza time",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 45,
       "UsersEstimate": 38
     },
@@ -520,17 +525,17 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 65,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 45,
-      "UsersEstimate": 94
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_picklock13",
@@ -538,45 +543,45 @@
       "Name": "Butcher shop",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 70
     },
     {
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 64
     },
     {
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_picklock18",
       "SetID": "753ghg2",
       "Name": "Clothing store",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 40,
       "UsersEstimate": 38
     },
@@ -584,7 +589,7 @@
       "ID": "ach_picklock19",
       "SetID": "753ghg2",
       "Name": "Pizzeria",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 30
     },
@@ -594,21 +599,21 @@
       "Name": "Keen eye",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_picklock20",
       "SetID": "753ghg2",
       "Name": "Pub",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_picklock21",
       "SetID": "753ghg2",
       "Name": "Motel",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 24
     },
@@ -616,7 +621,7 @@
       "ID": "ach_picklock22",
       "SetID": "753ghg2",
       "Name": "Night Club",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 24
     },
@@ -624,7 +629,7 @@
       "ID": "ach_picklock23",
       "SetID": "753ghg2",
       "Name": "Tuning Center",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 45,
       "UsersEstimate": 19
     },
@@ -632,15 +637,15 @@
       "ID": "ach_picklock24",
       "SetID": "753ghg2",
       "Name": "Shadow",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "ach_picklock3",
       "SetID": "753ghg2",
       "Name": "Car lover",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
       "UsersEstimate": 14
     },
@@ -648,15 +653,15 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ach_picklock5",
       "SetID": "753ghg2",
       "Name": "Time to fly away",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 40,
       "UsersEstimate": 28
     },
@@ -664,23 +669,23 @@
       "ID": "ach_picklock6",
       "SetID": "753ghg2",
       "Name": "Great bike, bro",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 45,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 78
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_picklock8",
       "SetID": "753ghg2",
       "Name": "Meat",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
       "UsersEstimate": 19
     },
@@ -688,23 +693,23 @@
       "ID": "ach_picklock9",
       "SetID": "753ghg2",
       "Name": "I, the millionaire!",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "753ghg2",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 174,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:17.6310702+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:46.1983374+00:00",
   "LastUpdate_AppInfo": "2024-08-08T06:57:14.2267599+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:13.2193645+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:17.6310838+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:07.237939+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:46.1983498+00:00"
 }

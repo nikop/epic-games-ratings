@@ -2,10 +2,10 @@
   "ID": "e58f8f670f3243f690ed3c89cba89c9e",
   "Name": "Jennifer Wilde Unlikely Revolutionaries",
   "ProductSlug": "jennifer-wilde-unlikely-revolutionaries-7eda5e",
-  "Ranking_EOS_Progress": 678,
-  "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 699,
+  "Ranking_EOS_Completed": 152,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-09T11:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 85,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.57,
+  "EOS_Completed_Percentage": 3.53,
   "EosHistory": [
     {
       "Time": "2023-05-23T11:00:16.5750246+00:00",
@@ -404,6 +404,11 @@
       "Time": "2024-07-24T02:02:26.8471545+00:00",
       "NumProgressed": 84,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-09T18:06:37.5976691+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 10,
@@ -429,7 +434,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "1ejicho",
       "Name": "I See Dead People",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
       "UsersEstimate": 19
     },
@@ -437,7 +442,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "1ejicho",
       "Name": "Bedtime Storyteller",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -453,15 +458,15 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "1ejicho",
       "Name": "Exorcist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "1ejicho",
       "Name": "Electrician",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -494,14 +499,14 @@
     {
       "ID": "1ejicho",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 85,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T16:59:26.254378+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:02:26.847154+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:37.5976688+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:26.1830025+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:32.0453312+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:02:26.8471683+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:10.2968082+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:37.5976965+00:00"
 }

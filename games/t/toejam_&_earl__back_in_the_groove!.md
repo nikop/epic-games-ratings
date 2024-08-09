@@ -5,35 +5,35 @@ Rating: 4.33 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~6,087 |
-| Fall Fest | 8.00% | ~4,870 |
-| Thrill Seeker | 7.00% | ~4,261 |
-| Flying Present Catcher | 6.00% | ~3,652 |
-| HFZ Goober | 6.00% | ~3,652 |
-| Sunflower Master | 5.00% | ~3,044 |
-| Hi Fiver | 3.00% | ~1,826 |
-| A Timely Splash | 3.00% | ~1,826 |
-| Backer Visitor | 2.00% | ~1,217 |
-| Hate That Randomizer | 2.00% | ~1,217 |
-| Feet on Funkotron | 2.00% | ~1,217 |
+| Food Taster | 10.00% | ~6,095 |
+| Fall Fest | 8.00% | ~4,876 |
+| Thrill Seeker | 7.00% | ~4,266 |
+| Flying Present Catcher | 6.00% | ~3,657 |
+| HFZ Goober | 6.00% | ~3,657 |
+| Sunflower Master | 5.00% | ~3,047 |
+| Hi Fiver | 3.00% | ~1,828 |
+| A Timely Splash | 3.00% | ~1,828 |
+| Backer Visitor | 2.00% | ~1,219 |
+| Hate That Randomizer | 2.00% | ~1,219 |
+| Feet on Funkotron | 2.00% | ~1,219 |
 | Elf Chaser | 1.00% | ~609 |
 | Fool Me Twice | 1.00% | ~609 |
 | Old School Jammin' | 1.00% | ~609 |
 | Wakey Wakey | 1.00% | ~609 |
-| Level Diver | 0.90% | ~548 |
-| Gimme My Presents Back! | 0.80% | ~487 |
-| Cleaning Out Santa's Sack | 0.80% | ~487 |
-| Beaten By A Little Girl | 0.70% | ~426 |
-| Teamwork Rules | 0.70% | ~426 |
-| Totally Bummed Again | 0.70% | ~426 |
-| Piece O' Cake | 0.60% | ~365 |
-| I Can't Believe I've Done This | 0.50% | ~304 |
-| Harsh Love | 0.50% | ~304 |
-| Made It Through | 0.50% | ~304 |
-| Boom Box Baby | 0.40% | ~243 |
-| Flying Present Ultimate Master | 0.40% | ~243 |
-| Ridiculously Generous | 0.40% | ~243 |
-| I'm A Total Saint | 0.40% | ~243 |
+| Level Diver | 0.90% | ~549 |
+| Gimme My Presents Back! | 0.80% | ~488 |
+| Cleaning Out Santa's Sack | 0.80% | ~488 |
+| Beaten By A Little Girl | 0.70% | ~427 |
+| Teamwork Rules | 0.70% | ~427 |
+| Totally Bummed Again | 0.70% | ~427 |
+| Piece O' Cake | 0.60% | ~366 |
+| I Can't Believe I've Done This | 0.50% | ~305 |
+| Harsh Love | 0.50% | ~305 |
+| Made It Through | 0.50% | ~305 |
+| Boom Box Baby | 0.40% | ~244 |
+| Flying Present Ultimate Master | 0.40% | ~244 |
+| Ridiculously Generous | 0.40% | ~244 |
+| I'm A Total Saint | 0.40% | ~244 |
 | Map Explorer | 0.30% | ~183 |
 | Nine Funkotronians | 0.30% | ~183 |
 | Struck By Love | 0.30% | ~183 |
@@ -55,8 +55,8 @@ Rating: 4.33 (Ranked 960)
 | Why Do I Keep Doing That? | 0.10% | ~61 |
 | Hey, You Did It! | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,873 (Ranked 156)  
-Completed: 6 (0.01%) (Ranked 503)  
+Progressed: 60,949 (Ranked 164)  
+Completed: 6 (0.01%) (Ranked 524)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,6 +342,7 @@ Completed: 6 (0.01%) (Ranked 503)
 | 2024-04-10 | 59,872 | 6 |
 | 2024-06-17 | 60,499 | 6 |
 | 2024-07-29 | 60,873 | 6 |
+| 2024-08-09 | 60,949 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

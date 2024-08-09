@@ -2,10 +2,10 @@
   "ID": "926045895bbf4c198aa1173f0877d246",
   "Name": "Earth Fire And Wind",
   "ProductSlug": "earth-fire-and-wind-34e034",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-29T00:00:00+00:00",
     "PcReleaseDate": "2024-04-01T03:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-05T07:57:02.7003505+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:14.8565888+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:05:01.2871464+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:05.4502422+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:15.8899318+00:00"
 }

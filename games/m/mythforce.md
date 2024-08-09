@@ -1,37 +1,37 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.43 (Ranked 804)  
+Rating: 4.43 (Ranked 803)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hit 'Em Where It Hurts | 25.00% | ~3,064 |
-| Perk Shard Punch Card | 25.00% | ~3,064 |
-| Faceroll the Bones | 23.00% | ~2,819 |
-| That'll Leave a Mark | 23.00% | ~2,819 |
-| Debuff Dogpile | 22.00% | ~2,697 |
-| First Strike | 21.00% | ~2,574 |
-| Mushroom Madness! | 18.00% | ~2,206 |
-| Spending Spree | 15.00% | ~1,839 |
-| Next Time on MythForce... | 14.00% | ~1,716 |
-| Everything Must Go! | 12.00% | ~1,471 |
-| Horder Better Faster Stronger | 12.00% | ~1,471 |
-| Ten Steps from the Grave | 10.00% | ~1,226 |
-| Cold-Blooded Critters | 8.00% | ~981 |
-| On this Episode! | 6.00% | ~735 |
-| Death Becomes You | 5.00% | ~613 |
-| Flawless Victory | 4.00% | ~490 |
-| The Harder They Fall | 4.00% | ~490 |
-| We've Got a Kaiju on the Field | 4.00% | ~490 |
-| Season Finale | 4.00% | ~490 |
-| Deadication | 3.00% | ~368 |
-| The Fourth Gate | 2.00% | ~245 |
-| Vexed Her | 0.70% | ~86 |
-| Deadalus and Loving It | 0.20% | ~25 |
+| Hit 'Em Where It Hurts | 24.00% | ~5,416 |
+| Perk Shard Punch Card | 24.00% | ~5,416 |
+| That'll Leave a Mark | 22.00% | ~4,965 |
+| Debuff Dogpile | 21.00% | ~4,739 |
+| Faceroll the Bones | 21.00% | ~4,739 |
+| First Strike | 21.00% | ~4,739 |
+| Mushroom Madness! | 16.00% | ~3,611 |
+| Next Time on MythForce... | 14.00% | ~3,160 |
+| Spending Spree | 13.00% | ~2,934 |
+| Everything Must Go! | 11.00% | ~2,482 |
+| Horder Better Faster Stronger | 9.00% | ~2,031 |
+| Cold-Blooded Critters | 7.00% | ~1,580 |
+| Ten Steps from the Grave | 7.00% | ~1,580 |
+| On this Episode! | 6.00% | ~1,354 |
+| We've Got a Kaiju on the Field | 4.00% | ~903 |
+| Death Becomes You | 3.00% | ~677 |
+| Flawless Victory | 3.00% | ~677 |
+| Season Finale | 3.00% | ~677 |
+| Deadication | 2.00% | ~451 |
+| The Fourth Gate | 2.00% | ~451 |
+| The Harder They Fall | 2.00% | ~451 |
+| Vexed Her | 0.70% | ~158 |
+| Deadalus and Loving It | 0.20% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,257 (Ranked 221)  
-Completed: 13 (0.11%) (Ranked 406)  
+Progressed: 22,568 (Ranked 200)  
+Completed: 17 (0.08%) (Ranked 442)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,6 +230,7 @@ Completed: 13 (0.11%) (Ranked 406)
 | 2024-03-21 | 7,079 | 6 |
 | 2024-04-10 | 7,320 | 9 |
 | 2024-06-17 | 12,257 | 13 |
+| 2024-08-09 | 22,568 | 17 |
 ## Awards
 Max (Great for Beginners): 40  (Ranked 567)  
 Sum: 275 (Ranked 462)  

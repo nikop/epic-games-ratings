@@ -6,63 +6,64 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivors | 83.00% | ~121 |
-| It's Just Beginning | 47.00% | ~69 |
-| Apprentice Crafter | 45.00% | ~66 |
-| You're Learning... | 42.00% | ~61 |
-| Trial By Combat | 38.00% | ~55 |
-| Beginner's Luck | 36.00% | ~53 |
-| Mystery Solved | 36.00% | ~53 |
-| Barrel of Fun | 34.00% | ~50 |
-| Seeing Red | 28.00% | ~41 |
-| Too Late | 28.00% | ~41 |
-| Brave by Default | 27.00% | ~39 |
-| Go On... | 24.00% | ~35 |
-| That's Deep, Bro | 23.00% | ~34 |
-| Battle Ready | 22.00% | ~32 |
-| Blood and Tears | 22.00% | ~32 |
-| Angler | 21.00% | ~31 |
-| Bad Moon Rising | 20.00% | ~29 |
-| Dirty Hands | 19.00% | ~28 |
-| Little Game Hunter | 18.00% | ~26 |
-| The New Bitcoin | 18.00% | ~26 |
-| Lich, Please | 17.00% | ~25 |
-| Behold, My True Form | 16.00% | ~23 |
-| Fresh Mint | 16.00% | ~23 |
-| Warming Up | 16.00% | ~23 |
-| Well Read | 16.00% | ~23 |
-| Beauty is in the Eye | 15.00% | ~22 |
-| Are You Not Entertained | 14.00% | ~20 |
-| Ch-ch-ch-changes! | 14.00% | ~20 |
-| Finders Keepers | 14.00% | ~20 |
-| Vice Versa | 14.00% | ~20 |
-| Master Crafter | 12.00% | ~18 |
-| An Unstoppable Force | 11.00% | ~16 |
-| Queen of the North | 11.00% | ~16 |
-| The New Standard | 11.00% | ~16 |
-| Mass Ruckus | 10.00% | ~15 |
-| Like A Noss | 8.00% | ~12 |
-| All out of Bubblegum... | 7.00% | ~10 |
-| Must Be Bored | 6.00% | ~9 |
-| The Looking Glass | 6.00% | ~9 |
-| Cosplaying | 5.00% | ~7 |
-| Epic Crafter | 4.00% | ~6 |
-| The Librarian | 4.00% | ~6 |
-| A Fantasy, Finalized | 3.00% | ~4 |
-| Fish Watching | 3.00% | ~4 |
-| No Parley | 3.00% | ~4 |
-| Rare Crafter | 3.00% | ~4 |
-| Risk Taker | 3.00% | ~4 |
-| Big Game Hunter | 2.00% | ~3 |
+| Survivors | 80.00% | ~163 |
+| It's Just Beginning | 47.00% | ~96 |
+| Apprentice Crafter | 45.00% | ~92 |
+| You're Learning... | 43.00% | ~88 |
+| Trial By Combat | 38.00% | ~78 |
+| Barrel of Fun | 35.00% | ~71 |
+| Beginner's Luck | 35.00% | ~71 |
+| Mystery Solved | 35.00% | ~71 |
+| Seeing Red | 30.00% | ~61 |
+| Too Late | 30.00% | ~61 |
+| Brave by Default | 28.00% | ~57 |
+| Go On... | 24.00% | ~49 |
+| That's Deep, Bro | 24.00% | ~49 |
+| Battle Ready | 23.00% | ~47 |
+| Blood and Tears | 23.00% | ~47 |
+| Angler | 22.00% | ~45 |
+| Bad Moon Rising | 21.00% | ~43 |
+| Dirty Hands | 20.00% | ~41 |
+| The New Bitcoin | 19.00% | ~39 |
+| Little Game Hunter | 18.00% | ~37 |
+| Lich, Please | 17.00% | ~35 |
+| Well Read | 17.00% | ~35 |
+| Fresh Mint | 16.00% | ~33 |
+| Beauty is in the Eye | 15.00% | ~31 |
+| Behold, My True Form | 15.00% | ~31 |
+| Ch-ch-ch-changes! | 15.00% | ~31 |
+| Warming Up | 15.00% | ~31 |
+| Finders Keepers | 14.00% | ~29 |
+| Are You Not Entertained | 13.00% | ~27 |
+| Master Crafter | 13.00% | ~27 |
+| Vice Versa | 13.00% | ~27 |
+| An Unstoppable Force | 10.00% | ~20 |
+| Mass Ruckus | 10.00% | ~20 |
+| Queen of the North | 10.00% | ~20 |
+| The New Standard | 10.00% | ~20 |
+| Like A Noss | 8.00% | ~16 |
+| All out of Bubblegum... | 6.00% | ~12 |
+| The Looking Glass | 6.00% | ~12 |
+| Cosplaying | 5.00% | ~10 |
+| Must Be Bored | 5.00% | ~10 |
+| Epic Crafter | 4.00% | ~8 |
+| No Parley | 3.00% | ~6 |
+| The Librarian | 3.00% | ~6 |
+| A Fantasy, Finalized | 2.00% | ~4 |
+| Fish Watching | 2.00% | ~4 |
+| Rare Crafter | 2.00% | ~4 |
+| Risk Taker | 2.00% | ~4 |
+| Big Game Hunter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 604)  
-Completed: 2 (1.37%) (Ranked 209)  
+Progressed: 204 (Ranked 577)  
+Completed: 2 (0.98%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-03-21 | 36 | 1 |
 | 2024-04-10 | 65 | 1 |
 | 2024-06-17 | 146 | 2 |
+| 2024-08-09 | 204 | 2 |
 ## Awards
 Max (Character Customization): 21  (Ranked 665)  
 Sum: 21 (Ranked 669)  

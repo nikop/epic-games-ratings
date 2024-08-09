@@ -2,10 +2,10 @@
   "ID": "973ea9bd62374be5bb84ef2c8d096c56",
   "Name": "Metal Mind",
   "ProductSlug": "metal-mind-84cb32",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-07T08:00:00+00:00",
     "PcReleaseDate": "2022-04-25T02:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-11T20:58:03.1673033+00:00",
   "LastUpdate_AppInfo": "2024-08-08T02:57:07.9816664+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:36.8797406+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:49.8736655+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:32.2165769+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:02.1158498+00:00"
 }

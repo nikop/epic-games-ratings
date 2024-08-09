@@ -1,34 +1,34 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.43 (Ranked 804)  
+Rating: 4.43 (Ranked 803)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 77.00% | ~30,394 |
-| Mama? | 27.00% | ~10,658 |
-| People's Haven | 18.00% | ~7,105 |
-| Cartographer | 16.00% | ~6,316 |
-| Knowledge for Power | 14.00% | ~5,526 |
-| Antlers of Stone | 14.00% | ~5,526 |
-| Gaze into the abyss | 13.00% | ~5,131 |
-| Mausoleum of Ice | 13.00% | ~5,131 |
-| Wings of Stone | 12.00% | ~4,737 |
-| Equilibrium | 12.00% | ~4,737 |
-| In the belly of the beast | 11.00% | ~4,342 |
-| Condor condo | 10.00% | ~3,947 |
-| Memorial | 9.00% | ~3,553 |
-| An uninvited guest | 7.00% | ~2,763 |
-| Tails of Stone | 6.00% | ~2,368 |
-| Baa from the past | 6.00% | ~2,368 |
-| Written in stone | 6.00% | ~2,368 |
-| Talk to all the spirit animals | 6.00% | ~2,368 |
-| Ripples on the surface | 5.00% | ~1,974 |
-| Hide and Seek | 4.00% | ~1,579 |
+| Light at the end of the tunnel | 77.00% | ~30,941 |
+| Mama? | 27.00% | ~10,849 |
+| People's Haven | 18.00% | ~7,233 |
+| Cartographer | 16.00% | ~6,429 |
+| Knowledge for Power | 14.00% | ~5,626 |
+| Antlers of Stone | 14.00% | ~5,626 |
+| Gaze into the abyss | 13.00% | ~5,224 |
+| Mausoleum of Ice | 13.00% | ~5,224 |
+| Wings of Stone | 12.00% | ~4,822 |
+| Equilibrium | 12.00% | ~4,822 |
+| In the belly of the beast | 11.00% | ~4,420 |
+| Condor condo | 10.00% | ~4,018 |
+| Memorial | 9.00% | ~3,616 |
+| An uninvited guest | 7.00% | ~2,813 |
+| Tails of Stone | 6.00% | ~2,411 |
+| Baa from the past | 6.00% | ~2,411 |
+| Written in stone | 6.00% | ~2,411 |
+| Talk to all the spirit animals | 6.00% | ~2,411 |
+| Ripples on the surface | 5.00% | ~2,009 |
+| Hide and Seek | 4.00% | ~1,607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,473 (Ranked 171)  
-Completed: 709 (1.80%) (Ranked 191)  
+Progressed: 40,183 (Ranked 179)  
+Completed: 723 (1.80%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,6 +314,7 @@ Completed: 709 (1.80%) (Ranked 191)
 | 2024-04-10 | 33,987 | 624 |
 | 2024-06-17 | 37,623 | 676 |
 | 2024-07-25 | 39,473 | 709 |
+| 2024-08-09 | 40,183 | 723 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

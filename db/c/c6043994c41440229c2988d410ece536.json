@@ -2,10 +2,10 @@
   "ID": "c6043994c41440229c2988d410ece536",
   "Name": "Elemental Exiles",
   "ProductSlug": "elemental-exiles-8e3386",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1037,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-08-20T00:00:00+00:00",
     "PcReleaseDate": "2024-08-20T00:00:00+00:00",
@@ -22,17 +22,202 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:04:58.0144678+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:04:58.0144691+00:00",
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "explore_world",
+      "SetID": "4icd1a8",
+      "Name": "Renowned Explorer",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_01_reaper",
+      "SetID": "4icd1a8",
+      "Name": "Early Retirement",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_02_skeleton_dog",
+      "SetID": "4icd1a8",
+      "Name": "Free to Play Fetch",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_03_nightmare_savant",
+      "SetID": "4icd1a8",
+      "Name": "Praise the Moon!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_04_water_apprentice",
+      "SetID": "4icd1a8",
+      "Name": "Student Becomes the Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_05_bounty_hunter",
+      "SetID": "4icd1a8",
+      "Name": "An Untouchable Reputation",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_06_elf_warrior",
+      "SetID": "4icd1a8",
+      "Name": "A Freeing Truth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_07_dumb_fishman",
+      "SetID": "4icd1a8",
+      "Name": "Cool Pointy Stick for the Win!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_08_blind_nord_woman",
+      "SetID": "4icd1a8",
+      "Name": "Grief Takes Time",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_09_orc_shaman",
+      "SetID": "4icd1a8",
+      "Name": "With Age Comes Wisdom",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_10_tree_stump",
+      "SetID": "4icd1a8",
+      "Name": "Lumberjack\u2019s Worst Nightmare",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_11_dwarf_alchemist",
+      "SetID": "4icd1a8",
+      "Name": "More Research Needed",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "finish_12_demon_lord",
+      "SetID": "4icd1a8",
+      "Name": "With Friends Like These",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "first_death",
+      "SetID": "4icd1a8",
+      "Name": "It\u2019s Okay To Fail...",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_01_reaper",
+      "SetID": "4icd1a8",
+      "Name": "A Reapers Job is Never Done...",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_02_skeleton_dog",
+      "SetID": "4icd1a8",
+      "Name": "A Bone to Pick",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_03_nightmare_savant",
+      "SetID": "4icd1a8",
+      "Name": "The Apocalypse will be Beautiful!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_07_dumb_fishman",
+      "SetID": "4icd1a8",
+      "Name": "For the Fish!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_08_blind_nord_woman",
+      "SetID": "4icd1a8",
+      "Name": "A Tale of Revenge",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_09_orc_shaman",
+      "SetID": "4icd1a8",
+      "Name": "Tribal Politics",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "unlock_10_tree_stump",
+      "SetID": "4icd1a8",
+      "Name": "Branching Out",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "4icd1a8",
+      "IsBase": true,
+      "Progressed": 2,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:04:58.0144691+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:58.0144675+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:07.7939312+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:12.2752989+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:41.2954769+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:09.3498385+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:58.0153669+00:00"
 }

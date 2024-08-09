@@ -1,82 +1,82 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.57 (Ranked 529)  
+Rating: 4.57 (Ranked 528)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 28.00% | ~1,212 |
-| Look Over There! | 22.00% | ~952 |
-| Watch Where You Step... | 22.00% | ~952 |
-| Not So Fast... | 21.00% | ~909 |
-| An Ill Omen | 20.00% | ~865 |
-| Purging Spree | 15.00% | ~649 |
-| Blood for the Blood God! | 13.00% | ~563 |
-| Bloodless | 11.00% | ~476 |
-| Friendly Fire | 10.00% | ~433 |
-| Surgical Excision | 9.00% | ~389 |
-| The Emperor Protects | 8.00% | ~346 |
-| A Foul Creche | 8.00% | ~346 |
-| Honoured Battle-Brother | 7.00% | ~303 |
-| Nemesis Master | 7.00% | ~303 |
-| Gunmaster | 7.00% | ~303 |
-| Just a Scratch | 5.00% | ~216 |
-| Hold Your Ground | 4.00% | ~173 |
-| Corruption Cleanser | 4.00% | ~173 |
-| Hive Exterminator | 4.00% | ~173 |
-| Daemonkeeper | 3.00% | ~130 |
-| Mind Like a Fortress | 3.00% | ~130 |
-| Efficient Killer | 3.00% | ~130 |
-| A Gift Spurned | 3.00% | ~130 |
-| Long Distance Call | 3.00% | ~130 |
-| Execution Force | 3.00% | ~130 |
-| Patron of Deimos | 2.00% | ~87 |
-| Fleetmaster | 2.00% | ~87 |
-| Exterminator | 2.00% | ~87 |
-| Only in Death | 2.00% | ~87 |
-| Preservationist | 2.00% | ~87 |
-| Engine Kill | 2.00% | ~87 |
-| Junk Banishment | 2.00% | ~87 |
-| Tactical Flexibility | 2.00% | ~87 |
-| Tactical Sabotage | 2.00% | ~87 |
-| For the Machine God | 1.00% | ~43 |
-| Strike Force | 1.00% | ~43 |
-| Hands-On Research | 1.00% | ~43 |
-| Exercise in Restraint | 1.00% | ~43 |
-| Harvest No More | 1.00% | ~43 |
-| Death Comes For All | 1.00% | ~43 |
-| True Mastery | 1.00% | ~43 |
-| Reign of Confusion | 0.90% | ~39 |
-| Abomination | 0.80% | ~35 |
-| Deadshot | 0.80% | ~35 |
-| Suffer Not the Mutant | 0.70% | ~30 |
-| Clean Slate | 0.60% | ~26 |
-| Blood and Iron | 0.50% | ~22 |
-| Killing Rampage | 0.50% | ~22 |
-| Unstable Immaterium | 0.40% | ~17 |
-| Phalanx | 0.40% | ~17 |
-| The Flesh is Weak | 0.30% | ~13 |
-| Brothers in Arms | 0.30% | ~13 |
-| Warp Flickers | 0.30% | ~13 |
+| Executioner | 30.00% | ~1,333 |
+| Look Over There! | 23.00% | ~1,022 |
+| Not So Fast... | 23.00% | ~1,022 |
+| Watch Where You Step... | 23.00% | ~1,022 |
+| An Ill Omen | 22.00% | ~977 |
+| Purging Spree | 17.00% | ~755 |
+| Blood for the Blood God! | 15.00% | ~666 |
+| Bloodless | 12.00% | ~533 |
+| Friendly Fire | 11.00% | ~489 |
+| Surgical Excision | 10.00% | ~444 |
+| Honoured Battle-Brother | 8.00% | ~355 |
+| The Emperor Protects | 8.00% | ~355 |
+| A Foul Creche | 8.00% | ~355 |
+| Nemesis Master | 7.00% | ~311 |
+| Gunmaster | 7.00% | ~311 |
+| Just a Scratch | 6.00% | ~267 |
+| Hold Your Ground | 5.00% | ~222 |
+| Corruption Cleanser | 4.00% | ~178 |
+| A Gift Spurned | 4.00% | ~178 |
+| Hive Exterminator | 4.00% | ~178 |
+| Daemonkeeper | 3.00% | ~133 |
+| Exterminator | 3.00% | ~133 |
+| Mind Like a Fortress | 3.00% | ~133 |
+| Efficient Killer | 3.00% | ~133 |
+| Long Distance Call | 3.00% | ~133 |
+| Execution Force | 3.00% | ~133 |
+| Patron of Deimos | 2.00% | ~89 |
+| Fleetmaster | 2.00% | ~89 |
+| Only in Death | 2.00% | ~89 |
+| Preservationist | 2.00% | ~89 |
+| Engine Kill | 2.00% | ~89 |
+| Harvest No More | 2.00% | ~89 |
+| Junk Banishment | 2.00% | ~89 |
+| Death Comes For All | 2.00% | ~89 |
+| Tactical Flexibility | 2.00% | ~89 |
+| Tactical Sabotage | 2.00% | ~89 |
+| For the Machine God | 1.00% | ~44 |
+| Strike Force | 1.00% | ~44 |
+| Hands-On Research | 1.00% | ~44 |
+| Exercise in Restraint | 1.00% | ~44 |
+| True Mastery | 1.00% | ~44 |
+| Reign of Confusion | 1.00% | ~44 |
+| Abomination | 0.90% | ~40 |
+| Deadshot | 0.90% | ~40 |
+| Suffer Not the Mutant | 0.80% | ~36 |
+| Blood and Iron | 0.60% | ~27 |
+| Clean Slate | 0.60% | ~27 |
+| Killing Rampage | 0.60% | ~27 |
+| The Flesh is Weak | 0.40% | ~18 |
+| Unstable Immaterium | 0.40% | ~18 |
+| Brothers in Arms | 0.40% | ~18 |
+| Warp Flickers | 0.40% | ~18 |
+| Phalanx | 0.40% | ~18 |
 | Strategic Command | 0.30% | ~13 |
 | Terminal Meltdown | 0.30% | ~13 |
+| Grand Master | 0.20% | ~9 |
 | Opportunist | 0.20% | ~9 |
 | Field Apothecarion | 0.20% | ~9 |
+| Firing Squad | 0.20% | ~9 |
 | Not a Mote of Corruption | 0.20% | ~9 |
 | Arsenal of Destruction | 0.10% | ~4 |
 | Crisis Management | 0.10% | ~4 |
-| Grand Master | 0.10% | ~4 |
 | Legend of Titan | 0.10% | ~4 |
 | Dominus | 0.10% | ~4 |
 | Drone Army | 0.10% | ~4 |
 | Mass Extinction | 0.10% | ~4 |
 | Master of the Forge | 0.10% | ~4 |
-| Firing Squad | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,327 (Ranked 276)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 4,443 (Ranked 289)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,6 +329,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 4,085 | 0 |
 | 2024-04-10 | 4,126 | 0 |
 | 2024-06-17 | 4,327 | 0 |
+| 2024-08-09 | 4,443 | 0 |
 ## Awards
 Max (Character Customization): 254  (Ranked 322)  
 Sum: 559 (Ranked 389)  

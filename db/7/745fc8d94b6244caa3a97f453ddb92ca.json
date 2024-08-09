@@ -2,10 +2,10 @@
   "ID": "745fc8d94b6244caa3a97f453ddb92ca",
   "Name": "Project Nightmares Case 36: Henrietta Kedward",
   "ProductSlug": "project-nightmares-dcc54b",
-  "Ranking_EOS_Progress": 759,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-08-10T13:00:00+00:00",
     "PcReleaseDate": "2023-08-10T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -209,6 +209,11 @@
       "Time": "2024-06-17T16:12:12.4339204+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:03:28.1052018+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T08:05:18.6201734+00:00",
@@ -291,7 +296,7 @@
       "ID": "ACH_PUZZLEMASTER",
       "SetID": "9675gi1",
       "Name": "Puzzle Master",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -299,7 +304,7 @@
       "ID": "ACH_SECUNDARIA_MASK",
       "SetID": "9675gi1",
       "Name": "Collector",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -363,9 +368,9 @@
       "ID": "ST_PLAGUE",
       "SetID": "9675gi1",
       "Name": "Plague Control",
-      "Percentage": 57,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "ST_SEEKHIDE",
@@ -380,14 +385,14 @@
     {
       "ID": "9675gi1",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-13T20:57:41.0534986+00:00",
   "FirstSeenAchievements": "2023-07-27T13:10:49.3119111+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:12:12.4339199+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:28.1052011+00:00",
   "LastUpdate_AppInfo": "2024-08-02T23:57:21.9932807+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:23.946523+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:12.4339325+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:13.767054+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:28.1052126+00:00"
 }

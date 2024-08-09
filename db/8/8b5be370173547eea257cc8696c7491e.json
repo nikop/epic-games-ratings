@@ -2,10 +2,10 @@
   "ID": "8b5be370173547eea257cc8696c7491e",
   "Name": "Idle Trillionaire",
   "ProductSlug": "idle-trillionaire-17afee",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-25T01:17:50.903+00:00",
     "PcReleaseDate": "2024-01-24T21:30:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-30T03:58:17.0184101+00:00",
   "LastUpdate_AppInfo": "2024-08-02T23:57:15.2256477+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:40.3063459+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:18.8838416+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:28.9496482+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:51.6090106+00:00"
 }

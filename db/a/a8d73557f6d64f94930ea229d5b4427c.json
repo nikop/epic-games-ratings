@@ -2,10 +2,10 @@
   "ID": "a8d73557f6d64f94930ea229d5b4427c",
   "Name": "Tram Simulator Urban Transit",
   "ProductSlug": "tram-simulator-urban-transit-8e1477",
-  "Ranking_EOS_Progress": 574,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 584,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-21T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -54,6 +54,11 @@
       "Time": "2024-07-24T02:04:30.305128+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:06:42.2357122+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:05:32.6767205+00:00",
@@ -66,13 +71,13 @@
       "Name": "Bell Champion",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "city_conqueror",
       "SetID": "5g9pjmb",
       "Name": "City Conqueror",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -88,7 +93,7 @@
       "ID": "decal_dazzler",
       "SetID": "5g9pjmb",
       "Name": "Decal Dazzler",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -96,9 +101,9 @@
       "ID": "downtown_hero",
       "SetID": "5g9pjmb",
       "Name": "Downtown Hero",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "driving_licence",
@@ -106,23 +111,23 @@
       "Name": "Driving Licence",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "fairplay_detective",
       "SetID": "5g9pjmb",
       "Name": "Fairplay Detective",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "first_time_drive",
       "SetID": "5g9pjmb",
       "Name": "First Time Drive",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "flawless_journey",
@@ -130,7 +135,7 @@
       "Name": "Flawless Journey",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "miles_of_smiles",
@@ -154,15 +159,15 @@
       "Name": "Passenger\u0027s Choice",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "passengers_trust",
       "SetID": "5g9pjmb",
       "Name": "Passenger\u0027s Trust",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 73
     },
     {
       "ID": "smooth_operator",
@@ -170,7 +175,7 @@
       "Name": "Smooth Operator",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 103
+      "UsersEstimate": 111
     },
     {
       "ID": "speed",
@@ -192,9 +197,9 @@
       "ID": "tactical_transit",
       "SetID": "5g9pjmb",
       "Name": "Tactical Transit",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "the_big_tech",
@@ -202,13 +207,13 @@
       "Name": "The Big Tech",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "the_completor",
       "SetID": "5g9pjmb",
       "Name": "The Completor",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -242,21 +247,21 @@
       "Name": "Wide Awake Missioner",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "5g9pjmb",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-23T08:59:54.9700823+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:32.6767204+00:00",
-  "LastChanged_Achievements": "2024-07-24T02:04:30.3051276+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:42.235712+00:00",
   "LastUpdate_AppInfo": "2024-08-09T11:57:18.5190855+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:14.1392589+00:00",
-  "LastUpdate_Achievements": "2024-07-24T02:04:30.3051417+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:59.8294981+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:42.2357394+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.07 (Ranked 1,167)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~861 |
-| Occupy Mars! | 35.00% | ~735 |
-| Fear my botany powers, Mars | 33.00% | ~693 |
-| Electrician | 33.00% | ~693 |
-| Zero Waste | 30.00% | ~630 |
-| Bob The Builder | 30.00% | ~630 |
-| I am the greatest botanist on this planet. | 29.00% | ~609 |
-| Miner | 27.00% | ~567 |
-| Gardener | 26.00% | ~546 |
-| Houston we have a problem | 24.00% | ~504 |
-| Detective | 21.00% | ~441 |
-| The Collector | 19.00% | ~399 |
-| Get your hands dirty | 13.00% | ~273 |
-| Space Forest | 12.00% | ~252 |
-| All Wheel Trouble | 8.00% | ~168 |
-| DeDust | 7.00% | ~147 |
-| Plumber | 7.00% | ~147 |
+| I don't feel so good | 41.00% | ~865 |
+| Occupy Mars! | 35.00% | ~738 |
+| Fear my botany powers, Mars | 33.00% | ~696 |
+| Electrician | 33.00% | ~696 |
+| Zero Waste | 30.00% | ~633 |
+| Bob The Builder | 30.00% | ~633 |
+| I am the greatest botanist on this planet. | 29.00% | ~612 |
+| Miner | 27.00% | ~569 |
+| Gardener | 26.00% | ~548 |
+| Houston we have a problem | 24.00% | ~506 |
+| Detective | 21.00% | ~443 |
+| The Collector | 19.00% | ~401 |
+| Get your hands dirty | 13.00% | ~274 |
+| Space Forest | 13.00% | ~274 |
+| All Wheel Trouble | 8.00% | ~169 |
+| DeDust | 7.00% | ~148 |
+| Plumber | 7.00% | ~148 |
 | “Aliens” | 5.00% | ~105 |
 | ITS crash site | 5.00% | ~105 |
 | To infinity and beyond! | 4.00% | ~84 |
@@ -29,13 +29,13 @@ Rating: 4.07 (Ranked 1,167)
 | Explosive Miner | 2.00% | ~42 |
 | Caveman | 2.00% | ~42 |
 | Planetary Defence | 2.00% | ~42 |
+| One does not simply... | 2.00% | ~42 |
 | Rocket Jump | 2.00% | ~42 |
 | Thunderstruck | 2.00% | ~42 |
 | Driver's License | 1.00% | ~21 |
-| One does not simply... | 1.00% | ~21 |
 | 5G Network | 0.90% | ~19 |
-| Bull’s eye | 0.50% | ~10 |
-| Korolev crater | 0.50% | ~10 |
+| Bull’s eye | 0.50% | ~11 |
+| Korolev crater | 0.50% | ~11 |
 | Hot Repairs | 0.40% | ~8 |
 | Rover Mechanic | 0.40% | ~8 |
 | Never Ending Story? | 0.30% | ~6 |
@@ -54,8 +54,8 @@ Rating: 4.07 (Ranked 1,167)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,099 (Ranked 334)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,109 (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,6 +306,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 2,013 | 0 |
 | 2024-06-17 | 2,072 | 0 |
 | 2024-07-25 | 2,099 | 0 |
+| 2024-08-09 | 2,109 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

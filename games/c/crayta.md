@@ -6,34 +6,34 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Well Socialised! | 23.00% | ~25,355 |
-| Variety Player - Bronze | 13.00% | ~14,331 |
-| Express Yourself - Bronze | 7.00% | ~7,717 |
-| Getting Friendly | 5.00% | ~5,512 |
-| Challenge Apprentice | 5.00% | ~5,512 |
-| Building Block - Bronze | 4.00% | ~4,410 |
-| Variety Player - Silver | 4.00% | ~4,410 |
-| Building Block - Silver | 2.00% | ~2,205 |
-| Challenge Veteran | 2.00% | ~2,205 |
-| Express Yourself - Silver | 2.00% | ~2,205 |
-| Building Block - Gold | 1.00% | ~1,102 |
-| Grouping Up - Bronze | 1.00% | ~1,102 |
-| Community Creativity | 1.00% | ~1,102 |
-| Shared! | 1.00% | ~1,102 |
+| Well Socialised! | 23.00% | ~25,374 |
+| Variety Player - Bronze | 13.00% | ~14,342 |
+| Express Yourself - Bronze | 7.00% | ~7,722 |
+| Getting Friendly | 5.00% | ~5,516 |
+| Challenge Apprentice | 5.00% | ~5,516 |
+| Building Block - Bronze | 4.00% | ~4,413 |
+| Variety Player - Silver | 4.00% | ~4,413 |
+| Building Block - Silver | 2.00% | ~2,206 |
+| Challenge Veteran | 2.00% | ~2,206 |
+| Express Yourself - Silver | 2.00% | ~2,206 |
+| Building Block - Gold | 1.00% | ~1,103 |
+| Grouping Up - Bronze | 1.00% | ~1,103 |
+| Community Creativity | 1.00% | ~1,103 |
+| Shared! | 1.00% | ~1,103 |
 | These Are a Few of My Favorite Things - Bronze | 0.70% | ~772 |
-| Standing on the Shoulders of Giants - Bronze | 0.60% | ~661 |
-| Going Public! | 0.60% | ~661 |
-| Variety Player - Gold | 0.50% | ~551 |
-| Challenge Master | 0.50% | ~551 |
+| Standing on the Shoulders of Giants - Bronze | 0.60% | ~662 |
+| Going Public! | 0.60% | ~662 |
+| Variety Player - Gold | 0.50% | ~552 |
+| Challenge Master | 0.50% | ~552 |
 | Getting Equipped! | 0.40% | ~441 |
 | Getting Creative - Bronze | 0.30% | ~331 |
 | Reap the Rewards! | 0.30% | ~331 |
 | Grouping Up - Silver | 0.30% | ~331 |
-| Standing on the Shoulders of Giants - Silver | 0.20% | ~220 |
-| Getting Creative - Silver | 0.20% | ~220 |
-| Featured Gamer - Bronze | 0.20% | ~220 |
-| Express Yourself - Gold | 0.20% | ~220 |
-| These Are a Few of My Favorite Things - Silver | 0.20% | ~220 |
+| Standing on the Shoulders of Giants - Silver | 0.20% | ~221 |
+| Getting Creative - Silver | 0.20% | ~221 |
+| Featured Gamer - Bronze | 0.20% | ~221 |
+| Express Yourself - Gold | 0.20% | ~221 |
+| These Are a Few of My Favorite Things - Silver | 0.20% | ~221 |
 | These Are a Few of My Favorite Things - Gold | 0.10% | ~110 |
 | Standing on the Shoulders of Giants - Gold | 0.10% | ~110 |
 | Getting Creative - Gold | 0.10% | ~110 |
@@ -41,8 +41,8 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,239 (Ranked 120)  
-Completed: 5 (0.00%) (Ranked 528)  
+Progressed: 110,320 (Ranked 125)  
+Completed: 5 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,6 +314,7 @@ Completed: 5 (0.00%) (Ranked 528)
 | 2024-03-21 | 110,110 | 5 |
 | 2024-04-10 | 110,136 | 5 |
 | 2024-06-17 | 110,239 | 5 |
+| 2024-08-09 | 110,320 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 539)  
 Sum: 370 (Ranked 426)  

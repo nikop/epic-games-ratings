@@ -2,13 +2,13 @@
   "ID": "4de5e06a60314c12ada34d918e65cfda",
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 355,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_PopularitySum": 354,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T00:00:00+00:00",
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2024-05-16T18:57:41.1739302+00:00",
@@ -1416,10 +1416,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 762,
       "NumberOfAwardsMax": 233
+    },
+    {
+      "Time": "2024-08-09T17:58:11.5464503+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 769,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 762,
+  "NumberOfAwards": 769,
   "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1433,7 +1439,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 93
+      "Count": 98
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1457,7 +1463,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Competitive Players",
@@ -1496,8 +1502,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-08-09T13:09:56.0160199+00:00",
+  "LastChanged": "2024-08-09T17:58:11.5464501+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:55.8754857+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:08.9902869+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:01:54.1629684+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:11.5464506+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:50.2776941+00:00"
 }

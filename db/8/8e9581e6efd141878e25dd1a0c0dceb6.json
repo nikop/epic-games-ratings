@@ -2,10 +2,10 @@
   "ID": "8e9581e6efd141878e25dd1a0c0dceb6",
   "Name": "Green Hawk Platoon",
   "ProductSlug": "green-hawk-platoon-218d49",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:28.8276034+00:00",
-  "LastChanged_Achievements": "2024-07-30T02:04:22.579937+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:42.269275+00:00",
   "LastUpdate_AppInfo": "2024-08-05T16:57:36.0734439+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:24.7055815+00:00",
-  "LastUpdate_Achievements": "2024-07-30T02:04:22.5799428+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:44.1963678+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:42.2692804+00:00"
 }

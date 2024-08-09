@@ -5,10 +5,10 @@
   "Ranking_Rating": 619,
   "Ranking_Popularity": 460,
   "Ranking_PopularitySum": 444,
-  "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 503,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 113,
+  "Ranking_EOS_Completed": 524,
+  "Ranking_EOS_NewPlayers": 15,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2024-04-18T15:00:00+00:00",
     "PcReleaseDate": "2023-08-25T17:00:00+00:00",
@@ -1448,10 +1448,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 141191,
-  "EOS_Completed": 18,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 141975,
+  "EOS_Completed": 20,
+  "EOS_NewPlayers": 784,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -1463,6 +1463,11 @@
       "Time": "2024-07-30T16:02:39.6045045+00:00",
       "NumProgressed": 141191,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-08-09T18:08:12.0394841+00:00",
+      "NumProgressed": 141975,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:33.4303839+00:00",
@@ -1475,7 +1480,7 @@
       "Name": "Adoration",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "1",
@@ -1483,7 +1488,7 @@
       "Name": "Idolize",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "10",
@@ -1491,7 +1496,7 @@
       "Name": "Protector",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "100",
@@ -1499,7 +1504,7 @@
       "Name": "Occultist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "101",
@@ -1507,7 +1512,7 @@
       "Name": "Dark Magician",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "102",
@@ -1515,7 +1520,7 @@
       "Name": "Charmer",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "103",
@@ -1523,7 +1528,7 @@
       "Name": "Diabolist",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "104",
@@ -1531,7 +1536,7 @@
       "Name": "The Nightmare",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "105",
@@ -1539,7 +1544,7 @@
       "Name": "Insomnia",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "106",
@@ -1547,7 +1552,7 @@
       "Name": "Restless",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "107",
@@ -1555,7 +1560,7 @@
       "Name": "The Bringer of Insanity",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "108",
@@ -1563,7 +1568,7 @@
       "Name": "Enthrall",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "109",
@@ -1571,7 +1576,7 @@
       "Name": "Charm",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "11",
@@ -1579,7 +1584,7 @@
       "Name": "Warden",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "110",
@@ -1587,7 +1592,7 @@
       "Name": "Hypnotize",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "111",
@@ -1595,7 +1600,7 @@
       "Name": "Mesmerize",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "112",
@@ -1603,7 +1608,7 @@
       "Name": "Spellslinger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "113",
@@ -1611,7 +1616,7 @@
       "Name": "Accursed",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "114",
@@ -1619,7 +1624,7 @@
       "Name": "Hocus Pocus",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "115",
@@ -1627,7 +1632,7 @@
       "Name": "Abracadabra",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "116",
@@ -1635,7 +1640,7 @@
       "Name": "Hallucination",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "117",
@@ -1643,7 +1648,7 @@
       "Name": "Mirage",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "118",
@@ -1651,7 +1656,7 @@
       "Name": "Optical Illusion",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "119",
@@ -1659,7 +1664,7 @@
       "Name": "Deceptive Imagery",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "12",
@@ -1667,7 +1672,7 @@
       "Name": "Priest",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14198
     },
     {
       "ID": "120",
@@ -1675,7 +1680,7 @@
       "Name": "Bad Luck",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "121",
@@ -1683,7 +1688,7 @@
       "Name": "Nemesis",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "122",
@@ -1691,7 +1696,7 @@
       "Name": "Misfortune",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "123",
@@ -1699,7 +1704,7 @@
       "Name": "Black Cat",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "124",
@@ -1707,7 +1712,7 @@
       "Name": "Gaze of Stone",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "125",
@@ -1715,7 +1720,7 @@
       "Name": "House of Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "126",
@@ -1723,7 +1728,7 @@
       "Name": "Dust to Dust",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "127",
@@ -1731,7 +1736,7 @@
       "Name": "The Gorgon",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "128",
@@ -1739,7 +1744,7 @@
       "Name": "Raise Zombie!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "129",
@@ -1747,7 +1752,7 @@
       "Name": "Army of the Dead",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "13",
@@ -1755,7 +1760,7 @@
       "Name": "Healer",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "130",
@@ -1763,7 +1768,7 @@
       "Name": "Day of the Dead",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "131",
@@ -1771,7 +1776,7 @@
       "Name": "Zombie Apocalypse",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "132",
@@ -1779,7 +1784,7 @@
       "Name": "Silent but Deadly",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "133",
@@ -1787,7 +1792,7 @@
       "Name": "Poison Beverage",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "134",
@@ -1795,7 +1800,7 @@
       "Name": "Toxic",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "135",
@@ -1803,7 +1808,7 @@
       "Name": "Miasma",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "136",
@@ -1811,7 +1816,7 @@
       "Name": "Alchemist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "137",
@@ -1819,7 +1824,7 @@
       "Name": "Eye of Newt",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "138",
@@ -1827,7 +1832,7 @@
       "Name": "Vial Juggler",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "139",
@@ -1835,7 +1840,7 @@
       "Name": "Elixir of Victory",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "14",
@@ -1843,7 +1848,7 @@
       "Name": "Diviner",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "140",
@@ -1851,7 +1856,7 @@
       "Name": "Black Magic",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "141",
@@ -1859,7 +1864,7 @@
       "Name": "Dark Arts",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "142",
@@ -1867,7 +1872,7 @@
       "Name": "Witchcraft",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "143",
@@ -1875,7 +1880,7 @@
       "Name": "Blood Ritual",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "144",
@@ -1883,7 +1888,7 @@
       "Name": "Mumbo Jumbo",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "145",
@@ -1891,7 +1896,7 @@
       "Name": "Bad Juju",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "146",
@@ -1899,7 +1904,7 @@
       "Name": "Speechlessness",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "147",
@@ -1907,7 +1912,7 @@
       "Name": "Silence",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "148",
@@ -1915,7 +1920,7 @@
       "Name": "Ferocious",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "149",
@@ -1923,7 +1928,7 @@
       "Name": "Predator",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "15",
@@ -1931,7 +1936,7 @@
       "Name": "Elder",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "150",
@@ -1939,7 +1944,7 @@
       "Name": "Devourer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "151",
@@ -1947,7 +1952,7 @@
       "Name": "Apex",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "152",
@@ -1955,7 +1960,7 @@
       "Name": "Domination",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "153",
@@ -1963,7 +1968,7 @@
       "Name": "Puppet Master",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "154",
@@ -1971,7 +1976,7 @@
       "Name": "Marionette",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "155",
@@ -1979,7 +1984,7 @@
       "Name": "Warlock",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "156",
@@ -1987,7 +1992,7 @@
       "Name": "Pyromaniac",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "157",
@@ -1995,7 +2000,7 @@
       "Name": "Firebug",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "158",
@@ -2003,7 +2008,7 @@
       "Name": "Incendiary",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "159",
@@ -2011,7 +2016,7 @@
       "Name": "Ifrit",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "16",
@@ -2019,7 +2024,7 @@
       "Name": "Medical Examiner",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "160",
@@ -2027,7 +2032,7 @@
       "Name": "Droughtbringer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "161",
@@ -2035,7 +2040,7 @@
       "Name": "Starvation",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "162",
@@ -2043,7 +2048,7 @@
       "Name": "Moldy Bread",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "163",
@@ -2051,7 +2056,7 @@
       "Name": "Grain Shortage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "164",
@@ -2059,7 +2064,7 @@
       "Name": "Bloodshed",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "165",
@@ -2067,7 +2072,7 @@
       "Name": "Warfare",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "166",
@@ -2075,7 +2080,7 @@
       "Name": "Onslaught",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "167",
@@ -2083,7 +2088,7 @@
       "Name": "Blitzkrieg",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "168",
@@ -2091,7 +2096,7 @@
       "Name": "Cataclysm",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "169",
@@ -2099,7 +2104,7 @@
       "Name": "Calamity",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "17",
@@ -2107,7 +2112,7 @@
       "Name": "Autopsy",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "170",
@@ -2115,7 +2120,7 @@
       "Name": "Destiny",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "171",
@@ -2123,7 +2128,7 @@
       "Name": "Prediction",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "172",
@@ -2131,7 +2136,7 @@
       "Name": "Firing Squad",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "173",
@@ -2139,7 +2144,7 @@
       "Name": "Guillotine",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "174",
@@ -2147,7 +2152,7 @@
       "Name": "Hangman",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "175",
@@ -2155,7 +2160,7 @@
       "Name": "Iron Maiden",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "176",
@@ -2163,7 +2168,7 @@
       "Name": "Joker",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "177",
@@ -2171,7 +2176,7 @@
       "Name": "Clown",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "178",
@@ -2179,7 +2184,7 @@
       "Name": "Prankster",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "179",
@@ -2187,7 +2192,7 @@
       "Name": "Lunatic",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "18",
@@ -2195,7 +2200,7 @@
       "Name": "Obituary",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "180",
@@ -2203,7 +2208,7 @@
       "Name": "ARG!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "181",
@@ -2211,7 +2216,7 @@
       "Name": "Plunder",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "182",
@@ -2219,7 +2224,7 @@
       "Name": "X Marks the Spot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "183",
@@ -2227,7 +2232,7 @@
       "Name": "Edward Teach",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "184",
@@ -2235,7 +2240,7 @@
       "Name": "Diseased",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "185",
@@ -2243,7 +2248,7 @@
       "Name": "Infectious",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "186",
@@ -2251,7 +2256,7 @@
       "Name": "Virulent",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "187",
@@ -2259,7 +2264,7 @@
       "Name": "Pestilent",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "188",
@@ -2267,7 +2272,7 @@
       "Name": "Lonely Killer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "189",
@@ -2275,7 +2280,7 @@
       "Name": "Murderer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "19",
@@ -2283,7 +2288,7 @@
       "Name": "Coroner\u0027s Report",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "190",
@@ -2291,7 +2296,7 @@
       "Name": "Psychopath",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "191",
@@ -2299,7 +2304,7 @@
       "Name": "Sociopath",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "192",
@@ -2307,7 +2312,7 @@
       "Name": "Cloak",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "193",
@@ -2315,7 +2320,7 @@
       "Name": "Veil",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "194",
@@ -2323,7 +2328,7 @@
       "Name": "Shadow",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "195",
@@ -2331,7 +2336,7 @@
       "Name": "Shade",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "196",
@@ -2339,7 +2344,7 @@
       "Name": "Extinction",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "197",
@@ -2347,7 +2352,7 @@
       "Name": "Oblivion",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "198",
@@ -2355,7 +2360,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "199",
@@ -2363,7 +2368,7 @@
       "Name": "Shinigami",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "2",
@@ -2371,7 +2376,7 @@
       "Name": "Cherish",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "20",
@@ -2379,7 +2384,7 @@
       "Name": "Divine Protector",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "200",
@@ -2387,7 +2392,7 @@
       "Name": "Sharp Claws",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "201",
@@ -2395,7 +2400,7 @@
       "Name": "Lycan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "202",
@@ -2403,7 +2408,7 @@
       "Name": "Wild Beast",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "203",
@@ -2411,15 +2416,15 @@
       "Name": "Mauled",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "204",
       "SetID": "lbkge0",
       "Name": "Initiation",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 52241
+      "UsersEstimate": 51111
     },
     {
       "ID": "205",
@@ -2427,7 +2432,7 @@
       "Name": "Novice",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18355
+      "UsersEstimate": 18457
     },
     {
       "ID": "206",
@@ -2435,7 +2440,7 @@
       "Name": "Apprentice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "207",
@@ -2443,7 +2448,7 @@
       "Name": "Dedicated",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "208",
@@ -2451,7 +2456,7 @@
       "Name": "Patriarch",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "209",
@@ -2459,7 +2464,7 @@
       "Name": "Zealous",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "21",
@@ -2467,15 +2472,15 @@
       "Name": "Righteous Fury",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "210",
       "SetID": "lbkge0",
       "Name": "Iconic",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 200,
-      "UsersEstimate": 424
+      "UsersEstimate": 568
     },
     {
       "ID": "211",
@@ -2483,15 +2488,15 @@
       "Name": "Adept of the Town",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "212",
       "SetID": "lbkge0",
       "Name": "Savant of Magic",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 565
+      "UsersEstimate": 710
     },
     {
       "ID": "213",
@@ -2499,7 +2504,7 @@
       "Name": "Savant of Neutrality",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "214",
@@ -2507,7 +2512,7 @@
       "Name": "Town of Salem Expert",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "215",
@@ -2515,7 +2520,7 @@
       "Name": "Close Call",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "216",
@@ -2523,7 +2528,7 @@
       "Name": "Marathon",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "217",
@@ -2531,7 +2536,7 @@
       "Name": "The Perfect Town",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "218",
@@ -2539,7 +2544,7 @@
       "Name": "The Perfect Coven",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "219",
@@ -2547,7 +2552,7 @@
       "Name": "Consolation Prize",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 33886
+      "UsersEstimate": 34074
     },
     {
       "ID": "22",
@@ -2555,7 +2560,7 @@
       "Name": "Devotion",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "220",
@@ -2563,7 +2568,7 @@
       "Name": "Improbable",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "221",
@@ -2571,7 +2576,7 @@
       "Name": "Lonely",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15617
     },
     {
       "ID": "222",
@@ -2579,7 +2584,7 @@
       "Name": "Will You Be Mine?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "223",
@@ -2587,7 +2592,7 @@
       "Name": "Falling In Love",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "224",
@@ -2595,7 +2600,7 @@
       "Name": "Rejection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "225",
@@ -2603,7 +2608,7 @@
       "Name": "Heartbroken",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "226",
@@ -2611,7 +2616,7 @@
       "Name": "Forgetful Healer",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "227",
@@ -2619,7 +2624,7 @@
       "Name": "Distracted Constable",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "228",
@@ -2627,7 +2632,7 @@
       "Name": "Absent-Minded Politician",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "229",
@@ -2635,7 +2640,7 @@
       "Name": "Asleep On The Job",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "23",
@@ -2643,7 +2648,7 @@
       "Name": "Deus Vult",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "230",
@@ -2651,7 +2656,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "231",
@@ -2659,7 +2664,7 @@
       "Name": "Bulletproof",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "232",
@@ -2667,7 +2672,7 @@
       "Name": "Tango Down",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "233",
@@ -2675,7 +2680,7 @@
       "Name": "Sacrificial Lamb",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "234",
@@ -2683,7 +2688,7 @@
       "Name": "Blessed Recovery",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12707
+      "UsersEstimate": 12778
     },
     {
       "ID": "235",
@@ -2691,7 +2696,7 @@
       "Name": "Divine Shield",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "236",
@@ -2699,7 +2704,7 @@
       "Name": "Prayer of Mending",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "237",
@@ -2707,7 +2712,7 @@
       "Name": "Cleanse",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "238",
@@ -2715,7 +2720,7 @@
       "Name": "Postmortem",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "239",
@@ -2723,7 +2728,7 @@
       "Name": "DNA Evidence",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "24",
@@ -2731,7 +2736,7 @@
       "Name": "Deputize",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "240",
@@ -2739,7 +2744,7 @@
       "Name": "Master of Dissection",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "241",
@@ -2747,7 +2752,7 @@
       "Name": "Plagued Corpse",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "242",
@@ -2755,7 +2760,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "243",
@@ -2763,7 +2768,7 @@
       "Name": "Blessing of Protection",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "244",
@@ -2771,7 +2776,7 @@
       "Name": "Holy Boon",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "245",
@@ -2779,7 +2784,7 @@
       "Name": "Trivial Crusade",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "246",
@@ -2787,7 +2792,7 @@
       "Name": "Assasination",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9883
+      "UsersEstimate": 9938
     },
     {
       "ID": "247",
@@ -2795,7 +2800,7 @@
       "Name": "Apocalyptic Defense",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "248",
@@ -2803,7 +2808,7 @@
       "Name": "Taken Care Of",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "249",
@@ -2811,7 +2816,7 @@
       "Name": "Quickdraw",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "25",
@@ -2819,7 +2824,7 @@
       "Name": "Lieutenant",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "250",
@@ -2827,7 +2832,7 @@
       "Name": "No Evidence",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19767
+      "UsersEstimate": 19877
     },
     {
       "ID": "251",
@@ -2835,7 +2840,7 @@
       "Name": "Finger Prints",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12707
+      "UsersEstimate": 12778
     },
     {
       "ID": "252",
@@ -2843,7 +2848,7 @@
       "Name": "Wasted Night",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "253",
@@ -2851,7 +2856,7 @@
       "Name": "Deranged Forensics",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "254",
@@ -2859,7 +2864,7 @@
       "Name": "Execution",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "255",
@@ -2867,7 +2872,7 @@
       "Name": "Flawless Executioner",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "256",
@@ -2875,7 +2880,7 @@
       "Name": "Making The Right Choice",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "257",
@@ -2883,7 +2888,7 @@
       "Name": "Failed Execution",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "258",
@@ -2891,7 +2896,7 @@
       "Name": "I See You",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "259",
@@ -2899,7 +2904,7 @@
       "Name": "It\u0027s A Party",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "26",
@@ -2907,7 +2912,7 @@
       "Name": "Commissioner",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "260",
@@ -2915,15 +2920,15 @@
       "Name": "Prison Watchguard",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "261",
       "SetID": "4a1hjjf",
       "Name": "Psychotic Stalker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 710
     },
     {
       "ID": "262",
@@ -2931,7 +2936,7 @@
       "Name": "Bureaucratic Leadership",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14198
     },
     {
       "ID": "263",
@@ -2939,7 +2944,7 @@
       "Name": "Scales of Justice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "264",
@@ -2947,7 +2952,7 @@
       "Name": "Due Process",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "265",
@@ -2955,7 +2960,7 @@
       "Name": "Rigged Jury",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "266",
@@ -2963,7 +2968,7 @@
       "Name": "Champion of the Town",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "267",
@@ -2971,7 +2976,7 @@
       "Name": "Stacked Jury",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "268",
@@ -2979,7 +2984,7 @@
       "Name": "Risky Strategy",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "269",
@@ -2987,7 +2992,7 @@
       "Name": "Dementia",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "27",
@@ -2995,7 +3000,7 @@
       "Name": "Second-In-Command",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "270",
@@ -3003,7 +3008,7 @@
       "Name": "Indict",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "271",
@@ -3011,7 +3016,7 @@
       "Name": "Triumphant Prosecution",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "272",
@@ -3019,7 +3024,7 @@
       "Name": "Taking One For The Team",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "273",
@@ -3027,7 +3032,7 @@
       "Name": "Apocalypse Averted",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "274",
@@ -3035,7 +3040,7 @@
       "Name": "Supernatural Vision",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9883
+      "UsersEstimate": 9938
     },
     {
       "ID": "275",
@@ -3043,7 +3048,7 @@
       "Name": "Not Looking Good",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "276",
@@ -3051,7 +3056,7 @@
       "Name": "The Gift of Sight",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "277",
@@ -3059,7 +3064,7 @@
       "Name": "Irrational Visions",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "278",
@@ -3067,7 +3072,7 @@
       "Name": "Once More Sherlock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "279",
@@ -3075,7 +3080,7 @@
       "Name": "Vigilante\u0027s Redemption",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "28",
@@ -3083,23 +3088,23 @@
       "Name": "Detective",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14198
     },
     {
       "ID": "280",
       "SetID": "4a1hjjf",
       "Name": "Unholy Crusade",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 568
     },
     {
       "ID": "281",
       "SetID": "4a1hjjf",
       "Name": "Self Promotion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 568
     },
     {
       "ID": "282",
@@ -3107,7 +3112,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 15531
+      "UsersEstimate": 15617
     },
     {
       "ID": "283",
@@ -3115,7 +3120,7 @@
       "Name": "Opposites Attract",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19767
+      "UsersEstimate": 19877
     },
     {
       "ID": "284",
@@ -3123,7 +3128,7 @@
       "Name": "Broken Crystal Ball",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "285",
@@ -3131,7 +3136,7 @@
       "Name": "Demented Oracle",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "286",
@@ -3139,7 +3144,7 @@
       "Name": "Busted",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 16943
+      "UsersEstimate": 17037
     },
     {
       "ID": "287",
@@ -3147,7 +3152,7 @@
       "Name": "Not Suspicious",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 21179
+      "UsersEstimate": 21296
     },
     {
       "ID": "288",
@@ -3155,15 +3160,15 @@
       "Name": "Assisted Interrogation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "289",
       "SetID": "4a1hjjf",
       "Name": "Paranoid Interrogation",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 852
     },
     {
       "ID": "29",
@@ -3171,7 +3176,7 @@
       "Name": "Gumshoe",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "290",
@@ -3179,7 +3184,7 @@
       "Name": "Sleep It Off",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "291",
@@ -3187,7 +3192,7 @@
       "Name": "Operation: Dominion",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "292",
@@ -3195,7 +3200,7 @@
       "Name": "Voodoo Spy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "293",
@@ -3203,7 +3208,7 @@
       "Name": "Operative of Dreams",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "294",
@@ -3211,7 +3216,7 @@
       "Name": "Let\u0027s Party",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22591
+      "UsersEstimate": 22716
     },
     {
       "ID": "295",
@@ -3219,7 +3224,7 @@
       "Name": "Drinking With A Psychopath",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "296",
@@ -3227,7 +3232,7 @@
       "Name": "Party of One",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "297",
@@ -3235,7 +3240,7 @@
       "Name": "Insane, Plagued and Inebriated",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "298",
@@ -3243,7 +3248,7 @@
       "Name": "How Is That Possible?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "299",
@@ -3251,7 +3256,7 @@
       "Name": "This Is Awkward",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "3",
@@ -3259,7 +3264,7 @@
       "Name": "Worship",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "30",
@@ -3267,7 +3272,7 @@
       "Name": "Private Eye",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "300",
@@ -3275,7 +3280,7 @@
       "Name": "What Are You Up To?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "301",
@@ -3283,7 +3288,7 @@
       "Name": "Silly Witch",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "302",
@@ -3291,7 +3296,7 @@
       "Name": "Sportsman",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "303",
@@ -3299,7 +3304,7 @@
       "Name": "Spring-Loaded",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "304",
@@ -3307,7 +3312,7 @@
       "Name": "Busy Night",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "305",
@@ -3315,7 +3320,7 @@
       "Name": "War Approaches",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "306",
@@ -3323,7 +3328,7 @@
       "Name": "Risky Maneuvers",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "307",
@@ -3331,7 +3336,7 @@
       "Name": "Tricked Out of the Shadows",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "308",
@@ -3339,7 +3344,7 @@
       "Name": "Taunt the Necronomicon",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "309",
@@ -3347,7 +3352,7 @@
       "Name": "Full Moon Trickery",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "31",
@@ -3355,7 +3360,7 @@
       "Name": "Sherlock Holmes",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "310",
@@ -3363,7 +3368,7 @@
       "Name": "Massacre",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "311",
@@ -3371,7 +3376,7 @@
       "Name": "Weathered Soldier",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "312",
@@ -3379,7 +3384,7 @@
       "Name": "Proficient Paranoia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "313",
@@ -3387,7 +3392,7 @@
       "Name": "Going Down Fighting",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "314",
@@ -3395,7 +3400,7 @@
       "Name": "Vengeance",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11295
+      "UsersEstimate": 11358
     },
     {
       "ID": "315",
@@ -3403,7 +3408,7 @@
       "Name": "Perfect Shot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "316",
@@ -3411,7 +3416,7 @@
       "Name": "Controlled Weapon",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "317",
@@ -3419,7 +3424,7 @@
       "Name": "Ouch",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "318",
@@ -3427,7 +3432,7 @@
       "Name": "Rival Gunslinger",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "319",
@@ -3435,7 +3440,7 @@
       "Name": "Unwise Reveal",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "32",
@@ -3443,7 +3448,7 @@
       "Name": "Prison Warden",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "320",
@@ -3451,7 +3456,7 @@
       "Name": "Dealt With",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "321",
@@ -3459,7 +3464,7 @@
       "Name": "Two For One Special",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "322",
@@ -3467,7 +3472,7 @@
       "Name": "The Matriarch",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "323",
@@ -3475,7 +3480,7 @@
       "Name": "Protection of the Necronomicon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "324",
@@ -3483,7 +3488,7 @@
       "Name": "Power of the Necronomicon",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "325",
@@ -3491,7 +3496,7 @@
       "Name": "This Is Suspicious",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "326",
@@ -3499,7 +3504,7 @@
       "Name": "Unsound Mind",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "327",
@@ -3507,7 +3512,7 @@
       "Name": "Triple Insomnia",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "328",
@@ -3515,7 +3520,7 @@
       "Name": "Knight of Nightmares",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "329",
@@ -3523,7 +3528,7 @@
       "Name": "That Backfired",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "33",
@@ -3531,7 +3536,7 @@
       "Name": "Correctional Officer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "330",
@@ -3539,7 +3544,7 @@
       "Name": "Master of Deceit",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "331",
@@ -3547,7 +3552,7 @@
       "Name": "Altered Testament",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "332",
@@ -3555,7 +3560,7 @@
       "Name": "Marshal\u0027s Will",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "333",
@@ -3563,7 +3568,7 @@
       "Name": "Overwhelming Deception",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "334",
@@ -3571,7 +3576,7 @@
       "Name": "The First of Many",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "335",
@@ -3579,7 +3584,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "336",
@@ -3587,7 +3592,7 @@
       "Name": "Hexplosion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "337",
@@ -3595,15 +3600,15 @@
       "Name": "Astral Prominence",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "338",
       "SetID": "4a1hjjf",
       "Name": "Protect the Book Wielder",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 5679
     },
     {
       "ID": "339",
@@ -3611,7 +3616,7 @@
       "Name": "Fantastical",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "34",
@@ -3619,7 +3624,7 @@
       "Name": "Locked Up",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "340",
@@ -3627,7 +3632,7 @@
       "Name": "Assist The Leader",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "341",
@@ -3635,7 +3640,7 @@
       "Name": "Covert Poisoning",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "342",
@@ -3643,7 +3648,7 @@
       "Name": "No More Protection",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "343",
@@ -3651,7 +3656,7 @@
       "Name": "Double Ambush",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "344",
@@ -3659,7 +3664,7 @@
       "Name": "Why Are You Here?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "345",
@@ -3667,7 +3672,7 @@
       "Name": "Fullmoon Rampage",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "346",
@@ -3675,7 +3680,7 @@
       "Name": "Risky Play",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "347",
@@ -3683,15 +3688,15 @@
       "Name": "Hide The Evidence",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "348",
       "SetID": "4a1hjjf",
       "Name": "Could\u0027ve Been Anything",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 426
     },
     {
       "ID": "349",
@@ -3699,7 +3704,7 @@
       "Name": "That Was Challenging",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "35",
@@ -3707,7 +3712,7 @@
       "Name": "Penitentiary",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "350",
@@ -3715,7 +3720,7 @@
       "Name": "Rampage Once More",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "351",
@@ -3723,7 +3728,7 @@
       "Name": "Shadow Mending",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "352",
@@ -3731,7 +3736,7 @@
       "Name": "Reanimated Hexplosion",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "353",
@@ -3739,7 +3744,7 @@
       "Name": "Wage War Once Again",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "354",
@@ -3747,7 +3752,7 @@
       "Name": "Ineffective Brew",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "355",
@@ -3755,7 +3760,7 @@
       "Name": "Out of Cures",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "356",
@@ -3763,7 +3768,7 @@
       "Name": "Paranoia Can\u0027t Save you",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "357",
@@ -3771,7 +3776,7 @@
       "Name": "A Venomous Trick",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "358",
@@ -3779,7 +3784,7 @@
       "Name": "Bottle Juggler",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "359",
@@ -3787,7 +3792,7 @@
       "Name": "Critical Information",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "36",
@@ -3795,7 +3800,7 @@
       "Name": "Sentry",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "360",
@@ -3803,7 +3808,7 @@
       "Name": "Priorities",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "361",
@@ -3811,7 +3816,7 @@
       "Name": "I Have Been Tricked",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "362",
@@ -3819,7 +3824,7 @@
       "Name": "No Guessing Required",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "363",
@@ -3827,7 +3832,7 @@
       "Name": "Guaranteed Success",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "364",
@@ -3835,7 +3840,7 @@
       "Name": "Unlimited Power",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "365",
@@ -3843,7 +3848,7 @@
       "Name": "Sorcery Vs Doom",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "366",
@@ -3851,7 +3856,7 @@
       "Name": "Sewn Shut",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "367",
@@ -3859,7 +3864,7 @@
       "Name": "Peace and Quiet",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "368",
@@ -3867,7 +3872,7 @@
       "Name": "Sworn to Secrecy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "369",
@@ -3875,7 +3880,7 @@
       "Name": "Silent Ballot",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "37",
@@ -3883,7 +3888,7 @@
       "Name": "Eagle Eye",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "370",
@@ -3891,7 +3896,7 @@
       "Name": "Red Alert",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "371",
@@ -3899,7 +3904,7 @@
       "Name": "Nature\u0027s Observer",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "372",
@@ -3907,7 +3912,7 @@
       "Name": "Sixth Sense",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "373",
@@ -3915,7 +3920,7 @@
       "Name": "Wild Spray",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "374",
@@ -3923,15 +3928,15 @@
       "Name": "Two Birds, One Stone",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "375",
       "SetID": "4a1hjjf",
       "Name": "Double-Edged Sword",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 426
     },
     {
       "ID": "376",
@@ -3939,7 +3944,7 @@
       "Name": "Controlled Elevation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "377",
@@ -3947,7 +3952,7 @@
       "Name": "Resistance Is Futile",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "378",
@@ -3955,7 +3960,7 @@
       "Name": "Disco Inferno",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "379",
@@ -3963,7 +3968,7 @@
       "Name": "Blazing Penetentiary",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "38",
@@ -3971,7 +3976,7 @@
       "Name": "Hawk",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "380",
@@ -3979,7 +3984,7 @@
       "Name": "Drenched",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "381",
@@ -3987,7 +3992,7 @@
       "Name": "This Complicates Things",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "382",
@@ -3995,7 +4000,7 @@
       "Name": "Feast or Famine",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "383",
@@ -4003,7 +4008,7 @@
       "Name": "Swift Famine",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "384",
@@ -4011,7 +4016,7 @@
       "Name": "Bars Cannot Stop Famine",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "385",
@@ -4019,7 +4024,7 @@
       "Name": "Famine Ravages The Town",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "386",
@@ -4027,7 +4032,7 @@
       "Name": "War Emerges",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "387",
@@ -4035,7 +4040,7 @@
       "Name": "Racing To War",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "388",
@@ -4043,7 +4048,7 @@
       "Name": "The Art of War",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "389",
@@ -4051,7 +4056,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "39",
@@ -4059,7 +4064,7 @@
       "Name": "Sentinel",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "390",
@@ -4067,7 +4072,7 @@
       "Name": "The Town\u0027s Cataclysm",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "391",
@@ -4075,7 +4080,7 @@
       "Name": "Calamity of the Coven",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "392",
@@ -4083,7 +4088,7 @@
       "Name": "Neutral Catastrophe",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "393",
@@ -4091,7 +4096,7 @@
       "Name": "Accelerated Annihilation",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "394",
@@ -4099,7 +4104,7 @@
       "Name": "Quick Execution",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "395",
@@ -4107,7 +4112,7 @@
       "Name": "Execute the Leader",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "396",
@@ -4115,7 +4120,7 @@
       "Name": "Double Jeopardy",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "397",
@@ -4123,7 +4128,7 @@
       "Name": "Difficult Task",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "398",
@@ -4131,7 +4136,7 @@
       "Name": "Not Taking Sides",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 988
+      "UsersEstimate": 994
     },
     {
       "ID": "399",
@@ -4139,7 +4144,7 @@
       "Name": "Prosecution Backfired",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "4",
@@ -4147,7 +4152,7 @@
       "Name": "Oblivious",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "40",
@@ -4155,7 +4160,7 @@
       "Name": "Supervisor",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12707
+      "UsersEstimate": 12778
     },
     {
       "ID": "400",
@@ -4163,7 +4168,7 @@
       "Name": "Anti-Town",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "401",
@@ -4171,7 +4176,7 @@
       "Name": "Widower",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "402",
@@ -4179,7 +4184,7 @@
       "Name": "On a Roll",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "403",
@@ -4187,7 +4192,7 @@
       "Name": "Avoided Retaliation",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "404",
@@ -4195,7 +4200,7 @@
       "Name": "Scalawag!",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "405",
@@ -4203,7 +4208,7 @@
       "Name": "Dueling the Apocalypse",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "406",
@@ -4211,7 +4216,7 @@
       "Name": "A God Among Us",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "407",
@@ -4219,7 +4224,7 @@
       "Name": "Succumbed To Pestilence",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "408",
@@ -4227,7 +4232,7 @@
       "Name": "Abrupt Pandemic",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "409",
@@ -4235,7 +4240,7 @@
       "Name": "Plundering Plague",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "41",
@@ -4243,7 +4248,7 @@
       "Name": "Ambassador",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "410",
@@ -4251,7 +4256,7 @@
       "Name": "Dexter Morgan",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "411",
@@ -4259,7 +4264,7 @@
       "Name": "Bloodlust",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9883
+      "UsersEstimate": 9938
     },
     {
       "ID": "412",
@@ -4267,7 +4272,7 @@
       "Name": "Bay Harbor Butcher",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "413",
@@ -4275,7 +4280,7 @@
       "Name": "Rock, Paper, Knife",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "414",
@@ -4283,7 +4288,7 @@
       "Name": "Stalker\u0027s Victim",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "415",
@@ -4291,7 +4296,7 @@
       "Name": "Setup",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "416",
@@ -4299,15 +4304,15 @@
       "Name": "Framed",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "417",
       "SetID": "4a1hjjf",
       "Name": "Do You Seer What I Seer?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 852
     },
     {
       "ID": "418",
@@ -4315,7 +4320,7 @@
       "Name": "Death Itself",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2840
     },
     {
       "ID": "419",
@@ -4323,7 +4328,7 @@
       "Name": "Expeditious Death",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "42",
@@ -4331,7 +4336,7 @@
       "Name": "Executive",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "420",
@@ -4339,7 +4344,7 @@
       "Name": "Total Obliteration",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "421",
@@ -4347,7 +4352,7 @@
       "Name": "Invincibility",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "422",
@@ -4355,7 +4360,7 @@
       "Name": "Jailbreak",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "423",
@@ -4363,7 +4368,7 @@
       "Name": "Rampage",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "424",
@@ -4371,7 +4376,7 @@
       "Name": "Slicing Up The Coven",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "425",
@@ -4379,7 +4384,7 @@
       "Name": "Heartbreak On A Fullmoon",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "426",
@@ -4387,7 +4392,7 @@
       "Name": "Partygoer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "427",
@@ -4395,7 +4400,7 @@
       "Name": "Fashionista",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "428",
@@ -4403,7 +4408,7 @@
       "Name": "Merrymaker",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "429",
@@ -4411,7 +4416,7 @@
       "Name": "Night Owl",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "43",
@@ -4419,7 +4424,7 @@
       "Name": "Command And Chief",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "430",
@@ -4427,7 +4432,7 @@
       "Name": "Judiciary",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "431",
@@ -4435,7 +4440,7 @@
       "Name": "Hearing",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "432",
@@ -4443,7 +4448,7 @@
       "Name": "Council",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "433",
@@ -4451,7 +4456,7 @@
       "Name": "Court",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "434",
@@ -4459,7 +4464,7 @@
       "Name": "Celebration",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "435",
@@ -4467,15 +4472,15 @@
       "Name": "Rave",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4259
     },
     {
       "ID": "436",
       "SetID": "4a1hjjf",
       "Name": "Party of Two",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 568
     },
     {
       "ID": "437",
@@ -4483,7 +4488,7 @@
       "Name": "Assembly",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "438",
@@ -4491,7 +4496,7 @@
       "Name": "Witchhunt",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "439",
@@ -4499,7 +4504,7 @@
       "Name": "Commission for Death",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "44",
@@ -4507,7 +4512,7 @@
       "Name": "Emperor",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "45",
@@ -4515,7 +4520,7 @@
       "Name": "Royalty",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "46",
@@ -4523,7 +4528,7 @@
       "Name": "Sovereign",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "47",
@@ -4531,7 +4536,7 @@
       "Name": "Aristocrat",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "48",
@@ -4539,7 +4544,7 @@
       "Name": "Attorney",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "49",
@@ -4547,15 +4552,15 @@
       "Name": "Litigator",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "5",
       "SetID": "4a1hjjf",
       "Name": "Forgetful",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1278
     },
     {
       "ID": "50",
@@ -4563,7 +4568,7 @@
       "Name": "Indictor",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "51",
@@ -4571,7 +4576,7 @@
       "Name": "Blow the Whistle",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "52",
@@ -4579,7 +4584,7 @@
       "Name": "Clairvoyant",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "53",
@@ -4587,7 +4592,7 @@
       "Name": "Prophet",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "54",
@@ -4595,7 +4600,7 @@
       "Name": "Soothsayer",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "55",
@@ -4603,7 +4608,7 @@
       "Name": "Oracle",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "56",
@@ -4611,15 +4616,15 @@
       "Name": "The Avenger",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "57",
       "SetID": "4a1hjjf",
       "Name": "Vengeance",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1278
     },
     {
       "ID": "58",
@@ -4627,7 +4632,7 @@
       "Name": "Revitalize",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "59",
@@ -4635,7 +4640,7 @@
       "Name": "Reanimate",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "6",
@@ -4643,7 +4648,7 @@
       "Name": "Clouded Mind",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "60",
@@ -4651,7 +4656,7 @@
       "Name": "Tarot Reader",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14198
     },
     {
       "ID": "61",
@@ -4659,7 +4664,7 @@
       "Name": "Mystic",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "62",
@@ -4667,7 +4672,7 @@
       "Name": "Fortune-Teller",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 706
+      "UsersEstimate": 710
     },
     {
       "ID": "63",
@@ -4675,7 +4680,7 @@
       "Name": "Palm Reader",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "64",
@@ -4683,7 +4688,7 @@
       "Name": "Enforce The Law",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14198
     },
     {
       "ID": "65",
@@ -4691,7 +4696,7 @@
       "Name": "Marshall",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "66",
@@ -4699,7 +4704,7 @@
       "Name": "Constable",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "67",
@@ -4707,7 +4712,7 @@
       "Name": "P.I.",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "68",
@@ -4715,7 +4720,7 @@
       "Name": "Espionage",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "69",
@@ -4723,7 +4728,7 @@
       "Name": "Sleuth",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1136
     },
     {
       "ID": "7",
@@ -4731,7 +4736,7 @@
       "Name": "Blackout",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "70",
@@ -4739,7 +4744,7 @@
       "Name": "Undercover Agent",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "71",
@@ -4747,7 +4752,7 @@
       "Name": "CIA",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "72",
@@ -4755,7 +4760,7 @@
       "Name": "Inebriated",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 14119
+      "UsersEstimate": 14198
     },
     {
       "ID": "73",
@@ -4763,7 +4768,7 @@
       "Name": "Sloshed",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "74",
@@ -4771,7 +4776,7 @@
       "Name": "Plastered",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "75",
@@ -4779,7 +4784,7 @@
       "Name": "Wasted",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "76",
@@ -4787,7 +4792,7 @@
       "Name": "Low Jack",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "77",
@@ -4795,7 +4800,7 @@
       "Name": "Pathfinder",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "78",
@@ -4803,7 +4808,7 @@
       "Name": "Trail Chaser",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "79",
@@ -4811,7 +4816,7 @@
       "Name": "Bloodhound",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "8",
@@ -4819,7 +4824,7 @@
       "Name": "Chaperon",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "80",
@@ -4827,7 +4832,7 @@
       "Name": "It\u0027s a Trap!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7060
+      "UsersEstimate": 7099
     },
     {
       "ID": "81",
@@ -4835,7 +4840,7 @@
       "Name": "Bear Trap",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "82",
@@ -4843,7 +4848,7 @@
       "Name": "Hunter",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 568
     },
     {
       "ID": "83",
@@ -4851,7 +4856,7 @@
       "Name": "Master Trapper",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "84",
@@ -4859,7 +4864,7 @@
       "Name": "Deceiver",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "85",
@@ -4867,15 +4872,15 @@
       "Name": "Conniver",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "86",
       "SetID": "4a1hjjf",
       "Name": "Swindler",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 568
     },
     {
       "ID": "87",
@@ -4883,7 +4888,7 @@
       "Name": "Charlatan",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "88",
@@ -4891,7 +4896,7 @@
       "Name": "Battle-Hardened",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9883
+      "UsersEstimate": 9938
     },
     {
       "ID": "89",
@@ -4899,7 +4904,7 @@
       "Name": "Soldier",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1420
     },
     {
       "ID": "9",
@@ -4907,15 +4912,15 @@
       "Name": "Safeguard",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "90",
       "SetID": "4a1hjjf",
       "Name": "Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 710
     },
     {
       "ID": "91",
@@ -4923,7 +4928,7 @@
       "Name": "Sergeant",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "92",
@@ -4931,7 +4936,7 @@
       "Name": "Mercenary",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8471
+      "UsersEstimate": 8518
     },
     {
       "ID": "93",
@@ -4939,7 +4944,7 @@
       "Name": "Vigilante Justice",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1278
     },
     {
       "ID": "94",
@@ -4947,7 +4952,7 @@
       "Name": "Smoking Gun",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 426
     },
     {
       "ID": "95",
@@ -4955,7 +4960,7 @@
       "Name": "Judicatory",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "96",
@@ -4963,7 +4968,7 @@
       "Name": "Constructor",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5648
+      "UsersEstimate": 5679
     },
     {
       "ID": "97",
@@ -4971,7 +4976,7 @@
       "Name": "Inventor",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 852
     },
     {
       "ID": "98",
@@ -4979,7 +4984,7 @@
       "Name": "Fabricator",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 284
     },
     {
       "ID": "99",
@@ -4987,29 +4992,29 @@
       "Name": "Formulation",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "4a1hjjf",
       "IsBase": false,
-      "Progressed": 141191,
+      "Progressed": 141975,
       "Completed": 2
     },
     {
       "ID": "lbkge0",
       "IsBase": true,
-      "Progressed": 141191,
-      "Completed": 18
+      "Progressed": 141975,
+      "Completed": 20
     }
   ],
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
   "LastChanged": "2024-08-09T16:58:58.8961045+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:39.6045041+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:12.0394836+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:05.7420777+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:58.896105+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:39.6059164+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:49.4907877+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:12.040912+00:00"
 }

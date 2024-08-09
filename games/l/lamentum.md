@@ -5,28 +5,28 @@ Rating: 4.28 (Ranked 1,010)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The creature | 78.00% | ~307 |
-| Grau Hill | 76.00% | ~299 |
-| A forgotten language | 68.00% | ~267 |
-| Lord Wesley | 33.00% | ~130 |
-| One step down | 26.00% | ~102 |
-| My dear Magda | 26.00% | ~102 |
-| Lord Clayton | 22.00% | ~86 |
-| The other side of the mirror | 17.00% | ~67 |
-| Little Mary | 15.00% | ~59 |
-| There is freedom in awakening | 11.00% | ~43 |
-| Ritual | 10.00% | ~39 |
-| Cowardice | 9.00% | ~35 |
-| Bloodrush | 9.00% | ~35 |
-| The moth and the flame | 7.00% | ~28 |
-| True magic doesn't exist | 7.00% | ~28 |
-| Moon Cloudiness Sonata by Danloop | 5.00% | ~20 |
-| Redemption | 4.00% | ~16 |
+| The creature | 78.00% | ~324 |
+| Grau Hill | 76.00% | ~316 |
+| A forgotten language | 67.00% | ~279 |
+| Lord Wesley | 33.00% | ~137 |
+| One step down | 26.00% | ~108 |
+| My dear Magda | 26.00% | ~108 |
+| Lord Clayton | 22.00% | ~92 |
+| The other side of the mirror | 17.00% | ~71 |
+| Little Mary | 14.00% | ~58 |
+| There is freedom in awakening | 11.00% | ~46 |
+| Ritual | 10.00% | ~42 |
+| Cowardice | 9.00% | ~37 |
+| Bloodrush | 8.00% | ~33 |
+| The moth and the flame | 7.00% | ~29 |
+| True magic doesn't exist | 7.00% | ~29 |
+| Moon Cloudiness Sonata by Danloop | 5.00% | ~21 |
+| Redemption | 4.00% | ~17 |
 | Sacrifice | 3.00% | ~12 |
 | Lamentum | 3.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 483)  
-Completed: 11 (2.80%) (Ranked 164)  
+Progressed: 416 (Ranked 494)  
+Completed: 11 (2.64%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,6 +102,7 @@ Completed: 11 (2.80%) (Ranked 164)
 | 2024-03-21 | 365 | 10 |
 | 2024-04-10 | 366 | 10 |
 | 2024-06-17 | 393 | 11 |
+| 2024-08-09 | 416 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

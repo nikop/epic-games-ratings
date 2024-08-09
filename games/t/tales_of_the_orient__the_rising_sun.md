@@ -14,15 +14,15 @@
 | 5 Hours! | 35.00% | ~7 |
 | 10 Hours! | 30.00% | ~6 |
 | Almost there! | 30.00% | ~6 |
-| You did it! | 20.00% | ~4 |
+| You did it! | 25.00% | ~5 |
 | I can't stop playing! | 5.00% | ~1 |
 | Keep Going | 0.00% | ~0 |
 | Chain Mode | 0.00% | ~0 |
 | Pop Mode | 0.00% | ~0 |
 | Swap Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 839)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 20 (Ranked 864)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

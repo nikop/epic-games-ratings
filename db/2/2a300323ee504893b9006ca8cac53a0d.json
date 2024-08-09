@@ -2,10 +2,10 @@
   "ID": "2a300323ee504893b9006ca8cac53a0d",
   "Name": "Overrogue",
   "ProductSlug": "overrogue-3c0b98",
-  "Ranking_EOS_Progress": 916,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 947,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-06T00:00:00+00:00",
     "PcReleaseDate": "2022-07-06T15:00:00+00:00",
@@ -66,9 +66,9 @@
       "ID": "11",
       "SetID": "6e9c0b9",
       "Name": "The Pekoe",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "12",
@@ -265,8 +265,8 @@
   ],
   "FirstSeen": "2024-06-13T17:58:35.6592482+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:13.3978121+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:30.9979659+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:03.2388632+00:00",
   "LastUpdate_AppInfo": "2024-08-09T06:57:17.505708+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:08.5483711+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:30.9979843+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:59.4366557+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:03.2388769+00:00"
 }

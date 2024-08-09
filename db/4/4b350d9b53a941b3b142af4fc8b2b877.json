@@ -2,10 +2,10 @@
   "ID": "4b350d9b53a941b3b142af4fc8b2b877",
   "Name": "Post Soviet Strike: Chernobyl Legacy",
   "ProductSlug": "post-soviet-strike-chernobyl-legacy-659940",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-06-04T07:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T17:57:24.9350989+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:24.8531168+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:20.2281578+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:18.2588232+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:52.8993105+00:00"
 }

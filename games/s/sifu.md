@@ -6,69 +6,69 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 9.00% | ~70,593 |
-| Life is your teacher | 8.00% | ~62,750 |
-| The Assault | 7.00% | ~54,906 |
-| Lightning Hands | 7.00% | ~54,906 |
-| The Hateful Pole Fighter | 5.00% | ~39,219 |
-| State of constant learning | 5.00% | ~39,219 |
-| Old Child | 5.00% | ~39,219 |
-| A Lady's Blood in the Snow | 4.00% | ~31,375 |
-| Stuntmaster | 4.00% | ~31,375 |
-| Street Fighting | 4.00% | ~31,375 |
-| Qi Gong: Breath | 4.00% | ~31,375 |
-| Qi Gong: Essence | 4.00% | ~31,375 |
-| Rumble in the Hangar | 4.00% | ~31,375 |
-| Lady Wing Chun | 3.00% | ~23,531 |
-| Furious Fists | 3.00% | ~23,531 |
-| Kill Nil | 3.00% | ~23,531 |
-| Qi Gong: Mind | 3.00% | ~23,531 |
-| I know Kung-Fu | 3.00% | ~23,531 |
-| Path of the Prospect | 3.00% | ~23,531 |
-| Take damage to save time | 3.00% | ~23,531 |
-| Diligence as a goal | 3.00% | ~2,810 |
-| Scareless | 2.00% | ~15,687 |
-| Dance of the Praying Mantis | 2.00% | ~15,687 |
-| Kung-Fu Tussle | 2.00% | ~15,687 |
-| Project Arena | 2.00% | ~1,873 |
-| Muk Yan Master | 1.00% | ~7,844 |
-| Tiger on Fire | 1.00% | ~7,844 |
-| Source of Flying Daggers | 1.00% | ~7,844 |
-| Iron Money | 1.00% | ~7,844 |
-| Legendary Talismans of Wuxing | 1.00% | ~7,844 |
-| Prodigal Child | 1.00% | ~7,844 |
-| Detective Story | 1.00% | ~7,844 |
-| The 36th Chamber of Kung-Fu | 1.00% | ~7,844 |
-| Sword Stained With Blood | 1.00% | ~7,844 |
-| Bloody Sport | 1.00% | ~937 |
-| Martial Hub | 1.00% | ~937 |
-| Fight the way you practice | 1.00% | ~937 |
-| The best strikes are the ones we avoid | 0.80% | ~749 |
-| Knowledge Greed | 0.70% | ~5,491 |
-| The Pit Protector | 0.70% | ~5,491 |
-| Come Snap With Me | 0.70% | ~5,491 |
-| Drunken Fighter | 0.60% | ~4,706 |
-| Martial Artist | 0.60% | ~4,706 |
-| Deadly Venom | 0.60% | ~562 |
-| Healing Memory | 0.50% | ~3,922 |
-| Master of the Phoenix Eye Fist | 0.50% | ~3,922 |
-| Ferocity, speed, strength, accuracy | 0.50% | ~3,922 |
-| Be like water my friend | 0.50% | ~3,922 |
-| A Touch of Acumen | 0.50% | ~468 |
-| Secure, Protect, Leave | 0.30% | ~281 |
-| Skill and an even stronger will | 0.30% | ~281 |
-| Master of the Flying Assassins | 0.30% | ~281 |
-| Beatmaker | 0.30% | ~281 |
-| Crouching Tiger | 0.20% | ~187 |
-| Here Cometh the Iceman | 0.20% | ~187 |
-| Bonus Stage | 0.20% | ~187 |
-| A Bit Of Everything, Simultaneously | 0.20% | ~187 |
-| Warriors from the Mountain | 0.10% | ~784 |
-| Hidden Dragon | 0.10% | ~94 |
-| Fighter in the Pond | 0.10% | ~94 |
+| The Old Grandmaster | 9.00% | ~70,963 |
+| Life is your teacher | 8.00% | ~63,078 |
+| Lightning Hands | 8.00% | ~63,078 |
+| The Assault | 7.00% | ~55,193 |
+| The Hateful Pole Fighter | 5.00% | ~39,424 |
+| Stuntmaster | 5.00% | ~39,424 |
+| Street Fighting | 5.00% | ~39,424 |
+| State of constant learning | 5.00% | ~39,424 |
+| Qi Gong: Essence | 5.00% | ~39,424 |
+| Old Child | 5.00% | ~39,424 |
+| A Lady's Blood in the Snow | 4.00% | ~31,539 |
+| Lady Wing Chun | 4.00% | ~31,539 |
+| Kill Nil | 4.00% | ~31,539 |
+| Qi Gong: Breath | 4.00% | ~31,539 |
+| Path of the Prospect | 4.00% | ~31,539 |
+| Rumble in the Hangar | 4.00% | ~31,539 |
+| Diligence as a goal | 4.00% | ~3,911 |
+| Furious Fists | 3.00% | ~23,654 |
+| Qi Gong: Mind | 3.00% | ~23,654 |
+| I know Kung-Fu | 3.00% | ~23,654 |
+| Kung-Fu Tussle | 3.00% | ~23,654 |
+| Take damage to save time | 3.00% | ~23,654 |
+| Project Arena | 3.00% | ~2,933 |
+| Muk Yan Master | 2.00% | ~15,770 |
+| Scareless | 2.00% | ~15,770 |
+| Dance of the Praying Mantis | 2.00% | ~15,770 |
+| Tiger on Fire | 1.00% | ~7,885 |
+| Source of Flying Daggers | 1.00% | ~7,885 |
+| Iron Money | 1.00% | ~7,885 |
+| Legendary Talismans of Wuxing | 1.00% | ~7,885 |
+| Prodigal Child | 1.00% | ~7,885 |
+| Detective Story | 1.00% | ~7,885 |
+| The 36th Chamber of Kung-Fu | 1.00% | ~7,885 |
+| Sword Stained With Blood | 1.00% | ~7,885 |
+| Bloody Sport | 1.00% | ~978 |
+| Martial Hub | 1.00% | ~978 |
+| Fight the way you practice | 1.00% | ~978 |
+| The best strikes are the ones we avoid | 0.90% | ~880 |
+| Knowledge Greed | 0.80% | ~6,308 |
+| The Pit Protector | 0.80% | ~6,308 |
+| Drunken Fighter | 0.70% | ~5,519 |
+| Martial Artist | 0.70% | ~5,519 |
+| Come Snap With Me | 0.70% | ~5,519 |
+| Be like water my friend | 0.60% | ~4,731 |
+| Deadly Venom | 0.60% | ~587 |
+| Healing Memory | 0.50% | ~3,942 |
+| Master of the Phoenix Eye Fist | 0.50% | ~3,942 |
+| Ferocity, speed, strength, accuracy | 0.50% | ~3,942 |
+| A Touch of Acumen | 0.50% | ~489 |
+| Beatmaker | 0.40% | ~391 |
+| Secure, Protect, Leave | 0.30% | ~293 |
+| Crouching Tiger | 0.30% | ~293 |
+| Skill and an even stronger will | 0.30% | ~293 |
+| Master of the Flying Assassins | 0.30% | ~293 |
+| Here Cometh the Iceman | 0.20% | ~196 |
+| Bonus Stage | 0.20% | ~196 |
+| A Bit Of Everything, Simultaneously | 0.20% | ~196 |
+| Warriors from the Mountain | 0.10% | ~788 |
+| Hidden Dragon | 0.10% | ~98 |
+| Fighter in the Pond | 0.10% | ~98 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784,372 (Ranked 28)  
-Completed: 13,166 (1.68%) (Ranked 194)  
+Progressed: 788,475 (Ranked 28)  
+Completed: 13,211 (1.68%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,9 +354,10 @@ Completed: 13,166 (1.68%) (Ranked 194)
 | 2024-03-21 | 769,381 | 13,082 |
 | 2024-04-10 | 770,707 | 13,098 |
 | 2024-06-17 | 784,372 | 13,166 |
+| 2024-08-09 | 788,475 | 13,211 |
 ## Awards
 Max (Great Boss Battles): 8,164  (Ranked 67)  
-Sum: 14,109 (Ranked 96)  
+Sum: 14,110 (Ranked 96)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +367,7 @@ Diff (max vs sum): -29
 | This game is Highly Recommended | 745 |
 | This game has Unique Visuals | 730 |
 | This game has Amazing Characters | 726 |
-| This game has Amazing Storytelling | 723 |
+| This game has Amazing Storytelling | 724 |
 | This game is Extremely Fun | 700 |
 | This game has Quickly Understood Controls | 682 |
 | This game is Relaxing | 589 |
@@ -943,4 +944,4 @@ Diff (max vs sum): -29
 | 2024-08-06 | 4.82 | - | 8,150 | 14,079 |
 | 2024-08-07 | 4.82 | - | 8,154 | 14,087 |
 | 2024-08-08 | 4.82 | - | 8,164 | 14,105 |
-| 2024-08-09 | 4.82 | - | 8,164 | 14,109 |
+| 2024-08-09 | 4.82 | - | 8,164 | 14,110 |

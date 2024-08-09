@@ -6,53 +6,53 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 86.00% | ~703 |
-| Mash Machine | 80.00% | ~654 |
-| Ducks in a Row, Fish in a Barrel | 61.00% | ~498 |
-| Furon Fashion | 52.00% | ~425 |
-| Shop Til They Drop | 46.00% | ~376 |
-| Bodied Sattva | 45.00% | ~368 |
-| Cult Following | 40.00% | ~327 |
-| Earthly Pleasures | 40.00% | ~327 |
-| Lie Back and Think of Albion | 33.00% | ~270 |
-| Upgreatest | 32.00% | ~261 |
-| Pimp My Raid | 30.00% | ~245 |
-| I Look Up As I Walk to Takoshima | 25.00% | ~204 |
-| Freshly Squeezed | 25.00% | ~204 |
-| Die Nasty | 22.00% | ~180 |
-| Perfect Probulator | 21.00% | ~172 |
-| Transmitting From Sol-3 | 19.00% | ~155 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 17.00% | ~139 |
-| Kaijuiced | 15.00% | ~123 |
-| Dusted | 14.00% | ~114 |
-| Fly Me to the Moon Base | 13.00% | ~106 |
-| Scuttled | 11.00% | ~90 |
-| Lobster Blisque | 9.00% | ~74 |
-| Re-Return of the Clone of the Invasion II-2 | 9.00% | ~74 |
-| Yettisoned | 8.00% | ~65 |
-| Ultimate Smoothie | 6.00% | ~49 |
-| Arkvoodle Doodle | 6.00% | ~49 |
-| Deincarnated | 4.00% | ~33 |
-| Against All Odds | 2.00% | ~16 |
-| Forbidden Donut | 2.00% | ~16 |
-| Hidden Human Hive Harvest | 2.00% | ~16 |
-| The Optional Mandate | 2.00% | ~16 |
-| Higher Than the Futen Zoku | 2.00% | ~16 |
-| PK Slam Dunk | 1.00% | ~8 |
-| Arty Facts | 1.00% | ~8 |
-| Gotta Catch All the Pop Art | 1.00% | ~8 |
-| This Is Earth Radio | 1.00% | ~8 |
-| Toilet Break | 1.00% | ~8 |
-| Albion Bridge Is for Falling Down | 1.00% | ~8 |
-| Ouch of Body Experience | 1.00% | ~8 |
-| To Russia With Love | 1.00% | ~8 |
-| If You Know What I Mean | 1.00% | ~8 |
-| Steezy Down the Spine | 1.00% | ~8 |
-| Path of the Furon | 1.00% | ~8 |
-| Trans-Siberian Express | 1.00% | ~8 |
+| Rock of the Bay | 89.00% | ~951 |
+| Mash Machine | 81.00% | ~866 |
+| Ducks in a Row, Fish in a Barrel | 62.00% | ~663 |
+| Furon Fashion | 52.00% | ~556 |
+| Bodied Sattva | 46.00% | ~492 |
+| Shop Til They Drop | 46.00% | ~492 |
+| Cult Following | 40.00% | ~428 |
+| Earthly Pleasures | 38.00% | ~406 |
+| Lie Back and Think of Albion | 34.00% | ~363 |
+| Upgreatest | 31.00% | ~331 |
+| Pimp My Raid | 29.00% | ~310 |
+| Freshly Squeezed | 25.00% | ~267 |
+| I Look Up As I Walk to Takoshima | 24.00% | ~257 |
+| Perfect Probulator | 22.00% | ~235 |
+| Die Nasty | 21.00% | ~224 |
+| Transmitting From Sol-3 | 20.00% | ~214 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~160 |
+| Kaijuiced | 14.00% | ~150 |
+| Fly Me to the Moon Base | 13.00% | ~139 |
+| Dusted | 13.00% | ~139 |
+| Scuttled | 11.00% | ~118 |
+| Lobster Blisque | 9.00% | ~96 |
+| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~86 |
+| Yettisoned | 7.00% | ~75 |
+| Ultimate Smoothie | 6.00% | ~64 |
+| Arkvoodle Doodle | 5.00% | ~53 |
+| Deincarnated | 3.00% | ~32 |
+| Against All Odds | 2.00% | ~21 |
+| Forbidden Donut | 2.00% | ~21 |
+| Hidden Human Hive Harvest | 2.00% | ~21 |
+| The Optional Mandate | 2.00% | ~21 |
+| Higher Than the Futen Zoku | 2.00% | ~21 |
+| Arty Facts | 1.00% | ~11 |
+| Gotta Catch All the Pop Art | 1.00% | ~11 |
+| This Is Earth Radio | 1.00% | ~11 |
+| Toilet Break | 1.00% | ~11 |
+| Albion Bridge Is for Falling Down | 1.00% | ~11 |
+| Ouch of Body Experience | 1.00% | ~11 |
+| To Russia With Love | 1.00% | ~11 |
+| If You Know What I Mean | 1.00% | ~11 |
+| PK Slam Dunk | 0.90% | ~10 |
+| Steezy Down the Spine | 0.90% | ~10 |
+| Path of the Furon | 0.90% | ~10 |
+| Trans-Siberian Express | 0.90% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817 (Ranked 408)  
-Completed: 3 (0.37%) (Ranked 325)  
+Progressed: 1,069 (Ranked 400)  
+Completed: 5 (0.47%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -117,6 +117,7 @@ Completed: 3 (0.37%) (Ranked 325)
 | 2024-03-21 | 599 | 2 |
 | 2024-04-10 | 637 | 2 |
 | 2024-06-17 | 817 | 3 |
+| 2024-08-09 | 1,069 | 5 |
 ## Awards
 Max (Great Boss Battles): 40  (Ranked 567)  
 Sum: 40 (Ranked 617)  

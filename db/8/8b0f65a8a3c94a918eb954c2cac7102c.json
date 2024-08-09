@@ -2,10 +2,10 @@
   "ID": "8b0f65a8a3c94a918eb954c2cac7102c",
   "Name": "Quest Room",
   "ProductSlug": "quest-room-1e31f0",
-  "Ranking_EOS_Progress": 746,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 771,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-03T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T19:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-07-30T16:02:25.8120842+00:00",
       "NumProgressed": 48,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:58.285143+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:57.9506411+00:00",
@@ -50,25 +55,25 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "3m44p60",
       "Name": "Hospital",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "3m44p60",
       "Name": "Maze",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_11",
       "SetID": "3m44p60",
       "Name": "Welcome",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -82,31 +87,31 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "3m44p60",
       "Name": "Hotel",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_3",
       "SetID": "3m44p60",
       "Name": "Church",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_4",
       "SetID": "3m44p60",
       "Name": "Construction",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_5",
       "SetID": "3m44p60",
       "Name": "Gold",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -114,47 +119,47 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "3m44p60",
       "Name": "House",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_7",
       "SetID": "3m44p60",
       "Name": "Duck",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 200,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_8",
       "SetID": "3m44p60",
       "Name": "Old man",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_9",
       "SetID": "3m44p60",
       "Name": "Voice",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 165,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m44p60",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-05T21:59:46.2848242+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:57.9506411+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:25.8120837+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:58.2851424+00:00",
   "LastUpdate_AppInfo": "2024-08-09T05:57:23.1249668+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:11.9213813+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:25.8120993+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:02.5622021+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:58.2851529+00:00"
 }

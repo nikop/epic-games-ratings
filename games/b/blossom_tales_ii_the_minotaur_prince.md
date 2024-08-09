@@ -25,8 +25,8 @@
 | The Ultimate Weapon | 4.00% | ~1 |
 | Combat Queen | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 829)  
-Completed: 1 (4.17%) (Ranked 133)  
+Progressed: 24 (Ranked 852)  
+Completed: 1 (4.17%) (Ranked 138)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

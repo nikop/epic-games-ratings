@@ -2,10 +2,10 @@
   "ID": "06a3d76750a1495d853e3067de19c377",
   "Name": "Mutus Meteora",
   "ProductSlug": "mutus-meteora-2ecca5",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-07-17T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-02T18:57:17.8212132+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:09.8410044+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:34.7410442+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:56.2812703+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:37.2588705+00:00"
 }

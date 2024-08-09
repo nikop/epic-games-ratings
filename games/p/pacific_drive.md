@@ -5,58 +5,58 @@ Rating: 4.62 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Auto Shop | 59.00% | ~1,284 |
-| Patent Pending | 48.00% | ~1,045 |
-| Into the Wilderness | 44.00% | ~958 |
-| Investigate the Zone | 42.00% | ~914 |
-| Sleight of Hand | 36.00% | ~784 |
-| Great Scott! | 29.00% | ~631 |
-| A Leap of Faith | 28.00% | ~610 |
-| Juiced Up | 27.00% | ~588 |
-| ARDA Record-Keeper | 26.00% | ~566 |
-| Car Whisperer | 25.00% | ~544 |
-| Et tu? | 23.00% | ~501 |
-| Where We're Going, We Don't Need Roads | 22.00% | ~479 |
-| Stabilizing the Route | 20.00% | ~435 |
-| Driver's Ed Dropout | 17.00% | ~370 |
-| Troubleshooting | 17.00% | ~370 |
-| Packrat | 16.00% | ~348 |
-| It Would Take a Miracle | 16.00% | ~348 |
-| The Eye of the Storm | 16.00% | ~348 |
-| DIY Expert | 15.00% | ~327 |
-| Car Of Theseus | 14.00% | ~305 |
-| The Mid-Zone Crossing | 14.00% | ~305 |
-| Hack the Planet! | 14.00% | ~305 |
-| The Visions | 13.00% | ~283 |
-| Personal Methods of Creative Expression are Highly Encouraged | 12.00% | ~261 |
-| Long Haul | 12.00% | ~261 |
-| The Red Meadow Records | 12.00% | ~261 |
-| Fully Outfitted | 11.00% | ~239 |
-| Certified Mechanic | 10.00% | ~218 |
-| The Deep Zone Crossing | 10.00% | ~218 |
-| They Weren't Using It | 9.00% | ~196 |
-| Graverobber | 8.00% | ~174 |
-| The Anomaly Barricade | 8.00% | ~174 |
-| The End of the Road | 8.00% | ~174 |
-| Along for the Ride | 7.00% | ~152 |
-| ARDA Lorekeeper | 7.00% | ~152 |
-| Renewable Power | 6.00% | ~131 |
-| Streets Ahead | 6.00% | ~131 |
-| I Don’t Know What I Expected | 6.00% | ~131 |
-| Fly Homeward | 6.00% | ~131 |
-| Nothing Personnel, Zone | 5.00% | ~109 |
-| Scientific Pursuit | 3.00% | ~65 |
-| Lumberjack | 2.00% | ~44 |
-| Garage Barrage | 1.00% | ~22 |
-| Just Walk it Off | 0.90% | ~20 |
-| DIY Master | 0.70% | ~15 |
-| Watch Out for Hop-ons! | 0.60% | ~13 |
-| No Parking | 0.40% | ~9 |
-| With the Top Down | 0.20% | ~4 |
-| Running on Empty | 0.10% | ~2 |
+| The Auto Shop | 61.00% | ~1,700 |
+| Patent Pending | 47.00% | ~1,310 |
+| Into the Wilderness | 45.00% | ~1,254 |
+| Investigate the Zone | 43.00% | ~1,198 |
+| Sleight of Hand | 36.00% | ~1,003 |
+| Great Scott! | 29.00% | ~808 |
+| A Leap of Faith | 29.00% | ~808 |
+| Juiced Up | 27.00% | ~752 |
+| Car Whisperer | 25.00% | ~697 |
+| Et tu? | 24.00% | ~669 |
+| ARDA Record-Keeper | 24.00% | ~669 |
+| Where We're Going, We Don't Need Roads | 22.00% | ~613 |
+| Stabilizing the Route | 21.00% | ~585 |
+| Driver's Ed Dropout | 18.00% | ~502 |
+| Troubleshooting | 18.00% | ~502 |
+| The Eye of the Storm | 16.00% | ~446 |
+| Packrat | 15.00% | ~418 |
+| It Would Take a Miracle | 15.00% | ~418 |
+| Car Of Theseus | 14.00% | ~390 |
+| DIY Expert | 14.00% | ~390 |
+| The Mid-Zone Crossing | 14.00% | ~390 |
+| Hack the Planet! | 14.00% | ~390 |
+| The Visions | 13.00% | ~362 |
+| Long Haul | 12.00% | ~334 |
+| The Red Meadow Records | 12.00% | ~334 |
+| Fully Outfitted | 11.00% | ~307 |
+| Personal Methods of Creative Expression are Highly Encouraged | 11.00% | ~307 |
+| Certified Mechanic | 10.00% | ~279 |
+| The Deep Zone Crossing | 10.00% | ~279 |
+| They Weren't Using It | 9.00% | ~251 |
+| Graverobber | 8.00% | ~223 |
+| The Anomaly Barricade | 8.00% | ~223 |
+| ARDA Lorekeeper | 7.00% | ~195 |
+| I Don’t Know What I Expected | 7.00% | ~195 |
+| The End of the Road | 7.00% | ~195 |
+| Along for the Ride | 6.00% | ~167 |
+| Renewable Power | 6.00% | ~167 |
+| Streets Ahead | 6.00% | ~167 |
+| Fly Homeward | 6.00% | ~167 |
+| Nothing Personnel, Zone | 5.00% | ~139 |
+| Lumberjack | 2.00% | ~56 |
+| Garage Barrage | 2.00% | ~56 |
+| Scientific Pursuit | 2.00% | ~56 |
+| DIY Master | 1.00% | ~28 |
+| Just Walk it Off | 0.90% | ~25 |
+| Watch Out for Hop-ons! | 0.60% | ~17 |
+| No Parking | 0.50% | ~14 |
+| With the Top Down | 0.30% | ~8 |
+| Running on Empty | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,177 (Ranked 332)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,787 (Ranked 324)  
+Completed: 1 (0.04%) (Ranked 476)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-05-13 | 1,352 | 0 |
 | 2024-06-17 | 1,941 | 0 |
 | 2024-06-26 | 2,177 | 0 |
+| 2024-08-09 | 2,787 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

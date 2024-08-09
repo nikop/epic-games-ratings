@@ -2,10 +2,10 @@
   "ID": "d581f8bd34204f98af1a404d99bd347a",
   "Name": "Puppet House",
   "ProductSlug": "puppet-house-a9dd6e",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-07T20:57:00.6510935+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:25.6652317+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:45.3881665+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:21.2727255+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:17.0441764+00:00"
 }

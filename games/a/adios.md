@@ -5,34 +5,34 @@ Rating: 3.65 (Ranked 1,248)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 23.00% | ~21,235 |
-| Hard Worker | 21.00% | ~19,389 |
-| Master, Commander | 21.00% | ~19,389 |
-| Mechanic | 20.00% | ~18,466 |
-| Adios, Friendo | 19.00% | ~17,542 |
-| Bottom's Up | 18.00% | ~16,619 |
-| Nice Try | 17.00% | ~15,696 |
-| Right On Target | 14.00% | ~12,926 |
-| Piano Man | 11.00% | ~10,156 |
-| Lazy Bones | 10.00% | ~9,233 |
-| Vinyl Vibes | 8.00% | ~7,386 |
-| Nothing Left to Say | 7.00% | ~6,463 |
-| Sniper | 7.00% | ~6,463 |
-| Cut Call | 6.00% | ~5,540 |
-| Magnetic Miracles | 5.00% | ~4,616 |
-| Spicy | 5.00% | ~4,616 |
-| Butcher | 4.00% | ~3,693 |
-| Fair's Fair | 4.00% | ~3,693 |
-| A Man Of Taste | 3.00% | ~2,770 |
-| Ace in the Hole | 3.00% | ~2,770 |
-| Hearty | 3.00% | ~2,770 |
-| Meaty | 3.00% | ~2,770 |
-| Taco Toto | 3.00% | ~2,770 |
-| Audiophile | 2.00% | ~1,847 |
-| Tape Head | 2.00% | ~1,847 |
+| Be Seeing You | 23.00% | ~21,770 |
+| Hard Worker | 21.00% | ~19,877 |
+| Master, Commander | 21.00% | ~19,877 |
+| Mechanic | 20.00% | ~18,931 |
+| Adios, Friendo | 19.00% | ~17,984 |
+| Bottom's Up | 18.00% | ~17,038 |
+| Nice Try | 17.00% | ~16,091 |
+| Right On Target | 14.00% | ~13,251 |
+| Piano Man | 11.00% | ~10,412 |
+| Lazy Bones | 10.00% | ~9,465 |
+| Vinyl Vibes | 8.00% | ~7,572 |
+| Nothing Left to Say | 7.00% | ~6,626 |
+| Sniper | 7.00% | ~6,626 |
+| Cut Call | 6.00% | ~5,679 |
+| Magnetic Miracles | 5.00% | ~4,733 |
+| Spicy | 5.00% | ~4,733 |
+| Butcher | 4.00% | ~3,786 |
+| Fair's Fair | 4.00% | ~3,786 |
+| A Man Of Taste | 3.00% | ~2,840 |
+| Ace in the Hole | 3.00% | ~2,840 |
+| Hearty | 3.00% | ~2,840 |
+| Meaty | 3.00% | ~2,840 |
+| Taco Toto | 3.00% | ~2,840 |
+| Audiophile | 2.00% | ~1,893 |
+| Tape Head | 2.00% | ~1,893 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,328 (Ranked 129)  
-Completed: 1,105 (1.20%) (Ranked 224)  
+Progressed: 94,653 (Ranked 135)  
+Completed: 1,155 (1.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -318,6 +318,7 @@ Completed: 1,105 (1.20%) (Ranked 224)
 | 2024-03-21 | 87,855 | 1,018 |
 | 2024-04-10 | 88,946 | 1,037 |
 | 2024-06-17 | 92,328 | 1,105 |
+| 2024-08-09 | 94,653 | 1,155 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

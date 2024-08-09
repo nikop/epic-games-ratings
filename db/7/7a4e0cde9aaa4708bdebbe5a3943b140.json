@@ -2,10 +2,10 @@
   "ID": "7a4e0cde9aaa4708bdebbe5a3943b140",
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
-  "Ranking_EOS_Progress": 849,
-  "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 864,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 31.58,
+  "EOS_Completed_Percentage": 30,
   "EosHistory": [
     {
       "Time": "2023-10-11T15:07:27.5875608+00:00",
@@ -144,6 +144,11 @@
       "Time": "2024-06-17T16:14:32.4861529+00:00",
       "NumProgressed": 19,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-08-09T18:04:26.5561696+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-18T15:02:16.3526143+00:00",
@@ -154,15 +159,15 @@
       "ID": "Stage1",
       "SetID": "ag762md",
       "Name": "Stage 1",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Stage2",
       "SetID": "ag762md",
       "Name": "Stage 2",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -170,7 +175,7 @@
       "ID": "Stage3",
       "SetID": "ag762md",
       "Name": "Stage 3",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -178,7 +183,7 @@
       "ID": "Stage4",
       "SetID": "ag762md",
       "Name": "Stage 4",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -186,7 +191,7 @@
       "ID": "Stage5",
       "SetID": "ag762md",
       "Name": "Stage 5",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -194,15 +199,15 @@
       "ID": "Upgrade1",
       "SetID": "ag762md",
       "Name": "First Upgrade",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Upgrade10",
       "SetID": "ag762md",
       "Name": "Tenth Upgrade",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -210,47 +215,47 @@
       "ID": "Upgrade2",
       "SetID": "ag762md",
       "Name": "Second Upgrade",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Upgrade3",
       "SetID": "ag762md",
       "Name": "Third Upgrade",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Upgrade4",
       "SetID": "ag762md",
       "Name": "Fourth Upgrade",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Upgrade5",
       "SetID": "ag762md",
       "Name": "Fifth Upgrade",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag762md",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-12-10T02:24:26.0991702+00:00",
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:32.4861523+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:26.556169+00:00",
   "LastUpdate_AppInfo": "2024-08-06T17:57:10.1918511+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:17.6603658+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:32.4861614+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:56.2460238+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:26.5561828+00:00"
 }

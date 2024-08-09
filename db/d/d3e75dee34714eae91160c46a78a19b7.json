@@ -2,10 +2,10 @@
   "ID": "d3e75dee34714eae91160c46a78a19b7",
   "Name": "Burnout Paradise Remastered",
   "ProductSlug": "burnout-paradise-remastered-69da46",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-23T20:00:00+00:00",
     "PcReleaseDate": "2018-03-16T05:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-05-26T21:57:03.6051663+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:30.3531148+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:37.9652495+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:09.8930748+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:15.36601+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:27.3218199+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:37.9652537+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:02.461577+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:09.8930786+00:00"
 }

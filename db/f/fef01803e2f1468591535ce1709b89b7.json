@@ -2,10 +2,10 @@
   "ID": "fef01803e2f1468591535ce1709b89b7",
   "Name": "Cybernetic Fault",
   "ProductSlug": "cybernetic-fault-b05740",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 46,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 864,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-09T09:00:00+00:00",
     "PcReleaseDate": "2020-09-24T09:00:00+00:00",
@@ -102,8 +102,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:17.2607719+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:32.7029123+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:04.8904087+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:26.9649864+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:36.2495792+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:32.7029273+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:08.0188916+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:04.8904165+00:00"
 }

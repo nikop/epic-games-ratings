@@ -4,57 +4,57 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,921 |
-| Hidden History | 73.00% | ~1,402 |
-| Commencing of Quests | 63.00% | ~1,210 |
-| Budding Conjuror | 62.00% | ~1,191 |
-| Man-Machine Master | 52.00% | ~999 |
-| Mountain Splitter | 52.00% | ~999 |
-| Charmed by the Hunt | 51.00% | ~980 |
-| Fusion Conjuror | 50.00% | ~960 |
-| Memory Rouser | 50.00% | ~960 |
-| Subsistence Skills | 49.00% | ~941 |
-| Kemono Hunter | 46.00% | ~884 |
-| Expert Conjuror | 44.00% | ~845 |
-| Flawless Crystal | 41.00% | ~788 |
-| Bonds of Enmity | 41.00% | ~788 |
-| Distance Devourer | 40.00% | ~768 |
-| Helpful Heart | 40.00% | ~768 |
-| Counter Specialist | 37.00% | ~711 |
-| Master of the Skies | 34.00% | ~653 |
-| Axer of Auspice | 33.00% | ~634 |
-| Mighty Marmelizer | 31.00% | ~596 |
-| Fair Means or Foul | 31.00% | ~596 |
-| Kemono at Heart | 30.00% | ~576 |
-| Single Minded | 29.00% | ~557 |
-| Snare Specialist | 26.00% | ~499 |
-| Karakuri Trail | 25.00% | ~480 |
-| Reincarnation Cycle Stopper | 23.00% | ~442 |
-| Karakuri Isle | 22.00% | ~423 |
-| Team Hunter | 22.00% | ~423 |
-| Artful Assister | 21.00% | ~403 |
-| Left Arm Leverager | 18.00% | ~346 |
-| Human Believer | 18.00% | ~346 |
-| Unrivaled in Arms | 18.00% | ~346 |
-| Quintessence of Form | 18.00% | ~346 |
-| Canyon of Karakuri | 16.00% | ~307 |
-| Style Seeker | 16.00% | ~307 |
-| Threaded Harmony | 16.00% | ~307 |
-| Karakuri Minato | 16.00% | ~307 |
-| Jack of All Trades | 15.00% | ~288 |
-| Karakuri Fortress | 13.00% | ~250 |
-| Volatile Vocation | 11.00% | ~211 |
-| Tender Touch | 11.00% | ~211 |
-| Haven Hunter | 11.00% | ~211 |
-| Superlative View | 9.00% | ~173 |
-| Relentless Kemono Hunter | 7.00% | ~134 |
-| Vanquisher of the Volatile | 7.00% | ~134 |
-| Big Spender | 7.00% | ~134 |
-| Bewitched by Bathing | 6.00% | ~115 |
-| Tsukumo Whisperer | 3.00% | ~58 |
+| Land of the Rising Sun | 100.00% | ~1,957 |
+| Hidden History | 73.00% | ~1,429 |
+| Commencing of Quests | 63.00% | ~1,233 |
+| Budding Conjuror | 62.00% | ~1,213 |
+| Man-Machine Master | 52.00% | ~1,018 |
+| Mountain Splitter | 52.00% | ~1,018 |
+| Charmed by the Hunt | 51.00% | ~998 |
+| Memory Rouser | 50.00% | ~978 |
+| Fusion Conjuror | 49.00% | ~959 |
+| Subsistence Skills | 49.00% | ~959 |
+| Kemono Hunter | 46.00% | ~900 |
+| Expert Conjuror | 44.00% | ~861 |
+| Flawless Crystal | 41.00% | ~802 |
+| Bonds of Enmity | 41.00% | ~802 |
+| Distance Devourer | 40.00% | ~783 |
+| Helpful Heart | 40.00% | ~783 |
+| Counter Specialist | 37.00% | ~724 |
+| Master of the Skies | 34.00% | ~665 |
+| Axer of Auspice | 32.00% | ~626 |
+| Mighty Marmelizer | 31.00% | ~607 |
+| Fair Means or Foul | 31.00% | ~607 |
+| Kemono at Heart | 30.00% | ~587 |
+| Single Minded | 28.00% | ~548 |
+| Snare Specialist | 26.00% | ~509 |
+| Karakuri Trail | 25.00% | ~489 |
+| Reincarnation Cycle Stopper | 23.00% | ~450 |
+| Karakuri Isle | 22.00% | ~431 |
+| Team Hunter | 22.00% | ~431 |
+| Artful Assister | 20.00% | ~391 |
+| Left Arm Leverager | 18.00% | ~352 |
+| Human Believer | 18.00% | ~352 |
+| Unrivaled in Arms | 18.00% | ~352 |
+| Quintessence of Form | 18.00% | ~352 |
+| Style Seeker | 16.00% | ~313 |
+| Threaded Harmony | 16.00% | ~313 |
+| Karakuri Minato | 16.00% | ~313 |
+| Canyon of Karakuri | 15.00% | ~294 |
+| Jack of All Trades | 15.00% | ~294 |
+| Karakuri Fortress | 13.00% | ~254 |
+| Volatile Vocation | 11.00% | ~215 |
+| Tender Touch | 11.00% | ~215 |
+| Haven Hunter | 11.00% | ~215 |
+| Superlative View | 9.00% | ~176 |
+| Relentless Kemono Hunter | 7.00% | ~137 |
+| Vanquisher of the Volatile | 7.00% | ~137 |
+| Big Spender | 7.00% | ~137 |
+| Bewitched by Bathing | 6.00% | ~117 |
+| Tsukumo Whisperer | 4.00% | ~78 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,921 (Ranked 342)  
-Completed: 12 (0.62%) (Ranked 284)  
+Progressed: 1,957 (Ranked 354)  
+Completed: 12 (0.61%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,3 +192,4 @@ Completed: 12 (0.62%) (Ranked 284)
 | 2024-04-10 | 1,605 | 10 |
 | 2024-06-17 | 1,839 | 11 |
 | 2024-07-24 | 1,921 | 12 |
+| 2024-08-09 | 1,957 | 12 |

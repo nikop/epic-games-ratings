@@ -2,10 +2,10 @@
   "ID": "3017522a6faa4fd4a8f16d5e2899fe69",
   "Name": "Inkulinati",
   "ProductSlug": "inkulinati-b60b1c",
-  "Ranking_EOS_Progress": 614,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 611,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-22T18:00:00+00:00",
     "PcReleaseDate": "2024-02-22T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 156,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -49,6 +49,11 @@
       "Time": "2024-06-17T16:15:47.1310221+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:00.8384314+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:09.9783552+00:00",
@@ -59,23 +64,23 @@
       "ID": "ABSOLUTE_EFFICIENCY",
       "SetID": "5p39703",
       "Name": "Absolute Efficiency",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 84
     },
     {
       "ID": "AFTERLIFE",
       "SetID": "5p39703",
       "Name": "Afterlife",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "AFTERLIFE_II",
       "SetID": "5p39703",
       "Name": "Afterlife II",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -83,9 +88,9 @@
       "ID": "AMBITION",
       "SetID": "5p39703",
       "Name": "Ambition",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 69
     },
     {
       "ID": "Afterlife_III",
@@ -101,47 +106,47 @@
       "Name": "Inkulinati Secret League Member",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FATAL_BLOW",
       "SetID": "5p39703",
       "Name": "Fatal Blow",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 87
     },
     {
       "ID": "FIRST_STEP",
       "SetID": "5p39703",
       "Name": "First Step",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 87
     },
     {
       "ID": "GOD_MODE",
       "SetID": "5p39703",
       "Name": "God Mode",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 69
     },
     {
       "ID": "GRADUATION",
       "SetID": "5p39703",
       "Name": "Graduation",
-      "Percentage": 71,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 119
     },
     {
       "ID": "HERESY",
       "SetID": "5p39703",
       "Name": "Heresy",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "NON_OMNIS_MORIAR",
@@ -149,7 +154,7 @@
       "Name": "Non Omnis Moriar",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NOT_EVEN_THE_SAME_PARISH",
@@ -157,7 +162,7 @@
       "Name": "Not Even the Same Parish",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 51
+      "UsersEstimate": 61
     },
     {
       "ID": "ONE_TINY_BAND",
@@ -165,7 +170,7 @@
       "Name": "One-Tiny Band",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PURGATORY_TIME",
@@ -173,13 +178,13 @@
       "Name": "Purgatory Time",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "PYRRHIC_VICTORY",
       "SetID": "5p39703",
       "Name": "Pyrrhic Victory",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -189,23 +194,23 @@
       "Name": "Revenge",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 109
     },
     {
       "ID": "SO_CLEVER_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Clever He Was...",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "SO_HOLY_SHE_WAS",
       "SetID": "5p39703",
       "Name": "So Holy She Was...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "SO_MUCH_LOVE_FOR_ANIMAL_HE_HAD",
@@ -213,47 +218,47 @@
       "Name": "Such an Animal Lover He Was...",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "SO_SCHOLAR_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Scholarly He Was...",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 31
     },
     {
       "ID": "SO_STRONG_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Strong He Was...",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 59
     },
     {
       "ID": "SO_WISE_HE_WAS",
       "SetID": "5p39703",
       "Name": "So Wise He Was...",
-      "Percentage": 48,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 63
+      "UsersEstimate": 72
     },
     {
       "ID": "STUDENT_AMBITION",
       "SetID": "5p39703",
       "Name": "Student Ambition",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "SWAN_SONG",
       "SetID": "5p39703",
       "Name": "Swan Song",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 92
     },
     {
       "ID": "TOP_OF_THE_CLASS",
@@ -261,21 +266,21 @@
       "Name": "Top of the Class",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "5p39703",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-24T19:56:58.3100746+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:09.9783551+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:47.1310216+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:00.8384308+00:00",
   "LastUpdate_AppInfo": "2024-08-06T04:57:33.8370105+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:46.664626+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:47.131039+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:35.2482947+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:00.8384478+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4e2e4b7052de48e192361c7364b27bf0",
   "Name": "Runes of Mystery",
   "ProductSlug": "runes-of-mystery-44388a",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 991,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -23,16 +23,74 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 5,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 20,
+  "EosHistory": [
+    {
+      "Time": "2024-08-09T18:02:03.4888926+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2024-08-09T18:02:03.4889007+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "runesofmystery_api_001",
+      "SetID": "117pgbn",
+      "Name": "Mysterious Welcome",
+      "Percentage": 80,
+      "XP": 200,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "runesofmystery_api_002",
+      "SetID": "117pgbn",
+      "Name": "50 level",
+      "Percentage": 20,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "runesofmystery_api_003",
+      "SetID": "117pgbn",
+      "Name": "Title Achievement",
+      "Percentage": 20,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "runesofmystery_api_004",
+      "SetID": "117pgbn",
+      "Name": "Mystery",
+      "Percentage": 20,
+      "XP": 200,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "runesofmystery_api_005",
+      "SetID": "117pgbn",
+      "Name": "Mystery Festival",
+      "Percentage": 20,
+      "XP": 200,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "117pgbn",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 1
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-09T18:02:03.4889007+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:03.4888918+00:00",
   "LastUpdate_AppInfo": "2024-08-07T09:57:05.2199535+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:31.2401177+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:24.1606098+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:03.489753+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "c45afa4ac296479abee2e864b4496318",
   "Name": "WW2 Bunker Simulator",
   "ProductSlug": "ww2-bunker-simulator-fe8678",
-  "Ranking_EOS_Progress": 741,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 739,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-10T14:00:01.116+00:00",
     "PcReleaseDate": "2022-10-10T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
       "Time": "2024-06-17T16:08:57.6868091+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:02:10.0987442+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:05:35.2225333+00:00",
@@ -51,21 +56,21 @@
       "Name": "Nobody will be offended",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_BODY2",
       "SetID": "821pm01",
       "Name": "You have to survive somehow ...",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BODY3",
       "SetID": "821pm01",
       "Name": "Graveyard hyena",
-      "Percentage": 14,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -75,13 +80,13 @@
       "Name": "Greenhorn",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_KILLER_MACHINE",
       "SetID": "821pm01",
       "Name": "Try to get me!",
-      "Percentage": 16,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -89,7 +94,7 @@
       "ID": "ACH_KILLER_MACHINE2",
       "SetID": "821pm01",
       "Name": "Bratatatata!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -105,7 +110,7 @@
       "ID": "ACH_KILLER_PISTOL",
       "SetID": "821pm01",
       "Name": "Do not come!",
-      "Percentage": 8,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -153,7 +158,7 @@
       "ID": "ACH_PLANE",
       "SetID": "821pm01",
       "Name": "Keep on quilting!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_TANKS",
       "SetID": "821pm01",
       "Name": "Let it go on!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -202,14 +207,14 @@
     {
       "ID": "821pm01",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-12T11:58:13.0323052+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:35.2225332+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:08:57.6868086+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:10.0987435+00:00",
   "LastUpdate_AppInfo": "2024-08-03T06:57:24.2719525+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:32.4501222+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:08:57.6868213+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:21.331657+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:10.0992181+00:00"
 }

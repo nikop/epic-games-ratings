@@ -2,10 +2,10 @@
   "ID": "e2be1d8966c84260a891372bc270c810",
   "Name": "I\u0027m determined to make 3A: 01 in 65",
   "ProductSlug": "im-determined-to-make-3a-01-in-65-4b0482",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-20T00:00:00+00:00",
     "PcReleaseDate": "2024-05-20T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T18:57:09.4422177+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:40.8331313+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:27.7477759+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:29.4185763+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:00.1189819+00:00"
 }

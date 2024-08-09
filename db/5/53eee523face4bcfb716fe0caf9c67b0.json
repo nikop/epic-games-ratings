@@ -2,10 +2,10 @@
   "ID": "53eee523face4bcfb716fe0caf9c67b0",
   "Name": "Crowded Mysteries",
   "ProductSlug": "crowded-mysteries-084054",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 864,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-02T22:00:00+00:00",
     "PcReleaseDate": "2023-08-22T22:00:00+00:00",
@@ -210,8 +210,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:57.6856007+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:43.9259243+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:15.6570114+00:00",
   "LastUpdate_AppInfo": "2024-08-07T20:57:01.2657839+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:15.7283606+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:43.9259371+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:09.8567757+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:15.6570228+00:00"
 }

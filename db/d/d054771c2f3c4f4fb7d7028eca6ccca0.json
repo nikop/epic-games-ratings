@@ -5,10 +5,10 @@
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7621,
+  "EOS_Progressed": 8186,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -6256,6 +6256,11 @@
       "Time": "2024-06-17T16:10:49.3516279+00:00",
       "NumProgressed": 7621,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:02:54.8034938+00:00",
+      "NumProgressed": 8186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -6266,57 +6271,57 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "c167foo",
       "Name": "Rite of Passage",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "c167foo",
       "Name": "Done for Today",
-      "Percentage": 0.2,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 74
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "c167foo",
       "Name": "Wicked Zeroes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 1,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "c167foo",
       "Name": "Power Overwhelming",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -6330,17 +6335,17 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "c167foo",
       "Name": "Terrible Journey",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "c167foo",
       "Name": "Dark Prizes",
-      "Percentage": 0.1,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -6354,9 +6359,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -6370,17 +6375,17 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "c167foo",
       "Name": "Worthy Badge",
-      "Percentage": 1,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHIEVEMENT_22",
       "SetID": "c167foo",
       "Name": "High Level Mastery",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -6402,9 +6407,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "c167foo",
       "Name": "Challenged",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -6426,17 +6431,17 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "c167foo",
       "Name": "Your Own Nightmare",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "c167foo",
       "Name": "Competitor",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -6450,9 +6455,9 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 1,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6466,9 +6471,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 491
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6498,9 +6503,9 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "c167foo",
       "Name": "Profile Outfitted",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -6644,7 +6649,7 @@
       "Name": "Evil AI unplugged",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_57",
@@ -6652,7 +6657,7 @@
       "Name": "Self-destruction initiated",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_58",
@@ -6660,7 +6665,7 @@
       "Name": "Cyborg hunt",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_59",
@@ -6668,7 +6673,7 @@
       "Name": "Texas Chainsaw Massacre",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_60",
@@ -6676,7 +6681,7 @@
       "Name": "Bloodbath in the Bus",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_61",
@@ -6684,20 +6689,20 @@
       "Name": "Chainsaw Slayer",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 7621,
+      "Progressed": 8186,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 3399,
+      "Progressed": 3964,
       "Completed": 2085
     }
   ],
@@ -6705,8 +6710,8 @@
   "FirstSeenRating": "2024-07-21T14:56:57.846185+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
   "LastChanged": "2024-08-05T19:58:51.2650769+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:49.3516274+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:54.8034933+00:00",
   "LastUpdate_AppInfo": "2024-08-07T09:57:05.0739245+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:18.0212806+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:49.3516929+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:11.7703683+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:54.8035578+00:00"
 }

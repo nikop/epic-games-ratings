@@ -2,10 +2,10 @@
   "ID": "7a0721af1f89440ba190a2c1eb2a1378",
   "Name": "Cyberpunk SFX",
   "ProductSlug": "cyberpunk-sfx-81bdee",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 864,
+  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-31T09:00:00+00:00",
     "PcReleaseDate": "2020-11-29T10:00:00+00:00",
@@ -94,8 +94,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:59.4366662+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:26.215014+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:58.6628025+00:00",
   "LastUpdate_AppInfo": "2024-08-06T23:57:36.4698905+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:06.7551097+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:26.2150242+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:53.3995387+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:58.662809+00:00"
 }

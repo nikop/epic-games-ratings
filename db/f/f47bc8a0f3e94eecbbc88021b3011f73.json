@@ -2,10 +2,10 @@
   "ID": "f47bc8a0f3e94eecbbc88021b3011f73",
   "Name": "Passing By - A Tailwind Journey",
   "ProductSlug": "passing-by-d47e9b",
-  "Ranking_EOS_Progress": 1045,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1037,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-12T14:00:00+00:00",
     "PcReleaseDate": "2024-03-12T14:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-04-10T06:05:44.7086544+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:01.2402754+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -45,7 +50,7 @@
       "ID": "01_home_1",
       "SetID": "49ap2j7",
       "Name": "Balloon Driver\u2019s Licence",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -318,14 +323,14 @@
     {
       "ID": "49ap2j7",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-20T22:57:22.0548246+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:11.1484738+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:47.932037+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:01.240275+00:00",
   "LastUpdate_AppInfo": "2024-08-09T05:57:22.93871+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:58.498947+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:47.9320621+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:49.1429716+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:01.2402946+00:00"
 }

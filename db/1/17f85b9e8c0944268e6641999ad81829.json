@@ -2,10 +2,10 @@
   "ID": "17f85b9e8c0944268e6641999ad81829",
   "Name": "Magical Bakery",
   "ProductSlug": "magical-bakery-57f8e8",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:49.9467126+00:00",
-  "LastChanged_Achievements": "2024-06-25T15:01:40.5189846+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:06:14.8600591+00:00",
   "LastUpdate_AppInfo": "2024-08-08T04:57:15.8280243+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:07.871084+00:00",
-  "LastUpdate_Achievements": "2024-06-25T15:01:40.5189919+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:54.4702374+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:14.860061+00:00"
 }

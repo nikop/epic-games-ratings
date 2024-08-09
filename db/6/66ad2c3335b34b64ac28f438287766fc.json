@@ -2,10 +2,10 @@
   "ID": "66ad2c3335b34b64ac28f438287766fc",
   "Name": "TACTICAL BANDITS",
   "ProductSlug": "tactical-bandits-0a6961",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-25T09:00:00+00:00",
     "PcReleaseDate": "2024-07-25T09:00:00+00:00",
@@ -29,9 +29,171 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-08-09T18:02:46.8765897+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_0",
+      "SetID": "2pejhm2",
+      "Name": "The Bandit",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_1",
+      "SetID": "2pejhm2",
+      "Name": "The Myth",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_10",
+      "SetID": "2pejhm2",
+      "Name": "Too Old For This",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_11",
+      "SetID": "2pejhm2",
+      "Name": "Let\u0027s Go to Work",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_12",
+      "SetID": "2pejhm2",
+      "Name": "Give \u0027Em Hell",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_13",
+      "SetID": "2pejhm2",
+      "Name": "Parabellum",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_14",
+      "SetID": "2pejhm2",
+      "Name": "Live For",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_15",
+      "SetID": "2pejhm2",
+      "Name": "Die For",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_16",
+      "SetID": "2pejhm2",
+      "Name": "Kill For",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_17",
+      "SetID": "2pejhm2",
+      "Name": "Cling to Death",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_18",
+      "SetID": "2pejhm2",
+      "Name": "Expensive Taste",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_19",
+      "SetID": "2pejhm2",
+      "Name": "Everything\u0027s Got a Price",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_2",
+      "SetID": "2pejhm2",
+      "Name": "The Legend",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_3",
+      "SetID": "2pejhm2",
+      "Name": "Collateral",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_4",
+      "SetID": "2pejhm2",
+      "Name": "Noise Complaint",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_5",
+      "SetID": "2pejhm2",
+      "Name": "Don\u0027t Tell Me to Relax",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_6",
+      "SetID": "2pejhm2",
+      "Name": "Progress, Not Perfection",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_7",
+      "SetID": "2pejhm2",
+      "Name": "Just Another Day",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_8",
+      "SetID": "2pejhm2",
+      "Name": "I\u0027m Thinking I\u0027m Back",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_9",
+      "SetID": "2pejhm2",
+      "Name": "Unscheduled Funeral",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2pejhm2",
@@ -41,8 +203,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:10:31.0747061+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:31.0747037+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:46.8765885+00:00",
   "LastUpdate_AppInfo": "2024-08-08T02:57:04.1865371+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:51.9605387+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:31.074708+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:40.1732791+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:46.8775194+00:00"
 }

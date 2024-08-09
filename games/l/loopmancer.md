@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 119.00% | ~132 |
-| Break no Sweat | 114.00% | ~127 |
-| Every little bit counts | 108.00% | ~120 |
-| Growth | 92.00% | ~102 |
+| Black Cat's Warning | 120.00% | ~132 |
+| Break no Sweat | 115.00% | ~126 |
+| Every little bit counts | 109.00% | ~120 |
+| Growth | 93.00% | ~102 |
 | Targeting the Enemy | 76.00% | ~84 |
-| Unavoidable | 71.00% | ~79 |
-| Revenge | 69.00% | ~77 |
+| Unavoidable | 72.00% | ~79 |
+| Revenge | 70.00% | ~77 |
 | Reunion | 45.00% | ~50 |
 | Elimination | 38.00% | ~42 |
 | Fluke | 37.00% | ~41 |
-| Once Bitten, Twice Shy | 34.00% | ~38 |
-| Excellent Driving Skills | 33.00% | ~37 |
-| Victor's Prejudice | 33.00% | ~37 |
-| Memento | 32.00% | ~36 |
+| Once Bitten, Twice Shy | 35.00% | ~38 |
+| Excellent Driving Skills | 34.00% | ~37 |
+| Victor's Prejudice | 34.00% | ~37 |
+| Memento | 32.00% | ~35 |
 | Fleet-footed | 29.00% | ~32 |
 | Invincible | 28.00% | ~31 |
 | Defeat the AI | 27.00% | ~30 |
 | Neutralize | 26.00% | ~29 |
-| Best in Dragon City | 24.00% | ~27 |
-| Unsalvageable | 24.00% | ~27 |
-| Walking into a Trap | 23.00% | ~26 |
-| Disdain | 23.00% | ~26 |
+| Best in Dragon City | 25.00% | ~28 |
+| Unsalvageable | 25.00% | ~28 |
+| Walking into a Trap | 24.00% | ~26 |
+| Disdain | 24.00% | ~26 |
 | Brain in a Vat | 20.00% | ~22 |
 | Final Battle | 19.00% | ~21 |
 | Outsider's Profit | 19.00% | ~21 |
@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 638)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 110 (Ranked 661)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-01-22 | 107 | 0 |
 | 2024-04-10 | 110 | 0 |
 | 2024-07-25 | 111 | 0 |
+| 2024-08-09 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

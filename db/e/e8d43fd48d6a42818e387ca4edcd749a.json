@@ -2,10 +2,10 @@
   "ID": "e8d43fd48d6a42818e387ca4edcd749a",
   "Name": "Dino Hazard: Chronos Blackout",
   "ProductSlug": "dino-hazard-chronos-blackout-7c03b2",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-12T19:00:00+00:00",
     "PcReleaseDate": "2023-12-22T13:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-22T13:09:08.2076276+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:13.5146097+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:00.7819055+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:36.960985+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:44.8664812+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:08.9369964+00:00"
 }

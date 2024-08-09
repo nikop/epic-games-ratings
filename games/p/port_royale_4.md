@@ -6,59 +6,59 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 79.00% | ~1,380 |
-| My little farm | 61.00% | ~1,066 |
-| Every beginning is difficult | 60.00% | ~1,048 |
-| Gofer | 54.00% | ~943 |
-| O Captain! My Captain! | 53.00% | ~926 |
-| 3, 2, 1, mine | 52.00% | ~908 |
-| Seafarer | 48.00% | ~839 |
-| Intangible | 40.00% | ~699 |
-| Greed for gold | 40.00% | ~699 |
-| I'm out of here for a while | 39.00% | ~681 |
-| In a mint condition | 35.00% | ~611 |
-| Licence to Kill | 34.00% | ~594 |
-| Pirates! | 32.00% | ~559 |
-| Collectionitis | 27.00% | ~472 |
-| Megalomania | 27.00% | ~472 |
-| Christening | 25.00% | ~437 |
-| Groundskeeper | 24.00% | ~419 |
-| Wholesale | 20.00% | ~349 |
-| Walk the plank | 18.00% | ~314 |
-| Pearly gates | 17.00% | ~297 |
-| My precious! | 16.00% | ~280 |
-| Conquistador | 13.00% | ~227 |
-| Panic buying | 10.00% | ~175 |
-| Your vessel, my vessel | 9.00% | ~157 |
-| Just a scratch | 8.00% | ~140 |
-| All mine! | 8.00% | ~140 |
-| Maker | 7.00% | ~122 |
-| Paths of Glory | 7.00% | ~122 |
-| Panel of experts | 7.00% | ~122 |
-| Conglomerate | 6.00% | ~105 |
-| Buccaneer | 5.00% | ~87 |
-| Flying Dutchman | 5.00% | ~87 |
-| The Grande Bouffe | 5.00% | ~87 |
-| Premier Maître | 3.00% | ~52 |
-| A true pirate! | 3.00% | ~52 |
-| Overpopulation | 3.00% | ~52 |
-| Supreme conqueror | 2.00% | ~35 |
-| Strategist | 2.00% | ~35 |
-| Master & Commander | 2.00% | ~35 |
-| All aboard! | 2.00% | ~35 |
-| Gold fever | 2.00% | ~35 |
-| Fill it up, please! | 2.00% | ~35 |
-| Administrator | 1.00% | ~17 |
-| The customer is always right | 1.00% | ~17 |
+| Cabin boy | 79.00% | ~1,434 |
+| My little farm | 61.00% | ~1,107 |
+| Every beginning is difficult | 60.00% | ~1,089 |
+| Gofer | 54.00% | ~980 |
+| 3, 2, 1, mine | 53.00% | ~962 |
+| O Captain! My Captain! | 53.00% | ~962 |
+| Seafarer | 48.00% | ~871 |
+| Intangible | 40.00% | ~726 |
+| Greed for gold | 40.00% | ~726 |
+| I'm out of here for a while | 39.00% | ~708 |
+| In a mint condition | 35.00% | ~635 |
+| Licence to Kill | 35.00% | ~635 |
+| Pirates! | 32.00% | ~581 |
+| Collectionitis | 28.00% | ~508 |
+| Megalomania | 27.00% | ~490 |
+| Christening | 26.00% | ~472 |
+| Groundskeeper | 24.00% | ~436 |
+| Wholesale | 20.00% | ~363 |
+| Walk the plank | 18.00% | ~327 |
+| Pearly gates | 17.00% | ~309 |
+| My precious! | 16.00% | ~290 |
+| Conquistador | 13.00% | ~236 |
+| Panic buying | 9.00% | ~163 |
+| Just a scratch | 8.00% | ~145 |
+| All mine! | 8.00% | ~145 |
+| Your vessel, my vessel | 8.00% | ~145 |
+| Paths of Glory | 7.00% | ~127 |
+| Panel of experts | 7.00% | ~127 |
+| Maker | 6.00% | ~109 |
+| Conglomerate | 6.00% | ~109 |
+| The Grande Bouffe | 5.00% | ~91 |
+| Buccaneer | 4.00% | ~73 |
+| Flying Dutchman | 4.00% | ~73 |
+| Premier Maître | 3.00% | ~54 |
+| A true pirate! | 3.00% | ~54 |
+| Overpopulation | 3.00% | ~54 |
+| Supreme conqueror | 2.00% | ~36 |
+| Strategist | 2.00% | ~36 |
+| Master & Commander | 2.00% | ~36 |
+| All aboard! | 2.00% | ~36 |
+| Gold fever | 2.00% | ~36 |
+| Fill it up, please! | 2.00% | ~36 |
+| Administrator | 1.00% | ~18 |
+| The customer is always right | 1.00% | ~18 |
 | Capitalist | 0.90% | ~16 |
-| Raiders of the Lost Ark | 0.80% | ~14 |
-| Fleet Admiral | 0.60% | ~10 |
-| Parlay? | 0.60% | ~10 |
+| Raiders of the Lost Ark | 0.80% | ~15 |
+| Fleet Admiral | 0.60% | ~11 |
+| Parlay? | 0.60% | ~11 |
 | Traffic chaos | 0.50% | ~9 |
 | Davy Jones' locker | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,747 (Ranked 354)  
-Completed: 1 (0.06%) (Ranked 440)  
+Progressed: 1,815 (Ranked 360)  
+Completed: 1 (0.06%) (Ranked 459)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,6 +307,7 @@ Completed: 1 (0.06%) (Ranked 440)
 | 2024-03-21 | 1,592 | 1 |
 | 2024-04-10 | 1,628 | 1 |
 | 2024-06-17 | 1,747 | 1 |
+| 2024-08-09 | 1,815 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

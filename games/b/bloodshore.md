@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Um, ok... | 56.00% | ~267 |
-| Super Seducer | 55.00% | ~262 |
-| Congratulations, you are a sadist | 48.00% | ~228 |
-| Superstar-crossed lovers | 41.00% | ~195 |
-| A leader, you are not | 35.00% | ~167 |
-| Comedy Killer | 32.00% | ~152 |
-| Good job, nerd | 31.00% | ~148 |
-| Mission Complete | 30.00% | ~143 |
-| This won't end well... | 29.00% | ~138 |
-| Bromance | 28.00% | ~133 |
-| Lootaphilia | 24.00% | ~114 |
-| Maybe you should give it another go | 9.00% | ~43 |
-| Mikey Lizard | 7.00% | ~33 |
-| I used to think I was indecisive... | 4.00% | ~19 |
-| Deathlooper | 3.00% | ~14 |
-| That's my boy! | 3.00% | ~14 |
-| We tried to warn you! | 3.00% | ~14 |
+| Um, ok... | 57.00% | ~298 |
+| Super Seducer | 56.00% | ~293 |
+| Congratulations, you are a sadist | 50.00% | ~262 |
+| Superstar-crossed lovers | 42.00% | ~220 |
+| A leader, you are not | 35.00% | ~183 |
+| Comedy Killer | 33.00% | ~173 |
+| Good job, nerd | 32.00% | ~167 |
+| Mission Complete | 31.00% | ~162 |
+| Bromance | 29.00% | ~152 |
+| This won't end well... | 28.00% | ~146 |
+| Lootaphilia | 24.00% | ~126 |
+| Maybe you should give it another go | 9.00% | ~47 |
+| Mikey Lizard | 7.00% | ~37 |
+| I used to think I was indecisive... | 5.00% | ~26 |
+| That's my boy! | 3.00% | ~16 |
+| Deathlooper | 2.00% | ~10 |
+| We tried to warn you! | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 459)  
-Completed: 6 (1.26%) (Ranked 215)  
+Progressed: 523 (Ranked 463)  
+Completed: 7 (1.34%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -135,6 +135,7 @@ Completed: 6 (1.26%) (Ranked 215)
 | 2024-03-21 | 347 | 6 |
 | 2024-04-10 | 361 | 6 |
 | 2024-06-17 | 476 | 6 |
+| 2024-08-09 | 523 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "a4db1fc5c09a47b7ae8cc9648a93e758",
   "Name": "Find Room 96",
   "ProductSlug": "find-room-96-310ae5",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-03T19:57:12.5697359+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:32.010368+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:13.5110608+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:24.9280483+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:46.6142889+00:00"
 }

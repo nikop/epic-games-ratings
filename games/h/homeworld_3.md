@@ -5,48 +5,49 @@ Rating: 4.06 (Ranked 1,169)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| If You’ll Be My Bodyguard | 85.00% | ~1,624 |
-| The Unbound | 85.00% | ~1,624 |
-| Stay in formation! | 83.00% | ~1,585 |
-| We Are Away | 67.00% | ~1,280 |
-| Bug Swatter | 67.00% | ~1,280 |
-| A Helluva Ship | 65.00% | ~1,242 |
-| Fix-it Frigate | 65.00% | ~1,242 |
-| Hostile Takeover | 62.00% | ~1,184 |
-| Warriors Of The Fringe | 61.00% | ~1,165 |
-| Untouchable | 61.00% | ~1,165 |
-| One Step Too Close | 60.00% | ~1,146 |
-| A Dark Cloud Gathers | 54.00% | ~1,031 |
-| Chapel Perilous | 51.00% | ~974 |
-| That Was One in a Million! | 50.00% | ~955 |
-| Prepare To Shipbreak | 46.00% | ~879 |
-| Big Game Hunter | 46.00% | ~879 |
-| Kablammo | 45.00% | ~860 |
-| Open The Way | 43.00% | ~821 |
-| As They Have Hunted Us | 36.00% | ~688 |
-| Into the Glacier | 34.00% | ~649 |
-| The Sajuuk-Khar | 33.00% | ~630 |
-| The Great Cannon | 33.00% | ~630 |
-| Ghosts Of The Desert | 30.00% | ~573 |
-| The Time Of Prophecy | 29.00% | ~554 |
-| This War Is Over | 25.00% | ~478 |
-| A Path Across the Galaxy | 25.00% | ~478 |
-| Captain | 22.00% | ~420 |
-| That Belongs in a Museum! | 20.00% | ~382 |
-| Admiral | 18.00% | ~344 |
-| Shall We Play a Game? | 9.00% | ~172 |
-| Not Today, Singularity! | 5.00% | ~96 |
-| Nothing Short Of Miraculous | 4.00% | ~76 |
-| Navigator | 2.00% | ~38 |
-| Destruct Sequence Alpha-One | 1.00% | ~19 |
+| If You’ll Be My Bodyguard | 85.00% | ~1,850 |
+| The Unbound | 84.00% | ~1,828 |
+| Stay in formation! | 82.00% | ~1,784 |
+| We Are Away | 67.00% | ~1,458 |
+| Bug Swatter | 67.00% | ~1,458 |
+| A Helluva Ship | 65.00% | ~1,414 |
+| Fix-it Frigate | 65.00% | ~1,414 |
+| Hostile Takeover | 62.00% | ~1,349 |
+| Warriors Of The Fringe | 61.00% | ~1,327 |
+| Untouchable | 61.00% | ~1,327 |
+| One Step Too Close | 60.00% | ~1,306 |
+| A Dark Cloud Gathers | 54.00% | ~1,175 |
+| Chapel Perilous | 51.00% | ~1,110 |
+| That Was One in a Million! | 50.00% | ~1,088 |
+| Prepare To Shipbreak | 46.00% | ~1,001 |
+| Big Game Hunter | 46.00% | ~1,001 |
+| Kablammo | 45.00% | ~979 |
+| Open The Way | 43.00% | ~936 |
+| As They Have Hunted Us | 36.00% | ~783 |
+| Into the Glacier | 34.00% | ~740 |
+| The Sajuuk-Khar | 33.00% | ~718 |
+| The Great Cannon | 33.00% | ~718 |
+| Ghosts Of The Desert | 30.00% | ~653 |
+| The Time Of Prophecy | 29.00% | ~631 |
+| This War Is Over | 26.00% | ~566 |
+| A Path Across the Galaxy | 25.00% | ~544 |
+| Captain | 22.00% | ~479 |
+| That Belongs in a Museum! | 20.00% | ~435 |
+| Admiral | 18.00% | ~392 |
+| Shall We Play a Game? | 10.00% | ~218 |
+| Not Today, Singularity! | 5.00% | ~109 |
+| Nothing Short Of Miraculous | 4.00% | ~87 |
+| Navigator | 2.00% | ~44 |
+| Destruct Sequence Alpha-One | 2.00% | ~44 |
 | Grand Armada | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,910 (Ranked 344)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,176 (Ranked 346)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 1,910 | 0 |
+| 2024-08-09 | 2,176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

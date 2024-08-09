@@ -2,10 +2,10 @@
   "ID": "1afd5e7471a04991ac720d96454651ad",
   "Name": "Neon World Maker",
   "ProductSlug": "neon-world-maker-28fed7",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-06-12T16:00:00+00:00",
     "PcReleaseDate": "2024-06-12T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-12T17:58:10.9277719+00:00",
   "LastUpdate_AppInfo": "2024-08-03T13:56:52.9719413+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:24.0663107+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:21.7173579+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:17.4518053+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:54.2697718+00:00"
 }

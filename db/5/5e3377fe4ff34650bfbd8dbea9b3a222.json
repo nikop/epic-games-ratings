@@ -2,10 +2,10 @@
   "ID": "5e3377fe4ff34650bfbd8dbea9b3a222",
   "Name": "The Sinking City 2",
   "ProductSlug": "the-sinking-city-2-72d2fd",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-08T06:57:11.8531978+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:26.3554915+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:02:13.9521333+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:22.5333288+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:06:53.0372105+00:00"
 }

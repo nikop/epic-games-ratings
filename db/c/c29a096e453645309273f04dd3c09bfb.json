@@ -2,10 +2,10 @@
   "ID": "c29a096e453645309273f04dd3c09bfb",
   "Name": "Loca Deserta: Odesa",
   "ProductSlug": "loca-deserta-odesa-3f480b",
-  "Ranking_EOS_Progress": 813,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 812,
+  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-13T23:00:00+00:00",
     "PcReleaseDate": "2022-06-15T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 27,
+  "EOS_Progressed": 34,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.7,
+  "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:08:09.8551577+00:00",
@@ -44,6 +44,11 @@
       "Time": "2024-06-17T16:11:39.9718211+00:00",
       "NumProgressed": 27,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-09T18:03:14.4221415+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-03-21T17:08:09.8551606+00:00",
@@ -56,7 +61,7 @@
       "Name": "You\u0027ve cut 100 trees!",
       "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_CHUMAKI_UNLOCKED",
@@ -64,21 +69,21 @@
       "Name": "New Quest Area Unlocked",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_DROWNED",
       "SetID": "8i6pecc",
       "Name": "You Have Drowned",
-      "Percentage": 70,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_KOBZAR_PLACED",
       "SetID": "8i6pecc",
       "Name": "Kobzar Book Was Found!",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -86,23 +91,23 @@
       "ID": "ACH_OLD_SCHOOL_REFERENCE",
       "SetID": "8i6pecc",
       "Name": "A Cross Reference Discovered",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_TARTAR_QUESTS_COMPLETED",
       "SetID": "8i6pecc",
       "Name": "You Have Helped Tartars",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AllBardsListened",
       "SetID": "8i6pecc",
       "Name": "You Found All Bards",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -110,7 +115,7 @@
       "ID": "AllBinoculars",
       "SetID": "8i6pecc",
       "Name": "You Have Found All Vista Points!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -118,23 +123,23 @@
       "ID": "Builder1",
       "SetID": "8i6pecc",
       "Name": "You Have Built Your First Building",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "BuilderII",
       "SetID": "8i6pecc",
       "Name": "Upgraded 10 Times",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "BuilderIII",
       "SetID": "8i6pecc",
       "Name": "All Buildings Upgraded!",
-      "Percentage": 15,
+      "Percentage": 12,
       "XP": 150,
       "UsersEstimate": 4
     },
@@ -144,15 +149,15 @@
       "Name": "You Have Processed a Cow",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "First Bard",
       "SetID": "8i6pecc",
       "Name": "First Bard!",
-      "Percentage": 30,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FirstBinocular",
@@ -160,37 +165,37 @@
       "Name": "First Sightseeing!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "FirstTreasureFound",
       "SetID": "8i6pecc",
       "Name": "Your First Treasure!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ForestCutterNewbie",
       "SetID": "8i6pecc",
       "Name": "You\u0027ve cut the first tree!",
-      "Percentage": 96,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ForestCutterRookie",
       "SetID": "8i6pecc",
       "Name": "You\u0027ve cut 50 trees",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Forester 3",
       "SetID": "8i6pecc",
       "Name": "Planted 50 Trees",
-      "Percentage": 15,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -198,23 +203,23 @@
       "ID": "Forester1",
       "SetID": "8i6pecc",
       "Name": "You just planted your first tree!",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Forester2",
       "SetID": "8i6pecc",
       "Name": "You have watered 5 trees!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "Les Poderevyanskyi",
       "SetID": "8i6pecc",
       "Name": "Les Poderevyanskyi",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -222,9 +227,9 @@
       "ID": "Process30Cows",
       "SetID": "8i6pecc",
       "Name": "You Have Produced 30 Meat!",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Quests1",
@@ -232,7 +237,7 @@
       "Name": "Your First Quest",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "Quests2",
@@ -240,13 +245,13 @@
       "Name": "Completed 10 Quests",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "Quests3",
       "SetID": "8i6pecc",
       "Name": "You Have Completed 69 Quests!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -254,9 +259,9 @@
       "ID": "Slaughter",
       "SetID": "8i6pecc",
       "Name": "You have produced 15 meat!",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "StoneBabaFound",
@@ -264,13 +269,13 @@
       "Name": "Found First Stone Baba",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "StoneBabasFoundAll",
       "SetID": "8i6pecc",
       "Name": "All Stone Statues Discovered!",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -278,9 +283,9 @@
       "ID": "StoneCutter1",
       "SetID": "8i6pecc",
       "Name": "You Have Cut the First Stone",
-      "Percentage": 78,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "StoneCutter2",
@@ -288,7 +293,7 @@
       "Name": "You\u0027ve Cut 15 Stone",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "StoneCutter3",
@@ -296,13 +301,13 @@
       "Name": "You Have Mined 100 Stone",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "TreasuresFound",
       "SetID": "8i6pecc",
       "Name": "You have found all treasures!",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 140,
       "UsersEstimate": 3
     }
@@ -311,14 +316,14 @@
     {
       "ID": "8i6pecc",
       "IsBase": true,
-      "Progressed": 27,
+      "Progressed": 34,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-15T02:17:04.4605184+00:00",
   "FirstSeenAchievements": "2024-01-21T19:04:42.5973794+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:11:39.9718205+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:14.4221409+00:00",
   "LastUpdate_AppInfo": "2024-08-05T11:57:05.053783+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:35.0923019+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:11:39.9718414+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:30.4434954+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:14.4221606+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "0693e8391e49492096424712a5595484",
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
-  "Ranking_EOS_Progress": 390,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 401,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1002,
-  "EOS_Completed": 76,
+  "EOS_Progressed": 1068,
+  "EOS_Completed": 82,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.58,
+  "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3399,6 +3399,11 @@
       "Time": "2024-06-17T16:10:16.5486038+00:00",
       "NumProgressed": 1002,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-08-09T18:02:41.2257653+00:00",
+      "NumProgressed": 1068,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 45,
@@ -3410,7 +3415,7 @@
       "Name": "Wild Run",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 441
+      "UsersEstimate": 470
     },
     {
       "ID": "BasiliskBroom",
@@ -3418,15 +3423,15 @@
       "Name": "Sweeping Prop",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 267
     },
     {
       "ID": "BasiliskFishingRod",
       "SetID": "db30heh",
       "Name": "Fishing Prop",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 235
     },
     {
       "ID": "BearBroom",
@@ -3434,7 +3439,7 @@
       "Name": "Dusted",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 150
+      "UsersEstimate": 160
     },
     {
       "ID": "BearPistol",
@@ -3442,23 +3447,23 @@
       "Name": "Ouch!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 566
     },
     {
       "ID": "BearPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Sleeping Potion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 299
     },
     {
       "ID": "BearRum",
       "SetID": "db30heh",
       "Name": "Ready for Bed",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 224
     },
     {
       "ID": "BearSword",
@@ -3466,7 +3471,7 @@
       "Name": "Full Deck",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 85
     },
     {
       "ID": "BeggarWomanCoin",
@@ -3474,7 +3479,7 @@
       "Name": "Alms",
       "Percentage": 87,
       "XP": 25,
-      "UsersEstimate": 872
+      "UsersEstimate": 929
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -3482,15 +3487,15 @@
       "Name": "Tasty Alms",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 120
+      "UsersEstimate": 128
     },
     {
       "ID": "BeggarWomanHut",
       "SetID": "db30heh",
       "Name": "Home Sweet Home",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 731
+      "UsersEstimate": 790
     },
     {
       "ID": "BroomAmanita",
@@ -3498,15 +3503,15 @@
       "Name": "Gone Cooking",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 461
+      "UsersEstimate": 491
     },
     {
       "ID": "BroomPistol",
       "SetID": "db30heh",
       "Name": "Target Hit",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 299
     },
     {
       "ID": "DevilPriest",
@@ -3514,7 +3519,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 721
+      "UsersEstimate": 769
     },
     {
       "ID": "DevilRope",
@@ -3522,15 +3527,15 @@
       "Name": "The Devil is My Friend",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 731
+      "UsersEstimate": 780
     },
     {
       "ID": "Drunkard",
       "SetID": "db30heh",
       "Name": "Drunkard",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 278
     },
     {
       "ID": "DwarDevil",
@@ -3538,7 +3543,7 @@
       "Name": "Funny Devil",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 299
     },
     {
       "ID": "DwarfBeggarWoman",
@@ -3546,15 +3551,15 @@
       "Name": "Funny Granny",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 441
+      "UsersEstimate": 470
     },
     {
       "ID": "DwarfHobo",
       "SetID": "db30heh",
       "Name": "Funny Hobo",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 395
     },
     {
       "ID": "FerrymanBird",
@@ -3562,7 +3567,7 @@
       "Name": "Happy Reunion",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 737
     },
     {
       "ID": "HastrmanAcorn",
@@ -3570,15 +3575,15 @@
       "Name": "Do Not Disturb",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 491
+      "UsersEstimate": 523
     },
     {
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 491
+      "UsersEstimate": 534
     },
     {
       "ID": "HastrmanHappy",
@@ -3586,7 +3591,7 @@
       "Name": "Regular Diet",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 459
     },
     {
       "ID": "HastrmanRum",
@@ -3594,23 +3599,23 @@
       "Name": "That\u0027s Not Water",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 235
     },
     {
       "ID": "HatFlower",
       "SetID": "db30heh",
       "Name": "Flower",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 577
     },
     {
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 427
     },
     {
       "ID": "PitSoul",
@@ -3618,7 +3623,7 @@
       "Name": "Your Soul Is Mine",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 451
+      "UsersEstimate": 481
     },
     {
       "ID": "PriestBroom",
@@ -3626,7 +3631,7 @@
       "Name": "Chastisement",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 267
     },
     {
       "ID": "PriestPistol",
@@ -3634,7 +3639,7 @@
       "Name": "Unexpected Hit",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 203
     },
     {
       "ID": "PriestPoppiesBroth",
@@ -3642,7 +3647,7 @@
       "Name": "Zonked",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 374
     },
     {
       "ID": "PriestRogue",
@@ -3650,7 +3655,7 @@
       "Name": "Direct Hit",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 278
     },
     {
       "ID": "PriestRum",
@@ -3658,7 +3663,7 @@
       "Name": "Rummy",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 384
     },
     {
       "ID": "Priestess",
@@ -3666,7 +3671,7 @@
       "Name": "Blessed",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 598
     },
     {
       "ID": "PrincessThrone",
@@ -3674,7 +3679,7 @@
       "Name": "New Order",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 214
     },
     {
       "ID": "RogueChest",
@@ -3682,15 +3687,15 @@
       "Name": "Treasure Chest",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 609
     },
     {
       "ID": "RogueEat",
       "SetID": "db30heh",
       "Name": "Debt Free",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 942
+      "UsersEstimate": 993
     },
     {
       "ID": "RogueKing",
@@ -3698,15 +3703,15 @@
       "Name": "Long Live The King",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 331
     },
     {
       "ID": "RogueNaked",
       "SetID": "db30heh",
       "Name": "The King is Naked",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 214
     },
     {
       "ID": "RogueRum",
@@ -3714,7 +3719,7 @@
       "Name": "In Good Spirits",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 792
+      "UsersEstimate": 844
     },
     {
       "ID": "SleepingBasiliskAmanita",
@@ -3722,7 +3727,7 @@
       "Name": "Wild Dreams",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 190
+      "UsersEstimate": 203
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3730,15 +3735,15 @@
       "Name": "Knockout",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 192
     },
     {
       "ID": "SleepingBasiliskPoppiesBroth",
       "SetID": "db30heh",
       "Name": "Poppy Sleep",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 182
     },
     {
       "ID": "SwordDiamond",
@@ -3746,37 +3751,37 @@
       "Name": "Precious Barter",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 511
+      "UsersEstimate": 545
     },
     {
       "ID": "SwordMoneyBag",
       "SetID": "db30heh",
       "Name": "Expensive Deal",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 427
     },
     {
       "ID": "WormGrilled",
       "SetID": "db30heh",
       "Name": "Bratwurm",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 160
     }
   ],
   "AchievementSets": [
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 1002,
-      "Completed": 76
+      "Progressed": 1068,
+      "Completed": 82
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:10:16.5486034+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:41.2257647+00:00",
   "LastUpdate_AppInfo": "2024-08-07T20:56:59.1756137+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:18.1957827+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:10:16.5486446+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:40.1956056+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:41.2258028+00:00"
 }

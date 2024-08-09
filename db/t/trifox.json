@@ -2,10 +2,10 @@
   "ID": "77c7b912cbbd4c45b883db72f4a1f0bd",
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
-  "Ranking_EOS_Progress": 640,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 659,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
     "PcReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 110,
+  "EOS_Progressed": 111,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.91,
+  "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -190,6 +190,11 @@
       "Time": "2024-07-25T19:05:22.2337733+00:00",
       "NumProgressed": 110,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-09T18:07:18.2001609+00:00",
+      "NumProgressed": 111,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -225,7 +230,7 @@
       "Name": "Scraping by",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_COMPLETIONIST",
@@ -289,7 +294,7 @@
       "Name": "What is this?",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_GEMSCOLLECTED_100PERCENT",
@@ -353,15 +358,15 @@
       "Name": "Complete Level 1-1",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 1-2",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_03",
@@ -369,7 +374,7 @@
       "Name": "Complete Level 1-3",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_LEVELCOMPLETION_01_04",
@@ -383,17 +388,17 @@
       "ID": "ACH_LEVELCOMPLETION_02_01",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-1",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_02",
       "SetID": "cfld5bl",
       "Name": "Complete Level 2-2",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_03",
@@ -401,13 +406,13 @@
       "Name": "Complete Level 2-3",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LEVELCOMPLETION_02_04",
       "SetID": "cfld5bl",
       "Name": "Defeat the engineer boss",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -457,7 +462,7 @@
       "Name": "Engineer-mage hybrid",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_LEVELCOMPLETION_HYBRID_ENGINEERWARRIOR",
@@ -479,9 +484,9 @@
       "ID": "ACH_LEVELCOMPLETION_NODEATHS",
       "SetID": "cfld5bl",
       "Name": "Immortal",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_LEVELCOMPLETION_SPECIALIST_ENGINEER",
@@ -511,7 +516,7 @@
       "ID": "ACH_LEVELCOMPLETION_TRIPLEHYBRID",
       "SetID": "cfld5bl",
       "Name": "Versatile",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -568,7 +573,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 110,
+      "Progressed": 111,
       "Completed": 1
     }
   ],
@@ -576,8 +581,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2024-07-25T19:05:22.2337728+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:18.2001605+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:56:59.7595559+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:07.7974865+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:05:22.2337988+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:58.653846+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:18.2001853+00:00"
 }

@@ -7,8 +7,8 @@ Number of Ratings: 20  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Adventure Begins | 68.00% | ~336 |
-| Cartographer | 60.00% | ~296 |
-| A Strange Artefact | 55.00% | ~272 |
+| Cartographer | 61.00% | ~301 |
+| A Strange Artefact | 56.00% | ~277 |
 | Insomnia | 52.00% | ~257 |
 | Lost & Found & Lost Again | 44.00% | ~217 |
 | From Whence we Came | 44.00% | ~217 |
@@ -19,32 +19,32 @@ Number of Ratings: 20  (23.09.2022)
 | Good Mama | 34.00% | ~168 |
 | O Captain My Captain | 33.00% | ~163 |
 | Plunderer | 31.00% | ~153 |
-| Taxonomist | 28.00% | ~138 |
+| Taxonomist | 29.00% | ~143 |
 | Traveller | 26.00% | ~128 |
 | Uncertain Loyalties | 26.00% | ~128 |
 | Nahua Seeker | 25.00% | ~124 |
 | Roll to Save | 24.00% | ~119 |
 | Veteran Explorer | 23.00% | ~114 |
 | Red Flag Pirate | 22.00% | ~109 |
+| Iron Man | 18.00% | ~89 |
 | Practical Palaeontology | 18.00% | ~89 |
-| Iron Man | 17.00% | ~84 |
 | A Gentle Beast | 17.00% | ~84 |
+| For the Club! | 16.00% | ~79 |
 | Shortening of the Way | 16.00% | ~79 |
 | The Director is Dead | 15.00% | ~74 |
 | Adventurer | 15.00% | ~74 |
-| For the Club! | 15.00% | ~74 |
 | Dapper | 15.00% | ~74 |
 | The New Director | 14.00% | ~69 |
 | And Here Is Your Statue | 14.00% | ~69 |
 | Discovery | 14.00% | ~69 |
 | Plays Well With Others | 14.00% | ~69 |
-| Very Classy | 13.00% | ~64 |
+| Very Classy | 14.00% | ~69 |
 | Under the Table | 12.00% | ~59 |
 | It's Complicated | 12.00% | ~59 |
+| Cold Blood, Warm Heart | 10.00% | ~49 |
 | SCHMETTERLING | 9.00% | ~44 |
 | No Laughing Matter | 9.00% | ~44 |
 | Level Up | 9.00% | ~44 |
-| Cold Blood, Warm Heart | 9.00% | ~44 |
 | Errand Runner | 9.00% | ~44 |
 | Zookeeper | 8.00% | ~40 |
 | The Great Library | 8.00% | ~40 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | Everything is FINE... | 0.60% | ~3 |
 | Now I've Seen It All | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 455)  
-Completed: 1 (0.20%) (Ranked 365)  
+Progressed: 494 (Ranked 466)  
+Completed: 1 (0.20%) (Ranked 387)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

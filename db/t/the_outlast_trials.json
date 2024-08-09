@@ -5,10 +5,10 @@
   "Ranking_Rating": 344,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 184,
-  "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Completed": 231,
+  "Ranking_EOS_NewPlayers": 11,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -8760,11 +8760,11 @@
       "Count": 134
     }
   ],
-  "EOS_Progressed": 44855,
-  "EOS_Completed": 567,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.26,
+  "EOS_Progressed": 46979,
+  "EOS_Completed": 614,
+  "EOS_NewPlayers": 2124,
+  "EOS_NewCompleters": 47,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:05:31.4834455+00:00",
@@ -8785,6 +8785,11 @@
       "Time": "2024-07-30T16:02:48.0019584+00:00",
       "NumProgressed": 44855,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2024-08-09T18:08:19.5308724+00:00",
+      "NumProgressed": 46979,
+      "NumCompleted": 614
     }
   ],
   "AchievementsAdded": "2024-03-21T17:05:31.4834535+00:00",
@@ -8797,15 +8802,15 @@
       "Name": "Anger Issues",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 7177
+      "UsersEstimate": 7517
     },
     {
       "ID": "achievement_bamboozle",
       "SetID": "34ngl8k",
       "Name": "Bamboozler",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 10765
+      "UsersEstimate": 10805
     },
     {
       "ID": "achievement_big_saver",
@@ -8813,7 +8818,7 @@
       "Name": "Big Saver",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 14354
+      "UsersEstimate": 15033
     },
     {
       "ID": "achievement_boost_me_up",
@@ -8821,7 +8826,7 @@
       "Name": "Toastmaster",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 4037
+      "UsersEstimate": 4228
     },
     {
       "ID": "achievement_breathe_in",
@@ -8829,7 +8834,7 @@
       "Name": "Breathe In",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3289
     },
     {
       "ID": "achievement_bullseye",
@@ -8837,7 +8842,7 @@
       "Name": "Bullseye",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 11662
+      "UsersEstimate": 12215
     },
     {
       "ID": "achievement_cant_touch_this",
@@ -8845,7 +8850,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3289
     },
     {
       "ID": "achievement_chicken_shit",
@@ -8853,7 +8858,7 @@
       "Name": "Chicken in a Pot",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 14802
+      "UsersEstimate": 15503
     },
     {
       "ID": "achievement_clear_vision",
@@ -8861,7 +8866,7 @@
       "Name": "Tapetum Lucidum",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 5831
+      "UsersEstimate": 6107
     },
     {
       "ID": "achievement_crowd_control",
@@ -8869,7 +8874,7 @@
       "Name": "Crowd Control",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3758
     },
     {
       "ID": "achievement_determined",
@@ -8877,15 +8882,15 @@
       "Name": "Glutton for Therapy",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 13008
+      "UsersEstimate": 13624
     },
     {
       "ID": "achievement_drift_king",
       "SetID": "34ngl8k",
       "Name": "Slip and Slider",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 9420
+      "UsersEstimate": 9396
     },
     {
       "ID": "achievement_gotta_go_fast",
@@ -8893,7 +8898,7 @@
       "Name": "Speed Freak",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3758
     },
     {
       "ID": "achievement_hemophiliac",
@@ -8901,7 +8906,7 @@
       "Name": "Hemophiliac",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 8971
+      "UsersEstimate": 9396
     },
     {
       "ID": "achievement_high_as_a_kite",
@@ -8909,7 +8914,7 @@
       "Name": "Vision Quest",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 9868
+      "UsersEstimate": 10335
     },
     {
       "ID": "achievement_hoarder",
@@ -8917,15 +8922,15 @@
       "Name": "Hoarder",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 5831
+      "UsersEstimate": 6107
     },
     {
       "ID": "achievement_hunchback",
       "SetID": "34ngl8k",
       "Name": "Hunchback",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 20633
+      "UsersEstimate": 21141
     },
     {
       "ID": "achievement_hypochondriac",
@@ -8933,15 +8938,15 @@
       "Name": "Hypochondriac",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1879
     },
     {
       "ID": "achievement_major_league_player",
       "SetID": "34ngl8k",
       "Name": "Major League Player",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 9420
+      "UsersEstimate": 9396
     },
     {
       "ID": "achievement_marathonian",
@@ -8949,15 +8954,15 @@
       "Name": "Marathoner",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 20633
+      "UsersEstimate": 21610
     },
     {
       "ID": "achievement_mechanophiliac",
       "SetID": "34ngl8k",
       "Name": "Mechanophiliac",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 13008
+      "UsersEstimate": 13154
     },
     {
       "ID": "achievement_no_time_to_sleep",
@@ -8965,7 +8970,7 @@
       "Name": "Sawbones",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 4486
+      "UsersEstimate": 4698
     },
     {
       "ID": "achievement_power_surge",
@@ -8973,7 +8978,7 @@
       "Name": "Power Surge",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 11662
+      "UsersEstimate": 12215
     },
     {
       "ID": "achievement_sleight_of_hand",
@@ -8981,7 +8986,7 @@
       "Name": "Sleight of Hand",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1409
     },
     {
       "ID": "achievement_step_on_me_daddy",
@@ -8989,7 +8994,7 @@
       "Name": "Get Down",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7986
     },
     {
       "ID": "achievement_together_we_are_stong",
@@ -8997,7 +9002,7 @@
       "Name": "Together We Are Strong",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 12559
+      "UsersEstimate": 13154
     },
     {
       "ID": "achievement_trigger_happy",
@@ -9005,23 +9010,23 @@
       "Name": "Trigger Happy",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7986
     }
   ],
   "AchievementSets": [
     {
       "ID": "34ngl8k",
       "IsBase": true,
-      "Progressed": 44855,
-      "Completed": 567
+      "Progressed": 46979,
+      "Completed": 614
     }
   ],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
   "LastChanged": "2024-08-09T13:59:05.0845968+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:48.0019578+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:19.5308714+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:05.9352427+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:48.2312336+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:48.0019736+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:20.2816281+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:19.5308862+00:00"
 }

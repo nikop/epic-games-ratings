@@ -2,10 +2,10 @@
   "ID": "1903efa2b18040089ecbd796f9ec3a16",
   "Name": "Extreme Formula Championship",
   "ProductSlug": "extreme-formula-championship-a8271d",
-  "Ranking_EOS_Progress": 895,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 919,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-05-03T18:30:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -74,6 +74,11 @@
       "Time": "2024-06-17T16:12:34.5109809+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:03:37.0625198+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-30T19:03:25.6411728+00:00",
@@ -84,7 +89,7 @@
       "ID": "EXTREME_LEVEL2",
       "SetID": "3d99g70",
       "Name": "Contender",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -125,14 +130,14 @@
     {
       "ID": "3d99g70",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-22T19:57:40.0065945+00:00",
   "FirstSeenAchievements": "2023-11-30T19:03:25.6411727+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:12:34.5109806+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:37.0625195+00:00",
   "LastUpdate_AppInfo": "2024-08-02T18:57:16.4822253+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:28.8471352+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:12:34.5109885+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:18.1150764+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:37.0625257+00:00"
 }

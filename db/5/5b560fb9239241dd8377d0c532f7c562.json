@@ -2,10 +2,10 @@
   "ID": "5b560fb9239241dd8377d0c532f7c562",
   "Name": "Rhythm Towers",
   "ProductSlug": "rhythm-towers-c3ef51",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T23:57:07.2787033+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:36.9719144+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:23.512405+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:13.10627+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:55.9668025+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 3.00% | ~37 |
-| Half a Life | 2.00% | ~24 |
-| Bad Blood | 1.00% | ~12 |
-| Shock to the System | 1.00% | ~12 |
+| First Blood | 3.00% | ~38 |
+| Half a Life | 2.00% | ~25 |
+| Shock to the System | 2.00% | ~25 |
+| Bad Blood | 1.00% | ~13 |
 | Serious Bam | 0.70% | ~9 |
 | Postal Service | 0.50% | ~6 |
 | Doomed | 0.40% | ~5 |
@@ -19,24 +19,24 @@
 | Pacifantastic | 0.30% | ~4 |
 | Rune Escape | 0.30% | ~4 |
 | SCATHE Too | 0.30% | ~4 |
-| Castle Of The Wolf | 0.20% | ~2 |
-| Gears of Door | 0.20% | ~2 |
-| Ice Work | 0.20% | ~2 |
-| Purely Not | 0.20% | ~2 |
-| Quakin' | 0.20% | ~2 |
-| Shocking Bio | 0.20% | ~2 |
-| Slaving Grace | 0.20% | ~2 |
-| Such Sin | 0.20% | ~2 |
-| Takin' Names | 0.20% | ~2 |
-| The Kingpin | 0.20% | ~2 |
-| Unreal 4 | 0.20% | ~2 |
+| Castle Of The Wolf | 0.20% | ~3 |
+| Gears of Door | 0.20% | ~3 |
+| Ice Work | 0.20% | ~3 |
+| Purely Not | 0.20% | ~3 |
+| Quakin' | 0.20% | ~3 |
+| Shocking Bio | 0.20% | ~3 |
+| Slaving Grace | 0.20% | ~3 |
+| Such Sin | 0.20% | ~3 |
+| Takin' Names | 0.20% | ~3 |
+| The Kingpin | 0.20% | ~3 |
+| Unreal 4 | 0.20% | ~3 |
 | Fear Nothing | 0.10% | ~1 |
 | Max Pain | 0.10% | ~1 |
 | Rage Quit | 0.10% | ~1 |
 | Until Dusk | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,220 (Ranked 376)  
-Completed: 1 (0.08%) (Ranked 424)  
+Progressed: 1,260 (Ranked 386)  
+Completed: 1 (0.08%) (Ranked 442)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,6 +236,7 @@ Completed: 1 (0.08%) (Ranked 424)
 | 2024-03-21 | 885 | 1 |
 | 2024-04-10 | 1,008 | 1 |
 | 2024-06-17 | 1,220 | 1 |
+| 2024-08-09 | 1,260 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 969,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 114,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 116,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -461,11 +461,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128035,
+  "EOS_Progressed": 132399,
   "EOS_Completed": 11761,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 9.19,
+  "EOS_Completed_Percentage": 8.88,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -18411,6 +18411,11 @@
       "Time": "2024-06-17T16:14:25.0947407+00:00",
       "NumProgressed": 128035,
       "NumCompleted": 11761
+    },
+    {
+      "Time": "2024-08-09T18:04:23.8857952+00:00",
+      "NumProgressed": 132399,
+      "NumCompleted": 11761
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -18423,7 +18428,7 @@
       "Name": "Bazooka Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "firstMatch",
@@ -18431,7 +18436,7 @@
       "Name": "First blood",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 97307
+      "UsersEstimate": 100623
     },
     {
       "ID": "grenadeKills",
@@ -18439,7 +18444,7 @@
       "Name": "Grenade Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "headshots100",
@@ -18447,7 +18452,7 @@
       "Name": "Head popping I",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6402
+      "UsersEstimate": 6620
     },
     {
       "ID": "headshots1000",
@@ -18455,7 +18460,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "headshots500",
@@ -18463,7 +18468,7 @@
       "Name": "Head popping II",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 397
     },
     {
       "ID": "knifeKills",
@@ -18471,7 +18476,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "matchesLost",
@@ -18479,15 +18484,15 @@
       "Name": "Hang in there",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 768
+      "UsersEstimate": 794
     },
     {
       "ID": "matchesWon",
       "SetID": "b3jeemd",
       "Name": "It\u0027s a piece of cake",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1280
+      "UsersEstimate": 2648
     },
     {
       "ID": "revengeMedal",
@@ -18495,7 +18500,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "rifleKills",
@@ -18503,7 +18508,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 896
+      "UsersEstimate": 927
     },
     {
       "ID": "shotgunKills",
@@ -18511,7 +18516,7 @@
       "Name": "Shotgun Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "sniperKills",
@@ -18519,7 +18524,7 @@
       "Name": "Sniper Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     },
     {
       "ID": "swordKills",
@@ -18527,14 +18532,14 @@
       "Name": "Sword Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 128035,
+      "Progressed": 132399,
       "Completed": 11761
     }
   ],
@@ -18542,8 +18547,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-08-01T03:58:14.6813738+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:14:25.0947399+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:04:23.8857947+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:02.0548697+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:35.0108981+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:14:25.0948568+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:23.8723479+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:04:23.8858931+00:00"
 }

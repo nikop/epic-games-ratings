@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 85.00% | ~79 |
-| Do a barrel roll! | 65.00% | ~60 |
-| Huh? What was that? | 54.00% | ~50 |
-| Whatever it is, fix it! | 40.00% | ~37 |
-| The opposite of good news | 33.00% | ~31 |
-| My Emperor... I've failed you! | 26.00% | ~24 |
-| Priceless company | 18.00% | ~17 |
-| I'm ready, anytime | 5.00% | ~5 |
-| Enemy shield analyzed | 4.00% | ~4 |
+| All systems go | 83.00% | ~95 |
+| Do a barrel roll! | 61.00% | ~70 |
+| Huh? What was that? | 50.00% | ~58 |
+| Whatever it is, fix it! | 37.00% | ~43 |
+| The opposite of good news | 30.00% | ~34 |
+| My Emperor... I've failed you! | 24.00% | ~28 |
+| Priceless company | 17.00% | ~20 |
+| I'm ready, anytime | 6.00% | ~7 |
+| Actually it's called aileron roll | 4.00% | ~5 |
 | Piece of cake | 3.00% | ~3 |
-| Actually it's called aileron roll | 3.00% | ~3 |
 | I have a bad feeling about this | 3.00% | ~3 |
+| Any other day at work | 3.00% | ~3 |
+| I've had enough! | 3.00% | ~3 |
 | No need to say goodbye | 3.00% | ~3 |
+| Enemy shield analyzed | 3.00% | ~3 |
 | Better hurry up | 2.00% | ~2 |
 | I call her the BF-Worm | 2.00% | ~2 |
 | Axel? | 2.00% | ~2 |
 | You won't escape that easy!! | 2.00% | ~2 |
-| Any other day at work | 2.00% | ~2 |
-| I've had enough! | 2.00% | ~2 |
 | Like it's nothing | 2.00% | ~2 |
 | I. Am. Bored | 2.00% | ~2 |
-| See you on the other side | 1.00% | ~1 |
-| We are the FUR Squadron! | 1.00% | ~1 |
-| Well, I'm doing it | 1.00% | ~1 |
+| See you on the other side | 0.90% | ~1 |
+| We are the FUR Squadron! | 0.90% | ~1 |
+| Well, I'm doing it | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93 (Ranked 659)  
-Completed: 1 (1.08%) (Ranked 238)  
+Progressed: 115 (Ranked 654)  
+Completed: 1 (0.87%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,3 +98,4 @@ Completed: 1 (1.08%) (Ranked 238)
 | 2024-03-21 | 88 | 1 |
 | 2024-06-17 | 92 | 1 |
 | 2024-07-09 | 93 | 1 |
+| 2024-08-09 | 115 | 1 |

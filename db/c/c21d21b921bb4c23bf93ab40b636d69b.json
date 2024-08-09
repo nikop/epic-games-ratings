@@ -2,10 +2,10 @@
   "ID": "c21d21b921bb4c23bf93ab40b636d69b",
   "Name": "Empire of the Gods",
   "ProductSlug": "empire-of-the-gods-a06045",
-  "Ranking_EOS_Progress": 876,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 881,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-01T16:00:00+00:00",
     "PcReleaseDate": "2008-05-13T16:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:17.2561034+00:00",
       "NumProgressed": 14,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:50.1083652+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -43,15 +48,15 @@
       "ID": "H1",
       "SetID": "5mg02gn",
       "Name": "Competent",
-      "Percentage": 57,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "H2",
       "SetID": "5mg02gn",
       "Name": "Fast",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -59,7 +64,7 @@
       "ID": "H3",
       "SetID": "5mg02gn",
       "Name": "Smart",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -67,15 +72,15 @@
       "ID": "H4",
       "SetID": "5mg02gn",
       "Name": "Wise",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "H5",
       "SetID": "5mg02gn",
       "Name": "Impressive",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -83,15 +88,15 @@
       "ID": "H6",
       "SetID": "5mg02gn",
       "Name": "Leader",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H7",
       "SetID": "5mg02gn",
       "Name": "Defender",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -99,7 +104,7 @@
       "ID": "H8",
       "SetID": "5mg02gn",
       "Name": "Builder",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "H9",
       "SetID": "5mg02gn",
       "Name": "Devout",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 120,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "HA",
       "SetID": "5mg02gn",
       "Name": "Versatile",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "HB",
       "SetID": "5mg02gn",
       "Name": "Well-known",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -131,7 +136,7 @@
       "ID": "HC",
       "SetID": "5mg02gn",
       "Name": "Famous",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "HF",
       "SetID": "5mg02gn",
       "Name": "Godlike",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 150,
       "UsersEstimate": 1
     }
@@ -164,13 +169,13 @@
     {
       "ID": "5mg02gn",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:17.2561082+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:17.2561029+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:50.1083645+00:00",
   "LastUpdate_AppInfo": "2024-08-03T13:56:52.9240769+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:40.4810185+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:17.2568464+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:15.7877803+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:50.1083755+00:00"
 }

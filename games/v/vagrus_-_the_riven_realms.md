@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 59.00% | ~229 |
-| Press-ganged | 44.00% | ~171 |
-| The Package | 28.00% | ~109 |
+| A Second Chance | 59.00% | ~231 |
+| Press-ganged | 45.00% | ~176 |
+| The Package | 27.00% | ~106 |
 | Randomized | 20.00% | ~78 |
 | Conquered | 20.00% | ~78 |
 | Scribe | 12.00% | ~47 |
@@ -14,7 +14,7 @@
 | Conciliator | 11.00% | ~43 |
 | Tactician | 11.00% | ~43 |
 | Fight Another Day | 11.00% | ~43 |
-| Taskmaster | 11.00% | ~43 |
+| Taskmaster | 10.00% | ~39 |
 | Acquaintance | 9.00% | ~35 |
 | Scholar | 8.00% | ~31 |
 | The More the Merrier | 8.00% | ~31 |
@@ -26,11 +26,11 @@
 | Strategist | 6.00% | ~23 |
 | Pilgrimage's End | 6.00% | ~23 |
 | Trouble at Fort Larius | 6.00% | ~23 |
-| Quartermaster | 5.00% | ~19 |
-| Potential Unlocked | 5.00% | ~19 |
-| Been There | 5.00% | ~19 |
-| A Terrible Will | 5.00% | ~19 |
-| Spiritual Journey | 5.00% | ~19 |
+| Quartermaster | 5.00% | ~20 |
+| Potential Unlocked | 5.00% | ~20 |
+| Been There | 5.00% | ~20 |
+| A Terrible Will | 5.00% | ~20 |
+| Spiritual Journey | 5.00% | ~20 |
 | Xevarian Gambit | 4.00% | ~16 |
 | The Voice of Hereafter | 4.00% | ~16 |
 | Despised | 4.00% | ~16 |
@@ -67,6 +67,7 @@
 | Executor | 0.80% | ~3 |
 | Embellished | 0.80% | ~3 |
 | Manticore | 0.80% | ~3 |
+| Escort | 0.80% | ~3 |
 | Carpenter | 0.50% | ~2 |
 | General | 0.50% | ~2 |
 | Company of Heroes | 0.50% | ~2 |
@@ -74,7 +75,6 @@
 | Huntsmaster | 0.50% | ~2 |
 | Chromatic Collector | 0.50% | ~2 |
 | Mercenary | 0.50% | ~2 |
-| Escort | 0.50% | ~2 |
 | Ruiner | 0.50% | ~2 |
 | Arcanite | 0.50% | ~2 |
 | Liberator | 0.30% | ~1 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 488)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 391 (Ranked 502)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,6 +231,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-04-10 | 351 | 0 |
 | 2024-06-17 | 383 | 0 |
 | 2024-07-25 | 388 | 0 |
+| 2024-08-09 | 391 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

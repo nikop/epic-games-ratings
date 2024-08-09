@@ -5,45 +5,47 @@ Rating: 4.20 (Ranked 1,087)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 68.00% | ~2,161 |
-| Trinity | 38.00% | ~1,208 |
-| The Collector | 32.00% | ~1,017 |
-| Find Allies | 31.00% | ~985 |
-| A Taste of Wrath | 30.00% | ~953 |
-| Adventurer | 30.00% | ~953 |
-| Shatter Them All | 29.00% | ~922 |
-| Geared Up | 29.00% | ~922 |
-| Scholar | 29.00% | ~922 |
-| I Found It | 28.00% | ~890 |
-| Tributes of Caladrias | 27.00% | ~858 |
-| Stone Collection | 27.00% | ~858 |
-| Powerful Allies | 26.00% | ~826 |
-| Fashion Victim | 26.00% | ~826 |
-| Big Bazar | 19.00% | ~604 |
-| Alchemist | 19.00% | ~604 |
-| Essence Blow | 18.00% | ~572 |
-| Calm before the Storm | 15.00% | ~477 |
-| The Mentor | 15.00% | ~477 |
-| To Battle | 14.00% | ~445 |
-| Godslayer | 14.00% | ~445 |
-| Miner | 11.00% | ~350 |
-| Airborne | 10.00% | ~318 |
-| Clear Sight | 7.00% | ~222 |
-| Shatterer | 7.00% | ~222 |
-| Fine Feathers Make Fine Birds | 7.00% | ~222 |
-| Slayer | 4.00% | ~127 |
-| False God | 4.00% | ~127 |
-| A Queen's Tale | 4.00% | ~127 |
-| Flawless Victory | 3.00% | ~95 |
-| All There Is | 3.00% | ~95 |
-| Summiter | 3.00% | ~95 |
-| Forgemaster | 2.00% | ~64 |
-| Shardbearer | 2.00% | ~64 |
-| All That Gold | 1.00% | ~32 |
+| Break Out | 68.00% | ~2,288 |
+| Trinity | 38.00% | ~1,278 |
+| The Collector | 32.00% | ~1,076 |
+| Find Allies | 31.00% | ~1,043 |
+| A Taste of Wrath | 30.00% | ~1,009 |
+| Adventurer | 30.00% | ~1,009 |
+| Shatter Them All | 29.00% | ~976 |
+| Geared Up | 29.00% | ~976 |
+| Scholar | 29.00% | ~976 |
+| I Found It | 28.00% | ~942 |
+| Tributes of Caladrias | 27.00% | ~908 |
+| Stone Collection | 27.00% | ~908 |
+| Powerful Allies | 26.00% | ~875 |
+| Fashion Victim | 26.00% | ~875 |
+| Big Bazar | 19.00% | ~639 |
+| Alchemist | 19.00% | ~639 |
+| Essence Blow | 18.00% | ~606 |
+| Calm before the Storm | 15.00% | ~505 |
+| The Mentor | 15.00% | ~505 |
+| To Battle | 14.00% | ~471 |
+| Godslayer | 14.00% | ~471 |
+| Miner | 11.00% | ~370 |
+| Airborne | 10.00% | ~336 |
+| Clear Sight | 7.00% | ~235 |
+| Shatterer | 7.00% | ~235 |
+| Fine Feathers Make Fine Birds | 7.00% | ~235 |
+| Slayer | 5.00% | ~168 |
+| False God | 4.00% | ~135 |
+| A Queen's Tale | 4.00% | ~135 |
+| Flawless Victory | 3.00% | ~101 |
+| All There Is | 3.00% | ~101 |
+| Summiter | 3.00% | ~101 |
+| Forgemaster | 2.00% | ~67 |
+| Shardbearer | 2.00% | ~67 |
+| All That Gold | 1.00% | ~34 |
 | Feeling Fancy | 0.40% | ~13 |
+| Painstaking Persistence | 0.30% | ~1 |
+| The Forgotten Realm | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,178 (Ranked 296)  
-Completed: 6 (0.19%) (Ranked 370)  
+Progressed: 3,364 (Ranked 306)  
+Completed: 8 (0.24%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,6 +156,7 @@ Completed: 6 (0.19%) (Ranked 370)
 | 2024-03-21 | 2,765 | 6 |
 | 2024-04-10 | 2,865 | 6 |
 | 2024-06-17 | 3,178 | 6 |
+| 2024-08-09 | 3,364 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

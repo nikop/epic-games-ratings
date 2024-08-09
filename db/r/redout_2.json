@@ -5,10 +5,10 @@
   "Ranking_Rating": 598,
   "Ranking_Popularity": 665,
   "Ranking_PopularitySum": 615,
-  "Ranking_EOS_Progress": 139,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 110,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -385,7 +385,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 83765,
+  "EOS_Progressed": 147520,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1735,6 +1735,11 @@
       "Time": "2024-06-17T16:17:38.9109053+00:00",
       "NumProgressed": 83765,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:47.8339923+00:00",
+      "NumProgressed": 147520,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1746,15 +1751,15 @@
       "Name": "Fashion Racer",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "ALLCHASSIS",
       "SetID": "3dh70f3",
       "Name": "Try them all",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 295
     },
     {
       "ID": "ALLMODULESA",
@@ -1762,15 +1767,15 @@
       "Name": "A-mazing!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "ALLMODULESB",
       "SetID": "3dh70f3",
       "Name": "B-asic!",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 1475
     },
     {
       "ID": "ALLMODULESS",
@@ -1778,7 +1783,7 @@
       "Name": "S-uper!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "ALLMODULESSIGNATURE",
@@ -1786,79 +1791,79 @@
       "Name": "Put a sign on it",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "ALLTRACKSBLACK",
       "SetID": "3dh70f3",
       "Name": "To infinity and gravity!",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 738
     },
     {
       "ID": "ALLTRACKSCAIRO",
       "SetID": "3dh70f3",
       "Name": "Walked like an Egyptian",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5026
+      "UsersEstimate": 10326
     },
     {
       "ID": "ALLTRACKSCLOUD",
       "SetID": "3dh70f3",
       "Name": "Over the clouds",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 1475
     },
     {
       "ID": "ALLTRACKSFUJI",
       "SetID": "3dh70f3",
       "Name": "Ride in the rising sun",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5864
+      "UsersEstimate": 13277
     },
     {
       "ID": "ALLTRACKSGENESIS",
       "SetID": "3dh70f3",
       "Name": "One giant drive for mankind",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 590
     },
     {
       "ID": "ALLTRACKSMARIANA",
       "SetID": "3dh70f3",
       "Name": "Under the sea, under the sea",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 1475
     },
     {
       "ID": "ALLTRACKSMARS",
       "SetID": "3dh70f3",
       "Name": "Martian explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 5901
     },
     {
       "ID": "ALLTRACKSTARTARUS",
       "SetID": "3dh70f3",
       "Name": "To the core",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 4426
     },
     {
       "ID": "ALLTRACKSTOKYO",
       "SetID": "3dh70f3",
       "Name": "Under the neon lights",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 738
     },
     {
       "ID": "ALLTROPHIES",
@@ -1866,39 +1871,39 @@
       "Name": "I, need, more, shelves!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "CAREERACADEMY",
       "SetID": "3dh70f3",
       "Name": "Rookie No More",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 35181
+      "UsersEstimate": 63434
     },
     {
       "ID": "CAREERADVANCED",
       "SetID": "3dh70f3",
       "Name": "Rookie No-No More",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10889
+      "UsersEstimate": 20653
     },
     {
       "ID": "CAREERCLASSA",
       "SetID": "3dh70f3",
       "Name": "Even Faster!",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 1475
     },
     {
       "ID": "CAREERCLASSB",
       "SetID": "3dh70f3",
       "Name": "Enter the Speed Gauntlet",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 29318
+      "UsersEstimate": 53107
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1906,31 +1911,31 @@
       "Name": "This is to go, even Further Beyond!",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "CAREERCLASSS",
       "SetID": "3dh70f3",
       "Name": "All Power to Engines!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 295
     },
     {
       "ID": "CAREERTRIALSA",
       "SetID": "3dh70f3",
       "Name": "Had to sweat a bit",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 295
     },
     {
       "ID": "CAREERTRIALSB",
       "SetID": "3dh70f3",
       "Name": "EZ game EZ life",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 1475
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1938,7 +1943,7 @@
       "Name": "Gitting Gud",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "CAREERTRIALSS",
@@ -1946,7 +1951,7 @@
       "Name": "[Sweats profusely]",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "CHAMPION",
@@ -1954,47 +1959,47 @@
       "Name": "Redout Champion",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "COMPLETE10FRIENDS",
       "SetID": "3dh70f3",
       "Name": "Everything is better with friends",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 1475
     },
     {
       "ID": "FINISHFAST",
       "SetID": "3dh70f3",
       "Name": "Blurred photofinish",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 5901
     },
     {
       "ID": "FINISHSOUND",
       "SetID": "3dh70f3",
       "Name": "Running at the speed of sound",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 12565
+      "UsersEstimate": 23603
     },
     {
       "ID": "FLYLONG",
       "SetID": "3dh70f3",
       "Name": "Longshot",
-      "Percentage": 0.1,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 738
     },
     {
       "ID": "GOFAST",
       "SetID": "3dh70f3",
       "Name": "Almost broke the game",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 1180
     },
     {
       "ID": "GRANDMASTER",
@@ -2002,7 +2007,7 @@
       "Name": "Redout Grandmaster",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "JOIN50ONLINE",
@@ -2010,7 +2015,7 @@
       "Name": "Familiar Face",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "JOINONEFRIEND",
@@ -2018,87 +2023,87 @@
       "Name": "It\u0027s like a party!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 4188
+      "UsersEstimate": 7376
     },
     {
       "ID": "JOINONEONLINE",
       "SetID": "3dh70f3",
       "Name": "First step into a larger world",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8376
+      "UsersEstimate": 16227
     },
     {
       "ID": "LOSEONEONLINE",
       "SetID": "3dh70f3",
       "Name": "Better luck next time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3351
+      "UsersEstimate": 7376
     },
     {
       "ID": "ONEAESTHETIC",
       "SetID": "3dh70f3",
       "Name": "I just can\u0027t choose",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 29318
+      "UsersEstimate": 53107
     },
     {
       "ID": "ONELIVERY",
       "SetID": "3dh70f3",
       "Name": "Suit up",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7539
+      "UsersEstimate": 16227
     },
     {
       "ID": "ONEMODULE",
       "SetID": "3dh70f3",
       "Name": "Increasing your Power Level",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 35181
+      "UsersEstimate": 63434
     },
     {
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8376
+      "UsersEstimate": 17702
     },
     {
       "ID": "ONEPLATINUM",
       "SetID": "3dh70f3",
       "Name": "Dev, this!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 295
     },
     {
       "ID": "ONETROPHY",
       "SetID": "3dh70f3",
       "Name": "Put it on a shelf",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10052
+      "UsersEstimate": 20653
     },
     {
       "ID": "OVERTAKE100HUMANS",
       "SetID": "3dh70f3",
       "Name": "Eat dust my friend",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 885
     },
     {
       "ID": "PARMESANCHEESE",
       "SetID": "3dh70f3",
       "Name": "A Cheese Grater to the Face",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 14240
+      "UsersEstimate": 29504
     },
     {
       "ID": "TENPLATINUM",
@@ -2106,7 +2111,7 @@
       "Name": "Better than half the studio...",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "WIN50ONLINE",
@@ -2114,15 +2119,15 @@
       "Name": "New pro in town!",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "WINBEAT",
       "SetID": "3dh70f3",
       "Name": "Beat you to it!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 168
+      "UsersEstimate": 443
     },
     {
       "ID": "WINGRANDSLAM",
@@ -2130,15 +2135,15 @@
       "Name": "Grandslam",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     },
     {
       "ID": "WINLAST",
       "SetID": "3dh70f3",
       "Name": "He who laughs last...",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 738
     },
     {
       "ID": "WINONEONLINE",
@@ -2146,7 +2151,7 @@
       "Name": "Healthy competition",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 1675
+      "UsersEstimate": 2950
     },
     {
       "ID": "WINPOLE",
@@ -2154,14 +2159,14 @@
       "Name": "Great Start",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 83765,
+      "Progressed": 147520,
       "Completed": 0
     }
   ],
@@ -2169,8 +2174,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-08-09T02:57:59.1724325+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:38.9109048+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:47.8339921+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:07.5071036+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:01:19.090517+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:38.9109512+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:57.1883711+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:47.8340257+00:00"
 }

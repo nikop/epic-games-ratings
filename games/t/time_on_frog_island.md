@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 84.00% | ~81 |
-| Sea Legs | 65.00% | ~63 |
-| What?! | 46.00% | ~45 |
-| Frogs Legs | 20.00% | ~19 |
-| Hoist the Sails | 20.00% | ~19 |
-| Socialite | 16.00% | ~16 |
-| Mad Scientist | 14.00% | ~14 |
-| Secure the Sheets | 13.00% | ~13 |
+| Shipwrecked! | 84.00% | ~88 |
+| Sea Legs | 66.00% | ~69 |
+| What?! | 47.00% | ~49 |
+| Frogs Legs | 18.00% | ~19 |
+| Hoist the Sails | 18.00% | ~19 |
+| Socialite | 16.00% | ~17 |
+| Mad Scientist | 13.00% | ~14 |
+| Secure the Sheets | 13.00% | ~14 |
 | Hands on the Helm | 9.00% | ~9 |
 | Shrub-Seeing: Silly Birbs | 8.00% | ~8 |
 | Couch-surfing | 8.00% | ~8 |
@@ -20,9 +20,9 @@
 | Who Even Needs Keys | 6.00% | ~6 |
 | Shrub-Seeing: Ruins of old | 6.00% | ~6 |
 | Sailor Swift | 6.00% | ~6 |
+| Caught Ya! | 6.00% | ~6 |
 | Bank of Me | 6.00% | ~6 |
 | No Evil | 5.00% | ~5 |
-| Caught Ya! | 5.00% | ~5 |
 | Home Sweet Home | 5.00% | ~5 |
 | The Journey Continues | 5.00% | ~5 |
 | Shrub-Seeing: Lights in the sky | 4.00% | ~4 |
@@ -40,8 +40,8 @@
 | Crunch Time | 1.00% | ~1 |
 | Just Here for the Food | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 654)  
-Completed: 1 (1.03%) (Ranked 242)  
+Progressed: 105 (Ranked 669)  
+Completed: 1 (0.95%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 1 (1.03%) (Ranked 242)
 | 2024-03-21 | 61 | 1 |
 | 2024-04-10 | 63 | 1 |
 | 2024-06-17 | 97 | 1 |
+| 2024-08-09 | 105 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

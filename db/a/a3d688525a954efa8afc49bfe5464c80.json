@@ -2,10 +2,10 @@
   "ID": "a3d688525a954efa8afc49bfe5464c80",
   "Name": "Die Again",
   "ProductSlug": "die-again-9d5045",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 889,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-11T11:00:00+00:00",
     "PcReleaseDate": "2024-04-11T11:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -36,6 +36,11 @@
     {
       "Time": "2024-06-17T16:15:47.7075304+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:05:01.1894496+00:00",
+      "NumProgressed": 16,
       "NumCompleted": 0
     }
   ],
@@ -87,15 +92,15 @@
       "ID": "ACH_DIEAGAIN",
       "SetID": "6343i7i",
       "Name": "Die Again",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_DOG",
       "SetID": "6343i7i",
       "Name": "Pet the Dog",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -111,7 +116,7 @@
       "ID": "ACH_HORTS",
       "SetID": "6343i7i",
       "Name": "Horts",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -127,7 +132,7 @@
       "ID": "ACH_NUCLEAR",
       "SetID": "6343i7i",
       "Name": "I\u0027m Nuclear",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -159,15 +164,15 @@
       "ID": "ACH_RESCUE",
       "SetID": "6343i7i",
       "Name": "At the very beginning",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_RIFLE",
       "SetID": "6343i7i",
       "Name": "Apocalypse",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -175,7 +180,7 @@
       "ID": "ACH_SHALD",
       "SetID": "6343i7i",
       "Name": "Wish",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -183,7 +188,7 @@
       "ID": "ACH_SHOTGUN",
       "SetID": "6343i7i",
       "Name": "Release",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -200,13 +205,13 @@
     {
       "ID": "6343i7i",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:10.9322701+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:15:47.7075301+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:01.189449+00:00",
   "LastUpdate_AppInfo": "2024-08-07T09:57:06.7615726+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:58:45.577054+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:47.7075397+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:18.7170878+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:01.1894621+00:00"
 }

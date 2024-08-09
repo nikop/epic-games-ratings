@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 95.00% | ~310 |
-| Practice Makes Perfect | 86.00% | ~280 |
-| Creator of Life | 85.00% | ~277 |
-| Creator of Diversity | 74.00% | ~241 |
-| Similar to Similar | 72.00% | ~235 |
-| Creator of Humanity | 68.00% | ~222 |
-| Creator of Civilization | 42.00% | ~137 |
-| Creator of Technology | 25.00% | ~82 |
-| Honorable Santa | 23.00% | ~75 |
-| God of Fun | 19.00% | ~62 |
-| Creator of Modernity | 17.00% | ~55 |
-| Doodle Bar | 17.00% | ~55 |
-| Half the Kingdom | 17.00% | ~55 |
-| Deity of Darkness | 16.00% | ~52 |
-| Creator of Magic | 15.00% | ~49 |
-| Salvation! | 10.00% | ~33 |
-| Heavenly Virtues | 10.00% | ~33 |
-| Brilliant Inventor | 8.00% | ~26 |
-| Greatest inventor | 7.00% | ~23 |
-| Master of Alchemy | 5.00% | ~16 |
-| Master of the Worlds | 5.00% | ~16 |
-| God of Patience | 3.00% | ~10 |
+| Good Start | 95.00% | ~321 |
+| Practice Makes Perfect | 85.00% | ~287 |
+| Creator of Life | 84.00% | ~284 |
+| Creator of Diversity | 73.00% | ~247 |
+| Similar to Similar | 72.00% | ~243 |
+| Creator of Humanity | 67.00% | ~226 |
+| Creator of Civilization | 42.00% | ~142 |
+| Creator of Technology | 25.00% | ~84 |
+| Honorable Santa | 23.00% | ~78 |
+| God of Fun | 19.00% | ~64 |
+| Creator of Modernity | 17.00% | ~57 |
+| Doodle Bar | 17.00% | ~57 |
+| Half the Kingdom | 17.00% | ~57 |
+| Deity of Darkness | 16.00% | ~54 |
+| Creator of Magic | 15.00% | ~51 |
+| Heavenly Virtues | 10.00% | ~34 |
+| Brilliant Inventor | 9.00% | ~30 |
+| Salvation! | 9.00% | ~30 |
+| Greatest inventor | 7.00% | ~24 |
+| Master of the Worlds | 6.00% | ~20 |
+| Master of Alchemy | 5.00% | ~17 |
+| God of Patience | 4.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 326 (Ranked 505)  
-Completed: 11 (3.37%) (Ranked 152)  
+Progressed: 338 (Ranked 515)  
+Completed: 12 (3.55%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,6 +110,7 @@ Completed: 11 (3.37%) (Ranked 152)
 | 2024-03-21 | 301 | 10 |
 | 2024-04-10 | 309 | 10 |
 | 2024-06-17 | 326 | 11 |
+| 2024-08-09 | 338 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

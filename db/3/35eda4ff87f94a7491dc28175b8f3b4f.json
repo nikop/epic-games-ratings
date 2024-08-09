@@ -5,10 +5,10 @@
   "Ranking_Rating": 919,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 176,
-  "Ranking_EOS_Completed": 278,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -395,11 +395,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 34632,
-  "EOS_Completed": 237,
+  "EOS_Progressed": 36822,
+  "EOS_Completed": 278,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.68,
+  "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -9675,6 +9675,11 @@
       "Time": "2024-06-17T16:16:24.2761305+00:00",
       "NumProgressed": 34632,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2024-08-09T18:05:16.3134875+00:00",
+      "NumProgressed": 36822,
+      "NumCompleted": 278
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9687,7 +9692,7 @@
       "Name": "Avid Reader",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 346
+      "UsersEstimate": 368
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -9695,7 +9700,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3314
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -9703,7 +9708,7 @@
       "Name": "Good Listener",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 368
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -9711,23 +9716,23 @@
       "Name": "Morbidly Curious",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1105
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
       "SetID": "24fdn9j",
       "Name": "Savior",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 3463
+      "UsersEstimate": 4050
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
       "SetID": "24fdn9j",
       "Name": "Righter of Wrongs",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 2078
+      "UsersEstimate": 2578
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -9735,7 +9740,7 @@
       "Name": "Rescuer",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5523
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -9743,15 +9748,15 @@
       "Name": "Secrets Out",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2946
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
       "SetID": "24fdn9j",
       "Name": "Locksmith",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 3463
+      "UsersEstimate": 4050
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -9759,23 +9764,23 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 693
+      "UsersEstimate": 736
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 34632,
-      "Completed": 237
+      "Progressed": 36822,
+      "Completed": 278
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-07-11T19:58:11.079494+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:16:24.2761301+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:16.3134872+00:00",
   "LastUpdate_AppInfo": "2024-08-02T18:57:23.4023846+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:36.5312599+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:16:24.2761803+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:31.8655468+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:16.3135408+00:00"
 }

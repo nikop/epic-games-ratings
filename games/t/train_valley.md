@@ -1,42 +1,42 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.35 (Ranked 935)  
+Rating: 4.35 (Ranked 934)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~642 |
-| Close call! | 68.00% | ~582 |
-| Builder | 50.00% | ~428 |
-| Living it large! | 45.00% | ~385 |
-| Collector | 43.00% | ~368 |
-| Pangs of conscience | 42.00% | ~360 |
-| Need to think | 41.00% | ~351 |
-| Completely nuts! | 40.00% | ~342 |
-| Europe | 34.00% | ~291 |
-| Just in time! | 33.00% | ~282 |
-| Madness! | 31.00% | ~265 |
-| Philatelist | 27.00% | ~231 |
-| Let's roll! | 26.00% | ~223 |
-| It's no coincidence. | 26.00% | ~223 |
-| Non Stop! | 25.00% | ~214 |
-| Ouroboros | 24.00% | ~205 |
-| America | 20.00% | ~171 |
-| Russia | 20.00% | ~171 |
-| Foreman | 20.00% | ~171 |
-| Missed it! | 17.00% | ~146 |
-| Sabotage | 15.00% | ~128 |
-| Japan | 13.00% | ~111 |
-| Achtung! | 13.00% | ~111 |
-| Tycoon | 11.00% | ~94 |
-| Woodcutter | 9.00% | ~77 |
-| Engineer | 9.00% | ~77 |
-| Germany | 8.00% | ~68 |
-| Supercrash! | 6.00% | ~51 |
-| Chuck Norris | 6.00% | ~51 |
+| Getting started | 75.00% | ~647 |
+| Close call! | 68.00% | ~587 |
+| Builder | 50.00% | ~432 |
+| Living it large! | 45.00% | ~388 |
+| Collector | 43.00% | ~371 |
+| Pangs of conscience | 43.00% | ~371 |
+| Need to think | 41.00% | ~354 |
+| Completely nuts! | 40.00% | ~345 |
+| Europe | 35.00% | ~302 |
+| Just in time! | 33.00% | ~285 |
+| Madness! | 31.00% | ~268 |
+| Philatelist | 28.00% | ~242 |
+| It's no coincidence. | 27.00% | ~233 |
+| Let's roll! | 26.00% | ~224 |
+| Non Stop! | 26.00% | ~224 |
+| Ouroboros | 24.00% | ~207 |
+| Russia | 21.00% | ~181 |
+| America | 20.00% | ~173 |
+| Foreman | 20.00% | ~173 |
+| Missed it! | 17.00% | ~147 |
+| Sabotage | 15.00% | ~129 |
+| Japan | 13.00% | ~112 |
+| Achtung! | 13.00% | ~112 |
+| Tycoon | 11.00% | ~95 |
+| Woodcutter | 9.00% | ~78 |
+| Engineer | 9.00% | ~78 |
+| Germany | 8.00% | ~69 |
+| Supercrash! | 6.00% | ~52 |
+| Chuck Norris | 6.00% | ~52 |
 | Сhancellor | 5.00% | ~43 |
-| Peacemaker | 4.00% | ~34 |
+| Peacemaker | 4.00% | ~35 |
 | Forgotten | 3.00% | ~26 |
 | Lucky vandal | 3.00% | ~26 |
 | Juggler | 1.00% | ~9 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~5 |
 | Vandal | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 856 (Ranked 402)  
-Completed: 2 (0.23%) (Ranked 357)  
+Progressed: 863 (Ranked 418)  
+Completed: 2 (0.23%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,6 +211,7 @@ Completed: 2 (0.23%) (Ranked 357)
 | 2024-05-13 | 755 | 2 |
 | 2024-06-17 | 824 | 2 |
 | 2024-07-25 | 856 | 2 |
+| 2024-08-09 | 863 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

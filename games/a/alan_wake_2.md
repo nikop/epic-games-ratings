@@ -5,87 +5,87 @@ Rating: 4.81 (Ranked 89)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Accessorize! | 8.00% | ~2,054 |
-| I Could Listen to Him All Day | 7.00% | ~1,798 |
-| Love Always Wins! | 7.00% | ~1,798 |
-| Dark as the Void | 7.00% | ~1,798 |
-| You Are Coffee | 6.00% | ~1,541 |
-| Retro | 6.00% | ~1,541 |
-| Ride the Vortex | 6.00% | ~1,541 |
-| Multiversal Agent | 6.00% | ~1,541 |
-| This Page Here | 5.00% | ~1,284 |
-| Smooth Blend | 3.00% | ~770 |
-| Bring It | 2.00% | ~9,048 |
-| Find the Light | 2.00% | ~9,048 |
-| Aimed Ahead | 2.00% | ~9,048 |
-| Coffee Thermos | 2.00% | ~9,048 |
-| Felt Good | 2.00% | ~9,048 |
-| Lawman | 2.00% | ~9,048 |
-| Storm Cloud | 2.00% | ~9,048 |
-| Not the Last | 2.00% | ~9,048 |
-| Carry his Words | 2.00% | ~9,048 |
-| Nightmare Territory | 2.00% | ~9,048 |
-| Grew Bigger | 2.00% | ~9,048 |
-| Hunting Season | 2.00% | ~9,048 |
-| Somebody's Home | 2.00% | ~9,048 |
-| Shining in the Night | 2.00% | ~9,048 |
-| Into the Overlap | 2.00% | ~9,048 |
-| Talk Show | 2.00% | ~9,048 |
-| New York City | 2.00% | ~9,048 |
-| Secret Stashes | 2.00% | ~9,048 |
-| Return | 2.00% | ~9,048 |
-| The Other Side | 2.00% | ~9,048 |
-| Chased the Source | 2.00% | ~9,048 |
-| Darkness Coiled | 2.00% | ~9,048 |
-| Escape its Gravity | 1.00% | ~4,524 |
-| Strange Reality | 1.00% | ~4,524 |
-| The Trail of the Writer | 1.00% | ~4,524 |
-| Ready for a Fight | 1.00% | ~4,524 |
-| Greatest Hits | 1.00% | ~4,524 |
-| Stop Right There | 1.00% | ~4,524 |
-| Lights Shining | 1.00% | ~4,524 |
-| Yippee Ki-yay | 1.00% | ~4,524 |
-| This is the Moment | 1.00% | ~4,524 |
-| Bright Falls' Finest | 1.00% | ~4,524 |
-| Girl in Love | 1.00% | ~4,524 |
-| Filled with Rage | 1.00% | ~4,524 |
-| Stop the Monster | 1.00% | ~4,524 |
-| Growing Stronger | 1.00% | ~4,524 |
-| Stunning Vistas | 1.00% | ~4,524 |
-| The Story Come True | 1.00% | ~4,524 |
-| Back in Watery | 1.00% | ~4,524 |
-| We Watch in the Night | 1.00% | ~4,524 |
-| The Old Gods | 1.00% | ~4,524 |
-| Seeing Double | 1.00% | ~4,524 |
-| Rock n' Roll, Baby | 1.00% | ~4,524 |
-| The Final Deerfest | 1.00% | ~4,524 |
-| End of the Road | 1.00% | ~4,524 |
-| All His Life | 1.00% | ~4,524 |
-| In a Fancy Hotel | 1.00% | ~4,524 |
-| Told and Retold | 1.00% | ~4,524 |
-| Behind the Masks | 1.00% | ~4,524 |
-| The Cult of the Word | 1.00% | ~4,524 |
-| His Way Out | 1.00% | ~4,524 |
-| All Accounted For | 1.00% | ~4,524 |
-| In One Go | 1.00% | ~4,524 |
-| Finding a Way | 1.00% | ~4,524 |
-| Filling the Shape | 1.00% | ~4,524 |
-| Cut Short | 1.00% | ~4,524 |
-| Hot Biscuits! | 1.00% | ~257 |
-| Percolate | 1.00% | ~257 |
-| The Koskela Brothers | 0.90% | ~4,072 |
-| Gone for Good | 0.90% | ~4,072 |
-| Back to Life | 0.70% | ~3,167 |
-| All Smiles | 0.60% | ~2,714 |
-| I'll Find You | 0.40% | ~1,810 |
-| Shift in Reality | 0.40% | ~1,810 |
-| The Nice Things in Life | 0.40% | ~1,810 |
-| Hidden by the Trees | 0.30% | ~1,357 |
-| Coffee-Themed Fun | 0.30% | ~1,357 |
-| Rustic Charm | 0.30% | ~1,357 |
+| Accessorize! | 9.00% | ~3,137 |
+| I Could Listen to Him All Day | 8.00% | ~2,788 |
+| Love Always Wins! | 8.00% | ~2,788 |
+| Dark as the Void | 8.00% | ~2,788 |
+| You Are Coffee | 7.00% | ~2,440 |
+| Retro | 7.00% | ~2,440 |
+| Ride the Vortex | 7.00% | ~2,440 |
+| This Page Here | 6.00% | ~2,091 |
+| Multiversal Agent | 6.00% | ~2,091 |
+| Not the Last | 4.00% | ~18,463 |
+| Nightmare Territory | 4.00% | ~18,463 |
+| Hunting Season | 4.00% | ~18,463 |
+| Somebody's Home | 4.00% | ~18,463 |
+| Smooth Blend | 4.00% | ~1,394 |
+| Escape its Gravity | 3.00% | ~13,847 |
+| Bring It | 3.00% | ~13,847 |
+| Find the Light | 3.00% | ~13,847 |
+| Lights Shining | 3.00% | ~13,847 |
+| Yippee Ki-yay | 3.00% | ~13,847 |
+| Aimed Ahead | 3.00% | ~13,847 |
+| Coffee Thermos | 3.00% | ~13,847 |
+| Felt Good | 3.00% | ~13,847 |
+| Lawman | 3.00% | ~13,847 |
+| Bright Falls' Finest | 3.00% | ~13,847 |
+| Storm Cloud | 3.00% | ~13,847 |
+| Stop the Monster | 3.00% | ~13,847 |
+| Growing Stronger | 3.00% | ~13,847 |
+| Carry his Words | 3.00% | ~13,847 |
+| Grew Bigger | 3.00% | ~13,847 |
+| Shining in the Night | 3.00% | ~13,847 |
+| Into the Overlap | 3.00% | ~13,847 |
+| Back in Watery | 3.00% | ~13,847 |
+| We Watch in the Night | 3.00% | ~13,847 |
+| Talk Show | 3.00% | ~13,847 |
+| New York City | 3.00% | ~13,847 |
+| Secret Stashes | 3.00% | ~13,847 |
+| Return | 3.00% | ~13,847 |
+| All His Life | 3.00% | ~13,847 |
+| Finding a Way | 3.00% | ~13,847 |
+| The Other Side | 3.00% | ~13,847 |
+| Chased the Source | 3.00% | ~13,847 |
+| Darkness Coiled | 3.00% | ~13,847 |
+| Strange Reality | 2.00% | ~9,232 |
+| The Trail of the Writer | 2.00% | ~9,232 |
+| Ready for a Fight | 2.00% | ~9,232 |
+| Greatest Hits | 2.00% | ~9,232 |
+| Stop Right There | 2.00% | ~9,232 |
+| This is the Moment | 2.00% | ~9,232 |
+| Girl in Love | 2.00% | ~9,232 |
+| Filled with Rage | 2.00% | ~9,232 |
+| Stunning Vistas | 2.00% | ~9,232 |
+| Gone for Good | 2.00% | ~9,232 |
+| The Story Come True | 2.00% | ~9,232 |
+| The Old Gods | 2.00% | ~9,232 |
+| Seeing Double | 2.00% | ~9,232 |
+| Rock n' Roll, Baby | 2.00% | ~9,232 |
+| The Final Deerfest | 2.00% | ~9,232 |
+| End of the Road | 2.00% | ~9,232 |
+| In a Fancy Hotel | 2.00% | ~9,232 |
+| Told and Retold | 2.00% | ~9,232 |
+| Behind the Masks | 2.00% | ~9,232 |
+| The Cult of the Word | 2.00% | ~9,232 |
+| His Way Out | 2.00% | ~9,232 |
+| All Accounted For | 2.00% | ~9,232 |
+| In One Go | 2.00% | ~9,232 |
+| Filling the Shape | 2.00% | ~9,232 |
+| Cut Short | 2.00% | ~9,232 |
+| Hot Biscuits! | 2.00% | ~697 |
+| The Koskela Brothers | 1.00% | ~4,616 |
+| All Smiles | 1.00% | ~4,616 |
+| Back to Life | 1.00% | ~4,616 |
+| Percolate | 1.00% | ~349 |
+| The Nice Things in Life | 0.80% | ~3,693 |
+| I'll Find You | 0.60% | ~2,769 |
+| Shift in Reality | 0.60% | ~2,769 |
+| Hidden by the Trees | 0.50% | ~2,308 |
+| Coffee-Themed Fun | 0.50% | ~2,308 |
+| Rustic Charm | 0.50% | ~2,308 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,407 (Ranked 59)  
-Completed: 10,961 (2.42%) (Ranked 176)  
+Progressed: 461,579 (Ranked 59)  
+Completed: 11,200 (2.43%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,16 +197,17 @@ Completed: 10,961 (2.42%) (Ranked 176)
 | 2024-04-10 | 427,127 | 9,582 |
 | 2024-06-17 | 448,115 | 10,698 |
 | 2024-07-09 | 452,407 | 10,961 |
+| 2024-08-09 | 461,579 | 11,200 |
 ## Awards
-Max (Diverse Characters): 1,303  (Ranked 165)  
-Sum: 7,752 (Ranked 139)  
-Diff (max vs sum): 26  
+Max (Diverse Characters): 1,308  (Ranked 163)  
+Sum: 7,760 (Ranked 139)  
+Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 1,303 |
+| This game has Diverse Characters | 1,308 |
 | This game is Highly Recommended | 1,175 |
+| This game has Quickly Understood Controls | 1,163 |
 | This game has Amazing Storytelling | 1,160 |
-| This game has Quickly Understood Controls | 1,160 |
 | This game has Amazing Characters | 1,114 |
 | This game is Extremely Fun | 1,108 |
 | This game has a Creative Community | 732 |
@@ -503,4 +504,4 @@ Diff (max vs sum): 26
 | 2024-08-06 | 4.81 | 1,300 | 7,718 |
 | 2024-08-07 | 4.81 | 1,300 | 7,734 |
 | 2024-08-08 | 4.81 | 1,303 | 7,749 |
-| 2024-08-09 | 4.81 | 1,303 | 7,752 |
+| 2024-08-09 | 4.81 | 1,308 | 7,760 |

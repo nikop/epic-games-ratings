@@ -2,13 +2,13 @@
   "ID": "9afcf28baab84109ad3bc8038d07e7c1",
   "Name": "Trials Fusion: Standard Edition",
   "ProductSlug": "trials-fusion",
-  "Ranking_Rating": 487,
+  "Ranking_Rating": 486,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2021-03-11T16:00:00+00:00",
     "PcReleaseDate": "2014-04-15T18:21:00+00:00",
@@ -119,6 +119,6 @@
   "FirstSeenRating": "2022-11-25T02:22:23.776689+00:00",
   "LastChanged": "2024-03-25T12:00:01.6168713+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:23.6201002+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:14.6980334+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:16:25.1911867+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:02:00.3336992+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:16.7123396+00:00"
 }

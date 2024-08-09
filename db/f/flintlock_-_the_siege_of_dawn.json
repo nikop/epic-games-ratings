@@ -2,10 +2,10 @@
   "ID": "58ee20b04c3c4f81bdfacbd7db9c9505",
   "Name": "Flintlock: The Siege of Dawn",
   "ProductSlug": "flintlock-the-siege-of-dawn-210044",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-07-18T07:00:00+00:00",
     "PcReleaseDate": "2024-07-18T07:00:00+00:00",
@@ -31,9 +31,315 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-08-09T18:03:59.2016574+00:00",
+  "TotalAchievements": 38,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BASE_ACQUIRE_ALL_FIREARMS",
+      "SetID": "8bkdmcm",
+      "Name": "Full Arsenal",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_AIRBORNE_DURATION_01",
+      "SetID": "8bkdmcm",
+      "Name": "Rift Rider",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_ALL_ENKI_FEATHERS",
+      "SetID": "8bkdmcm",
+      "Name": "Ruffled",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_BESTED_ALL_REVENANTS",
+      "SetID": "8bkdmcm",
+      "Name": "Cataclysm Averted",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_CHANGE_CLOTHES",
+      "SetID": "8bkdmcm",
+      "Name": "Kit Inspection",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_COLLECT_ALL_ARMOUR",
+      "SetID": "8bkdmcm",
+      "Name": "Full Metal",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_COMPLETE_ALL_SIDE_QUESTS",
+      "SetID": "8bkdmcm",
+      "Name": "The Home Front",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_COMPLETE_CEIRTH_SAGA",
+      "SetID": "8bkdmcm",
+      "Name": "Thicker than Blood",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_CURSED_SKULLS_COUNT_01",
+      "SetID": "8bkdmcm",
+      "Name": "Rift Finder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_CURSED_SKULLS_COUNT_02",
+      "SetID": "8bkdmcm",
+      "Name": "Sure Beats Walking",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_CURSES_COUNT_01",
+      "SetID": "8bkdmcm",
+      "Name": "Malediction",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_DEFEAT_DARK_SELF",
+      "SetID": "8bkdmcm",
+      "Name": "Impostor Syndrome",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_DEFEAT_GOD_OF_JUSTICE",
+      "SetID": "8bkdmcm",
+      "Name": "God Killer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_DEFEAT_GOD_OF_KNOWLEDGE",
+      "SetID": "8bkdmcm",
+      "Name": "Truth Hurts",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_DEFEAT_GOD_OF_LIFE",
+      "SetID": "8bkdmcm",
+      "Name": "A Life Left Behind",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_DEFEAT_GUARDIAN",
+      "SetID": "8bkdmcm",
+      "Name": "Free At Last",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FIND_ALL_SHRINES",
+      "SetID": "8bkdmcm",
+      "Name": "Small Mercies",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADED_CARAVAN",
+      "SetID": "8bkdmcm",
+      "Name": "Fully Furnished",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADE_ARMOUR",
+      "SetID": "8bkdmcm",
+      "Name": "Forgemaster\u0027s Favor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADE_BLUNT",
+      "SetID": "8bkdmcm",
+      "Name": "Blunt Instrument",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADE_FIREARM_01",
+      "SetID": "8bkdmcm",
+      "Name": "Never Outgunned",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADE_FIREARM_02",
+      "SetID": "8bkdmcm",
+      "Name": "Ahead Of Its Time",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADE_GRENADES",
+      "SetID": "8bkdmcm",
+      "Name": "Let Them Cook",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_FULLY_UPGRADE_SHARP",
+      "SetID": "8bkdmcm",
+      "Name": "Cutting Edge",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_HEADSHOTS_COUNT_01",
+      "SetID": "8bkdmcm",
+      "Name": "Headhunter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_KILL_RATE_01",
+      "SetID": "8bkdmcm",
+      "Name": "Massacre",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_LIBERATED_ALL_CAMPS",
+      "SetID": "8bkdmcm",
+      "Name": "Leadership Vacuum",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_LIBERATED_ALL_HAMLETS",
+      "SetID": "8bkdmcm",
+      "Name": "A Place to Call Home",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_PLAYER_DEATH_COUNT_01",
+      "SetID": "8bkdmcm",
+      "Name": "Mistakes Were Made",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_REFLECTED_BULLETS_COUNT_01",
+      "SetID": "8bkdmcm",
+      "Name": "Axe to a Gun Fight",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_REMOVE_ALL_FLAGS",
+      "SetID": "8bkdmcm",
+      "Name": "Red Flag",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_REPUTATION_CLAIM_COUNT_01",
+      "SetID": "8bkdmcm",
+      "Name": "A Name for Yourself",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_REPUTATION_CLAIM_COUNT_02",
+      "SetID": "8bkdmcm",
+      "Name": "A Battle to Remember",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_REPUTATION_CLAIM_COUNT_03",
+      "SetID": "8bkdmcm",
+      "Name": "War Hero",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_SHOT_OF_COFFEE",
+      "SetID": "8bkdmcm",
+      "Name": "A Shot of Espresso",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_SLIDE_DURATION_01",
+      "SetID": "8bkdmcm",
+      "Name": "Land Surfer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_THREE_COIN_WINS",
+      "SetID": "8bkdmcm",
+      "Name": "Good Things Come in Threes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BASE_TOP_TIER_SKILL",
+      "SetID": "8bkdmcm",
+      "Name": "Top of the Class",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "8bkdmcm",
@@ -44,8 +350,8 @@
   ],
   "FirstSeen": "2024-07-18T21:59:54.2054543+00:00",
   "FirstSeenAchievements": "2023-04-25T20:48:56.0996827+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:13:27.3020041+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:03:59.2016567+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:26.1658868+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:52.1648056+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:27.3020072+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:43.336247+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:59.2022999+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 49,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
-  "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 177,
+  "Ranking_EOS_Completed": 368,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-29T17:00:00+00:00",
     "PcReleaseDate": "2023-07-18T17:00:00+00:00",
@@ -138,11 +138,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36688,
-  "EOS_Completed": 84,
+  "EOS_Progressed": 40708,
+  "EOS_Completed": 119,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.23,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2024-04-08T15:01:32.5409746+00:00",
@@ -153,6 +153,11 @@
       "Time": "2024-06-17T16:17:45.0453525+00:00",
       "NumProgressed": 36688,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2024-08-09T18:05:49.7825107+00:00",
+      "NumProgressed": 40708,
+      "NumCompleted": 119
     }
   ],
   "AchievementsAdded": "2024-04-08T15:01:32.5421279+00:00",
@@ -163,9 +168,9 @@
       "ID": "00_buzzoisdone",
       "SetID": "clh7ekf",
       "Name": "Lisa",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 734
+      "UsersEstimate": 1221
     },
     {
       "ID": "01_w2d",
@@ -173,7 +178,7 @@
       "Name": "The Beat Never Dies.",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1221
     },
     {
       "ID": "02_joymask",
@@ -181,15 +186,15 @@
       "Name": "Joy.",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 1468
+      "UsersEstimate": 1628
     },
     {
       "ID": "03_randomask",
       "SetID": "clh7ekf",
       "Name": "Rando.",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 45,
-      "UsersEstimate": 16876
+      "UsersEstimate": 19133
     },
     {
       "ID": "04_hintmask",
@@ -197,15 +202,15 @@
       "Name": "Fan Club.",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 3302
+      "UsersEstimate": 3664
     },
     {
       "ID": "05_green",
       "SetID": "clh7ekf",
       "Name": "No Friends.",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 45,
-      "UsersEstimate": 220
+      "UsersEstimate": 285
     },
     {
       "ID": "06_yado",
@@ -213,7 +218,7 @@
       "Name": "Yado.",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 2568
+      "UsersEstimate": 2850
     },
     {
       "ID": "07_marty",
@@ -221,7 +226,7 @@
       "Name": "Father",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 367
+      "UsersEstimate": 407
     },
     {
       "ID": "08_lisa",
@@ -229,7 +234,7 @@
       "Name": "The Source",
       "Percentage": 1,
       "XP": 130,
-      "UsersEstimate": 367
+      "UsersEstimate": 407
     },
     {
       "ID": "09_brad",
@@ -237,23 +242,23 @@
       "Name": "I\u0027m Sorry",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 367
+      "UsersEstimate": 407
     }
   ],
   "AchievementSets": [
     {
       "ID": "clh7ekf",
       "IsBase": true,
-      "Progressed": 36688,
-      "Completed": 84
+      "Progressed": 40708,
+      "Completed": 119
     }
   ],
   "FirstSeen": "2024-04-25T18:57:23.751166+00:00",
   "FirstSeenRating": "2024-05-08T18:58:12.4792204+00:00",
   "FirstSeenAchievements": "2024-04-08T15:01:32.5421278+00:00",
   "LastChanged": "2024-08-06T02:59:44.0856817+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:45.045352+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:49.7825102+00:00",
   "LastUpdate_AppInfo": "2024-08-03T04:57:32.8933009+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:26.1237944+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:45.0453606+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:21.673974+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:49.7825171+00:00"
 }

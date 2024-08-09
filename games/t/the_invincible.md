@@ -1,42 +1,42 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.58 (Ranked 506)  
+Rating: 4.58 (Ranked 507)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 75.00% | ~1,742 |
-| The Teleprobe | 62.00% | ~1,440 |
-| The City | 58.00% | ~1,347 |
-| The field base | 54.00% | ~1,254 |
-| The Alliance | 52.00% | ~1,207 |
-| Survivors | 48.00% | ~1,115 |
-| The Condor | 46.00% | ~1,068 |
-| The End | 46.00% | ~1,068 |
-| The Necroevolution | 36.00% | ~836 |
-| Krauta is alive | 33.00% | ~766 |
-| Peacemaker | 28.00% | ~650 |
-| On her own | 26.00% | ~604 |
-| Fierce fight | 26.00% | ~604 |
-| Volcanologist | 25.00% | ~580 |
-| Evacuation | 24.00% | ~557 |
-| Beyond divisions | 23.00% | ~534 |
-| Flying Objects Operator | 21.00% | ~488 |
-| Another giant | 17.00% | ~395 |
-| I remember everything! | 16.00% | ~372 |
-| Violent solution | 11.00% | ~255 |
-| I leave no man behind | 11.00% | ~255 |
-| Ubiquitous holes | 8.00% | ~186 |
-| Innate curiosity | 8.00% | ~186 |
-| Strong objection | 8.00% | ~186 |
-| The Invincible | 7.00% | ~163 |
-| Got lost again | 7.00% | ~163 |
-| I leave no man behind (no exceptions) | 2.00% | ~46 |
-| Convoy list | 1.00% | ~23 |
-| No more mistakes | 0.90% | ~21 |
+| The Camp | 75.00% | ~1,822 |
+| The Teleprobe | 63.00% | ~1,531 |
+| The City | 59.00% | ~1,434 |
+| The field base | 55.00% | ~1,336 |
+| The Alliance | 53.00% | ~1,288 |
+| Survivors | 49.00% | ~1,191 |
+| The Condor | 47.00% | ~1,142 |
+| The End | 47.00% | ~1,142 |
+| The Necroevolution | 37.00% | ~899 |
+| Krauta is alive | 33.00% | ~802 |
+| Peacemaker | 28.00% | ~680 |
+| On her own | 26.00% | ~632 |
+| Fierce fight | 26.00% | ~632 |
+| Volcanologist | 26.00% | ~632 |
+| Evacuation | 25.00% | ~608 |
+| Beyond divisions | 24.00% | ~583 |
+| Flying Objects Operator | 21.00% | ~510 |
+| Another giant | 17.00% | ~413 |
+| I remember everything! | 16.00% | ~389 |
+| I leave no man behind | 12.00% | ~292 |
+| Violent solution | 11.00% | ~267 |
+| Ubiquitous holes | 8.00% | ~194 |
+| Innate curiosity | 8.00% | ~194 |
+| Strong objection | 8.00% | ~194 |
+| The Invincible | 7.00% | ~170 |
+| Got lost again | 7.00% | ~170 |
+| I leave no man behind (no exceptions) | 2.00% | ~49 |
+| Convoy list | 1.00% | ~24 |
+| No more mistakes | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,322 (Ranked 323)  
-Completed: 3 (0.13%) (Ranked 396)  
+Progressed: 2,430 (Ranked 333)  
+Completed: 4 (0.16%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,6 +123,7 @@ Completed: 3 (0.13%) (Ranked 396)
 | 2024-03-21 | 2,093 | 3 |
 | 2024-04-10 | 2,153 | 3 |
 | 2024-06-17 | 2,322 | 3 |
+| 2024-08-09 | 2,430 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

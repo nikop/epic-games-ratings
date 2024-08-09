@@ -1,47 +1,47 @@
 # Warhammer 40,000: Mechanicus - Standard Edition
 [Store](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)  
 [View Rawdata](../../db/w/warhammer_40,000__mechanicus_-_standard_edition.json)  
-Rating: 4.44 (Ranked 782)  
+Rating: 4.44 (Ranked 781)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~62,976 |
-| This is only the beginning | 20.00% | ~48,443 |
-| Knowledge is power | 13.00% | ~31,488 |
-| Power Ranger | 10.00% | ~24,222 |
-| Galvanic Rifle | 10.00% | ~24,222 |
-| Taser Goad | 10.00% | ~24,222 |
-| Radium Ready | 10.00% | ~24,222 |
-| Half a cog | 10.00% | ~24,222 |
-| Watch them crumble | 6.00% | ~14,533 |
-| Competent Cohort | 4.00% | ~9,689 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,689 |
-| One with the Machine | 4.00% | ~9,689 |
-| Legio Cybernetica | 3.00% | ~7,266 |
-| Fleshy Disposal | 3.00% | ~7,266 |
-| Battle Servitor | 2.00% | ~4,844 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,844 |
-| Impatient destruction | 2.00% | ~4,844 |
-| Vivisected Vizier | 2.00% | ~4,844 |
-| Architect Abortion | 2.00% | ~4,844 |
-| Cohortus Maximus | 0.90% | ~2,180 |
-| Mother of Xenarites | 0.50% | ~1,211 |
-| False God | 0.40% | ~969 |
-| Hard | 0.30% | ~727 |
-| Sensory overload | 0.20% | ~484 |
-| Transonic Blur | 0.20% | ~484 |
-| Not the Men-of-Iron | 0.20% | ~484 |
-| Sterile Perfection | 0.10% | ~242 |
-| Impossible | 0.10% | ~242 |
-| Melee Machine | 0.10% | ~242 |
-| AoE-phobia | 0.10% | ~242 |
-| Zero to Hero | 0.10% | ~242 |
-| No Omnissian Guidance | 0.10% | ~242 |
-| Perma-live | 0.10% | ~242 |
-| Purge the Heretek | 0.10% | ~242 |
+| No aid from the Omnissiah | 26.00% | ~63,587 |
+| This is only the beginning | 20.00% | ~48,913 |
+| Knowledge is power | 13.00% | ~31,794 |
+| Power Ranger | 10.00% | ~24,457 |
+| Galvanic Rifle | 10.00% | ~24,457 |
+| Taser Goad | 10.00% | ~24,457 |
+| Radium Ready | 10.00% | ~24,457 |
+| Half a cog | 10.00% | ~24,457 |
+| Watch them crumble | 6.00% | ~14,674 |
+| Competent Cohort | 4.00% | ~9,783 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,783 |
+| One with the Machine | 4.00% | ~9,783 |
+| Legio Cybernetica | 3.00% | ~7,337 |
+| Fleshy Disposal | 3.00% | ~7,337 |
+| Battle Servitor | 2.00% | ~4,891 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,891 |
+| Impatient destruction | 2.00% | ~4,891 |
+| Vivisected Vizier | 2.00% | ~4,891 |
+| Architect Abortion | 2.00% | ~4,891 |
+| Cohortus Maximus | 0.90% | ~2,201 |
+| Mother of Xenarites | 0.50% | ~1,223 |
+| False God | 0.40% | ~978 |
+| Hard | 0.30% | ~734 |
+| Sensory overload | 0.20% | ~489 |
+| Transonic Blur | 0.20% | ~489 |
+| Not the Men-of-Iron | 0.20% | ~489 |
+| Sterile Perfection | 0.10% | ~245 |
+| Impossible | 0.10% | ~245 |
+| Melee Machine | 0.10% | ~245 |
+| AoE-phobia | 0.10% | ~245 |
+| Zero to Hero | 0.10% | ~245 |
+| No Omnissian Guidance | 0.10% | ~245 |
+| Perma-live | 0.10% | ~245 |
+| Purge the Heretek | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242,215 (Ranked 88)  
-Completed: 6 (0.00%) (Ranked 528)  
+Progressed: 244,566 (Ranked 90)  
+Completed: 8 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,6 +327,7 @@ Completed: 6 (0.00%) (Ranked 528)
 | 2024-03-21 | 236,728 | 5 |
 | 2024-04-10 | 237,952 | 5 |
 | 2024-06-17 | 242,215 | 6 |
+| 2024-08-09 | 244,566 | 8 |
 ## Awards
 Max (Highly Recommended): 306  (Ranked 301)  
 Sum: 2,351 (Ranked 234)  

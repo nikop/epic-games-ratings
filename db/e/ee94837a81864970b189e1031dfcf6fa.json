@@ -3,12 +3,12 @@
   "Name": "Expeditions: A MudRunner Game",
   "ProductSlug": "expeditions-a-mudrunner-game-e6bda2",
   "Ranking_Rating": 1104,
-  "Ranking_Popularity": 585,
+  "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 248,
-  "Ranking_EOS_Completed": 469,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 234,
+  "Ranking_EOS_Completed": 487,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2024-03-05T16:00:00+00:00",
@@ -842,8 +842,8 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 7113,
-  "EOS_Completed": 2,
+  "EOS_Progressed": 14067,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
@@ -867,6 +867,11 @@
       "Time": "2024-06-17T16:17:23.3648818+00:00",
       "NumProgressed": 7113,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-09T18:05:41.2121716+00:00",
+      "NumProgressed": 14067,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:52.4220924+00:00",
@@ -877,97 +882,97 @@
       "ID": "0",
       "SetID": "79f4pl7",
       "Name": "First Love",
-      "Percentage": 38,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2703
+      "UsersEstimate": 3376
     },
     {
       "ID": "1",
       "SetID": "79f4pl7",
       "Name": "Truck-Curious",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 703
     },
     {
       "ID": "10",
       "SetID": "79f4pl7",
       "Name": "Truck Aficionado",
-      "Percentage": 4,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 285
+      "UsersEstimate": 281
     },
     {
       "ID": "11",
       "SetID": "79f4pl7",
       "Name": "Lucky Find",
-      "Percentage": 59,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4197
+      "UsersEstimate": 5064
     },
     {
       "ID": "12",
       "SetID": "79f4pl7",
       "Name": "Explorer",
-      "Percentage": 7,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 498
+      "UsersEstimate": 563
     },
     {
       "ID": "13",
       "SetID": "79f4pl7",
       "Name": "Globetrotter",
-      "Percentage": 4,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 285
+      "UsersEstimate": 281
     },
     {
       "ID": "14",
       "SetID": "79f4pl7",
       "Name": "Into the Wild",
-      "Percentage": 83,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 5904
+      "UsersEstimate": 7456
     },
     {
       "ID": "15",
       "SetID": "79f4pl7",
       "Name": "Wild Colorado",
-      "Percentage": 40,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 2845
+      "UsersEstimate": 3517
     },
     {
       "ID": "16",
       "SetID": "79f4pl7",
       "Name": "Arizona Skies",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 142
+      "UsersEstimate": 141
     },
     {
       "ID": "17",
       "SetID": "79f4pl7",
       "Name": "Eurotrip",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 127
     },
     {
       "ID": "18",
       "SetID": "79f4pl7",
       "Name": "Seasoned Explorer",
-      "Percentage": 1,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 98
     },
     {
       "ID": "19",
       "SetID": "79f4pl7",
       "Name": "The Mechanic",
-      "Percentage": 84,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 5975
+      "UsersEstimate": 7737
     },
     {
       "ID": "2",
@@ -975,55 +980,55 @@
       "Name": "Frankentruck",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 281
     },
     {
       "ID": "3",
       "SetID": "79f4pl7",
       "Name": "The Truck of Theseus",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "4",
       "SetID": "79f4pl7",
       "Name": "Fat Cat",
-      "Percentage": 18,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1547
     },
     {
       "ID": "5",
       "SetID": "79f4pl7",
       "Name": "All the Money in the World",
-      "Percentage": 10,
+      "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 711
+      "UsersEstimate": 844
     },
     {
       "ID": "6",
       "SetID": "79f4pl7",
       "Name": "10 Ready. 20 Set. 30 Go Back to 10?",
-      "Percentage": 32,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2276
+      "UsersEstimate": 2673
     },
     {
       "ID": "7",
       "SetID": "79f4pl7",
       "Name": "Start. Crash. Recover",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "8",
       "SetID": "79f4pl7",
       "Name": "Management Approves",
-      "Percentage": 82,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 5833
+      "UsersEstimate": 7315
     },
     {
       "ID": "9",
@@ -1031,23 +1036,23 @@
       "Name": "Anchor Management",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "79f4pl7",
       "IsBase": true,
-      "Progressed": 7113,
-      "Completed": 2
+      "Progressed": 14067,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-03-05T17:58:37.8385796+00:00",
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:52.4220924+00:00",
   "LastChanged": "2024-08-07T19:58:32.3512927+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:17:23.3648813+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:05:41.2121711+00:00",
   "LastUpdate_AppInfo": "2024-08-09T11:57:21.45009+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:19.7204439+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:17:23.3648943+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:16.10408+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:41.2121836+00:00"
 }

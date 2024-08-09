@@ -2,10 +2,10 @@
   "ID": "04758c0780e24a16b433fa56456790d9",
   "Name": "Skyformer",
   "ProductSlug": "xenion-ac02b0",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T06:57:18.0605522+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:30.3563457+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:13:20.4543119+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:19.521087+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:03:56.0843566+00:00"
 }

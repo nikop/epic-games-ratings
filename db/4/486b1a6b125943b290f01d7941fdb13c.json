@@ -2,10 +2,10 @@
   "ID": "486b1a6b125943b290f01d7941fdb13c",
   "Name": "Lilaina: Space Bounty Hunter",
   "ProductSlug": "lilaina-space-bounty-hunter-dcf0d4",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-07T03:00:00+00:00",
     "PcReleaseDate": "2024-02-07T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-06T20:00:44.1938538+00:00",
   "LastUpdate_AppInfo": "2024-08-06T23:57:41.9144413+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:35.5196901+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:15:54.1507081+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:28.1436492+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:05:03.9424235+00:00"
 }

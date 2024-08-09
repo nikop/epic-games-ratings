@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Maupiroa | 49.00% | ~22 |
-| Recycling newbie | 42.00% | ~19 |
-| New recruit | 24.00% | ~11 |
-| Interesting | 22.00% | ~10 |
-| Amateur photographer | 18.00% | ~8 |
-| In search of knowledge | 16.00% | ~7 |
-| Power of the dolphin | 16.00% | ~7 |
-| Rescuer | 13.00% | ~6 |
-| Power of the ray | 13.00% | ~6 |
-| Let's get started | 11.00% | ~5 |
-| Pro Photographer | 9.00% | ~4 |
-| Island gardian angel | 9.00% | ~4 |
-| Picture of the bay | 9.00% | ~4 |
-| Power of the turtle | 9.00% | ~4 |
-| Recycling expert | 7.00% | ~3 |
-| Heroic member | 7.00% | ~3 |
-| Legend of the association | 7.00% | ~3 |
-| Picture of the atoll | 7.00% | ~3 |
-| Picture of the reef | 7.00% | ~3 |
-| Power of the shark | 7.00% | ~3 |
+| Welcome to Maupiroa | 52.00% | ~26 |
+| Recycling newbie | 48.00% | ~24 |
+| New recruit | 30.00% | ~15 |
+| Interesting | 28.00% | ~14 |
+| Amateur photographer | 22.00% | ~11 |
+| Let's get started | 16.00% | ~8 |
+| Rescuer | 14.00% | ~7 |
+| In search of knowledge | 14.00% | ~7 |
+| Power of the dolphin | 14.00% | ~7 |
+| Power of the ray | 14.00% | ~7 |
+| Power of the turtle | 12.00% | ~6 |
+| Pro Photographer | 10.00% | ~5 |
+| Recycling expert | 10.00% | ~5 |
+| Island gardian angel | 8.00% | ~4 |
+| Heroic member | 8.00% | ~4 |
+| Legend of the association | 8.00% | ~4 |
+| Picture of the bay | 8.00% | ~4 |
+| Power of the shark | 8.00% | ~4 |
+| Picture of the atoll | 6.00% | ~3 |
+| Picture of the reef | 6.00% | ~3 |
 | Animal reporter | 4.00% | ~2 |
 | Creek cleanup | 4.00% | ~2 |
 | Atoll cleanup | 4.00% | ~2 |
 | Reef cleanup | 4.00% | ~2 |
+| Island protector | 4.00% | ~2 |
 | Picture of the creek | 4.00% | ~2 |
 | Picture of the island | 4.00% | ~2 |
 | Well of science | 4.00% | ~2 |
 | The fifth one! | 4.00% | ~2 |
 | Recycling Legend | 2.00% | ~1 |
 | Bay cleanup | 2.00% | ~1 |
-| Island protector | 2.00% | ~1 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 755)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 50 (Ranked 769)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,3 +68,4 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-02-22 | 38 | 0 |
 | 2024-03-21 | 39 | 0 |
 | 2024-06-17 | 45 | 0 |
+| 2024-08-09 | 50 | 0 |

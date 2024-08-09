@@ -2,10 +2,10 @@
   "ID": "549bb75c2f774df0877383595af20d04",
   "Name": "Vallarok",
   "ProductSlug": "vallarok-4ea087",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T20:57:07.4509073+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:13.4276286+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:33.6129343+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:10.3894324+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:05.771134+00:00"
 }

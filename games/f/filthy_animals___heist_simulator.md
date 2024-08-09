@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutorial Completed | 6.00% | ~568 |
-| Supermart Heisted | 2.00% | ~189 |
-| Supermart Objectives Complete | 1.00% | ~95 |
-| Sewer Objectives Complete | 1.00% | ~95 |
-| Bank Heisted | 0.70% | ~66 |
+| Tutorial Completed | 6.00% | ~577 |
+| Supermart Heisted | 2.00% | ~192 |
+| Supermart Objectives Complete | 1.00% | ~96 |
+| Sewer Objectives Complete | 1.00% | ~96 |
+| Bank Heisted | 0.70% | ~67 |
 | Nuclear Plant Heisted | 0.20% | ~19 |
-| All Objectives Complete | 0.10% | ~9 |
-| All Gold Chest Slots Unlocked | 0.10% | ~9 |
-| Bandit Camp Heisted | 0.10% | ~9 |
-| Bank Objectives Complete | 0.10% | ~9 |
-| Chicken Maxed Out | 0.10% | ~9 |
-| Crocodile Maxed Out | 0.10% | ~9 |
-| All Weapons Purchased | 0.10% | ~9 |
-| Military Base Heisted | 0.10% | ~9 |
-| Monkey Maxed Out | 0.10% | ~9 |
-| Moose Maxed Out | 0.10% | ~9 |
-| Prison Objectives Complete | 0.10% | ~9 |
-| Prison Heisted | 0.10% | ~9 |
-| Spaceship Heisted | 0.10% | ~9 |
-| Temple Objectives Complete | 0.10% | ~9 |
-| Temple Heisted | 0.10% | ~9 |
+| All Objectives Complete | 0.10% | ~10 |
+| All Gold Chest Slots Unlocked | 0.10% | ~10 |
+| Bandit Camp Heisted | 0.10% | ~10 |
+| Bank Objectives Complete | 0.10% | ~10 |
+| Chicken Maxed Out | 0.10% | ~10 |
+| Crocodile Maxed Out | 0.10% | ~10 |
+| All Weapons Purchased | 0.10% | ~10 |
+| Military Base Heisted | 0.10% | ~10 |
+| Monkey Maxed Out | 0.10% | ~10 |
+| Moose Maxed Out | 0.10% | ~10 |
+| Prison Objectives Complete | 0.10% | ~10 |
+| Prison Heisted | 0.10% | ~10 |
+| Spaceship Heisted | 0.10% | ~10 |
+| Temple Objectives Complete | 0.10% | ~10 |
+| Temple Heisted | 0.10% | ~10 |
 | Got All The Serums | 0.00% | ~0 |
 | Got All The Skulls | 0.00% | ~0 |
 | Got All The Sombreros | 0.00% | ~0 |
@@ -33,8 +33,8 @@
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,471 (Ranked 235)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 9,615 (Ranked 246)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -312,6 +312,7 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-03-21 | 9,184 | 0 |
 | 2024-04-10 | 9,253 | 0 |
 | 2024-06-17 | 9,471 | 0 |
+| 2024-08-09 | 9,615 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

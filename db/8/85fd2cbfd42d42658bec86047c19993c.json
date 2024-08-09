@@ -2,10 +2,10 @@
   "ID": "85fd2cbfd42d42658bec86047c19993c",
   "Name": "Truth",
   "ProductSlug": "truth-5c725a",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-13T10:00:00+00:00",
     "PcReleaseDate": "2023-08-27T10:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-04T05:57:18.0108652+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:00:13.9954038+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:21.4057245+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:58:14.7422544+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:53.9949421+00:00"
 }

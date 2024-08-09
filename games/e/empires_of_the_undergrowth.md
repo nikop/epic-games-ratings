@@ -6,111 +6,112 @@ Number of Ratings: 212  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Home | 84.00% | ~827 |
-| Subjugation | 79.00% | ~778 |
-| The First Experiment | 75.00% | ~739 |
-| New Home - Medium | 71.00% | ~699 |
-| Subjugation - Medium | 66.00% | ~650 |
-| The First Experiment - Medium | 54.00% | ~532 |
-| New Home - Challenge | 45.00% | ~443 |
-| Quantity, not Quality | 39.00% | ~384 |
-| Subjugation - Challenge | 34.00% | ~335 |
-| Queen of the Hill | 27.00% | ~266 |
-| New Home - Hard | 26.00% | ~256 |
-| Rising Tide | 26.00% | ~256 |
-| The Second Experiment | 24.00% | ~236 |
-| First Innings | 23.00% | ~227 |
-| The Harvest | 23.00% | ~227 |
-| Front Line | 23.00% | ~227 |
-| Separation Of Duties | 22.00% | ~217 |
-| Rising Tide - Medium | 22.00% | ~217 |
-| Queen of the Hill - Medium | 22.00% | ~217 |
-| Cold Blood | 22.00% | ~217 |
-| Subjugation - Hard | 21.00% | ~207 |
-| A Bridge Too Far | 20.00% | ~197 |
-| The Second Experiment - Medium | 20.00% | ~197 |
-| The Harvest - Medium | 18.00% | ~177 |
-| Front Line - Medium | 18.00% | ~177 |
-| The First Experiment - Hard | 18.00% | ~177 |
-| Possibly the Final Experiment | 18.00% | ~177 |
-| The Final Experiment | 18.00% | ~177 |
-| Rapid Growth | 17.00% | ~167 |
-| Cold Blood - Medium | 14.00% | ~138 |
-| A Bridge Too Far - Medium | 13.00% | ~128 |
-| Possibly the Final Experiment - Medium | 12.00% | ~118 |
-| Queen of the Hill - Challenge | 11.00% | ~108 |
-| Front Line - Challenge | 10.00% | ~98 |
-| The Final Experiment - Medium | 10.00% | ~98 |
-| Vanilla | 9.00% | ~89 |
-| New Home - Impossible | 9.00% | ~89 |
-| Rising Tide - Challenge | 9.00% | ~89 |
-| The Harvest - Challenge | 9.00% | ~89 |
-| Sitting Ducks | 6.00% | ~59 |
-| Queen of the Hill - Hard | 6.00% | ~59 |
-| The First Experiment - Impossible | 6.00% | ~59 |
-| The Second Experiment - Hard | 6.00% | ~59 |
-| New Home - Extreme Challenge | 5.00% | ~49 |
-| Rising Tide - Hard | 5.00% | ~49 |
-| New Home - Extreme | 4.00% | ~39 |
-| The Harvest - Hard | 4.00% | ~39 |
-| Front Line - Hard | 4.00% | ~39 |
-| Stand Your Ground | 3.00% | ~30 |
-| Grab The Bull By The Horns | 3.00% | ~30 |
-| Clever Little Ants | 3.00% | ~30 |
-| Subjugation - Impossible | 3.00% | ~30 |
-| The First Experiment - Extreme | 3.00% | ~30 |
-| Free Willis | 2.00% | ~20 |
-| Trypanophobia | 2.00% | ~20 |
-| Subjugation - Extreme Challenge | 2.00% | ~20 |
-| Subjugation - Extreme | 2.00% | ~20 |
-| A Bridge Too Far - Hard | 2.00% | ~20 |
-| The Second Experiment - Extreme | 2.00% | ~20 |
-| Possibly the Final Experiment - Hard | 2.00% | ~20 |
-| The Final Experiment - Hard | 2.00% | ~20 |
-| Just Isn't Cricket | 1.00% | ~10 |
-| Work With What You’ve Got | 1.00% | ~10 |
-| Regicide | 1.00% | ~10 |
-| Cold Blood - Hard | 1.00% | ~10 |
-| Speedy Setup | 0.90% | ~9 |
-| Picky Eater | 0.90% | ~9 |
-| The Second Experiment - Impossible | 0.90% | ~9 |
-| Shoot The Messenger | 0.80% | ~8 |
-| The Harvest - Extreme | 0.80% | ~8 |
-| Rising Tide - Extreme | 0.70% | ~7 |
-| Possibly the Final Experiment - Extreme | 0.70% | ~7 |
-| Quick March | 0.60% | ~6 |
-| Possibly the Final Experiment - Impossible | 0.60% | ~6 |
-| I Love Sashimi | 0.50% | ~5 |
-| Queen of the Hill - Extreme | 0.50% | ~5 |
-| Front Line - Extreme | 0.50% | ~5 |
+| New Home | 83.00% | ~913 |
+| Subjugation | 79.00% | ~869 |
+| The First Experiment | 74.00% | ~814 |
+| New Home - Medium | 70.00% | ~770 |
+| Subjugation - Medium | 66.00% | ~726 |
+| The First Experiment - Medium | 53.00% | ~583 |
+| New Home - Challenge | 45.00% | ~495 |
+| Quantity, not Quality | 39.00% | ~429 |
+| Subjugation - Challenge | 34.00% | ~374 |
+| Queen of the Hill | 28.00% | ~308 |
+| Rising Tide | 27.00% | ~297 |
+| New Home - Hard | 25.00% | ~275 |
+| The Harvest | 24.00% | ~264 |
+| The Second Experiment | 24.00% | ~264 |
+| First Innings | 23.00% | ~253 |
+| Separation Of Duties | 23.00% | ~253 |
+| Rising Tide - Medium | 23.00% | ~253 |
+| Queen of the Hill - Medium | 23.00% | ~253 |
+| Front Line | 23.00% | ~253 |
+| Cold Blood | 23.00% | ~253 |
+| Subjugation - Hard | 21.00% | ~231 |
+| A Bridge Too Far | 20.00% | ~220 |
+| The Second Experiment - Medium | 20.00% | ~220 |
+| Possibly the Final Experiment | 19.00% | ~209 |
+| The Final Experiment | 19.00% | ~209 |
+| The Harvest - Medium | 18.00% | ~198 |
+| Front Line - Medium | 18.00% | ~198 |
+| The First Experiment - Hard | 18.00% | ~198 |
+| Rapid Growth | 17.00% | ~187 |
+| Cold Blood - Medium | 14.00% | ~154 |
+| A Bridge Too Far - Medium | 13.00% | ~143 |
+| Possibly the Final Experiment - Medium | 13.00% | ~143 |
+| Queen of the Hill - Challenge | 11.00% | ~121 |
+| The Final Experiment - Medium | 11.00% | ~121 |
+| Front Line - Challenge | 10.00% | ~110 |
+| Vanilla | 9.00% | ~99 |
+| New Home - Impossible | 9.00% | ~99 |
+| Rising Tide - Challenge | 9.00% | ~99 |
+| The Harvest - Challenge | 9.00% | ~99 |
+| Queen of the Hill - Hard | 7.00% | ~77 |
+| Rising Tide - Hard | 6.00% | ~66 |
+| The First Experiment - Impossible | 6.00% | ~66 |
+| The Second Experiment - Hard | 6.00% | ~66 |
+| Sitting Ducks | 5.00% | ~55 |
+| New Home - Extreme Challenge | 5.00% | ~55 |
+| The Harvest - Hard | 5.00% | ~55 |
+| Clever Little Ants | 4.00% | ~44 |
+| New Home - Extreme | 4.00% | ~44 |
+| Front Line - Hard | 4.00% | ~44 |
+| Stand Your Ground | 3.00% | ~33 |
+| Free Willis | 3.00% | ~33 |
+| Grab The Bull By The Horns | 3.00% | ~33 |
+| Subjugation - Impossible | 3.00% | ~33 |
+| The First Experiment - Extreme | 3.00% | ~33 |
+| Possibly the Final Experiment - Hard | 3.00% | ~33 |
+| Work With What You’ve Got | 2.00% | ~22 |
+| Trypanophobia | 2.00% | ~22 |
+| Subjugation - Extreme Challenge | 2.00% | ~22 |
+| Subjugation - Extreme | 2.00% | ~22 |
+| Cold Blood - Hard | 2.00% | ~22 |
+| A Bridge Too Far - Hard | 2.00% | ~22 |
+| The Second Experiment - Extreme | 2.00% | ~22 |
+| The Final Experiment - Hard | 2.00% | ~22 |
+| Just Isn't Cricket | 1.00% | ~11 |
+| Rising Tide - Extreme | 1.00% | ~11 |
+| The Second Experiment - Impossible | 1.00% | ~11 |
+| Speedy Setup | 0.90% | ~10 |
+| Picky Eater | 0.90% | ~10 |
+| Regicide | 0.90% | ~10 |
+| Shoot The Messenger | 0.90% | ~10 |
+| The Harvest - Extreme | 0.80% | ~9 |
+| Queen of the Hill - Extreme | 0.70% | ~8 |
+| Possibly the Final Experiment - Extreme | 0.60% | ~7 |
+| I Love Sashimi | 0.50% | ~6 |
+| Quick March | 0.50% | ~6 |
+| The Harvest - Impossible | 0.50% | ~6 |
+| Front Line - Extreme | 0.50% | ~6 |
+| Possibly the Final Experiment - Impossible | 0.50% | ~6 |
+| Toad-al Annihilation | 0.40% | ~4 |
 | Fool's Checkmate | 0.40% | ~4 |
-| The Harvest - Impossible | 0.40% | ~4 |
+| Rising Tide - Impossible | 0.40% | ~4 |
+| Queen of the Hill - Impossible | 0.40% | ~4 |
+| Cold Blood - Extreme | 0.40% | ~4 |
+| The Final Experiment - Extreme | 0.40% | ~4 |
 | I Can Eat 50 Eggs | 0.30% | ~3 |
-| Toad-al Annihilation | 0.30% | ~3 |
 | Entomophobia | 0.30% | ~3 |
 | Collector | 0.30% | ~3 |
-| Cold Blood - Extreme | 0.30% | ~3 |
-| The Final Experiment - Extreme | 0.30% | ~3 |
+| Cold Blood - Impossible | 0.30% | ~3 |
 | Get Your Own Eggs | 0.20% | ~2 |
 | Live and Let Live | 0.20% | ~2 |
 | Boundary Dispute | 0.20% | ~2 |
+| Fast Food | 0.20% | ~2 |
 | No Entry | 0.20% | ~2 |
 | Rising Tide - Extreme Challenge | 0.20% | ~2 |
-| Rising Tide - Impossible | 0.20% | ~2 |
 | Queen of the Hill - Extreme Challenge | 0.20% | ~2 |
-| Queen of the Hill - Impossible | 0.20% | ~2 |
 | The Harvest - Extreme Challenge | 0.20% | ~2 |
-| Cold Blood - Impossible | 0.20% | ~2 |
 | A Bridge Too Far - Extreme | 0.20% | ~2 |
 | The Final Experiment - Impossible | 0.20% | ~2 |
 | Appetite Sated | 0.20% | ~2 |
 | It's My Beach Now | 0.10% | ~1 |
 | Giant Bear | 0.10% | ~1 |
 | At Arm's Length | 0.10% | ~1 |
-| Fast Food | 0.10% | ~1 |
 | Workforce | 0.10% | ~1 |
 | Whip Lash | 0.10% | ~1 |
 | Toad In The Hole | 0.10% | ~1 |
+| Multitasking | 0.10% | ~1 |
 | Front Line - Extreme Challenge | 0.10% | ~1 |
 | Front Line - Impossible | 0.10% | ~1 |
 | A Bridge Too Far - Impossible | 0.10% | ~1 |
@@ -126,7 +127,6 @@ Number of Ratings: 212  (23.09.2022)
 | Meticulous Harvest | 0.00% | ~0 |
 | Raise The Alarm | 0.00% | ~0 |
 | Disposable bridges | 0.00% | ~0 |
-| Multitasking | 0.00% | ~0 |
 | Spring Cleaning | 0.00% | ~0 |
 | Rocket Jump | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
@@ -140,13 +140,14 @@ Number of Ratings: 212  (23.09.2022)
 | New Year's Feast - Impossible | 0.00% | ~0 |
 | New Year's Feast - Medium | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 985 (Ranked 393)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 1,100 (Ranked 398)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 839 | 0 |
 | 2024-06-26 | 985 | 0 |
+| 2024-08-09 | 1,100 | 0 |
 ## Awards
 Max (Great for Beginners): 82  (Ranked 473)  
 Sum: 655 (Ranked 376)  

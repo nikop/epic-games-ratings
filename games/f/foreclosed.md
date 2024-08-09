@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 66.00% | ~164 |
-| Silent Overload | 57.00% | ~141 |
-| Symbiotic Weapon | 51.00% | ~126 |
-| A.I. Training | 45.00% | ~112 |
-| Sniper | 34.00% | ~84 |
-| The Red Herring | 31.00% | ~77 |
-| Telekinesis | 27.00% | ~67 |
-| Sapper | 19.00% | ~47 |
-| Tough Decision | 19.00% | ~47 |
-| Veteran Sniper | 17.00% | ~42 |
-| The Neuro-connector | 16.00% | ~40 |
-| Mind Over Matter | 16.00% | ~40 |
-| Unstoppable | 15.00% | ~37 |
-| Flatline | 15.00% | ~37 |
-| Full and Final Settlement | 14.00% | ~35 |
-| One Click Away | 14.00% | ~35 |
-| Cyborg | 8.00% | ~20 |
-| Lifter | 6.00% | ~15 |
-| Brain-hacker | 6.00% | ~15 |
-| Gravity Bender | 5.00% | ~12 |
-| Zero Gravity | 4.00% | ~10 |
-| Hunter | 3.00% | ~7 |
+| Breaking Through | 65.00% | ~174 |
+| Silent Overload | 57.00% | ~153 |
+| Symbiotic Weapon | 52.00% | ~139 |
+| A.I. Training | 44.00% | ~118 |
+| Sniper | 34.00% | ~91 |
+| The Red Herring | 31.00% | ~83 |
+| Telekinesis | 28.00% | ~75 |
+| Sapper | 19.00% | ~51 |
+| Tough Decision | 19.00% | ~51 |
+| Veteran Sniper | 17.00% | ~46 |
+| The Neuro-connector | 15.00% | ~40 |
+| Flatline | 15.00% | ~40 |
+| Mind Over Matter | 15.00% | ~40 |
+| Unstoppable | 14.00% | ~38 |
+| Full and Final Settlement | 13.00% | ~35 |
+| One Click Away | 13.00% | ~35 |
+| Cyborg | 8.00% | ~21 |
+| Lifter | 6.00% | ~16 |
+| Brain-hacker | 6.00% | ~16 |
+| Gravity Bender | 5.00% | ~13 |
+| Zero Gravity | 4.00% | ~11 |
+| Hunter | 3.00% | ~8 |
 | No Place to Hide | 2.00% | ~5 |
 | A Voice in the Dark | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 534)  
-Completed: 4 (1.61%) (Ranked 195)  
+Progressed: 268 (Ranked 540)  
+Completed: 4 (1.49%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,6 +105,7 @@ Completed: 4 (1.61%) (Ranked 195)
 | 2024-04-05 | 183 | 4 |
 | 2024-04-10 | 185 | 4 |
 | 2024-06-17 | 248 | 4 |
+| 2024-08-09 | 268 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

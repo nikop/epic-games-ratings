@@ -1,72 +1,73 @@
 # BIOMUTANT
 [Store](https://store.epicgames.com/en-US/p/biomutant)  
 [View Rawdata](../../db/b/biomutant.json)  
-Rating: 4.35 (Ranked 935)  
+Rating: 4.35 (Ranked 934)  
 Number of Ratings: 198  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 46.00% | ~944 |
-| In the Green | 18.00% | ~369 |
-| Rodeo | 17.00% | ~349 |
-| Knockout! | 16.00% | ~328 |
-| Heavy Metal | 14.00% | ~287 |
-| Elementary | 12.00% | ~246 |
-| Snack-time | 9.00% | ~185 |
-| Hammertime | 8.00% | ~164 |
-| Toytinkerer | 7.00% | ~144 |
-| Under the Table | 7.00% | ~144 |
-| Specialized | 6.00% | ~123 |
-| Conquest | 5.00% | ~103 |
-| Max Gains | 5.00% | ~103 |
-| Starstruck | 5.00% | ~103 |
-| That's Mine! | 5.00% | ~103 |
-| DNA Overload | 4.00% | ~82 |
-| Nautica | 4.00% | ~82 |
-| Riding the wave | 4.00% | ~82 |
-| The Dragon | 4.00% | ~82 |
-| Zoo-do | 4.00% | ~82 |
-| Adventurer | 3.00% | ~62 |
-| Conscious | 3.00% | ~62 |
-| End of the Rainbow | 3.00% | ~62 |
-| Eye on the Road | 3.00% | ~62 |
-| Gumshow | 3.00% | ~62 |
-| Paragon | 3.00% | ~62 |
-| Kneel | 2.00% | ~41 |
-| Old World Gadgets | 2.00% | ~41 |
-| Sproing! | 2.00% | ~41 |
-| Thugs | 2.00% | ~41 |
-| Hack n' Slash | 1.00% | ~21 |
-| Pew Pew! | 1.00% | ~21 |
-| Tar-up | 1.00% | ~21 |
-| Trek | 1.00% | ~21 |
-| Twinkle Twinkle | 1.00% | ~21 |
-| Mariner | 0.90% | ~18 |
-| Show-off | 0.90% | ~18 |
-| Wung-fu Master | 0.90% | ~18 |
-| Bagman | 0.80% | ~16 |
-| Stick it to Them | 0.60% | ~12 |
-| Electrified | 0.50% | ~10 |
-| Flap-flap | 0.30% | ~6 |
-| Social | 0.30% | ~6 |
+| The Adventure Begins | 46.00% | ~1,031 |
+| In the Green | 19.00% | ~426 |
+| Rodeo | 18.00% | ~404 |
+| Knockout! | 17.00% | ~381 |
+| Heavy Metal | 14.00% | ~314 |
+| Elementary | 13.00% | ~291 |
+| Snack-time | 10.00% | ~224 |
+| Hammertime | 8.00% | ~179 |
+| Toytinkerer | 8.00% | ~179 |
+| Under the Table | 8.00% | ~179 |
+| Max Gains | 7.00% | ~157 |
+| Specialized | 7.00% | ~157 |
+| Conquest | 6.00% | ~135 |
+| Starstruck | 6.00% | ~135 |
+| Riding the wave | 5.00% | ~112 |
+| That's Mine! | 5.00% | ~112 |
+| The Dragon | 5.00% | ~112 |
+| Adventurer | 4.00% | ~90 |
+| Conscious | 4.00% | ~90 |
+| DNA Overload | 4.00% | ~90 |
+| End of the Rainbow | 4.00% | ~90 |
+| Eye on the Road | 4.00% | ~90 |
+| Gumshow | 4.00% | ~90 |
+| Nautica | 4.00% | ~90 |
+| Zoo-do | 4.00% | ~90 |
+| Paragon | 3.00% | ~67 |
+| Thugs | 3.00% | ~67 |
+| Kneel | 2.00% | ~45 |
+| Old World Gadgets | 2.00% | ~45 |
+| Sproing! | 2.00% | ~45 |
+| Trek | 2.00% | ~45 |
+| Twinkle Twinkle | 2.00% | ~45 |
+| Bagman | 1.00% | ~22 |
+| Hack n' Slash | 1.00% | ~22 |
+| Pew Pew! | 1.00% | ~22 |
+| Show-off | 1.00% | ~22 |
+| Tar-up | 1.00% | ~22 |
+| Wung-fu Master | 1.00% | ~22 |
+| Mariner | 0.90% | ~20 |
+| Stick it to Them | 0.70% | ~16 |
+| Electrified | 0.60% | ~13 |
+| Flap-flap | 0.50% | ~11 |
+| Social | 0.30% | ~7 |
+| Bugologist | 0.20% | ~4 |
 | Angler | 0.10% | ~2 |
-| Bugologist | 0.10% | ~2 |
 | Quack | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 337)  
-Completed: 0 (0.00%) (Ranked 528)  
+Progressed: 2,242 (Ranked 343)  
+Completed: 0 (0.00%) (Ranked 554)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 997 | 0 |
 | 2024-07-25 | 2,052 | 0 |
+| 2024-08-09 | 2,242 | 0 |
 ## Awards
-Max (Character Customization): 139  (Ranked 400)  
-Sum: 191 (Ranked 506)  
-Diff (max vs sum): -106  
+Max (Character Customization): 140  (Ranked 399)  
+Sum: 192 (Ranked 506)  
+Diff (max vs sum): -107  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 139 |
+| This game has Inclusive Character Customization | 140 |
 | This game has Great Boss Battles | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -187,3 +188,4 @@ Diff (max vs sum): -106
 | 2024-08-04 | 4.35 | - | 139 | 188 |
 | 2024-08-05 | 4.35 | - | 139 | 190 |
 | 2024-08-06 | 4.35 | - | 139 | 191 |
+| 2024-08-09 | 4.35 | - | 140 | 192 |

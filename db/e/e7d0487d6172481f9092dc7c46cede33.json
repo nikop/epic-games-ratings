@@ -2,10 +2,10 @@
   "ID": "e7d0487d6172481f9092dc7c46cede33",
   "Name": "Teatopia",
   "ProductSlug": "teatopia-5a2f26",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-09T13:09:16.0133945+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:58:50.5492536+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:30.6800349+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:00:41.8498672+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:02.9850761+00:00"
 }

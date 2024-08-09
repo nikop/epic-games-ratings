@@ -2,10 +2,10 @@
   "ID": "c99e1a5d5bd5462d8fbaabf6951bbbdf",
   "Name": "The Land Beneath Us",
   "ProductSlug": "the-land-beneath-us-85394f",
-  "Ranking_EOS_Progress": 865,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 889,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-05-13T15:00:00+00:00",
     "PcReleaseDate": "2024-05-13T15:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-07-30T16:02:22.6350333+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:07:55.1771705+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:47.7351293+00:00",
@@ -50,15 +55,15 @@
       "ID": "LBUA001",
       "SetID": "alp34bd",
       "Name": "Getting started",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LBUA002",
       "SetID": "alp34bd",
       "Name": "Mother\u0027s Soul",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -74,7 +79,7 @@
       "ID": "LBUA004",
       "SetID": "alp34bd",
       "Name": "Venom Horseman",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "LBUA010",
       "SetID": "alp34bd",
       "Name": "Family Reunion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "LBUA011",
       "SetID": "alp34bd",
       "Name": "New Moon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "LBUA013",
       "SetID": "alp34bd",
       "Name": "First Quarter",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "LBUA016",
       "SetID": "alp34bd",
       "Name": "Blood Moon",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "LBUA017",
       "SetID": "alp34bd",
       "Name": "Roguelike",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -186,15 +191,15 @@
       "ID": "LBUA018",
       "SetID": "alp34bd",
       "Name": "Unyielding I",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LBUA019",
       "SetID": "alp34bd",
       "Name": "Unyielding II",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "LBUA020",
       "SetID": "alp34bd",
       "Name": "Unyielding III",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -210,15 +215,15 @@
       "ID": "LBUA021",
       "SetID": "alp34bd",
       "Name": "Learning | Offensive",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LBUA022",
       "SetID": "alp34bd",
       "Name": "Learning | Defensive",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -226,7 +231,7 @@
       "ID": "LBUA023",
       "SetID": "alp34bd",
       "Name": "Learning | Techinical",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -242,7 +247,7 @@
       "ID": "LBUA025",
       "SetID": "alp34bd",
       "Name": "Processing | Infliction",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -266,7 +271,7 @@
       "ID": "LBUA028",
       "SetID": "alp34bd",
       "Name": "Processing | Enhance",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "LBUA032",
       "SetID": "alp34bd",
       "Name": "Finalize | Recovery",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "LBUA033",
       "SetID": "alp34bd",
       "Name": "Finalize | Traps",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -322,7 +327,7 @@
       "ID": "LBUA035",
       "SetID": "alp34bd",
       "Name": "Finalize | Overload",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -339,14 +344,14 @@
     {
       "ID": "alp34bd",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-13T15:57:24.1696992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:47.7351293+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:22.6350328+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:07:55.17717+00:00",
   "LastUpdate_AppInfo": "2024-08-05T23:57:29.9141424+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:57:15.7089901+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:22.6350567+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:59:12.6031358+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:55.1771958+00:00"
 }

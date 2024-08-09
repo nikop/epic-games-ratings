@@ -2,10 +2,10 @@
   "ID": "0211b3c0025c4883a872953748c73b65",
   "Name": "Holy Clash Cards",
   "ProductSlug": "holy-clash-cards-b1d536",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-05-09T22:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-05T15:57:15.2545398+00:00",
-  "LastUpdate_Ratings": "2024-08-09T17:00:08.9758149+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:55.486352+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:03.976139+00:00"
 }

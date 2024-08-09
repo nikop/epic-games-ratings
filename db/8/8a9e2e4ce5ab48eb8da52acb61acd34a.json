@@ -2,10 +2,10 @@
   "ID": "8a9e2e4ce5ab48eb8da52acb61acd34a",
   "Name": "Floppa: The Dark Forest",
   "ProductSlug": "floppa-the-dark-forest-518460",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-02-29T23:00:00+00:00",
     "PcReleaseDate": "2024-02-29T23:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-11T02:58:07.2073927+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:06.8234469+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:06.7717976+00:00",
-  "LastUpdate_Achievements": "2024-07-25T19:04:41.6183333+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:33.0322566+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:07:13.0455284+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b9e6e3d5a4474a8ead248c62bfdf08b7",
   "Name": "Witch It",
   "ProductSlug": "witch-it-3624a9",
-  "Ranking_EOS_Progress": 435,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-03-26T16:00:00+00:00",
     "PcReleaseDate": "2020-10-22T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 595,
+  "EOS_Progressed": 604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2024-07-30T16:02:43.0447535+00:00",
       "NumProgressed": 595,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-09T18:08:14.807984+00:00",
+      "NumProgressed": 604,
       "NumCompleted": 0
     }
   ],
@@ -94,41 +99,41 @@
       "ID": "AchLastWitch",
       "SetID": "akkdgk3",
       "Name": "Last Witch Standing",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "AchLevel002",
       "SetID": "akkdgk3",
       "Name": "Level 2",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 109
     },
     {
       "ID": "AchLevel005",
       "SetID": "akkdgk3",
       "Name": "Level 5",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 79
     },
     {
       "ID": "AchLevel010",
       "SetID": "akkdgk3",
       "Name": "Level 10",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 30
     },
     {
       "ID": "AchLevel020",
       "SetID": "akkdgk3",
       "Name": "Level 20",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchLevel030",
@@ -383,14 +388,14 @@
     {
       "ID": "akkdgk3",
       "IsBase": true,
-      "Progressed": 595,
+      "Progressed": 604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-29T16:59:38.0487457+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.8110183+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:43.0447529+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:14.8079834+00:00",
   "LastUpdate_AppInfo": "2024-08-07T04:57:25.8102451+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:18.7302523+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:43.0447791+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:40.4807215+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:14.8080072+00:00"
 }

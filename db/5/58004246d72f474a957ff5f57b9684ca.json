@@ -5,10 +5,10 @@
   "Ranking_Rating": 240,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 77,
+  "Ranking_EOS_Completed": 184,
+  "Ranking_EOS_NewPlayers": 7,
+  "Ranking_EOS_NewCompleters": 2,
   "Store": {
     "ReleaseDate": "2024-05-02T15:00:00+00:00",
     "PcReleaseDate": "2019-09-23T22:00:00+00:00",
@@ -481,11 +481,11 @@
       "Count": 160
     }
   ],
-  "EOS_Progressed": 319143,
-  "EOS_Completed": 7860,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.46,
+  "EOS_Progressed": 323209,
+  "EOS_Completed": 8091,
+  "EOS_NewPlayers": 4066,
+  "EOS_NewCompleters": 231,
+  "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:31.1354814+00:00",
@@ -496,6 +496,11 @@
       "Time": "2024-07-30T16:02:38.1389419+00:00",
       "NumProgressed": 319143,
       "NumCompleted": 7860
+    },
+    {
+      "Time": "2024-08-09T18:08:10.0501114+00:00",
+      "NumProgressed": 323209,
+      "NumCompleted": 8091
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:31.1354835+00:00",
@@ -506,9 +511,9 @@
       "ID": "com.thegentlebros.catquest2.continent",
       "SetID": "5gike56",
       "Name": "The Lupus Empire",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 54254
+      "UsersEstimate": 58178
     },
     {
       "ID": "com.thegentlebros.catquest2.dungeons",
@@ -516,7 +521,7 @@
       "Name": "Dungeon Master",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6383
+      "UsersEstimate": 6464
     },
     {
       "ID": "com.thegentlebros.catquest2.equipments",
@@ -524,15 +529,15 @@
       "Name": "Fashionista Tails",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 9574
+      "UsersEstimate": 9696
     },
     {
       "ID": "com.thegentlebros.catquest2.firstmainquest",
       "SetID": "5gike56",
       "Name": "Catventure Begins",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 105317
+      "UsersEstimate": 109891
     },
     {
       "ID": "com.thegentlebros.catquest2.level",
@@ -540,15 +545,15 @@
       "Name": "Kinghood",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 22340
+      "UsersEstimate": 22625
     },
     {
       "ID": "com.thegentlebros.catquest2.mainquests",
       "SetID": "5gike56",
       "Name": "Paws Together",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 200,
-      "UsersEstimate": 25531
+      "UsersEstimate": 29089
     },
     {
       "ID": "com.thegentlebros.catquest2.royalarts",
@@ -556,7 +561,7 @@
       "Name": "Royal Fur",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 35106
+      "UsersEstimate": 35553
     },
     {
       "ID": "com.thegentlebros.catquest2.sidequests",
@@ -564,7 +569,7 @@
       "Name": "Furriend of the People",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 12766
+      "UsersEstimate": 12928
     },
     {
       "ID": "com.thegentlebros.catquest2.spells",
@@ -572,23 +577,23 @@
       "Name": "Arcane Paws",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 15957
+      "UsersEstimate": 16160
     }
   ],
   "AchievementSets": [
     {
       "ID": "5gike56",
       "IsBase": true,
-      "Progressed": 319143,
-      "Completed": 7860
+      "Progressed": 323209,
+      "Completed": 8091
     }
   ],
   "FirstSeen": "2024-05-02T17:58:17.8761313+00:00",
   "FirstSeenRating": "2024-05-04T03:58:34.2984486+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:31.1354834+00:00",
   "LastChanged": "2024-08-08T09:58:49.2241462+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:38.1389414+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:10.0501108+00:00",
   "LastUpdate_AppInfo": "2024-08-06T23:57:38.136995+00:00",
-  "LastUpdate_Ratings": "2024-08-09T15:59:28.346805+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:38.1389623+00:00"
+  "LastUpdate_Ratings": "2024-08-09T17:57:46.5131918+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:10.0501177+00:00"
 }

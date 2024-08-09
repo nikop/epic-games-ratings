@@ -2,10 +2,10 @@
   "ID": "46c8eccba1224195bdd112048075cc37",
   "Name": "One More Dungeon 2",
   "ProductSlug": "one-more-dungeon-2-532228",
-  "Ranking_EOS_Progress": 557,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 569,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-06-09T14:30:00+00:00",
     "PcReleaseDate": "2022-09-19T02:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 212,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.49,
+  "EOS_Completed_Percentage": 1.42,
   "EosHistory": [
     {
       "Time": "2023-06-10T02:13:27.744268+00:00",
@@ -934,6 +934,11 @@
       "Time": "2024-06-17T16:09:13.6592379+00:00",
       "NumProgressed": 202,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-09T18:02:16.7593489+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 20,
@@ -945,15 +950,15 @@
       "Name": "Ready for Battle",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AllTogether",
       "SetID": "7g1kpc8",
       "Name": "All Together",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ChangeClass",
@@ -961,7 +966,7 @@
       "Name": "Metamorphosis",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "CollectCurses",
@@ -969,7 +974,7 @@
       "Name": "Unlucky",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CollectGold",
@@ -977,7 +982,7 @@
       "Name": "Merchant",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "DemonHunter",
@@ -985,7 +990,7 @@
       "Name": "Demonologist",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FinalBoss",
@@ -993,7 +998,7 @@
       "Name": "Creature",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FirstBlood",
@@ -1001,31 +1006,31 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 191
     },
     {
       "ID": "FirstBoss",
       "SetID": "7g1kpc8",
       "Name": "Scull",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "FirstStep",
       "SetID": "7g1kpc8",
       "Name": "Start of the Path",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 144
     },
     {
       "ID": "FourthBoss",
       "SetID": "7g1kpc8",
       "Name": "Ifrit",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "KingBeatleHunter",
@@ -1033,7 +1038,7 @@
       "Name": "Royal Beetle",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "KingBoss",
@@ -1049,7 +1054,7 @@
       "Name": "Leprechaun",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "MonsterSlayer",
@@ -1057,7 +1062,7 @@
       "Name": "Monster Slayer",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Persistence",
@@ -1065,7 +1070,7 @@
       "Name": "Persistence",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ReturnShell",
@@ -1073,7 +1078,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "SecondBoss",
@@ -1081,7 +1086,7 @@
       "Name": "Spider",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "TenLevel",
@@ -1089,29 +1094,29 @@
       "Name": "Experienced",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ThirdBoss",
       "SetID": "7g1kpc8",
       "Name": "Flower",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     }
   ],
   "AchievementSets": [
     {
       "ID": "7g1kpc8",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 212,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-11T11:57:40.6516022+00:00",
   "FirstSeenAchievements": "2023-05-15T04:01:47.390452+00:00",
-  "LastChanged_Achievements": "2024-06-17T16:09:13.6592374+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:02:16.7593484+00:00",
   "LastUpdate_AppInfo": "2024-08-06T17:57:13.3484115+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:52.350638+00:00",
-  "LastUpdate_Achievements": "2024-06-17T16:09:13.6592544+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:40.5570169+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:02:16.7593655+00:00"
 }

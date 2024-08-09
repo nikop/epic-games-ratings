@@ -2,10 +2,10 @@
   "ID": "a9621f7429a445a08d09bfa964a7c31f",
   "Name": "Sweet Transit",
   "ProductSlug": "sweet-transit-77bbbf",
-  "Ranking_EOS_Progress": 1141,
-  "Ranking_EOS_Completed": 528,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 1184,
+  "Ranking_EOS_Completed": 554,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-04-22T17:00:00+00:00",
     "PcReleaseDate": "2022-07-28T09:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-04-23T01:43:42.423472+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:05.4071062+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:28.6355144+00:00",
+  "LastChanged_Achievements": "2024-08-09T18:08:00.9544387+00:00",
   "LastUpdate_AppInfo": "2024-08-02T23:57:22.0257575+00:00",
-  "LastUpdate_Ratings": "2024-08-09T16:59:28.5884493+00:00",
-  "LastUpdate_Achievements": "2024-07-30T16:02:28.6355182+00:00"
+  "LastUpdate_Ratings": "2024-08-09T18:01:17.8732155+00:00",
+  "LastUpdate_Achievements": "2024-08-09T18:08:00.9544458+00:00"
 }
