@@ -1,7 +1,7 @@
 # The Machines Arena
 [Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.77 (Ranked 129)  
+Rating: 4.78 (Ranked 122)  
 ## Awards
 Max (Great Boss Battles): 63  (Ranked 505)  
 Sum: 63 (Ranked 587)  
@@ -71,3 +71,4 @@ Diff (max vs sum): -82
 | 2024-08-05 | 4.76 | 57 | 57 |
 | 2024-08-07 | 4.77 | 59 | 59 |
 | 2024-08-08 | 4.77 | 63 | 63 |
+| 2024-08-09 | 4.78 | 63 | 63 |
