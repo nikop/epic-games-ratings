@@ -1,7 +1,7 @@
 # Rising Hell
 [Store](https://store.epicgames.com/en-US/p/rising-hell-253707)  
 [View Rawdata](../../db/r/rising_hell.json)  
-Rating: 4.40 (Ranked 860)  
+Rating: 4.40 (Ranked 861)  
 ## Awards
 Max (Quickly Understood Controls): 76  (Ranked 487)  
 Sum: 690 (Ranked 370)  
