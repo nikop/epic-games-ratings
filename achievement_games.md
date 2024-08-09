@@ -324,7 +324,7 @@
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
 | [Age of Conquest IV](games/c/c93d8cd77b5a45c8b6aee3e68ff4e0c7.md) | 2024-01-31 | 21 (1,000 XP) | 4,308 | 4.00 | 0 |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 4 | - | - |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 99,616 | 4.51 | 114 |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 99,616 | 4.52 | 114 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 40 | - | 0 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 24 | - | 0 |
@@ -756,7 +756,7 @@
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 10 (1,000 XP) | 197 | - | 0 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 50 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 43 | - | 0 |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 44,855 | 4.65 | 788 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 44,855 | 4.65 | 792 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 2,031 | - | 0 |
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 166 | - | 0 |
@@ -796,7 +796,7 @@
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 37 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 24 | - | 0 |
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 65,374 | 4.51 | 13,757 |
-| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 576,005 | 3.86 | 111 |
+| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 576,005 | 3.86 | 62 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,417 | 4.42 | 23 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,132 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 180 | - | 0 |
@@ -984,7 +984,7 @@
 | [Serial Cleaners](games/s/serial_cleaners.md) | 2022-09-22 | 24 (1,300 XP) | 437 | - | 0 |
 | [ANNO Mutationem](games/a/anno_mutationem.md) | 2022-09-22 | 36 (1,000 XP) | 921 | 4.60 | 0 |
 | [The Outbound Ghost](games/t/the_outbound_ghost.md) | 2022-09-20 | 31 (1,000 XP) | 0 | - | 0 |
-| [Tails of Iron](games/t/tails_of_iron.md) | 2022-09-15 | 36 (1,230 XP) | 2,974 | 4.61 | 23 |
+| [Tails of Iron](games/t/tails_of_iron.md) | 2022-09-15 | 36 (1,230 XP) | 2,974 | 4.62 | 23 |
 | [Absolute Tactics](games/a/absolute_tactics.md) | 2022-09-15 | 21 (1,000 XP) | 6 | - | 0 |
 | [Foretales](games/f/foretales.md) | 2022-09-15 | 41 (1,000 XP) | 320 | 4.71 | 0 |
 | [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 8,841 | 4.58 | 60 |
@@ -992,7 +992,7 @@
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 56 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 63,508 | 4.24 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 16,588 | 4.76 | 1,534 |
-| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 914,968 | 4.24 | 733 |
+| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 914,968 | 4.23 | 733 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 817 | 4.55 | 40 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 248,751 | 4.58 | 1,676 |

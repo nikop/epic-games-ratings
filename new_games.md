@@ -3,7 +3,7 @@
 | [The Voidness - Lidar Horror Survival Game](games/a/a7353f6ece4a4126ad3d27fe6410cc72.md) | 2024-08-09 | - |  | - | - |
 | [Looper Tactics Deluxe Edition](games/e/e551ed37b11f45ec9fb62af82ed0354f.md) | 2024-08-09 | - |  | - | - |
 | [Solo Path](games/0/006f58d65fcf4ce896d28335e1ef93c5.md) | 2024-08-09 | - |  | - | - |
-| [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | - |  | - | - |
+| [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | - |  | - | 0 |
 | [DOOM Eternal](games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 2024-08-08 | - |  | - | - |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | - |  | - | - |
 | [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2024-08-08 | - |  | - | - |
