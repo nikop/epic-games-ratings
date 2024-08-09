@@ -12,6 +12,7 @@
 | [Strong Fortress](games/5/517c5d875a104cfb98506f8f2844a555.md) | 2024-08-15 | - |  | - | - |
 | [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-08-15 | - |  | - | - |
+| [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2024-08-15 | - |  | - | - |
 | [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-16 | 49 (1,000 XP) | 1 | - | - |

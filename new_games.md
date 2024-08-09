@@ -88,7 +88,6 @@
 | [Adventure Forest: Rabbit Story](games/2/24300a7a071a4b6f9c0ad1b2dbc6883b.md) | 2024-07-19 | - |  | - | - |
 | [The Black Pool](games/a/a79dc86babfd4136a6f788bf54d23308.md) | 2024-07-19 | 41 (1,000 XP) | 529 | - | 0 |
 | [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-19 | 38 (1,000 XP) | 45 | - | 0 |
-| [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-07-19 | - |  | - | 0 |
 | [RiichiCity](games/e/e0ee479e91da4abeb526cdfd2210d7dc.md) | 2024-07-19 | - |  | - | 0 |
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | 31 (1,000 XP) | 1 | - | - |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | 46 (1,000 XP) | 140 | - | 0 |
