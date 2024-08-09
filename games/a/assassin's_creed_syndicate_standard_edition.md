@@ -5,8 +5,8 @@ Rating: 4.51 (Ranked 654)
 Number of Ratings: 2,854  (23.09.2022)  
 ## Awards
 Max (Relaxing): 189  (Ranked 364)  
-Sum: 1,520 (Ranked 278)  
-Diff (max vs sum): 86  
+Sum: 1,520 (Ranked 279)  
+Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 189 |

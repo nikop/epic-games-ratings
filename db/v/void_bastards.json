@@ -4,7 +4,7 @@
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 462,
   "Ranking_Popularity": 611,
-  "Ranking_PopularitySum": 487,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -875,10 +875,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-08-09T02:58:55.7176646+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
+  "NumberOfAwards": 197,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -948,8 +954,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2024-08-08T18:59:30.3563589+00:00",
+  "LastChanged": "2024-08-09T02:58:55.7176644+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:29.4638079+00:00",
-  "LastUpdate_Ratings": "2024-08-09T00:00:39.27245+00:00",
+  "LastUpdate_Ratings": "2024-08-09T02:58:55.7176649+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:43.388984+00:00"
 }

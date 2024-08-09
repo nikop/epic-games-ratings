@@ -4,7 +4,7 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 98,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 275,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -2986,10 +2986,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 1550,
       "NumberOfAwardsMax": 190
+    },
+    {
+      "Time": "2024-08-09T02:59:15.3278219+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 1551,
+      "NumberOfAwardsMax": 190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1550,
+  "NumberOfAwards": 1551,
   "NumberOfAwardsMax": 190,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3051,7 +3057,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 174
+      "Count": 175
     },
     {
       "Text": "This game has a Creative Community",
@@ -3071,8 +3077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-08-07T19:59:20.7904926+00:00",
+  "LastChanged": "2024-08-09T02:59:15.3278217+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:39.7395474+00:00",
-  "LastUpdate_Ratings": "2024-08-09T00:01:05.3062658+00:00",
+  "LastUpdate_Ratings": "2024-08-09T02:59:15.3278222+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:13:20.2317605+00:00"
 }
