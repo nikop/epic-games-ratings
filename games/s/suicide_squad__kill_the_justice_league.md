@@ -65,8 +65,8 @@ Completed: 2 (0.06%) (Ranked 440)
 | 2024-06-17 | 3,434 | 2 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 353)  
-Sum: 1,471 (Ranked 284)  
-Diff (max vs sum): 69  
+Sum: 1,471 (Ranked 283)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |

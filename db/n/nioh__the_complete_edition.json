@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 574,
   "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 68,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -15869,10 +15869,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 24885,
       "NumberOfAwardsMax": 10193
+    },
+    {
+      "Time": "2024-08-08T23:57:43.2186944+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 24887,
+      "NumberOfAwardsMax": 10193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24885,
+  "NumberOfAwards": 24887,
   "NumberOfAwardsMax": 10193,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15892,7 +15898,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1234
+      "Count": 1236
     },
     {
       "Text": "This game has Diverse Characters",
@@ -15948,8 +15954,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-08-08T21:58:54.0927663+00:00",
+  "LastChanged": "2024-08-08T23:57:43.2186944+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:07.5947327+00:00",
-  "LastUpdate_Ratings": "2024-08-08T21:58:54.092767+00:00",
+  "LastUpdate_Ratings": "2024-08-08T23:57:43.2186949+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:17:31.4084051+00:00"
 }
