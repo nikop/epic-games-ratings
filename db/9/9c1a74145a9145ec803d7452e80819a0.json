@@ -2,7 +2,7 @@
   "ID": "9c1a74145a9145ec803d7452e80819a0",
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 208,
@@ -2413,10 +2413,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1505,
       "NumberOfAwardsMax": 590
+    },
+    {
+      "Time": "2024-08-09T19:58:25.2994401+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1512,
+      "NumberOfAwardsMax": 590
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1505,
+  "NumberOfAwards": 1512,
   "NumberOfAwardsMax": 590,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2442,7 +2448,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2454,7 +2460,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 80
+      "Count": 82
     },
     {
       "Text": "This game has a Creative Community",
@@ -2466,7 +2472,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 76
+      "Count": 80
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3209,9 +3215,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-08-09T18:01:15.8973047+00:00",
+  "LastChanged": "2024-08-09T19:58:25.2994399+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:04.2337891+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:07.3859078+00:00",
-  "LastUpdate_Ratings": "2024-08-09T18:01:15.8973055+00:00",
+  "LastUpdate_Ratings": "2024-08-09T19:58:25.2994406+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:04.2338641+00:00"
 }

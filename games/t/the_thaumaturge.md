@@ -1,7 +1,7 @@
 # The Thaumaturge
 [Store](https://store.epicgames.com/en-US/p/the-thaumaturge-3d7b2c)  
 [View Rawdata](../../db/t/the_thaumaturge.json)  
-Rating: 4.55 (Ranked 573)  
+Rating: 4.56 (Ranked 554)  
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 1,002)  
 Completed: 0 (0.00%) (Ranked 554)  
@@ -34,3 +34,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-07-30 | 4.52 | 0 | 0 |
 | 2024-07-31 | 4.53 | 0 | 0 |
 | 2024-08-06 | 4.55 | 0 | 0 |
+| 2024-08-09 | 4.56 | 0 | 0 |

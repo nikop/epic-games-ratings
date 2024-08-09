@@ -3,8 +3,8 @@
   "Name": "Carcassonne",
   "ProductSlug": "carcassonne",
   "Ranking_Rating": 326,
-  "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 382,
+  "Ranking_Popularity": 431,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1224,11 +1224,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 628,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-08-09T19:59:31.8948836+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 630,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 628,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 630,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1259,7 +1265,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 112
+      "Count": 114
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1309,8 +1315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2024-08-08T09:58:24.1264406+00:00",
+  "LastChanged": "2024-08-09T19:59:31.8948834+00:00",
   "LastUpdate_AppInfo": "2024-08-04T18:57:11.0018694+00:00",
-  "LastUpdate_Ratings": "2024-08-09T18:57:43.6841802+00:00",
+  "LastUpdate_Ratings": "2024-08-09T19:59:31.8948842+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:20.6449062+00:00"
 }

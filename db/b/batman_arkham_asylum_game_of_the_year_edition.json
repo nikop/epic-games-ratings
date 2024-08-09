@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-asylum",
   "Ranking_Rating": 287,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1666,18 +1666,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 964,
       "NumberOfAwardsMax": 876
+    },
+    {
+      "Time": "2024-08-09T19:57:58.4188778+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 968,
+      "NumberOfAwardsMax": 880
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 964,
-  "NumberOfAwardsMax": 876,
+  "NumberOfAwards": 968,
+  "NumberOfAwardsMax": 880,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 876
+      "Count": 880
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1715,8 +1721,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2024-08-09T06:58:19.4464189+00:00",
+  "LastChanged": "2024-08-09T19:57:58.4188777+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:27.2609438+00:00",
-  "LastUpdate_Ratings": "2024-08-09T18:00:48.9937709+00:00",
+  "LastUpdate_Ratings": "2024-08-09T19:57:58.4188783+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:28.0829139+00:00"
 }
