@@ -2,9 +2,9 @@
   "ID": "6c3a09646a954c04b5ab774e5b8c861d",
   "Name": "Bear and Breakfast",
   "ProductSlug": "bear-and-breakfast-77c209",
-  "Ranking_Rating": 146,
-  "Ranking_Popularity": 684,
-  "Ranking_PopularitySum": 684,
+  "Ranking_Rating": 147,
+  "Ranking_Popularity": 685,
+  "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -92,6 +92,6 @@
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
   "LastChanged": "2024-07-30T07:57:00.7685884+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:41.7186869+00:00",
-  "LastUpdate_Ratings": "2024-08-09T13:59:00.6741411+00:00",
+  "LastUpdate_Ratings": "2024-08-09T15:58:40.8728928+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:11:17.7016396+00:00"
 }

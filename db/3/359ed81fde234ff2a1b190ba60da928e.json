@@ -3,8 +3,8 @@
   "Name": "KOMPETE",
   "ProductSlug": "kompete-73c94a",
   "Ranking_Rating": 619,
-  "Ranking_Popularity": 684,
-  "Ranking_PopularitySum": 684,
+  "Ranking_Popularity": 675,
+  "Ranking_PopularitySum": 676,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -323,12 +323,26 @@
       "Rating": 4.53,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-09T15:58:42.3704284+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -341,8 +355,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T23:57:25.2891809+00:00",
   "FirstSeenRating": "2023-12-28T19:58:04.6014069+00:00",
-  "LastChanged": "2024-08-09T08:59:04.5007149+00:00",
+  "LastChanged": "2024-08-09T15:58:42.3704282+00:00",
   "LastUpdate_AppInfo": "2024-08-02T18:57:18.5879598+00:00",
-  "LastUpdate_Ratings": "2024-08-09T13:59:01.6384823+00:00",
+  "LastUpdate_Ratings": "2024-08-09T15:58:42.3704286+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:09:57.9696758+00:00"
 }

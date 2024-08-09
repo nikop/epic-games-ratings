@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-alien-dawn",
   "Ranking_Rating": 506,
   "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 571,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -733,10 +733,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 80,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-08-09T15:57:47.6553485+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 101,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80,
+  "NumberOfAwards": 101,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -757,6 +763,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -771,8 +783,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-25T13:05:45.0799807+00:00",
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
-  "LastChanged": "2024-08-07T18:59:00.3420842+00:00",
+  "LastChanged": "2024-08-09T15:57:47.6553483+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:16.8815226+00:00",
-  "LastUpdate_Ratings": "2024-08-09T13:58:24.7543063+00:00",
+  "LastUpdate_Ratings": "2024-08-09T15:57:47.6553487+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:14:21.7670423+00:00"
 }

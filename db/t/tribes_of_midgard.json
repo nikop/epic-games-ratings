@@ -4,7 +4,7 @@
   "ProductSlug": "tribes-of-midgard",
   "Ranking_Rating": 435,
   "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 559,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -601,6 +601,6 @@
   "FirstSeen": "2022-07-22T20:21:40.7309672+00:00",
   "LastChanged": "2024-07-31T16:59:57.8649667+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:38.4936424+00:00",
-  "LastUpdate_Ratings": "2024-08-09T13:58:38.6137776+00:00",
+  "LastUpdate_Ratings": "2024-08-09T15:58:08.0454121+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:10:11.8744368+00:00"
 }

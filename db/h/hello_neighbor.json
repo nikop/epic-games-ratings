@@ -3,7 +3,7 @@
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
   "Ranking_Rating": 553,
-  "Ranking_Popularity": 245,
+  "Ranking_Popularity": 244,
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
@@ -8914,11 +8914,17 @@
       "Rating": 4.56,
       "NumberOfAwards": 3545,
       "NumberOfAwardsMax": 583
+    },
+    {
+      "Time": "2024-08-09T16:00:29.1847722+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 3549,
+      "NumberOfAwardsMax": 584
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3545,
-  "NumberOfAwardsMax": 583,
+  "NumberOfAwards": 3549,
+  "NumberOfAwardsMax": 584,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8967,7 +8973,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 414
+      "Count": 417
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8979,7 +8985,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 583
+      "Count": 584
     }
   ],
   "EOS_Progressed": 0,
@@ -8993,8 +8999,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2024-08-08T19:59:51.3776416+00:00",
+  "LastChanged": "2024-08-09T16:00:29.1847721+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:01.391516+00:00",
-  "LastUpdate_Ratings": "2024-08-09T14:57:07.3637854+00:00",
+  "LastUpdate_Ratings": "2024-08-09T16:00:29.1847726+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:04:56.5603032+00:00"
 }
