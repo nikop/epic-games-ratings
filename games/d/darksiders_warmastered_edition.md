@@ -1,7 +1,7 @@
 # Darksiders Warmastered Edition
 [Store](https://store.epicgames.com/en-US/p/darksiders)  
 [View Rawdata](../../db/d/darksiders_warmastered_edition.json)  
-Rating: 4.61 (Ranked 434)  
+Rating: 4.61 (Ranked 435)  
 Number of Ratings: 721  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -61,9 +61,9 @@ Completed: 0 (0.00%) (Ranked 528)
 | 2024-05-13 | 4,398 | 0 |
 | 2024-06-17 | 6,757 | 0 |
 ## Awards
-Max (Great Boss Battles): 102  (Ranked 445)  
+Max (Great Boss Battles): 102  (Ranked 444)  
 Sum: 102 (Ranked 552)  
-Diff (max vs sum): -107  
+Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 102 |
