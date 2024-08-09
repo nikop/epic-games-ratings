@@ -441,6 +441,7 @@
 | [INDUSTRIA 2](games/b/b923c7c232814d448af46a02f1e1107b.md) | 2099-01-01 | - |  | - | - |
 | [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
+| [Infinity Nikki](games/a/ad13a7222a9b4e899e14cd021c7c5118.md) | 2099-01-01 | - |  | - | - |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 1 | - | - |
 | [Intravenous](games/1/1a75390ae85d492d875b29a6e7fe1466.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
