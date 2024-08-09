@@ -21961,10 +21961,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 86675,
       "NumberOfAwardsMax": 10598
+    },
+    {
+      "Time": "2024-08-09T14:57:05.9936385+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 86720,
+      "NumberOfAwardsMax": 10598
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86675,
+  "NumberOfAwards": 86720,
   "NumberOfAwardsMax": 10598,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -21978,13 +21984,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 9997
+      "Count": 10011
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 10493
+      "Count": 10524
     },
     {
       "Text": "This game is Extremely Fun",
@@ -57666,9 +57672,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-08-09T07:57:20.795545+00:00",
+  "LastChanged": "2024-08-09T14:57:05.9936383+00:00",
   "LastChanged_Achievements": "2024-06-17T16:15:40.0484374+00:00",
   "LastUpdate_AppInfo": "2024-08-05T03:57:13.7103142+00:00",
-  "LastUpdate_Ratings": "2024-08-09T13:10:08.9090976+00:00",
+  "LastUpdate_Ratings": "2024-08-09T14:57:05.9936389+00:00",
   "LastUpdate_Achievements": "2024-06-17T16:15:40.0498314+00:00"
 }
