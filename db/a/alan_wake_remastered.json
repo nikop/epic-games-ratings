@@ -808,10 +808,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 134,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-08-09T01:59:20.5837574+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 135,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 134,
+  "NumberOfAwards": 135,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -849,7 +855,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Extremely Fun",
@@ -31396,9 +31402,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
-  "LastChanged": "2024-08-03T06:58:26.6539957+00:00",
+  "LastChanged": "2024-08-09T01:59:20.5837572+00:00",
   "LastChanged_Achievements": "2024-07-25T19:06:05.3843359+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:46.1093919+00:00",
-  "LastUpdate_Ratings": "2024-08-08T22:58:25.0243649+00:00",
+  "LastUpdate_Ratings": "2024-08-09T01:59:20.5837578+00:00",
   "LastUpdate_Achievements": "2024-07-25T19:06:05.3845253+00:00"
 }
