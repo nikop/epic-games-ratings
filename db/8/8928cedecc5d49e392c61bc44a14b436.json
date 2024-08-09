@@ -2,7 +2,7 @@
   "ID": "8928cedecc5d49e392c61bc44a14b436",
   "Name": "Return Alive",
   "ProductSlug": "return-alive-0ffdd1",
-  "Ranking_Rating": 1223,
+  "Ranking_Rating": 1225,
   "Ranking_Popularity": 438,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 154,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.84,
   "RatingHistory": [
     {
       "Time": "2024-04-07T15:58:07.8680422+00:00",
@@ -713,10 +713,16 @@
       "Rating": 3.85,
       "NumberOfAwards": 153,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-08-09T16:58:51.3105706+00:00",
+      "Rating": 3.84,
+      "NumberOfAwards": 154,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 153,
+  "NumberOfAwards": 154,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -736,7 +742,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 63417,
@@ -873,9 +879,9 @@
   "FirstSeen": "2024-04-03T02:14:35.9374728+00:00",
   "FirstSeenRating": "2024-04-07T15:58:07.8680419+00:00",
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged": "2024-08-09T11:58:38.8063049+00:00",
+  "LastChanged": "2024-08-09T16:58:51.3105704+00:00",
   "LastChanged_Achievements": "2024-07-30T00:05:26.1378271+00:00",
   "LastUpdate_AppInfo": "2024-08-02T18:57:23.5994644+00:00",
-  "LastUpdate_Ratings": "2024-08-09T14:59:29.966563+00:00",
+  "LastUpdate_Ratings": "2024-08-09T16:58:51.3105709+00:00",
   "LastUpdate_Achievements": "2024-07-30T00:05:26.1378372+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "aether-trading-card-game-420f51",
   "Ranking_Rating": 828,
   "Ranking_Popularity": 604,
-  "Ranking_PopularitySum": 602,
+  "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 1141,
   "Ranking_EOS_Completed": 528,
   "Ranking_EOS_NewPlayers": 28,
@@ -354,10 +354,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-09T16:58:05.9095089+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
+  "NumberOfAwards": 75,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -371,7 +377,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 22
+      "Count": 23
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -386,8 +398,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T23:56:57.847601+00:00",
   "FirstSeenRating": "2023-04-26T23:56:57.849328+00:00",
-  "LastChanged": "2024-08-05T11:59:14.7750396+00:00",
+  "LastChanged": "2024-08-09T16:58:05.9095088+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:36.0861404+00:00",
-  "LastUpdate_Ratings": "2024-08-09T14:58:45.6628727+00:00",
+  "LastUpdate_Ratings": "2024-08-09T16:58:05.9095092+00:00",
   "LastUpdate_Achievements": "2024-07-24T02:05:06.8522227+00:00"
 }
