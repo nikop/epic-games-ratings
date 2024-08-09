@@ -1,30 +1,32 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
 | [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
-| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 64 | 1,560 | 2 |
+| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 72 | 1,735 | 2 |
 | [Alan Wake 2](../games/a/alan_wake_2.md) | 78 | 1,200 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
-| [Atlas Fallen: Reign Of Sand](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 36 | 1,000 | 2 |
+| [Atlas Fallen: Reign Of Sand](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 38 | 1,045 | 2 |
 | [Battlefield 4™ Premium Edition](../games/0/0a541deb1bbb42c987cb48d695431e18.md) | 67 | 1,990 | 2 |
 | [Battlefield™ 1 Revolution](../games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 50 | 2,000 | 2 |
 | [Battlefield™ Hardline Ultimate Edition](../games/d/d0328a2bc8e04364b1fff1253a986174.md) | 62 | 2,000 | 2 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 45 | 1,600 | 2 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
-| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 41 | 1,130 | 2 |
+| [Crime Boss: Rockay City](../games/c/crime_boss__rockay_city.md) | 45 | 1,260 | 2 |
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 | 2 |
 | [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 79 | 1,270 | 2 |
-| [Dead by Daylight](../games/d/dead_by_daylight.md) | 248 | 5,965 | 2 |
+| [Dead by Daylight](../games/d/dead_by_daylight.md) | 251 | 6,045 | 2 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 57 | 1,300 | 2 |
 | [Dead Space™ 3](../games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 58 | 1,250 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
 | [Deus Ex - Mankind Divided](../games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 81 | 1,400 | 2 |
+| [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 40 | 1,000 | 2 |
+| [DOOM Eternal](../games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 50 | 1,545 | 2 |
 | [Dragon Age: Inquisition – Game of the Year Edition](../games/a/afe2527e29b94db48b2eef984e34d81a.md) | 69 | 1,750 | 2 |
 | [Dying Light 2 Stay Human - Reloaded Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 66 | 1,200 | 2 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 373 | 5,500 | 2 |
-| [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 43 | 1,300 | 2 |
+| [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 51 | 1,600 | 2 |
 | [Fallout 4](../games/9/9c1a74145a9145ec803d7452e80819a0.md) | 84 | 1,600 | 2 |
 | [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 | 2 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 50 | 1,090 | 2 |
@@ -45,7 +47,7 @@
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 55 | 1,170 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
 | [HyperRogue](../games/e/e11032a0439743babf7f530e4e747145.md) | 308 | 2,135 | 2 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 580 | 2,900 | 2 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 598 | 2,990 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 | 2 |
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 | 2 |
@@ -67,7 +69,7 @@
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 | 2 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 | 2 |
 | [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |
-| [Railway Empire 2](../games/r/railway_empire_2.md) | 61 | 1,145 | 2 |
+| [Railway Empire 2](../games/r/railway_empire_2.md) | 66 | 1,260 | 2 |
 | [Remnant II®](../games/r/remnant_2.md) | 60 | 1,500 | 2 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 | 2 |
 | [Roboquest](../games/c/c981760ff69f4586aedb60a6db191705.md) | 81 | 1,070 | 2 |
@@ -97,6 +99,7 @@
 | [Town of Salem 2](../games/a/ab9f1f7354a8418388b43132d420524a.md) | 440 | 3,000 | 2 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 100 | 1,420 | 2 |
 | [Undead Inc.](../games/f/fe3316099db5422ebeb202e518942fa1.md) | 0 | 0 | 2 |
-| [Warhammer 40,000: Boltgun](../games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 12 | 1,000 | 2 |
+| [Warhammer 40,000: Boltgun](../games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 21 | 1,815 | 2 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](../games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 68 | 1,300 | 2 |
-| [Wildermyth](../games/w/wildermyth.md) | 56 | 1,000 | 2 |
+| [Warhammer 40,000: Rogue Trader](../games/c/cb88aea9aed742e4a911a65c4898d857.md) | 65 | 1,000 | 2 |
+| [Wildermyth](../games/w/wildermyth.md) | 94 | 1,500 | 2 |
