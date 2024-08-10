@@ -1,10 +1,10 @@
 # The Outer Worlds: Spacer's Choice Edition
 [Store](https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition)  
 [View Rawdata](../../db/t/the_outer_worlds__spacer's_choice_edition.json)  
-Rating: 4.49 (Ranked 691)  
+Rating: 4.49 (Ranked 692)  
 ## Awards
 Max (Character Customization): 17,063  (Ranked 31)  
-Sum: 24,991 (Ranked 67)  
+Sum: 24,996 (Ranked 67)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -13,8 +13,8 @@ Diff (max vs sum): -36
 | This game is Extremely Fun | 954 |
 | This game has Amazing Storytelling | 942 |
 | This game has Diverse Characters | 931 |
-| This game is Great for Beginners | 928 |
-| This game has Amazing Characters | 910 |
+| This game is Great for Beginners | 930 |
+| This game has Amazing Characters | 913 |
 | This game has Quickly Understood Controls | 909 |
 | This game is Relaxing | 888 |
 | This game has Easy Combat | 591 |
@@ -358,4 +358,4 @@ Diff (max vs sum): -36
 | 2024-08-07 | 4.49 | 16,977 | 24,848 |
 | 2024-08-08 | 4.49 | 17,009 | 24,894 |
 | 2024-08-09 | 4.49 | 17,038 | 24,944 |
-| 2024-08-10 | 4.49 | 17,063 | 24,991 |
+| 2024-08-10 | 4.49 | 17,063 | 24,996 |
