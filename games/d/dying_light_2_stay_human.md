@@ -361,13 +361,13 @@ Completed: 92 (0.01%) (Ranked 524)
 | 2024-06-17 | 1,134,738 | 86 |
 | 2024-08-09 | 1,203,149 | 92 |
 ## Awards
-Max (Character Customization): 18,032  (Ranked 28)  
-Sum: 55,192 (Ranked 33)  
+Max (Character Customization): 18,047  (Ranked 28)  
+Sum: 55,217 (Ranked 33)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,032 |
-| This game has Great Boss Battles | 12,278 |
+| This game has Inclusive Character Customization | 18,047 |
+| This game has Great Boss Battles | 12,288 |
 | This game is Great for Beginners | 3,471 |
 | This game has Diverse Characters | 3,129 |
 | This game is Highly Recommended | 2,946 |
@@ -957,4 +957,4 @@ Diff (max vs sum): -5
 | 2024-08-07 | 4.59 | - | 18,002 | 55,032 |
 | 2024-08-08 | 4.59 | - | 18,015 | 55,095 |
 | 2024-08-09 | 4.59 | - | 18,032 | 55,188 |
-| 2024-08-10 | 4.59 | - | 18,032 | 55,192 |
+| 2024-08-10 | 4.59 | - | 18,047 | 55,217 |
