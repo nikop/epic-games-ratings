@@ -1,7 +1,7 @@
 # Diplomacy is Not an Option
 [Store](https://store.epicgames.com/en-US/p/diplomacy-is-not-an-option-9c6bea)  
 [View Rawdata](../../db/d/diplomacy_is_not_an_option.json)  
-Rating: 4.48 (Ranked 711)  
+Rating: 4.47 (Ranked 729)  
 Number of Ratings: 51  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -64,3 +64,4 @@ Number of Ratings: 51  (23.09.2022)
 | 2024-05-30 | 4.46 | - | 0 | 0 |
 | 2024-07-03 | 4.47 | - | 0 | 0 |
 | 2024-08-02 | 4.48 | - | 0 | 0 |
+| 2024-08-10 | 4.47 | - | 0 | 0 |
