@@ -613,6 +613,7 @@
 | [Super Farming Boy](games/3/3fabb6db9e5a4a17b86601d9accd8556.md) | 2099-01-01 | - |  | - | - |
 | [Supergalactix](games/s/supergalactix.md) | 2099-01-01 | - |  | - | - |
 | [Surfing Legends](games/2/2f041426f4ce4d65a6c1b100b4b3bf4a.md) | 2099-01-01 | - |  | - | - |
+| [Surrealverse](games/4/41ac4135cc994a0bb5a7349701c292df.md) | 2099-01-01 | - |  | - | - |
 | [Survival Bunker](games/2/2169f3808bad448fbc29f18ada527f28.md) | 2099-01-01 | - |  | - | - |
 | [Survive The Unknown](games/s/survive_the_unknown.md) | 2099-01-01 | - |  | - | - |
 | [Surviving The Humans ACT 1](games/s/surviving_the_humans_act_1.md) | 2099-01-01 | - |  | - | - |

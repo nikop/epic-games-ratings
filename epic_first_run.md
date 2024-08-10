@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Surrealverse](games/4/41ac4135cc994a0bb5a7349701c292df.md) | 2099-01-01 | - |  | - | - |
 | [Son and Bone](games/f/f0bf0742b7fd44398d2c920e613b9e05.md) | 2099-01-01 | - |  | - | - |
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 0 | - | - |
 | [Airport](games/6/685f5a4e22814cf88dd98cdda721649e.md) | 2024-08-09 | 45 (1,000 XP) | 3 | - | - |
@@ -50,7 +51,7 @@
 | [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | 2024-12-31 | - |  | - | - |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
 | [Crime 1997](games/2/2ced7203e2f548c5b31cec8739d2a5ca.md) | 2024-12-31 | - |  | - | - |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 64,354 | 3.85 | 108 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 64,354 | 3.85 | 109 |
 | [Realife Simulator](games/b/b45f4ea9d6ca4644a06b5f52ee87930e.md) | 2099-01-01 | - |  | - | - |
 | [BERLIN](games/a/ac33e7dbfeb94e6197a6ae25f2fd6c93.md) | 2099-01-01 | - |  | - | - |
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |

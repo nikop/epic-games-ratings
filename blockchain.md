@@ -34,6 +34,7 @@
 | [Providence](games/4/46ddbd5e69374a07839e584a4bc8e8b2.md) | 2099-01-01 | - |  | - | - |
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [Starvin Martian](games/1/1255e14898d542979c0257aa9763649c.md) | 2099-01-01 | - |  | - | - |
+| [Surrealverse](games/4/41ac4135cc994a0bb5a7349701c292df.md) | 2099-01-01 | - |  | - | - |
 | [Vallarok](games/5/549bb75c2f774df0877383595af20d04.md) | 2099-01-01 | - |  | - | - |
 | [Vivaion](games/5/53ac8f9e5d4d4f3db35bf66cc74b03e6.md) | 2099-01-01 | - |  | - | - |
 | [War Thugz - Satoshi City](games/3/3015d993989f40269abf39559053efcd.md) | 2099-01-01 | - |  | - | - |
