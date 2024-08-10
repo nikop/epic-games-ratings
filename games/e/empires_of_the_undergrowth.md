@@ -149,12 +149,12 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-26 | 985 | 0 |
 | 2024-08-09 | 1,100 | 0 |
 ## Awards
-Max (Great for Beginners): 82  (Ranked 473)  
-Sum: 656 (Ranked 376)  
-Diff (max vs sum): 97  
+Max (Great for Beginners): 84  (Ranked 470)  
+Sum: 658 (Ranked 376)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 82 |
+| This game is Great for Beginners | 84 |
 | This game has Competitive Players | 65 |
 | This game is Highly Recommended | 62 |
 | This game is Extremely Fun | 61 |
@@ -404,3 +404,4 @@ Diff (max vs sum): 97
 | 2024-08-07 | 4.75 | - | 82 | 653 |
 | 2024-08-08 | 4.74 | - | 82 | 655 |
 | 2024-08-09 | 4.74 | - | 82 | 656 |
+| 2024-08-10 | 4.74 | - | 84 | 658 |
