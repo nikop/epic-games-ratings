@@ -4,7 +4,7 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 74,
   "Ranking_Popularity": 278,
-  "Ranking_PopularitySum": 206,
+  "Ranking_PopularitySum": 205,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -5667,10 +5667,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3292,
       "NumberOfAwardsMax": 398
+    },
+    {
+      "Time": "2024-08-10T17:58:55.6332801+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3293,
+      "NumberOfAwardsMax": 398
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3292,
+  "NumberOfAwards": 3293,
   "NumberOfAwardsMax": 398,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5738,7 +5744,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game has a Creative Community",
@@ -5758,8 +5764,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2024-08-10T16:01:02.9503028+00:00",
+  "LastChanged": "2024-08-10T17:58:55.6332798+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:56.1328398+00:00",
-  "LastUpdate_Ratings": "2024-08-10T16:01:02.9503033+00:00",
+  "LastUpdate_Ratings": "2024-08-10T17:58:55.6332804+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:00.1475367+00:00"
 }
