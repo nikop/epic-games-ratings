@@ -2,7 +2,7 @@
   "ID": "2825f101eb8b48fc8676beed92553e35",
   "Name": "Striker Manager 3",
   "ProductSlug": "striker-manager-3-83d916",
-  "Ranking_Rating": 1137,
+  "Ranking_Rating": 1120,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.13,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2024-03-19T18:57:23.7517039+00:00",
@@ -89,6 +89,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-10T02:58:10.7219279+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-01T07:56:56.5703604+00:00",
   "FirstSeenRating": "2024-03-19T18:57:23.7517034+00:00",
-  "LastChanged": "2024-08-07T04:59:21.7288124+00:00",
+  "LastChanged": "2024-08-10T02:58:10.7219277+00:00",
   "LastUpdate_AppInfo": "2024-08-08T02:57:07.0597029+00:00",
-  "LastUpdate_Ratings": "2024-08-09T23:59:14.5512762+00:00",
+  "LastUpdate_Ratings": "2024-08-10T02:58:10.7219283+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:59.4603233+00:00"
 }
