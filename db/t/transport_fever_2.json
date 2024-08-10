@@ -4,7 +4,7 @@
   "ProductSlug": "transport-fever-2",
   "Ranking_Rating": 287,
   "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 487,
   "Ranking_EOS_NewPlayers": 97,
@@ -1213,10 +1213,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 401,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-08-10T15:00:18.0961138+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 402,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 401,
+  "NumberOfAwards": 402,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1272,7 +1278,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8110,9 +8116,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2024-08-09T22:59:05.6739587+00:00",
+  "LastChanged": "2024-08-10T15:00:18.0961136+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:28.8012946+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:52.4623786+00:00",
-  "LastUpdate_Ratings": "2024-08-10T13:57:31.6025311+00:00",
+  "LastUpdate_Ratings": "2024-08-10T15:00:18.096114+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:28.8013579+00:00"
 }

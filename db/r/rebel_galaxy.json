@@ -2,7 +2,7 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
-  "Ranking_Rating": 803,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 558,
   "Ranking_PopularitySum": 479,
   "Ranking_EOS_Progress": 1184,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 774,
   "RatingHistory": [
     {
@@ -1158,6 +1158,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 246,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-08-10T14:57:37.7085882+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 246,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
@@ -1225,8 +1231,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2024-08-04T17:58:10.5507504+00:00",
+  "LastChanged": "2024-08-10T14:57:37.7085881+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:56.4997273+00:00",
-  "LastUpdate_Ratings": "2024-08-10T13:03:58.452726+00:00",
+  "LastUpdate_Ratings": "2024-08-10T14:57:37.7085885+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:32.6774409+00:00"
 }
