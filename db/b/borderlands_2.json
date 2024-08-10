@@ -2,7 +2,7 @@
   "ID": "f4a7772a4da24870a3ea6dfb8aeac662",
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 1184,
@@ -18819,10 +18819,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 46631,
       "NumberOfAwardsMax": 18625
+    },
+    {
+      "Time": "2024-08-10T01:59:45.6964028+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 46635,
+      "NumberOfAwardsMax": 18625
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46631,
+  "NumberOfAwards": 46635,
   "NumberOfAwardsMax": 18625,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -18896,7 +18902,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 3030
+      "Count": 3034
     }
   ],
   "EOS_Progressed": 0,
@@ -18910,8 +18916,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-08-09T23:00:09.5555028+00:00",
+  "LastChanged": "2024-08-10T01:59:45.6964027+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:13.9219458+00:00",
-  "LastUpdate_Ratings": "2024-08-09T23:00:09.5555033+00:00",
+  "LastUpdate_Ratings": "2024-08-10T01:59:45.6964033+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:26.3912684+00:00"
 }

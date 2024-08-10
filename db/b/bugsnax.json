@@ -4,7 +4,7 @@
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 122,
   "Ranking_EOS_NewPlayers": 97,
@@ -1350,10 +1350,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 458,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-08-10T02:00:21.9688792+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 458,
+  "NumberOfAwards": 459,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1421,7 +1427,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Easy Combat",
@@ -10321,9 +10327,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2024-08-09T19:59:14.0910881+00:00",
+  "LastChanged": "2024-08-10T02:00:21.968879+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:46.4107307+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:25.1438622+00:00",
-  "LastUpdate_Ratings": "2024-08-09T23:57:26.3579869+00:00",
+  "LastUpdate_Ratings": "2024-08-10T02:00:21.9688796+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:46.4107924+00:00"
 }

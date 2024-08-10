@@ -1,7 +1,7 @@
 # Tharsis
 [Store](https://store.epicgames.com/en-US/p/tharsis)  
 [View Rawdata](../../db/t/tharsis.json)  
-Rating: 4.09 (Ranked 1,156)  
+Rating: 4.10 (Ranked 1,149)  
 Number of Ratings: 55  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -69,3 +69,4 @@ Number of Ratings: 55  (23.09.2022)
 | 2024-01-23 | 4.09 | - | 0 | 0 |
 | 2024-03-17 | 4.08 | - | 0 | 0 |
 | 2024-07-13 | 4.09 | - | 0 | 0 |
+| 2024-08-10 | 4.10 | - | 0 | 0 |
