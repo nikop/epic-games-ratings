@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.54 (Ranked 597)  
+Rating: 4.54 (Ranked 598)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -231,9 +231,9 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 83,765 | 0 |
 | 2024-08-09 | 147,520 | 0 |
 ## Awards
-Max (Beautiful Visuals): 21  (Ranked 665)  
+Max (Beautiful Visuals): 21  (Ranked 666)  
 Sum: 41 (Ranked 615)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game has Beautiful Visuals | 21 |
