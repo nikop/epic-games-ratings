@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-remastered",
   "Ranking_Rating": 372,
   "Ranking_Popularity": 85,
-  "Ranking_PopularitySum": 146,
+  "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3588,10 +3588,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 7564,
       "NumberOfAwardsMax": 6186
+    },
+    {
+      "Time": "2024-08-10T16:57:47.9128649+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7565,
+      "NumberOfAwardsMax": 6186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7564,
+  "NumberOfAwards": 7565,
   "NumberOfAwardsMax": 6186,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3617,7 +3623,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 126
+      "Count": 127
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3679,8 +3685,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2024-08-08T06:58:48.530893+00:00",
+  "LastChanged": "2024-08-10T16:57:47.9128647+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:01.4476591+00:00",
-  "LastUpdate_Ratings": "2024-08-10T14:58:21.3661013+00:00",
+  "LastUpdate_Ratings": "2024-08-10T16:57:47.9128652+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.1488013+00:00"
 }
