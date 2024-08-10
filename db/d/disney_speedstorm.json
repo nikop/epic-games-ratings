@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 860,
   "Ranking_Popularity": 252,
-  "Ranking_PopularitySum": 205,
+  "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 97,
@@ -7813,10 +7813,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 3293,
       "NumberOfAwardsMax": 536
+    },
+    {
+      "Time": "2024-08-10T18:57:21.3777187+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 3302,
+      "NumberOfAwardsMax": 536
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3293,
+  "NumberOfAwards": 3302,
   "NumberOfAwardsMax": 536,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7836,7 +7842,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 499
+      "Count": 502
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7854,7 +7860,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 239
+      "Count": 242
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7878,7 +7884,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 201
+      "Count": 204
     },
     {
       "Text": "This game has Playful Visuals",
@@ -27757,9 +27763,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-08-10T13:06:04.3528299+00:00",
+  "LastChanged": "2024-08-10T18:57:21.3777185+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:53.6327436+00:00",
   "LastUpdate_AppInfo": "2024-08-04T18:57:13.9247951+00:00",
-  "LastUpdate_Ratings": "2024-08-10T16:58:52.8452177+00:00",
+  "LastUpdate_Ratings": "2024-08-10T18:57:21.377719+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:53.6328525+00:00"
 }
