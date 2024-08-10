@@ -2,9 +2,9 @@
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
   "ProductSlug": "fist-forged-in-shadow-torch",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 572,
   "RatingHistory": [
     {
@@ -2589,24 +2589,30 @@
       "Rating": 4.55,
       "NumberOfAwards": 1813,
       "NumberOfAwardsMax": 1490
+    },
+    {
+      "Time": "2024-08-10T13:59:01.2599413+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1837,
+      "NumberOfAwardsMax": 1513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1813,
-  "NumberOfAwardsMax": 1490,
+  "NumberOfAwards": 1837,
+  "NumberOfAwardsMax": 1513,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1490
+      "Count": 1513
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2668,8 +2674,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2024-08-10T08:59:44.9133328+00:00",
+  "LastChanged": "2024-08-10T13:59:01.2599412+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:56:58.5403775+00:00",
-  "LastUpdate_Ratings": "2024-08-10T11:59:54.0571384+00:00",
+  "LastUpdate_Ratings": "2024-08-10T13:59:01.2599417+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:27.5444089+00:00"
 }
