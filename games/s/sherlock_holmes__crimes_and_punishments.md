@@ -1,7 +1,7 @@
 # Sherlock Holmes: Crimes and Punishments
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-crimes-and-punishments)  
 [View Rawdata](../../db/s/sherlock_holmes__crimes_and_punishments.json)  
-Rating: 4.42 (Ranked 828)  
+Rating: 4.43 (Ranked 803)  
 Number of Ratings: 491  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -94,3 +94,4 @@ Number of Ratings: 491  (23.09.2022)
 | 2024-07-23 | 4.42 | - | 0 | 0 |
 | 2024-08-04 | 4.43 | - | 0 | 0 |
 | 2024-08-05 | 4.42 | - | 0 | 0 |
+| 2024-08-09 | 4.43 | - | 0 | 0 |

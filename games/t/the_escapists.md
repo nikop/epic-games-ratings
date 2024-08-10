@@ -1,7 +1,7 @@
 # The Escapists
 [Store](https://store.epicgames.com/en-US/p/the-escapists)  
 [View Rawdata](../../db/t/the_escapists.json)  
-Rating: 4.45 (Ranked 761)  
+Rating: 4.46 (Ranked 742)  
 Number of Ratings: 596  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -101,3 +101,4 @@ Number of Ratings: 596  (23.09.2022)
 | 2024-07-19 | 4.45 | - | 0 | 0 |
 | 2024-07-31 | 4.46 | - | 0 | 0 |
 | 2024-08-06 | 4.45 | - | 0 | 0 |
+| 2024-08-09 | 4.46 | - | 0 | 0 |

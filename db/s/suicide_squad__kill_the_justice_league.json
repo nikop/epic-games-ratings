@@ -2,9 +2,9 @@
   "ID": "76cd63399a874c2b854fd74cda49a256",
   "Name": "Suicide Squad: Kill the Justice League",
   "ProductSlug": "suicide-squad-kill-the-justice-league",
-  "Ranking_Rating": 1229,
+  "Ranking_Rating": 1232,
   "Ranking_Popularity": 352,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 524,
   "Ranking_EOS_NewPlayers": 97,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.83,
+  "Rating": 3.82,
   "RatingHistory": [
     {
       "Time": "2024-03-28T20:59:22.341135+00:00",
@@ -2029,10 +2029,16 @@
       "Rating": 3.83,
       "NumberOfAwards": 1491,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2024-08-09T23:57:17.6706216+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 1338,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1491,
+  "NumberOfAwards": 1338,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2058,7 +2064,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 187
+      "Count": 192
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2070,7 +2076,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 179
+      "Count": 184
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2529,9 +2535,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-08-09T02:01:03.7138375+00:00",
+  "LastChanged": "2024-08-09T23:57:17.6706214+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:30.3301367+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:22.5821755+00:00",
-  "LastUpdate_Ratings": "2024-08-09T21:58:44.9685955+00:00",
+  "LastUpdate_Ratings": "2024-08-09T23:57:17.6706219+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:30.3301636+00:00"
 }

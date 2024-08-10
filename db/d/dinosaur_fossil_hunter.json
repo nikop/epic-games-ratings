@@ -2,7 +2,7 @@
   "ID": "60e3b72c80a24bc2acefa354e4b71d9f",
   "Name": "Dinosaur Fossil Hunter",
   "ProductSlug": "dinosaur-fossil-hunter",
-  "Ranking_Rating": 1048,
+  "Ranking_Rating": 1020,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.24,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2022-11-23T10:58:52.2589904+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-05-18T01:42:47.2753047+00:00",
       "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-09T23:57:24.9923276+00:00",
+      "Rating": 4.27,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -61,9 +67,9 @@
   "FirstSeen": "2022-07-22T20:29:45.1723147+00:00",
   "FirstSeenRating": "2022-11-23T10:58:52.2589903+00:00",
   "FirstSeenAchievements": "2024-03-21T17:12:32.342601+00:00",
-  "LastChanged": "2024-05-18T01:42:47.2753045+00:00",
+  "LastChanged": "2024-08-09T23:57:24.9923275+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:53.5516644+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:25.0214847+00:00",
-  "LastUpdate_Ratings": "2024-08-09T21:58:52.6686383+00:00",
+  "LastUpdate_Ratings": "2024-08-09T23:57:24.9923278+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:53.551666+00:00"
 }

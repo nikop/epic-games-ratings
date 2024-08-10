@@ -3,7 +3,7 @@
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 262,
+  "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -7340,11 +7340,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 3758,
       "NumberOfAwardsMax": 474
+    },
+    {
+      "Time": "2024-08-09T23:58:56.3123545+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3769,
+      "NumberOfAwardsMax": 479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3758,
-  "NumberOfAwardsMax": 474,
+  "NumberOfAwards": 3769,
+  "NumberOfAwardsMax": 479,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7357,7 +7363,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 405
+      "Count": 407
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7387,7 +7393,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 340
+      "Count": 342
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7411,13 +7417,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 474
+      "Count": 479
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 416
+      "Count": 418
     }
   ],
   "EOS_Progressed": 0,
@@ -7431,8 +7437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-08-09T16:00:50.9029648+00:00",
+  "LastChanged": "2024-08-09T23:58:56.3123543+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:05.9548696+00:00",
-  "LastUpdate_Ratings": "2024-08-09T22:00:25.1974633+00:00",
+  "LastUpdate_Ratings": "2024-08-09T23:58:56.3123549+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:12.375664+00:00"
 }

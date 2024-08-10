@@ -1,12 +1,12 @@
 # Mortal Shell
 [Store](https://store.epicgames.com/en-US/p/mortal-shell)  
 [View Rawdata](../../db/m/mortal_shell.json)  
-Rating: 4.25 (Ranked 1,039)  
+Rating: 4.25 (Ranked 1,040)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 28  (Ranked 622)  
+Max (Diverse Characters): 28  (Ranked 623)  
 Sum: 205 (Ranked 494)  
-Diff (max vs sum): 128  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 88 |
