@@ -338,8 +338,8 @@ Completed: 143 (0.67%) (Ranked 298)
 | 2024-08-09 | 21,454 | 143 |
 ## Awards
 Max (Easy Puzzles): 167  (Ranked 379)  
-Sum: 214 (Ranked 490)  
-Diff (max vs sum): -111  
+Sum: 214 (Ranked 491)  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 167 |
