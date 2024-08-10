@@ -1,7 +1,7 @@
 # RAWMEN: Food Fighter Arena 🍜
 [Store](https://store.epicgames.com/en-US/p/rawmen-03f74e)  
 [View Rawdata](../../db/r/rawmen__food_fighter_arena_🍜.json)  
-Rating: 4.41 (Ranked 848)  
+Rating: 4.40 (Ranked 860)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -80,3 +80,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-08-07 | 4.46 | 0 | 0 |
 | 2024-08-08 | 4.43 | 0 | 0 |
 | 2024-08-09 | 4.42 | 0 | 0 |
+| 2024-08-10 | 4.40 | 0 | 0 |

@@ -353,7 +353,7 @@ Completed: 6 (0.00%) (Ranked 554)
 | 2024-08-09 | 265,063 | 6 |
 ## Awards
 Max (Great for Quick Sessions): 80  (Ranked 480)  
-Sum: 515 (Ranked 394)  
+Sum: 516 (Ranked 394)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): 86
 | This game has Quickly Understood Controls | 43 |
 | This game has Competitive Players | 42 |
 | This game has a Competitive Community | 41 |
-| This game is Extremely Fun | 37 |
+| This game is Extremely Fun | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -662,3 +662,4 @@ Diff (max vs sum): 86
 | 2024-08-06 | 4.40 | 80 | 513 |
 | 2024-08-08 | 4.39 | 80 | 514 |
 | 2024-08-09 | 4.39 | 80 | 515 |
+| 2024-08-10 | 4.39 | 80 | 516 |
