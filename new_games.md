@@ -107,5 +107,5 @@
 | [Kingsgrave](games/b/b4bab670a8e64cf08f56e56d6fd3af7e.md) | 2024-07-13 | 33 (1,000 XP) | 12 | - | 0 |
 | [Retro Racers](games/5/512b8b46fc5d4a31816c0fba4ff80a3a.md) | 2024-07-13 | - |  | - | - |
 | [Hidden Shapes Old West](games/9/93ebef1040cb410fbe2b72237a6e26e0.md) | 2024-07-12 | 42 (1,000 XP) | 25 | - | - |
-| [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.59 | 55 |
+| [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.59 | 58 |
 | [Bulletrooms](games/3/363d0b06fb134d5b8c2794f488a694b8.md) | 2024-07-12 | - |  | - | 0 |
