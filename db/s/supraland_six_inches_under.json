@@ -3,8 +3,8 @@
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
   "Ranking_Rating": 179,
-  "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 421,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 46,
@@ -512,18 +512,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 118,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-08-10T19:57:29.6495028+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 118,
-  "NumberOfAwardsMax": 118,
+  "NumberOfAwards": 119,
+  "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 118
+      "Count": 119
     }
   ],
   "EOS_Progressed": 2903,
@@ -3671,9 +3677,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
-  "LastChanged": "2024-08-08T13:11:57.5811382+00:00",
+  "LastChanged": "2024-08-10T19:57:29.6495025+00:00",
   "LastChanged_Achievements": "2024-08-09T18:08:20.0825676+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:48.3930243+00:00",
-  "LastUpdate_Ratings": "2024-08-10T17:58:11.0595988+00:00",
+  "LastUpdate_Ratings": "2024-08-10T19:57:29.6495031+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:08:20.0826088+00:00"
 }
