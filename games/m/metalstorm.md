@@ -1,7 +1,7 @@
 # Metalstorm
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
-Rating: 4.44 (Ranked 782)  
+Rating: 4.45 (Ranked 762)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,12 +36,12 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 57,608 | 0 |
 | 2024-08-09 | 73,395 | 0 |
 ## Awards
-Max (Great for Beginners): 219  (Ranked 342)  
-Sum: 1,132 (Ranked 304)  
-Diff (max vs sum): 38  
+Max (Great for Beginners): 222  (Ranked 341)  
+Sum: 1,135 (Ranked 304)  
+Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 219 |
+| This game is Great for Beginners | 222 |
 | This game is Great for Quick Sessions | 208 |
 | This game has a Competitive Community | 134 |
 | This game is Highly Recommended | 110 |
@@ -276,4 +276,4 @@ Diff (max vs sum): 38
 | 2024-08-07 | 4.45 | 215 | 1,094 |
 | 2024-08-08 | 4.45 | 219 | 1,107 |
 | 2024-08-09 | 4.44 | 219 | 1,125 |
-| 2024-08-10 | 4.44 | 219 | 1,132 |
+| 2024-08-10 | 4.45 | 222 | 1,135 |
