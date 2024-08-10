@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 390,
   "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 294,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3297,10 +3297,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1312,
       "NumberOfAwardsMax": 872
+    },
+    {
+      "Time": "2024-08-10T15:57:55.3683497+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1271,
+      "NumberOfAwardsMax": 872
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1312,
+  "NumberOfAwards": 1271,
   "NumberOfAwardsMax": 872,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3389,8 +3395,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-08-10T03:57:44.1969011+00:00",
+  "LastChanged": "2024-08-10T15:57:55.3683496+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:01.7474149+00:00",
-  "LastUpdate_Ratings": "2024-08-10T13:58:03.3656396+00:00",
+  "LastUpdate_Ratings": "2024-08-10T15:57:55.3683499+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:39.8240762+00:00"
 }

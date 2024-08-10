@@ -2,7 +2,7 @@
   "ID": "8de58df378c34407b6db0388e0470a45",
   "Name": "Amnesia: A Machine for Pigs",
   "ProductSlug": "amnesia-a-machine-for-pigs",
-  "Ranking_Rating": 1173,
+  "Ranking_Rating": 1169,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.05,
+  "Rating": 4.06,
   "NumberOfRatings": 197,
   "RatingHistory": [
     {
@@ -470,6 +470,12 @@
       "Rating": 4.05,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-10T16:00:25.4209835+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -487,8 +493,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:01.9575759+00:00",
-  "LastChanged": "2024-07-30T15:58:32.6458596+00:00",
+  "LastChanged": "2024-08-10T16:00:25.4209834+00:00",
   "LastUpdate_AppInfo": "2024-08-05T02:57:07.5181846+00:00",
-  "LastUpdate_Ratings": "2024-08-10T13:59:49.2478913+00:00",
+  "LastUpdate_Ratings": "2024-08-10T16:00:25.4209839+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:19.8980156+00:00"
 }
