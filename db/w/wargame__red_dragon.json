@@ -2,7 +2,7 @@
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
   "ProductSlug": "wargame-red-dragon",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 168,
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 1184,
@@ -9873,10 +9873,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 9302,
       "NumberOfAwardsMax": 1265
+    },
+    {
+      "Time": "2024-08-11T02:04:47.2302643+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 9307,
+      "NumberOfAwardsMax": 1265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9302,
+  "NumberOfAwards": 9307,
   "NumberOfAwardsMax": 1265,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9926,7 +9932,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 934
+      "Count": 939
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9964,8 +9970,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2024-08-10T13:03:24.4991827+00:00",
+  "LastChanged": "2024-08-11T02:04:47.2302641+00:00",
   "LastUpdate_AppInfo": "2024-08-05T03:57:08.3446341+00:00",
-  "LastUpdate_Ratings": "2024-08-10T22:59:07.9543217+00:00",
+  "LastUpdate_Ratings": "2024-08-11T02:04:47.2302646+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:31.4352726+00:00"
 }

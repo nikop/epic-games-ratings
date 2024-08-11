@@ -2,7 +2,7 @@
   "ID": "a9dad8af015a422eb89a5f88e6def923",
   "Name": "The Pathless",
   "ProductSlug": "the-pathless",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 57,
   "RatingHistory": [
     {
@@ -215,6 +215,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-11T02:07:58.6992476+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -232,8 +238,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:35.2337703+00:00",
-  "LastChanged": "2024-08-09T02:59:03.7524567+00:00",
+  "LastChanged": "2024-08-11T02:07:58.6992475+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:11.9446812+00:00",
-  "LastUpdate_Ratings": "2024-08-10T23:58:00.6758505+00:00",
+  "LastUpdate_Ratings": "2024-08-11T02:07:58.6992481+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:33.5245546+00:00"
 }
