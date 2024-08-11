@@ -2,7 +2,7 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 15,
@@ -7152,10 +7152,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 50081,
       "NumberOfAwardsMax": 5503
+    },
+    {
+      "Time": "2024-08-11T22:58:47.4521256+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 50085,
+      "NumberOfAwardsMax": 5503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50081,
+  "NumberOfAwards": 50085,
   "NumberOfAwardsMax": 5503,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7229,7 +7235,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4801
+      "Count": 4805
     },
     {
       "Text": "This game has a Competitive Community",
@@ -14663,9 +14669,9 @@
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2024-08-11T20:59:39.2174143+00:00",
+  "LastChanged": "2024-08-11T22:58:47.4521254+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:15.561259+00:00",
   "LastUpdate_AppInfo": "2024-08-05T08:57:03.8179932+00:00",
-  "LastUpdate_Ratings": "2024-08-11T20:59:39.2174148+00:00",
+  "LastUpdate_Ratings": "2024-08-11T22:58:47.4521268+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:15.5613189+00:00"
 }

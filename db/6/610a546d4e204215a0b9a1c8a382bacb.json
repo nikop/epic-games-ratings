@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 109,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -9493,10 +9493,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 6967,
       "NumberOfAwardsMax": 904
+    },
+    {
+      "Time": "2024-08-11T22:58:03.8041071+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 6981,
+      "NumberOfAwardsMax": 904
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6967,
+  "NumberOfAwards": 6981,
   "NumberOfAwardsMax": 904,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9516,7 +9522,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 626
+      "Count": 630
     },
     {
       "Text": "This game is Educational",
@@ -9534,7 +9540,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 595
+      "Count": 600
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9564,7 +9570,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 511
+      "Count": 516
     }
   ],
   "EOS_Progressed": 99985,
@@ -20155,9 +20161,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-08-11T17:57:10.6667104+00:00",
+  "LastChanged": "2024-08-11T22:58:03.804107+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:54.6134594+00:00",
   "LastUpdate_AppInfo": "2024-08-07T16:57:38.1264284+00:00",
-  "LastUpdate_Ratings": "2024-08-11T20:58:54.6053998+00:00",
+  "LastUpdate_Ratings": "2024-08-11T22:58:03.8041075+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:54.6136752+00:00"
 }
