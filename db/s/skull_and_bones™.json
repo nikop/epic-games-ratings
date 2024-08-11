@@ -4153,10 +4153,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 7040,
       "NumberOfAwardsMax": 3129
+    },
+    {
+      "Time": "2024-08-11T09:58:43.9478846+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 7042,
+      "NumberOfAwardsMax": 3129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7040,
+  "NumberOfAwards": 7042,
   "NumberOfAwardsMax": 3129,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4170,7 +4176,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 752
+      "Count": 754
     },
     {
       "Text": "This game is Relaxing",
@@ -4221,8 +4227,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-16T05:01:19.7778357+00:00",
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
-  "LastChanged": "2024-08-11T07:59:17.6599229+00:00",
+  "LastChanged": "2024-08-11T09:58:43.9478844+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:22.0434417+00:00",
-  "LastUpdate_Ratings": "2024-08-11T07:59:17.6599232+00:00",
+  "LastUpdate_Ratings": "2024-08-11T09:58:43.9478848+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:26.012336+00:00"
 }
