@@ -1,11 +1,11 @@
 # Torchlight II
 [Store](https://store.epicgames.com/en-US/p/torchlight-2)  
 [View Rawdata](../../db/t/torchlight_ii.json)  
-Rating: 4.59 (Ranked 488)  
+Rating: 4.60 (Ranked 466)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,182  (Ranked 174)  
-Sum: 2,410 (Ranked 233)  
+Sum: 2,411 (Ranked 233)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -59
 | This game is Great for Beginners | 93 |
 | This game has Quickly Understood Controls | 82 |
 | This game has Diverse Characters | 74 |
-| This game has Amazing Characters | 71 |
+| This game has Amazing Characters | 72 |
 | This game is Highly Recommended | 69 |
 | This game has Amazing Storytelling | 68 |
 | This game is Extremely Fun | 67 |
@@ -414,3 +414,4 @@ Diff (max vs sum): -59
 | 2024-08-08 | 4.59 | - | 1,179 | 2,403 |
 | 2024-08-09 | 4.59 | - | 1,180 | 2,408 |
 | 2024-08-10 | 4.59 | - | 1,182 | 2,410 |
+| 2024-08-11 | 4.60 | - | 1,182 | 2,411 |
