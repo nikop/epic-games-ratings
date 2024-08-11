@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.33 (Ranked 960)  
+Rating: 4.32 (Ranked 967)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -235,3 +235,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-01-03 | 4.35 | 0 | 0 |
 | 2024-07-31 | 4.32 | 0 | 0 |
 | 2024-08-03 | 4.33 | 0 | 0 |
+| 2024-08-11 | 4.32 | 0 | 0 |

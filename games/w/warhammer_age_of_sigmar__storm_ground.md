@@ -1,7 +1,7 @@
 # Warhammer Age of Sigmar: Storm Ground
 [Store](https://store.epicgames.com/en-US/p/warhammer-age-of-sigmar-storm-ground)  
 [View Rawdata](../../db/w/warhammer_age_of_sigmar__storm_ground.json)  
-Rating: 4.21 (Ranked 1,081)  
+Rating: 4.16 (Ranked 1,121)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -10,3 +10,4 @@ Rating: 4.21 (Ranked 1,081)
 | 2023-10-27 | 4.14 | 0 | 0 |
 | 2023-11-21 | 4.17 | 0 | 0 |
 | 2024-05-28 | 4.21 | 0 | 0 |
+| 2024-08-11 | 4.16 | 0 | 0 |
