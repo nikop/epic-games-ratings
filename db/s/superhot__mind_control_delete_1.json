@@ -2,7 +2,7 @@
   "ID": "56e54e682d614c468e3d5afc54ca0adf",
   "Name": "SUPERHOT: Mind Control Delete",
   "ProductSlug": "superhot-mind-control-delete",
-  "Ranking_Rating": 288,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.66,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -324,6 +324,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-11T17:57:36.5110185+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -342,8 +348,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:05.7159497+00:00",
   "FirstSeenRating": "2022-08-09T03:31:43.3372712+00:00",
-  "LastChanged": "2024-08-05T13:57:07.1995489+00:00",
+  "LastChanged": "2024-08-11T17:57:36.5110183+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:07.6552749+00:00",
-  "LastUpdate_Ratings": "2024-08-11T15:58:16.7418519+00:00",
+  "LastUpdate_Ratings": "2024-08-11T17:57:36.5110189+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:20.2477801+00:00"
 }
