@@ -2,7 +2,7 @@
   "ID": "2d94b7b33d7f4d02a8fff6fbf71ac7ab",
   "Name": "Overcooked! 2",
   "ProductSlug": "overcooked-2",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 1184,
@@ -6084,10 +6084,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2711,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2024-08-11T10:58:34.2048802+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2712,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2711,
+  "NumberOfAwards": 2712,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6167,7 +6173,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 317
+      "Count": 318
     }
   ],
   "EOS_Progressed": 0,
@@ -6181,8 +6187,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:55.1110041+00:00",
-  "LastChanged": "2024-08-11T03:58:56.8954771+00:00",
+  "LastChanged": "2024-08-11T10:58:34.20488+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:58:13.1206766+00:00",
-  "LastUpdate_Ratings": "2024-08-11T09:00:04.5710015+00:00",
+  "LastUpdate_Ratings": "2024-08-11T10:58:34.2048805+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:35.9281554+00:00"
 }
