@@ -135,7 +135,6 @@
 | [Earth From Another Sun](games/1/1718f23d17c046398d8d248ec9b8f9d6.md) | 2024-12-31 | - |  | - | - |
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
 | [EBOLA VILLAGE](games/e/e37cc2b5002a46bd9d0207d4b5b70d0c.md) | 2024-12-31 | - |  | - | - |
-| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
 | [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Evershire](games/8/82d7f438164d4ed182d27265c63574fc.md) | 2024-12-31 | - |  | - | - |
@@ -733,5 +732,6 @@
 | [My Friendly Neighborhood](games/4/4d0df00ccfdf4606b0bbcdd1df7c1d1a.md) | 2099-10-19 | - |  | - | - |
 | [Warhammer 40,000: Shootas Blood & Teef](games/w/warhammer_40,000__shootas_blood_&_teef.md) | 2099-10-20 | - |  | - | 0 |
 | [Killing Floor 3](games/t/tayberry_production.md) | 2099-11-30 | - |  | - | - |
+| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2099-12-08 | - |  | - | - |
 | [Superior](games/s/superior.md) | 2099-12-13 | - |  | - | - |
 | [Lab Rat](games/l/lab_rat.md) | 2099-12-31 | - |  | - | - |
