@@ -3,8 +3,8 @@
   "Name": "Sable",
   "ProductSlug": "sable",
   "Ranking_Rating": 599,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 473,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 97,
@@ -963,11 +963,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 257,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-08-11T14:57:38.9816914+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 258,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 258,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -980,7 +986,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Highly Recommended",
@@ -34014,9 +34020,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-08-09T01:59:20.2055203+00:00",
+  "LastChanged": "2024-08-11T14:57:38.9816911+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:50.8256441+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:17.9632961+00:00",
-  "LastUpdate_Ratings": "2024-08-11T13:03:53.7049925+00:00",
+  "LastUpdate_Ratings": "2024-08-11T14:57:38.9816917+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:50.8257906+00:00"
 }
