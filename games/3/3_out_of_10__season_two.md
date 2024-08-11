@@ -1,7 +1,7 @@
 # 3 out of 10: Season Two
 [Store](https://store.epicgames.com/en-US/p/3-out-of-10-season-2)  
 [View Rawdata](../../db/3/3_out_of_10__season_two.json)  
-Rating: 4.32 (Ranked 969)  
+Rating: 4.29 (Ranked 996)  
 Number of Ratings: 52  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -56,3 +56,4 @@ Number of Ratings: 52  (23.09.2022)
 | 2024-03-26 | 4.30 | - | 0 | 0 |
 | 2024-05-31 | 4.31 | - | 0 | 0 |
 | 2024-08-10 | 4.32 | - | 0 | 0 |
+| 2024-08-11 | 4.29 | - | 0 | 0 |
