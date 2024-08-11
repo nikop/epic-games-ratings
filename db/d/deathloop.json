@@ -2,7 +2,7 @@
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
-  "Ranking_Rating": 785,
+  "Ranking_Rating": 784,
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 1184,
@@ -2749,10 +2749,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 650,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2024-08-11T13:03:25.4869141+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 651,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 650,
+  "NumberOfAwards": 651,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2760,7 +2766,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 91
+      "Count": 92
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2822,8 +2828,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-08-11T05:58:19.0984366+00:00",
+  "LastChanged": "2024-08-11T13:03:25.4869139+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:15.3014464+00:00",
-  "LastUpdate_Ratings": "2024-08-11T10:58:55.2861909+00:00",
+  "LastUpdate_Ratings": "2024-08-11T13:03:25.4869146+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:08.4113587+00:00"
 }
