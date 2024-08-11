@@ -3,8 +3,8 @@
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 948,
-  "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 399,
+  "Ranking_Popularity": 485,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1746,18 +1746,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 482,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-08-11T16:57:36.3151493+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 492,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 482,
-  "NumberOfAwardsMax": 73,
+  "NumberOfAwards": 492,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 73
+      "Count": 78
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1775,7 +1781,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 56
+      "Count": 60
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1799,7 +1805,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6792,9 +6798,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-08-11T05:59:11.2334133+00:00",
+  "LastChanged": "2024-08-11T16:57:36.3151491+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:28.1999795+00:00",
   "LastUpdate_AppInfo": "2024-08-07T09:57:05.4989869+00:00",
-  "LastUpdate_Ratings": "2024-08-11T14:57:57.4541104+00:00",
+  "LastUpdate_Ratings": "2024-08-11T16:57:36.3151495+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:28.2000301+00:00"
 }
