@@ -2,7 +2,7 @@
   "ID": "c93d8cd77b5a45c8b6aee3e68ff4e0c7",
   "Name": "Age of Conquest IV",
   "ProductSlug": "age-of-conquest-iv-c29987",
-  "Ranking_Rating": 1187,
+  "Ranking_Rating": 1208,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 281,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4,
+  "Rating": 3.93,
   "RatingHistory": [
     {
       "Time": "2024-06-01T08:00:03.7438606+00:00",
@@ -58,6 +58,12 @@
     {
       "Time": "2024-08-05T02:57:53.7995942+00:00",
       "Rating": 4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-11T19:59:21.3600078+00:00",
+      "Rating": 3.93,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -282,9 +288,9 @@
   "FirstSeen": "2024-01-31T20:57:59.1936831+00:00",
   "FirstSeenRating": "2024-06-01T08:00:03.7438603+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:03.9201041+00:00",
-  "LastChanged": "2024-08-05T02:57:53.7995939+00:00",
+  "LastChanged": "2024-08-11T19:59:21.3600077+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:24.7817692+00:00",
   "LastUpdate_AppInfo": "2024-08-10T01:57:39.5305737+00:00",
-  "LastUpdate_Ratings": "2024-08-11T18:57:13.5394951+00:00",
+  "LastUpdate_Ratings": "2024-08-11T19:59:21.3600082+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:24.7817804+00:00"
 }
