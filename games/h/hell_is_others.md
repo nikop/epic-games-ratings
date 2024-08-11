@@ -352,12 +352,12 @@ Completed: 6 (0.00%) (Ranked 554)
 | 2024-07-24 | 264,813 | 5 |
 | 2024-08-09 | 265,063 | 6 |
 ## Awards
-Max (Great for Quick Sessions): 80  (Ranked 480)  
-Sum: 517 (Ranked 394)  
-Diff (max vs sum): 86  
+Max (Great for Quick Sessions): 81  (Ranked 476)  
+Sum: 518 (Ranked 393)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 80 |
+| This game is Great for Quick Sessions | 81 |
 | This game has Unique Visuals | 62 |
 | This game has Amazing Characters | 56 |
 | This game has Challenging Combat | 56 |
@@ -663,3 +663,4 @@ Diff (max vs sum): 86
 | 2024-08-08 | 4.39 | 80 | 514 |
 | 2024-08-09 | 4.39 | 80 | 515 |
 | 2024-08-10 | 4.39 | 80 | 517 |
+| 2024-08-11 | 4.39 | 81 | 518 |

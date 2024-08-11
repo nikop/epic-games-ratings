@@ -1,7 +1,7 @@
 # Trek to Yomi
 [Store](https://store.epicgames.com/en-US/p/trek-to-yomi-70d134)  
 [View Rawdata](../../db/t/trek_to_yomi.json)  
-Rating: 4.28 (Ranked 1,008)  
+Rating: 4.23 (Ranked 1,068)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.28 (Ranked 1,008)
 | 2024-07-25 | 4.30 | 0 | 0 |
 | 2024-08-07 | 4.29 | 0 | 0 |
 | 2024-08-10 | 4.28 | 0 | 0 |
+| 2024-08-11 | 4.23 | 0 | 0 |
