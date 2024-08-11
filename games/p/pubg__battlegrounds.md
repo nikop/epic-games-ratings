@@ -331,12 +331,12 @@ Completed: 35 (0.00%) (Ranked 554)
 | 2024-06-17 | 1,246,479 | 31 |
 | 2024-08-09 | 1,334,975 | 35 |
 ## Awards
-Max (Competitive Players): 12,260  (Ranked 47)  
-Sum: 40,351 (Ranked 44)  
+Max (Competitive Players): 12,277  (Ranked 47)  
+Sum: 40,368 (Ranked 44)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 12,260 |
+| This game has Competitive Players | 12,277 |
 | This game has Challenging Combat | 10,955 |
 | This game is Highly Recommended | 9,955 |
 | This game has a Competitive Community | 7,181 |
@@ -878,3 +878,4 @@ Diff (max vs sum): 3
 | 2024-08-08 | 4.01 | 12,241 | 40,242 |
 | 2024-08-09 | 4.01 | 12,241 | 40,289 |
 | 2024-08-10 | 4.01 | 12,260 | 40,351 |
+| 2024-08-11 | 4.00 | 12,277 | 40,368 |

@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.60 (Ranked 465)  
+Rating: 4.61 (Ranked 435)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -652,3 +652,4 @@ Diff (max vs sum): 87
 | 2024-08-07 | 4.60 | - | 97 | 701 |
 | 2024-08-08 | 4.60 | - | 97 | 703 |
 | 2024-08-09 | 4.60 | - | 98 | 705 |
+| 2024-08-11 | 4.61 | - | 98 | 705 |
