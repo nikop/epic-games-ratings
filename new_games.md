@@ -40,7 +40,7 @@
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [Welcome to Elk](games/9/93a34c70b09247f396e5124b3f6c1302.md) | 2024-08-01 | - |  | - | - |
 | [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2024-08-01 | 6 (1,000 XP) | 2 | - | - |
-| [Sift Heads Rush](games/0/00dc291114184ee8b1f97af9d7ac8d58.md) | 2024-08-01 | - |  | - | - |
+| [Sift Heads Rush](games/0/00dc291114184ee8b1f97af9d7ac8d58.md) | 2024-08-01 | - |  | - | 0 |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2024-08-01 | 32 (1,000 XP) | 149 | - | 0 |
 | [Thymesia](games/3/3ef48399a4044d9eb00beb44623fe5e5.md) | 2024-08-01 | 38 (1,000 XP) | 11 | - | 0 |
 | [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-08-01 | 34 (1,000 XP) | 6 | - | - |
