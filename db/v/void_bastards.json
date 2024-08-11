@@ -4,7 +4,7 @@
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 466,
   "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -893,10 +893,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 200,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-11T05:58:14.6782934+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 201,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 200,
+  "NumberOfAwards": 201,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -910,7 +916,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Characters",
@@ -966,8 +972,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2024-08-10T11:57:37.280509+00:00",
+  "LastChanged": "2024-08-11T05:58:14.6782932+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:29.4638079+00:00",
-  "LastUpdate_Ratings": "2024-08-11T03:59:16.154986+00:00",
+  "LastUpdate_Ratings": "2024-08-11T05:58:14.6782936+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:52.2138399+00:00"
 }
