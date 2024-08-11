@@ -2,7 +2,7 @@
   "ID": "8c73bcc38bd4440f945d81ac7774b418",
   "Name": "Amnesia: The Bunker",
   "ProductSlug": "amnesia-the-bunker-9d5799",
-  "Ranking_Rating": 225,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2024-01-10T05:59:23.4879554+00:00",
@@ -137,6 +137,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-11T07:57:17.013784+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -155,8 +161,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-06T15:59:13.5155782+00:00",
   "FirstSeenRating": "2024-01-10T05:59:23.4879551+00:00",
-  "LastChanged": "2024-08-03T21:57:23.5755927+00:00",
+  "LastChanged": "2024-08-11T07:57:17.0137838+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:34.840794+00:00",
-  "LastUpdate_Ratings": "2024-08-11T05:58:25.1543457+00:00",
+  "LastUpdate_Ratings": "2024-08-11T07:57:17.0137843+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:31.6867176+00:00"
 }
