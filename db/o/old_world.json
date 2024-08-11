@@ -3,7 +3,7 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 344,
-  "Ranking_Popularity": 320,
+  "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 487,
@@ -2956,18 +2956,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 2073,
       "NumberOfAwardsMax": 259
+    },
+    {
+      "Time": "2024-08-11T18:57:20.5753091+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2074,
+      "NumberOfAwardsMax": 260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2073,
-  "NumberOfAwardsMax": 259,
+  "NumberOfAwards": 2074,
+  "NumberOfAwardsMax": 260,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 259
+      "Count": 260
     },
     {
       "Text": "This game is Extremely Fun",
@@ -24716,9 +24722,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-08-10T19:00:27.6601097+00:00",
+  "LastChanged": "2024-08-11T18:57:20.5753089+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:12.9144362+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:35.3836963+00:00",
-  "LastUpdate_Ratings": "2024-08-11T16:59:09.2880454+00:00",
+  "LastUpdate_Ratings": "2024-08-11T18:57:20.5753094+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:12.915535+00:00"
 }
