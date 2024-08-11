@@ -2,7 +2,7 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 465,
   "Ranking_Popularity": 71,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 1184,
@@ -20141,10 +20141,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 42662,
       "NumberOfAwardsMax": 7539
+    },
+    {
+      "Time": "2024-08-11T16:00:05.2131409+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 42671,
+      "NumberOfAwardsMax": 7539
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42662,
+  "NumberOfAwards": 42671,
   "NumberOfAwardsMax": 7539,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20206,7 +20212,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 3292
+      "Count": 3301
     },
     {
       "Text": "This game has Easy Combat",
@@ -20235,9 +20241,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-08-11T14:57:53.2899994+00:00",
+  "LastChanged": "2024-08-11T16:00:05.2131407+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:04.3403382+00:00",
   "LastUpdate_AppInfo": "2024-08-04T15:57:18.0659533+00:00",
-  "LastUpdate_Ratings": "2024-08-11T14:57:53.29+00:00",
+  "LastUpdate_Ratings": "2024-08-11T16:00:05.2131415+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:04.3403404+00:00"
 }

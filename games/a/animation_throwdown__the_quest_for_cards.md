@@ -1,7 +1,7 @@
 # Animation Throwdown: The Quest for Cards
 [Store](https://store.epicgames.com/en-US/p/animation-throwdown-the-quest-for-cards)  
 [View Rawdata](../../db/a/animation_throwdown__the_quest_for_cards.json)  
-Rating: 4.31 (Ranked 979)  
+Rating: 4.32 (Ranked 968)  
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 462  (Ranked 267)  
@@ -437,4 +437,4 @@ Diff (max vs sum): 65
 | 2024-08-08 | 4.31 | - | 460 | 3,317 |
 | 2024-08-09 | 4.31 | - | 460 | 3,320 |
 | 2024-08-10 | 4.31 | - | 462 | 3,324 |
-| 2024-08-11 | 4.31 | - | 462 | 3,326 |
+| 2024-08-11 | 4.32 | - | 462 | 3,326 |

@@ -2,7 +2,7 @@
   "ID": "2052c58b9f64498386cbbbc85df90bbf",
   "Name": "LISA: The Painful - Definitive Edition",
   "ProductSlug": "lisa-the-painful-0c7e2a",
-  "Ranking_Rating": 74,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 142,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "RatingHistory": [
     {
       "Time": "2024-04-28T12:59:32.2146953+00:00",
@@ -376,6 +376,12 @@
     {
       "Time": "2024-08-10T02:58:38.095393+00:00",
       "Rating": 4.82,
+      "NumberOfAwards": 81,
+      "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-08-11T15:58:47.3922883+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 81,
       "NumberOfAwardsMax": 81
     }
@@ -899,9 +905,9 @@
   "FirstSeen": "2024-04-01T06:00:42.9546024+00:00",
   "FirstSeenRating": "2024-04-28T12:59:32.2146949+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.0348947+00:00",
-  "LastChanged": "2024-08-10T02:58:38.0953928+00:00",
+  "LastChanged": "2024-08-11T15:58:47.3922881+00:00",
   "LastChanged_Achievements": "2024-08-09T18:08:12.8899443+00:00",
   "LastUpdate_AppInfo": "2024-08-10T05:57:07.5180101+00:00",
-  "LastUpdate_Ratings": "2024-08-11T14:01:00.3277225+00:00",
+  "LastUpdate_Ratings": "2024-08-11T15:58:47.3922887+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:08:12.8899811+00:00"
 }
