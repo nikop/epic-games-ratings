@@ -2,7 +2,7 @@
   "ID": "703100e4ec4746ff854e634572e6665e",
   "Name": "Madcar for PC",
   "ProductSlug": "madcar-f-multiplayer-65691b",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-10-01T16:58:16.788016+00:00",
@@ -108,6 +108,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-12T22:00:25.8921754+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -126,8 +132,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-10T14:56:55.1080056+00:00",
   "FirstSeenRating": "2023-10-01T16:58:16.7880158+00:00",
-  "LastChanged": "2024-07-28T20:59:01.6658933+00:00",
+  "LastChanged": "2024-08-12T22:00:25.8921752+00:00",
   "LastUpdate_AppInfo": "2024-08-10T20:57:04.5799057+00:00",
-  "LastUpdate_Ratings": "2024-08-12T20:57:11.7023919+00:00",
+  "LastUpdate_Ratings": "2024-08-12T22:00:25.8921758+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:34.1326164+00:00"
 }
