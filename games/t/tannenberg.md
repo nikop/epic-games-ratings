@@ -1,7 +1,7 @@
 # Tannenberg
 [Store](https://store.epicgames.com/en-US/p/tannenberg)  
 [View Rawdata](../../db/t/tannenberg.json)  
-Rating: 4.39 (Ranked 882)  
+Rating: 4.39 (Ranked 881)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -366,7 +366,7 @@ Completed: 30 (0.02%) (Ranked 509)
 | 2024-08-09 | 159,412 | 30 |
 ## Awards
 Max (Competitive Players): 345  (Ranked 290)  
-Sum: 3,414 (Ranked 200)  
+Sum: 3,415 (Ranked 200)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -376,7 +376,7 @@ Diff (max vs sum): 90
 | This game is Extremely Fun | 328 |
 | This game has Quickly Understood Controls | 325 |
 | This game is Relaxing | 321 |
-| This game is Highly Recommended | 303 |
+| This game is Highly Recommended | 304 |
 | This game has Amazing Characters | 294 |
 | This game has Realistic Visuals | 279 |
 | This game has a Competitive Community | 278 |
@@ -667,3 +667,4 @@ Diff (max vs sum): 90
 | 2024-08-07 | 4.39 | - | 345 | 3,411 |
 | 2024-08-08 | 4.39 | - | 345 | 3,412 |
 | 2024-08-09 | 4.39 | - | 345 | 3,414 |
+| 2024-08-12 | 4.39 | - | 345 | 3,415 |
