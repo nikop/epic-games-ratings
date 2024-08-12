@@ -331,7 +331,7 @@
 | 327 | [Scrapnaut](games/s/scrapnaut.md) | 0.47% |
 | 327 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.47% |
 | 331 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.46% |
-| 331 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.46% |
+| 331 | [Shoulders of Giants: Ultimate](games/s/shoulders_of_giants.md) | 0.46% |
 | 331 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.46% |
 | 331 | [Wildermyth](games/w/wildermyth.md) | 0.46% |
 | 335 | [Eternights](games/e/eternights.md) | 0.45% |

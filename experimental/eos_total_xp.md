@@ -936,7 +936,7 @@
 | [Shin-chan Me and the Professor on Summer Vacation](../games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 46 | 1,000 |
 | [Shinogi Chess Club](../games/s/shinogi_chess_club.md) | 12 | 1,000 |
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
-| [Shoulders of Giants](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
+| [Shoulders of Giants: Ultimate](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
 | [Sidecar Evolution 2024](../games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 33 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
 | [Silenced: The House](../games/d/d58638016a464d09919c32f8830f682e.md) | 11 | 1,000 |

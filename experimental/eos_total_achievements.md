@@ -921,7 +921,7 @@
 | [Lamentum](../games/l/lamentum.md) | 19 | 1,000 |
 | [Lost Islands](../games/3/3b0aa55999714473a49215e89289f883.md) | 19 | 1,000 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](../games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 19 | 1,000 |
-| [Shoulders of Giants](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
+| [Shoulders of Giants: Ultimate](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
 | [Tales of Kenzera™: ZAU](../games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 19 | 1,000 |
 | [Ten Dates](../games/t/ten_dates.md) | 19 | 1,000 |
 | [The Making of Karateka](../games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 19 | 1,000 |

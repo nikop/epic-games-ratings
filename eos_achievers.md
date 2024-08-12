@@ -334,7 +334,7 @@
 | 332 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 2,453 | 105 |
 | 333 | [The Invincible](games/t/the_invincible.md) | 2,430 | 4 |
 | 334 | [Potion Permit](games/p/potion_permit.md) | 2,425 | 17 |
-| 335 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 2,410 | 11 |
+| 335 | [Shoulders of Giants: Ultimate](games/s/shoulders_of_giants.md) | 2,410 | 11 |
 | 336 | [Darksiders III](games/d/darksiders_iii.md) | 2,356 | 3 |
 | 336 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 2,356 | 90 |
 | 338 | [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2,329 | 0 |
