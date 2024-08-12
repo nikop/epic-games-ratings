@@ -7,6 +7,8 @@
 | [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2024-08-15 | - |  | - | - |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
+| [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | - |  | - | - |
+| [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2024-08-15 | - |  | - | - |
 | [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-16 | 49 (1,000 XP) | 1 | - | - |
@@ -26,6 +28,7 @@
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 0 | - | - |
 | [Alien Paradise](games/6/64d8cc2fb5cc4798a6db9796b7e73e3f.md) | 2024-08-23 | - |  | - | - |
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2024-08-23 | - |  | - | - |
+| [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-23 | 100 (1,000 XP) | 4 | - | - |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | 26 (1,000 XP) | 0 | - | - |
 | [SMITE 2](games/1/16ed9f15b1b449ccb59cb610b13df5b8.md) | 2024-08-27 | - |  | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | - |  | - | - |
@@ -44,7 +47,6 @@
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-31 | 21 (1,000 XP) | 0 | - | - |
 | [Police, Open The Door!](games/8/80a8fe6079784d4c89a71a69063badc9.md) | 2024-08-31 | - |  | - | - |
 | [SEIDEN](games/4/4a8d265d048b4423bf30317aa9ad371d.md) | 2024-08-31 | - |  | - | - |
-| [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-31 | 100 (1,000 XP) | 4 | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-08-31 | - |  | - | - |
 | [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | - |  | - | - |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | - |  | - | - |
