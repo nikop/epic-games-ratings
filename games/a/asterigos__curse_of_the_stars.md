@@ -1,7 +1,7 @@
 # Asterigos: Curse of the Stars
 [Store](https://store.epicgames.com/en-US/p/asterigos-424313)  
 [View Rawdata](../../db/a/asterigos__curse_of_the_stars.json)  
-Rating: 4.43 (Ranked 803)  
+Rating: 4.42 (Ranked 830)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -63,3 +63,4 @@ Rating: 4.43 (Ranked 803)
 | 2024-05-02 | 4.43 | 0 | 0 |
 | 2024-05-03 | 4.44 | 0 | 0 |
 | 2024-06-27 | 4.43 | 0 | 0 |
+| 2024-08-12 | 4.42 | 0 | 0 |

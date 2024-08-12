@@ -1,7 +1,7 @@
 # Suicide Squad: Kill the Justice League
 [Store](https://store.epicgames.com/en-US/p/suicide-squad-kill-the-justice-league)  
 [View Rawdata](../../db/s/suicide_squad__kill_the_justice_league.json)  
-Rating: 3.82 (Ranked 1,233)  
+Rating: 3.82 (Ranked 1,234)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -66,18 +66,18 @@ Completed: 17 (0.01%) (Ranked 524)
 | 2024-08-09 | 144,623 | 17 |
 ## Awards
 Max (Great for Beginners): 218  (Ranked 343)  
-Sum: 1,413 (Ranked 285)  
+Sum: 1,425 (Ranked 285)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |
 | This game is Great for Beginners | 218 |
 | This game has Diverse Characters | 208 |
+| This game is Extremely Fun | 207 |
 | This game is Highly Recommended | 202 |
-| This game is Extremely Fun | 202 |
 | This game has Amazing Storytelling | 198 |
+| This game has Amazing Characters | 197 |
 | This game has Quickly Understood Controls | 195 |
-| This game has Amazing Characters | 190 |
 | This game is Relaxing | 163 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -203,4 +203,4 @@ Diff (max vs sum): 58
 | 2024-08-09 | 3.83 | 205 | 1,491 |
 | 2024-08-10 | 3.82 | 211 | 1,367 |
 | 2024-08-11 | 3.82 | 214 | 1,394 |
-| 2024-08-12 | 3.82 | 218 | 1,413 |
+| 2024-08-12 | 3.82 | 218 | 1,425 |
