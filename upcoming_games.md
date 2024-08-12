@@ -667,6 +667,7 @@
 | [Unscripted Fate](games/4/4a0ddb0d9ef247f1b9ff9a970c8e9ed0.md) | 2099-01-01 | - |  | - | - |
 | [Unsung Empires: The Cholas II Legacy of Rajendra Chola](games/a/a5acdb13714b42c6a940dd2b30922323.md) | 2099-01-01 | - |  | - | - |
 | [Until the Last Plane](games/u/until_the_last_plane.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
+| [Upekkha](games/1/15e416f5483a4767ab85570343a0f3e6.md) | 2099-01-01 | - |  | - | - |
 | [Valfaris Mecha Therion](games/v/valfaris_mecha_therion.md) | 2099-01-01 | - |  | - | - |
 | [Vallarok](games/5/549bb75c2f774df0877383595af20d04.md) | 2099-01-01 | - |  | - | - |
 | [Varkalai: The Cradle Of Fate](games/6/672fdfd6cf634e21a53019d3fc5deb20.md) | 2099-01-01 | - |  | - | - |
