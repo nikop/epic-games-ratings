@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 573)  
+Rating: 4.55 (Ranked 574)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -325,8 +325,8 @@ Completed: 6 (0.09%) (Ranked 437)
 | 2024-07-24 | 6,231 | 6 |
 | 2024-08-09 | 6,395 | 6 |
 ## Awards
-Max (Highly Recommended): 38  (Ranked 574)  
-Sum: 275 (Ranked 468)  
+Max (Highly Recommended): 38  (Ranked 575)  
+Sum: 275 (Ranked 469)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
