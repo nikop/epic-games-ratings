@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-alien-dawn",
   "Ranking_Rating": 505,
   "Ranking_Popularity": 581,
-  "Ranking_PopularitySum": 552,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -745,10 +745,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 103,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-08-11T23:57:51.5638205+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 105,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 103,
+  "NumberOfAwards": 105,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -762,7 +768,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -789,8 +795,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-25T13:05:45.0799807+00:00",
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
-  "LastChanged": "2024-08-09T18:01:39.6921772+00:00",
+  "LastChanged": "2024-08-11T23:57:51.5638203+00:00",
   "LastUpdate_AppInfo": "2024-08-05T07:57:16.8815226+00:00",
-  "LastUpdate_Ratings": "2024-08-11T21:59:08.2333666+00:00",
+  "LastUpdate_Ratings": "2024-08-11T23:57:51.5638208+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:22.4756616+00:00"
 }
