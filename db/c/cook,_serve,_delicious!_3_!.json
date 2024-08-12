@@ -1514,10 +1514,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 775,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-08-12T14:58:23.5138542+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 776,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 775,
+  "NumberOfAwards": 776,
   "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1549,7 +1555,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1606,8 +1612,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-11T18:01:43.0387462+00:00",
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
-  "LastChanged": "2024-08-05T02:58:28.1210076+00:00",
+  "LastChanged": "2024-08-12T14:58:23.5138537+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:58:00.1271643+00:00",
-  "LastUpdate_Ratings": "2024-08-12T13:13:33.3318613+00:00",
+  "LastUpdate_Ratings": "2024-08-12T14:58:23.5138545+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:02.6685174+00:00"
 }
