@@ -2,7 +2,7 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": "faeria",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 783,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 194,
   "RatingHistory": [
     {
@@ -1179,10 +1179,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 439,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2024-08-12T16:00:11.7447985+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 439,
+  "NumberOfAwards": 440,
   "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1202,7 +1208,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1258,8 +1264,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-08-08T15:59:58.9506073+00:00",
+  "LastChanged": "2024-08-12T16:00:11.7447983+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:01.1375568+00:00",
-  "LastUpdate_Ratings": "2024-08-12T14:00:17.8855094+00:00",
+  "LastUpdate_Ratings": "2024-08-12T16:00:11.744799+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:34.4476525+00:00"
 }
