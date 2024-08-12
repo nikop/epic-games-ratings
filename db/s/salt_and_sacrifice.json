@@ -4,7 +4,7 @@
   "ProductSlug": "salt-and-sacrifice",
   "Ranking_Rating": 980,
   "Ranking_Popularity": 188,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 97,
@@ -2363,10 +2363,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 2088,
       "NumberOfAwardsMax": 1023
+    },
+    {
+      "Time": "2024-08-12T10:59:30.181716+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 2090,
+      "NumberOfAwardsMax": 1023
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2088,
+  "NumberOfAwards": 2090,
   "NumberOfAwardsMax": 1023,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2398,7 +2404,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 72
+      "Count": 74
     },
     {
       "Text": "This game is Highly Recommended",
@@ -18512,9 +18518,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2024-08-11T21:58:44.5696645+00:00",
+  "LastChanged": "2024-08-12T10:59:30.1817158+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:09.1507741+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:46.3063828+00:00",
-  "LastUpdate_Ratings": "2024-08-12T09:57:07.3998992+00:00",
+  "LastUpdate_Ratings": "2024-08-12T10:59:30.1817168+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:09.1508823+00:00"
 }
