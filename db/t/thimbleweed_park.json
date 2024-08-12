@@ -2,7 +2,7 @@
   "ID": "tulip",
   "Name": "Thimbleweed Park",
   "ProductSlug": "thimbleweed-park",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 629,
   "Ranking_EOS_Progress": 1184,
@@ -411,6 +411,6 @@
   "FirstSeen": "2022-07-22T20:27:09.288426+00:00",
   "LastChanged": "2024-05-24T14:59:30.6927021+00:00",
   "LastUpdate_AppInfo": "2024-08-05T06:57:48.5056894+00:00",
-  "LastUpdate_Ratings": "2024-08-12T03:58:34.3588439+00:00",
+  "LastUpdate_Ratings": "2024-08-12T05:57:50.9716925+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:38.3183433+00:00"
 }
