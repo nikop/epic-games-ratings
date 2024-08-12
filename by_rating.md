@@ -34,7 +34,7 @@
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 103 | 443 |
 | 28 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.86 | 0 | 685 |
 | 28 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 63 | 510 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,157 | 133 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,162 | 133 |
 | 28 | [The Legend of Heroes: Trails from Zero](games/t/the_legend_of_heroes__trails_from_zero.md) | 4.86 | 0 | 685 |
 | 28 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 193 | 361 |
 | 38 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 0 | 685 |
@@ -401,7 +401,7 @@
 | 391 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 685 |
 | 391 | [HITMAN](games/h/hitman.md) | 4.63 | 239 | 334 |
 | 391 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 204 | 354 |
-| 391 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 810 | 214 |
+| 391 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 812 | 213 |
 | 391 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,972 | 96 |
 | 391 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 4.63 | 0 | 685 |
 | 391 | [Northgard](games/n/northgard.md) | 4.63 | 60 | 516 |
@@ -600,7 +600,7 @@
 | 598 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.54 | 0 | 685 |
 | 598 | [Anno 2070](games/a/anno_2070.md) | 4.54 | 0 | 685 |
 | 598 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,947 | 139 |
-| 598 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 16,299 | 33 |
+| 598 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 16,319 | 33 |
 | 598 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.54 | 1,546 | 152 |
 | 598 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.54 | 28 | 624 |
 | 598 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 222 | 342 |
@@ -652,7 +652,7 @@
 | 635 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.52 | 0 | 685 |
 | 635 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.52 | 0 | 685 |
 | 635 | [Tavern Master](games/t/tavern_master.md) | 4.52 | 0 | 685 |
-| 635 | [Verdun](games/v/verdun.md) | 4.52 | 128 | 412 |
+| 635 | [Verdun](games/v/verdun.md) | 4.52 | 129 | 410 |
 | 635 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 685 |
 | 655 | [Aragami 2](games/a/aragami_2.md) | 4.51 | 0 | 685 |
 | 655 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 191 | 362 |
@@ -668,7 +668,7 @@
 | 655 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.51 | 13,791 | 41 |
 | 655 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 685 |
 | 655 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 806 | 215 |
-| 655 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,105 | 59 |
+| 655 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,107 | 59 |
 | 655 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 80 | 481 |
 | 655 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 685 |
 | 655 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 685 |
@@ -867,7 +867,6 @@
 | 860 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,118 | 178 |
 | 860 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.40 | 541 | 251 |
 | 860 | [Fire Commander](games/f/fire_commander.md) | 4.40 | 0 | 685 |
-| 860 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 685 |
 | 860 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.40 | 0 | 685 |
 | 860 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 685 |
 | 860 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.40 | 0 | 685 |
@@ -882,16 +881,17 @@
 | 860 | [SMITE](games/s/smite.md) | 4.40 | 6,150 | 87 |
 | 860 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 685 |
 | 860 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 0 | 685 |
-| 883 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 685 |
-| 883 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 81 | 476 |
-| 883 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 745 | 225 |
-| 883 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.39 | 0 | 685 |
-| 883 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.39 | 0 | 685 |
-| 883 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 685 |
-| 883 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.39 | 0 | 685 |
-| 883 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 76 | 487 |
-| 883 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 345 | 290 |
-| 883 | [The Big Con](games/t/the_big_con.md) | 4.39 | 0 | 685 |
+| 882 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 685 |
+| 882 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 81 | 476 |
+| 882 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 685 |
+| 882 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 745 | 225 |
+| 882 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.39 | 0 | 685 |
+| 882 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.39 | 0 | 685 |
+| 882 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 685 |
+| 882 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.39 | 0 | 685 |
+| 882 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.39 | 76 | 487 |
+| 882 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 345 | 290 |
+| 882 | [The Big Con](games/t/the_big_con.md) | 4.39 | 0 | 685 |
 | 893 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 685 |
 | 893 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.38 | 0 | 685 |
 | 893 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.38 | 0 | 685 |
