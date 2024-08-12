@@ -1,7 +1,7 @@
 # Gigantic: Rampage Edition
 [Store](https://store.epicgames.com/en-US/p/gigantic-rampage-edition-03f532)  
 [View Rawdata](../../db/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.json)  
-Rating: 4.25 (Ranked 1,041)  
+Rating: 4.27 (Ranked 1,020)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.25 (Ranked 1,041)
 | 2024-07-13 | 4.20 | 0 | 0 |
 | 2024-07-26 | 4.23 | 0 | 0 |
 | 2024-08-03 | 4.25 | 0 | 0 |
+| 2024-08-12 | 4.27 | 0 | 0 |
