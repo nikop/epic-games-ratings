@@ -4,7 +4,7 @@
   "ProductSlug": "void-bastards",
   "Ranking_Rating": 464,
   "Ranking_Popularity": 605,
-  "Ranking_PopularitySum": 498,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -899,10 +899,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 201,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-12T08:59:20.7174742+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 221,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 201,
+  "NumberOfAwards": 221,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -959,6 +965,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -972,8 +984,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2024-08-11T05:58:14.6782932+00:00",
+  "LastChanged": "2024-08-12T08:59:20.717474+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:28.8605563+00:00",
-  "LastUpdate_Ratings": "2024-08-12T06:58:59.2855194+00:00",
+  "LastUpdate_Ratings": "2024-08-12T08:59:20.7174744+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:52.2138399+00:00"
 }
