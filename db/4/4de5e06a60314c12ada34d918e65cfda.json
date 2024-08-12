@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 932,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 327,
+  "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1506,10 +1506,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 915,
       "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2024-08-12T02:58:53.975302+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 918,
+      "NumberOfAwardsMax": 253
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 915,
+  "NumberOfAwards": 918,
   "NumberOfAwardsMax": 253,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1565,7 +1571,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 67
+      "Count": 70
     },
     {
       "Text": "This game is Relaxing",
@@ -1592,8 +1598,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-08-11T22:57:33.800341+00:00",
+  "LastChanged": "2024-08-12T02:58:53.9753018+00:00",
   "LastUpdate_AppInfo": "2024-08-05T10:57:55.8754857+00:00",
-  "LastUpdate_Ratings": "2024-08-11T23:59:34.7610433+00:00",
+  "LastUpdate_Ratings": "2024-08-12T02:58:53.9753024+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:50.2776941+00:00"
 }

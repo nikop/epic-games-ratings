@@ -1,7 +1,7 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 4.00 (Ranked 1,187)  
+Rating: 4.01 (Ranked 1,185)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -331,12 +331,12 @@ Completed: 35 (0.00%) (Ranked 554)
 | 2024-06-17 | 1,246,479 | 31 |
 | 2024-08-09 | 1,334,975 | 35 |
 ## Awards
-Max (Competitive Players): 12,277  (Ranked 47)  
-Sum: 40,417 (Ranked 44)  
+Max (Competitive Players): 12,298  (Ranked 47)  
+Sum: 40,438 (Ranked 44)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 12,277 |
+| This game has Competitive Players | 12,298 |
 | This game has Challenging Combat | 10,975 |
 | This game is Highly Recommended | 9,976 |
 | This game has a Competitive Community | 7,189 |
@@ -879,3 +879,4 @@ Diff (max vs sum): 3
 | 2024-08-09 | 4.01 | 12,241 | 40,289 |
 | 2024-08-10 | 4.01 | 12,260 | 40,351 |
 | 2024-08-11 | 4.00 | 12,277 | 40,417 |
+| 2024-08-12 | 4.01 | 12,298 | 40,438 |
