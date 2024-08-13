@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 223,
   "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 450,
+  "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1006,18 +1006,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 322,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-08-13T19:00:07.8534581+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 324,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 322,
+  "NumberOfAwards": 324,
   "NumberOfAwardsMax": 47,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1080,8 +1086,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-08-12T18:59:30.0787254+00:00",
+  "LastChanged": "2024-08-13T19:00:07.853458+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:27.6264741+00:00",
-  "LastUpdate_Ratings": "2024-08-13T17:58:04.5026133+00:00",
+  "LastUpdate_Ratings": "2024-08-13T19:00:07.8534583+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:35.6728292+00:00"
 }

@@ -4,9 +4,9 @@
 Rating: 4.43 (Ranked 804)  
 Number of Ratings: 142  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 21  (Ranked 668)  
+Max (Quickly Understood Controls): 21  (Ranked 669)  
 Sum: 62 (Ranked 593)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 21 |

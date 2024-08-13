@@ -3,8 +3,8 @@
   "Name": "Tales from the Borderlands",
   "ProductSlug": "tales-from-the-borderlands",
   "Ranking_Rating": 223,
-  "Ranking_Popularity": 686,
-  "Ranking_PopularitySum": 686,
+  "Ranking_Popularity": 687,
+  "Ranking_PopularitySum": 687,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -244,6 +244,6 @@
   "FirstSeenRating": "2022-08-28T13:31:01.8966538+00:00",
   "LastChanged": "2024-07-28T21:59:21.6040602+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:41.1720833+00:00",
-  "LastUpdate_Ratings": "2024-08-13T16:57:59.9616223+00:00",
+  "LastUpdate_Ratings": "2024-08-13T18:57:37.4676573+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:01.7923216+00:00"
 }

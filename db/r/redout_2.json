@@ -3,8 +3,8 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 598,
-  "Ranking_Popularity": 662,
-  "Ranking_PopularitySum": 614,
+  "Ranking_Popularity": 650,
+  "Ranking_PopularitySum": 610,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -371,11 +371,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-08-13T19:00:21.9761473+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -388,7 +394,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 24
     }
   ],
   "EOS_Progressed": 147520,
@@ -2179,9 +2185,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-08-10T07:58:48.1617954+00:00",
+  "LastChanged": "2024-08-13T19:00:21.9761471+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:47.8339921+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:39.4662476+00:00",
-  "LastUpdate_Ratings": "2024-08-13T17:58:21.3413546+00:00",
+  "LastUpdate_Ratings": "2024-08-13T19:00:21.9761477+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:47.8340257+00:00"
 }
