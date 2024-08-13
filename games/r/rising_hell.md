@@ -3,13 +3,13 @@
 [View Rawdata](../../db/r/rising_hell.json)  
 Rating: 4.40 (Ranked 863)  
 ## Awards
-Max (Quickly Understood Controls): 76  (Ranked 487)  
-Sum: 691 (Ranked 371)  
-Diff (max vs sum): 116  
+Max (Quickly Understood Controls): 76  (Ranked 488)  
+Sum: 692 (Ranked 371)  
+Diff (max vs sum): 117  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 76 |
-| This game has Amazing Storytelling | 70 |
+| This game has Amazing Storytelling | 71 |
 | This game has Diverse Characters | 69 |
 | This game is Relaxing | 66 |
 | This game has Unique Visuals | 64 |
@@ -80,3 +80,4 @@ Diff (max vs sum): 116
 | 2024-08-01 | 4.40 | 76 | 689 |
 | 2024-08-04 | 4.40 | 76 | 690 |
 | 2024-08-09 | 4.40 | 76 | 691 |
+| 2024-08-13 | 4.40 | 76 | 692 |

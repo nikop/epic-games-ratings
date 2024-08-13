@@ -3,7 +3,7 @@
   "Name": "Jotun: Valhalla Edition",
   "ProductSlug": "jotun",
   "Ranking_Rating": 848,
-  "Ranking_Popularity": 454,
+  "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -502,18 +502,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 98,
       "NumberOfAwardsMax": 98
+    },
+    {
+      "Time": "2024-08-13T17:59:48.650516+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 99,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 98,
-  "NumberOfAwardsMax": 98,
+  "NumberOfAwards": 99,
+  "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 98
+      "Count": 99
     }
   ],
   "EOS_Progressed": 0,
@@ -527,8 +533,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
-  "LastChanged": "2024-08-07T02:00:03.9176993+00:00",
+  "LastChanged": "2024-08-13T17:59:48.6505158+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:41.4868443+00:00",
-  "LastUpdate_Ratings": "2024-08-13T16:56:59.5825465+00:00",
+  "LastUpdate_Ratings": "2024-08-13T17:59:48.6505163+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:04.4900147+00:00"
 }

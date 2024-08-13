@@ -3,7 +3,7 @@
   "Name": "Rising Hell",
   "ProductSlug": "rising-hell-253707",
   "Ranking_Rating": 863,
-  "Ranking_Popularity": 487,
+  "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -441,10 +441,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 691,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-08-13T17:57:57.1615782+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 691,
+  "NumberOfAwards": 692,
   "NumberOfAwardsMax": 76,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -452,7 +458,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -539,8 +545,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2024-08-09T10:58:51.2198531+00:00",
+  "LastChanged": "2024-08-13T17:57:57.161578+00:00",
   "LastUpdate_AppInfo": "2024-08-12T04:57:33.7736008+00:00",
-  "LastUpdate_Ratings": "2024-08-13T15:59:32.4577647+00:00",
+  "LastUpdate_Ratings": "2024-08-13T17:57:57.1615786+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:06.6330208+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Journey to the Savage Planet",
   "ProductSlug": "journey-to-the-savage-planet",
   "Ranking_Rating": 507,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 613,
+  "Ranking_Popularity": 556,
+  "Ranking_PopularitySum": 612,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -427,18 +427,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-08-13T17:57:46.2461831+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 44,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 43
+      "Count": 44
     }
   ],
   "EOS_Progressed": 0,
@@ -452,8 +458,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2024-08-10T14:57:53.0243945+00:00",
+  "LastChanged": "2024-08-13T17:57:46.2461829+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:34.4764269+00:00",
-  "LastUpdate_Ratings": "2024-08-13T15:59:17.7001511+00:00",
+  "LastUpdate_Ratings": "2024-08-13T17:57:46.2461834+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.0316692+00:00"
 }

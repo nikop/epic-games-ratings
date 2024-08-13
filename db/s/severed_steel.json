@@ -4,7 +4,7 @@
   "ProductSlug": "severed-steel",
   "Ranking_Rating": 289,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 34,
   "Ranking_EOS_Completed": 524,
   "Ranking_EOS_NewPlayers": 97,
@@ -2133,10 +2133,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 940,
       "NumberOfAwardsMax": 693
+    },
+    {
+      "Time": "2024-08-13T17:59:15.1095887+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 968,
+      "NumberOfAwardsMax": 693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 940,
+  "NumberOfAwards": 968,
   "NumberOfAwardsMax": 693,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2205,6 +2211,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 25
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 28
     }
   ],
   "EOS_Progressed": 680545,
@@ -35225,9 +35237,9 @@
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-08-13T14:57:21.1051306+00:00",
+  "LastChanged": "2024-08-13T17:59:15.1095885+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:47.3758271+00:00",
   "LastUpdate_AppInfo": "2024-08-12T10:57:11.5354526+00:00",
-  "LastUpdate_Ratings": "2024-08-13T16:01:14.1094352+00:00",
+  "LastUpdate_Ratings": "2024-08-13T17:59:15.109589+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:47.3760121+00:00"
 }
