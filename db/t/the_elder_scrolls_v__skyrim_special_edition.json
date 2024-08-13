@@ -4,7 +4,7 @@
   "ProductSlug": "skyrim",
   "Ranking_Rating": 28,
   "Ranking_Popularity": 133,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -7783,10 +7783,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 5109,
       "NumberOfAwardsMax": 2162
+    },
+    {
+      "Time": "2024-08-13T04:57:58.3191411+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 5112,
+      "NumberOfAwardsMax": 2162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5109,
+  "NumberOfAwards": 5112,
   "NumberOfAwardsMax": 2162,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7818,7 +7824,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 481
+      "Count": 484
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7863,8 +7869,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2024-08-12T22:58:57.054522+00:00",
+  "LastChanged": "2024-08-13T04:57:58.3191409+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:30.7053655+00:00",
-  "LastUpdate_Ratings": "2024-08-13T02:59:09.3951567+00:00",
+  "LastUpdate_Ratings": "2024-08-13T04:57:58.3191416+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:43.2445852+00:00"
 }
