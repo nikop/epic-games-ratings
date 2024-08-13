@@ -3,7 +3,7 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 635,
-  "Ranking_Popularity": 519,
+  "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 596,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 476,
@@ -497,18 +497,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 59,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-08-13T21:57:25.3775301+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 60,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 60,
+  "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 59
+      "Count": 60
     }
   ],
   "EOS_Progressed": 2255,
@@ -5270,9 +5276,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
-  "LastChanged": "2024-08-11T14:57:20.8254048+00:00",
+  "LastChanged": "2024-08-13T21:57:25.37753+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:48.3256209+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:52.519193+00:00",
-  "LastUpdate_Ratings": "2024-08-13T19:58:42.083158+00:00",
+  "LastUpdate_Ratings": "2024-08-13T21:57:25.3775304+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:48.3256666+00:00"
 }
