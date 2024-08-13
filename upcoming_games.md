@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Distant Bloom](games/e/e8733a5925c5456b896fd816c2e89c0f.md) | 2024-08-13 | - |  | - | - |
 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2024-08-13 | 40 (1,000 XP) | 4 | - | - |
 | [Monster Adventurer X](games/e/e597ab37bf5241579b5e6c7bc209def3.md) | 2024-08-14 | - |  | - | - |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | - |
@@ -18,6 +17,7 @@
 | [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | - | - |
 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | - | - |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | - |  | - | - |
+| [Distant Bloom](games/e/e8733a5925c5456b896fd816c2e89c0f.md) | 2024-08-19 | - |  | - | - |
 | [Hero of the Kingdom: The Lost Tales 1](games/0/0ff213fbaec14c7c89ab968f5ebd2a8a.md) | 2024-08-19 | 26 (1,000 XP) | 0 | - | - |
 | [Lost in Space: Madness](games/7/798b7ebbde4d4904aa528a4a8823203b.md) | 2024-08-19 | 21 (1,000 XP) | 2 | - | - |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | - |  | - | - |
