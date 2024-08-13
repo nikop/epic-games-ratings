@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 346)  
+Rating: 4.65 (Ranked 347)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -663,9 +663,9 @@ Completed: 7 (0.03%) (Ranked 487)
 | 2024-07-25 | 19,981 | 7 |
 | 2024-08-09 | 20,112 | 7 |
 ## Awards
-Max (Diverse Characters): 260  (Ranked 320)  
+Max (Diverse Characters): 260  (Ranked 321)  
 Sum: 2,075 (Ranked 246)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 260 |

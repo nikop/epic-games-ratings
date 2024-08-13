@@ -1,7 +1,7 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 306)  
+Rating: 4.67 (Ranked 307)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -340,12 +340,12 @@ Completed: 139 (0.05%) (Ranked 468)
 | 2024-06-17 | 250,637 | 128 |
 | 2024-08-09 | 257,085 | 139 |
 ## Awards
-Max (Great for Beginners): 628  (Ranked 237)  
-Sum: 5,165 (Ranked 164)  
+Max (Great for Beginners): 629  (Ranked 237)  
+Sum: 5,166 (Ranked 164)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 628 |
+| This game is Great for Beginners | 629 |
 | This game has Diverse Characters | 574 |
 | This game is Extremely Fun | 568 |
 | This game has Amazing Storytelling | 543 |
@@ -750,4 +750,4 @@ Diff (max vs sum): 73
 | 2024-08-06 | 4.67 | - | 627 | 5,159 |
 | 2024-08-10 | 4.67 | - | 627 | 5,160 |
 | 2024-08-11 | 4.67 | - | 628 | 5,164 |
-| 2024-08-13 | 4.67 | - | 628 | 5,165 |
+| 2024-08-13 | 4.67 | - | 629 | 5,166 |

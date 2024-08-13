@@ -2,9 +2,9 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_Rating": 506,
-  "Ranking_Popularity": 326,
-  "Ranking_PopularitySum": 262,
+  "Ranking_Rating": 507,
+  "Ranking_Popularity": 309,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 452,
   "Ranking_EOS_NewPlayers": 97,
@@ -4717,12 +4717,18 @@
       "Rating": 4.58,
       "NumberOfAwards": 1773,
       "NumberOfAwardsMax": 252
+    },
+    {
+      "Time": "2024-08-13T13:59:23.3620494+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 2066,
+      "NumberOfAwardsMax": 287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1773,
-  "NumberOfAwardsMax": 252,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 2066,
+  "NumberOfAwardsMax": 287,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4740,19 +4746,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 252
+      "Count": 255
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 246
+      "Count": 248
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 249
+      "Count": 250
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4776,7 +4782,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 284
+      "Count": 287
     }
   ],
   "EOS_Progressed": 645713,
@@ -16640,9 +16646,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-08-13T09:00:53.5697782+00:00",
+  "LastChanged": "2024-08-13T13:59:23.3620493+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:32.6396716+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:13.3859799+00:00",
-  "LastUpdate_Ratings": "2024-08-13T11:00:05.868722+00:00",
+  "LastUpdate_Ratings": "2024-08-13T13:59:23.3620498+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:32.6397458+00:00"
 }

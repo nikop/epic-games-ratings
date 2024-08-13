@@ -2,7 +2,7 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 463,
+  "Ranking_Rating": 464,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 1184,
@@ -14081,18 +14081,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 37316,
       "NumberOfAwardsMax": 17939
+    },
+    {
+      "Time": "2024-08-13T13:57:44.9538277+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 37332,
+      "NumberOfAwardsMax": 17952
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37316,
-  "NumberOfAwardsMax": 17939,
+  "NumberOfAwards": 37332,
+  "NumberOfAwardsMax": 17952,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 17939
+      "Count": 17952
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14128,7 +14134,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1863
+      "Count": 1866
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14173,8 +14179,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-08-13T10:58:29.8951821+00:00",
+  "LastChanged": "2024-08-13T13:57:44.9538276+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:15.9689689+00:00",
-  "LastUpdate_Ratings": "2024-08-13T10:58:29.8951826+00:00",
+  "LastUpdate_Ratings": "2024-08-13T13:57:44.9538281+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:20.3210268+00:00"
 }
