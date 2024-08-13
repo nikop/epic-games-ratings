@@ -213,6 +213,7 @@
 | [Phantom Breaker: Battle Grounds Ultimate](games/6/6a2cb8188318475e98ff8b6bc5cf3d1e.md) | 2025-02-28 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [Day of the Shell](games/2/28cf4c9348854bf5869237e0b4c8ca22.md) | 2025-03-31 | - |  | - | - |
+| [Jetsoccer](games/5/533d845b34614ec8aaa18d34e00b1bd9.md) | 2025-03-31 | - |  | - | - |
 | [Orcs Must Die! Deathtrap](games/1/1a6c29112ec747bda627f2f6643d1dae.md) | 2025-03-31 | - |  | - | - |
 | [Pluto Lost Its Colors](games/9/9fe8c7c2e71441ceb62dedcf702d71da.md) | 2025-03-31 | - |  | - | - |
 | [refugees:shelter](games/a/a4ec942bf76b48e0a1f3d27008d0ae93.md) | 2025-03-31 | - |  | - | - |
