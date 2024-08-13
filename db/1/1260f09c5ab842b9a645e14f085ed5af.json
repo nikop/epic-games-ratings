@@ -2,7 +2,7 @@
   "ID": "1260f09c5ab842b9a645e14f085ed5af",
   "Name": "Infinifactory",
   "ProductSlug": "infinifactory-ec9686",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 576,
   "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 1184,
@@ -1193,10 +1193,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 408,
       "NumberOfAwardsMax": 249
+    },
+    {
+      "Time": "2024-08-13T15:00:20.3259568+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 409,
+      "NumberOfAwardsMax": 249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 408,
+  "NumberOfAwards": 409,
   "NumberOfAwardsMax": 249,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1228,7 +1234,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1263,9 +1269,9 @@
   "FirstSeen": "2024-01-25T18:57:35.0792201+00:00",
   "FirstSeenRating": "2024-01-26T22:58:02.5444122+00:00",
   "FirstSeenAchievements": "2024-01-18T17:09:04.5131564+00:00",
-  "LastChanged": "2024-08-12T21:59:05.0347041+00:00",
+  "LastChanged": "2024-08-13T15:00:20.3259566+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:17.317283+00:00",
   "LastUpdate_AppInfo": "2024-08-09T06:57:19.4722665+00:00",
-  "LastUpdate_Ratings": "2024-08-13T13:58:15.9505603+00:00",
+  "LastUpdate_Ratings": "2024-08-13T15:00:20.3259571+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:17.3172856+00:00"
 }

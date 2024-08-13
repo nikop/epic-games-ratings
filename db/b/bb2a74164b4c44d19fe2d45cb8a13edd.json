@@ -2,9 +2,9 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 733,
+  "Ranking_Rating": 744,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 233,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2024-07-11T18:57:10.0452281+00:00",
@@ -1092,10 +1092,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 2440,
       "NumberOfAwardsMax": 524
+    },
+    {
+      "Time": "2024-08-13T14:58:45.7482531+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 2464,
+      "NumberOfAwardsMax": 524
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2440,
+  "NumberOfAwards": 2464,
   "NumberOfAwardsMax": 524,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1109,7 +1115,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 195
+      "Count": 206
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1139,7 +1145,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 221
+      "Count": 234
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1166,8 +1172,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-08-13T08:57:39.2708938+00:00",
+  "LastChanged": "2024-08-13T14:58:45.7482526+00:00",
   "LastUpdate_AppInfo": "2024-08-08T02:57:03.097373+00:00",
-  "LastUpdate_Ratings": "2024-08-13T12:00:15.0193306+00:00",
+  "LastUpdate_Ratings": "2024-08-13T14:58:45.7482535+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:08:09.7592032+00:00"
 }

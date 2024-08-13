@@ -2,7 +2,7 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_Rating": 1083,
+  "Ranking_Rating": 1143,
   "Ranking_Popularity": 686,
   "Ranking_PopularitySum": 686,
   "Ranking_EOS_Progress": 212,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-12-27T16:58:07.3955205+00:00",
@@ -117,6 +117,12 @@
     {
       "Time": "2024-08-11T05:58:12.470624+00:00",
       "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-13T14:57:22.3915314+00:00",
+      "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -20352,9 +20358,9 @@
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged": "2024-08-11T05:58:12.4706238+00:00",
+  "LastChanged": "2024-08-13T14:57:22.3915313+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:29.4181639+00:00",
   "LastUpdate_AppInfo": "2024-08-11T05:57:01.3488525+00:00",
-  "LastUpdate_Ratings": "2024-08-13T11:58:26.5022915+00:00",
+  "LastUpdate_Ratings": "2024-08-13T14:57:22.3915323+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:29.4182902+00:00"
 }
