@@ -4,7 +4,7 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 436,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -7898,10 +7898,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4277,
       "NumberOfAwardsMax": 532
+    },
+    {
+      "Time": "2024-08-13T02:59:05.0765281+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4282,
+      "NumberOfAwardsMax": 532
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4277,
+  "NumberOfAwards": 4282,
   "NumberOfAwardsMax": 532,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -7915,7 +7921,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 447
+      "Count": 448
     },
     {
       "Text": "This game has Competitive Players",
@@ -7927,7 +7933,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 429
+      "Count": 431
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7939,7 +7945,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 501
+      "Count": 503
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -40793,9 +40799,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-08-12T20:58:45.9499394+00:00",
+  "LastChanged": "2024-08-13T02:59:05.076528+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:40.820247+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:28.163239+00:00",
-  "LastUpdate_Ratings": "2024-08-13T01:59:45.8548896+00:00",
+  "LastUpdate_Ratings": "2024-08-13T02:59:05.0765285+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:40.8204518+00:00"
 }
