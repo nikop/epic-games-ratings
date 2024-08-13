@@ -2,7 +2,7 @@
   "ID": "65add98d18a64e2ead3b8f05c84cba94",
   "Name": "The Red Lantern",
   "ProductSlug": "the-red-lantern",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 392,
   "Ranking_Popularity": 687,
   "Ranking_PopularitySum": 687,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2022-11-27T15:57:53.4583186+00:00",
@@ -87,6 +87,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-13T22:58:47.01814+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -105,8 +111,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:33.1149694+00:00",
   "FirstSeenRating": "2022-11-27T15:57:53.4583182+00:00",
-  "LastChanged": "2024-08-06T20:59:18.8065502+00:00",
+  "LastChanged": "2024-08-13T22:58:47.0181399+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:38.9650706+00:00",
-  "LastUpdate_Ratings": "2024-08-13T20:59:20.9489389+00:00",
+  "LastUpdate_Ratings": "2024-08-13T22:58:47.0181403+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:19.875801+00:00"
 }

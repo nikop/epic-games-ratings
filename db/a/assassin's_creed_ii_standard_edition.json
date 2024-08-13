@@ -3024,10 +3024,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 516,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-08-13T22:58:52.0895636+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 517,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 516,
+  "NumberOfAwards": 517,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -3077,7 +3083,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Easy Combat",
@@ -3109,8 +3115,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-08-13T14:00:50.4544468+00:00",
+  "LastChanged": "2024-08-13T22:58:52.0895635+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:30.9444096+00:00",
-  "LastUpdate_Ratings": "2024-08-13T20:59:25.185812+00:00",
+  "LastUpdate_Ratings": "2024-08-13T22:58:52.0895639+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:28.8090331+00:00"
 }

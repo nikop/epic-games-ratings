@@ -2,7 +2,7 @@
   "ID": "f2bfff793b224f6190a394f461c9a4b8",
   "Name": "The Telltale Batman Shadows Edition",
   "ProductSlug": "the-telltale-batman",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 568,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.76,
   "NumberOfRatings": 135,
   "RatingHistory": [
     {
@@ -621,6 +621,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-08-13T23:00:09.7821007+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
@@ -646,8 +652,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
-  "LastChanged": "2024-08-11T13:03:40.7340502+00:00",
+  "LastChanged": "2024-08-13T23:00:09.7821005+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:53.4907008+00:00",
-  "LastUpdate_Ratings": "2024-08-13T21:57:30.1107862+00:00",
+  "LastUpdate_Ratings": "2024-08-13T23:00:09.7821009+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:23.6273917+00:00"
 }
