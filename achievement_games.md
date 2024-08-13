@@ -263,7 +263,7 @@
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 4,434 | 4.79 | 0 |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 1 | - | 0 |
-| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 64,354 | 3.85 | 110 |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 64,354 | 3.85 | 111 |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 1,150 | - | 0 |
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 18 | - | 0 |
@@ -852,7 +852,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,662 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 117,135 | 3.75 | 698 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 96 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,011,600 | 4.54 | 16,319 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,011,600 | 4.54 | 16,330 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 14,655 | 4.41 | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 221 | - | 0 |
@@ -1033,7 +1033,7 @@
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 57 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 70,301 | 4.24 | 0 |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 17,479 | 4.76 | 1,543 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 17,479 | 4.76 | 1,545 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 931,840 | 4.24 | 751 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 1,069 | 4.55 | 40 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
@@ -1111,7 +1111,7 @@
 | [Wildermyth](games/w/wildermyth.md) | 2022-04-22 | 94 (1,500 XP) | 1,949 | 4.79 | 33 |
 | [Smelter](games/s/smelter.md) | 2022-04-22 | 51 (1,000 XP) | 54 | - | 0 |
 | [Godlike Burger](games/g/godlike_burger.md) | 2022-04-21 | 28 (1,000 XP) | 445,132 | 4.53 | 0 |
-| [Riverbond](games/r/riverbond.md) | 2022-04-21 | 57 (1,000 XP) | 545,783 | 4.45 | 23 |
+| [Riverbond](games/r/riverbond.md) | 2022-04-21 | 57 (1,000 XP) | 545,783 | 4.46 | 23 |
 | [MythForce](games/m/mythforce.md) | 2022-04-20 | 23 (1,000 XP) | 22,568 | 4.43 | 40 |
 | [Spirit of the North](games/s/spirit_of_the_north.md) | 2022-04-19 | 24 (1,000 XP) | 92,387 | 4.36 | 28 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2022-04-18 | 46 (1,000 XP) | 84,353 | 4.51 | 806 |
@@ -1189,7 +1189,7 @@
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 15,801 | 4.50 | 58 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 268 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 89,351 | 4.64 | 26 |
-| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 26,177 | 4.69 | 379 |
+| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 26,177 | 4.69 | 380 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 184,840 | 4.60 | 99 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 159,412 | 4.39 | 345 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 82,219 | 4.52 | 129 |
@@ -1242,7 +1242,7 @@
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 84,702 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,815 | 4.04 | 0 |
 | [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 531,105 | 4.61 | 120 |
-| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 30,547,380 | 4.43 | 913,477 |
+| [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 30,547,380 | 4.43 | 914,695 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 264,339 | 4.58 | 381 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 2020-09-08 | 69 (1,000 XP) | 1,660 | 4.54 | 92 |
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 30,471 | 4.84 | 239 |
