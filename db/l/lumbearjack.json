@@ -2,7 +2,7 @@
   "ID": "b112cc17de8c4b43a2372993b5916fec",
   "Name": "LumbearJack",
   "ProductSlug": "lumbearjack-b5bedf",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 685,
   "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1184,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:43.3825822+00:00",
@@ -88,6 +88,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-13T02:01:19.7293562+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -106,8 +112,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:30.7865148+00:00",
   "FirstSeenRating": "2023-03-31T05:58:43.3825819+00:00",
-  "LastChanged": "2024-08-12T02:02:51.7268329+00:00",
+  "LastChanged": "2024-08-13T02:01:19.729356+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:11.7298551+00:00",
-  "LastUpdate_Ratings": "2024-08-12T23:00:50.7567831+00:00",
+  "LastUpdate_Ratings": "2024-08-13T02:01:19.7293566+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:21.819143+00:00"
 }

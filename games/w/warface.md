@@ -1,15 +1,15 @@
 # Warface: Clutch
 [Store](https://store.epicgames.com/en-US/p/warface)  
 [View Rawdata](../../db/w/warface.json)  
-Rating: 3.88 (Ranked 1,219)  
+Rating: 3.88 (Ranked 1,220)  
 Number of Ratings: 3,179  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 523  (Ranked 255)  
-Sum: 3,347 (Ranked 203)  
-Diff (max vs sum): 52  
+Max (Diverse Characters): 525  (Ranked 254)  
+Sum: 3,349 (Ranked 203)  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 523 |
+| This game has Diverse Characters | 525 |
 | This game is Relaxing | 442 |
 | This game is Highly Recommended | 421 |
 | This game has Competitive Players | 419 |
@@ -451,3 +451,4 @@ Diff (max vs sum): 52
 | 2024-08-08 | 3.88 | - | 523 | 2,960 |
 | 2024-08-09 | 3.88 | - | 523 | 2,962 |
 | 2024-08-12 | 3.88 | - | 523 | 3,347 |
+| 2024-08-13 | 3.88 | - | 525 | 3,349 |
