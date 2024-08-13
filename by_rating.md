@@ -34,7 +34,7 @@
 | 28 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 103 | 443 |
 | 28 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.86 | 0 | 686 |
 | 28 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 63 | 510 |
-| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,162 | 133 |
+| 28 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,169 | 133 |
 | 28 | [The Legend of Heroes: Trails from Zero](games/t/the_legend_of_heroes__trails_from_zero.md) | 4.86 | 0 | 686 |
 | 28 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 193 | 361 |
 | 38 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 0 | 686 |
@@ -56,7 +56,7 @@
 | 50 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 9,022 | 62 |
 | 50 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 16,043 | 36 |
 | 50 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 329 | 294 |
-| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 315 | 297 |
+| 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 317 | 297 |
 | 50 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 4.84 | 0 | 686 |
 | 50 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 239 | 334 |
 | 50 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.84 | 254 | 324 |
@@ -220,25 +220,25 @@
 | 215 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 168 | 378 |
 | 215 | [Shadow Tactics - Aiko's Choice](games/s/shadow_tactics_-_aiko's_choice.md) | 4.72 | 0 | 686 |
 | 215 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 4.72 | 445 | 271 |
+| 215 | [Tchia](games/t/tchia.md) | 4.72 | 0 | 686 |
 | 215 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.72 | 0 | 686 |
-| 222 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 745 | 225 |
-| 222 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 749 | 224 |
-| 222 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.71 | 0 | 686 |
-| 222 | [Foretales](games/f/foretales.md) | 4.71 | 0 | 686 |
-| 222 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 0 | 686 |
-| 222 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.71 | 1,922 | 140 |
-| 222 | [Islets](games/i/islets.md) | 4.71 | 47 | 548 |
-| 222 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.71 | 0 | 686 |
-| 222 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 8,711 | 66 |
-| 222 | [shapez](games/s/shapez.md) | 4.71 | 37 | 580 |
-| 222 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 686 |
-| 222 | [Tchia](games/t/tchia.md) | 4.71 | 0 | 686 |
-| 222 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 686 |
-| 222 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 0 | 686 |
-| 222 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 0 | 686 |
-| 222 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 686 |
-| 222 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 3,001 | 116 |
-| 239 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,766 | 97 |
+| 223 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 745 | 225 |
+| 223 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.71 | 749 | 224 |
+| 223 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.71 | 0 | 686 |
+| 223 | [Foretales](games/f/foretales.md) | 4.71 | 0 | 686 |
+| 223 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 0 | 686 |
+| 223 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.71 | 1,922 | 140 |
+| 223 | [Islets](games/i/islets.md) | 4.71 | 47 | 548 |
+| 223 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.71 | 0 | 686 |
+| 223 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 8,711 | 66 |
+| 223 | [shapez](games/s/shapez.md) | 4.71 | 37 | 580 |
+| 223 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.71 | 0 | 686 |
+| 223 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.71 | 0 | 686 |
+| 223 | [The Stanley Parable](games/t/the_stanley_parable.md) | 4.71 | 0 | 686 |
+| 223 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 0 | 686 |
+| 223 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 686 |
+| 223 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 3,001 | 116 |
+| 239 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,771 | 97 |
 | 239 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.70 | 166 | 383 |
 | 239 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 147 | 395 |
 | 239 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 313 | 299 |
@@ -404,10 +404,10 @@
 | 393 | [HITMAN](games/h/hitman.md) | 4.63 | 239 | 334 |
 | 393 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 205 | 354 |
 | 393 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 812 | 213 |
-| 393 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,972 | 96 |
+| 393 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 4,982 | 96 |
 | 393 | [Northgard](games/n/northgard.md) | 4.63 | 60 | 516 |
 | 393 | [Partisans 1941](games/p/partisans_1941.md) | 4.63 | 0 | 686 |
-| 393 | [Prey](games/p/prey.md) | 4.63 | 6,158 | 86 |
+| 393 | [Prey](games/p/prey.md) | 4.63 | 6,158 | 87 |
 | 393 | [Sonic Superstars](games/f/f11d27ea453b4ea4a6494ffbe0361482.md) | 4.63 | 0 | 686 |
 | 393 | [Tails of Iron](games/t/tails_of_iron.md) | 4.63 | 24 | 649 |
 | 393 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.63 | 883 | 207 |
@@ -711,7 +711,7 @@
 | 692 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.49 | 39 | 574 |
 | 692 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 686 |
 | 692 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 17,130 | 31 |
-| 692 | [Train Valley 2](games/t/train_valley_2.md) | 4.49 | 1,415 | 157 |
+| 692 | [Train Valley 2](games/t/train_valley_2.md) | 4.49 | 1,418 | 157 |
 | 692 | [VALORANT](games/v/valorant.md) | 4.49 | 136,811 | 10 |
 | 714 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 67 | 502 |
 | 714 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 686 |
@@ -780,7 +780,7 @@
 | 765 | [Scorn](games/s/scorn.md) | 4.45 | 0 | 686 |
 | 765 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 0 | 686 |
 | 765 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 765 | 220 |
-| 765 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 315 | 297 |
+| 765 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 315 | 298 |
 | 765 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.45 | 0 | 686 |
 | 765 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 154 | 388 |
 | 784 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 4.44 | 0 | 686 |
@@ -878,7 +878,7 @@
 | 860 | [Rising Hell](games/r/rising_hell.md) | 4.40 | 76 | 487 |
 | 860 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 645 | 234 |
 | 860 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.40 | 75 | 489 |
-| 860 | [SMITE](games/s/smite.md) | 4.40 | 6,150 | 87 |
+| 860 | [SMITE](games/s/smite.md) | 4.40 | 6,160 | 86 |
 | 860 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 686 |
 | 860 | [The Silent Age](games/t/the_silent_age.md) | 4.40 | 0 | 686 |
 | 882 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 686 |
@@ -1188,7 +1188,7 @@
 | 1,185 | [The First Tree](games/t/the_first_tree.md) | 4.02 | 0 | 686 |
 | 1,187 | [Armored Warfare](games/a/armored_warfare.md) | 4.01 | 144 | 398 |
 | 1,187 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 12,322 | 48 |
-| 1,187 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,357 | 90 |
+| 1,187 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,359 | 90 |
 | 1,190 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 686 |
 | 1,190 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.00 | 0 | 686 |
 | 1,190 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 686 |
