@@ -4,8 +4,8 @@
 Rating: 4.46 (Ranked 745)  
 Number of Ratings: 248  (23.09.2022)  
 ## Awards
-Max (Realistic Visuals): 43  (Ranked 558)  
-Sum: 347 (Ranked 439)  
+Max (Realistic Visuals): 43  (Ranked 559)  
+Sum: 347 (Ranked 440)  
 Diff (max vs sum): 119  
 | Award | Count |
 | ----- | ----- |
