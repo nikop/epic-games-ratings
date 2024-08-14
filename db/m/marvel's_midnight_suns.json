@@ -3,8 +3,8 @@
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
   "Ranking_Rating": 789,
-  "Ranking_Popularity": 55,
-  "Ranking_PopularitySum": 69,
+  "Ranking_Popularity": 54,
+  "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -12429,18 +12429,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 24986,
       "NumberOfAwardsMax": 10309
+    },
+    {
+      "Time": "2024-08-14T17:57:30.8703896+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 25054,
+      "NumberOfAwardsMax": 10349
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24986,
-  "NumberOfAwardsMax": 10309,
+  "NumberOfAwards": 25054,
+  "NumberOfAwardsMax": 10349,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 10309
+      "Count": 10349
     },
     {
       "Text": "This game is Great for Beginners",
@@ -12488,7 +12494,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1739
+      "Count": 1761
     },
     {
       "Text": "This game has a Creative Community",
@@ -12500,7 +12506,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1757
+      "Count": 1763
     }
   ],
   "EOS_Progressed": 0,
@@ -12515,8 +12521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-08-14T12:00:09.1240095+00:00",
+  "LastChanged": "2024-08-14T17:57:30.8703895+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:48.2481166+00:00",
-  "LastUpdate_Ratings": "2024-08-14T15:58:31.6492578+00:00",
+  "LastUpdate_Ratings": "2024-08-14T17:57:30.8703903+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:49.6322518+00:00"
 }
