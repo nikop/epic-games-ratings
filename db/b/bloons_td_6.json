@@ -3,7 +3,7 @@
   "Name": "Bloons TD 6",
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 132,
-  "Ranking_Popularity": 38,
+  "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -21979,11 +21979,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 79491,
       "NumberOfAwardsMax": 15210
+    },
+    {
+      "Time": "2024-08-14T16:59:34.4693003+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 79636,
+      "NumberOfAwardsMax": 15279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79491,
-  "NumberOfAwardsMax": 15210,
+  "NumberOfAwards": 79636,
+  "NumberOfAwardsMax": 15279,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -21996,7 +22002,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 11638
+      "Count": 11677
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -22008,7 +22014,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5741
+      "Count": 5763
     },
     {
       "Text": "This game is Highly Recommended",
@@ -22026,7 +22032,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 15210
+      "Count": 15279
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -22044,7 +22050,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6148
+      "Count": 6163
     },
     {
       "Text": "This game is Relaxing",
@@ -22077,8 +22083,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-08-14T15:01:33.3336773+00:00",
+  "LastChanged": "2024-08-14T16:59:34.4693001+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:33.4845146+00:00",
-  "LastUpdate_Ratings": "2024-08-14T15:01:33.3336779+00:00",
+  "LastUpdate_Ratings": "2024-08-14T16:59:34.4693007+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:20.6214144+00:00"
 }

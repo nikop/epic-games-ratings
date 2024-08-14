@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.83 (Ranked 61)  
+Rating: 4.84 (Ranked 50)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -441,3 +441,4 @@ Diff (max vs sum): -85
 | 2024-08-10 | 4.83 | 63 | 63 |
 | 2024-08-11 | 4.83 | 65 | 65 |
 | 2024-08-13 | 4.83 | 66 | 66 |
+| 2024-08-14 | 4.84 | 66 | 66 |
