@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-5",
   "Ranking_Rating": 767,
   "Ranking_Popularity": 389,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -2760,10 +2760,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1089,
       "NumberOfAwardsMax": 154
+    },
+    {
+      "Time": "2024-08-14T06:00:14.187707+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1090,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1089,
+  "NumberOfAwards": 1090,
   "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2807,7 +2813,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game is Relaxing",
@@ -2845,8 +2851,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2024-08-12T18:57:24.6192618+00:00",
+  "LastChanged": "2024-08-14T06:00:14.1877068+00:00",
   "LastUpdate_AppInfo": "2024-08-11T18:57:12.4140372+00:00",
-  "LastUpdate_Ratings": "2024-08-14T04:00:29.8685286+00:00",
+  "LastUpdate_Ratings": "2024-08-14T06:00:14.1877096+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:19.8038554+00:00"
 }

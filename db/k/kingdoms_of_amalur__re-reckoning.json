@@ -4,7 +4,7 @@
   "ProductSlug": "kingdoms-of-amalur-re-reckoning",
   "Ranking_Rating": 599,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 525,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -607,10 +607,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 144,
       "NumberOfAwardsMax": 92
+    },
+    {
+      "Time": "2024-08-14T05:59:21.6934792+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 92
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 144,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 92,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -624,7 +630,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 52
+      "Count": 53
     }
   ],
   "EOS_Progressed": 1660,
@@ -1221,9 +1227,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
   "FirstSeenAchievements": "2024-02-22T21:05:28.573134+00:00",
-  "LastChanged": "2024-08-12T19:59:07.2458964+00:00",
+  "LastChanged": "2024-08-14T05:59:21.693479+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:36.3578037+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:56.0539891+00:00",
-  "LastUpdate_Ratings": "2024-08-14T03:59:51.5276441+00:00",
+  "LastUpdate_Ratings": "2024-08-14T05:59:21.6934794+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:36.3578672+00:00"
 }
