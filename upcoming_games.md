@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2024-08-13 | 40 (1,000 XP) | 4 | - | - |
 | [Monster Adventurer X](games/e/e597ab37bf5241579b5e6c7bc209def3.md) | 2024-08-14 | - |  | - | - |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | - |
 | [Strong Fortress](games/5/517c5d875a104cfb98506f8f2844a555.md) | 2024-08-15 | - |  | - | - |

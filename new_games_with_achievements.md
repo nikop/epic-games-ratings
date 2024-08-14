@@ -1,11 +1,12 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2024-08-13 | 40 (1,000 XP) | 4 | - | - |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-13 | 21 (1,000 XP) | 0 | - | - |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 1 | - | - |
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-12 | 57 (1,000 XP) | 0 | - | 0 |
 | [Runes of Mystery](games/4/4e2e4b7052de48e192361c7364b27bf0.md) | 2024-08-12 | 5 (1,000 XP) | 5 | - | 0 |
 | [Firelight Fantasy: Resistance](games/e/e0fceab3d7bc433ba25b9142a965ed09.md) | 2024-08-10 | 6 (1,000 XP) | 3 | - | - |
-| [Space Will](games/f/f637e810b14946d0bc385d1b33a3ab6b.md) | 2024-08-10 | 100 (1,000 XP) | 4 | - | - |
+| [Space Will](games/f/f637e810b14946d0bc385d1b33a3ab6b.md) | 2024-08-10 | 100 (1,000 XP) | 4 | - | 0 |
 | [Airport](games/6/685f5a4e22814cf88dd98cdda721649e.md) | 2024-08-09 | 45 (1,000 XP) | 3 | - | 0 |
 | [Unholy Village](games/9/9fb0adc767184d57ae4d6f4dc47235ba.md) | 2024-08-09 | 6 (1,000 XP) | 1 | - | - |
 | [Looper Tactics Deluxe Edition](games/e/e551ed37b11f45ec9fb62af82ed0354f.md) | 2024-08-09 | 28 (1,000 XP) | 0 | - | 0 |
@@ -18,7 +19,7 @@
 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 11 (1,000 XP) | 1 | - | - |
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 5 | - | 0 |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 16,290 | 4.24 | 0 |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 16,290 | 4.23 | 0 |
 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2024-08-06 | 38 (1,045 XP) | 3,364 | 4.22 | 0 |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | 34 (1,000 XP) | 1 | - | - |
 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 36,702 | 3.82 | 0 |
