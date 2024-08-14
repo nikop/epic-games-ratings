@@ -1,12 +1,12 @@
 # Poly Bridge 2
 [Store](https://store.epicgames.com/en-US/p/poly-bridge-2)  
 [View Rawdata](../../db/p/poly_bridge_2.json)  
-Rating: 4.52 (Ranked 635)  
+Rating: 4.52 (Ranked 636)  
 Number of Ratings: 54  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 35  (Ranked 592)  
-Sum: 35 (Ranked 630)  
-Diff (max vs sum): -38  
+Sum: 35 (Ranked 631)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 35 |
