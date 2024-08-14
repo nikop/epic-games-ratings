@@ -51,6 +51,7 @@
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | - |  | - | - |
 | [Time Travel: Escape Room Game](games/6/6d5cd78354154858b6a05f84e6ffbea8.md) | 2024-09-05 | 13 (1,000 XP) | 0 | - | - |
 | [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | - |  | - | - |
+| [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-11 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2024-09-16 | - |  | - | - |
 | [Sammy Jukes: Twin Lakes](games/4/4ee1c06e76884f3b99af95fa347f9c36.md) | 2024-09-19 | - |  | - | - |
 | [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | - | - |
@@ -314,6 +315,7 @@
 | [cant be touched: Algeria War](games/7/73df555f0b5145ee89ee3b370e7eebb7.md) | 2099-01-01 | - |  | - | - |
 | [Capes](games/c/capes.md) | 2099-01-01 | - |  | - | - |
 | [Captain Bones](games/c/c72f755f02204435a4ad38a451805260.md) | 2099-01-01 | - |  | - | - |
+| [Carpathian Survival](games/c/ce34ca6d3ae240d9b6f0753c004fef67.md) | 2099-01-01 | - |  | - | - |
 | [Cat Billiards](games/a/af1bc981716d44a4a2e6e6bec2fef194.md) | 2099-01-01 | 100 (1,000 XP) | 1 | - | - |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
 | [Chains of War](games/2/29f2565853204cf3ad9aa748f30a36d5.md) | 2099-01-01 | - |  | - | - |
@@ -347,6 +349,7 @@
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | - |  | - | - |
 | [DESERTED](games/0/0ee52c80fe5e48a48f5c0d80fa9436cc.md) | 2099-01-01 | 23 (1,000 XP) | 3 | - | - |
 | [Despelote](games/e/ebe9c4222dc7428b955c31dc8131616d.md) | 2099-01-01 | - |  | - | - |
+| [Destiny's Soul](games/a/a34a0b4097a640e3b495a16c93e68cf6.md) | 2099-01-01 | - |  | - | - |
 | [Detained: Too Good for School](games/5/5acc75e4b0834de092d01f27cbde1060.md) | 2099-01-01 | - |  | - | - |
 | [Deverse World](games/c/c4a0429b74cb4abbb49b15e652ec6c1f.md) | 2099-01-01 | - |  | - | 0 |
 | [DevMtForakerAudience](games/r/r.b.i._baseball_21.md) | 2099-01-01 | - |  | - | - |
