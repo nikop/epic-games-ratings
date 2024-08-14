@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 109,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 151,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -9595,10 +9595,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7075,
       "NumberOfAwardsMax": 925
+    },
+    {
+      "Time": "2024-08-14T19:59:30.5816181+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7084,
+      "NumberOfAwardsMax": 925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7075,
+  "NumberOfAwards": 7084,
   "NumberOfAwardsMax": 925,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9618,7 +9624,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 634
+      "Count": 637
     },
     {
       "Text": "This game is Educational",
@@ -9666,7 +9672,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 520
+      "Count": 526
     }
   ],
   "EOS_Progressed": 99985,
@@ -20257,9 +20263,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-08-14T18:57:40.5156257+00:00",
+  "LastChanged": "2024-08-14T19:59:30.581618+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:54.6134594+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:10.1128308+00:00",
-  "LastUpdate_Ratings": "2024-08-14T18:57:40.5156264+00:00",
+  "LastUpdate_Ratings": "2024-08-14T19:59:30.5816185+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:54.6136752+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mafia-ii-definitive-edition",
   "Ranking_Rating": 832,
   "Ranking_Popularity": 679,
-  "Ranking_PopularitySum": 619,
+  "Ranking_PopularitySum": 620,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -832,6 +832,6 @@
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
   "LastChanged": "2024-08-06T15:59:02.8561997+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:25.4457184+00:00",
-  "LastUpdate_Ratings": "2024-08-14T18:00:24.8192463+00:00",
+  "LastUpdate_Ratings": "2024-08-14T19:58:57.5566825+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:20.1165915+00:00"
 }
