@@ -2,7 +2,7 @@
   "ID": "8767c1c91fc847cbafbfa232c695276f",
   "Name": "Valiant Hearts: The Great War",
   "ProductSlug": "valiant-hearts",
-  "Ranking_Rating": 11,
+  "Ranking_Rating": 14,
   "Ranking_Popularity": 688,
   "Ranking_PopularitySum": 688,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.88,
   "NumberOfRatings": 30,
   "RatingHistory": [
     {
@@ -208,6 +208,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-14T07:59:37.5190452+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -226,8 +232,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:07.3987444+00:00",
   "FirstSeenRating": "2022-09-02T13:33:41.2971392+00:00",
-  "LastChanged": "2024-07-03T22:59:05.8110721+00:00",
+  "LastChanged": "2024-08-14T07:59:37.5190451+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:16.4335657+00:00",
-  "LastUpdate_Ratings": "2024-08-14T06:58:10.8411443+00:00",
+  "LastUpdate_Ratings": "2024-08-14T07:59:37.5190456+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:34.0006808+00:00"
 }

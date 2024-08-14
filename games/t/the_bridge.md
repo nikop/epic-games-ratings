@@ -1,7 +1,7 @@
 # The Bridge
 [Store](https://store.epicgames.com/en-US/p/the-bridge)  
 [View Rawdata](../../db/t/the_bridge.json)  
-Rating: 4.20 (Ranked 1,089)  
+Rating: 4.20 (Ranked 1,088)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,8 +36,8 @@ Completed: 305 (0.17%) (Ranked 400)
 | 2024-06-17 | 169,555 | 257 |
 | 2024-08-09 | 176,424 | 305 |
 ## Awards
-Max (Challenging Puzzles): 20  (Ranked 678)  
-Sum: 20 (Ranked 679)  
+Max (Challenging Puzzles): 20  (Ranked 679)  
+Sum: 20 (Ranked 680)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
