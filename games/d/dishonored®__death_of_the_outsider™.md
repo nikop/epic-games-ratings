@@ -4,7 +4,7 @@
 Rating: 4.43 (Ranked 805)  
 ## Awards
 Max (Diverse Characters): 89  (Ranked 468)  
-Sum: 738 (Ranked 358)  
+Sum: 739 (Ranked 358)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
@@ -14,8 +14,8 @@ Diff (max vs sum): 110
 | This game has Amazing Characters | 86 |
 | This game has Amazing Storytelling | 85 |
 | This game is Highly Recommended | 83 |
+| This game has Quickly Understood Controls | 83 |
 | This game is Great for Beginners | 82 |
-| This game has Quickly Understood Controls | 82 |
 | This game has Unique Visuals | 77 |
 | This game has a Creative Community | 56 |
 | This game has Great Boss Battles | 27 |
@@ -367,3 +367,4 @@ Diff (max vs sum): 110
 | 2024-08-11 | 4.43 | 89 | 735 |
 | 2024-08-12 | 4.43 | 89 | 737 |
 | 2024-08-13 | 4.43 | 89 | 738 |
+| 2024-08-14 | 4.43 | 89 | 739 |

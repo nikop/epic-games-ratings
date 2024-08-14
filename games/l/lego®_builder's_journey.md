@@ -1,7 +1,7 @@
 # LEGO® Builder's Journey
 [Store](https://store.epicgames.com/en-US/p/lego-builders-journey)  
 [View Rawdata](../../db/l/lego®_builder's_journey.json)  
-Rating: 4.44 (Ranked 785)  
+Rating: 4.45 (Ranked 767)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -70,3 +70,4 @@ Rating: 4.44 (Ranked 785)
 | 2024-07-19 | 4.46 | 0 | 0 |
 | 2024-07-27 | 4.45 | 0 | 0 |
 | 2024-08-06 | 4.44 | 0 | 0 |
+| 2024-08-14 | 4.45 | 0 | 0 |
