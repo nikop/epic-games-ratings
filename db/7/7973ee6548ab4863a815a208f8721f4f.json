@@ -4,7 +4,7 @@
   "ProductSlug": "grandchase-c03eb2",
   "Ranking_Rating": 241,
   "Ranking_Popularity": 451,
-  "Ranking_PopularitySum": 508,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -881,10 +881,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 189,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-08-14T11:58:32.6432533+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 189,
+  "NumberOfAwards": 209,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -905,6 +911,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -919,8 +931,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
-  "LastChanged": "2024-08-14T01:59:02.06763+00:00",
+  "LastChanged": "2024-08-14T11:58:32.6432532+00:00",
   "LastUpdate_AppInfo": "2024-08-07T20:57:00.2748383+00:00",
-  "LastUpdate_Ratings": "2024-08-14T09:58:58.7437672+00:00",
+  "LastUpdate_Ratings": "2024-08-14T11:58:32.6432536+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:25.0462494+00:00"
 }
