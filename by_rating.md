@@ -53,7 +53,7 @@
 | 50 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.84 | 63 | 509 |
 | 50 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 487 | 261 |
 | 50 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 56 | 527 |
-| 50 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 9,022 | 62 |
+| 50 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 9,028 | 62 |
 | 50 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 16,057 | 36 |
 | 50 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 329 | 294 |
 | 50 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 317 | 297 |
@@ -81,7 +81,7 @@
 | 75 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 4.82 | 624 | 239 |
 | 75 | [Huntdown](games/h/huntdown.md) | 4.82 | 0 | 688 |
 | 75 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.82 | 0 | 688 |
-| 75 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,339 | 127 |
+| 75 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 2,344 | 127 |
 | 75 | [Sifu](games/s/sifu.md) | 4.82 | 8,191 | 67 |
 | 75 | [Slime Rancher](games/s/slime_rancher.md) | 4.82 | 570 | 247 |
 | 75 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.82 | 82 | 477 |
@@ -97,7 +97,7 @@
 | 89 | [Melatonin](games/m/melatonin.md) | 4.81 | 0 | 688 |
 | 89 | [Plants vs. Zombies™ Game of the Year Edition](games/c/c7f4f01a250d409ebf0a47677b1b4896.md) | 4.81 | 0 | 688 |
 | 89 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.81 | 402 | 278 |
-| 89 | [The Messenger](games/t/the_messenger.md) | 4.81 | 384 | 282 |
+| 89 | [The Messenger](games/t/the_messenger.md) | 4.81 | 385 | 282 |
 | 89 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.81 | 0 | 688 |
 | 100 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.80 | 70 | 495 |
 | 100 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.80 | 0 | 688 |
@@ -174,29 +174,29 @@
 | 164 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 31 | 613 |
 | 164 | [SnowRunner](games/s/snowrunner.md) | 4.75 | 18,073 | 29 |
 | 164 | [Songs for a Hero - Definitive Edition](games/s/songs_for_a_hero_-_definitive_edition.md) | 4.75 | 0 | 688 |
-| 164 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.75 | 20 | 678 |
 | 164 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.75 | 0 | 688 |
 | 164 | [This War of Mine](games/t/this_war_of_mine.md) | 4.75 | 116 | 430 |
 | 164 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.75 | 1,458 | 155 |
-| 179 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.74 | 33 | 600 |
-| 179 | [Barony](games/b/barony.md) | 4.74 | 155 | 388 |
-| 179 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,086 | 182 |
-| 179 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.74 | 0 | 688 |
-| 179 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 10,301 | 56 |
-| 179 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.74 | 0 | 688 |
-| 179 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 688 |
-| 179 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,195 | 173 |
-| 179 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 688 |
-| 179 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 59,249 | 15 |
-| 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 215 | 346 |
-| 179 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 119 | 422 |
-| 179 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 688 |
-| 179 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.74 | 0 | 688 |
-| 179 | [Timberborn](games/t/timberborn.md) | 4.74 | 237 | 336 |
-| 179 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 688 |
-| 179 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 593 | 243 |
-| 179 | [Townscaper](games/t/townscaper.md) | 4.74 | 0 | 688 |
-| 197 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 550 | 251 |
+| 178 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.74 | 33 | 600 |
+| 178 | [Barony](games/b/barony.md) | 4.74 | 155 | 388 |
+| 178 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 1,086 | 182 |
+| 178 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 4.74 | 0 | 688 |
+| 178 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 10,301 | 56 |
+| 178 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.74 | 0 | 688 |
+| 178 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.74 | 0 | 688 |
+| 178 | [Riders Republic](games/r/riders_republic.md) | 4.74 | 1,195 | 173 |
+| 178 | [Sakuna: Of Rice and Ruin](games/s/sakuna__of_rice_and_ruin.md) | 4.74 | 0 | 688 |
+| 178 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 59,249 | 15 |
+| 178 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.74 | 215 | 346 |
+| 178 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.74 | 20 | 678 |
+| 178 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 4.74 | 119 | 422 |
+| 178 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 688 |
+| 178 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.74 | 0 | 688 |
+| 178 | [Timberborn](games/t/timberborn.md) | 4.74 | 237 | 336 |
+| 178 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.74 | 0 | 688 |
+| 178 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.74 | 593 | 243 |
+| 178 | [Townscaper](games/t/townscaper.md) | 4.74 | 0 | 688 |
+| 197 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 551 | 250 |
 | 197 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 4.73 | 0 | 688 |
 | 197 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.73 | 91 | 466 |
 | 197 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.73 | 0 | 688 |
@@ -550,7 +550,7 @@
 | 530 | [Risen](games/r/risen.md) | 4.57 | 0 | 688 |
 | 530 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 65 | 506 |
 | 530 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 6,442 | 82 |
-| 530 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,866 | 23 |
+| 530 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,891 | 23 |
 | 530 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 688 |
 | 553 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 56 | 527 |
 | 553 | [Aztez](games/a/aztez.md) | 4.56 | 23 | 656 |
@@ -946,7 +946,7 @@
 | 931 | [Roller Champions™](games/r/roller_champions™.md) | 4.35 | 285 | 311 |
 | 931 | [Speed Brawl](games/s/speed_brawl.md) | 4.35 | 31 | 613 |
 | 931 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 4.35 | 35 | 592 |
-| 931 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 771 | 219 |
+| 931 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.35 | 776 | 218 |
 | 931 | [Train Valley](games/t/train_valley.md) | 4.35 | 0 | 688 |
 | 949 | [Automachef](games/a/automachef.md) | 4.34 | 29 | 618 |
 | 949 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.34 | 0 | 688 |
