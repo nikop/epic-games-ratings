@@ -4,7 +4,7 @@
   "ProductSlug": "predator-hunting-grounds",
   "Ranking_Rating": 747,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 227,
+  "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3586,6 +3586,6 @@
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
   "LastChanged": "2024-08-15T02:28:45.0976979+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:58.334335+00:00",
-  "LastUpdate_Ratings": "2024-08-15T08:57:21.1710066+00:00",
+  "LastUpdate_Ratings": "2024-08-15T10:01:09.3506716+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.2589773+00:00"
 }
