@@ -2,7 +2,7 @@
   "ID": "3d5d035aa31c4772b48e36109b0346b3",
   "Name": "Tinykin",
   "ProductSlug": "tinykin-d1a022",
-  "Ranking_Rating": 4,
+  "Ranking_Rating": 3,
   "Ranking_Popularity": 688,
   "Ranking_PopularitySum": 688,
   "Ranking_EOS_Progress": 1184,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.92,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:42.0393414+00:00",
@@ -38,6 +38,12 @@
     {
       "Time": "2024-08-06T06:00:06.1859574+00:00",
       "Rating": 4.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-15T11:00:59.5994795+00:00",
+      "Rating": 4.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -58,8 +64,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-01T09:31:33.1481619+00:00",
   "FirstSeenRating": "2023-03-31T05:57:42.0393411+00:00",
-  "LastChanged": "2024-08-06T06:00:06.1859572+00:00",
+  "LastChanged": "2024-08-15T11:00:59.5994793+00:00",
   "LastUpdate_AppInfo": "2024-08-12T10:57:11.4138888+00:00",
-  "LastUpdate_Ratings": "2024-08-15T09:57:44.7980026+00:00",
+  "LastUpdate_Ratings": "2024-08-15T11:00:59.5994798+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:05.3589869+00:00"
 }
