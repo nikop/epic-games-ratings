@@ -1,11 +1,11 @@
 # Duskers
 [Store](https://store.epicgames.com/en-US/p/duskers-672fdc)  
 [View Rawdata](../../db/d/duskers.json)  
-Rating: 4.55 (Ranked 575)  
+Rating: 4.55 (Ranked 576)  
 ## Awards
-Max (Highly Recommended): 21  (Ranked 672)  
+Max (Highly Recommended): 21  (Ranked 673)  
 Sum: 61 (Ranked 596)  
-Diff (max vs sum): 76  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 21 |

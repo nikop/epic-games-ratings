@@ -8,12 +8,14 @@
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2024-10-31T16:00:00+00:00",
-    "PcReleaseDate": null,
+    "PcReleaseDate": "2024-10-31T16:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "isPrepurchase": "true"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
