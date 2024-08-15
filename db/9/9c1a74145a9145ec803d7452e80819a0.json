@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 393,
   "Ranking_Popularity": 240,
-  "Ranking_PopularitySum": 274,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -2557,10 +2557,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1600,
       "NumberOfAwardsMax": 621
+    },
+    {
+      "Time": "2024-08-15T11:58:58.8204871+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1603,
+      "NumberOfAwardsMax": 621
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1600,
+  "NumberOfAwards": 1603,
   "NumberOfAwardsMax": 621,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2622,7 +2628,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 227
+      "Count": 230
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3353,9 +3359,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-08-15T06:58:18.1370234+00:00",
+  "LastChanged": "2024-08-15T11:58:58.820487+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:04.2337891+00:00",
   "LastUpdate_AppInfo": "2024-08-09T01:59:07.3859078+00:00",
-  "LastUpdate_Ratings": "2024-08-15T10:00:11.2221107+00:00",
+  "LastUpdate_Ratings": "2024-08-15T11:58:58.8204874+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:04.2338641+00:00"
 }

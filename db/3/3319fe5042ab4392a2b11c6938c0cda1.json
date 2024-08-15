@@ -2,7 +2,7 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_Rating": 1051,
+  "Ranking_Rating": 1052,
   "Ranking_Popularity": 488,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 53,
@@ -2425,6 +2425,6 @@
   "LastChanged": "2024-08-15T10:57:52.7558332+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:37.5911113+00:00",
   "LastUpdate_AppInfo": "2024-08-15T10:57:26.1704457+00:00",
-  "LastUpdate_Ratings": "2024-08-15T10:57:52.7558337+00:00",
+  "LastUpdate_Ratings": "2024-08-15T12:00:54.906635+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.5911329+00:00"
 }
