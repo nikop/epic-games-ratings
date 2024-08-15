@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 508,
+  "Ranking_Rating": 507,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 13,
   "Ranking_EOS_Progress": 1184,
@@ -25716,10 +25716,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 305198,
       "NumberOfAwardsMax": 71766
+    },
+    {
+      "Time": "2024-08-15T13:08:34.6551205+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 305209,
+      "NumberOfAwardsMax": 71766
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 305198,
+  "NumberOfAwards": 305209,
   "NumberOfAwardsMax": 71766,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -25739,7 +25745,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24538
+      "Count": 24549
     },
     {
       "Text": "This game is Extremely Fun",
@@ -25807,8 +25813,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-08-15T10:59:04.1452425+00:00",
+  "LastChanged": "2024-08-15T13:08:34.6551204+00:00",
   "LastUpdate_AppInfo": "2024-08-12T04:57:28.4165819+00:00",
-  "LastUpdate_Ratings": "2024-08-15T10:59:04.1452431+00:00",
+  "LastUpdate_Ratings": "2024-08-15T13:08:34.655121+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:14.1076079+00:00"
 }

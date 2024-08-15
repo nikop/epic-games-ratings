@@ -2,9 +2,9 @@
   "ID": "e885327ce4414509bff4c10757f88334",
   "Name": "Wuthering Waves",
   "ProductSlug": "wuthering-waves-76ebc5",
-  "Ranking_Rating": 735,
-  "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 164,
+  "Ranking_Rating": 716,
+  "Ranking_Popularity": 105,
+  "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2024-05-23T10:59:58.0087544+00:00",
@@ -2352,18 +2352,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 5173,
       "NumberOfAwardsMax": 3625
+    },
+    {
+      "Time": "2024-08-15T13:08:39.3120652+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 5337,
+      "NumberOfAwardsMax": 3775
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5173,
-  "NumberOfAwardsMax": 3625,
+  "NumberOfAwards": 5337,
+  "NumberOfAwardsMax": 3775,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3625
+      "Count": 3775
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2387,7 +2393,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 160
+      "Count": 174
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2438,8 +2444,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-08-15T08:59:08.6183422+00:00",
+  "LastChanged": "2024-08-15T13:08:39.3120651+00:00",
   "LastUpdate_AppInfo": "2024-08-10T11:57:09.3737069+00:00",
-  "LastUpdate_Ratings": "2024-08-15T10:59:08.6713332+00:00",
+  "LastUpdate_Ratings": "2024-08-15T13:08:39.3120657+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:08:16.05665+00:00"
 }

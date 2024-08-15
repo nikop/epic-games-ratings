@@ -2,7 +2,7 @@
   "ID": "6b753bd045604be89d9779e741c604b1",
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
-  "Ranking_Rating": 464,
+  "Ranking_Rating": 463,
   "Ranking_Popularity": 602,
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 1184,
@@ -911,10 +911,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-08-15T13:10:36.0728949+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -970,7 +976,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Relaxing",
@@ -990,8 +996,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2024-08-14T06:59:15.6809661+00:00",
+  "LastChanged": "2024-08-15T13:10:36.0728947+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:28.8605563+00:00",
-  "LastUpdate_Ratings": "2024-08-15T11:01:05.3673975+00:00",
+  "LastUpdate_Ratings": "2024-08-15T13:10:36.0728951+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:52.2138399+00:00"
 }

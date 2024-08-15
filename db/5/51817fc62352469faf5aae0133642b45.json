@@ -2,7 +2,7 @@
   "ID": "51817fc62352469faf5aae0133642b45",
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 1184,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-11-12T06:58:46.4147492+00:00",
@@ -1697,6 +1697,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-08-15T13:11:45.4999448+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 266,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
@@ -1777,8 +1783,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-08-14T20:59:00.4416797+00:00",
+  "LastChanged": "2024-08-15T13:11:45.4999446+00:00",
   "LastUpdate_AppInfo": "2024-08-15T09:57:14.2399938+00:00",
-  "LastUpdate_Ratings": "2024-08-15T11:57:55.6503004+00:00",
+  "LastUpdate_Ratings": "2024-08-15T13:11:45.4999453+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.9203011+00:00"
 }

@@ -1,21 +1,21 @@
 # Tiny Tina's Wonderlands
 [Store](https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands)  
 [View Rawdata](../../db/t/tiny_tina's_wonderlands.json)  
-Rating: 4.57 (Ranked 530)  
+Rating: 4.57 (Ranked 529)  
 Number of Ratings: 20,753  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 24,910  (Ranked 23)  
-Sum: 44,705 (Ranked 40)  
+Sum: 44,714 (Ranked 40)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 24,910 |
-| This game has Diverse Characters | 2,585 |
+| This game has Diverse Characters | 2,590 |
 | This game is Great for Beginners | 2,545 |
 | This game has Amazing Storytelling | 2,518 |
 | This game is Extremely Fun | 2,478 |
 | This game is Highly Recommended | 2,447 |
-| This game has Quickly Understood Controls | 2,434 |
+| This game has Quickly Understood Controls | 2,438 |
 | This game is Relaxing | 2,402 |
 | This game has Amazing Characters | 2,386 |
 | This game has Obsessive Gameplay | 1,206 |
@@ -590,4 +590,4 @@ Diff (max vs sum): -17
 | 2024-08-12 | 4.57 | - | 24,847 | 44,621 |
 | 2024-08-13 | 4.57 | - | 24,866 | 44,650 |
 | 2024-08-14 | 4.57 | - | 24,891 | 44,686 |
-| 2024-08-15 | 4.57 | - | 24,910 | 44,705 |
+| 2024-08-15 | 4.57 | - | 24,910 | 44,714 |

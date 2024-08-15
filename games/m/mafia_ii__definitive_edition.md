@@ -4,8 +4,8 @@
 Rating: 4.42 (Ranked 833)  
 Number of Ratings: 1,020  (23.09.2022)  
 ## Awards
-Max (Amazing Characters): 20  (Ranked 680)  
-Sum: 40 (Ranked 621)  
+Max (Amazing Characters): 20  (Ranked 681)  
+Sum: 40 (Ranked 622)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |

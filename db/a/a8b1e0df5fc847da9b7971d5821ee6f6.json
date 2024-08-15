@@ -2,7 +2,7 @@
   "ID": "a8b1e0df5fc847da9b7971d5821ee6f6",
   "Name": "Dead Space\u2122 3",
   "ProductSlug": "dead-space-3-5a3755",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 688,
   "Ranking_PopularitySum": 688,
   "Ranking_EOS_Progress": 394,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2024-08-13T13:59:56.226814+00:00",
@@ -34,6 +34,12 @@
     {
       "Time": "2024-08-14T13:12:36.6820451+00:00",
       "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-15T13:08:31.9144879+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -555,9 +561,9 @@
   "FirstSeen": "2024-04-04T19:58:08.2620751+00:00",
   "FirstSeenRating": "2024-08-13T13:59:56.2268138+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.9327235+00:00",
-  "LastChanged": "2024-08-14T13:12:36.6820449+00:00",
+  "LastChanged": "2024-08-15T13:08:31.9144877+00:00",
   "LastChanged_Achievements": "2024-08-09T18:08:13.5714038+00:00",
   "LastUpdate_AppInfo": "2024-08-13T05:57:02.9805303+00:00",
-  "LastUpdate_Ratings": "2024-08-15T10:59:01.2589027+00:00",
+  "LastUpdate_Ratings": "2024-08-15T13:08:31.9144882+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:08:13.5714457+00:00"
 }
