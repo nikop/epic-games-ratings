@@ -1,7 +1,7 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.52 (Ranked 636)  
+Rating: 4.52 (Ranked 637)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -358,7 +358,7 @@ Completed: 1 (0.00%) (Ranked 554)
 | 2024-08-09 | 82,219 | 1 |
 ## Awards
 Max (Great for Beginners): 129  (Ranked 411)  
-Sum: 1,207 (Ranked 304)  
+Sum: 1,208 (Ranked 304)  
 Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
@@ -371,8 +371,8 @@ Diff (max vs sum): 107
 | This game has Amazing Characters | 95 |
 | This game has Realistic Visuals | 94 |
 | This game has a Competitive Community | 91 |
+| This game is Relaxing | 87 |
 | This game has Competitive Players | 86 |
-| This game is Relaxing | 86 |
 | This game has Amazing Storytelling | 71 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
@@ -643,3 +643,4 @@ Diff (max vs sum): 107
 | 2024-08-12 | 4.52 | - | 129 | 1,204 |
 | 2024-08-13 | 4.52 | - | 129 | 1,205 |
 | 2024-08-14 | 4.52 | - | 129 | 1,207 |
+| 2024-08-15 | 4.52 | - | 129 | 1,208 |

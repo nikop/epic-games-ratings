@@ -3,9 +3,9 @@
 [View Rawdata](../../db/c/chimeraland.json)  
 Rating: 3.91 (Ranked 1,215)  
 ## Awards
-Max (Character Customization): 37  (Ranked 583)  
+Max (Character Customization): 37  (Ranked 584)  
 Sum: 37 (Ranked 630)  
-Diff (max vs sum): -47  
+Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 37 |
