@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 303,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 97,
@@ -2487,10 +2487,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1233,
       "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2024-08-14T23:57:32.2475929+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1236,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1233,
+  "NumberOfAwards": 1236,
   "NumberOfAwardsMax": 175,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2558,7 +2564,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 135
+      "Count": 138
     },
     {
       "Text": "This game has a Creative Community",
@@ -18556,9 +18562,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2024-08-14T11:59:51.5771136+00:00",
+  "LastChanged": "2024-08-14T23:57:32.2475928+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:34.0694998+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:34.4931996+00:00",
-  "LastUpdate_Ratings": "2024-08-14T20:58:32.7700328+00:00",
+  "LastUpdate_Ratings": "2024-08-14T23:57:32.2475933+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:34.0696115+00:00"
 }

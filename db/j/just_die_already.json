@@ -4,7 +4,7 @@
   "ProductSlug": "just-die-already",
   "Ranking_Rating": 636,
   "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -2190,18 +2190,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 949,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-08-14T23:57:49.1353743+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 952,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 949,
+  "NumberOfAwards": 952,
   "NumberOfAwardsMax": 118,
-  "MaxAwardTitle": "Highly Recommended",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2255,7 +2261,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 77
+      "Count": 79
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2281,8 +2287,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-08-11T21:57:24.2001564+00:00",
+  "LastChanged": "2024-08-14T23:57:49.1353742+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:59.3898012+00:00",
-  "LastUpdate_Ratings": "2024-08-14T20:58:51.7636464+00:00",
+  "LastUpdate_Ratings": "2024-08-14T23:57:49.1353747+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:43.288191+00:00"
 }
