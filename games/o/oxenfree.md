@@ -1,7 +1,7 @@
 # Oxenfree
 [Store](https://store.epicgames.com/en-US/p/oxenfree)  
 [View Rawdata](../../db/o/oxenfree.json)  
-Rating: 4.56 (Ranked 554)  
+Rating: 4.57 (Ranked 530)  
 Number of Ratings: 99  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -68,3 +68,4 @@ Number of Ratings: 99  (23.09.2022)
 | 2024-05-03 | 4.56 | - | 0 | 0 |
 | 2024-05-04 | 4.55 | - | 0 | 0 |
 | 2024-06-03 | 4.56 | - | 0 | 0 |
+| 2024-08-15 | 4.57 | - | 0 | 0 |
