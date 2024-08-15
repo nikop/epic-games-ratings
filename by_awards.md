@@ -22,7 +22,7 @@
 | 20 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 30,847 | 4.64 | 371 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 30,068 | 4.89 | 11 |
 | 22 | [Warframe](games/w/warframe.md) | 26,201 | 4.61 | 438 |
-| 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 24,891 | 4.57 | 529 |
+| 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 24,910 | 4.57 | 529 |
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,651 | 4.26 | 1,032 |
 | 25 | [Satisfactory](games/s/satisfactory.md) | 19,303 | 4.87 | 17 |
 | 26 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 18,763 | 4.60 | 464 |
@@ -58,7 +58,7 @@
 | 56 | [Remnant II®](games/r/remnant_2.md) | 10,307 | 4.70 | 241 |
 | 57 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 10,246 | 4.55 | 576 |
 | 58 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 10,228 | 4.68 | 288 |
-| 59 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 10,111 | 4.51 | 654 |
+| 59 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 10,112 | 4.51 | 654 |
 | 60 | [Control](games/c/control.md) | 9,822 | 4.61 | 438 |
 | 61 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 9,452 | 4.49 | 692 |
 | 62 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 9,028 | 4.84 | 51 |
@@ -88,7 +88,7 @@
 | 86 | [SMITE](games/s/smite.md) | 6,168 | 4.40 | 862 |
 | 87 | [Prey](games/p/prey.md) | 6,160 | 4.63 | 392 |
 | 88 | [God of War](games/g/god_of_war.md) | 6,141 | 4.87 | 17 |
-| 89 | [MultiVersus](games/m/multiversus.md) | 5,518 | 4.54 | 600 |
+| 89 | [MultiVersus](games/m/multiversus.md) | 5,525 | 4.54 | 600 |
 | 90 | [Shop Titans](games/s/shop_titans.md) | 5,361 | 4.01 | 1,188 |
 | 91 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,245 | 4.70 | 241 |
 | 92 | [Trackmania Starter Access](games/t/trackmania.md) | 5,157 | 4.65 | 347 |
@@ -240,7 +240,7 @@
 | 238 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 629 | 4.67 | 306 |
 | 239 | [Vampyr](games/v/vampyr.md) | 625 | 4.32 | 969 |
 | 240 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 621 | 4.63 | 392 |
-| 241 | [RimWorld](games/r/rimworld.md) | 610 | 4.88 | 14 |
+| 241 | [RimWorld](games/r/rimworld.md) | 612 | 4.88 | 14 |
 | 242 | [Filament](games/f/filament.md) | 607 | 4.33 | 960 |
 | 243 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 593 | 4.74 | 177 |
 | 244 | [Hello Neighbor](games/h/hello_neighbor.md) | 587 | 4.56 | 554 |
@@ -261,9 +261,9 @@
 | 259 | [Against the Storm](games/a/against_the_storm.md) | 508 | 4.82 | 74 |
 | 260 | [Into the Breach](games/i/into_the_breach.md) | 504 | 4.83 | 62 |
 | 261 | [Dead Cells](games/d/dead_cells.md) | 488 | 4.85 | 39 |
-| 262 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 481 | 4.80 | 100 |
-| 263 | [For The King](games/f/for_the_king.md) | 479 | 4.70 | 241 |
-| 264 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 473 | 4.58 | 508 |
+| 262 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 485 | 4.58 | 508 |
+| 263 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 481 | 4.80 | 100 |
+| 264 | [For The King](games/f/for_the_king.md) | 479 | 4.70 | 241 |
 | 265 | [Nuclear Throne](games/n/nuclear_throne.md) | 472 | 4.79 | 110 |
 | 266 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 471 | 4.62 | 413 |
 | 267 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 466 | 4.31 | 979 |

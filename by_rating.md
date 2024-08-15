@@ -13,7 +13,7 @@
 | 11 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 10,981 | 52 |
 | 11 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,262 | 128 |
 | 11 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 30,068 | 21 |
-| 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 610 | 241 |
+| 14 | [RimWorld](games/r/rimworld.md) | 4.88 | 612 | 241 |
 | 14 | [The Walking Dead: Season Two](games/t/the_walking_dead__season_two.md) | 4.88 | 0 | 688 |
 | 14 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 688 |
 | 17 | [Atomicrops](games/a/atomicrops.md) | 4.87 | 159 | 386 |
@@ -104,7 +104,7 @@
 | 100 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,584 | 78 |
 | 100 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 191 | 364 |
 | 100 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.80 | 46 | 551 |
-| 100 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 481 | 262 |
+| 100 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 481 | 263 |
 | 100 | [The Machines Arena](games/t/the_machines_arena.md) | 4.80 | 87 | 471 |
 | 100 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 4.80 | 25 | 646 |
 | 100 | [TOEM](games/t/toem.md) | 4.80 | 0 | 688 |
@@ -244,7 +244,7 @@
 | 241 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 4.70 | 169 | 379 |
 | 241 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 147 | 396 |
 | 241 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 316 | 298 |
-| 241 | [For The King](games/f/for_the_king.md) | 4.70 | 479 | 263 |
+| 241 | [For The King](games/f/for_the_king.md) | 4.70 | 479 | 264 |
 | 241 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.70 | 103 | 445 |
 | 241 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 688 |
 | 241 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 0 | 688 |
@@ -511,7 +511,7 @@
 | 508 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.58 | 108 | 440 |
 | 508 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 71,766 | 12 |
 | 508 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,209 | 172 |
-| 508 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.58 | 473 | 264 |
+| 508 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 4.58 | 485 | 262 |
 | 508 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 285 | 312 |
 | 508 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.58 | 0 | 688 |
 | 508 | [Isonzo](games/i/isonzo.md) | 4.58 | 60 | 515 |
@@ -551,7 +551,7 @@
 | 529 | [Snakebird Complete](games/e/efc30c2078a2499ab979d198255e2e4b.md) | 4.57 | 49 | 541 |
 | 529 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 65 | 507 |
 | 529 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 6,455 | 82 |
-| 529 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,891 | 23 |
+| 529 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 24,910 | 23 |
 | 529 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 688 |
 | 554 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 56 | 527 |
 | 554 | [Aztez](games/a/aztez.md) | 4.56 | 23 | 656 |
@@ -607,7 +607,7 @@
 | 600 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 223 | 342 |
 | 600 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 4.54 | 92 | 463 |
 | 600 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.54 | 231 | 340 |
-| 600 | [MultiVersus](games/m/multiversus.md) | 4.54 | 5,518 | 89 |
+| 600 | [MultiVersus](games/m/multiversus.md) | 4.54 | 5,525 | 89 |
 | 600 | [Need for Speed™ Rivals: Complete Edition](games/e/e9573f687fb24b56ba22562657ef1225.md) | 4.54 | 0 | 688 |
 | 600 | [Outward Definitive Edition](games/o/outward.md) | 4.54 | 38 | 575 |
 | 600 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4.54 | 3,676 | 110 |
@@ -669,7 +669,7 @@
 | 654 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 688 |
 | 654 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 806 | 216 |
 | 654 | [Tavern Master](games/t/tavern_master.md) | 4.51 | 0 | 688 |
-| 654 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,111 | 59 |
+| 654 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,112 | 59 |
 | 654 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 80 | 485 |
 | 654 | [The Medium](games/t/the_medium.md) | 4.51 | 0 | 688 |
 | 654 | [UnMetal](games/u/unmetal.md) | 4.51 | 0 | 688 |
