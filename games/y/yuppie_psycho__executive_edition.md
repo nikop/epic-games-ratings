@@ -1,7 +1,7 @@
 # Yuppie Psycho: Executive Edition
 [Store](https://store.epicgames.com/en-US/p/yuppie-psycho)  
 [View Rawdata](../../db/y/yuppie_psycho__executive_edition.json)  
-Rating: 4.75 (Ranked 162)  
+Rating: 4.76 (Ranked 147)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -27,3 +27,4 @@ Rating: 4.75 (Ranked 162)
 | 2024-08-12 | 4.78 | 0 | 0 |
 | 2024-08-13 | 4.77 | 0 | 0 |
 | 2024-08-14 | 4.75 | 0 | 0 |
+| 2024-08-15 | 4.76 | 0 | 0 |

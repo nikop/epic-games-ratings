@@ -4,7 +4,7 @@
   "ProductSlug": "galactic-civilizations-iii",
   "Ranking_Rating": 1073,
   "Ranking_Popularity": 345,
-  "Ranking_PopularitySum": 287,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -2942,10 +2942,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1413,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2024-08-15T17:57:11.7132997+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1414,
+      "NumberOfAwardsMax": 218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1413,
+  "NumberOfAwards": 1414,
   "NumberOfAwardsMax": 218,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3001,7 +3007,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 88
+      "Count": 89
     }
   ],
   "EOS_Progressed": 0,
@@ -3015,8 +3021,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2024-08-12T21:59:45.1098029+00:00",
+  "LastChanged": "2024-08-15T17:57:11.7132996+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:07.5175717+00:00",
-  "LastUpdate_Ratings": "2024-08-15T15:58:10.6470784+00:00",
+  "LastUpdate_Ratings": "2024-08-15T17:57:11.7133001+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:21.2503839+00:00"
 }
