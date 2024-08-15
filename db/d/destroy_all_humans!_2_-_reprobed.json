@@ -3,8 +3,8 @@
   "Name": "Destroy All Humans! 2 - Reprobed",
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 597,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 623,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 621,
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 97,
@@ -352,18 +352,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 40,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-08-15T21:57:45.100582+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 41,
+  "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 40
+      "Count": 41
     }
   ],
   "EOS_Progressed": 1069,
@@ -2631,9 +2637,9 @@
   "FirstSeen": "2022-08-30T21:00:25.2604466+00:00",
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
-  "LastChanged": "2024-08-15T19:59:08.0681829+00:00",
+  "LastChanged": "2024-08-15T21:57:45.1005818+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:29.3471757+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:29.7390359+00:00",
-  "LastUpdate_Ratings": "2024-08-15T19:59:08.0681839+00:00",
+  "LastUpdate_Ratings": "2024-08-15T21:57:45.1005824+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:29.347207+00:00"
 }
