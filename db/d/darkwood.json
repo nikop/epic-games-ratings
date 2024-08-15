@@ -1278,10 +1278,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2562,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2024-08-15T01:47:06.3986844+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2563,
+      "NumberOfAwardsMax": 343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2562,
+  "NumberOfAwards": 2563,
   "NumberOfAwardsMax": 343,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1295,7 +1301,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 305
+      "Count": 306
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1358,8 +1364,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2024-08-14T16:58:37.4798758+00:00",
+  "LastChanged": "2024-08-15T01:47:06.3986842+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:30.1245722+00:00",
-  "LastUpdate_Ratings": "2024-08-14T21:58:51.7825501+00:00",
+  "LastUpdate_Ratings": "2024-08-15T01:47:06.3986847+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:38.1487284+00:00"
 }

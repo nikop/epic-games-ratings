@@ -4,7 +4,7 @@
   "ProductSlug": "dragonheir-silent-gods-559a4c",
   "Ranking_Rating": 1043,
   "Ranking_Popularity": 395,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -2783,10 +2783,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 590,
       "NumberOfAwardsMax": 148
+    },
+    {
+      "Time": "2024-08-15T01:48:30.4545248+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 591,
+      "NumberOfAwardsMax": 148
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 590,
+  "NumberOfAwards": 591,
   "NumberOfAwardsMax": 148,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2824,7 +2830,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2857,8 +2863,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-08-14T18:58:44.9359672+00:00",
+  "LastChanged": "2024-08-15T01:48:30.4545247+00:00",
   "LastUpdate_AppInfo": "2024-08-13T05:57:04.5382026+00:00",
-  "LastUpdate_Ratings": "2024-08-14T22:00:28.2060075+00:00",
+  "LastUpdate_Ratings": "2024-08-15T01:48:30.4545253+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:24.1668464+00:00"
 }

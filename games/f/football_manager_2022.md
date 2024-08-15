@@ -395,7 +395,7 @@ Completed: 22 (0.00%) (Ranked 554)
 | 2024-08-09 | 486,044 | 22 |
 ## Awards
 Max (Relaxing): 6,584  (Ranked 78)  
-Sum: 51,964 (Ranked 35)  
+Sum: 51,967 (Ranked 35)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -405,7 +405,7 @@ Diff (max vs sum): 43
 | This game has Competitive Players | 6,008 |
 | This game has Quickly Understood Controls | 5,996 |
 | This game is Educational | 5,977 |
-| This game has Diverse Characters | 5,787 |
+| This game has Diverse Characters | 5,790 |
 | This game has Amazing Storytelling | 4,988 |
 | This game has Amazing Characters | 4,447 |
 | This game has Obsessive Gameplay | 4,416 |
@@ -959,3 +959,4 @@ Diff (max vs sum): 43
 | 2024-08-12 | 4.80 | - | 6,584 | 51,961 |
 | 2024-08-13 | 4.80 | - | 6,584 | 51,963 |
 | 2024-08-14 | 4.80 | - | 6,584 | 51,964 |
+| 2024-08-15 | 4.80 | - | 6,584 | 51,967 |

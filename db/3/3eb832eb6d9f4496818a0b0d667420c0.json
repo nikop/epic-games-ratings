@@ -2,9 +2,9 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_Rating": 932,
-  "Ranking_Popularity": 471,
-  "Ranking_PopularitySum": 386,
+  "Ranking_Rating": 947,
+  "Ranking_Popularity": 467,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-12-21T06:03:01.412471+00:00",
@@ -1860,24 +1860,30 @@
       "Rating": 4.35,
       "NumberOfAwards": 588,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2024-08-15T01:49:30.1873579+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 597,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 588,
-  "NumberOfAwardsMax": 86,
+  "NumberOfAwards": 597,
+  "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 86
+      "Count": 91
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 66
+      "Count": 68
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1901,7 +1907,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 57
+      "Count": 59
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6906,9 +6912,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-08-14T23:57:58.4838155+00:00",
+  "LastChanged": "2024-08-15T01:49:30.1873578+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:28.1999795+00:00",
   "LastUpdate_AppInfo": "2024-08-14T09:57:08.9801299+00:00",
-  "LastUpdate_Ratings": "2024-08-14T23:57:58.4838161+00:00",
+  "LastUpdate_Ratings": "2024-08-15T01:49:30.1873587+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:28.2000301+00:00"
 }

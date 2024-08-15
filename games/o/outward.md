@@ -326,17 +326,17 @@ Completed: 6 (0.09%) (Ranked 437)
 | 2024-08-09 | 6,395 | 6 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 575)  
-Sum: 276 (Ranked 466)  
-Diff (max vs sum): 109  
+Sum: 277 (Ranked 465)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |
 | This game has Amazing Characters | 34 |
 | This game has Unique Visuals | 33 |
 | This game has Challenging Combat | 31 |
+| This game has Diverse Characters | 30 |
 | This game has Quickly Understood Controls | 29 |
 | This game is Extremely Fun | 29 |
-| This game has Diverse Characters | 29 |
 | This game is Relaxing | 28 |
 | This game has a Creative Community | 25 |
 | This game has Obsessive Gameplay | 22 |
@@ -445,3 +445,4 @@ Diff (max vs sum): 109
 | 2024-08-08 | 4.55 | - | 38 | 274 |
 | 2024-08-09 | 4.55 | - | 38 | 275 |
 | 2024-08-12 | 4.54 | - | 38 | 276 |
+| 2024-08-15 | 4.54 | - | 38 | 277 |
