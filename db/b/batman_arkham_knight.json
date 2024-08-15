@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-knight",
   "Ranking_Rating": 62,
   "Ranking_Popularity": 70,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -11411,10 +11411,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 13019,
       "NumberOfAwardsMax": 7895
+    },
+    {
+      "Time": "2024-08-15T02:28:04.757358+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 13023,
+      "NumberOfAwardsMax": 7895
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13019,
+  "NumberOfAwards": 13023,
   "NumberOfAwardsMax": 7895,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -11428,7 +11434,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 556
+      "Count": 558
     },
     {
       "Text": "This game is Great for Beginners",
@@ -11440,7 +11446,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 515
+      "Count": 516
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11470,7 +11476,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 604
+      "Count": 605
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11496,8 +11502,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
-  "LastChanged": "2024-08-14T17:58:25.8686614+00:00",
+  "LastChanged": "2024-08-15T02:28:04.7573578+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:42.8547179+00:00",
-  "LastUpdate_Ratings": "2024-08-14T23:58:38.0567649+00:00",
+  "LastUpdate_Ratings": "2024-08-15T02:28:04.7573584+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:29.3559678+00:00"
 }

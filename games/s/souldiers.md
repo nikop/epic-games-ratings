@@ -1,7 +1,7 @@
 # Souldiers
 [Store](https://store.epicgames.com/en-US/p/souldiers-3f612b)  
 [View Rawdata](../../db/s/souldiers.json)  
-Rating: 4.54 (Ranked 600)  
+Rating: 4.53 (Ranked 622)  
 Number of Ratings: 63  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -22,3 +22,4 @@ Number of Ratings: 63  (23.09.2022)
 | 2023-12-24 | 4.52 | - | 0 | 0 |
 | 2024-03-30 | 4.53 | - | 0 | 0 |
 | 2024-08-05 | 4.54 | - | 0 | 0 |
+| 2024-08-15 | 4.53 | - | 0 | 0 |

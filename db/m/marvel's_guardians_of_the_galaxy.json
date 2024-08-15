@@ -3,8 +3,8 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 413,
-  "Ranking_Popularity": 46,
-  "Ranking_PopularitySum": 84,
+  "Ranking_Popularity": 45,
+  "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -8222,24 +8222,30 @@
       "Rating": 4.62,
       "NumberOfAwards": 17308,
       "NumberOfAwardsMax": 12924
+    },
+    {
+      "Time": "2024-08-15T02:28:36.1127354+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 17379,
+      "NumberOfAwardsMax": 12978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17308,
-  "NumberOfAwardsMax": 12924,
+  "NumberOfAwards": 17379,
+  "NumberOfAwardsMax": 12978,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12924
+      "Count": 12978
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 508
+      "Count": 512
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8251,7 +8257,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 671
+      "Count": 678
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8281,7 +8287,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 498
+      "Count": 504
     },
     {
       "Text": "This game has a Creative Community",
@@ -8301,8 +8307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-08-14T23:59:08.7063078+00:00",
+  "LastChanged": "2024-08-15T02:28:36.1127352+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:14.3665422+00:00",
-  "LastUpdate_Ratings": "2024-08-14T23:59:08.7063084+00:00",
+  "LastUpdate_Ratings": "2024-08-15T02:28:36.1127358+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:14.5383997+00:00"
 }
