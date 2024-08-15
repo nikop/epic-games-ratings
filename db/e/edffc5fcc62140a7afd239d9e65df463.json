@@ -3,8 +3,8 @@
   "Name": "F1\u00AE 24",
   "ProductSlug": "f1-24",
   "Ranking_Rating": 463,
-  "Ranking_Popularity": 636,
-  "Ranking_PopularitySum": 611,
+  "Ranking_Popularity": 637,
+  "Ranking_PopularitySum": 612,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -846,6 +846,6 @@
   "LastChanged": "2024-08-15T07:57:57.4713348+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:40.6316736+00:00",
   "LastUpdate_AppInfo": "2024-08-14T09:57:07.9686486+00:00",
-  "LastUpdate_Ratings": "2024-08-15T13:09:38.1192756+00:00",
+  "LastUpdate_Ratings": "2024-08-15T14:57:35.5456816+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:40.6317218+00:00"
 }

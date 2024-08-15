@@ -3,8 +3,8 @@
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
   "Ranking_Rating": 1053,
-  "Ranking_Popularity": 688,
-  "Ranking_PopularitySum": 688,
+  "Ranking_Popularity": 689,
+  "Ranking_PopularitySum": 689,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 426,
   "Ranking_EOS_NewPlayers": 36,
@@ -635,6 +635,6 @@
   "LastChanged": "2024-08-07T16:59:43.3747909+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:34.8802688+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:41.119779+00:00",
-  "LastUpdate_Ratings": "2024-08-15T13:11:12.7803059+00:00",
+  "LastUpdate_Ratings": "2024-08-15T14:58:38.4096072+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:34.8802794+00:00"
 }

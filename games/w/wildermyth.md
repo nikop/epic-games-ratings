@@ -330,8 +330,8 @@ Completed: 9 (0.46%) (Ranked 331)
 | 2024-06-17 | 1,884 | 8 |
 | 2024-08-09 | 1,949 | 9 |
 ## Awards
-Max (Character Customization): 35  (Ranked 592)  
-Sum: 35 (Ranked 633)  
+Max (Character Customization): 35  (Ranked 593)  
+Sum: 35 (Ranked 634)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
