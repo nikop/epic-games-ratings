@@ -1,7 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2024-08-15 | - |  | - | - |
-| [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
 | [Holy Clash Cards](games/0/0211b3c0025c4883a872953748c73b65.md) | 2024-08-15 | - |  | - | - |
 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | - | - |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 1 | - | - |
@@ -92,6 +90,7 @@
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-11-15 | - |  | - | - |
