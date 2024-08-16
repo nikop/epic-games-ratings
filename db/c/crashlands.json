@@ -2,7 +2,7 @@
   "ID": "1b8a504ec52d4430b65cca2990ad6c7f",
   "Name": "Crashlands",
   "ProductSlug": "crashlands",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 325,
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 517,
   "RatingHistory": [
     {
@@ -807,6 +807,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 305,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2024-08-16T07:00:58.565948+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 305,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
@@ -838,8 +844,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2024-08-02T04:58:33.8988112+00:00",
+  "LastChanged": "2024-08-16T07:00:58.5659478+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:51.3913182+00:00",
-  "LastUpdate_Ratings": "2024-08-16T05:57:19.8908045+00:00",
+  "LastUpdate_Ratings": "2024-08-16T07:00:58.5659483+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:52.8991225+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "156c9c9399f940878eec5e83b446198f",
   "Name": "Plants vs. Zombies\u2122 GW2: Deluxe Edition",
   "ProductSlug": "plants-vs-zombies-gw2-deluxe-edition-99b9fd",
-  "Ranking_Rating": 288,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 692,
   "Ranking_PopularitySum": 692,
   "Ranking_EOS_Progress": 390,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2024-08-09T14:58:14.8565008+00:00",
@@ -70,6 +70,12 @@
     {
       "Time": "2024-08-16T03:57:41.9138302+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-16T07:00:18.5642243+00:00",
+      "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -626,9 +632,9 @@
   "FirstSeen": "2024-06-01T10:59:40.2201626+00:00",
   "FirstSeenRating": "2024-08-09T14:58:14.8565005+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:15.0844989+00:00",
-  "LastChanged": "2024-08-16T03:57:41.9138297+00:00",
+  "LastChanged": "2024-08-16T07:00:18.5642242+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:51.6083633+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:09.541442+00:00",
-  "LastUpdate_Ratings": "2024-08-16T05:01:17.8139299+00:00",
+  "LastUpdate_Ratings": "2024-08-16T07:00:18.5642249+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:51.6084063+00:00"
 }

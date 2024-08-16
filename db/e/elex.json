@@ -2,7 +2,7 @@
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
   "ProductSlug": "elex",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 644,
   "Ranking_EOS_Progress": 462,
@@ -861,6 +861,6 @@
   "LastChanged": "2024-08-03T02:57:29.9644632+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:27.771361+00:00",
   "LastUpdate_AppInfo": "2024-08-12T04:57:23.3764429+00:00",
-  "LastUpdate_Ratings": "2024-08-16T04:58:48.6997596+00:00",
+  "LastUpdate_Ratings": "2024-08-16T06:57:53.1832352+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.7713903+00:00"
 }
