@@ -2,9 +2,9 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 675,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 620,
-  "Ranking_PopularitySum": 584,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 509,
   "Ranking_EOS_NewPlayers": 97,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.8348963+00:00",
@@ -505,10 +505,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 70,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-08-16T09:58:21.6261143+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70,
+  "NumberOfAwards": 71,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -528,7 +534,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 35170,
@@ -15516,9 +15522,9 @@
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
-  "LastChanged": "2024-08-14T02:58:24.7737313+00:00",
+  "LastChanged": "2024-08-16T09:58:21.6261141+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:40.3848813+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:23.3012349+00:00",
-  "LastUpdate_Ratings": "2024-08-16T07:59:19.160321+00:00",
+  "LastUpdate_Ratings": "2024-08-16T09:58:21.6261147+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:40.3849678+00:00"
 }

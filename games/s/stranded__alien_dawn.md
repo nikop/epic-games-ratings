@@ -1,11 +1,11 @@
 # Stranded: Alien Dawn
 [Store](https://store.epicgames.com/en-US/p/stranded-alien-dawn)  
 [View Rawdata](../../db/s/stranded__alien_dawn.json)  
-Rating: 4.59 (Ranked 489)  
+Rating: 4.59 (Ranked 488)  
 ## Awards
 Max (Great for Beginners): 38  (Ranked 576)  
-Sum: 129 (Ranked 533)  
-Diff (max vs sum): 43  
+Sum: 129 (Ranked 534)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 38 |
