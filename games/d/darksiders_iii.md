@@ -1,7 +1,7 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.48 (Ranked 718)  
+Rating: 4.48 (Ranked 719)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -122,9 +122,9 @@ Completed: 3 (0.13%) (Ranked 419)
 | 2024-07-09 | 2,094 | 3 |
 | 2024-08-09 | 2,356 | 3 |
 ## Awards
-Max (Great Boss Battles): 118  (Ranked 427)  
+Max (Great Boss Battles): 118  (Ranked 428)  
 Sum: 118 (Ranked 541)  
-Diff (max vs sum): -114  
+Diff (max vs sum): -113  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

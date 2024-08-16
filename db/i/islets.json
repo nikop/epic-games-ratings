@@ -2,7 +2,7 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 543,
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 1184,
@@ -1030,10 +1030,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 332,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-08-16T08:57:45.4324018+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 333,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332,
+  "NumberOfAwards": 333,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1077,7 +1083,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1104,8 +1110,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-08-15T15:59:10.7894202+00:00",
+  "LastChanged": "2024-08-16T08:57:45.4324014+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:27.6264741+00:00",
-  "LastUpdate_Ratings": "2024-08-16T06:59:05.1438842+00:00",
+  "LastUpdate_Ratings": "2024-08-16T08:57:45.4324024+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:35.6728292+00:00"
 }

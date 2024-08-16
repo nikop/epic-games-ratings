@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 83,
@@ -2201,10 +2201,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 520,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-08-16T09:00:16.0311402+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 521,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 520,
+  "NumberOfAwards": 521,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2248,7 +2254,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Competitive Players",
@@ -29634,9 +29640,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-08-15T14:58:44.3914008+00:00",
+  "LastChanged": "2024-08-16T09:00:16.03114+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:41.5850164+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:56.963558+00:00",
-  "LastUpdate_Ratings": "2024-08-16T07:01:31.6498663+00:00",
+  "LastUpdate_Ratings": "2024-08-16T09:00:16.0311408+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:41.5852058+00:00"
 }

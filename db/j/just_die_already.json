@@ -2,8 +2,8 @@
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
-  "Ranking_Rating": 636,
-  "Ranking_Popularity": 427,
+  "Ranking_Rating": 637,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -2202,12 +2202,18 @@
       "Rating": 4.52,
       "NumberOfAwards": 953,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-08-16T09:00:30.4263096+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 954,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 953,
-  "NumberOfAwardsMax": 118,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 954,
+  "NumberOfAwardsMax": 119,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -2219,7 +2225,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2293,8 +2299,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-08-15T04:58:42.9586167+00:00",
+  "LastChanged": "2024-08-16T09:00:30.4263094+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:59.3898012+00:00",
-  "LastUpdate_Ratings": "2024-08-16T07:01:45.6599611+00:00",
+  "LastUpdate_Ratings": "2024-08-16T09:00:30.4263099+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:43.288191+00:00"
 }

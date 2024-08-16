@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 87,
@@ -5342,10 +5342,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13836,
       "NumberOfAwardsMax": 1684
+    },
+    {
+      "Time": "2024-08-16T08:57:45.3359108+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13837,
+      "NumberOfAwardsMax": 1684
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13836,
+  "NumberOfAwards": 13837,
   "NumberOfAwardsMax": 1684,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5377,7 +5383,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1540
+      "Count": 1541
     },
     {
       "Text": "This game is Great for Beginners",
@@ -35763,9 +35769,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-08-16T03:00:10.8470492+00:00",
+  "LastChanged": "2024-08-16T08:57:45.3359106+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:56.9336449+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:14.5225465+00:00",
-  "LastUpdate_Ratings": "2024-08-16T06:59:05.086957+00:00",
+  "LastUpdate_Ratings": "2024-08-16T08:57:45.335911+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:56.9339156+00:00"
 }
