@@ -1,7 +1,7 @@
 # Ouch! So many beauties!
 [Store](https://store.epicgames.com/en-US/p/videogame-9ad7f5)  
 [View Rawdata](../../db/d/d904c4f29bd541ac91a4ca4bb7cebde8.json)  
-Rating: 4.44 (Ranked 789)  
+Rating: 4.45 (Ranked 770)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,12 +59,12 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 11,356 | 0 |
 | 2024-08-09 | 12,726 | 0 |
 ## Awards
-Max (Character Customization): 23  (Ranked 658)  
-Sum: 23 (Ranked 663)  
-Diff (max vs sum): -5  
+Max (Character Customization): 24  (Ranked 652)  
+Sum: 24 (Ranked 660)  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 23 |
+| This game has Inclusive Character Customization | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -135,3 +135,4 @@ Diff (max vs sum): -5
 | 2024-08-02 | 4.43 | 22 | 22 |
 | 2024-08-07 | 4.44 | 22 | 22 |
 | 2024-08-11 | 4.44 | 23 | 23 |
+| 2024-08-16 | 4.45 | 24 | 24 |

@@ -4,7 +4,7 @@
   "ProductSlug": "hades",
   "Ranking_Rating": 3,
   "Ranking_Popularity": 102,
-  "Ranking_PopularitySum": 119,
+  "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 97,
@@ -41878,6 +41878,6 @@
   "LastChanged": "2024-08-16T02:59:57.2383222+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:50.2083705+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:35.0850709+00:00",
-  "LastUpdate_Ratings": "2024-08-16T06:58:45.1810298+00:00",
+  "LastUpdate_Ratings": "2024-08-16T08:00:17.7233141+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:50.2085241+00:00"
 }
