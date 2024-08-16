@@ -3,7 +3,7 @@
   "Name": "Borderlands 2",
   "ProductSlug": "borderlands-2",
   "Ranking_Rating": 147,
-  "Ranking_Popularity": 27,
+  "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -19053,18 +19053,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 47021,
       "NumberOfAwardsMax": 18776
+    },
+    {
+      "Time": "2024-08-16T19:58:03.33241+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47065,
+      "NumberOfAwardsMax": 18811
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47021,
-  "NumberOfAwardsMax": 18776,
+  "NumberOfAwards": 47065,
+  "NumberOfAwardsMax": 18811,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 18776
+      "Count": 18811
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19112,7 +19118,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3592
+      "Count": 3601
     },
     {
       "Text": "This game is Relaxing",
@@ -19144,8 +19150,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-08-16T13:10:26.9005121+00:00",
+  "LastChanged": "2024-08-16T19:58:03.3324098+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:50.5743044+00:00",
-  "LastUpdate_Ratings": "2024-08-16T17:59:10.0721497+00:00",
+  "LastUpdate_Ratings": "2024-08-16T19:58:03.3324104+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:26.3912684+00:00"
 }

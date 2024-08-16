@@ -1,7 +1,7 @@
 # GPRO - Classic racing manager
 [Store](https://store.epicgames.com/en-US/p/classic-racing-manager-679706)  
 [View Rawdata](../../db/g/gpro_-_classic_racing_manager.json)  
-Rating: 3.83 (Ranked 1,236)  
+Rating: 3.88 (Ranked 1,223)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -339,3 +339,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-05-15 | 3.77 | 0 | 0 |
 | 2024-05-23 | 3.78 | 0 | 0 |
 | 2024-08-04 | 3.83 | 0 | 0 |
+| 2024-08-16 | 3.88 | 0 | 0 |

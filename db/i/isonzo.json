@@ -4,7 +4,7 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 509,
   "Ranking_Popularity": 519,
-  "Ranking_PopularitySum": 401,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 524,
   "Ranking_EOS_NewPlayers": 97,
@@ -1553,10 +1553,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 487,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-08-16T19:57:55.835313+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 490,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 487,
+  "NumberOfAwards": 490,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1582,7 +1588,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 49
+      "Count": 52
     },
     {
       "Text": "This game has Diverse Characters",
@@ -12560,9 +12566,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-08-15T20:57:50.7842339+00:00",
+  "LastChanged": "2024-08-16T19:57:55.8353128+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:12.9441881+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:47.5077596+00:00",
-  "LastUpdate_Ratings": "2024-08-16T17:59:01.7506304+00:00",
+  "LastUpdate_Ratings": "2024-08-16T19:57:55.8353133+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:12.9442599+00:00"
 }

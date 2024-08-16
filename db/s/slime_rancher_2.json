@@ -3,7 +3,7 @@
   "Name": "Slime Rancher 2",
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 110,
-  "Ranking_Popularity": 402,
+  "Ranking_Popularity": 401,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -1821,11 +1821,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 1112,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-08-16T19:58:24.7749238+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1114,
+      "NumberOfAwardsMax": 140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1112,
-  "NumberOfAwardsMax": 138,
+  "NumberOfAwards": 1114,
+  "NumberOfAwardsMax": 140,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1838,7 +1844,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 138
+      "Count": 140
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1913,8 +1919,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2024-08-15T21:59:54.7784493+00:00",
+  "LastChanged": "2024-08-16T19:58:24.7749236+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:58.8204331+00:00",
-  "LastUpdate_Ratings": "2024-08-16T17:59:31.3950181+00:00",
+  "LastUpdate_Ratings": "2024-08-16T19:58:24.7749241+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:41.0721277+00:00"
 }
