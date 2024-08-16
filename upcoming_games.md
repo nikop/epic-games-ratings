@@ -90,8 +90,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-11-15 | - |  | - | - |
@@ -265,6 +265,7 @@
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
 | [Annulus](games/3/349361a5a00a462783a6110e576dc911.md) | 2099-01-01 | - |  | - | - |
 | [Another World](games/4/4c209f89f2b64535aa82d5828426353d.md) | 2099-01-01 | - |  | - | - |
+| [Arcane Wars](games/9/937fbd8060dc4d8491bb82a8aae39862.md) | 2099-01-01 | - |  | - | - |
 | [Archery RED](games/e/e17cbf6cf17b4e8dbe4119c99f668cb0.md) | 2099-01-01 | - |  | - | - |
 | [Architect of the Union](games/b/b3b5006256614445a18a91bcaf6b3fd9.md) | 2099-01-01 | - |  | - | - |
 | [Art Shop Simulator](games/3/376a130261c24ba99c0d5b297867dab4.md) | 2099-01-01 | - |  | - | - |
