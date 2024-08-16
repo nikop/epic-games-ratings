@@ -4,7 +4,7 @@
   "ProductSlug": "sins-of-a-solar-empire-ii",
   "Ranking_Rating": 488,
   "Ranking_Popularity": 450,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1471,10 +1471,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 364,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-08-16T11:58:11.0375071+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 419,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 364,
+  "NumberOfAwards": 419,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1518,7 +1524,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 38
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1545,8 +1551,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2024-08-16T01:57:55.1573871+00:00",
+  "LastChanged": "2024-08-16T11:58:11.0375069+00:00",
   "LastUpdate_AppInfo": "2024-08-12T04:57:25.3254257+00:00",
-  "LastUpdate_Ratings": "2024-08-16T09:58:46.4239911+00:00",
+  "LastUpdate_Ratings": "2024-08-16T11:58:11.0375075+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:33.8440149+00:00"
 }
