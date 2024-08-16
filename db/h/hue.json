@@ -2,7 +2,7 @@
   "ID": "cd88d9edc5a748cfa138e467205adcac",
   "Name": "Hue",
   "ProductSlug": "hue",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 508,
   "Ranking_Popularity": 692,
   "Ranking_PopularitySum": 692,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 426,
   "RatingHistory": [
     {
@@ -462,6 +462,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-16T14:59:35.102142+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -486,8 +492,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
-  "LastChanged": "2024-08-02T13:58:53.1613643+00:00",
+  "LastChanged": "2024-08-16T14:59:35.1021418+00:00",
   "LastUpdate_AppInfo": "2024-08-11T16:57:22.1998247+00:00",
-  "LastUpdate_Ratings": "2024-08-16T13:11:18.1593472+00:00",
+  "LastUpdate_Ratings": "2024-08-16T14:59:35.1021424+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:40.6822378+00:00"
 }
