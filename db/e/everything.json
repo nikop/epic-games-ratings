@@ -2,7 +2,7 @@
   "ID": "854ca270c7f04fe483212a35811e9189",
   "Name": "Everything",
   "ProductSlug": "everything",
-  "Ranking_Rating": 488,
+  "Ranking_Rating": 487,
   "Ranking_Popularity": 692,
   "Ranking_PopularitySum": 692,
   "Ranking_EOS_Progress": 1184,
@@ -145,6 +145,6 @@
   "FirstSeenRating": "2022-10-18T21:30:46.9754194+00:00",
   "LastChanged": "2024-07-27T03:58:20.6693066+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:06.8841017+00:00",
-  "LastUpdate_Ratings": "2024-08-16T11:57:45.8466117+00:00",
+  "LastUpdate_Ratings": "2024-08-16T13:11:33.5542439+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:43.8527799+00:00"
 }

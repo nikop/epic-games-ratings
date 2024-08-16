@@ -1,12 +1,12 @@
 # Watch Dogs: Legion Standard Edition
 [Store](https://store.epicgames.com/en-US/p/watch-dogs-legion)  
 [View Rawdata](../../db/w/watch_dogs__legion_standard_edition.json)  
-Rating: 4.36 (Ranked 923)  
+Rating: 4.36 (Ranked 922)  
 Number of Ratings: 1,361  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 189  (Ranked 365)  
-Sum: 1,391 (Ranked 291)  
-Diff (max vs sum): 74  
+Sum: 1,391 (Ranked 292)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 189 |
