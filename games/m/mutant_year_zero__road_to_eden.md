@@ -1,11 +1,11 @@
 # Mutant Year Zero: Road to Eden
 [Store](https://store.epicgames.com/en-US/p/mutant-year-zero)  
 [View Rawdata](../../db/m/mutant_year_zero__road_to_eden.json)  
-Rating: 4.50 (Ranked 675)  
+Rating: 4.50 (Ranked 674)  
 Number of Ratings: 2,052  (23.09.2022)  
 ## Awards
-Max (Character Customization): 734  (Ranked 227)  
-Sum: 1,073 (Ranked 311)  
+Max (Character Customization): 734  (Ranked 228)  
+Sum: 1,073 (Ranked 312)  
 Diff (max vs sum): -84  
 | Award | Count |
 | ----- | ----- |
