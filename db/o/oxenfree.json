@@ -3,8 +3,8 @@
   "Name": "Oxenfree",
   "ProductSlug": "oxenfree",
   "Ranking_Rating": 529,
-  "Ranking_Popularity": 691,
-  "Ranking_PopularitySum": 691,
+  "Ranking_Popularity": 683,
+  "Ranking_PopularitySum": 684,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -359,12 +359,26 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-16T03:57:33.9854585+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Impact the Story",
+  "Tags": [
+    {
+      "Text": "In this game, your choices Impact the Story",
+      "Prefix": "In this game, your choices",
+      "Type": "Impact the Story",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -376,8 +390,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
-  "LastChanged": "2024-08-15T07:58:13.084018+00:00",
+  "LastChanged": "2024-08-16T03:57:33.9854583+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:22.2460225+00:00",
-  "LastUpdate_Ratings": "2024-08-16T01:59:22.9697148+00:00",
+  "LastUpdate_Ratings": "2024-08-16T03:57:33.9854587+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.446187+00:00"
 }

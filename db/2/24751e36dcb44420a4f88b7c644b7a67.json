@@ -3,8 +3,8 @@
   "Name": "Last Remains",
   "ProductSlug": "last-remains-ef50c2",
   "Ranking_Rating": 1202,
-  "Ranking_Popularity": 691,
-  "Ranking_PopularitySum": 691,
+  "Ranking_Popularity": 692,
+  "Ranking_PopularitySum": 692,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -331,6 +331,6 @@
   "FirstSeenRating": "2024-02-04T11:00:31.4868812+00:00",
   "LastChanged": "2024-08-09T05:59:39.4313419+00:00",
   "LastUpdate_AppInfo": "2024-08-14T16:57:30.2982821+00:00",
-  "LastUpdate_Ratings": "2024-08-16T01:59:26.2131289+00:00",
+  "LastUpdate_Ratings": "2024-08-16T03:57:37.1896859+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:20.7748461+00:00"
 }

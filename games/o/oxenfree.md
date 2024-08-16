@@ -3,6 +3,13 @@
 [View Rawdata](../../db/o/oxenfree.json)  
 Rating: 4.57 (Ranked 529)  
 Number of Ratings: 99  (23.09.2022)  
+## Awards
+Max (Impact the Story): 20  (Ranked 683)  
+Sum: 20 (Ranked 684)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| In this game, your choices Impact the Story | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -69,3 +76,4 @@ Number of Ratings: 99  (23.09.2022)
 | 2024-05-04 | 4.55 | - | 0 | 0 |
 | 2024-06-03 | 4.56 | - | 0 | 0 |
 | 2024-08-15 | 4.57 | - | 0 | 0 |
+| 2024-08-16 | 4.57 | - | 20 | 20 |
