@@ -1,7 +1,7 @@
 # The Falconeer: Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-falconeer)  
 [View Rawdata](../../db/t/the_falconeer__standard_edition.json)  
-Rating: 4.12 (Ranked 1,151)  
+Rating: 4.14 (Ranked 1,140)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -33,3 +33,4 @@ Rating: 4.12 (Ranked 1,151)
 | 2024-08-10 | 4.16 | 0 | 0 |
 | 2024-08-13 | 4.15 | 0 | 0 |
 | 2024-08-15 | 4.12 | 0 | 0 |
+| 2024-08-16 | 4.14 | 0 | 0 |
