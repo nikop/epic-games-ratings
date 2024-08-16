@@ -1,17 +1,17 @@
 # Into the Breach
 [Store](https://store.epicgames.com/en-US/p/into-the-breach)  
 [View Rawdata](../../db/i/into_the_breach.json)  
-Rating: 4.83 (Ranked 62)  
+Rating: 4.84 (Ranked 50)  
 Number of Ratings: 4,082  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 504  (Ranked 260)  
-Sum: 4,524 (Ranked 177)  
+Sum: 4,526 (Ranked 177)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 504 |
+| This game is Extremely Fun | 466 |
 | This game has Diverse Characters | 465 |
-| This game is Extremely Fun | 464 |
 | This game has Challenging Combat | 461 |
 | This game is Highly Recommended | 461 |
 | This game has Quickly Understood Controls | 440 |
@@ -423,4 +423,4 @@ Diff (max vs sum): 83
 | 2024-08-13 | 4.83 | - | 501 | 4,516 |
 | 2024-08-14 | 4.83 | - | 504 | 4,521 |
 | 2024-08-15 | 4.83 | - | 504 | 4,522 |
-| 2024-08-16 | 4.83 | - | 504 | 4,524 |
+| 2024-08-16 | 4.84 | - | 504 | 4,526 |

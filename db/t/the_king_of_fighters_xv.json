@@ -2,7 +2,7 @@
   "ID": "168fc558aeef44a5b9cba5f25b5bb93f",
   "Name": "THE KING OF FIGHTERS XV",
   "ProductSlug": "the-king-of-fighters-xv",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 305,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 1184,
@@ -642,10 +642,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 603,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-08-16T16:00:55.3530473+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 604,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 603,
+  "NumberOfAwards": 604,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -665,7 +671,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game is Extremely Fun",
@@ -727,8 +733,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:01.2233812+00:00",
-  "LastChanged": "2024-08-07T05:59:11.1985217+00:00",
+  "LastChanged": "2024-08-16T16:00:55.3530471+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:49.5169184+00:00",
-  "LastUpdate_Ratings": "2024-08-16T14:58:12.0809272+00:00",
+  "LastUpdate_Ratings": "2024-08-16T16:00:55.3530476+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:13.4626314+00:00"
 }

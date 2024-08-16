@@ -1,20 +1,20 @@
 # THE KING OF FIGHTERS XV
 [Store](https://store.epicgames.com/en-US/p/the-king-of-fighters-xv)  
 [View Rawdata](../../db/t/the_king_of_fighters_xv.json)  
-Rating: 4.67 (Ranked 306)  
+Rating: 4.67 (Ranked 305)  
 Number of Ratings: 181  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 83  (Ranked 477)  
-Sum: 603 (Ranked 384)  
+Sum: 604 (Ranked 384)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 83 |
 | This game is Great for Quick Sessions | 77 |
 | This game is Extremely Fun | 69 |
+| This game is Relaxing | 67 |
 | This game has Quickly Understood Controls | 67 |
 | This game has Amazing Characters | 66 |
-| This game is Relaxing | 66 |
 | This game is Highly Recommended | 63 |
 | This game has Competitive Players | 61 |
 | This game has a Competitive Community | 51 |
@@ -120,3 +120,4 @@ Diff (max vs sum): 93
 | 2024-06-25 | 4.67 | - | 82 | 601 |
 | 2024-08-06 | 4.67 | - | 83 | 602 |
 | 2024-08-07 | 4.67 | - | 83 | 603 |
+| 2024-08-16 | 4.67 | - | 83 | 604 |

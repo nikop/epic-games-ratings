@@ -3,8 +3,8 @@
   "Name": "Untitled Goose Game",
   "ProductSlug": "untitled-goose-game",
   "Ranking_Rating": 214,
-  "Ranking_Popularity": 692,
-  "Ranking_PopularitySum": 692,
+  "Ranking_Popularity": 693,
+  "Ranking_PopularitySum": 693,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -400,6 +400,6 @@
   "FirstSeen": "2022-07-22T20:16:58.6433496+00:00",
   "LastChanged": "2024-08-11T17:59:09.2161755+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:59.1457532+00:00",
-  "LastUpdate_Ratings": "2024-08-16T14:01:22.2381979+00:00",
+  "LastUpdate_Ratings": "2024-08-16T15:59:31.611677+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:38.1867337+00:00"
 }

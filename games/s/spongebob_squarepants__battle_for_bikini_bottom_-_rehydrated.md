@@ -1,7 +1,7 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.62 (Ranked 412)  
+Rating: 4.62 (Ranked 411)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -90,8 +90,8 @@ Completed: 45 (1.34%) (Ranked 226)
 | 2024-06-17 | 2,938 | 34 |
 | 2024-08-09 | 3,368 | 45 |
 ## Awards
-Max (Great Boss Battles): 46  (Ranked 552)  
-Sum: 46 (Ranked 614)  
+Max (Great Boss Battles): 46  (Ranked 553)  
+Sum: 46 (Ranked 615)  
 Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |

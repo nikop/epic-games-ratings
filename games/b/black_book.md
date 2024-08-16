@@ -1,7 +1,7 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.64 (Ranked 371)  
+Rating: 4.64 (Ranked 370)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -217,9 +217,9 @@ Completed: 124 (0.14%) (Ranked 413)
 | 2024-06-17 | 85,517 | 112 |
 | 2024-08-09 | 89,351 | 124 |
 ## Awards
-Max (Extremely Fun): 26  (Ranked 646)  
+Max (Extremely Fun): 26  (Ranked 647)  
 Sum: 116 (Ranked 544)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 126 |
