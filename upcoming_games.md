@@ -48,6 +48,7 @@
 | [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | - | - |
 | [Anarkade](games/b/b249551ce1c84c6fbbe5b77adfe443cf.md) | 2024-09-23 | - |  | - | - |
+| [Blacksmith Master](games/b/blacksmith_master.md) | 2024-09-26 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | - |
 | [Iron Meat](games/e/efcb5d283a3841a993f0c953ba28c264.md) | 2024-09-26 | - |  | - | - |
 | [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | - | - |
@@ -66,6 +67,7 @@
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-09-30 | 16 (1,000 XP) | 0 | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
 | [Lost Lullabies](games/2/2eb0ee8613b0414ebb07dbbf006f029c.md) | 2024-09-30 | - |  | - | - |
+| [Madhouse Madness](games/5/5dd9e0dea2f5417eb819dc3c1382d09b.md) | 2024-09-30 | - |  | - | - |
 | [Project Tower](games/a/a9d8b50783fa4e3aa449991c563c9217.md) | 2024-09-30 | - |  | - | - |
 | [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-09-30 | - |  | - | - |
 | [Sofie: The Echoes](games/7/77593ca0e0f3495f95ab77a6ea960a65.md) | 2024-09-30 | - |  | - | - |
@@ -111,7 +113,6 @@
 | [Arsene Lupin - Once a Thief](games/b/b640cb27f5a947d9b0fa2e812554dc79.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Beyond These Stars](games/b/beyond_these_stars.md) | 2024-12-31 | - |  | - | - |
-| [Blacksmith Master](games/b/blacksmith_master.md) | 2024-12-31 | - |  | - | - |
 | [Cabernet](games/f/fe7271d3a3da49c6924e38388ed3174a.md) | 2024-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |
 | [Card Clash Chronicles](games/e/eb594d29ab71410fb26280a6fedb01b6.md) | 2024-12-31 | - |  | - | - |
