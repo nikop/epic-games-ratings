@@ -3,8 +3,8 @@
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 948,
-  "Ranking_Popularity": 467,
-  "Ranking_PopularitySum": 382,
+  "Ranking_Popularity": 468,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1896,10 +1896,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 636,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-08-16T02:00:41.2435953+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 646,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 636,
+  "NumberOfAwards": 646,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1913,7 +1919,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 68
+      "Count": 73
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1937,13 +1943,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 74
+      "Count": 77
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6948,9 +6954,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-08-15T23:58:51.9009398+00:00",
+  "LastChanged": "2024-08-16T02:00:41.2435951+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:28.1999795+00:00",
   "LastUpdate_AppInfo": "2024-08-14T09:57:08.9801299+00:00",
-  "LastUpdate_Ratings": "2024-08-15T23:58:51.9009404+00:00",
+  "LastUpdate_Ratings": "2024-08-16T02:00:41.2435962+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:28.2000301+00:00"
 }
