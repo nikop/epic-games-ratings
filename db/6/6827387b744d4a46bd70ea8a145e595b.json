@@ -4,7 +4,7 @@
   "ProductSlug": "zenless-zone-zero-c7c151",
   "Ranking_Rating": 620,
   "Ranking_Popularity": 41,
-  "Ranking_PopularitySum": 55,
+  "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1727,10 +1727,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 33011,
       "NumberOfAwardsMax": 14181
+    },
+    {
+      "Time": "2024-08-16T20:58:42.969157+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 33563,
+      "NumberOfAwardsMax": 14181
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33011,
+  "NumberOfAwards": 33563,
   "NumberOfAwardsMax": 14181,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1744,13 +1750,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 8686
+      "Count": 9163
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1073
+      "Count": 1148
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1819,8 +1825,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-08-16T14:00:16.0446328+00:00",
+  "LastChanged": "2024-08-16T20:58:42.9691568+00:00",
   "LastUpdate_AppInfo": "2024-08-13T01:59:33.6509931+00:00",
-  "LastUpdate_Ratings": "2024-08-16T18:59:30.4762708+00:00",
+  "LastUpdate_Ratings": "2024-08-16T20:58:42.9691573+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:34.472079+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Oxenfree",
   "ProductSlug": "oxenfree",
   "Ranking_Rating": 529,
-  "Ranking_Popularity": 684,
-  "Ranking_PopularitySum": 685,
+  "Ranking_Popularity": 685,
+  "Ranking_PopularitySum": 686,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -392,6 +392,6 @@
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
   "LastChanged": "2024-08-16T03:57:33.9854583+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:22.2460225+00:00",
-  "LastUpdate_Ratings": "2024-08-16T18:59:05.7256159+00:00",
+  "LastUpdate_Ratings": "2024-08-16T20:58:21.3655079+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.446187+00:00"
 }
