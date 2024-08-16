@@ -5635,18 +5635,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 5154,
       "NumberOfAwardsMax": 3999
+    },
+    {
+      "Time": "2024-08-16T04:57:42.9075549+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 5170,
+      "NumberOfAwardsMax": 4015
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5154,
-  "NumberOfAwardsMax": 3999,
+  "NumberOfAwards": 5170,
+  "NumberOfAwardsMax": 4015,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3999
+      "Count": 4015
     },
     {
       "Text": "This game has Diverse Characters",
@@ -36811,9 +36817,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "LastChanged": "2024-08-16T00:01:21.911052+00:00",
+  "LastChanged": "2024-08-16T04:57:42.9075548+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:45.0610217+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:58:04.8458139+00:00",
-  "LastUpdate_Ratings": "2024-08-16T02:58:42.9310348+00:00",
+  "LastUpdate_Ratings": "2024-08-16T04:57:42.9075557+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:45.0611816+00:00"
 }
