@@ -1,7 +1,7 @@
 # The Jackbox Party Pack 7
 [Store](https://store.epicgames.com/en-US/p/jackbox-party-pack-7)  
 [View Rawdata](../../db/t/the_jackbox_party_pack_7.json)  
-Rating: 4.74 (Ranked 178)  
+Rating: 4.71 (Ranked 223)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -15,3 +15,4 @@ Rating: 4.74 (Ranked 178)
 | 2024-03-28 | 4.84 | 0 | 0 |
 | 2024-05-24 | 4.73 | 0 | 0 |
 | 2024-06-03 | 4.74 | 0 | 0 |
+| 2024-08-16 | 4.71 | 0 | 0 |

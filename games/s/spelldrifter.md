@@ -1,7 +1,7 @@
 # Spelldrifter
 [Store](https://store.epicgames.com/en-US/p/spelldrifter)  
 [View Rawdata](../../db/s/spelldrifter.json)  
-Rating: 3.80 (Ranked 1,240)  
+Rating: 3.81 (Ranked 1,239)  
 ## Awards
 | Award | Count |
 | ----- | ----- |
@@ -74,3 +74,4 @@ Rating: 3.80 (Ranked 1,240)
 | 2024-06-02 | 3.80 | 0 | 0 |
 | 2024-07-21 | 3.79 | 0 | 0 |
 | 2024-08-12 | 3.80 | 0 | 0 |
+| 2024-08-16 | 3.81 | 0 | 0 |

@@ -1,7 +1,7 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 28)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -326,20 +326,20 @@ Completed: 1,537 (5.14%) (Ranked 122)
 | 2024-08-09 | 29,917 | 1,537 |
 ## Awards
 Max (Great for Beginners): 56  (Ranked 532)  
-Sum: 464 (Ranked 407)  
+Sum: 466 (Ranked 407)  
 Diff (max vs sum): 125  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 56 |
 | This game has Amazing Storytelling | 51 |
+| This game has Amazing Characters | 46 |
 | This game is Highly Recommended | 45 |
-| This game has Amazing Characters | 45 |
 | This game has Diverse Characters | 44 |
 | This game has Quickly Understood Controls | 40 |
 | This game is Extremely Fun | 39 |
 | This game has a Creative Community | 38 |
 | This game is Great for Quick Sessions | 38 |
-| This game has Easy Combat | 36 |
+| This game has Easy Combat | 37 |
 | This game is Relaxing | 32 |
 | This game has Obsessive Gameplay | 22 |
 ## Ratings History
@@ -536,4 +536,4 @@ Diff (max vs sum): 125
 | 2024-08-09 | 4.86 | - | 54 | 458 |
 | 2024-08-10 | 4.86 | - | 54 | 461 |
 | 2024-08-13 | 4.86 | - | 55 | 463 |
-| 2024-08-16 | 4.86 | - | 56 | 464 |
+| 2024-08-16 | 4.86 | - | 56 | 466 |

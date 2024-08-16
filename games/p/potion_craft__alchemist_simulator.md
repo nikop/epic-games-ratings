@@ -1,7 +1,7 @@
 # Potion Craft: Alchemist Simulator
 [Store](https://store.epicgames.com/en-US/p/potion-craft-7656a2)  
 [View Rawdata](../../db/p/potion_craft__alchemist_simulator.json)  
-Rating: 4.61 (Ranked 437)  
+Rating: 4.62 (Ranked 412)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -57,3 +57,4 @@ Rating: 4.61 (Ranked 437)
 | 2024-04-27 | 4.59 | 0 | 0 |
 | 2024-06-05 | 4.60 | 0 | 0 |
 | 2024-07-14 | 4.61 | 0 | 0 |
+| 2024-08-16 | 4.62 | 0 | 0 |
