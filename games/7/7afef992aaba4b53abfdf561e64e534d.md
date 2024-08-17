@@ -1,7 +1,7 @@
 # Prince of Persia Standard Edition
 [Store](https://store.epicgames.com/en-US/p/prince-of-persia)  
 [View Rawdata](../../db/7/7afef992aaba4b53abfdf561e64e534d.json)  
-Rating: 4.50 (Ranked 670)  
+Rating: 4.50 (Ranked 671)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
