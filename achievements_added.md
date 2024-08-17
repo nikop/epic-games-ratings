@@ -99,7 +99,7 @@
 | [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | 31 (1,000 XP) | 1 | - | - |
 | [The Jackbox Party Starter](games/t/the_jackbox_party_starter.md) | 2022-06-30 | 20 (1,000 XP) | 242 | - | 0 |
 | [Sker Ritual](games/1/156c17659ff0468bb533eba104a1f19f.md) | 2024-07-18 | 46 (1,000 XP) | 140 | - | 0 |
-| [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | 13 (1,000 XP) | 49 | - | - |
+| [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | 13 (1,000 XP) | 49 | - | 0 |
 | [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-26 | 5 (1,000 XP) | 17 | - | 0 |
 | [Megapolis](games/b/bb41e07f50464edb958e13c6531fe78c.md) | 2024-07-15 | 22 (1,000 XP) | 84 | - | 0 |
 | [Dungeons of Hinterberg](games/e/e42faa3ca424411db871181e13664ef3.md) | 2024-07-18 | 41 (1,000 XP) | 61 | - | 0 |
@@ -411,7 +411,7 @@
 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-11-02 | 36 (1,000 XP) | 82 | - | 0 |
 | [ELEX II](games/e/elex_ii.md) | 2022-03-01 | 50 (1,000 XP) | 691 | 4.29 | 0 |
 | [Wreckfest](games/w/wreckfest.md) | 2023-03-10 | 20 (1,000 XP) | 3,234 | 4.38 | 0 |
-| [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 3,368 | 4.62 | 46 |
+| [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 3,368 | 4.62 | 48 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 1,808 | 4.64 | 36 |
 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 2023-12-29 | 69 (1,000 XP) | 77 | - | 0 |
 | [Hero Battle Fantasy Arena](games/4/4d936d45ca14450c86d6472c3c494181.md) | 2023-12-15 | 15 (1,000 XP) | 487 | - | 0 |
@@ -550,7 +550,7 @@
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 2023-08-16 | 25 (1,000 XP) | 25 | - | 0 |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 461,579 | 4.81 | 1,336 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 461,579 | 4.81 | 1,345 |
 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.75 | 21 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 19,734 | 4.70 | 105 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 688 | 4.74 | 0 |
