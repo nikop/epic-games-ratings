@@ -2,7 +2,7 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 1162,
+  "Ranking_Rating": 1157,
   "Ranking_Popularity": 320,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 76,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.09,
+  "Rating": 4.1,
   "NumberOfRatings": 756,
   "RatingHistory": [
     {
@@ -3441,6 +3441,12 @@
     {
       "Time": "2024-08-16T13:09:52.9633771+00:00",
       "Rating": 4.09,
+      "NumberOfAwards": 1895,
+      "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2024-08-17T11:58:35.3544858+00:00",
+      "Rating": 4.1,
       "NumberOfAwards": 1895,
       "NumberOfAwardsMax": 265
     }
@@ -36401,9 +36407,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-08-16T13:09:52.9633769+00:00",
+  "LastChanged": "2024-08-17T11:58:35.3544856+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:28.179472+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:08.6160792+00:00",
-  "LastUpdate_Ratings": "2024-08-17T09:59:20.5853149+00:00",
+  "LastUpdate_Ratings": "2024-08-17T11:58:35.3544862+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:28.1796529+00:00"
 }

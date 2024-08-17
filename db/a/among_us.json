@@ -2,7 +2,7 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 574,
+  "Ranking_Rating": 575,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 1184,
@@ -17880,10 +17880,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 27857,
       "NumberOfAwardsMax": 3782
+    },
+    {
+      "Time": "2024-08-17T11:57:58.8947788+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 27876,
+      "NumberOfAwardsMax": 3782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27857,
+  "NumberOfAwards": 27876,
   "NumberOfAwardsMax": 3782,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -17903,13 +17909,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2509
+      "Count": 2511
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2575
+      "Count": 2582
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -17933,7 +17939,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2498
+      "Count": 2503
     },
     {
       "Text": "This game has Competitive Players",
@@ -17945,7 +17951,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2460
+      "Count": 2465
     },
     {
       "Text": "This game has Playful Visuals",
@@ -17971,8 +17977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-08-17T09:58:43.1103123+00:00",
+  "LastChanged": "2024-08-17T11:57:58.8947787+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:58.8189428+00:00",
-  "LastUpdate_Ratings": "2024-08-17T09:58:43.1103128+00:00",
+  "LastUpdate_Ratings": "2024-08-17T11:57:58.8947793+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:26.1869375+00:00"
 }

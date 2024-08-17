@@ -15283,18 +15283,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 27360,
       "NumberOfAwardsMax": 10326
+    },
+    {
+      "Time": "2024-08-17T11:58:33.8501122+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 27379,
+      "NumberOfAwardsMax": 10335
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27360,
-  "NumberOfAwardsMax": 10326,
+  "NumberOfAwards": 27379,
+  "NumberOfAwardsMax": 10335,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10326
+      "Count": 10335
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15318,7 +15324,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1902
+      "Count": 1907
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15336,7 +15342,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1235
+      "Count": 1237
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15354,7 +15360,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1710
+      "Count": 1713
     }
   ],
   "EOS_Progressed": 413558,
@@ -38516,9 +38522,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-08-17T09:59:18.6569737+00:00",
+  "LastChanged": "2024-08-17T11:58:33.8501121+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:40.0534602+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:08.3576456+00:00",
-  "LastUpdate_Ratings": "2024-08-17T09:59:18.6569743+00:00",
+  "LastUpdate_Ratings": "2024-08-17T11:58:33.8501126+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:40.0536087+00:00"
 }
