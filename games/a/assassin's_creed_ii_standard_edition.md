@@ -1,7 +1,7 @@
 # Assassin's Creed II Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-2)  
 [View Rawdata](../../db/a/assassin's_creed_ii_standard_edition.json)  
-Rating: 4.74 (Ranked 180)  
+Rating: 4.73 (Ranked 196)  
 Number of Ratings: 315  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 91  (Ranked 469)  
@@ -339,3 +339,4 @@ Diff (max vs sum): 72
 | 2024-08-03 | 4.73 | - | 90 | 515 |
 | 2024-08-13 | 4.73 | - | 91 | 517 |
 | 2024-08-16 | 4.74 | - | 91 | 517 |
+| 2024-08-17 | 4.73 | - | 91 | 517 |
