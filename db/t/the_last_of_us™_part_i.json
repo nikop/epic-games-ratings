@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 391,
   "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 297,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3399,10 +3399,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1320,
       "NumberOfAwardsMax": 902
+    },
+    {
+      "Time": "2024-08-17T16:59:21.5697352+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1365,
+      "NumberOfAwardsMax": 902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1320,
+  "NumberOfAwards": 1365,
   "NumberOfAwardsMax": 902,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3452,7 +3458,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 28
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3491,8 +3497,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-08-16T19:57:33.3688507+00:00",
+  "LastChanged": "2024-08-17T16:59:21.569735+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:10.8632699+00:00",
-  "LastUpdate_Ratings": "2024-08-17T15:57:33.3187296+00:00",
+  "LastUpdate_Ratings": "2024-08-17T16:59:21.5697355+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:39.8240762+00:00"
 }

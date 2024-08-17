@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.66 (Ranked 325)  
+Rating: 4.66 (Ranked 324)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -147,15 +147,15 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-08-09 | 3,531 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 610)  
-Sum: 285 (Ranked 464)  
-Diff (max vs sum): 146  
+Sum: 286 (Ranked 463)  
+Diff (max vs sum): 147  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |
 | This game has Diverse Characters | 32 |
 | This game has Quickly Understood Controls | 31 |
 | This game has Amazing Storytelling | 31 |
-| This game is Relaxing | 30 |
+| This game is Relaxing | 31 |
 | This game is Great for Beginners | 29 |
 | This game has Unique Visuals | 27 |
 | This game is Extremely Fun | 26 |
@@ -263,4 +263,4 @@ Diff (max vs sum): 146
 | 2024-07-31 | 4.66 | - | 32 | 282 |
 | 2024-08-01 | 4.66 | - | 32 | 283 |
 | 2024-08-04 | 4.66 | - | 32 | 284 |
-| 2024-08-17 | 4.66 | - | 32 | 285 |
+| 2024-08-17 | 4.66 | - | 32 | 286 |

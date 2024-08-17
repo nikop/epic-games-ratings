@@ -3,8 +3,8 @@
   "Name": "The Elder Scrolls V: Skyrim Special Edition",
   "ProductSlug": "skyrim",
   "Ranking_Rating": 29,
-  "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 167,
+  "Ranking_Popularity": 131,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -7891,18 +7891,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 5173,
       "NumberOfAwardsMax": 2184
+    },
+    {
+      "Time": "2024-08-17T16:58:09.9276696+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 5185,
+      "NumberOfAwardsMax": 2195
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5173,
-  "NumberOfAwardsMax": 2184,
+  "NumberOfAwards": 5185,
+  "NumberOfAwardsMax": 2195,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2184
+      "Count": 2195
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7926,7 +7932,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 491
+      "Count": 492
     },
     {
       "Text": "This game is Highly Recommended",
@@ -7971,8 +7977,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-06T16:01:22.0492256+00:00",
   "FirstSeenRating": "2022-10-10T18:31:07.4618498+00:00",
-  "LastChanged": "2024-08-17T14:58:55.1378006+00:00",
+  "LastChanged": "2024-08-17T16:58:09.9276694+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:30.7053655+00:00",
-  "LastUpdate_Ratings": "2024-08-17T14:58:55.1378012+00:00",
+  "LastUpdate_Ratings": "2024-08-17T16:58:09.92767+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:43.2445852+00:00"
 }

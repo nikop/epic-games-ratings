@@ -2,7 +2,7 @@
   "ID": "f7e06ee3d0c1491094cc0215859f0120",
   "Name": "Untitled Goose Game",
   "ProductSlug": "untitled-goose-game",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 694,
   "Ranking_PopularitySum": 694,
   "Ranking_EOS_Progress": 1184,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.71,
   "NumberOfRatings": 109,
   "RatingHistory": [
     {
@@ -381,6 +381,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T16:58:44.2272662+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -398,8 +404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:58.6433496+00:00",
-  "LastChanged": "2024-08-11T17:59:09.2161755+00:00",
+  "LastChanged": "2024-08-17T16:58:44.2272661+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:59.1457532+00:00",
-  "LastUpdate_Ratings": "2024-08-17T14:59:29.7032759+00:00",
+  "LastUpdate_Ratings": "2024-08-17T16:58:44.2272665+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:38.1867337+00:00"
 }

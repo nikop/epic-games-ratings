@@ -2,9 +2,9 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 325,
+  "Ranking_Rating": 324,
   "Ranking_Popularity": 610,
-  "Ranking_PopularitySum": 464,
+  "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -604,10 +604,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-17T16:58:34.4775585+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
+  "NumberOfAwards": 286,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -639,7 +645,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5291,9 +5297,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2024-08-17T13:57:29.1644058+00:00",
+  "LastChanged": "2024-08-17T16:58:34.4775584+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:32.3465563+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:42.5940555+00:00",
-  "LastUpdate_Ratings": "2024-08-17T14:59:20.0750563+00:00",
+  "LastUpdate_Ratings": "2024-08-17T16:58:34.4775588+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:32.346619+00:00"
 }
