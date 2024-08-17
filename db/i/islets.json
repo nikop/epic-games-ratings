@@ -4,7 +4,7 @@
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 214,
   "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 449,
+  "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1054,10 +1054,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 335,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-08-17T13:02:43.0948236+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 335,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1113,7 +1119,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 35
+      "Count": 37
     }
   ],
   "EOS_Progressed": 0,
@@ -1128,8 +1134,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-08-17T11:00:13.5584644+00:00",
+  "LastChanged": "2024-08-17T13:02:43.0948234+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:27.6264741+00:00",
-  "LastUpdate_Ratings": "2024-08-17T11:00:13.5584648+00:00",
+  "LastUpdate_Ratings": "2024-08-17T13:02:43.0948239+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:35.6728292+00:00"
 }
