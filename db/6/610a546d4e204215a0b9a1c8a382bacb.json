@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 110,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -9679,10 +9679,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7177,
       "NumberOfAwardsMax": 944
+    },
+    {
+      "Time": "2024-08-17T08:59:46.0353837+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7196,
+      "NumberOfAwardsMax": 944
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7177,
+  "NumberOfAwards": 7196,
   "NumberOfAwardsMax": 944,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9708,7 +9714,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 676
+      "Count": 682
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9726,7 +9732,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 740
+      "Count": 748
     },
     {
       "Text": "This game has a Creative Community",
@@ -9738,7 +9744,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 578
+      "Count": 583
     },
     {
       "Text": "This game has Amazing Characters",
@@ -20341,9 +20347,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-08-17T07:57:30.921173+00:00",
+  "LastChanged": "2024-08-17T08:59:46.0353835+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:54.6134594+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:10.1128308+00:00",
-  "LastUpdate_Ratings": "2024-08-17T07:57:30.9211736+00:00",
+  "LastUpdate_Ratings": "2024-08-17T08:59:46.0353841+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:54.6136752+00:00"
 }
