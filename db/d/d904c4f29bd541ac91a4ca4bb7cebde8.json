@@ -4,7 +4,7 @@
   "ProductSlug": "videogame-9ad7f5",
   "Ranking_Rating": 770,
   "Ranking_Popularity": 653,
-  "Ranking_PopularitySum": 661,
+  "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -866,6 +866,6 @@
   "LastChanged": "2024-08-16T07:58:16.5537618+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:01.8202645+00:00",
   "LastUpdate_AppInfo": "2024-08-10T20:57:03.5320098+00:00",
-  "LastUpdate_Ratings": "2024-08-17T01:55:11.8723416+00:00",
+  "LastUpdate_Ratings": "2024-08-17T03:57:31.9311083+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:01.8202884+00:00"
 }
