@@ -3,8 +3,8 @@
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 438,
-  "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 320,
+  "Ranking_Popularity": 377,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3257,12 +3257,18 @@
       "Rating": 4.61,
       "NumberOfAwards": 989,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2024-08-17T21:57:38.1969482+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1009,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 989,
-  "NumberOfAwardsMax": 170,
-  "MaxAwardTitle": "Challenging Combat",
+  "NumberOfAwards": 1009,
+  "NumberOfAwardsMax": 175,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -3274,19 +3280,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 168
+      "Count": 175
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 148
+      "Count": 154
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 143
+      "Count": 150
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3343,8 +3349,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-08-17T07:57:29.842316+00:00",
+  "LastChanged": "2024-08-17T21:57:38.196948+00:00",
   "LastUpdate_AppInfo": "2024-08-12T04:57:31.3623714+00:00",
-  "LastUpdate_Ratings": "2024-08-17T19:58:56.1108385+00:00",
+  "LastUpdate_Ratings": "2024-08-17T21:57:38.1969486+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:03.4717053+00:00"
 }
