@@ -4,7 +4,7 @@
   "ProductSlug": "defense-grid",
   "Ranking_Rating": 770,
   "Ranking_Popularity": 302,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -2780,10 +2780,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 1885,
       "NumberOfAwardsMax": 307
+    },
+    {
+      "Time": "2024-08-17T04:59:12.1066617+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1886,
+      "NumberOfAwardsMax": 307
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1885,
+  "NumberOfAwards": 1886,
   "NumberOfAwardsMax": 307,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2821,7 +2827,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game has Challenging Combat",
@@ -33520,9 +33526,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
-  "LastChanged": "2024-08-16T22:58:13.22022+00:00",
+  "LastChanged": "2024-08-17T04:59:12.1066615+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:39.817426+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:54.7728034+00:00",
-  "LastUpdate_Ratings": "2024-08-17T02:59:01.1840403+00:00",
+  "LastUpdate_Ratings": "2024-08-17T04:59:12.1066621+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:39.8176039+00:00"
 }

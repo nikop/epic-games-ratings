@@ -1,7 +1,7 @@
 # Roller Champions™
 [Store](https://store.epicgames.com/en-US/p/roller-champions)  
 [View Rawdata](../../db/r/roller_champions™.json)  
-Rating: 4.34 (Ranked 952)  
+Rating: 4.35 (Ranked 936)  
 Number of Ratings: 5,693  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 286  (Ranked 311)  
@@ -359,3 +359,4 @@ Diff (max vs sum): 78
 | 2024-07-31 | 4.35 | - | 285 | 2,463 |
 | 2024-08-14 | 4.34 | - | 286 | 2,464 |
 | 2024-08-16 | 4.34 | - | 286 | 2,465 |
+| 2024-08-17 | 4.35 | - | 286 | 2,465 |
