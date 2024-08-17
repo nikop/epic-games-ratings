@@ -3,8 +3,8 @@
   "Name": "Viking Rise: Valhalla",
   "ProductSlug": "viking-rise-876e15",
   "Ranking_Rating": 1128,
-  "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 596,
+  "Ranking_Popularity": 509,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -420,18 +420,24 @@
       "Rating": 4.16,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-08-17T18:57:49.4816728+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 65,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 62
+      "Count": 65
     }
   ],
   "EOS_Progressed": 0,
@@ -446,8 +452,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T06:58:36.7758205+00:00",
   "FirstSeenRating": "2024-05-25T22:59:08.2682454+00:00",
-  "LastChanged": "2024-08-16T15:59:06.5718028+00:00",
+  "LastChanged": "2024-08-17T18:57:49.4816726+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:11.119287+00:00",
-  "LastUpdate_Ratings": "2024-08-17T16:58:24.5881012+00:00",
+  "LastUpdate_Ratings": "2024-08-17T18:57:49.481673+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:55.3430957+00:00"
 }
