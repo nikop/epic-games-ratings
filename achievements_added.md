@@ -61,7 +61,7 @@
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | 27 (1,000 XP) | 0 | - | - |
 | [Silenced: The House](games/d/d58638016a464d09919c32f8830f682e.md) | 2024-07-24 | 11 (1,000 XP) | 7 | - | - |
 | [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 2024-07-15 | 7 (1,000 XP) | 30 | - | - |
-| [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | 18 (1,000 XP) | 64,560 | 4.45 | 0 |
+| [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | 18 (1,000 XP) | 64,560 | 4.45 | 20 |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 17 | - | - |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 68 | - | 0 |
 | [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 16,290 | 4.22 | 0 |
@@ -121,7 +121,7 @@
 | [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 2 | - | 0 |
 | [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 88,417 | 4.56 | 83 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 718 | - | 0 |
-| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 2,941 | 4.61 | 27 |
+| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 2,941 | 4.60 | 27 |
 | [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-17 | 11 (1,000 XP) | 152 | - | 0 |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 20 | - | 0 |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | 12 (1,000 XP) | 2 | - | 0 |
@@ -159,7 +159,7 @@
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 323,209 | 4.70 | 169 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | 30 (1,000 XP) | 246 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 72,659 | 3.65 | 24 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 72,659 | 3.66 | 24 |
 | [OLD SKOOL RACER](games/8/8d617ef953bf4147b3b507f33e2a7299.md) | 2024-04-10 | 8 (1,000 XP) | 8 | - | - |
 | [Unravel Two](games/2/2cad1455afca4f79ba7010936155b0a8.md) | 2024-05-09 | 28 (1,000 XP) | 113 | - | 0 |
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 515,390 | 4.56 | 1,315 |
@@ -292,7 +292,7 @@
 | [Highwater](games/h/highwater.md) | 2024-03-14 | 20 (1,000 XP) | 16 | - | 0 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 9,940 | 4.61 | 105 |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-01-01 | - |  | - | 0 |
-| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 155,232 | 4.72 | 34 |
+| [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 155,232 | 4.72 | 36 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | 23 (1,000 XP) | 181 | - | 0 |
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 204 | 4.63 | 21 |
@@ -328,7 +328,7 @@
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 177 | - | 0 |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | 2024-02-26 | 44 (1,000 XP) | 57 | - | 0 |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 575,882 | 4.31 | 524 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 575,882 | 4.31 | 525 |
 | [Death From Above - Complete Edition](games/f/f7dd9963616b4c1d9b89d5582a07766c.md) | 2024-02-23 | 21 (1,000 XP) | 0 | - | 0 |
 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 2024-01-31 | 14 (1,000 XP) | 3 | - | - |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 1 | - | - |
