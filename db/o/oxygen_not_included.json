@@ -3,7 +3,7 @@
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
   "Ranking_Rating": 49,
-  "Ranking_Popularity": 297,
+  "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -3836,10 +3836,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2657,
       "NumberOfAwardsMax": 319
+    },
+    {
+      "Time": "2024-08-17T07:58:56.3974755+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2658,
+      "NumberOfAwardsMax": 319
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2657,
+  "NumberOfAwards": 2658,
   "NumberOfAwardsMax": 319,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3901,7 +3907,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3921,8 +3927,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-08-16T07:00:40.992009+00:00",
+  "LastChanged": "2024-08-17T07:58:56.3974754+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:27.2990303+00:00",
-  "LastUpdate_Ratings": "2024-08-17T05:59:44.4011752+00:00",
+  "LastUpdate_Ratings": "2024-08-17T07:58:56.3974757+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:47.7877741+00:00"
 }
