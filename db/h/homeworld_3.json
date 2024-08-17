@@ -2,7 +2,7 @@
   "ID": "ef7baa6ce017413ab33e7f7e3f466a96",
   "Name": "Homeworld 3",
   "ProductSlug": "homeworld-3",
-  "Ranking_Rating": 1175,
+  "Ranking_Rating": 1174,
   "Ranking_Popularity": 695,
   "Ranking_PopularitySum": 695,
   "Ranking_EOS_Progress": 346,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.07,
   "RatingHistory": [
     {
       "Time": "2024-05-20T08:58:02.646881+00:00",
@@ -187,6 +187,12 @@
     {
       "Time": "2024-08-03T21:59:42.9205017+00:00",
       "Rating": 4.06,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T22:58:32.1036903+00:00",
+      "Rating": 4.07,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -508,9 +514,9 @@
   "FirstSeen": "2024-05-13T19:00:18.8409301+00:00",
   "FirstSeenRating": "2024-05-20T08:58:02.6468807+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:24.1566752+00:00",
-  "LastChanged": "2024-08-03T21:59:42.9205015+00:00",
+  "LastChanged": "2024-08-17T22:58:32.1036901+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:33.9192343+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:58.5325342+00:00",
-  "LastUpdate_Ratings": "2024-08-17T20:58:48.423062+00:00",
+  "LastUpdate_Ratings": "2024-08-17T22:58:32.1036909+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:33.919269+00:00"
 }
