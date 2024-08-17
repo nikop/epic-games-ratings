@@ -232,12 +232,12 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-08-09 | 147,520 | 0 |
 ## Awards
 Max (Extremely Fun): 24  (Ranked 653)  
-Sum: 47 (Ranked 613)  
-Diff (max vs sum): 40  
+Sum: 48 (Ranked 610)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
+| This game has Beautiful Visuals | 24 |
 | This game is Extremely Fun | 24 |
-| This game has Beautiful Visuals | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -293,3 +293,4 @@ Diff (max vs sum): 40
 | 2024-08-13 | 4.54 | 24 | 45 |
 | 2024-08-15 | 4.55 | 24 | 45 |
 | 2024-08-16 | 4.55 | 24 | 47 |
+| 2024-08-17 | 4.54 | 24 | 48 |

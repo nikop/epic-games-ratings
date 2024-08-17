@@ -2,9 +2,9 @@
   "ID": "middlemist",
   "Name": "The Sinking City",
   "ProductSlug": "the-sinking-city",
-  "Ranking_Rating": 1156,
-  "Ranking_Popularity": 693,
-  "Ranking_PopularitySum": 693,
+  "Ranking_Rating": 1151,
+  "Ranking_Popularity": 694,
+  "Ranking_PopularitySum": 694,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.1,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2024-05-24T18:59:35.5135279+00:00",
@@ -127,6 +127,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T02:58:20.8642217+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -145,8 +151,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-20T20:58:25.383514+00:00",
   "FirstSeenRating": "2024-05-24T18:59:35.5135277+00:00",
-  "LastChanged": "2024-08-14T01:59:38.9585811+00:00",
+  "LastChanged": "2024-08-17T02:58:20.8642215+00:00",
   "LastUpdate_AppInfo": "2024-08-14T20:57:15.6604812+00:00",
-  "LastUpdate_Ratings": "2024-08-16T23:59:18.3540436+00:00",
+  "LastUpdate_Ratings": "2024-08-17T02:58:20.8642219+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:31.6402581+00:00"
 }

@@ -2,6 +2,9 @@
   "ID": "c77e320376c14aa68121bffb108721c7",
   "Name": "A Knights Quest",
   "ProductSlug": "a-knights-quest",
+  "Ranking_Rating": 1194,
+  "Ranking_Popularity": 694,
+  "Ranking_PopularitySum": 694,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
+  "Rating": 4,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:17.1214727+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T02:58:45.9507553+00:00",
+      "Rating": 4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.5259831+00:00",
   "FirstSeenRating": "2023-03-31T05:57:17.1214723+00:00",
-  "LastChanged": "2023-03-31T05:57:17.1214724+00:00",
+  "LastChanged": "2024-08-17T02:58:45.9507551+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:50.7605129+00:00",
-  "LastUpdate_Ratings": "2024-08-16T23:59:42.8338926+00:00",
+  "LastUpdate_Ratings": "2024-08-17T02:58:45.9507557+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:00.7879661+00:00"
 }
