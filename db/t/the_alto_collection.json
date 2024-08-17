@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 289,
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 152,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 332,
   "RatingHistory": [
     {
@@ -1428,6 +1428,12 @@
     {
       "Time": "2024-08-14T08:58:43.6133511+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 448,
+      "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-08-17T01:54:19.115931+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 448,
       "NumberOfAwardsMax": 62
     }
@@ -34017,9 +34023,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-08-14T08:58:43.6133509+00:00",
+  "LastChanged": "2024-08-17T01:54:19.1159309+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:15.4541393+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:52.6210553+00:00",
-  "LastUpdate_Ratings": "2024-08-16T22:59:07.2244158+00:00",
+  "LastUpdate_Ratings": "2024-08-17T01:54:19.1159312+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:15.4544589+00:00"
 }

@@ -1,7 +1,7 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.39 (Ranked 880)  
+Rating: 4.40 (Ranked 864)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -392,3 +392,4 @@ Completed: 1,600 (1.00%) (Ranked 258)
 | 2024-07-31 | 4.39 | 0 | 0 |
 | 2024-08-03 | 4.40 | 0 | 0 |
 | 2024-08-11 | 4.39 | 0 | 0 |
+| 2024-08-17 | 4.40 | 0 | 0 |

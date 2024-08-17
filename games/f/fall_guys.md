@@ -1,7 +1,7 @@
 # Fall Guys
 [Store](https://store.epicgames.com/en-US/p/fall-guys)  
 [View Rawdata](../../db/f/fall_guys.json)  
-Rating: 4.50 (Ranked 674)  
+Rating: 4.50 (Ranked 673)  
 Number of Ratings: 1,046,587  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -330,18 +330,18 @@ Completed: 57,824 (0.14%) (Ranked 413)
 | 2024-07-24 | 40,265,234 | 57,368 |
 | 2024-08-09 | 40,516,600 | 57,824 |
 ## Awards
-Max (Great for Beginners): 164,410  (Ranked 8)  
-Sum: 1,459,474 (Ranked 5)  
+Max (Great for Beginners): 164,579  (Ranked 8)  
+Sum: 1,459,730 (Ranked 5)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 164,410 |
+| This game is Great for Beginners | 164,579 |
 | This game is Great for Quick Sessions | 144,709 |
 | This game is Relaxing | 141,749 |
 | This game has Competitive Players | 139,360 |
 | This game has Diverse Characters | 139,326 |
 | This game has Quickly Understood Controls | 138,817 |
-| This game is Extremely Fun | 127,617 |
+| This game is Extremely Fun | 127,704 |
 | This game is Highly Recommended | 122,492 |
 | This game has Amazing Characters | 118,671 |
 | This game has Amazing Storytelling | 112,429 |
@@ -919,3 +919,4 @@ Diff (max vs sum): 3
 | 2024-08-14 | 4.50 | - | 164,257 | 1,458,217 |
 | 2024-08-15 | 4.50 | - | 164,329 | 1,458,741 |
 | 2024-08-16 | 4.50 | - | 164,410 | 1,459,474 |
+| 2024-08-17 | 4.50 | - | 164,579 | 1,459,730 |

@@ -2,7 +2,7 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 880,
+  "Ranking_Rating": 864,
   "Ranking_Popularity": 693,
   "Ranking_PopularitySum": 693,
   "Ranking_EOS_Progress": 104,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2022-10-02T01:30:49.749465+00:00",
@@ -359,6 +359,12 @@
     {
       "Time": "2024-08-11T23:57:05.0624583+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T01:54:36.1443599+00:00",
+      "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -32991,9 +32997,9 @@
   "FirstSeen": "2022-07-22T20:19:57.3408897+00:00",
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
-  "LastChanged": "2024-08-11T23:57:05.0624581+00:00",
+  "LastChanged": "2024-08-17T01:54:36.1443597+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:25.248866+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:08.7310211+00:00",
-  "LastUpdate_Ratings": "2024-08-16T22:59:33.0904979+00:00",
+  "LastUpdate_Ratings": "2024-08-17T01:54:36.1443603+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:25.249075+00:00"
 }
