@@ -2,7 +2,7 @@
   "ID": "5d24ed888f9542a09dc406f66705631a",
   "Name": "Neighbours back From Hell",
   "ProductSlug": "neighbours-back-from-hell",
-  "Ranking_Rating": 180,
+  "Ranking_Rating": 164,
   "Ranking_Popularity": 694,
   "Ranking_PopularitySum": 694,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 30,
   "RatingHistory": [
     {
@@ -191,6 +191,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T19:59:54.1637632+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -209,8 +215,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:04.1226773+00:00",
   "FirstSeenRating": "2022-08-26T08:01:54.6325484+00:00",
-  "LastChanged": "2024-07-30T13:10:06.9362814+00:00",
+  "LastChanged": "2024-08-17T19:59:54.163763+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:39.7108868+00:00",
-  "LastUpdate_Ratings": "2024-08-17T18:01:04.3132477+00:00",
+  "LastUpdate_Ratings": "2024-08-17T19:59:54.1637636+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:06.1076279+00:00"
 }

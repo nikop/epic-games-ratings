@@ -5,8 +5,8 @@ Rating: 4.72 (Ranked 214)
 Number of Ratings: 86  (23.09.2022)  
 ## Awards
 Max (Educational): 36  (Ranked 592)  
-Sum: 346 (Ranked 445)  
-Diff (max vs sum): 147  
+Sum: 347 (Ranked 444)  
+Diff (max vs sum): 148  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 36 |
@@ -18,7 +18,7 @@ Diff (max vs sum): 147
 | This game is Relaxing | 32 |
 | This game has a Creative Community | 31 |
 | This game is Extremely Fun | 31 |
-| This game has Unique Visuals | 28 |
+| This game has Unique Visuals | 29 |
 | This game has Obsessive Gameplay | 23 |
 | This game has Amazing Characters | 22 |
 ## Ratings History
@@ -65,3 +65,4 @@ Diff (max vs sum): 147
 | 2024-03-12 | 4.72 | - | 35 | 343 |
 | 2024-03-25 | 4.72 | - | 36 | 344 |
 | 2024-07-14 | 4.72 | - | 36 | 346 |
+| 2024-08-17 | 4.72 | - | 36 | 347 |

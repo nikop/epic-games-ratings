@@ -323,12 +323,12 @@ Completed: 7 (0.00%) (Ranked 554)
 | 2024-08-09 | 240,889 | 7 |
 ## Awards
 Max (Diverse Characters): 33  (Ranked 605)  
-Sum: 105 (Ranked 551)  
+Sum: 106 (Ranked 551)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33 |
-| This game is Great for Beginners | 31 |
+| This game is Great for Beginners | 32 |
 | This game has Challenging Combat | 22 |
 | This game is Highly Recommended | 21 |
 | This game has a Kind Community | 20 |
@@ -422,3 +422,4 @@ Diff (max vs sum): 54
 | 2024-08-04 | 4.59 | 31 | 103 |
 | 2024-08-06 | 4.59 | 32 | 104 |
 | 2024-08-16 | 4.59 | 33 | 105 |
+| 2024-08-17 | 4.59 | 33 | 106 |

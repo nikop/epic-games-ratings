@@ -4,7 +4,7 @@
   "ProductSlug": "fuser",
   "Ranking_Rating": 214,
   "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 445,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -245,10 +245,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 346,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-08-17T19:59:20.4226041+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 347,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 346,
+  "NumberOfAwards": 347,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -304,7 +310,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -336,8 +342,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
-  "LastChanged": "2024-07-14T17:01:08.9757412+00:00",
+  "LastChanged": "2024-08-17T19:59:20.4226039+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:15.6353083+00:00",
-  "LastUpdate_Ratings": "2024-08-17T18:00:31.1292383+00:00",
+  "LastUpdate_Ratings": "2024-08-17T19:59:20.4226044+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:18.9575123+00:00"
 }
