@@ -2,7 +2,7 @@
   "ID": "768ec2d3b5114ac4a800631b12ee3f31",
   "Name": "Cozy Grove",
   "ProductSlug": "cozy-grove",
-  "Ranking_Rating": 125,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 694,
   "Ranking_PopularitySum": 694,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "NumberOfRatings": 43,
   "RatingHistory": [
     {
@@ -159,6 +159,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-17T06:59:52.863394+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -176,8 +182,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:43.8185339+00:00",
-  "LastChanged": "2024-06-15T23:58:59.5681053+00:00",
+  "LastChanged": "2024-08-17T06:59:52.8633938+00:00",
   "LastUpdate_AppInfo": "2024-08-12T02:00:23.3742053+00:00",
-  "LastUpdate_Ratings": "2024-08-17T05:57:41.2623136+00:00",
+  "LastUpdate_Ratings": "2024-08-17T06:59:52.8633942+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:19.4398283+00:00"
 }
