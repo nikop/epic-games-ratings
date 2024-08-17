@@ -236,7 +236,7 @@
 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 2024-04-25 | 26 (1,000 XP) | 30 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 718 | - | 0 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 20,868 | 4.64 | 629 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 20,868 | 4.64 | 636 |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-24 | 42 (1,000 XP) | 1 | - | 0 |
 | [Tents and Trees](games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 2024-04-24 | 32 (1,000 XP) | 113 | - | 0 |
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | 19 (1,000 XP) | 398 | - | 0 |
@@ -1190,7 +1190,7 @@
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 268 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 89,351 | 4.64 | 26 |
 | [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 26,177 | 4.69 | 385 |
-| [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 184,840 | 4.60 | 100 |
+| [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 184,840 | 4.61 | 100 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 159,412 | 4.39 | 345 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 82,219 | 4.53 | 129 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 2021-07-16 | 30 (1,000 XP) | 2,283 | 4.42 | 48 |
@@ -1198,7 +1198,7 @@
 | [Crash Drive 3](games/c/crash_drive_3.md) | 2021-07-08 | 55 (1,000 XP) | 527 | - | 0 |
 | [Supraland](games/s/supraland.md) | 2021-07-02 | 98 (1,000 XP) | 758,384 | 4.61 | 7,955 |
 | [Adios](games/a/adios.md) | 2021-06-29 | 25 (1,000 XP) | 94,653 | 3.65 | 0 |
-| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,164,062 | 4.54 | 223 |
+| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,164,062 | 4.54 | 224 |
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 22,956 | 4.32 | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 721 | - | 0 |
 | [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 10,061 | 4.61 | 175 |
@@ -1248,7 +1248,7 @@
 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 30,471 | 4.84 | 239 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 73,962 | 4.68 | 62 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 1,808 | 4.64 | 36 |
-| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,366,719 | 4.78 | 11,882 |
+| [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,366,719 | 4.78 | 11,902 |
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 40,183 | 4.43 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 3,368 | 4.62 | 46 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 3,224 | 4.84 | 56 |

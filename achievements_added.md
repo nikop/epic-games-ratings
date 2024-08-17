@@ -131,7 +131,7 @@
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | 55 (1,000 XP) | 299 | 4.63 | 0 |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,100 | 4.73 | 86 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 20,868 | 4.64 | 629 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 20,868 | 4.64 | 636 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 11 | - | 0 |
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 15,801 | 4.50 | 58 |
 | [Republic of Pirates](games/0/0cf54ee6730540daadb4f3bb7d54d481.md) | 2024-06-19 | 50 (1,000 XP) | 120 | - | 0 |
@@ -457,7 +457,7 @@
 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 2023-12-02 | 5 (1,000 XP) | 20 | - | 0 |
 | [Extreme Formula Championship](games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 2023-12-05 | 5 (1,000 XP) | 13 | - | 0 |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2024-01-17 | 60 (1,000 XP) | 1 | - | - |
-| [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 184,840 | 4.60 | 100 |
+| [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 184,840 | 4.61 | 100 |
 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 2023-12-02 | 9 (1,000 XP) | 15 | - | 0 |
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 3 | - | 0 |
 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 2023-12-01 | 5 (1,000 XP) | 22 | - | 0 |
