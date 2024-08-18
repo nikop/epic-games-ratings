@@ -55,8 +55,8 @@ Completed: 4 (0.12%) (Ranked 421)
 | 2024-08-09 | 3,224 | 4 |
 ## Awards
 Max (Amazing Storytelling): 56  (Ranked 533)  
-Sum: 381 (Ranked 427)  
-Diff (max vs sum): 106  
+Sum: 401 (Ranked 422)  
+Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 56 |
@@ -70,6 +70,7 @@ Diff (max vs sum): 106
 | This game has Challenging Combat | 36 |
 | This game has Obsessive Gameplay | 20 |
 | This game has Unique Visuals | 20 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -226,3 +227,4 @@ Diff (max vs sum): 106
 | 2024-08-08 | 4.84 | - | 56 | 378 |
 | 2024-08-09 | 4.84 | - | 56 | 379 |
 | 2024-08-10 | 4.84 | - | 56 | 381 |
+| 2024-08-18 | 4.84 | - | 56 | 401 |
