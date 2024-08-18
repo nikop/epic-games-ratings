@@ -2,7 +2,7 @@
   "ID": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
   "Name": "Kill It With Fire",
   "ProductSlug": "kill-it-with-fire",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 307,
   "Ranking_Popularity": 695,
   "Ranking_PopularitySum": 695,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2022-12-03T21:57:39.7500461+00:00",
@@ -131,6 +131,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-18T06:00:09.5135199+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -149,8 +155,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:57.0618032+00:00",
   "FirstSeenRating": "2022-12-03T21:57:39.7500458+00:00",
-  "LastChanged": "2024-08-16T05:58:48.2005315+00:00",
+  "LastChanged": "2024-08-18T06:00:09.5135197+00:00",
   "LastUpdate_AppInfo": "2024-08-12T08:57:41.0202205+00:00",
-  "LastUpdate_Ratings": "2024-08-18T04:58:09.978686+00:00",
+  "LastUpdate_Ratings": "2024-08-18T06:00:09.5135203+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:30.6105559+00:00"
 }
