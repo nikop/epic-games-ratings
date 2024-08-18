@@ -2,7 +2,7 @@
   "ID": "c9340fb1d3984f4f8f5bbafaa0ea066d",
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
-  "Ranking_Rating": 1124,
+  "Ranking_Rating": 1085,
   "Ranking_Popularity": 696,
   "Ranking_PopularitySum": 696,
   "Ranking_EOS_Progress": 150,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.17,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2024-08-12T19:58:04.4420285+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2024-08-17T11:58:28.4097382+00:00",
       "Rating": 4.17,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-18T11:57:39.7487743+00:00",
+      "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -11839,9 +11845,9 @@
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenRating": "2024-08-12T19:58:04.442028+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged": "2024-08-17T11:58:28.409738+00:00",
+  "LastChanged": "2024-08-18T11:57:39.748774+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:40.5013596+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:15.1534642+00:00",
-  "LastUpdate_Ratings": "2024-08-18T09:58:50.295273+00:00",
+  "LastUpdate_Ratings": "2024-08-18T11:57:39.7487746+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:40.5014477+00:00"
 }

@@ -1,15 +1,15 @@
 # Saints Row®: The Third™  Remastered
 [Store](https://store.epicgames.com/en-US/p/saints-row-the-third-remastered)  
 [View Rawdata](../../db/s/saints_row®__the_third™__remastered.json)  
-Rating: 4.41 (Ranked 851)  
+Rating: 4.41 (Ranked 852)  
 Number of Ratings: 6,169  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 2,353  (Ranked 127)  
-Sum: 3,315 (Ranked 206)  
+Max (Great Boss Battles): 2,355  (Ranked 127)  
+Sum: 3,317 (Ranked 206)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,353 |
+| This game has Great Boss Battles | 2,355 |
 | This game is Great for Beginners | 125 |
 | This game is Extremely Fun | 117 |
 | This game has Amazing Characters | 115 |
@@ -306,3 +306,4 @@ Diff (max vs sum): -79
 | 2024-08-13 | 4.41 | - | 2,348 | 3,309 |
 | 2024-08-15 | 4.41 | - | 2,350 | 3,311 |
 | 2024-08-17 | 4.41 | - | 2,353 | 3,315 |
+| 2024-08-18 | 4.41 | - | 2,355 | 3,317 |
