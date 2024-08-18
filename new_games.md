@@ -12,7 +12,7 @@
 | [Everreach: Project Eden](games/b/b585604242fc45a189c63fcdac9da693.md) | 2024-08-15 | - |  | - | 0 |
 | [The Inner World - The Last Wind Monk](games/a/a1d133c695a4461a9b841a0c6c6657cd.md) | 2024-08-15 | - |  | - | - |
 | [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | - |  | - | - |
-| [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | - |  | - | - |
+| [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | - |  | - | 0 |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | 0 |
 | [Strong Fortress](games/5/517c5d875a104cfb98506f8f2844a555.md) | 2024-08-15 | - |  | - | - |
@@ -92,7 +92,7 @@
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | 20 (1,000 XP) | 0 | - | - |
 | [Trepang2](games/e/e9e954cebd354b7092bbecef04b5d7fd.md) | 2024-07-25 | 49 (1,000 XP) | 0 | - | 0 |
 | [Computer Virus Simulator](games/d/dcf81a568d924d329addaa06be801621.md) | 2024-07-25 | - |  | - | - |
-| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 79,623 | 4.77 | 0 |
+| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 79,623 | 4.78 | 0 |
 | [Goddess Connect](games/e/eebea9ae68284b4c9701d4cbd990d176.md) | 2024-07-25 | - |  | - | 0 |
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2024-07-25 | 38 (1,000 XP) | 0 | - | - |
 | [Idle Trillionaire](games/8/8b5be370173547eea257cc8696c7491e.md) | 2024-07-25 | - |  | - | 0 |
