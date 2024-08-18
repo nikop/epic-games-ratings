@@ -4,12 +4,12 @@
 Rating: 4.55 (Ranked 575)  
 ## Awards
 Max (Highly Recommended): 22  (Ranked 670)  
-Sum: 62 (Ranked 598)  
-Diff (max vs sum): 72  
+Sum: 63 (Ranked 596)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 22 |
-| This game has Quickly Understood Controls | 20 |
+| This game has Quickly Understood Controls | 21 |
 | This game has Challenging Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -76,3 +76,4 @@ Diff (max vs sum): 72
 | 2024-07-28 | 4.55 | 20 | 40 |
 | 2024-08-08 | 4.55 | 21 | 61 |
 | 2024-08-16 | 4.55 | 22 | 62 |
+| 2024-08-18 | 4.55 | 22 | 63 |

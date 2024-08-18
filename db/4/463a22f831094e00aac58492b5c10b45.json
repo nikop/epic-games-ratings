@@ -2,9 +2,9 @@
   "ID": "463a22f831094e00aac58492b5c10b45",
   "Name": "Manor Lords",
   "ProductSlug": "manor-lords-ef795f",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 620,
   "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 537,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 487,
   "Ranking_EOS_NewPlayers": 23,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2024-04-28T11:57:16.1750666+00:00",
@@ -600,10 +600,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 125,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-08-18T02:58:15.9544522+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 125,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -648,6 +654,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 18362,
@@ -776,9 +788,9 @@
   "FirstSeen": "2024-04-26T16:58:14.5386901+00:00",
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.3815866+00:00",
-  "LastChanged": "2024-08-17T18:58:28.350231+00:00",
+  "LastChanged": "2024-08-18T02:58:15.954452+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:57.5772207+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:04.3433799+00:00",
-  "LastUpdate_Ratings": "2024-08-17T23:59:21.7916281+00:00",
+  "LastUpdate_Ratings": "2024-08-18T02:58:15.9544524+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:57.5772301+00:00"
 }

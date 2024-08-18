@@ -4,7 +4,7 @@
   "ProductSlug": "duskers-672fdc",
   "Ranking_Rating": 575,
   "Ranking_Popularity": 670,
-  "Ranking_PopularitySum": 598,
+  "Ranking_PopularitySum": 596,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -389,10 +389,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-08-18T02:57:18.239988+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
+  "NumberOfAwards": 63,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -400,7 +406,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Highly Recommended",
@@ -427,8 +433,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T18:58:14.3629002+00:00",
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
-  "LastChanged": "2024-08-16T15:58:44.8674118+00:00",
+  "LastChanged": "2024-08-18T02:57:18.2399878+00:00",
   "LastUpdate_AppInfo": "2024-08-12T10:57:12.6637429+00:00",
-  "LastUpdate_Ratings": "2024-08-17T23:58:17.8456935+00:00",
+  "LastUpdate_Ratings": "2024-08-18T02:57:18.2399883+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:46.2011127+00:00"
 }
