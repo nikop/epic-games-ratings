@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 404,
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 16,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-06-02T07:56:53.116018+00:00",
@@ -3605,6 +3605,12 @@
     {
       "Time": "2024-08-17T17:59:55.7759212+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 963,
+      "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-08-18T18:59:46.3531176+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 963,
       "NumberOfAwardsMax": 137
     }
@@ -32170,9 +32176,9 @@
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2024-08-17T17:59:55.775921+00:00",
+  "LastChanged": "2024-08-18T18:59:46.3531175+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:19.0605775+00:00",
   "LastUpdate_AppInfo": "2024-08-17T08:57:06.226286+00:00",
-  "LastUpdate_Ratings": "2024-08-18T17:57:45.9794504+00:00",
+  "LastUpdate_Ratings": "2024-08-18T18:59:46.3531178+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:19.0607456+00:00"
 }

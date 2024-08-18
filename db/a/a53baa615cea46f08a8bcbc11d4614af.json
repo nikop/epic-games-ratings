@@ -4,7 +4,7 @@
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 1035,
   "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1003,10 +1003,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 444,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-08-18T18:57:51.4710974+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 446,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 444,
+  "NumberOfAwards": 446,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1068,7 +1074,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 46
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1089,8 +1095,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-08-18T04:58:34.2200857+00:00",
+  "LastChanged": "2024-08-18T18:57:51.4710973+00:00",
   "LastUpdate_AppInfo": "2024-08-13T15:57:40.3488616+00:00",
-  "LastUpdate_Ratings": "2024-08-18T16:58:31.8993425+00:00",
+  "LastUpdate_Ratings": "2024-08-18T18:57:51.4710978+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:50.7765959+00:00"
 }
