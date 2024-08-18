@@ -53,4 +53,3 @@
 | [NINJA KATO 4](games/e/e44eb86202844dfe9644e88d0c9c232a.md) | 2024-07-21 | 6 (1,000 XP) | 3 | - | - |
 | [The Black Pool](games/a/a79dc86babfd4136a6f788bf54d23308.md) | 2024-07-19 | 41 (1,000 XP) | 529 | - | 0 |
 | [Hero of the Kingdom](games/1/17fd3ea945ad482190387b6b55b42633.md) | 2024-07-19 | 38 (1,000 XP) | 45 | - | 0 |
-| [The Gravity Trickster](games/e/eadca889d4344a9eaaa96c606222892d.md) | 2024-07-19 | 31 (1,000 XP) | 1 | - | - |
