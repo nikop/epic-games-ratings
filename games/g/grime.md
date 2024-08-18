@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.61 (Ranked 438)  
+Rating: 4.61 (Ranked 439)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -321,7 +321,7 @@ Completed: 617 (0.33%) (Ranked 352)
 | 2024-08-09 | 184,840 | 617 |
 ## Awards
 Max (Challenging Combat): 100  (Ranked 455)  
-Sum: 720 (Ranked 364)  
+Sum: 721 (Ranked 364)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -331,7 +331,7 @@ Diff (max vs sum): 91
 | This game has Quickly Understood Controls | 91 |
 | This game has Unique Visuals | 90 |
 | This game is Highly Recommended | 89 |
-| This game has Amazing Characters | 86 |
+| This game has Amazing Characters | 87 |
 | This game has a Creative Community | 70 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -658,4 +658,4 @@ Diff (max vs sum): 91
 | 2024-08-15 | 4.60 | - | 99 | 713 |
 | 2024-08-16 | 4.60 | - | 100 | 718 |
 | 2024-08-17 | 4.61 | - | 100 | 720 |
-| 2024-08-18 | 4.61 | - | 100 | 720 |
+| 2024-08-18 | 4.61 | - | 100 | 721 |
