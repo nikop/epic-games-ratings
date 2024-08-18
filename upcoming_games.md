@@ -8,7 +8,6 @@
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | - |  | - | - |
 | [The Companion](games/9/9929fd534aae43acb7fd6e8016646ab9.md) | 2024-08-20 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
-| [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-08-21 | - |  | - | - |
 | [Office Fight](games/5/596e41f75cf64aa8b2d19d32320f7473.md) | 2024-08-21 | - |  | - | - |
 | [Millennium Conflict](games/a/aff50fded81843749d7641e8c5c2cb07.md) | 2024-08-22 | - |  | - | - |
 | [Exo Mayhem](games/0/05a60577cbce49f987ccebfd548cd088.md) | 2024-08-22 | - |  | - | - |
@@ -45,6 +44,7 @@
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | - |  | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-11 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2024-09-16 | - |  | - | - |
+| [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-09-19 | - |  | - | - |
 | [Sammy Jukes: Twin Lakes](games/4/4ee1c06e76884f3b99af95fa347f9c36.md) | 2024-09-19 | - |  | - | - |
 | [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | - | - |
