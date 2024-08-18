@@ -4,7 +4,7 @@
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 48,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 259,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 426,
   "Ranking_EOS_NewPlayers": 97,
@@ -2152,10 +2152,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 1838,
       "NumberOfAwardsMax": 239
+    },
+    {
+      "Time": "2024-08-18T20:58:43.0280015+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 1839,
+      "NumberOfAwardsMax": 239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1838,
+  "NumberOfAwards": 1839,
   "NumberOfAwardsMax": 239,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2181,7 +2187,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15834,9 +15840,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-08-18T10:57:38.1627423+00:00",
+  "LastChanged": "2024-08-18T20:58:43.0280013+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:47.7241828+00:00",
   "LastUpdate_AppInfo": "2024-08-12T03:57:12.0195955+00:00",
-  "LastUpdate_Ratings": "2024-08-18T18:59:33.5541815+00:00",
+  "LastUpdate_Ratings": "2024-08-18T20:58:43.0280019+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:47.7242565+00:00"
 }
