@@ -3,8 +3,8 @@
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
   "Ranking_Rating": 838,
-  "Ranking_Popularity": 310,
-  "Ranking_PopularitySum": 455,
+  "Ranking_Popularity": 309,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 97,
@@ -1041,18 +1041,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 312,
       "NumberOfAwardsMax": 290
+    },
+    {
+      "Time": "2024-08-18T13:05:29.5378016+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 293
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 312,
-  "NumberOfAwardsMax": 290,
+  "NumberOfAwards": 315,
+  "NumberOfAwardsMax": 293,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 290
+      "Count": 293
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5270,9 +5276,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2024-08-17T09:59:25.4792784+00:00",
+  "LastChanged": "2024-08-18T13:05:29.5378014+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:57.5231588+00:00",
   "LastUpdate_AppInfo": "2024-08-11T16:57:17.2042984+00:00",
-  "LastUpdate_Ratings": "2024-08-18T11:57:57.0707586+00:00",
+  "LastUpdate_Ratings": "2024-08-18T13:05:29.5378019+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:57.523187+00:00"
 }
