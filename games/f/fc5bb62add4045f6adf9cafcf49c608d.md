@@ -1,7 +1,7 @@
 # Prince of Persia: Sands of Time
 [Store](https://store.epicgames.com/en-US/p/prince-of-persia-sands-of-time)  
 [View Rawdata](../../db/f/fc5bb62add4045f6adf9cafcf49c608d.json)  
-Rating: 4.40 (Ranked 866)  
+Rating: 4.35 (Ranked 934)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.40 (Ranked 866)
 | 2024-05-25 | 4.36 | 0 | 0 |
 | 2024-06-01 | 4.38 | 0 | 0 |
 | 2024-07-01 | 4.40 | 0 | 0 |
+| 2024-08-18 | 4.35 | 0 | 0 |

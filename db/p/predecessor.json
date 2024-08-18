@@ -2,7 +2,7 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1035,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 1184,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2022-12-02T07:57:13.3206905+00:00",
@@ -10138,6 +10138,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 4143,
       "NumberOfAwardsMax": 792
+    },
+    {
+      "Time": "2024-08-18T04:57:38.4606338+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 4143,
+      "NumberOfAwardsMax": 792
     }
   ],
   "ReviewsDisabled": false,
@@ -10218,8 +10224,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2024-08-17T23:59:28.2376831+00:00",
+  "LastChanged": "2024-08-18T04:57:38.4606336+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:53.9503243+00:00",
-  "LastUpdate_Ratings": "2024-08-18T02:58:21.8781125+00:00",
+  "LastUpdate_Ratings": "2024-08-18T04:57:38.4606342+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.5267563+00:00"
 }
