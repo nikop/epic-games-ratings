@@ -2,7 +2,7 @@
   "ID": "6c77bc1b5faa4ac98441ec75cca0d320",
   "Name": "APE OUT",
   "ProductSlug": "ape-out",
-  "Ranking_Rating": 346,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 696,
   "Ranking_PopularitySum": 696,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.63,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -196,6 +196,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-18T16:57:24.3397169+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -214,8 +220,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:21.656394+00:00",
   "FirstSeenRating": "2022-08-11T22:01:52.3350114+00:00",
-  "LastChanged": "2024-08-11T14:57:39.8124685+00:00",
+  "LastChanged": "2024-08-18T16:57:24.3397167+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:44.6245827+00:00",
-  "LastUpdate_Ratings": "2024-08-18T14:58:05.6655885+00:00",
+  "LastUpdate_Ratings": "2024-08-18T16:57:24.3397173+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:07.3507138+00:00"
 }
