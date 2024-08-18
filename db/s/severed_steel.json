@@ -2,7 +2,7 @@
   "ID": "5db7394e65044dd1bb083ee983e2b3a5",
   "Name": "Severed Steel",
   "ProductSlug": "severed-steel",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 34,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-12-28T18:57:32.9042651+00:00",
@@ -2155,6 +2155,12 @@
     {
       "Time": "2024-08-17T02:58:35.6275935+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 973,
+      "NumberOfAwardsMax": 697
+    },
+    {
+      "Time": "2024-08-18T02:04:33.8250041+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 973,
       "NumberOfAwardsMax": 697
     }
@@ -35255,9 +35261,9 @@
   "FirstSeen": "2022-07-22T20:21:24.7272687+00:00",
   "FirstSeenRating": "2022-12-28T18:57:32.9042647+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.6943052+00:00",
-  "LastChanged": "2024-08-17T02:58:35.6275933+00:00",
+  "LastChanged": "2024-08-18T02:04:33.825004+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:47.3758271+00:00",
   "LastUpdate_AppInfo": "2024-08-12T10:57:11.5354526+00:00",
-  "LastUpdate_Ratings": "2024-08-17T23:58:11.8598041+00:00",
+  "LastUpdate_Ratings": "2024-08-18T02:04:33.8250044+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:47.3760121+00:00"
 }
