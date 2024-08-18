@@ -2,7 +2,7 @@
   "ID": "04aa210636b34e4181d617e015cb82b4",
   "Name": "FlatOut 2",
   "ProductSlug": "flatout-2-9ffdd6",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 696,
   "Ranking_PopularitySum": 696,
   "Ranking_EOS_Progress": 1184,
@@ -227,6 +227,6 @@
   "FirstSeenRating": "2022-11-11T17:57:55.7315738+00:00",
   "LastChanged": "2024-08-16T16:57:52.3569571+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:18.0579011+00:00",
-  "LastUpdate_Ratings": "2024-08-18T13:57:53.5518408+00:00",
+  "LastUpdate_Ratings": "2024-08-18T15:57:23.5056895+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:28.063802+00:00"
 }
