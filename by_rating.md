@@ -91,7 +91,7 @@
 | 76 | [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 4.82 | 33 | 605 |
 | 90 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 4.81 | 24 | 657 |
 | 90 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.81 | 1,345 | 161 |
-| 90 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,649 | 120 |
+| 90 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 2,650 | 120 |
 | 90 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.81 | 0 | 695 |
 | 90 | [Coffee Talk](games/c/coffee_talk.md) | 4.81 | 0 | 695 |
 | 90 | [Lost Ruins](games/l/lost_ruins.md) | 4.81 | 0 | 695 |
@@ -423,7 +423,7 @@
 | 414 | [GRIT](games/g/grit.md) | 4.62 | 0 | 695 |
 | 414 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.62 | 0 | 695 |
 | 414 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 765 | 222 |
-| 414 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.62 | 13,057 | 45 |
+| 414 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.62 | 13,116 | 45 |
 | 414 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.62 | 1,658 | 152 |
 | 414 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 695 |
 | 414 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 695 |
@@ -511,7 +511,7 @@
 | 509 | [Aimlabs](games/a/aimlabs.md) | 4.58 | 176 | 373 |
 | 509 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.58 | 109 | 440 |
 | 509 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 71,890 | 12 |
-| 509 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,216 | 172 |
+| 509 | [Brawlhalla](games/b/brawlhalla.md) | 4.58 | 1,222 | 172 |
 | 509 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 285 | 312 |
 | 509 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 4.58 | 0 | 695 |
 | 509 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.58 | 44 | 559 |
@@ -713,7 +713,7 @@
 | 693 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 4.49 | 39 | 576 |
 | 693 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.49 | 0 | 695 |
 | 693 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 17,253 | 32 |
-| 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.49 | 1,435 | 157 |
+| 693 | [Train Valley 2](games/t/train_valley_2.md) | 4.49 | 1,439 | 157 |
 | 693 | [VALORANT](games/v/valorant.md) | 4.49 | 138,841 | 10 |
 | 716 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 67 | 505 |
 | 716 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 695 |
@@ -1009,7 +1009,7 @@
 | 1,002 | [Fortnite](games/f/fortnite.md) | 4.29 | 3,830,653 | 1 |
 | 1,002 | [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 4.29 | 0 | 695 |
 | 1,002 | [John Wick Hex](games/j/john_wick_hex.md) | 4.29 | 0 | 695 |
-| 1,002 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.29 | 68 | 504 |
+| 1,002 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.29 | 69 | 503 |
 | 1,002 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.29 | 64 | 510 |
 | 1,002 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 4.29 | 0 | 695 |
 | 1,013 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 4.28 | 1,188 | 174 |

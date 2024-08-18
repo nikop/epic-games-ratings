@@ -44,7 +44,7 @@
 | 42 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 13,839 | 4.51 | 652 |
 | 43 | [HITMAN World of Assassination](games/h/hitman_3.md) | 13,550 | 4.77 | 131 |
 | 44 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 13,258 | 4.58 | 509 |
-| 45 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 13,057 | 4.62 | 414 |
+| 45 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 13,116 | 4.62 | 414 |
 | 46 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,977 | 4.36 | 921 |
 | 47 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,817 | 4.69 | 265 |
 | 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 12,401 | 4.01 | 1,189 |
@@ -119,7 +119,7 @@
 | 117 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 3,036 | 4.71 | 224 |
 | 118 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,872 | 4.76 | 149 |
 | 119 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,718 | 4.76 | 149 |
-| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,649 | 4.81 | 90 |
+| 120 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,650 | 4.81 | 90 |
 | 121 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,559 | 4.62 | 414 |
 | 122 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,157 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,468 | 4.56 | 553 |
@@ -156,7 +156,7 @@
 | 154 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,498 | 4.63 | 391 |
 | 155 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,467 | 4.75 | 164 |
 | 156 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,441 | 4.43 | 809 |
-| 157 | [Train Valley 2](games/t/train_valley_2.md) | 1,435 | 4.49 | 693 |
+| 157 | [Train Valley 2](games/t/train_valley_2.md) | 1,439 | 4.49 | 693 |
 | 158 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,404 | 4.70 | 241 |
 | 159 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,367 | 4.69 | 265 |
 | 160 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,347 | 4.46 | 750 |
@@ -171,7 +171,7 @@
 | 169 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,257 | 4.65 | 346 |
 | 170 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 1,250 | 4.62 | 414 |
 | 171 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 1,231 | 4.49 | 693 |
-| 172 | [Brawlhalla](games/b/brawlhalla.md) | 1,216 | 4.58 | 509 |
+| 172 | [Brawlhalla](games/b/brawlhalla.md) | 1,222 | 4.58 | 509 |
 | 173 | [Riders Republic](games/r/riders_republic.md) | 1,199 | 4.74 | 181 |
 | 174 | [Dark and Darker](games/9/91b15e9ef6c94b1694d87639beb8cbad.md) | 1,188 | 4.28 | 1,013 |
 | 174 | [Torchlight II](games/t/torchlight_ii.md) | 1,188 | 4.60 | 464 |
@@ -502,8 +502,8 @@
 | 498 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 71 | 4.65 | 346 |
 | 498 | [Symphony of War](games/s/symphony_of_war.md) | 71 | 4.66 | 325 |
 | 502 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 70 | 4.78 | 125 |
+| 503 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 69 | 4.29 | 1,002 |
 | 503 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 69 | 4.65 | 346 |
-| 504 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 68 | 4.29 | 1,002 |
 | 505 | [Arcadegeddon](games/a/arcadegeddon.md) | 67 | 4.48 | 716 |
 | 505 | [In Sound Mind](games/i/in_sound_mind.md) | 67 | 4.61 | 438 |
 | 507 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 66 | 4.84 | 49 |
