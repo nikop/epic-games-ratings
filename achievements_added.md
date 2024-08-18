@@ -34,7 +34,7 @@
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 36,702 | 3.94 | 0 |
 | [DOOM Eternal](games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 2024-08-08 | 50 (1,545 XP) | 13 | - | 0 |
-| [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 0 | - | - |
+| [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-22 | 5 (1,000 XP) | 0 | - | - |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-22 | 49 (1,000 XP) | 1 | - | - |
 | [Thymesia](games/3/3ef48399a4044d9eb00beb44623fe5e5.md) | 2024-08-01 | 38 (1,000 XP) | 11 | - | 0 |
 | [Vitamin Girl](games/0/0c9536f6fadb4d849d79c3fbea65afd1.md) | 2024-08-08 | 22 (1,000 XP) | 2 | - | - |
@@ -146,7 +146,7 @@
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2024-05-08 | 13 (1,000 XP) | 5 | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-06-05 | 13 (1,000 XP) | 4 | - | - |
 | [The Wraith of the Galaxy](games/d/daed3ae775ab4986a0ce9ec1c3daab83.md) | 2024-03-17 | 6 (1,000 XP) | 6 | - | - |
-| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 103,950 | 4.85 | 3,093 |
+| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 103,950 | 4.85 | 3,113 |
 | [Jusant](games/9/9091161212874dca85088ef75d712cc2.md) | 2024-03-19 | 21 (1,000 XP) | 4 | - | 0 |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-24 | 42 (1,000 XP) | 1 | - | 0 |
 | [Mars Battle](games/6/62681f0dc1b14afea3f65c97225ea517.md) | 2024-04-20 | 7 (1,000 XP) | 2,292 | - | 0 |
@@ -202,7 +202,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 256 | 4.32 | 0 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 18,362 | 4.53 | 34 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 27 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 321,038 | 4.50 | 952 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 321,038 | 4.50 | 966 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 6 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 13 | - | - |
@@ -421,7 +421,7 @@
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 119 | - | 0 |
 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 439,686 | 4.27 | 156 |
-| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 508,154 | 4.24 | 79 |
+| [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 508,154 | 4.24 | 80 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 5,745 | 4.43 | 121 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,356 | 4.48 | 119 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
@@ -438,7 +438,7 @@
 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 2023-12-09 | 5 (1,000 XP) | 21 | - | 0 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | 36 (1,000 XP) | 79 | - | 0 |
 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 65 (1,000 XP) | 17,769 | 4.69 | 305 |
-| [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 556,045 | 4.35 | 107 |
+| [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 556,045 | 4.35 | 109 |
 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-21 | 8 (1,000 XP) | 19,457 | - | 0 |
 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 2023-10-05 | 22 (1,000 XP) | 66 | - | 0 |
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | 30 (1,000 XP) | 0 | 4.39 | 0 |
