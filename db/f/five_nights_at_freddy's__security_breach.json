@@ -3,7 +3,7 @@
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
   "Ranking_Rating": 372,
-  "Ranking_Popularity": 547,
+  "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -1742,11 +1742,17 @@
       "Rating": 4.64,
       "NumberOfAwards": 376,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-08-19T09:02:01.132243+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 377,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 376,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 377,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1795,7 +1801,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has a Creative Community",
@@ -1821,8 +1827,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2024-08-18T18:57:47.0264416+00:00",
+  "LastChanged": "2024-08-19T09:02:01.1322428+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:58:11.498253+00:00",
-  "LastUpdate_Ratings": "2024-08-19T07:57:22.7953877+00:00",
+  "LastUpdate_Ratings": "2024-08-19T09:02:01.1322434+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:36.4259606+00:00"
 }
