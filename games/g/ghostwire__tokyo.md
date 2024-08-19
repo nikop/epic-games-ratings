@@ -1,7 +1,7 @@
 # Ghostwire: Tokyo
 [Store](https://store.epicgames.com/en-US/p/ghostwire-tokyo)  
 [View Rawdata](../../db/g/ghostwire__tokyo.json)  
-Rating: 4.48 (Ranked 719)  
+Rating: 4.49 (Ranked 694)  
 Number of Ratings: 1,100  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 9,508  (Ranked 61)  
@@ -458,4 +458,4 @@ Diff (max vs sum): -42
 | 2024-08-16 | 4.49 | - | 9,473 | 13,054 |
 | 2024-08-17 | 4.49 | - | 9,492 | 13,082 |
 | 2024-08-18 | 4.48 | - | 9,508 | 13,103 |
-| 2024-08-19 | 4.48 | - | 9,508 | 13,105 |
+| 2024-08-19 | 4.49 | - | 9,508 | 13,105 |
