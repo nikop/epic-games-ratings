@@ -321,8 +321,8 @@ Completed: 617 (0.33%) (Ranked 352)
 | 2024-08-09 | 184,840 | 617 |
 ## Awards
 Max (Extremely Fun): 100  (Ranked 455)  
-Sum: 723 (Ranked 364)  
-Diff (max vs sum): 91  
+Sum: 723 (Ranked 365)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 100 |
