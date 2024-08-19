@@ -2,8 +2,8 @@
   "ID": "f575ebe4cc43491c95e5e01e5741a031",
   "Name": "Stranded: Alien Dawn",
   "ProductSlug": "stranded-alien-dawn",
-  "Ranking_Rating": 510,
-  "Ranking_Popularity": 581,
+  "Ranking_Rating": 529,
+  "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-04-25T13:05:45.0799844+00:00",
@@ -793,18 +793,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 131,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-08-19T14:58:10.4541624+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 133,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 131,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 133,
+  "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 38
+      "Count": 40
     },
     {
       "Text": "This game has Diverse Characters",
@@ -843,8 +849,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-25T13:05:45.0799807+00:00",
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
-  "LastChanged": "2024-08-18T20:57:12.5645449+00:00",
+  "LastChanged": "2024-08-19T14:58:10.4541622+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:14.6879786+00:00",
-  "LastUpdate_Ratings": "2024-08-19T13:12:19.4488185+00:00",
+  "LastUpdate_Ratings": "2024-08-19T14:58:10.4541628+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:22.4756616+00:00"
 }

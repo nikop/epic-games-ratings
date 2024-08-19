@@ -3,8 +3,8 @@
   "Name": "Batman Arkham Asylum Game of the Year Edition",
   "ProductSlug": "batman-arkham-asylum",
   "Ranking_Rating": 286,
-  "Ranking_Popularity": 207,
-  "Ranking_PopularitySum": 320,
+  "Ranking_Popularity": 206,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1744,18 +1744,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1011,
       "NumberOfAwardsMax": 898
+    },
+    {
+      "Time": "2024-08-19T14:57:17.5300321+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1014,
+      "NumberOfAwardsMax": 901
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1011,
-  "NumberOfAwardsMax": 898,
+  "NumberOfAwards": 1014,
+  "NumberOfAwardsMax": 901,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 898
+      "Count": 901
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1799,8 +1805,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:33.3768867+00:00",
-  "LastChanged": "2024-08-17T20:57:44.7644459+00:00",
+  "LastChanged": "2024-08-19T14:57:17.5300319+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:43.8685758+00:00",
-  "LastUpdate_Ratings": "2024-08-19T13:11:27.6021349+00:00",
+  "LastUpdate_Ratings": "2024-08-19T14:57:17.5300326+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:28.0829139+00:00"
 }

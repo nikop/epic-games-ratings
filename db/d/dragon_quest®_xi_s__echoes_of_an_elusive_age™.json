@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1383,10 +1383,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 603,
       "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2024-08-19T14:57:29.8085447+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 604,
+      "NumberOfAwardsMax": 271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 603,
+  "NumberOfAwards": 604,
   "NumberOfAwardsMax": 271,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1400,7 +1406,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1456,8 +1462,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:40.4195288+00:00",
-  "LastChanged": "2024-08-18T11:57:52.6566543+00:00",
+  "LastChanged": "2024-08-19T14:57:29.8085445+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:55.1442507+00:00",
-  "LastUpdate_Ratings": "2024-08-19T13:11:39.514044+00:00",
+  "LastUpdate_Ratings": "2024-08-19T14:57:29.8085451+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:54.747897+00:00"
 }
