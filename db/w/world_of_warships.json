@@ -20176,10 +20176,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 20317,
       "NumberOfAwardsMax": 2426
+    },
+    {
+      "Time": "2024-08-19T07:58:48.5549999+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 20321,
+      "NumberOfAwardsMax": 2426
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20317,
+  "NumberOfAwards": 20321,
   "NumberOfAwardsMax": 2426,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -20205,7 +20211,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2415
+      "Count": 2419
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -39963,9 +39969,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-08-19T06:01:48.6411296+00:00",
+  "LastChanged": "2024-08-19T07:58:48.5549993+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:25.2865417+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:22.4885557+00:00",
-  "LastUpdate_Ratings": "2024-08-19T06:01:48.6411303+00:00",
+  "LastUpdate_Ratings": "2024-08-19T07:58:48.5550003+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:25.2866438+00:00"
 }
