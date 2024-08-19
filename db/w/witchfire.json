@@ -4,7 +4,7 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 439,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 318,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3287,10 +3287,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1020,
       "NumberOfAwardsMax": 175
+    },
+    {
+      "Time": "2024-08-19T02:59:36.0563743+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1024,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1020,
+  "NumberOfAwards": 1024,
   "NumberOfAwardsMax": 175,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3352,7 +3358,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 116
+      "Count": 120
     },
     {
       "Text": "This game has a Creative Community",
@@ -3373,8 +3379,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-08-18T20:59:03.6499371+00:00",
+  "LastChanged": "2024-08-19T02:59:36.0563741+00:00",
   "LastUpdate_AppInfo": "2024-08-12T04:57:31.3623714+00:00",
-  "LastUpdate_Ratings": "2024-08-19T00:00:03.4742939+00:00",
+  "LastUpdate_Ratings": "2024-08-19T02:59:36.0563747+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:03.4717053+00:00"
 }
