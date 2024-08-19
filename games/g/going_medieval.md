@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.61 (Ranked 439)  
+Rating: 4.60 (Ranked 464)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -616,3 +616,4 @@ Diff (max vs sum): 72
 | 2024-08-16 | 4.61 | - | 175 | 1,239 |
 | 2024-08-17 | 4.61 | - | 176 | 1,242 |
 | 2024-08-18 | 4.61 | - | 176 | 1,243 |
+| 2024-08-19 | 4.60 | - | 176 | 1,243 |
