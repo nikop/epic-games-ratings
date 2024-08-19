@@ -1,15 +1,15 @@
 # Tetris® Effect: Connected
 [Store](https://store.epicgames.com/en-US/p/tetris-effect)  
 [View Rawdata](../../db/t/tetris®_effect__connected.json)  
-Rating: 4.85 (Ranked 39)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 186  (Ranked 367)  
-Sum: 672 (Ranked 378)  
-Diff (max vs sum): -11  
+Max (Challenging Puzzles): 188  (Ranked 366)  
+Sum: 674 (Ranked 378)  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 186 |
+| This game features Challenging Puzzles | 188 |
 | This game is Great for Beginners | 67 |
 | This game is Great for Quick Sessions | 62 |
 | This game is Extremely Fun | 56 |
@@ -236,3 +236,4 @@ Diff (max vs sum): -11
 | 2024-08-16 | 4.85 | - | 186 | 669 |
 | 2024-08-17 | 4.85 | - | 186 | 670 |
 | 2024-08-18 | 4.85 | - | 186 | 672 |
+| 2024-08-19 | 4.86 | - | 188 | 674 |

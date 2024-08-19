@@ -2,7 +2,7 @@
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
-  "Ranking_Rating": 391,
+  "Ranking_Rating": 372,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 1184,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -3423,18 +3423,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 1375,
       "NumberOfAwardsMax": 907
+    },
+    {
+      "Time": "2024-08-19T02:02:37.954511+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1381,
+      "NumberOfAwardsMax": 912
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1375,
-  "NumberOfAwardsMax": 907,
+  "NumberOfAwards": 1381,
+  "NumberOfAwardsMax": 912,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 907
+      "Count": 912
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3482,7 +3488,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3515,8 +3521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-08-18T11:57:56.0397922+00:00",
+  "LastChanged": "2024-08-19T02:02:37.9545108+00:00",
   "LastUpdate_AppInfo": "2024-08-12T07:57:10.8632699+00:00",
-  "LastUpdate_Ratings": "2024-08-18T23:57:35.9087714+00:00",
+  "LastUpdate_Ratings": "2024-08-19T02:02:37.9545113+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:39.8240762+00:00"
 }
