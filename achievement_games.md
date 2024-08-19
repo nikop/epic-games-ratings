@@ -131,7 +131,7 @@
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | 25 (1,000 XP) | 2 | - | - |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | 24 (1,000 XP) | 4 | - | - |
 | [HexON](games/5/5b95b193df59499886544e610dc871e5.md) | 2024-06-27 | 6 (1,000 XP) | 93 | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 106,850 | 4.46 | 145 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 106,850 | 4.46 | 147 |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | 39 (1,000 XP) | 82 | - | 0 |
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | 5 (1,000 XP) | 11 | - | 0 |
 | [Firelight Fantasy: Force Energy](games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 2024-06-26 | 6 (1,000 XP) | 21 | - | - |
@@ -352,7 +352,7 @@
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 14 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 575,882 | 4.31 | 525 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 575,882 | 4.31 | 527 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | 23 (1,000 XP) | 181 | - | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 29 | - | 0 |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 1 | - | - |
@@ -852,7 +852,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,662 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 117,135 | 3.75 | 755 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 96 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,011,600 | 4.54 | 16,386 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,011,600 | 4.54 | 16,408 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 14,655 | 4.39 | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 221 | - | 0 |
@@ -942,7 +942,7 @@
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 244 | - | 0 |
 | [Shoulders of Giants: Ultimate](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,410 | 4.34 | 0 |
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 2023-01-25 | 71 (1,250 XP) | 19,934 | 4.83 | 66 |
-| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 52,741 | 4.19 | 81 |
+| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 52,741 | 4.18 | 81 |
 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 2023-01-24 | 19 (1,000 XP) | 325 | - | 0 |
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 2023-01-19 | 26 (1,000 XP) | 17,831 | 3.83 | 0 |
 | [Colossal Cave](games/c/colossal_cave.md) | 2023-01-19 | 24 (1,000 XP) | 122 | - | 0 |
@@ -1029,7 +1029,7 @@
 | [Tails of Iron](games/t/tails_of_iron.md) | 2022-09-15 | 36 (1,230 XP) | 3,155 | 4.62 | 25 |
 | [Absolute Tactics](games/a/absolute_tactics.md) | 2022-09-15 | 21 (1,000 XP) | 6 | - | 0 |
 | [Foretales](games/f/foretales.md) | 2022-09-15 | 41 (1,000 XP) | 329 | 4.71 | 0 |
-| [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 8,747 | 4.58 | 61 |
+| [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 8,747 | 4.58 | 62 |
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 57 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 70,301 | 4.23 | 0 |
@@ -1050,7 +1050,7 @@
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 50,060 | 4.49 | 0 |
 | [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 386,429 | 4.35 | 64 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 383,228 | 4.30 | 59 |
-| [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,501 | 4.33 | 608 |
+| [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,501 | 4.33 | 609 |
 | [Project Highrise](games/p/project_highrise.md) | 2022-08-11 | 88 (1,000 XP) | 717 | - | 0 |
 | [Rise of Industry](games/r/rise_of_industry.md) | 2022-08-11 | 27 (1,000 XP) | 804,109 | 4.27 | 49 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 2022-08-11 | 34 (1,000 XP) | 244,566 | 4.44 | 307 |
