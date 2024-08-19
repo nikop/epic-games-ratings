@@ -2,7 +2,7 @@
   "ID": "8473f47ba98e44c2a2edc867aed03c4e",
   "Name": "Warhammer: Chaos And Conquest",
   "ProductSlug": "warhammer-939868",
-  "Ranking_Rating": 1014,
+  "Ranking_Rating": 1034,
   "Ranking_Popularity": 671,
   "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 1184,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2023-11-16T13:59:57.3096205+00:00",
@@ -245,6 +245,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-08-19T09:58:25.0642768+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -271,8 +277,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-26T08:57:15.2831528+00:00",
   "FirstSeenRating": "2023-11-16T13:59:57.3096202+00:00",
-  "LastChanged": "2024-08-17T08:58:19.6244566+00:00",
+  "LastChanged": "2024-08-19T09:58:25.0642765+00:00",
   "LastUpdate_AppInfo": "2024-08-17T06:57:17.7711668+00:00",
-  "LastUpdate_Ratings": "2024-08-19T07:58:06.605997+00:00",
+  "LastUpdate_Ratings": "2024-08-19T09:58:25.064277+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:14.0181545+00:00"
 }
