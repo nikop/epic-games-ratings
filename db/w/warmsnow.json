@@ -4,7 +4,7 @@
   "ProductSlug": "warmsnow-7e3180",
   "Ranking_Rating": 101,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 502,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -827,10 +827,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2024-08-19T16:59:02.1355182+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202,
+  "NumberOfAwards": 203,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -850,7 +856,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
@@ -877,8 +883,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-17T11:57:45.9804138+00:00",
   "FirstSeenRating": "2023-03-31T05:57:32.8296597+00:00",
-  "LastChanged": "2024-08-19T11:57:42.3984072+00:00",
+  "LastChanged": "2024-08-19T16:59:02.135518+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:03.8926768+00:00",
-  "LastUpdate_Ratings": "2024-08-19T14:59:05.1131811+00:00",
+  "LastUpdate_Ratings": "2024-08-19T16:59:02.1355185+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:16.1898835+00:00"
 }
