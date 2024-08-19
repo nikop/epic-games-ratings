@@ -1,12 +1,12 @@
 # FTL: Faster Than Light
 [Store](https://store.epicgames.com/en-US/p/faster-than-light)  
 [View Rawdata](../../db/f/ftl__faster_than_light.json)  
-Rating: 4.80 (Ranked 102)  
+Rating: 4.80 (Ranked 101)  
 Number of Ratings: 1,209  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 193  (Ranked 364)  
-Sum: 1,568 (Ranked 280)  
-Diff (max vs sum): 84  
+Sum: 1,568 (Ranked 281)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 193 |

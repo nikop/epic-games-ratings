@@ -200,8 +200,8 @@ Completed: 17 (0.04%) (Ranked 476)
 | 2024-06-17 | 36,322 | 16 |
 | 2024-08-09 | 40,562 | 17 |
 ## Awards
-Max (Relaxing): 215  (Ranked 347)  
-Sum: 1,652 (Ranked 275)  
+Max (Relaxing): 215  (Ranked 348)  
+Sum: 1,652 (Ranked 276)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
