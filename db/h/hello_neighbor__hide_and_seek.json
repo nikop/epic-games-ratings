@@ -2,7 +2,7 @@
   "ID": "morpho",
   "Name": "Hello Neighbor: Hide and Seek",
   "ProductSlug": "hello-neighbor-hide-and-seek",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 679,
   "Ranking_PopularitySum": 681,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.33,
   "NumberOfRatings": 81,
   "RatingHistory": [
     {
@@ -652,6 +652,12 @@
       "Rating": 4.32,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-08-19T12:00:44.3497046+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
@@ -677,8 +683,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
-  "LastChanged": "2024-08-17T11:57:40.9239136+00:00",
+  "LastChanged": "2024-08-19T12:00:44.3497044+00:00",
   "LastUpdate_AppInfo": "2024-08-12T11:57:53.8445434+00:00",
-  "LastUpdate_Ratings": "2024-08-19T10:57:58.5101646+00:00",
+  "LastUpdate_Ratings": "2024-08-19T12:00:44.349705+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:46.5757023+00:00"
 }
