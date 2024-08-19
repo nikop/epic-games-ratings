@@ -1,7 +1,7 @@
 # ANNO Mutationem
 [Store](https://store.epicgames.com/en-US/p/anno-mutationem-ef8b9e)  
 [View Rawdata](../../db/a/anno_mutationem.json)  
-Rating: 4.60 (Ranked 465)  
+Rating: 4.61 (Ranked 438)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -213,3 +213,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-02 | 4.58 | 0 | 0 |
 | 2024-04-29 | 4.59 | 0 | 0 |
 | 2024-07-19 | 4.60 | 0 | 0 |
+| 2024-08-19 | 4.61 | 0 | 0 |

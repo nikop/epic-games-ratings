@@ -4,7 +4,7 @@
   "ProductSlug": "manor-lords-ef795f",
   "Ranking_Rating": 619,
   "Ranking_Popularity": 602,
-  "Ranking_PopularitySum": 523,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 487,
   "Ranking_EOS_NewPlayers": 23,
@@ -618,10 +618,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 150,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-08-19T22:58:47.511479+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 178,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 150,
+  "NumberOfAwards": 178,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -635,7 +641,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 25
+      "Count": 28
     },
     {
       "Text": "This game has a Creative Community",
@@ -800,9 +806,9 @@
   "FirstSeen": "2024-04-26T16:58:14.5386901+00:00",
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.3815866+00:00",
-  "LastChanged": "2024-08-18T11:57:27.6960716+00:00",
+  "LastChanged": "2024-08-19T22:58:47.5114788+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:57.5772207+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:04.3433799+00:00",
-  "LastUpdate_Ratings": "2024-08-19T21:00:09.1877851+00:00",
+  "LastUpdate_Ratings": "2024-08-19T22:58:47.5114798+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:57.5772301+00:00"
 }

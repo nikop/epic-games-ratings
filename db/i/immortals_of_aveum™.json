@@ -973,10 +973,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-08-19T22:57:34.0978813+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
+  "NumberOfAwards": 231,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1026,7 +1032,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 4453,
@@ -7173,9 +7179,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-08-13T01:59:39.8679857+00:00",
+  "LastChanged": "2024-08-19T22:57:34.0978811+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:20.5619663+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:25.7139891+00:00",
-  "LastUpdate_Ratings": "2024-08-19T20:58:35.2806182+00:00",
+  "LastUpdate_Ratings": "2024-08-19T22:57:34.0978817+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:20.5620831+00:00"
 }

@@ -4,17 +4,17 @@
 Rating: 4.79 (Ranked 110)  
 ## Awards
 Max (Educational): 1,887  (Ranked 145)  
-Sum: 11,206 (Ranked 111)  
+Sum: 11,212 (Ranked 111)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 1,887 |
-| This game is Extremely Fun | 1,675 |
+| This game is Extremely Fun | 1,677 |
 | This game is Highly Recommended | 1,666 |
 | This game is Relaxing | 1,606 |
 | This game has a Creative Community | 1,514 |
-| This game has Amazing Characters | 1,509 |
-| This game has Amazing Storytelling | 1,349 |
+| This game has Amazing Characters | 1,511 |
+| This game has Amazing Storytelling | 1,351 |
 | This game has Challenging Combat | 447 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -534,4 +534,4 @@ Diff (max vs sum): 34
 | 2024-08-16 | 4.79 | 1,881 | 11,183 |
 | 2024-08-17 | 4.79 | 1,883 | 11,192 |
 | 2024-08-18 | 4.79 | 1,883 | 11,199 |
-| 2024-08-19 | 4.79 | 1,887 | 11,206 |
+| 2024-08-19 | 4.79 | 1,887 | 11,212 |
