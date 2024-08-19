@@ -3,8 +3,8 @@
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
   "Ranking_Rating": 838,
-  "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 472,
+  "Ranking_Popularity": 568,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -765,24 +765,30 @@
       "Rating": 4.42,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-08-19T13:58:12.0631635+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
-  "NumberOfAwardsMax": 40,
+  "NumberOfAwards": 274,
+  "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Highly Recommended",
@@ -19911,9 +19917,9 @@
   "FirstSeen": "2023-08-24T17:59:08.2089952+00:00",
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged": "2024-08-17T21:58:38.8437945+00:00",
+  "LastChanged": "2024-08-19T13:58:12.0631634+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:59.0514441+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:01.3707876+00:00",
-  "LastUpdate_Ratings": "2024-08-19T11:59:37.3517438+00:00",
+  "LastUpdate_Ratings": "2024-08-19T13:58:12.0631639+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:59.0515367+00:00"
 }
