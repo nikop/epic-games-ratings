@@ -2,7 +2,7 @@
   "ID": "69b34ef4e8ce44738fccd2b2cfb22a60",
   "Name": "The Thaumaturge",
   "ProductSlug": "the-thaumaturge-3d7b2c",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 555,
   "Ranking_Popularity": 698,
   "Ranking_PopularitySum": 698,
   "Ranking_EOS_Progress": 1002,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2024-03-20T01:37:47.1945834+00:00",
@@ -173,6 +173,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-19T21:57:28.1120205+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -205,9 +211,9 @@
   "FirstSeen": "2024-03-04T13:58:30.7471923+00:00",
   "FirstSeenRating": "2024-03-20T01:37:47.1945832+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:27.9053733+00:00",
-  "LastChanged": "2024-08-11T19:59:14.7555918+00:00",
+  "LastChanged": "2024-08-19T21:57:28.1120203+00:00",
   "LastChanged_Achievements": "2024-08-09T18:07:13.8942787+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:48.9909856+00:00",
-  "LastUpdate_Ratings": "2024-08-19T19:58:17.5418462+00:00",
+  "LastUpdate_Ratings": "2024-08-19T21:57:28.1120208+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:13.8942809+00:00"
 }

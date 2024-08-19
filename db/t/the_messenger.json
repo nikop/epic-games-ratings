@@ -3,7 +3,7 @@
   "Name": "The Messenger",
   "ProductSlug": "the-messenger",
   "Ranking_Rating": 90,
-  "Ranking_Popularity": 283,
+  "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -1075,18 +1075,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 505,
       "NumberOfAwardsMax": 387
+    },
+    {
+      "Time": "2024-08-19T22:00:14.97417+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 506,
+      "NumberOfAwardsMax": 388
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 505,
-  "NumberOfAwardsMax": 387,
+  "NumberOfAwards": 506,
+  "NumberOfAwardsMax": 388,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 387
+      "Count": 388
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1130,8 +1136,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2024-08-17T23:00:25.11389+00:00",
+  "LastChanged": "2024-08-19T22:00:14.9741698+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:12.6384206+00:00",
-  "LastUpdate_Ratings": "2024-08-19T20:00:07.4768321+00:00",
+  "LastUpdate_Ratings": "2024-08-19T22:00:14.9741703+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:31.2645805+00:00"
 }
