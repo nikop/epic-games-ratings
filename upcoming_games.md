@@ -3,7 +3,6 @@
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | - |  | - | - |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | 21 (1,000 XP) | 2 | - | - |
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | - |  | - | - |
-| [The Companion](games/9/9929fd534aae43acb7fd6e8016646ab9.md) | 2024-08-20 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | - |  | - | - |
 | [Office Fight](games/5/596e41f75cf64aa8b2d19d32320f7473.md) | 2024-08-21 | - |  | - | - |
@@ -33,6 +32,7 @@
 | [Police, Open The Door!](games/8/80a8fe6079784d4c89a71a69063badc9.md) | 2024-08-31 | - |  | - | - |
 | [SEIDEN](games/4/4a8d265d048b4423bf30317aa9ad371d.md) | 2024-08-31 | - |  | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-08-31 | - |  | - | - |
+| [The Companion](games/9/9929fd534aae43acb7fd6e8016646ab9.md) | 2024-08-31 | - |  | - | - |
 | [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | - |  | - | - |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | - |  | - | - |
 | [Time Travel: Escape Room Game](games/6/6d5cd78354154858b6a05f84e6ffbea8.md) | 2024-09-05 | 13 (1,000 XP) | 0 | - | - |
@@ -107,7 +107,6 @@
 | [AI Limit](games/2/2fb538cb267a4d3db252beee84659e97.md) | 2024-12-31 | - |  | - | - |
 | [Alliance of the Sacred Suns](games/a/alliance_of_the_sacred_suns.md) | 2024-12-31 | - |  | - | - |
 | [Amerzone - The Explorer's Legacy Remake](games/e/e40eadc475c34815863234f4785bc602.md) | 2024-12-31 | - |  | - | - |
-| [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-12-31 | - |  | - | - |
 | [Arena Tails](games/4/484b67c9648047c9a26f8c34a65b6624.md) | 2024-12-31 | - |  | - | - |
 | [Arsene Lupin - Once a Thief](games/b/b640cb27f5a947d9b0fa2e812554dc79.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |

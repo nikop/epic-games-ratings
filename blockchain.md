@@ -49,7 +49,6 @@
 | [Dawnshard](games/b/bd9874dd0e2b4302937845e79e5605ce.md) | 2025-01-31 | - |  | - | - |
 | [Age of Rust](games/a/age_of_rust.md) | 2024-12-31 | - |  | - | - |
 | [Age of Zalmoxis - Rise of the Fallen](games/3/3be7d39a69c34da7bdd5fb6db6c049df.md) | 2024-12-31 | - |  | - | - |
-| [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
 | [Coffee Town](games/a/a8b07df0c03c4a29992d60683e17cf84.md) | 2024-12-31 | - |  | - | - |
@@ -63,6 +62,7 @@
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
 | [The Lost War](games/a/aa32800387e648c8a53d50684f60ea34.md) | 2024-08-19 | - |  | - | - |
+| [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-08-19 | - |  | - | - |
 | [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | - | 0 |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | 0 |
