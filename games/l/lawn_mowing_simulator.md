@@ -1,7 +1,7 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 1,170)  
+Rating: 4.07 (Ranked 1,174)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -497,3 +497,4 @@ Diff (max vs sum): 50
 | 2024-08-11 | 4.08 | - | 185 | 1,021 |
 | 2024-08-12 | 4.08 | - | 185 | 1,023 |
 | 2024-08-18 | 4.08 | - | 185 | 1,024 |
+| 2024-08-19 | 4.07 | - | 185 | 1,024 |

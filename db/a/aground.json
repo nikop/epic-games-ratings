@@ -3,8 +3,8 @@
   "Name": "Aground",
   "ProductSlug": "aground",
   "Ranking_Rating": 110,
-  "Ranking_Popularity": 697,
-  "Ranking_PopularitySum": 697,
+  "Ranking_Popularity": 698,
+  "Ranking_PopularitySum": 698,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -77,6 +77,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.51526+00:00",
   "LastChanged": "2024-05-14T22:59:56.182717+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:35.7063514+00:00",
-  "LastUpdate_Ratings": "2024-08-19T19:57:20.184472+00:00",
+  "LastUpdate_Ratings": "2024-08-19T20:59:52.9709324+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:18.2407983+00:00"
 }

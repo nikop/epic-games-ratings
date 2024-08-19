@@ -3,8 +3,8 @@
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_Rating": 211,
-  "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 529,
+  "Ranking_Popularity": 556,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -461,24 +461,30 @@
       "Rating": 4.72,
       "NumberOfAwards": 143,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-08-19T20:58:28.8404516+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 146,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 146,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
@@ -505,8 +511,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-08-18T14:57:19.0822995+00:00",
+  "LastChanged": "2024-08-19T20:58:28.8404514+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:31.867488+00:00",
-  "LastUpdate_Ratings": "2024-08-19T18:59:33.9553735+00:00",
+  "LastUpdate_Ratings": "2024-08-19T20:58:28.840452+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:30.748618+00:00"
 }

@@ -1,7 +1,7 @@
 # SuchArt: Genius Artist Simulator
 [Store](https://store.epicgames.com/en-US/p/suchart-genius-artist-simulator)  
 [View Rawdata](../../db/s/suchart__genius_artist_simulator.json)  
-Rating: 4.65 (Ranked 348)  
+Rating: 4.66 (Ranked 327)  
 Number of Ratings: 125  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -91,3 +91,4 @@ Number of Ratings: 125  (23.09.2022)
 | 2024-03-09 | 4.68 | - | 0 | 0 |
 | 2024-03-13 | 4.66 | - | 0 | 0 |
 | 2024-06-04 | 4.65 | - | 0 | 0 |
+| 2024-08-19 | 4.66 | - | 0 | 0 |

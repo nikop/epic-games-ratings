@@ -334,13 +334,13 @@ Completed: 668 (0.06%) (Ranked 459)
 | 2024-08-09 | 1,164,062 | 668 |
 ## Awards
 Max (Great for Beginners): 224  (Ranked 345)  
-Sum: 1,962 (Ranked 252)  
+Sum: 1,963 (Ranked 252)  
 Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 224 |
 | This game is Great for Quick Sessions | 200 |
-| This game has Diverse Characters | 183 |
+| This game has Diverse Characters | 184 |
 | This game has Quickly Understood Controls | 177 |
 | This game is Relaxing | 168 |
 | This game has Competitive Players | 165 |
@@ -794,4 +794,4 @@ Diff (max vs sum): 93
 | 2024-08-16 | 4.54 | - | 223 | 1,947 |
 | 2024-08-17 | 4.54 | - | 224 | 1,953 |
 | 2024-08-18 | 4.54 | - | 224 | 1,959 |
-| 2024-08-19 | 4.54 | - | 224 | 1,962 |
+| 2024-08-19 | 4.54 | - | 224 | 1,963 |

@@ -2,9 +2,9 @@
   "ID": "8618da9904ad41ad951fcc470d1873cb",
   "Name": "SuchArt: Genius Artist Simulator",
   "ProductSlug": "suchart-genius-artist-simulator",
-  "Ranking_Rating": 348,
-  "Ranking_Popularity": 697,
-  "Ranking_PopularitySum": 697,
+  "Ranking_Rating": 327,
+  "Ranking_Popularity": 698,
+  "Ranking_PopularitySum": 698,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 125,
   "RatingHistory": [
     {
@@ -440,6 +440,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-19T20:58:14.0250678+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -457,8 +463,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:12.7959951+00:00",
-  "LastChanged": "2024-06-04T19:57:40.4137174+00:00",
+  "LastChanged": "2024-08-19T20:58:14.0250676+00:00",
   "LastUpdate_AppInfo": "2024-08-18T19:57:03.8928402+00:00",
-  "LastUpdate_Ratings": "2024-08-19T18:59:20.5155114+00:00",
+  "LastUpdate_Ratings": "2024-08-19T20:58:14.0250681+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:16.004221+00:00"
 }
