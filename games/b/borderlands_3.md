@@ -1,15 +1,15 @@
 # Borderlands 3
 [Store](https://store.epicgames.com/en-US/p/borderlands-3)  
 [View Rawdata](../../db/b/borderlands_3.json)  
-Rating: 4.69 (Ranked 265)  
+Rating: 4.69 (Ranked 264)  
 Number of Ratings: 151,211  (23.09.2022)  
 ## Awards
-Max (Character Customization): 139,116  (Ranked 10)  
-Sum: 426,589 (Ranked 11)  
-Diff (max vs sum): -1  
+Max (Character Customization): 139,230  (Ranked 9)  
+Sum: 426,703 (Ranked 11)  
+Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 139,116 |
+| This game has Inclusive Character Customization | 139,230 |
 | This game is Great for Beginners | 38,411 |
 | This game has Diverse Characters | 34,865 |
 | This game is Highly Recommended | 32,579 |
@@ -594,4 +594,4 @@ Diff (max vs sum): -1
 | 2024-08-16 | 4.69 | - | 138,833 | 425,468 |
 | 2024-08-17 | 4.69 | - | 138,980 | 425,907 |
 | 2024-08-18 | 4.69 | - | 139,116 | 426,370 |
-| 2024-08-19 | 4.69 | - | 139,116 | 426,589 |
+| 2024-08-19 | 4.69 | - | 139,230 | 426,703 |
