@@ -2,7 +2,7 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 895,
   "Ranking_Popularity": 611,
   "Ranking_PopularitySum": 644,
   "Ranking_EOS_Progress": 310,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-06-10T05:57:52.1300906+00:00",
@@ -627,6 +627,12 @@
     {
       "Time": "2024-08-16T18:59:28.5102568+00:00",
       "Rating": 4.37,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-19T15:58:43.8677436+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
     }
@@ -9129,9 +9135,9 @@
   "FirstSeen": "2023-05-25T20:57:53.341691+00:00",
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged": "2024-08-16T18:59:28.5102566+00:00",
+  "LastChanged": "2024-08-19T15:58:43.8677435+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:03.61689+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:26.662775+00:00",
-  "LastUpdate_Ratings": "2024-08-19T13:58:49.8012719+00:00",
+  "LastUpdate_Ratings": "2024-08-19T15:58:43.8677439+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:03.6169702+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.31 (Ranked 986)
 Number of Ratings: 874  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 470  (Ranked 267)  
-Sum: 3,365 (Ranked 204)  
+Sum: 3,367 (Ranked 204)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 63
 | This game has Quickly Understood Controls | 346 |
 | This game has Amazing Characters | 345 |
 | This game is Highly Recommended | 342 |
-| This game is Relaxing | 332 |
+| This game is Relaxing | 334 |
 | This game has Playful Visuals | 294 |
 | This game has Amazing Storytelling | 118 |
 ## Ratings History
@@ -445,4 +445,4 @@ Diff (max vs sum): 63
 | 2024-08-16 | 4.31 | - | 467 | 3,347 |
 | 2024-08-17 | 4.31 | - | 470 | 3,355 |
 | 2024-08-18 | 4.31 | - | 470 | 3,363 |
-| 2024-08-19 | 4.31 | - | 470 | 3,365 |
+| 2024-08-19 | 4.31 | - | 470 | 3,367 |
