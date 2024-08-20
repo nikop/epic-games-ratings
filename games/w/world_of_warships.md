@@ -226,7 +226,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-08-09 | 155,520 | 0 |
 ## Awards
 Max (Challenging Combat): 2,432  (Ranked 125)  
-Sum: 20,342 (Ranked 73)  
+Sum: 20,346 (Ranked 73)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -235,7 +235,7 @@ Diff (max vs sum): 52
 | This game is Highly Recommended | 2,409 |
 | This game is Relaxing | 2,363 |
 | This game has Competitive Players | 2,342 |
-| This game is Extremely Fun | 2,326 |
+| This game is Extremely Fun | 2,330 |
 | This game has Realistic Visuals | 2,146 |
 | This game has Amazing Storytelling | 1,986 |
 | This game has a Competitive Community | 1,919 |
@@ -829,4 +829,4 @@ Diff (max vs sum): 52
 | 2024-08-17 | 4.41 | - | 2,417 | 20,270 |
 | 2024-08-18 | 4.41 | - | 2,426 | 20,312 |
 | 2024-08-19 | 4.41 | - | 2,426 | 20,328 |
-| 2024-08-20 | 4.41 | - | 2,432 | 20,342 |
+| 2024-08-20 | 4.41 | - | 2,432 | 20,346 |
