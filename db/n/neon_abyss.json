@@ -3,7 +3,7 @@
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
   "Ranking_Rating": 310,
-  "Ranking_Popularity": 218,
+  "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
@@ -6165,18 +6165,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 5973,
       "NumberOfAwardsMax": 799
+    },
+    {
+      "Time": "2024-08-20T13:10:52.3441271+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5977,
+      "NumberOfAwardsMax": 803
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5973,
-  "NumberOfAwardsMax": 799,
+  "NumberOfAwards": 5977,
+  "NumberOfAwardsMax": 803,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 799
+      "Count": 803
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6244,8 +6250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-08-19T23:58:55.455111+00:00",
+  "LastChanged": "2024-08-20T13:10:52.3441269+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:05.4401712+00:00",
-  "LastUpdate_Ratings": "2024-08-20T10:59:12.6133475+00:00",
+  "LastUpdate_Ratings": "2024-08-20T13:10:52.3441274+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:41.705284+00:00"
 }
