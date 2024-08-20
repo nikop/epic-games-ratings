@@ -1,18 +1,21 @@
 {
   "ID": "65ebb4f95d5845bba92b300f21235d1a",
-  "Name": null,
+  "Name": "Train Sim World\u00AE 5: Standard Edition",
+  "ProductSlug": "train-sim-world-5",
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
-    "ReleaseDate": null,
-    "PcReleaseDate": null,
+    "ReleaseDate": "2024-09-17T17:00:00+00:00",
+    "PcReleaseDate": "2024-09-17T17:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "isPrepurchase": "true"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -27,6 +30,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_Ratings": "2024-08-20T13:58:55.6124601+00:00",
+  "LastUpdate_AppInfo": "2024-08-20T15:57:04.7538316+00:00",
+  "LastUpdate_Ratings": "2024-08-20T15:58:10.3738466+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:05.9305747+00:00"
 }

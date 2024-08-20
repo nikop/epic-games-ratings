@@ -1,7 +1,7 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.35 (Ranked 935)  
+Rating: 4.35 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -177,12 +177,12 @@ Completed: 2 (0.00%) (Ranked 554)
 | 2024-08-09 | 386,429 | 2 |
 ## Awards
 Max (Great for Beginners): 66  (Ranked 507)  
-Sum: 285 (Ranked 464)  
-Diff (max vs sum): 43  
+Sum: 288 (Ranked 462)  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 66 |
-| This game is Highly Recommended | 53 |
+| This game is Highly Recommended | 56 |
 | This game is Great for Quick Sessions | 48 |
 | This game has Amazing Storytelling | 47 |
 | This game is Extremely Fun | 44 |
@@ -242,4 +242,4 @@ Diff (max vs sum): 43
 | 2024-08-17 | 4.35 | 61 | 300 |
 | 2024-08-18 | 4.35 | 64 | 309 |
 | 2024-08-19 | 4.35 | 64 | 310 |
-| 2024-08-20 | 4.35 | 66 | 285 |
+| 2024-08-20 | 4.35 | 66 | 288 |
