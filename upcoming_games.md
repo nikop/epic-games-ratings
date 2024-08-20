@@ -84,8 +84,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
@@ -209,6 +209,7 @@
 | [The Crimson Lyre](games/3/397c0a87980c4098b5a37d77a33e2713.md) | 2025-03-31 | - |  | - | - |
 | [Wrekless](games/1/1ca7ecb5530d4ae9b1b0348266a44555.md) | 2025-03-31 | - |  | - | - |
 | [FATAL FURY: City of the Wolves Special Edition](games/6/6ce9cadbab474f07928e3035473289d2.md) | 2025-04-24 | - |  | - | - |
+| [Battle Bits](games/d/dd2c84892f4945a48cf4213842f57fa0.md) | 2025-04-28 | - |  | - | - |
 | [Pantheon Rift](games/p/project_chaos.md) | 2025-04-30 | - |  | - | - |
 | [Ariokan](games/f/f4962a68cb2a46e295f690e592655ec0.md) | 2025-06-30 | - |  | - | - |
 | [Crystal Ball Critters](games/9/9f72ba7c750948d0ba91b26f9c989b3f.md) | 2025-06-30 | - |  | - | - |
