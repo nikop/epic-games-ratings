@@ -1,7 +1,7 @@
 # LumbearJack
 [Store](https://store.epicgames.com/en-US/p/lumbearjack-b5bedf)  
 [View Rawdata](../../db/l/lumbearjack.json)  
-Rating: 4.53 (Ranked 619)  
+Rating: 4.54 (Ranked 599)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.53 (Ranked 619)
 | 2024-08-16 | 4.54 | 0 | 0 |
 | 2024-08-17 | 4.55 | 0 | 0 |
 | 2024-08-19 | 4.53 | 0 | 0 |
+| 2024-08-20 | 4.54 | 0 | 0 |
