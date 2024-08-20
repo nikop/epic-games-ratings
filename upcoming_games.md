@@ -9,11 +9,11 @@
 | [Zen Chess: Mate in Four](games/0/0d2f8331491948169855cb81947e973a.md) | 2024-08-22 | - |  | - | - |
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-22 | 5 (1,000 XP) | 0 | - | - |
 | [Alien Paradise](games/6/64d8cc2fb5cc4798a6db9796b7e73e3f.md) | 2024-08-23 | - |  | - | - |
-| [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2024-08-23 | - |  | - | - |
-| [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-23 | 100 (1,000 XP) | 4 | - | - |
+| [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2024-08-23 | 51 (1,000 XP) | 9 | - | - |
+| [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-23 | 100 (1,000 XP) | 6 | - | - |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | 26 (1,000 XP) | 0 | - | - |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | - |  | - | - |
-| [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | - |  | - | - |
+| [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 4 | - | - |
 | [Zen Chess: Blindfold Masters](games/d/d2615579d5cb48828c9b9167fcdf3dc1.md) | 2024-08-29 | - |  | - | - |
 | [Sift Heads Legendary Pack](games/9/914da631db4047e3b02da6ef1777e1ac.md) | 2024-08-29 | - |  | - | - |
 | [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-29 | - |  | - | - |
@@ -154,7 +154,7 @@
 | [MATCHO](games/d/d192be5921354325abfb1aae75ec106c.md) | 2024-12-31 | - |  | - | - |
 | [MENACE](games/d/d21aef9c18434bd89ee67023baba05fe.md) | 2024-12-31 | - |  | - | - |
 | [Metarush](games/c/c9bc37f95dbc4104bdfa7f8e1da7a149.md) | 2024-12-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-12-31 | 31 (1,000 XP) | 398,728 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-12-31 | 31 (1,000 XP) | 398,734 | - | - |
 | [Monster knockout](games/9/9f6d3a33ba034660a209ba9a92a5403c.md) | 2024-12-31 | - |  | - | - |
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-12-31 | - |  | - | - |
@@ -335,7 +335,7 @@
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | - |  | - | - |
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [DeadPoly](games/7/70de45f56cbe43b3ae198624dd9f032f.md) | 2099-01-01 | - |  | - | - |
-| [Deal With The Devil: Chapter 1](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2099-01-01 | 16 (1,000 XP) | 1 | - | - |
+| [Deal With The Devil: Chapter 1](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2099-01-01 | 16 (1,000 XP) | 2 | - | - |
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2099-01-01 | - |  | - | - |
 | [Debtors' Club](games/d/dda54842f3d34f8791f2bddfe7d21676.md) | 2099-01-01 | - |  | - | - |
 | [Decadent](games/c/cb7b9392b46d47c2a279aa2d66cbdf04.md) | 2099-01-01 | - |  | - | - |
@@ -362,6 +362,7 @@
 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Dungeon Of Dragon Knight](games/d/dungeon_of_dragon_knight.md) | 2099-01-01 | - |  | - | - |
 | [Dwarf Delve](games/c/cabbe55543164097b412696d626120af.md) | 2099-01-01 | - |  | - | - |
+| [Dying Light: The Beast](games/0/024e99e2bdbe49a6bd291d6789239561.md) | 2099-01-01 | - |  | - | - |
 | [Dynasty Legends 2](games/3/36b233c2231a4751a9ffd998768dfd36.md) | 2099-01-01 | - |  | - | - |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | - |  | - | - |
 | [Edward's Journey](games/5/5714d34c31374f07ae1f8dce31168650.md) | 2099-01-01 | 21 (1,000 XP) | 0 | - | - |
@@ -718,6 +719,7 @@
 | [Yakuza Empire](games/y/yakuza_empire.md) | 2099-01-02 | - |  | - | - |
 | [Anno 117: Pax Romana](games/5/525cf92ef772437e98805aeb6e234b2a.md) | 2099-02-01 | - |  | - | - |
 | [Atomfall](games/8/8cd5e5952bb24df7813017d11d3ac03b.md) | 2099-02-01 | - |  | - | - |
+| [Borderlands 4](games/7/7cc6974bd4314bf2979e1380491b8fbf.md) | 2099-02-01 | - |  | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |  | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |

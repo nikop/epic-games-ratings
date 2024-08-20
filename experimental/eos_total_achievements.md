@@ -215,6 +215,7 @@
 | [The Legend of Heroes: Trails through Daybreak](../games/b/b0beeaad664a41ddb029247838a5a930.md) | 52 | 1,000 |
 | [Ugly](../games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 52 | 1,000 |
 | [Unrailed!](../games/u/unrailed!.md) | 52 | 1,000 |
+| [Concord](../games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 51 | 1,000 |
 | [Dungeon Escape](../games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 51 | 1,000 |
 | [Fae Farm](../games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 51 | 1,600 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
@@ -240,6 +241,7 @@
 | [F1® 24](../games/e/edffc5fcc62140a7afd239d9e65df463.md) | 50 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 50 | 1,090 |
 | [Geometric Sniper - Z](../games/7/706577b22cbb4ab38611e2c97e03a800.md) | 50 | 1,000 |
+| [Monster Jam™ Showdown](../games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 50 | 1,000 |
 | [Mortal Kombat 1](../games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 50 | 1,000 |
 | [Pinball FX](../games/p/pinball_fx.md) | 50 | 1,400 |
 | [Plants vs. Zombies™: BFN Deluxe Edition](../games/5/57c1246b353842abb6049c48c39f3430.md) | 50 | 1,000 |
@@ -490,9 +492,11 @@
 | [Aeon Must Die!](../games/a/aeon_must_die!.md) | 35 | 1,000 |
 | [Alphadia I & II](../games/4/49940871788f45ec914934e6af085284.md) | 35 | 1,000 |
 | [Backpack Hero](../games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 35 | 1,000 |
+| [Black Myth: Wukong](../games/0/0e548758b82a4be785f435cedf306130.md) | 35 | 1,000 |
 | [Blood West](../games/c/cfd5606247d5400480bb7dccec626f1a.md) | 35 | 1,000 |
 | [Booze Masters: Freezing Moonshine](../games/d/deca76ccbe584df395bc785c61653e50.md) | 35 | 1,000 |
 | [Busway Islands - Puzzle](../games/b/busway_islands_-_puzzle.md) | 35 | 1,000 |
+| [Deathbound](../games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 35 | 1,000 |
 | [Despot's Game](../games/d/despot's_game.md) | 35 | 1,000 |
 | [Engine Evolution 2023](../games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 35 | 1,000 |
 | [Geometric Sniper](../games/1/17514f68442f4cb19f6219f45309142b.md) | 35 | 1,000 |
@@ -533,6 +537,7 @@
 | [Redout: Enhanced Edition](../games/r/redout__enhanced_edition.md) | 34 | 1,000 |
 | [Roboplant](../games/r/roboplant.md) | 34 | 1,000 |
 | [Spider Fox](../games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 34 | 1,000 |
+| [SteamWorld Heist II](../games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 34 | 1,000 |
 | [Tales of the Tiny Planet](../games/f/fcfb5f2cb071465391cc3c4555327790.md) | 34 | 1,000 |
 | [The Future Project](../games/1/1846202a6db1495189ceefd84672b545.md) | 34 | 1,100 |
 | [There Is No Game - Wrong Dimension](../games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 34 | 1,000 |
@@ -1207,6 +1212,7 @@
 | [Unlock The King 2](../games/7/7480b94cd4454a27a51155694dc0ab91.md) | 7 | 1,000 |
 | [Cat Slide Tiles](../games/3/344d0216bb1f4f5ca084a7a613478efa.md) | 6 | 1,000 |
 | [Cybernetic Fault](../games/f/fef01803e2f1468591535ce1709b89b7.md) | 6 | 1,000 |
+| [Ertugrul of Ulukayin](../games/6/6c1b595abaff48f1a519872622da0934.md) | 6 | 1,000 |
 | [Evalina The Sorceress](../games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 6 | 1,000 |
 | [Firelight Fantasy: Force Energy](../games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 6 | 1,000 |
 | [Firelight Fantasy: Resistance](../games/e/e0fceab3d7bc433ba25b9142a965ed09.md) | 6 | 1,000 |
