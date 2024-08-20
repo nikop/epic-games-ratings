@@ -4,7 +4,7 @@
   "ProductSlug": "unrailed-e19729",
   "Ranking_Rating": 375,
   "Ranking_Popularity": 335,
-  "Ranking_PopularitySum": 263,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -3609,10 +3609,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 1759,
       "NumberOfAwardsMax": 242
+    },
+    {
+      "Time": "2024-08-20T18:00:12.0106899+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1760,
+      "NumberOfAwardsMax": 242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1759,
+  "NumberOfAwards": 1760,
   "NumberOfAwardsMax": 242,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3674,7 +3680,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -36630,9 +36636,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
-  "LastChanged": "2024-08-20T13:11:58.261566+00:00",
+  "LastChanged": "2024-08-20T18:00:12.0106897+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:52.35132+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:08.7334489+00:00",
-  "LastUpdate_Ratings": "2024-08-20T16:00:13.9691556+00:00",
+  "LastUpdate_Ratings": "2024-08-20T18:00:12.0106904+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:52.3514629+00:00"
 }
