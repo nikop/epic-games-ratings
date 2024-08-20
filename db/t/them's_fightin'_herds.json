@@ -4,7 +4,7 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 491,
   "Ranking_Popularity": 607,
-  "Ranking_PopularitySum": 553,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -495,10 +495,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 106,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-08-20T01:57:16.1252692+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 126,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 106,
+  "NumberOfAwards": 126,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -536,6 +542,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
       "Count": 20
     }
   ],
@@ -29375,9 +29387,9 @@
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-08-17T20:01:28.4206929+00:00",
+  "LastChanged": "2024-08-20T01:57:16.125269+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:41.8461171+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:36.4122462+00:00",
-  "LastUpdate_Ratings": "2024-08-19T22:58:06.5600246+00:00",
+  "LastUpdate_Ratings": "2024-08-20T01:57:16.1252694+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:41.8462485+00:00"
 }

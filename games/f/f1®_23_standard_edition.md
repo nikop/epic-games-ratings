@@ -199,7 +199,7 @@ Completed: 1 (0.00%) (Ranked 554)
 | 2024-08-09 | 21,949 | 1 |
 ## Awards
 Max (Diverse Characters): 307  (Ranked 303)  
-Sum: 1,678 (Ranked 272)  
+Sum: 1,679 (Ranked 272)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -213,7 +213,7 @@ Diff (max vs sum): 31
 | This game is Extremely Fun | 161 |
 | This game is Educational | 151 |
 | This game has Competitive Players | 136 |
-| This game has Quickly Understood Controls | 130 |
+| This game has Quickly Understood Controls | 131 |
 | This game is Great for Beginners | 36 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
@@ -559,3 +559,4 @@ Diff (max vs sum): 31
 | 2024-08-17 | 4.57 | 302 | 1,660 |
 | 2024-08-18 | 4.57 | 307 | 1,668 |
 | 2024-08-19 | 4.57 | 307 | 1,678 |
+| 2024-08-20 | 4.57 | 307 | 1,679 |

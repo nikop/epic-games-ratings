@@ -2,9 +2,9 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 393,
+  "Ranking_Rating": 373,
   "Ranking_Popularity": 129,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 1848,
   "RatingHistory": [
     {
@@ -7597,10 +7597,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 3882,
       "NumberOfAwardsMax": 2261
+    },
+    {
+      "Time": "2024-08-20T01:57:57.1516365+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 3746,
+      "NumberOfAwardsMax": 2261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3882,
+  "NumberOfAwards": 3746,
   "NumberOfAwardsMax": 2261,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7688,8 +7694,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-08-19T05:58:44.2683456+00:00",
+  "LastChanged": "2024-08-20T01:57:57.1516363+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:50.2287299+00:00",
-  "LastUpdate_Ratings": "2024-08-19T22:58:52.2347333+00:00",
+  "LastUpdate_Ratings": "2024-08-20T01:57:57.1516369+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:18.6057408+00:00"
 }

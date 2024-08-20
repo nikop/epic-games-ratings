@@ -323,8 +323,8 @@ Completed: 7 (0.00%) (Ranked 554)
 | 2024-08-09 | 240,889 | 7 |
 ## Awards
 Max (Diverse Characters): 33  (Ranked 607)  
-Sum: 106 (Ranked 553)  
-Diff (max vs sum): 54  
+Sum: 126 (Ranked 538)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33 |
@@ -333,6 +333,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 21 |
 | This game has a Kind Community | 20 |
 | This game is Great for Quick Sessions | 20 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -423,3 +424,4 @@ Diff (max vs sum): 54
 | 2024-08-06 | 4.59 | 32 | 104 |
 | 2024-08-16 | 4.59 | 33 | 105 |
 | 2024-08-17 | 4.59 | 33 | 106 |
+| 2024-08-20 | 4.59 | 33 | 126 |
