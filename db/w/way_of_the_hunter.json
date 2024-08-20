@@ -3,7 +3,7 @@
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 813,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 487,
@@ -3201,11 +3201,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 834,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-08-20T16:58:35.3372504+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 838,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 834,
-  "NumberOfAwardsMax": 121,
+  "NumberOfAwards": 838,
+  "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3218,7 +3224,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3230,7 +3236,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game is Relaxing",
@@ -3254,7 +3260,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 75
+      "Count": 77
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7881,9 +7887,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-08-20T11:58:17.5543094+00:00",
+  "LastChanged": "2024-08-20T16:58:35.3372502+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:47.9353009+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:36.7196721+00:00",
-  "LastUpdate_Ratings": "2024-08-20T14:59:06.8022142+00:00",
+  "LastUpdate_Ratings": "2024-08-20T16:58:35.3372508+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:47.9353353+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "58dbbafdb5b04b3e9442506354457e3c",
   "Name": "Fort Triumph",
   "ProductSlug": "fort-triumph",
-  "Ranking_Rating": 1171,
+  "Ranking_Rating": 1170,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 1184,
@@ -165,6 +165,6 @@
   "FirstSeenRating": "2022-12-02T08:58:26.1405445+00:00",
   "LastChanged": "2024-08-14T03:00:29.5573986+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:23.3806762+00:00",
-  "LastUpdate_Ratings": "2024-08-20T14:57:51.0146116+00:00",
+  "LastUpdate_Ratings": "2024-08-20T16:57:11.8639852+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:47.1472835+00:00"
 }

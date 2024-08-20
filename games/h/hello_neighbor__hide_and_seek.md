@@ -1,11 +1,11 @@
 # Hello Neighbor: Hide and Seek
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-hide-and-seek)  
 [View Rawdata](../../db/h/hello_neighbor__hide_and_seek.json)  
-Rating: 4.33 (Ranked 965)  
+Rating: 4.33 (Ranked 966)  
 Number of Ratings: 81  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 21  (Ranked 680)  
-Sum: 21 (Ranked 682)  
+Max (Great Boss Battles): 21  (Ranked 681)  
+Sum: 21 (Ranked 683)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
