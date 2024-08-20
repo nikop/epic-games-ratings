@@ -3,8 +3,8 @@
   "Name": "Let\u0027s Build A Zoo",
   "ProductSlug": "lets-build-a-zoo",
   "Ranking_Rating": 770,
-  "Ranking_Popularity": 699,
-  "Ranking_PopularitySum": 699,
+  "Ranking_Popularity": 698,
+  "Ranking_PopularitySum": 698,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -236,6 +236,6 @@
   "FirstSeenRating": "2022-08-08T07:31:42.1612375+00:00",
   "LastChanged": "2024-06-16T09:59:40.384874+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:56.3611476+00:00",
-  "LastUpdate_Ratings": "2024-08-20T20:57:19.2994693+00:00",
+  "LastUpdate_Ratings": "2024-08-20T21:59:21.7456514+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:00.505179+00:00"
 }

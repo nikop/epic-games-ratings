@@ -1,7 +1,7 @@
 # Galactic Civilizations IV: Supernova
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv-supernova)  
 [View Rawdata](../../db/g/galactic_civilizations_iv__supernova.json)  
-Rating: 4.44 (Ranked 794)  
+Rating: 4.44 (Ranked 795)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -373,8 +373,8 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-08-09 | 3,451 | 0 |
 | 2024-08-20 | 3,474 | 0 |
 ## Awards
-Max (Diverse Characters): 23  (Ranked 667)  
-Sum: 23 (Ranked 670)  
+Max (Diverse Characters): 23  (Ranked 666)  
+Sum: 23 (Ranked 669)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
