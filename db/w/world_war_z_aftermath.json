@@ -4,7 +4,7 @@
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 555,
   "Ranking_Popularity": 76,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -18926,6 +18926,6 @@
   "LastChanged": "2024-08-20T10:57:12.6257917+00:00",
   "LastChanged_Achievements": "2024-08-09T18:06:27.4932571+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:48.5482856+00:00",
-  "LastUpdate_Ratings": "2024-08-20T13:57:52.6996618+00:00",
+  "LastUpdate_Ratings": "2024-08-20T15:00:00.0258308+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:27.4932696+00:00"
 }

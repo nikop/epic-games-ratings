@@ -1,7 +1,7 @@
 # 7 Billion Humans
 [Store](https://store.epicgames.com/en-US/p/7-billion-humans)  
 [View Rawdata](../../db/7/7_billion_humans.json)  
-Rating: 4.64 (Ranked 374)  
+Rating: 4.65 (Ranked 350)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -12,3 +12,4 @@ Rating: 4.64 (Ranked 374)
 | 2024-03-18 | 4.61 | 0 | 0 |
 | 2024-03-20 | 4.63 | 0 | 0 |
 | 2024-07-22 | 4.64 | 0 | 0 |
+| 2024-08-20 | 4.65 | 0 | 0 |
