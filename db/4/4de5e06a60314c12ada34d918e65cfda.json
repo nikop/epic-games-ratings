@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 920,
   "Ranking_Popularity": 296,
-  "Ranking_PopularitySum": 293,
+  "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -1740,10 +1740,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1398,
       "NumberOfAwardsMax": 323
+    },
+    {
+      "Time": "2024-08-20T02:57:16.4368535+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1403,
+      "NumberOfAwardsMax": 323
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1398,
+  "NumberOfAwards": 1403,
   "NumberOfAwardsMax": 323,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1775,7 +1781,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 121
+      "Count": 126
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1826,8 +1832,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-08-19T23:58:35.2271138+00:00",
+  "LastChanged": "2024-08-20T02:57:16.4368534+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:11.9533897+00:00",
-  "LastUpdate_Ratings": "2024-08-19T23:58:35.2271143+00:00",
+  "LastUpdate_Ratings": "2024-08-20T02:57:16.4368539+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:06:50.2776941+00:00"
 }

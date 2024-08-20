@@ -4,7 +4,7 @@
   "ProductSlug": "viking-rise-876e15",
   "Ranking_Rating": 1127,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 593,
+  "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -460,6 +460,6 @@
   "FirstSeenRating": "2024-05-25T22:59:08.2682454+00:00",
   "LastChanged": "2024-08-19T12:00:43.3578665+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:11.119287+00:00",
-  "LastUpdate_Ratings": "2024-08-20T00:01:25.0287789+00:00",
+  "LastUpdate_Ratings": "2024-08-20T02:59:27.9056679+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:07:55.3430957+00:00"
 }
