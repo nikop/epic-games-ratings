@@ -4,7 +4,7 @@
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 437,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 97,
@@ -965,10 +965,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 358,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-08-20T18:59:08.8437251+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 359,
+      "NumberOfAwardsMax": 198
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358,
+  "NumberOfAwards": 359,
   "NumberOfAwardsMax": 198,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1012,7 +1018,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5586,9 +5592,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-08-19T13:12:13.3283788+00:00",
+  "LastChanged": "2024-08-20T18:59:08.8437249+00:00",
   "LastChanged_Achievements": "2024-08-09T18:05:25.1252962+00:00",
   "LastUpdate_AppInfo": "2024-08-16T13:57:41.1606576+00:00",
-  "LastUpdate_Ratings": "2024-08-20T16:59:49.1718497+00:00",
+  "LastUpdate_Ratings": "2024-08-20T18:59:08.8437254+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:25.1253511+00:00"
 }

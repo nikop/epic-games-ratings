@@ -3,8 +3,8 @@
   "Name": "Aztez",
   "ProductSlug": "aztez",
   "Ranking_Rating": 622,
-  "Ranking_Popularity": 666,
-  "Ranking_PopularitySum": 669,
+  "Ranking_Popularity": 658,
+  "Ranking_PopularitySum": 666,
   "Ranking_EOS_Progress": 1184,
   "Ranking_EOS_Completed": 554,
   "Ranking_EOS_NewPlayers": 97,
@@ -316,18 +316,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-08-20T19:00:17.8427989+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -342,8 +348,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:45.0438732+00:00",
   "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
-  "LastChanged": "2024-08-15T20:59:29.2241311+00:00",
+  "LastChanged": "2024-08-20T19:00:17.8427988+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:04.3028823+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:57:45.413659+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:00:17.8427993+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:21.8995681+00:00"
 }

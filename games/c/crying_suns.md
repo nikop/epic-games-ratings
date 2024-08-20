@@ -1,7 +1,7 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.52 (Ranked 641)  
+Rating: 4.52 (Ranked 640)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -377,8 +377,8 @@ Completed: 26 (0.01%) (Ranked 524)
 | 2024-08-09 | 481,789 | 26 |
 ## Awards
 Max (Character Customization): 248  (Ranked 331)  
-Sum: 316 (Ranked 455)  
-Diff (max vs sum): -124  
+Sum: 316 (Ranked 456)  
+Diff (max vs sum): -125  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 248 |

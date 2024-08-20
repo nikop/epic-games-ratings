@@ -4,8 +4,8 @@
 Rating: 4.72 (Ranked 212)  
 ## Awards
 Max (Great for Beginners): 52  (Ranked 541)  
-Sum: 351 (Ranked 441)  
-Diff (max vs sum): 100  
+Sum: 351 (Ranked 442)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 52 |
