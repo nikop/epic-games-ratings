@@ -1,7 +1,7 @@
 # JARS
 [Store](https://store.epicgames.com/en-US/p/jars-e39063)  
 [View Rawdata](../../db/j/jars.json)  
-Rating: 4.30 (Ranked 992)  
+Rating: 4.30 (Ranked 993)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
