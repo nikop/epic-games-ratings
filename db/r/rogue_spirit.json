@@ -2,10 +2,10 @@
   "ID": "f3b63c1a16ed4e78973359dbfaebbd1f",
   "Name": "Rogue Spirit",
   "ProductSlug": "rogue-spirit",
-  "Ranking_EOS_Progress": 793,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 796,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T16:00:00+00:00",
     "PcReleaseDate": "2023-03-07T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2024-08-09T18:06:59.3346241+00:00",
       "NumProgressed": 41,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:43.8135574+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 60,
@@ -201,41 +206,41 @@
       "ID": "DashMastery",
       "SetID": "b42i7am",
       "Name": "Dash Mastery",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DeathDefeated",
       "SetID": "b42i7am",
       "Name": "Death Defeated",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DecayDefeated",
       "SetID": "b42i7am",
       "Name": "Decay Defeated",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DemonButcher",
       "SetID": "b42i7am",
       "Name": "Demon Butcher",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DemonKingDefeated",
       "SetID": "b42i7am",
       "Name": "Demon King Defeated",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DominateMaster",
@@ -273,9 +278,9 @@
       "ID": "ElementalMastery",
       "SetID": "b42i7am",
       "Name": "Elemental Mastery",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ElementalRouletteChampion",
@@ -297,9 +302,9 @@
       "ID": "EliteButcher",
       "SetID": "b42i7am",
       "Name": "Elite Butcher",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FamiliarCatcher",
@@ -329,9 +334,9 @@
       "ID": "FamineDefeated",
       "SetID": "b42i7am",
       "Name": "Famine Defeated",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FireBlastMaster",
@@ -393,17 +398,17 @@
       "ID": "GoldCollector",
       "SetID": "b42i7am",
       "Name": "Gold Collector",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GroupFightMastery",
       "SetID": "b42i7am",
       "Name": "Group Fight Mastery",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HardModeChampion",
@@ -433,17 +438,17 @@
       "ID": "Liberator",
       "SetID": "b42i7am",
       "Name": "Liberator",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LoneWolfChampion",
       "SetID": "b42i7am",
       "Name": "Lone Wolf Champion",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MagneticGrenadeMaster",
@@ -457,9 +462,9 @@
       "ID": "MasterAssassin",
       "SetID": "b42i7am",
       "Name": "Master Assassin",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "MasterButcher",
@@ -473,25 +478,25 @@
       "ID": "ParryMastery",
       "SetID": "b42i7am",
       "Name": "Parry Mastery",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Perceptive",
       "SetID": "b42i7am",
       "Name": "Perceptive",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "PossessMastery",
       "SetID": "b42i7am",
       "Name": "Possess Mastery",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ProteciveDomeMaster",
@@ -529,9 +534,9 @@
       "ID": "Shopaholic",
       "SetID": "b42i7am",
       "Name": "Shopaholic",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ShotgunChampion",
@@ -545,9 +550,9 @@
       "ID": "SilentAssassin",
       "SetID": "b42i7am",
       "Name": "Silent Assassin",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SkilfulChampion",
@@ -561,17 +566,17 @@
       "ID": "SkillAdept",
       "SetID": "b42i7am",
       "Name": "Skill Adept",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SkillFinder",
       "SetID": "b42i7am",
       "Name": "Skill Finder",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SkillMaster",
@@ -609,9 +614,9 @@
       "ID": "TokenCollector",
       "SetID": "b42i7am",
       "Name": "Token Collector",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "VanishMaster",
@@ -625,16 +630,16 @@
       "ID": "WarDefeated",
       "SetID": "b42i7am",
       "Name": "War Defeated",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "b42i7am",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 0
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2469383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:48.9680717+00:00",
   "LastChanged": "2023-03-31T05:58:07.2469384+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:59.3346238+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:43.8135567+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:21.7520183+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:36.5091186+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:59.3346623+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:43.8136036+00:00"
 }

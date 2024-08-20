@@ -42,8 +42,8 @@ Rating: 4.50 (Ranked 675)
 | Extraction Confusion | 0.20% | ~70 |
 | Spyfall | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,170 (Ranked 184)  
-Completed: 6 (0.02%) (Ranked 509)  
+Progressed: 35,170 (Ranked 185)  
+Completed: 6 (0.02%) (Ranked 514)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,8 +332,8 @@ Completed: 6 (0.02%) (Ranked 509)
 | 2024-08-09 | 35,170 | 6 |
 ## Awards
 Max (Diverse Characters): 30  (Ranked 621)  
-Sum: 112 (Ranked 549)  
-Diff (max vs sum): 72  
+Sum: 112 (Ranked 550)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 30 |

@@ -2,10 +2,10 @@
   "ID": "658fe15a39fc47a88381b7a359e55913",
   "Name": "Song of Horror Complete Edition",
   "ProductSlug": "song-of-horror-20de0c",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
     "PcReleaseDate": "2019-10-31T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.2816517+00:00",
   "LastChanged": "2023-03-31T05:58:35.2816518+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:07.4155919+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:29.0543941+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:14.9565904+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:52.5303968+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:12.2678141+00:00"
 }

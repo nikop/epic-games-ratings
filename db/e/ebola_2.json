@@ -2,10 +2,10 @@
   "ID": "13ccc4892e284ddb898df3e3ee56880e",
   "Name": "EBOLA 2",
   "ProductSlug": "ebola-2-b61221",
-  "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 459,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1399,6 +1399,11 @@
       "Time": "2024-08-09T18:04:43.6641593+00:00",
       "NumProgressed": 550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:36.5861126+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1410,7 +1415,7 @@
       "Name": "Voodoo \u2714",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achBossThree",
@@ -1426,7 +1431,7 @@
       "Name": "Mask \u2714",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achCoin",
@@ -1458,7 +1463,7 @@
       "Name": "Doctor \u2714",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achGameEasy",
@@ -1490,7 +1495,7 @@
       "Name": "Guardian angel \u2714",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achIce",
@@ -1498,7 +1503,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achMeat",
@@ -1530,7 +1535,7 @@
       "Name": "Statue \u2714",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "achVirus",
@@ -1553,14 +1558,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 552,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:43.664159+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:36.5861121+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:38.7545082+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:25.3007719+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:43.6641754+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:21.3076889+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:36.5861304+00:00"
 }

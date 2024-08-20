@@ -2,10 +2,10 @@
   "ID": "d0fe8a7479ae4465994cf76e42148850",
   "Name": "Super Smash Asteroids",
   "ProductSlug": "super-smash-asteroids-afae0a",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-10T00:00:00+00:00",
     "PcReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -353,8 +353,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:30.2470225+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:17.9148126+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:35.8867841+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:37.2699704+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:56.3360799+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:17.9148372+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:48.3945146+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:35.8868029+00:00"
 }

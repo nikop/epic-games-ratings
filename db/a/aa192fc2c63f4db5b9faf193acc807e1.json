@@ -2,10 +2,10 @@
   "ID": "aa192fc2c63f4db5b9faf193acc807e1",
   "Name": "Creepy Tale",
   "ProductSlug": "creepy-tale-058ebd",
-  "Ranking_EOS_Progress": 454,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 559,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.82,
+  "EOS_Completed_Percentage": 3.76,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1434,6 +1434,11 @@
       "Time": "2024-08-09T18:07:11.0392677+00:00",
       "NumProgressed": 550,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-08-20T20:12:05.2795404+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1446,7 +1451,7 @@
       "Name": "Follow to the brother",
       "Percentage": 17,
       "XP": 75,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "creepytaleach10",
@@ -1454,15 +1459,15 @@
       "Name": "Intuition",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 75,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "creepytaleach12",
@@ -1476,9 +1481,9 @@
       "ID": "creepytaleach13",
       "SetID": "bnif31p",
       "Name": "True fisherman",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "creepytaleach2",
@@ -1486,15 +1491,15 @@
       "Name": "Naivety",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 270
+      "UsersEstimate": 268
     },
     {
       "ID": "creepytaleach4",
@@ -1502,7 +1507,7 @@
       "Name": "Dominance",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "creepytaleach5",
@@ -1510,7 +1515,7 @@
       "Name": "Incorrigible researcher",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "creepytaleach6",
@@ -1524,39 +1529,39 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 121
+      "UsersEstimate": 129
     },
     {
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 242
+      "UsersEstimate": 252
     },
     {
       "ID": "creepytaleach9",
       "SetID": "bnif31p",
       "Name": "Idler",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 75,
-      "UsersEstimate": 182
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 559,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:11.0392674+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:05.2795397+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:17.5494463+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:59.0699888+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:11.0392834+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:05.2795546+00:00"
 }

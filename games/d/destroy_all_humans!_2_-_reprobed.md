@@ -6,38 +6,38 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 89.00% | ~951 |
-| Mash Machine | 81.00% | ~866 |
-| Ducks in a Row, Fish in a Barrel | 62.00% | ~663 |
-| Furon Fashion | 52.00% | ~556 |
-| Bodied Sattva | 46.00% | ~492 |
-| Shop Til They Drop | 46.00% | ~492 |
-| Cult Following | 40.00% | ~428 |
-| Earthly Pleasures | 38.00% | ~406 |
-| Lie Back and Think of Albion | 34.00% | ~363 |
-| Upgreatest | 31.00% | ~331 |
-| Pimp My Raid | 29.00% | ~310 |
-| Freshly Squeezed | 25.00% | ~267 |
-| I Look Up As I Walk to Takoshima | 24.00% | ~257 |
-| Perfect Probulator | 22.00% | ~235 |
-| Die Nasty | 21.00% | ~224 |
-| Transmitting From Sol-3 | 20.00% | ~214 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~160 |
-| Kaijuiced | 14.00% | ~150 |
-| Fly Me to the Moon Base | 13.00% | ~139 |
-| Dusted | 13.00% | ~139 |
-| Scuttled | 11.00% | ~118 |
-| Lobster Blisque | 9.00% | ~96 |
-| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~86 |
-| Yettisoned | 7.00% | ~75 |
-| Ultimate Smoothie | 6.00% | ~64 |
-| Arkvoodle Doodle | 5.00% | ~53 |
-| Deincarnated | 3.00% | ~32 |
-| Against All Odds | 2.00% | ~21 |
-| Forbidden Donut | 2.00% | ~21 |
-| Hidden Human Hive Harvest | 2.00% | ~21 |
-| The Optional Mandate | 2.00% | ~21 |
-| Higher Than the Futen Zoku | 2.00% | ~21 |
+| Rock of the Bay | 88.00% | ~957 |
+| Mash Machine | 81.00% | ~880 |
+| Ducks in a Row, Fish in a Barrel | 62.00% | ~674 |
+| Furon Fashion | 52.00% | ~565 |
+| Bodied Sattva | 46.00% | ~500 |
+| Shop Til They Drop | 46.00% | ~500 |
+| Cult Following | 41.00% | ~446 |
+| Earthly Pleasures | 38.00% | ~413 |
+| Lie Back and Think of Albion | 34.00% | ~370 |
+| Upgreatest | 32.00% | ~348 |
+| Pimp My Raid | 29.00% | ~315 |
+| Freshly Squeezed | 26.00% | ~283 |
+| I Look Up As I Walk to Takoshima | 24.00% | ~261 |
+| Perfect Probulator | 22.00% | ~239 |
+| Die Nasty | 22.00% | ~239 |
+| Transmitting From Sol-3 | 20.00% | ~217 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~163 |
+| Kaijuiced | 14.00% | ~152 |
+| Fly Me to the Moon Base | 13.00% | ~141 |
+| Dusted | 13.00% | ~141 |
+| Scuttled | 11.00% | ~120 |
+| Lobster Blisque | 9.00% | ~98 |
+| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~87 |
+| Yettisoned | 7.00% | ~76 |
+| Ultimate Smoothie | 6.00% | ~65 |
+| Arkvoodle Doodle | 5.00% | ~54 |
+| Deincarnated | 3.00% | ~33 |
+| Against All Odds | 2.00% | ~22 |
+| Forbidden Donut | 2.00% | ~22 |
+| Hidden Human Hive Harvest | 2.00% | ~22 |
+| The Optional Mandate | 2.00% | ~22 |
+| Higher Than the Futen Zoku | 2.00% | ~22 |
 | Arty Facts | 1.00% | ~11 |
 | Gotta Catch All the Pop Art | 1.00% | ~11 |
 | This Is Earth Radio | 1.00% | ~11 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.90% | ~10 |
 | Trans-Siberian Express | 0.90% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,069 (Ranked 400)  
-Completed: 5 (0.47%) (Ranked 327)  
+Progressed: 1,087 (Ranked 402)  
+Completed: 5 (0.46%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,6 +118,7 @@ Completed: 5 (0.47%) (Ranked 327)
 | 2024-04-10 | 637 | 2 |
 | 2024-06-17 | 817 | 3 |
 | 2024-08-09 | 1,069 | 5 |
+| 2024-08-20 | 1,087 | 5 |
 ## Awards
 Max (Great Boss Battles): 41  (Ranked 568)  
 Sum: 41 (Ranked 624)  

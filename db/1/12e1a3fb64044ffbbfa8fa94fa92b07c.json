@@ -2,10 +2,10 @@
   "ID": "12e1a3fb64044ffbbfa8fa94fa92b07c",
   "Name": "CriticalOrb",
   "ProductSlug": "criticalorb-282b62",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-29T03:00:00+00:00",
     "PcReleaseDate": "2024-03-29T03:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T09:57:15.4873754+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:37.025392+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:18.4025081+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:14:02.6623501+00:00"
 }

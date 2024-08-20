@@ -26,8 +26,8 @@ Rating: 4.30 (Ranked 992)
 | Skills to pay the bills | 4.00% | ~7 |
 | Master of puppets | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 585)  
-Completed: 5 (2.67%) (Ranked 178)  
+Progressed: 187 (Ranked 589)  
+Completed: 5 (2.67%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

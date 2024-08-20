@@ -2,10 +2,10 @@
   "ID": "e2c4ea0bdf3a4ae6b4f80ed8c106ea07",
   "Name": "Rue Valley",
   "ProductSlug": "rue-valley-48a101",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T15:57:11.7557623+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:16.9830831+00:00",
+  "LastUpdate_Ratings": "2024-08-20T20:00:06.1841683+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:08.7254743+00:00"
 }

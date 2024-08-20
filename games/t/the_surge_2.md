@@ -63,8 +63,8 @@ Rating: 4.27 (Ranked 1,022)
 | Swiss Army Drone | 1.00% | ~33 |
 | Three Birds With One Stone | 1.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,298 (Ranked 308)  
-Completed: 18 (0.55%) (Ranked 318)  
+Progressed: 3,298 (Ranked 313)  
+Completed: 18 (0.55%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

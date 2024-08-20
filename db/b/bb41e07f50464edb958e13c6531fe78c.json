@@ -2,10 +2,10 @@
   "ID": "bb41e07f50464edb958e13c6531fe78c",
   "Name": "Megapolis",
   "ProductSlug": "megapolis-925016",
-  "Ranking_EOS_Progress": 702,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 692,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-15T16:00:00+00:00",
     "PcReleaseDate": "2010-09-03T16:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-08-09T18:06:49.8656607+00:00",
       "NumProgressed": 84,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:28.4494815+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-25T19:01:51.3463468+00:00",
@@ -50,17 +55,17 @@
       "ID": "H1",
       "SetID": "9kfeneg",
       "Name": "Builder",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "H10",
       "SetID": "9kfeneg",
       "Name": "Popular",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "H11",
@@ -114,9 +119,9 @@
       "ID": "H2",
       "SetID": "9kfeneg",
       "Name": "Expert builder",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "H3",
@@ -124,63 +129,63 @@
       "Name": "Master builder",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "H4",
       "SetID": "9kfeneg",
       "Name": "Improver",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "H5",
       "SetID": "9kfeneg",
       "Name": "Expert improver",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "H6",
       "SetID": "9kfeneg",
       "Name": "Master improver",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "H7",
       "SetID": "9kfeneg",
       "Name": "Demolisher",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "H8",
       "SetID": "9kfeneg",
       "Name": "Expert demolisher",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "H9",
       "SetID": "9kfeneg",
       "Name": "Master demolisher",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "HA",
       "SetID": "9kfeneg",
       "Name": "Preparator",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "HB",
@@ -188,53 +193,53 @@
       "Name": "Planner",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "HC",
       "SetID": "9kfeneg",
       "Name": "Rich",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HD",
       "SetID": "9kfeneg",
       "Name": "Storekeeper",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "HE",
       "SetID": "9kfeneg",
       "Name": "Trainer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "HF",
       "SetID": "9kfeneg",
       "Name": "Manager",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "9kfeneg",
       "IsBase": true,
-      "Progressed": 84,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-16T18:57:14.8138446+00:00",
   "FirstSeenAchievements": "2024-07-25T19:01:51.3463463+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:49.8656605+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:28.4494811+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:06.1367649+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:12.5591849+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:49.8656696+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:01.1906932+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:28.4494923+00:00"
 }

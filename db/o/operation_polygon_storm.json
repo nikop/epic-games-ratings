@@ -2,10 +2,10 @@
   "ID": "d705b04f61c04c5ebe30c7314d34a377",
   "Name": "Operation Polygon Storm",
   "ProductSlug": "operation-polygon-storm-65c37e",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1033,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-13T07:53:22.563+00:00",
     "PcReleaseDate": "2024-08-12T19:00:00+00:00",
@@ -25,12 +25,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-08-20T20:06:10.2420244+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-08-09T18:04:01.083647+00:00",
   "TotalAchievements": 21,
   "TotalAchievementsXP": 1000,
@@ -208,14 +214,14 @@
     {
       "ID": "9oicnd9",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-19T11:58:41.0169825+00:00",
   "FirstSeenAchievements": "2024-06-17T16:13:31.9807137+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:01.0836457+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:10.2420236+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:17.5588393+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:59.4056039+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:01.084323+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:32.8399653+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:10.2420608+00:00"
 }

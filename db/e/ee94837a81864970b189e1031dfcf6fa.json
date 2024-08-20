@@ -5,10 +5,10 @@
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 506,
-  "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 487,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Completed": 494,
+  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2024-03-05T16:00:00+00:00",
@@ -926,10 +926,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 14067,
-  "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 16542,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 2475,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -956,6 +956,11 @@
       "Time": "2024-08-09T18:05:41.2121716+00:00",
       "NumProgressed": 14067,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-20T20:09:29.0057245+00:00",
+      "NumProgressed": 16542,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:52.4220924+00:00",
@@ -966,17 +971,17 @@
       "ID": "0",
       "SetID": "79f4pl7",
       "Name": "First Love",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3376
+      "UsersEstimate": 3805
     },
     {
       "ID": "1",
       "SetID": "79f4pl7",
       "Name": "Truck-Curious",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 703
+      "UsersEstimate": 662
     },
     {
       "ID": "10",
@@ -984,15 +989,15 @@
       "Name": "Truck Aficionado",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 281
+      "UsersEstimate": 331
     },
     {
       "ID": "11",
       "SetID": "79f4pl7",
       "Name": "Lucky Find",
-      "Percentage": 36,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5624
     },
     {
       "ID": "12",
@@ -1000,7 +1005,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 662
     },
     {
       "ID": "13",
@@ -1008,23 +1013,23 @@
       "Name": "Globetrotter",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 281
+      "UsersEstimate": 331
     },
     {
       "ID": "14",
       "SetID": "79f4pl7",
       "Name": "Into the Wild",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 7456
+      "UsersEstimate": 8271
     },
     {
       "ID": "15",
       "SetID": "79f4pl7",
       "Name": "Wild Colorado",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3805
     },
     {
       "ID": "16",
@@ -1032,7 +1037,7 @@
       "Name": "Arizona Skies",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 141
+      "UsersEstimate": 165
     },
     {
       "ID": "17",
@@ -1040,7 +1045,7 @@
       "Name": "Eurotrip",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 127
+      "UsersEstimate": 149
     },
     {
       "ID": "18",
@@ -1048,15 +1053,15 @@
       "Name": "Seasoned Explorer",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 116
     },
     {
       "ID": "19",
       "SetID": "79f4pl7",
       "Name": "The Mechanic",
-      "Percentage": 55,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7737
+      "UsersEstimate": 8767
     },
     {
       "ID": "2",
@@ -1064,7 +1069,7 @@
       "Name": "Frankentruck",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 331
     },
     {
       "ID": "3",
@@ -1072,15 +1077,15 @@
       "Name": "The Truck of Theseus",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "4",
       "SetID": "79f4pl7",
       "Name": "Fat Cat",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1654
     },
     {
       "ID": "5",
@@ -1088,15 +1093,15 @@
       "Name": "All the Money in the World",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 844
+      "UsersEstimate": 993
     },
     {
       "ID": "6",
       "SetID": "79f4pl7",
       "Name": "10 Ready. 20 Set. 30 Go Back to 10?",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2978
     },
     {
       "ID": "7",
@@ -1104,15 +1109,15 @@
       "Name": "Start. Crash. Recover",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "8",
       "SetID": "79f4pl7",
       "Name": "Management Approves",
-      "Percentage": 52,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 7315
+      "UsersEstimate": 8106
     },
     {
       "ID": "9",
@@ -1120,23 +1125,23 @@
       "Name": "Anchor Management",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "79f4pl7",
       "IsBase": true,
-      "Progressed": 14067,
-      "Completed": 4
+      "Progressed": 16542,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-03-05T17:58:37.8385796+00:00",
   "FirstSeenRating": "2024-03-07T12:58:57.6137618+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:52.4220924+00:00",
   "LastChanged": "2024-08-20T18:00:22.698039+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:41.2121711+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:29.0057239+00:00",
   "LastUpdate_AppInfo": "2024-08-16T13:09:07.7814389+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:22.6980399+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:41.2121836+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:27.9179941+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:29.0057358+00:00"
 }

@@ -47,8 +47,8 @@ Rating: 4.71 (Ranked 225)
 | Blind as a bat | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 518)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 329 (Ranked 523)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

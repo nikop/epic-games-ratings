@@ -2,10 +2,10 @@
   "ID": "c3ee706f06354a7ca940a71fc28aa887",
   "Name": "Tents and Trees",
   "ProductSlug": "tents-and-trees-7e66fd",
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 659,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-24T07:00:00+00:00",
     "PcReleaseDate": "2024-04-24T07:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2024-08-09T18:05:20.9718807+00:00",
       "NumProgressed": 113,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:47.615306+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:56.004548+00:00",
@@ -60,9 +65,9 @@
       "ID": "ach_classicpacks_01",
       "SetID": "55kje8c",
       "Name": "Classic",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_dailyin7days_01",
@@ -116,9 +121,9 @@
       "ID": "ach_fastdailypack_02",
       "SetID": "55kje8c",
       "Name": "Fast Daily Pack {easy}",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_fastdailypack_03",
@@ -317,14 +322,14 @@
     {
       "ID": "55kje8c",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-26T13:59:16.2528023+00:00",
   "FirstSeenAchievements": "2024-01-03T00:06:40.2622903+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:20.9718801+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:47.6153055+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:05.0220701+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:59.8095437+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:20.9718992+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:51.5303506+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:47.6153266+00:00"
 }

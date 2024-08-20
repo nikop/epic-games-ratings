@@ -2,10 +2,10 @@
   "ID": "4d52bed5776a4ac48c0b87c7ab87cddf",
   "Name": "Colonies of the Remnant",
   "ProductSlug": "colonies-of-the-remnant-1df9eb",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-11-15T00:00:00+00:00",
     "PcReleaseDate": "2024-06-28T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T02:57:07.5890289+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:27.039403+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:07.0976009+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:10.9691638+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:44.1084422+00:00"
 }

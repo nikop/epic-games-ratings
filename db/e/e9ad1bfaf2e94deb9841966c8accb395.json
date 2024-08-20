@@ -2,10 +2,10 @@
   "ID": "e9ad1bfaf2e94deb9841966c8accb395",
   "Name": "Vage Strike",
   "ProductSlug": "vage-strike-68d078",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-12T17:29:18+00:00",
     "PcReleaseDate": "2024-03-13T22:30:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-15T04:57:23.200946+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:18.2591853+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:17.6677956+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:02.4264376+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:45.1192458+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:08.6670008+00:00"
 }

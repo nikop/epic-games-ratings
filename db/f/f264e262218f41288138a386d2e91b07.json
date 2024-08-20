@@ -2,10 +2,10 @@
   "ID": "f264e262218f41288138a386d2e91b07",
   "Name": "Simulakros",
   "ProductSlug": "simulakros-29cc97",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T13:57:01.5294989+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:44.4150772+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:57:22.902063+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:06.4337938+00:00"
 }

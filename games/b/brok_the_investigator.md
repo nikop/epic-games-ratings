@@ -34,8 +34,8 @@
 | The World Is My Doormat | 1.00% | ~1 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 735)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 67 (Ranked 738)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

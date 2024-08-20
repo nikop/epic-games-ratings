@@ -2,10 +2,10 @@
   "ID": "b5ac16dc12f3478e99dcfea07c13865c",
   "Name": "DOOM Eternal",
   "ProductSlug": "doom-eternal--deluxe-edition",
-  "Ranking_EOS_Progress": 919,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 928,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-08T19:00:00+00:00",
     "PcReleaseDate": "2024-08-08T19:00:00+00:00",
@@ -455,6 +455,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:06.8112888+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:06.8112822+00:00",
   "LastUpdate_AppInfo": "2024-08-15T19:57:24.9135907+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:05.1255359+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:56.1455136+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:06.8123205+00:00"
 }

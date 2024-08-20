@@ -1,7 +1,7 @@
 # Wytchwood
 [Store](https://store.epicgames.com/en-US/p/wytchwood)  
 [View Rawdata](../../db/w/wytchwood.json)  
-Rating: 4.55 (Ranked 578)  
+Rating: 4.55 (Ranked 577)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

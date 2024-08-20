@@ -2,10 +2,10 @@
   "ID": "cd4a7839ad21465cab08d6742093d2a0",
   "Name": "Mask of the Rose",
   "ProductSlug": "mask-of-the-rose-9f7efe",
-  "Ranking_EOS_Progress": 889,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 899,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-08T17:00:00+00:00",
     "PcReleaseDate": "2023-06-08T17:00:00+00:00",
@@ -89,17 +89,17 @@
       "ID": "bodkin",
       "SetID": "506b0a7",
       "Name": "Confessed",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 55,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "bosham",
       "SetID": "506b0a7",
       "Name": "Flourished",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 55,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "clarence",
@@ -185,17 +185,17 @@
       "ID": "pilbeam",
       "SetID": "506b0a7",
       "Name": "Acceptance",
-      "Percentage": 6,
+      "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "pongo",
       "SetID": "506b0a7",
       "Name": "Tried",
-      "Percentage": 31,
+      "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "psmith",
@@ -216,8 +216,8 @@
   ],
   "FirstSeen": "2023-06-09T04:57:25.0433962+00:00",
   "FirstSeenAchievements": "2023-06-08T18:00:58.4934075+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:12.9960662+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:34.7988265+00:00",
   "LastUpdate_AppInfo": "2024-08-17T06:57:18.2387052+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:24.9731264+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:12.9960774+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:06:34.7988378+00:00"
 }

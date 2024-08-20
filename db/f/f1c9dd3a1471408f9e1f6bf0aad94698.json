@@ -2,10 +2,10 @@
   "ID": "f1c9dd3a1471408f9e1f6bf0aad94698",
   "Name": "Coreborn",
   "ProductSlug": "coreborn-c48442",
-  "Ranking_EOS_Progress": 784,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 780,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-24T10:00:00+00:00",
     "PcReleaseDate": "2023-07-18T17:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-07-25T19:01:45.2545057+00:00",
       "NumProgressed": 45,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:27.1498692+00:00",
+      "NumProgressed": 48,
       "NumCompleted": 0
     }
   ],
@@ -133,9 +138,9 @@
       "ID": "ACH_LEVEL_2_SKILL",
       "SetID": "9phii1b",
       "Name": "Skilled Crafter",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LEVEL_4_SKILL",
@@ -149,7 +154,7 @@
       "ID": "ACH_MINED_MOONSTONEDUST",
       "SetID": "9phii1b",
       "Name": "Moonlight Mining",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 75,
       "UsersEstimate": 4
     },
@@ -173,7 +178,7 @@
       "ID": "ACH_WIN_FIRST_TOWN_ATTACK",
       "SetID": "9phii1b",
       "Name": "This is my spot now",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 200,
       "UsersEstimate": 8
     }
@@ -182,14 +187,14 @@
     {
       "ID": "9phii1b",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-01T02:03:50.7553991+00:00",
   "FirstSeenAchievements": "2024-07-25T19:01:45.2557214+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:49.1198149+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:27.1498687+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:16.2195577+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:17.3400003+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:49.1198242+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:27.1498792+00:00"
 }

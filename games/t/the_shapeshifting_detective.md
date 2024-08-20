@@ -26,8 +26,8 @@
 | Bullseye | 3.00% | ~18 |
 | Show Me Some Skin | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 444)  
-Completed: 4 (0.66%) (Ranked 300)  
+Progressed: 604 (Ranked 448)  
+Completed: 4 (0.66%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

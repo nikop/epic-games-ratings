@@ -2,10 +2,10 @@
   "ID": "e9e51dd0d086464a9a794d9cfa7da123",
   "Name": "Desktop Girlfriend NEO",
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
-  "Ranking_EOS_Progress": 634,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 639,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
     "PcReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 130,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2024-08-09T18:04:55.1252908+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:55.2364622+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -569,15 +574,15 @@
       "Name": "Dance Master",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "DP",
       "SetID": "2621k8c",
       "Name": "Decision Paralysis",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "DW",
@@ -705,7 +710,7 @@
       "Name": "Healthy and beautiful",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HBACAAD",
@@ -713,7 +718,7 @@
       "Name": "Having both a cat and a dog",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "HE",
@@ -735,7 +740,7 @@
       "ID": "HT",
       "SetID": "2621k8c",
       "Name": "Home Theater",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -759,7 +764,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -825,7 +830,7 @@
       "Name": "Love of a man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LP",
@@ -871,9 +876,9 @@
       "ID": "MAB",
       "SetID": "2621k8c",
       "Name": "Have a baby",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "MB",
@@ -911,9 +916,9 @@
       "ID": "Merged",
       "SetID": "2621k8c",
       "Name": "Merged",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "Mistress",
@@ -985,7 +990,7 @@
       "Name": "Perfunctory",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Phantasmagoria",
@@ -1009,7 +1014,7 @@
       "Name": "Preaching",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Rationality",
@@ -1033,7 +1038,7 @@
       "Name": "Richer",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "SAITAB",
@@ -1055,9 +1060,9 @@
       "ID": "SL",
       "SetID": "2621k8c",
       "Name": "Selfish Love",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "SOC",
@@ -1065,15 +1070,15 @@
       "Name": "Sense of ceremony",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SWA",
       "SetID": "2621k8c",
       "Name": "MOD Artisan",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 25
     },
     {
       "ID": "SelflessLove",
@@ -1095,9 +1100,9 @@
       "ID": "Shopaholic",
       "SetID": "2621k8c",
       "Name": "Shopaholic",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "Sisters",
@@ -1105,7 +1110,7 @@
       "Name": "Sisters",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Sneakerhead",
@@ -1151,9 +1156,9 @@
       "ID": "Superficial",
       "SetID": "2621k8c",
       "Name": "Superficial",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 16
     },
     {
       "ID": "TAAM",
@@ -1177,7 +1182,7 @@
       "Name": "The most beautiful memory",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TMOL",
@@ -1185,7 +1190,7 @@
       "Name": "The meaning of life",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Takeout",
@@ -1239,7 +1244,7 @@
       "ID": "VP",
       "SetID": "2621k8c",
       "Name": "Virtual Pet",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -1264,14 +1269,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 130,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:55.1252907+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:55.2364618+00:00",
   "LastUpdate_AppInfo": "2024-08-16T13:09:07.2579145+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:32.699034+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:55.1253685+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:55.026612+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:55.2365371+00:00"
 }

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/the_thaumaturge.json)  
 Rating: 4.56 (Ranked 555)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 1,002)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 4 (Ranked 1,014)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

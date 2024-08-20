@@ -2,10 +2,10 @@
   "ID": "fb58cd91974e4751b6b8b6c19b7c936c",
   "Name": "Trust No One",
   "ProductSlug": "trust-no-one-5d5141",
-  "Ranking_EOS_Progress": 452,
-  "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 453,
+  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2024-05-16T09:00:00+00:00",
     "PcReleaseDate": "2024-03-27T10:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
-  "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.25,
+  "EOS_Progressed": 581,
+  "EOS_Completed": 8,
+  "EOS_NewPlayers": 20,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:27.2084366+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:06:23.3844421+00:00",
       "NumProgressed": 561,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-08-20T20:10:44.5822836+00:00",
+      "NumProgressed": 581,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:27.2084391+00:00",
@@ -55,9 +60,9 @@
       "ID": "Almost_Johnny_Mnemonic",
       "SetID": "a1l6211",
       "Name": "Almost Johnny Mnemonic",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 150,
-      "UsersEstimate": 118
+      "UsersEstimate": 128
     },
     {
       "ID": "Brave_New_World",
@@ -65,23 +70,23 @@
       "Name": "Brave New World",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "Cipher_breaker",
       "SetID": "a1l6211",
       "Name": "Cipher breaker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 150,
-      "UsersEstimate": 174
+      "UsersEstimate": 186
     },
     {
       "ID": "Descartes_approves",
       "SetID": "a1l6211",
       "Name": "Descartes approves",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 150,
-      "UsersEstimate": 224
+      "UsersEstimate": 238
     },
     {
       "ID": "Dystopia_fan",
@@ -89,7 +94,7 @@
       "Name": "Dystopia fan",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 292
+      "UsersEstimate": 302
     },
     {
       "ID": "Good_old_days",
@@ -97,7 +102,7 @@
       "Name": "Good old days",
       "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Persistent_seeker",
@@ -105,21 +110,21 @@
       "Name": "Persistent seeker",
       "Percentage": 7,
       "XP": 150,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1l6211",
       "IsBase": true,
-      "Progressed": 561,
-      "Completed": 7
+      "Progressed": 581,
+      "Completed": 8
     }
   ],
   "FirstSeen": "2024-05-18T10:57:40.6533247+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:27.2084391+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:23.3844419+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:44.582283+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:19.3903357+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:11.2092097+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:23.3844467+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:20.4851301+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:44.5822895+00:00"
 }

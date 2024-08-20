@@ -2,10 +2,10 @@
   "ID": "dbbce4993a554bbba3032476bca1673a",
   "Name": "Outbreak Devious Beginnings",
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
-  "Ranking_EOS_Progress": 881,
-  "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 885,
+  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
     "PcReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2023-10-25T21:06:02.6915269+00:00",
@@ -114,6 +114,11 @@
       "Time": "2024-08-09T18:05:41.5747514+00:00",
       "NumProgressed": 17,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:09:29.6043256+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:21.2446637+00:00",
@@ -132,7 +137,7 @@
       "ID": "ITS_A_BEAUTY_ACH",
       "SetID": "8i8pmkm",
       "Name": "It\u0027s a Beauty!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 125,
       "UsersEstimate": 3
     },
@@ -164,15 +169,15 @@
       "ID": "THATS_IT_RIGHT_ACH",
       "SetID": "8i8pmkm",
       "Name": "That\u0027s It... Right?",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "THERES_TOO_MANY_ACH",
       "SetID": "8i8pmkm",
       "Name": "There\u0027s Too Many!",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -180,7 +185,7 @@
       "ID": "THEYRE_ENDLESS_ACH",
       "SetID": "8i8pmkm",
       "Name": "They\u0027re Endless!",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -188,7 +193,7 @@
       "ID": "THE_BEGINNING_OF_THE_END_ACH",
       "SetID": "8i8pmkm",
       "Name": "The Beginning of the End",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -212,7 +217,7 @@
       "ID": "WELCOME_BACK_ACH",
       "SetID": "8i8pmkm",
       "Name": "Welcome Back",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 3
     }
@@ -221,14 +226,14 @@
     {
       "ID": "8i8pmkm",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:41.5747507+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:29.6043252+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:05.3782653+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:23.6901706+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:41.5747594+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:29.6043354+00:00"
 }

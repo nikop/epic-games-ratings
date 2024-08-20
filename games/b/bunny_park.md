@@ -23,8 +23,8 @@
 | Bunny Fluffle | 7.00% | ~24 |
 | Quack quack | 5.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 513)  
-Completed: 11 (3.21%) (Ranked 164)  
+Progressed: 343 (Ranked 518)  
+Completed: 11 (3.21%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

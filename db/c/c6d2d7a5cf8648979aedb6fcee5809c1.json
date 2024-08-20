@@ -2,10 +2,10 @@
   "ID": "c6d2d7a5cf8648979aedb6fcee5809c1",
   "Name": "RAM BOE",
   "ProductSlug": "ram-boe-e6de25",
-  "Ranking_EOS_Progress": 947,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 956,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-26T00:00:00+00:00",
     "PcReleaseDate": "2016-04-04T15:00:00+00:00",
@@ -23,9 +23,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
       "Time": "2024-08-09T18:07:42.1220514+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:58.3046599+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:57.4029157+00:00",
@@ -53,7 +58,7 @@
       "ID": "ram_day",
       "SetID": "1h150dj",
       "Name": "Brightest day",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -85,9 +90,9 @@
       "ID": "ram_learning",
       "SetID": "1h150dj",
       "Name": "Higher Learning",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ram_night",
@@ -101,7 +106,7 @@
       "ID": "ram_ooflimits",
       "SetID": "1h150dj",
       "Name": "Off-Limits",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -109,15 +114,15 @@
       "ID": "ram_oops",
       "SetID": "1h150dj",
       "Name": "Oops!",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ram_points_1",
       "SetID": "1h150dj",
       "Name": "Had a little ram",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -141,7 +146,7 @@
       "ID": "ram_souls_1",
       "SetID": "1h150dj",
       "Name": "A spark is lit",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -165,7 +170,7 @@
       "ID": "ram_special",
       "SetID": "1h150dj",
       "Name": "Relax, I goat this!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -174,13 +179,13 @@
     {
       "ID": "1h150dj",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:57.4029156+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:42.1220509+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:58.3046595+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:03.4825688+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:31.7853165+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:42.1220617+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:26.8851782+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:58.3046701+00:00"
 }

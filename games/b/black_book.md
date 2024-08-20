@@ -57,8 +57,8 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,787 |
 | Word Master | 0.20% | ~179 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,351 (Ranked 141)  
-Completed: 124 (0.14%) (Ranked 413)  
+Progressed: 89,351 (Ranked 143)  
+Completed: 124 (0.14%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,13 +218,13 @@ Completed: 124 (0.14%) (Ranked 413)
 | 2024-08-09 | 89,351 | 124 |
 ## Awards
 Max (Extremely Fun): 26  (Ranked 650)  
-Sum: 116 (Ranked 546)  
+Sum: 117 (Ranked 546)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 126 |
 | This game is Extremely Fun | 26 |
-| This game has Amazing Storytelling | 25 |
+| This game has Amazing Storytelling | 26 |
 | This game is Highly Recommended | 24 |
 | This game is Great for Beginners | 21 |
 | This game has Quickly Understood Controls | 20 |
@@ -374,3 +374,4 @@ Diff (max vs sum): 104
 | 2024-07-28 | 4.64 | - | 26 | 114 |
 | 2024-08-01 | 4.64 | - | 26 | 115 |
 | 2024-08-12 | 4.64 | - | 26 | 116 |
+| 2024-08-20 | 4.64 | - | 26 | 117 |

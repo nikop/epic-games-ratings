@@ -2,10 +2,10 @@
   "ID": "fcf1df110db64edb929913d38d4276aa",
   "Name": "Baimason\u0027s Thing Finder Puzzle",
   "ProductSlug": "baimasons-thing-finder-puzzle-0738aa",
-  "Ranking_EOS_Progress": 976,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-12T16:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:05:39.5386839+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:09:25.9059732+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -51,17 +56,17 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ag9idp0",
       "Name": "Yey, Only 54 more to go",
-      "Percentage": 67,
+      "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "ag9idp0",
       "Name": "If only you were this good at finding the keys",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -124,13 +129,13 @@
     {
       "ID": "ag9idp0",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-04-05T15:01:39.0830009+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:39.5386832+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:25.9059725+00:00",
   "LastUpdate_AppInfo": "2024-08-17T13:01:22.5295724+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:51.3862261+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:39.5394633+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:47.1243159+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:25.9059802+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 966,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 164,
-  "Ranking_EOS_Completed": 524,
-  "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Completed": 532,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60949,
+  "EOS_Progressed": 61045,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16541,6 +16541,11 @@
       "Time": "2024-08-09T18:07:41.681399+00:00",
       "NumProgressed": 60949,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-08-20T20:12:57.4863411+00:00",
+      "NumProgressed": 61045,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16560,7 +16565,7 @@
       "Name": "Backer Visitor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1221
     },
     {
       "ID": "BoomBox",
@@ -16600,7 +16605,7 @@
       "Name": "Elf Chaser",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "Explorer",
@@ -16616,7 +16621,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4876
+      "UsersEstimate": 4884
     },
     {
       "ID": "FlyingPresent",
@@ -16624,7 +16629,7 @@
       "Name": "Flying Present Catcher",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3663
     },
     {
       "ID": "FlyingPresentMaster",
@@ -16640,7 +16645,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6095
+      "UsersEstimate": 6104
     },
     {
       "ID": "FoolMeTwice",
@@ -16648,7 +16653,7 @@
       "Name": "Fool Me Twice",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "FoundAllBackers",
@@ -16696,7 +16701,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3663
     },
     {
       "ID": "HarshLove",
@@ -16712,7 +16717,7 @@
       "Name": "Hi Fiver",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1831
     },
     {
       "ID": "IsThisPossible",
@@ -16784,7 +16789,7 @@
       "Name": "Old School Jammin\u0027",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "PacifistVictory",
@@ -16808,15 +16813,15 @@
       "Name": "Hate That Randomizer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1221
     },
     {
       "ID": "RhythmStar",
       "SetID": "8gem5jc",
       "Name": "Rhythm Star",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 122
     },
     {
       "ID": "RiskTaker",
@@ -16848,7 +16853,7 @@
       "Name": "Feet on Funkotron",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1221
     },
     {
       "ID": "StruckLove",
@@ -16864,7 +16869,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3052
     },
     {
       "ID": "Teamwork",
@@ -16888,7 +16893,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4266
+      "UsersEstimate": 4273
     },
     {
       "ID": "TimelySplash",
@@ -16896,7 +16901,7 @@
       "Name": "A Timely Splash",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1831
     },
     {
       "ID": "TotalBummer",
@@ -16920,7 +16925,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "WhyDoIKeepDoingThat",
@@ -16943,7 +16948,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 60949,
+      "Progressed": 61045,
       "Completed": 6
     }
   ],
@@ -16951,8 +16956,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:41.6813983+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:57.4863406+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:23.9122596+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:43.9017356+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:41.6815177+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:57.4864329+00:00"
 }

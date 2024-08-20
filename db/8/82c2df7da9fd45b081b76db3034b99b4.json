@@ -2,10 +2,10 @@
   "ID": "82c2df7da9fd45b081b76db3034b99b4",
   "Name": "Cyberpunk City",
   "ProductSlug": "cyberpunk-city-64b4ab",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-10-24T00:00:00+00:00",
     "PcReleaseDate": "2024-10-24T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-18T21:57:00.9763865+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:07.0695857+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:07.9260979+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:57.2935822+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:45.473535+00:00"
 }

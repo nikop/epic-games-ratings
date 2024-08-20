@@ -2,10 +2,10 @@
   "ID": "35ca779d351a4132b7bd12ff2bad615a",
   "Name": "House",
   "ProductSlug": "house-e43f8c",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2020-10-29T17:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T02:57:00.9343987+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:55.2942668+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:13.5562045+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:54.7798599+00:00"
 }

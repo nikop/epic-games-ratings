@@ -5,10 +5,10 @@
   "Ranking_Rating": 92,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 416,
-  "Ranking_EOS_Completed": 426,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Completed": 431,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 877,
+  "EOS_Progressed": 887,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2110,6 +2110,11 @@
       "Time": "2024-08-09T18:04:49.9675318+00:00",
       "NumProgressed": 877,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:07:47.1618559+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2121,7 +2126,7 @@
       "Name": "Arrive Home",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ArtCollector",
@@ -2137,7 +2142,7 @@
       "Name": "Artifact Collector",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "Assassin",
@@ -2153,7 +2158,7 @@
       "Name": "Boss Killer",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "BugHunter",
@@ -2161,7 +2166,7 @@
       "Name": "Bug Hunter",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "Cryomancer",
@@ -2185,7 +2190,7 @@
       "Name": "Ghost Buster",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Gladiator",
@@ -2193,7 +2198,7 @@
       "Name": "Gladiator",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "GoblinTales",
@@ -2201,7 +2206,7 @@
       "Name": "Goblin Tales",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 231
     },
     {
       "ID": "Hardboiled",
@@ -2217,7 +2222,7 @@
       "Name": "Holy Knight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Horder",
@@ -2233,7 +2238,7 @@
       "Name": "Iconoclasm",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Inquisitor",
@@ -2241,7 +2246,7 @@
       "Name": "Inquisitor",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 293
     },
     {
       "ID": "Librarian",
@@ -2249,7 +2254,7 @@
       "Name": "Librarian",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Lumberjack",
@@ -2257,7 +2262,7 @@
       "Name": "Lumberjack",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "Marksman",
@@ -2281,7 +2286,7 @@
       "Name": "Money Swag",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Necromancer",
@@ -2297,7 +2302,7 @@
       "Name": "Oops",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "OrcMustDie",
@@ -2305,7 +2310,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "Pyromancer",
@@ -2313,7 +2318,7 @@
       "Name": "Pyromancer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Reincarnation",
@@ -2321,7 +2326,7 @@
       "Name": "Reincarnation",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Roughneck",
@@ -2345,7 +2350,7 @@
       "Name": "Shield Crusher",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "SlingOfDavid",
@@ -2361,7 +2366,7 @@
       "Name": "Spell Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SwordMaster",
@@ -2377,7 +2382,7 @@
       "Name": "The End",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "TheFallen",
@@ -2385,7 +2390,7 @@
       "Name": "The Fallen",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "TheTrio",
@@ -2401,7 +2406,7 @@
       "Name": "Trap Master",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 151
     },
     {
       "ID": "TreasureHunter",
@@ -2417,7 +2422,7 @@
       "Name": "Troubleshooter",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WeaponMaster",
@@ -2440,7 +2445,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 877,
+      "Progressed": 887,
       "Completed": 1
     }
   ],
@@ -2448,8 +2453,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-06-16T08:58:08.5936553+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:49.9675316+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:47.1618553+00:00",
   "LastUpdate_AppInfo": "2024-08-19T11:57:22.8869768+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:57.9170494+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:49.967574+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:47.1618907+00:00"
 }

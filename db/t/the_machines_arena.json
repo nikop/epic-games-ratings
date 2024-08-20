@@ -4,11 +4,11 @@
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 92,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_PopularitySum": 548,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-23T12:00:00+00:00",
     "PcReleaseDate": "2024-04-23T12:00:00+00:00",
@@ -531,6 +531,6 @@
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
   "LastChanged": "2024-08-20T13:12:41.4352688+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:25.1825375+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:57.1027256+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:35.0501714+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:50.9487426+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:21.063413+00:00"
 }

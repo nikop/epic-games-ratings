@@ -1,7 +1,7 @@
 # Black Widow: Recharged
 [Store](https://store.epicgames.com/en-US/p/black-widow-recharged)  
 [View Rawdata](../../db/b/black_widow__recharged.json)  
-Rating: 4.21 (Ranked 1,085)  
+Rating: 4.21 (Ranked 1,086)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,8 +21,8 @@ Number of Ratings: 34  (23.09.2022)
 | After All | 0.70% | ~209 |
 | Time of Our Life | 0.30% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,885 (Ranked 189)  
-Completed: 74 (0.25%) (Ranked 375)  
+Progressed: 29,885 (Ranked 191)  
+Completed: 74 (0.25%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

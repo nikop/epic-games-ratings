@@ -2,10 +2,10 @@
   "ID": "4bc5b2dfad714b379462cbbc06ea94ca",
   "Name": "The Six Dragons",
   "ProductSlug": "the-six-dragons-6804c2",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-30T17:00:00+00:00",
     "PcReleaseDate": "2024-04-30T17:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-04-30T18:59:13.1042604+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:14.5105097+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:31.202591+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:58.6997555+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:00.3482721+00:00"
 }

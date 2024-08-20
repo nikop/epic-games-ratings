@@ -2,10 +2,10 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 450,
-  "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 572,
+  "EOS_Progressed": 578,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.7,
+  "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -1004,6 +1004,11 @@
       "Time": "2024-08-09T18:07:18.4001651+00:00",
       "NumProgressed": 572,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-20T20:12:18.2741823+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -1031,15 +1036,15 @@
       "Name": "Mushroom Forager",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_FORAGER_BERRY",
       "SetID": "ao59f0i",
       "Name": "Berry Nice",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_GOOD_STEW",
@@ -1047,7 +1052,7 @@
       "Name": "Good Stew",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GREEN_THUMB",
@@ -1055,7 +1060,7 @@
       "Name": "Green Thumb",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GROUSE_HEALED",
@@ -1063,7 +1068,7 @@
       "Name": "Avian Veterinarian",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_GROUSE_KILLED",
@@ -1071,7 +1076,7 @@
       "Name": "Bird Butcherer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_HEALER_MET",
@@ -1079,7 +1084,7 @@
       "Name": "Found the Healer",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -1111,7 +1116,7 @@
       "Name": "Death is Merely a Setback",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_RINGFIRE",
@@ -1133,9 +1138,9 @@
       "ID": "ACH_SHARD_1",
       "SetID": "ao59f0i",
       "Name": "First Shard",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_SHARD_2",
@@ -1191,14 +1196,14 @@
       "Name": "Finished Iron Danger",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 572,
+      "Progressed": 578,
       "Completed": 4
     }
   ],
@@ -1206,8 +1211,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:18.4001649+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:18.2741818+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:48.1789853+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:54.7713348+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:18.4001859+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:18.274201+00:00"
 }

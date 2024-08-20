@@ -2,10 +2,10 @@
   "ID": "14acd6d0e20049f4bcd489aeb6dd6f85",
   "Name": "Chocolate Factory",
   "ProductSlug": "chocolate-factory-d4923e",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2028-12-31T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T20:57:16.9024506+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:39.2869119+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:03.6380365+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:37.7517506+00:00"
 }

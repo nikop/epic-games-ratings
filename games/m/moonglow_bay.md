@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Monster of Moonglow | 3.00% | ~12 |
-| Eternal Tempest | 2.00% | ~8 |
+| The Monster of Moonglow | 3.00% | ~13 |
+| Eternal Tempest | 3.00% | ~13 |
+| An Ancient Feud | 2.00% | ~8 |
 | The Art of Conversation | 2.00% | ~8 |
+| Folklore | 2.00% | ~8 |
 | Flying Tackle | 2.00% | ~8 |
-| An Ancient Feud | 1.00% | ~4 |
-| Folklore | 1.00% | ~4 |
+| They Can Change | 1.00% | ~4 |
+| Aquatic Expansion | 1.00% | ~4 |
 | Ocean Wings | 1.00% | ~4 |
 | Wise and Floofy | 1.00% | ~4 |
+| Four-Legged Friends | 1.00% | ~4 |
 | Selfish Shellfish | 1.00% | ~4 |
-| They Can Change | 0.70% | ~3 |
+| Then Peel Me A Grape | 1.00% | ~4 |
 | The Heart of Moonglow | 0.70% | ~3 |
-| Aquatic Expansion | 0.70% | ~3 |
-| Four-Legged Friends | 0.70% | ~3 |
-| Then Peel Me A Grape | 0.70% | ~3 |
+| Crimebusters of the Sea | 0.70% | ~3 |
+| Ode to a Blacksmith | 0.70% | ~3 |
 | Worth Your While | 0.70% | ~3 |
+| Restored to Prosperity | 0.50% | ~2 |
 | From Beyond | 0.50% | ~2 |
-| Crimebusters of the Sea | 0.50% | ~2 |
-| Ode to a Blacksmith | 0.50% | ~2 |
-| Restored to Prosperity | 0.20% | ~1 |
 | The Burden | 0.20% | ~1 |
 | Collection of Confection | 0.20% | ~1 |
 | You Can Pet The Dog | 0.20% | ~1 |
@@ -42,8 +42,8 @@
 | Get-it-off-get-it-off! | 0.00% | ~0 |
 | A Tonne of Fun | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415 (Ranked 495)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 417 (Ranked 500)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 411 | 0 |
 | 2024-07-30 | 414 | 0 |
 | 2024-08-09 | 415 | 0 |
+| 2024-08-20 | 417 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

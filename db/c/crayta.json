@@ -2,13 +2,13 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 1104,
+  "Ranking_Rating": 1105,
   "Ranking_Popularity": 543,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 125,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 110320,
+  "EOS_Progressed": 110332,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4157,6 +4157,11 @@
       "Time": "2024-08-09T18:05:38.7553717+00:00",
       "NumProgressed": 110320,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-08-20T20:09:24.2920155+00:00",
+      "NumProgressed": 110332,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -4208,7 +4213,7 @@
       "Name": "Getting Friendly",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5517
     },
     {
       "ID": "15",
@@ -4248,7 +4253,7 @@
       "Name": "Building Block - Silver",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "2",
@@ -4296,7 +4301,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14342
+      "UsersEstimate": 14343
     },
     {
       "ID": "25",
@@ -4360,7 +4365,7 @@
       "Name": "Well Socialised!",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 25374
+      "UsersEstimate": 25376
     },
     {
       "ID": "34",
@@ -4368,7 +4373,7 @@
       "Name": "Challenge Apprentice",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5516
+      "UsersEstimate": 5517
     },
     {
       "ID": "35",
@@ -4392,7 +4397,7 @@
       "Name": "Challenge Veteran",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "4",
@@ -4400,7 +4405,7 @@
       "Name": "Express Yourself - Silver",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2206
+      "UsersEstimate": 2207
     },
     {
       "ID": "5",
@@ -4416,7 +4421,7 @@
       "Name": "Express Yourself - Bronze",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7722
+      "UsersEstimate": 7723
     },
     {
       "ID": "7",
@@ -4439,15 +4444,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 110320,
+      "Progressed": 110332,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:38.7553712+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:24.2920146+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:40.2465183+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:31.5091145+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:38.7554145+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:26.7322753+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:24.2920458+00:00"
 }

@@ -5,38 +5,38 @@ Rating: 4.57 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 75.00% | ~1,822 |
-| The Teleprobe | 63.00% | ~1,531 |
-| The City | 59.00% | ~1,434 |
-| The field base | 55.00% | ~1,336 |
-| The Alliance | 53.00% | ~1,288 |
-| Survivors | 49.00% | ~1,191 |
-| The Condor | 47.00% | ~1,142 |
-| The End | 47.00% | ~1,142 |
-| The Necroevolution | 37.00% | ~899 |
-| Krauta is alive | 33.00% | ~802 |
-| Peacemaker | 28.00% | ~680 |
-| On her own | 26.00% | ~632 |
-| Fierce fight | 26.00% | ~632 |
-| Volcanologist | 26.00% | ~632 |
-| Evacuation | 25.00% | ~608 |
-| Beyond divisions | 24.00% | ~583 |
-| Flying Objects Operator | 21.00% | ~510 |
-| Another giant | 17.00% | ~413 |
-| I remember everything! | 16.00% | ~389 |
-| I leave no man behind | 12.00% | ~292 |
-| Violent solution | 11.00% | ~267 |
-| Ubiquitous holes | 8.00% | ~194 |
-| Innate curiosity | 8.00% | ~194 |
-| Strong objection | 8.00% | ~194 |
-| The Invincible | 7.00% | ~170 |
-| Got lost again | 7.00% | ~170 |
+| The Camp | 76.00% | ~1,855 |
+| The Teleprobe | 64.00% | ~1,562 |
+| The City | 59.00% | ~1,440 |
+| The field base | 55.00% | ~1,343 |
+| The Alliance | 54.00% | ~1,318 |
+| Survivors | 50.00% | ~1,220 |
+| The Condor | 48.00% | ~1,172 |
+| The End | 47.00% | ~1,147 |
+| The Necroevolution | 37.00% | ~903 |
+| Krauta is alive | 34.00% | ~830 |
+| Peacemaker | 29.00% | ~708 |
+| On her own | 27.00% | ~659 |
+| Fierce fight | 27.00% | ~659 |
+| Volcanologist | 26.00% | ~635 |
+| Evacuation | 25.00% | ~610 |
+| Beyond divisions | 24.00% | ~586 |
+| Flying Objects Operator | 22.00% | ~537 |
+| Another giant | 17.00% | ~415 |
+| I remember everything! | 16.00% | ~391 |
+| I leave no man behind | 12.00% | ~293 |
+| Violent solution | 11.00% | ~269 |
+| Innate curiosity | 9.00% | ~220 |
+| Ubiquitous holes | 8.00% | ~195 |
+| The Invincible | 8.00% | ~195 |
+| Strong objection | 8.00% | ~195 |
+| Got lost again | 7.00% | ~171 |
 | I leave no man behind (no exceptions) | 2.00% | ~49 |
 | Convoy list | 1.00% | ~24 |
 | No more mistakes | 1.00% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,430 (Ranked 333)  
-Completed: 4 (0.16%) (Ranked 404)  
+Progressed: 2,441 (Ranked 336)  
+Completed: 4 (0.16%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,6 +124,7 @@ Completed: 4 (0.16%) (Ranked 404)
 | 2024-04-10 | 2,153 | 3 |
 | 2024-06-17 | 2,322 | 3 |
 | 2024-08-09 | 2,430 | 4 |
+| 2024-08-20 | 2,441 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

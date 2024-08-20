@@ -2,10 +2,10 @@
   "ID": "7f983c72f7824a41b5ef591ccc365abd",
   "Name": "Teenage Mutant Ninja Turtles: Splintered Fate",
   "ProductSlug": "teenage-mutant-ninja-turtles-splintered-fate-0722ac",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T14:57:02.6880766+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:40.4590669+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:39.9548947+00:00"
 }

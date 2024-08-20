@@ -29,8 +29,8 @@
 | Skulltastic | 1.00% | ~1 |
 | Elite Vamp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 697)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 86 (Ranked 699)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

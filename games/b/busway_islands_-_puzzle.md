@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Island | 94.00% | ~75 |
-| Island 2 | 85.00% | ~68 |
-| Island 3 | 83.00% | ~66 |
-| Island 4 | 73.00% | ~58 |
-| Island 5 | 64.00% | ~51 |
-| Island 6 | 51.00% | ~41 |
-| Island 7 | 49.00% | ~39 |
-| Island 8 | 48.00% | ~38 |
+| First Island | 94.00% | ~76 |
+| Island 2 | 85.00% | ~69 |
+| Island 3 | 83.00% | ~67 |
+| Island 4 | 74.00% | ~60 |
+| Island 5 | 65.00% | ~53 |
+| Island 6 | 52.00% | ~42 |
+| Island 7 | 48.00% | ~39 |
+| Island 8 | 47.00% | ~38 |
 | Island 9 | 46.00% | ~37 |
-| Island 10 | 45.00% | ~36 |
-| Island 11 | 43.00% | ~34 |
-| Island 12 | 43.00% | ~34 |
-| Island 13 | 36.00% | ~29 |
-| Island 14 | 36.00% | ~29 |
+| Island 10 | 44.00% | ~36 |
+| Island 11 | 42.00% | ~34 |
+| Island 12 | 42.00% | ~34 |
+| Island 13 | 37.00% | ~30 |
+| Island 14 | 37.00% | ~30 |
 | Island 15 | 35.00% | ~28 |
 | Island 16 | 35.00% | ~28 |
-| Island 17 | 33.00% | ~26 |
+| Island 17 | 32.00% | ~26 |
 | Island 18 | 30.00% | ~24 |
-| Island 19 | 29.00% | ~23 |
-| Island 20 | 29.00% | ~23 |
-| Island 21 | 28.00% | ~22 |
-| Island 22 | 28.00% | ~22 |
+| Island 19 | 28.00% | ~23 |
+| Island 20 | 28.00% | ~23 |
+| Island 21 | 27.00% | ~22 |
+| Island 22 | 27.00% | ~22 |
 | Island 23 | 26.00% | ~21 |
-| Island 24 | 23.00% | ~18 |
-| Island 25 | 23.00% | ~18 |
-| Island 26 | 23.00% | ~18 |
-| Island 27 | 23.00% | ~18 |
+| Island 24 | 22.00% | ~18 |
+| Island 25 | 22.00% | ~18 |
+| Island 26 | 22.00% | ~18 |
+| Island 27 | 22.00% | ~18 |
 | Island 28 | 21.00% | ~17 |
 | Island 29 | 20.00% | ~16 |
 | Island 30 | 19.00% | ~15 |
 | Island 31 | 19.00% | ~15 |
-| Island 32 | 18.00% | ~14 |
-| Island 33 | 18.00% | ~14 |
-| Island 34 | 18.00% | ~14 |
-| Island 35 | 18.00% | ~14 |
+| Island 32 | 17.00% | ~14 |
+| Island 33 | 17.00% | ~14 |
+| Island 34 | 17.00% | ~14 |
+| Island 35 | 17.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 708)  
-Completed: 14 (17.50%) (Ranked 43)  
+Progressed: 81 (Ranked 712)  
+Completed: 14 (17.28%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 14 (17.50%) (Ranked 43)
 | 2024-04-10 | 50 | 10 |
 | 2024-06-17 | 71 | 13 |
 | 2024-08-09 | 80 | 14 |
+| 2024-08-20 | 81 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

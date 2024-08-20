@@ -2,10 +2,10 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 724,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 234,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 75,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.37,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-08-23T22:02:05.0482653+00:00",
@@ -329,6 +329,11 @@
       "Time": "2024-08-09T18:04:34.3116718+00:00",
       "NumProgressed": 73,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:07:19.5347058+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-23T22:02:05.0482707+00:00",
@@ -379,7 +384,7 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 19
     },
@@ -451,17 +456,17 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "PvP_Mission",
       "SetID": "cla1dpp",
       "Name": "Many men, many corpses.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Surv_10",
@@ -491,7 +496,7 @@
       "ID": "Up_Barraks",
       "SetID": "cla1dpp",
       "Name": "Where did so many skeletons come from in this grave?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -516,14 +521,14 @@
     {
       "ID": "cla1dpp",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 75,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:34.3116714+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:19.5347051+00:00",
   "LastUpdate_AppInfo": "2024-08-15T20:57:17.1410963+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:28.6001463+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:34.311683+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:19.53472+00:00"
 }

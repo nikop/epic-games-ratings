@@ -2,10 +2,10 @@
   "ID": "8fbc379433724c8382bfc79d1d8dcb77",
   "Name": "Vlad Circus - Descend Into Madness",
   "ProductSlug": "vlad-circus-descend-into-madness-9d1ed2",
-  "Ranking_EOS_Progress": 852,
-  "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 857,
+  "Ranking_EOS_Completed": 84,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-16T13:00:00+00:00",
     "PcReleaseDate": "2023-10-16T13:00:00+00:00",
@@ -87,9 +87,9 @@
       "ID": "10",
       "SetID": "5j3a7ge",
       "Name": "Holy water",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "11",
@@ -111,9 +111,9 @@
       "ID": "2",
       "SetID": "5j3a7ge",
       "Name": "Gluttony",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "3",
@@ -182,8 +182,8 @@
   ],
   "FirstSeen": "2024-02-18T21:57:19.0067839+00:00",
   "FirstSeenAchievements": "2023-09-26T15:04:26.955299+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:27.0062549+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:50.8046982+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:08.4162436+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:18.9596644+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:27.0062611+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:05.5201152+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:50.8047078+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "284a71e3e36b41a18b474e5469060944",
   "Name": "Demise of Nations",
   "ProductSlug": "my-product-e81d20",
-  "Ranking_EOS_Progress": 511,
-  "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Completed": 376,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-02T01:00:00+00:00",
     "PcReleaseDate": "2017-08-08T23:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -64,6 +64,11 @@
     {
       "Time": "2024-08-09T18:06:01.4638149+00:00",
       "NumProgressed": 353,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:10:07.4609114+00:00",
+      "NumProgressed": 355,
       "NumCompleted": 1
     }
   ],
@@ -133,7 +138,7 @@
       "Name": "10 Kills",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "com_demiseofnations_app_user_rom_award_local_kill_100",
@@ -244,14 +249,14 @@
     {
       "ID": "4ad1fci",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 355,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-02T10:57:27.6041536+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.2301509+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:01.4638146+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:07.4609106+00:00",
   "LastUpdate_AppInfo": "2024-08-14T09:57:07.8417002+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:55.5845808+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:01.4638244+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:09.6745353+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:07.4609243+00:00"
 }

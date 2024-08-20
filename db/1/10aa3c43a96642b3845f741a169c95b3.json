@@ -5,10 +5,10 @@
   "Ranking_Rating": 150,
   "Ranking_Popularity": 691,
   "Ranking_PopularitySum": 692,
-  "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 3,
-  "Ranking_EOS_NewCompleters": 3,
+  "Ranking_EOS_Progress": 146,
+  "Ranking_EOS_Completed": 355,
+  "Ranking_EOS_NewPlayers": 18,
+  "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2024-07-25T07:00:00+00:00",
     "PcReleaseDate": "2024-07-25T07:00:00+00:00",
@@ -92,11 +92,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 79623,
-  "EOS_Completed": 165,
-  "EOS_NewPlayers": 14098,
-  "EOS_NewCompleters": 142,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Progressed": 86313,
+  "EOS_Completed": 303,
+  "EOS_NewPlayers": 6690,
+  "EOS_NewCompleters": 138,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:13.3675207+00:00",
@@ -107,6 +107,11 @@
       "Time": "2024-08-09T18:07:46.4639852+00:00",
       "NumProgressed": 79623,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2024-08-20T20:13:06.0202377+00:00",
+      "NumProgressed": 86313,
+      "NumCompleted": 303
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:13.3675269+00:00",
@@ -117,329 +122,329 @@
       "ID": "Conquest10",
       "SetID": "cm1g7je",
       "Name": "Conquest10",
-      "Percentage": 32,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 25479
+      "UsersEstimate": 37115
     },
     {
       "ID": "Conquest100",
       "SetID": "cm1g7je",
       "Name": "Conquest100",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest15",
       "SetID": "cm1g7je",
       "Name": "Conquest15",
-      "Percentage": 16,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 12740
+      "UsersEstimate": 21578
     },
     {
       "ID": "Conquest20",
       "SetID": "cm1g7je",
       "Name": "Conquest20",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 4777
+      "UsersEstimate": 9494
     },
     {
       "ID": "Conquest25",
       "SetID": "cm1g7je",
       "Name": "Conquest25",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3185
+      "UsersEstimate": 6042
     },
     {
       "ID": "Conquest30",
       "SetID": "cm1g7je",
       "Name": "Conquest30",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2389
+      "UsersEstimate": 4316
     },
     {
       "ID": "Conquest35",
       "SetID": "cm1g7je",
       "Name": "Conquest35",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1592
+      "UsersEstimate": 3453
     },
     {
       "ID": "Conquest40",
       "SetID": "cm1g7je",
       "Name": "Conquest40",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1592
+      "UsersEstimate": 2589
     },
     {
       "ID": "Conquest45",
       "SetID": "cm1g7je",
       "Name": "Conquest45",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 2589
     },
     {
       "ID": "Conquest5",
       "SetID": "cm1g7je",
       "Name": "Conquest5",
-      "Percentage": 55,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 43793
+      "UsersEstimate": 54377
     },
     {
       "ID": "Conquest50",
       "SetID": "cm1g7je",
       "Name": "Conquest50",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 796
+      "UsersEstimate": 2589
     },
     {
       "ID": "Conquest55",
       "SetID": "cm1g7je",
       "Name": "Conquest55",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 1726
     },
     {
       "ID": "Conquest60",
       "SetID": "cm1g7je",
       "Name": "Conquest60",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 796
+      "UsersEstimate": 1726
     },
     {
       "ID": "Conquest62",
       "SetID": "cm1g7je",
       "Name": "Conquest62",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 1726
     },
     {
       "ID": "Conquest64",
       "SetID": "cm1g7je",
       "Name": "Conquest64",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 1726
     },
     {
       "ID": "Conquest66",
       "SetID": "cm1g7je",
       "Name": "Conquest66",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 1726
     },
     {
       "ID": "Conquest68",
       "SetID": "cm1g7je",
       "Name": "Conquest68",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 1726
     },
     {
       "ID": "Conquest70",
       "SetID": "cm1g7je",
       "Name": "Conquest70",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest72",
       "SetID": "cm1g7je",
       "Name": "Conquest72",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest74",
       "SetID": "cm1g7je",
       "Name": "Conquest74",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest76",
       "SetID": "cm1g7je",
       "Name": "Conquest76",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest78",
       "SetID": "cm1g7je",
       "Name": "Conquest78",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest80",
       "SetID": "cm1g7je",
       "Name": "Conquest80",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest82",
       "SetID": "cm1g7je",
       "Name": "Conquest82",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest84",
       "SetID": "cm1g7je",
       "Name": "Conquest84",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest86",
       "SetID": "cm1g7je",
       "Name": "Conquest86",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest88",
       "SetID": "cm1g7je",
       "Name": "Conquest88",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest90",
       "SetID": "cm1g7je",
       "Name": "Conquest90",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest92",
       "SetID": "cm1g7je",
       "Name": "Conquest92",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest94",
       "SetID": "cm1g7je",
       "Name": "Conquest94",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest96",
       "SetID": "cm1g7je",
       "Name": "Conquest96",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "Conquest98",
       "SetID": "cm1g7je",
       "Name": "Conquest98",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 863
     },
     {
       "ID": "MasterAirRaider",
       "SetID": "cm1g7je",
       "Name": "Master Air Raider",
-      "Percentage": 19,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 15128
+      "UsersEstimate": 25031
     },
     {
       "ID": "MasterFencer",
       "SetID": "cm1g7je",
       "Name": "Master Fencer",
-      "Percentage": 15,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11943
+      "UsersEstimate": 20715
     },
     {
       "ID": "MasterRanger",
       "SetID": "cm1g7je",
       "Name": "Master Ranger",
-      "Percentage": 21,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 16721
+      "UsersEstimate": 26757
     },
     {
       "ID": "MasterWingDiver",
       "SetID": "cm1g7je",
       "Name": "Master Diver",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 19906
+      "UsersEstimate": 31073
     },
     {
       "ID": "Medic",
       "SetID": "cm1g7je",
       "Name": "Medic",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 34238
+      "UsersEstimate": 40567
     },
     {
       "ID": "Rescue",
       "SetID": "cm1g7je",
       "Name": "Rescue",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 59717
+      "UsersEstimate": 66461
     },
     {
       "ID": "SuperRescue",
       "SetID": "cm1g7je",
       "Name": "Super Rescue",
-      "Percentage": 32,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 25479
+      "UsersEstimate": 34525
     }
   ],
   "AchievementSets": [
     {
       "ID": "cm1g7je",
       "IsBase": true,
-      "Progressed": 79623,
-      "Completed": 165
+      "Progressed": 86313,
+      "Completed": 303
     }
   ],
   "FirstSeen": "2024-07-25T13:07:03.6627965+00:00",
   "FirstSeenRating": "2024-08-03T23:59:46.9471215+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:13.3675269+00:00",
   "LastChanged": "2024-08-20T07:57:55.3150916+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:46.4639846+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:06.0202371+00:00",
   "LastUpdate_AppInfo": "2024-08-19T19:57:15.2606569+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:04.488197+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:46.4640111+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:36.1895216+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:06.020259+00:00"
 }

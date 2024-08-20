@@ -2,10 +2,10 @@
   "ID": "9161d1b30f4e4a0cbec5ee398d6e5cd6",
   "Name": "Quantum Recharged",
   "ProductSlug": "quantum-recharged-6553fd",
-  "Ranking_EOS_Progress": 919,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 921,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2024-08-09T18:04:33.8689446+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:18.504283+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-08T19:03:18.1238317+00:00",
@@ -72,7 +77,7 @@
       "ID": "ACH_Acquire_All_Pickups",
       "SetID": "a2lh3dj",
       "Name": "Terrapin Station",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -80,7 +85,7 @@
       "ID": "ACH_Acquire_Pickups",
       "SetID": "a2lh3dj",
       "Name": "Built to Last",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -120,7 +125,7 @@
       "ID": "ACH_Kill_Electrons",
       "SetID": "a2lh3dj",
       "Name": "Supplication",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -128,7 +133,7 @@
       "ID": "ACH_Kill_Enemies_With_Single_Deadzone",
       "SetID": "a2lh3dj",
       "Name": "The Eleven",
-      "Percentage": 46,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -136,7 +141,7 @@
       "ID": "ACH_Kill_Enemies_With_Single_Deadzone_2",
       "SetID": "a2lh3dj",
       "Name": "Operator",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -144,7 +149,7 @@
       "ID": "ACH_Maintain_Max_Combo",
       "SetID": "a2lh3dj",
       "Name": "Unbroken Chain",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -152,7 +157,7 @@
       "ID": "ACH_Reach_Maximum_Combo",
       "SetID": "a2lh3dj",
       "Name": "High Time",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 100,
       "UsersEstimate": 4
     },
@@ -160,7 +165,7 @@
       "ID": "ACH_Revive_Partner",
       "SetID": "a2lh3dj",
       "Name": "That\u0027s it for the Other One",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -177,13 +182,13 @@
     {
       "ID": "a2lh3dj",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-27T17:02:16.8413806+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:33.8689443+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:18.5042826+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:02.9908704+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:09.3864738+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:33.868957+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:58.9330657+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:18.5042911+00:00"
 }

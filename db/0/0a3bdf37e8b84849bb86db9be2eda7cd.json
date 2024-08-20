@@ -2,10 +2,10 @@
   "ID": "0a3bdf37e8b84849bb86db9be2eda7cd",
   "Name": "Survivors Will",
   "ProductSlug": "survivors-will-3c0a30",
-  "Ranking_EOS_Progress": 796,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 776,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-30T04:00:00+00:00",
     "PcReleaseDate": "2023-06-08T16:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-08-09T18:07:45.3457837+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:03.8982229+00:00",
+      "NumProgressed": 49,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:12.147796+00:00",
@@ -50,25 +55,25 @@
       "ID": "ACH_HERO_01",
       "SetID": "9joo464",
       "Name": "Thunder Warrior",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_HERO_02",
       "SetID": "9joo464",
       "Name": "Gul\u0027dan Zidian",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_HERO_03",
       "SetID": "9joo464",
       "Name": "Peacock - Rogue Saint",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_HERO_04",
@@ -76,119 +81,119 @@
       "Name": "nameless",
       "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_HERO_05",
       "SetID": "9joo464",
       "Name": "Agat Crazy",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_HERO_06",
       "SetID": "9joo464",
       "Name": "Clergy \u00B7 Apocalypse",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SUR_01",
       "SetID": "9joo464",
       "Name": "Survivor lv1",
-      "Percentage": 85,
+      "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_SUR_02",
       "SetID": "9joo464",
       "Name": "Survival lv2",
-      "Percentage": 75,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_SUR_03",
       "SetID": "9joo464",
       "Name": "Survival lv3",
-      "Percentage": 43,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_SUR_04",
       "SetID": "9joo464",
       "Name": "Survival lv4",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_SUR_05",
       "SetID": "9joo464",
       "Name": "Survival lv5",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_SUR_06",
       "SetID": "9joo464",
       "Name": "Survivor lv6",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_SUR_07",
       "SetID": "9joo464",
       "Name": "Survival lv7",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUR_08",
       "SetID": "9joo464",
       "Name": "Survival lv8",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUR_09",
       "SetID": "9joo464",
       "Name": "Survivor lv9",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUR_10",
       "SetID": "9joo464",
       "Name": "Survival lv10",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUR_11",
       "SetID": "9joo464",
       "Name": "Survivor lv11",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUR_12",
       "SetID": "9joo464",
       "Name": "Survivor lv12",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SUR_13",
@@ -196,7 +201,7 @@
       "Name": "Survival lv13",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_14",
@@ -212,141 +217,141 @@
       "Name": "Survival lv15",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_16",
       "SetID": "9joo464",
       "Name": "Survivor lv16",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_17",
       "SetID": "9joo464",
       "Name": "Survivor lv17",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_18",
       "SetID": "9joo464",
       "Name": "Survivor lv18",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_19",
       "SetID": "9joo464",
       "Name": "Survivor lv19",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_20",
       "SetID": "9joo464",
       "Name": "Survival lv20",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_21",
       "SetID": "9joo464",
       "Name": "Survivor lv21",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_22",
       "SetID": "9joo464",
       "Name": "Survivor lv22",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_23",
       "SetID": "9joo464",
       "Name": "Survivor lv23",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_24",
       "SetID": "9joo464",
       "Name": "Survivor lv24",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_25",
       "SetID": "9joo464",
       "Name": "Survival lv25",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_26",
       "SetID": "9joo464",
       "Name": "Survivor lv26",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_27",
       "SetID": "9joo464",
       "Name": "Survivor lv27",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_28",
       "SetID": "9joo464",
       "Name": "Survivor lv28",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SUR_29",
       "SetID": "9joo464",
       "Name": "Survivor lv29",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SUR_30",
       "SetID": "9joo464",
       "Name": "Survival lv30",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
     {
       "ID": "9joo464",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-01T21:57:19.1048642+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:12.147796+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:45.345783+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:03.8982224+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:48.2682796+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:56.4318531+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:45.3458078+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:48.4813017+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:03.8982476+00:00"
 }

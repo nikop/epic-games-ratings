@@ -5,10 +5,10 @@
   "Ranking_Rating": 1217,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 509,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 284,
+  "Ranking_EOS_Completed": 514,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-31T00:00:00+00:00",
     "PcReleaseDate": "2016-04-05T23:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4811,
+  "EOS_Progressed": 4903,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -102,6 +102,11 @@
       "Time": "2024-08-09T18:05:24.7817694+00:00",
       "NumProgressed": 4811,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:08:55.3768095+00:00",
+      "NumProgressed": 4903,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-03-04T23:05:03.9201043+00:00",
@@ -114,7 +119,7 @@
       "Name": "AI\u0027s Least Popular",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_ai_lover",
@@ -130,7 +135,7 @@
       "Name": "Challenger",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 674
+      "UsersEstimate": 686
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_ballot_vote",
@@ -138,7 +143,7 @@
       "Name": "Responder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 490
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_explorer",
@@ -146,7 +151,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 289
+      "UsersEstimate": 294
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_fertility",
@@ -154,7 +159,7 @@
       "Name": "Procreation",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1667
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_kill_10",
@@ -162,7 +167,7 @@
       "Name": "10 Kills",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1684
+      "UsersEstimate": 1716
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_kill_100",
@@ -170,7 +175,7 @@
       "Name": "100 Kills",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 625
+      "UsersEstimate": 637
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_kill_1000",
@@ -178,7 +183,7 @@
       "Name": "1000 Kills",
       "Percentage": 1,
       "XP": 130,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_sparta",
@@ -186,7 +191,7 @@
       "Name": "This is SPART",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_territory",
@@ -194,7 +199,7 @@
       "Name": "Territorial Ruler",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 818
+      "UsersEstimate": 834
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_tough_guy",
@@ -202,7 +207,7 @@
       "Name": "Little Tough Guy",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 529
+      "UsersEstimate": 539
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_tutorial",
@@ -210,7 +215,7 @@
       "Name": "Tutorial Completed",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2157
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_victories_01",
@@ -218,7 +223,7 @@
       "Name": "First Game Won",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1128
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_victories_10",
@@ -226,7 +231,7 @@
       "Name": "10 Games Won",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_watch_tower",
@@ -234,7 +239,7 @@
       "Name": "Watch Tower",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2108
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_local_win_inhuman",
@@ -242,7 +247,7 @@
       "Name": "Inhuman Victory",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_multi_played",
@@ -250,7 +255,7 @@
       "Name": "Multiplayer Play",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 490
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_multi_victories_01",
@@ -258,7 +263,7 @@
       "Name": "Multiplayer Victory",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_total_played_01h",
@@ -266,7 +271,7 @@
       "Name": "Played for 1h",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1373
     },
     {
       "ID": "com_ageofconquest_app_user_aoc_award_total_played_24h",
@@ -274,14 +279,14 @@
       "Name": "Played for 24h",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dmadod",
       "IsBase": true,
-      "Progressed": 4811,
+      "Progressed": 4903,
       "Completed": 1
     }
   ],
@@ -289,8 +294,8 @@
   "FirstSeenRating": "2024-06-01T08:00:03.7438603+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:03.9201041+00:00",
   "LastChanged": "2024-08-11T19:59:21.3600077+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:24.7817692+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:55.376809+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:05.3647747+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:03.051307+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:24.7817804+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:55.3768218+00:00"
 }

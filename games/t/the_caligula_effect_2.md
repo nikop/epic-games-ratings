@@ -6,12 +6,12 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 95.00% | ~281 |
-| Daily Life Begins Anew | 79.00% | ~234 |
-| Our World Now | 78.00% | ~231 |
-| Never Saw It Coming | 64.00% | ~189 |
+| Welcome to Redo | 95.00% | ~282 |
+| Daily Life Begins Anew | 79.00% | ~235 |
+| Our World Now | 78.00% | ~232 |
+| Never Saw It Coming | 63.00% | ~187 |
 | Coup de Grace | 55.00% | ~163 |
-| Go-Home Club Activities START! | 47.00% | ~139 |
+| Go-Home Club Activities START! | 46.00% | ~137 |
 | Philanthropist | 36.00% | ~107 |
 | Test Your Luck | 32.00% | ~95 |
 | Behind the Curtain | 31.00% | ~92 |
@@ -32,8 +32,8 @@ Number of Ratings: 32  (23.09.2022)
 | Trigger Finger | 18.00% | ~53 |
 | Pulling Heartstrings | 17.00% | ~50 |
 | Extracurricular Affair | 17.00% | ~50 |
-| Hopes Rewarded | 16.00% | ~47 |
-| Guarding Guru | 16.00% | ~47 |
+| Hopes Rewarded | 16.00% | ~48 |
+| Guarding Guru | 16.00% | ~48 |
 | To Each Their Own | 11.00% | ~33 |
 | Eat Your Heart Out | 11.00% | ~33 |
 | Hustled and Bustled | 10.00% | ~30 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296 (Ranked 530)  
-Completed: 3 (1.01%) (Ranked 257)  
+Progressed: 297 (Ranked 534)  
+Completed: 3 (1.01%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,6 +93,7 @@ Completed: 3 (1.01%) (Ranked 257)
 | 2024-06-17 | 288 | 3 |
 | 2024-07-24 | 294 | 3 |
 | 2024-08-09 | 296 | 3 |
+| 2024-08-20 | 297 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

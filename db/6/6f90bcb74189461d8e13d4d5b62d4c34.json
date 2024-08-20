@@ -2,10 +2,10 @@
   "ID": "6f90bcb74189461d8e13d4d5b62d4c34",
   "Name": "UnabletoExit8",
   "ProductSlug": "unabletoexit8-1ae0e2",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-24T10:30:01.837+00:00",
     "PcReleaseDate": "2024-07-19T03:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-12T17:00:12.3764968+00:00",
   "LastUpdate_AppInfo": "2024-08-20T10:57:12.1097679+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:07.0857753+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:45.1441624+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:37.8547167+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:03.4173234+00:00"
 }

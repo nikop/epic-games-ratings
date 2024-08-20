@@ -5,58 +5,58 @@ Rating: 4.67 (Ranked 310)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 51.00% | ~4,261 |
-| First Love | 46.00% | ~3,843 |
-| Clean Race | 45.00% | ~3,760 |
-| Hear That Roar! | 43.00% | ~3,593 |
-| Bitter Rivalry | 33.00% | ~2,757 |
-| Champagne Spray | 33.00% | ~2,757 |
-| Rivals to the End | 32.00% | ~2,674 |
-| We're Going to Need a Bigger Garage | 28.00% | ~2,339 |
-| Quick Pit Stop | 25.00% | ~2,089 |
-| I Want One Too! | 22.00% | ~1,838 |
-| Legendary!!! | 22.00% | ~1,838 |
-| Restored and Ready | 20.00% | ~1,671 |
-| Go-Faster Stripes | 18.00% | ~1,504 |
-| We've Just Begun | 18.00% | ~1,504 |
-| I'm Here Too! | 12.00% | ~1,003 |
-| Is It the Right Size? | 10.00% | ~836 |
-| Stamina Star | 8.00% | ~668 |
-| Evangelist | 8.00% | ~668 |
-| The Road to Liberty | 6.00% | ~501 |
-| Make It Your Own! | 5.00% | ~418 |
-| Cherry Blossom and Temples | 5.00% | ~418 |
-| Romantic Races | 5.00% | ~418 |
-| My Work Here Is Done | 5.00% | ~418 |
-| La Dolce Vita | 4.00% | ~334 |
-| I Make the Rules! | 4.00% | ~334 |
-| Spoilt for Choice | 3.00% | ~251 |
-| Back in Blighty | 3.00% | ~251 |
-| Rounding Off | 3.00% | ~251 |
-| Overtaking the Master | 3.00% | ~251 |
-| Iconic! | 2.00% | ~167 |
-| I'll Be the Best! | 2.00% | ~167 |
-| Still Here | 2.00% | ~167 |
-| Next Level | 2.00% | ~167 |
-| I Don't Stop | 2.00% | ~167 |
-| Breathtaking Views | 0.60% | ~50 |
-| In Search of Perfection | 0.60% | ~50 |
-| Exhausted but Happy | 0.50% | ~42 |
-| Globe-trotter | 0.40% | ~33 |
-| All My Own Toys | 0.40% | ~33 |
-| Full Power | 0.30% | ~25 |
-| Maximum Endurance | 0.10% | ~8 |
-| Dream Chaser | 0.10% | ~8 |
-| Beyond the Limiter | 0.10% | ~8 |
-| Endless | 0.10% | ~8 |
-| At the Top | 0.10% | ~8 |
-| Know Your Enemy | 0.10% | ~8 |
-| Who's Next?! | 0.10% | ~8 |
-| There's a Great View up Here | 0.10% | ~8 |
-| Absolute Champion | 0.10% | ~8 |
+| Eat My Dust | 51.00% | ~4,352 |
+| First Love | 46.00% | ~3,925 |
+| Clean Race | 45.00% | ~3,840 |
+| Hear That Roar! | 43.00% | ~3,669 |
+| Bitter Rivalry | 33.00% | ~2,816 |
+| Champagne Spray | 33.00% | ~2,816 |
+| Rivals to the End | 32.00% | ~2,731 |
+| We're Going to Need a Bigger Garage | 29.00% | ~2,475 |
+| Quick Pit Stop | 25.00% | ~2,133 |
+| I Want One Too! | 22.00% | ~1,877 |
+| Legendary!!! | 22.00% | ~1,877 |
+| Restored and Ready | 20.00% | ~1,707 |
+| Go-Faster Stripes | 19.00% | ~1,621 |
+| We've Just Begun | 18.00% | ~1,536 |
+| I'm Here Too! | 12.00% | ~1,024 |
+| Is It the Right Size? | 11.00% | ~939 |
+| Stamina Star | 9.00% | ~768 |
+| Evangelist | 8.00% | ~683 |
+| Make It Your Own! | 6.00% | ~512 |
+| Cherry Blossom and Temples | 6.00% | ~512 |
+| The Road to Liberty | 6.00% | ~512 |
+| Romantic Races | 5.00% | ~427 |
+| My Work Here Is Done | 5.00% | ~427 |
+| La Dolce Vita | 4.00% | ~341 |
+| I Make the Rules! | 4.00% | ~341 |
+| Spoilt for Choice | 3.00% | ~256 |
+| Back in Blighty | 3.00% | ~256 |
+| Rounding Off | 3.00% | ~256 |
+| Overtaking the Master | 3.00% | ~256 |
+| Iconic! | 2.00% | ~171 |
+| I'll Be the Best! | 2.00% | ~171 |
+| Still Here | 2.00% | ~171 |
+| Next Level | 2.00% | ~171 |
+| I Don't Stop | 2.00% | ~171 |
+| Breathtaking Views | 0.60% | ~51 |
+| In Search of Perfection | 0.60% | ~51 |
+| Exhausted but Happy | 0.50% | ~43 |
+| Globe-trotter | 0.40% | ~34 |
+| All My Own Toys | 0.40% | ~34 |
+| Full Power | 0.30% | ~26 |
+| Beyond the Limiter | 0.20% | ~17 |
+| Maximum Endurance | 0.10% | ~9 |
+| Dream Chaser | 0.10% | ~9 |
+| Endless | 0.10% | ~9 |
+| At the Top | 0.10% | ~9 |
+| Know Your Enemy | 0.10% | ~9 |
+| Who's Next?! | 0.10% | ~9 |
+| There's a Great View up Here | 0.10% | ~9 |
+| Absolute Champion | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,355 (Ranked 253)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 8,533 (Ranked 254)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,6 +210,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 6,771 | 0 |
 | 2024-07-09 | 7,084 | 0 |
 | 2024-08-09 | 8,355 | 0 |
+| 2024-08-20 | 8,533 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

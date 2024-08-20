@@ -5,10 +5,10 @@
   "Ranking_Rating": 794,
   "Ranking_Popularity": 650,
   "Ranking_PopularitySum": 661,
-  "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-21T00:00:00+00:00",
     "PcReleaseDate": "2024-03-21T10:00:00+00:00",
@@ -488,9 +488,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 12726,
+  "EOS_Progressed": 12974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -513,6 +513,11 @@
       "Time": "2024-08-09T18:05:01.820265+00:00",
       "NumProgressed": 12726,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:07.2107387+00:00",
+      "NumProgressed": 12974,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:12:00.7760316+00:00",
@@ -533,7 +538,7 @@
       "Name": "Agreed?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 4454
+      "UsersEstimate": 4541
     },
     {
       "ID": "All nodes unlocked",
@@ -541,7 +546,7 @@
       "Name": "All nodes unlocked",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 255
+      "UsersEstimate": 259
     },
     {
       "ID": "Alone and solitary",
@@ -549,7 +554,7 @@
       "Name": "Alone and solitary",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1168
     },
     {
       "ID": "Alone with Memories",
@@ -557,7 +562,7 @@
       "Name": "Alone with Memories",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1816
     },
     {
       "ID": "Bubble bath",
@@ -565,7 +570,7 @@
       "Name": "Bubble bath",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 8908
+      "UsersEstimate": 9082
     },
     {
       "ID": "Cola flavor",
@@ -573,7 +578,7 @@
       "Name": "Cola flavor",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 4963
+      "UsersEstimate": 5060
     },
     {
       "ID": "Create the future together",
@@ -581,7 +586,7 @@
       "Name": "Create the future together",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2672
+      "UsersEstimate": 2725
     },
     {
       "ID": "Curious ghost",
@@ -597,7 +602,7 @@
       "Name": "Do you all know each other?",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 6618
+      "UsersEstimate": 6746
     },
     {
       "ID": "Double happiness",
@@ -605,7 +610,7 @@
       "Name": "Double happiness",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1946
     },
     {
       "ID": "Dreams come true",
@@ -613,7 +618,7 @@
       "Name": "Dreams come true",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 4327
+      "UsersEstimate": 4411
     },
     {
       "ID": "Emotions traverse the ends of the earth",
@@ -621,7 +626,7 @@
       "Name": "Emotions traverse the ends of the earth",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1427
     },
     {
       "ID": "Enduring affection",
@@ -629,7 +634,7 @@
       "Name": "Enduring affection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2984
     },
     {
       "ID": "Fitness Expert",
@@ -637,7 +642,7 @@
       "Name": "Fitness Expert",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2984
     },
     {
       "ID": "Hard Liquor",
@@ -645,7 +650,7 @@
       "Name": "Hard Liquor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2206
     },
     {
       "ID": "Hit it off",
@@ -653,7 +658,7 @@
       "Name": "Hit it off",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2595
     },
     {
       "ID": "I have graduated",
@@ -661,7 +666,7 @@
       "Name": "I have graduated",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3373
     },
     {
       "ID": "I haven\u2019t had enough of it yet",
@@ -669,7 +674,7 @@
       "Name": "I haven\u2019t had enough of it yet",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4152
     },
     {
       "ID": "I\u2019ll take over, I can handle a lot",
@@ -677,7 +682,7 @@
       "Name": "I\u2019ll take over, I can handle a lot",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2335
     },
     {
       "ID": "Love is hard to continue",
@@ -685,7 +690,7 @@
       "Name": "Love is hard to continue",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1557
     },
     {
       "ID": "Love\u2019s bond is hard to continue",
@@ -693,15 +698,15 @@
       "Name": "Love\u2019s bond is hard to continue",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1427
     },
     {
       "ID": "Make matters worse",
       "SetID": "3j2044",
       "Name": "Make matters worse",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3892
     },
     {
       "ID": "Meet in person",
@@ -709,7 +714,7 @@
       "Name": "Meet in person",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 3818
+      "UsersEstimate": 3892
     },
     {
       "ID": "Merry Christmas!",
@@ -717,7 +722,7 @@
       "Name": "Merry Christmas!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2595
     },
     {
       "ID": "Moving forward hand in hand",
@@ -725,7 +730,7 @@
       "Name": "Moving forward hand in hand",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3945
+      "UsersEstimate": 4022
     },
     {
       "ID": "Mutual affection",
@@ -733,7 +738,7 @@
       "Name": "Mutual affection",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2984
     },
     {
       "ID": "No pain! Stubborn head",
@@ -741,7 +746,7 @@
       "Name": "No pain! Stubborn head",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2465
     },
     {
       "ID": "Not a single one less",
@@ -757,7 +762,7 @@
       "Name": "Ouch",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3373
     },
     {
       "ID": "Pajamas",
@@ -765,7 +770,7 @@
       "Name": "Pajamas",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3762
     },
     {
       "ID": "Role Reversal",
@@ -773,7 +778,7 @@
       "Name": "Role Reversal",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1687
     },
     {
       "ID": "Schr\u00F6dinger\u2019s Door",
@@ -789,7 +794,7 @@
       "Name": "Scumbag\u2019s encouragement",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1946
     },
     {
       "ID": "Spoiled to death",
@@ -805,7 +810,7 @@
       "Name": "The Triumph of Straight Men",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1946
     },
     {
       "ID": "The end of a romance",
@@ -813,7 +818,7 @@
       "Name": "The end of a romance",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1038
     },
     {
       "ID": "This is willpower",
@@ -821,7 +826,7 @@
       "Name": "This is willpower",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1909
+      "UsersEstimate": 1946
     },
     {
       "ID": "Tossing and turning for half a day",
@@ -845,7 +850,7 @@
       "Name": "What are you thinking about?",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1687
     },
     {
       "ID": "Would you like to drink something else?",
@@ -853,7 +858,7 @@
       "Name": "Would you like to drink something else?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1816
     },
     {
       "ID": "Your birthday",
@@ -861,14 +866,14 @@
       "Name": "Your birthday",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 2927
+      "UsersEstimate": 2984
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2044",
       "IsBase": true,
-      "Progressed": 12726,
+      "Progressed": 12974,
       "Completed": 0
     }
   ],
@@ -876,8 +881,8 @@
   "FirstSeenRating": "2024-03-26T01:38:52.8302764+00:00",
   "FirstSeenAchievements": "2024-03-21T17:12:00.7760315+00:00",
   "LastChanged": "2024-08-19T10:59:45.0421228+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:01.8202645+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:07.210738+00:00",
   "LastUpdate_AppInfo": "2024-08-17T20:57:07.1426322+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:07.3696115+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.8202884+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:07.2107664+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "537812b78c3e41949594db56674dbbe3",
   "Name": "Blacksad - Under the Skin",
   "ProductSlug": "blacksad-under-the-skin-c1be50",
-  "Ranking_EOS_Progress": 706,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-27T08:00:00+00:00",
     "PcReleaseDate": "2019-03-19T09:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 83,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:06:02.5399569+00:00",
       "NumProgressed": 82,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:10.6588555+00:00",
+      "NumProgressed": 83,
       "NumCompleted": 0
     }
   ],
@@ -45,41 +50,41 @@
       "ID": "10__strike_one",
       "SetID": "2i1kc7p",
       "Name": "Strike one",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "11__shield",
       "SetID": "2i1kc7p",
       "Name": "Shield",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "12__back_to_normal",
       "SetID": "2i1kc7p",
       "Name": "Back to normal",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "13__congrats",
       "SetID": "2i1kc7p",
       "Name": "Congrats!",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "14__case_solved",
       "SetID": "2i1kc7p",
       "Name": "Case solved",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "15__immortal",
@@ -127,7 +132,7 @@
       "Name": "Hitting a brick wall",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "20__any_given_sunday",
@@ -165,17 +170,17 @@
       "ID": "24__the_quiet_lynx",
       "SetID": "2i1kc7p",
       "Name": "The Quiet Lynx",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "25__billy_sorrows_reading_club",
       "SetID": "2i1kc7p",
       "Name": "Billy Sorrows\u0027 Reading Club",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "26__refusal_of_the_call",
@@ -213,7 +218,7 @@
       "ID": "2__heavily_armed",
       "SetID": "2i1kc7p",
       "Name": "Heavily armed",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
       "UsersEstimate": 54
     },
@@ -221,9 +226,9 @@
       "ID": "30__when_angels_fall",
       "SetID": "2i1kc7p",
       "Name": "When angels fall...",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "31__the_400_blows",
@@ -237,9 +242,9 @@
       "ID": "32__americas_pussycat",
       "SetID": "2i1kc7p",
       "Name": "America\u0027s Pussycat",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "33__say_no_to_bullying",
@@ -261,25 +266,25 @@
       "ID": "35__good_cop",
       "SetID": "2i1kc7p",
       "Name": "Good cop",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "36__bad_cop",
       "SetID": "2i1kc7p",
       "Name": "Bad cop",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "37__niagara_falls",
       "SetID": "2i1kc7p",
       "Name": "Niagara Falls",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "38__the_sweetest_story_in_the_whole_world",
@@ -293,15 +298,15 @@
       "ID": "39__morleys",
       "SetID": "2i1kc7p",
       "Name": "Morley\u0027s",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "3__wrong_answer",
       "SetID": "2i1kc7p",
       "Name": "Wrong answer",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
       "UsersEstimate": 50
     },
@@ -309,7 +314,7 @@
       "ID": "4__civil_disobedience",
       "SetID": "2i1kc7p",
       "Name": "Civil disobedience",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
       "UsersEstimate": 35
     },
@@ -317,15 +322,15 @@
       "ID": "5__one_mississippi",
       "SetID": "2i1kc7p",
       "Name": "One Mississippi",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "6__extra_time",
       "SetID": "2i1kc7p",
       "Name": "Extra time",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 16
     },
@@ -333,39 +338,39 @@
       "ID": "7__shadow_play",
       "SetID": "2i1kc7p",
       "Name": "Shadow play",
-      "Percentage": 30,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "8__bluffing",
       "SetID": "2i1kc7p",
       "Name": "Bluffing",
-      "Percentage": 30,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "9__vertigo",
       "SetID": "2i1kc7p",
       "Name": "Vertigo",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     }
   ],
   "AchievementSets": [
     {
       "ID": "2i1kc7p",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 83,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-27T21:57:42.5676353+00:00",
   "FirstSeenAchievements": "2024-05-13T20:05:19.3035502+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:02.5399565+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:10.6588551+00:00",
   "LastUpdate_AppInfo": "2024-08-15T04:57:39.3486869+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:01.3193137+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:02.5406762+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:34.1269543+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:10.658876+00:00"
 }

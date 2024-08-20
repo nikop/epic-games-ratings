@@ -2,10 +2,10 @@
   "ID": "5284e14912e848038f4b6e1db7b6881c",
   "Name": "Orphans",
   "ProductSlug": "orphans-19d8aa",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T15:57:11.7558712+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:26.6020085+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:30.3815732+00:00"
 }

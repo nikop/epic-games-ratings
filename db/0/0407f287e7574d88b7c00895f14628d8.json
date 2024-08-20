@@ -2,10 +2,10 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 420,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 423,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 837,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1084,6 +1084,11 @@
       "Time": "2024-08-09T18:07:01.2945209+00:00",
       "NumProgressed": 829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:47.0727348+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1128,7 +1133,7 @@
       "Name": "Clear Road",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 544
     },
     {
       "ID": "dl2",
@@ -1136,7 +1141,7 @@
       "Name": "Road Planning",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "dl3",
@@ -1152,7 +1157,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 343
     },
     {
       "ID": "f2",
@@ -1160,7 +1165,7 @@
       "Name": "Tasty Food",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "f3",
@@ -1176,15 +1181,15 @@
       "Name": "City Center",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 452
     },
     {
       "ID": "fw2",
       "SetID": "b1ggf28",
       "Name": "Administrator",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 126
     },
     {
       "ID": "fw3",
@@ -1200,7 +1205,7 @@
       "Name": "Skilled Workers",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 477
     },
     {
       "ID": "g2",
@@ -1208,7 +1213,7 @@
       "Name": "Efficient Tools",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "g3",
@@ -1216,7 +1221,7 @@
       "Name": "Handcart",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "j1",
@@ -1224,7 +1229,7 @@
       "Name": "Civilized Land",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "j2",
@@ -1246,9 +1251,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 193
     },
     {
       "ID": "jg2",
@@ -1256,7 +1261,7 @@
       "Name": "Waterpower",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "jg3",
@@ -1264,7 +1269,7 @@
       "Name": "Full Load",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 176
     },
     {
       "ID": "jk1",
@@ -1272,7 +1277,7 @@
       "Name": "Treatment of plague",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 343
     },
     {
       "ID": "jk2",
@@ -1280,7 +1285,7 @@
       "Name": "Saving Lives",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "jk3",
@@ -1296,7 +1301,7 @@
       "Name": "Builder",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 243
     },
     {
       "ID": "jz2",
@@ -1304,7 +1309,7 @@
       "Name": "Architect",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 276
     },
     {
       "ID": "jz3",
@@ -1320,7 +1325,7 @@
       "Name": "Advanced Technology",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 348
+      "UsersEstimate": 352
     },
     {
       "ID": "k2",
@@ -1328,7 +1333,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "k3",
@@ -1344,7 +1349,7 @@
       "Name": "Animal Imports",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "m2",
@@ -1360,7 +1365,7 @@
       "Name": "Developed Economy",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "r1",
@@ -1368,7 +1373,7 @@
       "Name": "Prosperity",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 209
     },
     {
       "ID": "r2",
@@ -1376,7 +1381,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 226
     },
     {
       "ID": "r3",
@@ -1408,7 +1413,7 @@
       "Name": "Against the Cold",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 547
+      "UsersEstimate": 552
     },
     {
       "ID": "w2",
@@ -1422,9 +1427,9 @@
       "ID": "w3",
       "SetID": "b1ggf28",
       "Name": "Luxury Clothes",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 42
     },
     {
       "ID": "x1",
@@ -1432,7 +1437,7 @@
       "Name": "Happiness Maintainer",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "x2",
@@ -1440,7 +1445,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "x3",
@@ -1470,9 +1475,9 @@
       "ID": "zf3",
       "SetID": "b1ggf28",
       "Name": "Great Castle",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "zn1",
@@ -1480,7 +1485,7 @@
       "Name": "Snowstorm",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "zn2",
@@ -1503,14 +1508,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 837,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:01.2945206+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:47.0727343+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:14.5343632+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:52.9849619+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:01.2945629+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:45.4384094+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:47.0727676+00:00"
 }

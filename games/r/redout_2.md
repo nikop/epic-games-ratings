@@ -1,65 +1,65 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.55 (Ranked 578)  
+Rating: 4.55 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 43.00% | ~63,434 |
-| Increasing your Power Level | 43.00% | ~63,434 |
-| Enter the Speed Gauntlet | 36.00% | ~53,107 |
-| I just can't choose | 36.00% | ~53,107 |
-| A Cheese Grater to the Face | 20.00% | ~29,504 |
-| Running at the speed of sound | 16.00% | ~23,603 |
-| Rookie No-No More | 14.00% | ~20,653 |
-| Put it on a shelf | 14.00% | ~20,653 |
-| It's like an haircut | 12.00% | ~17,702 |
-| First step into a larger world | 11.00% | ~16,227 |
-| Suit up | 11.00% | ~16,227 |
-| Ride in the rising sun | 9.00% | ~13,277 |
-| Walked like an Egyptian | 7.00% | ~10,326 |
-| It's like a party! | 5.00% | ~7,376 |
-| Better luck next time | 5.00% | ~7,376 |
-| Martian explorer | 4.00% | ~5,901 |
-| Blurred photofinish | 4.00% | ~5,901 |
-| To the core | 3.00% | ~4,426 |
-| Healthy competition | 2.00% | ~2,950 |
-| B-asic! | 1.00% | ~1,475 |
-| Over the clouds | 1.00% | ~1,475 |
-| Under the sea, under the sea | 1.00% | ~1,475 |
-| Even Faster! | 1.00% | ~1,475 |
-| EZ game EZ life | 1.00% | ~1,475 |
-| Everything is better with friends | 1.00% | ~1,475 |
-| Almost broke the game | 0.80% | ~1,180 |
-| Eat dust my friend | 0.60% | ~885 |
-| To infinity and gravity! | 0.50% | ~738 |
-| Under the neon lights | 0.50% | ~738 |
-| Longshot | 0.50% | ~738 |
-| He who laughs last... | 0.50% | ~738 |
-| One giant drive for mankind | 0.40% | ~590 |
-| Beat you to it! | 0.30% | ~443 |
-| Try them all | 0.20% | ~295 |
-| All Power to Engines! | 0.20% | ~295 |
-| Had to sweat a bit | 0.20% | ~295 |
-| Dev, this! | 0.20% | ~295 |
-| Fashion Racer | 0.10% | ~148 |
-| A-mazing! | 0.10% | ~148 |
-| S-uper! | 0.10% | ~148 |
-| Put a sign on it | 0.10% | ~148 |
-| I, need, more, shelves! | 0.10% | ~148 |
-| This is to go, even Further Beyond! | 0.10% | ~148 |
-| Gitting Gud | 0.10% | ~148 |
-| [Sweats profusely] | 0.10% | ~148 |
-| Redout Champion | 0.10% | ~148 |
-| Redout Grandmaster | 0.10% | ~148 |
-| Familiar Face | 0.10% | ~148 |
-| Better than half the studio... | 0.10% | ~148 |
-| New pro in town! | 0.10% | ~148 |
-| Grandslam | 0.10% | ~148 |
-| Great Start | 0.10% | ~148 |
+| Rookie No More | 43.00% | ~64,887 |
+| Increasing your Power Level | 43.00% | ~64,887 |
+| Enter the Speed Gauntlet | 36.00% | ~54,324 |
+| I just can't choose | 36.00% | ~54,324 |
+| A Cheese Grater to the Face | 20.00% | ~30,180 |
+| Running at the speed of sound | 16.00% | ~24,144 |
+| Rookie No-No More | 14.00% | ~21,126 |
+| Put it on a shelf | 14.00% | ~21,126 |
+| It's like an haircut | 12.00% | ~18,108 |
+| First step into a larger world | 11.00% | ~16,599 |
+| Suit up | 11.00% | ~16,599 |
+| Ride in the rising sun | 9.00% | ~13,581 |
+| Walked like an Egyptian | 8.00% | ~12,072 |
+| It's like a party! | 5.00% | ~7,545 |
+| Martian explorer | 4.00% | ~6,036 |
+| Blurred photofinish | 4.00% | ~6,036 |
+| Better luck next time | 4.00% | ~6,036 |
+| To the core | 3.00% | ~4,527 |
+| Even Faster! | 2.00% | ~3,018 |
+| Healthy competition | 2.00% | ~3,018 |
+| B-asic! | 1.00% | ~1,509 |
+| Over the clouds | 1.00% | ~1,509 |
+| Under the sea, under the sea | 1.00% | ~1,509 |
+| EZ game EZ life | 1.00% | ~1,509 |
+| Everything is better with friends | 1.00% | ~1,509 |
+| Almost broke the game | 0.80% | ~1,207 |
+| Under the neon lights | 0.60% | ~905 |
+| Eat dust my friend | 0.60% | ~905 |
+| To infinity and gravity! | 0.50% | ~754 |
+| Longshot | 0.50% | ~754 |
+| He who laughs last... | 0.50% | ~754 |
+| One giant drive for mankind | 0.40% | ~604 |
+| Beat you to it! | 0.30% | ~453 |
+| Try them all | 0.20% | ~302 |
+| A-mazing! | 0.20% | ~302 |
+| All Power to Engines! | 0.20% | ~302 |
+| Had to sweat a bit | 0.20% | ~302 |
+| Dev, this! | 0.20% | ~302 |
+| Fashion Racer | 0.10% | ~151 |
+| S-uper! | 0.10% | ~151 |
+| Put a sign on it | 0.10% | ~151 |
+| I, need, more, shelves! | 0.10% | ~151 |
+| This is to go, even Further Beyond! | 0.10% | ~151 |
+| Gitting Gud | 0.10% | ~151 |
+| [Sweats profusely] | 0.10% | ~151 |
+| Redout Champion | 0.10% | ~151 |
+| Redout Grandmaster | 0.10% | ~151 |
+| Familiar Face | 0.10% | ~151 |
+| Better than half the studio... | 0.10% | ~151 |
+| New pro in town! | 0.10% | ~151 |
+| Grandslam | 0.10% | ~151 |
+| Great Start | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,520 (Ranked 110)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 150,899 (Ranked 109)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,10 +230,11 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 1,291 | 0 |
 | 2024-06-17 | 83,765 | 0 |
 | 2024-08-09 | 147,520 | 0 |
+| 2024-08-20 | 150,899 | 0 |
 ## Awards
-Max (Extremely Fun): 24  (Ranked 658)  
+Max (Extremely Fun): 24  (Ranked 659)  
 Sum: 69 (Ranked 590)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game has Beautiful Visuals | 24 |

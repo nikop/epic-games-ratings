@@ -6,37 +6,37 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 94.00% | ~598,536 |
-| Error: Stack Overflow | 66.00% | ~420,248 |
-| We need more gold | 61.00% | ~388,411 |
-| The dawn of civilization | 54.00% | ~343,840 |
-| More FPS for the FPS god! | 50.00% | ~318,370 |
-| Beauty and harmony | 48.00% | ~305,635 |
-| One more! | 45.00% | ~286,533 |
-| Overmind | 25.00% | ~159,185 |
-| RNG is my best friend now | 18.00% | ~114,613 |
-| Cosplay | 14.00% | ~89,144 |
-| Evolution in progress... | 13.00% | ~82,776 |
-| Step by step | 8.00% | ~50,939 |
-| README reader | 4.00% | ~25,470 |
-| Data scientist | 4.00% | ~25,470 |
-| One small step for a man... | 4.00% | ~25,470 |
-| To see it all, to learn it all | 2.00% | ~12,735 |
-| Evolution complete | 2.00% | ~12,735 |
-| Best deal on the market | 2.00% | ~12,735 |
-| Is this Skynet? | 2.00% | ~12,735 |
-| Cybergeek 2047 | 2.00% | ~12,735 |
-| The hoarder | 1.00% | ~6,367 |
-| Ping | 1.00% | ~6,367 |
-| Magna cum laude | 1.00% | ~6,367 |
-| Deal with it! | 0.60% | ~3,820 |
-| Gold rush | 0.50% | ~3,184 |
-| Cat-o-holic | 0.40% | ~2,547 |
-| Elements will destroy you! | 0.40% | ~2,547 |
-| The Scrooge | 0.10% | ~637 |
+| First.. Bit? | 94.00% | ~599,268 |
+| Error: Stack Overflow | 66.00% | ~420,763 |
+| We need more gold | 61.00% | ~388,887 |
+| The dawn of civilization | 54.00% | ~344,260 |
+| More FPS for the FPS god! | 50.00% | ~318,760 |
+| Beauty and harmony | 48.00% | ~306,009 |
+| One more! | 45.00% | ~286,884 |
+| Overmind | 25.00% | ~159,380 |
+| RNG is my best friend now | 18.00% | ~114,753 |
+| Cosplay | 14.00% | ~89,253 |
+| Evolution in progress... | 13.00% | ~82,877 |
+| Step by step | 8.00% | ~51,002 |
+| README reader | 4.00% | ~25,501 |
+| Data scientist | 4.00% | ~25,501 |
+| One small step for a man... | 4.00% | ~25,501 |
+| To see it all, to learn it all | 2.00% | ~12,750 |
+| Evolution complete | 2.00% | ~12,750 |
+| Best deal on the market | 2.00% | ~12,750 |
+| Is this Skynet? | 2.00% | ~12,750 |
+| Cybergeek 2047 | 2.00% | ~12,750 |
+| The hoarder | 1.00% | ~6,375 |
+| Ping | 1.00% | ~6,375 |
+| Magna cum laude | 1.00% | ~6,375 |
+| Deal with it! | 0.60% | ~3,825 |
+| Gold rush | 0.50% | ~3,188 |
+| Cat-o-holic | 0.40% | ~2,550 |
+| Elements will destroy you! | 0.40% | ~2,550 |
+| The Scrooge | 0.10% | ~638 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636,740 (Ranked 37)  
-Completed: 630 (0.10%) (Ranked 432)  
+Progressed: 637,519 (Ranked 38)  
+Completed: 630 (0.10%) (Ranked 438)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -323,6 +323,7 @@ Completed: 630 (0.10%) (Ranked 432)
 | 2024-04-10 | 626,911 | 593 |
 | 2024-06-17 | 632,810 | 618 |
 | 2024-08-09 | 636,740 | 630 |
+| 2024-08-20 | 637,519 | 630 |
 ## Awards
 Max (Challenging Puzzles): 149  (Ranked 394)  
 Sum: 149 (Ranked 524)  

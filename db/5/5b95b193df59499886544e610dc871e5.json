@@ -2,10 +2,10 @@
   "ID": "5b95b193df59499886544e610dc871e5",
   "Name": "HexON",
   "ProductSlug": "hexon-6d8557",
-  "Ranking_EOS_Progress": 685,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-27T15:30:00+00:00",
     "PcReleaseDate": "2020-02-07T20:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 96,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:18.6228723+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:07:51.4707367+00:00",
       "NumProgressed": 93,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:13:15.5000795+00:00",
+      "NumProgressed": 96,
       "NumCompleted": 3
     }
   ],
@@ -50,33 +55,33 @@
       "ID": "LEVEL_13",
       "SetID": "7pfgbn1",
       "Name": "Scarlet purple",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 150,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_21",
       "SetID": "7pfgbn1",
       "Name": "Borderless",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 150,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_26",
       "SetID": "7pfgbn1",
       "Name": "Motion of view",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_35",
       "SetID": "7pfgbn1",
       "Name": "Suitable purple",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_40",
@@ -90,23 +95,23 @@
       "ID": "LEVEL_6",
       "SetID": "7pfgbn1",
       "Name": "Primary patterns",
-      "Percentage": 75,
+      "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pfgbn1",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 96,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-06-27T22:58:19.1581208+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:18.6228773+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:51.4707361+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:15.5000789+00:00",
   "LastUpdate_AppInfo": "2024-08-14T13:09:52.7087306+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:35.04051+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:51.4707428+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:15.5000857+00:00"
 }

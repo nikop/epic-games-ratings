@@ -2,10 +2,10 @@
   "ID": "77593ca0e0f3495f95ab77a6ea960a65",
   "Name": "Sofie: The Echoes",
   "ProductSlug": "sofie-the-echoes-1b69c1",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T23:57:14.9752629+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:09.5684198+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:10.202133+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:58.9385542+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:49.3956433+00:00"
 }

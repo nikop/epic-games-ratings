@@ -2,10 +2,10 @@
   "ID": "e659e7551fa9454596f2b184c4ee6745",
   "Name": "Alaskan Road Truckers",
   "ProductSlug": "alaskan-road-truckers-d31463",
-  "Ranking_EOS_Progress": 655,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 660,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-18T15:00:00+00:00",
     "PcReleaseDate": "2024-04-18T15:00:00+00:00",
@@ -74,9 +74,9 @@
       "ID": "CAREFUL_TRUCKER",
       "SetID": "6h23j5g",
       "Name": "Careful Trucker",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CONSTRUCTOR",
@@ -114,9 +114,9 @@
       "ID": "HARD_WORKER",
       "SetID": "6h23j5g",
       "Name": "Hard Worker",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "HEAVY_DUTY",
@@ -162,9 +162,9 @@
       "ID": "LIKE_A_GLOVE",
       "SetID": "6h23j5g",
       "Name": "Like a Glove",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "MAX_PAIN",
@@ -194,17 +194,17 @@
       "ID": "NO_HOT_DOGS_FOR_YOU",
       "SetID": "6h23j5g",
       "Name": "No Hot Dogs for You",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "ONE_THOUSAND_MILES",
       "SetID": "6h23j5g",
       "Name": "One Thousand Miles",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PIMP_MY_TRUCK",
@@ -218,9 +218,9 @@
       "ID": "RENOWNED",
       "SetID": "6h23j5g",
       "Name": "Renowned",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SANTAS_PLACE",
@@ -266,17 +266,17 @@
       "ID": "WELCOME_TO_ALASKA",
       "SetID": "6h23j5g",
       "Name": "Welcome to Alaska",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "WHATS_COOKING",
       "SetID": "6h23j5g",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WHEW",
@@ -297,8 +297,8 @@
   ],
   "FirstSeen": "2024-04-19T17:58:00.4251731+00:00",
   "FirstSeenAchievements": "2023-11-30T16:05:17.1059184+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:54.9719789+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:54.7345087+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:32.4336602+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:22.2760902+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:54.9719969+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:07.0325879+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:54.734528+00:00"
 }

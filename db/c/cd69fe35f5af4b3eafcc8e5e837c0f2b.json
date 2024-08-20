@@ -2,10 +2,10 @@
   "ID": "cd69fe35f5af4b3eafcc8e5e837c0f2b",
   "Name": "Romopolis",
   "ProductSlug": "romopolis-49e1bf",
-  "Ranking_EOS_Progress": 732,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 718,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-10T16:00:00+00:00",
     "PcReleaseDate": "2009-03-29T16:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 77,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-08-09T18:07:50.0412304+00:00",
       "NumProgressed": 68,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:12.8515709+00:00",
+      "NumProgressed": 77,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:17.1478615+00:00",
@@ -50,17 +55,17 @@
       "ID": "H1",
       "SetID": "126iife",
       "Name": "Builder",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 52
     },
     {
       "ID": "H10",
       "SetID": "126iife",
       "Name": "Popular",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "H11",
@@ -82,15 +87,15 @@
       "ID": "H13",
       "SetID": "126iife",
       "Name": "Quick",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "H14",
       "SetID": "126iife",
       "Name": "Hardworking",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -106,7 +111,7 @@
       "ID": "H16",
       "SetID": "126iife",
       "Name": "Architect",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -114,15 +119,15 @@
       "ID": "H2",
       "SetID": "126iife",
       "Name": "Expert builder",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "H3",
       "SetID": "126iife",
       "Name": "Master builder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -130,15 +135,15 @@
       "ID": "H4",
       "SetID": "126iife",
       "Name": "Improver",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "H5",
       "SetID": "126iife",
       "Name": "Expert improver",
-      "Percentage": 16,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -146,7 +151,7 @@
       "ID": "H6",
       "SetID": "126iife",
       "Name": "Master improver",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -154,23 +159,23 @@
       "ID": "H7",
       "SetID": "126iife",
       "Name": "Demolisher",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "H8",
       "SetID": "126iife",
       "Name": "Expert demolisher",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "H9",
       "SetID": "126iife",
       "Name": "Master demolisher",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -178,23 +183,23 @@
       "ID": "HA",
       "SetID": "126iife",
       "Name": "Preparator",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "HB",
       "SetID": "126iife",
       "Name": "Planner",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HC",
       "SetID": "126iife",
       "Name": "Rich",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -202,7 +207,7 @@
       "ID": "HD",
       "SetID": "126iife",
       "Name": "Storekeeper",
-      "Percentage": 16,
+      "Percentage": 14,
       "XP": 40,
       "UsersEstimate": 11
     },
@@ -210,7 +215,7 @@
       "ID": "HE",
       "SetID": "126iife",
       "Name": "Trainer",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -218,7 +223,7 @@
       "ID": "HF",
       "SetID": "126iife",
       "Name": "Manager",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 8
     }
@@ -227,14 +232,14 @@
     {
       "ID": "126iife",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 77,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-12T22:57:52.5295393+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:17.1478615+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:50.0412297+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:12.8515707+00:00",
   "LastUpdate_AppInfo": "2024-08-16T13:09:07.6323293+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:11.0309841+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:50.0412428+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:20.4280701+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:12.8515822+00:00"
 }

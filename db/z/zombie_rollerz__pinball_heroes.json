@@ -5,10 +5,10 @@
   "Ranking_Rating": 1004,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 535,
-  "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 538,
+  "Ranking_EOS_Completed": 355,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -45,9 +45,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 285,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -935,6 +935,11 @@
       "Time": "2024-08-09T18:06:34.2906934+00:00",
       "NumProgressed": 283,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:11:02.8001068+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -952,9 +957,9 @@
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -962,7 +967,7 @@
       "Name": "Right in the kisser!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -970,15 +975,15 @@
       "Name": "Bullseye!",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "CLG_LEVEL_COMBO",
       "SetID": "89cjc9l",
       "Name": "Combo Master",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "CLG_LEVEL_KILLSTREAK",
@@ -986,7 +991,7 @@
       "Name": "Kill-streak",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -994,7 +999,7 @@
       "Name": "Level Up!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 251
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -1002,7 +1007,7 @@
       "Name": "Level Up!!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -1010,7 +1015,7 @@
       "Name": "Topped up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -1026,7 +1031,7 @@
       "Name": "The Penguin",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -1034,7 +1039,7 @@
       "Name": "The Idol",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -1072,9 +1077,9 @@
       "ID": "CLG_UNLOCK_10008",
       "SetID": "89cjc9l",
       "Name": "The Droid",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "CLG_UNLOCK_10009",
@@ -1112,9 +1117,9 @@
       "ID": "PRG_ACCUM_EVENT",
       "SetID": "89cjc9l",
       "Name": "It\u0027s a Trap!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "PRG_ACCUM_GOLD",
@@ -1144,9 +1149,9 @@
       "ID": "PRG_BOSS_GIANT",
       "SetID": "89cjc9l",
       "Name": "The Giant",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_BOSS_MAGE",
@@ -1154,7 +1159,7 @@
       "Name": "The Shaman",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -1178,7 +1183,7 @@
       "Name": "The Ooze",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -1186,7 +1191,7 @@
       "Name": "The Shield",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1218,15 +1223,15 @@
       "Name": "Villfir Forest",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -1234,7 +1239,7 @@
       "Name": "Inferno Ruins",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "PRG_HARD_10001",
@@ -1306,7 +1311,7 @@
       "Name": "Tongs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_HARD_10010",
@@ -1336,9 +1341,9 @@
       "ID": "PRG_HELL_10002",
       "SetID": "89cjc9l",
       "Name": "Sapphire",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PRG_HELL_10003",
@@ -1360,9 +1365,9 @@
       "ID": "PRG_HELL_10005",
       "SetID": "89cjc9l",
       "Name": "Nuclear Bomb",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "PRG_HELL_10006",
@@ -1386,7 +1391,7 @@
       "Name": "Platinum",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_HELL_10009",
@@ -1400,17 +1405,17 @@
       "ID": "PRG_HELL_10010",
       "SetID": "89cjc9l",
       "Name": "Warp Drive Spacecraft",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "PRG_HELL_ALL",
       "SetID": "89cjc9l",
       "Name": "Zombie Exterminator",
-      "Percentage": 0.4,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRG_MODE_HARD",
@@ -1418,7 +1423,7 @@
       "Name": "Out of the Frying Pan...",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_MODE_HELL",
@@ -1434,7 +1439,7 @@
       "Name": "Ember",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1466,7 +1471,7 @@
       "Name": "Gunpowder",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_NORMAL_10006",
@@ -1488,9 +1493,9 @@
       "ID": "PRG_NORMAL_10008",
       "SetID": "89cjc9l",
       "Name": "Aluminum",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "PRG_NORMAL_10009",
@@ -1506,7 +1511,7 @@
       "Name": "Satellite",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "PRG_NORMAL_ALL",
@@ -1522,14 +1527,14 @@
       "Name": "Graduation!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 228
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 285,
       "Completed": 1
     }
   ],
@@ -1537,8 +1542,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-12-07T15:59:55.7707113+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:34.2906929+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:02.8001063+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:14.9866307+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:43.8625712+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:34.2907574+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:02.8001734+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4f97805eeaf3401095c8baba3bbfa566",
   "Name": "Soulslinger: Envoy of Death",
   "ProductSlug": "soulslinger-528d5b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-12-14T07:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T18:57:22.388722+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:54.3381197+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:49.1685617+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:27.5352093+00:00"
 }

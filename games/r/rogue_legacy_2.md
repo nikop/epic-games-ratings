@@ -6,48 +6,48 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 0.50% | ~152 |
-| Captain and Crew | 0.40% | ~122 |
-| Harvest and Home | 0.30% | ~91 |
+| Spells and Swords | 0.60% | ~183 |
+| Captain and Crew | 0.50% | ~153 |
+| Harvest and Home | 0.30% | ~92 |
+| Poise and Poisons | 0.30% | ~92 |
+| No Harm in Looking | 0.30% | ~92 |
+| For Glory | 0.20% | ~61 |
 | Hands and Hammers | 0.20% | ~61 |
 | King and Kin | 0.20% | ~61 |
 | Progenitor and Protégé | 0.20% | ~61 |
-| Poise and Poisons | 0.20% | ~61 |
 | Suns and Soldiers | 0.20% | ~61 |
-| No Harm in Looking | 0.20% | ~61 |
 | Prequel to the Sequel | 0.20% | ~61 |
-| Truly Blessed | 0.10% | ~30 |
-| Black-shoppe | 0.10% | ~30 |
-| Full House | 0.10% | ~30 |
-| Pillow Investments | 0.10% | ~30 |
-| Erebus Purified | 0.10% | ~30 |
-| Looks Familiar | 0.10% | ~30 |
-| For Justice | 0.10% | ~30 |
-| For Glory | 0.10% | ~30 |
-| For Wrath | 0.10% | ~30 |
-| For Greed | 0.10% | ~30 |
-| For Survival | 0.10% | ~30 |
-| For Penance | 0.10% | ~30 |
-| For Love | 0.10% | ~30 |
-| For Pride | 0.10% | ~30 |
-| K.O. | 0.10% | ~30 |
-| It Was Just an Estimate | 0.10% | ~30 |
-| Good Practice | 0.10% | ~30 |
-| Maybe Wax Doesn't Melt | 0.10% | ~30 |
-| A Glimpse of the Future | 0.10% | ~30 |
-| Good Boy! | 0.10% | ~30 |
+| Truly Blessed | 0.10% | ~31 |
+| Black-shoppe | 0.10% | ~31 |
+| Full House | 0.10% | ~31 |
+| Pillow Investments | 0.10% | ~31 |
+| Erebus Purified | 0.10% | ~31 |
+| Looks Familiar | 0.10% | ~31 |
+| For Justice | 0.10% | ~31 |
+| For Wrath | 0.10% | ~31 |
+| For Greed | 0.10% | ~31 |
+| For Survival | 0.10% | ~31 |
+| For Penance | 0.10% | ~31 |
+| For Love | 0.10% | ~31 |
+| For Pride | 0.10% | ~31 |
+| K.O. | 0.10% | ~31 |
+| It Was Just an Estimate | 0.10% | ~31 |
+| Thanatophobia | 0.10% | ~9 |
+| Good Practice | 0.10% | ~31 |
+| Maybe Wax Doesn't Melt | 0.10% | ~31 |
+| A Glimpse of the Future | 0.10% | ~31 |
+| Good Boy! | 0.10% | ~31 |
 | Rogue Rogue Legacy | 0.10% | ~9 |
-| Just the Beginning | 0.10% | ~30 |
-| Wasted Betrayal | 0.10% | ~30 |
-| Had to Do It | 0.10% | ~30 |
-| Jack of all Trades | 0.10% | ~30 |
-| Color Coordination | 0.10% | ~30 |
+| Just the Beginning | 0.10% | ~31 |
+| Wasted Betrayal | 0.10% | ~31 |
+| Had to Do It | 0.10% | ~31 |
+| Jack of all Trades | 0.10% | ~31 |
+| Color Coordination | 0.10% | ~31 |
 | Rogue's Legacy | 0.00% | ~0 |
-| Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,471 (Ranked 186)  
-Completed: 35 (0.11%) (Ranked 426)  
+Progressed: 30,539 (Ranked 187)  
+Completed: 35 (0.11%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,6 +332,7 @@ Completed: 35 (0.11%) (Ranked 426)
 | 2024-04-10 | 29,397 | 35 |
 | 2024-06-17 | 30,056 | 35 |
 | 2024-08-09 | 30,471 | 35 |
+| 2024-08-20 | 30,539 | 35 |
 ## Awards
 Max (Extremely Fun): 239  (Ranked 337)  
 Sum: 1,840 (Ranked 261)  

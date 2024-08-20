@@ -2,10 +2,10 @@
   "ID": "3ca3fe1ee37a4dbf90f1b242c3c30bee",
   "Name": "Chess Knights: Shinobi",
   "ProductSlug": "chess-knights-shinobi-649437",
-  "Ranking_EOS_Progress": 1002,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1014,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-27T15:30:00+00:00",
     "PcReleaseDate": "2020-11-18T20:00:00+00:00",
@@ -241,8 +241,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:07:48.6863795+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:48.6863767+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:10.4475973+00:00",
   "LastUpdate_AppInfo": "2024-08-14T13:09:52.557844+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:34.1738614+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:48.6872101+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:10.4476094+00:00"
 }

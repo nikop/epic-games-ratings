@@ -2,10 +2,10 @@
   "ID": "3ca27e4c973d497bb2e799a68cd61c29",
   "Name": "DuckXPlanet",
   "ProductSlug": "duckxplanet-6ae46f",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T13:56:56.7221149+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:25.1616968+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:08.8770052+00:00"
 }

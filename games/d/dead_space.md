@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.72 (Ranked 212)  
+Rating: 4.72 (Ranked 213)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -53,8 +53,8 @@ Rating: 4.72 (Ranked 212)
 | Reunion | 2.00% | ~546 |
 | Untouchable | 1.00% | ~273 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,276 (Ranked 191)  
-Completed: 139 (0.51%) (Ranked 322)  
+Progressed: 27,276 (Ranked 193)  
+Completed: 139 (0.51%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

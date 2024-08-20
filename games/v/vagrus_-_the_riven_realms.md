@@ -23,20 +23,21 @@
 | Harbinger | 7.00% | ~27 |
 | Courier | 7.00% | ~27 |
 | Merchant | 7.00% | ~27 |
+| Quartermaster | 6.00% | ~23 |
 | Strategist | 6.00% | ~23 |
 | Pilgrimage's End | 6.00% | ~23 |
 | Trouble at Fort Larius | 6.00% | ~23 |
-| Quartermaster | 5.00% | ~20 |
 | Potential Unlocked | 5.00% | ~20 |
 | Been There | 5.00% | ~20 |
 | A Terrible Will | 5.00% | ~20 |
 | Spiritual Journey | 5.00% | ~20 |
+| Supercargo | 4.00% | ~16 |
 | Xevarian Gambit | 4.00% | ~16 |
 | The Voice of Hereafter | 4.00% | ~16 |
 | Despised | 4.00% | ~16 |
 | Inquisitions of Discord | 4.00% | ~16 |
 | Unseen Patterns | 4.00% | ~16 |
-| Supercargo | 3.00% | ~12 |
+| Insectoid Propagator | 4.00% | ~16 |
 | Huntress Unbound | 3.00% | ~12 |
 | Business As Usual | 3.00% | ~12 |
 | Legacy of a Mercenary | 3.00% | ~12 |
@@ -44,7 +45,6 @@
 | A Real Battle | 3.00% | ~12 |
 | Life... Finds a Way | 3.00% | ~12 |
 | Merchant Lord | 3.00% | ~12 |
-| Insectoid Propagator | 3.00% | ~12 |
 | Making Contact | 2.00% | ~8 |
 | Bounty Hunter | 2.00% | ~8 |
 | Watcher | 2.00% | ~8 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 502)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 391 (Ranked 506)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

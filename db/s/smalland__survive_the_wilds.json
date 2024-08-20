@@ -5,10 +5,10 @@
   "Ranking_Rating": 555,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 202,
-  "Ranking_EOS_Completed": 442,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 204,
+  "Ranking_EOS_Completed": 447,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -498,9 +498,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22128,
+  "EOS_Progressed": 22138,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10928,6 +10928,11 @@
       "Time": "2024-08-09T18:06:30.8440879+00:00",
       "NumProgressed": 22128,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-08-20T20:10:57.0855748+00:00",
+      "NumProgressed": 22138,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -10971,7 +10976,7 @@
       "Name": "One VERY small step",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "MeetNok",
@@ -11042,7 +11047,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 22128,
+      "Progressed": 22138,
       "Completed": 18
     }
   ],
@@ -11050,8 +11055,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2024-07-28T19:57:33.788782+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:30.844079+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:57.0855743+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:07.4361812+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:36.7275502+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:30.8441451+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:57.5554635+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:57.0856279+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "18efd480ed4549688383b6036df07bc2",
   "Name": "Space Accident",
   "ProductSlug": "space-accident-vr-8aa915",
-  "Ranking_EOS_Progress": 790,
-  "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 794,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-03T09:00:00+00:00",
     "PcReleaseDate": "2022-02-10T10:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43,
+  "EOS_Progressed": 44,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 30.23,
+  "EOS_Completed_Percentage": 29.55,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:07:50.341303+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:07:56.0947856+00:00",
       "NumProgressed": 43,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-08-20T20:13:23.8909886+00:00",
+      "NumProgressed": 44,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:50.3413118+00:00",
@@ -57,21 +62,21 @@
       "Name": "First puzzle",
       "Percentage": 77,
       "XP": 200,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_2",
       "SetID": "94p2dg4",
       "Name": "Second puzzle",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 200,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_3",
       "SetID": "94p2dg4",
       "Name": "Third puzzle",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 200,
       "UsersEstimate": 17
     },
@@ -79,7 +84,7 @@
       "ID": "ACH_4",
       "SetID": "94p2dg4",
       "Name": "Fourth puzzle",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 200,
       "UsersEstimate": 15
     },
@@ -96,14 +101,14 @@
     {
       "ID": "94p2dg4",
       "IsBase": true,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 13
     }
   ],
   "FirstSeen": "2024-06-18T17:57:14.7380975+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:50.3413118+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:56.094785+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:23.890988+00:00",
   "LastUpdate_AppInfo": "2024-08-14T20:57:19.1459059+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:07.5442411+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:56.094791+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:17.6565621+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:23.8909929+00:00"
 }

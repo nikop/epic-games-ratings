@@ -2,10 +2,10 @@
   "ID": "760df178070b4dcbbfbe498b07b5d1a8",
   "Name": "Camp Canyonwood",
   "ProductSlug": "camp-canyonwood-dd54ff",
-  "Ranking_EOS_Progress": 748,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 749,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-26T15:00:00+00:00",
     "PcReleaseDate": "2024-02-26T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
     {
       "Time": "2024-08-09T18:05:02.654635+00:00",
       "NumProgressed": 57,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:09.0500046+00:00",
+      "NumProgressed": 58,
       "NumCompleted": 0
     }
   ],
@@ -88,15 +93,15 @@
       "ID": "BadgeUnlock",
       "SetID": "blcifn5",
       "Name": "The Gift of Learning",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "BiomesComplete",
       "SetID": "blcifn5",
       "Name": "Fixer Upper",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -208,7 +213,7 @@
       "ID": "FirstDonation",
       "SetID": "blcifn5",
       "Name": "Happy Helper",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 26
     },
@@ -296,7 +301,7 @@
       "ID": "JackDeal",
       "SetID": "blcifn5",
       "Name": "Dealmaker",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -376,7 +381,7 @@
       "ID": "StopBully",
       "SetID": "blcifn5",
       "Name": "Break It Up!",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 13
     },
@@ -417,14 +422,14 @@
     {
       "ID": "blcifn5",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-27T06:59:08.2429457+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:14.1481178+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:02.6546344+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:09.0500039+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:31.1918793+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:15.8876005+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:02.6546834+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:23.4079845+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:09.0500334+00:00"
 }

@@ -27,8 +27,8 @@
 | Colonel Baran | 0.00% | ~0 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 521)  
-Completed: 15 (4.62%) (Ranked 131)  
+Progressed: 325 (Ranked 524)  
+Completed: 15 (4.62%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

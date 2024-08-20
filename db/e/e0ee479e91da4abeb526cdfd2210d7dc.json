@@ -2,10 +2,10 @@
   "ID": "e0ee479e91da4abeb526cdfd2210d7dc",
   "Name": "RiichiCity",
   "ProductSlug": "riichicity-0fc974",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-19T11:00:00+00:00",
     "PcReleaseDate": "2024-07-19T11:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-20T05:57:53.7962032+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:17.8780684+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:57.8879769+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:49.4747946+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:31.763991+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:11.7943113+00:00"
 }

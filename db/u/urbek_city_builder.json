@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 442,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 654,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1980,6 +1980,11 @@
       "Time": "2024-08-09T18:07:21.907366+00:00",
       "NumProgressed": 651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:23.3257118+00:00",
+      "NumProgressed": 654,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -2085,17 +2090,17 @@
       "ID": "COMIDA_2",
       "SetID": "44dlcg0",
       "Name": "Food provider master",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CONTAMINACION_1",
       "SetID": "44dlcg0",
       "Name": "I can\u0027t see the sky",
-      "Percentage": 0.2,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "CONTAMINACION_2",
@@ -2149,9 +2154,9 @@
       "ID": "CULTURE_3",
       "SetID": "44dlcg0",
       "Name": "Read! Everyone should read!",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "DESIERTO3_1",
@@ -2213,9 +2218,9 @@
       "ID": "FAITH_2",
       "SetID": "44dlcg0",
       "Name": "What is there after death?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FAITH_3",
@@ -2237,9 +2242,9 @@
       "ID": "FELIZ_01",
       "SetID": "44dlcg0",
       "Name": "Oh, I am sad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FELIZ_02",
@@ -2301,17 +2306,17 @@
       "ID": "GRANJA_1",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy",
-      "Percentage": 0.5,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "GRANJA_2",
       "SetID": "44dlcg0",
       "Name": "Farming Frenzy Plus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GREEN_AREAS_1",
@@ -2319,7 +2324,7 @@
       "Name": "I like parks",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2333,9 +2338,9 @@
       "ID": "GREEN_AREAS_3",
       "SetID": "44dlcg0",
       "Name": "Oh, I love parks, listening to birds!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MADERA_0",
@@ -2423,7 +2428,7 @@
       "Name": "Small town",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "POPULATION_2",
@@ -2437,9 +2442,9 @@
       "ID": "POPULATION_3",
       "SetID": "44dlcg0",
       "Name": "Metropolurbek Plus",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REBELDES_1",
@@ -2517,9 +2522,9 @@
       "ID": "SPORTS_2",
       "SetID": "44dlcg0",
       "Name": "Sport is the best thing",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SPORTS_3",
@@ -2605,9 +2610,9 @@
       "ID": "WELFARE_1",
       "SetID": "44dlcg0",
       "Name": "Soviet town",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 59
     },
     {
       "ID": "WELFARE_2",
@@ -2622,7 +2627,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 654,
       "Completed": 0
     }
   ],
@@ -2630,8 +2635,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:21.9073659+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:23.3257113+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:19.64388+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:30.3284764+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:21.907429+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:23.3257923+00:00"
 }

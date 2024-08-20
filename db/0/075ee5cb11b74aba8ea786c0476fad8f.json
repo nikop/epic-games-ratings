@@ -2,10 +2,10 @@
   "ID": "075ee5cb11b74aba8ea786c0476fad8f",
   "Name": "League of Angels: Pact",
   "ProductSlug": "game_test-b9b5a1",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-03T01:21:52.288+00:00",
     "PcReleaseDate": "2023-06-20T04:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-03T07:59:04.5203884+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:32.819776+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:56.9049619+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:04.4680006+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:48.9034707+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:39.1953534+00:00"
 }

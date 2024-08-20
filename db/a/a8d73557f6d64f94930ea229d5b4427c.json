@@ -2,10 +2,10 @@
   "ID": "a8d73557f6d64f94930ea229d5b4427c",
   "Name": "Tram Simulator Urban Transit",
   "ProductSlug": "tram-simulator-urban-transit-8e1477",
-  "Ranking_EOS_Progress": 584,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 582,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-21T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2024-08-09T18:06:42.2357122+00:00",
       "NumProgressed": 188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:16.2063807+00:00",
+      "NumProgressed": 202,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:05:32.6767205+00:00",
@@ -71,15 +76,15 @@
       "Name": "Bell Champion",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 93
     },
     {
       "ID": "city_conqueror",
       "SetID": "5g9pjmb",
       "Name": "City Conqueror",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "clone_trooper",
@@ -101,17 +106,17 @@
       "ID": "downtown_hero",
       "SetID": "5g9pjmb",
       "Name": "Downtown Hero",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "driving_licence",
       "SetID": "5g9pjmb",
       "Name": "Driving Licence",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "fairplay_detective",
@@ -119,7 +124,7 @@
       "Name": "Fairplay Detective",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "first_time_drive",
@@ -127,15 +132,15 @@
       "Name": "First Time Drive",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 81
     },
     {
       "ID": "flawless_journey",
       "SetID": "5g9pjmb",
       "Name": "Flawless Journey",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "miles_of_smiles",
@@ -157,7 +162,7 @@
       "ID": "passengers_choice",
       "SetID": "5g9pjmb",
       "Name": "Passenger\u0027s Choice",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -165,9 +170,9 @@
       "ID": "passengers_trust",
       "SetID": "5g9pjmb",
       "Name": "Passenger\u0027s Trust",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "smooth_operator",
@@ -175,7 +180,7 @@
       "Name": "Smooth Operator",
       "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 119
     },
     {
       "ID": "speed",
@@ -197,7 +202,7 @@
       "ID": "tactical_transit",
       "SetID": "5g9pjmb",
       "Name": "Tactical Transit",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -213,9 +218,9 @@
       "ID": "the_completor",
       "SetID": "5g9pjmb",
       "Name": "The Completor",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "the_future_is_now",
@@ -247,21 +252,21 @@
       "Name": "Wide Awake Missioner",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "5g9pjmb",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-23T08:59:54.9700823+00:00",
   "FirstSeenAchievements": "2024-03-04T23:05:32.6767204+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:42.235712+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:16.2063803+00:00",
   "LastUpdate_AppInfo": "2024-08-16T13:09:06.1870595+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:39.7129801+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:42.2357394+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:16.2063955+00:00"
 }

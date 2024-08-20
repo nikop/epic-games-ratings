@@ -2,10 +2,10 @@
   "ID": "0904b974619a436ebc70ec7a374572d8",
   "Name": "Picklock",
   "ProductSlug": "picklock-33eab8",
-  "Ranking_EOS_Progress": 598,
-  "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -573,9 +573,9 @@
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_picklock18",
@@ -589,9 +589,9 @@
       "ID": "ach_picklock19",
       "SetID": "753ghg2",
       "Name": "Pizzeria",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_picklock2",
@@ -613,9 +613,9 @@
       "ID": "ach_picklock21",
       "SetID": "753ghg2",
       "Name": "Motel",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_picklock22",
@@ -661,17 +661,17 @@
       "ID": "ach_picklock5",
       "SetID": "753ghg2",
       "Name": "Time to fly away",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_picklock6",
       "SetID": "753ghg2",
       "Name": "Great bike, bro",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_picklock7",
@@ -693,9 +693,9 @@
       "ID": "ach_picklock9",
       "SetID": "753ghg2",
       "Name": "I, the millionaire!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
@@ -708,8 +708,8 @@
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:46.1983374+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:40.8709438+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:32.5619524+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:24.5006389+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:46.1983498+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:20.5595725+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:40.8709616+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d41f47180bb94a70b3d05a31ebe89b7d",
   "Name": "Far Horizon",
   "ProductSlug": "far-horizon-dd7069",
-  "Ranking_EOS_Progress": 575,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-11T11:00:00+00:00",
     "PcReleaseDate": "2024-03-11T11:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207,
+  "EOS_Progressed": 212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2024-08-09T18:05:03.5122067+00:00",
       "NumProgressed": 207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:11.0505714+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:15.9872167+00:00",
@@ -62,7 +67,7 @@
       "Name": "Prospector",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FH_ACH_AcquisitionMission2",
@@ -78,7 +83,7 @@
       "Name": "Private",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FH_ACH_CombatMission2",
@@ -108,17 +113,17 @@
       "ID": "FH_ACH_CraftMedKit",
       "SetID": "2k9l9k2",
       "Name": "Medic",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "FH_ACH_CraftShieldGen",
       "SetID": "2k9l9k2",
       "Name": "Better Safe Than Sorry",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "FH_ACH_CraftTurret",
@@ -132,9 +137,9 @@
       "ID": "FH_ACH_CraftWeapon",
       "SetID": "2k9l9k2",
       "Name": "Weaponsmith",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "FH_ACH_DestroyAndroids1",
@@ -142,7 +147,7 @@
       "Name": "Legion Tracker",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "FH_ACH_DestroyAndroids2",
@@ -150,15 +155,15 @@
       "Name": "Legion Hunter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FH_ACH_DestroyAndroids3",
       "SetID": "2k9l9k2",
       "Name": "Legion Dispatcher",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "FH_ACH_DestroyCreaturesAuroral1",
@@ -260,9 +265,9 @@
       "ID": "FH_ACH_LootEquipmentEpic",
       "SetID": "2k9l9k2",
       "Name": "Epic Equipment",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "FH_ACH_LootEquipmentLegendary",
@@ -270,7 +275,7 @@
       "Name": "Legendary Loot",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FH_ACH_LootEquipmentRare",
@@ -278,15 +283,15 @@
       "Name": "Rare Rewards",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FH_ACH_LootEquipmentUncommon",
       "SetID": "2k9l9k2",
       "Name": "Uncommonly Good",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 131
     },
     {
       "ID": "FH_ACH_PaintArmor",
@@ -300,9 +305,9 @@
       "ID": "FH_ACH_PuzzleCipherCube1",
       "SetID": "2k9l9k2",
       "Name": "Cipher Cube Novice",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "FH_ACH_PuzzleCipherCube2",
@@ -318,7 +323,7 @@
       "Name": "Lever Lock Novice",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "FH_ACH_PuzzleLeverLock2",
@@ -326,15 +331,15 @@
       "Name": "Lever Lock Apprentice",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FH_ACH_PuzzleMosaicSeal1",
       "SetID": "2k9l9k2",
       "Name": "Mosaic Seal Novice",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "FH_ACH_PuzzleMosaicSeal2",
@@ -342,7 +347,7 @@
       "Name": "Mosaic Seal Apprentice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FH_ACH_PuzzlePlatformProtection1",
@@ -350,7 +355,7 @@
       "Name": "Platform Protection Novice",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FH_ACH_PuzzlePlatformProtection2",
@@ -366,7 +371,7 @@
       "Name": "Timed Target Novice",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "FH_ACH_PuzzleTimedTarget2",
@@ -380,9 +385,9 @@
       "ID": "FH_ACH_PuzzleVaultMaze1",
       "SetID": "2k9l9k2",
       "Name": "Vault Maze Novice",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 68
     },
     {
       "ID": "FH_ACH_PuzzleVaultMaze2",
@@ -398,7 +403,7 @@
       "Name": "Research Associate",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FH_ACH_ScientificMission2",
@@ -452,9 +457,9 @@
       "ID": "FH_ACH_StoryHugeTree",
       "SetID": "2k9l9k2",
       "Name": "Yggdrasil",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "FH_ACH_UnlockBioticLab",
@@ -462,7 +467,7 @@
       "Name": "Biotic Laboratory",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FH_ACH_UnlockResearchDevRoom",
@@ -470,7 +475,7 @@
       "Name": "Research and Development",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "FH_ACH_UnlockRoboticsFactory",
@@ -492,7 +497,7 @@
       "ID": "FH_ACH_ZeusCrates",
       "SetID": "2k9l9k2",
       "Name": "Mess Maker",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 2
     }
@@ -501,14 +506,14 @@
     {
       "ID": "2k9l9k2",
       "IsBase": true,
-      "Progressed": 207,
+      "Progressed": 212,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-12T01:40:09.4844814+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:15.9872166+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:03.5122064+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:11.050571+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:15.7698348+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:59.0780128+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:03.5122452+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:11.0506444+00:00"
 }

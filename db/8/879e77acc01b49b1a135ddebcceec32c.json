@@ -2,10 +2,10 @@
   "ID": "879e77acc01b49b1a135ddebcceec32c",
   "Name": "Horticular",
   "ProductSlug": "horticular-7ddf4c",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-17T16:54:21.9+00:00",
     "PcReleaseDate": "2024-07-11T18:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-08-14T16:57:53.6060253+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:10.2435398+00:00",
-  "LastChanged_Achievements": "2024-07-30T16:02:10.2435365+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:00.287677+00:00",
   "LastUpdate_AppInfo": "2024-08-14T18:57:18.2750139+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:13.0802558+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:43.3456868+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:00.2876803+00:00"
 }

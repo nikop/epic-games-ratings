@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Final square (Eternal Battle) | 67.00% | ~8 |
-| I'll be back | 50.00% | ~6 |
-| Combo Pro | 42.00% | ~5 |
-| Sense of Priorities | 33.00% | ~4 |
-| Chain Reaction | 33.00% | ~4 |
-| Victory Royale | 33.00% | ~4 |
-| Business Acumen | 25.00% | ~3 |
-| Sound Barrier | 25.00% | ~3 |
-| Versus Victory | 17.00% | ~2 |
-| Juggler | 17.00% | ~2 |
-| Final chance | 17.00% | ~2 |
+| Final square (Eternal Battle) | 62.00% | ~8 |
+| I'll be back | 46.00% | ~6 |
+| Combo Pro | 38.00% | ~5 |
+| Sense of Priorities | 38.00% | ~5 |
+| Chain Reaction | 31.00% | ~4 |
+| Victory Royale | 31.00% | ~4 |
+| Business Acumen | 23.00% | ~3 |
+| Sound Barrier | 23.00% | ~3 |
+| Versus Victory | 15.00% | ~2 |
+| Juggler | 15.00% | ~2 |
+| Final chance | 15.00% | ~2 |
 | Legend | 8.00% | ~1 |
 | Champion | 8.00% | ~1 |
 | Flawless Round | 8.00% | ~1 |
@@ -28,8 +28,8 @@
 | Insatiable | 8.00% | ~1 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 926)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 13 (Ranked 928)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -40,6 +40,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-01-12 | 9 | 0 |
 | 2024-06-17 | 10 | 0 |
 | 2024-08-09 | 12 | 0 |
+| 2024-08-20 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

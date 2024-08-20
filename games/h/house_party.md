@@ -6,15 +6,15 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 9.00% | ~795 |
-| Smooth Operator: Madison | 8.00% | ~706 |
-| Caught in the Act | 5.00% | ~442 |
-| Katherine | 5.00% | ~442 |
-| If at First You Don't Succeed... | 5.00% | ~442 |
-| The Brahdyssey | 4.00% | ~353 |
-| Relentless | 4.00% | ~353 |
-| Drunk and Disorderly: Stephanie | 3.00% | ~265 |
-| Life Found a Way | 3.00% | ~176 |
+| A Friend in Need... | 9.00% | ~798 |
+| Smooth Operator: Madison | 8.00% | ~710 |
+| Caught in the Act | 5.00% | ~444 |
+| Katherine | 5.00% | ~444 |
+| If at First You Don't Succeed... | 5.00% | ~444 |
+| The Brahdyssey | 4.00% | ~355 |
+| Relentless | 4.00% | ~355 |
+| Drunk and Disorderly: Stephanie | 3.00% | ~266 |
+| Life Found a Way | 3.00% | ~177 |
 | Amy | 2.00% | ~177 |
 | Drunk and Disorderly: Ashley | 2.00% | ~177 |
 | IRL Let's Player | 2.00% | ~177 |
@@ -22,18 +22,18 @@ Number of Ratings: 177  (23.09.2022)
 | Newcomer: Vickie | 2.00% | ~177 |
 | Social Butterfly | 2.00% | ~177 |
 | The Muse: Madison | 2.00% | ~177 |
-| Amy: Scavenger Hunt | 1.00% | ~88 |
-| Casanova | 1.00% | ~88 |
+| Amy: Scavenger Hunt | 1.00% | ~89 |
+| Benedict Brahrnold | 1.00% | ~89 |
+| Casanova | 1.00% | ~89 |
 | It Smells Like Roses | 1.00% | ~59 |
-| Now It's a Party! | 1.00% | ~88 |
-| Smooth Operator: Ashley | 1.00% | ~88 |
-| The Crush | 1.00% | ~88 |
-| The Magic Number | 1.00% | ~88 |
-| Vickie | 1.00% | ~88 |
-| Te Amo Lety | 1.00% | ~88 |
-| Benedict Brahrnold | 0.90% | ~79 |
-| Love Conquers All | 0.90% | ~79 |
-| Stephanie | 0.90% | ~79 |
+| Now It's a Party! | 1.00% | ~89 |
+| Smooth Operator: Ashley | 1.00% | ~89 |
+| Stephanie | 1.00% | ~89 |
+| The Crush | 1.00% | ~89 |
+| The Magic Number | 1.00% | ~89 |
+| Vickie | 1.00% | ~89 |
+| Te Amo Lety | 1.00% | ~89 |
+| Love Conquers All | 0.90% | ~80 |
 | Ashley | 0.80% | ~71 |
 | I'll Be Back | 0.80% | ~71 |
 | Deck the Balls | 0.80% | ~47 |
@@ -53,10 +53,10 @@ Number of Ratings: 177  (23.09.2022)
 | Howz It Goin Dood | 0.40% | ~35 |
 | Derezzed | 0.40% | ~35 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.30% | ~18 |
-| Duck n' Weave | 0.30% | ~26 |
-| Ronin | 0.30% | ~26 |
-| The Crush(es) | 0.30% | ~26 |
-| Snapped | 0.30% | ~26 |
+| Duck n' Weave | 0.30% | ~27 |
+| Ronin | 0.30% | ~27 |
+| The Crush(es) | 0.30% | ~27 |
+| Snapped | 0.30% | ~27 |
 | Against All Odds | 0.20% | ~18 |
 | Casabrova | 0.20% | ~18 |
 | Congrats, A Celebrity Hates You | 0.20% | ~12 |
@@ -76,8 +76,8 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,830 (Ranked 249)  
-Completed: 3 (0.03%) (Ranked 487)  
+Progressed: 8,870 (Ranked 250)  
+Completed: 3 (0.03%) (Ranked 494)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -356,6 +356,7 @@ Completed: 3 (0.03%) (Ranked 487)
 | 2024-07-09 | 8,588 | 3 |
 | 2024-07-24 | 8,683 | 3 |
 | 2024-08-09 | 8,830 | 3 |
+| 2024-08-20 | 8,870 | 3 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

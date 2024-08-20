@@ -2,10 +2,10 @@
   "ID": "b9e6e3d5a4474a8ead248c62bfdf08b7",
   "Name": "Witch It",
   "ProductSlug": "witch-it-3624a9",
-  "Ranking_EOS_Progress": 444,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 446,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-26T16:00:00+00:00",
     "PcReleaseDate": "2020-10-22T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 604,
+  "EOS_Progressed": 625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2024-08-09T18:08:14.807984+00:00",
       "NumProgressed": 604,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:57.0907626+00:00",
+      "NumProgressed": 625,
       "NumCompleted": 0
     }
   ],
@@ -107,17 +112,17 @@
       "ID": "AchLevel002",
       "SetID": "akkdgk3",
       "Name": "Level 2",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 131
     },
     {
       "ID": "AchLevel005",
       "SetID": "akkdgk3",
       "Name": "Level 5",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 94
     },
     {
       "ID": "AchLevel010",
@@ -125,15 +130,15 @@
       "Name": "Level 10",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AchLevel020",
       "SetID": "akkdgk3",
       "Name": "Level 20",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AchLevel030",
@@ -163,25 +168,25 @@
       "ID": "AchLevel060",
       "SetID": "akkdgk3",
       "Name": "Level 60",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchLevel070",
       "SetID": "akkdgk3",
       "Name": "Level 70",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchLevel080",
       "SetID": "akkdgk3",
       "Name": "Level 80",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AchLevel090",
@@ -235,31 +240,31 @@
       "ID": "AchOnlyOne",
       "SetID": "akkdgk3",
       "Name": "I\u0027m not lazy!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 25
     },
     {
       "ID": "AchPCCollected01",
       "SetID": "akkdgk3",
       "Name": "Stockpiler",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 56
     },
     {
       "ID": "AchPCCollected02",
       "SetID": "akkdgk3",
       "Name": "It\u0027s getting more and more",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "AchPCCollected03",
       "SetID": "akkdgk3",
       "Name": "Gotta collect \u0027em all!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -275,17 +280,17 @@
       "ID": "AchPCCollected05",
       "SetID": "akkdgk3",
       "Name": "I guess, you wanna start a museum?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchPCCollected06",
       "SetID": "akkdgk3",
       "Name": "Now that\u0027s impressive!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchPCCollected07",
@@ -388,14 +393,14 @@
     {
       "ID": "akkdgk3",
       "IsBase": true,
-      "Progressed": 604,
+      "Progressed": 625,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-29T16:59:38.0487457+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.8110183+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:14.8079834+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:57.0907621+00:00",
   "LastUpdate_AppInfo": "2024-08-14T05:57:21.4668103+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:23.5122753+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:14.8080072+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:57.0907855+00:00"
 }

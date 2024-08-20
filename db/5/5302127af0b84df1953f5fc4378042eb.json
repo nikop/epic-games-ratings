@@ -2,10 +2,10 @@
   "ID": "5302127af0b84df1953f5fc4378042eb",
   "Name": "Era.S Decode",
   "ProductSlug": "eras-decode-ff58c7",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-31T14:00:00+00:00",
     "PcReleaseDate": "2024-03-31T14:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-04-01T06:59:35.367533+00:00",
   "LastUpdate_AppInfo": "2024-08-19T18:57:21.3296875+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:36.0766523+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:16.1941939+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:59.8385667+00:00"
 }

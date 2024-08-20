@@ -2,10 +2,10 @@
   "ID": "663ea0c5bcaa43fc8127b466ac781ac5",
   "Name": "Evil Wizard",
   "ProductSlug": "evil-wizard-e4f80f",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-20T16:00:00+00:00",
     "PcReleaseDate": "2023-09-20T16:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-09-21T12:00:53.8865175+00:00",
   "FirstSeenAchievements": "2023-09-13T14:02:53.8465264+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:16.8520932+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:43.3348974+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:24.3325276+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:12.4058335+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:16.852095+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:01.1982842+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:43.3349021+00:00"
 }

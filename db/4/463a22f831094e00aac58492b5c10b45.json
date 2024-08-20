@@ -2,13 +2,13 @@
   "ID": "463a22f831094e00aac58492b5c10b45",
   "Name": "Manor Lords",
   "ProductSlug": "manor-lords-ef795f",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 598,
   "Ranking_PopularitySum": 513,
-  "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 487,
-  "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 219,
+  "Ranking_EOS_Completed": 494,
+  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-26T13:00:00+00:00",
     "PcReleaseDate": "2024-04-26T13:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 18362,
+  "EOS_Progressed": 19485,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -706,6 +706,11 @@
       "Time": "2024-08-09T18:07:57.5772214+00:00",
       "NumProgressed": 18362,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-08-20T20:13:26.6103574+00:00",
+      "NumProgressed": 19485,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:55.3815867+00:00",
@@ -716,9 +721,9 @@
       "ID": "ACH_BELLS",
       "SetID": "bgipnlg",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2728
     },
     {
       "ID": "ACH_CHALLENGE_ACCEPTED",
@@ -726,15 +731,15 @@
       "Name": "Challenge accepted",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_DEFEAT_THE_BARON",
       "SetID": "bgipnlg",
       "Name": "Defeat Hildebolt",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 551
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_FULL_RETINUE",
@@ -742,15 +747,15 @@
       "Name": "Full Retinue",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 551
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_LARGE_TOWN",
       "SetID": "bgipnlg",
       "Name": "Cheerful Metropolis",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 551
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_MERCENARY_CAPTAIN",
@@ -758,7 +763,7 @@
       "Name": "Mercenary Captain",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_RESTORE_THE_PEACE",
@@ -766,23 +771,23 @@
       "Name": "Restore the Peace",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_START",
       "SetID": "bgipnlg",
       "Name": "Start the game",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3122
+      "UsersEstimate": 4287
     },
     {
       "ID": "ACH_SURVIVE_YEAR",
       "SetID": "bgipnlg",
       "Name": "Survive the first year",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 2754
+      "UsersEstimate": 3702
     },
     {
       "ID": "ACH_THE_MERCHANT",
@@ -790,22 +795,22 @@
       "Name": "The merchant",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_VIGILANTES",
       "SetID": "bgipnlg",
       "Name": "The vigilantes",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1364
     }
   ],
   "AchievementSets": [
     {
       "ID": "bgipnlg",
       "IsBase": true,
-      "Progressed": 18362,
+      "Progressed": 19485,
       "Completed": 6
     }
   ],
@@ -813,8 +818,8 @@
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.3815866+00:00",
   "LastChanged": "2024-08-20T04:59:08.0980778+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:57.5772207+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:26.6103569+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:04.3433799+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:09.0849611+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:57.5772301+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:59.2953766+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:26.6103649+00:00"
 }

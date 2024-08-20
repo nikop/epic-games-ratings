@@ -2,10 +2,10 @@
   "ID": "b6eb3c81751b4bda90599356bcc4ae4a",
   "Name": "Sea of Solitude",
   "ProductSlug": "sea-of-solitude-68aef2",
-  "Ranking_EOS_Progress": 919,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
     "PcReleaseDate": "2019-07-05T08:00:00+00:00",
@@ -23,9 +23,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
       "Time": "2024-08-09T18:06:22.7027731+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:43.9253729+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:51.0977682+00:00",
@@ -53,17 +58,17 @@
       "ID": "achievement_1",
       "SetID": "1ogl4k7",
       "Name": "Uncorked",
-      "Percentage": 77,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_10",
       "SetID": "1ogl4k7",
       "Name": "Seeker",
-      "Percentage": 54,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_11",
@@ -85,9 +90,9 @@
       "ID": "achievement_13",
       "SetID": "1ogl4k7",
       "Name": "Runaway",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_14",
@@ -95,7 +100,7 @@
       "Name": "Sailor",
       "Percentage": 46,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_15",
@@ -111,7 +116,7 @@
       "Name": "School\u0027s out",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_17",
@@ -119,23 +124,23 @@
       "Name": "Moses",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_18",
       "SetID": "1ogl4k7",
       "Name": "Sunny",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_19",
       "SetID": "1ogl4k7",
       "Name": "Lonely at the top",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_2",
@@ -149,33 +154,33 @@
       "ID": "achievement_20",
       "SetID": "1ogl4k7",
       "Name": "Mama and Papa",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_21",
       "SetID": "1ogl4k7",
       "Name": "Breakdown",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_22",
       "SetID": "1ogl4k7",
       "Name": "Resolve",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_3",
       "SetID": "1ogl4k7",
       "Name": "Shoo!",
-      "Percentage": 69,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_4",
@@ -189,17 +194,17 @@
       "ID": "achievement_5",
       "SetID": "1ogl4k7",
       "Name": "Fire!",
-      "Percentage": 108,
+      "Percentage": 104,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "achievement_6",
       "SetID": "1ogl4k7",
       "Name": "Connected",
-      "Percentage": 100,
+      "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_7",
@@ -207,7 +212,7 @@
       "Name": "Comfy",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_8",
@@ -221,22 +226,22 @@
       "ID": "achievement_9",
       "SetID": "1ogl4k7",
       "Name": "Deep Dive",
-      "Percentage": 15,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "1ogl4k7",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:51.0977681+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:22.702773+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:43.9253724+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:32.685939+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:56.8667336+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.7027831+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:48.8542637+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:43.9253832+00:00"
 }

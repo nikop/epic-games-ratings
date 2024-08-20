@@ -2,10 +2,10 @@
   "ID": "aec58215a9424d00b0d47379180e6af2",
   "Name": "Blossom  Tales  II  The  Minotaur  Prince",
   "ProductSlug": "blossom-tales-ii-the-minotaur-prince-e74c95",
-  "Ranking_EOS_Progress": 852,
-  "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 857,
+  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
     "PcReleaseDate": "2022-08-16T15:00:00+00:00",
@@ -259,8 +259,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.5786696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.1117917+00:00",
   "LastChanged": "2023-03-31T05:57:45.5786697+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:33.9064577+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:44.1296439+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:22.1801553+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:14.0712476+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:33.9064687+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:42.7835571+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:44.1296568+00:00"
 }

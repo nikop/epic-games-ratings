@@ -51,7 +51,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Thoroughbred! | 0.10% | ~3,047 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,046,669 (Ranked 6)  
-Completed: 25 (0.00%) (Ranked 554)  
+Completed: 25 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,12 +340,12 @@ Completed: 25 (0.00%) (Ranked 554)
 | 2024-08-09 | 3,046,669 | 25 |
 ## Awards
 Max (Great for Beginners): 18,492  (Ranked 28)  
-Sum: 105,814 (Ranked 21)  
+Sum: 105,933 (Ranked 21)  
 Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 18,492 |
-| This game has Diverse Characters | 13,691 |
+| This game has Diverse Characters | 13,810 |
 | This game is Highly Recommended | 10,506 |
 | This game has a Creative Community | 9,937 |
 | This game is Educational | 9,607 |
@@ -940,4 +940,4 @@ Diff (max vs sum): 7
 | 2024-08-17 | 4.61 | - | 17,975 | 103,383 |
 | 2024-08-18 | 4.61 | - | 18,155 | 104,305 |
 | 2024-08-19 | 4.61 | - | 18,330 | 105,148 |
-| 2024-08-20 | 4.61 | - | 18,492 | 105,814 |
+| 2024-08-20 | 4.61 | - | 18,492 | 105,933 |

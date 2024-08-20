@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 328,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 614,
   "Ranking_PopularitySum": 462,
-  "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -684,9 +684,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3531,
+  "EOS_Progressed": 3578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4854,6 +4854,11 @@
       "Time": "2024-08-09T18:04:32.3465569+00:00",
       "NumProgressed": 3531,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:15.9283927+00:00",
+      "NumProgressed": 3578,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4874,15 +4879,15 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 318
+      "UsersEstimate": 322
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
       "SetID": "71c0n9i",
       "Name": "Death To Diplomacy",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "ArtifactsEquipped",
@@ -4890,7 +4895,7 @@
       "Name": "Dressed For Success",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 859
     },
     {
       "ID": "AttackCount",
@@ -4906,7 +4911,7 @@
       "Name": "The Price of Freedom",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "BaryaCampaignFinaleOnHard",
@@ -4922,7 +4927,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 286
     },
     {
       "ID": "BurrowUp",
@@ -4930,7 +4935,7 @@
       "Name": "Hello There",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "CastEachSpell",
@@ -4938,7 +4943,7 @@
       "Name": "Versatile Wielder",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ChainLightningKills",
@@ -4946,15 +4951,15 @@
       "Name": "Unlimited Power!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ChargerCount",
       "SetID": "71c0n9i",
       "Name": "Fully Charged",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ComingThrough",
@@ -4968,9 +4973,9 @@
       "ID": "DamageThreshold",
       "SetID": "71c0n9i",
       "Name": "Critical Hit",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1181
     },
     {
       "ID": "Deepstrike",
@@ -4978,7 +4983,7 @@
       "Name": "Deepstrike",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "DieByTheBow",
@@ -5010,7 +5015,7 @@
       "Name": "Double Kill",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1789
     },
     {
       "ID": "FlameAttackKillCount",
@@ -5024,9 +5029,9 @@
       "ID": "FrontlineFighterCount",
       "SetID": "71c0n9i",
       "Name": "In The Thick of It",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 143
     },
     {
       "ID": "FullHouse",
@@ -5042,7 +5047,7 @@
       "Name": "Infernal Influence",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "KillingSpree",
@@ -5050,7 +5055,7 @@
       "Name": "Killing Spree",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LothCampaign",
@@ -5058,7 +5063,7 @@
       "Name": "Together For Her",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -5074,7 +5079,7 @@
       "Name": "Multi Kill",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 465
     },
     {
       "ID": "MultiplayerWins",
@@ -5106,7 +5111,7 @@
       "Name": "Whoops!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 322
     },
     {
       "ID": "RanaCampaign",
@@ -5114,7 +5119,7 @@
       "Name": "From the Ashes",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -5128,9 +5133,9 @@
       "ID": "ReclaimTown",
       "SetID": "71c0n9i",
       "Name": "Don\u0027t Touch My Stuff",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 429
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -5138,7 +5143,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "SorcerousSpree",
@@ -5146,7 +5151,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 465
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -5154,7 +5159,7 @@
       "Name": "Get Over Here!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "SweepKillCount",
@@ -5162,7 +5167,7 @@
       "Name": "Cleave",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TownCompletion",
@@ -5170,7 +5175,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 286
     },
     {
       "ID": "TrojanHorse",
@@ -5178,7 +5183,7 @@
       "Name": "Trojan Horse",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 286
     },
     {
       "ID": "UltraKill",
@@ -5186,31 +5191,31 @@
       "Name": "Ultra Kill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WielderLevel1",
       "SetID": "71c0n9i",
       "Name": "Adept",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2111
     },
     {
       "ID": "WielderLevel2",
       "SetID": "71c0n9i",
       "Name": "Veteran",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1217
     },
     {
       "ID": "WielderLevel3",
       "SetID": "71c0n9i",
       "Name": "Master",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 465
     },
     {
       "ID": "WielderLevel4",
@@ -5218,7 +5223,7 @@
       "Name": "Grand Master",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -5226,7 +5231,7 @@
       "Name": "Humiliation",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 572
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -5234,15 +5239,15 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 143
     },
     {
       "ID": "WinBattleWithoutAttacking",
       "SetID": "71c0n9i",
       "Name": "Expert Essence Employment",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 215
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -5250,7 +5255,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 572
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -5258,7 +5263,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -5297,15 +5302,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 3531,
+      "Progressed": 3578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-08-20T09:59:50.220163+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:32.3465563+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:15.9283923+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:41.0125403+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:34.9174148+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:32.346619+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:29.6521749+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:15.9284425+00:00"
 }

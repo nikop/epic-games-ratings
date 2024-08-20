@@ -5,37 +5,37 @@ Rating: 4.64 (Ranked 375)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 95.00% | ~758 |
-| A Friend in Need | 61.00% | ~487 |
-| Surviving | 42.00% | ~335 |
-| Detox diet | 41.00% | ~327 |
-| Never Give Up | 39.00% | ~311 |
-| Tasty | 37.00% | ~295 |
-| Lullaby | 31.00% | ~247 |
-| You Can Pet The Fox | 29.00% | ~231 |
-| Hard Fox Life | 23.00% | ~184 |
-| Never Let Down | 22.00% | ~176 |
-| A Barking Fox Doesn't Bite | 21.00% | ~168 |
-| Chicken Dinner | 21.00% | ~168 |
-| Peaceful Instinct | 18.00% | ~144 |
-| Barking in The Rain | 17.00% | ~136 |
-| Maternity | 16.00% | ~128 |
-| Family Reunion | 14.00% | ~112 |
-| Never Run Around | 14.00% | ~112 |
-| Beyond Words | 14.00% | ~112 |
-| Three Little Foxes | 10.00% | ~80 |
-| Two Peas in a Pod | 10.00% | ~80 |
-| All For One | 10.00% | ~80 |
-| Extinction is Forever | 10.00% | ~80 |
-| We Are a Family | 9.00% | ~72 |
+| Home Sweet Home | 95.00% | ~767 |
+| A Friend in Need | 61.00% | ~492 |
+| Surviving | 42.00% | ~339 |
+| Detox diet | 41.00% | ~331 |
+| Never Give Up | 39.00% | ~315 |
+| Tasty | 36.00% | ~291 |
+| Lullaby | 31.00% | ~250 |
+| You Can Pet The Fox | 29.00% | ~234 |
+| Hard Fox Life | 23.00% | ~186 |
+| Never Let Down | 22.00% | ~178 |
+| A Barking Fox Doesn't Bite | 21.00% | ~169 |
+| Chicken Dinner | 21.00% | ~169 |
+| Barking in The Rain | 17.00% | ~137 |
+| Peaceful Instinct | 17.00% | ~137 |
+| Maternity | 16.00% | ~129 |
+| Family Reunion | 14.00% | ~113 |
+| Never Run Around | 14.00% | ~113 |
+| Beyond Words | 14.00% | ~113 |
+| Three Little Foxes | 10.00% | ~81 |
+| Two Peas in a Pod | 10.00% | ~81 |
+| All For One | 10.00% | ~81 |
+| Extinction is Forever | 10.00% | ~81 |
+| We Are a Family | 9.00% | ~73 |
 | Mother Love | 4.00% | ~32 |
 | For a Better Tomorrow | 3.00% | ~24 |
 | Omnivore | 2.00% | ~16 |
 | Easter Egg | 2.00% | ~16 |
 | Endling | 0.60% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 798 (Ranked 425)  
-Completed: 3 (0.38%) (Ranked 344)  
+Progressed: 807 (Ranked 427)  
+Completed: 3 (0.37%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -194,6 +194,7 @@ Completed: 3 (0.38%) (Ranked 344)
 | 2024-04-10 | 693 | 3 |
 | 2024-06-17 | 763 | 3 |
 | 2024-08-09 | 798 | 3 |
+| 2024-08-20 | 807 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

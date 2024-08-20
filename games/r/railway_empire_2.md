@@ -72,8 +72,8 @@ Rating: 4.38 (Ranked 899)
 | Resistance is… voltage divided by current?! | 0.10% | ~0 |
 | A/C you like it | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,227 (Ranked 310)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 3,227 (Ranked 315)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "bd9874dd0e2b4302937845e79e5605ce",
   "Name": "Dawnshard",
   "ProductSlug": "dawnshard-105524",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2025-01-31T00:00:00+00:00",
     "PcReleaseDate": "2025-01-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T15:57:33.3508046+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:24.5836371+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:49.2516204+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:27.3560539+00:00"
 }

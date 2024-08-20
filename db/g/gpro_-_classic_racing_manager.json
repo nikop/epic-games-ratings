@@ -5,10 +5,10 @@
   "Ranking_Rating": 1228,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 440,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 444,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 673,
+  "EOS_Progressed": 675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1380,6 +1380,11 @@
       "Time": "2024-08-09T18:04:56.5713934+00:00",
       "NumProgressed": 673,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:57.1706563+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1391,7 +1396,7 @@
       "Name": "First taste",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -1453,9 +1458,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1599,7 +1604,7 @@
       "Name": "Loyalty",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_198",
@@ -1607,7 +1612,7 @@
       "Name": "Hero",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_199",
@@ -1767,7 +1772,7 @@
       "Name": "Drama queen",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_223",
@@ -1775,7 +1780,7 @@
       "Name": "Mr. Whiting",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_224",
@@ -2511,7 +2516,7 @@
       "Name": "Photo shoot",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -2631,7 +2636,7 @@
       "Name": "On the top",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_93",
@@ -2686,7 +2691,7 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 673,
+      "Progressed": 675,
       "Completed": 0
     }
   ],
@@ -2694,8 +2699,8 @@
   "FirstSeenRating": "2024-04-17T00:00:08.7036907+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
   "LastChanged": "2024-08-16T19:58:44.2679205+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:56.5713932+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:57.1706561+00:00",
   "LastUpdate_AppInfo": "2024-08-18T18:57:14.9554312+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:56.7798869+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:56.571622+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:57.1708794+00:00"
 }

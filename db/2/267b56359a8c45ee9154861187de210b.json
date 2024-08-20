@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 556,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 559,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 240,
+  "EOS_Progressed": 241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2024-08-09T18:06:58.232117+00:00",
       "NumProgressed": 240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:41.740994+00:00",
+      "NumProgressed": 241,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -757,9 +762,9 @@
       "ID": "TOURN_PARTICIP_20",
       "SetID": "3448go",
       "Name": "Mixing It Up!",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TOURN_PARTICIP_40",
@@ -797,9 +802,9 @@
       "ID": "TOURN_TOP_1",
       "SetID": "3448go",
       "Name": "Top of the World",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TOURN_TOP_12",
@@ -837,17 +842,17 @@
       "ID": "airtime_mid",
       "SetID": "3448go",
       "Name": "Red-eye Flight",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "airtime_short",
       "SetID": "3448go",
       "Name": "Glider",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "beat_c1_bronze",
@@ -869,17 +874,17 @@
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "beat_c1a_bronze",
@@ -901,9 +906,9 @@
       "ID": "beat_c1a_gold",
       "SetID": "3448go",
       "Name": "Sabbatical",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c1a_silver",
@@ -925,9 +930,9 @@
       "ID": "beat_c2_diamond",
       "SetID": "3448go",
       "Name": "Timing, Rhythm, and Rhyme",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "beat_c2_gold",
@@ -941,9 +946,9 @@
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "beat_c2a_bronze",
@@ -965,9 +970,9 @@
       "ID": "beat_c2a_gold",
       "SetID": "3448go",
       "Name": "A Lovely Expedition",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c2a_silver",
@@ -999,15 +1004,15 @@
       "Name": "Storm the Citadel",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "beat_c3a_bronze",
@@ -1029,9 +1034,9 @@
       "ID": "beat_c3a_gold",
       "SetID": "3448go",
       "Name": "A Welcome Escape",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c3a_silver",
@@ -1133,9 +1138,9 @@
       "ID": "beat_c5_silver",
       "SetID": "3448go",
       "Name": "Symbiotic Relationship",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "beat_c6_bronze",
@@ -1165,9 +1170,9 @@
       "ID": "beat_c6_silver",
       "SetID": "3448go",
       "Name": "Keepsake",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_mayhem",
@@ -1197,17 +1202,17 @@
       "ID": "beat_mayhem_silver",
       "SetID": "3448go",
       "Name": "Ultra Unleashed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "bonus_complete",
       "SetID": "3448go",
       "Name": "Extra Credit",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "bonus_diamond",
@@ -1325,9 +1330,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "rolldist_short",
@@ -1335,7 +1340,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "soccer_hattrick",
@@ -1373,9 +1378,9 @@
       "ID": "trophies_10",
       "SetID": "3448go",
       "Name": "Look What I Found!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "trophies_117",
@@ -1389,17 +1394,17 @@
       "ID": "trophies_25",
       "SetID": "3448go",
       "Name": "Marble Detector",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "trophies_50",
       "SetID": "3448go",
       "Name": "Super Sleuth",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "trophies_75",
@@ -1438,14 +1443,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 240,
+      "Progressed": 241,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:58.2321167+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:41.7409935+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:06.766826+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:43.3989567+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:58.2321901+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:22.192246+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:41.7410776+00:00"
 }

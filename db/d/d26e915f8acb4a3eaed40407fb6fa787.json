@@ -2,10 +2,10 @@
   "ID": "d26e915f8acb4a3eaed40407fb6fa787",
   "Name": "Kun\u0027tewiktuk: A Mi\u0027kmaw Adventure",
   "ProductSlug": "a-mikmaw-adventure-0d81fa",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T02:57:04.7970711+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:11.0047448+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:08.306734+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:46.3773198+00:00"
 }

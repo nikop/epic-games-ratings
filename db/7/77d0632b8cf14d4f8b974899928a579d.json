@@ -2,10 +2,10 @@
   "ID": "77d0632b8cf14d4f8b974899928a579d",
   "Name": "Sumerian Six",
   "ProductSlug": "sumerian-six-94d94e",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "43m367e",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-20T20:13:36.8744802+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:36.874478+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:12.5626756+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:54.0208539+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:03.1218472+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:46.3987112+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:36.8744819+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4017aaf2580940f981e66076469a1a99",
   "Name": "City Transport Simulator: Tram",
   "ProductSlug": "city-transport-simulator-tram-105774",
-  "Ranking_EOS_Progress": 967,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 921,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-20T14:00:02.305+00:00",
     "PcReleaseDate": "2024-06-20T17:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:05:02.2941248+00:00",
       "NumProgressed": 7,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:08.2480648+00:00",
+      "NumProgressed": 14,
       "NumCompleted": 0
     }
   ],
@@ -43,31 +48,31 @@
       "ID": "0000",
       "SetID": "3182ije",
       "Name": "Aspiring Tram Driver",
-      "Percentage": 71,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "0001",
       "SetID": "3182ije",
       "Name": "Tram Driver",
-      "Percentage": 71,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "0002",
       "SetID": "3182ije",
       "Name": "Natural Talent",
-      "Percentage": 57,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "0003",
       "SetID": "3182ije",
       "Name": "Experienced Tram Driver",
-      "Percentage": 14,
+      "Percentage": 7,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -83,17 +88,17 @@
       "ID": "0005",
       "SetID": "3182ije",
       "Name": "Driving Lessons",
-      "Percentage": 71,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "0006",
       "SetID": "3182ije",
       "Name": "Line Designer",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "0007",
@@ -101,7 +106,7 @@
       "Name": "Iconic Line",
       "Percentage": 14,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "0008",
@@ -115,9 +120,9 @@
       "ID": "0009",
       "SetID": "3182ije",
       "Name": "Happy Hauling",
-      "Percentage": 71,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "0010",
@@ -131,15 +136,15 @@
       "ID": "0011",
       "SetID": "3182ije",
       "Name": "First Transport",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "0012",
       "SetID": "3182ije",
       "Name": "Frequent Transit",
-      "Percentage": 14,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -163,15 +168,15 @@
       "ID": "0015",
       "SetID": "3182ije",
       "Name": "Track Explorer",
-      "Percentage": 57,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "0016",
       "SetID": "3182ije",
       "Name": "Urban Voyager",
-      "Percentage": 14,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -204,13 +209,13 @@
     {
       "ID": "3182ije",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:05:46.0649354+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:02.2941243+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:08.2480643+00:00",
   "LastUpdate_AppInfo": "2024-08-16T07:57:14.1986565+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:16.5210516+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:02.2949822+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:03.236799+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:08.2480755+00:00"
 }

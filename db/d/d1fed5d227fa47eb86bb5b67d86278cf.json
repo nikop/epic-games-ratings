@@ -2,10 +2,10 @@
   "ID": "d1fed5d227fa47eb86bb5b67d86278cf",
   "Name": "East Defense",
   "ProductSlug": "east-defence-1e49ab",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-10T22:00:00+00:00",
     "PcReleaseDate": "2024-06-10T22:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-06-18T01:51:11.3139668+00:00",
   "LastUpdate_AppInfo": "2024-08-20T02:57:06.3432872+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:01.6579131+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:11.3666729+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:50.9040498+00:00"
 }

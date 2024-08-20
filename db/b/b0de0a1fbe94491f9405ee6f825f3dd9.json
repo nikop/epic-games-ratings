@@ -2,10 +2,10 @@
   "ID": "b0de0a1fbe94491f9405ee6f825f3dd9",
   "Name": "Immortal Life",
   "ProductSlug": "immortal-life-771430",
-  "Ranking_EOS_Progress": 1085,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1099,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-21T00:00:00+00:00",
     "PcReleaseDate": "2024-01-18T07:00:00+00:00",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2024-06-26T05:58:27.2324214+00:00",
   "FirstSeenAchievements": "2024-03-21T17:11:54.6602326+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:59.1964779+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:00.8986719+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:13.3870461+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:50.3601892+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:59.1965319+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:46.4651064+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:00.8987307+00:00"
 }

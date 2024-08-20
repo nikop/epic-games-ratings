@@ -2,10 +2,10 @@
   "ID": "ef5a6a2ad7a24dbc91622a36ebc45ed0",
   "Name": "Line Time",
   "ProductSlug": "line-time-fb0cd9",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -163,8 +163,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:12.5987153+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:45.7787433+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:04.7571934+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:58.6747215+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:21.6189142+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:45.7795673+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:07.408424+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:04.757202+00:00"
 }

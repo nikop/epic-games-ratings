@@ -2,10 +2,10 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 594,
-  "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 599,
+  "Ranking_EOS_Completed": 319,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 178,
+  "EOS_Progressed": 179,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -824,6 +824,11 @@
       "Time": "2024-07-25T19:03:36.9996404+00:00",
       "NumProgressed": 178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:11:50.9543615+00:00",
+      "NumProgressed": 179,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -891,7 +896,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_endless_120",
@@ -907,15 +912,15 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_endless_c_60",
@@ -995,7 +1000,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_pulser_zone",
@@ -1042,14 +1047,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 178,
+      "Progressed": 179,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:03.3964048+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:50.9543608+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:15.3483663+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:54.6137644+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:03.3964198+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:50.9543806+00:00"
 }

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 66.00% | ~104 |
-| Good to grow | 53.00% | ~84 |
-| Ay ay yarrr! | 39.00% | ~62 |
-| Shine bright | 34.00% | ~54 |
-| Graduated | 29.00% | ~46 |
-| Irrigation not irritation | 29.00% | ~46 |
-| Fashionista | 28.00% | ~44 |
-| Peaceful skies | 19.00% | ~30 |
-| Night Shift | 17.00% | ~27 |
+| So it begins | 65.00% | ~105 |
+| Good to grow | 52.00% | ~84 |
+| Ay ay yarrr! | 40.00% | ~65 |
+| Shine bright | 35.00% | ~57 |
+| Graduated | 30.00% | ~49 |
+| Fashionista | 28.00% | ~45 |
+| Irrigation not irritation | 28.00% | ~45 |
+| Peaceful skies | 21.00% | ~34 |
+| Night Shift | 17.00% | ~28 |
 | There be sand in me shorts | 15.00% | ~24 |
-| C'who? | 11.00% | ~17 |
-| Make it rain | 11.00% | ~17 |
-| Holy Crops! | 9.00% | ~14 |
-| It's about the journey | 9.00% | ~14 |
-| Who let the pets out? | 6.00% | ~9 |
-| It's a bug's life | 6.00% | ~9 |
-| Do you wanna build a snowboiii? | 6.00% | ~9 |
-| It gets everywhere | 6.00% | ~9 |
+| C'who? | 12.00% | ~19 |
+| Make it rain | 10.00% | ~16 |
+| Holy Crops! | 9.00% | ~15 |
+| It's about the journey | 9.00% | ~15 |
+| It's a bug's life | 7.00% | ~11 |
+| Who let the pets out? | 6.00% | ~10 |
+| Do you wanna build a snowboiii? | 6.00% | ~10 |
+| It gets everywhere | 6.00% | ~10 |
+| V is for Vegan | 6.00% | ~10 |
+| Free Spirit | 5.00% | ~8 |
 | I am Root! | 5.00% | ~8 |
-| V is for Vegan | 5.00% | ~8 |
-| Free Spirit | 4.00% | ~6 |
 | Zap! | 4.00% | ~6 |
 | Groovy! | 3.00% | ~5 |
 | Veggie Master | 2.00% | ~3 |
@@ -36,8 +36,8 @@
 | Yeetus Deletus | 0.60% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 609)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 162 (Ranked 615)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-03-21 | 147 | 0 |
 | 2024-06-17 | 156 | 0 |
 | 2024-07-25 | 158 | 0 |
+| 2024-08-20 | 162 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

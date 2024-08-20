@@ -6,9 +6,9 @@
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1788,9 +1788,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 244566,
+  "EOS_Progressed": 245079,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 513,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32828,6 +32828,11 @@
       "Time": "2024-08-09T18:04:47.101363+00:00",
       "NumProgressed": 244566,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-20T20:07:42.3934891+00:00",
+      "NumProgressed": 245079,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 34,
@@ -32839,7 +32844,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48913
+      "UsersEstimate": 49016
     },
     {
       "ID": "ACH_BASE_10",
@@ -32847,7 +32852,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 63587
+      "UsersEstimate": 63721
     },
     {
       "ID": "ACH_BASE_11",
@@ -32855,7 +32860,7 @@
       "Name": "False God",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 978
+      "UsersEstimate": 980
     },
     {
       "ID": "ACH_BASE_12",
@@ -32863,7 +32868,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9783
+      "UsersEstimate": 9803
     },
     {
       "ID": "ACH_BASE_13",
@@ -32871,7 +32876,7 @@
       "Name": "Cohortus Maximus",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 2201
+      "UsersEstimate": 2206
     },
     {
       "ID": "ACH_BASE_15",
@@ -32879,7 +32884,7 @@
       "Name": "Power Ranger",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 24457
+      "UsersEstimate": 24508
     },
     {
       "ID": "ACH_BASE_16",
@@ -32887,7 +32892,7 @@
       "Name": "Galvanic Rifle",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 24457
+      "UsersEstimate": 24508
     },
     {
       "ID": "ACH_BASE_17",
@@ -32895,7 +32900,7 @@
       "Name": "Taser Goad",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 24457
+      "UsersEstimate": 24508
     },
     {
       "ID": "ACH_BASE_18",
@@ -32903,7 +32908,7 @@
       "Name": "Radium Ready",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 24457
+      "UsersEstimate": 24508
     },
     {
       "ID": "ACH_BASE_19",
@@ -32911,7 +32916,7 @@
       "Name": "Battle Servitor",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4902
     },
     {
       "ID": "ACH_BASE_2",
@@ -32919,7 +32924,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 14674
+      "UsersEstimate": 14705
     },
     {
       "ID": "ACH_BASE_20",
@@ -32927,7 +32932,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7352
     },
     {
       "ID": "ACH_BASE_21",
@@ -32935,7 +32940,7 @@
       "Name": "Ding Dong Szaregon\u0027s Gone",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4902
     },
     {
       "ID": "ACH_BASE_22",
@@ -32943,7 +32948,7 @@
       "Name": "Impatient destruction",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4902
     },
     {
       "ID": "ACH_BASE_23",
@@ -32959,7 +32964,7 @@
       "Name": "Mother of Xenarites",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1225
     },
     {
       "ID": "ACH_BASE_25",
@@ -32967,7 +32972,7 @@
       "Name": "Hard",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "ACH_BASE_26",
@@ -32983,7 +32988,7 @@
       "Name": "Sensory overload",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_BASE_28",
@@ -32991,7 +32996,7 @@
       "Name": "Transonic Blur",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_BASE_29",
@@ -33007,7 +33012,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9783
+      "UsersEstimate": 9803
     },
     {
       "ID": "ACH_BASE_30",
@@ -33039,7 +33044,7 @@
       "Name": "Not the Men-of-Iron",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "ACH_BASE_34",
@@ -33063,7 +33068,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7337
+      "UsersEstimate": 7352
     },
     {
       "ID": "ACH_BASE_5",
@@ -33071,7 +33076,7 @@
       "Name": "Vivisected Vizier",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4902
     },
     {
       "ID": "ACH_BASE_6",
@@ -33079,7 +33084,7 @@
       "Name": "Architect Abortion",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4891
+      "UsersEstimate": 4902
     },
     {
       "ID": "ACH_BASE_7",
@@ -33087,7 +33092,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 31794
+      "UsersEstimate": 31860
     },
     {
       "ID": "ACH_BASE_8",
@@ -33095,7 +33100,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9783
+      "UsersEstimate": 9803
     },
     {
       "ID": "ACH_BASE_9",
@@ -33103,14 +33108,14 @@
       "Name": "Half a cog",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 24457
+      "UsersEstimate": 24508
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 244566,
+      "Progressed": 245079,
       "Completed": 8
     }
   ],
@@ -33118,8 +33123,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-08-18T10:57:45.0270782+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:47.1013627+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:42.3934885+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:13.8927843+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:51.2408699+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:47.1015239+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:27.3362428+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:42.3936281+00:00"
 }

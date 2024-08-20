@@ -2,10 +2,10 @@
   "ID": "7ec64dbd5e634886915c1e9cf35f4d78",
   "Name": "JudgeSim",
   "ProductSlug": "judgesim-05690b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-14T06:00:00+00:00",
     "PcReleaseDate": "2024-06-14T06:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-06-15T18:58:05.5570808+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:00.1492833+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:34.0314775+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:59.1595567+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:29.3430518+00:00"
 }

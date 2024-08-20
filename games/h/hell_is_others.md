@@ -5,49 +5,49 @@ Rating: 4.39 (Ranked 881)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~82,170 |
-| Predator I | 23.00% | ~60,964 |
-| Fixer I | 10.00% | ~26,506 |
-| A week in Century City | 10.00% | ~26,506 |
-| The Wait | 7.00% | ~18,554 |
-| Green thumb I | 6.00% | ~15,904 |
-| Cleaning Company | 6.00% | ~15,904 |
-| Well-oiled machine | 5.00% | ~13,253 |
-| Vandalism | 5.00% | ~13,253 |
-| Saver I | 5.00% | ~13,253 |
-| The Ascent | 4.00% | ~10,603 |
-| Pacifist | 4.00% | ~10,603 |
-| Capitalist I | 4.00% | ~10,603 |
-| Fixer II | 3.00% | ~7,952 |
-| It took a while | 3.00% | ~7,952 |
-| Adrenaline | 3.00% | ~7,952 |
-| Predator II | 3.00% | ~7,952 |
-| By a hair | 2.00% | ~5,301 |
-| Samurai | 2.00% | ~5,301 |
-| I Left You a Present | 2.00% | ~5,301 |
-| Truffle Dog | 2.00% | ~5,301 |
-| Don't try this at home | 2.00% | ~5,301 |
-| A month in Century City | 2.00% | ~5,301 |
-| The Strengthening | 1.00% | ~2,651 |
-| Saver II | 1.00% | ~2,651 |
-| It's the last one, I swear | 1.00% | ~2,651 |
-| Botanist | 1.00% | ~2,651 |
-| Green thumb II | 1.00% | ~2,651 |
-| Bricklayer | 1.00% | ~2,651 |
-| Run the Economy | 1.00% | ~2,651 |
-| Committed Relationship | 0.80% | ~2,121 |
-| Number 1 | 0.80% | ~2,121 |
-| The Gamble | 0.60% | ~1,590 |
-| The Descent | 0.60% | ~1,590 |
-| A major purchase | 0.60% | ~1,590 |
-| Interior designer | 0.60% | ~1,590 |
-| Predator III | 0.50% | ~1,325 |
-| Arms dealer | 0.40% | ~1,060 |
-| Expert Hunter | 0.40% | ~1,060 |
-| Fungi hunter | 0.40% | ~1,060 |
-| Heartbreaker | 0.40% | ~1,060 |
-| Fixer III | 0.30% | ~795 |
-| AML questionnaire | 0.30% | ~795 |
+| Survivor | 31.00% | ~82,221 |
+| Predator I | 23.00% | ~61,003 |
+| Fixer I | 10.00% | ~26,523 |
+| A week in Century City | 10.00% | ~26,523 |
+| The Wait | 7.00% | ~18,566 |
+| Green thumb I | 6.00% | ~15,914 |
+| Cleaning Company | 6.00% | ~15,914 |
+| Well-oiled machine | 5.00% | ~13,262 |
+| Vandalism | 5.00% | ~13,262 |
+| Saver I | 5.00% | ~13,262 |
+| The Ascent | 4.00% | ~10,609 |
+| Pacifist | 4.00% | ~10,609 |
+| Capitalist I | 4.00% | ~10,609 |
+| Fixer II | 3.00% | ~7,957 |
+| It took a while | 3.00% | ~7,957 |
+| Adrenaline | 3.00% | ~7,957 |
+| Predator II | 3.00% | ~7,957 |
+| By a hair | 2.00% | ~5,305 |
+| Samurai | 2.00% | ~5,305 |
+| I Left You a Present | 2.00% | ~5,305 |
+| Truffle Dog | 2.00% | ~5,305 |
+| Don't try this at home | 2.00% | ~5,305 |
+| A month in Century City | 2.00% | ~5,305 |
+| The Strengthening | 1.00% | ~2,652 |
+| Saver II | 1.00% | ~2,652 |
+| It's the last one, I swear | 1.00% | ~2,652 |
+| Botanist | 1.00% | ~2,652 |
+| Green thumb II | 1.00% | ~2,652 |
+| Bricklayer | 1.00% | ~2,652 |
+| Run the Economy | 1.00% | ~2,652 |
+| Committed Relationship | 0.80% | ~2,122 |
+| Number 1 | 0.80% | ~2,122 |
+| The Gamble | 0.60% | ~1,591 |
+| The Descent | 0.60% | ~1,591 |
+| A major purchase | 0.60% | ~1,591 |
+| Interior designer | 0.60% | ~1,591 |
+| Predator III | 0.50% | ~1,326 |
+| Arms dealer | 0.40% | ~1,061 |
+| Expert Hunter | 0.40% | ~1,061 |
+| Fungi hunter | 0.40% | ~1,061 |
+| Heartbreaker | 0.40% | ~1,061 |
+| Fixer III | 0.30% | ~796 |
+| AML questionnaire | 0.30% | ~796 |
 | Workhorse | 0.20% | ~530 |
 | Homerun | 0.20% | ~530 |
 | Capitalist II | 0.20% | ~530 |
@@ -62,8 +62,8 @@ Rating: 4.39 (Ranked 881)
 | Capitalist III | 0.10% | ~265 |
 | Hell Is You | 0.10% | ~265 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265,063 (Ranked 83)  
-Completed: 6 (0.00%) (Ranked 554)  
+Progressed: 265,230 (Ranked 83)  
+Completed: 6 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,6 +351,7 @@ Completed: 6 (0.00%) (Ranked 554)
 | 2024-06-17 | 264,251 | 4 |
 | 2024-07-24 | 264,813 | 5 |
 | 2024-08-09 | 265,063 | 6 |
+| 2024-08-20 | 265,230 | 6 |
 ## Awards
 Max (Great for Quick Sessions): 81  (Ranked 486)  
 Sum: 524 (Ranked 395)  

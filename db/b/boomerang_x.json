@@ -2,10 +2,10 @@
   "ID": "362563bfd35c4188acdfda0ed6766683",
   "Name": "Boomerang X",
   "ProductSlug": "boomerang-x",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-07-08T15:00:00+00:00",
     "PcReleaseDate": "2021-07-08T15:00:00+00:00",
@@ -44,5 +44,5 @@
   "LastChanged": "2023-03-31T05:58:42.8367277+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:20.8952156+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:27.0928902+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:02.9777917+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:06:14.4453415+00:00"
 }

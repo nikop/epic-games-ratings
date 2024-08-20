@@ -6,11 +6,11 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 17.00% | ~801 |
+| Eureka! | 18.00% | ~848 |
 | Tax-man I | 16.00% | ~754 |
 | A new beginning | 16.00% | ~754 |
+| Friends from the past | 14.00% | ~659 |
 | I like to build stuff... I | 13.00% | ~612 |
-| Friends from the past | 13.00% | ~612 |
 | A time consuming game I | 12.00% | ~565 |
 | Builder I | 11.00% | ~518 |
 | An honorable Governor I | 11.00% | ~518 |
@@ -21,8 +21,8 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 9.00% | ~424 |
 | I like to build stuff... II | 9.00% | ~424 |
 | Completionist I | 9.00% | ~424 |
+| Full-time job II | 9.00% | ~424 |
 | A time consuming game II | 9.00% | ~424 |
-| Full-time job II | 8.00% | ~377 |
 | Tax-man III | 8.00% | ~377 |
 | Tools of the trade I | 8.00% | ~377 |
 | Knee deep in snow | 8.00% | ~377 |
@@ -53,25 +53,25 @@ Number of Ratings: 37  (23.09.2022)
 | The Art of War | 3.00% | ~141 |
 | Five brews are a schnitzel | 3.00% | ~141 |
 | The King's new clothes III | 3.00% | ~141 |
+| My precious... III | 3.00% | ~141 |
+| Plague strikes! | 3.00% | ~141 |
 | Completionist II | 3.00% | ~141 |
 | Genius | 3.00% | ~141 |
 | I've been everywhere V | 3.00% | ~141 |
 | Tools of the trade III | 3.00% | ~141 |
 | When there's fire... | 2.00% | ~94 |
 | Survivalist | 2.00% | ~94 |
-| My precious... III | 2.00% | ~94 |
 | Lord of War | 2.00% | ~94 |
-| Plague strikes! | 2.00% | ~94 |
 | Builder IV | 2.00% | ~94 |
 | An honorable Governor III | 2.00% | ~94 |
 | Completionist III | 2.00% | ~94 |
 | Only the sausage has two ends. | 2.00% | ~94 |
+| Reunification | 2.00% | ~94 |
 | I've been everywhere II | 2.00% | ~94 |
 | I've been everywhere I | 2.00% | ~94 |
 | Tax-man V | 2.00% | ~94 |
 | A time consuming game V | 2.00% | ~94 |
 | Builder V | 1.00% | ~47 |
-| Reunification | 1.00% | ~47 |
 | Buried | 1.00% | ~47 |
 | Ten-Hut! | 1.00% | ~47 |
 | Treat her well… | 1.00% | ~47 |
@@ -79,13 +79,13 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VI | 1.00% | ~47 |
 | The wood shortage | 1.00% | ~47 |
 | Craftsmen challenge | 0.90% | ~42 |
+| To serve and protect | 0.90% | ~42 |
 | Last man standing | 0.80% | ~38 |
 | I've been everywhere III | 0.80% | ~38 |
 | Little place in the country | 0.80% | ~38 |
 | Made my choice | 0.80% | ~38 |
 | I've been everywhere VII | 0.80% | ~38 |
 | Impregnable | 0.80% | ~38 |
-| To serve and protect | 0.80% | ~38 |
 | I've been everywhere IV | 0.70% | ~33 |
 | Governor-elect | 0.70% | ~33 |
 | I've been everywhere VIII | 0.70% | ~33 |
@@ -108,8 +108,8 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~5 |
 | We can rebuild it! | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,710 (Ranked 282)  
-Completed: 4 (0.08%) (Ranked 442)  
+Progressed: 4,710 (Ranked 286)  
+Completed: 4 (0.08%) (Ranked 447)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

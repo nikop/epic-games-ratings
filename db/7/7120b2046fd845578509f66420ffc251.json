@@ -2,10 +2,10 @@
   "ID": "7120b2046fd845578509f66420ffc251",
   "Name": "KLONOA Phantasy Reverie Series",
   "ProductSlug": "klonoa-phantasy-reverie-series",
-  "Ranking_EOS_Progress": 926,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 936,
+  "Ranking_EOS_Completed": 44,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-23T01:00:00+00:00",
     "PcReleaseDate": "2022-07-07T15:00:00+00:00",
@@ -252,8 +252,8 @@
   ],
   "FirstSeen": "2024-05-27T11:01:12.7290196+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:40.08226+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:21.1255935+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:22.244856+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:29.3710954+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:05.3860467+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:21.1256088+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:36.711637+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:22.2448717+00:00"
 }

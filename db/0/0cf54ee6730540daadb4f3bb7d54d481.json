@@ -2,10 +2,10 @@
   "ID": "0cf54ee6730540daadb4f3bb7d54d481",
   "Name": "Republic of Pirates",
   "ProductSlug": "republic-of-pirates-b6dfa6",
-  "Ranking_EOS_Progress": 647,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-19T16:00:00+00:00",
     "PcReleaseDate": "2024-06-19T16:00:00+00:00",
@@ -459,6 +459,6 @@
   "FirstSeenAchievements": "2024-04-10T06:03:53.1915936+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:34.9894742+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:11.6422344+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:12.9605276+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:58:21.6532503+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:34.9895103+00:00"
 }

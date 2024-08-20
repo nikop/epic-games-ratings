@@ -5,32 +5,32 @@ Rating: 4.63 (Ranked 396)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 24.00% | ~278 |
-| Dental maturity | 19.00% | ~220 |
-| Devil's in the details | 14.00% | ~162 |
-| Uprooting | 13.00% | ~151 |
-| Forbidden techniques | 11.00% | ~127 |
-| Devoted | 9.00% | ~104 |
+| Tooth fairy | 24.00% | ~280 |
+| Dental maturity | 19.00% | ~222 |
+| Devil's in the details | 14.00% | ~163 |
+| Uprooting | 13.00% | ~152 |
+| Forbidden techniques | 11.00% | ~128 |
+| Devoted | 9.00% | ~105 |
 | Slavic squatter | 8.00% | ~93 |
-| Spirit animal | 7.00% | ~81 |
-| Liar Liar | 7.00% | ~81 |
+| Spirit animal | 7.00% | ~82 |
+| Liar Liar | 7.00% | ~82 |
 | Fishing fanatic | 6.00% | ~70 |
 | Gold rush | 6.00% | ~70 |
 | The word around is... | 5.00% | ~58 |
 | A friend in need... | 5.00% | ~58 |
 | The cycle acknowledged | 5.00% | ~58 |
 | Baba Yaga | 5.00% | ~58 |
-| Extensive retelling | 4.00% | ~46 |
-| Sneak peek | 4.00% | ~46 |
-| Favorite | 4.00% | ~46 |
-| Queen | 4.00% | ~46 |
-| Specialist | 4.00% | ~46 |
-| Both sides | 3.00% | ~35 |
+| Extensive retelling | 4.00% | ~47 |
+| Sneak peek | 4.00% | ~47 |
+| Favorite | 4.00% | ~47 |
+| Queen | 4.00% | ~47 |
+| Specialist | 4.00% | ~47 |
 | Toxic | 3.00% | ~35 |
 | Witch's cookbook | 3.00% | ~35 |
 | Loremaster | 2.00% | ~23 |
 | Goal! | 2.00% | ~23 |
 | Gnowlledgeable | 2.00% | ~23 |
+| Both sides | 2.00% | ~23 |
 | Always worth a try | 2.00% | ~23 |
 | Entangled | 2.00% | ~23 |
 | Bad apple | 1.00% | ~12 |
@@ -38,8 +38,8 @@ Rating: 4.63 (Ranked 396)
 | Mushrooming enthusiast | 0.70% | ~8 |
 | Apex predator | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,159 (Ranked 393)  
-Completed: 2 (0.17%) (Ranked 400)  
+Progressed: 1,167 (Ranked 396)  
+Completed: 2 (0.17%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,6 +268,7 @@ Completed: 2 (0.17%) (Ranked 400)
 | 2024-04-10 | 1,040 | 2 |
 | 2024-06-17 | 1,117 | 2 |
 | 2024-08-09 | 1,159 | 2 |
+| 2024-08-20 | 1,167 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

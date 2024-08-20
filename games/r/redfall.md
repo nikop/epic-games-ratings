@@ -5,44 +5,44 @@ Rating: 3.71 (Ranked 1,253)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 29.00% | ~762 |
-| Catch and Release | 23.00% | ~604 |
-| Home Is Where the Heart Is | 22.00% | ~578 |
-| ICU | 21.00% | ~552 |
-| Wounded Whispers | 21.00% | ~552 |
-| Blood Will Have Blood | 18.00% | ~473 |
-| Ne Plus Ultra | 18.00% | ~473 |
-| Fly Fisher | 18.00% | ~473 |
-| Peek-a-boo | 18.00% | ~473 |
-| Sucks To Be You | 17.00% | ~447 |
-| Throw The First Stone | 16.00% | ~420 |
-| Enter of Your Own Free Will | 15.00% | ~394 |
-| Welcome to the Neighborhood | 15.00% | ~394 |
-| Heart Attack | 15.00% | ~394 |
-| Grounded | 13.00% | ~342 |
-| Skin of Their Teeth | 13.00% | ~342 |
-| Neighborhood Revitalization | 11.00% | ~289 |
-| Radio Silence | 11.00% | ~289 |
-| Bad Wiring | 10.00% | ~263 |
-| You Clean It Up | 8.00% | ~210 |
-| From the Shadows | 8.00% | ~210 |
-| Sic Transit Umbra | 7.00% | ~184 |
-| Bell-ringer | 7.00% | ~184 |
-| Silence Is Golden | 7.00% | ~184 |
-| Good Morning | 7.00% | ~184 |
-| Harvest’s End | 7.00% | ~184 |
-| Helping Hand | 7.00% | ~184 |
-| I Spit On Your Grave | 7.00% | ~184 |
-| Revelations | 6.00% | ~158 |
-| Contingency Plans | 5.00% | ~131 |
-| Block Party | 5.00% | ~131 |
-| Check, Please! | 5.00% | ~131 |
-| Starve the Beast | 5.00% | ~131 |
-| Curious Finch | 4.00% | ~105 |
-| Empty Nest Syndrome | 3.00% | ~79 |
-| Right This Way | 3.00% | ~79 |
-| Nice Try | 3.00% | ~79 |
-| Blacklight Down | 3.00% | ~79 |
+| I Like My Stakes Rare! | 29.00% | ~770 |
+| Catch and Release | 24.00% | ~637 |
+| Home Is Where the Heart Is | 22.00% | ~584 |
+| ICU | 22.00% | ~584 |
+| Wounded Whispers | 22.00% | ~584 |
+| Blood Will Have Blood | 19.00% | ~504 |
+| Ne Plus Ultra | 19.00% | ~504 |
+| Peek-a-boo | 19.00% | ~504 |
+| Fly Fisher | 18.00% | ~478 |
+| Sucks To Be You | 18.00% | ~478 |
+| Throw The First Stone | 16.00% | ~425 |
+| Enter of Your Own Free Will | 15.00% | ~398 |
+| Welcome to the Neighborhood | 15.00% | ~398 |
+| Heart Attack | 15.00% | ~398 |
+| Grounded | 14.00% | ~372 |
+| Skin of Their Teeth | 13.00% | ~345 |
+| Neighborhood Revitalization | 11.00% | ~292 |
+| Bad Wiring | 11.00% | ~292 |
+| Radio Silence | 11.00% | ~292 |
+| You Clean It Up | 8.00% | ~212 |
+| From the Shadows | 8.00% | ~212 |
+| Sic Transit Umbra | 7.00% | ~186 |
+| Bell-ringer | 7.00% | ~186 |
+| Silence Is Golden | 7.00% | ~186 |
+| Good Morning | 7.00% | ~186 |
+| Harvest’s End | 7.00% | ~186 |
+| Helping Hand | 7.00% | ~186 |
+| I Spit On Your Grave | 7.00% | ~186 |
+| Revelations | 6.00% | ~159 |
+| Contingency Plans | 5.00% | ~133 |
+| Block Party | 5.00% | ~133 |
+| Check, Please! | 5.00% | ~133 |
+| Starve the Beast | 5.00% | ~133 |
+| Curious Finch | 4.00% | ~106 |
+| Empty Nest Syndrome | 3.00% | ~80 |
+| Right This Way | 3.00% | ~80 |
+| Nice Try | 3.00% | ~80 |
+| Blacklight Down | 3.00% | ~80 |
 | Neighborhood Watch | 2.00% | ~53 |
 | Blood Brother | 2.00% | ~53 |
 | Sisterhood | 2.00% | ~53 |
@@ -50,19 +50,19 @@ Rating: 3.71 (Ranked 1,253)
 | Bloody Initiate | 2.00% | ~53 |
 | Under a Bushel | 2.00% | ~53 |
 | Good Samaritan | 2.00% | ~53 |
-| Scream Team | 1.00% | ~26 |
-| Monster Hunters Club | 1.00% | ~26 |
-| Friendgineering | 1.00% | ~26 |
-| So Anyway I Started Blasting | 1.00% | ~26 |
-| Dexterity Save | 1.00% | ~26 |
+| Scream Team | 1.00% | ~27 |
+| Monster Hunters Club | 1.00% | ~27 |
+| Friendgineering | 1.00% | ~27 |
+| So Anyway I Started Blasting | 1.00% | ~27 |
+| Dexterity Save | 1.00% | ~27 |
 | Enemy of My Enemy | 0.90% | ~24 |
 | Bob’s Final Hour | 0.80% | ~21 |
 | Someplace to Be | 0.50% | ~13 |
 | A Cry in the Dark | 0.40% | ~11 |
 | Sepsis | 0.40% | ~11 |
+| Rum Runner | 0.40% | ~11 |
 | Friends 'Til The End | 0.40% | ~11 |
 | Faith Healer | 0.30% | ~8 |
-| Rum Runner | 0.30% | ~8 |
 | Ask Not For Whom The Horns Blow | 0.20% | ~5 |
 | Eagle Eyes | 0.20% | ~5 |
 | Deforestation | 0.00% | ~0 |
@@ -72,8 +72,8 @@ Rating: 3.71 (Ranked 1,253)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,627 (Ranked 326)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 2,654 (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,10 +239,11 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 2,610 | 0 |
 | 2024-07-24 | 2,624 | 0 |
 | 2024-08-09 | 2,627 | 0 |
+| 2024-08-20 | 2,654 | 0 |
 ## Awards
 Max (Great Boss Battles): 48  (Ranked 548)  
-Sum: 48 (Ranked 613)  
-Diff (max vs sum): -65  
+Sum: 48 (Ranked 614)  
+Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 48 |

@@ -2,10 +2,10 @@
   "ID": "685f5a4e22814cf88dd98cdda721649e",
   "Name": "Airport",
   "ProductSlug": "airport-2919b6",
-  "Ranking_EOS_Progress": 1022,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1033,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-09T23:00:00+00:00",
     "PcReleaseDate": "2024-08-09T23:00:00+00:00",
@@ -414,6 +414,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:02.5853126+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:02.5852934+00:00",
   "LastUpdate_AppInfo": "2024-08-18T14:57:03.9143867+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:36.5559923+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:16.4318413+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:02.5876779+00:00"
 }

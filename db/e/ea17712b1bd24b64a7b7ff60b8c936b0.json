@@ -2,10 +2,10 @@
   "ID": "ea17712b1bd24b64a7b7ff60b8c936b0",
   "Name": "Evil Tonight",
   "ProductSlug": "evil-tonight-e80382",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-10-14T08:00:00+00:00",
@@ -107,8 +107,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:57.7933513+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:15.5677729+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:58.4256501+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:08.119771+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:42.2565232+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:15.5677813+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:21.4425331+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:58.4256568+00:00"
 }

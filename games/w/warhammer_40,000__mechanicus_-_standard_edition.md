@@ -5,32 +5,32 @@ Rating: 4.44 (Ranked 794)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~63,587 |
-| This is only the beginning | 20.00% | ~48,913 |
-| Knowledge is power | 13.00% | ~31,794 |
-| Power Ranger | 10.00% | ~24,457 |
-| Galvanic Rifle | 10.00% | ~24,457 |
-| Taser Goad | 10.00% | ~24,457 |
-| Radium Ready | 10.00% | ~24,457 |
-| Half a cog | 10.00% | ~24,457 |
-| Watch them crumble | 6.00% | ~14,674 |
-| Competent Cohort | 4.00% | ~9,783 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,783 |
-| One with the Machine | 4.00% | ~9,783 |
-| Legio Cybernetica | 3.00% | ~7,337 |
-| Fleshy Disposal | 3.00% | ~7,337 |
-| Battle Servitor | 2.00% | ~4,891 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,891 |
-| Impatient destruction | 2.00% | ~4,891 |
-| Vivisected Vizier | 2.00% | ~4,891 |
-| Architect Abortion | 2.00% | ~4,891 |
-| Cohortus Maximus | 0.90% | ~2,201 |
-| Mother of Xenarites | 0.50% | ~1,223 |
-| False God | 0.40% | ~978 |
-| Hard | 0.30% | ~734 |
-| Sensory overload | 0.20% | ~489 |
-| Transonic Blur | 0.20% | ~489 |
-| Not the Men-of-Iron | 0.20% | ~489 |
+| No aid from the Omnissiah | 26.00% | ~63,721 |
+| This is only the beginning | 20.00% | ~49,016 |
+| Knowledge is power | 13.00% | ~31,860 |
+| Power Ranger | 10.00% | ~24,508 |
+| Galvanic Rifle | 10.00% | ~24,508 |
+| Taser Goad | 10.00% | ~24,508 |
+| Radium Ready | 10.00% | ~24,508 |
+| Half a cog | 10.00% | ~24,508 |
+| Watch them crumble | 6.00% | ~14,705 |
+| Competent Cohort | 4.00% | ~9,803 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,803 |
+| One with the Machine | 4.00% | ~9,803 |
+| Legio Cybernetica | 3.00% | ~7,352 |
+| Fleshy Disposal | 3.00% | ~7,352 |
+| Battle Servitor | 2.00% | ~4,902 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,902 |
+| Impatient destruction | 2.00% | ~4,902 |
+| Vivisected Vizier | 2.00% | ~4,902 |
+| Architect Abortion | 2.00% | ~4,902 |
+| Cohortus Maximus | 0.90% | ~2,206 |
+| Mother of Xenarites | 0.50% | ~1,225 |
+| False God | 0.40% | ~980 |
+| Hard | 0.30% | ~735 |
+| Sensory overload | 0.20% | ~490 |
+| Transonic Blur | 0.20% | ~490 |
+| Not the Men-of-Iron | 0.20% | ~490 |
 | Sterile Perfection | 0.10% | ~245 |
 | Impossible | 0.10% | ~245 |
 | Melee Machine | 0.10% | ~245 |
@@ -40,8 +40,8 @@ Rating: 4.44 (Ranked 794)
 | Perma-live | 0.10% | ~245 |
 | Purge the Heretek | 0.10% | ~245 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244,566 (Ranked 90)  
-Completed: 8 (0.00%) (Ranked 554)  
+Progressed: 245,079 (Ranked 90)  
+Completed: 8 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -328,6 +328,7 @@ Completed: 8 (0.00%) (Ranked 554)
 | 2024-04-10 | 237,952 | 5 |
 | 2024-06-17 | 242,215 | 6 |
 | 2024-08-09 | 244,566 | 8 |
+| 2024-08-20 | 245,079 | 8 |
 ## Awards
 Max (Highly Recommended): 307  (Ranked 303)  
 Sum: 2,357 (Ranked 236)  

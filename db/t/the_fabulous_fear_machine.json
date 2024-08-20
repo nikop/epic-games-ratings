@@ -2,10 +2,10 @@
   "ID": "599554e2ea49491bb9ca088a43fec83a",
   "Name": "The Fabulous Fear Machine",
   "ProductSlug": "the-fabulous-fear-machine-8e7c6b",
-  "Ranking_EOS_Progress": 643,
-  "Ranking_EOS_Completed": 280,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Completed": 286,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-04T16:00:00+00:00",
     "PcReleaseDate": "2023-10-04T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-09-21T16:04:08.4521224+00:00",
@@ -509,6 +509,11 @@
       "Time": "2024-08-09T18:05:34.2747288+00:00",
       "NumProgressed": 121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:09:14.6982862+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-15T20:07:40.8374596+00:00",
@@ -559,9 +564,9 @@
       "ID": "14",
       "SetID": "d37idgg",
       "Name": "The beast in the Oval Office",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "15",
@@ -591,7 +596,7 @@
       "ID": "18",
       "SetID": "d37idgg",
       "Name": "Jung\u0027s dream",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 59
     },
@@ -617,7 +622,7 @@
       "Name": "A rival with no options",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "21",
@@ -641,15 +646,15 @@
       "Name": "The seer",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "24",
       "SetID": "d37idgg",
       "Name": "The bully",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "25",
@@ -697,7 +702,7 @@
       "Name": "The battle of Great Britain",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "30",
@@ -743,9 +748,9 @@
       "ID": "35",
       "SetID": "d37idgg",
       "Name": "Pulp! Where Monsters Dwell",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "36",
@@ -753,7 +758,7 @@
       "Name": "Pulp! Out of this World",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "37",
@@ -769,7 +774,7 @@
       "Name": "Pulp! True Adventures",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "39",
@@ -783,9 +788,9 @@
       "ID": "4",
       "SetID": "d37idgg",
       "Name": "A continent with chemistry",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 41
     },
     {
       "ID": "40",
@@ -896,14 +901,14 @@
     {
       "ID": "d37idgg",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-04T21:00:27.0019409+00:00",
   "FirstSeenAchievements": "2023-09-01T11:02:14.7440084+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:34.2747283+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:14.6982855+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:13.6044896+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:12.8566463+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:34.2747706+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:14.6983201+00:00"
 }

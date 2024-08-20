@@ -1,24 +1,24 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.55 (Ranked 578)  
+Rating: 4.55 (Ranked 577)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 86.00% | ~1,437 |
-| Household | 6.00% | ~100 |
-| An Old Friend | 6.00% | ~100 |
+| Fresh Prince of Trudograd | 86.00% | ~1,445 |
+| Household | 6.00% | ~101 |
+| An Old Friend | 6.00% | ~101 |
 | Lot 49 | 5.00% | ~84 |
 | Viva La Revolution | 5.00% | ~84 |
 | Atomic Soda | 4.00% | ~67 |
+| Mysterious Knife | 4.00% | ~67 |
 | Walking Fortress | 4.00% | ~67 |
 | Freelance Police | 3.00% | ~50 |
-| Mysterious Knife | 3.00% | ~50 |
 | The Great and Powerful | 3.00% | ~50 |
 | Shadow over Trudograd | 3.00% | ~50 |
-| Albino Bloodsucker | 2.00% | ~33 |
-| Fight Club | 2.00% | ~33 |
-| Human Antidote | 2.00% | ~33 |
+| Albino Bloodsucker | 2.00% | ~34 |
+| Fight Club | 2.00% | ~34 |
+| Human Antidote | 2.00% | ~34 |
 | Death of the Author | 1.00% | ~17 |
 | Memoirs of a Nibbler | 1.00% | ~17 |
 | KGB Bunker | 0.80% | ~13 |
@@ -38,8 +38,8 @@ Rating: 4.55 (Ranked 578)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,671 (Ranked 366)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 1,680 (Ranked 371)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -243,6 +243,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 1,507 | 0 |
 | 2024-06-17 | 1,575 | 0 |
 | 2024-08-09 | 1,671 | 0 |
+| 2024-08-20 | 1,680 | 0 |
 ## Awards
 Max (Character Customization): 28  (Ranked 634)  
 Sum: 28 (Ranked 656)  

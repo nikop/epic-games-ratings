@@ -2,10 +2,10 @@
   "ID": "3347fc952acb48f1a4cbd0896e1316dc",
   "Name": "ChronoForge",
   "ProductSlug": "chronoforge-8bffb6",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-01T06:59:29.6919449+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:17.7266929+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:05.4325151+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:20.9064658+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:36.8177535+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:22.0426599+00:00"
 }

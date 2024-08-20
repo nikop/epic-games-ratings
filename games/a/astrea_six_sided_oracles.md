@@ -5,36 +5,36 @@ Rating: 4.45 (Ranked 770)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 86.00% | ~415 |
-| Purification Pioneer | 82.00% | ~396 |
-| Mechanical Buddy | 76.00% | ~367 |
-| Dicesmithing Time! | 66.00% | ~319 |
-| Sanctuary Guardian | 57.00% | ~275 |
-| Endless Tricks | 54.00% | ~261 |
-| Wild's Keeper | 52.00% | ~251 |
-| Mind Illuminator | 48.00% | ~232 |
-| Stellar Dismantler | 43.00% | ~208 |
-| Astral Adventurer | 38.00% | ~184 |
-| Noctuan Champion | 38.00% | ~184 |
-| Anomaly Destroyer | 36.00% | ~174 |
-| Star Killer | 34.00% | ~164 |
-| Eridanian Champion | 30.00% | ~145 |
-| Lacertian Champion | 25.00% | ~121 |
-| Loyal Partner | 24.00% | ~116 |
-| Apian Champion | 23.00% | ~111 |
-| Shard Spender | 22.00% | ~106 |
+| Meissa's Savior | 86.00% | ~418 |
+| Purification Pioneer | 82.00% | ~399 |
+| Mechanical Buddy | 76.00% | ~369 |
+| Dicesmithing Time! | 66.00% | ~321 |
+| Sanctuary Guardian | 57.00% | ~277 |
+| Endless Tricks | 54.00% | ~262 |
+| Wild's Keeper | 52.00% | ~253 |
+| Mind Illuminator | 48.00% | ~233 |
+| Stellar Dismantler | 43.00% | ~209 |
+| Astral Adventurer | 38.00% | ~185 |
+| Noctuan Champion | 38.00% | ~185 |
+| Anomaly Destroyer | 36.00% | ~175 |
+| Star Killer | 34.00% | ~165 |
+| Eridanian Champion | 30.00% | ~146 |
+| Lacertian Champion | 26.00% | ~126 |
+| Loyal Partner | 24.00% | ~117 |
+| Apian Champion | 23.00% | ~112 |
+| Shard Spender | 22.00% | ~107 |
 | Sadistic Plan | 19.00% | ~92 |
 | Unbeatable | 19.00% | ~92 |
 | Behenian Champion | 18.00% | ~87 |
+| Wave Bender | 13.00% | ~63 |
 | Heavy Purger | 12.00% | ~58 |
-| Wave Bender | 12.00% | ~58 |
 | Aquarian Champion | 12.00% | ~58 |
 | Astral Seeker | 11.00% | ~53 |
-| Can't touch this | 9.00% | ~43 |
-| Heart Gate | 9.00% | ~43 |
-| Stellar Haste | 9.00% | ~43 |
-| The Corruption Goddess | 9.00% | ~43 |
-| The Goddes Avatar | 9.00% | ~43 |
+| Can't touch this | 9.00% | ~44 |
+| Heart Gate | 9.00% | ~44 |
+| Stellar Haste | 9.00% | ~44 |
+| The Corruption Goddess | 9.00% | ~44 |
+| The Goddes Avatar | 9.00% | ~44 |
 | Favored by the Cosmos | 7.00% | ~34 |
 | Artificer | 6.00% | ~29 |
 | Prestidigitation | 6.00% | ~29 |
@@ -51,17 +51,17 @@ Rating: 4.45 (Ranked 770)
 | Behenian Hero | 4.00% | ~19 |
 | Lacertian Hero | 4.00% | ~19 |
 | Noctuan Hero | 4.00% | ~19 |
-| Pocket Astrarium | 3.00% | ~14 |
-| Purification Avatar | 3.00% | ~14 |
-| The Abyssal Terror | 3.00% | ~14 |
-| Eridanian Hero | 3.00% | ~14 |
-| Noctuan Mastery | 3.00% | ~14 |
+| Pocket Astrarium | 3.00% | ~15 |
+| Purification Avatar | 3.00% | ~15 |
+| The Abyssal Terror | 3.00% | ~15 |
+| Aquarian Hero | 3.00% | ~15 |
+| Eridanian Hero | 3.00% | ~15 |
+| Noctuan Mastery | 3.00% | ~15 |
 | Astromancer | 2.00% | ~10 |
 | Critical Twist | 2.00% | ~10 |
 | Reflexive Mind | 2.00% | ~10 |
 | Sentinelphobic | 2.00% | ~10 |
 | Apian Mastery | 2.00% | ~10 |
-| Aquarian Hero | 2.00% | ~10 |
 | Aquarian Mastery | 2.00% | ~10 |
 | Behenian Mastery | 2.00% | ~10 |
 | Eridanian Mastery | 2.00% | ~10 |
@@ -104,8 +104,8 @@ Rating: 4.45 (Ranked 770)
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483 (Ranked 471)  
-Completed: 1 (0.21%) (Ranked 382)  
+Progressed: 486 (Ranked 476)  
+Completed: 1 (0.21%) (Ranked 388)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -198,6 +198,7 @@ Completed: 1 (0.21%) (Ranked 382)
 | 2024-06-17 | 466 | 1 |
 | 2024-07-25 | 478 | 1 |
 | 2024-08-09 | 483 | 1 |
+| 2024-08-20 | 486 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

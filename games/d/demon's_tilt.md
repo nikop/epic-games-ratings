@@ -1,7 +1,7 @@
 # DEMON'S TILT
 [Store](https://store.epicgames.com/en-US/p/demons-tilt)  
 [View Rawdata](../../db/d/demon's_tilt.json)  
-Rating: 4.55 (Ranked 578)  
+Rating: 4.55 (Ranked 577)  
 Number of Ratings: 276  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -36,8 +36,8 @@ Number of Ratings: 276  (23.09.2022)
 | WIZARD MODE | 0.80% | ~121 |
 | You Say Homonculus, I Say Homonculi | 0.20% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,131 (Ranked 229)  
-Completed: 17 (0.11%) (Ranked 426)  
+Progressed: 15,131 (Ranked 231)  
+Completed: 17 (0.11%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

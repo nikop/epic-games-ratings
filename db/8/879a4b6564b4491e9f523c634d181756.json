@@ -2,10 +2,10 @@
   "ID": "879a4b6564b4491e9f523c634d181756",
   "Name": "Awaken",
   "ProductSlug": "awaken-257d0f",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-05T07:04:49.498+00:00",
     "PcReleaseDate": "2024-01-20T00:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-07T00:00:02.9216312+00:00",
   "LastUpdate_AppInfo": "2024-08-14T20:57:19.004252+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:57.3015609+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:58:10.8003191+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:31.5236786+00:00"
 }

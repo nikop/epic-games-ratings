@@ -29,8 +29,8 @@
 | Master Cave Plunderer | 3.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 642)  
-Completed: 1 (0.82%) (Ranked 281)  
+Progressed: 122 (Ranked 648)  
+Completed: 1 (0.82%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

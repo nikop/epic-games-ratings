@@ -5,29 +5,29 @@ Rating: 4.26 (Ranked 1,035)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of Shape | 4.00% | ~3,029 |
-| Bonfire Lit | 3.00% | ~2,272 |
-| Survival Expert | 3.00% | ~2,272 |
-| Denial | 2.00% | ~1,515 |
-| Acceptance | 2.00% | ~1,515 |
-| Bargaining | 2.00% | ~1,515 |
-| Anger | 1.00% | ~757 |
-| Fear Of The Dark | 1.00% | ~757 |
-| Detective of the occult | 1.00% | ~757 |
-| Depression | 1.00% | ~757 |
-| Bless me Father... | 0.80% | ~606 |
-| Phone Bill | 0.80% | ~606 |
-| Power of Friendship | 0.70% | ~530 |
-| Chain Breaker | 0.70% | ~530 |
-| Let there be light | 0.50% | ~379 |
-| Silent Advisor | 0.50% | ~379 |
-| Soda addiction | 0.40% | ~303 |
-| Paparazzi | 0.40% | ~303 |
-| Are you still there? | 0.30% | ~227 |
+| Out of Shape | 4.00% | ~3,038 |
+| Bonfire Lit | 3.00% | ~2,279 |
+| Survival Expert | 3.00% | ~2,279 |
+| Denial | 2.00% | ~1,519 |
+| Acceptance | 2.00% | ~1,519 |
+| Bargaining | 2.00% | ~1,519 |
+| Anger | 1.00% | ~760 |
+| Fear Of The Dark | 1.00% | ~760 |
+| Detective of the occult | 1.00% | ~760 |
+| Depression | 1.00% | ~760 |
+| Bless me Father... | 0.80% | ~608 |
+| Phone Bill | 0.80% | ~608 |
+| Power of Friendship | 0.70% | ~532 |
+| Chain Breaker | 0.70% | ~532 |
+| Let there be light | 0.50% | ~380 |
+| Silent Advisor | 0.50% | ~380 |
+| Soda addiction | 0.40% | ~304 |
+| Paparazzi | 0.40% | ~304 |
+| Are you still there? | 0.30% | ~228 |
 | Ear Ringing | 0.10% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,730 (Ranked 151)  
-Completed: 19 (0.03%) (Ranked 487)  
+Progressed: 75,954 (Ranked 153)  
+Completed: 19 (0.03%) (Ranked 494)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,6 +314,7 @@ Completed: 19 (0.03%) (Ranked 487)
 | 2024-04-10 | 73,060 | 18 |
 | 2024-06-17 | 74,641 | 18 |
 | 2024-08-09 | 75,730 | 19 |
+| 2024-08-20 | 75,954 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

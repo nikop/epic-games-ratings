@@ -5,65 +5,66 @@ Rating: 3.81 (Ranked 1,242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trial By Fire | 68.00% | ~98,344 |
-| Cleaning Out the Closet | 58.00% | ~83,881 |
-| Hitting The Fan | 47.00% | ~67,973 |
-| Fowl Play | 38.00% | ~54,957 |
-| Walled In | 23.00% | ~33,263 |
-| Death Blooms | 22.00% | ~31,817 |
-| Blitzkrieg Bop | 17.00% | ~24,586 |
-| Level Up | 16.00% | ~23,140 |
-| Thunderstruck! | 14.00% | ~20,247 |
-| Hell and Back | 14.00% | ~20,247 |
-| Blackest Night | 12.00% | ~17,355 |
-| Endgame | 11.00% | ~15,909 |
-| Choices | 11.00% | ~15,909 |
-| Abandon All Hope | 10.00% | ~14,462 |
-| Managing People | 9.00% | ~13,016 |
-| No One Defeats Brainiac! | 8.00% | ~11,570 |
-| History Repeats | 7.00% | ~10,124 |
-| Winged Vengeance | 5.00% | ~7,231 |
-| Act of War | 5.00% | ~7,231 |
-| Turn and Turn Again | 5.00% | ~7,231 |
-| Stop Me If You've Heard This One | 5.00% | ~7,231 |
-| The Chosen One | 5.00% | ~7,231 |
-| War Machine | 4.00% | ~5,785 |
-| Your World is Mine! | 4.00% | ~5,785 |
-| Shock Treatment | 4.00% | ~5,785 |
-| Choice of Evils | 4.00% | ~5,785 |
-| Their Dark Designs | 3.00% | ~4,339 |
-| The Right Question | 3.00% | ~4,339 |
-| Welcome to the Jungle! | 2.00% | ~2,892 |
-| Combine and Conquer | 2.00% | ~2,892 |
-| Harleen the Queen | 2.00% | ~2,892 |
-| Captain Boomerang! Agent of Oz | 2.00% | ~2,892 |
-| Lawton's Last Stand | 2.00% | ~2,892 |
-| Forces In Motion | 2.00% | ~2,892 |
-| Battle Lines | 1.00% | ~1,446 |
-| Blaze of Glory | 1.00% | ~1,446 |
-| King For A Day | 1.00% | ~1,446 |
-| The Venom Connection | 1.00% | ~1,446 |
-| Grand Experiment | 1.00% | ~1,446 |
-| Allies | 1.00% | ~1,446 |
-| Number the Dead | 0.90% | ~1,302 |
-| Killin' Time | 0.80% | ~1,157 |
-| The Real Deal | 0.60% | ~868 |
-| Into the Angry Planet | 0.50% | ~723 |
-| The Final Frontier | 0.40% | ~578 |
-| The Oldest One in the Book! | 0.40% | ~578 |
-| Need to Know | 0.30% | ~434 |
-| Trial by Blood | 0.20% | ~289 |
-| All Sorts of Fun | 0.10% | ~145 |
-| The Reaper | 0.10% | ~145 |
+| Trial By Fire | 68.00% | ~102,477 |
+| Cleaning Out the Closet | 58.00% | ~87,407 |
+| Hitting The Fan | 48.00% | ~72,337 |
+| Fowl Play | 38.00% | ~57,267 |
+| Walled In | 24.00% | ~36,168 |
+| Death Blooms | 22.00% | ~33,154 |
+| Blitzkrieg Bop | 17.00% | ~25,619 |
+| Level Up | 16.00% | ~24,112 |
+| Thunderstruck! | 15.00% | ~22,605 |
+| Hell and Back | 14.00% | ~21,098 |
+| Blackest Night | 13.00% | ~19,591 |
+| Endgame | 12.00% | ~18,084 |
+| Abandon All Hope | 11.00% | ~16,577 |
+| Choices | 11.00% | ~16,577 |
+| Managing People | 9.00% | ~13,563 |
+| No One Defeats Brainiac! | 9.00% | ~13,563 |
+| History Repeats | 7.00% | ~10,549 |
+| Act of War | 6.00% | ~9,042 |
+| Winged Vengeance | 5.00% | ~7,535 |
+| Your World is Mine! | 5.00% | ~7,535 |
+| Turn and Turn Again | 5.00% | ~7,535 |
+| Stop Me If You've Heard This One | 5.00% | ~7,535 |
+| The Chosen One | 5.00% | ~7,535 |
+| War Machine | 4.00% | ~6,028 |
+| Shock Treatment | 4.00% | ~6,028 |
+| Choice of Evils | 4.00% | ~6,028 |
+| Their Dark Designs | 3.00% | ~4,521 |
+| The Right Question | 3.00% | ~4,521 |
+| Welcome to the Jungle! | 2.00% | ~3,014 |
+| Combine and Conquer | 2.00% | ~3,014 |
+| Harleen the Queen | 2.00% | ~3,014 |
+| Captain Boomerang! Agent of Oz | 2.00% | ~3,014 |
+| Lawton's Last Stand | 2.00% | ~3,014 |
+| Forces In Motion | 2.00% | ~3,014 |
+| Battle Lines | 1.00% | ~1,507 |
+| Blaze of Glory | 1.00% | ~1,507 |
+| King For A Day | 1.00% | ~1,507 |
+| The Venom Connection | 1.00% | ~1,507 |
+| Grand Experiment | 1.00% | ~1,507 |
+| Allies | 1.00% | ~1,507 |
+| Number the Dead | 1.00% | ~1,507 |
+| Killin' Time | 0.80% | ~1,206 |
+| The Real Deal | 0.70% | ~1,055 |
+| Into the Angry Planet | 0.60% | ~904 |
+| The Final Frontier | 0.50% | ~754 |
+| The Oldest One in the Book! | 0.40% | ~603 |
+| Need to Know | 0.30% | ~452 |
+| Trial by Blood | 0.20% | ~301 |
+| All Sorts of Fun | 0.10% | ~151 |
+| The Reaper | 0.10% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 144,623 (Ranked 111)  
-Completed: 17 (0.01%) (Ranked 524)  
+Progressed: 150,702 (Ranked 110)  
+Completed: 22 (0.01%) (Ranked 532)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 604 | 0 |
 | 2024-06-17 | 3,434 | 2 |
 | 2024-08-09 | 144,623 | 17 |
+| 2024-08-20 | 150,702 | 22 |
 ## Awards
 Max (Great for Beginners): 235  (Ranked 339)  
 Sum: 1,758 (Ranked 265)  

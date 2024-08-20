@@ -5,67 +5,67 @@ Rating: 4.38 (Ranked 899)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 65.00% | ~107 |
-| Training Simulation | 62.00% | ~102 |
-| Fashion Connoisseur | 55.00% | ~90 |
-| Storm Traveller | 55.00% | ~90 |
-| Wolf King Killer | 55.00% | ~90 |
-| Arms Mechanic | 54.00% | ~89 |
-| Flower Thief | 53.00% | ~87 |
-| Kuku Bird Hunter | 52.00% | ~85 |
-| Apostle of Flame | 51.00% | ~84 |
-| Beginner Artificer | 49.00% | ~80 |
-| Beginner Cook | 46.00% | ~75 |
-| Seal Breaker | 46.00% | ~75 |
-| Giant Lizard Killer | 43.00% | ~71 |
-| Handyman | 42.00% | ~69 |
-| Guardian | 41.00% | ~67 |
-| Nosebleeder | 41.00% | ~67 |
-| Youth Magnet | 36.00% | ~59 |
-| Lethal Blade Mantis Killer | 36.00% | ~59 |
-| Flying Kobold Killer | 35.00% | ~57 |
-| Furious Scorpion Killer | 35.00% | ~57 |
-| Squeaky Clean | 35.00% | ~57 |
-| Weapon Boost | 34.00% | ~56 |
-| Kind Adventurer | 33.00% | ~54 |
-| Mermaid Killer | 32.00% | ~52 |
-| Face Slapper | 31.00% | ~51 |
-| Cave Master | 30.00% | ~49 |
-| Master Artificer | 30.00% | ~49 |
-| Trader | 30.00% | ~49 |
-| Warden Slayer | 26.00% | ~43 |
-| Berserker Slayer | 25.00% | ~41 |
-| Giantess Slayer | 25.00% | ~41 |
-| Boss challenge | 24.00% | ~39 |
-| Skeleton Reaper Hunter | 21.00% | ~34 |
-| Rat King Slayer | 20.00% | ~33 |
-| Alicia Liberator | 20.00% | ~33 |
-| Master Cook | 18.00% | ~30 |
-| Defeater of the Snow Woman | 12.00% | ~20 |
-| Slayer of the Flame Demon | 10.00% | ~16 |
-| Slayer of the Sandworm Elder | 9.00% | ~15 |
-| Flying Kobold Challenge | 8.00% | ~13 |
-| Silver Moon Wolf King Challenge | 8.00% | ~13 |
-| Slayer of the Fallen Elf | 8.00% | ~13 |
-| Slayer of the Ghoul King | 8.00% | ~13 |
-| Hunter's Destiny | 8.00% | ~13 |
-| Blade Mantis Challenge | 7.00% | ~11 |
-| Big Face Goalkeeper Challenge | 7.00% | ~11 |
-| Giant Claw Spider Challenge | 7.00% | ~11 |
-| Furious Scorpion Challenge | 7.00% | ~11 |
-| Giant Lizard Challenge | 7.00% | ~11 |
-| Mermaid Challenge | 7.00% | ~11 |
-| Giantess Challenge | 5.00% | ~8 |
-| Warden Challenge | 5.00% | ~8 |
-| Berserker Challenge | 4.00% | ~7 |
-| Skeleton Reaper Challenge | 4.00% | ~7 |
-| Rat King Challenge | 3.00% | ~5 |
-| Alicia Challenge | 3.00% | ~5 |
-| Rebellious | 2.00% | ~3 |
+| Travel Streamer | 69.00% | ~132 |
+| Training Simulation | 66.00% | ~127 |
+| Storm Traveller | 61.00% | ~117 |
+| Wolf King Killer | 59.00% | ~113 |
+| Arms Mechanic | 57.00% | ~109 |
+| Fashion Connoisseur | 57.00% | ~109 |
+| Flower Thief | 57.00% | ~109 |
+| Kuku Bird Hunter | 56.00% | ~108 |
+| Apostle of Flame | 53.00% | ~102 |
+| Beginner Artificer | 51.00% | ~98 |
+| Beginner Cook | 48.00% | ~92 |
+| Seal Breaker | 47.00% | ~90 |
+| Giant Lizard Killer | 45.00% | ~86 |
+| Handyman | 44.00% | ~84 |
+| Nosebleeder | 43.00% | ~83 |
+| Guardian | 42.00% | ~81 |
+| Flying Kobold Killer | 38.00% | ~73 |
+| Youth Magnet | 38.00% | ~73 |
+| Lethal Blade Mantis Killer | 38.00% | ~73 |
+| Furious Scorpion Killer | 37.00% | ~71 |
+| Squeaky Clean | 37.00% | ~71 |
+| Kind Adventurer | 36.00% | ~69 |
+| Mermaid Killer | 36.00% | ~69 |
+| Trader | 36.00% | ~69 |
+| Face Slapper | 35.00% | ~67 |
+| Weapon Boost | 35.00% | ~67 |
+| Cave Master | 34.00% | ~65 |
+| Master Artificer | 33.00% | ~63 |
+| Berserker Slayer | 28.00% | ~54 |
+| Warden Slayer | 28.00% | ~54 |
+| Giantess Slayer | 27.00% | ~52 |
+| Boss challenge | 26.00% | ~50 |
+| Skeleton Reaper Hunter | 23.00% | ~44 |
+| Rat King Slayer | 22.00% | ~42 |
+| Alicia Liberator | 22.00% | ~42 |
+| Master Cook | 18.00% | ~35 |
+| Defeater of the Snow Woman | 14.00% | ~27 |
+| Slayer of the Flame Demon | 14.00% | ~27 |
+| Slayer of the Sandworm Elder | 13.00% | ~25 |
+| Slayer of the Fallen Elf | 13.00% | ~25 |
+| Slayer of the Ghoul King | 11.00% | ~21 |
+| Hunter's Destiny | 11.00% | ~21 |
+| Silver Moon Wolf King Challenge | 9.00% | ~17 |
+| Big Face Goalkeeper Challenge | 8.00% | ~15 |
+| Flying Kobold Challenge | 8.00% | ~15 |
+| Blade Mantis Challenge | 7.00% | ~13 |
+| Giant Claw Spider Challenge | 7.00% | ~13 |
+| Furious Scorpion Challenge | 7.00% | ~13 |
+| Giant Lizard Challenge | 7.00% | ~13 |
+| Mermaid Challenge | 7.00% | ~13 |
+| Giantess Challenge | 5.00% | ~10 |
+| Warden Challenge | 5.00% | ~10 |
+| Skeleton Reaper Challenge | 5.00% | ~10 |
+| Berserker Challenge | 4.00% | ~8 |
+| Rat King Challenge | 4.00% | ~8 |
+| Rebellious | 3.00% | ~6 |
+| Alicia Challenge | 3.00% | ~6 |
 | Combo Master | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 606)  
-Completed: 1 (0.61%) (Ranked 308)  
+Progressed: 192 (Ranked 587)  
+Completed: 1 (0.52%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,6 +212,7 @@ Completed: 1 (0.61%) (Ranked 308)
 | 2024-06-17 | 941 | 3 |
 | 2024-07-25 | 957 | 3 |
 | 2024-08-09 | 164 | 1 |
+| 2024-08-20 | 192 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

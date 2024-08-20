@@ -25,8 +25,8 @@ Rating: 4.34 (Ranked 957)
 | Better Than the Devs | 4.00% | ~96 |
 | So do we just stay up here, or?... | 2.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,410 (Ranked 335)  
-Completed: 11 (0.46%) (Ranked 331)  
+Progressed: 2,410 (Ranked 339)  
+Completed: 11 (0.46%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

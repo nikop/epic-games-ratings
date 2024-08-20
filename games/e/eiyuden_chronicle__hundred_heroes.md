@@ -5,50 +5,50 @@ Rating: 4.63 (Ranked 396)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bond of Heroes | 80.00% | ~239 |
-| The Primal Lens | 78.00% | ~233 |
-| A Day in the Life of the Watch | 66.00% | ~197 |
-| I Love Animals! | 65.00% | ~194 |
-| Hometown on Fire | 64.00% | ~191 |
-| Raising the Flag of Resistance | 61.00% | ~182 |
-| Trusted Hero | 55.00% | ~164 |
-| Conquering the Proving Grounds | 53.00% | ~158 |
-| Take a Proper Rest | 52.00% | ~155 |
-| Town Building Beginner | 50.00% | ~150 |
-| Hishahn is Defended | 47.00% | ~141 |
-| Valorous Shi’arcs | 44.00% | ~132 |
-| Bidding Father Farewell | 43.00% | ~129 |
-| Guild Founder | 43.00% | ~129 |
-| Epic Success! | 42.00% | ~126 |
-| Expert Appraiser | 37.00% | ~111 |
-| Are You Working Hard? | 37.00% | ~111 |
-| I Will Reclaim This Place | 36.00% | ~108 |
-| Hot Spring Revelry | 36.00% | ~108 |
-| Honorable Statue | 33.00% | ~99 |
-| Songs of Valor on the Great Sandy Sea | 32.00% | ~96 |
-| Ace Forager | 32.00% | ~96 |
-| A Place for Heroes to Return | 29.00% | ~87 |
-| Sweet Taste of Victory | 27.00% | ~81 |
-| Eve of the Battle | 22.00% | ~66 |
-| Hero’s Victory | 21.00% | ~63 |
-| Polished Partner | 19.00% | ~57 |
-| A Big Bag and a Big Sack | 19.00% | ~57 |
-| Last One to Appear | 17.00% | ~51 |
-| Hero of Destruction | 16.00% | ~48 |
-| A Distinguished Theater | 16.00% | ~48 |
-| Monument Builder | 16.00% | ~48 |
-| Art Is Explosive! | 14.00% | ~42 |
-| Binge Shopping Hero | 12.00% | ~36 |
-| Hero Beyond Time and Space | 8.00% | ~24 |
-| I Love Weapons! | 7.00% | ~21 |
-| Invincible Hero | 7.00% | ~21 |
-| Town-Building Hero | 5.00% | ~15 |
-| Valorous Finned Hero | 5.00% | ~15 |
-| Eggfoot Breeder | 4.00% | ~12 |
+| Bond of Heroes | 80.00% | ~249 |
+| The Primal Lens | 78.00% | ~243 |
+| A Day in the Life of the Watch | 67.00% | ~208 |
+| I Love Animals! | 67.00% | ~208 |
+| Hometown on Fire | 65.00% | ~202 |
+| Raising the Flag of Resistance | 62.00% | ~193 |
+| Trusted Hero | 56.00% | ~174 |
+| Conquering the Proving Grounds | 55.00% | ~171 |
+| Take a Proper Rest | 53.00% | ~165 |
+| Town Building Beginner | 52.00% | ~162 |
+| Hishahn is Defended | 49.00% | ~152 |
+| Valorous Shi’arcs | 45.00% | ~140 |
+| Bidding Father Farewell | 44.00% | ~137 |
+| Guild Founder | 44.00% | ~137 |
+| Epic Success! | 43.00% | ~134 |
+| Expert Appraiser | 39.00% | ~121 |
+| Are You Working Hard? | 38.00% | ~118 |
+| I Will Reclaim This Place | 37.00% | ~115 |
+| Hot Spring Revelry | 37.00% | ~115 |
+| Songs of Valor on the Great Sandy Sea | 34.00% | ~106 |
+| Honorable Statue | 33.00% | ~103 |
+| Ace Forager | 33.00% | ~103 |
+| A Place for Heroes to Return | 30.00% | ~93 |
+| Sweet Taste of Victory | 28.00% | ~87 |
+| Eve of the Battle | 23.00% | ~72 |
+| Hero’s Victory | 21.00% | ~65 |
+| Polished Partner | 20.00% | ~62 |
+| A Big Bag and a Big Sack | 20.00% | ~62 |
+| Last One to Appear | 17.00% | ~53 |
+| A Distinguished Theater | 17.00% | ~53 |
+| Hero of Destruction | 16.00% | ~50 |
+| Monument Builder | 16.00% | ~50 |
+| Art Is Explosive! | 15.00% | ~47 |
+| Binge Shopping Hero | 13.00% | ~40 |
+| I Love Weapons! | 8.00% | ~25 |
+| Hero Beyond Time and Space | 8.00% | ~25 |
+| Invincible Hero | 7.00% | ~22 |
+| Eggfoot Breeder | 5.00% | ~16 |
+| Town-Building Hero | 5.00% | ~16 |
+| Valorous Finned Hero | 5.00% | ~16 |
+| Skilled in War | 4.00% | ~12 |
 | Eggfoot Race Hero | 3.00% | ~9 |
 | Beigoma Collector | 3.00% | ~9 |
 | Card Collector | 3.00% | ~9 |
-| Skilled in War | 3.00% | ~9 |
 | Hero of Commerce | 3.00% | ~9 |
 | Hero Combo Master | 2.00% | ~6 |
 | Hot Spring Enthusiast | 2.00% | ~6 |
@@ -61,13 +61,14 @@ Rating: 4.63 (Ranked 396)
 | Treasure Hunter | 1.00% | ~3 |
 | The Hero Whom the Runes Smile On | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 299 (Ranked 529)  
-Completed: 3 (1.00%) (Ranked 258)  
+Progressed: 311 (Ranked 529)  
+Completed: 3 (0.96%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 248 | 3 |
 | 2024-08-09 | 299 | 3 |
+| 2024-08-20 | 311 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

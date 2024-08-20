@@ -1,59 +1,59 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 512)  
+Rating: 4.58 (Ranked 511)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 69.00% | ~6,035 |
-| Tutti Eroi! | 68.00% | ~5,948 |
-| Avanti Savoia! | 60.00% | ~5,248 |
-| Peak Performance | 58.00% | ~5,073 |
-| Mamma Mia! | 47.00% | ~4,111 |
-| Gabriele D'Annunzio | 44.00% | ~3,849 |
-| Conrad von Hotzensocks | 42.00% | ~3,674 |
-| Silver Lining | 37.00% | ~3,236 |
-| Shaken, Not Stirred | 32.00% | ~2,799 |
-| Aurelio Baruzzi | 29.00% | ~2,537 |
-| Decimation | 28.00% | ~2,449 |
-| Donatello | 27.00% | ~2,362 |
-| Insubordination | 26.00% | ~2,274 |
-| The Italian Job | 26.00% | ~2,274 |
-| Ragazzi del '99 | 25.00% | ~2,187 |
-| Veni Vidi Vici | 25.00% | ~2,187 |
-| Luigi Cadorna | 23.00% | ~2,012 |
-| The Lion of the Isonzo | 18.00% | ~1,574 |
-| Die Bosniaken Kommen! | 17.00% | ~1,487 |
-| Uomo Universale | 17.00% | ~1,487 |
-| Dirty Dozen | 16.00% | ~1,400 |
-| Machiavelli | 16.00% | ~1,400 |
-| The Devil's Paintbrush | 14.00% | ~1,225 |
-| I Have the High Ground | 13.00% | ~1,137 |
-| Millenial | 13.00% | ~1,137 |
-| Thus With A Kiss | 13.00% | ~1,137 |
-| Dante's Inferno | 11.00% | ~962 |
-| The Show Must Go On | 11.00% | ~962 |
-| Tosca | 11.00% | ~962 |
-| Cercatore d'Oro | 10.00% | ~875 |
-| 12th Bottle of the Isonzo | 9.00% | ~787 |
-| The Enlightment | 8.00% | ~700 |
-| Generalissimo | 5.00% | ~437 |
-| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~437 |
-| Farewell to Arms | 4.00% | ~350 |
-| Seeing Red | 4.00% | ~350 |
-| Ponte of No Return | 3.00% | ~262 |
-| Soča Drag | 3.00% | ~262 |
-| Saboteur | 3.00% | ~262 |
-| Malpractice | 2.00% | ~175 |
+| You Shall Not Pass | 70.00% | ~6,084 |
+| Tutti Eroi! | 68.00% | ~5,911 |
+| Avanti Savoia! | 60.00% | ~5,215 |
+| Peak Performance | 58.00% | ~5,041 |
+| Mamma Mia! | 48.00% | ~4,172 |
+| Gabriele D'Annunzio | 45.00% | ~3,911 |
+| Conrad von Hotzensocks | 42.00% | ~3,651 |
+| Silver Lining | 38.00% | ~3,303 |
+| Shaken, Not Stirred | 32.00% | ~2,781 |
+| Aurelio Baruzzi | 29.00% | ~2,521 |
+| Decimation | 28.00% | ~2,434 |
+| Donatello | 28.00% | ~2,434 |
+| Insubordination | 26.00% | ~2,260 |
+| Ragazzi del '99 | 26.00% | ~2,260 |
+| The Italian Job | 26.00% | ~2,260 |
+| Veni Vidi Vici | 26.00% | ~2,260 |
+| Luigi Cadorna | 24.00% | ~2,086 |
+| The Lion of the Isonzo | 19.00% | ~1,651 |
+| Uomo Universale | 18.00% | ~1,565 |
+| Die Bosniaken Kommen! | 17.00% | ~1,478 |
+| Dirty Dozen | 16.00% | ~1,391 |
+| Machiavelli | 16.00% | ~1,391 |
+| Millenial | 14.00% | ~1,217 |
+| The Devil's Paintbrush | 14.00% | ~1,217 |
+| I Have the High Ground | 13.00% | ~1,130 |
+| Thus With A Kiss | 13.00% | ~1,130 |
+| Dante's Inferno | 11.00% | ~956 |
+| The Show Must Go On | 11.00% | ~956 |
+| Tosca | 11.00% | ~956 |
+| Cercatore d'Oro | 10.00% | ~869 |
+| 12th Bottle of the Isonzo | 9.00% | ~782 |
+| The Enlightment | 8.00% | ~695 |
+| Generalissimo | 5.00% | ~435 |
+| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~435 |
+| Farewell to Arms | 4.00% | ~348 |
+| Seeing Red | 4.00% | ~348 |
+| Ponte of No Return | 3.00% | ~261 |
+| Soča Drag | 3.00% | ~261 |
+| Saboteur | 3.00% | ~261 |
+| Malpractice | 2.00% | ~174 |
 | Compagnia della Morte | 1.00% | ~87 |
 | Drop and Give Me 20 | 1.00% | ~87 |
 | Rome Wasn't Built In A Day | 1.00% | ~87 |
-| "Sacro Egoismo" | 0.80% | ~70 |
+| "Sacro Egoismo" | 0.90% | ~78 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,747 (Ranked 250)  
-Completed: 1 (0.01%) (Ranked 524)  
+Progressed: 8,692 (Ranked 251)  
+Completed: 1 (0.01%) (Ranked 532)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,6 +336,7 @@ Completed: 1 (0.01%) (Ranked 524)
 | 2024-05-13 | 9,032 | 1 |
 | 2024-06-17 | 8,841 | 1 |
 | 2024-08-09 | 8,747 | 1 |
+| 2024-08-20 | 8,692 | 1 |
 ## Awards
 Max (Diverse Characters): 62  (Ranked 519)  
 Sum: 498 (Ranked 399)  

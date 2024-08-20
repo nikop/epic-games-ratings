@@ -1,7 +1,7 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.53 (Ranked 622)  
+Rating: 4.53 (Ranked 623)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.53 (Ranked 622)
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 154,991 (Ranked 108)  
-Completed: 0 (0.00%) (Ranked 554)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

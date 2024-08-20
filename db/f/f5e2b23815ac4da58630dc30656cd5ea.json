@@ -2,10 +2,10 @@
   "ID": "f5e2b23815ac4da58630dc30656cd5ea",
   "Name": "Grand Emprise: Time Travel Survival",
   "ProductSlug": "grand-emprise-time-travel-survival-b46e94",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T05:57:29.4212542+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:14.6907024+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:57:02.5838397+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.5015594+00:00"
 }

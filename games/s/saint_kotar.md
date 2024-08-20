@@ -4,54 +4,54 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish the Tutorial | 71.00% | ~22 |
-| A Map for Benedek | 48.00% | ~15 |
-| A Map for Nikolay | 45.00% | ~14 |
-| The Wall of Laments | 35.00% | ~11 |
-| Become a Half-Child | 29.00% | ~9 |
-| Death Whistle | 29.00% | ~9 |
-| Burial Mound | 29.00% | ~9 |
-| Make the Prophet Your Ally | 26.00% | ~8 |
-| The Dreaded Klek | 26.00% | ~8 |
-| Find the Road of Cadavers | 26.00% | ~8 |
-| Found Ulric's Portrait | 23.00% | ~7 |
-| Veil of Vera | 23.00% | ~7 |
-| A Catacomb | 23.00% | ~7 |
-| Put Kata out of Her Misery | 19.00% | ~6 |
-| Ulric's Painting Acquired | 19.00% | ~6 |
+| Finish the Tutorial | 72.00% | ~23 |
+| A Map for Benedek | 50.00% | ~16 |
+| A Map for Nikolay | 47.00% | ~15 |
+| The Wall of Laments | 38.00% | ~12 |
+| Become a Half-Child | 31.00% | ~10 |
+| Death Whistle | 31.00% | ~10 |
+| Burial Mound | 31.00% | ~10 |
+| Make the Prophet Your Ally | 28.00% | ~9 |
+| The Dreaded Klek | 28.00% | ~9 |
+| Find the Road of Cadavers | 28.00% | ~9 |
+| Found Ulric's Portrait | 25.00% | ~8 |
+| Veil of Vera | 25.00% | ~8 |
+| A Catacomb | 25.00% | ~8 |
+| Put Kata out of Her Misery | 22.00% | ~7 |
+| Ulric's Painting Acquired | 22.00% | ~7 |
+| You Abandoned God | 22.00% | ~7 |
+| Save Arsen | 19.00% | ~6 |
 | The Crypt of Ivan Kotar | 19.00% | ~6 |
 | Lore and Background Story | 19.00% | ~6 |
-| You Abandoned God | 19.00% | ~6 |
-| Save Arsen | 16.00% | ~5 |
-| Nikolay's Nonsense | 16.00% | ~5 |
-| Kabeer is Dead | 13.00% | ~4 |
-| You Ended the Bloodline Curse! | 13.00% | ~4 |
-| Become the Hero of Sveti Kotar | 13.00% | ~4 |
-| The Sanctuary | 13.00% | ~4 |
-| Goldin's Fate | 13.00% | ~4 |
-| Forgive Ida | 10.00% | ~3 |
-| Davor Was Deported | 10.00% | ~3 |
-| Gregor Was Punished | 10.00% | ~3 |
-| You Helped Fulfill the Prophecy | 10.00% | ~3 |
-| The Warden's Room | 10.00% | ~3 |
-| Incapacitated by the Death Whistle | 10.00% | ~3 |
-| Infuriate Elizabeta | 10.00% | ~3 |
-| Warden's Monstrosities | 10.00% | ~3 |
-| You Decided to Stay With God | 10.00% | ~3 |
-| Leave the Town | 6.00% | ~2 |
-| Silenced the Voices | 6.00% | ~2 |
-| The Chapel | 6.00% | ~2 |
-| The Sewers | 6.00% | ~2 |
-| The Meaning of Life | 6.00% | ~2 |
-| Lodge's Secret Passage Shortcut | 6.00% | ~2 |
-| That's Viktoria | 6.00% | ~2 |
-| Found Vilim's Body | 3.00% | ~1 |
-| Get Eaten by the Food Man | 3.00% | ~1 |
-| Death Whistle Opened the Door | 3.00% | ~1 |
+| Nikolay's Nonsense | 19.00% | ~6 |
+| Kabeer is Dead | 16.00% | ~5 |
+| You Ended the Bloodline Curse! | 16.00% | ~5 |
+| Become the Hero of Sveti Kotar | 16.00% | ~5 |
+| The Sanctuary | 16.00% | ~5 |
+| Goldin's Fate | 16.00% | ~5 |
+| Forgive Ida | 13.00% | ~4 |
+| Incapacitated by the Death Whistle | 13.00% | ~4 |
+| Infuriate Elizabeta | 13.00% | ~4 |
+| You Decided to Stay With God | 13.00% | ~4 |
+| Leave the Town | 9.00% | ~3 |
+| Davor Was Deported | 9.00% | ~3 |
+| Gregor Was Punished | 9.00% | ~3 |
+| You Helped Fulfill the Prophecy | 9.00% | ~3 |
+| Silenced the Voices | 9.00% | ~3 |
+| The Chapel | 9.00% | ~3 |
+| The Sewers | 9.00% | ~3 |
+| The Warden's Room | 9.00% | ~3 |
+| Warden's Monstrosities | 9.00% | ~3 |
+| The Meaning of Life | 9.00% | ~3 |
+| Lodge's Secret Passage Shortcut | 9.00% | ~3 |
+| That's Viktoria | 9.00% | ~3 |
+| Found Vilim's Body | 6.00% | ~2 |
+| Get Eaten by the Food Man | 6.00% | ~2 |
+| Death Whistle Opened the Door | 6.00% | ~2 |
 | Antun Has a Father Now | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 825)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 32 (Ranked 826)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-07 | 26 | 0 |
 | 2024-06-17 | 27 | 0 |
 | 2024-08-09 | 31 | 0 |
+| 2024-08-20 | 32 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

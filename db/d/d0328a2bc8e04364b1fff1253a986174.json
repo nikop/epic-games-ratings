@@ -5,10 +5,10 @@
   "Ranking_Rating": 696,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 384,
-  "Ranking_EOS_Completed": 411,
-  "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Completed": 438,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2015-03-18T23:00:00+00:00",
@@ -72,11 +72,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1325,
+  "EOS_Progressed": 1977,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.15,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:57.381185+00:00",
@@ -97,6 +97,11 @@
       "Time": "2024-08-09T18:08:15.4251702+00:00",
       "NumProgressed": 1325,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-20T20:13:58.2647225+00:00",
+      "NumProgressed": 1977,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:57.3811943+00:00",
@@ -107,9 +112,9 @@
       "ID": "achievement_1",
       "SetID": "6f289d8",
       "Name": "On the Job",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 20,
-      "UsersEstimate": 1298
+      "UsersEstimate": 1957
     },
     {
       "ID": "achievement_10",
@@ -117,7 +122,7 @@
       "Name": "Some Damn Fine Fireworks",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_11",
@@ -125,7 +130,7 @@
       "Name": "Served Cold",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_12",
@@ -133,7 +138,7 @@
       "Name": "Keep Digging, Detective",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1621
     },
     {
       "ID": "achievement_13",
@@ -141,47 +146,47 @@
       "Name": "By the Book",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 954
+      "UsersEstimate": 1423
     },
     {
       "ID": "achievement_14",
       "SetID": "6f289d8",
       "Name": "You Tazed Him, Bro!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 771
     },
     {
       "ID": "achievement_15",
       "SetID": "6f289d8",
       "Name": "Watched, Dawg",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 424
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_16",
       "SetID": "6f289d8",
       "Name": "You\u0027re Getting Good at This",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 729
+      "UsersEstimate": 1107
     },
     {
       "ID": "achievement_17",
       "SetID": "6f289d8",
       "Name": "Damn Thing Doesn\u0027t Work",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 751
     },
     {
       "ID": "achievement_18",
       "SetID": "6f289d8",
       "Name": "Cape and Ears Not Included",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 729
+      "UsersEstimate": 1107
     },
     {
       "ID": "achievement_19",
@@ -189,7 +194,7 @@
       "Name": "Fast Rope Expert",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 376
     },
     {
       "ID": "achievement_2",
@@ -197,15 +202,15 @@
       "Name": "Pressure Applied",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1522
     },
     {
       "ID": "achievement_20",
       "SetID": "6f289d8",
       "Name": "Almost an Expert",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 731
     },
     {
       "ID": "achievement_21",
@@ -213,31 +218,31 @@
       "Name": "True Detective",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_22",
       "SetID": "6f289d8",
       "Name": "Motley Crew",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 729
+      "UsersEstimate": 1107
     },
     {
       "ID": "achievement_23",
       "SetID": "6f289d8",
       "Name": "Real Action Hero",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_24",
       "SetID": "6f289d8",
       "Name": "Their Own Medicine",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 277
     },
     {
       "ID": "achievement_25",
@@ -245,31 +250,31 @@
       "Name": "Graceful Exit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_26",
       "SetID": "6f289d8",
       "Name": "Knock Knock",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 371
+      "UsersEstimate": 534
     },
     {
       "ID": "achievement_27",
       "SetID": "6f289d8",
       "Name": "A Craftsman\u0027s Tools",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 257
     },
     {
       "ID": "achievement_28",
       "SetID": "6f289d8",
       "Name": "Hollywood Hideaway",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_29",
@@ -277,15 +282,15 @@
       "Name": "BYOB",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_3",
       "SetID": "6f289d8",
       "Name": "Bumpy Ride",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 1265
     },
     {
       "ID": "achievement_30",
@@ -293,7 +298,7 @@
       "Name": "Social Climber",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 80
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_31",
@@ -301,7 +306,7 @@
       "Name": "Case Closed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_32",
@@ -309,7 +314,7 @@
       "Name": "Super Cop",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_33",
@@ -317,7 +322,7 @@
       "Name": "Blue Eagle",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_34",
@@ -325,15 +330,15 @@
       "Name": "Bring \u0027em to Justice",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_35",
       "SetID": "6f289d8",
       "Name": "Dare Devil",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_36",
@@ -341,7 +346,7 @@
       "Name": "One Good Cop",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 225
+      "UsersEstimate": 336
     },
     {
       "ID": "achievement_37",
@@ -349,7 +354,7 @@
       "Name": "World\u0027s Greatest Detective",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_38",
@@ -357,15 +362,15 @@
       "Name": "The Big Score",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_39",
       "SetID": "6f289d8",
       "Name": "Electric Company",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_4",
@@ -373,7 +378,7 @@
       "Name": "Deal? What Deal?",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 969
     },
     {
       "ID": "achievement_40",
@@ -381,7 +386,7 @@
       "Name": "Menz in the Hood",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_41",
@@ -389,15 +394,15 @@
       "Name": "Dead or Alive",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_42",
       "SetID": "b7em83b",
       "Name": "Got Your Back",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_43",
@@ -405,7 +410,7 @@
       "Name": "Enforcing the Law",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_44",
@@ -413,15 +418,15 @@
       "Name": "Operation Successful",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_45",
       "SetID": "b7em83b",
       "Name": "Mechanical Trigger Finger",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_46",
@@ -429,7 +434,7 @@
       "Name": "Have Some Professionalism",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_47",
@@ -437,37 +442,37 @@
       "Name": "Tommy\u0027s Favorite",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_48",
       "SetID": "b7em83b",
       "Name": "Nailed It!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_49",
       "SetID": "b7em83b",
       "Name": "That\u0027s Not a Knife!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_5",
       "SetID": "6f289d8",
       "Name": "Good Guys",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 570
+      "UsersEstimate": 830
     },
     {
       "ID": "achievement_50",
       "SetID": "b7em83b",
       "Name": "Small Crew, Big Job!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -477,15 +482,15 @@
       "Name": "Become Legend",
       "Percentage": 0.2,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_52",
       "SetID": "b7em83b",
       "Name": "Grandpa\u0027s Automatic",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_53",
@@ -493,7 +498,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_54",
@@ -501,7 +506,7 @@
       "Name": "I\u0027ll Be Back!",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_55",
@@ -509,23 +514,23 @@
       "Name": "Here\u0027s Johnny!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_56",
       "SetID": "b7em83b",
       "Name": "Test Your Mettle",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_57",
       "SetID": "b7em83b",
       "Name": "The Ultimate Betrayal",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_58",
@@ -533,23 +538,23 @@
       "Name": "Bio-Beware!",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_59",
       "SetID": "b7em83b",
       "Name": "Locked \u0026 Loaded, Good to Go",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_6",
       "SetID": "6f289d8",
       "Name": "You Probably Have Questions",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 791
     },
     {
       "ID": "achievement_60",
@@ -557,15 +562,15 @@
       "Name": "Dressed to the Sixteens",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_61",
       "SetID": "b7em83b",
       "Name": "Bolt From the Blue",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_62",
@@ -573,15 +578,15 @@
       "Name": "Ghost Ride the Whip",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_7",
       "SetID": "6f289d8",
       "Name": "Snow Blind",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 464
+      "UsersEstimate": 672
     },
     {
       "ID": "achievement_8",
@@ -589,28 +594,28 @@
       "Name": "Hollyweird",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 593
     },
     {
       "ID": "achievement_9",
       "SetID": "6f289d8",
       "Name": "From Their Cold, Dead Hands",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 331
+      "UsersEstimate": 474
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f289d8",
       "IsBase": true,
-      "Progressed": 1325,
+      "Progressed": 1977,
       "Completed": 2
     },
     {
       "ID": "b7em83b",
       "IsBase": false,
-      "Progressed": 1325,
+      "Progressed": 1977,
       "Completed": 0
     }
   ],
@@ -618,8 +623,8 @@
   "FirstSeenRating": "2024-08-13T02:01:59.9259903+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:57.3811942+00:00",
   "LastChanged": "2024-08-19T02:57:26.8513046+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:15.4251697+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:58.2647218+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:01.8151491+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:13.2968359+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:15.425222+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:58.2647648+00:00"
 }

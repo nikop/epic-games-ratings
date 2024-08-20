@@ -4,11 +4,11 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 922,
   "Ranking_Popularity": 634,
-  "Ranking_PopularitySum": 544,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 136,
-  "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -31783,6 +31783,6 @@
   "LastChanged": "2024-08-05T23:59:26.6642401+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:40.0951832+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:09.7646175+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:36.3767321+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:57:17.4512259+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.0953689+00:00"
 }

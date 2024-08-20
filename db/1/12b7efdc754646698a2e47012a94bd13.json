@@ -2,10 +2,10 @@
   "ID": "12b7efdc754646698a2e47012a94bd13",
   "Name": "EscapeGameShow : THE TIMELINE",
   "ProductSlug": "escapegameshow-1cfe48",
-  "Ranking_EOS_Progress": 907,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 878,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-04T14:00:00+00:00",
     "PcReleaseDate": "2024-07-04T14:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 19,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:24.0764135+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:08:07.5156186+00:00",
       "NumProgressed": 14,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:13:44.8327792+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:24.076416+00:00",
@@ -55,47 +60,47 @@
       "ID": "antiquity",
       "SetID": "7h95odl",
       "Name": "Antiquity",
-      "Percentage": 7,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "contemporary",
       "SetID": "7h95odl",
       "Name": "Contemporary",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "cup",
       "SetID": "7h95odl",
       "Name": "The cup",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "debut",
       "SetID": "7h95odl",
       "Name": "Winning ticket",
-      "Percentage": 14,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "end",
       "SetID": "7h95odl",
       "Name": "The end",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "gold",
       "SetID": "7h95odl",
       "Name": "Full pockets",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -103,63 +108,63 @@
       "ID": "loose",
       "SetID": "7h95odl",
       "Name": "The big loser",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "medieval",
       "SetID": "7h95odl",
       "Name": "Medieval",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "prehistoire",
       "SetID": "7h95odl",
       "Name": "Prehistory",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "secret",
       "SetID": "7h95odl",
       "Name": "Observation is the key",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 180,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "studio",
       "SetID": "7h95odl",
       "Name": "TV studio",
-      "Percentage": 7,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "win",
       "SetID": "7h95odl",
       "Name": "Jackpot",
-      "Percentage": 7,
+      "Percentage": 11,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "7h95odl",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 19,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-07-23T11:57:48.6383043+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:24.0764159+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:07.5156179+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:44.8327786+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:13.6602522+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:32.294072+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:07.5156272+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:13.5736962+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:44.832787+00:00"
 }

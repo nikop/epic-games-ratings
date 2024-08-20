@@ -2,10 +2,10 @@
   "ID": "5a0b16db15534e68aa33b4cc50551de2",
   "Name": "AI Fight Club",
   "ProductSlug": "ai-fightclub-674e7f",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-17T13:57:18.0946356+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:55.3489744+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:53.1353547+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:18.7718213+00:00"
 }

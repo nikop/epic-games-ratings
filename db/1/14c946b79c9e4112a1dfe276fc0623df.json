@@ -2,10 +2,10 @@
   "ID": "14c946b79c9e4112a1dfe276fc0623df",
   "Name": "PeakPals",
   "ProductSlug": "peakpals-bd66f7",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T01:58:38.1081872+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:54.4187041+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:07.8993289+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:08.9317871+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:45.6002208+00:00"
 }

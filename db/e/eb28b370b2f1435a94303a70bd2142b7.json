@@ -2,10 +2,10 @@
   "ID": "eb28b370b2f1435a94303a70bd2142b7",
   "Name": "Arena Survivors",
   "ProductSlug": "arena-survivors-f96b68",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-03T23:00:00+00:00",
     "PcReleaseDate": null,
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-04T15:58:59.3591428+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:17.4472424+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:55.9782192+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:57.8844919+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:30.4936556+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:59.0503304+00:00"
 }

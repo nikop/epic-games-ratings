@@ -2,10 +2,10 @@
   "ID": "cd7de0977e0f4f7f8468653789569766",
   "Name": "URBO",
   "ProductSlug": "urbo-37789e",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 936,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-08T07:25:19.655+00:00",
     "PcReleaseDate": "2023-09-12T20:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:06:01.6621421+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:07.7845765+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -44,9 +49,9 @@
       "ID": "ACH_BUILD_HOUSE",
       "SetID": "54hd2ka",
       "Name": "Cornerstone",
-      "Percentage": 88,
+      "Percentage": 92,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_COMPLETE_BIOMES_ALL",
@@ -60,17 +65,17 @@
       "ID": "ACH_COMPLETE_ISLAND",
       "SetID": "54hd2ka",
       "Name": "Initiation",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_COMPLETE_SHIP",
       "SetID": "54hd2ka",
       "Name": "Sail away",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COMPLETE_TOWER",
@@ -84,33 +89,33 @@
       "ID": "ACH_CREATE_LEVEL_8_10_TIMES",
       "SetID": "54hd2ka",
       "Name": "Governor II",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CREATE_LEVEL_8_20_TIMES",
       "SetID": "54hd2ka",
       "Name": "Governor III",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_CREATE_LEVEL_8_5_TIMES",
       "SetID": "54hd2ka",
       "Name": "Governor I",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_ENTER_PHOTOMODE",
       "SetID": "54hd2ka",
       "Name": "A moment frozen",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MERGE_9_STRUCTURES",
@@ -124,15 +129,15 @@
       "ID": "ACH_MERGE_COMBO_3_10_TIMES",
       "SetID": "54hd2ka",
       "Name": "Mastermind II",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MERGE_COMBO_3_20_TIMES",
       "SetID": "54hd2ka",
       "Name": "Mastermind III",
-      "Percentage": 13,
+      "Percentage": 8,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -140,9 +145,9 @@
       "ID": "ACH_MERGE_COMBO_3_5_TIMES",
       "SetID": "54hd2ka",
       "Name": "Mastermind I",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MERGE_COMBO_4",
@@ -156,25 +161,25 @@
       "ID": "ACH_MERGE_INTO_LEVEL_5",
       "SetID": "54hd2ka",
       "Name": "Builder",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_MERGE_INTO_LEVEL_6",
       "SetID": "54hd2ka",
       "Name": "Engineer",
-      "Percentage": 50,
+      "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_MERGE_INTO_LEVEL_7",
       "SetID": "54hd2ka",
       "Name": "Creator",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_MERGE_INTO_LEVEL_8",
@@ -182,47 +187,47 @@
       "Name": "Architect",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_POPULATION_100000_LIFETIME",
       "SetID": "54hd2ka",
       "Name": "The pulse of metropolis",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_POPULATION_20000_LIFETIME",
       "SetID": "54hd2ka",
       "Name": "A town growing",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_POPULATION_50000_LIFETIME",
       "SetID": "54hd2ka",
       "Name": "Big city lights",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_POPULATION_5000_LIFETIME",
       "SetID": "54hd2ka",
       "Name": "The first expansion",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_RECEIVE_21_CARD_DECKS",
       "SetID": "54hd2ka",
       "Name": "Ace in the hole",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_UNLOCK_BIOMES_ALL",
@@ -277,14 +282,14 @@
     {
       "ID": "54hd2ka",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-09T15:58:13.9230329+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:11.9921619+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:01.6621419+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:07.784576+00:00",
   "LastUpdate_AppInfo": "2024-08-15T09:57:17.4026786+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:56.5441486+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:01.6621553+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:10.381614+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:07.7845926+00:00"
 }

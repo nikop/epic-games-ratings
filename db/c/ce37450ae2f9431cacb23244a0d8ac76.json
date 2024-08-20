@@ -2,10 +2,10 @@
   "ID": "ce37450ae2f9431cacb23244a0d8ac76",
   "Name": "PROTOBOT",
   "ProductSlug": "protobot-79ed05",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "h4hklk",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-20T20:13:09.3430303+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:09.3430285+00:00",
   "LastUpdate_AppInfo": "2024-08-18T18:57:14.9883955+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:57.2157066+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:48.067479+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:09.3430321+00:00"
 }

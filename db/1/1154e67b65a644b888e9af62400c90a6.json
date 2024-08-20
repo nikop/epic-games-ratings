@@ -2,13 +2,13 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 106,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -10907,18 +10907,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 11971,
       "NumberOfAwardsMax": 3718
+    },
+    {
+      "Time": "2024-08-20T19:57:17.0867297+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 11989,
+      "NumberOfAwardsMax": 3725
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11971,
-  "NumberOfAwardsMax": 3718,
+  "NumberOfAwards": 11989,
+  "NumberOfAwardsMax": 3725,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3718
+      "Count": 3725
     },
     {
       "Text": "This game is Relaxing",
@@ -10930,7 +10936,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1165
+      "Count": 1168
     },
     {
       "Text": "This game has Playful Visuals",
@@ -10942,7 +10948,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 947
+      "Count": 955
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10999,8 +11005,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-08-20T13:10:24.278438+00:00",
+  "LastChanged": "2024-08-20T19:57:17.0867295+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:08.9197673+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:35.8590972+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:57:17.0867301+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:11.8570825+00:00"
 }

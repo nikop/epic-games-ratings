@@ -2,10 +2,10 @@
   "ID": "7ec664888c8f437483dc5a0a7cad5e69",
   "Name": "Sidecar Evolution 2024",
   "ProductSlug": "sidecar-evolution-2024-14c6e8",
-  "Ranking_EOS_Progress": 1085,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1099,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-12T12:00:00+00:00",
     "PcReleaseDate": "2024-08-12T12:00:00+00:00",
@@ -317,6 +317,6 @@
   "FirstSeenAchievements": "2024-01-22T13:11:27.8505907+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:03.4012736+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:18.9615728+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:19.2398308+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:58:25.4167855+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:03.401292+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "92420cc14a954873b336db9e1355c758",
   "Name": "Space Battle",
   "ProductSlug": "spacebattle-d27e87",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-06T15:00:00+00:00",
     "PcReleaseDate": "2020-07-05T10:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T22:57:00.4531223+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:24.4956948+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:15.412529+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:09.3198121+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:32.4284343+00:00"
 }

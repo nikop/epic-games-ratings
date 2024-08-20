@@ -2,10 +2,10 @@
   "ID": "8b851e3d53d94fb1ba3fa58aa33a2c3d",
   "Name": "Palladium: Adventure in Greece",
   "ProductSlug": "palladium-adventure-in-greece-f1ee1b",
-  "Ranking_EOS_Progress": 685,
-  "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 688,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2021-06-04T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
+  "EOS_Progressed": 94,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.23,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-07-18T11:03:12.9192606+00:00",
@@ -389,6 +389,11 @@
       "Time": "2024-08-09T18:05:24.6020849+00:00",
       "NumProgressed": 93,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:08:55.1044768+00:00",
+      "NumProgressed": 94,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-14T20:01:12.8113067+00:00",
@@ -439,9 +444,9 @@
       "ID": "APATE",
       "SetID": "e4de54",
       "Name": "Apate",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "APHRODITE",
@@ -463,9 +468,9 @@
       "ID": "ARES",
       "SetID": "e4de54",
       "Name": "Ares",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ARTEMIS",
@@ -473,7 +478,7 @@
       "Name": "Artemis",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ATTENTIVENESS",
@@ -481,7 +486,7 @@
       "Name": "Attentiveness",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "A_STRANGE_SPRING",
@@ -519,7 +524,7 @@
       "ID": "CAREFULNESS",
       "SetID": "e4de54",
       "Name": "Carefulness",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 50
     },
@@ -527,9 +532,9 @@
       "ID": "COBWEB",
       "SetID": "e4de54",
       "Name": "Cobweb",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "DANGEROUS_MEDUSA",
@@ -543,9 +548,9 @@
       "ID": "ERIS",
       "SetID": "e4de54",
       "Name": "Eris",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FEEBLE_MINDEDNESS_AND_COURAGE",
@@ -601,7 +606,7 @@
       "Name": "Hermes",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "KNOWLEDGE_IS_POWER",
@@ -625,7 +630,7 @@
       "Name": "Main menu",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "MEDUSA_GAZE",
@@ -705,7 +710,7 @@
       "Name": "Stealth master",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "TAMER",
@@ -728,14 +733,14 @@
     {
       "ID": "e4de54",
       "IsBase": true,
-      "Progressed": 93,
+      "Progressed": 94,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-07-24T20:59:19.8931718+00:00",
   "FirstSeenAchievements": "2023-07-14T20:01:12.8113065+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:24.6020847+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:55.1044758+00:00",
   "LastUpdate_AppInfo": "2024-08-18T07:56:58.1018216+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:32.3179524+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:24.6021061+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:54.7644078+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:55.1044993+00:00"
 }

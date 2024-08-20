@@ -5,21 +5,21 @@ Rating: 4.33 (Ranked 966)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~6,095 |
-| Fall Fest | 8.00% | ~4,876 |
-| Thrill Seeker | 7.00% | ~4,266 |
-| Flying Present Catcher | 6.00% | ~3,657 |
-| HFZ Goober | 6.00% | ~3,657 |
-| Sunflower Master | 5.00% | ~3,047 |
-| Hi Fiver | 3.00% | ~1,828 |
-| A Timely Splash | 3.00% | ~1,828 |
-| Backer Visitor | 2.00% | ~1,219 |
-| Hate That Randomizer | 2.00% | ~1,219 |
-| Feet on Funkotron | 2.00% | ~1,219 |
-| Elf Chaser | 1.00% | ~609 |
-| Fool Me Twice | 1.00% | ~609 |
-| Old School Jammin' | 1.00% | ~609 |
-| Wakey Wakey | 1.00% | ~609 |
+| Food Taster | 10.00% | ~6,104 |
+| Fall Fest | 8.00% | ~4,884 |
+| Thrill Seeker | 7.00% | ~4,273 |
+| Flying Present Catcher | 6.00% | ~3,663 |
+| HFZ Goober | 6.00% | ~3,663 |
+| Sunflower Master | 5.00% | ~3,052 |
+| Hi Fiver | 3.00% | ~1,831 |
+| A Timely Splash | 3.00% | ~1,831 |
+| Backer Visitor | 2.00% | ~1,221 |
+| Hate That Randomizer | 2.00% | ~1,221 |
+| Feet on Funkotron | 2.00% | ~1,221 |
+| Elf Chaser | 1.00% | ~610 |
+| Fool Me Twice | 1.00% | ~610 |
+| Old School Jammin' | 1.00% | ~610 |
+| Wakey Wakey | 1.00% | ~610 |
 | Level Diver | 0.90% | ~549 |
 | Gimme My Presents Back! | 0.80% | ~488 |
 | Cleaning Out Santa's Sack | 0.80% | ~488 |
@@ -38,6 +38,7 @@ Rating: 4.33 (Ranked 966)
 | Nine Funkotronians | 0.30% | ~183 |
 | Struck By Love | 0.30% | ~183 |
 | The Worst Possible Luck | 0.30% | ~183 |
+| Rhythm Star | 0.20% | ~122 |
 | Broken Present Risk Taker | 0.20% | ~122 |
 | Truly Evil | 0.20% | ~122 |
 | Achievement Achiever | 0.10% | ~61 |
@@ -51,12 +52,11 @@ Rating: 4.33 (Ranked 966)
 | Mad Hatter | 0.10% | ~61 |
 | 99 Problems (But A Buck Ain't One) | 0.10% | ~61 |
 | Pacifist Victory | 0.10% | ~61 |
-| Rhythm Star | 0.10% | ~61 |
 | Why Do I Keep Doing That? | 0.10% | ~61 |
 | Hey, You Did It! | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,949 (Ranked 164)  
-Completed: 6 (0.01%) (Ranked 524)  
+Progressed: 61,045 (Ranked 165)  
+Completed: 6 (0.01%) (Ranked 532)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,6 +343,7 @@ Completed: 6 (0.01%) (Ranked 524)
 | 2024-06-17 | 60,499 | 6 |
 | 2024-07-29 | 60,873 | 6 |
 | 2024-08-09 | 60,949 | 6 |
+| 2024-08-20 | 61,045 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

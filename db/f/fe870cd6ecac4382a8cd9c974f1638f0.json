@@ -2,10 +2,10 @@
   "ID": "fe870cd6ecac4382a8cd9c974f1638f0",
   "Name": "Escape From Mystwood Mansion",
   "ProductSlug": "escape-from-mystwood-mansion-7dfe56",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 804,
+  "Ranking_EOS_Completed": 56,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2024-08-08T09:00:00+00:00",
     "PcReleaseDate": "2023-09-27T10:30:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.5,
+  "EOS_Progressed": 38,
+  "EOS_Completed": 5,
+  "EOS_NewPlayers": 30,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 13.16,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:01.6114639+00:00",
@@ -40,6 +40,11 @@
       "Time": "2024-08-09T18:06:22.8688022+00:00",
       "NumProgressed": 8,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:10:43.8284831+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:01.6114671+00:00",
@@ -50,97 +55,97 @@
       "ID": "ACH_A_ENTR_COMPL",
       "SetID": "421doeo",
       "Name": "Let the Escape Begin",
-      "Percentage": 100,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_B_OFFI_COMPL",
       "SetID": "421doeo",
       "Name": "Out of Office",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_C_WC_COMPL",
       "SetID": "421doeo",
       "Name": "Cellar Conqueror",
-      "Percentage": 50,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_D_WG_COMPL",
       "SetID": "421doeo",
       "Name": "Botanical Breakout",
-      "Percentage": 25,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_E_LIB_COMPL",
       "SetID": "421doeo",
       "Name": "Literary Escapee",
-      "Percentage": 25,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_F_THROW_PACKAGE",
       "SetID": "421doeo",
       "Name": "Wait... Did that say fragile?",
-      "Percentage": 75,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_H_FIRE_LOG",
       "SetID": "421doeo",
       "Name": "Log-ical Fueling",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_K_NO_LOOSE_ENDS",
       "SetID": "421doeo",
       "Name": "No Loose Ends",
-      "Percentage": 38,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_L_CORK_RECYC",
       "SetID": "421doeo",
       "Name": "Cork Recycling",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_M_FOOD_CIRCLE",
       "SetID": "421doeo",
       "Name": "Food Chain Expertise",
-      "Percentage": 25,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_N_NOSEY",
       "SetID": "421doeo",
       "Name": "Nosy",
-      "Percentage": 13,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_O_LIB_SCREW_ESC_P1",
       "SetID": "421doeo",
       "Name": "Thinking Outside the Box",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_P_TRANSL_MELL",
@@ -148,77 +153,77 @@
       "Name": "The Translator",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_R_MANSIONESCAPE",
       "SetID": "421doeo",
       "Name": "Mansion Escape",
-      "Percentage": 25,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_S_NO_HINTS",
       "SetID": "421doeo",
       "Name": "Look Ma, No Hints!",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_T_OBSERVANT",
       "SetID": "421doeo",
       "Name": "Observant",
-      "Percentage": 25,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_V_OCD",
       "SetID": "421doeo",
       "Name": "Organized",
-      "Percentage": 25,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_X_DELIV_PACK",
       "SetID": "421doeo",
       "Name": "Dedicated",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_Y_SAFE_DELIV",
       "SetID": "421doeo",
       "Name": "Handled With Care",
-      "Percentage": 25,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_Z_OVERSEER",
       "SetID": "421doeo",
       "Name": "First Day On Your New Job!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "421doeo",
       "IsBase": true,
-      "Progressed": 8,
-      "Completed": 1
+      "Progressed": 38,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-08-08T17:57:35.9593037+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:01.611467+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:22.868802+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:43.8284823+00:00",
   "LastUpdate_AppInfo": "2024-08-19T18:57:18.7367451+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:22.6530484+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.8688114+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:07.2641262+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:43.8284956+00:00"
 }

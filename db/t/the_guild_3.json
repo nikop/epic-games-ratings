@@ -5,10 +5,10 @@
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 439,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 440,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-06-14T17:00:00+00:00",
     "PcReleaseDate": "2022-06-14T17:00:00+00:00",
@@ -320,9 +320,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 676,
+  "EOS_Progressed": 702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -350,6 +350,11 @@
       "Time": "2024-08-09T18:05:14.1231751+00:00",
       "NumProgressed": 676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:33.3047077+00:00",
+      "NumProgressed": 702,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:41.2526851+00:00",
@@ -360,9 +365,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "bm02ike",
       "Name": "This is the end",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -378,7 +383,7 @@
       "Name": "Witchmaster",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -394,7 +399,7 @@
       "Name": "Competitor",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -410,7 +415,7 @@
       "Name": "Magnate",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -418,7 +423,7 @@
       "Name": "Filthy Rich",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -426,7 +431,7 @@
       "Name": "The Ruler am I!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -448,9 +453,9 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "bm02ike",
       "Name": "Pirates of the European Seas",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 105
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -512,9 +517,9 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "bm02ike",
       "Name": "The cart is creaking...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -522,7 +527,7 @@
       "Name": "My first attempt",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 514
+      "UsersEstimate": 534
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -530,15 +535,15 @@
       "Name": "Out-Of-Sync",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENT_6",
       "SetID": "bm02ike",
       "Name": "The golden spoon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -552,9 +557,9 @@
       "ID": "ACHIEVEMENT_8",
       "SetID": "bm02ike",
       "Name": "Office bearer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 250
+      "UsersEstimate": 267
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -562,22 +567,22 @@
       "Name": "Yes, Master!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "bm02ike",
       "IsBase": true,
-      "Progressed": 676,
+      "Progressed": 702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:22.0812478+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:41.252685+00:00",
   "LastChanged": "2024-08-20T01:58:50.5374889+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:14.1231745+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:33.3047068+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:17.248063+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:15.875983+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:14.1231917+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:33.3047237+00:00"
 }

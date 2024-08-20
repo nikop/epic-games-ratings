@@ -2,10 +2,10 @@
   "ID": "ff2082fe95a24381a0dc3b3d4ca92636",
   "Name": "The Bridge Curse 2: The Extrication",
   "ProductSlug": "the-bridge-curse-2-the-extrication-c9469b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:06:16.1711986+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:16.1711974+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:33.535769+00:00",
   "LastUpdate_AppInfo": "2024-08-14T02:57:08.9604971+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:45.2182599+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:16.1711997+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:42.9879023+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:33.5357721+00:00"
 }

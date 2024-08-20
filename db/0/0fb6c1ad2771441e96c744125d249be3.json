@@ -2,10 +2,10 @@
   "ID": "0fb6c1ad2771441e96c744125d249be3",
   "Name": "7,62 High Calibre",
   "ProductSlug": "762-high-calibre-762-hard-life-93f60a",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-22T17:00:00+00:00",
     "PcReleaseDate": "2007-08-24T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T18:02:36.1095168+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:10.4928795+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:19.1885682+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:05.0201817+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:51.7755192+00:00"
 }

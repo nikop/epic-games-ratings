@@ -4,11 +4,11 @@
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 1220,
   "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 389,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_PopularitySum": 390,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-17T09:00:00+00:00",
     "PcReleaseDate": "2023-02-17T09:00:00+00:00",
@@ -2369,6 +2369,6 @@
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
   "LastChanged": "2024-08-20T13:13:43.4666068+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:42.9084808+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:39.262089+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:24.7270433+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:33.4695771+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:55.1711287+00:00"
 }

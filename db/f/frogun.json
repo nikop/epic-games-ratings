@@ -2,10 +2,10 @@
   "ID": "dae5ac373ed9475a8edd99f3c7f5b010",
   "Name": "Frogun",
   "ProductSlug": "frogun-9cf69e",
-  "Ranking_EOS_Progress": 545,
-  "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 550,
+  "Ranking_EOS_Completed": 218,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -579,6 +579,6 @@
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:54.8855129+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:34.9746271+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:48.6428142+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:42.1688708+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:54.8855313+00:00"
 }

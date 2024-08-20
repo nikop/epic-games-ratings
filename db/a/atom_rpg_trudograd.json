@@ -2,13 +2,13 @@
   "ID": "41591febb4a74d7faa39819d5788f7d0",
   "Name": "ATOM RPG Trudograd",
   "ProductSlug": "atom-rpg-trudograd-a97244",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 634,
   "Ranking_PopularitySum": 656,
-  "Ranking_EOS_Progress": 366,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -294,9 +294,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1671,
+  "EOS_Progressed": 1680,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2404,6 +2404,11 @@
       "Time": "2024-08-09T18:04:38.2459578+00:00",
       "NumProgressed": 1671,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:27.1833369+00:00",
+      "NumProgressed": 1680,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2423,7 +2428,7 @@
       "Name": "Albino Bloodsucker",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ATOM_KVAS",
@@ -2487,7 +2492,7 @@
       "Name": "Fight Club",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "FREELANCE_POLICE",
@@ -2511,7 +2516,7 @@
       "Name": "Household",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2519,7 +2524,7 @@
       "Name": "Human Antidote",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "INCOMPETENCE",
@@ -2565,9 +2570,9 @@
       "ID": "MYST_KNIFE",
       "SetID": "62d2oh4",
       "Name": "Mysterious Knife",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 67
     },
     {
       "ID": "OLD_FRIEND",
@@ -2575,7 +2580,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "POSITRONIUM",
@@ -2663,14 +2668,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1445
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1671,
+      "Progressed": 1680,
       "Completed": 0
     }
   ],
@@ -2678,8 +2683,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-08-10T19:59:05.524735+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:38.2459576+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:27.1833364+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:21.0673597+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:10.2627008+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:38.2459859+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:19.9267398+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:27.183366+00:00"
 }

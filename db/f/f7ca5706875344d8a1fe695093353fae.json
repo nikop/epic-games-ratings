@@ -5,10 +5,10 @@
   "Ranking_Rating": 770,
   "Ranking_Popularity": 681,
   "Ranking_PopularitySum": 683,
-  "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 8,
-  "Ranking_EOS_NewCompleters": 4,
+  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Completed": 350,
+  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2024-07-11T15:00:00+00:00",
     "PcReleaseDate": "2022-05-24T16:00:00+00:00",
@@ -314,11 +314,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 64560,
-  "EOS_Completed": 207,
-  "EOS_NewPlayers": 3523,
-  "EOS_NewCompleters": 51,
-  "EOS_Completed_Percentage": 0.32,
+  "EOS_Progressed": 67227,
+  "EOS_Completed": 251,
+  "EOS_NewPlayers": 2667,
+  "EOS_NewCompleters": 44,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:17.4742918+00:00",
@@ -329,6 +329,11 @@
       "Time": "2024-08-09T18:07:50.3503276+00:00",
       "NumProgressed": 64560,
       "NumCompleted": 207
+    },
+    {
+      "Time": "2024-08-20T20:13:13.681234+00:00",
+      "NumProgressed": 67227,
+      "NumCompleted": 251
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:17.4742948+00:00",
@@ -339,9 +344,9 @@
       "ID": "bernard_01",
       "SetID": "66cgdik",
       "Name": "Firewall",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 10975
+      "UsersEstimate": 12101
     },
     {
       "ID": "bernard_02",
@@ -349,15 +354,15 @@
       "Name": "Best Friends Forever",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 1937
+      "UsersEstimate": 2017
     },
     {
       "ID": "cards_01",
       "SetID": "66cgdik",
       "Name": "Don\u0027t Copy That Floppy",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 60,
-      "UsersEstimate": 452
+      "UsersEstimate": 538
     },
     {
       "ID": "cards_02",
@@ -365,7 +370,7 @@
       "Name": "Monstrous",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 9684
+      "UsersEstimate": 10084
     },
     {
       "ID": "cards_03",
@@ -373,7 +378,7 @@
       "Name": "Here Comes Trouble",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3874
+      "UsersEstimate": 4034
     },
     {
       "ID": "challenge_01",
@@ -381,15 +386,15 @@
       "Name": "Efficiency",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 646
+      "UsersEstimate": 672
     },
     {
       "ID": "challenge_02",
       "SetID": "66cgdik",
       "Name": "Tactician",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 387
+      "UsersEstimate": 471
     },
     {
       "ID": "commander_01",
@@ -397,15 +402,15 @@
       "Name": "One and Done",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15494
+      "UsersEstimate": 16134
     },
     {
       "ID": "deck_01",
       "SetID": "66cgdik",
       "Name": "Minimum Floppy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 323
+      "UsersEstimate": 403
     },
     {
       "ID": "deck_02",
@@ -413,7 +418,7 @@
       "Name": "Maximum Floppy",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 5165
+      "UsersEstimate": 5378
     },
     {
       "ID": "levels_01",
@@ -421,7 +426,7 @@
       "Name": "The Fun Zone",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 14203
+      "UsersEstimate": 14790
     },
     {
       "ID": "levels_02",
@@ -429,7 +434,7 @@
       "Name": "Hot Hot Hot",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 7747
+      "UsersEstimate": 8067
     },
     {
       "ID": "levels_03",
@@ -437,7 +442,7 @@
       "Name": "First Place",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3874
+      "UsersEstimate": 4034
     },
     {
       "ID": "levels_04",
@@ -445,15 +450,15 @@
       "Name": "Fog of War",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2582
+      "UsersEstimate": 2689
     },
     {
       "ID": "levels_05",
       "SetID": "66cgdik",
       "Name": "Chill Out",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1291
+      "UsersEstimate": 2017
     },
     {
       "ID": "levels_06",
@@ -461,7 +466,7 @@
       "Name": "Techs Mechs",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1345
     },
     {
       "ID": "levels_07",
@@ -469,31 +474,31 @@
       "Name": "Let\u0027s Get Floppy",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1345
     },
     {
       "ID": "money_01",
       "SetID": "66cgdik",
       "Name": "Big Spender",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 60,
-      "UsersEstimate": 516
+      "UsersEstimate": 605
     }
   ],
   "AchievementSets": [
     {
       "ID": "66cgdik",
       "IsBase": true,
-      "Progressed": 64560,
-      "Completed": 207
+      "Progressed": 67227,
+      "Completed": 251
     }
   ],
   "FirstSeen": "2024-07-11T17:57:44.3443353+00:00",
   "FirstSeenRating": "2024-07-13T09:59:24.7498765+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:17.4742947+00:00",
   "LastChanged": "2024-08-19T06:57:13.9100649+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:50.3503267+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:13.6812335+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:24.57932+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:41.5384085+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:50.3503378+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:20.9940582+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:13.6812441+00:00"
 }

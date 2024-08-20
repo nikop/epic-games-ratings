@@ -2,10 +2,10 @@
   "ID": "23e93891eab3402ba0321f1ca405d41d",
   "Name": "Bears in Space",
   "ProductSlug": "bears-in-space",
-  "Ranking_EOS_Progress": 775,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 776,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-22T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:04:10.5567264+00:00",
       "NumProgressed": 48,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:06:30.7158854+00:00",
+      "NumProgressed": 49,
       "NumCompleted": 0
     }
   ],
@@ -82,7 +87,7 @@
       "ID": "ACH_CHL_CRASHLAND",
       "SetID": "4bc9ji7",
       "Name": "Crashland- Complete All Challenges",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -138,7 +143,7 @@
       "ID": "ACH_CHL_ROLLINGBOT",
       "SetID": "4bc9ji7",
       "Name": "Rollingbot- Complete All Challenges",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -178,9 +183,9 @@
       "ID": "ACH_LVL_BOTDAY",
       "SetID": "4bc9ji7",
       "Name": "Beat Botday",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_LVL_BOTTINGHAM",
@@ -194,7 +199,7 @@
       "ID": "ACH_LVL_CARNIVAL",
       "SetID": "4bc9ji7",
       "Name": "Beat Carnival",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -210,7 +215,7 @@
       "ID": "ACH_LVL_CRASHLAND",
       "SetID": "4bc9ji7",
       "Name": "Beat Crashland",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -226,7 +231,7 @@
       "ID": "ACH_LVL_GROBIA",
       "SetID": "4bc9ji7",
       "Name": "Beat Grobia",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -234,7 +239,7 @@
       "ID": "ACH_LVL_HONEY",
       "SetID": "4bc9ji7",
       "Name": "Beat Honey Factory",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -242,15 +247,15 @@
       "ID": "ACH_LVL_INDUSTRIAL",
       "SetID": "4bc9ji7",
       "Name": "Beat Industrial Zone",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_LVL_INTRO",
       "SetID": "4bc9ji7",
       "Name": "Beat Intro",
-      "Percentage": 90,
+      "Percentage": 88,
       "XP": 5,
       "UsersEstimate": 43
     },
@@ -258,7 +263,7 @@
       "ID": "ACH_LVL_LONELY",
       "SetID": "4bc9ji7",
       "Name": "Beat Lonely Road",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -266,15 +271,15 @@
       "ID": "ACH_LVL_OUTSKIRTS",
       "SetID": "4bc9ji7",
       "Name": "Beat Outskirts",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_LVL_RADIUM",
       "SetID": "4bc9ji7",
       "Name": "Beat Radium in the Stadium",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -282,7 +287,7 @@
       "ID": "ACH_LVL_ROLLINGBOT",
       "SetID": "4bc9ji7",
       "Name": "Beat Rollingbot",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -298,7 +303,7 @@
       "ID": "ACH_LVL_SPACEPORT",
       "SetID": "4bc9ji7",
       "Name": "Beat Spaceport Ascent",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -306,7 +311,7 @@
       "ID": "ACH_LVL_TERMINAL",
       "SetID": "4bc9ji7",
       "Name": "Beat Trainstation Terminal",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -314,7 +319,7 @@
       "ID": "ACH_LVL_TRAINSTATION",
       "SetID": "4bc9ji7",
       "Name": "Beat Trainstation",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -322,9 +327,9 @@
       "ID": "ACH_LVL_WARDEN",
       "SetID": "4bc9ji7",
       "Name": "Beat the Warden",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_RAN_ALIEN",
@@ -346,7 +351,7 @@
       "ID": "ACH_RAN_BEELZACLUCK",
       "SetID": "4bc9ji7",
       "Name": "Beelzacluck",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -354,7 +359,7 @@
       "ID": "ACH_RAN_BODACIOUS",
       "SetID": "4bc9ji7",
       "Name": "Bodacious",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -378,7 +383,7 @@
       "ID": "ACH_RAN_CHEF",
       "SetID": "4bc9ji7",
       "Name": "Cast Lead Chef",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -394,7 +399,7 @@
       "ID": "ACH_RAN_CRACKIN",
       "SetID": "4bc9ji7",
       "Name": "Crackin Packs",
-      "Percentage": 94,
+      "Percentage": 92,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -410,7 +415,7 @@
       "ID": "ACH_RAN_CUBER",
       "SetID": "4bc9ji7",
       "Name": "You\u0027re A Cuber Now!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -418,7 +423,7 @@
       "ID": "ACH_RAN_ELEVATOR",
       "SetID": "4bc9ji7",
       "Name": "That\u0027ll Learn Ya",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -434,7 +439,7 @@
       "ID": "ACH_RAN_FEEDING",
       "SetID": "4bc9ji7",
       "Name": "Feeding Time",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -442,7 +447,7 @@
       "ID": "ACH_RAN_FLEEING",
       "SetID": "4bc9ji7",
       "Name": "They Had It Coming",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -450,7 +455,7 @@
       "ID": "ACH_RAN_FLOATIES",
       "SetID": "4bc9ji7",
       "Name": "Get This Bear Some Floaties",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -466,9 +471,9 @@
       "ID": "ACH_RAN_GUNDEX",
       "SetID": "4bc9ji7",
       "Name": "Gundex",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_RAN_HIVEY",
@@ -490,7 +495,7 @@
       "ID": "ACH_RAN_KRAKEN",
       "SetID": "4bc9ji7",
       "Name": "You Did Steal His Favourite Posession...",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -506,7 +511,7 @@
       "ID": "ACH_RAN_POWERUP",
       "SetID": "4bc9ji7",
       "Name": "Power Up",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
       "UsersEstimate": 27
     },
@@ -514,7 +519,7 @@
       "ID": "ACH_RAN_QUESTING",
       "SetID": "4bc9ji7",
       "Name": "Questing!",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -522,7 +527,7 @@
       "ID": "ACH_RAN_RESISTANCE",
       "SetID": "4bc9ji7",
       "Name": "The Resistance Appears",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -538,7 +543,7 @@
       "ID": "ACH_RAN_ROBURKE",
       "SetID": "4bc9ji7",
       "Name": "I Ain\u0027t Afraid Of No Trap Door",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -546,7 +551,7 @@
       "ID": "ACH_RAN_ROCK",
       "SetID": "4bc9ji7",
       "Name": "Roll That Rock",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -554,7 +559,7 @@
       "ID": "ACH_RAN_ROOKIE",
       "SetID": "4bc9ji7",
       "Name": "Good Job Rookie",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 20
     },
@@ -570,7 +575,7 @@
       "ID": "ACH_RAN_SECRETS",
       "SetID": "4bc9ji7",
       "Name": "There Be Secrets",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -618,9 +623,9 @@
       "ID": "ACH_RAN_TOASTIE",
       "SetID": "4bc9ji7",
       "Name": "Toastie!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_RAN_TOOCOOL",
@@ -642,15 +647,15 @@
       "ID": "ACH_RAN_UNREAL",
       "SetID": "4bc9ji7",
       "Name": "Unreal!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_RAN_UNSTOPPABLE",
       "SetID": "4bc9ji7",
       "Name": "Unstoppable",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -658,23 +663,23 @@
       "ID": "ACH_RAN_WARDEN",
       "SetID": "4bc9ji7",
       "Name": "Look At You Go!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "4bc9ji7",
       "IsBase": true,
-      "Progressed": 48,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-30T09:59:42.5602191+00:00",
   "FirstSeenAchievements": "2023-11-14T18:07:28.4096763+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:10.5567262+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:30.7158849+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:11.9727574+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:44.0653355+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:10.5567819+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:42.2297417+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:30.716129+00:00"
 }

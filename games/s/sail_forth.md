@@ -54,7 +54,7 @@ Rating: 4.41 (Ranked 853)
 | Crushed Ice | 0.10% | ~447 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 446,948 (Ranked 60)  
-Completed: 28 (0.01%) (Ranked 524)  
+Completed: 28 (0.01%) (Ranked 532)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

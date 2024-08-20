@@ -1,7 +1,7 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 328)  
+Rating: 4.66 (Ranked 329)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058 (Ranked 402)  
-Completed: 2 (0.19%) (Ranked 391)  
+Progressed: 1,058 (Ranked 405)  
+Completed: 2 (0.19%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

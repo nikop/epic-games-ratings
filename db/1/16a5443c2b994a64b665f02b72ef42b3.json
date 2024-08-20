@@ -2,13 +2,13 @@
   "ID": "16a5443c2b994a64b665f02b72ef42b3",
   "Name": "Parallel TCG",
   "ProductSlug": "parallel-tcg-724880",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 197,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-22T00:00:00+00:00",
     "PcReleaseDate": "2024-06-11T16:00:00+00:00",
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2024-07-25T16:58:09.724564+00:00",
@@ -120,6 +120,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-20T20:00:00.0110601+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -138,8 +144,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T02:56:53.6157309+00:00",
   "FirstSeenRating": "2024-07-25T16:58:09.7245638+00:00",
-  "LastChanged": "2024-08-18T18:00:31.5879517+00:00",
+  "LastChanged": "2024-08-20T20:00:00.0110598+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:14.8847476+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:09.9245894+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:52.7057566+00:00"
+  "LastUpdate_Ratings": "2024-08-20T20:00:00.0110613+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:33.103907+00:00"
 }

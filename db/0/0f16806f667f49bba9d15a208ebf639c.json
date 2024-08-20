@@ -2,10 +2,10 @@
   "ID": "0f16806f667f49bba9d15a208ebf639c",
   "Name": "Choice Clash: What Would you Rather?",
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
-  "Ranking_EOS_Progress": 578,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 581,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
     "PcReleaseDate": "2023-11-27T09:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
-  "EOS_Completed": 46,
-  "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 23.12,
+  "EOS_Progressed": 203,
+  "EOS_Completed": 47,
+  "EOS_NewPlayers": 4,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 23.15,
   "EosHistory": [
     {
       "Time": "2023-12-29T00:03:26.1784855+00:00",
@@ -454,6 +454,11 @@
       "Time": "2024-08-09T18:07:29.2313322+00:00",
       "NumProgressed": 199,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2024-08-20T20:12:35.6611055+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-12-28T16:03:50.3768399+00:00",
@@ -464,17 +469,17 @@
       "ID": "BLUE_CARD_GURU",
       "SetID": "58oggg1",
       "Name": "Blue Card Guru",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "DECISIONS_DECISIONS",
       "SetID": "58oggg1",
       "Name": "Decisions, Decisions!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 124
     },
     {
       "ID": "DECISION_DYNAMO",
@@ -482,7 +487,7 @@
       "Name": "Decision Dynamo",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "INDECISION_BUSTER",
@@ -490,7 +495,7 @@
       "Name": "Indecision Buster",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "INFLUENTIAL_THINKER",
@@ -498,31 +503,31 @@
       "Name": "Influential Thinker",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "RED_CARD_EXPERT",
       "SetID": "58oggg1",
       "Name": "Red Card Expert",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 120
     },
     {
       "ID": "RUBY_DECISIONMAKER",
       "SetID": "58oggg1",
       "Name": "Ruby Decision-Maker",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 121
+      "UsersEstimate": 126
     },
     {
       "ID": "SAPPHIRE_PATHFINDER",
       "SetID": "58oggg1",
       "Name": "Sapphire Pathfinder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 126
     },
     {
       "ID": "THE_BALANCED",
@@ -530,7 +535,7 @@
       "Name": "The Balanced",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "THE_DECIDER",
@@ -538,23 +543,23 @@
       "Name": "The Decider",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "THE_PERSUADER",
       "SetID": "58oggg1",
       "Name": "The Persuader",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 132
     },
     {
       "ID": "WORLD_CHANGER",
       "SetID": "58oggg1",
       "Name": "World Changer",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 87
     },
     {
       "ID": "WORLD_CHOOSING_CHAMPION",
@@ -562,7 +567,7 @@
       "Name": "World Choosing Champion",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "_CURIOUS_EXPLORER",
@@ -570,21 +575,21 @@
       "Name": "Curious Explorer",
       "Percentage": 70,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "58oggg1",
       "IsBase": true,
-      "Progressed": 199,
-      "Completed": 46
+      "Progressed": 203,
+      "Completed": 47
     }
   ],
   "FirstSeen": "2024-07-18T19:58:22.005762+00:00",
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:29.2313317+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:35.6611051+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:05.5490862+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:25.6863715+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:29.2313432+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:35.6611176+00:00"
 }

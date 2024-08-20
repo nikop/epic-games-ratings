@@ -2,10 +2,10 @@
   "ID": "448f43b7f9ba4a5eb110948b3c0a147c",
   "Name": "Wings of the Skyworld",
   "ProductSlug": "wings-of-the-skyworld-96b876",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T05:57:39.5074162+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:25.244822+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:21.1798334+00:00"
 }

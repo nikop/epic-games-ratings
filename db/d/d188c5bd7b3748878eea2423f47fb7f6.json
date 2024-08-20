@@ -2,10 +2,10 @@
   "ID": "d188c5bd7b3748878eea2423f47fb7f6",
   "Name": "MASHUP BROS. Super Marionette Brawl",
   "ProductSlug": "mashup-bros-44334e",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-07T12:00:00+00:00",
     "PcReleaseDate": "2024-07-07T12:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-07-09T13:08:58.6343976+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:56.3959265+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:31.9725199+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:50.3819548+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:13.4909491+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.08 (Ranked 1,170)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~865 |
-| Occupy Mars! | 35.00% | ~738 |
-| Fear my botany powers, Mars | 33.00% | ~696 |
-| Electrician | 33.00% | ~696 |
-| Zero Waste | 30.00% | ~633 |
-| Bob The Builder | 30.00% | ~633 |
-| I am the greatest botanist on this planet. | 29.00% | ~612 |
-| Miner | 27.00% | ~569 |
-| Gardener | 26.00% | ~548 |
-| Houston we have a problem | 24.00% | ~506 |
-| Detective | 21.00% | ~443 |
-| The Collector | 19.00% | ~401 |
-| Get your hands dirty | 13.00% | ~274 |
-| Space Forest | 13.00% | ~274 |
+| I don't feel so good | 41.00% | ~868 |
+| Occupy Mars! | 35.00% | ~741 |
+| Electrician | 33.00% | ~699 |
+| Fear my botany powers, Mars | 32.00% | ~678 |
+| Zero Waste | 30.00% | ~635 |
+| Bob The Builder | 30.00% | ~635 |
+| I am the greatest botanist on this planet. | 29.00% | ~614 |
+| Miner | 27.00% | ~572 |
+| Gardener | 26.00% | ~551 |
+| Houston we have a problem | 24.00% | ~508 |
+| Detective | 21.00% | ~445 |
+| The Collector | 19.00% | ~402 |
+| Get your hands dirty | 13.00% | ~275 |
+| Space Forest | 13.00% | ~275 |
 | All Wheel Trouble | 8.00% | ~169 |
 | DeDust | 7.00% | ~148 |
 | Plumber | 7.00% | ~148 |
-| “Aliens” | 5.00% | ~105 |
-| ITS crash site | 5.00% | ~105 |
-| To infinity and beyond! | 4.00% | ~84 |
-| Hard Landing | 3.00% | ~63 |
+| “Aliens” | 5.00% | ~106 |
+| ITS crash site | 5.00% | ~106 |
+| To infinity and beyond! | 4.00% | ~85 |
+| Hard Landing | 3.00% | ~64 |
 | Explosive Miner | 2.00% | ~42 |
 | Caveman | 2.00% | ~42 |
 | Planetary Defence | 2.00% | ~42 |
@@ -54,8 +54,8 @@ Rating: 4.08 (Ranked 1,170)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,109 (Ranked 347)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 2,118 (Ranked 349)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -307,6 +307,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-17 | 2,072 | 0 |
 | 2024-07-25 | 2,099 | 0 |
 | 2024-08-09 | 2,109 | 0 |
+| 2024-08-20 | 2,118 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

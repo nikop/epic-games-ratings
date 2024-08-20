@@ -2,10 +2,10 @@
   "ID": "2ad37df83ba04179aea379277a8add65",
   "Name": "Dungeon Keeper Gold\u2122",
   "ProductSlug": "dungeon-keeper-gold-aef029",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
     "PcReleaseDate": "2024-03-06T22:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-07-16T03:57:20.8298849+00:00",
   "LastUpdate_AppInfo": "2024-08-15T22:57:00.9884959+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:27.0628347+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:43.471138+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:00.4746143+00:00"
 }

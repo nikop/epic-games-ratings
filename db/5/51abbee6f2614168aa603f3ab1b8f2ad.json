@@ -2,10 +2,10 @@
   "ID": "51abbee6f2614168aa603f3ab1b8f2ad",
   "Name": "Eternis: Death Match",
   "ProductSlug": "eternis-death-match-307a16",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T05:57:22.677965+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:37.6550143+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:56.900575+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:32.0703995+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:25.3215755+00:00"
 }

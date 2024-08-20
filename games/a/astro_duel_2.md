@@ -1,7 +1,7 @@
 # Astro Duel 2
 [Store](https://store.epicgames.com/en-US/p/astro-duel-2-e1261d)  
 [View Rawdata](../../db/a/astro_duel_2.json)  
-Rating: 4.72 (Ranked 212)  
+Rating: 4.72 (Ranked 213)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -37,7 +37,7 @@ Rating: 4.72 (Ranked 212)
 | Deft Maneuvers | 0.10% | ~155 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155,232 (Ranked 107)  
-Completed: 6 (0.00%) (Ranked 554)  
+Completed: 6 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

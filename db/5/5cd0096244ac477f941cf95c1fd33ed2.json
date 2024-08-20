@@ -2,10 +2,10 @@
   "ID": "5cd0096244ac477f941cf95c1fd33ed2",
   "Name": "Beyond the Ice Palace 2",
   "ProductSlug": "beyond-the-ice-palace-2-aed03d",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T22:57:00.4861648+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:42.5034715+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:56.3513854+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:21.605582+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:24.2464887+00:00"
 }

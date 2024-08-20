@@ -2,10 +2,10 @@
   "ID": "4334a911c46b4816b3d6580f5dd03fab",
   "Name": "The Adventures of Prince Shiratama ~Climb the mountains~",
   "ProductSlug": "adventure-of-prince-shiratama-vol_mountain-fbe9f3",
-  "Ranking_EOS_Progress": 938,
-  "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 936,
+  "Ranking_EOS_Completed": 25,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-26T11:00:00+00:00",
     "PcReleaseDate": "2024-06-05T15:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 27.27,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:19.0527448+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:07:51.764948+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:13:16.091387+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 3
     }
   ],
@@ -50,15 +55,15 @@
       "ID": "ACHIEVE_DEATH_1",
       "SetID": "64ep29l",
       "Name": "The first death",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 200,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVE_DEATH_10",
       "SetID": "64ep29l",
       "Name": "10th Death",
-      "Percentage": 82,
+      "Percentage": 75,
       "XP": 200,
       "UsersEstimate": 9
     },
@@ -66,7 +71,7 @@
       "ID": "ACHIEVE_DEATH_50",
       "SetID": "64ep29l",
       "Name": "50th Death",
-      "Percentage": 55,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 6
     },
@@ -74,7 +79,7 @@
       "ID": "ACHIEVE_HARD",
       "SetID": "64ep29l",
       "Name": "I wanna Shiratama!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -82,7 +87,7 @@
       "ID": "ACHIEVE_NORMAL",
       "SetID": "64ep29l",
       "Name": "Reach the top",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 4
     }
@@ -91,14 +96,14 @@
     {
       "ID": "64ep29l",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-06-30T15:00:12.516361+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:19.0527509+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:51.7649475+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:16.0913865+00:00",
   "LastUpdate_AppInfo": "2024-08-14T13:09:52.4036116+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:12.8024097+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:51.7649547+00:00"
+  "LastUpdate_Ratings": "2024-08-20T20:00:02.6372076+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:16.0913926+00:00"
 }

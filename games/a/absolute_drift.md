@@ -6,29 +6,29 @@ Number of Ratings: 216  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~159,200 |
-| Good Skills | 9.00% | ~143,280 |
-| Multiplier Master | 9.00% | ~143,280 |
-| Maverick | 7.00% | ~111,440 |
-| The Long Drift | 5.00% | ~79,600 |
-| Drift Line Apprentice | 3.00% | ~47,760 |
-| Mad Skills | 3.00% | ~47,760 |
-| Bring the Cubic Ruckus | 2.00% | ~31,840 |
-| Jelly Donuts | 2.00% | ~31,840 |
-| Master Drifter | 2.00% | ~31,840 |
-| Midnight Master | 2.00% | ~31,840 |
-| Spin Doctor | 2.00% | ~31,840 |
-| Hoon Airlines | 1.00% | ~15,920 |
-| Sake Bombs | 1.00% | ~15,920 |
-| Drift Line Master | 0.90% | ~14,328 |
-| Insane Skills | 0.80% | ~12,736 |
-| Bacon Donuts | 0.70% | ~11,144 |
-| Double Rainbow | 0.60% | ~9,552 |
-| Washing Machine | 0.50% | ~7,960 |
-| The Completionist | 0.10% | ~1,592 |
+| Midnight Drifter | 10.00% | ~159,322 |
+| Good Skills | 9.00% | ~143,390 |
+| Multiplier Master | 9.00% | ~143,390 |
+| Maverick | 7.00% | ~111,526 |
+| The Long Drift | 5.00% | ~79,661 |
+| Drift Line Apprentice | 3.00% | ~47,797 |
+| Mad Skills | 3.00% | ~47,797 |
+| Bring the Cubic Ruckus | 2.00% | ~31,864 |
+| Jelly Donuts | 2.00% | ~31,864 |
+| Master Drifter | 2.00% | ~31,864 |
+| Midnight Master | 2.00% | ~31,864 |
+| Spin Doctor | 2.00% | ~31,864 |
+| Hoon Airlines | 1.00% | ~15,932 |
+| Sake Bombs | 1.00% | ~15,932 |
+| Drift Line Master | 0.90% | ~14,339 |
+| Insane Skills | 0.80% | ~12,746 |
+| Bacon Donuts | 0.70% | ~11,153 |
+| Double Rainbow | 0.60% | ~9,559 |
+| Washing Machine | 0.50% | ~7,966 |
+| The Completionist | 0.10% | ~1,593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,592,000 (Ranked 11)  
-Completed: 874 (0.05%) (Ranked 468)  
+Progressed: 1,593,224 (Ranked 11)  
+Completed: 878 (0.06%) (Ranked 463)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,6 +315,7 @@ Completed: 874 (0.05%) (Ranked 468)
 | 2024-04-10 | 1,577,336 | 821 |
 | 2024-06-17 | 1,586,282 | 855 |
 | 2024-08-09 | 1,592,000 | 874 |
+| 2024-08-20 | 1,593,224 | 878 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

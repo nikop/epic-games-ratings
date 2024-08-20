@@ -13,21 +13,21 @@
 | Specialist | 30.00% | ~58 |
 | Opulent | 29.00% | ~56 |
 | Sparkly | 28.00% | ~54 |
+| Ready to Rock | 21.00% | ~40 |
 | Teamwork | 21.00% | ~40 |
-| Ready to Rock | 20.00% | ~38 |
 | Beginning of the End | 19.00% | ~36 |
 | Determined | 19.00% | ~36 |
 | Bling | 18.00% | ~35 |
-| Geared | 17.00% | ~33 |
+| Geared | 18.00% | ~35 |
 | Master Crafter | 14.00% | ~27 |
 | Master Trader | 14.00% | ~27 |
-| Mysteries of Rin | 12.00% | ~23 |
-| Patience | 11.00% | ~21 |
+| Mysteries of Rin | 13.00% | ~25 |
+| Patience | 12.00% | ~23 |
 | Empyrean Champion | 10.00% | ~19 |
 | Master Tactician | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 582)  
-Completed: 9 (4.69%) (Ranked 130)  
+Progressed: 192 (Ranked 587)  
+Completed: 9 (4.69%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

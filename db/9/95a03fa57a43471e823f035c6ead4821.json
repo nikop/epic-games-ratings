@@ -2,10 +2,10 @@
   "ID": "95a03fa57a43471e823f035c6ead4821",
   "Name": "Egging On",
   "ProductSlug": "egging-on-5f3c29",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T11:57:28.7958593+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:26.5539521+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:03.9576418+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:38.2681712+00:00"
 }

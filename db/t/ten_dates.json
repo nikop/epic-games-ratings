@@ -2,10 +2,10 @@
   "ID": "b5ab16ebd552476688116e187acd2151",
   "Name": "Ten Dates",
   "ProductSlug": "ten-dates-9a188a",
-  "Ranking_EOS_Progress": 415,
-  "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 895,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.13,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1691,6 +1691,11 @@
       "Time": "2024-08-09T18:04:38.5379134+00:00",
       "NumProgressed": 887,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-08-20T20:07:27.6520656+00:00",
+      "NumProgressed": 895,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -1734,7 +1739,7 @@
       "Name": "Let it begin",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "profile_ryan",
@@ -1742,7 +1747,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 304
     },
     {
       "ID": "ryan_date2_all",
@@ -1766,7 +1771,7 @@
       "Name": "The activist",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "success_bash",
@@ -1782,7 +1787,7 @@
       "Name": "The boss",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "success_derek",
@@ -1830,7 +1835,7 @@
       "Name": "The athlete",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "success_ty",
@@ -1844,7 +1849,7 @@
       "ID": "vinny_number",
       "SetID": "6h5h9ho",
       "Name": "Muggy Misha",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -1853,7 +1858,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 895,
       "Completed": 10
     }
   ],
@@ -1861,8 +1866,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:38.537913+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:27.6520651+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:12.8304388+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:11.4133323+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:38.5379292+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:27.6520854+00:00"
 }

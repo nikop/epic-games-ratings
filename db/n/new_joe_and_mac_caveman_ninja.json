@@ -3,9 +3,9 @@
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 496,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 413,
+  "EOS_Progressed": 428,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.94,
+  "EOS_Completed_Percentage": 1.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:18.1728843+00:00",
@@ -836,6 +836,11 @@
       "Time": "2024-08-09T18:05:50.4964125+00:00",
       "NumProgressed": 413,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-20T20:09:45.8323684+00:00",
+      "NumProgressed": 428,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -845,17 +850,17 @@
       "ID": "01",
       "SetID": "6glb5g1",
       "Name": "The T-Rex plain.",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 214
     },
     {
       "ID": "02",
       "SetID": "6glb5g1",
       "Name": "Crazy Jungle.",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "03",
@@ -863,7 +868,7 @@
       "Name": "In the treetops.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "04",
@@ -871,7 +876,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "05",
@@ -879,7 +884,7 @@
       "Name": "A turbulent river.",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "06",
@@ -887,7 +892,7 @@
       "Name": "Dino Ride.",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "07",
@@ -895,7 +900,7 @@
       "Name": "Swimming on a dino\u0027s back.",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "08",
@@ -903,7 +908,7 @@
       "Name": "Aggressive rocks.",
       "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 62
+      "UsersEstimate": 64
     },
     {
       "ID": "09",
@@ -911,7 +916,7 @@
       "Name": "In the heart of the volcano.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "10",
@@ -919,7 +924,7 @@
       "Name": "The mountain of peril.",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "11",
@@ -927,7 +932,7 @@
       "Name": "Rocky fall.",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "12",
@@ -935,7 +940,7 @@
       "Name": "Dinosaur graveyard.",
       "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "13",
@@ -959,14 +964,14 @@
       "Name": "The entrails of the beast.",
       "Percentage": 8,
       "XP": 140,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 413,
+      "Progressed": 428,
       "Completed": 8
     }
   ],
@@ -974,8 +979,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:50.496412+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:45.8323679+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:23.6050924+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:32.7185311+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:50.4964309+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:45.8323829+00:00"
 }

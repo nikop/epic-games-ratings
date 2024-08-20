@@ -6,9 +6,9 @@
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 52,
-  "Ranking_EOS_Completed": 487,
-  "Ranking_EOS_NewPlayers": 6,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_Completed": 494,
+  "Ranking_EOS_NewPlayers": 32,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2024-05-02T15:00:00+00:00",
     "PcReleaseDate": "2021-07-23T17:00:00+00:00",
@@ -2138,10 +2138,10 @@
       "Count": 65
     }
   ],
-  "EOS_Progressed": 515390,
-  "EOS_Completed": 163,
-  "EOS_NewPlayers": 4127,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 519261,
+  "EOS_Completed": 168,
+  "EOS_NewPlayers": 3871,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -2158,6 +2158,11 @@
       "Time": "2024-08-09T18:08:09.1708816+00:00",
       "NumProgressed": 515390,
       "NumCompleted": 163
+    },
+    {
+      "Time": "2024-08-20T20:13:47.7450128+00:00",
+      "NumProgressed": 519261,
+      "NumCompleted": 168
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:28.5816449+00:00",
@@ -2170,7 +2175,7 @@
       "Name": "Assassin",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 82462
+      "UsersEstimate": 83082
     },
     {
       "ID": "CantStopMeNow",
@@ -2178,7 +2183,7 @@
       "Name": "Can\u0027t Stop Me Now",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 15462
+      "UsersEstimate": 15578
     },
     {
       "ID": "ChallengeExcepted",
@@ -2186,15 +2191,15 @@
       "Name": "Challenge Accepted",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 15462
+      "UsersEstimate": 15578
     },
     {
       "ID": "CloseTheirEyes",
       "SetID": "1ni0kip",
       "Name": "Close Their Eyes",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 515
+      "UsersEstimate": 1039
     },
     {
       "ID": "CollectingTails",
@@ -2202,7 +2207,7 @@
       "Name": "Collecting Tails",
       "Percentage": 0.3,
       "XP": 75,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1558
     },
     {
       "ID": "Collector",
@@ -2210,15 +2215,15 @@
       "Name": "Collector",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3635
     },
     {
       "ID": "ComboApprentice",
       "SetID": "8l7me30",
       "Name": "Combo Apprentice",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 36077
+      "UsersEstimate": 41541
     },
     {
       "ID": "ComboRiftLord",
@@ -2226,7 +2231,7 @@
       "Name": "Combo Rift Lord",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1039
     },
     {
       "ID": "ComboWarmage",
@@ -2234,7 +2239,7 @@
       "Name": "Combo War Mage",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10308
+      "UsersEstimate": 10385
     },
     {
       "ID": "CrackingEggs",
@@ -2242,15 +2247,15 @@
       "Name": "Cracking Eggs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10308
+      "UsersEstimate": 10385
     },
     {
       "ID": "FairTrade",
       "SetID": "8l7me30",
       "Name": "Fair Trade",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 61847
+      "UsersEstimate": 67504
     },
     {
       "ID": "FirstFlight",
@@ -2258,7 +2263,7 @@
       "Name": "First Flight",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 20616
+      "UsersEstimate": 20770
     },
     {
       "ID": "GoldenMonocle",
@@ -2266,7 +2271,7 @@
       "Name": "Golden Monocle",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 4639
+      "UsersEstimate": 4673
     },
     {
       "ID": "HeadsandTails",
@@ -2274,7 +2279,7 @@
       "Name": "Heads and Tails",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 515
+      "UsersEstimate": 519
     },
     {
       "ID": "IceBreaker",
@@ -2282,7 +2287,7 @@
       "Name": "Ice Breaker",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1558
     },
     {
       "ID": "MakinganOmelet",
@@ -2290,23 +2295,23 @@
       "Name": "Making an Omelet",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10308
+      "UsersEstimate": 10385
     },
     {
       "ID": "Millionaire",
       "SetID": "8l7me30",
       "Name": "Millionaire",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 25770
+      "UsersEstimate": 31156
     },
     {
       "ID": "Moneybags",
       "SetID": "8l7me30",
       "Name": "Moneybags",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 56693
+      "UsersEstimate": 62311
     },
     {
       "ID": "PerfectBalance",
@@ -2314,7 +2319,7 @@
       "Name": "Perfect Balance",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1558
     },
     {
       "ID": "PokeintheEye",
@@ -2322,7 +2327,7 @@
       "Name": "Poke in the Eye",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2077
     },
     {
       "ID": "RiftLord",
@@ -2330,7 +2335,7 @@
       "Name": "Rift Lord",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2077
     },
     {
       "ID": "ScaleNecklace",
@@ -2338,7 +2343,7 @@
       "Name": "Scale Necklace",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2077
     },
     {
       "ID": "ScrambledEggs",
@@ -2346,7 +2351,7 @@
       "Name": "Scrambled Eggs",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 10308
+      "UsersEstimate": 10385
     },
     {
       "ID": "SheddingSkin",
@@ -2354,7 +2359,7 @@
       "Name": "Shedding Skin",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 2577
+      "UsersEstimate": 2596
     },
     {
       "ID": "Survivor",
@@ -2362,7 +2367,7 @@
       "Name": "Survivor",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 20616
+      "UsersEstimate": 20770
     },
     {
       "ID": "TheEyesHaveIt",
@@ -2370,7 +2375,7 @@
       "Name": "The Eyes Have It",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 515
+      "UsersEstimate": 519
     },
     {
       "ID": "TheLanding",
@@ -2378,7 +2383,7 @@
       "Name": "The Landing",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2077
     },
     {
       "ID": "ThumbontheScale",
@@ -2386,15 +2391,15 @@
       "Name": "Thumb on the Scale",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 515
+      "UsersEstimate": 519
     },
     {
       "ID": "Tinkerer",
       "SetID": "8l7me30",
       "Name": "Tinkerer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 72155
+      "UsersEstimate": 77889
     },
     {
       "ID": "TopFloor",
@@ -2402,7 +2407,7 @@
       "Name": "Top Floor",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1039
     },
     {
       "ID": "Upgraded",
@@ -2410,7 +2415,7 @@
       "Name": "Upgraded",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 36077
+      "UsersEstimate": 36348
     },
     {
       "ID": "Valedictorian",
@@ -2418,15 +2423,15 @@
       "Name": "Valedictorian",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1039
     },
     {
       "ID": "WarLord",
       "SetID": "8l7me30",
       "Name": "War Lord",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 51539
+      "UsersEstimate": 57119
     },
     {
       "ID": "WarMage",
@@ -2434,7 +2439,7 @@
       "Name": "War Mage",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 36077
+      "UsersEstimate": 36348
     },
     {
       "ID": "Warpath",
@@ -2442,7 +2447,7 @@
       "Name": "Warpath",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 30923
+      "UsersEstimate": 31156
     },
     {
       "ID": "WellEquipped",
@@ -2450,7 +2455,7 @@
       "Name": "Well Equipped",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 41231
+      "UsersEstimate": 41541
     },
     {
       "ID": "WillingtoSacrifice",
@@ -2458,29 +2463,29 @@
       "Name": "Willing to Sacrifice",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 515
+      "UsersEstimate": 519
     }
   ],
   "AchievementSets": [
     {
       "ID": "1ni0kip",
       "IsBase": false,
-      "Progressed": 515390,
-      "Completed": 83
+      "Progressed": 519261,
+      "Completed": 89
     },
     {
       "ID": "8l7me30",
       "IsBase": true,
-      "Progressed": 515390,
-      "Completed": 163
+      "Progressed": 519261,
+      "Completed": 168
     }
   ],
   "FirstSeen": "2024-05-02T17:59:08.0734959+00:00",
   "FirstSeenRating": "2024-05-03T11:58:38.5901753+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:28.5816448+00:00",
   "LastChanged": "2024-08-20T17:59:25.5983954+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:09.1708811+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:47.7450123+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:07.266958+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:25.598396+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:09.1709019+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:50.2769944+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:47.7450378+00:00"
 }

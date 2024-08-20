@@ -2,10 +2,10 @@
   "ID": "1e822fc232ef4a4a8bff9afdf5284cba",
   "Name": "Retro Commander",
   "ProductSlug": "retro-commander-7814fc",
-  "Ranking_EOS_Progress": 375,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-25T00:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1532,
+  "EOS_Progressed": 1554,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -55,6 +55,11 @@
       "Time": "2024-08-09T18:05:01.0164801+00:00",
       "NumProgressed": 1532,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:05.3704359+00:00",
+      "NumProgressed": 1554,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:10.9164047+00:00",
@@ -67,7 +72,7 @@
       "Name": "Built a Portal",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_campaign_1",
@@ -75,7 +80,7 @@
       "Name": "1. Campaign Completed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_campaign_2",
@@ -91,15 +96,15 @@
       "Name": "Fusion Power",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_kill_10",
       "SetID": "aaf50lo",
       "Name": "10 Kills",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 326
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_kill_100",
@@ -107,7 +112,7 @@
       "Name": "100 Kills",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_kill_1000",
@@ -115,7 +120,7 @@
       "Name": "1000 Kills",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_tutorial",
@@ -123,7 +128,7 @@
       "Name": "Tutorial Completed",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 674
+      "UsersEstimate": 684
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_victories_01",
@@ -131,15 +136,15 @@
       "Name": "First Game Won",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 528
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_victories_10",
       "SetID": "aaf50lo",
       "Name": "10 Games Won",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_local_win_inhuman",
@@ -155,7 +160,7 @@
       "Name": "Multiplayer Play",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_multi_victories_01",
@@ -171,29 +176,29 @@
       "Name": "Played for 1h",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "com_retrocommander_app_user_rco_award_total_played_24h",
       "SetID": "aaf50lo",
       "Name": "Played for 24h",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaf50lo",
       "IsBase": true,
-      "Progressed": 1532,
+      "Progressed": 1554,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-02T13:00:34.1537204+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.9164047+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:01.0164795+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:05.3704354+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:06.7197312+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:23.5268074+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.0164905+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:08.5868577+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:05.3704517+00:00"
 }

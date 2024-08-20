@@ -2,10 +2,10 @@
   "ID": "a2f4d83cbe634ef4ba0681575b10edf1",
   "Name": "Pawn Shop Simulator",
   "ProductSlug": "pawn-shop-simulator-ecf98b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T02:57:07.5286285+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:34.4280904+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:00.6218504+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:55.9390661+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:32.3457383+00:00"
 }

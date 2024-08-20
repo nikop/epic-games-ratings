@@ -2,10 +2,10 @@
   "ID": "fdf05d3975f44e8d989bc2923e3e6f38",
   "Name": "Letters \u0026 Legends",
   "ProductSlug": "letters-and-legends-2a2c80",
-  "Ranking_EOS_Progress": 827,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-25T23:00:00+00:00",
     "PcReleaseDate": "2024-04-25T23:00:00+00:00",
@@ -27,7 +27,7 @@
   "Tags": [],
   "EOS_Progressed": 30,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -95,9 +95,9 @@
       "ID": "F_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "F is for Fantastical",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "G_IS_FOR",
@@ -135,17 +135,17 @@
       "ID": "K_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "K is for Killer",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "L_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "L is for Learning",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "M_IS_FOR",
@@ -167,9 +167,9 @@
       "ID": "O_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "O is for Octonary",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "P_IS_FOR",
@@ -270,8 +270,8 @@
   ],
   "FirstSeen": "2024-04-30T21:57:27.020062+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:21.5144878+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:06.6806714+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:43.2643688+00:00",
   "LastUpdate_AppInfo": "2024-08-14T17:57:11.3228285+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:23.5991296+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:06.6806876+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:19.8039057+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:43.2643824+00:00"
 }

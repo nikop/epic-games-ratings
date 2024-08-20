@@ -2,10 +2,10 @@
   "ID": "7218b3eddf1749dd9f966c615f2a9d96",
   "Name": "Of Murder and Moonshine",
   "ProductSlug": "of-murder-and-moonshine-5fdce0",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T13:10:36.4341447+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:52.4920632+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:58:47.8933025+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:14.0464643+00:00"
 }

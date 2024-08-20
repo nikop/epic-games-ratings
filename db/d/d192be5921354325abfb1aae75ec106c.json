@@ -2,10 +2,10 @@
   "ID": "d192be5921354325abfb1aae75ec106c",
   "Name": "MATCHO",
   "ProductSlug": "matcho-0bd1a4",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T02:57:18.7834754+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:11.7496377+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:14.2104976+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:41.1460666+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:56.0301417+00:00"
 }

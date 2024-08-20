@@ -2,10 +2,10 @@
   "ID": "068f3fcf3467498d84472b24e6cff069",
   "Name": "Dark Odyssey",
   "ProductSlug": "dark-odyssey-debc31",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-12T08:10:59.765+00:00",
     "PcReleaseDate": "2023-09-24T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-12T15:58:05.5932275+00:00",
   "LastUpdate_AppInfo": "2024-08-16T11:57:18.9037984+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:08.6808522+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:52.6057783+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:18.4187194+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:17.7443325+00:00"
 }

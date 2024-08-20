@@ -106,8 +106,8 @@ Rating: 4.39 (Ranked 881)
 | Freeeedom! | 0.00% | ~0 |
 | Ragium quitos? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,977 (Ranked 316)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 2,977 (Ranked 322)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

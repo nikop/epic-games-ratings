@@ -3,9 +3,9 @@
   "Name": "The Tribe Must Survive",
   "ProductSlug": "the-tribe-must-survive-06c4d6",
   "Ranking_EOS_Progress": 763,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-23T13:00:00+00:00",
     "PcReleaseDate": "2024-02-22T14:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
     {
       "Time": "2024-08-09T18:06:51.0231404+00:00",
       "NumProgressed": 51,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:30.2688068+00:00",
+      "NumProgressed": 54,
       "NumCompleted": 0
     }
   ],
@@ -71,9 +76,9 @@
       "ID": "A_NEW_DAWN",
       "SetID": "dg77af9",
       "Name": "A New Dawn",
-      "Percentage": 35,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "BORROWED_TIME",
@@ -127,7 +132,7 @@
       "ID": "DARKNESS_WILL_NOT_BREAK_US",
       "SetID": "dg77af9",
       "Name": "Darkness Will Not Break Us",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 80,
       "UsersEstimate": 9
     },
@@ -151,7 +156,7 @@
       "ID": "ETERNAL_FLAME",
       "SetID": "dg77af9",
       "Name": "Eternal Flame",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -167,33 +172,33 @@
       "ID": "EXTERMINATOR",
       "SetID": "dg77af9",
       "Name": "Exterminator",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FIRST_OF_MANY",
       "SetID": "7j4hl85",
       "Name": "First of Many",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "HOW_SHOCKING",
       "SetID": "dg77af9",
       "Name": "How Shocking!",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "JACK_OF_ALL_TRADES",
       "SetID": "7j4hl85",
       "Name": "Jack of All Trades",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KEEP_IT_PRIMITIVE",
@@ -223,7 +228,7 @@
       "ID": "PEACE_OF_MIND",
       "SetID": "dg77af9",
       "Name": "Peace of Mind",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 70,
       "UsersEstimate": 4
     },
@@ -231,9 +236,9 @@
       "ID": "REEGLOB_DINGDONG",
       "SetID": "dg77af9",
       "Name": "Reeglob Dingdong? I don\u0027t think so.",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REJECT_THE_WASTE",
@@ -255,7 +260,7 @@
       "ID": "STOP_POKING_ME",
       "SetID": "dg77af9",
       "Name": "Stop Poking Me!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -279,9 +284,9 @@
       "ID": "THROUGH_THE_LONG_NIGHT",
       "SetID": "dg77af9",
       "Name": "Through the Long Night",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "TRANSCENDENT_TRIFECTA",
@@ -296,20 +301,20 @@
     {
       "ID": "7j4hl85",
       "IsBase": false,
-      "Progressed": 18,
+      "Progressed": 21,
       "Completed": 0
     },
     {
       "ID": "dg77af9",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-24T08:57:03.3003938+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:01.9788702+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:51.0231402+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:30.2688064+00:00",
   "LastUpdate_AppInfo": "2024-08-15T04:57:39.7443004+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:18.1121848+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:51.0231575+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:45.4439489+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:30.2688218+00:00"
 }

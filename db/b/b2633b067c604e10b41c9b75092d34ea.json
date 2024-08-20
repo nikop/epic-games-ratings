@@ -2,10 +2,10 @@
   "ID": "b2633b067c604e10b41c9b75092d34ea",
   "Name": "Tales of Monkey Island - Chapter 3",
   "ProductSlug": "tales-of-monkey-island-chapter-3-92676b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-07-07T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T20:57:21.2506232+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:57.8975883+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:08.5847712+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:49.7738341+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:46.875916+00:00"
 }

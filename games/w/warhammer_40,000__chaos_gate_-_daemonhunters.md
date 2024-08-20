@@ -75,8 +75,8 @@ Number of Ratings: 371  (23.09.2022)
 | Master of the Forge | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,443 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 4,443 (Ranked 292)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -332,13 +332,13 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-08-09 | 4,443 | 0 |
 ## Awards
 Max (Character Customization): 256  (Ranked 325)  
-Sum: 565 (Ranked 391)  
+Sum: 566 (Ranked 391)  
 Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 256 |
+| This game is Extremely Fun | 39 |
 | This game is Highly Recommended | 39 |
-| This game is Extremely Fun | 38 |
 | This game has Diverse Characters | 38 |
 | This game has Challenging Combat | 37 |
 | This game has Amazing Storytelling | 36 |
@@ -520,4 +520,4 @@ Diff (max vs sum): -66
 | 2024-08-12 | 4.56 | - | 255 | 561 |
 | 2024-08-15 | 4.56 | - | 255 | 562 |
 | 2024-08-18 | 4.56 | - | 255 | 564 |
-| 2024-08-20 | 4.56 | - | 256 | 565 |
+| 2024-08-20 | 4.56 | - | 256 | 566 |

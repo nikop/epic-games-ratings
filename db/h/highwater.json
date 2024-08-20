@@ -2,10 +2,10 @@
   "ID": "2fd699bb8dbc4bff8402747f2e14c1ae",
   "Name": "Highwater",
   "ProductSlug": "highwater-090fb0",
-  "Ranking_EOS_Progress": 889,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 893,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-14T07:00:00+00:00",
     "PcReleaseDate": "2024-03-14T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2024-08-09T18:06:56.7515024+00:00",
       "NumProgressed": 16,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:39.3886914+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -131,7 +136,7 @@
       "ID": "KidneySold",
       "SetID": "35a8278",
       "Name": "Kidney Sold",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -147,7 +152,7 @@
       "ID": "LongTermConsequences",
       "SetID": "35a8278",
       "Name": "Long-Term Consequences",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -163,7 +168,7 @@
       "ID": "MadeIt",
       "SetID": "35a8278",
       "Name": "Made It!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -220,14 +225,14 @@
     {
       "ID": "35a8278",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-28T11:00:53.5704234+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:54.8262493+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:56.7515021+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:39.3886909+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:59.1756187+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:47.4619439+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:56.751513+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:39.3887027+00:00"
 }

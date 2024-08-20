@@ -55,8 +55,8 @@ Number of Ratings: 32  (23.09.2022)
 | Risk Taker | 2.00% | ~4 |
 | Big Game Hunter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204 (Ranked 577)  
-Completed: 2 (0.98%) (Ranked 261)  
+Progressed: 204 (Ranked 580)  
+Completed: 2 (0.98%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

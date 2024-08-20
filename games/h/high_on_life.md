@@ -1,31 +1,31 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.66 (Ranked 328)  
+Rating: 4.66 (Ranked 329)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 9.00% | ~2,326 |
-| First Bounty Down | 9.00% | ~2,326 |
-| Cold-Blooded Driller | 9.00% | ~2,326 |
-| Are You Packin'? | 8.00% | ~2,067 |
-| Bring A Knife to a Gun Fight | 8.00% | ~2,067 |
-| Sweezy Like Sunday Morning | 8.00% | ~2,067 |
-| We're All Very Impressed, Trust Me | 8.00% | ~2,067 |
-| G3 Graduation | 8.00% | ~2,067 |
-| Don't Knife The Hand That Feeds | 8.00% | ~2,067 |
-| Creature Feature | 7.00% | ~1,809 |
-| Who's The Boss? | 7.00% | ~1,809 |
-| RIP Davey Glutes | 6.00% | ~1,550 |
-| Hardest Battle In The Game | 6.00% | ~1,550 |
-| Fallout Doesn't Let You Do This | 6.00% | ~1,550 |
-| Lezduit! | 5.00% | ~1,292 |
-| Legendary Bounty Hunter | 5.00% | ~1,292 |
-| Self-Actualization | 5.00% | ~1,292 |
-| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,292 |
+| Satisfied Gus-tomer | 9.00% | ~2,327 |
+| Sweezy Like Sunday Morning | 9.00% | ~2,327 |
+| First Bounty Down | 9.00% | ~2,327 |
+| G3 Graduation | 9.00% | ~2,327 |
+| Cold-Blooded Driller | 9.00% | ~2,327 |
+| Are You Packin'? | 8.00% | ~2,068 |
+| Bring A Knife to a Gun Fight | 8.00% | ~2,068 |
+| We're All Very Impressed, Trust Me | 8.00% | ~2,068 |
+| Don't Knife The Hand That Feeds | 8.00% | ~2,068 |
+| Creature Feature | 7.00% | ~1,810 |
+| Who's The Boss? | 7.00% | ~1,810 |
+| RIP Davey Glutes | 6.00% | ~1,551 |
+| Hardest Battle In The Game | 6.00% | ~1,551 |
+| Fallout Doesn't Let You Do This | 6.00% | ~1,551 |
+| Lezduit! | 5.00% | ~1,293 |
+| Legendary Bounty Hunter | 5.00% | ~1,293 |
+| Self-Actualization | 5.00% | ~1,293 |
+| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,293 |
 | Eye Scream, You Scream | 4.00% | ~1,034 |
 | Series Wrap on Suit-O | 4.00% | ~1,034 |
-| Eatin' Good in the Neighborhood | 3.00% | ~775 |
+| Eatin' Good in the Neighborhood | 3.00% | ~776 |
 | Gunning For Your Job | 2.00% | ~517 |
 | We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~517 |
 | Bathe With A Giant Nude Alien | 2.00% | ~63 |
@@ -50,8 +50,8 @@ Rating: 4.66 (Ranked 328)
 | Porch Pirate | 0.10% | ~3 |
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,839 (Ranked 193)  
-Completed: 15 (0.06%) (Ranked 459)  
+Progressed: 25,856 (Ranked 195)  
+Completed: 15 (0.06%) (Ranked 463)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,6 +336,7 @@ Completed: 15 (0.06%) (Ranked 459)
 | 2024-04-10 | 25,541 | 14 |
 | 2024-06-17 | 25,705 | 15 |
 | 2024-08-09 | 25,839 | 15 |
+| 2024-08-20 | 25,856 | 15 |
 ## Awards
 Max (Unique Visuals): 20  (Ranked 691)  
 Sum: 20 (Ranked 692)  

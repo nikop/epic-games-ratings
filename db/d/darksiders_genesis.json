@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 840,
   "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 613,
-  "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_PopularitySum": 614,
+  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -505,9 +505,9 @@
       "Count": 48
     }
   ],
-  "EOS_Progressed": 2283,
+  "EOS_Progressed": 2328,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2890,6 +2890,11 @@
       "Time": "2024-08-09T18:07:35.2655368+00:00",
       "NumProgressed": 2283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:46.2904605+00:00",
+      "NumProgressed": 2328,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2902,15 +2907,15 @@
       "Name": "A Bullet for All Seasons",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "AreYouNotEntertained",
       "SetID": "329ak73",
       "Name": "Are You Not Entertained?",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Astarte",
@@ -2918,7 +2923,7 @@
       "Name": "Astarte",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Belial",
@@ -2942,7 +2947,7 @@
       "Name": "Close the Rift",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "Collector",
@@ -2950,7 +2955,7 @@
       "Name": "Collector",
       "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Dagon",
@@ -2966,7 +2971,7 @@
       "Name": "Demolition Derby",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "FullofHell",
@@ -2980,9 +2985,9 @@
       "ID": "Gatekeeper",
       "SetID": "329ak73",
       "Name": "Gatekeeper",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "GoodDeeds",
@@ -2998,7 +3003,7 @@
       "Name": "Hell\u0027s Forge",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Infested",
@@ -3006,7 +3011,7 @@
       "Name": "Infested",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Mammon",
@@ -3014,7 +3019,7 @@
       "Name": "Mammon",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "MasterofStrife",
@@ -3022,7 +3027,7 @@
       "Name": "Master of Strife",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MasterofWar",
@@ -3030,7 +3035,7 @@
       "Name": "Master of War",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MintI",
@@ -3038,7 +3043,7 @@
       "Name": "Mint I",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 186
     },
     {
       "ID": "MintII",
@@ -3046,7 +3051,7 @@
       "Name": "Mint II",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "MintIII",
@@ -3086,15 +3091,15 @@
       "Name": "Soul Cache",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "TheDeadCourt",
       "SetID": "329ak73",
       "Name": "The Dead Court",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 70
     },
     {
       "ID": "TheGardenofForkingPaths",
@@ -3118,7 +3123,7 @@
       "Name": "Walking Armory",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "WhydItHavetoBeSnakes",
@@ -3126,7 +3131,7 @@
       "Name": "Why\u0027d It Have to Be Snakes?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "WickedKillington",
@@ -3141,15 +3146,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 2283,
+      "Progressed": 2328,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2024-07-26T17:58:58.8225986+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:35.2655366+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:46.2904601+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:36.7697696+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:27.057853+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:35.2655607+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:22.8062599+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:46.2904898+00:00"
 }

@@ -4,36 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Silent Assassin | 56.00% | ~23 |
-| Liberator | 34.00% | ~14 |
-| Famine Defeated | 32.00% | ~13 |
-| Parry Mastery | 29.00% | ~12 |
-| Perceptive | 27.00% | ~11 |
-| Gold Collector | 15.00% | ~6 |
-| Possess Mastery | 15.00% | ~6 |
-| Master Assassin | 12.00% | ~5 |
-| Token Collector | 7.00% | ~3 |
-| War Defeated | 7.00% | ~3 |
+| Silent Assassin | 57.00% | ~24 |
+| Liberator | 36.00% | ~15 |
+| Famine Defeated | 33.00% | ~14 |
+| Parry Mastery | 31.00% | ~13 |
+| Perceptive | 29.00% | ~12 |
+| Gold Collector | 17.00% | ~7 |
+| Possess Mastery | 17.00% | ~7 |
+| Master Assassin | 14.00% | ~6 |
+| Token Collector | 10.00% | ~4 |
+| War Defeated | 10.00% | ~4 |
+| Death Defeated | 7.00% | ~3 |
+| Decay Defeated | 7.00% | ~3 |
+| Demon Butcher | 7.00% | ~3 |
+| Group Fight Mastery | 7.00% | ~3 |
 | Body Spawn Master | 5.00% | ~2 |
-| Death Defeated | 5.00% | ~2 |
-| Decay Defeated | 5.00% | ~2 |
-| Demon Butcher | 5.00% | ~2 |
-| Group Fight Mastery | 5.00% | ~2 |
+| Dash Mastery | 5.00% | ~2 |
+| Demon King Defeated | 5.00% | ~2 |
+| Elemental Mastery | 5.00% | ~2 |
+| Elite Butcher | 5.00% | ~2 |
+| Lone Wolf Champion | 5.00% | ~2 |
+| Skill Adept | 5.00% | ~2 |
 | Body Blast Master | 2.00% | ~1 |
 | Body Swapper | 2.00% | ~1 |
-| Dash Mastery | 2.00% | ~1 |
-| Demon King Defeated | 2.00% | ~1 |
 | Earth Shatter Master | 2.00% | ~1 |
 | Elemental Butcher | 2.00% | ~1 |
-| Elemental Mastery | 2.00% | ~1 |
-| Elite Butcher | 2.00% | ~1 |
 | Familiar Catcher | 2.00% | ~1 |
 | Familiar Trainer | 2.00% | ~1 |
 | Fire Blast Master | 2.00% | ~1 |
 | Land Mine Master | 2.00% | ~1 |
-| Lone Wolf Champion | 2.00% | ~1 |
 | Reanimate Master | 2.00% | ~1 |
-| Skill Adept | 2.00% | ~1 |
+| Shopaholic | 2.00% | ~1 |
+| Skill Finder | 2.00% | ~1 |
 | Vanish Master | 2.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |
@@ -56,17 +58,15 @@
 | Protective Dome Master | 0.00% | ~0 |
 | Rogue Spirit | 0.00% | ~0 |
 | Secret Searcher | 0.00% | ~0 |
-| Shopaholic | 0.00% | ~0 |
 | Shotgun Champion | 0.00% | ~0 |
 | Skilful Champion | 0.00% | ~0 |
-| Skill Finder | 0.00% | ~0 |
 | Skill Master | 0.00% | ~0 |
 | Sneaky Champion | 0.00% | ~0 |
 | Sprinter Champion | 0.00% | ~0 |
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41 (Ranked 793)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 42 (Ranked 796)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 37 | 0 |
 | 2024-06-17 | 40 | 0 |
 | 2024-08-09 | 41 | 0 |
+| 2024-08-20 | 42 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

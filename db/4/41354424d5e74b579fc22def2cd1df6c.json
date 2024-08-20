@@ -2,10 +2,10 @@
   "ID": "41354424d5e74b579fc22def2cd1df6c",
   "Name": "Capes",
   "ProductSlug": "capes-884728",
-  "Ranking_EOS_Progress": 732,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 731,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-29T17:00:00+00:00",
     "PcReleaseDate": "2024-05-29T16:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
     {
       "Time": "2024-08-09T18:06:15.2804689+00:00",
       "NumProgressed": 68,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:32.069944+00:00",
+      "NumProgressed": 71,
       "NumCompleted": 0
     }
   ],
@@ -424,14 +429,14 @@
     {
       "ID": "ac0oodp",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-29T21:00:20.3453237+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:58.6690013+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:15.2804685+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:32.0699432+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:19.1929239+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:45.1171569+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:15.2804947+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:02.8703108+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:32.0699683+00:00"
 }

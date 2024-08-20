@@ -11,8 +11,8 @@
 | Enemies of Fate | 31.00% | ~70 |
 | Your Training Continues | 30.00% | ~68 |
 | Armored | 29.00% | ~66 |
+| Amokuali Tower | 28.00% | ~63 |
 | Freedom | 27.00% | ~61 |
-| Amokuali Tower | 27.00% | ~61 |
 | The Pride of Moozhaw | 23.00% | ~52 |
 | Winner | 23.00% | ~52 |
 | Omnia Vincit Amor | 22.00% | ~50 |
@@ -26,8 +26,8 @@
 | Vivid Dreams | 2.00% | ~5 |
 | Broken Reflection | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 563)  
-Completed: 1 (0.44%) (Ranked 338)  
+Progressed: 226 (Ranked 566)  
+Completed: 1 (0.44%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

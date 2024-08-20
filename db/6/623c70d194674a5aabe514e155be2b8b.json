@@ -2,10 +2,10 @@
   "ID": "623c70d194674a5aabe514e155be2b8b",
   "Name": "BackRooms 1995 The Lost Footage Chapter 1",
   "ProductSlug": "backrooms-1995-the-lost-footage-4a3d81",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-12T12:00:00+00:00",
     "PcReleaseDate": "2024-04-12T12:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-17T02:57:00.304911+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:18.8661232+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:12.7126166+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:45.9469705+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:53.4144363+00:00"
 }

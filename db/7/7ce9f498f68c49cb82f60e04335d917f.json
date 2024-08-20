@@ -2,10 +2,10 @@
   "ID": "7ce9f498f68c49cb82f60e04335d917f",
   "Name": "The Star Named EOS",
   "ProductSlug": "the-star-named-eos-2ef39f",
-  "Ranking_EOS_Progress": 938,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 908,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-23T07:00:00+00:00",
     "PcReleaseDate": "2024-07-23T07:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:08:04.0398458+00:00",
       "NumProgressed": 11,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:38.6570591+00:00",
+      "NumProgressed": 15,
       "NumCompleted": 0
     }
   ],
@@ -74,7 +79,7 @@
       "ID": "constellation",
       "SetID": "6i4fbd9",
       "Name": "Constellation",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "fleeting_moment",
       "SetID": "6i4fbd9",
       "Name": "A Fleeting Moment",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -106,9 +111,9 @@
       "ID": "journey",
       "SetID": "6i4fbd9",
       "Name": "The Journey",
-      "Percentage": 27,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "lost",
@@ -122,15 +127,15 @@
       "ID": "loud_bell",
       "SetID": "6i4fbd9",
       "Name": "Jingle Bells",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "mobius",
       "SetID": "6i4fbd9",
       "Name": "Mobius",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "promise",
       "SetID": "6i4fbd9",
       "Name": "The Promise",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "pursuit",
       "SetID": "6i4fbd9",
       "Name": "The Pursuit",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -194,9 +199,9 @@
       "ID": "sealed_memories",
       "SetID": "6i4fbd9",
       "Name": "Sealed Memories",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "see_through_at_a_glance",
@@ -210,9 +215,9 @@
       "ID": "setting_sun",
       "SetID": "6i4fbd9",
       "Name": "Setting Sun",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "starry_memory",
@@ -228,29 +233,29 @@
       "Name": "The Beginning",
       "Percentage": 73,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "sudden_rain",
       "SetID": "6i4fbd9",
       "Name": "Sudden Shower",
-      "Percentage": 9,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "6i4fbd9",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-01T17:57:41.8669971+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:15.2767817+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:04.0398453+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:38.6570586+00:00",
   "LastUpdate_AppInfo": "2024-08-17T20:57:08.4607383+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:59.9930611+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:04.03986+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:33.15195+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:38.6570787+00:00"
 }

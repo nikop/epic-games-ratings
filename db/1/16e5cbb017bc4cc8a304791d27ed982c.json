@@ -2,10 +2,10 @@
   "ID": "16e5cbb017bc4cc8a304791d27ed982c",
   "Name": "Smelogs Playground",
   "ProductSlug": "smelogs-playground-a953e3",
-  "Ranking_EOS_Progress": 431,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 433,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-25T15:00:00+00:00",
     "PcReleaseDate": "2024-04-25T15:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 718,
+  "EOS_Progressed": 744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-08-09T18:05:16.0471729+00:00",
       "NumProgressed": 718,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:37.2336468+00:00",
+      "NumProgressed": 744,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:16:23.5545508+00:00",
@@ -50,9 +55,9 @@
       "ID": "ACH_10DESTRUCTIONS",
       "SetID": "b60eked",
       "Name": "Great Warrior",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_10FRIENDS",
@@ -60,7 +65,7 @@
       "Name": "Popular",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "ACH_1GIFT",
@@ -76,7 +81,7 @@
       "Name": "Hero!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_3GIFTS",
@@ -100,7 +105,7 @@
       "Name": "A worthy fighter!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_5GIFTS",
@@ -124,15 +129,15 @@
       "Name": "Easy AI defeated",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "ACH_AI_HARD",
       "SetID": "b60eked",
       "Name": "Hard AI defeated",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_AI_NORMAL",
@@ -218,7 +223,7 @@
       "ID": "ACH_FASHIONABLE",
       "SetID": "b60eked",
       "Name": "Fashionable",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -260,7 +265,7 @@
       "Name": "Slayer",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 144
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_SPARKLY",
@@ -292,21 +297,21 @@
       "Name": "Welcome",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 696
+      "UsersEstimate": 722
     }
   ],
   "AchievementSets": [
     {
       "ID": "b60eked",
       "IsBase": true,
-      "Progressed": 718,
+      "Progressed": 744,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-26T19:58:46.9891761+00:00",
   "FirstSeenAchievements": "2024-06-17T16:16:23.5545508+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:16.0471724+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:37.2336462+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:24.8746314+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:36.3057243+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:16.0471877+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:37.2336648+00:00"
 }

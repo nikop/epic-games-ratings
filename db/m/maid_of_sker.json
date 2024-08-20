@@ -2,13 +2,13 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_Rating": 1104,
+  "Ranking_Rating": 1105,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 524,
-  "Ranking_EOS_NewPlayers": 1,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_Progress": 96,
+  "Ranking_EOS_Completed": 532,
+  "Ranking_EOS_NewPlayers": 9,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -232,10 +232,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177921,
-  "EOS_Completed": 14,
-  "EOS_NewPlayers": 20332,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 191518,
+  "EOS_Completed": 19,
+  "EOS_NewPlayers": 13597,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
@@ -1192,6 +1192,11 @@
       "Time": "2024-08-09T18:07:38.3803925+00:00",
       "NumProgressed": 177921,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-08-20T20:12:51.6898942+00:00",
+      "NumProgressed": 191518,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 30,
@@ -1201,9 +1206,9 @@
       "ID": "animal_lover",
       "SetID": "3j2phem",
       "Name": "Animal Lover",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 26688
+      "UsersEstimate": 30643
     },
     {
       "ID": "axe_of_kindness",
@@ -1211,7 +1216,7 @@
       "Name": "Axe of Kindness",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 383
     },
     {
       "ID": "axeman",
@@ -1219,7 +1224,7 @@
       "Name": "Axeman",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "bull_in_a_china_shop",
@@ -1227,7 +1232,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7661
     },
     {
       "ID": "chief_butler",
@@ -1235,7 +1240,7 @@
       "Name": "Chief Butler",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7661
     },
     {
       "ID": "choking_hazzard",
@@ -1243,7 +1248,7 @@
       "Name": "Choking Hazard",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 48039
+      "UsersEstimate": 51710
     },
     {
       "ID": "dodgy_geezer",
@@ -1251,7 +1256,7 @@
       "Name": "Dodgy Geezer",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "dont_breath",
@@ -1259,15 +1264,15 @@
       "Name": "Don\u0027t Breathe",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 24909
+      "UsersEstimate": 26813
     },
     {
       "ID": "easy_listening",
       "SetID": "3j2phem",
       "Name": "Easy Listening",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 7117
+      "UsersEstimate": 9576
     },
     {
       "ID": "ending_on_a_high_note",
@@ -1275,7 +1280,7 @@
       "Name": "Ending on a High Note",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 712
+      "UsersEstimate": 766
     },
     {
       "ID": "hard_times",
@@ -1283,7 +1288,7 @@
       "Name": "Hard Times",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "head_of_the_hotel",
@@ -1291,7 +1296,7 @@
       "Name": "Head of the Hotel",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "hell_at_the_hotel",
@@ -1299,7 +1304,7 @@
       "Name": "Hell at the Hotel",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "in_complete_darkness",
@@ -1307,7 +1312,7 @@
       "Name": "In Complete Darkness",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "in_darkness",
@@ -1315,7 +1320,7 @@
       "Name": "In Darkness",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "life_saver",
@@ -1323,7 +1328,7 @@
       "Name": "Life Saver",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "luddite",
@@ -1331,7 +1336,7 @@
       "Name": "Luddite",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "maids_of_sker",
@@ -1339,7 +1344,7 @@
       "Name": "Maids of Sker",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 356
+      "UsersEstimate": 383
     },
     {
       "ID": "make_love_not_war",
@@ -1347,7 +1352,7 @@
       "Name": "Make Love, Not War",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "nightmare_at_the_hotel",
@@ -1355,7 +1360,7 @@
       "Name": "Nightmare at the Hotel",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "nuisance_caller",
@@ -1363,15 +1368,15 @@
       "Name": "Nuisance Caller",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "perfect_harmony",
       "SetID": "3j2phem",
       "Name": "Perfect Harmony!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7117
+      "UsersEstimate": 9576
     },
     {
       "ID": "phonic_boom",
@@ -1379,7 +1384,7 @@
       "Name": "Phonic Boom",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 534
+      "UsersEstimate": 575
     },
     {
       "ID": "rapturous_applause",
@@ -1387,7 +1392,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 8896
+      "UsersEstimate": 9576
     },
     {
       "ID": "scholar",
@@ -1395,7 +1400,7 @@
       "Name": "Scholar",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "sker_explorer",
@@ -1403,23 +1408,23 @@
       "Name": "Sker Explorer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1915
     },
     {
       "ID": "smooth_operator",
       "SetID": "3j2phem",
       "Name": "Smooth Operator",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 8896
+      "UsersEstimate": 11491
     },
     {
       "ID": "the_long_night",
       "SetID": "3j2phem",
       "Name": "The Long Night",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1341
     },
     {
       "ID": "the_longest_night",
@@ -1427,7 +1432,7 @@
       "Name": "The Longest Night",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 192
     },
     {
       "ID": "wales_interactive",
@@ -1435,23 +1440,23 @@
       "Name": "Wales Interactive",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 12454
+      "UsersEstimate": 13406
     }
   ],
   "AchievementSets": [
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 177921,
-      "Completed": 14
+      "Progressed": 191518,
+      "Completed": 19
     }
   ],
   "FirstSeen": "2022-10-30T19:31:40.9889126+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2024-08-20T13:13:16.9757469+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:38.3803919+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:51.689894+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:42.3855506+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:35.0282776+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:38.3804147+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:15.4001553+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:51.6899139+00:00"
 }

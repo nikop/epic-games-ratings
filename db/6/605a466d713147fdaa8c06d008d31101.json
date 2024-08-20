@@ -2,10 +2,10 @@
   "ID": "605a466d713147fdaa8c06d008d31101",
   "Name": "Redline",
   "ProductSlug": "redline-d8e6eb",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-03T07:00:00+00:00",
     "PcReleaseDate": "2024-05-03T07:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-05-04T07:59:53.2113507+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:23.7097017+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:10.0230489+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:10.2164385+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:49.5841143+00:00"
 }

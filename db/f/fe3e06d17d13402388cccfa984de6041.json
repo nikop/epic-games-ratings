@@ -3,12 +3,12 @@
   "Name": "Olympics Go! Paris 2024",
   "ProductSlug": "olympics-go-paris-2024-5d5f77",
   "Ranking_Rating": 1259,
-  "Ranking_Popularity": 658,
-  "Ranking_PopularitySum": 616,
-  "Ranking_EOS_Progress": 154,
-  "Ranking_EOS_Completed": 442,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_Popularity": 653,
+  "Ranking_PopularitySum": 612,
+  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_NewPlayers": 13,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2024-06-11T16:00:00+00:00",
     "PcReleaseDate": "2024-06-11T16:00:00+00:00",
@@ -342,12 +342,18 @@
       "Rating": 3.62,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-08-20T19:57:26.8229721+00:00",
+      "Rating": 3.62,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47,
-  "NumberOfAwardsMax": 24,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 49,
+  "NumberOfAwardsMax": 25,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -359,14 +365,14 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 23
+      "Count": 25
     }
   ],
-  "EOS_Progressed": 72659,
-  "EOS_Completed": 55,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.08,
+  "EOS_Progressed": 82344,
+  "EOS_Completed": 128,
+  "EOS_NewPlayers": 9685,
+  "EOS_NewCompleters": 73,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:29.9069218+00:00",
@@ -382,6 +388,11 @@
       "Time": "2024-08-09T18:06:52.3737353+00:00",
       "NumProgressed": 72659,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2024-08-20T20:11:32.3909274+00:00",
+      "NumProgressed": 82344,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:29.9069246+00:00",
@@ -392,41 +403,41 @@
       "ID": "all_bronze_beginner_event",
       "SetID": "b888bip",
       "Name": "Bronze Beginnings",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 15985
+      "UsersEstimate": 18939
     },
     {
       "ID": "all_bronze_expert_event",
       "SetID": "b888bip",
       "Name": "Bronze Expertise",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 2180
+      "UsersEstimate": 3294
     },
     {
       "ID": "all_bronze_master_event",
       "SetID": "b888bip",
       "Name": "Bronze Master",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 70,
-      "UsersEstimate": 145
+      "UsersEstimate": 329
     },
     {
       "ID": "all_bronze_pro_event",
       "SetID": "b888bip",
       "Name": "Bronze Professional",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 823
     },
     {
       "ID": "all_gold_beginner_event",
       "SetID": "b888bip",
       "Name": "Gold Beginnings",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 10172
+      "UsersEstimate": 12352
     },
     {
       "ID": "all_gold_expert_event",
@@ -434,55 +445,55 @@
       "Name": "Gold Expertise",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2470
     },
     {
       "ID": "all_gold_master_event",
       "SetID": "b888bip",
       "Name": "Gold Master",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 165
     },
     {
       "ID": "all_gold_pro_event",
       "SetID": "b888bip",
       "Name": "Gold Professional",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 70,
-      "UsersEstimate": 436
+      "UsersEstimate": 659
     },
     {
       "ID": "all_silver_beginner_event",
       "SetID": "b888bip",
       "Name": "Silver Beginnings",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13805
+      "UsersEstimate": 16469
     },
     {
       "ID": "all_silver_expert_event",
       "SetID": "b888bip",
       "Name": "Silver Expertise",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 2180
+      "UsersEstimate": 3294
     },
     {
       "ID": "all_silver_master_event",
       "SetID": "b888bip",
       "Name": "Silver Master",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 80,
-      "UsersEstimate": 73
+      "UsersEstimate": 247
     },
     {
       "ID": "all_silver_pro_event",
       "SetID": "b888bip",
       "Name": "Silver Professional",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 581
+      "UsersEstimate": 823
     },
     {
       "ID": "first_bronze_medal",
@@ -490,7 +501,7 @@
       "Name": "First bronze medal",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 69026
+      "UsersEstimate": 78227
     },
     {
       "ID": "first_gold_medal",
@@ -498,7 +509,7 @@
       "Name": "First Gold medal",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 67573
+      "UsersEstimate": 76580
     },
     {
       "ID": "first_medal_archery",
@@ -506,7 +517,7 @@
       "Name": "First medal won in Archery",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 63213
+      "UsersEstimate": 71639
     },
     {
       "ID": "first_medal_athletics",
@@ -514,31 +525,31 @@
       "Name": "First medal won in Athletics",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 69026
+      "UsersEstimate": 78227
     },
     {
       "ID": "first_medal_basketball",
       "SetID": "b888bip",
       "Name": "First medal won in Basketball",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 24704
+      "UsersEstimate": 28820
     },
     {
       "ID": "first_medal_breaking",
       "SetID": "b888bip",
       "Name": "First medal won in Breaking",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 33423
+      "UsersEstimate": 38702
     },
     {
       "ID": "first_medal_cycling",
       "SetID": "b888bip",
       "Name": "First medal won in Cycling",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 29790
+      "UsersEstimate": 35408
     },
     {
       "ID": "first_medal_fencing",
@@ -546,103 +557,103 @@
       "Name": "First medal won in Fencing",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 58854
+      "UsersEstimate": 66699
     },
     {
       "ID": "first_medal_golf",
       "SetID": "b888bip",
       "Name": "First medal won in Golf",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 39962
+      "UsersEstimate": 46113
     },
     {
       "ID": "first_medal_gymnastics",
       "SetID": "b888bip",
       "Name": "First medal won in Gymnastics",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 21071
+      "UsersEstimate": 24703
     },
     {
       "ID": "first_medal_rowing",
       "SetID": "b888bip",
       "Name": "First medal won in Rowing",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 19618
+      "UsersEstimate": 23056
     },
     {
       "ID": "first_medal_shooting",
       "SetID": "b888bip",
       "Name": "First medal won in Shooting",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 46502
+      "UsersEstimate": 53524
     },
     {
       "ID": "first_medal_skateboard",
       "SetID": "b888bip",
       "Name": "First medal won in Skateboard",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 26884
+      "UsersEstimate": 31291
     },
     {
       "ID": "first_medal_swimming",
       "SetID": "b888bip",
       "Name": "First medal won in Swimming",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 16712
+      "UsersEstimate": 20586
     },
     {
       "ID": "first_silver_medal",
       "SetID": "b888bip",
       "Name": "First Silver medal",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 68299
+      "UsersEstimate": 78227
     },
     {
       "ID": "game_fashionista",
       "SetID": "b888bip",
       "Name": "Fashionista",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 23977
+      "UsersEstimate": 27997
     },
     {
       "ID": "game_improve_medal",
       "SetID": "b888bip",
       "Name": "New Record",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 10172
+      "UsersEstimate": 12352
     },
     {
       "ID": "game_play_every_sport",
       "SetID": "b888bip",
       "Name": "Jack of all trades",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15985
+      "UsersEstimate": 19763
     },
     {
       "ID": "placed_all_building",
       "SetID": "b888bip",
       "Name": "Master Architect",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 165
     },
     {
       "ID": "placed_all_spots_around",
       "SetID": "b888bip",
       "Name": "City Planner",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 7992
+      "UsersEstimate": 9881
     },
     {
       "ID": "placed_decorations_3",
@@ -650,23 +661,23 @@
       "Name": "Landscape Artist",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 6539
+      "UsersEstimate": 7411
     },
     {
       "ID": "placed_foodstands_3",
       "SetID": "b888bip",
       "Name": "Picky Eater",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4360
+      "UsersEstimate": 5764
     },
     {
       "ID": "placed_restaurants_3",
       "SetID": "b888bip",
       "Name": "What shall we eat?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3633
+      "UsersEstimate": 4941
     },
     {
       "ID": "placed_services_3",
@@ -674,7 +685,7 @@
       "Name": "Help is on the way",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5813
+      "UsersEstimate": 6588
     },
     {
       "ID": "placed_shop_3",
@@ -682,23 +693,23 @@
       "Name": "Shopping Spree",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4941
     }
   ],
   "AchievementSets": [
     {
       "ID": "b888bip",
       "IsBase": true,
-      "Progressed": 72659,
-      "Completed": 55
+      "Progressed": 82344,
+      "Completed": 128
     }
   ],
   "FirstSeen": "2024-06-11T21:59:22.6599322+00:00",
   "FirstSeenRating": "2024-07-25T21:59:13.7991957+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:29.9069245+00:00",
-  "LastChanged": "2024-08-19T17:00:08.0109013+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:52.373735+00:00",
+  "LastChanged": "2024-08-20T19:57:26.822972+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:32.390927+00:00",
   "LastUpdate_AppInfo": "2024-08-17T06:57:18.5890752+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:50.4784884+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:52.3737563+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:26.8229725+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:32.3909475+00:00"
 }

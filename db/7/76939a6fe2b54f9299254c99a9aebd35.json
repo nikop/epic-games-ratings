@@ -2,10 +2,10 @@
   "ID": "76939a6fe2b54f9299254c99a9aebd35",
   "Name": "The Smurfs 2 - The Prisoner of the Green Stone",
   "ProductSlug": "the-smurfs-2-the-prisonner-of-the-green-stone-ba4653",
-  "Ranking_EOS_Progress": 706,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 703,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T09:00:00+00:00",
     "PcReleaseDate": "2023-11-02T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -69,6 +69,11 @@
       "Time": "2024-08-09T18:07:39.0285261+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:52.8812981+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:09.8652595+00:00",
@@ -89,13 +94,13 @@
       "Name": "Becoming Midas",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "BEAT_ENNEMIES",
       "SetID": "1oh5c4a",
       "Name": "The lurking fear",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -103,7 +108,7 @@
       "ID": "BOSS_FOREST",
       "SetID": "1oh5c4a",
       "Name": "Double-dealing",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -183,7 +188,7 @@
       "ID": "CHAP_FOREST_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Let\u2019s take a walk in the woods...",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -191,7 +196,7 @@
       "ID": "CHAP_MOUNTAIN_FINISH",
       "SetID": "1oh5c4a",
       "Name": "Conquer the mountain!",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -255,9 +260,9 @@
       "ID": "OVERHEAT_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Release the pressure",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "ULTIMATE_BRAINY",
@@ -359,9 +364,9 @@
       "ID": "UPGRADE_WEAPON",
       "SetID": "1oh5c4a",
       "Name": "Odds and ends",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "WEAR_SKIN",
@@ -369,21 +374,21 @@
       "Name": "Vanities",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "1oh5c4a",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-04T17:03:44.9852977+00:00",
   "FirstSeenAchievements": "2023-10-12T16:06:09.4130672+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:39.0285258+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:52.8812978+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:29.2983345+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:36.5815468+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:39.0285467+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:52.8813197+00:00"
 }

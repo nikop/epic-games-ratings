@@ -2,10 +2,10 @@
   "ID": "cfd5606247d5400480bb7dccec626f1a",
   "Name": "Blood West",
   "ProductSlug": "blood-west-8f6ffd",
-  "Ranking_EOS_Progress": 947,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 956,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-08T13:00:00+00:00",
     "PcReleaseDate": "2023-12-05T14:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:06:22.4056365+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:43.0972062+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -82,7 +87,7 @@
       "ID": "Kill_BossTreeWithoutDamageFromSpikes",
       "SetID": "3lop7m0",
       "Name": "Spike Dancer",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -98,15 +103,15 @@
       "ID": "Kill_GunLadyWithMask",
       "SetID": "3lop7m0",
       "Name": "I\u0027d like to keep it on",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Kill_ManyMobsWithSingleDynamite",
       "SetID": "3lop7m0",
       "Name": "Big Bada Boom",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -114,7 +119,7 @@
       "ID": "Kill_SpiritWithDynamite",
       "SetID": "3lop7m0",
       "Name": "Explosive Soul",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -130,9 +135,9 @@
       "ID": "Kill_VendigoWhileDrunk",
       "SetID": "3lop7m0",
       "Name": "The bush is moving!",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Kill_WithFire",
@@ -146,15 +151,15 @@
       "ID": "Kill_WithHeadshots",
       "SetID": "3lop7m0",
       "Name": "Headhunter",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Kill_ZombieCoffinByHeadshotWithoutBreakingTheCoffin",
       "SetID": "3lop7m0",
       "Name": "Shouldn\u0027t have peeked",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -162,9 +167,9 @@
       "ID": "Special_ChainHeadshots",
       "SetID": "3lop7m0",
       "Name": "Serial Headshotter",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Special_CompleteChapterWithAllCurses",
@@ -178,7 +183,7 @@
       "ID": "Special_FallAndSurvive",
       "SetID": "3lop7m0",
       "Name": "Wilhelm Scream",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -186,7 +191,7 @@
       "ID": "Special_TireCollectorFewTimes",
       "SetID": "3lop7m0",
       "Name": "Personal coach",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -210,7 +215,7 @@
       "ID": "Story_BooHagQuest",
       "SetID": "3lop7m0",
       "Name": "Skin Dancer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -218,17 +223,17 @@
       "ID": "Story_Chapter1Done",
       "SetID": "3lop7m0",
       "Name": "Bloody Roots",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Story_Chapter2Done",
       "SetID": "3lop7m0",
       "Name": "Giant From Beyond",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Story_Chapter3Done",
@@ -242,9 +247,9 @@
       "ID": "Story_CollectAllQuestItemsChapter1",
       "SetID": "3lop7m0",
       "Name": "Gotta catch\u2019em all",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Story_DoctorQuest",
@@ -266,7 +271,7 @@
       "ID": "Story_GiveAnabelleGoodFlower",
       "SetID": "3lop7m0",
       "Name": "Romance ain\u0027t dead, It\u0027s just me",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -274,7 +279,7 @@
       "ID": "Story_JimQuest",
       "SetID": "3lop7m0",
       "Name": "Blood Money",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -282,33 +287,33 @@
       "ID": "Story_MeetAnabelle",
       "SetID": "3lop7m0",
       "Name": "Masked Mystery",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Story_MeetPriest",
       "SetID": "3lop7m0",
       "Name": "Man of the Cloth",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Story_MeetTwen",
       "SetID": "3lop7m0",
       "Name": "Voodoo Daughter",
-      "Percentage": 22,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Story_MeetUndead",
       "SetID": "3lop7m0",
       "Name": "Undead, meet The Undead",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Story_TutorialDone",
@@ -316,29 +321,29 @@
       "Name": "I Live Again",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Story_UseCure",
       "SetID": "3lop7m0",
       "Name": "For Whom the Bell Tolls?",
-      "Percentage": 11,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "3lop7m0",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-09T17:01:06.2240392+00:00",
   "FirstSeenAchievements": "2024-07-09T22:02:42.9557474+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:22.4056362+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:43.0972056+00:00",
   "LastUpdate_AppInfo": "2024-08-19T16:57:27.6918693+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:49.4314898+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.4056582+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:42.7925506+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:43.0972274+00:00"
 }

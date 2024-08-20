@@ -2,10 +2,10 @@
   "ID": "dbfff2d3f4dc446b8f4931ed8a353685",
   "Name": "Squirrel with a Gun",
   "ProductSlug": "squirrel-with-a-gun-6b1fa1",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-29T16:00:00+00:00",
     "PcReleaseDate": "2024-08-29T16:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "4g91cnh",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-08-20T20:10:30.3895592+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:30.3895571+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:03.6918505+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:36.9350223+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:14.1791092+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:31.4154993+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:30.3895607+00:00"
 }

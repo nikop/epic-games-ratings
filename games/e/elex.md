@@ -57,8 +57,8 @@ Number of Ratings: 58  (23.09.2022)
 | Big Game Hunter | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524 (Ranked 462)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 524 (Ranked 465)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

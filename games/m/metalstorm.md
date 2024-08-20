@@ -26,8 +26,8 @@ Rating: 4.45 (Ranked 770)
 | Takedowns IV | 0.00% | ~0 |
 | Career Wins IV | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,395 (Ranked 153)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 73,395 (Ranked 155)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 674,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 679,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -523,9 +523,9 @@
       "ID": "collect7",
       "SetID": "c64if4d",
       "Name": "Berkanan Borgia",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "collect8",
@@ -547,9 +547,9 @@
       "ID": "fights2",
       "SetID": "c64if4d",
       "Name": "The best apprentice",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "fights3",
@@ -579,9 +579,9 @@
       "ID": "fights6",
       "SetID": "c64if4d",
       "Name": "Surpass the teacher",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "fights7",
@@ -603,9 +603,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "special10",
@@ -659,9 +659,9 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "special6",
@@ -699,9 +699,9 @@
       "ID": "story1",
       "SetID": "c64if4d",
       "Name": "First success",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "story10",
@@ -787,9 +787,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "story20",
@@ -811,25 +811,25 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "story6",
@@ -876,8 +876,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:36.702021+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:24.4116501+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:00.0710466+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:36.7409965+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:36.7020511+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:17.7109096+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:24.4116798+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e582a1469e18401e8729827444ea2c8e",
   "Name": "DotLine",
   "ProductSlug": "dot-line-e45fbd",
-  "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-15T18:00:00+00:00",
     "PcReleaseDate": "2018-09-22T00:00:00+00:00",
@@ -405,8 +405,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:19.8070559+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:05.2640425+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:14.8100938+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:55.5920334+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:23.503411+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:05.2640656+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:14.8101203+00:00"
 }

@@ -4,81 +4,81 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 96.00% | ~171 |
-| MLG 360 no scope kill! | 96.00% | ~171 |
-| Are you ready to rumble? | 96.00% | ~171 |
-| That's what cheese said! | 92.00% | ~164 |
-| AHHHHHH.....I'M ON FIRE!!! | 89.00% | ~158 |
-| I like you...but I have to kill you... | 89.00% | ~158 |
-| Not so hip anymore! | 88.00% | ~157 |
-| Blurry depth perception | 84.00% | ~150 |
-| Nerd | 83.00% | ~148 |
-| Up and down | 82.00% | ~146 |
-| Rolling, Rolling, Rolling | 78.00% | ~139 |
-| Oh, you're up to no gouda! | 67.00% | ~119 |
-| Fire-fighter! | 67.00% | ~119 |
-| Make Love not War-Craft a Mistlefoe | 65.00% | ~116 |
-| Meat grinder | 61.00% | ~109 |
-| You're not going to blow me up! | 58.00% | ~103 |
-| Mushroom soup of the day | 54.00% | ~96 |
-| Butcher | 52.00% | ~93 |
-| Thats disgusting! | 52.00% | ~93 |
-| Spare Ribs | 52.00% | ~93 |
-| Cockadoodledoo! | 52.00% | ~93 |
-| Honk honk! | 50.00% | ~89 |
-| Surprise!! | 47.00% | ~84 |
-| My pants squeak when I walk | 47.00% | ~84 |
-| Self assessed tax return | 45.00% | ~80 |
-| Haemochromatosis | 42.00% | ~75 |
-| Make America Grate Again | 41.00% | ~73 |
-| Pasta Bolognese | 39.00% | ~69 |
+| Tastes just like chicken! | 96.00% | ~173 |
+| MLG 360 no scope kill! | 96.00% | ~173 |
+| Are you ready to rumble? | 96.00% | ~173 |
+| That's what cheese said! | 92.00% | ~166 |
+| AHHHHHH.....I'M ON FIRE!!! | 89.00% | ~160 |
+| I like you...but I have to kill you... | 89.00% | ~160 |
+| Not so hip anymore! | 88.00% | ~158 |
+| Blurry depth perception | 84.00% | ~151 |
+| Nerd | 83.00% | ~149 |
+| Up and down | 82.00% | ~148 |
+| Rolling, Rolling, Rolling | 78.00% | ~140 |
+| Oh, you're up to no gouda! | 68.00% | ~122 |
+| Fire-fighter! | 67.00% | ~121 |
+| Make Love not War-Craft a Mistlefoe | 66.00% | ~119 |
+| Meat grinder | 62.00% | ~112 |
+| You're not going to blow me up! | 58.00% | ~104 |
+| Mushroom soup of the day | 55.00% | ~99 |
+| Butcher | 52.00% | ~94 |
+| Thats disgusting! | 52.00% | ~94 |
+| Spare Ribs | 52.00% | ~94 |
+| Cockadoodledoo! | 52.00% | ~94 |
+| Honk honk! | 51.00% | ~92 |
+| Surprise!! | 47.00% | ~85 |
+| My pants squeak when I walk | 47.00% | ~85 |
+| Self assessed tax return | 45.00% | ~81 |
+| Haemochromatosis | 43.00% | ~77 |
+| Make America Grate Again | 41.00% | ~74 |
+| Pasta Bolognese | 39.00% | ~70 |
 | You are no match for me, Billy! | 38.00% | ~68 |
 | Karaoke king | 38.00% | ~68 |
 | You can't stop me, bro! | 38.00% | ~68 |
-| Catch the bus with me! | 35.00% | ~62 |
+| Catch the bus with me! | 36.00% | ~65 |
 | Meatballs, coming up! | 34.00% | ~61 |
 | I'm going to get a concussion | 34.00% | ~61 |
 | Another one bites the iron | 34.00% | ~61 |
 | Ripe Meat Off The Bone! | 29.00% | ~52 |
 | Kleptomaniac | 29.00% | ~52 |
 | Hovering around | 28.00% | ~50 |
-| Your daily dose of Vitamin C. | 27.00% | ~48 |
-| A Megapint...? | 26.00% | ~46 |
-| You're not so Big anymore, Boi! | 25.00% | ~44 |
+| Your daily dose of Vitamin C. | 27.00% | ~49 |
+| You're not so Big anymore, Boi! | 26.00% | ~47 |
+| A Megapint...? | 26.00% | ~47 |
+| I cant stand still! | 24.00% | ~43 |
 | Slimy... yet satisfying | 24.00% | ~43 |
-| I cant stand still! | 23.00% | ~41 |
-| Master Butcher | 20.00% | ~36 |
+| Master Butcher | 21.00% | ~38 |
+| Just wing it! | 18.00% | ~32 |
 | Deal with it | 18.00% | ~32 |
-| Just wing it! | 17.00% | ~30 |
 | You're looking mozzare-hella good! | 14.00% | ~25 |
-| Yeehaw!!! | 13.00% | ~23 |
-| Ancient Ruins of Dirty Feet | 12.00% | ~21 |
-| Timber! | 12.00% | ~21 |
-| Free Of Chains | 12.00% | ~21 |
+| Yeehaw!!! | 14.00% | ~25 |
+| Timber! | 13.00% | ~23 |
+| Ancient Ruins of Dirty Feet | 12.00% | ~22 |
+| Free Of Chains | 12.00% | ~22 |
 | Grumpy Immortal | 11.00% | ~20 |
 | Spoiler alert! | 10.00% | ~18 |
-| I want to throw up! | 10.00% | ~18 |
+| Ancient Ruins of Moist Overhangs | 9.00% | ~16 |
+| I want to throw up! | 9.00% | ~16 |
 | I drink, but I'm not a drunk! | 9.00% | ~16 |
-| Ancient Ruins of Moist Overhangs | 8.00% | ~14 |
 | My name is Whoopass, SIR Whoopass! | 8.00% | ~14 |
 | Scrambled Eggs | 8.00% | ~14 |
-| Ancient Ruins of Leaky Roof | 5.00% | ~9 |
+| Ancient Ruins of Leaky Roof | 6.00% | ~11 |
 | Out of bounds | 5.00% | ~9 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~7 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~7 |
+| Ancient Ruins of Stuffed Pantrys | 4.00% | ~7 |
 | Ancient Ruins of Stubbed Toes | 4.00% | ~7 |
 | Fifty Shades of Gruyere | 3.00% | ~5 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~5 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~5 |
 | Ancient Ruins of Imperfectly Designed Walls | 3.00% | ~5 |
-| Ancient Ruins of Stuffed Pantrys | 3.00% | ~5 |
+| Ancient Ruins of Inadequate Opportunities | 3.00% | ~5 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~5 |
 | Ancient Ruins of Moldy Ceiling | 2.00% | ~4 |
 | Ancient Ruins of Peekaboo | 2.00% | ~4 |
-| Ancient Ruins of Inadequate Opportunities | 2.00% | ~4 |
 | Ancient Ruins of Chilly Winds | 2.00% | ~4 |
+| Consider it dealt with | 2.00% | ~4 |
 | European karaoke king | 2.00% | ~4 |
-| Consider it dealt with | 1.00% | ~2 |
 | I'm getting full... | 0.60% | ~1 |
 | Bloody Knuckles | 0.60% | ~1 |
 | I've got the power | 0.60% | ~1 |
@@ -87,8 +87,8 @@
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 594)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 180 (Ranked 597)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -164,3 +164,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 165 | 0 |
 | 2024-06-17 | 174 | 0 |
 | 2024-08-09 | 178 | 0 |
+| 2024-08-20 | 180 | 0 |

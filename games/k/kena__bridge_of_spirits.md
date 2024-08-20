@@ -6,50 +6,50 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~411,172 |
-| Haikyo | 80.00% | ~346,250 |
-| Good as New | 73.00% | ~315,953 |
-| Into the Woods | 70.00% | ~302,969 |
-| Hunter in the Forest | 60.00% | ~259,688 |
-| Rot Commander | 60.00% | ~259,688 |
-| Taro's Fear | 56.00% | ~242,375 |
-| Between the Eyes | 47.00% | ~203,422 |
-| Taro's Love | 46.00% | ~199,094 |
-| Taro's Regret | 44.00% | ~190,438 |
-| Spirit Guide | 43.00% | ~186,110 |
-| Harness Your Power | 39.00% | ~168,797 |
-| The Open Range | 38.00% | ~164,469 |
-| Adira's Love | 34.00% | ~147,156 |
-| Adira's Fear | 33.00% | ~142,828 |
-| Weigh Them Down | 32.00% | ~138,500 |
-| Adira's Regret | 32.00% | ~138,500 |
-| A Heavy Hammer | 31.00% | ~134,172 |
-| Crossing Over | 30.00% | ~129,844 |
-| Quick Draw | 30.00% | ~129,844 |
-| Toshi's Fear | 28.00% | ~121,188 |
-| Toshi's Regret | 27.00% | ~116,860 |
-| Toshi's Love | 27.00% | ~116,860 |
-| A Leader Walks Alone | 26.00% | ~112,531 |
-| Bow Master | 26.00% | ~112,531 |
-| The Lonely Path | 26.00% | ~112,531 |
-| Restore Balance | 25.00% | ~108,203 |
-| Say Cheese | 16.00% | ~69,250 |
-| Skillful Spirit Guide | 15.00% | ~64,922 |
-| Piercing Blow | 14.00% | ~60,594 |
-| Curse Collector | 8.00% | ~34,625 |
-| Zen Master | 8.00% | ~34,625 |
-| The Last Stop | 7.00% | ~30,297 |
-| Restoration Master | 5.00% | ~21,641 |
-| Hat Collector | 4.00% | ~17,313 |
-| No Stone Unturned | 4.00% | ~17,313 |
-| Sharpshooter | 2.00% | ~8,656 |
-| Return to Sender | 2.00% | ~8,656 |
-| Triple Tap | 1.00% | ~4,328 |
-| Triple Threat | 1.00% | ~4,328 |
-| Master Spirit Guide | 0.30% | ~1,298 |
+| Found a Friend | 95.00% | ~411,265 |
+| Haikyo | 80.00% | ~346,329 |
+| Good as New | 73.00% | ~316,025 |
+| Into the Woods | 70.00% | ~303,038 |
+| Hunter in the Forest | 61.00% | ~264,076 |
+| Rot Commander | 60.00% | ~259,747 |
+| Taro's Fear | 56.00% | ~242,430 |
+| Between the Eyes | 47.00% | ~203,468 |
+| Taro's Love | 46.00% | ~199,139 |
+| Taro's Regret | 44.00% | ~190,481 |
+| Spirit Guide | 43.00% | ~186,152 |
+| Harness Your Power | 39.00% | ~168,835 |
+| The Open Range | 38.00% | ~164,506 |
+| Adira's Love | 34.00% | ~147,190 |
+| Adira's Fear | 33.00% | ~142,861 |
+| Weigh Them Down | 32.00% | ~138,532 |
+| Adira's Regret | 32.00% | ~138,532 |
+| A Heavy Hammer | 31.00% | ~134,202 |
+| Crossing Over | 30.00% | ~129,873 |
+| Quick Draw | 30.00% | ~129,873 |
+| Toshi's Fear | 28.00% | ~121,215 |
+| Toshi's Regret | 27.00% | ~116,886 |
+| Toshi's Love | 27.00% | ~116,886 |
+| A Leader Walks Alone | 26.00% | ~112,557 |
+| Bow Master | 26.00% | ~112,557 |
+| The Lonely Path | 26.00% | ~112,557 |
+| Restore Balance | 25.00% | ~108,228 |
+| Say Cheese | 16.00% | ~69,266 |
+| Skillful Spirit Guide | 15.00% | ~64,937 |
+| Piercing Blow | 14.00% | ~60,608 |
+| Curse Collector | 8.00% | ~34,633 |
+| Zen Master | 8.00% | ~34,633 |
+| The Last Stop | 7.00% | ~30,304 |
+| Restoration Master | 5.00% | ~21,646 |
+| Hat Collector | 4.00% | ~17,316 |
+| No Stone Unturned | 4.00% | ~17,316 |
+| Sharpshooter | 2.00% | ~8,658 |
+| Return to Sender | 2.00% | ~8,658 |
+| Triple Tap | 1.00% | ~4,329 |
+| Triple Threat | 1.00% | ~4,329 |
+| Master Spirit Guide | 0.30% | ~1,299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,813 (Ranked 64)  
-Completed: 597 (0.14%) (Ranked 413)  
+Progressed: 432,911 (Ranked 64)  
+Completed: 598 (0.14%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,6 +337,7 @@ Completed: 597 (0.14%) (Ranked 413)
 | 2024-06-17 | 432,319 | 585 |
 | 2024-07-09 | 432,539 | 591 |
 | 2024-08-09 | 432,813 | 597 |
+| 2024-08-20 | 432,911 | 598 |
 ## Awards
 Max (Great Boss Battles): 1,405  (Ranked 158)  
 Sum: 1,783 (Ranked 263)  

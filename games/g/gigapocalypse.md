@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Too Cool For School | 86.00% | ~194 |
 | Caretaker | 85.00% | ~191 |
-| Too Cool For School | 85.00% | ~191 |
 | Who's A Good Boy | 72.00% | ~162 |
 | Feng Shui | 72.00% | ~162 |
 | Power Up | 72.00% | ~162 |
@@ -58,8 +58,8 @@
 | Destroy Everything | 1.00% | ~2 |
 | Hearty Meteor | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 564)  
-Completed: 2 (0.89%) (Ranked 274)  
+Progressed: 225 (Ranked 568)  
+Completed: 2 (0.89%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,29 +6,29 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 75.00% | ~647 |
-| Close call! | 68.00% | ~587 |
-| Builder | 50.00% | ~432 |
-| Living it large! | 45.00% | ~388 |
-| Collector | 43.00% | ~371 |
-| Pangs of conscience | 43.00% | ~371 |
-| Need to think | 41.00% | ~354 |
-| Completely nuts! | 40.00% | ~345 |
-| Europe | 35.00% | ~302 |
-| Just in time! | 33.00% | ~285 |
-| Madness! | 31.00% | ~268 |
-| Philatelist | 28.00% | ~242 |
-| It's no coincidence. | 27.00% | ~233 |
-| Let's roll! | 26.00% | ~224 |
-| Non Stop! | 26.00% | ~224 |
-| Ouroboros | 24.00% | ~207 |
-| Russia | 21.00% | ~181 |
-| America | 20.00% | ~173 |
-| Foreman | 20.00% | ~173 |
-| Missed it! | 17.00% | ~147 |
-| Sabotage | 15.00% | ~129 |
-| Japan | 13.00% | ~112 |
-| Achtung! | 13.00% | ~112 |
+| Getting started | 75.00% | ~651 |
+| Close call! | 68.00% | ~590 |
+| Builder | 51.00% | ~443 |
+| Living it large! | 45.00% | ~391 |
+| Collector | 44.00% | ~382 |
+| Pangs of conscience | 43.00% | ~373 |
+| Need to think | 42.00% | ~365 |
+| Completely nuts! | 40.00% | ~347 |
+| Europe | 35.00% | ~304 |
+| Just in time! | 33.00% | ~286 |
+| Madness! | 32.00% | ~278 |
+| Philatelist | 28.00% | ~243 |
+| It's no coincidence. | 27.00% | ~234 |
+| Let's roll! | 26.00% | ~226 |
+| Non Stop! | 26.00% | ~226 |
+| Ouroboros | 24.00% | ~208 |
+| Russia | 21.00% | ~182 |
+| America | 20.00% | ~174 |
+| Foreman | 20.00% | ~174 |
+| Missed it! | 17.00% | ~148 |
+| Sabotage | 15.00% | ~130 |
+| Japan | 13.00% | ~113 |
+| Achtung! | 13.00% | ~113 |
 | Tycoon | 11.00% | ~95 |
 | Woodcutter | 9.00% | ~78 |
 | Engineer | 9.00% | ~78 |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~5 |
 | Vandal | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 863 (Ranked 418)  
-Completed: 2 (0.23%) (Ranked 380)  
+Progressed: 868 (Ranked 420)  
+Completed: 2 (0.23%) (Ranked 385)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,6 +212,7 @@ Completed: 2 (0.23%) (Ranked 380)
 | 2024-06-17 | 824 | 2 |
 | 2024-07-25 | 856 | 2 |
 | 2024-08-09 | 863 | 2 |
+| 2024-08-20 | 868 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

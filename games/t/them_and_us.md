@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 68.00% | ~349 |
-| Forced to Kill | 64.00% | ~328 |
+| Alone with Them | 68.00% | ~350 |
+| Forced to Kill | 63.00% | ~324 |
 | A Night To Remember | 37.00% | ~190 |
 | Safe...For now? | 29.00% | ~149 |
-| Open Sesame | 24.00% | ~123 |
+| Open Sesame | 25.00% | ~128 |
 | Them and Us | 17.00% | ~87 |
 | OUTRAGE | 17.00% | ~87 |
 | What have I done!? | 17.00% | ~87 |
+| This Coffin Has Your Name On It! | 15.00% | ~77 |
 | Alone In The Dark | 14.00% | ~72 |
-| This Coffin Has Your Name On It! | 14.00% | ~72 |
 | The Cultists | 13.00% | ~67 |
+| The Forgotten Tower | 13.00% | ~67 |
 | Parasite Exterminated | 12.00% | ~62 |
-| The Forgotten Tower | 12.00% | ~62 |
-| Trapped | 11.00% | ~56 |
+| Trapped | 11.00% | ~57 |
 | Lover of classics | 10.00% | ~51 |
+| Modern Player | 10.00% | ~51 |
 | The Curse Is Real | 10.00% | ~51 |
-| Modern Player | 9.00% | ~46 |
 | Rest In Peace | 9.00% | ~46 |
 | What A Mansion | 8.00% | ~41 |
 | Researcher | 6.00% | ~31 |
@@ -31,22 +31,22 @@
 | Retro Player | 2.00% | ~10 |
 | Spiritual essence well spent | 2.00% | ~10 |
 | Run and Gun | 2.00% | ~10 |
+| Pet The Dog | 2.00% | ~10 |
 | The 5th Element | 2.00% | ~10 |
 | The bus stop | 2.00% | ~10 |
-| Pet The Dog | 1.00% | ~5 |
 | Before The Eclipse | 0.60% | ~3 |
 | Box Of Ploutus | 0.40% | ~2 |
+| Die Another Day | 0.40% | ~2 |
 | No Time To Relax | 0.40% | ~2 |
 | Survival Hero | 0.40% | ~2 |
 | Chosen One | 0.20% | ~1 |
-| Die Another Day | 0.20% | ~1 |
 | Dressed to Kill | 0.20% | ~1 |
 | Life Of The Thousand Gods | 0.20% | ~1 |
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 513 (Ranked 464)  
-Completed: 1 (0.19%) (Ranked 391)  
+Progressed: 514 (Ranked 467)  
+Completed: 1 (0.19%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -189,6 +189,7 @@ Completed: 1 (0.19%) (Ranked 391)
 | 2024-06-17 | 490 | 1 |
 | 2024-06-26 | 505 | 1 |
 | 2024-08-09 | 513 | 1 |
+| 2024-08-20 | 514 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "c80eaf761c104233a52983b129ccd29e",
   "Name": "Spirittea",
   "ProductSlug": "spirittea-573718",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T08:57:47.4747597+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:53.4236977+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:18.928413+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:45.7980501+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:47.7574536+00:00"
 }

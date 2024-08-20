@@ -2,10 +2,10 @@
   "ID": "412632fc3f0d4a8e8294f22149e1dff1",
   "Name": "DimonD Hunt",
   "ProductSlug": "dimond-hunt-03a766",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T06:57:35.1789465+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:44.4851254+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:46.9543345+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:06.9493465+00:00"
 }

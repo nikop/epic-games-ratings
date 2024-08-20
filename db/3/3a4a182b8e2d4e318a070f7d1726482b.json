@@ -2,10 +2,10 @@
   "ID": "3a4a182b8e2d4e318a070f7d1726482b",
   "Name": "Basima The Private Investigator",
   "ProductSlug": "basima-the-private-investigator-4ba8e0",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-03T20:00:00+00:00",
     "PcReleaseDate": "2024-03-22T14:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T13:09:07.5095773+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:57.6809805+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:13.4237264+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:11.0553426+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:54.601327+00:00"
 }

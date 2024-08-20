@@ -5,24 +5,24 @@ Rating: 4.59 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 52.00% | ~769 |
+| Time Heals All Wounds | 52.00% | ~770 |
 | Rail Rat | 40.00% | ~592 |
 | The Mysterious Stranger | 39.00% | ~577 |
 | Immaculate Aim | 34.00% | ~503 |
-| The Brass Boss | 32.00% | ~473 |
-| Time Flies | 31.00% | ~458 |
-| No, Thanks! | 31.00% | ~458 |
-| The Prince in Heels | 31.00% | ~458 |
-| Honest Mistake | 31.00% | ~458 |
+| The Brass Boss | 33.00% | ~488 |
+| Time Flies | 31.00% | ~459 |
+| No, Thanks! | 31.00% | ~459 |
+| The Prince in Heels | 31.00% | ~459 |
+| Honest Mistake | 31.00% | ~459 |
 | Make Up For Lost Time | 30.00% | ~444 |
 | The Harder They Fall | 30.00% | ~444 |
 | Fast Learner | 30.00% | ~444 |
 | Immaculate Aim | 30.00% | ~444 |
 | The Steel Shadow | 29.00% | ~429 |
-| Like Clockwork | 27.00% | ~399 |
-| Breaking Down Barriers | 27.00% | ~399 |
-| The Wicked Twins | 27.00% | ~399 |
-| Golem Chaser | 27.00% | ~399 |
+| The Wicked Twins | 28.00% | ~414 |
+| Like Clockwork | 27.00% | ~400 |
+| Breaking Down Barriers | 27.00% | ~400 |
+| Golem Chaser | 27.00% | ~400 |
 | Right On Time | 26.00% | ~385 |
 | The Betrayer | 26.00% | ~385 |
 | The Loose Cannon | 24.00% | ~355 |
@@ -35,18 +35,18 @@ Rating: 4.59 (Ranked 493)
 | Chaincrawler Explorer | 16.00% | ~237 |
 | Family Memories | 16.00% | ~237 |
 | Ask Questions Later | 16.00% | ~237 |
+| Sump Explorer | 15.00% | ~222 |
 | Syron for Hope | 15.00% | ~222 |
 | Treasure Trove | 14.00% | ~207 |
 | Cartographer | 14.00% | ~207 |
-| Sump Explorer | 14.00% | ~207 |
 | Factorywood Explorer | 13.00% | ~192 |
 | Theater Explorer | 13.00% | ~192 |
-| Fairgrounds Explorer | 12.00% | ~177 |
-| Cultivair Explorer | 11.00% | ~163 |
+| Cultivair Explorer | 12.00% | ~178 |
+| Fairgrounds Explorer | 12.00% | ~178 |
 | Entresol Explorer | 11.00% | ~163 |
 | Corin Goes Home | 10.00% | ~148 |
 | Sartorialist | 10.00% | ~148 |
-| Golem Hunter | 8.00% | ~118 |
+| Golem Hunter | 9.00% | ~133 |
 | Clovemary for Remembering | 7.00% | ~104 |
 | Hexlock for Protection | 7.00% | ~104 |
 | Rungs Was Right | 7.00% | ~104 |
@@ -59,8 +59,8 @@ Rating: 4.59 (Ranked 493)
 | Raw Talent | 0.80% | ~12 |
 | Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,479 (Ranked 377)  
-Completed: 8 (0.54%) (Ranked 319)  
+Progressed: 1,480 (Ranked 383)  
+Completed: 8 (0.54%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,6 +253,7 @@ Completed: 8 (0.54%) (Ranked 319)
 | 2024-04-10 | 1,433 | 8 |
 | 2024-06-17 | 1,461 | 8 |
 | 2024-08-09 | 1,479 | 8 |
+| 2024-08-20 | 1,480 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

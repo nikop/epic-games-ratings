@@ -5,41 +5,41 @@ Rating: 3.75 (Ranked 1,249)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~457 |
-| Buckle up | 58.00% | ~441 |
-| Quick charge | 58.00% | ~441 |
-| Now you know | 52.00% | ~396 |
-| Hands up! | 51.00% | ~388 |
-| Short circuit | 51.00% | ~388 |
-| Curious | 42.00% | ~320 |
-| Everybody lies | 35.00% | ~266 |
-| Trick or Treat? | 22.00% | ~167 |
-| Sysadmin | 21.00% | ~160 |
+| I can do a thing or two | 60.00% | ~458 |
+| Buckle up | 59.00% | ~451 |
+| Quick charge | 59.00% | ~451 |
+| Hands up! | 52.00% | ~397 |
+| Now you know | 52.00% | ~397 |
+| Short circuit | 51.00% | ~390 |
+| Curious | 42.00% | ~321 |
+| Everybody lies | 36.00% | ~275 |
+| Trick or Treat? | 22.00% | ~168 |
+| Sysadmin | 22.00% | ~168 |
 | There is another way | 21.00% | ~160 |
-| Every little helps | 20.00% | ~152 |
-| Annoying | 18.00% | ~137 |
-| Hacker | 18.00% | ~137 |
-| He is just a child | 18.00% | ~137 |
-| The Walking Robot Among Us | 18.00% | ~137 |
-| Uncertain | 17.00% | ~129 |
+| Every little helps | 20.00% | ~153 |
+| Hacker | 19.00% | ~145 |
+| He is just a child | 19.00% | ~145 |
+| The Walking Robot Among Us | 19.00% | ~145 |
+| Annoying | 18.00% | ~138 |
+| Uncertain | 18.00% | ~138 |
+| Ace | 16.00% | ~122 |
 | Concrete painting | 16.00% | ~122 |
 | Goody | 16.00% | ~122 |
 | Please oh pleeease! | 16.00% | ~122 |
-| Ace | 15.00% | ~114 |
-| Found it! | 15.00% | ~114 |
-| Not what it seems | 15.00% | ~114 |
-| Hipster | 14.00% | ~107 |
-| That's much better! | 14.00% | ~107 |
-| Not as clumsy or random | 12.00% | ~91 |
+| Found it! | 15.00% | ~115 |
+| Hipster | 15.00% | ~115 |
+| Not what it seems | 15.00% | ~115 |
+| That's much better! | 15.00% | ~115 |
+| Not as clumsy or random | 12.00% | ~92 |
 | Blade Runner | 10.00% | ~76 |
 | Perfect hearing | 8.00% | ~61 |
 | Meticulous | 7.00% | ~53 |
-| Lucky dog | 4.00% | ~30 |
-| Accurate | 4.00% | ~30 |
-| Silent | 4.00% | ~30 |
+| Accurate | 5.00% | ~38 |
+| Lucky dog | 4.00% | ~31 |
+| Silent | 4.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 428)  
-Completed: 20 (2.63%) (Ranked 180)  
+Progressed: 764 (Ranked 431)  
+Completed: 22 (2.88%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -205,6 +205,7 @@ Completed: 20 (2.63%) (Ranked 180)
 | 2024-04-10 | 710 | 20 |
 | 2024-06-17 | 739 | 20 |
 | 2024-08-09 | 761 | 20 |
+| 2024-08-20 | 764 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

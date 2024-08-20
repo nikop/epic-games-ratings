@@ -2,10 +2,10 @@
   "ID": "fe7271d3a3da49c6924e38388ed3174a",
   "Name": "Cabernet",
   "ProductSlug": "cabernet-617ba7",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T02:57:06.2284229+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:37.9515556+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:02.64704+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:35.8383288+00:00"
 }

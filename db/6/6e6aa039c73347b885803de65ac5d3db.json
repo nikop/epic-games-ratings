@@ -6,9 +6,9 @@
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 129,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 10,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2024-05-16T15:00:00+00:00",
     "PcReleaseDate": "2024-05-16T15:00:00+00:00",
@@ -3975,9 +3975,9 @@
       "Count": 291
     }
   ],
-  "EOS_Progressed": 103950,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 2985,
+  "EOS_Progressed": 106689,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 2739,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3995,6 +3995,11 @@
       "Time": "2024-08-09T18:08:18.9309443+00:00",
       "NumProgressed": 103950,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:14:03.7350061+00:00",
+      "NumProgressed": 106689,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:52.5912074+00:00",
@@ -4005,97 +4010,97 @@
       "ID": "_autoGenTrophy_0001",
       "SetID": "9efalp",
       "Name": "Gathering Storm",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 11434
+      "UsersEstimate": 13870
     },
     {
       "ID": "_autoGenTrophy_0002",
       "SetID": "9efalp",
       "Name": "Point of No Return",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10395
+      "UsersEstimate": 11736
     },
     {
       "ID": "_autoGenTrophy_0003",
       "SetID": "9efalp",
       "Name": "Company of Wolves",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8316
+      "UsersEstimate": 9602
     },
     {
       "ID": "_autoGenTrophy_0004",
       "SetID": "9efalp",
       "Name": "Stoking the Flame",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8316
+      "UsersEstimate": 9602
     },
     {
       "ID": "_autoGenTrophy_0005",
       "SetID": "9efalp",
       "Name": "Family Reunion",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 8535
     },
     {
       "ID": "_autoGenTrophy_0006",
       "SetID": "9efalp",
       "Name": "Leader of the People",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0007",
       "SetID": "9efalp",
       "Name": "Birthright",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0008",
       "SetID": "9efalp",
       "Name": "Dying Embers",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0009",
       "SetID": "9efalp",
       "Name": "The Ghost",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0010",
       "SetID": "9efalp",
       "Name": "The Exiled Alliance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0011",
       "SetID": "9efalp",
       "Name": "Sovereign End",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0012",
       "SetID": "9efalp",
       "Name": "Mono No Aware",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0013",
@@ -4103,23 +4108,23 @@
       "Name": "The Warrior Monk",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0014",
       "SetID": "9efalp",
       "Name": "The Vengeful Warrior",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3118
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0015",
       "SetID": "9efalp",
       "Name": "The Unbending Archer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3118
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0016",
@@ -4127,7 +4132,7 @@
       "Name": "The Headstrong Thief",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0017",
@@ -4135,15 +4140,15 @@
       "Name": "Teller of Tales",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0018",
       "SetID": "9efalp",
       "Name": "Helping Sword Hand",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 936
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0019",
@@ -4151,15 +4156,15 @@
       "Name": "Flash of Steel",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6401
     },
     {
       "ID": "_autoGenTrophy_0020",
       "SetID": "9efalp",
       "Name": "Witness Protection",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0021",
@@ -4167,15 +4172,15 @@
       "Name": "All in the Wrist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0022",
       "SetID": "9efalp",
       "Name": "Open for Business",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 8316
+      "UsersEstimate": 9602
     },
     {
       "ID": "_autoGenTrophy_0023",
@@ -4183,7 +4188,7 @@
       "Name": "There Can Be Only One",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2134
     },
     {
       "ID": "_autoGenTrophy_0024",
@@ -4191,7 +4196,7 @@
       "Name": "Have a Nice Fall",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0025",
@@ -4199,7 +4204,7 @@
       "Name": "Haunting Precision",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 6401
     },
     {
       "ID": "_autoGenTrophy_0026",
@@ -4207,15 +4212,15 @@
       "Name": "The Ghost of Legend",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0027",
       "SetID": "9efalp",
       "Name": "Quick Study",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 8535
     },
     {
       "ID": "_autoGenTrophy_0028",
@@ -4223,31 +4228,31 @@
       "Name": "Every Trick in the Book",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5334
     },
     {
       "ID": "_autoGenTrophy_0029",
       "SetID": "9efalp",
       "Name": "The Perfect Storm",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 5334
     },
     {
       "ID": "_autoGenTrophy_0030",
       "SetID": "9efalp",
       "Name": "A Charming Man",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 5334
     },
     {
       "ID": "_autoGenTrophy_0031",
       "SetID": "9efalp",
       "Name": "Gifted",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0032",
@@ -4255,15 +4260,15 @@
       "Name": "Slay",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0033",
       "SetID": "9efalp",
       "Name": "Light the Way",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0034",
@@ -4271,7 +4276,7 @@
       "Name": "Den of Thieves",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0035",
@@ -4279,23 +4284,23 @@
       "Name": "Favor of the Kami",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0036",
       "SetID": "9efalp",
       "Name": "Honor the Unseen",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 533
     },
     {
       "ID": "_autoGenTrophy_0037",
       "SetID": "9efalp",
       "Name": "Lost and Found",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7277
+      "UsersEstimate": 8535
     },
     {
       "ID": "_autoGenTrophy_0038",
@@ -4303,7 +4308,7 @@
       "Name": "Monochrome Masters",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2134
     },
     {
       "ID": "_autoGenTrophy_0039",
@@ -4311,15 +4316,15 @@
       "Name": "Cooper Clan Cosplayer",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "_autoGenTrophy_0040",
       "SetID": "9efalp",
       "Name": "Dirge of the Fallen Forge",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 320
     },
     {
       "ID": "_autoGenTrophy_0041",
@@ -4327,15 +4332,15 @@
       "Name": "A Moment in Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0042",
       "SetID": "9efalp",
       "Name": "Avid Reader",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0043",
@@ -4343,23 +4348,23 @@
       "Name": "Know Your Enemy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0044",
       "SetID": "9efalp",
       "Name": "Body, Mind, and Spirit",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 728
+      "UsersEstimate": 854
     },
     {
       "ID": "_autoGenTrophy_0045",
       "SetID": "9efalp",
       "Name": "Hero of the People",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6237
+      "UsersEstimate": 7468
     },
     {
       "ID": "_autoGenTrophy_0046",
@@ -4367,7 +4372,7 @@
       "Name": "A Fight For The Isle\u2026.",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0047",
@@ -4375,15 +4380,15 @@
       "Name": "Good Riddance",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5334
     },
     {
       "ID": "_autoGenTrophy_0048",
       "SetID": "9efalp",
       "Name": "Securing Sanctuary\u2026.",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0049",
@@ -4391,7 +4396,7 @@
       "Name": "Mass Eviction",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0050",
@@ -4399,7 +4404,7 @@
       "Name": "A New Safe Haven",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0051",
@@ -4407,7 +4412,7 @@
       "Name": "Master Liberator",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0052",
@@ -4415,7 +4420,7 @@
       "Name": "Transcendence",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 533
     },
     {
       "ID": "_autoGenTrophy_0053",
@@ -4423,23 +4428,23 @@
       "Name": "Ultimate Warrior",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 427
     },
     {
       "ID": "_autoGenTrophy_0054",
       "SetID": "9efalp",
       "Name": "Ultimate Truth",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 854
     },
     {
       "ID": "_autoGenTrophy_0055",
       "SetID": "9efalp",
       "Name": "Promising Start",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 5334
     },
     {
       "ID": "_autoGenTrophy_0056",
@@ -4447,7 +4452,7 @@
       "Name": "True Understanding",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2134
     },
     {
       "ID": "_autoGenTrophy_0057",
@@ -4455,39 +4460,39 @@
       "Name": "Self-Actualized",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0058",
       "SetID": "9efalp",
       "Name": "Grand Opening",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0059",
       "SetID": "9efalp",
       "Name": "A Legend for All Time",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 320
     },
     {
       "ID": "_autoGenTrophy_0060",
       "SetID": "9efalp",
       "Name": "Out of the Past",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4158
+      "UsersEstimate": 5334
     },
     {
       "ID": "_autoGenTrophy_0061",
       "SetID": "9efalp",
       "Name": "Complete all Tales of Iki.",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 416
+      "UsersEstimate": 533
     },
     {
       "ID": "_autoGenTrophy_0062",
@@ -4495,7 +4500,7 @@
       "Name": "The Benefit of All Beings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0063",
@@ -4503,15 +4508,15 @@
       "Name": "The Butcher Redeemed",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0064",
       "SetID": "9efalp",
       "Name": "Treasures of the Past",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 4268
     },
     {
       "ID": "_autoGenTrophy_0065",
@@ -4519,15 +4524,15 @@
       "Name": "Elegy for Kazumasa",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0066",
       "SetID": "9efalp",
       "Name": "Common Courtesy",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 640
     },
     {
       "ID": "_autoGenTrophy_0067",
@@ -4535,7 +4540,7 @@
       "Name": "Monkey See",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "_autoGenTrophy_0068",
@@ -4543,7 +4548,7 @@
       "Name": "Pride of Ishikawa",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 747
     },
     {
       "ID": "_autoGenTrophy_0069",
@@ -4551,7 +4556,7 @@
       "Name": "Chiyoko\u0027s Song",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2134
     },
     {
       "ID": "_autoGenTrophy_0070",
@@ -4559,15 +4564,15 @@
       "Name": "A Few Splinters",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3201
     },
     {
       "ID": "_autoGenTrophy_0071",
       "SetID": "9efalp",
       "Name": "Well-Rounded Warrior",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 2134
     },
     {
       "ID": "_autoGenTrophy_0072",
@@ -4575,7 +4580,7 @@
       "Name": "Blood on Your Hands",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0073",
@@ -4583,7 +4588,7 @@
       "Name": "Honor Bound",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 747
     },
     {
       "ID": "_autoGenTrophy_0074",
@@ -4591,15 +4596,15 @@
       "Name": "Champion of the Kami",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1067
     },
     {
       "ID": "_autoGenTrophy_0075",
       "SetID": "9efalp",
       "Name": "Cursed No More",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 533
     },
     {
       "ID": "_autoGenTrophy_0076",
@@ -4607,7 +4612,7 @@
       "Name": "A Painful Blockage",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 533
     },
     {
       "ID": "livinglegend",
@@ -4615,23 +4620,23 @@
       "Name": "Living Legend",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
     {
       "ID": "9efalp",
       "IsBase": true,
-      "Progressed": 103950,
-      "Completed": 3
+      "Progressed": 106689,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
   "LastChanged": "2024-08-20T16:59:25.1869684+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:18.9309436+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:14:03.7350056+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:25.0968578+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:44.592971+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:18.9310164+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:14:03.7350766+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fafd1bf30a1e489e819444377e309999",
   "Name": "Contraption Maker",
   "ProductSlug": "contraption-maker-66e1ec",
-  "Ranking_EOS_Progress": 763,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-22T18:00:00+00:00",
     "PcReleaseDate": "2014-07-07T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 51,
+  "EOS_Progressed": 55,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -124,6 +124,11 @@
       "Time": "2024-08-09T18:04:44.2610667+00:00",
       "NumProgressed": 51,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:37.6524148+00:00",
+      "NumProgressed": 55,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T01:49:11.383928+00:00",
@@ -182,7 +187,7 @@
       "ID": "PUZZLE_EXPERT",
       "SetID": "ad3jn51",
       "Name": "Puzzle Expert",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 80,
       "UsersEstimate": 4
     },
@@ -192,7 +197,7 @@
       "Name": "Puzzle Solver",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "PUZZLE_NINJA",
@@ -206,9 +211,9 @@
       "ID": "PUZZLE_ROOKIE",
       "SetID": "ad3jn51",
       "Name": "Puzzle Rookie",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "PUZZLE_SUPERSTAR",
@@ -278,7 +283,7 @@
       "ID": "WALK_500_MILES",
       "SetID": "ad3jn51",
       "Name": "I Would Walk 500 Miles",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -311,14 +316,14 @@
     {
       "ID": "ad3jn51",
       "IsBase": true,
-      "Progressed": 51,
+      "Progressed": 55,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-25T04:02:54.323921+00:00",
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:44.2610664+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:37.6524142+00:00",
   "LastUpdate_AppInfo": "2024-08-20T02:57:03.7282043+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:45.3011683+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:44.2610775+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:03.0202926+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:37.6524329+00:00"
 }

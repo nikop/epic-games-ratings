@@ -2,10 +2,10 @@
   "ID": "04f5224e17fe40fb8cf28205397643fe",
   "Name": "The Inner World",
   "ProductSlug": "the-inner-world-2e3e98",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-30T15:00:00+00:00",
     "PcReleaseDate": "2013-09-27T09:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-01T21:00:34.4118035+00:00",
   "LastUpdate_AppInfo": "2024-08-14T01:58:38.2361821+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:43.678128+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:01.6258666+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:41.9752243+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:34.2267461+00:00"
 }

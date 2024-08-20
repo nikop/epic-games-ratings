@@ -2,10 +2,10 @@
   "ID": "641612914ff541fcb0e4813ee144777d",
   "Name": "The Nightmare Of Arrival Chapter1",
   "ProductSlug": "thenightmareofarrivalchapter1-374431",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-15T11:00:00+00:00",
     "PcReleaseDate": "2024-04-15T11:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-06-22T15:58:02.50708+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:22.8181052+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:13.1806276+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.7985763+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:43.6521401+00:00"
 }

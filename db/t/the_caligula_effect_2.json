@@ -5,10 +5,10 @@
   "Ranking_Rating": 813,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 530,
-  "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 534,
+  "Ranking_EOS_Completed": 262,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 297,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2024-08-09T18:06:40.4094902+00:00",
       "NumProgressed": 296,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:11:13.4673952+00:00",
+      "NumProgressed": 297,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 49,
@@ -263,7 +268,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACH_03",
@@ -271,15 +276,15 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_04",
       "SetID": "2eg5kgc",
       "Name": "Go-Home Club Activities START!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_05",
@@ -335,7 +340,7 @@
       "Name": "Hopes Rewarded",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_12",
@@ -565,9 +570,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_41",
@@ -591,7 +596,7 @@
       "Name": "Our World Now",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_44",
@@ -615,7 +620,7 @@
       "Name": "Guarding Guru",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_47",
@@ -646,15 +651,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 297,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2024-03-18T16:59:46.7197526+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:40.4094899+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:13.4673945+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:50.8759954+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:16.5800399+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:40.4095335+00:00"
+  "LastUpdate_Ratings": "2024-08-20T20:00:05.8508481+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:13.4674306+00:00"
 }

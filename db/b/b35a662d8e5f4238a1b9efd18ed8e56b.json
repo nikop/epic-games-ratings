@@ -2,10 +2,10 @@
   "ID": "b35a662d8e5f4238a1b9efd18ed8e56b",
   "Name": "FlatOut: Ultimate Carnage Collector\u0027s Edition",
   "ProductSlug": "flatout-ultimate-carnage-a735b8",
-  "Ranking_EOS_Progress": 1037,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1049,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-26T00:00:00+00:00",
     "PcReleaseDate": "2007-06-22T04:00:00+00:00",
@@ -323,8 +323,8 @@
   ],
   "FirstSeen": "2024-04-27T19:58:22.0852503+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.4954399+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:47.5179773+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:41.8917877+00:00",
   "LastUpdate_AppInfo": "2024-08-20T16:57:08.5476981+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:25.2542394+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:47.5179927+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:41.8918056+00:00"
 }

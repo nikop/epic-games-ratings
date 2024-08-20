@@ -5,10 +5,10 @@
   "Ranking_Rating": 881,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 623,
-  "Ranking_EOS_Progress": 264,
-  "Ranking_EOS_Completed": 352,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 267,
+  "Ranking_EOS_Completed": 355,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -592,11 +592,11 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 6599,
-  "EOS_Completed": 22,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Progressed": 6624,
+  "EOS_Completed": 23,
+  "EOS_NewPlayers": 25,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:51.6283216+00:00",
@@ -5832,6 +5832,11 @@
       "Time": "2024-08-09T18:05:09.5561909+00:00",
       "NumProgressed": 6599,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-08-20T20:08:23.735353+00:00",
+      "NumProgressed": 6624,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 67,
@@ -5843,15 +5848,15 @@
       "Name": "P.A.X",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2318
     },
     {
       "ID": "ID_ACHIEV_02",
       "SetID": "98bke8c",
       "Name": "Firebug",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1325
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5859,7 +5864,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 994
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5867,7 +5872,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 792
+      "UsersEstimate": 795
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -5883,7 +5888,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -5891,7 +5896,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 5477
+      "UsersEstimate": 5498
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5899,7 +5904,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 6203
+      "UsersEstimate": 6227
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5907,7 +5912,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4949
+      "UsersEstimate": 4968
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5915,7 +5920,7 @@
       "Name": "Hey Listen",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2244
+      "UsersEstimate": 2252
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5923,7 +5928,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 729
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -5931,7 +5936,7 @@
       "Name": "Gear Up",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 927
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -5939,7 +5944,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 795
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -5947,7 +5952,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 729
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -5955,7 +5960,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -5963,7 +5968,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -5971,7 +5976,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -5979,7 +5984,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -5987,7 +5992,7 @@
       "Name": "Melting Down",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -5995,7 +6000,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -6003,7 +6008,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 729
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -6011,7 +6016,7 @@
       "Name": "Right Tool for the Job",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 662
     },
     {
       "ID": "ID_ACHIEV_23",
@@ -6019,7 +6024,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -6027,7 +6032,7 @@
       "Name": "Core Power",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 795
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -6035,7 +6040,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 464
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -6051,7 +6056,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 464
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -6059,7 +6064,7 @@
       "Name": "First Day on the Job",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 4883
+      "UsersEstimate": 4902
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -6067,7 +6072,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 464
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -6075,7 +6080,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 596
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -6083,15 +6088,15 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ID_ACHIEV_32",
       "SetID": "98bke8c",
       "Name": "Butcher\u0027s Bill",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 3431
+      "UsersEstimate": 3378
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -6099,7 +6104,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -6107,7 +6112,7 @@
       "Name": "Most Wanted",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1656
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -6115,7 +6120,7 @@
       "Name": "Infidel",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1457
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -6123,7 +6128,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2120
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -6131,7 +6136,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1126
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -6163,7 +6168,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1126
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -6171,7 +6176,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 596
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -6179,7 +6184,7 @@
       "Name": "GOLIATH",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1259
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -6187,7 +6192,7 @@
       "Name": "OPERATOR",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2186
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -6195,7 +6200,7 @@
       "Name": "SENTINEL",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 927
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -6219,7 +6224,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -6227,7 +6232,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -6259,7 +6264,7 @@
       "Name": "No More Marching",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_55",
@@ -6275,7 +6280,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -6283,7 +6288,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -6291,7 +6296,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 528
+      "UsersEstimate": 530
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -6363,7 +6368,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -6371,22 +6376,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 464
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 6599,
-      "Completed": 22
+      "Progressed": 6624,
+      "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2024-08-16T05:58:29.0754512+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:09.5561903+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:23.7353526+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:51.6474662+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:20.2715549+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:09.5562783+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:23.7354221+00:00"
 }

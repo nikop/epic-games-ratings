@@ -2,10 +2,10 @@
   "ID": "35246776c777428db5218f7e758e18be",
   "Name": "Altiros",
   "ProductSlug": "altiros-d54b90",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-24T10:00:00+00:00",
     "PcReleaseDate": "2024-04-26T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-27T16:58:19.5927726+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:13.7787176+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:41.7536849+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:57.4889057+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:35.5930953+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:58.5664315+00:00"
 }

@@ -4,17 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Planet 1 | 33.00% | ~2 |
-| Planet 3 | 33.00% | ~2 |
-| Planet 4 | 33.00% | ~2 |
-| Planet 2 | 17.00% | ~1 |
-| Planet 5 | 17.00% | ~1 |
-| Planet 6 | 17.00% | ~1 |
+| Planet 1 | 29.00% | ~2 |
+| Planet 3 | 29.00% | ~2 |
+| Planet 4 | 29.00% | ~2 |
+| Planet 2 | 14.00% | ~1 |
+| Planet 5 | 14.00% | ~1 |
+| Planet 6 | 14.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 976)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 7 (Ranked 979)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 2 | 0 |
 | 2024-07-30 | 6 | 0 |
+| 2024-08-20 | 7 | 0 |

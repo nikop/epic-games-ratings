@@ -5,58 +5,58 @@ Rating: 4.57 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~20,413 |
-| On the Top Step | 87.00% | ~19,096 |
-| Setting up for Success | 77.00% | ~16,901 |
-| Team Orders | 74.00% | ~16,242 |
-| Engineer | 51.00% | ~11,194 |
-| Familiar Faces | 48.00% | ~10,536 |
-| Hitting a Season | 44.00% | ~9,658 |
-| Sharing the Love | 44.00% | ~9,658 |
-| Going the Extra Mile | 41.00% | ~8,999 |
-| A Dozen Pieces | 35.00% | ~7,682 |
-| Network Success | 31.00% | ~6,804 |
-| Challenge Yourself | 31.00% | ~6,804 |
-| Making History | 30.00% | ~6,585 |
-| Writing a new Chapter | 25.00% | ~5,487 |
-| Spring Cleaning | 22.00% | ~4,829 |
-| Hitting a Bullseye | 22.00% | ~4,829 |
-| Reduce | 20.00% | ~4,390 |
-| Crucial Combo | 19.00% | ~4,170 |
-| Lightning Round the World | 19.00% | ~4,170 |
-| Ups and Downs | 19.00% | ~4,170 |
-| Oil and Water | 17.00% | ~3,731 |
-| Reuse | 17.00% | ~3,731 |
-| Proving Them Wrong | 17.00% | ~3,731 |
-| Gathering Dust | 15.00% | ~3,292 |
-| All in a Weekend's Work | 15.00% | ~3,292 |
-| Spinning Around | 15.00% | ~3,292 |
-| One for the Book | 15.00% | ~3,292 |
-| Eagle Eye | 14.00% | ~3,073 |
-| Undisputed Winner | 14.00% | ~3,073 |
-| Friendly Competition | 14.00% | ~3,073 |
-| Switcheroo | 14.00% | ~3,073 |
-| Recycle | 11.00% | ~2,414 |
-| Tinkerer | 11.00% | ~2,414 |
-| For all Those Back at the Factory | 10.00% | ~2,195 |
-| Hitting a Century | 8.00% | ~1,756 |
-| Smooth Operator | 8.00% | ~1,756 |
-| Living up to Expectations | 6.00% | ~1,317 |
-| Loyal Bond | 5.00% | ~1,097 |
-| Peak Performance | 5.00% | ~1,097 |
-| Seasoned Rookie | 4.00% | ~878 |
-| Wait, I know you? | 3.00% | ~658 |
-| Filling in the Gaps | 3.00% | ~658 |
+| Getting on the Step | 93.00% | ~20,435 |
+| On the Top Step | 87.00% | ~19,117 |
+| Setting up for Success | 77.00% | ~16,919 |
+| Team Orders | 74.00% | ~16,260 |
+| Engineer | 52.00% | ~11,426 |
+| Familiar Faces | 48.00% | ~10,547 |
+| Hitting a Season | 44.00% | ~9,668 |
+| Sharing the Love | 44.00% | ~9,668 |
+| Going the Extra Mile | 41.00% | ~9,009 |
+| A Dozen Pieces | 35.00% | ~7,691 |
+| Network Success | 31.00% | ~6,812 |
+| Challenge Yourself | 31.00% | ~6,812 |
+| Making History | 31.00% | ~6,812 |
+| Writing a new Chapter | 25.00% | ~5,493 |
+| Spring Cleaning | 22.00% | ~4,834 |
+| Hitting a Bullseye | 22.00% | ~4,834 |
+| Reduce | 20.00% | ~4,395 |
+| Crucial Combo | 19.00% | ~4,175 |
+| Lightning Round the World | 19.00% | ~4,175 |
+| Ups and Downs | 19.00% | ~4,175 |
+| Oil and Water | 17.00% | ~3,735 |
+| Reuse | 17.00% | ~3,735 |
+| Proving Them Wrong | 17.00% | ~3,735 |
+| Gathering Dust | 15.00% | ~3,296 |
+| All in a Weekend's Work | 15.00% | ~3,296 |
+| Spinning Around | 15.00% | ~3,296 |
+| One for the Book | 15.00% | ~3,296 |
+| Eagle Eye | 14.00% | ~3,076 |
+| Undisputed Winner | 14.00% | ~3,076 |
+| Friendly Competition | 14.00% | ~3,076 |
+| Switcheroo | 14.00% | ~3,076 |
+| Recycle | 11.00% | ~2,417 |
+| Tinkerer | 11.00% | ~2,417 |
+| For all Those Back at the Factory | 10.00% | ~2,197 |
+| Hitting a Century | 8.00% | ~1,758 |
+| Smooth Operator | 8.00% | ~1,758 |
+| Living up to Expectations | 6.00% | ~1,318 |
+| Loyal Bond | 5.00% | ~1,099 |
+| Peak Performance | 5.00% | ~1,099 |
+| Seasoned Rookie | 4.00% | ~879 |
+| Wait, I know you? | 4.00% | ~879 |
+| Filling in the Gaps | 3.00% | ~659 |
 | Saturday Night Drama | 2.00% | ~439 |
 | Media Darling | 2.00% | ~439 |
-| Under the Microscope | 1.00% | ~219 |
+| Under the Microscope | 1.00% | ~220 |
 | Ultimate Collector | 0.90% | ~198 |
 | Golden Touch | 0.40% | ~88 |
 | Shot in the Dark | 0.10% | ~22 |
 | Elite Racer | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,949 (Ranked 204)  
-Completed: 1 (0.00%) (Ranked 554)  
+Progressed: 21,973 (Ranked 206)  
+Completed: 1 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,9 +197,10 @@ Completed: 1 (0.00%) (Ranked 554)
 | 2024-04-10 | 21,009 | 0 |
 | 2024-06-17 | 21,680 | 0 |
 | 2024-08-09 | 21,949 | 1 |
+| 2024-08-20 | 21,973 | 1 |
 ## Awards
 Max (Diverse Characters): 307  (Ranked 303)  
-Sum: 1,868 (Ranked 258)  
+Sum: 1,872 (Ranked 258)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -208,11 +209,11 @@ Diff (max vs sum): 45
 | This game is Highly Recommended | 222 |
 | This game has Challenging Combat | 189 |
 | This game has Realistic Visuals | 187 |
-| This game has Amazing Characters | 178 |
+| This game has Amazing Characters | 179 |
 | This game has Amazing Storytelling | 163 |
-| This game is Extremely Fun | 161 |
+| This game is Extremely Fun | 162 |
 | This game is Educational | 151 |
-| This game has Competitive Players | 136 |
+| This game has Competitive Players | 138 |
 | This game has Quickly Understood Controls | 131 |
 | This game is Great for Beginners | 36 |
 | This game is Great for Quick Sessions | 24 |
@@ -559,4 +560,4 @@ Diff (max vs sum): 45
 | 2024-08-17 | 4.57 | 302 | 1,660 |
 | 2024-08-18 | 4.57 | 307 | 1,668 |
 | 2024-08-19 | 4.57 | 307 | 1,678 |
-| 2024-08-20 | 4.57 | 307 | 1,868 |
+| 2024-08-20 | 4.57 | 307 | 1,872 |

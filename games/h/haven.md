@@ -37,8 +37,8 @@ Number of Ratings: 38  (23.09.2022)
 | Pearls before Birble | 2.00% | ~50 |
 | À la carte | 1.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,517 (Ranked 330)  
-Completed: 16 (0.64%) (Ranked 302)  
+Progressed: 2,517 (Ranked 333)  
+Completed: 16 (0.64%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

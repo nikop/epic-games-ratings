@@ -2,10 +2,10 @@
   "ID": "2714efb624174e479ae1d9d3e8d3184f",
   "Name": "Firelight Fantasy: Force Energy",
   "ProductSlug": "firelight-fantasy-force-energy-c5dce7",
-  "Ranking_EOS_Progress": 860,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 843,
+  "Ranking_EOS_Completed": 50,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-26T09:00:00+00:00",
     "PcReleaseDate": "2022-02-18T10:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 27,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 19.05,
+  "EOS_Completed_Percentage": 14.81,
   "EosHistory": [
     {
       "Time": "2024-07-24T02:01:10.5294858+00:00",
@@ -37,6 +37,11 @@
     {
       "Time": "2024-08-09T18:06:35.132249+00:00",
       "NumProgressed": 21,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-20T20:11:04.5709642+00:00",
+      "NumProgressed": 27,
       "NumCompleted": 4
     }
   ],
@@ -48,33 +53,33 @@
       "ID": "ACH_1",
       "SetID": "5d7p31o",
       "Name": "First Level",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_2",
       "SetID": "5d7p31o",
       "Name": "Second Level",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_3",
       "SetID": "5d7p31o",
       "Name": "Third Level",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_4",
       "SetID": "5d7p31o",
       "Name": "Forth Level",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_5",
@@ -82,13 +87,13 @@
       "Name": "Fifth Level",
       "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_6",
       "SetID": "5d7p31o",
       "Name": "Sixth Level",
-      "Percentage": 19,
+      "Percentage": 15,
       "XP": 200,
       "UsersEstimate": 4
     }
@@ -97,13 +102,13 @@
     {
       "ID": "5d7p31o",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 27,
       "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2024-07-24T02:01:10.5298878+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:35.1322488+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:04.5709636+00:00",
   "LastUpdate_AppInfo": "2024-08-19T18:57:19.6089837+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:58.182422+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:35.1322603+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:50.0336285+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:04.57097+00:00"
 }

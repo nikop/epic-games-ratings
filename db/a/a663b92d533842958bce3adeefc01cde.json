@@ -2,10 +2,10 @@
   "ID": "a663b92d533842958bce3adeefc01cde",
   "Name": "Loopstructor",
   "ProductSlug": "loopstructor-d72cca",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T11:57:27.7368957+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:56.2209426+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:49.0052534+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:50.2727808+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:11.0858521+00:00"
 }

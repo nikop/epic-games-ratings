@@ -2,10 +2,10 @@
   "ID": "42f7c7174a8a45d4a1189b3d0a267f43",
   "Name": "The Shadows Within: Nightmare\u0027s Games",
   "ProductSlug": "the-shadows-within-nightmares-games-857953",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T23:57:14.4454669+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:10.4770947+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:47.2677313+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:56:59.9103672+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:24.1493667+00:00"
 }

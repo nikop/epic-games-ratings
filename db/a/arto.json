@@ -2,10 +2,10 @@
   "ID": "4c0237e4e04a46df8b8555dbb35682f8",
   "Name": "Arto",
   "ProductSlug": "arto-ff98ff",
-  "Ranking_EOS_Progress": 907,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 908,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-01T15:00:00+00:00",
     "PcReleaseDate": "2023-05-01T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -64,6 +64,11 @@
       "Time": "2024-06-17T16:15:14.0551655+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:38.0591756+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-31T21:06:57.3189307+00:00",
@@ -82,7 +87,7 @@
       "ID": "BURNT_CRISP",
       "SetID": "51mnk21",
       "Name": "Burnt to a Crisp",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -90,7 +95,7 @@
       "ID": "CHANCE_ENCOUNTER",
       "SetID": "51mnk21",
       "Name": "A Chance Encounter?",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -138,7 +143,7 @@
       "ID": "FIRST_STEP",
       "SetID": "51mnk21",
       "Name": "The First Step",
-      "Percentage": 71,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -186,7 +191,7 @@
       "ID": "NO_SAVING",
       "SetID": "51mnk21",
       "Name": "No Saving Him",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -219,14 +224,14 @@
     {
       "ID": "51mnk21",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-10T03:58:18.9140526+00:00",
   "FirstSeenAchievements": "2023-05-12T18:06:31.6672669+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:44.6426814+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:38.0591751+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:39.2197326+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:00.0479443+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:44.6426974+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:52.5919446+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:38.0591872+00:00"
 }

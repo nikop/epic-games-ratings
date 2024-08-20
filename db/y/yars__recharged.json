@@ -2,10 +2,10 @@
   "ID": "026a17f50e2b4ebeb6c631bd8638b6f7",
   "Name": "Yars: Recharged",
   "ProductSlug": "yars-revenge-recharged-fbdc11",
-  "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 391,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 397,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T04:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4238,
+  "EOS_Progressed": 4279,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -290,6 +290,11 @@
       "Time": "2024-08-09T18:04:05.2938052+00:00",
       "NumProgressed": 4238,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-20T20:06:19.6399296+00:00",
+      "NumProgressed": 4279,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 15,
@@ -301,7 +306,7 @@
       "Name": "2112",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 720
+      "UsersEstimate": 727
     },
     {
       "ID": "ACH_ANALOG_KID",
@@ -309,7 +314,7 @@
       "Name": "Analog Kid",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3209
     },
     {
       "ID": "ACH_APOLLO",
@@ -317,15 +322,15 @@
       "Name": "Apollo",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 2077
+      "UsersEstimate": 2097
     },
     {
       "ID": "ACH_ARMAGEDDON",
       "SetID": "kifj0l",
       "Name": "Armageddon",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 381
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_A_FAREWELL_TO_KINGS",
@@ -333,7 +338,7 @@
       "Name": "A Farewell to Kings",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 509
+      "UsersEstimate": 513
     },
     {
       "ID": "ACH_DIONYSUS",
@@ -341,7 +346,7 @@
       "Name": "Dionysus",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACH_GRAND_FINALE",
@@ -365,7 +370,7 @@
       "Name": "Oracle",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 2416
+      "UsersEstimate": 2439
     },
     {
       "ID": "ACH_RUSH",
@@ -373,7 +378,7 @@
       "Name": "Rush",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 339
+      "UsersEstimate": 342
     },
     {
       "ID": "ACH_SOLILOQUY",
@@ -381,7 +386,7 @@
       "Name": "Soliloquy",
       "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACH_SUBDIVISIONS",
@@ -389,7 +394,7 @@
       "Name": "Subdivisions",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_TEMPLE_OF_SYRINX",
@@ -397,7 +402,7 @@
       "Name": "Temple of Syrinx",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 212
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_THE_WEAPON",
@@ -405,7 +410,7 @@
       "Name": "The Weapon",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2525
     },
     {
       "ID": "ACH_XANADU",
@@ -413,14 +418,14 @@
       "Name": "Xanadu",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 509
+      "UsersEstimate": 513
     }
   ],
   "AchievementSets": [
     {
       "ID": "kifj0l",
       "IsBase": true,
-      "Progressed": 4238,
+      "Progressed": 4279,
       "Completed": 8
     }
   ],
@@ -428,8 +433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.4639247+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.5855018+00:00",
   "LastChanged": "2023-03-31T05:58:40.4639249+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:05.2938046+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:19.6399292+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:21.8646015+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:36.6001379+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:05.2938151+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:06:19.6399457+00:00"
 }

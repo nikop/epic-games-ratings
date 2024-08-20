@@ -2,10 +2,10 @@
   "ID": "ae1a11a634df42feb2e6c28eea474260",
   "Name": "Flint: The Treasure of Oblivion",
   "ProductSlug": "flint-the-treasure-of-oblivion-d6c738",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T02:57:05.9327144+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:13.5128796+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:13.698731+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:01.8206159+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:55.1943162+00:00"
 }

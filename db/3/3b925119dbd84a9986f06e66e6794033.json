@@ -2,10 +2,10 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1103,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2569,6 +2569,11 @@
       "Time": "2024-08-09T18:04:43.304557+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:35.9312663+00:00",
+      "NumProgressed": 1103,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2581,7 +2586,7 @@
       "Name": "Dodo Re Mi: Noonlight Sonata",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DODO_RE_MI_PAPER_BLADDER",
@@ -2605,7 +2610,7 @@
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -2613,7 +2618,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 265
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -2621,7 +2626,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -2637,7 +2642,7 @@
       "Name": "Hypnotorious: Masterminds",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -2645,7 +2650,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 316
+      "UsersEstimate": 320
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -2653,7 +2658,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 287
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2669,7 +2674,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 331
     },
     {
       "ID": "TIME_JINX",
@@ -2677,7 +2682,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 485
     },
     {
       "ID": "TIME_ORWELL",
@@ -2693,7 +2698,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 485
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2701,7 +2706,7 @@
       "Name": "Timejinx: The Perfect Guest",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 349
+      "UsersEstimate": 353
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -2709,7 +2714,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 188
     },
     {
       "ID": "TKO2_DOMINO",
@@ -2717,7 +2722,7 @@
       "Name": "Tee K.O. 2: Domino",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "TKO2_DRAGONS_FAVORITE",
@@ -2725,29 +2730,29 @@
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "TKO2_NOT_HERE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: I Wasn\u2019t Supposed To Be Here",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1103,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:43.3045568+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:35.9312657+00:00",
   "LastUpdate_AppInfo": "2024-08-17T20:57:08.5843549+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:47.9433821+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:43.30458+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:04.6551147+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:35.9312904+00:00"
 }

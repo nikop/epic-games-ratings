@@ -2,10 +2,10 @@
   "ID": "fc9b0b69cdf84f05986fa55d0a021fe2",
   "Name": "RoadCraft",
   "ProductSlug": "roadbuilder-b65690",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T18:57:12.4889418+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:20.0407487+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:16.6870168+00:00"
 }

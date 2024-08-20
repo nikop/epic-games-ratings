@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 1,104)  
+Rating: 4.19 (Ranked 1,105)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,7 +68,7 @@ Rating: 4.19 (Ranked 1,104)
 | It's Nice to Be Wanted | 0.30% | ~183 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 90,785 (Ranked 137)  
-Completed: 160 (0.18%) (Ranked 396)  
+Completed: 160 (0.18%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -355,9 +355,9 @@ Completed: 160 (0.18%) (Ranked 396)
 | 2024-06-17 | 89,248 | 156 |
 | 2024-08-09 | 90,785 | 160 |
 ## Awards
-Max (Great Boss Battles): 3,718  (Ranked 109)  
+Max (Great Boss Battles): 3,718  (Ranked 110)  
 Sum: 6,599 (Ranked 155)  
-Diff (max vs sum): -46  
+Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,718 |

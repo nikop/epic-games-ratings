@@ -15,7 +15,7 @@
 | Classic III. | 15.00% | ~4 |
 | Creator | 15.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 841)  
+Progressed: 26 (Ranked 846)  
 Completed: 2 (7.69%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,10 +2,10 @@
   "ID": "06eff52201bd4e7d9db3e56a11ac4536",
   "Name": "Unlock The Cat",
   "ProductSlug": "unlock-the-cat-487fac",
-  "Ranking_EOS_Progress": 561,
-  "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 564,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-22T17:00:00+00:00",
     "PcReleaseDate": "2021-03-02T19:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 233,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.66,
+  "EOS_Completed_Percentage": 8.58,
   "EosHistory": [
     {
       "Time": "2024-03-04T23:04:06.6898341+00:00",
@@ -55,6 +55,11 @@
       "Time": "2024-08-09T18:05:43.0005724+00:00",
       "NumProgressed": 231,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-08-20T20:09:32.3667489+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 20
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:06.6898416+00:00",
@@ -67,7 +72,7 @@
       "Name": "The journey has begun",
       "Percentage": 98,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 228
     },
     {
       "ID": "ACHIEVEMENT_2",
@@ -75,15 +80,15 @@
       "Name": "Tutorial finished!",
       "Percentage": 93,
       "XP": 75,
-      "UsersEstimate": 215
+      "UsersEstimate": 217
     },
     {
       "ID": "ACHIEVEMENT_3",
       "SetID": "c2ikhij",
       "Name": "Last day of summer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -99,7 +104,7 @@
       "Name": "The end of desert",
       "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -122,14 +127,14 @@
     {
       "ID": "c2ikhij",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 233,
       "Completed": 20
     }
   ],
   "FirstSeen": "2024-03-23T05:58:58.4404878+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:06.6898416+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:43.0005722+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:32.3667484+00:00",
   "LastUpdate_AppInfo": "2024-08-18T02:57:14.1014117+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:27.6394344+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:43.0005779+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:23.3102038+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:32.3667551+00:00"
 }

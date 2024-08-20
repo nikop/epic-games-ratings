@@ -2,10 +2,10 @@
   "ID": "7198c1ccb7b64bbbb1a7d0112a75c9a5",
   "Name": "Brand New World",
   "ProductSlug": "brand-new-world-cedac8",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-18T19:30:00+00:00",
     "PcReleaseDate": "2024-04-18T19:30:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:19.5545762+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:43.0576012+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:17.6925984+00:00",
   "LastUpdate_AppInfo": "2024-08-14T01:58:41.1333792+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:39.7947922+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:43.0576031+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:17.6926014+00:00"
 }

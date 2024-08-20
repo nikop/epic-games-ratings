@@ -2,10 +2,10 @@
   "ID": "6db5dedf9d63416196b99a1031a06469",
   "Name": "Tamarindos Freaking Dinner",
   "ProductSlug": "tamarindos-freaking-dinner-682b91",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T02:57:06.4890551+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:05.3379601+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:54.5420588+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:21.1674684+00:00"
 }

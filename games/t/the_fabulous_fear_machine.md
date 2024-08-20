@@ -6,36 +6,36 @@
 | ---- | ---------- | ----- |
 | Master trainee | 60.00% | ~73 |
 | You have three wishes left | 55.00% | ~67 |
-| Jung's dream | 49.00% | ~59 |
-| The battle of Great Britain | 45.00% | ~54 |
-| Pulp! Where Monsters Dwell | 35.00% | ~42 |
-| A continent with chemistry | 35.00% | ~42 |
+| Jung's dream | 48.00% | ~59 |
+| The battle of Great Britain | 45.00% | ~55 |
+| Pulp! Where Monsters Dwell | 34.00% | ~41 |
+| A continent with chemistry | 34.00% | ~41 |
 | Giant | 33.00% | ~40 |
 | The happy farmer girl | 33.00% | ~40 |
 | Pulp! Terror Tales in the Night | 31.00% | ~38 |
-| A rival with no options | 30.00% | ~36 |
+| A rival with no options | 30.00% | ~37 |
 | Et in arcadia ego | 28.00% | ~34 |
 | Diagnosis: fear | 28.00% | ~34 |
 | Ambition is... blind | 28.00% | ~34 |
 | You have two wishes left | 28.00% | ~34 |
 | The artist | 27.00% | ~33 |
-| Pulp! Out of this World | 26.00% | ~31 |
+| Pulp! Out of this World | 26.00% | ~32 |
 | Pulp! Adventures into the Unknown | 25.00% | ~30 |
 | Welcome to Hellville | 25.00% | ~30 |
 | Kirlian's best disciple | 24.00% | ~29 |
 | You've awakened the beast | 23.00% | ~28 |
 | Hate is... addictive | 23.00% | ~28 |
 | You had one wish left | 23.00% | ~28 |
-| The seer | 21.00% | ~25 |
-| The bully | 21.00% | ~25 |
+| The seer | 21.00% | ~26 |
 | Blessed antennas | 20.00% | ~24 |
+| The bully | 20.00% | ~24 |
 | Bread and bocaua | 19.00% | ~23 |
 | Fanatacism is... poisonous | 19.00% | ~23 |
 | Blood Red Island | 18.00% | ~22 |
 | The adventurer | 18.00% | ~22 |
 | Pulp! The Beyond | 18.00% | ~22 |
-| The beast in the Oval Office | 17.00% | ~21 |
-| Pulp! True Adventures | 16.00% | ~19 |
+| The beast in the Oval Office | 16.00% | ~20 |
+| Pulp! True Adventures | 16.00% | ~20 |
 | The scholar | 15.00% | ~18 |
 | ECO mode | 13.00% | ~16 |
 | America had no Faith | 13.00% | ~16 |
@@ -52,8 +52,8 @@
 | Pulp! Mister Mystery | 2.00% | ~2 |
 | Pulp! The Vault of Horror | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 643)  
-Completed: 1 (0.83%) (Ranked 280)  
+Progressed: 122 (Ranked 648)  
+Completed: 1 (0.82%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,3 +111,4 @@ Completed: 1 (0.83%) (Ranked 280)
 | 2024-04-10 | 106 | 1 |
 | 2024-06-17 | 119 | 1 |
 | 2024-08-09 | 121 | 1 |
+| 2024-08-20 | 122 | 1 |

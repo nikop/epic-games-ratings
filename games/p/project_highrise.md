@@ -4,51 +4,53 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 52.00% | ~373 |
-| Starting Skyward | 46.00% | ~330 |
-| Grime is Not Good | 40.00% | ~287 |
-| Floor Galore | 35.00% | ~251 |
-| Dinner Dash | 34.00% | ~244 |
-| Campaign Launch | 33.00% | ~237 |
-| Need a Consult | 31.00% | ~222 |
-| It's Technical | 31.00% | ~222 |
-| Upgrade Unlock | 30.00% | ~215 |
-| Proper Walls | 29.00% | ~208 |
-| Delegate Maintenance | 27.00% | ~194 |
-| Destination Destiny | 27.00% | ~194 |
-| Happy Tenants | 22.00% | ~158 |
-| Potent Potables | 22.00% | ~158 |
+| In the Black | 52.00% | ~375 |
+| Starting Skyward | 46.00% | ~332 |
+| Grime is Not Good | 40.00% | ~288 |
+| Floor Galore | 35.00% | ~252 |
+| Dinner Dash | 34.00% | ~245 |
+| Campaign Launch | 33.00% | ~238 |
+| Need a Consult | 31.00% | ~224 |
+| It's Technical | 31.00% | ~224 |
+| Upgrade Unlock | 30.00% | ~216 |
+| Proper Walls | 29.00% | ~209 |
+| Delegate Maintenance | 27.00% | ~195 |
+| Destination Destiny | 27.00% | ~195 |
+| Happy Tenants | 22.00% | ~159 |
+| Potent Potables | 22.00% | ~159 |
 | Your Prestige is Rising | 21.00% | ~151 |
 | Smooth Service | 21.00% | ~151 |
-| Retail Revenue | 20.00% | ~143 |
-| Don't Feel a Loan | 19.00% | ~136 |
-| People Mover | 18.00% | ~129 |
-| Emporium Empire | 17.00% | ~122 |
-| Leveled Up Shops | 17.00% | ~122 |
-| We Don't Need No Education | 17.00% | ~122 |
+| Retail Revenue | 20.00% | ~144 |
+| Don't Feel a Loan | 19.00% | ~137 |
+| People Mover | 18.00% | ~130 |
+| Artfully Done | 17.00% | ~123 |
+| Emporium Empire | 17.00% | ~123 |
+| Leveled Up Shops | 17.00% | ~123 |
+| We Don't Need No Education | 17.00% | ~123 |
+| Get Electrified | 17.00% | ~123 |
 | Lux Living | 16.00% | ~115 |
-| Artfully Done | 16.00% | ~115 |
 | Tasty Profits | 16.00% | ~115 |
-| Get Electrified | 16.00% | ~115 |
-| Rehab Expert | 14.00% | ~100 |
-| Established Fame | 14.00% | ~100 |
-| Under One Roof | 13.00% | ~93 |
-| Cashflow Chief | 13.00% | ~93 |
-| Starred Dining | 12.00% | ~86 |
-| Boutique Benefits | 11.00% | ~79 |
-| Smooth Operator | 10.00% | ~72 |
+| Rehab Expert | 14.00% | ~101 |
+| Established Fame | 14.00% | ~101 |
+| Under One Roof | 13.00% | ~94 |
+| Cashflow Chief | 13.00% | ~94 |
+| Starred Dining | 12.00% | ~87 |
+| Boutique Benefits | 12.00% | ~87 |
+| Smooth Operator | 11.00% | ~79 |
 | Thrilled Tenants | 10.00% | ~72 |
 | 28 Days Later | 9.00% | ~65 |
 | Swimming in Surplus | 9.00% | ~65 |
 | Terrifically Trashed | 9.00% | ~65 |
-| Aestheticly Pleased | 8.00% | ~57 |
-| Refined Palates | 8.00% | ~57 |
+| Aestheticly Pleased | 8.00% | ~58 |
+| Refined Palates | 8.00% | ~58 |
 | First 100 Days | 7.00% | ~50 |
 | Water Features | 7.00% | ~50 |
 | Plaza Plan | 7.00% | ~50 |
 | Master of Puppets | 7.00% | ~50 |
 | Golden Opportunity | 6.00% | ~43 |
 | Phoning It In | 6.00% | ~43 |
+| Pipe Up | 6.00% | ~43 |
+| I'm Busy Ruling | 5.00% | ~36 |
 | Careful Constructor | 5.00% | ~36 |
 | Meet Me at HQ | 5.00% | ~36 |
 | Sky High Stature | 5.00% | ~36 |
@@ -56,11 +58,9 @@
 | Revenue Royalty | 5.00% | ~36 |
 | Tuned In | 5.00% | ~36 |
 | It's a Gas | 5.00% | ~36 |
-| Pipe Up | 5.00% | ~36 |
 | Meet ADA/360 | 4.00% | ~29 |
 | Penthouse in the Sky | 4.00% | ~29 |
 | Baron of Business | 4.00% | ~29 |
-| I'm Busy Ruling | 4.00% | ~29 |
 | Sandbagger | 4.00% | ~29 |
 | Profound Proceeds | 4.00% | ~29 |
 | Decorator's Touch | 3.00% | ~22 |
@@ -93,8 +93,8 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717 (Ranked 432)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 721 (Ranked 435)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,6 +240,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-05-13 | 613 | 0 |
 | 2024-06-17 | 699 | 0 |
 | 2024-08-09 | 717 | 0 |
+| 2024-08-20 | 721 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

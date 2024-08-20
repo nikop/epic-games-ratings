@@ -57,8 +57,8 @@ Number of Ratings: 827  (23.09.2022)
 | The Triple Lindy | 0.20% | ~21 |
 | BFA | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,513 (Ranked 242)  
-Completed: 11 (0.10%) (Ranked 432)  
+Progressed: 10,513 (Ranked 244)  
+Completed: 11 (0.10%) (Ranked 438)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

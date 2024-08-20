@@ -2,10 +2,10 @@
   "ID": "bdb4adaa3874491bbafe9a16b2764200",
   "Name": "LEGO\u00AE Horizon Adventures\u2122",
   "ProductSlug": "lego-horizon-adventures",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -36,8 +36,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-09T22:02:41.5392678+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:22.325598+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:42.8886265+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:18.5118199+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:08.4959469+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.3255998+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:38.8909244+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:42.8886334+00:00"
 }

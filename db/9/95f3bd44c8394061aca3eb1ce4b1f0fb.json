@@ -2,10 +2,10 @@
   "ID": "95f3bd44c8394061aca3eb1ce4b1f0fb",
   "Name": "Tabletop Playground",
   "ProductSlug": "tabletop-playground-9623f1",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-15T19:00:00+00:00",
     "PcReleaseDate": "2020-05-15T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2024-08-09T18:07:34.0704363+00:00",
       "NumProgressed": 264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:44.4463194+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 5,
@@ -873,7 +878,7 @@
       "Name": "Creator",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FourPlayers",
@@ -897,21 +902,21 @@
       "Name": "Friendship",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ajogia",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T04:57:23.9027898+00:00",
   "FirstSeenAchievements": "2023-05-18T13:05:33.6610739+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:34.0704361+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:44.446319+00:00",
   "LastUpdate_AppInfo": "2024-08-17T06:57:17.9970793+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:18.7685583+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:34.0704482+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:44.4463292+00:00"
 }

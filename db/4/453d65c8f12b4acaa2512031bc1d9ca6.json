@@ -2,10 +2,10 @@
   "ID": "453d65c8f12b4acaa2512031bc1d9ca6",
   "Name": "CRISIS Command",
   "ProductSlug": "crisis-command-595f58",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T19:57:24.6327302+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:41.2441207+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:25.4193473+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:35.1033287+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:29.0108569+00:00"
 }

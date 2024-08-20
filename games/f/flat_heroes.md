@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 74.00% | ~558 |
-| Snake Eyes | 61.00% | ~460 |
-| Be water, my friend | 58.00% | ~437 |
+| Dash Crash | 74.00% | ~559 |
+| Snake Eyes | 61.00% | ~461 |
+| Be water, my friend | 58.00% | ~438 |
 | The King of Flat | 46.00% | ~347 |
-| Fireball | 45.00% | ~339 |
-| Hit That Ball | 36.00% | ~271 |
+| Fireball | 45.00% | ~340 |
+| Hit That Ball | 36.00% | ~272 |
 | Air Slash | 33.00% | ~249 |
-| Eat That Apple | 25.00% | ~188 |
+| Eat That Apple | 25.00% | ~189 |
 | Tornado Chaser | 16.00% | ~121 |
-| Bomberman | 12.00% | ~90 |
+| Bomberman | 12.00% | ~91 |
 | Bubble Party | 9.00% | ~68 |
-| The Colossus | 8.00% | ~60 |
+| The Colossus | 9.00% | ~68 |
 | Floor is Lava | 7.00% | ~53 |
-| Pim Pam Pum | 6.00% | ~45 |
+| Pim Pam Pum | 7.00% | ~53 |
 | Dash Crash - Hero Edition | 5.00% | ~38 |
 | Ambush | 4.00% | ~30 |
 | Black Belt | 3.00% | ~23 |
@@ -37,8 +37,8 @@
 | The Colossus - Hero Edition | 0.50% | ~4 |
 | Pim Pam Pum - Hero Edition | 0.40% | ~3 |
 | Killing Spree | 0.40% | ~3 |
+| Explorer | 0.40% | ~3 |
 | Rogue - Hero Edition | 0.30% | ~2 |
-| Explorer | 0.30% | ~2 |
 | Dear Diary | 0.10% | ~1 |
 | Lone Wolf | 0.10% | ~1 |
 | Persistence | 0.10% | ~1 |
@@ -49,8 +49,8 @@
 | Yondu | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 754 (Ranked 429)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 755 (Ranked 432)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -160,6 +160,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 704 | 0 |
 | 2024-06-17 | 731 | 0 |
 | 2024-08-09 | 754 | 0 |
+| 2024-08-20 | 755 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,32 +5,32 @@ Rating: 4.81 (Ranked 92)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Inquisitor | 33.00% | ~289 |
-| Goblin Tales | 26.00% | ~228 |
-| Boss Killer | 21.00% | ~184 |
-| Bug Hunter | 21.00% | ~184 |
-| The Fallen | 19.00% | ~167 |
-| Artifact Collector | 17.00% | ~149 |
-| Trap Master | 17.00% | ~149 |
-| Ghost Buster | 13.00% | ~114 |
-| Iconoclasm | 13.00% | ~114 |
-| Reincarnation | 13.00% | ~114 |
-| Librarian | 12.00% | ~105 |
-| The End | 12.00% | ~105 |
-| Gladiator | 11.00% | ~96 |
-| Lumberjack | 11.00% | ~96 |
-| Orcs Must Die! | 11.00% | ~96 |
-| Troubleshooter | 9.00% | ~79 |
-| Money Swag | 8.00% | ~70 |
-| Oops | 7.00% | ~61 |
-| Shield Crusher | 7.00% | ~61 |
+| Inquisitor | 33.00% | ~293 |
+| Goblin Tales | 26.00% | ~231 |
+| Boss Killer | 21.00% | ~186 |
+| Bug Hunter | 21.00% | ~186 |
+| The Fallen | 19.00% | ~169 |
+| Artifact Collector | 17.00% | ~151 |
+| Trap Master | 17.00% | ~151 |
+| Ghost Buster | 13.00% | ~115 |
+| Iconoclasm | 13.00% | ~115 |
+| Reincarnation | 13.00% | ~115 |
+| Librarian | 12.00% | ~106 |
+| The End | 12.00% | ~106 |
+| Gladiator | 11.00% | ~98 |
+| Lumberjack | 11.00% | ~98 |
+| Orcs Must Die! | 11.00% | ~98 |
+| Troubleshooter | 9.00% | ~80 |
+| Money Swag | 8.00% | ~71 |
+| Oops | 7.00% | ~62 |
+| Shield Crusher | 7.00% | ~62 |
 | Treasure Hunter | 6.00% | ~53 |
 | Explorer | 5.00% | ~44 |
 | Trio | 5.00% | ~44 |
-| Arrive Home | 3.00% | ~26 |
-| Holy Knight | 3.00% | ~26 |
-| Pyromancer | 3.00% | ~26 |
-| Spell Master | 3.00% | ~26 |
+| Arrive Home | 3.00% | ~27 |
+| Holy Knight | 3.00% | ~27 |
+| Pyromancer | 3.00% | ~27 |
+| Spell Master | 3.00% | ~27 |
 | Hoarder | 2.00% | ~18 |
 | Marksman | 2.00% | ~18 |
 | Meat Lover | 2.00% | ~18 |
@@ -46,8 +46,8 @@ Rating: 4.81 (Ranked 92)
 | Necromancer | 0.50% | ~4 |
 | Hardboiled | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 877 (Ranked 416)  
-Completed: 1 (0.11%) (Ranked 426)  
+Progressed: 887 (Ranked 418)  
+Completed: 1 (0.11%) (Ranked 431)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,6 +204,7 @@ Completed: 1 (0.11%) (Ranked 426)
 | 2024-04-10 | 781 | 1 |
 | 2024-06-17 | 832 | 1 |
 | 2024-08-09 | 877 | 1 |
+| 2024-08-20 | 887 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

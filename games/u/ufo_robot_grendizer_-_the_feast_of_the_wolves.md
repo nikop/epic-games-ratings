@@ -35,8 +35,8 @@
 | Vengeance of the Wolf | 0.60% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 179 (Ranked 593)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 179 (Ranked 599)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

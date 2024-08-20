@@ -2,10 +2,10 @@
   "ID": "ef7f37c5751047a9bcc79a379bc79156",
   "Name": "DURATION",
   "ProductSlug": "duration-6d767d",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-21T03:00:00+00:00",
     "PcReleaseDate": "2024-02-21T03:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2024-02-25T21:58:04.2972413+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:11.3568853+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:01.3247339+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:05.9226106+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:20.1240733+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:07.4573764+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.3247364+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:38.0988214+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:05.9226139+00:00"
 }

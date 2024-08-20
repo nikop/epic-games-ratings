@@ -5,35 +5,35 @@ Rating: 4.86 (Ranked 30)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A New Journey | 67.00% | ~1,321 |
-| The Adventure Begins | 51.00% | ~1,005 |
-| With Great Power… | 39.00% | ~769 |
-| Swabbie | 38.00% | ~749 |
-| This Belongs in a Museum | 36.00% | ~710 |
-| The Gambit Has Begun | 33.00% | ~650 |
-| Somewhere Deep in the Lost Caribbean | 29.00% | ~572 |
-| Powder Monkey | 29.00% | ~572 |
-| Mirror Mirror on the Wall | 28.00% | ~552 |
-| Pirates Assemble! | 27.00% | ~532 |
-| Buccaneer | 23.00% | ~453 |
-| Fishy Fish | 22.00% | ~434 |
-| All Good Things | 21.00% | ~414 |
-| Persistent Parasite | 19.00% | ~374 |
-| Seadog | 16.00% | ~315 |
-| Jaded Judge | 14.00% | ~276 |
-| Rustic Recipe | 13.00% | ~256 |
-| Tobacco Travesty | 12.00% | ~237 |
-| Accursed Artifacts | 11.00% | ~217 |
-| Lyrical Longing | 11.00% | ~217 |
-| Privateer | 10.00% | ~197 |
-| Fully Decked | 9.00% | ~177 |
+| A New Journey | 67.00% | ~1,329 |
+| The Adventure Begins | 50.00% | ~992 |
+| With Great Power… | 39.00% | ~773 |
+| Swabbie | 38.00% | ~754 |
+| This Belongs in a Museum | 36.00% | ~714 |
+| The Gambit Has Begun | 33.00% | ~654 |
+| Somewhere Deep in the Lost Caribbean | 29.00% | ~575 |
+| Powder Monkey | 29.00% | ~575 |
+| Mirror Mirror on the Wall | 28.00% | ~555 |
+| Pirates Assemble! | 27.00% | ~535 |
+| Buccaneer | 23.00% | ~456 |
+| Fishy Fish | 22.00% | ~436 |
+| All Good Things | 21.00% | ~416 |
+| Persistent Parasite | 19.00% | ~377 |
+| Seadog | 16.00% | ~317 |
+| Jaded Judge | 14.00% | ~278 |
+| Rustic Recipe | 13.00% | ~258 |
+| Tobacco Travesty | 12.00% | ~238 |
+| Accursed Artifacts | 11.00% | ~218 |
+| Lyrical Longing | 11.00% | ~218 |
+| Privateer | 10.00% | ~198 |
+| Fully Decked | 9.00% | ~178 |
 | Corsair | 5.00% | ~99 |
 | Freebooter | 4.00% | ~79 |
 | Marauder | 3.00% | ~59 |
 | Welcome Back Jester | 3.00% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,971 (Ranked 351)  
-Completed: 54 (2.74%) (Ranked 176)  
+Progressed: 1,983 (Ranked 353)  
+Completed: 55 (2.77%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,6 +207,7 @@ Completed: 54 (2.74%) (Ranked 176)
 | 2024-04-10 | 1,771 | 51 |
 | 2024-06-17 | 1,893 | 54 |
 | 2024-08-09 | 1,971 | 54 |
+| 2024-08-20 | 1,983 | 55 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "8b0f65a8a3c94a918eb954c2cac7102c",
   "Name": "Quest Room",
   "ProductSlug": "quest-room-1e31f0",
-  "Ranking_EOS_Progress": 771,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 772,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-03T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T19:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:07:58.285143+00:00",
       "NumProgressed": 49,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:27.8101262+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:57.9506411+00:00",
@@ -55,7 +60,7 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "3m44p60",
       "Name": "Hospital",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -63,7 +68,7 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "3m44p60",
       "Name": "Maze",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 200,
       "UsersEstimate": 15
     },
@@ -71,7 +76,7 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "3m44p60",
       "Name": "Welcome",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
       "UsersEstimate": 26
     },
@@ -87,7 +92,7 @@
       "ID": "ACHIEVEMENT_2",
       "SetID": "3m44p60",
       "Name": "Hotel",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -95,7 +100,7 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "3m44p60",
       "Name": "Church",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -103,7 +108,7 @@
       "ID": "ACHIEVEMENT_4",
       "SetID": "3m44p60",
       "Name": "Construction",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -119,7 +124,7 @@
       "ID": "ACHIEVEMENT_6",
       "SetID": "3m44p60",
       "Name": "House",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -127,7 +132,7 @@
       "ID": "ACHIEVEMENT_7",
       "SetID": "3m44p60",
       "Name": "Duck",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 200,
       "UsersEstimate": 42
     },
@@ -143,7 +148,7 @@
       "ID": "ACHIEVEMENT_9",
       "SetID": "3m44p60",
       "Name": "Voice",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 165,
       "UsersEstimate": 24
     }
@@ -152,14 +157,14 @@
     {
       "ID": "3m44p60",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-05T21:59:46.2848242+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:57.9506411+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:58.2851424+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:27.8101256+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:33.7783234+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:30.9047743+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:58.2851529+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:27.810134+00:00"
 }

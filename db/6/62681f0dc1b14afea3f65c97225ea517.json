@@ -2,10 +2,10 @@
   "ID": "62681f0dc1b14afea3f65c97225ea517",
   "Name": "Mars Battle",
   "ProductSlug": "mars-battle-6d58c4",
-  "Ranking_EOS_Progress": 339,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 30,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-20T20:00:00+00:00",
     "PcReleaseDate": "2024-04-20T20:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2292,
+  "EOS_Progressed": 2461,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
     {
       "Time": "2024-08-09T18:07:28.369888+00:00",
       "NumProgressed": 2292,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:34.2485799+00:00",
+      "NumProgressed": 2461,
       "NumCompleted": 0
     }
   ],
@@ -73,7 +78,7 @@
       "Name": "Sharpshooter",
       "Percentage": 2,
       "XP": 125,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "headshots_50",
@@ -81,15 +86,15 @@
       "Name": "Blaster",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 98
     },
     {
       "ID": "kills_1",
       "SetID": "96ddppi",
       "Name": "First Blood",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 1077
+      "UsersEstimate": 1181
     },
     {
       "ID": "kills_100",
@@ -97,29 +102,29 @@
       "Name": "Killer",
       "Percentage": 2,
       "XP": 200,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "kills_50",
       "SetID": "96ddppi",
       "Name": "Rookie",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 150,
-      "UsersEstimate": 92
+      "UsersEstimate": 123
     }
   ],
   "AchievementSets": [
     {
       "ID": "96ddppi",
       "IsBase": true,
-      "Progressed": 2292,
+      "Progressed": 2461,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-21T13:58:02.2976646+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:44.3145952+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:28.3698877+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:34.2485794+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:14.6810489+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:04.5711704+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:28.3698943+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:55.6705443+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:34.2485868+00:00"
 }

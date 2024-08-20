@@ -6,39 +6,39 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 47.00% | ~1,325 |
-| Grenadier | 46.00% | ~1,297 |
-| War Never Changes | 46.00% | ~1,297 |
-| Heroes Never Die | 44.00% | ~1,240 |
-| Mosquito bite | 38.00% | ~1,071 |
-| Spice It Up | 33.00% | ~930 |
-| Agent 47 | 28.00% | ~789 |
-| You're Gonna Go Far, Kid | 27.00% | ~761 |
-| Bomberman | 27.00% | ~761 |
-| Death to the Oppressor! | 20.00% | ~564 |
-| The Gang's All Here | 17.00% | ~479 |
-| Your Answer | 16.00% | ~451 |
-| One by One | 15.00% | ~423 |
-| The Big Bertha | 14.00% | ~395 |
-| Game Over | 12.00% | ~338 |
-| Lock, Stock | 8.00% | ~226 |
-| Payback Time | 8.00% | ~226 |
-| No Witness | 5.00% | ~141 |
-| Strategist | 5.00% | ~141 |
+| E1M1 | 47.00% | ~1,335 |
+| Grenadier | 46.00% | ~1,307 |
+| War Never Changes | 46.00% | ~1,307 |
+| Heroes Never Die | 44.00% | ~1,250 |
+| Mosquito bite | 38.00% | ~1,080 |
+| Spice It Up | 34.00% | ~966 |
+| Agent 47 | 28.00% | ~795 |
+| You're Gonna Go Far, Kid | 27.00% | ~767 |
+| Bomberman | 27.00% | ~767 |
+| Death to the Oppressor! | 20.00% | ~568 |
+| The Gang's All Here | 17.00% | ~483 |
+| Your Answer | 16.00% | ~455 |
+| One by One | 15.00% | ~426 |
+| The Big Bertha | 14.00% | ~398 |
+| Game Over | 12.00% | ~341 |
+| Lock, Stock | 8.00% | ~227 |
+| Payback Time | 8.00% | ~227 |
+| No Witness | 5.00% | ~142 |
+| Strategist | 5.00% | ~142 |
 | Unbreakable Wall | 3.00% | ~85 |
-| Do a Barrel Roll! | 2.00% | ~56 |
+| Do a Barrel Roll! | 2.00% | ~57 |
 | Experienced Strategist | 1.00% | ~28 |
 | How?! | 1.00% | ~28 |
 | Tough as Nails | 0.50% | ~14 |
 | Commandos | 0.40% | ~11 |
-| A Little Culture | 0.30% | ~8 |
-| We Weren't There | 0.30% | ~8 |
+| A Little Culture | 0.30% | ~9 |
+| We Weren't There | 0.30% | ~9 |
 | Inspector General | 0.20% | ~6 |
 | Defense of Steel | 0.20% | ~6 |
 | Scout | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,819 (Ranked 323)  
-Completed: 5 (0.18%) (Ranked 396)  
+Progressed: 2,841 (Ranked 326)  
+Completed: 5 (0.18%) (Ranked 401)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -301,6 +301,7 @@ Completed: 5 (0.18%) (Ranked 396)
 | 2024-04-10 | 2,357 | 2 |
 | 2024-06-17 | 2,684 | 4 |
 | 2024-08-09 | 2,819 | 5 |
+| 2024-08-20 | 2,841 | 5 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

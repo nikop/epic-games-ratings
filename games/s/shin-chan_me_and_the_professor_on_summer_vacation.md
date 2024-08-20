@@ -51,8 +51,8 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 771)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 49 (Ranked 776)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

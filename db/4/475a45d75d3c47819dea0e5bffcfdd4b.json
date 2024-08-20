@@ -2,10 +2,10 @@
   "ID": "475a45d75d3c47819dea0e5bffcfdd4b",
   "Name": "Shrimp.io",
   "ProductSlug": "shrimpio-5cb655",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-21T15:00:00+00:00",
     "PcReleaseDate": "2024-02-12T18:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-03-21T22:00:08.5222673+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:05.5454174+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:25.8267171+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:16.3254344+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:59.8887043+00:00"
 }

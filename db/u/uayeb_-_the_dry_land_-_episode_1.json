@@ -2,10 +2,10 @@
   "ID": "8556738123a94753829b0588bf504c74",
   "Name": "UAYEB - The Dry Land - Episode 1",
   "ProductSlug": "uayeb-the-dry-land-episode-1-d17f05",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-03T00:00:00+00:00",
     "PcReleaseDate": "2018-01-30T23:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T13:10:04.0812063+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:17.6657743+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:55.2493213+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:55.2893457+00:00"
 }

@@ -25,3 +25,10 @@
 | Welcome Recrute! | 0.00% | ~0 |
 | Wheel Wrecker | 0.00% | ~0 |
 | Motor Wizard | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 3 (Ranked 1,033)  
+Completed: 0 (0.00%) (Ranked 561)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-08-20 | 3 | 0 |

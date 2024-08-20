@@ -2,10 +2,10 @@
   "ID": "ccd6a64f13f64c37a00d6160331cdecd",
   "Name": "Eden\u0027s Lair",
   "ProductSlug": "edens-lair-47fafa",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-26T22:00:00+00:00",
     "PcReleaseDate": "2024-04-22T22:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T11:57:27.2509165+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:14.1319552+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:08.0369605+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:02.295951+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:45.684355+00:00"
 }

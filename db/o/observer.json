@@ -2,10 +2,10 @@
   "ID": "85398892cc4544088ee87c673f95bb6f",
   "Name": "\u003Eobserver_",
   "ProductSlug": "observer/home",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T09:57:41.3258976+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:12.9521682+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:07.8920654+00:00"
+  "LastUpdate_Ratings": "2024-08-20T20:00:02.7733842+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:20.6184039+00:00"
 }

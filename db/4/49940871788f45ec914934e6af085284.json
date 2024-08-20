@@ -2,10 +2,10 @@
   "ID": "49940871788f45ec914934e6af085284",
   "Name": "Alphadia I \u0026 II",
   "ProductSlug": "alphadia-i-and-ii-87391f",
-  "Ranking_EOS_Progress": 1037,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 988,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-08T00:00:00+00:00",
     "PcReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:06:46.2709738+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:22.6016945+00:00",
+      "NumProgressed": 6,
       "NumCompleted": 0
     }
   ],
@@ -43,9 +48,9 @@
       "ID": "1",
       "SetID": "5e0j1a9",
       "Name": "Sudden Beginning",
-      "Percentage": 0,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "10",
@@ -131,9 +136,9 @@
       "ID": "2",
       "SetID": "5e0j1a9",
       "Name": "Hasty Departure",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "20",
@@ -219,9 +224,9 @@
       "ID": "3",
       "SetID": "5e0j1a9",
       "Name": "With the New Companions",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "30",
@@ -275,9 +280,9 @@
       "ID": "4",
       "SetID": "5e0j1a9",
       "Name": "More Days of Escaping",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
@@ -324,13 +329,13 @@
     {
       "ID": "5e0j1a9",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-25T15:01:36.1593468+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:46.2709734+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:22.6016941+00:00",
   "LastUpdate_AppInfo": "2024-08-15T19:57:23.5975283+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:41.107661+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:46.2710005+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:00.3911917+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:22.6017182+00:00"
 }

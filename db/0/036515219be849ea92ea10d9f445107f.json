@@ -2,10 +2,10 @@
   "ID": "036515219be849ea92ea10d9f445107f",
   "Name": "Asdivine Saga",
   "ProductSlug": "asdivine-saga-5fdefe",
-  "Ranking_EOS_Progress": 976,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 979,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-01T00:00:00+00:00",
     "PcReleaseDate": "2021-09-29T15:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:06:22.5127708+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:43.3081594+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -45,7 +50,7 @@
       "Name": "Ill Omen",
       "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "10",
@@ -131,9 +136,9 @@
       "ID": "2",
       "SetID": "7l35b3",
       "Name": "First Companion",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "20",
@@ -316,13 +321,13 @@
     {
       "ID": "7l35b3",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-09T22:02:44.8619048+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:22.5127705+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:43.3081589+00:00",
   "LastUpdate_AppInfo": "2024-08-15T19:57:23.5960116+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:40.726727+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.5127957+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:00.137078+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:43.308176+00:00"
 }

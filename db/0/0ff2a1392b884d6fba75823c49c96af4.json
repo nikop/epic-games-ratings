@@ -2,10 +2,10 @@
   "ID": "0ff2a1392b884d6fba75823c49c96af4",
   "Name": "Garden Witch Life",
   "ProductSlug": "garden-witch-life-f4c4b3",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-11-08T12:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:07:48.974838+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:55.626384+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:23.1310744+00:00",
   "LastUpdate_AppInfo": "2024-08-16T15:57:33.6949089+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:52.0784802+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:55.6263875+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:23.1310774+00:00"
 }

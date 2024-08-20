@@ -2,10 +2,10 @@
   "ID": "5896d071f8c544e39aef05706c15fc11",
   "Name": "Mirror Of Darkness",
   "ProductSlug": "mirror-of-darkness-8ad368",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T20:57:16.5496786+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:29.756229+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:35.7843173+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:05.3486234+00:00"
 }

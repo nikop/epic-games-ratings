@@ -2,10 +2,10 @@
   "ID": "d6f114b7af6644d482cf4232cca775cc",
   "Name": "Deal With The Devil: Chapter 1",
   "ProductSlug": "deal-with-the-devil-6bbcd3",
-  "Ranking_EOS_Progress": 1085,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1049,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:07:44.05534+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:01.3947249+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -43,17 +48,17 @@
       "ID": "Ajatar",
       "SetID": "ad9lmfo",
       "Name": "Ajatar",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Cerberus",
       "SetID": "ad9lmfo",
       "Name": "Cerberus",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DaughterOfPain",
@@ -67,25 +72,25 @@
       "ID": "DaughterOfVellamo",
       "SetID": "ad9lmfo",
       "Name": "DaughterOfVellamo",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Hades",
       "SetID": "ad9lmfo",
       "Name": "Hades",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Hiisi",
       "SetID": "ad9lmfo",
       "Name": "Hiisi",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Loviatar",
@@ -107,9 +112,9 @@
       "ID": "MaidenOfTuoni",
       "SetID": "ad9lmfo",
       "Name": "MaidenOfTuoni",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MistressOfTuonela",
@@ -131,33 +136,33 @@
       "ID": "SonOfCerberus",
       "SetID": "ad9lmfo",
       "Name": "SonOfCerberus",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Surma",
       "SetID": "ad9lmfo",
       "Name": "Surma",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SurmasDaughter",
       "SetID": "ad9lmfo",
       "Name": "SurmasDaughter",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 65,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Troll",
       "SetID": "ad9lmfo",
       "Name": "Trolls",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tuoni",
@@ -172,13 +177,13 @@
     {
       "ID": "ad9lmfo",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:10.9857557+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:44.0553394+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:01.3947244+00:00",
   "LastUpdate_AppInfo": "2024-08-14T10:57:15.8718945+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:08.2853939+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:44.0560481+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:01.3947332+00:00"
 }

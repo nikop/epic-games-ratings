@@ -2,10 +2,10 @@
   "ID": "665e6a3aa3c046ceaa6500638889b4ee",
   "Name": "Vacation Adventures Park Ranger 9 Collectors Edition",
   "ProductSlug": "vacation-adventures-park-ranger-9-collectors-edition-bc3998",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-04T07:00:00+00:00",
     "PcReleaseDate": "2019-05-11T07:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-04-08T16:00:37.5657955+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:23.2821989+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:30.8862581+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:14.5623724+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:56.6529939+00:00"
 }

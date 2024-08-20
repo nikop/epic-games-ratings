@@ -2,13 +2,13 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 555,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 417,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-12T16:21:58.13+00:00",
     "PcReleaseDate": "2024-07-10T16:00:00+00:00",
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-07-19T16:58:57.1679558+00:00",
@@ -696,10 +696,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 415,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-08-20T19:59:04.0024401+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 417,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 415,
+  "NumberOfAwards": 417,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -737,7 +743,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 36
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Characters",
@@ -776,8 +782,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-08-20T16:57:47.4400226+00:00",
+  "LastChanged": "2024-08-20T19:59:04.0024398+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:13.2685227+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:17.6666474+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:43.2177431+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:04.0024407+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }

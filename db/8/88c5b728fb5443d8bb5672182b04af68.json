@@ -2,10 +2,10 @@
   "ID": "88c5b728fb5443d8bb5672182b04af68",
   "Name": "Crown of the Empire 2: Around the World Collectors Edition",
   "ProductSlug": "crown-of-the-empire-2-around-the-world-699782",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-21T21:00:00+00:00",
     "PcReleaseDate": "2020-04-14T21:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2023-12-26T21:00:17.6386104+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:00.4181073+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:46.8751619+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:00.2495359+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:05.162417+00:00"
 }

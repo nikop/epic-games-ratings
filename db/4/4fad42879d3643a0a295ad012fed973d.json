@@ -2,10 +2,10 @@
   "ID": "4fad42879d3643a0a295ad012fed973d",
   "Name": "Ex Natura Nature Corrupted",
   "ProductSlug": "ex-natura-nature-corrupted-d92548",
-  "Ranking_EOS_Progress": 574,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-20T17:30:00+00:00",
     "PcReleaseDate": "2023-07-19T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
     {
       "Time": "2024-08-09T18:07:29.9867394+00:00",
       "NumProgressed": 208,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:37.0296495+00:00",
+      "NumProgressed": 210,
       "NumCompleted": 0
     }
   ],
@@ -197,14 +202,14 @@
     {
       "ID": "cjc5n7b",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 210,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-02-23T12:59:46.8839121+00:00",
   "FirstSeenAchievements": "2024-01-17T15:03:59.363264+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:29.9867391+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:37.029649+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:28.0847269+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:36.1751648+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:29.9867478+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:37.0296587+00:00"
 }

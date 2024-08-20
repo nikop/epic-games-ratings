@@ -153,8 +153,8 @@
 | To Whom Belong The Sky | 0.00% | ~0 |
 | Trouble in Aberdonia | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 838)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 27 (Ranked 843)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

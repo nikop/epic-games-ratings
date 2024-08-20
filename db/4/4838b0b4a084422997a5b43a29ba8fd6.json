@@ -2,10 +2,10 @@
   "ID": "4838b0b4a084422997a5b43a29ba8fd6",
   "Name": "Feverdream: Rainbow Chaser",
   "ProductSlug": "feverdream-8873c7",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T20:57:18.1594127+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:28.0647318+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:16.0386872+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:11.6158249+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:33.2727341+00:00"
 }

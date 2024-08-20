@@ -6,22 +6,22 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 22.00% | ~429 |
-| Me and My Familiar | 21.00% | ~409 |
-| This Too Shall Pass | 17.00% | ~331 |
-| Cutthroat Competitors | 17.00% | ~331 |
-| Daybreak | 17.00% | ~331 |
-| Passing Shadow | 16.00% | ~312 |
-| Gotta Ca... Must Collect All of Them | 15.00% | ~292 |
-| How Romantic! | 15.00% | ~292 |
-| Completing the Look | 9.00% | ~175 |
-| A Mythic Menagerie | 8.00% | ~156 |
-| War Endured | 8.00% | ~156 |
-| Core Failure | 8.00% | ~156 |
-| Who's Counting? | 7.00% | ~136 |
-| Pyrrhic Victory | 7.00% | ~136 |
-| Thematic Divergence | 6.00% | ~117 |
-| Echoes Die | 6.00% | ~117 |
+| The Cost of Heroism | 23.00% | ~451 |
+| Me and My Familiar | 21.00% | ~412 |
+| Cutthroat Competitors | 18.00% | ~353 |
+| Passing Shadow | 17.00% | ~334 |
+| This Too Shall Pass | 17.00% | ~334 |
+| Daybreak | 17.00% | ~334 |
+| How Romantic! | 16.00% | ~314 |
+| Gotta Ca... Must Collect All of Them | 15.00% | ~294 |
+| Completing the Look | 9.00% | ~177 |
+| War Endured | 9.00% | ~177 |
+| A Mythic Menagerie | 8.00% | ~157 |
+| Who's Counting? | 8.00% | ~157 |
+| Core Failure | 8.00% | ~157 |
+| Pyrrhic Victory | 7.00% | ~137 |
+| Thematic Divergence | 6.00% | ~118 |
+| Echoes Die | 6.00% | ~118 |
 | Let Me Get My Chisel | 4.00% | ~78 |
 | Plague Doctor | 4.00% | ~78 |
 | Chain Reaction | 4.00% | ~78 |
@@ -29,15 +29,15 @@ Number of Ratings: 45  (23.09.2022)
 | Another Tale to Tell | 4.00% | ~78 |
 | A Story of Heroes | 4.00% | ~78 |
 | Turncoat | 4.00% | ~78 |
-| We Emerge Changed | 3.00% | ~58 |
-| Legends Never Die | 3.00% | ~58 |
-| In Soil, In Smoke | 3.00% | ~58 |
-| Wingknight's Prowess | 3.00% | ~58 |
-| All My Birds, Safely Home | 3.00% | ~58 |
-| Bears are Scary | 3.00% | ~58 |
-| No Time for Clawmonsters | 3.00% | ~58 |
+| We Emerge Changed | 3.00% | ~59 |
+| Worldwalker | 3.00% | ~59 |
+| Legends Never Die | 3.00% | ~59 |
+| In Soil, In Smoke | 3.00% | ~59 |
+| Wingknight's Prowess | 3.00% | ~59 |
+| All My Birds, Safely Home | 3.00% | ~59 |
+| Bears are Scary | 3.00% | ~59 |
+| No Time for Clawmonsters | 3.00% | ~59 |
 | Storied Past | 2.00% | ~39 |
-| Worldwalker | 2.00% | ~39 |
 | Empty the Caves | 2.00% | ~39 |
 | Drauvenslayers | 2.00% | ~39 |
 | Back into the Sea | 2.00% | ~39 |
@@ -52,57 +52,57 @@ Number of Ratings: 45  (23.09.2022)
 | Astrology | 2.00% | ~39 |
 | Tempest | 2.00% | ~39 |
 | Lochias's Hunger | 2.00% | ~39 |
-| The Power of Friendship | 1.00% | ~19 |
-| War-Ender | 1.00% | ~19 |
-| Solid as the Hills | 1.00% | ~19 |
-| Symbiosis | 1.00% | ~19 |
-| Thwack! | 1.00% | ~19 |
+| The Power of Friendship | 1.00% | ~20 |
+| War-Ender | 1.00% | ~20 |
+| Solid as the Hills | 1.00% | ~20 |
+| Symbiosis | 1.00% | ~20 |
+| Thwack! | 1.00% | ~20 |
+| Neverbefore | 0.90% | ~2 |
 | A Temperamental Shrub | 0.80% | ~16 |
-| Neverbefore | 0.80% | ~2 |
+| The Gardener | 0.80% | ~2 |
+| Admiral of the Air | 0.80% | ~2 |
+| Outset | 0.80% | ~2 |
 | A Lowly Crust of Beef | 0.70% | ~14 |
+| Malthides, Brute Toxinist | 0.70% | ~1 |
 | Luthin the Mirrormaster | 0.70% | ~1 |
-| The Gardener | 0.70% | ~1 |
+| Gracnaw's Dragon | 0.70% | ~1 |
+| The Horn Grownup | 0.70% | ~1 |
 | The Umbercryst Martyr | 0.70% | ~1 |
 | The Riftspore Apostle | 0.70% | ~1 |
-| Admiral of the Air | 0.70% | ~1 |
+| Symbiotic Advisor | 0.70% | ~1 |
 | King Carrion | 0.70% | ~1 |
-| Outset | 0.70% | ~1 |
+| The Relentless | 0.70% | ~1 |
 | The Monstrous | 0.70% | ~1 |
 | Overwhelming Monstrosity | 0.60% | ~12 |
 | We Call That Mortificient! | 0.60% | ~12 |
-| Malthides, Brute Toxinist | 0.60% | ~1 |
 | Uur, Ancient Amalgam | 0.60% | ~1 |
 | Head Chef | 0.60% | ~1 |
-| Gracnaw's Dragon | 0.60% | ~1 |
 | Granny Gloomfire | 0.60% | ~1 |
-| The Horn Grownup | 0.60% | ~1 |
 | Party Wagon | 0.60% | ~1 |
 | Starwing | 0.60% | ~1 |
-| Symbiotic Advisor | 0.60% | ~1 |
 | The Twins | 0.60% | ~1 |
-| The Relentless | 0.60% | ~1 |
+| The Lethal | 0.60% | ~1 |
+| The Collector | 0.60% | ~1 |
 | The Shredder | 0.60% | ~1 |
 | Peacemaker | 0.50% | ~10 |
 | Bogmother | 0.50% | ~1 |
+| The Glorysword Clayn | 0.50% | ~1 |
 | Ollend the Abductor | 0.50% | ~1 |
 | The Doorman | 0.50% | ~1 |
 | The Unscathed | 0.50% | ~1 |
-| The Lethal | 0.50% | ~1 |
+| The Bulwark | 0.50% | ~1 |
 | Pathbeater | 0.50% | ~1 |
-| The Collector | 0.50% | ~1 |
-| The Glorysword Clayn | 0.40% | ~1 |
-| The Bulwark | 0.40% | ~1 |
-| The Virulent | 0.40% | ~1 |
-| The Hurricane | 0.30% | ~1 |
+| The Virulent | 0.50% | ~1 |
+| The Hurricane | 0.40% | ~1 |
 | Making Tracks | 0.30% | ~1 |
+| The Artist | 0.30% | ~1 |
 | Seasoned Traveler | 0.20% | ~0 |
-| The Artist | 0.20% | ~0 |
 | The Hardy | 0.20% | ~0 |
 | The Survivor | 0.10% | ~0 |
 | Waymaster | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,949 (Ranked 355)  
-Completed: 9 (0.46%) (Ranked 331)  
+Progressed: 1,962 (Ranked 358)  
+Completed: 9 (0.46%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,6 +329,7 @@ Completed: 9 (0.46%) (Ranked 331)
 | 2024-04-10 | 1,708 | 7 |
 | 2024-06-17 | 1,884 | 8 |
 | 2024-08-09 | 1,949 | 9 |
+| 2024-08-20 | 1,962 | 9 |
 ## Awards
 Max (Character Customization): 35  (Ranked 598)  
 Sum: 35 (Ranked 639)  

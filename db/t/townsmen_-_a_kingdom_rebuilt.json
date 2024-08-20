@@ -5,10 +5,10 @@
   "Ranking_Rating": 975,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 442,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Completed": 447,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -2404,9 +2404,9 @@
       "ID": "ACHIEVEMENT_JEWELS3",
       "SetID": "9eacipp",
       "Name": "My precious... III",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_LASTMANSTANDING",
@@ -2436,9 +2436,9 @@
       "ID": "ACHIEVEMENT_PLAGEAFFLICTED1",
       "SetID": "9eacipp",
       "Name": "Plague strikes!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_POPULATION1",
@@ -2548,9 +2548,9 @@
       "ID": "ACHIEVEMENT_REPAIR2",
       "SetID": "9eacipp",
       "Name": "Full-time job II",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 424
     },
     {
       "ID": "ACHIEVEMENT_REPAIR3",
@@ -2564,9 +2564,9 @@
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
       "SetID": "9eacipp",
       "Name": "Eureka!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 848
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED2",
@@ -2596,9 +2596,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_ATALEOFTWOCLANS",
       "SetID": "9eacipp",
       "Name": "Reunification",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 94
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_AVALANCHE",
@@ -2852,9 +2852,9 @@
       "ID": "ACHIEVEMENT_SERVE_PROTECT",
       "SetID": "9eacipp",
       "Name": "To serve and protect",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_TAXES1",
@@ -2972,9 +2972,9 @@
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
       "SetID": "9eacipp",
       "Name": "Friends from the past",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 659
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION03",
@@ -3028,8 +3028,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2024-07-31T21:00:26.9095296+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:56.7938249+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:57.6909055+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:34.3657335+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:29.5709711+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:56.7939188+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:11.8042107+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:57.6910196+00:00"
 }

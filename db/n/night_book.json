@@ -2,10 +2,10 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 468,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Completed": 193,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 491,
+  "EOS_Progressed": 494,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.24,
+  "EOS_Completed_Percentage": 2.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -821,6 +821,11 @@
       "Time": "2024-08-09T18:06:00.6125472+00:00",
       "NumProgressed": 491,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-08-20T20:10:05.7939884+00:00",
+      "NumProgressed": 494,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 17,
@@ -832,7 +837,7 @@
       "Name": "A Little Extra",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "career_woman",
@@ -840,7 +845,7 @@
       "Name": "Career Woman",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 329
+      "UsersEstimate": 331
     },
     {
       "ID": "deal_or_no_deal",
@@ -848,7 +853,7 @@
       "Name": "Deal Or No Deal",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 255
+      "UsersEstimate": 257
     },
     {
       "ID": "hopeful",
@@ -862,9 +867,9 @@
       "ID": "horrific",
       "SetID": "a3kkelb",
       "Name": "Horrific",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "impress_theron",
@@ -872,7 +877,7 @@
       "Name": "Impress Theron",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "marriage_is_off",
@@ -886,9 +891,9 @@
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 321
     },
     {
       "ID": "off_his_meds",
@@ -896,7 +901,7 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "on_your_bike",
@@ -920,7 +925,7 @@
       "Name": "Personal Life",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "save_dad",
@@ -928,7 +933,7 @@
       "Name": "Save Dad",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "shady_truth",
@@ -942,17 +947,17 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "use_your_connections",
       "SetID": "a3kkelb",
       "Name": "Use Your Connections",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "will_this_help",
@@ -960,14 +965,14 @@
       "Name": "Will This Help?",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 385
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 491,
+      "Progressed": 494,
       "Completed": 11
     }
   ],
@@ -975,8 +980,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:00.6125469+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:05.793988+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:13.9124334+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:24.1578725+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:00.6125593+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:05.7940004+00:00"
 }

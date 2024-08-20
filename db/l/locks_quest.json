@@ -2,10 +2,10 @@
   "ID": "fa113c7861d44e45a2670a8e153993fe",
   "Name": "Locks Quest",
   "ProductSlug": "locks-quest-befcf1",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2008-09-07T22:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:20.9689847+00:00",
   "LastChanged": "2023-03-31T05:58:20.9689848+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:39.8159865+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:09.3644461+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:59.546822+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:20.3800118+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 957,
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 508,
-  "Ranking_EOS_Progress": 343,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 341,
+  "Ranking_EOS_Completed": 483,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 92,
   "Store": {
     "ReleaseDate": "2021-05-25T17:00:00+00:00",
     "PcReleaseDate": "2021-05-25T17:00:00+00:00",
@@ -721,11 +721,11 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 2242,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 2348,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 106,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:09:39.2016574+00:00",
@@ -741,6 +741,11 @@
       "Time": "2024-08-09T18:06:55.0059945+00:00",
       "NumProgressed": 2242,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:36.571618+00:00",
+      "NumProgressed": 2348,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-06-17T16:09:39.2016597+00:00",
@@ -751,9 +756,9 @@
       "ID": "ACH_ADVENTURER",
       "SetID": "d863jga",
       "Name": "Adventurer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_ANGLER",
@@ -769,23 +774,23 @@
       "Name": "Bagman",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_BUGOLOGIST",
       "SetID": "d863jga",
       "Name": "Bugologist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CONQUEST",
       "SetID": "d863jga",
       "Name": "Conquest",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_CONSCIOUS",
@@ -793,23 +798,23 @@
       "Name": "Conscious",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_DNA_OVERLOAD",
       "SetID": "d863jga",
       "Name": "DNA Overload",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_ELECTRIFIED",
       "SetID": "d863jga",
       "Name": "Electrified",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ELEMENTARY",
@@ -817,7 +822,7 @@
       "Name": "Elementary",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_END_OF_THE_RAINBOW",
@@ -825,7 +830,7 @@
       "Name": "End of the Rainbow",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_EYE_ON_THE_ROAD",
@@ -833,15 +838,15 @@
       "Name": "Eye on the Road",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_FLAP_FLAP",
       "SetID": "d863jga",
       "Name": "Flap-flap",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_GUMSHOW",
@@ -849,7 +854,7 @@
       "Name": "Gumshow",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_HACK_N_SLASH",
@@ -857,7 +862,7 @@
       "Name": "Hack n\u0027 Slash",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_HAMMERTIME",
@@ -865,7 +870,7 @@
       "Name": "Hammertime",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_HEAVY_METAL",
@@ -873,7 +878,7 @@
       "Name": "Heavy Metal",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_IN_THE_GREEN",
@@ -881,7 +886,7 @@
       "Name": "In the Green",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_KNEEL",
@@ -889,7 +894,7 @@
       "Name": "Kneel",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_KNOCKOUT",
@@ -897,15 +902,15 @@
       "Name": "Knockout!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_MARINER",
       "SetID": "d863jga",
       "Name": "Mariner",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_MAX_GAINS",
@@ -913,7 +918,7 @@
       "Name": "Max Gains",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_NAUTICA",
@@ -921,7 +926,7 @@
       "Name": "Nautica",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_OLD_WORLD_RELICS",
@@ -929,7 +934,7 @@
       "Name": "Old World Gadgets",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_PARAGON",
@@ -937,7 +942,7 @@
       "Name": "Paragon",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_PEW_PEW",
@@ -945,7 +950,7 @@
       "Name": "Pew Pew!",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_QUACK",
@@ -961,7 +966,7 @@
       "Name": "Riding the wave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_RODEO",
@@ -969,7 +974,7 @@
       "Name": "Rodeo",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 404
+      "UsersEstimate": 423
     },
     {
       "ID": "ACH_SHOWOFF",
@@ -977,7 +982,7 @@
       "Name": "Show-off",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_SNACK_TIME",
@@ -985,15 +990,15 @@
       "Name": "Snack-time",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_SOCIAL",
       "SetID": "d863jga",
       "Name": "Social",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_SPECIALIZED",
@@ -1001,7 +1006,7 @@
       "Name": "Specialized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_SPROING",
@@ -1009,7 +1014,7 @@
       "Name": "Sproing!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_STARSTRUCK",
@@ -1017,7 +1022,7 @@
       "Name": "Starstruck",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_STICK_IT_TO_THEM",
@@ -1033,15 +1038,15 @@
       "Name": "Tar-up",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_THATS_MINE",
       "SetID": "d863jga",
       "Name": "That\u0027s Mine!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_THE_ADVENTURE_BEGINS",
@@ -1049,7 +1054,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_THE_DRAGON",
@@ -1057,7 +1062,7 @@
       "Name": "The Dragon",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 112
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_THUGS",
@@ -1065,7 +1070,7 @@
       "Name": "Thugs",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_TOYTINKERER",
@@ -1073,7 +1078,7 @@
       "Name": "Toytinkerer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_TREK",
@@ -1081,7 +1086,7 @@
       "Name": "Trek",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_TWINKLE_TWINKLE",
@@ -1089,7 +1094,7 @@
       "Name": "Twinkle Twinkle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_UNDER_THE_TABLE",
@@ -1097,7 +1102,7 @@
       "Name": "Under the Table",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_WUNGFU_MASTER",
@@ -1105,30 +1110,30 @@
       "Name": "Wung-fu Master",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_ZOO_DO",
       "SetID": "d863jga",
       "Name": "Zoo-do",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "d863jga",
       "IsBase": true,
-      "Progressed": 2242,
-      "Completed": 0
+      "Progressed": 2348,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
   "FirstSeenAchievements": "2023-11-30T12:05:23.2186094+00:00",
   "LastChanged": "2024-08-18T19:58:54.7495371+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:55.0059942+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:36.5716174+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:46.5139958+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:50.027023+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:55.0060181+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:43.2934243+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:36.5716465+00:00"
 }

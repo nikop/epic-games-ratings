@@ -2,10 +2,10 @@
   "ID": "5acc75e4b0834de092d01f27cbde1060",
   "Name": "Detained: Too Good for School",
   "ProductSlug": "detained-too-good-for-school-70510a",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T13:57:39.7218028+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:23.7091257+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:23.2265962+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:44.413388+00:00"
 }

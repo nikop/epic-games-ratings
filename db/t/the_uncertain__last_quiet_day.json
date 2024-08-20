@@ -5,10 +5,10 @@
   "Ranking_Rating": 1249,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 428,
-  "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -41,11 +41,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 761,
-  "EOS_Completed": 20,
-  "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Progressed": 764,
+  "EOS_Completed": 22,
+  "EOS_NewPlayers": 3,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -1241,6 +1241,11 @@
       "Time": "2024-08-09T18:04:48.8822114+00:00",
       "NumProgressed": 761,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-08-20T20:07:45.5768975+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 32,
@@ -1250,9 +1255,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 122
     },
     {
       "ID": "ANNOYING",
@@ -1260,7 +1265,7 @@
       "Name": "Annoying",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "BLADE_RUNNER",
@@ -1274,9 +1279,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 441
+      "UsersEstimate": 451
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1292,15 +1297,15 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "EVERYBODY_LIES",
       "SetID": "2iigf77",
       "Name": "Everybody lies",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 275
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -1308,7 +1313,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FOUND_IT",
@@ -1316,7 +1321,7 @@
       "Name": "Found it!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "GOODY",
@@ -1330,17 +1335,17 @@
       "ID": "HACKER",
       "SetID": "2iigf77",
       "Name": "Hacker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 145
     },
     {
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 397
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1348,23 +1353,23 @@
       "Name": "Trick or Treat?",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
       "SetID": "2iigf77",
       "Name": "He is just a child",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 145
     },
     {
       "ID": "HIPSTER",
       "SetID": "2iigf77",
       "Name": "Hipster",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 115
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -1372,7 +1377,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "LUCKY_DOG",
@@ -1380,7 +1385,7 @@
       "Name": "Lucky dog",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "METICULOUS",
@@ -1396,7 +1401,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -1404,7 +1409,7 @@
       "Name": "Not what it seems",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -1412,7 +1417,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1434,17 +1439,17 @@
       "ID": "POOL",
       "SetID": "2iigf77",
       "Name": "Accurate",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 38
     },
     {
       "ID": "QUICK_CHARGE",
       "SetID": "2iigf77",
       "Name": "Quick charge",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 451
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1452,7 +1457,7 @@
       "Name": "Short circuit",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 390
     },
     {
       "ID": "SILENT",
@@ -1460,23 +1465,23 @@
       "Name": "Silent",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SYSADMIN",
       "SetID": "2iigf77",
       "Name": "Sysadmin",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 168
     },
     {
       "ID": "THAT_IS_MUCH_BETTER",
       "SetID": "2iigf77",
       "Name": "That\u0027s much better!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 115
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -1490,33 +1495,33 @@
       "ID": "UNCERTAIN",
       "SetID": "2iigf77",
       "Name": "Uncertain",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 138
     },
     {
       "ID": "WALKING_ROBOT",
       "SetID": "2iigf77",
       "Name": "The Walking Robot Among Us",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 761,
-      "Completed": 20
+      "Progressed": 764,
+      "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:33:10.5332764+00:00",
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:48.882211+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:45.5768972+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:32.9368941+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:23.2479198+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:48.8822386+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:07.650118+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:45.5769207+00:00"
 }

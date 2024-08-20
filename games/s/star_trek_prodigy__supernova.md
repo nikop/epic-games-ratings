@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 55.00% | ~18 |
-| Three Watchers, Two Phasers | 30.00% | ~10 |
-| Guess who's back | 30.00% | ~10 |
-| One for the Crew | 27.00% | ~9 |
-| The Clock is Ticking | 27.00% | ~9 |
-| A Helping Hand | 27.00% | ~9 |
+| Restoring the Protostar | 53.00% | ~18 |
+| Three Watchers, Two Phasers | 29.00% | ~10 |
+| Guess who's back | 29.00% | ~10 |
+| One for the Crew | 26.00% | ~9 |
+| The Clock is Ticking | 26.00% | ~9 |
+| A Helping Hand | 26.00% | ~9 |
 | I've Got You | 21.00% | ~7 |
 | Punny Lover | 15.00% | ~5 |
 | Up your Arsenal | 12.00% | ~4 |
@@ -46,8 +46,8 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 814)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 34 (Ranked 816)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -68,6 +68,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 22 | 0 |
 | 2024-06-17 | 28 | 0 |
 | 2024-08-09 | 33 | 0 |
+| 2024-08-20 | 34 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

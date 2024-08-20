@@ -5,10 +5,10 @@
   "Ranking_Rating": 722,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-10T16:51:00+00:00",
     "PcReleaseDate": "2022-05-10T16:51:00+00:00",
@@ -1024,9 +1024,9 @@
       "ID": "ACHIEVEMENT009",
       "SetID": "dejhjd5",
       "Name": "The Road to Recovery",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 551
     },
     {
       "ID": "ACHIEVEMENT010",
@@ -1048,9 +1048,9 @@
       "ID": "ACHIEVEMENT012",
       "SetID": "dejhjd5",
       "Name": "The Go-To Girl",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT013",
@@ -1072,9 +1072,9 @@
       "ID": "ACHIEVEMENT015",
       "SetID": "dejhjd5",
       "Name": "Scavenger\u0027s Honor",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT016",
@@ -1168,9 +1168,9 @@
       "ID": "ACHIEVEMENT027",
       "SetID": "dejhjd5",
       "Name": "Natural Born Monster-Killer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 325
     },
     {
       "ID": "ACHIEVEMENT028",
@@ -1200,9 +1200,9 @@
       "ID": "ACHIEVEMENT031",
       "SetID": "dejhjd5",
       "Name": "Accessorizer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 90
     },
     {
       "ID": "ACHIEVEMENT032",
@@ -1232,17 +1232,17 @@
       "ID": "ACHIEVEMENT035",
       "SetID": "dejhjd5",
       "Name": "First Time Fishing",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 452
     },
     {
       "ID": "ACHIEVEMENT036",
       "SetID": "dejhjd5",
       "Name": "First Time Hunting",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 434
     },
     {
       "ID": "ACHIEVEMENT037",
@@ -1368,8 +1368,8 @@
   "FirstSeen": "2022-07-22T20:32:53.8130911+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.6416166+00:00",
   "LastChanged": "2024-06-13T18:59:05.9132026+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:19.6003442+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:49.2407484+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:31.6329963+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:32.5185328+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:19.6003873+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:34.215788+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:49.2407815+00:00"
 }

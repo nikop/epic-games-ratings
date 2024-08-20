@@ -2,10 +2,10 @@
   "ID": "523d96a53f9a4fb996f7086e38696ca6",
   "Name": "Secrets of the Heartbeat",
   "ProductSlug": "the_ceos_girls-f8e234",
-  "Ranking_EOS_Progress": 550,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 554,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-07T07:00:00+00:00",
     "PcReleaseDate": "2024-06-07T07:00:00+00:00",
@@ -281,8 +281,8 @@
   ],
   "FirstSeen": "2024-06-08T02:23:59.328677+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:00.0075261+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:58.8863765+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:28.7601639+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:29.0340283+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:53.1284059+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:58.8863937+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:28.5840946+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:28.7601813+00:00"
 }

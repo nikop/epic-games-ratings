@@ -4,29 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Well-known | 0.00% | ~0 |
-| Renowned | 0.00% | ~0 |
-| Strong | 0.00% | ~0 |
-| Prosperous | 0.00% | ~0 |
-| Wealthy | 0.00% | ~0 |
-| Warrior | 0.00% | ~0 |
-| Excellent warrior | 0.00% | ~0 |
-| Citizen | 0.00% | ~0 |
-| Skilled | 0.00% | ~0 |
-| Gifted | 0.00% | ~0 |
-| Searcher | 0.00% | ~0 |
-| Mushroom-picker | 0.00% | ~0 |
-| Woodcutter | 0.00% | ~0 |
-| Fruiter | 0.00% | ~0 |
-| Farmer | 0.00% | ~0 |
-| Gatherer | 0.00% | ~0 |
-| Herbalist | 0.00% | ~0 |
-| Looter | 0.00% | ~0 |
-| Crayfisher | 0.00% | ~0 |
-| Dragonslayer | 0.00% | ~0 |
-| Frogman | 0.00% | ~0 |
-| Fisherman | 0.00% | ~0 |
-| Lucky fisherman | 0.00% | ~0 |
-| Caveman | 0.00% | ~0 |
-| Hunter | 0.00% | ~0 |
-| Hero | 0.00% | ~0 |
+| Skilled | 60.00% | ~3 |
+| Strong | 40.00% | ~2 |
+| Prosperous | 40.00% | ~2 |
+| Warrior | 40.00% | ~2 |
+| Citizen | 40.00% | ~2 |
+| Fruiter | 40.00% | ~2 |
+| Well-known | 20.00% | ~1 |
+| Renowned | 20.00% | ~1 |
+| Wealthy | 20.00% | ~1 |
+| Excellent warrior | 20.00% | ~1 |
+| Gifted | 20.00% | ~1 |
+| Searcher | 20.00% | ~1 |
+| Mushroom-picker | 20.00% | ~1 |
+| Woodcutter | 20.00% | ~1 |
+| Farmer | 20.00% | ~1 |
+| Gatherer | 20.00% | ~1 |
+| Herbalist | 20.00% | ~1 |
+| Looter | 20.00% | ~1 |
+| Crayfisher | 20.00% | ~1 |
+| Dragonslayer | 20.00% | ~1 |
+| Frogman | 20.00% | ~1 |
+| Fisherman | 20.00% | ~1 |
+| Lucky fisherman | 20.00% | ~1 |
+| Caveman | 20.00% | ~1 |
+| Hunter | 20.00% | ~1 |
+| Hero | 20.00% | ~1 |
+## Popularity (Based on EOS Achievements)
+Progressed: 5 (Ranked 1,001)  
+Completed: 1 (20.00%) (Ranked 38)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-08-20 | 5 | 1 |

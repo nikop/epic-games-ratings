@@ -2,10 +2,10 @@
   "ID": "3e6fbfed12a74b6c99f4353925b396bd",
   "Name": "Zen Chess: Mate in Three",
   "ProductSlug": "zen-chess-mate-in-three-461bff",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-04-30T20:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T18:57:18.1464495+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:23.1387064+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:28.2313867+00:00"
 }

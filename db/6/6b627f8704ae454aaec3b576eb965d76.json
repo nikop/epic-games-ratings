@@ -2,10 +2,10 @@
   "ID": "6b627f8704ae454aaec3b576eb965d76",
   "Name": "Evil Seal",
   "ProductSlug": "evil-seal-c8dea6",
-  "Ranking_EOS_Progress": 1085,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1099,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-13T06:32:32.214+00:00",
     "PcReleaseDate": "2024-04-07T23:00:00+00:00",
@@ -308,8 +308,8 @@
   ],
   "FirstSeen": "2024-04-26T07:59:54.1948608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:10.5958416+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:02.5893077+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:36.117417+00:00",
   "LastUpdate_AppInfo": "2024-08-17T13:57:18.0631599+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:41.2626091+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:02.5893272+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:36.1174353+00:00"
 }

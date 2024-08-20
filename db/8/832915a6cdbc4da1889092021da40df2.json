@@ -2,10 +2,10 @@
   "ID": "832915a6cdbc4da1889092021da40df2",
   "Name": "3D City: Metaverse",
   "ProductSlug": "3d-city-32fc13",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-01-23T21:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-24T05:58:03.9224052+00:00",
   "LastUpdate_AppInfo": "2024-08-16T15:57:33.9830011+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:49.8809283+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:45.4570916+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:26.4246127+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:37.3641053+00:00"
 }

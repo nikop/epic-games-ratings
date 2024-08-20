@@ -6,22 +6,22 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 68.00% | ~336 |
-| Cartographer | 61.00% | ~301 |
-| A Strange Artefact | 56.00% | ~277 |
-| Insomnia | 52.00% | ~257 |
-| Lost & Found & Lost Again | 44.00% | ~217 |
-| From Whence we Came | 44.00% | ~217 |
-| Fire and Flood | 43.00% | ~212 |
+| The Adventure Begins | 68.00% | ~337 |
+| Cartographer | 61.00% | ~303 |
+| A Strange Artefact | 56.00% | ~278 |
+| Insomnia | 52.00% | ~258 |
+| Lost & Found & Lost Again | 44.00% | ~218 |
+| From Whence we Came | 44.00% | ~218 |
+| Fire and Flood | 43.00% | ~213 |
 | Spooky! | 39.00% | ~193 |
-| Shennong Herbalist | 37.00% | ~183 |
-| Treasure Hunt | 37.00% | ~183 |
-| Good Mama | 34.00% | ~168 |
-| O Captain My Captain | 33.00% | ~163 |
-| Plunderer | 31.00% | ~153 |
-| Taxonomist | 29.00% | ~143 |
-| Traveller | 26.00% | ~128 |
-| Uncertain Loyalties | 26.00% | ~128 |
+| Shennong Herbalist | 37.00% | ~184 |
+| Treasure Hunt | 37.00% | ~184 |
+| Good Mama | 34.00% | ~169 |
+| O Captain My Captain | 33.00% | ~164 |
+| Plunderer | 31.00% | ~154 |
+| Taxonomist | 28.00% | ~139 |
+| Traveller | 26.00% | ~129 |
+| Uncertain Loyalties | 26.00% | ~129 |
 | Nahua Seeker | 25.00% | ~124 |
 | Roll to Save | 24.00% | ~119 |
 | Veteran Explorer | 23.00% | ~114 |
@@ -39,13 +39,13 @@ Number of Ratings: 20  (23.09.2022)
 | Discovery | 14.00% | ~69 |
 | Plays Well With Others | 14.00% | ~69 |
 | Very Classy | 14.00% | ~69 |
-| Under the Table | 12.00% | ~59 |
-| It's Complicated | 12.00% | ~59 |
-| Cold Blood, Warm Heart | 10.00% | ~49 |
-| SCHMETTERLING | 9.00% | ~44 |
-| No Laughing Matter | 9.00% | ~44 |
-| Level Up | 9.00% | ~44 |
-| Errand Runner | 9.00% | ~44 |
+| Under the Table | 12.00% | ~60 |
+| It's Complicated | 12.00% | ~60 |
+| SCHMETTERLING | 9.00% | ~45 |
+| No Laughing Matter | 9.00% | ~45 |
+| Level Up | 9.00% | ~45 |
+| Cold Blood, Warm Heart | 9.00% | ~45 |
+| Errand Runner | 9.00% | ~45 |
 | Zookeeper | 8.00% | ~40 |
 | The Great Library | 8.00% | ~40 |
 | The Workshop | 7.00% | ~35 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | Everything is FINE... | 0.60% | ~3 |
 | Now I've Seen It All | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494 (Ranked 466)  
-Completed: 1 (0.20%) (Ranked 387)  
+Progressed: 496 (Ranked 471)  
+Completed: 1 (0.20%) (Ranked 392)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -157,6 +157,7 @@ Completed: 1 (0.20%) (Ranked 387)
 | 2024-04-10 | 465 | 1 |
 | 2024-06-17 | 489 | 1 |
 | 2024-07-30 | 494 | 1 |
+| 2024-08-20 | 496 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

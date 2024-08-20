@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~151 |
-| Fire in the... nevermind | 51.00% | ~145 |
-| Haute cuisine | 47.00% | ~134 |
-| I didn't do it! | 41.00% | ~117 |
-| Demolition expert | 40.00% | ~114 |
-| Open up wide | 38.00% | ~108 |
-| Keep away from children | 36.00% | ~103 |
-| Wooooooow! | 35.00% | ~100 |
-| Shadow on the wall | 34.00% | ~97 |
-| Artistic fool | 31.00% | ~88 |
-| Let the boot talk | 31.00% | ~88 |
-| Chapter II | 25.00% | ~71 |
-| Bubblekillerfamily | 25.00% | ~71 |
-| Chapter III | 24.00% | ~68 |
-| Like a moth in the Wind | 24.00% | ~68 |
-| Quite a buggy game | 23.00% | ~66 |
-| Achoo!! | 22.00% | ~63 |
-| Handyman | 21.00% | ~60 |
-| Pacifist | 21.00% | ~60 |
-| Fastidious Clown | 18.00% | ~51 |
-| Mirror mirror on the wall... | 18.00% | ~51 |
-| It's not easy being green! | 17.00% | ~48 |
-| Home is where the heart is | 17.00% | ~48 |
-| Master of Thermodynamics | 14.00% | ~40 |
-| Death is a part of life | 13.00% | ~37 |
-| Unfullfilled dreams | 12.00% | ~34 |
-| To err is human... | 11.00% | ~31 |
+| Chapter I | 52.00% | ~151 |
+| Fire in the... nevermind | 51.00% | ~148 |
+| Haute cuisine | 47.00% | ~136 |
+| I didn't do it! | 41.00% | ~119 |
+| Demolition expert | 39.00% | ~113 |
+| Open up wide | 38.00% | ~110 |
+| Keep away from children | 35.00% | ~102 |
+| Shadow on the wall | 34.00% | ~99 |
+| Wooooooow! | 34.00% | ~99 |
+| Let the boot talk | 31.00% | ~90 |
+| Artistic fool | 30.00% | ~87 |
+| Chapter II | 25.00% | ~72 |
+| Bubblekillerfamily | 24.00% | ~70 |
+| Quite a buggy game | 23.00% | ~67 |
+| Chapter III | 23.00% | ~67 |
+| Like a moth in the Wind | 23.00% | ~67 |
+| Achoo!! | 22.00% | ~64 |
+| Handyman | 21.00% | ~61 |
+| Pacifist | 21.00% | ~61 |
+| Fastidious Clown | 18.00% | ~52 |
+| Mirror mirror on the wall... | 18.00% | ~52 |
+| It's not easy being green! | 17.00% | ~49 |
+| Home is where the heart is | 17.00% | ~49 |
+| Master of Thermodynamics | 14.00% | ~41 |
+| Death is a part of life | 13.00% | ~38 |
+| Unfullfilled dreams | 12.00% | ~35 |
+| To err is human... | 11.00% | ~32 |
 | Useless but beautiful | 9.00% | ~26 |
 | It's nothing personal | 9.00% | ~26 |
 | Nothing can stop me | 8.00% | ~23 |
@@ -38,12 +38,12 @@
 | Where there is life, there is hope | 7.00% | ~20 |
 | Lollipop | 6.00% | ~17 |
 | The hands of a healer | 6.00% | ~17 |
-| Artistic master | 5.00% | ~14 |
 | Sadist | 5.00% | ~14 |
-| Fartjokes! | 5.00% | ~14 |
-| Shut up clown! | 5.00% | ~14 |
-| Life is but a dream | 4.00% | ~11 |
+| Artistic master | 4.00% | ~12 |
+| Fartjokes! | 4.00% | ~12 |
+| Shut up clown! | 4.00% | ~12 |
 | Done. First! | 3.00% | ~9 |
+| Life is but a dream | 3.00% | ~9 |
 | The Green, the Fat, the Ugly | 2.00% | ~6 |
 | Checkmate in 8 moves | 2.00% | ~6 |
 | Summit attempt | 1.00% | ~3 |
@@ -51,8 +51,8 @@
 | Sherlock Holmes | 1.00% | ~3 |
 | Do not feed the fish! | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 534)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 290 (Ranked 537)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,6 +131,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 232 | 0 |
 | 2024-06-17 | 260 | 0 |
 | 2024-08-09 | 285 | 0 |
+| 2024-08-20 | 290 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

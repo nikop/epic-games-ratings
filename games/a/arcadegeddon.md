@@ -57,8 +57,8 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~47 |
 | Pyrotechnical | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,634 (Ranked 239)  
-Completed: 3 (0.03%) (Ranked 487)  
+Progressed: 11,634 (Ranked 240)  
+Completed: 3 (0.03%) (Ranked 494)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

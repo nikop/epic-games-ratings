@@ -10,21 +10,21 @@ Number of Ratings: 48  (23.09.2022)
 | All Bark, No Bite | 73.00% | ~660 |
 | Hopeful Hunter | 64.00% | ~579 |
 | Amateur Adventurer | 62.00% | ~560 |
-| The Road to Recovery | 60.00% | ~542 |
+| The Road to Recovery | 61.00% | ~551 |
 | Partners? | 59.00% | ~533 |
 | Magical Mineral Golem | 53.00% | ~479 |
 | On Outlander Lane | 52.00% | ~470 |
+| First Time Fishing | 50.00% | ~452 |
 | A Girl About the Town | 49.00% | ~443 |
-| First Time Fishing | 49.00% | ~443 |
-| First Time Hunting | 47.00% | ~425 |
+| First Time Hunting | 48.00% | ~434 |
 | Rune Wall Wreckage | 47.00% | ~425 |
 | ...And Your Tax Money | 45.00% | ~407 |
 | The Lords of the Snowpeak | 39.00% | ~353 |
+| The Go-To Girl | 36.00% | ~325 |
+| Scavenger's Honor | 36.00% | ~325 |
+| Natural Born Monster-Killer | 36.00% | ~325 |
 | The Lava Mantor Wyrm | 35.00% | ~316 |
-| The Go-To Girl | 35.00% | ~316 |
-| Scavenger's Honor | 35.00% | ~316 |
 | One Mean Merc | 35.00% | ~316 |
-| Natural Born Monster-Killer | 35.00% | ~316 |
 | Money, Money, Money | 35.00% | ~316 |
 | The Great Forest...On Foot! | 35.00% | ~316 |
 | Adept, for an Acting Mayor | 34.00% | ~307 |
@@ -47,17 +47,17 @@ Number of Ratings: 48  (23.09.2022)
 | One-Hundred Resident Record | 11.00% | ~99 |
 | A Local Hero | 11.00% | ~99 |
 | Gourmand | 10.00% | ~90 |
+| Accessorizer | 10.00% | ~90 |
 | Champion of the Quarry | 10.00% | ~90 |
 | Champion of the Lava Ruins | 10.00% | ~90 |
 | No One Better | 9.00% | ~81 |
 | Full Force - CJ | 9.00% | ~81 |
-| Accessorizer | 9.00% | ~81 |
 | Champion of the Snowpeak | 9.00% | ~81 |
 | Full Force - Garoo | 8.00% | ~72 |
 | Full Force - Isha | 8.00% | ~72 |
 | Rising Champion | 7.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 904 (Ranked 413)  
+Progressed: 904 (Ranked 416)  
 Completed: 74 (8.19%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |

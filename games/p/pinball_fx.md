@@ -57,8 +57,8 @@ Number of Ratings: 756  (23.09.2022)
 | Evil AI unplugged | 0.00% | ~0 |
 | Balanced Chakram | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 327,541 (Ranked 76)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 327,541 (Ranked 78)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

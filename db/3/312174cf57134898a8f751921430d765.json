@@ -2,10 +2,10 @@
   "ID": "312174cf57134898a8f751921430d765",
   "Name": "SOS OPS!",
   "ProductSlug": "sos-ops-09dc4c",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T09:57:08.5745094+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:36.3130718+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:39.2991927+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:16.2878298+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:53.6764622+00:00"
 }

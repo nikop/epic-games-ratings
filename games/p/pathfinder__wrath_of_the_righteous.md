@@ -6,69 +6,69 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wings of Stone | 5.00% | ~668 |
-| Sellout | 4.00% | ~534 |
-| Elements of Success | 3.00% | ~401 |
+| Wings of Stone | 6.00% | ~804 |
+| Sellout | 4.00% | ~536 |
+| Elements of Success | 3.00% | ~402 |
 | Devoured by Darkness | 2.00% | ~292 |
-| Burning City | 1.00% | ~146 |
+| Burning City | 2.00% | ~292 |
+| Mythic Choices | 2.00% | ~292 |
+| A Spark | 2.00% | ~292 |
 | Banner over the Citadel | 1.00% | ~146 |
-| Mythic Choices | 1.00% | ~146 |
+| Fifth Crusade | 1.00% | ~146 |
 | Queen's Gratitude | 1.00% | ~146 |
 | Defender's Heart | 1.00% | ~146 |
-| A Spark | 1.00% | ~146 |
-| Fifth Crusade | 0.80% | ~117 |
-| Embrace of the Abyss | 0.70% | ~102 |
+| Embrace of the Abyss | 0.80% | ~117 |
+| Path of the Angel | 0.70% | ~102 |
+| All Paths Open | 0.70% | ~102 |
 | Demonic and Divine | 0.70% | ~102 |
-| Path of the Angel | 0.60% | ~87 |
-| All Paths Open | 0.60% | ~87 |
+| Transformation | 0.60% | ~88 |
+| The Legacy | 0.60% | ~88 |
+| Great Upstart | 0.60% | ~88 |
+| Divide and Rule | 0.60% | ~88 |
+| Voice from Your Dreams | 0.60% | ~88 |
+| Sarkoris Will Be Green | 0.60% | ~80 |
 | The Lady of the Forest | 0.60% | ~80 |
+| Beware Still Water | 0.60% | ~80 |
 | A Shard In a Cave | 0.60% | ~80 |
 | A Shard In a Tower | 0.60% | ~80 |
 | Prohibition | 0.60% | ~80 |
+| Heart of the Fallen Land | 0.50% | ~73 |
 | Path of the Azata | 0.50% | ~73 |
-| Transformation | 0.50% | ~73 |
-| The Legacy | 0.50% | ~73 |
-| Great Upstart | 0.50% | ~73 |
-| Divide and Rule | 0.50% | ~73 |
-| Voice from Your Dreams | 0.50% | ~73 |
+| Mythic Reinforcements | 0.50% | ~73 |
+| A Flame | 0.50% | ~73 |
 | Next-Door Play | 0.50% | ~73 |
+| Get the Toad | 0.50% | ~73 |
 | Stay Underground | 0.50% | ~67 |
 | Hanged Man's Notes | 0.50% | ~67 |
-| Sarkoris Will Be Green | 0.50% | ~67 |
-| Beware Still Water | 0.50% | ~67 |
 | Path of the Trickster | 0.40% | ~58 |
-| Mythic Reinforcements | 0.40% | ~58 |
-| A Flame | 0.40% | ~58 |
-| Get the Toad | 0.40% | ~58 |
-| Heart of the Fallen Land | 0.30% | ~44 |
+| Hey, I Know You! | 0.40% | ~58 |
+| The Final Threshold | 0.30% | ~44 |
 | Path of the Demon | 0.30% | ~44 |
 | Path of the Aeon | 0.30% | ~44 |
+| Path of the Lich | 0.30% | ~44 |
 | Heroic Victory | 0.30% | ~44 |
 | Capitulation Is Now Moot | 0.30% | ~44 |
 | Core of the Riddle | 0.30% | ~44 |
 | Your First Big Enemy | 0.30% | ~44 |
-| Hey, I Know You! | 0.30% | ~44 |
 | This Wall Won't Fall | 0.30% | ~40 |
 | Not the Last Sarkorian | 0.30% | ~40 |
 | A Shard In the Shadows | 0.30% | ~40 |
 | Odious Treasure | 0.30% | ~40 |
 | Pain And Pleasure, Indivisible | 0.30% | ~40 |
-| The Final Threshold | 0.20% | ~29 |
-| Path of the Lich | 0.20% | ~29 |
+| The Living Fraud | 0.30% | ~40 |
+| Craving the Glory | 0.30% | ~40 |
+| Seeking the Glory | 0.30% | ~40 |
+| Path of the Dragon | 0.20% | ~29 |
+| Path of the Legend | 0.20% | ~29 |
 | Abyssal Conspiracy | 0.20% | ~29 |
 | Truly Important Deed | 0.20% | ~29 |
 | I Wonder What's Inside | 0.20% | ~27 |
 | The Last Adventure | 0.20% | ~27 |
 | Frozen Pork Chops | 0.20% | ~27 |
 | Triumphant Glory | 0.20% | ~27 |
-| The Living Fraud | 0.20% | ~27 |
 | True Love's Kiss | 0.20% | ~27 |
-| Craving the Glory | 0.20% | ~27 |
-| Seeking the Glory | 0.20% | ~27 |
 | Chasing the Glory | 0.20% | ~27 |
 | Path of the Swarm | 0.10% | ~15 |
-| Path of the Dragon | 0.10% | ~15 |
-| Path of the Legend | 0.10% | ~15 |
 | Equal to Aroden | 0.10% | ~15 |
 | Spirit of Adventure | 0.10% | ~15 |
 | Test of the Starstone | 0.10% | ~15 |
@@ -159,8 +159,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Cold Snap | 0.00% | ~0 |
 | Tailed! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,577 (Ranked 232)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 14,614 (Ranked 234)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -447,6 +447,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 13,841 | 0 |
 | 2024-06-17 | 14,278 | 0 |
 | 2024-08-09 | 14,577 | 0 |
+| 2024-08-20 | 14,614 | 0 |
 ## Awards
 Max (Character Customization): 1,895  (Ranked 144)  
 Sum: 7,794 (Ranked 142)  

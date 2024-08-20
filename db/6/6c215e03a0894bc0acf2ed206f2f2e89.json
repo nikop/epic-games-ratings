@@ -2,10 +2,10 @@
   "ID": "6c215e03a0894bc0acf2ed206f2f2e89",
   "Name": "Tiny Witch",
   "ProductSlug": "tiny-witch-5d89db",
-  "Ranking_EOS_Progress": 899,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 908,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-16T13:00:00+00:00",
     "PcReleaseDate": "2023-09-01T13:00:00+00:00",
@@ -27,7 +27,7 @@
   "Tags": [],
   "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -201,8 +201,8 @@
   ],
   "FirstSeen": "2024-07-18T20:57:36.2009161+00:00",
   "FirstSeenAchievements": "2024-07-29T18:04:01.841684+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:25.5583872+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:29.2028799+00:00",
   "LastUpdate_AppInfo": "2024-08-19T16:57:27.7303654+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:51.6922611+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:25.5583963+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:44.2982135+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:29.2028916+00:00"
 }

@@ -13,24 +13,24 @@
 | Priceless company | 17.00% | ~20 |
 | I'm ready, anytime | 6.00% | ~7 |
 | Actually it's called aileron roll | 4.00% | ~5 |
+| I have a bad feeling about this | 4.00% | ~5 |
+| Enemy shield analyzed | 4.00% | ~5 |
 | Piece of cake | 3.00% | ~3 |
-| I have a bad feeling about this | 3.00% | ~3 |
+| Better hurry up | 3.00% | ~3 |
+| I call her the BF-Worm | 3.00% | ~3 |
+| Axel? | 3.00% | ~3 |
+| You won't escape that easy!! | 3.00% | ~3 |
 | Any other day at work | 3.00% | ~3 |
 | I've had enough! | 3.00% | ~3 |
 | No need to say goodbye | 3.00% | ~3 |
-| Enemy shield analyzed | 3.00% | ~3 |
-| Better hurry up | 2.00% | ~2 |
-| I call her the BF-Worm | 2.00% | ~2 |
-| Axel? | 2.00% | ~2 |
-| You won't escape that easy!! | 2.00% | ~2 |
-| Like it's nothing | 2.00% | ~2 |
-| I. Am. Bored | 2.00% | ~2 |
-| See you on the other side | 0.90% | ~1 |
-| We are the FUR Squadron! | 0.90% | ~1 |
-| Well, I'm doing it | 0.90% | ~1 |
+| Like it's nothing | 3.00% | ~3 |
+| I. Am. Bored | 3.00% | ~3 |
+| See you on the other side | 2.00% | ~2 |
+| We are the FUR Squadron! | 2.00% | ~2 |
+| Well, I'm doing it | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 654)  
-Completed: 1 (0.87%) (Ranked 277)  
+Progressed: 115 (Ranked 658)  
+Completed: 2 (1.74%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,3 +99,4 @@ Completed: 1 (0.87%) (Ranked 277)
 | 2024-06-17 | 92 | 1 |
 | 2024-07-09 | 93 | 1 |
 | 2024-08-09 | 115 | 1 |
+| 2024-08-20 | 115 | 2 |

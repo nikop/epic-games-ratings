@@ -2,10 +2,10 @@
   "ID": "8dcfcaf1aa72402fa2e84897f6cccc50",
   "Name": "Scathe",
   "ProductSlug": "scathe-ca258f",
-  "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 442,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Completed": 447,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-06T15:00:00+00:00",
     "PcReleaseDate": "2022-08-29T23:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2971,6 +2971,11 @@
       "Time": "2024-08-09T18:04:35.3978092+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:07:21.7447121+00:00",
+      "NumProgressed": 1271,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -2996,9 +3001,9 @@
       "ID": "ACHIEVEMENT_BAD_BLOOD",
       "SetID": "2ff85j2",
       "Name": "Bad Blood",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_BLOODSTORM",
@@ -3156,9 +3161,9 @@
       "ID": "ACHIEVEMENT_SHOCK_TO_THE_SYSTEM",
       "SetID": "2ff85j2",
       "Name": "Shock to the System",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SLAVING_GRACE",
@@ -3221,7 +3226,7 @@
     {
       "ID": "2ff85j2",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1271,
       "Completed": 1
     }
   ],
@@ -3229,8 +3234,8 @@
   "FirstSeenRating": "2023-04-24T10:58:16.802842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.6712735+00:00",
   "LastChanged": "2023-04-24T10:58:16.8028421+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:35.3978089+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:21.7447116+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:38.6367287+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:04.4163054+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:35.3978508+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:55.5396374+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:21.7447449+00:00"
 }

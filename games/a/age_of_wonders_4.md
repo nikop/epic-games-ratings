@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.66 (Ranked 328)  
+Rating: 4.66 (Ranked 329)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -78,8 +78,8 @@ Rating: 4.66 (Ranked 328)
 | Serpentine Storm | 0.10% | ~8 |
 | Master of Evilness | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,020 (Ranked 256)  
-Completed: 11 (0.14%) (Ranked 413)  
+Progressed: 8,020 (Ranked 258)  
+Completed: 11 (0.14%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,15 +334,15 @@ Completed: 11 (0.14%) (Ranked 413)
 | 2024-08-09 | 8,020 | 11 |
 ## Awards
 Max (Great for Beginners): 92  (Ranked 466)  
-Sum: 537 (Ranked 392)  
+Sum: 538 (Ranked 392)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 92 |
 | This game has Diverse Characters | 87 |
 | This game is Extremely Fun | 55 |
+| This game has Beautiful Visuals | 55 |
 | This game is Highly Recommended | 54 |
-| This game has Beautiful Visuals | 54 |
 | This game has Amazing Storytelling | 47 |
 | This game has Amazing Characters | 42 |
 | This game has Quickly Understood Controls | 38 |
@@ -575,4 +575,4 @@ Diff (max vs sum): 74
 | 2024-08-15 | 4.66 | 91 | 533 |
 | 2024-08-16 | 4.66 | 91 | 535 |
 | 2024-08-18 | 4.66 | 91 | 536 |
-| 2024-08-20 | 4.66 | 92 | 537 |
+| 2024-08-20 | 4.66 | 92 | 538 |

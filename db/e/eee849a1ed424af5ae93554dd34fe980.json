@@ -2,10 +2,10 @@
   "ID": "eee849a1ed424af5ae93554dd34fe980",
   "Name": "Dr. Finklestein\u0027s Marvelous Room",
   "ProductSlug": "dr-finklesteins-marvelous-room-187563",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T11:57:11.3651768+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:27.8437886+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:55.069031+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:23.5523989+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:22.0750319+00:00"
 }

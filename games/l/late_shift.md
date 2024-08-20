@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~2,760 |
-| Fair Share | 67.00% | ~1,946 |
-| Even Tempered | 53.00% | ~1,540 |
-| Star-Crossed Lovers | 47.00% | ~1,365 |
-| The Delivery | 46.00% | ~1,336 |
-| Shill Bidder | 41.00% | ~1,191 |
-| The Frenzy | 33.00% | ~959 |
-| Good Karma | 27.00% | ~784 |
-| Protector | 26.00% | ~755 |
-| Office Clerk | 25.00% | ~726 |
-| The Bribe | 22.00% | ~639 |
-| Interrogation | 15.00% | ~436 |
-| The Ploy | 13.00% | ~378 |
-| Sabotage | 10.00% | ~290 |
-| Choices Matter | 6.00% | ~174 |
-| The Fool | 6.00% | ~174 |
-| The Lion's Den | 4.00% | ~116 |
-| Proficient Storyteller | 3.00% | ~87 |
-| The Coward | 2.00% | ~58 |
-| Expert Storyteller | 0.70% | ~20 |
+| Cause and Effect | 95.00% | ~2,791 |
+| Fair Share | 67.00% | ~1,968 |
+| Even Tempered | 53.00% | ~1,557 |
+| Star-Crossed Lovers | 48.00% | ~1,410 |
+| The Delivery | 46.00% | ~1,351 |
+| Shill Bidder | 40.00% | ~1,175 |
+| The Frenzy | 33.00% | ~970 |
+| Good Karma | 27.00% | ~793 |
+| Protector | 26.00% | ~764 |
+| Office Clerk | 25.00% | ~734 |
+| The Bribe | 22.00% | ~646 |
+| Interrogation | 15.00% | ~441 |
+| The Ploy | 14.00% | ~411 |
+| Sabotage | 10.00% | ~294 |
+| Choices Matter | 6.00% | ~176 |
+| The Fool | 6.00% | ~176 |
+| The Lion's Den | 4.00% | ~118 |
+| Proficient Storyteller | 3.00% | ~88 |
+| The Coward | 2.00% | ~59 |
+| Expert Storyteller | 0.60% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,905 (Ranked 321)  
-Completed: 18 (0.62%) (Ranked 305)  
+Progressed: 2,938 (Ranked 324)  
+Completed: 18 (0.61%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,6 +230,7 @@ Completed: 18 (0.62%) (Ranked 305)
 | 2024-04-10 | 1,474 | 15 |
 | 2024-06-17 | 2,646 | 17 |
 | 2024-08-09 | 2,905 | 18 |
+| 2024-08-20 | 2,938 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

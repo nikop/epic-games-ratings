@@ -2,10 +2,10 @@
   "ID": "ef58f7e6ac8648a99de895f5e571d9e7",
   "Name": "Heroes of Latera",
   "ProductSlug": "heroes-of-latera-e89ef8",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T06:57:15.8894354+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:03.3154289+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.9835977+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:07.6781032+00:00"
 }

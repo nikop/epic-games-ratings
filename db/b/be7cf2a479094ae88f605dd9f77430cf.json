@@ -3,9 +3,9 @@
   "Name": "Asterix and Obelix Heroes",
   "ProductSlug": "asterix-and-obelix-heroes",
   "Ranking_EOS_Progress": 738,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -270,6 +270,11 @@
       "Time": "2024-08-09T18:07:05.6655954+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:55.5530058+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-04T17:05:21.0235727+00:00",
@@ -280,17 +285,17 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "10",
       "SetID": "5jnn47e",
       "Name": "Play with fire",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "11",
@@ -304,7 +309,7 @@
       "ID": "12",
       "SetID": "5jnn47e",
       "Name": "Don\u2019t stop me now",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -320,7 +325,7 @@
       "ID": "14",
       "SetID": "5jnn47e",
       "Name": "Always follow the nose",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -328,9 +333,9 @@
       "ID": "15",
       "SetID": "5jnn47e",
       "Name": "I appoint you my shield-bearers",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "16",
@@ -352,7 +357,7 @@
       "ID": "18",
       "SetID": "5jnn47e",
       "Name": "Get your parsley",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -360,7 +365,7 @@
       "ID": "19",
       "SetID": "5jnn47e",
       "Name": "The best architect in Alexandria",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -400,7 +405,7 @@
       "ID": "3",
       "SetID": "5jnn47e",
       "Name": "Complete Adventure Carnute Forest",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -408,7 +413,7 @@
       "ID": "4",
       "SetID": "5jnn47e",
       "Name": "Complete Adventure Egypt",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -416,7 +421,7 @@
       "ID": "5",
       "SetID": "5jnn47e",
       "Name": "Complete Adventure Britain",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -442,15 +447,15 @@
       "Name": "Victory is ours",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "9",
       "SetID": "5jnn47e",
       "Name": "Nothing is holding you back",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "26",
@@ -472,7 +477,7 @@
       "ID": "32",
       "SetID": "5jnn47e",
       "Name": "It\u0027s called negotiating!",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -480,7 +485,7 @@
       "ID": "33",
       "SetID": "5jnn47e",
       "Name": "Negotiating is stupid",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -497,14 +502,14 @@
     {
       "ID": "5jnn47e",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-22T17:57:35.5239648+00:00",
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:05.6655952+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:55.5530052+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:10.4961416+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:10.0210821+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:05.6656095+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:39.9286093+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:55.5530219+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ddce4dcb2dee4a3693e902573c77b146",
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 511,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 335,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-15T08:30:00+00:00",
     "PcReleaseDate": "2023-11-15T08:30:00+00:00",
@@ -2945,10 +2945,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 886,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-08-20T19:58:41.6043102+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 888,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 886,
+  "NumberOfAwards": 888,
   "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2992,7 +2998,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 61
+      "Count": 63
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3037,8 +3043,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-08-20T14:57:59.9262456+00:00",
+  "LastChanged": "2024-08-20T19:58:41.60431+00:00",
   "LastUpdate_AppInfo": "2024-08-14T16:57:30.5744017+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:43.109303+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:40.6313469+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:41.6043105+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:55.7173772+00:00"
 }

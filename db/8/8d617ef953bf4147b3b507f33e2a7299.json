@@ -2,10 +2,10 @@
   "ID": "8d617ef953bf4147b3b507f33e2a7299",
   "Name": "OLD SKOOL RACER",
   "ProductSlug": "old-skool-racer-378359",
-  "Ranking_EOS_Progress": 957,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 969,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-10T16:26:39+00:00",
     "PcReleaseDate": "2020-07-07T12:30:00+00:00",
@@ -113,8 +113,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:29.5310486+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:09.4793184+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:48.5019463+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:15.8767174+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:46.1373449+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:09.4793263+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:48.5019533+00:00"
 }

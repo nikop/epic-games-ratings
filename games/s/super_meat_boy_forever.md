@@ -1,7 +1,7 @@
 # Super Meat Boy Forever
 [Store](https://store.epicgames.com/en-US/p/super-meat-boy-forever)  
 [View Rawdata](../../db/s/super_meat_boy_forever.json)  
-Rating: 4.53 (Ranked 622)  
+Rating: 4.53 (Ranked 623)  
 Number of Ratings: 24  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,8 +43,8 @@ Number of Ratings: 24  (23.09.2022)
 | We have a new champion! | 0.10% | ~583 |
 | What even is this game? | 0.10% | ~583 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 583,087 (Ranked 43)  
-Completed: 2 (0.00%) (Ranked 554)  
+Progressed: 583,087 (Ranked 44)  
+Completed: 2 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

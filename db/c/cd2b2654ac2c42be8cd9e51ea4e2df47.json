@@ -2,10 +2,10 @@
   "ID": "cd2b2654ac2c42be8cd9e51ea4e2df47",
   "Name": "Tracks of Triumph: Summertime",
   "ProductSlug": "tracks-of-triumph-summertime-001c7b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-27T14:00:00+00:00",
     "PcReleaseDate": "2023-05-27T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T06:57:18.0139925+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:05.202321+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:16.9720089+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:36.5914274+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:39.3335664+00:00"
 }

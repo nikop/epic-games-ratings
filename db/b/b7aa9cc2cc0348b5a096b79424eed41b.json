@@ -2,10 +2,10 @@
   "ID": "b7aa9cc2cc0348b5a096b79424eed41b",
   "Name": "BeachHead Meta",
   "ProductSlug": "beachhead-meta-771e47",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-05T04:00:00+00:00",
     "PcReleaseDate": "2024-08-05T04:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-06T17:58:47.5221072+00:00",
   "LastUpdate_AppInfo": "2024-08-15T04:57:39.4098663+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:47.5982656+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:46.6359106+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:24.8335983+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:06.4360653+00:00"
 }

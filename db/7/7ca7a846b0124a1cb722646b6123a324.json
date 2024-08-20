@@ -2,10 +2,10 @@
   "ID": "7ca7a846b0124a1cb722646b6123a324",
   "Name": "HardGame",
   "ProductSlug": "hardgame-b6e8b3",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T02:57:00.6824963+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:51.7022445+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:50.416742+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:29.5829601+00:00"
 }

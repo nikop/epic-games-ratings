@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~11,886 |
-| Photographer | 68.00% | ~11,886 |
-| Valley's Helper | 59.00% | ~10,313 |
-| Constructor | 56.00% | ~9,788 |
-| Renovator | 52.00% | ~9,089 |
-| Bestest Friend | 45.00% | ~7,866 |
-| Banker | 40.00% | ~6,992 |
-| Gardener | 32.00% | ~5,593 |
-| Generous | 28.00% | ~4,894 |
-| Chef Cook | 22.00% | ~3,845 |
-| Miner | 16.00% | ~2,797 |
-| Angler | 10.00% | ~1,748 |
-| Duty Bound | 10.00% | ~1,748 |
-| Thorn Cleaner | 9.00% | ~1,573 |
-| Chit Chatter | 4.00% | ~699 |
+| Goofy's Investor | 68.00% | ~11,961 |
+| Photographer | 68.00% | ~11,961 |
+| Valley's Helper | 59.00% | ~10,378 |
+| Constructor | 57.00% | ~10,026 |
+| Renovator | 52.00% | ~9,147 |
+| Bestest Friend | 45.00% | ~7,916 |
+| Banker | 40.00% | ~7,036 |
+| Gardener | 32.00% | ~5,629 |
+| Generous | 28.00% | ~4,925 |
+| Chef Cook | 22.00% | ~3,870 |
+| Miner | 16.00% | ~2,814 |
+| Angler | 10.00% | ~1,759 |
+| Duty Bound | 10.00% | ~1,759 |
+| Thorn Cleaner | 9.00% | ~1,583 |
+| Chit Chatter | 4.00% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,479 (Ranked 221)  
-Completed: 508 (2.91%) (Ranked 172)  
+Progressed: 17,590 (Ranked 224)  
+Completed: 516 (2.93%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,9 +261,10 @@ Completed: 508 (2.91%) (Ranked 172)
 | 2024-04-10 | 15,821 | 413 |
 | 2024-06-17 | 16,588 | 466 |
 | 2024-08-09 | 17,479 | 508 |
+| 2024-08-20 | 17,590 | 516 |
 ## Awards
 Max (Great for Beginners): 1,573  (Ranked 153)  
-Sum: 10,021 (Ranked 122)  
+Sum: 10,024 (Ranked 122)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -274,8 +275,8 @@ Diff (max vs sum): 31
 | This game has Amazing Storytelling | 928 |
 | This game is Relaxing | 909 |
 | This game is Extremely Fun | 900 |
-| This game has a Creative Community | 895 |
-| This game has Quickly Understood Controls | 856 |
+| This game has a Creative Community | 896 |
+| This game has Quickly Understood Controls | 858 |
 | This game has Easy Combat | 680 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -802,4 +803,4 @@ Diff (max vs sum): 31
 | 2024-08-17 | 4.76 | - | 1,564 | 9,984 |
 | 2024-08-18 | 4.76 | - | 1,567 | 10,000 |
 | 2024-08-19 | 4.76 | - | 1,567 | 10,008 |
-| 2024-08-20 | 4.76 | - | 1,573 | 10,021 |
+| 2024-08-20 | 4.76 | - | 1,573 | 10,024 |

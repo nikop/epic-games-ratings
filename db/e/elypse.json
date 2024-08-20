@@ -2,10 +2,10 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 591,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 595,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2024-08-09T18:04:17.6218029+00:00",
       "NumProgressed": 180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:06:45.055849+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -748,9 +753,9 @@
       "ID": "Ach_AllSlashDashUnlock",
       "SetID": "4o5gjp0",
       "Name": "Full power",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "Ach_AllSucces",
@@ -764,17 +769,17 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "Ach_BossFinal",
       "SetID": "4o5gjp0",
       "Name": "GG EZ",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach_BossGolem",
@@ -782,7 +787,7 @@
       "Name": "Rock Solid",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Ach_BossSlug",
@@ -790,7 +795,7 @@
       "Name": "\u0022Swoosh\u0022",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -804,9 +809,9 @@
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach_BuyHut",
@@ -838,7 +843,7 @@
       "Name": "Masochistic",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -846,7 +851,7 @@
       "Name": "A bottomless pit",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -854,23 +859,23 @@
       "Name": "The light at the end of the tunnel",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -886,7 +891,7 @@
       "Name": "A path of no return",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Ach_DiveDeath",
@@ -900,9 +905,9 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -910,7 +915,7 @@
       "Name": "Baited",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -924,9 +929,9 @@
       "ID": "Ach_FinishElypse",
       "SetID": "4o5gjp0",
       "Name": "Comeback",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach_FirstGolem",
@@ -942,15 +947,15 @@
       "Name": "Homeless",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "Ach_LavaDeath",
@@ -1004,31 +1009,31 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "Ach_TalkToLostSoul",
       "SetID": "4o5gjp0",
       "Name": "Sensitive soul",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:17.6218028+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:45.0558486+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:19.1870949+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:06.2068189+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:17.621821+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:16.7909745+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:45.0558699+00:00"
 }

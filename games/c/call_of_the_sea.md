@@ -40,8 +40,8 @@ Rating: 4.39 (Ranked 881)
 | Gently down the stream... | 2.00% | ~3,197 |
 | Meta-reference | 1.00% | ~1,598 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 159,839 (Ranked 104)  
-Completed: 1,600 (1.00%) (Ranked 258)  
+Progressed: 159,839 (Ranked 106)  
+Completed: 1,600 (1.00%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

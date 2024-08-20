@@ -2,10 +2,10 @@
   "ID": "bc249af196734f82829eef7d2ef7b956",
   "Name": "Rejuvan",
   "ProductSlug": "rejuvan-aaf1b0",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-31T05:30:00+00:00",
     "PcReleaseDate": "2024-01-31T10:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-31T10:00:22.2717015+00:00",
   "LastUpdate_AppInfo": "2024-08-14T09:57:08.6121456+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:21.6047701+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:59.5702756+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:18.0483347+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:01.7114602+00:00"
 }

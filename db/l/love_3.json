@@ -2,10 +2,10 @@
   "ID": "9dd57a83fbae44f5b0fee00cf941be7d",
   "Name": "LOVE 3",
   "ProductSlug": "love-3-c2516f",
-  "Ranking_EOS_Progress": 876,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 878,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-12-07T00:00:00+00:00",
     "PcReleaseDate": "2021-12-07T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -94,6 +94,11 @@
       "Time": "2024-08-09T18:04:09.7002018+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:06:29.0654956+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T22:05:52.1814908+00:00",
@@ -104,7 +109,7 @@
       "ID": "13 Years in 69 Minutes",
       "SetID": "cigfl04",
       "Name": "13 Years in 69 Minutes",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -112,7 +117,7 @@
       "ID": "Air walker",
       "SetID": "cigfl04",
       "Name": "Air walker",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -128,7 +133,7 @@
       "ID": "Bork \u0026 Niko",
       "SetID": "cigfl04",
       "Name": "Bork \u0026 Niko",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "Cautious Completionist",
       "SetID": "cigfl04",
       "Name": "Cautious Completionist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "Freedom",
       "SetID": "cigfl04",
       "Name": "Freedom",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -168,7 +173,7 @@
       "ID": "Friendly Fire",
       "SetID": "cigfl04",
       "Name": "Friendly Fire",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -176,7 +181,7 @@
       "ID": "Get all LOVE 2 Tokens in a Run",
       "SetID": "cigfl04",
       "Name": "Where did I put my keys?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -192,7 +197,7 @@
       "ID": "Jump rope",
       "SetID": "cigfl04",
       "Name": "Jump rope",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -208,7 +213,7 @@
       "ID": "LOVE",
       "SetID": "cigfl04",
       "Name": "LOVE",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -216,7 +221,7 @@
       "ID": "Longest Fall",
       "SetID": "cigfl04",
       "Name": "Longest Fall",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -224,7 +229,7 @@
       "ID": "Nostalgia",
       "SetID": "cigfl04",
       "Name": "Nostalgia",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -232,7 +237,7 @@
       "ID": "Safety",
       "SetID": "cigfl04",
       "Name": "Safety",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -248,7 +253,7 @@
       "ID": "Threading the Needle",
       "SetID": "cigfl04",
       "Name": "Threading the Needle",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -256,7 +261,7 @@
       "ID": "YOLO",
       "SetID": "cigfl04",
       "Name": "YOLO",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 105,
       "UsersEstimate": 1
     },
@@ -264,7 +269,7 @@
       "ID": "kuso",
       "SetID": "cigfl04",
       "Name": "kuso",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -272,7 +277,7 @@
       "ID": "\u3084\u308A\u7532\u6590",
       "SetID": "cigfl04",
       "Name": "\u3084\u308A\u7532\u6590",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -281,7 +286,7 @@
     {
       "ID": "cigfl04",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
@@ -289,8 +294,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "FirstSeenAchievements": "2023-05-25T21:04:32.3599326+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:09.7002015+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:29.065495+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:49.8059255+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:43.8668196+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:09.7002139+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:06:29.0655097+00:00"
 }

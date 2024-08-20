@@ -5,10 +5,10 @@
   "Ranking_Rating": 49,
   "Ranking_Popularity": 337,
   "Ranking_PopularitySum": 261,
-  "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 426,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Completed": 431,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -2232,9 +2232,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 30471,
+  "EOS_Progressed": 30539,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -15512,6 +15512,11 @@
       "Time": "2024-08-09T18:04:47.7241829+00:00",
       "NumProgressed": 30471,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-08-20T20:07:43.4780563+00:00",
+      "NumProgressed": 30539,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -15531,7 +15536,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AllEquipment",
@@ -15539,7 +15544,7 @@
       "Name": "Black-shoppe",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AllFriends",
@@ -15547,7 +15552,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AllRunes",
@@ -15555,7 +15560,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AllScarsBronze",
@@ -15563,7 +15568,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "AllSkills",
@@ -15571,7 +15576,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -15579,31 +15584,31 @@
       "Name": "For Justice",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossBridgeDefeated",
       "SetID": "3ojhj46",
       "Name": "Captain and Crew",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 153
     },
     {
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 61
     },
     {
       "ID": "BossCastleDefeated",
       "SetID": "3ojhj46",
       "Name": "Spells and Swords",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 183
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -15611,7 +15616,7 @@
       "Name": "For Wrath",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossCaveDefeated",
@@ -15627,7 +15632,7 @@
       "Name": "For Greed",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossFinalDefeated",
@@ -15643,7 +15648,7 @@
       "Name": "For Survival",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossForestDefeated",
@@ -15651,7 +15656,7 @@
       "Name": "Harvest and Home",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BossGardenAdvancedDefeated",
@@ -15659,7 +15664,7 @@
       "Name": "For Penance",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossGardenDefeated",
@@ -15675,15 +15680,15 @@
       "Name": "For Love",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 92
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -15691,7 +15696,7 @@
       "Name": "For Pride",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BossTowerDefeated",
@@ -15707,15 +15712,15 @@
       "Name": "K.O.",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "EnableHouseRules",
       "SetID": "3ojhj46",
       "Name": "No Harm in Looking",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 92
     },
     {
       "ID": "EndTimerFail",
@@ -15723,15 +15728,15 @@
       "Name": "It Was Just an Estimate",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FifteenLivesEasy",
       "SetID": "a0a5h9b",
       "Name": "Thanatophobia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "FifteenLivesHard",
@@ -15747,7 +15752,7 @@
       "Name": "Good Practice",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Icarus",
@@ -15755,7 +15760,7 @@
       "Name": "Maybe Wax Doesn\u0027t Melt",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "NightmareKhidr",
@@ -15763,7 +15768,7 @@
       "Name": "A Glimpse of the Future",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "PetDragon",
@@ -15771,7 +15776,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "PrequelReveal",
@@ -15795,7 +15800,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "StoryTutorial",
@@ -15803,7 +15808,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "TitleDrop",
@@ -15811,7 +15816,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "UnlockHighMastery",
@@ -15819,7 +15824,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "UnlockHighestUnity",
@@ -15827,28 +15832,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 30471,
+      "Progressed": 30539,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 9401,
+      "Progressed": 9469,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-08-20T10:58:57.2036937+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:47.7241828+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:43.4780559+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:01.2368331+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:40.1582873+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:47.7242565+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:20.0101183+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:43.4781438+00:00"
 }

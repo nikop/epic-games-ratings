@@ -2,10 +2,10 @@
   "ID": "62d9ad4c9d7c413684da18ab4ee111fe",
   "Name": "One Military Camp",
   "ProductSlug": "one-military-camp-8db1f6",
-  "Ranking_EOS_Progress": 502,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1414,6 +1414,11 @@
       "Time": "2024-08-09T18:06:44.0432629+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:19.0879462+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1426,7 +1431,7 @@
       "Name": "Jantine: the Misfortunes of Evil",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ID_1",
@@ -1466,7 +1471,7 @@
       "Name": "Supersoldier",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_ID_14",
@@ -1544,9 +1549,9 @@
       "ID": "ACHIEVEMENT_ID_22",
       "SetID": "c504de6",
       "Name": "Desert Power",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_ID_23",
@@ -1570,7 +1575,7 @@
       "Name": "Property Bro",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_ID_26",
@@ -1586,7 +1591,7 @@
       "Name": "The 4 Pillars",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1626,7 +1631,7 @@
       "Name": "Good payer",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ID_32",
@@ -1650,7 +1655,7 @@
       "Name": "Self-sufficient",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_ID_35",
@@ -1674,7 +1679,7 @@
       "Name": "Medicine Tycoon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_ID_38",
@@ -1698,7 +1703,7 @@
       "Name": "First Step",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACHIEVEMENT_ID_40",
@@ -1762,7 +1767,7 @@
       "Name": "Green Energy",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_ID_9",
@@ -1777,14 +1782,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:44.0432625+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:19.0879456+00:00",
   "LastUpdate_AppInfo": "2024-08-19T02:57:11.2847112+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:19.3289785+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:44.0433078+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:19.0879829+00:00"
 }

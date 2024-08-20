@@ -2,10 +2,10 @@
   "ID": "14e70c79a4774d7e8b405bf123b02884",
   "Name": "Box Bop",
   "ProductSlug": "realmroyale-e3f4e3",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-22T22:00:00+00:00",
     "PcReleaseDate": "2024-08-22T22:00:00+00:00",
@@ -85,6 +85,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:06.2928659+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:06.2928604+00:00",
   "LastUpdate_AppInfo": "2024-08-16T17:57:05.7588193+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:09.8836468+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:58:19.2725272+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:06.2939228+00:00"
 }

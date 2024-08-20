@@ -2,10 +2,10 @@
   "ID": "fd04af72ea0f437aad3a15acd9ed5508",
   "Name": "Clair Obscur: Expedition 33",
   "ProductSlug": "expedition-33-b3240d",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T04:57:21.01821+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:26.0327472+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:59.022079+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:30.007698+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:28.9937415+00:00"
 }

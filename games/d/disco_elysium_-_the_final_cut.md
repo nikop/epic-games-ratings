@@ -6,20 +6,22 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 0.80% | ~1,182 |
-| Biggest Communism Builder | 0.70% | ~1,034 |
-| Il Coppo Del'Arte! | 0.60% | ~887 |
-| The World's Most Laughable Centrist | 0.60% | ~887 |
-| Baddest Hustler In The Neoliberal Hood | 0.50% | ~739 |
-| Hyperstellar Law Official | 0.50% | ~739 |
-| Recruit Detective Kim Kitsuragi | 0.50% | ~739 |
-| Gurdi-Ball Is Lit | 0.50% | ~739 |
-| Literally The Sorriest Cop On Earth | 0.40% | ~591 |
-| Truly Rabid *Traditionalist* | 0.40% | ~591 |
-| Unbelievably Boring **** | 0.30% | ~443 |
-| Enemy Of The Physical Realm | 0.30% | ~443 |
-| The Figurines Won't Win Her Back | 0.30% | ~443 |
-| Hardie's Heroes | 0.20% | ~296 |
+| Goodest Of The Good Cops | 0.90% | ~1,333 |
+| Biggest Communism Builder | 0.80% | ~1,184 |
+| The World's Most Laughable Centrist | 0.70% | ~1,036 |
+| Il Coppo Del'Arte! | 0.60% | ~888 |
+| Baddest Hustler In The Neoliberal Hood | 0.60% | ~888 |
+| Gurdi-Ball Is Lit | 0.60% | ~888 |
+| Hyperstellar Law Official | 0.50% | ~740 |
+| Recruit Detective Kim Kitsuragi | 0.50% | ~740 |
+| Literally The Sorriest Cop On Earth | 0.40% | ~592 |
+| Truly Rabid *Traditionalist* | 0.40% | ~592 |
+| The Figurines Won't Win Her Back | 0.40% | ~592 |
+| Unbelievably Boring **** | 0.30% | ~444 |
+| Enemy Of The Physical Realm | 0.30% | ~444 |
+| Hardie's Heroes | 0.30% | ~444 |
+| The Lawbringer | 0.20% | ~296 |
+| Fairweather t-500 Vitreous Enamel | 0.20% | ~296 |
 | Baddest Brow in Town | 0.10% | ~148 |
 | Cause a ****storm | 0.10% | ~148 |
 | Committee of la Responsabilité | 0.10% | ~148 |
@@ -27,7 +29,6 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Of the Bad Cops | 0.10% | ~148 |
 | Massive Torque Dork | 0.10% | ~148 |
 | The Most Honourable Cop in The Land | 0.10% | ~148 |
-| The Lawbringer | 0.10% | ~148 |
 | Expert Advanced Remote Viewer | 0.10% | ~148 |
 | Recruit Detective Kuuno de Ruyter | 0.10% | ~148 |
 | Gluten-Free Topping Pie | 0.10% | ~148 |
@@ -43,12 +44,11 @@ Number of Ratings: 1,611  (23.09.2022)
 | Networthy Individual | 0.10% | ~148 |
 | Palerunner | 0.10% | ~148 |
 | Wheel of Pleasure and Light | 0.10% | ~148 |
-| Fairweather t-500 Vitreous Enamel | 0.10% | ~148 |
 | Real Musor | 0.10% | ~148 |
 | What body? | 0.10% | ~148 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147,785 (Ranked 109)  
-Completed: 32 (0.02%) (Ranked 509)  
+Progressed: 148,058 (Ranked 111)  
+Completed: 32 (0.02%) (Ranked 514)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -335,6 +335,7 @@ Completed: 32 (0.02%) (Ranked 509)
 | 2024-04-10 | 144,045 | 31 |
 | 2024-06-17 | 146,324 | 32 |
 | 2024-08-09 | 147,785 | 32 |
+| 2024-08-20 | 148,058 | 32 |
 ## Awards
 Max (Character Customization): 842  (Ranked 211)  
 Sum: 1,316 (Ranked 299)  

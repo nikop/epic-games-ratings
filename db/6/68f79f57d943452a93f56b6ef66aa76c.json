@@ -2,10 +2,10 @@
   "ID": "68f79f57d943452a93f56b6ef66aa76c",
   "Name": "Zoria Age of Shattering",
   "ProductSlug": "zoria-age-of-shattering-334aa7",
-  "Ranking_EOS_Progress": 814,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 812,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-07T18:00:00+00:00",
     "PcReleaseDate": "2024-03-07T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 35,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
       "Time": "2024-08-09T18:05:41.7281542+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:09:29.9329452+00:00",
+      "NumProgressed": 35,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:08:16.5794806+00:00",
@@ -49,23 +54,23 @@
       "ID": "AllClassBonusResting",
       "SetID": "ck2lonn",
       "Name": "Restful Raider",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "AncientSecrets",
       "SetID": "ck2lonn",
       "Name": "Ancient Secrets",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BandageUse",
       "SetID": "ck2lonn",
       "Name": "First Responder",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -145,25 +150,25 @@
       "ID": "DeathInCombat",
       "SetID": "ck2lonn",
       "Name": "Fallen in Battle",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FillInventoryStorage",
       "SetID": "ck2lonn",
       "Name": "Overlord of Inventory",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FoodBonus",
       "SetID": "ck2lonn",
       "Name": "Feast amid Fray",
-      "Percentage": 36,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "HeadOn",
@@ -185,15 +190,15 @@
       "ID": "IzirianMenace",
       "SetID": "ck2lonn",
       "Name": "Izirian Menace",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LevelUpCommander",
       "SetID": "ck2lonn",
       "Name": "Commander 10/10",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -209,7 +214,7 @@
       "ID": "LiveToFightAnotherDay",
       "SetID": "ck2lonn",
       "Name": "Live to Fight Another Day",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -233,7 +238,7 @@
       "ID": "MissionSuccess",
       "SetID": "ck2lonn",
       "Name": "Hero\u0027s Beginning",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -257,9 +262,9 @@
       "ID": "NoStoneUnturned",
       "SetID": "ck2lonn",
       "Name": "No Stone Unturned",
-      "Percentage": 73,
+      "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "OnTheFrontlines",
@@ -297,7 +302,7 @@
       "ID": "OutpostSystemNovice",
       "SetID": "ck2lonn",
       "Name": "Handiwork Initiate",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -305,25 +310,25 @@
       "ID": "OutpostUnlockAlchemy",
       "SetID": "ck2lonn",
       "Name": "Alchemy Ace",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "OutpostUnlockBlacksmith",
       "SetID": "ck2lonn",
       "Name": "Smithing Sovereign",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "OutpostUnlockBurrow",
       "SetID": "ck2lonn",
       "Name": "Burgeoning Burrow",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "OutpostUnlockInn",
@@ -337,7 +342,7 @@
       "ID": "OutpostUnlockKeep",
       "SetID": "ck2lonn",
       "Name": "Guardian of the Keep",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -385,17 +390,17 @@
       "ID": "PvEMaster",
       "SetID": "ck2lonn",
       "Name": "Master of Versatility",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "PvEUnlock",
       "SetID": "ck2lonn",
       "Name": "Rising Initiate",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "RepairFullGearMaster",
@@ -409,9 +414,9 @@
       "ID": "RepairGearItem",
       "SetID": "ck2lonn",
       "Name": "Mender\u0027s Maiden Move",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "RollingHills",
@@ -433,17 +438,17 @@
       "ID": "SafeRestUse",
       "SetID": "ck2lonn",
       "Name": "Land of Serenity Unveiler",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Serenade",
       "SetID": "ck2lonn",
       "Name": "Serenade",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SoloKillBoss",
@@ -457,9 +462,9 @@
       "ID": "SortingOutRithvale",
       "SetID": "ck2lonn",
       "Name": "Sorting Out Rithvale",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "StoriesOfOricum",
@@ -529,7 +534,7 @@
       "ID": "UnlockSkillTree",
       "SetID": "ck2lonn",
       "Name": "Master of Gifts",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -537,9 +542,9 @@
       "ID": "WelcomeToTheArena",
       "SetID": "ck2lonn",
       "Name": "Welcome to the Arena",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WrongExperiment",
@@ -553,7 +558,7 @@
       "ID": "YouBetterRun",
       "SetID": "ck2lonn",
       "Name": "You Better Run",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 5
     }
@@ -562,14 +567,14 @@
     {
       "ID": "ck2lonn",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 35,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-09T02:07:44.9875641+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:16.5794806+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:41.7281539+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:29.9329446+00:00",
   "LastUpdate_AppInfo": "2024-08-14T09:57:08.1424674+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:42.7334962+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:41.7282133+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:41.4454825+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:29.932995+00:00"
 }

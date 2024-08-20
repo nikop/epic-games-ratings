@@ -5,10 +5,10 @@
   "Ranking_Rating": 310,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 452,
-  "Ranking_EOS_NewPlayers": 26,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Completed": 473,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2020-11-05T23:00:00+00:00",
@@ -96,11 +96,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1374,
+  "EOS_Progressed": 1897,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 222,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.07,
+  "EOS_NewPlayers": 523,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:58.1235981+00:00",
@@ -121,6 +121,11 @@
       "Time": "2024-08-09T18:08:15.9380683+00:00",
       "NumProgressed": 1374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:13:59.2084164+00:00",
+      "NumProgressed": 1897,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:58.1236046+00:00",
@@ -133,23 +138,23 @@
       "Name": "Settling the Score",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_10",
       "SetID": "b56d18",
       "Name": "Captain",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_11",
       "SetID": "b56d18",
       "Name": "Pursuit Agent",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_12",
@@ -157,7 +162,7 @@
       "Name": "Ultimate Enforcer",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_13",
@@ -165,7 +170,7 @@
       "Name": "True Blue",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_14",
@@ -173,7 +178,7 @@
       "Name": "Chase",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_15",
@@ -181,15 +186,15 @@
       "Name": "Bounty Hunter",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_16",
       "SetID": "b56d18",
       "Name": "Vengeance is Mine",
-      "Percentage": 72,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 989
+      "UsersEstimate": 1328
     },
     {
       "ID": "achievement_17",
@@ -197,63 +202,63 @@
       "Name": "Suspect",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1612
     },
     {
       "ID": "achievement_18",
       "SetID": "b56d18",
       "Name": "Target",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 646
+      "UsersEstimate": 835
     },
     {
       "ID": "achievement_19",
       "SetID": "b56d18",
       "Name": "Felon",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 493
     },
     {
       "ID": "achievement_2",
       "SetID": "b56d18",
       "Name": "Tour de Seacrest",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_20",
       "SetID": "b56d18",
       "Name": "Offender",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_21",
       "SetID": "b56d18",
       "Name": "Outlaw",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_22",
       "SetID": "b56d18",
       "Name": "Wanted",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_23",
       "SetID": "b56d18",
       "Name": "Fugitive",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_24",
@@ -261,31 +266,31 @@
       "Name": "Notorious",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_25",
       "SetID": "b56d18",
       "Name": "Most Wanted",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_26",
       "SetID": "b56d18",
       "Name": "Golddigger",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_27",
       "SetID": "b56d18",
       "Name": "Festival of Speed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_28",
@@ -293,7 +298,7 @@
       "Name": "Race",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_29",
@@ -301,23 +306,23 @@
       "Name": "Escapologist",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_3",
       "SetID": "b56d18",
       "Name": "Gotcha!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1423
     },
     {
       "ID": "achievement_30",
       "SetID": "b56d18",
       "Name": "Burnout",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1556
     },
     {
       "ID": "achievement_31",
@@ -325,15 +330,15 @@
       "Name": "Wall of Steel",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 816
     },
     {
       "ID": "achievement_32",
       "SetID": "b56d18",
       "Name": "Shock to the System",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 721
     },
     {
       "ID": "achievement_33",
@@ -341,7 +346,7 @@
       "Name": "Hit Confirmed",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 714
+      "UsersEstimate": 986
     },
     {
       "ID": "achievement_34",
@@ -349,47 +354,47 @@
       "Name": "Aerial Assistance",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_35",
       "SetID": "b56d18",
       "Name": "Denied",
-      "Percentage": 30,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 512
     },
     {
       "ID": "achievement_36",
       "SetID": "b56d18",
       "Name": "In the Zone",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_37",
       "SetID": "b56d18",
       "Name": "Power Spike",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_38",
       "SetID": "b56d18",
       "Name": "Eye of the Needle",
-      "Percentage": 54,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 967
     },
     {
       "ID": "achievement_39",
       "SetID": "b56d18",
       "Name": "Imprezive",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_4",
@@ -397,15 +402,15 @@
       "Name": "Officer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 683
     },
     {
       "ID": "achievement_40",
       "SetID": "b56d18",
       "Name": "Flight of the Bumblebee",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_41",
@@ -413,7 +418,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_42",
@@ -421,7 +426,7 @@
       "Name": "Wet in the Vette",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_43",
@@ -429,15 +434,15 @@
       "Name": "Godzilla",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_44",
       "SetID": "b56d18",
       "Name": "Iron Man",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_45",
@@ -445,7 +450,7 @@
       "Name": "Electrically Charged",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_46",
@@ -453,31 +458,31 @@
       "Name": "Snakebite in Black",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_47",
       "SetID": "b56d18",
       "Name": "Fender Bender",
-      "Percentage": 1,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_48",
       "SetID": "b56d18",
       "Name": "Biteback",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_49",
       "SetID": "b56d18",
       "Name": "Blast Off",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_5",
@@ -485,29 +490,29 @@
       "Name": "Patrolman",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_50",
       "SetID": "b56d18",
       "Name": "Slip and Slide",
-      "Percentage": 0.9,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_51",
       "SetID": "b56d18",
       "Name": "Land Speed Record",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_52",
       "SetID": "b56d18",
       "Name": "Moon Shot",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -515,9 +520,9 @@
       "ID": "achievement_53",
       "SetID": "b56d18",
       "Name": "Sting in the Tail",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_54",
@@ -525,23 +530,23 @@
       "Name": "Hotshot",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_55",
       "SetID": "b56d18",
       "Name": "Untouchable",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_56",
       "SetID": "b56d18",
       "Name": "Swift Justice",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_57",
@@ -549,7 +554,7 @@
       "Name": "Top of the Range",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_58",
@@ -557,15 +562,15 @@
       "Name": "Offroad Innovation",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 57
     },
     {
       "ID": "achievement_59",
       "SetID": "b56d18",
       "Name": "Street of Dreams",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_6",
@@ -573,23 +578,23 @@
       "Name": "Trooper",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_60",
       "SetID": "b56d18",
       "Name": "The Diablo You Know",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 190
     },
     {
       "ID": "achievement_61",
       "SetID": "b56d18",
       "Name": "Flame Grilled",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_62",
@@ -597,7 +602,7 @@
       "Name": "Rubbing Is Racing",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_63",
@@ -605,47 +610,47 @@
       "Name": "Chase the Ace",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_64",
       "SetID": "b56d18",
       "Name": "Priority Target",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_65",
       "SetID": "b56d18",
       "Name": "The Porsche Principle",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_66",
       "SetID": "b56d18",
       "Name": "Masterpieces",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 76
     },
     {
       "ID": "achievement_7",
       "SetID": "b56d18",
       "Name": "Sergeant",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_8",
       "SetID": "b56d18",
       "Name": "Lieutenant",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_9",
@@ -653,14 +658,14 @@
       "Name": "Undercover",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "b56d18",
       "IsBase": true,
-      "Progressed": 1374,
+      "Progressed": 1897,
       "Completed": 1
     }
   ],
@@ -668,8 +673,8 @@
   "FirstSeenRating": "2024-07-27T01:54:32.1401609+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:58.1236046+00:00",
   "LastChanged": "2024-08-19T14:58:10.9232462+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:15.9380677+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:59.2084158+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:02.1503645+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:16.2358983+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:15.9381216+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:59.2084752+00:00"
 }

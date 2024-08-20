@@ -2,10 +2,10 @@
   "ID": "17fd3ea945ad482190387b6b55b42633",
   "Name": "Hero of the Kingdom",
   "ProductSlug": "hero-of-the-kingdom-3a4529",
-  "Ranking_EOS_Progress": 784,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Progress": 763,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-19T16:00:00+00:00",
     "PcReleaseDate": "2012-12-20T17:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 54,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_NewPlayers": 9,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.85,
   "EosHistory": [
     {
       "Time": "2024-07-30T00:02:20.9577689+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:07:27.0547744+00:00",
       "NumProgressed": 45,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:12:31.8748574+00:00",
+      "NumProgressed": 54,
       "NumCompleted": 1
     }
   ],
@@ -50,9 +55,9 @@
       "ID": "H1071",
       "SetID": "8g7dcga",
       "Name": "Prosperous",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "H1072",
@@ -66,15 +71,15 @@
       "ID": "H1073",
       "SetID": "8g7dcga",
       "Name": "Well-known",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "H1074",
       "SetID": "8g7dcga",
       "Name": "Renowned",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -82,15 +87,15 @@
       "ID": "H1075",
       "SetID": "8g7dcga",
       "Name": "Gifted",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "H1076",
       "SetID": "8g7dcga",
       "Name": "Expert",
-      "Percentage": 16,
+      "Percentage": 13,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -98,9 +103,9 @@
       "ID": "H1077",
       "SetID": "8g7dcga",
       "Name": "Skilled",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 36
     },
     {
       "ID": "H1078",
@@ -114,47 +119,47 @@
       "ID": "H1079",
       "SetID": "8g7dcga",
       "Name": "Ready",
-      "Percentage": 89,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 49
     },
     {
       "ID": "H107B",
       "SetID": "8g7dcga",
       "Name": "Diligent",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "H107F",
       "SetID": "8g7dcga",
       "Name": "Adventurer",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 46
     },
     {
       "ID": "H1081",
       "SetID": "8g7dcga",
       "Name": "Smart",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "H1083",
       "SetID": "8g7dcga",
       "Name": "Healer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "H1084",
       "SetID": "8g7dcga",
       "Name": "Herbalist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -162,7 +167,7 @@
       "ID": "H1085",
       "SetID": "8g7dcga",
       "Name": "Medicaster",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -178,47 +183,47 @@
       "ID": "H1088",
       "SetID": "8g7dcga",
       "Name": "Armed",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 37
     },
     {
       "ID": "H1089",
       "SetID": "8g7dcga",
       "Name": "Helpful",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "H108C",
       "SetID": "8g7dcga",
       "Name": "Boater",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "H108D",
       "SetID": "8g7dcga",
       "Name": "Brave",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "H108E",
       "SetID": "8g7dcga",
       "Name": "Soldier",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "H108F",
       "SetID": "8g7dcga",
       "Name": "Hero",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -228,15 +233,15 @@
       "Name": "Warrior",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H1091",
       "SetID": "8g7dcga",
       "Name": "Builder",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "H1092",
@@ -250,9 +255,9 @@
       "ID": "H1093",
       "SetID": "8g7dcga",
       "Name": "Searcher",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "H1094",
@@ -274,7 +279,7 @@
       "ID": "H1098",
       "SetID": "8g7dcga",
       "Name": "Mushroom-picker",
-      "Percentage": 27,
+      "Percentage": 22,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -290,7 +295,7 @@
       "ID": "H109A",
       "SetID": "8g7dcga",
       "Name": "Crayfish-hunter",
-      "Percentage": 11,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -316,7 +321,7 @@
       "Name": "Fisherman",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H10A2",
@@ -330,9 +335,9 @@
       "ID": "H10A5",
       "SetID": "8g7dcga",
       "Name": "Hunter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "H10A7",
@@ -346,7 +351,7 @@
       "ID": "H10A8",
       "SetID": "8g7dcga",
       "Name": "Mysterious",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 3
     }
@@ -355,14 +360,14 @@
     {
       "ID": "8g7dcga",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 54,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-07-24T13:59:40.5569974+00:00",
   "FirstSeenAchievements": "2024-07-30T00:02:20.9577851+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:27.0547741+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:31.8748565+00:00",
   "LastUpdate_AppInfo": "2024-08-16T11:57:18.7173765+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:40.0209716+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:27.0547961+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:19.9929744+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:31.8748806+00:00"
 }

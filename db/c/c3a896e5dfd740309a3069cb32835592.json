@@ -2,10 +2,10 @@
   "ID": "c3a896e5dfd740309a3069cb32835592",
   "Name": "The Cub",
   "ProductSlug": "the-cub-158658",
-  "Ranking_EOS_Progress": 1085,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1099,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-04T22:00:00+00:00",
     "PcReleaseDate": "2024-04-04T22:00:00+00:00",
@@ -208,8 +208,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:54.9170709+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:13.3426635+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:54.7117726+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:56.0403552+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:29.905765+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:13.3426763+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:54.7117827+00:00"
 }

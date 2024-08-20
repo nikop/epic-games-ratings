@@ -2,10 +2,10 @@
   "ID": "bd7abb8b7b1b46408a4eb7de6f50b9c9",
   "Name": "Deadly Domain",
   "ProductSlug": "deadly-domain-2acb41",
-  "Ranking_EOS_Progress": 605,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 608,
+  "Ranking_EOS_Completed": 190,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-16T08:53:01.477+00:00",
     "PcReleaseDate": "2024-06-23T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 169,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.42,
+  "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
       "Time": "2024-07-09T22:02:47.1058677+00:00",
@@ -38,6 +38,11 @@
     {
       "Time": "2024-08-09T18:06:22.6550518+00:00",
       "NumProgressed": 165,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-20T20:10:43.4921356+00:00",
+      "NumProgressed": 169,
       "NumCompleted": 4
     }
   ],
@@ -67,7 +72,7 @@
       "Name": "Medal A",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MedalB",
@@ -75,7 +80,7 @@
       "Name": "Medal B",
       "Percentage": 30,
       "XP": 200,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "MedalSilver",
@@ -90,14 +95,14 @@
     {
       "ID": "1pi5ek",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 169,
       "Completed": 4
     }
   ],
   "FirstSeen": "2024-06-24T09:59:19.0315881+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:42.5639519+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:22.6550515+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:43.4921347+00:00",
   "LastUpdate_AppInfo": "2024-08-18T13:02:47.8332502+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:53.4686144+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:22.655056+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:43.4921463+00:00"
 }

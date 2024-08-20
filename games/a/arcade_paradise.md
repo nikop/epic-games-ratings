@@ -61,7 +61,7 @@ Rating: 4.35 (Ranked 935)
 | Sonically Youthful | 0.10% | ~386 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 386,429 (Ranked 71)  
-Completed: 2 (0.00%) (Ranked 554)  
+Completed: 2 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

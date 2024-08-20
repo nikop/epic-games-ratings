@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 31.00% | ~202 |
-| I like parks | 27.00% | ~176 |
+| Small town | 31.00% | ~203 |
+| I like parks | 27.00% | ~177 |
 | The spiritual world... | 15.00% | ~98 |
 | It is nice to share with friends in the city | 13.00% | ~85 |
 | Sport is good for you | 12.00% | ~78 |
 | I like my life | 11.00% | ~72 |
 | The woodcutter | 11.00% | ~72 |
 | I like books | 10.00% | ~65 |
+| Soviet town | 9.00% | ~59 |
 | Clean energy | 8.00% | ~52 |
-| Soviet town | 8.00% | ~52 |
 | Bucolic city | 7.00% | ~46 |
 | I love parks | 5.00% | ~33 |
 | I love books! | 4.00% | ~26 |
@@ -25,36 +25,36 @@
 | I am very happy! | 2.00% | ~13 |
 | Metropolurbek | 2.00% | ~13 |
 | Banking city | 1.00% | ~7 |
-| Food provider master | 0.80% | ~5 |
+| Food provider master | 0.90% | ~6 |
+| Read! Everyone should read! | 0.80% | ~5 |
+| Farming Frenzy | 0.80% | ~5 |
 | Archipelago builder | 0.60% | ~4 |
-| Read! Everyone should read! | 0.60% | ~4 |
 | Oh, life is too awesome! Thank you! | 0.60% | ~4 |
 | ¡Muy feliz! | 0.60% | ~4 |
+| Oh, I love parks, listening to birds! | 0.60% | ~4 |
 | Little Mayor | 0.60% | ~4 |
 | Temperate builder | 0.60% | ~4 |
+| I can't see the sky | 0.50% | ~3 |
 | Desert builder | 0.50% | ~3 |
-| Farming Frenzy | 0.50% | ~3 |
-| Oh, I love parks, listening to birds! | 0.50% | ~3 |
+| Sport is the best thing | 0.50% | ~3 |
 | Archipelago urban planner | 0.30% | ~2 |
 | Desert urban planner | 0.30% | ~2 |
+| What is there after death? | 0.30% | ~2 |
+| Oh, I am sad | 0.30% | ~2 |
+| Farming Frenzy Plus | 0.30% | ~2 |
 | I don't feel well, I have to drink a coffe | 0.30% | ~2 |
 | Town planner | 0.30% | ~2 |
+| Metropolurbek Plus | 0.30% | ~2 |
 | Restorer | 0.30% | ~2 |
-| Sport is the best thing | 0.30% | ~2 |
 | Rainforest builder | 0.30% | ~2 |
 | Rainforest urban planner | 0.30% | ~2 |
 | Anarchist Utopia | 0.20% | ~1 |
 | Anarchist paradise | 0.20% | ~1 |
 | Full archipelago | 0.20% | ~1 |
 | Banking empire | 0.20% | ~1 |
-| I can't see the sky | 0.20% | ~1 |
 | Urban style | 0.20% | ~1 |
-| What is there after death? | 0.20% | ~1 |
 | Fear God, you sinners! | 0.20% | ~1 |
 | Perfect city | 0.20% | ~1 |
-| Oh, I am sad | 0.20% | ~1 |
-| Farming Frenzy Plus | 0.20% | ~1 |
-| Metropolurbek Plus | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
 | Singapore | 0.20% | ~1 |
 | Everyone should always do sport! | 0.20% | ~1 |
@@ -84,8 +84,8 @@
 | Temperate master | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 442)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 654 (Ranked 445)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,6 +279,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-06-26 | 630 | 0 |
 | 2024-07-25 | 643 | 0 |
 | 2024-08-09 | 651 | 0 |
+| 2024-08-20 | 654 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

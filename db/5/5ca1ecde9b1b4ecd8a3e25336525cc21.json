@@ -2,10 +2,10 @@
   "ID": "5ca1ecde9b1b4ecd8a3e25336525cc21",
   "Name": "Arsenal Shock",
   "ProductSlug": "arsenal-shock-979748",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-06-09T17:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T18:57:21.7394906+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:23.7147981+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:10.364844+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:49.7170055+00:00"
 }

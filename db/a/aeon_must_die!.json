@@ -2,10 +2,10 @@
   "ID": "e4da11298fd3481daf61f46187082074",
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
-  "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 4809,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Completed": 4811,
+  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3742,
+  "EOS_Progressed": 3746,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.75,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2024-08-09T18:07:33.8666456+00:00",
       "NumProgressed": 3742,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-08-20T20:12:43.8845584+00:00",
+      "NumProgressed": 3746,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1060,7 +1065,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "10",
@@ -1116,7 +1121,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "17",
@@ -1132,7 +1137,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "19",
@@ -1228,7 +1233,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "3",
@@ -1268,7 +1273,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "34",
@@ -1339,7 +1344,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3742,
+      "Progressed": 3746,
       "Completed": -28
     }
   ],
@@ -1347,8 +1352,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:33.8666452+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:43.8845575+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:50.8381651+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:01.5929688+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:33.8666735+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:43.8845841+00:00"
 }

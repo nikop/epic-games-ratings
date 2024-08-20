@@ -6,29 +6,29 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 98.00% | ~2,210 |
-| One HIT wonder | 32.00% | ~722 |
-| Wanderer | 30.00% | ~676 |
-| One shot, one kill | 24.00% | ~541 |
-| Traveler | 22.00% | ~496 |
-| Grave Robber | 16.00% | ~361 |
-| Explorer | 15.00% | ~338 |
-| Head Burst | 15.00% | ~338 |
-| Double agent | 14.00% | ~316 |
-| Paranoia | 14.00% | ~316 |
-| Savant | 10.00% | ~226 |
-| Kraina Grzybow | 9.00% | ~203 |
-| Love Guru | 8.00% | ~180 |
-| Superhuman | 8.00% | ~180 |
-| Bustin' nuts | 7.00% | ~158 |
-| Not-so-private Eye | 7.00% | ~158 |
-| The Vitinsky Rifle | 5.00% | ~113 |
-| Protection racket | 4.00% | ~90 |
-| Sacrifice | 4.00% | ~90 |
-| Secret room | 4.00% | ~90 |
+| Atom Agent | 98.00% | ~2,226 |
+| One HIT wonder | 32.00% | ~727 |
+| Wanderer | 30.00% | ~681 |
+| One shot, one kill | 24.00% | ~545 |
+| Traveler | 22.00% | ~500 |
+| Explorer | 16.00% | ~363 |
+| Grave Robber | 16.00% | ~363 |
+| Head Burst | 15.00% | ~341 |
+| Double agent | 14.00% | ~318 |
+| Paranoia | 14.00% | ~318 |
+| Savant | 10.00% | ~227 |
+| Kraina Grzybow | 9.00% | ~204 |
+| Love Guru | 8.00% | ~182 |
+| Superhuman | 8.00% | ~182 |
+| Bustin' nuts | 7.00% | ~159 |
+| Not-so-private Eye | 7.00% | ~159 |
+| The Vitinsky Rifle | 5.00% | ~114 |
+| Protection racket | 4.00% | ~91 |
+| Sacrifice | 4.00% | ~91 |
+| Secret room | 4.00% | ~91 |
 | Indy | 3.00% | ~68 |
 | Wishmaster | 3.00% | ~68 |
-| Career criminal | 2.00% | ~45 |
+| Career criminal | 1.00% | ~23 |
 | Neanderthal | 1.00% | ~23 |
 | It was worth a shot | 1.00% | ~23 |
 | Cosmic Horror | 1.00% | ~23 |
@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.10% | ~2 |
 | Mystical relics | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,255 (Ranked 342)  
-Completed: 1 (0.04%) (Ranked 476)  
+Progressed: 2,271 (Ranked 346)  
+Completed: 1 (0.04%) (Ranked 483)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -283,6 +283,7 @@ Completed: 1 (0.04%) (Ranked 476)
 | 2024-04-10 | 1,925 | 1 |
 | 2024-06-17 | 2,081 | 1 |
 | 2024-08-09 | 2,255 | 1 |
+| 2024-08-20 | 2,271 | 1 |
 ## Awards
 Max (Character Customization): 60  (Ranked 522)  
 Sum: 60 (Ranked 603)  

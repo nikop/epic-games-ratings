@@ -2,10 +2,10 @@
   "ID": "b7018716306c4f0db9c8abe14f20647d",
   "Name": "THE GUARDIANS",
   "ProductSlug": "the-guardians-393182",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2025-06-30T00:00:00+00:00",
     "PcReleaseDate": "2025-06-30T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T18:57:23.696271+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:05.8713209+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:52.7444129+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:18.0272402+00:00"
 }

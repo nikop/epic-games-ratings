@@ -6,32 +6,32 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~675 |
-| I did it! | 93.00% | ~647 |
-| Learner | 90.00% | ~626 |
-| Economical | 90.00% | ~626 |
-| Devout | 88.00% | ~612 |
-| The Love Martyr | 86.00% | ~599 |
-| Frugal | 83.00% | ~578 |
-| Dilligent | 80.00% | ~557 |
-| I... I did it? | 78.00% | ~543 |
-| Adored | 74.00% | ~515 |
-| The Hobbyist | 64.00% | ~445 |
-| A Forked Tongue | 53.00% | ~369 |
-| The Admirer | 51.00% | ~355 |
-| Between Two Fires | 50.00% | ~348 |
-| Precious | 44.00% | ~306 |
-| Devoted | 40.00% | ~278 |
-| The Farmer | 39.00% | ~271 |
-| Ever After | 35.00% | ~244 |
-| Mandatory Sacrifice | 28.00% | ~195 |
-| Loyal | 27.00% | ~188 |
-| The Collector | 25.00% | ~174 |
-| All Doors Open | 20.00% | ~139 |
-| Faithful | 10.00% | ~70 |
-| A Close | 9.00% | ~63 |
-| Asmodeus | 8.00% | ~56 |
-| Luna | 8.00% | ~56 |
+| Objective Complete | 97.00% | ~688 |
+| I did it! | 93.00% | ~659 |
+| Learner | 90.00% | ~638 |
+| Economical | 90.00% | ~638 |
+| Devout | 88.00% | ~624 |
+| The Love Martyr | 86.00% | ~610 |
+| Frugal | 84.00% | ~596 |
+| Dilligent | 80.00% | ~567 |
+| I... I did it? | 78.00% | ~553 |
+| Adored | 73.00% | ~518 |
+| The Hobbyist | 63.00% | ~447 |
+| A Forked Tongue | 53.00% | ~376 |
+| Between Two Fires | 50.00% | ~354 |
+| The Admirer | 50.00% | ~354 |
+| Precious | 44.00% | ~312 |
+| Devoted | 40.00% | ~284 |
+| The Farmer | 38.00% | ~269 |
+| Ever After | 35.00% | ~248 |
+| Mandatory Sacrifice | 28.00% | ~199 |
+| Loyal | 27.00% | ~191 |
+| The Collector | 24.00% | ~170 |
+| All Doors Open | 19.00% | ~135 |
+| Faithful | 10.00% | ~71 |
+| Asmodeus | 9.00% | ~64 |
+| A Close | 9.00% | ~64 |
+| Luna | 7.00% | ~50 |
 | Lover | 2.00% | ~14 |
 | Conclusions | 2.00% | ~14 |
 | The Harvester | 1.00% | ~7 |
@@ -40,8 +40,8 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.10% | ~1 |
 | Lady Killer | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 696 (Ranked 435)  
-Completed: 1 (0.14%) (Ranked 413)  
+Progressed: 709 (Ranked 437)  
+Completed: 1 (0.14%) (Ranked 418)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 1 (0.14%) (Ranked 413)
 | 2024-06-17 | 683 | 0 |
 | 2024-07-25 | 693 | 1 |
 | 2024-08-09 | 696 | 1 |
+| 2024-08-20 | 709 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

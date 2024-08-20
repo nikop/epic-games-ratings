@@ -2,10 +2,10 @@
   "ID": "f00f2d0ae4f04fc987d4218d9355f026",
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
-  "Ranking_EOS_Progress": 538,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -619,6 +619,11 @@
       "Time": "2024-08-09T18:07:02.9493026+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:50.0839489+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T04:03:25.1214353+00:00",
@@ -629,17 +634,17 @@
       "ID": "AllIn",
       "SetID": "aaidab7",
       "Name": "All-in",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "Athlete",
       "SetID": "aaidab7",
       "Name": "Athlete",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "BioIncMaster",
@@ -661,9 +666,9 @@
       "ID": "CirculatoryCollapse",
       "SetID": "aaidab7",
       "Name": "Circulatory Collapse",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 134
     },
     {
       "ID": "CloseCall",
@@ -709,9 +714,9 @@
       "ID": "HeartAttack",
       "SetID": "aaidab7",
       "Name": "Heart Attack",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "ImmuneCollapse",
@@ -751,7 +756,7 @@
       "Name": "Loser",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Lupus",
@@ -759,23 +764,23 @@
       "Name": "Lupus Nephritis",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LupusNephretis",
       "SetID": "aaidab7",
       "Name": "It\u0027s Never Lupus",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "MedStudent",
       "SetID": "aaidab7",
       "Name": "Medical Student",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "MuscularCollapse",
@@ -821,9 +826,9 @@
       "ID": "RenalCollapse",
       "SetID": "aaidab7",
       "Name": "Renal Collapse",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "RespiratoryCollapse",
@@ -847,7 +852,7 @@
       "Name": "Silent Killer",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "SkeletalCollapse",
@@ -879,21 +884,21 @@
       "Name": "Walk In The Park",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     }
   ],
   "AchievementSets": [
     {
       "ID": "aaidab7",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:02.9493023+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:50.0839484+00:00",
   "LastUpdate_AppInfo": "2024-08-14T01:58:38.5895474+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:48.1091544+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:02.9493269+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:44.9676838+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:50.0839676+00:00"
 }

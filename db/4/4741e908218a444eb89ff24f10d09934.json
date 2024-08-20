@@ -5,10 +5,10 @@
   "Ranking_Rating": 899,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 573,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-04T14:00:00+00:00",
     "PcReleaseDate": "2024-03-04T14:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 209,
+  "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -89,6 +89,11 @@
       "Time": "2024-08-09T18:05:01.0376888+00:00",
       "NumProgressed": 209,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:08:05.4129177+00:00",
+      "NumProgressed": 211,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:10.4782777+00:00",
@@ -99,9 +104,9 @@
       "ID": "ACH_1",
       "SetID": "dh9232p",
       "Name": "Lightning start",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_10",
@@ -117,7 +122,7 @@
       "Name": "Once again international",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_12",
@@ -141,7 +146,7 @@
       "Name": "Home strength",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_15",
@@ -163,9 +168,9 @@
       "ID": "ACH_17",
       "SetID": "dh9232p",
       "Name": "Expensive buy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_18",
@@ -195,9 +200,9 @@
       "ID": "ACH_20",
       "SetID": "dh9232p",
       "Name": "Expensive sale",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_21",
@@ -205,15 +210,15 @@
       "Name": "Stronghold",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_22",
       "SetID": "dh9232p",
       "Name": "Collector",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_23",
@@ -227,7 +232,7 @@
       "ID": "ACH_24",
       "SetID": "dh9232p",
       "Name": "Quality over quantity",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -235,9 +240,9 @@
       "ID": "ACH_25",
       "SetID": "dh9232p",
       "Name": "Continuous improvement",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_26",
@@ -261,15 +266,15 @@
       "Name": "Finally, gold taps",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_29",
       "SetID": "dh9232p",
       "Name": "Fairness prize",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_3",
@@ -301,7 +306,7 @@
       "Name": "Cash machine",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_33",
@@ -357,7 +362,7 @@
       "Name": "The Triple",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_4",
@@ -381,13 +386,13 @@
       "Name": "Sultan",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_42",
       "SetID": "dh9232p",
       "Name": "Triple non-stop",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -427,25 +432,25 @@
       "ID": "ACH_5",
       "SetID": "dh9232p",
       "Name": "First triumph",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_6",
       "SetID": "dh9232p",
       "Name": "Level ups",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_7",
       "SetID": "dh9232p",
       "Name": "All on board",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_8",
@@ -468,7 +473,7 @@
     {
       "ID": "dh9232p",
       "IsBase": true,
-      "Progressed": 209,
+      "Progressed": 211,
       "Completed": 0
     }
   ],
@@ -476,8 +481,8 @@
   "FirstSeenRating": "2024-04-24T13:58:42.6031435+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:10.4782776+00:00",
   "LastChanged": "2024-08-09T08:58:09.2394062+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:01.0376883+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:05.4129173+00:00",
   "LastUpdate_AppInfo": "2024-08-14T05:57:21.2429127+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:15.7268212+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.0377148+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:05.4129668+00:00"
 }

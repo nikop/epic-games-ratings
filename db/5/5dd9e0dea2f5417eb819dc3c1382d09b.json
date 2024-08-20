@@ -2,10 +2,10 @@
   "ID": "5dd9e0dea2f5417eb819dc3c1382d09b",
   "Name": "Madhouse Madness",
   "ProductSlug": "madhouse-madness-02ccd3",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-16T13:09:05.7849717+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:34.2475155+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:29.1364052+00:00"
 }

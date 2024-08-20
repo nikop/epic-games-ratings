@@ -6,54 +6,54 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~6,203 |
-| I'll Be Back | 83.00% | ~5,477 |
-| Sorry, I Dropped This | 75.00% | ~4,949 |
-| First Day on the Job | 74.00% | ~4,883 |
-| Butcher's Bill | 52.00% | ~3,431 |
-| P.A.X | 35.00% | ~2,310 |
-| Hey Listen | 34.00% | ~2,244 |
-| OPERATOR | 33.00% | ~2,178 |
-| It's Blue Light | 32.00% | ~2,112 |
-| Most Wanted | 25.00% | ~1,650 |
-| Infidel | 22.00% | ~1,452 |
-| Firebug | 19.00% | ~1,254 |
-| GOLIATH | 19.00% | ~1,254 |
-| I Choose You | 17.00% | ~1,122 |
-| Nothing to Lose | 17.00% | ~1,122 |
-| Big Sister | 15.00% | ~990 |
-| Gear Up | 14.00% | ~924 |
-| SENTINEL | 14.00% | ~924 |
-| The Black Cerberus | 12.00% | ~792 |
-| Watchman | 12.00% | ~792 |
-| Core Power | 12.00% | ~792 |
-| CREO Killed the Video Star | 11.00% | ~726 |
-| Who's in Charge Here? | 11.00% | ~726 |
-| Shall Not Pass | 11.00% | ~726 |
-| Right Tool for the Job | 10.00% | ~660 |
-| Raging Drones | 9.00% | ~594 |
-| Overconfident | 9.00% | ~594 |
-| Pusher Man | 8.00% | ~528 |
-| Melting Down | 8.00% | ~528 |
-| Squad Chief Helvig | 8.00% | ~528 |
-| No More Marching | 8.00% | ~528 |
-| Is This Real Life? | 8.00% | ~528 |
-| Duty-Bound | 7.00% | ~462 |
-| Follow the White Rabbit | 7.00% | ~462 |
-| Liberation | 7.00% | ~462 |
-| Risk Assessment | 7.00% | ~462 |
-| Sunglasses at Night | 6.00% | ~396 |
-| Carbon Cat | 6.00% | ~396 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~330 |
-| Man of Steel | 5.00% | ~330 |
-| Jack of All Trades | 5.00% | ~330 |
-| 3-2-1 | 5.00% | ~330 |
-| For the Good of Mankind | 4.00% | ~264 |
-| Rusty Rat | 4.00% | ~264 |
-| Desecration | 4.00% | ~264 |
-| Turing Test | 3.00% | ~198 |
-| Repeat Customer | 3.00% | ~198 |
-| Evolution Theory | 3.00% | ~198 |
+| On My Own Two Feet | 94.00% | ~6,227 |
+| I'll Be Back | 83.00% | ~5,498 |
+| Sorry, I Dropped This | 75.00% | ~4,968 |
+| First Day on the Job | 74.00% | ~4,902 |
+| Butcher's Bill | 51.00% | ~3,378 |
+| P.A.X | 35.00% | ~2,318 |
+| Hey Listen | 34.00% | ~2,252 |
+| OPERATOR | 33.00% | ~2,186 |
+| It's Blue Light | 32.00% | ~2,120 |
+| Most Wanted | 25.00% | ~1,656 |
+| Infidel | 22.00% | ~1,457 |
+| Firebug | 20.00% | ~1,325 |
+| GOLIATH | 19.00% | ~1,259 |
+| I Choose You | 17.00% | ~1,126 |
+| Nothing to Lose | 17.00% | ~1,126 |
+| Big Sister | 15.00% | ~994 |
+| Gear Up | 14.00% | ~927 |
+| SENTINEL | 14.00% | ~927 |
+| The Black Cerberus | 12.00% | ~795 |
+| Watchman | 12.00% | ~795 |
+| Core Power | 12.00% | ~795 |
+| CREO Killed the Video Star | 11.00% | ~729 |
+| Who's in Charge Here? | 11.00% | ~729 |
+| Shall Not Pass | 11.00% | ~729 |
+| Right Tool for the Job | 10.00% | ~662 |
+| Raging Drones | 9.00% | ~596 |
+| Overconfident | 9.00% | ~596 |
+| Pusher Man | 8.00% | ~530 |
+| Melting Down | 8.00% | ~530 |
+| Squad Chief Helvig | 8.00% | ~530 |
+| No More Marching | 8.00% | ~530 |
+| Is This Real Life? | 8.00% | ~530 |
+| Duty-Bound | 7.00% | ~464 |
+| Follow the White Rabbit | 7.00% | ~464 |
+| Liberation | 7.00% | ~464 |
+| Risk Assessment | 7.00% | ~464 |
+| Sunglasses at Night | 6.00% | ~397 |
+| Carbon Cat | 6.00% | ~397 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~331 |
+| Man of Steel | 5.00% | ~331 |
+| Jack of All Trades | 5.00% | ~331 |
+| 3-2-1 | 5.00% | ~331 |
+| For the Good of Mankind | 4.00% | ~265 |
+| Rusty Rat | 4.00% | ~265 |
+| Desecration | 4.00% | ~265 |
+| Turing Test | 3.00% | ~199 |
+| Repeat Customer | 3.00% | ~199 |
+| Evolution Theory | 3.00% | ~199 |
 | Ghost in the Machine | 2.00% | ~132 |
 | Homo Machinalis | 2.00% | ~132 |
 | Was That Yours? | 2.00% | ~132 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Tools of War | 0.70% | ~46 |
 | The Surge | 0.40% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,599 (Ranked 264)  
-Completed: 22 (0.33%) (Ranked 352)  
+Progressed: 6,624 (Ranked 267)  
+Completed: 23 (0.35%) (Ranked 355)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -319,6 +319,7 @@ Completed: 22 (0.33%) (Ranked 352)
 | 2024-04-10 | 6,024 | 21 |
 | 2024-06-17 | 6,329 | 22 |
 | 2024-08-09 | 6,599 | 22 |
+| 2024-08-20 | 6,624 | 23 |
 ## Awards
 Max (Great Boss Battles): 42  (Ranked 567)  
 Sum: 42 (Ranked 623)  

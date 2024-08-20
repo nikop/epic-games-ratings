@@ -2,10 +2,10 @@
   "ID": "3eae9135a71f43a288f3b683fe83bc11",
   "Name": "Lemon Cake",
   "ProductSlug": "lemon-cake-c683d8",
-  "Ranking_EOS_Progress": 526,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 528,
+  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 312,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.29,
+  "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:16.6062056+00:00",
@@ -515,6 +515,11 @@
       "Time": "2024-08-09T18:04:08.1973+00:00",
       "NumProgressed": 310,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-08-20T20:06:25.8925276+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -526,15 +531,15 @@
       "Name": "Proving Your Skills",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 288
+      "UsersEstimate": 290
     },
     {
       "ID": "LC-02",
       "SetID": "ap2ljl4",
       "Name": "Bakery Startup",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 130
+      "UsersEstimate": 134
     },
     {
       "ID": "LC-03",
@@ -558,7 +563,7 @@
       "Name": "Apprentice Baker",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "LC-06",
@@ -566,15 +571,15 @@
       "Name": "Adept Baker",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LC-07",
       "SetID": "ap2ljl4",
       "Name": "Expert Baker",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "LC-08",
@@ -620,9 +625,9 @@
       "ID": "LC-13",
       "SetID": "ap2ljl4",
       "Name": "The Kitchen Is On Fire",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 97
     },
     {
       "ID": "LC-14",
@@ -636,9 +641,9 @@
       "ID": "LC-15",
       "SetID": "ap2ljl4",
       "Name": "A Loving Home",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-16",
@@ -652,16 +657,16 @@
       "ID": "LC-17",
       "SetID": "ap2ljl4",
       "Name": "Perfect Server",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "ap2ljl4",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 312,
       "Completed": 4
     }
   ],
@@ -669,8 +674,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:08.1972997+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:25.8925272+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:23.1955064+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:29.1044488+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:08.1973085+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:31.9742294+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:25.8925413+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "7c68959aff46468bab66fa0bcb6a7047",
   "Name": "BlueSuburbia",
   "ProductSlug": "bluesuburbia-49019f",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-01T21:00:00+00:00",
     "PcReleaseDate": "2023-12-29T20:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-05T05:59:37.8908313+00:00",
   "LastUpdate_AppInfo": "2024-08-14T20:57:18.8657072+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:46.8143394+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:43.0594169+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:04.0322528+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:32.3005823+00:00"
 }

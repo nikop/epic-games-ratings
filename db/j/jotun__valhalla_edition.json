@@ -4,11 +4,11 @@
   "ProductSlug": "jotun",
   "Ranking_Rating": 853,
   "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 562,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_PopularitySum": 563,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2019-12-06T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -541,6 +541,6 @@
   "FirstSeen": "2022-07-22T20:29:06.202912+00:00",
   "LastChanged": "2024-08-19T13:59:23.6721256+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:39.8756487+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:30.2282357+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:25.4831561+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:04.4900147+00:00"
 }

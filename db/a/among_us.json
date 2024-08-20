@@ -2,13 +2,13 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 106,
   "Ranking_PopularitySum": 61,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -18006,10 +18006,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 28004,
       "NumberOfAwardsMax": 3814
+    },
+    {
+      "Time": "2024-08-20T19:59:37.9856089+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 28015,
+      "NumberOfAwardsMax": 3814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28004,
+  "NumberOfAwards": 28015,
   "NumberOfAwardsMax": 3814,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18047,7 +18053,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3045
+      "Count": 3052
     },
     {
       "Text": "This game is Highly Recommended",
@@ -18071,7 +18077,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2472
+      "Count": 2476
     },
     {
       "Text": "This game has Playful Visuals",
@@ -18097,8 +18103,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-08-20T18:57:44.2164348+00:00",
+  "LastChanged": "2024-08-20T19:59:37.9856087+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:34.17035+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:44.2164355+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:37.9856094+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:26.1869375+00:00"
 }

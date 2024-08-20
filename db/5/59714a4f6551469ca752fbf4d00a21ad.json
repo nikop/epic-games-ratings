@@ -2,10 +2,10 @@
   "ID": "59714a4f6551469ca752fbf4d00a21ad",
   "Name": "Light - Die to Survive",
   "ProductSlug": "light-b4f534",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-31T15:00:00+00:00",
     "PcReleaseDate": "2024-07-31T15:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-08T15:58:22.7948938+00:00",
   "LastUpdate_AppInfo": "2024-08-14T16:57:30.6585947+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:47.5254412+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:48.8710169+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:44.5776073+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:10.8687068+00:00"
 }

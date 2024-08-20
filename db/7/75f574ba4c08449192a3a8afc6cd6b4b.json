@@ -2,10 +2,10 @@
   "ID": "75f574ba4c08449192a3a8afc6cd6b4b",
   "Name": "Hero\u0027s Land",
   "ProductSlug": "heros-land-02fdbe",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-05-18T01:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T17:57:10.9875776+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:35.5566772+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:54.8089298+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:15.7900618+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:21.5268162+00:00"
 }

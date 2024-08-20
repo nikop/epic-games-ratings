@@ -2,10 +2,10 @@
   "ID": "f76e449df2564f97ad005d4bc56c91a2",
   "Name": "Hunter\u0027s Arena: Revolution",
   "ProductSlug": "hunters-arena-revolution_test-f21397",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T05:57:24.503129+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:33.0285704+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:46.0066437+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:04.9635364+00:00"
 }

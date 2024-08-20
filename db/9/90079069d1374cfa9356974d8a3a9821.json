@@ -2,10 +2,10 @@
   "ID": "90079069d1374cfa9356974d8a3a9821",
   "Name": "The Last Game",
   "ProductSlug": "the-last-game-ea48de",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-03T19:30:00+00:00",
     "PcReleaseDate": "2023-10-02T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-04T20:00:47.6144891+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:09.7617129+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:34.655305+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:58:35.8768838+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:21.8571501+00:00"
 }

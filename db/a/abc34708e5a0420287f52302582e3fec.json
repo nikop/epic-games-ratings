@@ -2,10 +2,10 @@
   "ID": "abc34708e5a0420287f52302582e3fec",
   "Name": "Boxes: Lost Fragments",
   "ProductSlug": "boxes-lost-fragments-079041",
-  "Ranking_EOS_Progress": 1037,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1049,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-05T00:00:00+00:00",
     "PcReleaseDate": "2024-02-01T18:00:00+00:00",
@@ -147,8 +147,8 @@
   ],
   "FirstSeen": "2024-06-04T21:59:42.0642407+00:00",
   "FirstSeenAchievements": "2024-06-17T16:15:48.4616283+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:01.5424873+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:06.7469175+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:35.755182+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:53.3746924+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.5424984+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:06.7469312+00:00"
 }

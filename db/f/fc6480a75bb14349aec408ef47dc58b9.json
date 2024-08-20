@@ -2,10 +2,10 @@
   "ID": "fc6480a75bb14349aec408ef47dc58b9",
   "Name": "UNTITLED",
   "ProductSlug": "untitled-5e5015",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-07T19:30:00+00:00",
     "PcReleaseDate": "2024-07-07T19:30:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-18T21:57:01.317827+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:54.8831721+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:51.1864187+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:49.3940404+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:15.0612007+00:00"
 }

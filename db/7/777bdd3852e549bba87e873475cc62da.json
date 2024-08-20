@@ -2,10 +2,10 @@
   "ID": "777bdd3852e549bba87e873475cc62da",
   "Name": "Fabledom",
   "ProductSlug": "fabledom-6d35f7",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-13T13:00:00+00:00",
     "PcReleaseDate": "2023-04-13T15:00:00+00:00",
@@ -222,8 +222,8 @@
   ],
   "FirstSeen": "2024-05-13T21:58:05.0005777+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:10.2335955+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:02.379182+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:35.6456088+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:12.9897143+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:11.9085864+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:02.3791934+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:00.4528215+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:35.645622+00:00"
 }

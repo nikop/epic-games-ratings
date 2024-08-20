@@ -2,10 +2,10 @@
   "ID": "e075cda690de4ad68eaa173317863162",
   "Name": "The Chosen One by the World",
   "ProductSlug": "the-chosen-one-bfba82",
-  "Ranking_EOS_Progress": 1085,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1099,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-02-05T04:00:00+00:00",
     "PcReleaseDate": "2024-02-05T04:00:00+00:00",
@@ -88,8 +88,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-04T23:04:11.7832846+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:01.7004677+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:08:07.0384509+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:14.8212951+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:17.9894514+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:01.7004749+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:08:07.0384564+00:00"
 }

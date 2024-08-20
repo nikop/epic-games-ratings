@@ -2,10 +2,10 @@
   "ID": "00b0ca412bb94ca9a6945f71b2a16cc5",
   "Name": "Mosaics Galore",
   "ProductSlug": "mosaics-galore-4fbedf",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T21:00:00+00:00",
     "PcReleaseDate": "2018-07-26T21:00:00+00:00",
@@ -37,5 +37,5 @@
   "FirstSeen": "2023-12-19T20:57:22.7916751+00:00",
   "LastUpdate_AppInfo": "2024-08-17T06:57:17.8868661+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:12.1219844+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:55.7989796+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:56.2726271+00:00"
 }

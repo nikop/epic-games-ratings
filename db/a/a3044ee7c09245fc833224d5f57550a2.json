@@ -2,10 +2,10 @@
   "ID": "a3044ee7c09245fc833224d5f57550a2",
   "Name": "Extreme Climbing Mirage City",
   "ProductSlug": "extreme-climbing-mirage-city-38de41",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-22T14:30:00+00:00",
     "PcReleaseDate": "2024-07-22T14:30:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-19T19:57:15.1174191+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:16.9109319+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:44.1943346+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:04.0987764+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:01.8105452+00:00"
 }

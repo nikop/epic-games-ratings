@@ -2,10 +2,10 @@
   "ID": "0d45b83911e0403e92394fa48bf990f0",
   "Name": "Atari Mania",
   "ProductSlug": "atari-mania-702c68",
-  "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 400,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-13T07:00:00+00:00",
     "PcReleaseDate": "2022-10-13T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4587,
+  "EOS_Progressed": 4762,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -60,6 +60,11 @@
       "Time": "2024-08-09T18:04:18.7231145+00:00",
       "NumProgressed": 4587,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-20T20:06:47.4857025+00:00",
+      "NumProgressed": 4762,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 18,
@@ -71,7 +76,7 @@
       "Name": "FOBOS fear has been reduced to dust",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 429
     },
     {
       "ID": "Blow_Cleard_Up_Achievement",
@@ -79,7 +84,7 @@
       "Name": "EXPLOSA exploded",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 905
     },
     {
       "ID": "Clean_Freak_Achievement",
@@ -87,7 +92,7 @@
       "Name": "Clean Freak",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 667
     },
     {
       "ID": "Corner_And_Light_Gloomdoom_Up_Achievement",
@@ -95,7 +100,7 @@
       "Name": "GLOOMDOOM has been zapped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "Dedicated_Floor_1_Gamer_Achievement",
@@ -103,7 +108,7 @@
       "Name": "Dedicated Floor #1 Gamer",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Dedicated_Floor_2_Gamer_Achievement",
@@ -111,7 +116,7 @@
       "Name": "Dedicated Floor #2 Gamer",
       "Percentage": 1,
       "XP": 120,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "Dedicated_Floor_3_Gamer_Achievement",
@@ -119,7 +124,7 @@
       "Name": "Dedicated Floor #3 Gamer",
       "Percentage": 0.5,
       "XP": 120,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Dedicated_Floor_4_Gamer_Achievement",
@@ -135,7 +140,7 @@
       "Name": "Bentley is saved",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 138
+      "UsersEstimate": 143
     },
     {
       "ID": "Find_Duplicio_Achievement",
@@ -143,7 +148,7 @@
       "Name": "DUPLICIO has been found",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 619
     },
     {
       "ID": "Gouge_Randomas_Eyes_Achievement",
@@ -151,7 +156,7 @@
       "Name": "RANDOMA\u0027s eyes has been gouged",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "I_Know_My_Way_Around_Achievement",
@@ -159,7 +164,7 @@
       "Name": "I know my way around!",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 1927
+      "UsersEstimate": 2000
     },
     {
       "ID": "Light_Neos_Up_Achievement",
@@ -167,7 +172,7 @@
       "Name": "NEOS is lighted up",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1667
     },
     {
       "ID": "Magnetize_Achievement",
@@ -175,15 +180,15 @@
       "Name": "Magnetized",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2619
     },
     {
       "ID": "Poster_Collector_Achievement",
       "SetID": "2kpkmk",
       "Name": "Poster collector",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 505
+      "UsersEstimate": 571
     },
     {
       "ID": "Resist_Inputos_Curse_Achievement",
@@ -191,15 +196,15 @@
       "Name": "INPUTO\u0027s curse is lifted",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 238
     },
     {
       "ID": "The_Collector_Achievement",
       "SetID": "2kpkmk",
       "Name": "The collector",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 413
+      "UsersEstimate": 476
     },
     {
       "ID": "Tricking_Glitch_Achievement",
@@ -207,14 +212,14 @@
       "Name": "Cheese, I have tricked Glitch so many time",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
     {
       "ID": "2kpkmk",
       "IsBase": true,
-      "Progressed": 4587,
+      "Progressed": 4762,
       "Completed": 8
     }
   ],
@@ -222,8 +227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:54.0080897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.3948167+00:00",
   "LastChanged": "2023-03-31T05:57:54.0080898+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:18.723114+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:47.4857021+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:38.3642826+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:03.5779871+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:18.7231265+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:54.7782622+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:06:47.4857149+00:00"
 }

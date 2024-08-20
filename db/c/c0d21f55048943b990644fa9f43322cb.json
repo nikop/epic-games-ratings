@@ -2,10 +2,10 @@
   "ID": "c0d21f55048943b990644fa9f43322cb",
   "Name": "Djinn - The Forbidden Knowledge",
   "ProductSlug": "djinn-the-forbidden-knowledge-1f5924",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-24T09:00:00+00:00",
     "PcReleaseDate": "2024-05-24T09:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-05-31T22:57:23.9696953+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:43.6070478+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:53.8708057+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:20.2905297+00:00",
   "LastUpdate_AppInfo": "2024-08-19T18:57:17.1232268+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:29.8907369+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:53.8708093+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:13.0964412+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:20.2905328+00:00"
 }

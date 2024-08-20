@@ -2,10 +2,10 @@
   "ID": "25f0070354fb4a99aea10c26488fe342",
   "Name": "Tom Clancy\u0027s Rainbow Six Vegas 2",
   "ProductSlug": "rainbow-six-vegas-2",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-04T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-09T19:58:09.2423453+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:17.7474106+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:43.4465098+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:25.6927061+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:22.2435901+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:29.5922508+00:00"
 }

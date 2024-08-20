@@ -10,9 +10,9 @@
 | Interesting | 28.00% | ~14 |
 | Amateur photographer | 22.00% | ~11 |
 | Let's get started | 16.00% | ~8 |
-| Rescuer | 14.00% | ~7 |
-| In search of knowledge | 14.00% | ~7 |
-| Power of the dolphin | 14.00% | ~7 |
+| Rescuer | 16.00% | ~8 |
+| In search of knowledge | 16.00% | ~8 |
+| Power of the dolphin | 16.00% | ~8 |
 | Power of the ray | 14.00% | ~7 |
 | Power of the turtle | 12.00% | ~6 |
 | Pro Photographer | 10.00% | ~5 |
@@ -37,8 +37,8 @@
 | Bay cleanup | 2.00% | ~1 |
 | Island cleanup | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50 (Ranked 769)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 50 (Ranked 772)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

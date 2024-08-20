@@ -5,10 +5,10 @@
   "Ranking_Rating": 493,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 377,
-  "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 383,
+  "Ranking_EOS_Completed": 321,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1479,
+  "EOS_Progressed": 1480,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -4261,6 +4261,11 @@
       "Time": "2024-08-09T18:04:54.365239+00:00",
       "NumProgressed": 1479,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-08-20T20:07:54.0551947+00:00",
+      "NumProgressed": 1480,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4320,7 +4325,7 @@
       "Name": "Like Clockwork",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ClovemaryGift",
@@ -4350,9 +4355,9 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 178
     },
     {
       "ID": "EntresolChests1",
@@ -4384,7 +4389,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -4512,7 +4517,7 @@
       "Name": "Time Flies",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ParryBoss",
@@ -4528,7 +4533,7 @@
       "Name": "No, Thanks!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4536,15 +4541,15 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 414
     },
     {
       "ID": "PidgeDefeated",
@@ -4552,7 +4557,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "RewindDamage1",
@@ -4560,7 +4565,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "RewindParry",
@@ -4568,15 +4573,15 @@
       "Name": "Honest Mistake",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ScrambotCompletion1",
       "SetID": "a9e499d",
       "Name": "Golem Hunter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "ScrambotProgress1",
@@ -4584,7 +4589,7 @@
       "Name": "Golem Chaser",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "SkillCompletion1",
@@ -4614,9 +4619,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 222
     },
     {
       "ID": "SyronGift",
@@ -4678,9 +4683,9 @@
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 488
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4695,7 +4700,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1479,
+      "Progressed": 1480,
       "Completed": 8
     }
   ],
@@ -4703,8 +4708,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-05-28T00:00:54.9751988+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:54.3652376+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:54.0551942+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:40.8292086+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:33.925481+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:54.3652865+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:28.7570557+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:54.0552473+00:00"
 }

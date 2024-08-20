@@ -6,49 +6,49 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 78.00% | ~6,210 |
-| Worker Specialization | 77.00% | ~6,131 |
-| First Contact | 72.00% | ~5,733 |
-| Win a Battle | 65.00% | ~5,175 |
-| Anomaly Researcher | 61.00% | ~4,857 |
-| Unleash My Power | 61.00% | ~4,857 |
-| Own 30 Planets | 33.00% | ~2,627 |
-| Design a Civilization | 32.00% | ~2,548 |
-| Commodity Trader | 31.00% | ~2,468 |
-| Xenocide | 31.00% | ~2,468 |
-| Design a Ship | 28.00% | ~2,229 |
-| Commodity Seller | 26.00% | ~2,070 |
-| Prestige Victory! | 14.00% | ~1,115 |
-| Recruit a Leader | 13.00% | ~1,035 |
-| Trading Partner | 11.00% | ~876 |
-| Galactic War | 10.00% | ~796 |
-| Fleet Victory | 10.00% | ~796 |
-| Ask Not What Your Empire Can Do For You | 9.00% | ~717 |
-| Veteran Crew | 9.00% | ~717 |
-| Hyperspace! | 8.00% | ~637 |
-| Win as Terrans | 7.00% | ~557 |
+| Colonize a Planet | 78.00% | ~6,220 |
+| Worker Specialization | 77.00% | ~6,141 |
+| First Contact | 72.00% | ~5,742 |
+| Win a Battle | 65.00% | ~5,184 |
+| Anomaly Researcher | 61.00% | ~4,865 |
+| Unleash My Power | 61.00% | ~4,865 |
+| Own 30 Planets | 33.00% | ~2,632 |
+| Design a Civilization | 32.00% | ~2,552 |
+| Commodity Trader | 31.00% | ~2,472 |
+| Xenocide | 31.00% | ~2,472 |
+| Design a Ship | 28.00% | ~2,233 |
+| Commodity Seller | 26.00% | ~2,074 |
+| Recruit a Leader | 14.00% | ~1,116 |
+| Prestige Victory! | 14.00% | ~1,116 |
+| Trading Partner | 11.00% | ~877 |
+| Ask Not What Your Empire Can Do For You | 10.00% | ~798 |
+| Galactic War | 10.00% | ~798 |
+| Fleet Victory | 10.00% | ~798 |
+| Hyperspace! | 9.00% | ~718 |
+| Veteran Crew | 9.00% | ~718 |
+| Win as Terrans | 7.00% | ~558 |
 | Gain an Ally | 6.00% | ~478 |
 | War with the Unknown | 6.00% | ~478 |
 | Win with a Custom Faction | 6.00% | ~478 |
-| Recruit a Dozen Leaders | 5.00% | ~398 |
-| Win Quickly | 5.00% | ~398 |
-| Solid Economy | 4.00% | ~318 |
-| Commodity Trader - Level 2 | 4.00% | ~318 |
-| Commodity Seller, Level 2 | 4.00% | ~318 |
-| Artifact Mastery | 4.00% | ~318 |
-| Conquest Victory! | 4.00% | ~318 |
-| Win an Immense Game | 4.00% | ~318 |
+| Recruit a Dozen Leaders | 5.00% | ~399 |
+| Commodity Seller, Level 2 | 5.00% | ~399 |
+| Win Quickly | 5.00% | ~399 |
+| Solid Economy | 4.00% | ~319 |
+| Commodity Trader - Level 2 | 4.00% | ~319 |
+| Artifact Mastery | 4.00% | ~319 |
+| Conquest Victory! | 4.00% | ~319 |
+| Win an Immense Game | 4.00% | ~319 |
 | Commodity Guru | 3.00% | ~239 |
 | Pirate Cleansing | 3.00% | ~239 |
 | Commodity Selling Guru | 3.00% | ~239 |
-| Win as Altarians | 2.00% | ~159 |
-| Win as the Yor | 2.00% | ~159 |
-| Influence Victory! | 2.00% | ~159 |
+| Win as Altarians | 2.00% | ~160 |
+| Win as the Yor | 2.00% | ~160 |
+| Influence Victory! | 2.00% | ~160 |
 | Win as the Baratak | 1.00% | ~80 |
 | Win as the Mimot | 1.00% | ~80 |
+| Win as the Navigators | 1.00% | ~80 |
 | Win as Arceans | 0.90% | ~72 |
 | Win as Festron | 0.90% | ~72 |
-| Win as the Navigators | 0.90% | ~72 |
 | Win as the Krynn | 0.80% | ~64 |
 | Win as Torians | 0.80% | ~64 |
 | Win as the Drengin | 0.70% | ~56 |
@@ -60,7 +60,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Onyx | 0.60% | ~48 |
 | Diplomatic Victory! | 0.60% | ~48 |
 | Win as the Iconians | 0.50% | ~40 |
-| Play a Multiplayer Game | 0.30% | ~24 |
+| Play a Multiplayer Game | 0.40% | ~32 |
 | Rebuild the Retribution | 0.30% | ~24 |
 | Iconia Reclaimed! | 0.30% | ~24 |
 | Relic Hoarder | 0.20% | ~16 |
@@ -79,8 +79,8 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,962 (Ranked 257)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 7,975 (Ranked 259)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -367,6 +367,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 7,785 | 0 |
 | 2024-06-17 | 7,879 | 0 |
 | 2024-08-09 | 7,962 | 0 |
+| 2024-08-20 | 7,975 | 0 |
 ## Awards
 Max (Diverse Characters): 101  (Ranked 453)  
 Sum: 709 (Ranked 368)  

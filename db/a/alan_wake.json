@@ -2,13 +2,13 @@
   "ID": "00b9ec358e1f46daa4f8e1194d5081d8",
   "Name": "Alan Wake",
   "ProductSlug": "alan-wake",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 577,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2016-02-16T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -572,6 +572,6 @@
   "FirstSeen": "2022-07-22T20:27:21.5062168+00:00",
   "LastChanged": "2024-08-05T23:59:32.0630661+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:11.5460292+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:43.0175649+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:57:21.9289322+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.894257+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 813,
   "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 345,
-  "Ranking_EOS_Progress": 271,
-  "Ranking_EOS_Completed": 487,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Completed": 494,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -3293,9 +3293,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 5745,
+  "EOS_Progressed": 5853,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7653,6 +7653,11 @@
       "Time": "2024-08-09T18:04:47.9353011+00:00",
       "NumProgressed": 5745,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-20T20:07:43.7646786+00:00",
+      "NumProgressed": 5853,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T12:10:13.2139946+00:00",
@@ -7665,15 +7670,15 @@
       "Name": "Ahoooooooooy!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "ARCTIC_EDGE",
       "SetID": "d5e5a3e",
       "Name": "Arctic Edge",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "AURORA_GAZER",
@@ -7681,7 +7686,7 @@
       "Name": "Aurora Gazer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "BEEN_THERE_RODE_THERE",
@@ -7689,7 +7694,7 @@
       "Name": "Been there, rode there",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1953
+      "UsersEstimate": 1990
     },
     {
       "ID": "BOW_DOWN_MISTER",
@@ -7697,7 +7702,7 @@
       "Name": "Bow Down Mister",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DON_CUPI",
@@ -7705,7 +7710,7 @@
       "Name": "Don Cupi",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "EVERY_NOOK_AND_CRANNY",
@@ -7713,7 +7718,7 @@
       "Name": "Every Nook and Cranny",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "FILTER_OR_NOT_THAT_S_THE_QUESTION",
@@ -7721,7 +7726,7 @@
       "Name": "To filter or not, that\u2019s the question",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "FLOWER_GIRL",
@@ -7729,7 +7734,7 @@
       "Name": "Flower Girl",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GO_BIG_OR_GO_HOME",
@@ -7737,7 +7742,7 @@
       "Name": "Go Big or Go Home",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1639
     },
     {
       "ID": "HOURS_OF_WORK",
@@ -7753,15 +7758,15 @@
       "Name": "In Need of New Shoes",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3102
     },
     {
       "ID": "LIKE_A_FATHER_LIKE_A_SON",
       "SetID": "d5e5a3e",
       "Name": "Like Father, Like Son",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2107
     },
     {
       "ID": "LIKE_A_PALM_OF_MY_HAND",
@@ -7769,7 +7774,7 @@
       "Name": "Like the Back of My Hand",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "NICE_TO_MEET_YOU",
@@ -7777,15 +7782,15 @@
       "Name": "Nice to Meet You",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 632
+      "UsersEstimate": 644
     },
     {
       "ID": "NOT_GREAT_NOT_TERRIBLE",
       "SetID": "d5e5a3e",
       "Name": "Not Great, Not Terrible",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2809
     },
     {
       "ID": "NUMBER_ONE_DAD",
@@ -7793,7 +7798,7 @@
       "Name": "Number One Dad",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     },
     {
       "ID": "PLAIN_ASSESSMENT",
@@ -7801,7 +7806,7 @@
       "Name": "Plain Assessment",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "SPORTSMAN_STAGE",
@@ -7817,7 +7822,7 @@
       "Name": "Springbok Namibia",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SUREFIRE_ASSESSMENT",
@@ -7825,7 +7830,7 @@
       "Name": "Surefire Assessment",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "SWINGING_DUCK",
@@ -7833,7 +7838,7 @@
       "Name": "Swinging Duck",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "TASK_FORCE_AURORA",
@@ -7841,7 +7846,7 @@
       "Name": "Task Force Aurora",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TASK_FORCE_TIKAMOON",
@@ -7849,7 +7854,7 @@
       "Name": "Task Force Tikamoon",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TOP_OF_THE_PYRAMID",
@@ -7857,7 +7862,7 @@
       "Name": "Top of the Pyramid",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1321
+      "UsersEstimate": 1346
     },
     {
       "ID": "WELCOME_TO_THE_LAND_OF_VAMP_CHAMOIS",
@@ -7865,7 +7870,7 @@
       "Name": "Welcome to the land of vamp\u2026 chamois!",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 234
     },
     {
       "ID": "WORTH_THE_VIEW",
@@ -7873,14 +7878,14 @@
       "Name": "Worth the View",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 172
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "d5e5a3e",
       "IsBase": true,
-      "Progressed": 5745,
+      "Progressed": 5853,
       "Completed": 2
     }
   ],
@@ -7888,8 +7893,8 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
   "LastChanged": "2024-08-20T16:58:35.3372502+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:47.9353009+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:43.7646783+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:36.7196721+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:54.7258178+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:47.9353353+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:46.9480309+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:43.7647143+00:00"
 }

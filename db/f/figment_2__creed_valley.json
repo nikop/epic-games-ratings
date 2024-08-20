@@ -2,10 +2,10 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 625,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 633,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -446,17 +446,17 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "fluff_arguing_opinions_conviction_lane",
@@ -510,9 +510,9 @@
       "ID": "shards_all_remembranes",
       "SetID": "7e96e7l",
       "Name": "Come full circle",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 80,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "shards_all_shards_all_levels",
@@ -542,17 +542,17 @@
       "ID": "story_dance_off",
       "SetID": "7e96e7l",
       "Name": "Dance like an idiot",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "story_end_credits",
       "SetID": "7e96e7l",
       "Name": "I\u0027m Back at the Surface now",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 120,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "story_ethics_maze",
@@ -566,17 +566,17 @@
       "ID": "story_jester_land",
       "SetID": "7e96e7l",
       "Name": "Flee like an idiot",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "story_principle_square",
@@ -599,8 +599,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:47.5609585+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:43.3121407+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:23.5019578+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:52.338332+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:47.5609705+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:47.7621735+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:07:43.3121527+00:00"
 }

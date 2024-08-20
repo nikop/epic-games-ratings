@@ -2,10 +2,10 @@
   "ID": "798b7ebbde4d4904aa528a4a8823203b",
   "Name": "Lost in Space: Madness",
   "ProductSlug": "lost-in-space-cf76ae",
-  "Ranking_EOS_Progress": 1037,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1049,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-19T19:00:00+00:00",
     "PcReleaseDate": "2023-12-17T20:30:00+00:00",
@@ -219,6 +219,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:03.680303+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:03.680296+00:00",
   "LastUpdate_AppInfo": "2024-08-20T14:57:02.8285734+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:36.8011805+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:31.295739+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:03.6811947+00:00"
 }

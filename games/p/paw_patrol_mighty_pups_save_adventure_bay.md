@@ -35,8 +35,8 @@
 | You Know Them All | 2.00% | ~3 |
 | The Collector | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 627)  
-Completed: 3 (2.17%) (Ranked 195)  
+Progressed: 138 (Ranked 634)  
+Completed: 3 (2.17%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

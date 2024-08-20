@@ -5,58 +5,58 @@ Rating: 4.59 (Ranked 493)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Auto Shop | 61.00% | ~1,700 |
-| Patent Pending | 47.00% | ~1,310 |
-| Into the Wilderness | 45.00% | ~1,254 |
-| Investigate the Zone | 43.00% | ~1,198 |
-| Sleight of Hand | 36.00% | ~1,003 |
-| Great Scott! | 29.00% | ~808 |
-| A Leap of Faith | 29.00% | ~808 |
-| Juiced Up | 27.00% | ~752 |
-| Car Whisperer | 25.00% | ~697 |
-| Et tu? | 24.00% | ~669 |
-| ARDA Record-Keeper | 24.00% | ~669 |
-| Where We're Going, We Don't Need Roads | 22.00% | ~613 |
-| Stabilizing the Route | 21.00% | ~585 |
-| Driver's Ed Dropout | 18.00% | ~502 |
-| Troubleshooting | 18.00% | ~502 |
-| The Eye of the Storm | 16.00% | ~446 |
-| Packrat | 15.00% | ~418 |
-| It Would Take a Miracle | 15.00% | ~418 |
-| Car Of Theseus | 14.00% | ~390 |
-| DIY Expert | 14.00% | ~390 |
-| The Mid-Zone Crossing | 14.00% | ~390 |
-| Hack the Planet! | 14.00% | ~390 |
-| The Visions | 13.00% | ~362 |
-| Long Haul | 12.00% | ~334 |
-| The Red Meadow Records | 12.00% | ~334 |
-| Fully Outfitted | 11.00% | ~307 |
-| Personal Methods of Creative Expression are Highly Encouraged | 11.00% | ~307 |
-| Certified Mechanic | 10.00% | ~279 |
-| The Deep Zone Crossing | 10.00% | ~279 |
-| They Weren't Using It | 9.00% | ~251 |
-| Graverobber | 8.00% | ~223 |
-| The Anomaly Barricade | 8.00% | ~223 |
-| ARDA Lorekeeper | 7.00% | ~195 |
-| I Don’t Know What I Expected | 7.00% | ~195 |
-| The End of the Road | 7.00% | ~195 |
-| Along for the Ride | 6.00% | ~167 |
-| Renewable Power | 6.00% | ~167 |
-| Streets Ahead | 6.00% | ~167 |
-| Fly Homeward | 6.00% | ~167 |
-| Nothing Personnel, Zone | 5.00% | ~139 |
-| Lumberjack | 2.00% | ~56 |
-| Garage Barrage | 2.00% | ~56 |
-| Scientific Pursuit | 2.00% | ~56 |
-| DIY Master | 1.00% | ~28 |
-| Just Walk it Off | 0.90% | ~25 |
-| Watch Out for Hop-ons! | 0.60% | ~17 |
-| No Parking | 0.50% | ~14 |
-| With the Top Down | 0.30% | ~8 |
+| The Auto Shop | 63.00% | ~1,923 |
+| Patent Pending | 47.00% | ~1,434 |
+| Into the Wilderness | 47.00% | ~1,434 |
+| Investigate the Zone | 45.00% | ~1,373 |
+| Sleight of Hand | 36.00% | ~1,099 |
+| A Leap of Faith | 30.00% | ~916 |
+| Great Scott! | 29.00% | ~885 |
+| Juiced Up | 27.00% | ~824 |
+| Car Whisperer | 25.00% | ~763 |
+| Et tu? | 24.00% | ~732 |
+| ARDA Record-Keeper | 24.00% | ~732 |
+| Where We're Going, We Don't Need Roads | 23.00% | ~702 |
+| Stabilizing the Route | 22.00% | ~671 |
+| Driver's Ed Dropout | 19.00% | ~580 |
+| Troubleshooting | 18.00% | ~549 |
+| The Eye of the Storm | 16.00% | ~488 |
+| Packrat | 15.00% | ~458 |
+| It Would Take a Miracle | 15.00% | ~458 |
+| Car Of Theseus | 14.00% | ~427 |
+| DIY Expert | 14.00% | ~427 |
+| The Mid-Zone Crossing | 14.00% | ~427 |
+| Hack the Planet! | 14.00% | ~427 |
+| The Visions | 13.00% | ~397 |
+| Long Haul | 12.00% | ~366 |
+| The Red Meadow Records | 12.00% | ~366 |
+| Personal Methods of Creative Expression are Highly Encouraged | 11.00% | ~336 |
+| Fully Outfitted | 10.00% | ~305 |
+| Certified Mechanic | 10.00% | ~305 |
+| The Deep Zone Crossing | 10.00% | ~305 |
+| They Weren't Using It | 9.00% | ~275 |
+| Graverobber | 9.00% | ~275 |
+| The Anomaly Barricade | 8.00% | ~244 |
+| Renewable Power | 7.00% | ~214 |
+| I Don’t Know What I Expected | 7.00% | ~214 |
+| The End of the Road | 7.00% | ~214 |
+| Along for the Ride | 6.00% | ~183 |
+| Nothing Personnel, Zone | 6.00% | ~183 |
+| ARDA Lorekeeper | 6.00% | ~183 |
+| Streets Ahead | 6.00% | ~183 |
+| Fly Homeward | 6.00% | ~183 |
+| Lumberjack | 2.00% | ~61 |
+| Scientific Pursuit | 2.00% | ~61 |
+| Just Walk it Off | 1.00% | ~31 |
+| DIY Master | 1.00% | ~31 |
+| Garage Barrage | 1.00% | ~31 |
+| Watch Out for Hop-ons! | 0.60% | ~18 |
+| No Parking | 0.40% | ~12 |
 | Running on Empty | 0.20% | ~6 |
+| With the Top Down | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,787 (Ranked 324)  
-Completed: 1 (0.04%) (Ranked 476)  
+Progressed: 3,052 (Ranked 319)  
+Completed: 2 (0.07%) (Ranked 457)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 1 (0.04%) (Ranked 476)
 | 2024-06-17 | 1,941 | 0 |
 | 2024-06-26 | 2,177 | 0 |
 | 2024-08-09 | 2,787 | 1 |
+| 2024-08-20 | 3,052 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

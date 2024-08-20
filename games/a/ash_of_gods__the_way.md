@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 89.00% | ~92 |
-| Suicide squad | 52.00% | ~54 |
-| Train hard, fight easy | 38.00% | ~39 |
-| Under cover | 38.00% | ~39 |
+| First success | 90.00% | ~93 |
+| Suicide squad | 53.00% | ~55 |
+| Train hard, fight easy | 39.00% | ~40 |
+| Under cover | 39.00% | ~40 |
 | First blood | 38.00% | ~39 |
-| Royal blessing | 30.00% | ~31 |
+| Royal blessing | 31.00% | ~32 |
 | Blood and sand | 29.00% | ~30 |
 | A hidden snake | 27.00% | ~28 |
 | Help of the Gell | 23.00% | ~24 |
+| Surpass the teacher | 22.00% | ~23 |
 | Crimson rivers | 21.00% | ~22 |
 | Power of Inquisition | 21.00% | ~22 |
-| Surpass the teacher | 21.00% | ~22 |
+| All for one! | 21.00% | ~22 |
 | She-Wolf | 21.00% | ~22 |
 | Vene, vidi, vici | 20.00% | ~21 |
-| All for one! | 20.00% | ~21 |
 | Trial by cold | 17.00% | ~18 |
+| Berkanan Borgia | 16.00% | ~16 |
 | Rage | 16.00% | ~16 |
-| Berkanan Borgia | 15.00% | ~15 |
 | For the greater good | 14.00% | ~14 |
 | The champion of the arena | 11.00% | ~11 |
-| Punish the Punisher | 9.00% | ~9 |
+| Punish the Punisher | 10.00% | ~10 |
 | The End | 9.00% | ~9 |
 | Collector | 8.00% | ~8 |
 | Stronger than Gellian steel | 8.00% | ~8 |
 | Overplay the rogue | 7.00% | ~7 |
+| The best apprentice | 7.00% | ~7 |
 | Defeat the bear | 7.00% | ~7 |
 | Protect the Healer! | 7.00% | ~7 |
 | Cunning plan | 7.00% | ~7 |
-| The best apprentice | 6.00% | ~6 |
 | First among Frisians | 6.00% | ~6 |
 | All's fair in love and war | 6.00% | ~6 |
 | Nothing is settled | 6.00% | ~6 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 674)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 103 (Ranked 679)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

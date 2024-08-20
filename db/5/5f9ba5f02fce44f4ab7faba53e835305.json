@@ -2,10 +2,10 @@
   "ID": "5f9ba5f02fce44f4ab7faba53e835305",
   "Name": "TrekkingAndCamping",
   "ProductSlug": "trekkingandcamping-655909",
-  "Ranking_EOS_Progress": 823,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 820,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-04T00:00:00+00:00",
     "PcReleaseDate": "2021-05-04T08:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -92,6 +92,11 @@
       "Time": "2024-08-09T18:06:00.6571201+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:05.9709895+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T06:05:24.8004008+00:00",
@@ -110,7 +115,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "8g4agn4",
       "Name": "Ukulele",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -118,7 +123,7 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8g4agn4",
       "Name": "Dark magic",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 9
     },
@@ -134,7 +139,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "8g4agn4",
       "Name": "Dark Humor",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -158,7 +163,7 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "8g4agn4",
       "Name": "George\u0027s photo",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -166,7 +171,7 @@
       "ID": "NEW_ACHIEVEMENT_1_16",
       "SetID": "8g4agn4",
       "Name": "Summit",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -174,7 +179,7 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "8g4agn4",
       "Name": "Roll the dice",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -182,7 +187,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8g4agn4",
       "Name": "Erudite",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -190,7 +195,7 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8g4agn4",
       "Name": "Recorded",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -222,7 +227,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8g4agn4",
       "Name": "Do not drink and get sleepy",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 110,
       "UsersEstimate": 4
     }
@@ -231,13 +236,13 @@
     {
       "ID": "8g4agn4",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-13T15:04:04.2930323+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:00.6571199+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:05.9709888+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:48.4130491+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:34.6225414+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:00.6571266+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:05.9710003+00:00"
 }

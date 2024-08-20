@@ -2,10 +2,10 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 491,
-  "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 493,
+  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 436,
+  "EOS_Progressed": 444,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.69,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -1274,6 +1274,11 @@
       "Time": "2024-08-09T18:07:13.7477724+00:00",
       "NumProgressed": 436,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:12:10.1468913+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1284,9 +1289,9 @@
       "ID": "TINGWD_ADMIN",
       "SetID": "c0imaa6",
       "Name": "Administrator",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 373
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1294,15 +1299,15 @@
       "Name": "A friend of the animals... or not.",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "TINGWD_BEATEM",
       "SetID": "c0imaa6",
       "Name": "This is not a Beat\u0027em up",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 71
     },
     {
       "ID": "TINGWD_BLUEMOON",
@@ -1310,7 +1315,7 @@
       "Name": "Blue moon",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TINGWD_BUTTON_PLAY",
@@ -1318,15 +1323,15 @@
       "Name": "I want to PLAY!!",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TINGWD_BUTTON_UNINSTALL",
       "SetID": "c0imaa6",
       "Name": "Future of the planet, and all that...",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "TINGWD_BUZZ",
@@ -1334,7 +1339,7 @@
       "Name": "To infinity and beyond!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -1342,15 +1347,15 @@
       "Name": "Carmack junior",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 364
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1358,15 +1363,15 @@
       "Name": "A soundly led quest",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 124
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -1374,15 +1379,15 @@
       "Name": "The end of the ordeal",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -1390,7 +1395,7 @@
       "Name": "Home at last",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -1398,7 +1403,7 @@
       "Name": "Serial Clicker",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -1406,7 +1411,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 360
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1414,7 +1419,7 @@
       "Name": "Private Detective",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 395
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1428,17 +1433,17 @@
       "ID": "TINGWD_GUIDE",
       "SetID": "c0imaa6",
       "Name": "Follow the guide!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "TINGWD_HEADSHOT",
       "SetID": "c0imaa6",
       "Name": "Headshot",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1462,15 +1467,15 @@
       "Name": "Have you no shame?",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 382
     },
     {
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 115
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -1486,7 +1491,7 @@
       "Name": "One Punch Man",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1494,15 +1499,15 @@
       "Name": "Better than Mr. Radar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 151
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -1510,7 +1515,7 @@
       "Name": "Random luck!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TINGWD_SHIFUMI_LOSE",
@@ -1518,7 +1523,7 @@
       "Name": "Roshambo Addict",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "TINGWD_SHOOT",
@@ -1534,15 +1539,15 @@
       "Name": "Spam",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "TINGWD_TRAP",
       "SetID": "c0imaa6",
       "Name": "It\u0027s a trap!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 120,
-      "UsersEstimate": 192
+      "UsersEstimate": 191
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1550,21 +1555,21 @@
       "Name": "Wrong Dimension",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 436,
+      "Progressed": 444,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:13.7477722+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:10.1468907+00:00",
   "LastUpdate_AppInfo": "2024-08-20T18:57:13.6743271+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:38.9722167+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:13.7477933+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:33.2136081+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:12:10.1469174+00:00"
 }

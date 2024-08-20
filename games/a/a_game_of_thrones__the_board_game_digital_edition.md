@@ -1,36 +1,36 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 1,085)  
+Rating: 4.21 (Ranked 1,086)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 41.00% | ~19,120 |
-| Battering Crew | 19.00% | ~8,861 |
-| The Kingsroad | 17.00% | ~7,928 |
-| Well Stocked | 13.00% | ~6,063 |
-| Royal Fleet | 12.00% | ~5,596 |
-| The Kraken’s Grasp | 8.00% | ~3,731 |
-| Daggers in the Dark | 7.00% | ~3,264 |
-| Oathkeeper | 7.00% | ~3,264 |
-| Alliance | 7.00% | ~3,264 |
-| Influential | 7.00% | ~3,264 |
-| A Long Journey | 7.00% | ~3,264 |
-| Ours is the Fury | 6.00% | ~2,798 |
-| Winter is Coming | 6.00% | ~2,798 |
-| We Do Not Sow | 5.00% | ~2,332 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~2,332 |
-| Hear me Roar! | 5.00% | ~2,332 |
-| Defender of the Wall | 5.00% | ~2,332 |
-| Growing Strong | 4.00% | ~1,865 |
-| What is Dead may Never Die | 3.00% | ~1,399 |
-| King in the North | 2.00% | ~933 |
-| The Swift | 2.00% | ~933 |
-| War of the Five Kings | 1.00% | ~466 |
+| Conqueror | 41.00% | ~19,447 |
+| Battering Crew | 19.00% | ~9,012 |
+| The Kingsroad | 17.00% | ~8,063 |
+| Well Stocked | 13.00% | ~6,166 |
+| Royal Fleet | 12.00% | ~5,692 |
+| The Kraken’s Grasp | 8.00% | ~3,794 |
+| Daggers in the Dark | 7.00% | ~3,320 |
+| Oathkeeper | 7.00% | ~3,320 |
+| Alliance | 7.00% | ~3,320 |
+| Influential | 7.00% | ~3,320 |
+| A Long Journey | 7.00% | ~3,320 |
+| Ours is the Fury | 6.00% | ~2,846 |
+| Winter is Coming | 6.00% | ~2,846 |
+| We Do Not Sow | 5.00% | ~2,372 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~2,372 |
+| Hear me Roar! | 5.00% | ~2,372 |
+| Defender of the Wall | 5.00% | ~2,372 |
+| Growing Strong | 4.00% | ~1,897 |
+| What is Dead may Never Die | 3.00% | ~1,423 |
+| King in the North | 2.00% | ~949 |
+| The Swift | 2.00% | ~949 |
+| War of the Five Kings | 1.00% | ~474 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,635 (Ranked 175)  
-Completed: 119 (0.26%) (Ranked 373)  
+Progressed: 47,431 (Ranked 175)  
+Completed: 121 (0.26%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,6 +317,7 @@ Completed: 119 (0.26%) (Ranked 373)
 | 2024-04-10 | 39,150 | 99 |
 | 2024-06-17 | 43,014 | 111 |
 | 2024-08-09 | 46,635 | 119 |
+| 2024-08-20 | 47,431 | 121 |
 ## Awards
 Max (Quickly Understood Controls): 132  (Ranked 410)  
 Sum: 851 (Ranked 341)  

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Promising Detective | 60.00% | ~12 |
-| Star Cadet | 30.00% | ~6 |
-| Professional Detective | 15.00% | ~3 |
-| Good Detective | 15.00% | ~3 |
-| Junior Detective | 15.00% | ~3 |
-| Read Me | 10.00% | ~2 |
+| Promising Detective | 57.00% | ~12 |
+| Star Cadet | 29.00% | ~6 |
+| Read Me | 14.00% | ~3 |
+| Professional Detective | 14.00% | ~3 |
+| Good Detective | 14.00% | ~3 |
+| Junior Detective | 14.00% | ~3 |
 | Keen Eye | 10.00% | ~2 |
 | Experienced Detective | 5.00% | ~1 |
 | Star Corporal | 5.00% | ~1 |
@@ -24,11 +24,12 @@
 | Star Specialist | 0.00% | ~0 |
 | Star Sergeant | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20 (Ranked 864)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 21 (Ranked 866)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-10 | 1 | 0 |
 | 2024-06-17 | 17 | 0 |
 | 2024-07-30 | 20 | 0 |
+| 2024-08-20 | 21 | 0 |

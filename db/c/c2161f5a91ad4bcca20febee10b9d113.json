@@ -2,10 +2,10 @@
   "ID": "c2161f5a91ad4bcca20febee10b9d113",
   "Name": "The Coma: Recut",
   "ProductSlug": "the-coma-recut-46a500",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-30T15:00:00+00:00",
     "PcReleaseDate": "2017-09-22T10:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-06T11:58:38.9092606+00:00",
   "LastUpdate_AppInfo": "2024-08-14T01:58:38.3879871+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:47.1202516+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:59.9830961+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:44.3415931+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:31.1277743+00:00"
 }

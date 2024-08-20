@@ -2,10 +2,10 @@
   "ID": "a2100103ee894b96826d1c1ce2bae4c9",
   "Name": "Still Wakes The Deep",
   "ProductSlug": "still-wakes-the-deep-698c81",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Completed": 280,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-18T09:00:00+00:00",
     "PcReleaseDate": "2024-06-18T09:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 226,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.94,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:43.0970604+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:08:14.9144402+00:00",
       "NumProgressed": 213,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-20T20:13:57.3146673+00:00",
+      "NumProgressed": 226,
       "NumCompleted": 2
     }
   ],
@@ -52,15 +57,15 @@
       "Name": "Body Count",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SWTDLeccyUseStat",
       "SetID": "2pckip6",
       "Name": "Good with the \u0027Leccy",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "SWTDPhoneCallStat",
@@ -76,15 +81,15 @@
       "Name": "Full Fathom Five",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SWTDSprintStat",
       "SetID": "2pckip6",
       "Name": "Greased Scotsman",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "SWTDThrowableStat",
@@ -92,7 +97,7 @@
       "Name": "Look At All This Mess!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SWTD_ACH_001",
@@ -100,39 +105,39 @@
       "Name": "All Beans and Forgiveness",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 217
     },
     {
       "ID": "SWTD_ACH_002",
       "SetID": "2pckip6",
       "Name": "The Sickening of the Calm",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 206
     },
     {
       "ID": "SWTD_ACH_003",
       "SetID": "2pckip6",
       "Name": "Breathe In, Breathe Out, Repeat",
-      "Percentage": 81,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "SWTD_ACH_004",
       "SetID": "2pckip6",
       "Name": "Home by Christmas",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "SWTD_ACH_005",
       "SetID": "2pckip6",
       "Name": "Eye of the Needle",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 156
     },
     {
       "ID": "SWTD_ACH_006",
@@ -140,23 +145,23 @@
       "Name": "Everything Breaks",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 147
     },
     {
       "ID": "SWTD_ACH_007",
       "SetID": "2pckip6",
       "Name": "I Am The King",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 142
     },
     {
       "ID": "SWTD_ACH_008",
       "SetID": "2pckip6",
       "Name": "Compression Ignition",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 131
     },
     {
       "ID": "SWTD_ACH_009",
@@ -164,23 +169,23 @@
       "Name": "Into the Belly of the Beast",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 124
     },
     {
       "ID": "SWTD_ACH_010",
       "SetID": "2pckip6",
       "Name": "Surfacing",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 115
     },
     {
       "ID": "SWTD_ACH_011",
       "SetID": "2pckip6",
       "Name": "Beacon in the Dark",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 113
     },
     {
       "ID": "SWTD_ACH_012",
@@ -188,23 +193,23 @@
       "Name": "Treading Water",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 108
     },
     {
       "ID": "SWTD_ACH_013",
       "SetID": "2pckip6",
       "Name": "Beaufort Eleven",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 108
     },
     {
       "ID": "SWTD_ACH_014",
       "SetID": "2pckip6",
       "Name": "Leviathan",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 104
     },
     {
       "ID": "SWTD_ACH_015",
@@ -212,7 +217,7 @@
       "Name": "The Drowning of Davey Rennick",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "SWTD_ACH_016",
@@ -220,31 +225,31 @@
       "Name": "The Horror Sings",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 102
     },
     {
       "ID": "SWTD_ACH_017",
       "SetID": "2pckip6",
       "Name": "Still Wakes The Deep",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "SWTD_ACH_018",
       "SetID": "2pckip6",
       "Name": "Leaning Into It",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "SWTD_ACH_019",
       "SetID": "2pckip6",
       "Name": "Fahrenheit 0451",
-      "Percentage": 75,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 165
     },
     {
       "ID": "SWTD_ACH_020",
@@ -252,7 +257,7 @@
       "Name": "Cerebral Anoxia",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 93
     },
     {
       "ID": "SWTD_ACH_023",
@@ -260,7 +265,7 @@
       "Name": "Social Butterfly",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "SWTD_ACH_024",
@@ -268,7 +273,7 @@
       "Name": "Snoop",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "SWTD_ACH_025",
@@ -284,7 +289,7 @@
       "Name": "Finlay Destination",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SWTD_ACH_027",
@@ -308,7 +313,7 @@
       "Name": "Not so Good with the \u0027Leccy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SWTD_ACH_033",
@@ -324,37 +329,37 @@
       "Name": "Walking Simulator",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 66
+      "UsersEstimate": 70
     },
     {
       "ID": "SWTD_ACH_035",
       "SetID": "2pckip6",
       "Name": "Me and My Spoon",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "SWTD_ACH_036",
       "SetID": "2pckip6",
       "Name": "General Strike",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "2pckip6",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 226,
       "Completed": 2
     }
   ],
   "FirstSeen": "2024-06-18T13:59:28.0362481+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:43.4632852+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:14.9144397+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:57.3146668+00:00",
   "LastUpdate_AppInfo": "2024-08-16T07:57:13.4077744+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:47.7865526+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:14.9144617+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:04.6088722+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:57.3146921+00:00"
 }

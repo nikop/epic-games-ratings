@@ -2,10 +2,10 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 582,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 587,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -377,9 +377,9 @@
       "ID": "Geared",
       "SetID": "4nce15l",
       "Name": "Geared",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "GettingItDone",
@@ -409,9 +409,9 @@
       "ID": "MysteriesOfRin",
       "SetID": "4nce15l",
       "Name": "Mysteries of Rin",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "Opulent",
@@ -433,17 +433,17 @@
       "ID": "Patience",
       "SetID": "4nce15l",
       "Name": "Patience",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ReadyToRock",
       "SetID": "4nce15l",
       "Name": "Ready to Rock",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "SideJob",
@@ -490,8 +490,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:39.0400623+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:11.3037987+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:04.8808449+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:27.8051825+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:39.0400886+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:11.3038125+00:00"
 }

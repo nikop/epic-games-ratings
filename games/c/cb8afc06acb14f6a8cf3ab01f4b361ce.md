@@ -1,53 +1,53 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 1,085)  
+Rating: 4.21 (Ranked 1,086)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 11.00% | ~44,397 |
-| May the Torchbearer light our way | 10.00% | ~40,361 |
-| A powerful aura was here | 7.00% | ~28,253 |
-| Let's raise the stakes!! | 4.00% | ~16,144 |
-| Rumors are true | 2.00% | ~8,072 |
-| We'll be careful | 2.00% | ~8,072 |
-| Back to your senses | 2.00% | ~8,072 |
-| Pride is a sin, young Knight | 2.00% | ~8,072 |
-| Your wounds… They are healing so fast! | 2.00% | ~8,072 |
-| Bring it on! | 2.00% | ~8,072 |
-| They tricked me | 1.00% | ~4,036 |
-| We need to talk | 1.00% | ~4,036 |
-| I feel drawn to it | 1.00% | ~4,036 |
-| Here to stay | 1.00% | ~4,036 |
-| Counting on you | 1.00% | ~4,036 |
-| This is the end | 1.00% | ~4,036 |
-| We can choose to fight | 1.00% | ~4,036 |
-| They won't last long | 1.00% | ~4,036 |
-| I took a risk | 1.00% | ~4,036 |
-| Their fate is sealed | 0.70% | ~2,825 |
-| Not even from this world | 0.60% | ~2,422 |
-| No damsels in distress | 0.30% | ~1,211 |
-| You want more? I've got more! | 0.30% | ~1,211 |
-| Chaos be damned! | 0.30% | ~1,211 |
-| The Ashen Knight | 0.20% | ~807 |
-| The Shade | 0.20% | ~807 |
-| Through the Veil | 0.20% | ~807 |
-| The immortal is bound to reborn | 0.10% | ~404 |
-| A legend among Chimeras | 0.10% | ~404 |
-| It's only pain | 0.10% | ~404 |
-| I know how to handle it | 0.10% | ~404 |
-| Settle this once and for all | 0.10% | ~404 |
-| Call this the Judge's mercy | 0.10% | ~404 |
-| There's too many of them! | 0.10% | ~404 |
-| I've been waiting for this! | 0.10% | ~404 |
-| I'm just warming up | 0.10% | ~404 |
-| We learned it the hard way | 0.10% | ~404 |
-| They wanted yet another monster… | 0.10% | ~404 |
-| Something... unnatural | 0.10% | ~404 |
-| We strike as one | 0.10% | ~404 |
+| The touch of Chaos | 11.00% | ~44,737 |
+| May the Torchbearer light our way | 10.00% | ~40,670 |
+| A powerful aura was here | 7.00% | ~28,469 |
+| Let's raise the stakes!! | 4.00% | ~16,268 |
+| Your wounds… They are healing so fast! | 3.00% | ~12,201 |
+| Rumors are true | 2.00% | ~8,134 |
+| We'll be careful | 2.00% | ~8,134 |
+| Back to your senses | 2.00% | ~8,134 |
+| Pride is a sin, young Knight | 2.00% | ~8,134 |
+| Bring it on! | 2.00% | ~8,134 |
+| They tricked me | 1.00% | ~4,067 |
+| We need to talk | 1.00% | ~4,067 |
+| I feel drawn to it | 1.00% | ~4,067 |
+| Here to stay | 1.00% | ~4,067 |
+| Counting on you | 1.00% | ~4,067 |
+| This is the end | 1.00% | ~4,067 |
+| We can choose to fight | 1.00% | ~4,067 |
+| They won't last long | 1.00% | ~4,067 |
+| I took a risk | 1.00% | ~4,067 |
+| Their fate is sealed | 0.70% | ~2,847 |
+| Not even from this world | 0.60% | ~2,440 |
+| No damsels in distress | 0.30% | ~1,220 |
+| You want more? I've got more! | 0.30% | ~1,220 |
+| Chaos be damned! | 0.30% | ~1,220 |
+| The Ashen Knight | 0.20% | ~813 |
+| The Shade | 0.20% | ~813 |
+| Through the Veil | 0.20% | ~813 |
+| The immortal is bound to reborn | 0.10% | ~407 |
+| A legend among Chimeras | 0.10% | ~407 |
+| It's only pain | 0.10% | ~407 |
+| I know how to handle it | 0.10% | ~407 |
+| Settle this once and for all | 0.10% | ~407 |
+| Call this the Judge's mercy | 0.10% | ~407 |
+| There's too many of them! | 0.10% | ~407 |
+| I've been waiting for this! | 0.10% | ~407 |
+| I'm just warming up | 0.10% | ~407 |
+| We learned it the hard way | 0.10% | ~407 |
+| They wanted yet another monster… | 0.10% | ~407 |
+| Something... unnatural | 0.10% | ~407 |
+| We strike as one | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,609 (Ranked 68)  
-Completed: 16 (0.00%) (Ranked 554)  
+Progressed: 406,701 (Ranked 68)  
+Completed: 16 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,10 +178,11 @@ Completed: 16 (0.00%) (Ranked 554)
 | 2024-04-10 | 371,874 | 10 |
 | 2024-06-17 | 385,304 | 13 |
 | 2024-08-09 | 403,609 | 16 |
+| 2024-08-20 | 406,701 | 16 |
 ## Awards
 Max (Great Boss Battles): 117  (Ranked 434)  
-Sum: 117 (Ranked 545)  
-Diff (max vs sum): -111  
+Sum: 117 (Ranked 546)  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 117 |

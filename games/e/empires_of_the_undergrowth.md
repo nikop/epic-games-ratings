@@ -6,45 +6,45 @@ Number of Ratings: 212  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Home | 83.00% | ~913 |
-| Subjugation | 79.00% | ~869 |
-| The First Experiment | 74.00% | ~814 |
-| New Home - Medium | 70.00% | ~770 |
-| Subjugation - Medium | 66.00% | ~726 |
-| The First Experiment - Medium | 53.00% | ~583 |
-| New Home - Challenge | 45.00% | ~495 |
-| Quantity, not Quality | 39.00% | ~429 |
-| Subjugation - Challenge | 34.00% | ~374 |
-| Queen of the Hill | 28.00% | ~308 |
-| Rising Tide | 27.00% | ~297 |
-| New Home - Hard | 25.00% | ~275 |
-| The Harvest | 24.00% | ~264 |
-| The Second Experiment | 24.00% | ~264 |
-| First Innings | 23.00% | ~253 |
-| Separation Of Duties | 23.00% | ~253 |
-| Rising Tide - Medium | 23.00% | ~253 |
-| Queen of the Hill - Medium | 23.00% | ~253 |
-| Front Line | 23.00% | ~253 |
-| Cold Blood | 23.00% | ~253 |
-| Subjugation - Hard | 21.00% | ~231 |
-| A Bridge Too Far | 20.00% | ~220 |
-| The Second Experiment - Medium | 20.00% | ~220 |
-| Possibly the Final Experiment | 19.00% | ~209 |
-| The Final Experiment | 19.00% | ~209 |
-| The Harvest - Medium | 18.00% | ~198 |
-| Front Line - Medium | 18.00% | ~198 |
-| The First Experiment - Hard | 18.00% | ~198 |
-| Rapid Growth | 17.00% | ~187 |
-| Cold Blood - Medium | 14.00% | ~154 |
-| A Bridge Too Far - Medium | 13.00% | ~143 |
-| Possibly the Final Experiment - Medium | 13.00% | ~143 |
-| Queen of the Hill - Challenge | 11.00% | ~121 |
-| The Final Experiment - Medium | 11.00% | ~121 |
-| Front Line - Challenge | 10.00% | ~110 |
-| Vanilla | 9.00% | ~99 |
-| New Home - Impossible | 9.00% | ~99 |
-| Rising Tide - Challenge | 9.00% | ~99 |
-| The Harvest - Challenge | 9.00% | ~99 |
+| New Home | 83.00% | ~918 |
+| Subjugation | 79.00% | ~874 |
+| The First Experiment | 74.00% | ~818 |
+| New Home - Medium | 70.00% | ~774 |
+| Subjugation - Medium | 66.00% | ~730 |
+| The First Experiment - Medium | 53.00% | ~586 |
+| New Home - Challenge | 45.00% | ~498 |
+| Quantity, not Quality | 39.00% | ~431 |
+| Subjugation - Challenge | 34.00% | ~376 |
+| Rising Tide | 27.00% | ~299 |
+| Queen of the Hill | 27.00% | ~299 |
+| New Home - Hard | 25.00% | ~276 |
+| The Harvest | 24.00% | ~265 |
+| The Second Experiment | 24.00% | ~265 |
+| First Innings | 23.00% | ~254 |
+| Separation Of Duties | 23.00% | ~254 |
+| Queen of the Hill - Medium | 23.00% | ~254 |
+| Front Line | 23.00% | ~254 |
+| Rising Tide - Medium | 22.00% | ~243 |
+| Cold Blood | 22.00% | ~243 |
+| Subjugation - Hard | 21.00% | ~232 |
+| A Bridge Too Far | 20.00% | ~221 |
+| The Second Experiment - Medium | 20.00% | ~221 |
+| Possibly the Final Experiment | 19.00% | ~210 |
+| The Final Experiment | 19.00% | ~210 |
+| The Harvest - Medium | 18.00% | ~199 |
+| Front Line - Medium | 18.00% | ~199 |
+| Rapid Growth | 17.00% | ~188 |
+| The First Experiment - Hard | 17.00% | ~188 |
+| Cold Blood - Medium | 13.00% | ~144 |
+| A Bridge Too Far - Medium | 13.00% | ~144 |
+| Possibly the Final Experiment - Medium | 13.00% | ~144 |
+| Queen of the Hill - Challenge | 11.00% | ~122 |
+| Front Line - Challenge | 10.00% | ~111 |
+| The Final Experiment - Medium | 10.00% | ~111 |
+| Vanilla | 9.00% | ~100 |
+| New Home - Impossible | 9.00% | ~100 |
+| Rising Tide - Challenge | 9.00% | ~100 |
+| The Harvest - Challenge | 9.00% | ~100 |
 | Queen of the Hill - Hard | 7.00% | ~77 |
 | Rising Tide - Hard | 6.00% | ~66 |
 | The First Experiment - Impossible | 6.00% | ~66 |
@@ -140,14 +140,15 @@ Number of Ratings: 212  (23.09.2022)
 | New Year's Feast - Impossible | 0.00% | ~0 |
 | New Year's Feast - Medium | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,100 (Ranked 398)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 1,106 (Ranked 399)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 839 | 0 |
 | 2024-06-26 | 985 | 0 |
 | 2024-08-09 | 1,100 | 0 |
+| 2024-08-20 | 1,106 | 0 |
 ## Awards
 Max (Great for Beginners): 86  (Ranked 474)  
 Sum: 679 (Ranked 377)  

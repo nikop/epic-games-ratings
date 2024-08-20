@@ -33,8 +33,8 @@ Rating: 4.42 (Ranked 840)
 | There Can Only Be One | 2.00% | ~128 |
 | Good eyes, Murphy! | 2.00% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,400 (Ranked 266)  
-Completed: 19 (0.30%) (Ranked 362)  
+Progressed: 6,400 (Ranked 270)  
+Completed: 19 (0.30%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

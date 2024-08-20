@@ -2,10 +2,10 @@
   "ID": "1eb1a02f78034cb39087bc575adff07d",
   "Name": "Echo Of The Horizon",
   "ProductSlug": "echo-of-the-horizon-12b9ee",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-04T00:00:00+00:00",
     "PcReleaseDate": "2024-04-26T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-28T15:58:56.4034532+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:30.7286375+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:00:00.5333763+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:04.3418184+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:13.0162987+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:08:12.6235184+00:00"
 }

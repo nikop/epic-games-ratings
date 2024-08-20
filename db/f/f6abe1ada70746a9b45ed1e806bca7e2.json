@@ -2,10 +2,10 @@
   "ID": "f6abe1ada70746a9b45ed1e806bca7e2",
   "Name": "Dungeon Keeper\u2122 2",
   "ProductSlug": "dungeon-keeper-2-bd3e81",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T05:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-07-13T09:58:00.2195881+00:00",
   "LastUpdate_AppInfo": "2024-08-15T22:57:00.6692168+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:25.8763265+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:49.8621528+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:28.2580016+00:00"
 }

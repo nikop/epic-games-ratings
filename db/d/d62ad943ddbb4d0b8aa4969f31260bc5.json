@@ -2,10 +2,10 @@
   "ID": "d62ad943ddbb4d0b8aa4969f31260bc5",
   "Name": "Knight Swap",
   "ProductSlug": "knight-swap-d88239",
-  "Ranking_EOS_Progress": 724,
-  "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 726,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-29T16:30:00+00:00",
     "PcReleaseDate": "2019-10-22T08:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 75,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.11,
+  "EOS_Completed_Percentage": 4,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:07.1043012+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:06:35.3773452+00:00",
       "NumProgressed": 73,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-08-20T20:11:04.7857621+00:00",
+      "NumProgressed": 75,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:07.104305+00:00",
@@ -55,9 +60,9 @@
       "ID": "LEVEL_10",
       "SetID": "b3jnd7n",
       "Name": "A horse with no name",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_100",
@@ -71,7 +76,7 @@
       "ID": "LEVEL_20",
       "SetID": "b3jnd7n",
       "Name": "Bill the Pony",
-      "Percentage": 47,
+      "Percentage": 45,
       "XP": 30,
       "UsersEstimate": 34
     },
@@ -87,7 +92,7 @@
       "ID": "LEVEL_40",
       "SetID": "b3jnd7n",
       "Name": "The Turim Horse",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
       "UsersEstimate": 7
     },
@@ -136,14 +141,14 @@
     {
       "ID": "b3jnd7n",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 75,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-06-10T21:58:07.1469368+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:07.1043049+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:35.377345+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:04.7857615+00:00",
   "LastUpdate_AppInfo": "2024-08-14T01:58:37.9387635+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:42.6597727+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:35.37735+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:58:01.3337962+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:11:04.7857702+00:00"
 }

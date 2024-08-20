@@ -5,10 +5,10 @@
   "Ranking_Rating": 599,
   "Ranking_Popularity": 466,
   "Ranking_PopularitySum": 527,
-  "Ranking_EOS_Progress": 367,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-09-08T17:00:00+00:00",
     "PcReleaseDate": "2020-09-08T17:00:00+00:00",
@@ -639,9 +639,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 1660,
+  "EOS_Progressed": 1727,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2024-08-09T18:04:36.357804+00:00",
       "NumProgressed": 1660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:23.7529747+00:00",
+      "NumProgressed": 1727,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:11:10.1972643+00:00",
@@ -676,15 +681,15 @@
       "Name": "Reborn",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 913
+      "UsersEstimate": 950
     },
     {
       "ID": "ACHI_001",
       "SetID": "84h3d1k",
       "Name": "No Destiny, All Determination",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHI_002",
@@ -692,15 +697,15 @@
       "Name": "Turning the Tide",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHI_003",
       "SetID": "84h3d1k",
       "Name": "Hero of Mel Senshir",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHI_004",
@@ -708,7 +713,7 @@
       "Name": "Destiny Defiant",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_005",
@@ -716,7 +721,7 @@
       "Name": "Destiny Dominated",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHI_006",
@@ -724,7 +729,7 @@
       "Name": "House of Ballads",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHI_007",
@@ -732,7 +737,7 @@
       "Name": "House of Sorrows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHI_008",
@@ -740,7 +745,7 @@
       "Name": "Scholia Arcana",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHI_009",
@@ -748,7 +753,7 @@
       "Name": "Travelers",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHI_010",
@@ -756,7 +761,7 @@
       "Name": "Warsworn",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHI_011",
@@ -764,7 +769,7 @@
       "Name": "Reckoning Rampage",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 363
     },
     {
       "ID": "ACHI_012",
@@ -772,7 +777,7 @@
       "Name": "Niskaru Slayer",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHI_013",
@@ -780,7 +785,7 @@
       "Name": "Out of Your League",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHI_014",
@@ -788,15 +793,15 @@
       "Name": "Cleaning Up the Streets",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 432
     },
     {
       "ID": "ACHI_015",
       "SetID": "84h3d1k",
       "Name": "To the Victor Go the Spoils",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHI_016",
@@ -804,7 +809,7 @@
       "Name": "Foiled Again!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_017",
@@ -812,7 +817,7 @@
       "Name": "Trapper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_018",
@@ -820,7 +825,7 @@
       "Name": "Riposte!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHI_019",
@@ -828,7 +833,7 @@
       "Name": "Would You Like Fries with that?",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 656
     },
     {
       "ID": "ACHI_020",
@@ -836,7 +841,7 @@
       "Name": "Shock and Awe",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHI_021",
@@ -844,7 +849,7 @@
       "Name": "And Then There Were None",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHI_022",
@@ -852,7 +857,7 @@
       "Name": "Juggler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHI_023",
@@ -860,7 +865,7 @@
       "Name": "Elixir of Fate",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_024",
@@ -868,7 +873,7 @@
       "Name": "It Didn\u0027t Explode!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 311
     },
     {
       "ID": "ACHI_025",
@@ -876,15 +881,15 @@
       "Name": "Green Thumb",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 225
     },
     {
       "ID": "ACHI_026",
       "SetID": "84h3d1k",
       "Name": "Good as New",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 674
     },
     {
       "ID": "ACHI_027",
@@ -892,7 +897,7 @@
       "Name": "Shop Class",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 345
     },
     {
       "ID": "ACHI_028",
@@ -900,15 +905,15 @@
       "Name": "Master of the Forge",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHI_029",
       "SetID": "84h3d1k",
       "Name": "Romancing the Gem",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHI_030",
@@ -916,15 +921,15 @@
       "Name": "Diamond in the Rough",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHI_031",
       "SetID": "84h3d1k",
       "Name": "They Never Saw it Coming",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHI_032",
@@ -932,7 +937,7 @@
       "Name": "Cartographer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHI_033",
@@ -940,7 +945,7 @@
       "Name": "The Great Detective",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHI_034",
@@ -956,7 +961,7 @@
       "Name": "Bookworm",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_036",
@@ -964,7 +969,7 @@
       "Name": "Big Spender",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHI_037",
@@ -972,7 +977,7 @@
       "Name": "Five Finger Discount",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHI_038",
@@ -980,15 +985,15 @@
       "Name": "Where\u0027s My Wallet?",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHI_039",
       "SetID": "84h3d1k",
       "Name": "Jailbreak",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHI_040",
@@ -1004,7 +1009,7 @@
       "Name": "Crime Doesn\u0027t Pay",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_042",
@@ -1012,7 +1017,7 @@
       "Name": "Some of This, Some of That",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 414
     },
     {
       "ID": "ACHI_043",
@@ -1020,7 +1025,7 @@
       "Name": "It is Your Destiny",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 121
     },
     {
       "ID": "ACHI_044",
@@ -1028,15 +1033,15 @@
       "Name": "Jack of All Trades",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 276
     },
     {
       "ID": "ACHI_045",
       "SetID": "84h3d1k",
       "Name": "Breaking and Entering",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 328
     },
     {
       "ID": "ACHI_046",
@@ -1044,7 +1049,7 @@
       "Name": "Open Sesame",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "ACHI_047",
@@ -1052,7 +1057,7 @@
       "Name": "A Wink and a Smile",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHI_048",
@@ -1060,7 +1065,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHI_049",
@@ -1068,15 +1073,15 @@
       "Name": "Streaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_050",
       "SetID": "84h3d1k",
       "Name": "Message in a Bottle",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHI_051",
@@ -1084,7 +1089,7 @@
       "Name": "Keep on Rising",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_052",
@@ -1092,7 +1097,7 @@
       "Name": "Give Her a Hand",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHI_053",
@@ -1100,7 +1105,7 @@
       "Name": "Manic Pixie Dream Elf",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHI_054",
@@ -1116,7 +1121,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHI_056",
@@ -1124,7 +1129,7 @@
       "Name": "We Built this City",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 104
     },
     {
       "ID": "ACHI_057",
@@ -1132,7 +1137,7 @@
       "Name": "Mistaken Identity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHI_058",
@@ -1140,7 +1145,7 @@
       "Name": "Beam Me Up",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHI_059",
@@ -1148,7 +1153,7 @@
       "Name": "Murder Most Fowl",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "ACHI_060",
@@ -1178,17 +1183,17 @@
       "ID": "ACHI_063",
       "SetID": "84h3d1k",
       "Name": "Customer Service",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHI_064",
       "SetID": "84h3d1k",
       "Name": "Gatekeeper",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHI_065",
@@ -1202,9 +1207,9 @@
       "ID": "ACHI_066",
       "SetID": "84h3d1k",
       "Name": "Black Hole",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHI_067",
@@ -1212,7 +1217,7 @@
       "Name": "Sixpack",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHI_068",
@@ -1227,15 +1232,15 @@
     {
       "ID": "84h3d1k",
       "IsBase": true,
-      "Progressed": 1660,
+      "Progressed": 1727,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
   "FirstSeenAchievements": "2024-02-22T21:05:28.573134+00:00",
   "LastChanged": "2024-08-17T06:59:02.1466281+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:36.3578037+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:23.752974+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:17.5179183+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:23.7946005+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:36.3578672+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:23.7530333+00:00"
 }

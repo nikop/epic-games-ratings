@@ -5,10 +5,10 @@
   "Ranking_Rating": 197,
   "Ranking_Popularity": 474,
   "Ranking_PopularitySum": 377,
-  "Ranking_EOS_Progress": 398,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-10-28T14:00:00+00:00",
     "PcReleaseDate": "2020-10-28T14:00:00+00:00",
@@ -2083,9 +2083,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 1100,
+  "EOS_Progressed": 1106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2103,6 +2103,11 @@
       "Time": "2024-08-09T18:06:19.4609561+00:00",
       "NumProgressed": 1100,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:10:38.6461519+00:00",
+      "NumProgressed": 1106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:13:37.1010986+00:00",
@@ -2115,7 +2120,7 @@
       "Name": "First Innings",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_TASK_1_1_CHALLENGE_INSANE",
@@ -2155,7 +2160,7 @@
       "Name": "Quantity, not Quality",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH_TASK_1_2_CHALLENGE",
@@ -2203,7 +2208,7 @@
       "Name": "Rapid Growth",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_TASK_2_1_CHALLENGE",
@@ -2299,7 +2304,7 @@
       "Name": "Separation Of Duties",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_TASK_3_1_CHALLENGE",
@@ -2467,7 +2472,7 @@
       "Name": "Vanilla",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_TASK_GATE_2",
@@ -2531,7 +2536,7 @@
       "Name": "New Home",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 913
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_WIN_1_1_CHALLENGE",
@@ -2539,7 +2544,7 @@
       "Name": "New Home - Challenge",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_WIN_1_1_CHALLENGE_INSANE",
@@ -2563,7 +2568,7 @@
       "Name": "New Home - Hard",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_WIN_1_1_INSANE",
@@ -2571,7 +2576,7 @@
       "Name": "New Home - Impossible",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WIN_1_1_NORMAL",
@@ -2579,7 +2584,7 @@
       "Name": "New Home - Medium",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 770
+      "UsersEstimate": 774
     },
     {
       "ID": "ACH_WIN_1_2",
@@ -2587,7 +2592,7 @@
       "Name": "Subjugation",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 874
     },
     {
       "ID": "ACH_WIN_1_2_CHALLENGE",
@@ -2595,7 +2600,7 @@
       "Name": "Subjugation - Challenge",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_WIN_1_2_CHALLENGE_INSANE",
@@ -2619,7 +2624,7 @@
       "Name": "Subjugation - Hard",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_WIN_1_2_INSANE",
@@ -2635,7 +2640,7 @@
       "Name": "Subjugation - Medium",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 726
+      "UsersEstimate": 730
     },
     {
       "ID": "ACH_WIN_2_1",
@@ -2643,7 +2648,7 @@
       "Name": "Rising Tide",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_WIN_2_1_CHALLENGE",
@@ -2651,7 +2656,7 @@
       "Name": "Rising Tide - Challenge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WIN_2_1_CHALLENGE_INSANE",
@@ -2689,17 +2694,17 @@
       "ID": "ACH_WIN_2_1_NORMAL",
       "SetID": "6honpli",
       "Name": "Rising Tide - Medium",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WIN_2_2",
       "SetID": "6honpli",
       "Name": "Queen of the Hill",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 308
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_WIN_2_2_CHALLENGE",
@@ -2707,7 +2712,7 @@
       "Name": "Queen of the Hill - Challenge",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_WIN_2_2_CHALLENGE_INSANE",
@@ -2747,7 +2752,7 @@
       "Name": "Queen of the Hill - Medium",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WIN_3_1",
@@ -2755,7 +2760,7 @@
       "Name": "The Harvest",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_WIN_3_1_CHALLENGE",
@@ -2763,7 +2768,7 @@
       "Name": "The Harvest - Challenge",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WIN_3_1_CHALLENGE_INSANE",
@@ -2803,7 +2808,7 @@
       "Name": "The Harvest - Medium",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_WIN_3_2",
@@ -2811,7 +2816,7 @@
       "Name": "Front Line",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_WIN_3_2_CHALLENGE",
@@ -2819,7 +2824,7 @@
       "Name": "Front Line - Challenge",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_WIN_3_2_CHALLENGE_INSANE",
@@ -2859,15 +2864,15 @@
       "Name": "Front Line - Medium",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_WIN_4_1",
       "SetID": "6honpli",
       "Name": "Cold Blood",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_WIN_4_1_EXTREME",
@@ -2897,9 +2902,9 @@
       "ID": "ACH_WIN_4_1_NORMAL",
       "SetID": "6honpli",
       "Name": "Cold Blood - Medium",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_WIN_4_2",
@@ -2907,7 +2912,7 @@
       "Name": "A Bridge Too Far",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_WIN_4_2_EXTREME",
@@ -2939,7 +2944,7 @@
       "Name": "A Bridge Too Far - Medium",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_WIN_CHRISTMAS_SPIDER",
@@ -2971,7 +2976,7 @@
       "Name": "The First Experiment",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 814
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_WIN_GATE_1_EXTREME",
@@ -2985,9 +2990,9 @@
       "ID": "ACH_WIN_GATE_1_HARD",
       "SetID": "6honpli",
       "Name": "The First Experiment - Hard",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_WIN_GATE_1_INSANE",
@@ -3003,7 +3008,7 @@
       "Name": "The First Experiment - Medium",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_WIN_GATE_2",
@@ -3011,7 +3016,7 @@
       "Name": "The Second Experiment",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_WIN_GATE_2_EXTREME",
@@ -3043,7 +3048,7 @@
       "Name": "The Second Experiment - Medium",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_WIN_GATE_3",
@@ -3051,7 +3056,7 @@
       "Name": "Possibly the Final Experiment",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_WIN_GATE_3_EXTREME",
@@ -3083,7 +3088,7 @@
       "Name": "Possibly the Final Experiment - Medium",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_WIN_GATE_4",
@@ -3091,7 +3096,7 @@
       "Name": "The Final Experiment",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_WIN_GATE_4_EXTREME",
@@ -3121,9 +3126,9 @@
       "ID": "ACH_WIN_GATE_4_NORMAL",
       "SetID": "6honpli",
       "Name": "The Final Experiment - Medium",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_WIN_HUNGRY_SPIDER",
@@ -3178,15 +3183,15 @@
     {
       "ID": "6honpli",
       "IsBase": true,
-      "Progressed": 1100,
+      "Progressed": 1106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "FirstSeenAchievements": "2024-06-17T16:13:37.1010985+00:00",
   "LastChanged": "2024-08-19T23:57:09.469114+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:19.460956+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:38.6461514+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:27.7790649+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:55.5297715+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:19.4611272+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:10:38.6462922+00:00"
 }

@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Through | 65.00% | ~174 |
-| Silent Overload | 57.00% | ~153 |
-| Symbiotic Weapon | 52.00% | ~139 |
-| A.I. Training | 44.00% | ~118 |
-| Sniper | 34.00% | ~91 |
-| The Red Herring | 31.00% | ~83 |
-| Telekinesis | 28.00% | ~75 |
-| Sapper | 19.00% | ~51 |
-| Tough Decision | 19.00% | ~51 |
-| Veteran Sniper | 17.00% | ~46 |
-| The Neuro-connector | 15.00% | ~40 |
-| Flatline | 15.00% | ~40 |
-| Mind Over Matter | 15.00% | ~40 |
-| Unstoppable | 14.00% | ~38 |
-| Full and Final Settlement | 13.00% | ~35 |
-| One Click Away | 13.00% | ~35 |
-| Cyborg | 8.00% | ~21 |
+| Breaking Through | 66.00% | ~180 |
+| Silent Overload | 57.00% | ~155 |
+| Symbiotic Weapon | 52.00% | ~141 |
+| A.I. Training | 44.00% | ~120 |
+| Sniper | 34.00% | ~92 |
+| The Red Herring | 31.00% | ~84 |
+| Telekinesis | 28.00% | ~76 |
+| Sapper | 19.00% | ~52 |
+| Tough Decision | 19.00% | ~52 |
+| Veteran Sniper | 18.00% | ~49 |
+| The Neuro-connector | 16.00% | ~44 |
+| Unstoppable | 15.00% | ~41 |
+| Flatline | 15.00% | ~41 |
+| Mind Over Matter | 15.00% | ~41 |
+| Full and Final Settlement | 14.00% | ~38 |
+| One Click Away | 14.00% | ~38 |
+| Cyborg | 8.00% | ~22 |
 | Lifter | 6.00% | ~16 |
 | Brain-hacker | 6.00% | ~16 |
-| Gravity Bender | 5.00% | ~13 |
+| Gravity Bender | 6.00% | ~16 |
 | Zero Gravity | 4.00% | ~11 |
 | Hunter | 3.00% | ~8 |
 | No Place to Hide | 2.00% | ~5 |
 | A Voice in the Dark | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 540)  
-Completed: 4 (1.49%) (Ranked 216)  
+Progressed: 272 (Ranked 543)  
+Completed: 4 (1.47%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,6 +106,7 @@ Completed: 4 (1.49%) (Ranked 216)
 | 2024-04-10 | 185 | 4 |
 | 2024-06-17 | 248 | 4 |
 | 2024-08-09 | 268 | 4 |
+| 2024-08-20 | 272 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

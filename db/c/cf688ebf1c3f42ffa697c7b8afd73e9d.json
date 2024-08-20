@@ -2,10 +2,10 @@
   "ID": "cf688ebf1c3f42ffa697c7b8afd73e9d",
   "Name": "I Chatbot: AISYLUM",
   "ProductSlug": "i-chatbot-aisylum-83b2b5",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-06T11:00:00+00:00",
     "PcReleaseDate": "2024-08-06T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T09:57:08.4738858+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:31.155994+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:44.3285674+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:12.8454974+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:02.1231317+00:00"
 }

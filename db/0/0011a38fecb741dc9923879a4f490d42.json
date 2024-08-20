@@ -2,10 +2,10 @@
   "ID": "0011a38fecb741dc9923879a4f490d42",
   "Name": "Deadwater Saloon",
   "ProductSlug": "deadwater-saloon-391b9d",
-  "Ranking_EOS_Progress": 724,
-  "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 729,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
     "PcReleaseDate": "2022-09-13T13:00:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "631i43e",
       "Name": "Under The Floorboards",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -312,9 +312,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "631i43e",
       "Name": "Might Show Up",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -392,9 +392,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "631i43e",
       "Name": "Fine Tuned",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -456,9 +456,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "631i43e",
       "Name": "Might Close Early",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -480,9 +480,9 @@
       "ID": "NEW_ACHIEVEMENT_1_6",
       "SetID": "631i43e",
       "Name": "Why Me?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -536,9 +536,9 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "631i43e",
       "Name": "Diamond Hands",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_12",
@@ -576,9 +576,9 @@
       "ID": "NEW_ACHIEVEMENT_2_16",
       "SetID": "631i43e",
       "Name": "Gun Show",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_17",
@@ -672,17 +672,17 @@
       "ID": "NEW_ACHIEVEMENT_2_27",
       "SetID": "631i43e",
       "Name": "You Really Are Suave!",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_28",
       "SetID": "631i43e",
       "Name": "Trim It Close",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_29",
@@ -696,9 +696,9 @@
       "ID": "NEW_ACHIEVEMENT_2_3",
       "SetID": "631i43e",
       "Name": "Well...Bye.",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_30",
@@ -720,9 +720,9 @@
       "ID": "NEW_ACHIEVEMENT_2_4",
       "SetID": "631i43e",
       "Name": "Full House",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -736,9 +736,9 @@
       "ID": "NEW_ACHIEVEMENT_2_6",
       "SetID": "631i43e",
       "Name": "Shovels!",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_7",
@@ -752,9 +752,9 @@
       "ID": "NEW_ACHIEVEMENT_2_8",
       "SetID": "631i43e",
       "Name": "What\u0027s Cookin\u0027",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_9",
@@ -783,8 +783,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:27.7601565+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:06.3809819+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:22.5345623+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:56.5905785+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:27.7601992+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:06.3810244+00:00"
 }

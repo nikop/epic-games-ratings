@@ -2,10 +2,10 @@
   "ID": "9935c6494f7949238e8ad1dc9c401ad5",
   "Name": "Innsmouth 22",
   "ProductSlug": "innsmouth-22-f171b3",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T13:57:01.6601867+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:57:45.4019914+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:08.1939552+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:39.0983194+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:45.9889144+00:00"
 }

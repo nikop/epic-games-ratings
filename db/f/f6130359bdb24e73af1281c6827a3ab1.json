@@ -2,10 +2,10 @@
   "ID": "f6130359bdb24e73af1281c6827a3ab1",
   "Name": "Harbingers of Desspair",
   "ProductSlug": "harbingers-of-desspair-bf7897",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-14T12:00:00+00:00",
     "PcReleaseDate": "2024-01-14T12:00:00+00:00",
@@ -34,5 +34,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-17T08:57:05.004383+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:27.4604226+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:16.1423811+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:14.3073985+00:00"
 }

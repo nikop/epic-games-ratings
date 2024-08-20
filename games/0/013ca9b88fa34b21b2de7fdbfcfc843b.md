@@ -5,43 +5,43 @@ Rating: 4.62 (Ranked 416)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 2.00% | ~222 |
-| A Thorny Situation | 2.00% | ~222 |
-| ... And Spit Back Out | 2.00% | ~222 |
-| Bramble Breaker | 2.00% | ~222 |
-| Calm Sailing | 1.00% | ~111 |
-| Open the Gate! | 1.00% | ~111 |
-| Lumberjack | 1.00% | ~111 |
-| Miner 49er | 1.00% | ~111 |
-| Break-Net Speed | 1.00% | ~111 |
-| Humble Collector | 1.00% | ~111 |
-| Mist Walker | 1.00% | ~111 |
-| Oui, Chef! | 0.90% | ~100 |
-| Clear the Air | 0.80% | ~89 |
-| Search for the Hairy Grell | 0.80% | ~89 |
-| Botanical Breakthrough | 0.80% | ~89 |
-| Beach Comber | 0.70% | ~78 |
-| Flaming Hot Completos | 0.60% | ~67 |
-| Higher Tax Bracket | 0.60% | ~67 |
-| Skilled | 0.60% | ~67 |
-| Fae Farmer | 0.50% | ~56 |
-| Scattered Scroll Scrounger | 0.50% | ~56 |
-| Rumble in the Jumble | 0.50% | ~56 |
+| Azoria Beckons | 3.00% | ~336 |
+| A Thorny Situation | 3.00% | ~336 |
+| Calm Sailing | 2.00% | ~224 |
+| Miner 49er | 2.00% | ~224 |
+| Break-Net Speed | 2.00% | ~224 |
+| Humble Collector | 2.00% | ~224 |
+| ... And Spit Back Out | 2.00% | ~224 |
+| Bramble Breaker | 2.00% | ~224 |
+| Open the Gate! | 1.00% | ~112 |
+| Clear the Air | 1.00% | ~112 |
+| Lumberjack | 1.00% | ~112 |
+| Mist Walker | 1.00% | ~112 |
+| Oui, Chef! | 1.00% | ~112 |
+| Botanical Breakthrough | 1.00% | ~112 |
+| Search for the Hairy Grell | 0.90% | ~101 |
+| Beach Comber | 0.80% | ~90 |
+| Azorian Hat Dance | 0.80% | ~31 |
+| Flaming Hot Completos | 0.70% | ~78 |
+| Higher Tax Bracket | 0.70% | ~78 |
+| Skilled | 0.70% | ~78 |
+| Fae Farmer | 0.60% | ~67 |
+| Scattered Scroll Scrounger | 0.60% | ~67 |
+| Rumble in the Jumble | 0.60% | ~67 |
+| Got to Catch Them All | 0.50% | ~56 |
 | Fanatical Farmer | 0.50% | ~56 |
 | Azorian Anniversary | 0.50% | ~56 |
-| Azorian Hat Dance | 0.50% | ~19 |
-| Got to Catch Them All | 0.40% | ~44 |
-| Chatty Neighbor | 0.40% | ~44 |
-| Right Tool For the Job | 0.40% | ~44 |
-| I Now Pronounce You... | 0.30% | ~33 |
-| House Proud | 0.30% | ~33 |
+| I Now Pronounce You... | 0.40% | ~45 |
+| Chatty Neighbor | 0.40% | ~45 |
+| Right Tool For the Job | 0.40% | ~45 |
+| House Proud | 0.40% | ~45 |
 | Going Down | 0.30% | ~11 |
 | Exit Through The Gift Shop | 0.30% | ~11 |
 | Angling Authority | 0.20% | ~22 |
 | Captain of Cozy | 0.20% | ~22 |
-| Polyglot | 0.20% | ~7 |
-| Star-chiologist | 0.20% | ~7 |
-| Heirlooms Rebloom | 0.20% | ~7 |
+| Polyglot | 0.20% | ~8 |
+| Star-chiologist | 0.20% | ~8 |
+| Heirlooms Rebloom | 0.20% | ~8 |
 | Cloverfield Island | 0.10% | ~11 |
 | Workaholic | 0.10% | ~11 |
 | Giving the People What They Want | 0.10% | ~11 |
@@ -57,8 +57,8 @@ Rating: 4.62 (Ranked 416)
 | Climate Clientele | 0.00% | ~0 |
 | Among Us | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,105 (Ranked 240)  
-Completed: 3 (0.03%) (Ranked 487)  
+Progressed: 11,199 (Ranked 242)  
+Completed: 3 (0.03%) (Ranked 494)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,6 +218,7 @@ Completed: 3 (0.03%) (Ranked 487)
 | 2024-04-10 | 10,096 | 1 |
 | 2024-06-17 | 10,761 | 3 |
 | 2024-08-09 | 11,105 | 3 |
+| 2024-08-20 | 11,199 | 3 |
 ## Awards
 Max (Character Customization): 35  (Ranked 598)  
 Sum: 35 (Ranked 639)  

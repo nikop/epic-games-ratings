@@ -5,80 +5,80 @@ Rating: 4.50 (Ranked 675)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 49.00% | ~2,465 |
-| Confirming Suspicions | 45.00% | ~2,264 |
-| The Kraken Wakes | 40.00% | ~2,012 |
-| It's Starting to Crack | 37.00% | ~1,861 |
-| Change the Channel | 35.00% | ~1,760 |
-| Lord of War | 34.00% | ~1,710 |
-| Taking it back | 33.00% | ~1,660 |
-| Resourceful | 31.00% | ~1,559 |
-| Target America | 31.00% | ~1,559 |
-| The Kraken Sleeps | 29.00% | ~1,459 |
-| Liberté | 27.00% | ~1,358 |
-| As Quiet as a Mouse | 27.00% | ~1,358 |
-| Organ Grinder | 26.00% | ~1,308 |
-| Sharpshooter | 26.00% | ~1,308 |
-| Gunslinger | 22.00% | ~1,107 |
-| Explosive Efficiency | 21.00% | ~1,056 |
-| Climbing the Ladder | 20.00% | ~1,006 |
-| Skirmisher | 19.00% | ~956 |
-| Der Geist | 19.00% | ~956 |
-| Snake in the Grass | 19.00% | ~956 |
-| Just a Flesh Wound | 18.00% | ~905 |
-| Close Quarters | 18.00% | ~905 |
-| Brains of the Operation | 18.00% | ~905 |
-| No Stone Unturned | 17.00% | ~855 |
-| Die Nussknacker Sweet! | 17.00% | ~855 |
-| Fields of Glory | 16.00% | ~805 |
-| Set Europe Ablaze | 16.00% | ~805 |
-| Opposing Force | 15.00% | ~754 |
-| Enemy at the Gates | 15.00% | ~754 |
-| My Little Friend | 12.00% | ~604 |
-| Precision Is Key | 11.00% | ~553 |
-| Rigged to Blow | 11.00% | ~553 |
-| Herr Today, Gone Tomorrow | 8.00% | ~399 |
-| The Long Game | 7.00% | ~352 |
-| Operation Foxley | 7.00% | ~349 |
-| Strategist | 6.00% | ~302 |
-| Tinkerer | 6.00% | ~302 |
-| It'll Buff Right Out | 6.00% | ~302 |
-| Road Rage | 6.00% | ~302 |
-| Don't hold your breath | 6.00% | ~302 |
-| Last Resort | 6.00% | ~299 |
-| Siegebreaker | 6.00% | ~299 |
-| Ghost of Falaise | 6.00% | ~299 |
-| Burn after reading | 5.00% | ~252 |
-| Locomotion Commotion | 5.00% | ~252 |
-| If You Go Down To The Woods Today | 5.00% | ~249 |
-| Fight Another Day | 5.00% | ~249 |
-| From Paris with Love | 4.00% | ~201 |
-| Souvenir hunter | 4.00% | ~201 |
-| Shipbreaker | 4.00% | ~199 |
-| Sink or Swim | 4.00% | ~199 |
-| Shoot for the Moon | 3.00% | ~151 |
-| Reich To The Point | 3.00% | ~149 |
-| Covert Elimination | 3.00% | ~149 |
+| Meeting Resistance | 49.00% | ~2,485 |
+| Confirming Suspicions | 45.00% | ~2,282 |
+| The Kraken Wakes | 41.00% | ~2,079 |
+| It's Starting to Crack | 38.00% | ~1,927 |
+| Change the Channel | 35.00% | ~1,775 |
+| Lord of War | 34.00% | ~1,724 |
+| Taking it back | 33.00% | ~1,673 |
+| Resourceful | 31.00% | ~1,572 |
+| Target America | 31.00% | ~1,572 |
+| The Kraken Sleeps | 29.00% | ~1,471 |
+| Liberté | 27.00% | ~1,369 |
+| As Quiet as a Mouse | 27.00% | ~1,369 |
+| Organ Grinder | 26.00% | ~1,318 |
+| Sharpshooter | 26.00% | ~1,318 |
+| Gunslinger | 22.00% | ~1,116 |
+| Explosive Efficiency | 22.00% | ~1,116 |
+| Climbing the Ladder | 20.00% | ~1,014 |
+| Skirmisher | 19.00% | ~963 |
+| Der Geist | 19.00% | ~963 |
+| Snake in the Grass | 19.00% | ~963 |
+| Just a Flesh Wound | 18.00% | ~913 |
+| Close Quarters | 18.00% | ~913 |
+| Brains of the Operation | 18.00% | ~913 |
+| No Stone Unturned | 17.00% | ~862 |
+| Die Nussknacker Sweet! | 17.00% | ~862 |
+| Fields of Glory | 16.00% | ~811 |
+| Set Europe Ablaze | 16.00% | ~811 |
+| Opposing Force | 15.00% | ~761 |
+| Enemy at the Gates | 15.00% | ~761 |
+| Precision Is Key | 12.00% | ~609 |
+| My Little Friend | 12.00% | ~609 |
+| Rigged to Blow | 11.00% | ~558 |
+| Herr Today, Gone Tomorrow | 9.00% | ~452 |
+| The Long Game | 7.00% | ~355 |
+| Operation Foxley | 7.00% | ~352 |
+| Strategist | 6.00% | ~304 |
+| Tinkerer | 6.00% | ~304 |
+| It'll Buff Right Out | 6.00% | ~304 |
+| Road Rage | 6.00% | ~304 |
+| Don't hold your breath | 6.00% | ~304 |
+| Last Resort | 6.00% | ~301 |
+| Siegebreaker | 6.00% | ~301 |
+| Ghost of Falaise | 6.00% | ~301 |
+| Burn after reading | 5.00% | ~254 |
+| Locomotion Commotion | 5.00% | ~254 |
+| If You Go Down To The Woods Today | 5.00% | ~251 |
+| Fight Another Day | 5.00% | ~251 |
+| From Paris with Love | 4.00% | ~203 |
+| Souvenir hunter | 4.00% | ~203 |
+| Shipbreaker | 4.00% | ~201 |
+| Sink or Swim | 4.00% | ~201 |
+| Eagle Eyed | 3.00% | ~152 |
+| Shoot for the Moon | 3.00% | ~152 |
+| Reich To The Point | 3.00% | ~151 |
+| Covert Elimination | 3.00% | ~151 |
 | Out of Scope | 2.00% | ~101 |
-| Eagle Eyed | 2.00% | ~101 |
 | Up close and personal | 2.00% | ~101 |
 | Can't Outrun A Bullet | 2.00% | ~101 |
 | Führerious Repetition | 2.00% | ~100 |
-| Best of the Best | 1.00% | ~50 |
-| Master of Secondaries | 1.00% | ~50 |
-| Master of Rifles | 1.00% | ~50 |
-| Sight Beyond Sights | 1.00% | ~50 |
+| Best of the Best | 1.00% | ~51 |
+| Master of Secondaries | 1.00% | ~51 |
+| Master of Rifles | 1.00% | ~51 |
+| Sight Beyond Sights | 1.00% | ~51 |
 | From Führer Away | 1.00% | ~50 |
 | Alpha | 1.00% | ~50 |
 | Das Familienjuwel | 1.00% | ~50 |
-| Operation Overlord | 0.90% | ~45 |
-| Master of Pistols | 0.80% | ~40 |
-| Going Overboard | 0.80% | ~40 |
+| Master of Pistols | 0.80% | ~41 |
+| Operation Overlord | 0.80% | ~40 |
 | Master-at-arms | 0.70% | ~35 |
 | Stroll in the Woods | 0.70% | ~35 |
+| Going Overboard | 0.70% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,030 (Ranked 276)  
-Completed: 13 (0.26%) (Ranked 373)  
+Progressed: 5,071 (Ranked 279)  
+Completed: 14 (0.28%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -363,10 +363,11 @@ Completed: 13 (0.26%) (Ranked 373)
 | 2024-04-10 | 4,620 | 11 |
 | 2024-06-17 | 4,880 | 11 |
 | 2024-08-09 | 5,030 | 13 |
+| 2024-08-20 | 5,071 | 14 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 529)  
-Sum: 114 (Ranked 548)  
-Diff (max vs sum): -19  
+Sum: 114 (Ranked 549)  
+Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 58 |

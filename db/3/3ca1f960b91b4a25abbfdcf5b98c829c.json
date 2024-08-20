@@ -2,10 +2,10 @@
   "ID": "3ca1f960b91b4a25abbfdcf5b98c829c",
   "Name": "Creatures of Ava",
   "ProductSlug": "creatures-of-ava-cacd2c",
-  "Ranking_EOS_Progress": 991,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 949,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-07T00:00:00+00:00",
     "PcReleaseDate": "2024-08-07T00:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:08:18.6238946+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:14:03.0844808+00:00",
+      "NumProgressed": 11,
       "NumCompleted": 0
     }
   ],
@@ -141,9 +146,9 @@
       "ID": "CompleteJungle",
       "SetID": "bk95gia",
       "Name": "Nari jungle",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteMainStory",
@@ -157,9 +162,9 @@
       "ID": "CompleteMeadow",
       "SetID": "bk95gia",
       "Name": "Tam\u00FBra grasslands",
-      "Percentage": 20,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "CompleteSecondaries",
@@ -181,9 +186,9 @@
       "ID": "DieFallDamage",
       "SetID": "bk95gia",
       "Name": "Fall damage confirmed",
-      "Percentage": 40,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "EsterEgg",
@@ -197,9 +202,9 @@
       "ID": "GalleryPhoto",
       "SetID": "bk95gia",
       "Name": "Tourist",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "LongBeam",
@@ -221,17 +226,17 @@
       "ID": "LongFluteDuration",
       "SetID": "bk95gia",
       "Name": "You played Happy Birthday, didn\u2019t you",
-      "Percentage": 0,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ManyShepherd",
       "SetID": "bk95gia",
       "Name": "Pied Piper",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PhotoAllCharacters",
@@ -262,14 +267,14 @@
     {
       "ID": "bk95gia",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-11T18:58:03.5064203+00:00",
   "FirstSeenAchievements": "2024-08-09T18:08:18.623897+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:18.623894+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:14:03.0844803+00:00",
   "LastUpdate_AppInfo": "2024-08-15T09:57:15.6579255+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:42.2947383+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:18.6246502+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:14:03.0844939+00:00"
 }

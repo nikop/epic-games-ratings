@@ -6,52 +6,52 @@ Number of Ratings: 721  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death Dealer | 51.00% | ~5,069 |
-| To Move A Mountain | 48.00% | ~4,771 |
-| Prison Break | 42.00% | ~4,175 |
-| Chasm Jumper | 42.00% | ~4,175 |
-| Reaper | 34.00% | ~3,380 |
-| Elemental Thief | 31.00% | ~3,081 |
-| Slayer | 30.00% | ~2,982 |
-| Don't Make Me Angry | 26.00% | ~2,584 |
-| Like A Bat Outta Hell | 26.00% | ~2,584 |
-| One Tough Cookie | 24.00% | ~2,386 |
-| High Flier | 23.00% | ~2,286 |
-| Who's Counting? | 22.00% | ~2,187 |
-| Tremor Bringer | 22.00% | ~2,187 |
-| Rocked Your Face Off | 21.00% | ~2,087 |
-| An Old Friend | 21.00% | ~2,087 |
-| Time Lapse | 21.00% | ~2,087 |
-| River of Blood | 20.00% | ~1,988 |
-| Reunited | 19.00% | ~1,889 |
-| Ashes to Ashes | 18.00% | ~1,789 |
-| Reach Out And Touch Somebody | 18.00% | ~1,789 |
-| Treasure Hunter | 18.00% | ~1,789 |
-| One Mean Mother | 17.00% | ~1,690 |
-| Into the Void | 17.00% | ~1,690 |
-| Payback's A B**** | 15.00% | ~1,491 |
-| Sight Beyond Sight | 15.00% | ~1,491 |
-| Ultimate Blade | 14.00% | ~1,392 |
-| The Final Challenger? | 13.00% | ~1,292 |
-| You Call This Easy? | 13.00% | ~1,292 |
-| Balance Restored | 12.00% | ~1,193 |
-| Wrath Machine | 8.00% | ~795 |
-| Legendary Form | 6.00% | ~596 |
-| The True Horseman | 3.00% | ~298 |
-| Devastator | 3.00% | ~298 |
-| Aerial Predator | 3.00% | ~298 |
-| World Raider | 3.00% | ~298 |
-| Full Power | 2.00% | ~199 |
-| Battle Hardened | 2.00% | ~199 |
-| Open Air Parking | 2.00% | ~199 |
-| Wrath of War | 1.00% | ~99 |
-| Horseman | 0.80% | ~80 |
-| Improvised Kills | 0.80% | ~80 |
-| Dark Rider | 0.60% | ~60 |
+| Death Dealer | 51.00% | ~5,444 |
+| To Move A Mountain | 48.00% | ~5,124 |
+| Prison Break | 42.00% | ~4,484 |
+| Chasm Jumper | 42.00% | ~4,484 |
+| Reaper | 34.00% | ~3,630 |
+| Elemental Thief | 31.00% | ~3,309 |
+| Slayer | 30.00% | ~3,202 |
+| Don't Make Me Angry | 26.00% | ~2,776 |
+| Like A Bat Outta Hell | 26.00% | ~2,776 |
+| One Tough Cookie | 24.00% | ~2,562 |
+| Who's Counting? | 23.00% | ~2,455 |
+| High Flier | 23.00% | ~2,455 |
+| Tremor Bringer | 22.00% | ~2,348 |
+| Rocked Your Face Off | 21.00% | ~2,242 |
+| An Old Friend | 21.00% | ~2,242 |
+| Time Lapse | 21.00% | ~2,242 |
+| River of Blood | 20.00% | ~2,135 |
+| Ashes to Ashes | 19.00% | ~2,028 |
+| Reunited | 19.00% | ~2,028 |
+| Reach Out And Touch Somebody | 18.00% | ~1,922 |
+| Treasure Hunter | 18.00% | ~1,922 |
+| One Mean Mother | 17.00% | ~1,815 |
+| Into the Void | 17.00% | ~1,815 |
+| Payback's A B**** | 15.00% | ~1,601 |
+| Sight Beyond Sight | 15.00% | ~1,601 |
+| Ultimate Blade | 14.00% | ~1,495 |
+| The Final Challenger? | 13.00% | ~1,388 |
+| You Call This Easy? | 13.00% | ~1,388 |
+| Balance Restored | 12.00% | ~1,281 |
+| Wrath Machine | 8.00% | ~854 |
+| Legendary Form | 6.00% | ~640 |
+| The True Horseman | 3.00% | ~320 |
+| Devastator | 3.00% | ~320 |
+| Aerial Predator | 3.00% | ~320 |
+| World Raider | 3.00% | ~320 |
+| Full Power | 2.00% | ~214 |
+| Wrath of War | 2.00% | ~214 |
+| Battle Hardened | 2.00% | ~214 |
+| Open Air Parking | 2.00% | ~214 |
+| Horseman | 0.80% | ~85 |
+| Improvised Kills | 0.80% | ~85 |
+| Dark Rider | 0.60% | ~64 |
 | BFA | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,940 (Ranked 244)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 10,675 (Ranked 243)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,10 +61,11 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-05-13 | 4,398 | 0 |
 | 2024-06-17 | 6,757 | 0 |
 | 2024-08-09 | 9,940 | 0 |
+| 2024-08-20 | 10,675 | 0 |
 ## Awards
 Max (Great Boss Battles): 105  (Ranked 446)  
-Sum: 105 (Ranked 554)  
-Diff (max vs sum): -108  
+Sum: 105 (Ranked 555)  
+Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 105 |

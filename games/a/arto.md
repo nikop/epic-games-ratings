@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 71.00% | ~10 |
-| A Chance Encounter? | 29.00% | ~4 |
-| Burnt to a Crisp | 21.00% | ~3 |
-| No Saving Him | 21.00% | ~3 |
+| The First Step | 67.00% | ~10 |
+| A Chance Encounter? | 27.00% | ~4 |
+| Burnt to a Crisp | 20.00% | ~3 |
+| No Saving Him | 20.00% | ~3 |
 | Back in Black | 7.00% | ~1 |
 | Demons Defeated | 7.00% | ~1 |
 | Epic Gains | 7.00% | ~1 |
@@ -23,8 +23,8 @@
 | To the Top | 0.00% | ~0 |
 | It Is What It Is | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 907)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 15 (Ranked 908)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,3 +35,4 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-03-21 | 10 | 0 |
 | 2024-04-10 | 11 | 0 |
 | 2024-06-17 | 14 | 0 |
+| 2024-08-20 | 15 | 0 |

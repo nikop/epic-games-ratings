@@ -2,10 +2,10 @@
   "ID": "be6723b7e93d4bb0a63bde783ffa06ac",
   "Name": "StrikeForce Kitty",
   "ProductSlug": "strike-force-kitty-4603e5",
-  "Ranking_EOS_Progress": 498,
-  "Ranking_EOS_Completed": 375,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 501,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2018-02-20T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 397,
+  "EOS_Progressed": 399,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -1034,6 +1034,11 @@
       "Time": "2024-08-09T18:06:17.562635+00:00",
       "NumProgressed": 397,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:10:35.3828278+00:00",
+      "NumProgressed": 399,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -1092,9 +1097,9 @@
       "ID": "ach15",
       "SetID": "baneh2j",
       "Name": "Princess in another castle",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "ach16",
@@ -1174,7 +1179,7 @@
       "Name": "Researcher",
       "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ach25",
@@ -1190,7 +1195,7 @@
       "Name": "Passion",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ach27",
@@ -1198,7 +1203,7 @@
       "Name": "Preparation",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ach28",
@@ -1206,7 +1211,7 @@
       "Name": "Start",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 341
+      "UsersEstimate": 343
     },
     {
       "ID": "ach29",
@@ -1214,7 +1219,7 @@
       "Name": "My first team",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ach3",
@@ -1262,7 +1267,7 @@
       "Name": "On the style",
       "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ach7",
@@ -1293,14 +1298,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 397,
+      "Progressed": 399,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:17.5626345+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:10:35.3828271+00:00",
   "LastUpdate_AppInfo": "2024-08-15T06:57:30.1770914+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:59:30.4664212+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:17.5626585+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:53.5309284+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:10:35.3828471+00:00"
 }

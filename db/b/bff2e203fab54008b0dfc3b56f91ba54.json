@@ -2,10 +2,10 @@
   "ID": "bff2e203fab54008b0dfc3b56f91ba54",
   "Name": "As Dusk Falls",
   "ProductSlug": "as-dusk-falls-308b83",
-  "Ranking_EOS_Progress": 711,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 708,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-07T14:00:00+00:00",
     "PcReleaseDate": "2022-07-19T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 83,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2024-08-09T18:07:13.4040443+00:00",
       "NumProgressed": 78,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:12:09.518786+00:00",
+      "NumProgressed": 83,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:15.3038476+00:00",
@@ -64,71 +69,71 @@
       "ID": "S1B1Complete",
       "SetID": "dbllnom",
       "Name": "From Dusk \u0027til Dawn",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "S1B2Complete",
       "SetID": "dbllnom",
       "Name": "End of the Road?",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "S1E1ACopOut",
       "SetID": "dbllnom",
       "Name": "Cop Out",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "S1E1AMessageReceived",
       "SetID": "dbllnom",
       "Name": "Message Received",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "S1E1APointBlank",
       "SetID": "dbllnom",
       "Name": "Point Blank",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 31
     },
     {
       "ID": "S1E1ATablesTurned",
       "SetID": "dbllnom",
       "Name": "Tables Turned",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "S1E1BBungled",
       "SetID": "dbllnom",
       "Name": "Bungled",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 34
     },
     {
       "ID": "S1E1BCodeBreaker",
       "SetID": "dbllnom",
       "Name": "Code Breaker",
-      "Percentage": 44,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "S1E1BSmoothCriminal",
       "SetID": "dbllnom",
       "Name": "Smooth Criminal",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -136,31 +141,31 @@
       "ID": "S1E1EpisodeComplete",
       "SetID": "dbllnom",
       "Name": "And So It Begins\u2026",
-      "Percentage": 55,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 47
     },
     {
       "ID": "S1E2ADodgedABullet",
       "SetID": "dbllnom",
       "Name": "Dodged A Bullet",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "S1E2ALifesaver",
       "SetID": "dbllnom",
       "Name": "Lifesaver",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "S1E2APagingDrWalker",
       "SetID": "dbllnom",
       "Name": "Paging Dr Walker",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -168,23 +173,23 @@
       "ID": "S1E2AWhatsYourEmergency",
       "SetID": "dbllnom",
       "Name": "What\u0027s Your Emergency?",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "S1E2BKeepingTheFaith",
       "SetID": "dbllnom",
       "Name": "Keeping The Faith",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "S1E2BUnforgiveable",
       "SetID": "dbllnom",
       "Name": "Unforgiveable",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -192,7 +197,7 @@
       "ID": "S1E2BWhatsDoneIsDone",
       "SetID": "dbllnom",
       "Name": "What\u0027s Done is Done",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -202,7 +207,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "S1E3ABetterTheDevilYouKnow",
@@ -210,45 +215,45 @@
       "Name": "Better the Devil You Know",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "S1E3ALongArmOfTheLaw",
       "SetID": "dbllnom",
       "Name": "Long Arm of the Law",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "S1E3ASecondChance",
       "SetID": "dbllnom",
       "Name": "Second Chance",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "S1E3AShesComingWithUs",
       "SetID": "dbllnom",
       "Name": "She\u0027s Coming with Us",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "S1E3ATakeMeInstead",
       "SetID": "dbllnom",
       "Name": "Take Me Instead",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "S1E3BBuriedAlive",
       "SetID": "dbllnom",
       "Name": "Buried Alive",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -256,17 +261,17 @@
       "ID": "S1E3BResurrection",
       "SetID": "dbllnom",
       "Name": "Resurrection",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "S1E3EpisodeComplete",
       "SetID": "dbllnom",
       "Name": "New Dawn",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "S1E4ABrothersInArms",
@@ -274,7 +279,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "S1E4AHandsInTheAir",
@@ -282,15 +287,15 @@
       "Name": "Hands in the Air",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "S1E4AInvincible",
       "SetID": "dbllnom",
       "Name": "Invincible",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "S1E4ANoGoingBack",
@@ -314,15 +319,15 @@
       "Name": "Cabin? What Cabin?",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "S1E4BTrailOfBreadcrumbs",
       "SetID": "dbllnom",
       "Name": "Trail of Breadcrumbs",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "S1E4EpisodeComplete",
@@ -330,15 +335,15 @@
       "Name": "Into The Woods",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "S1E5ABonnieAndClyde",
       "SetID": "dbllnom",
       "Name": "Bonnie and Clyde",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "S1E5ABullseye",
@@ -346,13 +351,13 @@
       "Name": "Bullseye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "S1E5AHeartToHeart",
       "SetID": "dbllnom",
       "Name": "Heart to Heart",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -368,7 +373,7 @@
       "ID": "S1E5AYoureOnYourOwn",
       "SetID": "dbllnom",
       "Name": "You\u0027re On Your Own",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -376,7 +381,7 @@
       "ID": "S1E5BCubaLibre",
       "SetID": "dbllnom",
       "Name": "Cuba Libre",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
       "UsersEstimate": 22
     },
@@ -384,25 +389,25 @@
       "ID": "S1E5BJailbird",
       "SetID": "dbllnom",
       "Name": "Jailbird",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "S1E5EpisodeComplete",
       "SetID": "dbllnom",
       "Name": "Runaways",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "S1E6ABreakingBread",
       "SetID": "dbllnom",
       "Name": "Breaking Bread",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "S1E6AEnoughIsEnough",
@@ -416,9 +421,9 @@
       "ID": "S1E6AIntoTheWild",
       "SetID": "dbllnom",
       "Name": "Into the Wild",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "S1E6AMostWanted",
@@ -448,7 +453,7 @@
       "ID": "S1E6BFreeBirds",
       "SetID": "dbllnom",
       "Name": "Free Bird",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -456,23 +461,23 @@
       "ID": "S1E6EpisodeComplete",
       "SetID": "dbllnom",
       "Name": "Past, Tense",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "dbllnom",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 83,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-09T13:00:06.2072605+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:15.3038476+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:13.4040442+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:09.5187855+00:00",
   "LastUpdate_AppInfo": "2024-08-20T02:57:05.8568321+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:23.5707604+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:13.4040721+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:09.5188148+00:00"
 }

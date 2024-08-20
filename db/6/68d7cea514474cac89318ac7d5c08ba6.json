@@ -2,10 +2,10 @@
   "ID": "68d7cea514474cac89318ac7d5c08ba6",
   "Name": "SPLASH - Paintball",
   "ProductSlug": "paintball_game-54c83e",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-14T05:57:21.6997781+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:34.1837004+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:17.3131649+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:14:01.2355295+00:00"
 }

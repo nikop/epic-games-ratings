@@ -2,10 +2,10 @@
   "ID": "596e41f75cf64aa8b2d19d32320f7473",
   "Name": "Office Fight",
   "ProductSlug": "office-fight-6556f6",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-21T13:00:00+00:00",
     "PcReleaseDate": "2024-08-21T13:00:00+00:00",
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T03:57:10.3997216+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:11.931508+00:00"
+  "LastUpdate_Ratings": "2024-08-20T20:00:01.7553459+00:00"
 }

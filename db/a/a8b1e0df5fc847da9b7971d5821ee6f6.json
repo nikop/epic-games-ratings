@@ -5,10 +5,10 @@
   "Ranking_Rating": 675,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 394,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 27,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 372,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-04-01T20:00:00+00:00",
     "PcReleaseDate": "2013-02-04T23:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1647,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -85,6 +85,11 @@
       "Time": "2024-08-09T18:08:13.5714047+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:13:54.9919345+00:00",
+      "NumProgressed": 1647,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:54.9327237+00:00",
@@ -97,23 +102,23 @@
       "Name": "Stranger in a Strange Land",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1614
     },
     {
       "ID": "achievement_10",
       "SetID": "1phk5ih",
       "Name": "Under a Buck",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_11",
       "SetID": "1phk5ih",
       "Name": "Space Ace",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_12",
@@ -121,39 +126,39 @@
       "Name": "Hungry",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_13",
       "SetID": "1phk5ih",
       "Name": "Drill Sergeant",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_14",
       "SetID": "1phk5ih",
       "Name": "Weedkiller",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_15",
       "SetID": "1phk5ih",
       "Name": "Get On My Level",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_16",
       "SetID": "1phk5ih",
       "Name": "The Explorer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_17",
@@ -167,7 +172,7 @@
       "ID": "achievement_18",
       "SetID": "1phk5ih",
       "Name": "Epic Tier 4 Engineer",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -175,7 +180,7 @@
       "ID": "achievement_19",
       "SetID": "1phk5ih",
       "Name": "Survivalist",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -183,9 +188,9 @@
       "ID": "achievement_2",
       "SetID": "1phk5ih",
       "Name": "Space Odyssey",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 1071
     },
     {
       "ID": "achievement_20",
@@ -193,15 +198,15 @@
       "Name": "Gun Collector",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_21",
       "SetID": "1phk5ih",
       "Name": "Aliens",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_22",
@@ -209,15 +214,15 @@
       "Name": "The Professor",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_23",
       "SetID": "1phk5ih",
       "Name": "The Librarian",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_24",
@@ -225,71 +230,71 @@
       "Name": "The Armorer",
       "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_25",
       "SetID": "1phk5ih",
       "Name": "There\u0027s Always Peng!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_26",
       "SetID": "1phk5ih",
       "Name": "My Buddy",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_27",
       "SetID": "1phk5ih",
       "Name": "Metal Detector",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_28",
       "SetID": "1phk5ih",
       "Name": "Strapped",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 1005
     },
     {
       "ID": "achievement_29",
       "SetID": "1phk5ih",
       "Name": "Circuit\u0027s Edge",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 873
     },
     {
       "ID": "achievement_3",
       "SetID": "1phk5ih",
       "Name": "Critical Mass",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 478
     },
     {
       "ID": "achievement_30",
       "SetID": "1phk5ih",
       "Name": "EMT",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_31",
       "SetID": "1phk5ih",
       "Name": "Full House",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_32",
@@ -297,7 +302,7 @@
       "Name": "RIG Master",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_33",
@@ -305,23 +310,23 @@
       "Name": "Master Plan",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 148
     },
     {
       "ID": "achievement_34",
       "SetID": "1phk5ih",
       "Name": "From the Jaws",
-      "Percentage": 15,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_35",
       "SetID": "1phk5ih",
       "Name": "Share and Share Alike",
-      "Percentage": 14,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_36",
@@ -329,7 +334,7 @@
       "Name": "Medic!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_37",
@@ -337,7 +342,7 @@
       "Name": "Ghosts of the Past",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_38",
@@ -345,47 +350,47 @@
       "Name": "Architect",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_39",
       "SetID": "1phk5ih",
       "Name": "Axes High",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_4",
       "SetID": "1phk5ih",
       "Name": "Snow Crash",
-      "Percentage": 29,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_40",
       "SetID": "1phk5ih",
       "Name": "Payback",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_41",
       "SetID": "1phk5ih",
       "Name": "Close Encounter",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 181
     },
     {
       "ID": "achievement_42",
       "SetID": "1phk5ih",
       "Name": "Go for the Limbs!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_43",
@@ -393,31 +398,31 @@
       "Name": "And Then We Doubled It!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_44",
       "SetID": "1phk5ih",
       "Name": "Slow Mo",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_45",
       "SetID": "1phk5ih",
       "Name": "Blast Corps",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_46",
       "SetID": "1phk5ih",
       "Name": "Shootbang",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_47",
@@ -425,7 +430,7 @@
       "Name": "Empty Chamber",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 99
     },
     {
       "ID": "achievement_48",
@@ -433,31 +438,31 @@
       "Name": "Dropping Acid",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_49",
       "SetID": "1phk5ih",
       "Name": "Electric Lawnmower",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_5",
       "SetID": "1phk5ih",
       "Name": "Intestinal Fortitude",
-      "Percentage": 22,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 253
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_50",
       "SetID": "1phk5ih",
       "Name": "Overpowered Healing",
-      "Percentage": 45,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 518
+      "UsersEstimate": 692
     },
     {
       "ID": "achievement_51",
@@ -465,7 +470,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_52",
@@ -473,15 +478,15 @@
       "Name": "Heretic",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_53",
       "SetID": "4gib0ic",
       "Name": "True Believer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_54",
@@ -489,15 +494,15 @@
       "Name": "Get to the Chopper!",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_55",
       "SetID": "4gib0ic",
       "Name": "Pure Lunacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_56",
@@ -505,7 +510,7 @@
       "Name": "Just the Tip",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_57",
@@ -513,69 +518,69 @@
       "Name": "Heaven Can Wait",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_58",
       "SetID": "4gib0ic",
       "Name": "Supercharger",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_6",
       "SetID": "1phk5ih",
       "Name": "Hydra",
-      "Percentage": 21,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 313
     },
     {
       "ID": "achievement_7",
       "SetID": "1phk5ih",
       "Name": "Together as One",
-      "Percentage": 18,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_8",
       "SetID": "1phk5ih",
       "Name": "Infernal Machine",
-      "Percentage": 16,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 231
     },
     {
       "ID": "achievement_9",
       "SetID": "1phk5ih",
       "Name": "Shoot for the Moon",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 214
     }
   ],
   "AchievementSets": [
     {
       "ID": "1phk5ih",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1647,
       "Completed": 0
     },
     {
       "ID": "4gib0ic",
       "IsBase": false,
-      "Progressed": 1150,
-      "Completed": 0
+      "Progressed": 1647,
+      "Completed": 1
     }
   ],
   "FirstSeen": "2024-04-04T19:58:08.2620751+00:00",
   "FirstSeenRating": "2024-08-13T13:59:56.2268138+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.9327235+00:00",
   "LastChanged": "2024-08-18T02:03:10.3046238+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:13.5714038+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:54.991934+00:00",
   "LastUpdate_AppInfo": "2024-08-20T06:57:17.9953768+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:58.4660842+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:13.5714457+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:32.1306578+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:54.9919717+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "28eda6de701c47dfbbe6255fcee8aa65",
   "Name": "High On Life",
   "ProductSlug": "high-on-life-3a855b",
-  "Ranking_Rating": 328,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 691,
   "Ranking_PopularitySum": 692,
-  "Ranking_EOS_Progress": 193,
-  "Ranking_EOS_Completed": 459,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Completed": 463,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -387,9 +387,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 25839,
+  "EOS_Progressed": 25856,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9552,6 +9552,11 @@
       "Time": "2024-08-09T18:04:05.7086933+00:00",
       "NumProgressed": 25839,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-08-20T20:06:20.7772789+00:00",
+      "NumProgressed": 25856,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 44,
@@ -9595,7 +9600,7 @@
       "Name": "Eatin\u0027 Good in the Neighborhood",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "ACH_GET_CREATURE",
@@ -9603,7 +9608,7 @@
       "Name": "Creature Feature",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_GET_GUS",
@@ -9611,7 +9616,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -9619,7 +9624,7 @@
       "Name": "Are You Packin\u0027?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -9627,7 +9632,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -9635,7 +9640,7 @@
       "Name": "Lezduit!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -9643,15 +9648,15 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_GET_SWEEZY",
       "SetID": "cdkbb11",
       "Name": "Sweezy Like Sunday Morning",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2327
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -9683,7 +9688,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -9691,15 +9696,15 @@
       "Name": "First Bounty Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
       "SetID": "cdkbb11",
       "Name": "G3 Graduation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2327
     },
     {
       "ID": "ACH_KILL_GARM",
@@ -9707,7 +9712,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -9715,7 +9720,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -9723,7 +9728,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -9731,7 +9736,7 @@
       "Name": "Self-Actualization",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -9739,7 +9744,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -9747,7 +9752,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1551
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -9755,7 +9760,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2067
+      "UsersEstimate": 2068
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -9787,7 +9792,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1293
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -9914,13 +9919,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25839,
+      "Progressed": 25856,
       "Completed": 15
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 3132,
+      "Progressed": 3149,
       "Completed": 1376
     }
   ],
@@ -9928,8 +9933,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2024-07-08T19:57:18.029121+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:05.708693+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:06:20.7772784+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:41.8701351+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:36.4847014+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:05.7087628+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:06:20.7773449+00:00"
 }

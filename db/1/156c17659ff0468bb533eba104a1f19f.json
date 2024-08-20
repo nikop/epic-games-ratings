@@ -2,10 +2,10 @@
   "ID": "156c17659ff0468bb533eba104a1f19f",
   "Name": "Sker Ritual",
   "ProductSlug": "sker-ritual-aac702",
-  "Ranking_EOS_Progress": 626,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 629,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-18T17:00:00+00:00",
     "PcReleaseDate": "2024-04-18T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 149,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2024-08-09T18:06:59.8190891+00:00",
       "NumProgressed": 140,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:11:44.6812258+00:00",
+      "NumProgressed": 149,
       "NumCompleted": 0
     }
   ],
@@ -57,9 +62,9 @@
       "ID": "bad_reception",
       "SetID": "dc07bhh",
       "Name": "Bad Reception",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "book_of_the_dead",
@@ -73,9 +78,9 @@
       "ID": "deadly_lovers",
       "SetID": "dc07bhh",
       "Name": "Deadly Lovers",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "deadly_lovers_nightmare",
@@ -97,9 +102,9 @@
       "ID": "fast_food",
       "SetID": "dc07bhh",
       "Name": "Fast Food",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "guest_book",
@@ -113,9 +118,9 @@
       "ID": "hard_times_at_lavernock",
       "SetID": "dc07bhh",
       "Name": "Hard Times at Lavernock",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "hard_to_love",
@@ -153,23 +158,23 @@
       "ID": "lamb-baah-ghini",
       "SetID": "dc07bhh",
       "Name": "Lamb-baah-ghini",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 49
     },
     {
       "ID": "last_rites",
       "SetID": "dc07bhh",
       "Name": "Last Rites",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "lavernock_rambler",
       "SetID": "dc07bhh",
       "Name": "Lavernock Rambler",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -233,17 +238,17 @@
       "ID": "miracle_man",
       "SetID": "dc07bhh",
       "Name": "Miracle Man",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 72
     },
     {
       "ID": "nightmare_in_the_lands_of_lavernock",
       "SetID": "dc07bhh",
       "Name": "Nightmare in the Lands of Lavernock",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "nightmare_of_sker_hotel",
@@ -265,17 +270,17 @@
       "ID": "perkalicious",
       "SetID": "dc07bhh",
       "Name": "Perkalicious",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "radio_silence",
       "SetID": "dc07bhh",
       "Name": "Radio Silence",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ramblings_of_a_madman",
@@ -307,7 +312,7 @@
       "Name": "Room Service",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "round_robin",
@@ -361,9 +366,9 @@
       "ID": "short_round",
       "SetID": "dc07bhh",
       "Name": "Short Round",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 74
     },
     {
       "ID": "silence_of_the_lamb",
@@ -371,7 +376,7 @@
       "Name": "Silence of the Lamb",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "speed_dating",
@@ -401,9 +406,9 @@
       "ID": "the_lambyrinth",
       "SetID": "dc07bhh",
       "Name": "The Lambyrinth",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "whats_dead_should_stay_dead",
@@ -418,14 +423,14 @@
     {
       "ID": "dc07bhh",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 149,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-01T13:11:45.6983482+00:00",
   "FirstSeenAchievements": "2024-07-25T19:03:06.8377887+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:06:59.8190885+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:11:44.6812254+00:00",
   "LastUpdate_AppInfo": "2024-08-15T18:57:23.980776+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:16.809919+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:06:59.8191182+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:11:44.6812562+00:00"
 }

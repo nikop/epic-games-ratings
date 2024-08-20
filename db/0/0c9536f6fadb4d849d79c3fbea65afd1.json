@@ -2,10 +2,10 @@
   "ID": "0c9536f6fadb4d849d79c3fbea65afd1",
   "Name": "Vitamin Girl",
   "ProductSlug": "vitamin-girl-556979",
-  "Ranking_EOS_Progress": 1037,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1049,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-08-08T04:00:00+00:00",
     "PcReleaseDate": "2017-10-11T03:00:00+00:00",
@@ -227,6 +227,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:03.843264+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:03.8432569+00:00",
   "LastUpdate_AppInfo": "2024-08-19T18:57:18.9068037+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:30.1691627+00:00",
+  "LastUpdate_Ratings": "2024-08-20T19:59:12.1948253+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:03.8441895+00:00"
 }

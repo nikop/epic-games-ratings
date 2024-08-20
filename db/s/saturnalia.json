@@ -5,10 +5,10 @@
   "Ranking_Rating": 1035,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 487,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 153,
+  "Ranking_EOS_Completed": 494,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -285,9 +285,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75730,
+  "EOS_Progressed": 75954,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21605,6 +21605,11 @@
       "Time": "2024-08-09T18:05:45.5411356+00:00",
       "NumProgressed": 75730,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-08-20T20:09:37.5176646+00:00",
+      "NumProgressed": 75954,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 20,
@@ -21616,7 +21621,7 @@
       "Name": "Denial",
       "Percentage": 2,
       "XP": 105,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_BONFIRES",
@@ -21624,7 +21629,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2279
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -21632,7 +21637,7 @@
       "Name": "Bless me Father...",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 606
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_CLAUDIAMISSION",
@@ -21640,7 +21645,7 @@
       "Name": "Anger",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH_COBRACOLA",
@@ -21648,7 +21653,7 @@
       "Name": "Soda addiction",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_FIRECRACKERS",
@@ -21664,7 +21669,7 @@
       "Name": "Paparazzi",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_FRIENDSHIPPOWER",
@@ -21672,7 +21677,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -21680,7 +21685,7 @@
       "Name": "Let there be light",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_MATCHES",
@@ -21688,7 +21693,7 @@
       "Name": "Fear Of The Dark",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH_MOUTHTRUTH",
@@ -21696,7 +21701,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -21704,7 +21709,7 @@
       "Name": "Acceptance",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_PHONECAPTURE",
@@ -21712,7 +21717,7 @@
       "Name": "Are you still there?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "ACH_PHONEGATHER",
@@ -21720,7 +21725,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_READCLUES",
@@ -21728,7 +21733,7 @@
       "Name": "Detective of the occult",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 757
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH_RESCUECHARACTER",
@@ -21736,7 +21741,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 530
+      "UsersEstimate": 532
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -21744,7 +21749,7 @@
       "Name": "Depression",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 757
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH_STAMINA",
@@ -21752,7 +21757,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3029
+      "UsersEstimate": 3038
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -21760,7 +21765,7 @@
       "Name": "Bargaining",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_TOOLS",
@@ -21768,14 +21773,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2279
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 75730,
+      "Progressed": 75954,
       "Completed": 19
     }
   ],
@@ -21783,8 +21788,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2024-07-10T19:57:30.4364622+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:45.5411351+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:37.5176642+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:56:55.9997315+00:00",
-  "LastUpdate_Ratings": "2024-08-20T17:58:23.9201966+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:45.5412648+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:57:08.9564509+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:09:37.5177769+00:00"
 }

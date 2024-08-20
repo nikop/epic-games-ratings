@@ -1,47 +1,47 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.66 (Ranked 328)  
+Rating: 4.66 (Ranked 329)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 58.00% | ~2,048 |
-| Double Kill | 50.00% | ~1,766 |
-| Veteran | 33.00% | ~1,165 |
-| Critical Hit | 32.00% | ~1,130 |
-| Dressed For Success | 24.00% | ~847 |
-| Humiliation | 16.00% | ~565 |
-| Veni, Vidi, Vici | 16.00% | ~565 |
-| Multi Kill | 13.00% | ~459 |
-| Sorcerous Spree | 13.00% | ~459 |
-| Master | 12.00% | ~424 |
-| Don't Touch My Stuff | 11.00% | ~388 |
-| The Song of Stoutheart | 9.00% | ~318 |
-| Whoops! | 9.00% | ~318 |
-| This Spot's Taken | 8.00% | ~282 |
-| Landlord Extraordinaire | 8.00% | ~282 |
-| Trojan Horse | 8.00% | ~282 |
-| From the Ashes | 5.00% | ~177 |
-| Expert Essence Employment | 5.00% | ~177 |
-| Infernal Influence | 4.00% | ~141 |
-| Together For Her | 4.00% | ~141 |
-| Pyrrhic Victory | 4.00% | ~141 |
-| The Price of Freedom | 3.00% | ~106 |
-| Deepstrike | 3.00% | ~106 |
-| In The Thick of It | 3.00% | ~106 |
-| Ultra Kill | 3.00% | ~106 |
-| Grand Master | 3.00% | ~106 |
-| Get Over Here! | 2.00% | ~71 |
-| Venisti, Vidisti, Perdidisti | 2.00% | ~71 |
-| Hello There | 1.00% | ~35 |
-| Versatile Wielder | 1.00% | ~35 |
-| Unlimited Power! | 1.00% | ~35 |
-| Killing Spree | 1.00% | ~35 |
-| Such A Fungi | 1.00% | ~35 |
-| Cleave | 1.00% | ~35 |
-| Death To Diplomacy | 0.80% | ~28 |
-| Fully Charged | 0.70% | ~25 |
+| Adept | 59.00% | ~2,111 |
+| Double Kill | 50.00% | ~1,789 |
+| Veteran | 34.00% | ~1,217 |
+| Critical Hit | 33.00% | ~1,181 |
+| Dressed For Success | 24.00% | ~859 |
+| Humiliation | 16.00% | ~572 |
+| Veni, Vidi, Vici | 16.00% | ~572 |
+| Multi Kill | 13.00% | ~465 |
+| Sorcerous Spree | 13.00% | ~465 |
+| Master | 13.00% | ~465 |
+| Don't Touch My Stuff | 12.00% | ~429 |
+| The Song of Stoutheart | 9.00% | ~322 |
+| Whoops! | 9.00% | ~322 |
+| This Spot's Taken | 8.00% | ~286 |
+| Landlord Extraordinaire | 8.00% | ~286 |
+| Trojan Horse | 8.00% | ~286 |
+| Expert Essence Employment | 6.00% | ~215 |
+| From the Ashes | 5.00% | ~179 |
+| In The Thick of It | 4.00% | ~143 |
+| Infernal Influence | 4.00% | ~143 |
+| Together For Her | 4.00% | ~143 |
+| Pyrrhic Victory | 4.00% | ~143 |
+| The Price of Freedom | 3.00% | ~107 |
+| Deepstrike | 3.00% | ~107 |
+| Ultra Kill | 3.00% | ~107 |
+| Grand Master | 3.00% | ~107 |
+| Get Over Here! | 2.00% | ~72 |
+| Venisti, Vidisti, Perdidisti | 2.00% | ~72 |
+| Hello There | 1.00% | ~36 |
+| Versatile Wielder | 1.00% | ~36 |
+| Unlimited Power! | 1.00% | ~36 |
+| Killing Spree | 1.00% | ~36 |
+| Such A Fungi | 1.00% | ~36 |
+| Cleave | 1.00% | ~36 |
+| Death To Diplomacy | 0.90% | ~32 |
+| Fully Charged | 0.80% | ~29 |
 | Oops! | 0.70% | ~25 |
 | The Marsh Expands | 0.60% | ~21 |
 | Coming Through! | 0.50% | ~18 |
@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | Die by the Sword | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,531 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 3,578 (Ranked 305)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,6 +145,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 1,935 | 0 |
 | 2024-06-17 | 3,199 | 0 |
 | 2024-08-09 | 3,531 | 0 |
+| 2024-08-20 | 3,578 | 0 |
 ## Awards
 Max (Highly Recommended): 32  (Ranked 614)  
 Sum: 288 (Ranked 462)  

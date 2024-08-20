@@ -2,10 +2,10 @@
   "ID": "c24ab01828c74414b185dea9f87a88f8",
   "Name": "Demonheart",
   "ProductSlug": "demonheart-0ef66c",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-06-29T18:00:00+00:00",
     "PcReleaseDate": "2017-03-24T12:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-06T01:47:17.9362384+00:00",
   "LastUpdate_AppInfo": "2024-08-14T13:09:52.4036537+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:58:06.813324+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:52.2044836+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:57.5099229+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:16.9452407+00:00"
 }

@@ -6,36 +6,36 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~4,763 |
-| A Grove Replanted | 54.00% | ~4,593 |
-| Fields Watered | 42.00% | ~3,573 |
-| Seekers Found | 41.00% | ~3,487 |
-| Settling the Skies | 41.00% | ~3,487 |
-| Wind Powered | 41.00% | ~3,487 |
-| It Takes a Village | 34.00% | ~2,892 |
-| On the Town | 28.00% | ~2,382 |
-| Daylight Found | 26.00% | ~2,212 |
-| Islands Connected | 26.00% | ~2,212 |
-| Irons Scorched | 25.00% | ~2,126 |
-| Harp Tuned | 24.00% | ~2,041 |
-| Travelers Returned | 24.00% | ~2,041 |
-| Hopes Hoisted | 23.00% | ~1,956 |
-| Pyre Ignited | 23.00% | ~1,956 |
-| Knowledge Shared | 21.00% | ~1,786 |
-| Relic Finder | 20.00% | ~1,701 |
-| Worthy of the Title | 19.00% | ~1,616 |
-| A Peaceful Respite | 14.00% | ~1,191 |
-| A Learned Scholar | 13.00% | ~1,106 |
-| Prophecy Fulfilled | 13.00% | ~1,106 |
-| A Wanderer’s Guide | 11.00% | ~936 |
-| Knowledge Seeker | 6.00% | ~510 |
-| The Cycle Continues | 3.00% | ~255 |
-| Glowing Waters | 2.00% | ~170 |
-| Sparkling Alloys | 2.00% | ~170 |
-| A True Challenge | 2.00% | ~170 |
+| A Small Community | 56.00% | ~4,792 |
+| A Grove Replanted | 54.00% | ~4,621 |
+| Fields Watered | 41.00% | ~3,509 |
+| Seekers Found | 41.00% | ~3,509 |
+| Settling the Skies | 41.00% | ~3,509 |
+| Wind Powered | 40.00% | ~3,423 |
+| It Takes a Village | 34.00% | ~2,910 |
+| On the Town | 28.00% | ~2,396 |
+| Daylight Found | 26.00% | ~2,225 |
+| Islands Connected | 26.00% | ~2,225 |
+| Irons Scorched | 25.00% | ~2,140 |
+| Harp Tuned | 24.00% | ~2,054 |
+| Travelers Returned | 24.00% | ~2,054 |
+| Hopes Hoisted | 23.00% | ~1,968 |
+| Pyre Ignited | 23.00% | ~1,968 |
+| Knowledge Shared | 21.00% | ~1,797 |
+| Relic Finder | 20.00% | ~1,712 |
+| Worthy of the Title | 19.00% | ~1,626 |
+| A Peaceful Respite | 14.00% | ~1,198 |
+| A Learned Scholar | 13.00% | ~1,113 |
+| Prophecy Fulfilled | 13.00% | ~1,113 |
+| A Wanderer’s Guide | 11.00% | ~941 |
+| Knowledge Seeker | 6.00% | ~513 |
+| The Cycle Continues | 3.00% | ~257 |
+| Glowing Waters | 2.00% | ~171 |
+| Sparkling Alloys | 2.00% | ~171 |
+| A True Challenge | 2.00% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,506 (Ranked 251)  
-Completed: 65 (0.76%) (Ranked 290)  
+Progressed: 8,558 (Ranked 253)  
+Completed: 65 (0.76%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,6 +322,7 @@ Completed: 65 (0.76%) (Ranked 290)
 | 2024-06-17 | 8,373 | 64 |
 | 2024-07-09 | 8,446 | 64 |
 | 2024-08-09 | 8,506 | 65 |
+| 2024-08-20 | 8,558 | 65 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

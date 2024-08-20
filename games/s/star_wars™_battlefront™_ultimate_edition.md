@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 84.00% | ~7,043 |
-| Off to a good start | 56.00% | ~4,695 |
-| Do... or do not. There is no try | 56.00% | ~4,695 |
-| A good blaster at your side | 18.00% | ~1,509 |
-| I suggest a new strategy | 14.00% | ~1,174 |
-| All right, I'll give it a try | 12.00% | ~1,006 |
-| Great shot, kid! | 12.00% | ~1,006 |
-| Scrap collector | 11.00% | ~922 |
-| Together we can rule the galaxy | 10.00% | ~838 |
-| The power of the Force | 9.00% | ~755 |
-| Shoot first | 9.00% | ~755 |
-| Collector | 8.00% | ~671 |
-| Best star-pilot in the galaxy | 6.00% | ~503 |
-| Tell Jabba that I've got his money | 5.00% | ~419 |
-| Never tell me the odds! | 5.00% | ~419 |
-| Survivor | 5.00% | ~419 |
-| A cunning warrior | 4.00% | ~335 |
-| What's the cargo? | 3.00% | ~252 |
-| "Gonk? Gonk!" | 3.00% | ~252 |
-| Impressive. Most impressive. | 3.00% | ~252 |
-| Judge me by my size, do you? | 3.00% | ~252 |
-| Not bad for a little furball | 3.00% | ~252 |
-| Distinguished | 2.00% | ~168 |
-| A tremor in the Force | 2.00% | ~168 |
-| On the ball | 2.00% | ~168 |
-| Safety ain't the point of a joyride | 2.00% | ~168 |
-| Patience you must have | 2.00% | ~168 |
-| Support the troops | 2.00% | ~168 |
-| Don't underestimate the Force | 2.00% | ~168 |
-| The Force is strong with this one | 1.00% | ~84 |
-| I've been waiting for you | 1.00% | ~84 |
-| When 900 years old you reach... | 1.00% | ~84 |
-| Determined | 1.00% | ~84 |
-| Your journey has only started | 1.00% | ~84 |
-| Precision shot | 1.00% | ~84 |
-| That's no moon | 1.00% | ~84 |
-| Hold the line! | 0.90% | ~75 |
-| What will you become? | 0.90% | ~75 |
+| New Recruit | 84.00% | ~7,127 |
+| Off to a good start | 56.00% | ~4,752 |
+| Do... or do not. There is no try | 56.00% | ~4,752 |
+| A good blaster at your side | 18.00% | ~1,527 |
+| I suggest a new strategy | 14.00% | ~1,188 |
+| All right, I'll give it a try | 12.00% | ~1,018 |
+| Great shot, kid! | 12.00% | ~1,018 |
+| Scrap collector | 11.00% | ~933 |
+| Together we can rule the galaxy | 10.00% | ~848 |
+| The power of the Force | 9.00% | ~764 |
+| Shoot first | 9.00% | ~764 |
+| Collector | 8.00% | ~679 |
+| Best star-pilot in the galaxy | 7.00% | ~594 |
+| Tell Jabba that I've got his money | 5.00% | ~424 |
+| Never tell me the odds! | 5.00% | ~424 |
+| Survivor | 5.00% | ~424 |
+| A cunning warrior | 4.00% | ~339 |
+| What's the cargo? | 3.00% | ~255 |
+| "Gonk? Gonk!" | 3.00% | ~255 |
+| Impressive. Most impressive. | 3.00% | ~255 |
+| Judge me by my size, do you? | 3.00% | ~255 |
+| Not bad for a little furball | 3.00% | ~255 |
+| Distinguished | 2.00% | ~170 |
+| A tremor in the Force | 2.00% | ~170 |
+| On the ball | 2.00% | ~170 |
+| Safety ain't the point of a joyride | 2.00% | ~170 |
+| Patience you must have | 2.00% | ~170 |
+| Support the troops | 2.00% | ~170 |
+| Don't underestimate the Force | 2.00% | ~170 |
+| The Force is strong with this one | 1.00% | ~85 |
+| I've been waiting for you | 1.00% | ~85 |
+| When 900 years old you reach... | 1.00% | ~85 |
+| Determined | 1.00% | ~85 |
+| Your journey has only started | 1.00% | ~85 |
+| Precision shot | 1.00% | ~85 |
+| That's no moon | 1.00% | ~85 |
+| Hold the line! | 0.90% | ~76 |
+| What will you become? | 0.90% | ~76 |
 | Ackbar's Elite | 0.70% | ~59 |
 | This is a new day, a new beginning | 0.70% | ~59 |
-| City in the Clouds | 0.70% | ~59 |
 | Disturbed tranquility | 0.70% | ~59 |
-| Walker defender | 0.60% | ~50 |
-| Alternative solution | 0.60% | ~50 |
-| Playing the objective | 0.50% | ~42 |
+| Playing the objective | 0.60% | ~51 |
+| Walker defender | 0.60% | ~51 |
+| City in the Clouds | 0.60% | ~51 |
+| Alternative solution | 0.60% | ~51 |
 | You have your moments | 0.50% | ~42 |
 | Onwards! | 0.50% | ~42 |
 | The circle is now complete | 0.50% | ~42 |
@@ -68,8 +68,8 @@
 | I never doubted you! | 0.10% | ~8 |
 | Crush them with one swift stroke… | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,384 (Ranked 252)  
-Completed: 2 (0.02%) (Ranked 509)  
+Progressed: 8,485 (Ranked 255)  
+Completed: 2 (0.02%) (Ranked 514)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,6 +207,7 @@ Completed: 2 (0.02%) (Ranked 509)
 | 2024-04-10 | 4,319 | 1 |
 | 2024-06-17 | 7,787 | 2 |
 | 2024-08-09 | 8,384 | 2 |
+| 2024-08-20 | 8,485 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

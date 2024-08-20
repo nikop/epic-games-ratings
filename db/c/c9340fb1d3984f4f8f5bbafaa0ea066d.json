@@ -2,13 +2,13 @@
   "ID": "c9340fb1d3984f4f8f5bbafaa0ea066d",
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
-  "Ranking_Rating": 1085,
+  "Ranking_Rating": 1086,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 152,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -53,9 +53,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75860,
+  "EOS_Progressed": 76765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11403,6 +11403,11 @@
       "Time": "2024-08-09T18:04:40.5013597+00:00",
       "NumProgressed": 75860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:07:31.5370593+00:00",
+      "NumProgressed": 76765,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T14:04:58.0760511+00:00",
@@ -11415,7 +11420,7 @@
       "Name": "10K",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_1M",
@@ -11423,7 +11428,7 @@
       "Name": "1M",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_250K",
@@ -11431,7 +11436,7 @@
       "Name": "250k",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_ALL_TIME_HIGHSCORE_OVER_50K",
@@ -11439,7 +11444,7 @@
       "Name": "50K",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_AVERAGE_10_RUN_10K",
@@ -11447,7 +11452,7 @@
       "Name": "10K in 10",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_AVERAGE_10_RUN_1M",
@@ -11471,7 +11476,7 @@
       "Name": "50K in 10",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_AVERAGE_SECTORS_TEN_RUN_1",
@@ -11479,7 +11484,7 @@
       "Name": "Skyscraper",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_AVERAGE_SECTORS_TEN_RUN_3",
@@ -11503,7 +11508,7 @@
       "Name": "Free Game",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_BIG_AIR_10_SECONDS",
@@ -11511,7 +11516,7 @@
       "Name": "Jet Lag",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_BIG_AIR_1_SECOND",
@@ -11519,7 +11524,7 @@
       "Name": "One Missisippi",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_BIG_AIR_60_SECONDS",
@@ -11535,7 +11540,7 @@
       "Name": "Crash",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_CRASHES_10",
@@ -11543,7 +11548,7 @@
       "Name": "High Rise",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_CRASHES_50",
@@ -11551,7 +11556,7 @@
       "Name": "Concrete Island",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_CRASHES_99",
@@ -11591,7 +11596,7 @@
       "Name": "Fallen Angels",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_DAILY_HIGH_SCORE_1M",
@@ -11607,7 +11612,7 @@
       "Name": "In The Mood For Love",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_DAILY_HIGH_SCORE_50K",
@@ -11615,7 +11620,7 @@
       "Name": "Chungking Express",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_ENTHUSIAST_20_SEEDS_VISITED",
@@ -11623,7 +11628,7 @@
       "Name": "Night Tourist",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_FANATIC_100_SEEDS_VISITED",
@@ -11639,7 +11644,7 @@
       "Name": "Grand Tour",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_GODLIKE",
@@ -11647,7 +11652,7 @@
       "Name": "Become Godlike",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_HERE_FOR_THE_ART",
@@ -11655,7 +11660,7 @@
       "Name": "Here For The Art",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_HOLY_SHIZ",
@@ -11663,7 +11668,7 @@
       "Name": "Your Holiness",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_KING_FOR_A_DAY",
@@ -11671,7 +11676,7 @@
       "Name": "King For A Day",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_KING_OF_THE_SEED",
@@ -11679,7 +11684,7 @@
       "Name": "The Flag Is Raised",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_MAX_SECTORS_10",
@@ -11695,7 +11700,7 @@
       "Name": "Cairodrome",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_MAX_SECTORS_5",
@@ -11703,7 +11708,7 @@
       "Name": "Operatique",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_OWNAGE",
@@ -11711,7 +11716,7 @@
       "Name": "Ownage",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_RINGOUT_1",
@@ -11719,7 +11724,7 @@
       "Name": "Crash Archipelago",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_RINGOUT_10",
@@ -11727,7 +11732,7 @@
       "Name": "Ringout AllStar",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_RINGOUT_50",
@@ -11759,7 +11764,7 @@
       "Name": "Night Jog",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_SINGLE_RUN_MARATHON",
@@ -11767,7 +11772,7 @@
       "Name": "Marathon",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_SINGLE_RUN_SPRINT",
@@ -11791,7 +11796,7 @@
       "Name": "Sector Clear",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_TOTAL_SECTORS_10",
@@ -11799,7 +11804,7 @@
       "Name": "Cruiser",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_TOTAL_SECTORS_20",
@@ -11807,7 +11812,7 @@
       "Name": "Runner",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_TOTAL_SECTORS_5",
@@ -11815,7 +11820,7 @@
       "Name": "Level 5",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_TOTAL_SECTORS_50",
@@ -11823,7 +11828,7 @@
       "Name": "Tunnel Rat",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "NR_TOURIST_10_SEEDS_VISITED",
@@ -11831,14 +11836,14 @@
       "Name": "Passing Through",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "aom4nln",
       "IsBase": true,
-      "Progressed": 75860,
+      "Progressed": 76765,
       "Completed": 0
     }
   ],
@@ -11846,8 +11851,8 @@
   "FirstSeenRating": "2024-08-12T19:58:04.442028+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
   "LastChanged": "2024-08-18T11:57:39.748774+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:04:40.5013596+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:07:31.5370588+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:15.1534642+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:58:19.2593965+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:04:40.5014477+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:07:31.5371294+00:00"
 }

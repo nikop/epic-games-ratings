@@ -2,10 +2,10 @@
   "ID": "9f16c280679749e8ab6179f64e005a37",
   "Name": "Hauntii",
   "ProductSlug": "hauntii-8d9bd7",
-  "Ranking_EOS_Progress": 1037,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1033,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 464,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-07-17T14:00:00+00:00",
     "PcReleaseDate": "2024-05-23T00:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:05:32.5442852+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-08-20T20:09:11.0561081+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -68,7 +73,7 @@
       "ID": "BeeSting",
       "SetID": "29fkb9g",
       "Name": "Three of Wands",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -84,7 +89,7 @@
       "ID": "BlackHole",
       "SetID": "29fkb9g",
       "Name": "Queen of Swords",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -108,9 +113,9 @@
       "ID": "CrossingTower",
       "SetID": "29fkb9g",
       "Name": "The Fool",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EternityHour",
@@ -132,7 +137,7 @@
       "ID": "FallenStar",
       "SetID": "29fkb9g",
       "Name": "Queen of Coins",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -228,7 +233,7 @@
       "ID": "PewPew",
       "SetID": "29fkb9g",
       "Name": "Five of Wands",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -268,7 +273,7 @@
       "ID": "RootOfEvil",
       "SetID": "29fkb9g",
       "Name": "King of Coins",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -308,7 +313,7 @@
       "ID": "TheBells",
       "SetID": "29fkb9g",
       "Name": "Four of Wands",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -324,9 +329,9 @@
       "ID": "UnlikelyMilliner",
       "SetID": "29fkb9g",
       "Name": "Four of Coins",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "UrsaMajor",
@@ -365,14 +370,14 @@
     {
       "ID": "29fkb9g",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-27T13:58:16.2743034+00:00",
   "FirstSeenAchievements": "2024-06-17T16:17:02.3681538+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:05:32.5442846+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:09:11.0561076+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:05.096162+00:00",
   "LastUpdate_Ratings": "2024-08-20T19:00:19.8134858+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:05:32.5443119+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:09:11.0561335+00:00"
 }

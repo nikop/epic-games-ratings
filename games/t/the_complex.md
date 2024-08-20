@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tough Decision | 91.00% | ~1,237 |
-| Blast From The Past | 82.00% | ~1,114 |
-| Kamikaze | 64.00% | ~870 |
-| The Rebel And The Doctor | 56.00% | ~761 |
-| Free Champagne | 51.00% | ~693 |
-| Storage Hunter | 47.00% | ~639 |
-| Beat It | 45.00% | ~612 |
-| Falling For You | 42.00% | ~571 |
-| Lab Rat | 27.00% | ~367 |
-| Stalemate | 24.00% | ~326 |
-| Trust Me For Once | 23.00% | ~313 |
-| Kindar Surprise | 16.00% | ~217 |
-| Deadly Secret | 12.00% | ~163 |
-| MVP - Most Vanishing Person | 12.00% | ~163 |
-| Get Out Of This Alive | 8.00% | ~109 |
-| The Promise | 8.00% | ~109 |
-| People Pleaser | 8.00% | ~109 |
-| The Nano Glitches And The Martyr | 6.00% | ~82 |
-| Second Chances | 6.00% | ~82 |
+| Tough Decision | 90.00% | ~1,238 |
+| Blast From The Past | 82.00% | ~1,128 |
+| Kamikaze | 64.00% | ~881 |
+| The Rebel And The Doctor | 56.00% | ~771 |
+| Free Champagne | 51.00% | ~702 |
+| Storage Hunter | 47.00% | ~647 |
+| Beat It | 45.00% | ~619 |
+| Falling For You | 42.00% | ~578 |
+| Lab Rat | 27.00% | ~372 |
+| Stalemate | 24.00% | ~330 |
+| Trust Me For Once | 23.00% | ~316 |
+| Kindar Surprise | 16.00% | ~220 |
+| Deadly Secret | 12.00% | ~165 |
+| MVP - Most Vanishing Person | 12.00% | ~165 |
+| Get Out Of This Alive | 9.00% | ~124 |
+| The Promise | 8.00% | ~110 |
+| People Pleaser | 8.00% | ~110 |
+| The Nano Glitches And The Martyr | 6.00% | ~83 |
+| Second Chances | 6.00% | ~83 |
 | Not A People Person | 3.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,359 (Ranked 381)  
-Completed: 30 (2.21%) (Ranked 193)  
+Progressed: 1,376 (Ranked 385)  
+Completed: 31 (2.25%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,6 +212,7 @@ Completed: 30 (2.21%) (Ranked 193)
 | 2024-04-10 | 1,019 | 22 |
 | 2024-06-17 | 1,285 | 30 |
 | 2024-08-09 | 1,359 | 30 |
+| 2024-08-20 | 1,376 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

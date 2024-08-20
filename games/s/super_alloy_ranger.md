@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 76.00% | ~145 |
-| Gear Up | 65.00% | ~124 |
-| A Grand Show | 65.00% | ~124 |
-| Freshen Up | 54.00% | ~103 |
-| GG EZ | 52.00% | ~99 |
-| Hydrophobia | 35.00% | ~67 |
-| Ka-Ching! | 29.00% | ~55 |
+| Iceberg Theory | 75.00% | ~146 |
+| Gear Up | 64.00% | ~124 |
+| A Grand Show | 64.00% | ~124 |
+| Freshen Up | 54.00% | ~105 |
+| GG EZ | 52.00% | ~101 |
+| Hydrophobia | 35.00% | ~68 |
+| Ka-Ching! | 29.00% | ~56 |
 | Stop Right There | 27.00% | ~52 |
-| Get to the Point | 24.00% | ~46 |
-| Phew! | 16.00% | ~31 |
-| Mr. Want It All | 14.00% | ~27 |
-| Toe to Toe | 14.00% | ~27 |
-| The Hidden Secret | 13.00% | ~25 |
+| Get to the Point | 24.00% | ~47 |
+| Phew! | 15.00% | ~29 |
+| Mr. Want It All | 13.00% | ~25 |
+| Toe to Toe | 13.00% | ~25 |
+| The Hidden Secret | 12.00% | ~23 |
 | The Abyss Conqueror | 9.00% | ~17 |
 | Grand Escape | 9.00% | ~17 |
 | Space Warrior: Prologue | 9.00% | ~17 |
-| The Fortress Conqueror | 7.00% | ~13 |
-| Keep it Up, rookie! | 6.00% | ~11 |
+| The Fortress Conqueror | 7.00% | ~14 |
+| Keep it Up, rookie! | 6.00% | ~12 |
 | The Inactivated Frozen Conqueror | 5.00% | ~10 |
 | The Hypergravitational Abyss Conqueror | 5.00% | ~10 |
 | he Ultra Fortress Conqueror | 5.00% | ~10 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.50% | ~1 |
 | Super Alloy Ranger! | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191 (Ranked 583)  
-Completed: 1 (0.52%) (Ranked 321)  
+Progressed: 194 (Ranked 586)  
+Completed: 1 (0.52%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,6 +152,7 @@ Completed: 1 (0.52%) (Ranked 321)
 | 2024-04-10 | 176 | 1 |
 | 2024-06-17 | 186 | 1 |
 | 2024-08-09 | 191 | 1 |
+| 2024-08-20 | 194 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "0784e327b4474de18562b0eae53b16ca",
   "Name": "Chrono Odyssey",
   "ProductSlug": "chrono-odyssey-366af5",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-15T06:57:26.2357378+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:53.6674486+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:16.9081596+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:14:00.6294535+00:00"
 }

@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 90.00% | ~261 |
-| Trumpet | 89.00% | ~258 |
-| Spyglass | 84.00% | ~244 |
-| Broken toy | 78.00% | ~226 |
-| Egghead Lucy | 76.00% | ~220 |
-| Puppy | 63.00% | ~183 |
-| Coal's fur | 58.00% | ~168 |
-| Blue's drawing | 53.00% | ~154 |
-| Mysterious footprints | 49.00% | ~142 |
-| Glass shards | 46.00% | ~133 |
-| Complicated padlock | 43.00% | ~125 |
-| Windmill | 42.00% | ~122 |
-| Doll | 38.00% | ~110 |
-| Big metal ruler | 38.00% | ~110 |
-| Mysterious paintings | 37.00% | ~107 |
-| Cat | 32.00% | ~93 |
-| Depths of the well | 27.00% | ~78 |
-| Children | 23.00% | ~67 |
-| Huge Snail | 16.00% | ~46 |
+| Lucky charm | 90.00% | ~264 |
+| Trumpet | 89.00% | ~261 |
+| Spyglass | 84.00% | ~246 |
+| Broken toy | 78.00% | ~229 |
+| Egghead Lucy | 75.00% | ~220 |
+| Puppy | 64.00% | ~188 |
+| Coal's fur | 58.00% | ~170 |
+| Blue's drawing | 54.00% | ~158 |
+| Mysterious footprints | 49.00% | ~144 |
+| Glass shards | 46.00% | ~135 |
+| Complicated padlock | 43.00% | ~126 |
+| Windmill | 43.00% | ~126 |
+| Doll | 38.00% | ~111 |
+| Big metal ruler | 38.00% | ~111 |
+| Mysterious paintings | 37.00% | ~108 |
+| Cat | 32.00% | ~94 |
+| Depths of the well | 27.00% | ~79 |
+| Children | 24.00% | ~70 |
+| Huge Snail | 15.00% | ~44 |
 | Friend | 14.00% | ~41 |
 | Flower of hope | 14.00% | ~41 |
+| Old kettle | 14.00% | ~41 |
 | Forest Howl | 13.00% | ~38 |
-| Old kettle | 13.00% | ~38 |
 | Back Home | 12.00% | ~35 |
-| Hope | 5.00% | ~14 |
+| Hope | 5.00% | ~15 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 533)  
-Completed: 0 (0.00%) (Ranked 554)  
+Progressed: 293 (Ranked 536)  
+Completed: 0 (0.00%) (Ranked 561)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -116,6 +116,7 @@ Completed: 0 (0.00%) (Ranked 554)
 | 2024-04-10 | 261 | 0 |
 | 2024-06-17 | 279 | 0 |
 | 2024-08-09 | 290 | 0 |
+| 2024-08-20 | 293 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

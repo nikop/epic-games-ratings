@@ -5,10 +5,10 @@
   "Ranking_Rating": 935,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 487,
-  "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Completed": 514,
+  "Ranking_EOS_NewPlayers": 47,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2016-03-14T23:00:00+00:00",
@@ -330,11 +330,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5857,
+  "EOS_Progressed": 8127,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1056,
+  "EOS_NewPlayers": 2270,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.03,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:01:54.7562635+00:00",
@@ -355,6 +355,11 @@
       "Time": "2024-08-09T18:08:13.2785092+00:00",
       "NumProgressed": 5857,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-08-20T20:13:54.4060413+00:00",
+      "NumProgressed": 8127,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:54.7562701+00:00",
@@ -367,15 +372,15 @@
       "Name": "Home Is Where Your Car Is",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 5388
+      "UsersEstimate": 7477
     },
     {
       "ID": "achievement_10",
       "SetID": "bf7ffah",
       "Name": "Fulfilling The Need",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 469
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_11",
@@ -383,7 +388,7 @@
       "Name": "The Hoonigan",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_12",
@@ -391,7 +396,7 @@
       "Name": "Single Take Star",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 894
     },
     {
       "ID": "achievement_13",
@@ -399,7 +404,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 586
+      "UsersEstimate": 813
     },
     {
       "ID": "achievement_14",
@@ -407,23 +412,23 @@
       "Name": "Surprised? Me Neither",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_15",
       "SetID": "bf7ffah",
       "Name": "Above The Law",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_16",
       "SetID": "bf7ffah",
       "Name": "One For All...",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1464
+      "UsersEstimate": 2113
     },
     {
       "ID": "achievement_17",
@@ -431,7 +436,7 @@
       "Name": "Choo Choo!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 879
+      "UsersEstimate": 1219
     },
     {
       "ID": "achievement_18",
@@ -439,23 +444,23 @@
       "Name": "... And All For One",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_19",
       "SetID": "bf7ffah",
       "Name": "The Ultimate Icon",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 234
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_2",
       "SetID": "bf7ffah",
       "Name": "Early Days",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 2811
+      "UsersEstimate": 3982
     },
     {
       "ID": "achievement_20",
@@ -463,15 +468,15 @@
       "Name": "Tuned For Excellence",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3163
+      "UsersEstimate": 4389
     },
     {
       "ID": "achievement_21",
       "SetID": "bf7ffah",
       "Name": "Beyond Extreme",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 293
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_22",
@@ -479,7 +484,7 @@
       "Name": "Triple Crown",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 2811
+      "UsersEstimate": 3901
     },
     {
       "ID": "achievement_23",
@@ -487,7 +492,7 @@
       "Name": "Social Scene",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1544
     },
     {
       "ID": "achievement_24",
@@ -495,7 +500,7 @@
       "Name": "Full House",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 761
+      "UsersEstimate": 1057
     },
     {
       "ID": "achievement_25",
@@ -503,7 +508,7 @@
       "Name": "Building Your stable",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3631
+      "UsersEstimate": 5039
     },
     {
       "ID": "achievement_26",
@@ -511,15 +516,15 @@
       "Name": "Serious Fun",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 176
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_27",
       "SetID": "bf7ffah",
       "Name": "No Filter",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3163
+      "UsersEstimate": 4307
     },
     {
       "ID": "achievement_28",
@@ -527,15 +532,15 @@
       "Name": "That Perfect Moment",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1788
     },
     {
       "ID": "achievement_29",
       "SetID": "bf7ffah",
       "Name": "Full Power",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_3",
@@ -543,7 +548,7 @@
       "Name": "Getting Noticed",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1523
+      "UsersEstimate": 2113
     },
     {
       "ID": "achievement_30",
@@ -551,15 +556,15 @@
       "Name": "Training Wheels Off",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1950
     },
     {
       "ID": "achievement_31",
       "SetID": "bf7ffah",
       "Name": "Fanboi",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_32",
@@ -567,7 +572,7 @@
       "Name": "Iconoclast",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_33",
@@ -575,7 +580,7 @@
       "Name": "Mental Unblock",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_34",
@@ -583,15 +588,15 @@
       "Name": "Hit The Ceiling",
       "Percentage": 0.3,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_35",
       "SetID": "bf7ffah",
       "Name": "Eddie Is Back",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 351
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_36",
@@ -599,7 +604,7 @@
       "Name": "Zero To Hero",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_37",
@@ -607,7 +612,7 @@
       "Name": "Wrap Artist",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_38",
@@ -615,7 +620,7 @@
       "Name": "Climbing the Ranks",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 351
+      "UsersEstimate": 488
     },
     {
       "ID": "achievement_39",
@@ -623,15 +628,15 @@
       "Name": "Filter Addict",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_4",
       "SetID": "bf7ffah",
       "Name": "Can I Get Your Autograph?",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 293
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_40",
@@ -639,15 +644,15 @@
       "Name": "Kustom Kar",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 325
     },
     {
       "ID": "achievement_41",
       "SetID": "ncfchk",
       "Name": "Wrap It Up",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 3221
+      "UsersEstimate": 4551
     },
     {
       "ID": "achievement_42",
@@ -655,7 +660,7 @@
       "Name": "Drag Queen",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_43",
@@ -663,7 +668,7 @@
       "Name": "Basic Bronze",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_44",
@@ -679,23 +684,23 @@
       "Name": "Speed Master",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_5",
       "SetID": "bf7ffah",
       "Name": "Guidance From Amy",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1933
+      "UsersEstimate": 2763
     },
     {
       "ID": "achievement_6",
       "SetID": "bf7ffah",
       "Name": "RWB",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 586
+      "UsersEstimate": 731
     },
     {
       "ID": "achievement_7",
@@ -703,7 +708,7 @@
       "Name": "Iconic Builder",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 731
     },
     {
       "ID": "achievement_8",
@@ -711,7 +716,7 @@
       "Name": "I Am Speed",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1707
     },
     {
       "ID": "achievement_9",
@@ -719,20 +724,20 @@
       "Name": "Urban Outlaw",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 644
+      "UsersEstimate": 894
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf7ffah",
       "IsBase": true,
-      "Progressed": 5857,
+      "Progressed": 8127,
       "Completed": 2
     },
     {
       "ID": "ncfchk",
       "IsBase": false,
-      "Progressed": 5857,
+      "Progressed": 8127,
       "Completed": 0
     }
   ],
@@ -740,8 +745,8 @@
   "FirstSeenRating": "2024-06-01T01:56:59.9897901+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.75627+00:00",
   "LastChanged": "2024-08-20T03:57:55.095665+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:08:13.2785086+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:13:54.4060409+00:00",
   "LastUpdate_AppInfo": "2024-08-16T02:57:01.634545+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:13.1560746+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:13.2785359+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:54.406071+00:00"
 }

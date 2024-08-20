@@ -5,10 +5,10 @@
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 699,
   "Ranking_PopularitySum": 699,
-  "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 452,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Completed": 457,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-03-07T17:00:00+00:00",
     "PcReleaseDate": "2024-03-07T17:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1458,
+  "EOS_Progressed": 1490,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -179,6 +179,11 @@
       "Time": "2024-08-09T18:07:17.1417897+00:00",
       "NumProgressed": 1458,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-08-20T20:12:16.0581702+00:00",
+      "NumProgressed": 1490,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-01-25T17:03:43.2280421+00:00",
@@ -191,7 +196,7 @@
       "Name": "Art Lover",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_BEGINNERS_LUCK",
@@ -199,23 +204,23 @@
       "Name": "Beginner\u0027s Luck",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1296
     },
     {
       "ID": "ACH_BIG_BOSS",
       "SetID": "8ijl4c5",
       "Name": "Big Boss",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 350
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_CITY_CRUISER",
       "SetID": "8ijl4c5",
       "Name": "City Cruiser",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_CLEAN_AND_TIDY",
@@ -237,9 +242,9 @@
       "ID": "ACH_EXPERIENCED_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Experienced Driver",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_FIRST_STEPS",
@@ -247,7 +252,7 @@
       "Name": "First Steps",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 700
     },
     {
       "ID": "ACH_FIRST_UPGRADE",
@@ -255,7 +260,7 @@
       "Name": "First Upgrade",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_FLEET_COMMANDER",
@@ -277,9 +282,9 @@
       "ID": "ACH_INTERMEDIATE",
       "SetID": "8ijl4c5",
       "Name": "Intermediate",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_I_LIKE_THIS_JOB",
@@ -287,15 +292,15 @@
       "Name": "I Like This Job",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_JOURNEYMAN_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Journeyman Driver",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_JOURNEY_OF_A_LIFETIME",
@@ -303,23 +308,23 @@
       "Name": "Journey of a Lifetime",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_JUNIOR",
       "SetID": "8ijl4c5",
       "Name": "Junior",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 321
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_KING_OF_THE_ROAD",
       "SetID": "8ijl4c5",
       "Name": "King of the Road",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_MASTER_OF_PEOPLE_TRANSPORTATION",
@@ -327,7 +332,7 @@
       "Name": "Master of People Transportation",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_MID_LEVEL",
@@ -335,7 +340,7 @@
       "Name": "Mid-level",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_NEW_RIDE",
@@ -343,7 +348,7 @@
       "Name": "New Ride",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 462
     },
     {
       "ID": "ACH_NOVICE",
@@ -351,7 +356,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_PROFESSIONAL_DRIVERS_LICENSE",
@@ -359,7 +364,7 @@
       "Name": "Professional Driver\u0027s License",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 977
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH_SENIOR",
@@ -367,7 +372,7 @@
       "Name": "Senior",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_SMALL_TRAVELER",
@@ -375,7 +380,7 @@
       "Name": "Small Traveler",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_SPECIALIST",
@@ -383,15 +388,15 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_TAXI_DRIVER",
       "SetID": "8ijl4c5",
       "Name": "Taxi Driver",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 417
     },
     {
       "ID": "ACH_TOUR_GUIDE",
@@ -399,7 +404,7 @@
       "Name": "Tour Guide",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_TRUE_PROFESSIONAL",
@@ -415,7 +420,7 @@
       "Name": "Voyager",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_YOUNG_DRIVER",
@@ -423,14 +428,14 @@
       "Name": "Young Driver",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1058
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ijl4c5",
       "IsBase": true,
-      "Progressed": 1458,
+      "Progressed": 1490,
       "Completed": 1
     }
   ],
@@ -438,8 +443,8 @@
   "FirstSeenRating": "2024-05-19T14:56:58.7382534+00:00",
   "FirstSeenAchievements": "2024-01-25T17:03:43.2280421+00:00",
   "LastChanged": "2024-08-16T09:57:45.8816665+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:07:17.1417894+00:00",
+  "LastChanged_Achievements": "2024-08-20T20:12:16.0581695+00:00",
   "LastUpdate_AppInfo": "2024-08-16T06:57:34.9656128+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:35.9339372+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:17.141808+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:12:16.0581879+00:00"
 }

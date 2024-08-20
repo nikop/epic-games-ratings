@@ -2,10 +2,10 @@
   "ID": "b17eb0bdbfa642e6a051fd833c87076f",
   "Name": "EndGame",
   "ProductSlug": "endgame-c9f38b",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-08-20T16:57:07.1691101+00:00",
-  "LastUpdate_Ratings": "2024-08-20T18:01:12.1028504+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:07:50.6587314+00:00"
+  "LastUpdate_Ratings": "2024-08-20T19:59:00.5738981+00:00",
+  "LastUpdate_Achievements": "2024-08-20T20:13:14.0649352+00:00"
 }

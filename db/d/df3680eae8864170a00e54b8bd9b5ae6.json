@@ -2,10 +2,10 @@
   "ID": "df3680eae8864170a00e54b8bd9b5ae6",
   "Name": "Our Souls Never Sleep",
   "ProductSlug": "our-souls-never-sleep-5efc96",
-  "Ranking_EOS_Progress": 1184,
-  "Ranking_EOS_Completed": 554,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_Progress": 1193,
+  "Ranking_EOS_Completed": 561,
+  "Ranking_EOS_NewPlayers": 544,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-05-08T16:44:28.625+00:00",
     "PcReleaseDate": "2024-05-08T14:00:00+00:00",
@@ -38,5 +38,5 @@
   "FirstSeen": "2024-05-13T18:59:52.8823734+00:00",
   "LastUpdate_AppInfo": "2024-08-14T23:57:14.3217932+00:00",
   "LastUpdate_Ratings": "2024-08-20T18:59:10.4080103+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:08:02.8497376+00:00"
+  "LastUpdate_Achievements": "2024-08-20T20:13:36.3133441+00:00"
 }
