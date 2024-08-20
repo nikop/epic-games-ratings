@@ -2,7 +2,7 @@
   "ID": "f6dcd5bf17c0469789292d1166bf91a1",
   "Name": "WRC 8 FIA World Rally Championship",
   "ProductSlug": "wrc-8",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 634,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1184,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 199,
   "RatingHistory": [
     {
@@ -550,6 +550,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 112,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-08-20T10:00:04.390737+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 112,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -599,8 +605,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2024-08-18T09:58:07.0480841+00:00",
+  "LastChanged": "2024-08-20T10:00:04.3907345+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:44.3642344+00:00",
-  "LastUpdate_Ratings": "2024-08-20T07:59:56.2641564+00:00",
+  "LastUpdate_Ratings": "2024-08-20T10:00:04.3907374+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:05:56.4916031+00:00"
 }

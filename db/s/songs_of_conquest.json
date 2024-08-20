@@ -2,8 +2,8 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 327,
-  "Ranking_Popularity": 613,
+  "Ranking_Rating": 328,
+  "Ranking_Popularity": 614,
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 554,
@@ -610,10 +610,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-20T09:59:50.2201632+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 288,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 288,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -621,7 +627,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5297,9 +5303,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
-  "LastChanged": "2024-08-17T16:58:34.4775584+00:00",
+  "LastChanged": "2024-08-20T09:59:50.220163+00:00",
   "LastChanged_Achievements": "2024-08-09T18:04:32.3465563+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:41.0125403+00:00",
-  "LastUpdate_Ratings": "2024-08-20T07:59:47.0740089+00:00",
+  "LastUpdate_Ratings": "2024-08-20T09:59:50.2201634+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:04:32.346619+00:00"
 }

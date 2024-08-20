@@ -1,7 +1,7 @@
 # RimWorld
 [Store](https://store.epicgames.com/en-US/p/rimworld)  
 [View Rawdata](../../db/r/rimworld.json)  
-Rating: 4.88 (Ranked 14)  
+Rating: 4.88 (Ranked 15)  
 Number of Ratings: 870  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 615  (Ranked 242)  
