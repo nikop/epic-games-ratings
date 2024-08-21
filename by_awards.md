@@ -77,10 +77,10 @@
 | 75 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,802 | 4.77 | 131 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,716 | 4.56 | 554 |
 | 77 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 840 |
-| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,656 | 4.06 | 1,179 |
+| 78 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,670 | 4.06 | 1,179 |
 | 79 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 6,641 | 4.38 | 901 |
 | 80 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,587 | 4.80 | 102 |
-| 81 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,554 | 4.66 | 329 |
+| 81 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,563 | 4.66 | 329 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 6,548 | 4.57 | 531 |
 | 83 | [Rogue Company](games/r/rogue_company.md) | 6,456 | 4.27 | 1,023 |
 | 84 | [God of War](games/g/god_of_war.md) | 6,292 | 4.87 | 19 |
@@ -129,8 +129,8 @@
 | 127 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,356 | 4.41 | 853 |
 | 128 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,288 | 4.89 | 12 |
 | 129 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 2,261 | 4.64 | 376 |
-| 130 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,220 | 4.86 | 30 |
-| 131 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,216 | 4.69 | 266 |
+| 130 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,222 | 4.69 | 266 |
+| 131 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,220 | 4.86 | 30 |
 | 132 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,198 | 4.38 | 901 |
 | 133 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,189 | 4.50 | 676 |
 | 134 | [Celeste](games/c/celeste.md) | 2,179 | 4.91 | 5 |
@@ -235,7 +235,7 @@
 | 233 | [Surviving Mars](games/s/surviving_mars.md) | 688 | 4.61 | 440 |
 | 234 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 681 | 4.36 | 922 |
 | 235 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 671 | 4.82 | 75 |
-| 236 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 660 | 4.41 | 853 |
+| 236 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 664 | 4.41 | 853 |
 | 237 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 648 | 4.64 | 376 |
 | 238 | [Dark Deity](games/d/dark_deity.md) | 637 | 4.17 | 1,128 |
 | 239 | [Godfall Ultimate Edition](games/g/godfall.md) | 634 | 4.05 | 1,183 |
@@ -280,7 +280,7 @@
 | 278 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 408 | 4.81 | 93 |
 | 279 | [Inscryption](games/i/inscryption.md) | 396 | 4.87 | 19 |
 | 280 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 394 | 3.99 | 1,200 |
-| 281 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 391 | 4.52 | 640 |
+| 281 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 393 | 4.52 | 640 |
 | 282 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 388 | 4.58 | 511 |
 | 282 | [The Messenger](games/t/the_messenger.md) | 388 | 4.81 | 93 |
 | 284 | [House Flipper](games/h/house_flipper.md) | 385 | 4.69 | 266 |
@@ -372,7 +372,7 @@
 | 369 | [Witchfire](games/w/witchfire.md) | 182 | 4.61 | 440 |
 | 371 | [Cris Tales](games/c/cris_tales.md) | 181 | 4.36 | 922 |
 | 371 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 181 | 4.45 | 770 |
-| 373 | [Hades II](games/h/hades_ii.md) | 179 | 4.90 | 8 |
+| 373 | [Hades II](games/h/hades_ii.md) | 179 | 4.90 | 7 |
 | 374 | [Aimlabs](games/a/aimlabs.md) | 178 | 4.58 | 511 |
 | 375 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 177 | 4.56 | 554 |
 | 375 | [Going Medieval](games/g/going_medieval.md) | 177 | 4.60 | 466 |
@@ -654,7 +654,7 @@
 | 652 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 25 | 4.47 | 741 |
 | 652 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 25 | 4.24 | 1,054 |
 | 652 | [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 25 | 3.62 | 1,260 |
-| 652 | [Outer Wilds](games/o/outer_wilds.md) | 25 | 4.90 | 8 |
+| 652 | [Outer Wilds](games/o/outer_wilds.md) | 25 | 4.90 | 7 |
 | 652 | [Tails of Iron](games/t/tails_of_iron.md) | 25 | 4.62 | 415 |
 | 652 | [Torchlight](games/t/torchlight.md) | 25 | 4.34 | 957 |
 | 658 | [](games/a/a3899e1cdcd643009009e119e9b955f7.md) | 24 | 4.82 | 75 |

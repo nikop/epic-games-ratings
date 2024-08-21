@@ -4,13 +4,13 @@
 | 2 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 698 |
 | 3 | [Hades](games/h/hades.md) | 4.92 | 4,174 | 103 |
 | 3 | [Tinykin](games/t/tinykin.md) | 4.92 | 0 | 698 |
-| 5 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 4.91 | 0 | 698 |
 | 5 | [Celeste](games/c/celeste.md) | 4.91 | 2,179 | 134 |
 | 5 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 698 |
-| 8 | [Hades II](games/h/hades_ii.md) | 4.90 | 179 | 373 |
-| 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 698 |
-| 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 25 | 652 |
-| 8 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 698 |
+| 7 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 4.90 | 0 | 698 |
+| 7 | [Hades II](games/h/hades_ii.md) | 4.90 | 179 | 373 |
+| 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 698 |
+| 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 25 | 652 |
+| 7 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 698 |
 | 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,075 | 52 |
 | 12 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 4.89 | 0 | 698 |
 | 12 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,288 | 128 |
@@ -35,7 +35,7 @@
 | 30 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.86 | 0 | 698 |
 | 30 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 63 | 518 |
 | 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 188 | 366 |
-| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,220 | 130 |
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,220 | 131 |
 | 30 | [The Legend of Heroes: Trails from Zero](games/t/the_legend_of_heroes__trails_from_zero.md) | 4.86 | 0 | 698 |
 | 30 | [The Legend of Heroes: Trails of Cold Steel III](games/t/the_legend_of_heroes__trails_of_cold_steel_iii.md) | 4.86 | 0 | 698 |
 | 30 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 4.86 | 198 | 359 |
@@ -273,7 +273,7 @@
 | 266 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 0 | 698 |
 | 266 | [House Flipper](games/h/house_flipper.md) | 4.69 | 385 | 284 |
 | 266 | [Master of Magic](games/m/master_of_magic.md) | 4.69 | 0 | 698 |
-| 266 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,216 | 131 |
+| 266 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,222 | 130 |
 | 266 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 735 | 230 |
 | 266 | [Need for Speed™ Rivals: Complete Edition](games/e/e9573f687fb24b56ba22562657ef1225.md) | 4.69 | 0 | 698 |
 | 266 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 371 | 289 |
@@ -347,7 +347,7 @@
 | 329 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.66 | 0 | 698 |
 | 329 | [Symphony of War](games/s/symphony_of_war.md) | 4.66 | 71 | 499 |
 | 329 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 985 | 198 |
-| 329 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,554 | 81 |
+| 329 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 6,563 | 81 |
 | 329 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 464 | 268 |
 | 350 | [7 Billion Humans](games/7/7_billion_humans.md) | 4.65 | 0 | 698 |
 | 350 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 698 |
@@ -646,7 +646,7 @@
 | 640 | [Death Trash](games/d/death_trash.md) | 4.52 | 0 | 698 |
 | 640 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.52 | 141 | 402 |
 | 640 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 698 |
-| 640 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 391 | 281 |
+| 640 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 393 | 281 |
 | 640 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 119 | 429 |
 | 640 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 153 | 393 |
 | 640 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.52 | 35 | 597 |
@@ -861,7 +861,7 @@
 | 853 | [MetalCore](games/m/metalcore.md) | 4.41 | 127 | 417 |
 | 853 | [Operencia: The Stolen Sun](games/o/operencia__the_stolen_sun.md) | 4.41 | 0 | 698 |
 | 853 | [Sail Forth](games/s/sail_forth.md) | 4.41 | 33 | 608 |
-| 853 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 660 | 236 |
+| 853 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.41 | 664 | 236 |
 | 853 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,356 | 127 |
 | 853 | [Sheltered](games/s/sheltered.md) | 4.41 | 294 | 309 |
 | 853 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.41 | 0 | 698 |
@@ -1180,7 +1180,7 @@
 | 1,176 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 510 | 259 |
 | 1,179 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.06 | 0 | 698 |
 | 1,179 | [Commandos 3 - HD Remaster](games/c/commandos_3_-_hd_remaster.md) | 4.06 | 0 | 698 |
-| 1,179 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 6,656 | 78 |
+| 1,179 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 6,670 | 78 |
 | 1,179 | [Legendary Road Online](games/a/a55f781bdb5940bab92aae536a879f89.md) | 4.06 | 0 | 698 |
 | 1,183 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.05 | 634 | 239 |
 | 1,184 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 698 |
