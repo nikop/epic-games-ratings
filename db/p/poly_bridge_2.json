@@ -3,8 +3,8 @@
   "Name": "Poly Bridge 2",
   "ProductSlug": "poly-bridge-2",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 594,
-  "Ranking_PopularitySum": 637,
+  "Ranking_Popularity": 596,
+  "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -400,6 +400,6 @@
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
   "LastChanged": "2024-08-21T07:57:53.7804692+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:48.9545182+00:00",
-  "LastUpdate_Ratings": "2024-08-21T08:59:59.1134407+00:00",
+  "LastUpdate_Ratings": "2024-08-21T10:58:57.7301482+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:39.9022938+00:00"
 }
