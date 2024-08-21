@@ -2,7 +2,7 @@
   "ID": "d06b7cb31f224a42b8433f7348cee5d3",
   "Name": "Nexomon: Extinction",
   "ProductSlug": "nexomon-extinction",
-  "Ranking_Rating": 696,
+  "Ranking_Rating": 675,
   "Ranking_Popularity": 698,
   "Ranking_PopularitySum": 698,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 25,
   "RatingHistory": [
     {
@@ -127,6 +127,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-21T01:57:52.993933+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -145,8 +151,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:15.9296917+00:00",
   "FirstSeenRating": "2022-09-04T23:01:28.4182016+00:00",
-  "LastChanged": "2024-07-25T18:58:19.4401246+00:00",
+  "LastChanged": "2024-08-21T01:57:52.9939329+00:00",
   "LastUpdate_AppInfo": "2024-08-19T02:57:15.3307007+00:00",
-  "LastUpdate_Ratings": "2024-08-20T22:59:17.6368505+00:00",
+  "LastUpdate_Ratings": "2024-08-21T01:57:52.9939335+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:40.7396747+00:00"
 }

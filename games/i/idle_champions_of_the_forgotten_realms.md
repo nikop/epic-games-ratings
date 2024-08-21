@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,176)  
+Rating: 4.06 (Ranked 1,179)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -1483,3 +1483,4 @@ Diff (max vs sum): 27
 | 2024-08-18 | 4.06 | - | 6,633 | 36,882 |
 | 2024-08-19 | 4.06 | - | 6,646 | 36,914 |
 | 2024-08-20 | 4.07 | - | 6,656 | 36,953 |
+| 2024-08-21 | 4.06 | - | 6,656 | 36,953 |
