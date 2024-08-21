@@ -2,7 +2,7 @@
   "ID": "hibiscus",
   "Name": "Oxenfree",
   "ProductSlug": "oxenfree",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 554,
   "Ranking_Popularity": 690,
   "Ranking_PopularitySum": 691,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 99,
   "RatingHistory": [
     {
@@ -365,6 +365,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-08-21T05:00:16.3011617+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
@@ -390,8 +396,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:37.9999655+00:00",
-  "LastChanged": "2024-08-16T03:57:33.9854583+00:00",
+  "LastChanged": "2024-08-21T05:00:16.3011615+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:24.6164142+00:00",
-  "LastUpdate_Ratings": "2024-08-21T03:57:57.5809614+00:00",
+  "LastUpdate_Ratings": "2024-08-21T05:00:16.3011621+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.446187+00:00"
 }
