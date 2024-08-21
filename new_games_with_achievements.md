@@ -40,7 +40,7 @@
 | [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2024-08-01 | 6 (1,000 XP) | 2 | - | - |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2024-08-01 | 32 (1,000 XP) | 247 | - | 0 |
 | [Thymesia](games/3/3ef48399a4044d9eb00beb44623fe5e5.md) | 2024-08-01 | 38 (1,000 XP) | 11 | - | 0 |
-| [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-08-01 | 34 (1,000 XP) | 7 | - | - |
+| [Asdivine Saga](games/0/036515219be849ea92ea10d9f445107f.md) | 2024-08-01 | 34 (1,000 XP) | 7 | - | 0 |
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | 36 (1,000 XP) | 49 | - | 0 |
 | [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-26 | 5 (1,000 XP) | 20 | - | 0 |
 | [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-26 | 18 (1,000 XP) | 2 | - | - |
