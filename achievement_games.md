@@ -43,7 +43,7 @@
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-22 | 5 (1,000 XP) | 0 | - | - |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-22 | 49 (1,000 XP) | 1 | - | - |
 | [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2024-08-20 | 20 (1,000 XP) | 14 | - | - |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 20,788 | 4.90 | 0 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 20,788 | 4.91 | 0 |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | 21 (1,000 XP) | 2 | - | - |
 | [Lost in Space: Madness](games/7/798b7ebbde4d4904aa528a4a8823203b.md) | 2024-08-19 | 21 (1,000 XP) | 2 | - | - |
 | [Hero of the Kingdom: The Lost Tales 1](games/0/0ff213fbaec14c7c89ab968f5ebd2a8a.md) | 2024-08-19 | 26 (1,000 XP) | 5 | - | - |
@@ -787,7 +787,7 @@
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 38 (1,000 XP) | 3,419 | 3.53 | 0 |
 | [The Mystery Of Woolley Mountain](games/d/ddc07fbe88ba4c719c9f536cb5109d1f.md) | 2023-05-26 | 17 (1,000 XP) | 2 | - | - |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 176 | - | 0 |
-| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 66 (1,260 XP) | 3,227 | 4.38 | 32 |
+| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 66 (1,260 XP) | 3,227 | 4.38 | 34 |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 1,177 | - | 0 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 11 (1,000 XP) | 69 | - | 0 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 21 (1,000 XP) | 56 | - | 0 |
@@ -858,7 +858,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,662 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 117,598 | 3.75 | 781 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 97 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,016,218 | 4.54 | 16,425 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,016,218 | 4.54 | 16,435 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 14,655 | 4.39 | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 221 | - | 0 |
@@ -1227,7 +1227,7 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 56,349 | 4.60 | 243 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 96 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,593,224 | 4.46 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 359,323 | 4.07 | 6,656 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 359,323 | 4.06 | 6,656 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,517 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 615,465 | - | 0 |
@@ -1242,7 +1242,7 @@
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,114,913 | 4.69 | 174,827 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 231 | 4.17 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,945 | 4.86 | 56 |
-| [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 61,233 | 4.65 | 456 |
+| [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 61,233 | 4.65 | 457 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,106 | 4.73 | 86 |
 | [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,447,304 | 4.55 | 4,075 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 86,532 | - | 0 |
