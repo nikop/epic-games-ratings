@@ -88,8 +88,8 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-08-09 | 662 | 0 |
 | 2024-08-20 | 677 | 0 |
 ## Awards
-Max (Character Customization): 55  (Ranked 538)  
-Sum: 55 (Ranked 607)  
+Max (Character Customization): 55  (Ranked 539)  
+Sum: 55 (Ranked 608)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |

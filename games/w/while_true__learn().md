@@ -325,8 +325,8 @@ Completed: 630 (0.10%) (Ranked 438)
 | 2024-08-09 | 636,740 | 630 |
 | 2024-08-20 | 637,519 | 630 |
 ## Awards
-Max (Challenging Puzzles): 149  (Ranked 394)  
-Sum: 149 (Ranked 524)  
+Max (Challenging Puzzles): 149  (Ranked 395)  
+Sum: 149 (Ranked 525)  
 Diff (max vs sum): -130  
 | Award | Count |
 | ----- | ----- |
