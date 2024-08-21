@@ -2,7 +2,7 @@
   "ID": "ad8868a1e94c46c98608d2fe96121536",
   "Name": "Bramble The Mountain King",
   "ProductSlug": "bramble-the-mountain-king-c0d1c6",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 677,
   "Ranking_Popularity": 697,
   "Ranking_PopularitySum": 697,
   "Ranking_EOS_Progress": 1049,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-04-27T18:59:17.4164017+00:00",
@@ -285,6 +285,12 @@
     {
       "Time": "2024-08-20T18:57:37.7956242+00:00",
       "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-21T19:57:17.193409+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -565,9 +571,9 @@
   "FirstSeen": "2023-04-27T18:59:17.4163956+00:00",
   "FirstSeenRating": "2023-04-27T18:59:17.4164012+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:42.3485411+00:00",
-  "LastChanged": "2024-08-20T18:57:37.7956241+00:00",
+  "LastChanged": "2024-08-21T19:57:17.1934088+00:00",
   "LastChanged_Achievements": "2024-08-20T20:14:05.5969632+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:42.3494075+00:00",
-  "LastUpdate_Ratings": "2024-08-21T17:59:28.1865054+00:00",
+  "LastUpdate_Ratings": "2024-08-21T19:57:17.1934096+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:14:05.596982+00:00"
 }

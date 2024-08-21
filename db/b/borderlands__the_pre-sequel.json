@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 657,
   "Ranking_Popularity": 254,
-  "Ranking_PopularitySum": 194,
+  "Ranking_PopularitySum": 193,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -6417,10 +6417,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 3653,
       "NumberOfAwardsMax": 546
+    },
+    {
+      "Time": "2024-08-21T19:57:35.6639238+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3658,
+      "NumberOfAwardsMax": 546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3653,
+  "NumberOfAwards": 3658,
   "NumberOfAwardsMax": 546,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6464,7 +6470,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 419
+      "Count": 424
     },
     {
       "Text": "This game is Relaxing",
@@ -6496,8 +6502,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-08-21T13:03:03.8455553+00:00",
+  "LastChanged": "2024-08-21T19:57:35.6639236+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:38.582521+00:00",
-  "LastUpdate_Ratings": "2024-08-21T17:59:55.7039397+00:00",
+  "LastUpdate_Ratings": "2024-08-21T19:57:35.6639243+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:00.1822159+00:00"
 }
