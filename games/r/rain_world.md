@@ -3,12 +3,12 @@
 [View Rawdata](../../db/r/rain_world.json)  
 Rating: 4.85 (Ranked 39)  
 ## Awards
-Max (Diverse Characters): 27  (Ranked 642)  
-Sum: 72 (Ranked 584)  
-Diff (max vs sum): 58  
+Max (Great for Quick Sessions): 32  (Ranked 613)  
+Sum: 104 (Ranked 558)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 28 |
+| This game is Great for Quick Sessions | 32 |
 | This game has Diverse Characters | 27 |
 | This game has Challenging Combat | 24 |
 | This game has a Creative Community | 21 |
@@ -55,4 +55,4 @@ Diff (max vs sum): 58
 | 2024-08-03 | 4.85 | 28 | 79 |
 | 2024-08-08 | 4.85 | 27 | 51 |
 | 2024-08-18 | 4.85 | 27 | 71 |
-| 2024-08-21 | 4.85 | 27 | 72 |
+| 2024-08-21 | 4.85 | 32 | 104 |

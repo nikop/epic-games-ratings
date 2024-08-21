@@ -3,8 +3,8 @@
   "Name": "Rain World",
   "ProductSlug": "rain-world-4c860c",
   "Ranking_Rating": 39,
-  "Ranking_Popularity": 642,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 613,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -275,12 +275,18 @@
       "Rating": 4.85,
       "NumberOfAwards": 72,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-08-21T21:58:04.182766+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 104,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 72,
-  "NumberOfAwardsMax": 27,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 104,
+  "NumberOfAwardsMax": 32,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -298,7 +304,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 28
+      "Count": 32
     },
     {
       "Text": "This game has a Creative Community",
@@ -319,8 +325,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2024-08-21T05:59:07.1522247+00:00",
+  "LastChanged": "2024-08-21T21:58:04.1827658+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:46.6847417+00:00",
-  "LastUpdate_Ratings": "2024-08-21T19:58:19.5813565+00:00",
+  "LastUpdate_Ratings": "2024-08-21T21:58:04.1827663+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:33.3952637+00:00"
 }
