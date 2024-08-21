@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.64 (Ranked 375)  
+Rating: 4.65 (Ranked 350)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -640,3 +640,4 @@ Diff (max vs sum): 78
 | 2024-08-12 | 4.64 | - | 132 | 909 |
 | 2024-08-13 | 4.64 | - | 133 | 911 |
 | 2024-08-20 | 4.64 | - | 133 | 912 |
+| 2024-08-21 | 4.65 | - | 133 | 912 |

@@ -1,7 +1,7 @@
 # Legend of Grimrock
 [Store](https://store.epicgames.com/en-US/p/legend-of-grimrock)  
 [View Rawdata](../../db/l/legend_of_grimrock.json)  
-Rating: 4.50 (Ranked 675)  
+Rating: 4.50 (Ranked 676)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
