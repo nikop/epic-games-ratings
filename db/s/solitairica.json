@@ -2,7 +2,7 @@
   "ID": "e0172a81e4f0430e88c3156bdadfd088",
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
-  "Ranking_Rating": 722,
+  "Ranking_Rating": 721,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 1193,
@@ -1813,10 +1813,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 746,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-08-20T23:59:54.2047419+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 747,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 746,
+  "NumberOfAwards": 747,
   "NumberOfAwardsMax": 116,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1878,7 +1884,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has a Creative Community",
@@ -1904,8 +1910,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-08-20T01:59:34.1684887+00:00",
+  "LastChanged": "2024-08-20T23:59:54.2047417+00:00",
   "LastUpdate_AppInfo": "2024-08-18T19:57:06.7957889+00:00",
-  "LastUpdate_Ratings": "2024-08-20T22:58:37.0284921+00:00",
+  "LastUpdate_Ratings": "2024-08-20T23:59:54.2047422+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:27.8245741+00:00"
 }

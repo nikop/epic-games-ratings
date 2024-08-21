@@ -3,7 +3,7 @@
   "Name": "Alan Wake 2",
   "ProductSlug": "alan-wake-2",
   "Ranking_Rating": 92,
-  "Ranking_Popularity": 161,
+  "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 189,
@@ -7735,11 +7735,17 @@
       "Rating": 4.81,
       "NumberOfAwards": 7983,
       "NumberOfAwardsMax": 1348
+    },
+    {
+      "Time": "2024-08-21T00:00:02.699178+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 7993,
+      "NumberOfAwardsMax": 1351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7983,
-  "NumberOfAwardsMax": 1348,
+  "NumberOfAwards": 7993,
+  "NumberOfAwardsMax": 1351,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7752,7 +7758,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1348
+      "Count": 1351
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7764,13 +7770,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1136
+      "Count": 1139
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1152
+      "Count": 1156
     },
     {
       "Text": "This game has a Creative Community",
@@ -20265,9 +20271,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-08-20T15:58:17.5940207+00:00",
+  "LastChanged": "2024-08-21T00:00:02.6991779+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:01.5995452+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:03.3041415+00:00",
-  "LastUpdate_Ratings": "2024-08-20T22:58:46.6333812+00:00",
+  "LastUpdate_Ratings": "2024-08-21T00:00:02.6991785+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:01.5996499+00:00"
 }
