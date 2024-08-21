@@ -58,6 +58,7 @@
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
 | [Epsylon](games/4/4b9bf181ec404f99bf552046c6b25ca0.md) | 2024-09-30 | - |  | - | - |
+| [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-30 | - |  | - | - |
 | [Green Hawk Platoon](games/8/8e9581e6efd141878e25dd1a0c0dceb6.md) | 2024-09-30 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
 | [Honeycomb: The World Beyond](games/b/bedc86bbe4e6422e8216541921e4fd10.md) | 2024-09-30 | - |  | - | - |
@@ -84,8 +85,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
