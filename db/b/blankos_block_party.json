@@ -4,7 +4,7 @@
   "ProductSlug": "blankos-block-party-09fc55",
   "Ranking_Rating": 1087,
   "Ranking_Popularity": 614,
-  "Ranking_PopularitySum": 499,
+  "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -528,6 +528,6 @@
   "FirstSeenRating": "2022-09-21T21:02:42.6156669+00:00",
   "LastChanged": "2023-09-05T15:00:08.3851412+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:38.8552933+00:00",
-  "LastUpdate_Ratings": "2024-08-21T13:58:16.2275627+00:00",
+  "LastUpdate_Ratings": "2024-08-21T15:57:35.3332997+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:49.9293589+00:00"
 }

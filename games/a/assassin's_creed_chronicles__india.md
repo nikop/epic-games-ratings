@@ -1,7 +1,7 @@
 # Assassin's Creed Chronicles: India
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-chronicles-india)  
 [View Rawdata](../../db/a/assassin's_creed_chronicles__india.json)  
-Rating: 4.41 (Ranked 854)  
+Rating: 4.37 (Ranked 914)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.41 (Ranked 854)
 | 2024-01-28 | 4.44 | 0 | 0 |
 | 2024-02-20 | 4.46 | 0 | 0 |
 | 2024-04-27 | 4.41 | 0 | 0 |
+| 2024-08-21 | 4.37 | 0 | 0 |
