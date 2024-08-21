@@ -3,8 +3,8 @@
   "Name": "Cosmik Battle",
   "ProductSlug": "cosmik-battle-f6dbf4",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 580,
-  "Ranking_PopularitySum": 559,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -555,6 +555,6 @@
   "FirstSeenRating": "2024-04-14T07:50:45.1717656+00:00",
   "LastChanged": "2024-08-19T06:58:57.6623731+00:00",
   "LastUpdate_AppInfo": "2024-08-21T02:57:43.0996107+00:00",
-  "LastUpdate_Ratings": "2024-08-21T15:58:58.5271618+00:00",
+  "LastUpdate_Ratings": "2024-08-21T17:58:29.5920252+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:08.7547261+00:00"
 }

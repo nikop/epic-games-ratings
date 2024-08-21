@@ -2,9 +2,9 @@
   "ID": "ef2ca9fad90049ffa89aad61bd203b61",
   "Name": "Kenshi",
   "ProductSlug": "kenshi-c79c40",
-  "Ranking_Rating": 11,
-  "Ranking_Popularity": 698,
-  "Ranking_PopularitySum": 698,
+  "Ranking_Rating": 101,
+  "Ranking_Popularity": 697,
+  "Ranking_PopularitySum": 697,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2024-08-01T21:58:23.8161042+00:00",
@@ -83,6 +83,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-21T18:01:26.2511841+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -101,8 +107,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-09T13:57:40.3927189+00:00",
   "FirstSeenRating": "2024-08-01T21:58:23.816104+00:00",
-  "LastChanged": "2024-08-20T20:57:53.4838134+00:00",
+  "LastChanged": "2024-08-21T18:01:26.2511836+00:00",
   "LastUpdate_AppInfo": "2024-08-21T11:57:41.2129862+00:00",
-  "LastUpdate_Ratings": "2024-08-21T16:57:31.2129568+00:00",
+  "LastUpdate_Ratings": "2024-08-21T18:01:26.2511844+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:28.7337321+00:00"
 }

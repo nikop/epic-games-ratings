@@ -2,7 +2,7 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 94,
+  "Ranking_Rating": 93,
   "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 1193,
@@ -18933,10 +18933,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 20723,
       "NumberOfAwardsMax": 2656
+    },
+    {
+      "Time": "2024-08-21T18:01:04.4491984+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 20724,
+      "NumberOfAwardsMax": 2656
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20723,
+  "NumberOfAwards": 20724,
   "NumberOfAwardsMax": 2656,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -18998,7 +19004,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2036
+      "Count": 2037
     },
     {
       "Text": "This game has a Creative Community",
@@ -19018,8 +19024,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-08-21T14:58:05.9296133+00:00",
+  "LastChanged": "2024-08-21T18:01:04.4491982+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:47.850794+00:00",
-  "LastUpdate_Ratings": "2024-08-21T16:57:14.2845289+00:00",
+  "LastUpdate_Ratings": "2024-08-21T18:01:04.4491986+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:53.3585117+00:00"
 }

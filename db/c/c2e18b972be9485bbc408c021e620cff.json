@@ -3,7 +3,7 @@
   "Name": "Train Sim World\u00AE 4: Standard Edition",
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 771,
-  "Ranking_Popularity": 286,
+  "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 277,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -4663,18 +4663,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 1630,
       "NumberOfAwardsMax": 378
+    },
+    {
+      "Time": "2024-08-21T17:59:17.9288651+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1633,
+      "NumberOfAwardsMax": 381
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1630,
-  "NumberOfAwardsMax": 378,
+  "NumberOfAwards": 1633,
+  "NumberOfAwardsMax": 381,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 378
+      "Count": 381
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -4751,9 +4757,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-08-21T15:59:47.8436423+00:00",
+  "LastChanged": "2024-08-21T17:59:17.9288649+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:41.9846965+00:00",
   "LastUpdate_AppInfo": "2024-08-15T02:57:13.8842143+00:00",
-  "LastUpdate_Ratings": "2024-08-21T15:59:47.843643+00:00",
+  "LastUpdate_Ratings": "2024-08-21T17:59:17.9288655+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:41.9847004+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1045,
-  "Ranking_Popularity": 512,
-  "Ranking_PopularitySum": 406,
+  "Ranking_Rating": 1054,
+  "Ranking_Popularity": 510,
+  "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2024-07-06T01:47:40.4690961+00:00",
@@ -1069,11 +1069,17 @@
       "Rating": 4.25,
       "NumberOfAwards": 470,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-08-21T18:01:09.9879147+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 471,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 470,
-  "NumberOfAwardsMax": 64,
+  "NumberOfAwards": 471,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1098,7 +1104,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1155,8 +1161,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-08-21T14:58:10.1161315+00:00",
+  "LastChanged": "2024-08-21T18:01:09.9879145+00:00",
   "LastUpdate_AppInfo": "2024-08-20T16:57:07.6920115+00:00",
-  "LastUpdate_Ratings": "2024-08-21T16:57:18.7260229+00:00",
+  "LastUpdate_Ratings": "2024-08-21T18:01:09.987915+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:14.4523445+00:00"
 }

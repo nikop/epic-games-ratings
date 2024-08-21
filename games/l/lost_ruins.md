@@ -1,7 +1,7 @@
 # Lost Ruins
 [Store](https://store.epicgames.com/en-US/p/lost-ruins-d6233b)  
 [View Rawdata](../../db/l/lost_ruins.json)  
-Rating: 4.81 (Ranked 94)  
+Rating: 4.81 (Ranked 93)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

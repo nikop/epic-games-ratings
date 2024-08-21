@@ -3,8 +3,8 @@
   "Name": "Aether TCG",
   "ProductSlug": "aether-trading-card-game-420f51",
   "Ranking_Rating": 816,
-  "Ranking_Popularity": 614,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 613,
+  "Ranking_PopularitySum": 578,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -412,6 +412,6 @@
   "FirstSeenRating": "2023-04-26T23:56:57.849328+00:00",
   "LastChanged": "2024-08-14T10:57:19.431075+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:34.9845442+00:00",
-  "LastUpdate_Ratings": "2024-08-21T15:59:29.789078+00:00",
+  "LastUpdate_Ratings": "2024-08-21T17:59:00.1257833+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:23.6069571+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1194,
+  "Ranking_Rating": 1195,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 103,
@@ -11795,10 +11795,16 @@
       "Rating": 4.01,
       "NumberOfAwards": 29547,
       "NumberOfAwardsMax": 5379
+    },
+    {
+      "Time": "2024-08-21T18:00:21.054224+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 29548,
+      "NumberOfAwardsMax": 5379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29547,
+  "NumberOfAwards": 29548,
   "NumberOfAwardsMax": 5379,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11830,7 +11836,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4208
+      "Count": 4209
     },
     {
       "Text": "This game is Relaxing",
@@ -42813,9 +42819,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-08-21T16:00:51.8931256+00:00",
+  "LastChanged": "2024-08-21T18:00:21.0542238+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:50.570536+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:45.4805944+00:00",
-  "LastUpdate_Ratings": "2024-08-21T16:00:51.8931262+00:00",
+  "LastUpdate_Ratings": "2024-08-21T18:00:21.0542245+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:50.5707802+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "40c34bea9cd0460589c867f6a7246342",
   "Name": "Batman Arkham City Game of the Year Edition",
   "ProductSlug": "batman-arkham-city",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 101,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 2832,
   "RatingHistory": [
     {
@@ -3856,10 +3856,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2722,
       "NumberOfAwardsMax": 1992
+    },
+    {
+      "Time": "2024-08-21T17:59:19.9097485+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 2724,
+      "NumberOfAwardsMax": 1992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2722,
+  "NumberOfAwards": 2724,
   "NumberOfAwardsMax": 1992,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3903,7 +3909,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 76
+      "Count": 77
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3915,7 +3921,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 88
+      "Count": 89
     }
   ],
   "EOS_Progressed": 0,
@@ -3929,8 +3935,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2024-08-21T05:57:48.9527421+00:00",
+  "LastChanged": "2024-08-21T17:59:19.9097483+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:40.3380431+00:00",
-  "LastUpdate_Ratings": "2024-08-21T15:59:49.8774792+00:00",
+  "LastUpdate_Ratings": "2024-08-21T17:59:19.909749+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:01.4460206+00:00"
 }

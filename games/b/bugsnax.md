@@ -1,7 +1,7 @@
 # Bugsnax
 [Store](https://store.epicgames.com/en-US/p/bugsnax)  
 [View Rawdata](../../db/b/bugsnax.json)  
-Rating: 4.86 (Ranked 30)  
+Rating: 4.86 (Ranked 29)  
 Number of Ratings: 425  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -326,9 +326,9 @@ Completed: 1,543 (5.15%) (Ranked 126)
 | 2024-08-09 | 29,917 | 1,537 |
 | 2024-08-20 | 29,945 | 1,543 |
 ## Awards
-Max (Great for Beginners): 56  (Ranked 535)  
+Max (Great for Beginners): 56  (Ranked 534)  
 Sum: 469 (Ranked 407)  
-Diff (max vs sum): 128  
+Diff (max vs sum): 127  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 56 |
