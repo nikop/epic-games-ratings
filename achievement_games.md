@@ -279,7 +279,7 @@
 | [Love n War: Hero by Chance II Ultimate Edition](games/c/cec0399345494e7cbd993bc660d95980.md) | 2024-03-29 | 23 (1,000 XP) | 0 | - | - |
 | [Pepper Grinder](games/p/pepper_grinder.md) | 2024-03-28 | 23 (1,000 XP) | 32 | - | 0 |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 1,014 | - | 0 |
-| [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,422 | 4.22 | 0 |
+| [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,422 | 4.23 | 0 |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.48 | 22 |
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 1,977 | 4.51 | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,897 | 4.67 | 0 |
@@ -666,7 +666,7 @@
 | [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 2023-08-10 | 20 (1,000 XP) | 47 | - | 0 |
 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 2023-08-10 | 37 (1,000 XP) | 372 | - | 0 |
 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 2023-08-09 | 37 (1,000 XP) | 56 | - | 0 |
-| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.19 | 0 |
+| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.18 | 0 |
 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-08-04 | 20 (1,000 XP) | 462 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
@@ -1039,7 +1039,7 @@
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 57 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 71,379 | 4.23 | 0 |
-| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 17,590 | 4.76 | 1,573 |
+| [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 17,590 | 4.76 | 1,579 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 937,484 | 4.24 | 778 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 1,087 | 4.54 | 41 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
@@ -1227,7 +1227,7 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 56,349 | 4.60 | 243 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 96 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,593,224 | 4.46 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 359,323 | 4.06 | 6,670 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 359,323 | 4.07 | 6,670 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,517 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 615,465 | - | 0 |

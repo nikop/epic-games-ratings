@@ -244,7 +244,7 @@
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 625 | - | 0 |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 45 | - | 0 |
 | [Pandemic Train](games/2/24cebb527f344974902781bd33087ee8.md) | 2024-04-05 | 32 (1,000 XP) | 0 | - | 0 |
-| [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,422 | 4.22 | 0 |
+| [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,422 | 4.23 | 0 |
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 1,647 | 4.50 | 0 |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 8,127 | 4.35 | 0 |
@@ -723,7 +723,7 @@
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | - |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-13 | 24 (1,000 XP) | 0 | - | - |
-| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.19 | 0 |
+| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.18 | 0 |
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 375,984 | 4.42 | 41 |
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 2 | - | 0 |
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 103,060 | 3.93 | 0 |
