@@ -2,8 +2,8 @@
   "ID": "43d72bd8df464178bb223c5270303efe",
   "Name": "Banishers: Ghosts of New Eden",
   "ProductSlug": "banishers-ghosts-of-new-eden-f9e3f2",
-  "Ranking_Rating": 553,
-  "Ranking_Popularity": 375,
+  "Ranking_Rating": 531,
+  "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 425,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2024-02-15T23:59:07.6110263+00:00",
@@ -1212,6 +1212,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 434,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-08-21T14:59:21.6996542+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 434,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
@@ -1671,9 +1677,9 @@
   "FirstSeen": "2024-02-13T03:59:56.0096216+00:00",
   "FirstSeenRating": "2024-02-15T23:59:07.6110237+00:00",
   "FirstSeenAchievements": "2023-11-15T16:03:15.009525+00:00",
-  "LastChanged": "2024-08-20T13:58:57.8247815+00:00",
+  "LastChanged": "2024-08-21T14:59:21.699654+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:34.4455344+00:00",
   "LastUpdate_AppInfo": "2024-08-15T10:57:25.8369364+00:00",
-  "LastUpdate_Ratings": "2024-08-21T13:04:59.3281099+00:00",
+  "LastUpdate_Ratings": "2024-08-21T14:59:21.6996545+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:34.4455625+00:00"
 }

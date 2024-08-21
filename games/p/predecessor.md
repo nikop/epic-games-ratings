@@ -4,7 +4,7 @@
 Rating: 4.26 (Ranked 1,036)  
 ## Awards
 Max (Diverse Characters): 805  (Ranked 217)  
-Sum: 4,190 (Ranked 185)  
+Sum: 4,193 (Ranked 185)  
 Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 32
 | This game has a Competitive Community | 484 |
 | This game has Amazing Characters | 474 |
 | This game has Competitive Players | 455 |
-| This game has Quickly Understood Controls | 418 |
+| This game has Quickly Understood Controls | 421 |
 | This game has Amazing Storytelling | 92 |
 | This game has Beautiful Visuals | 22 |
 ## Ratings History
@@ -543,4 +543,4 @@ Diff (max vs sum): 32
 | 2024-08-18 | 4.26 | 800 | 4,162 |
 | 2024-08-19 | 4.26 | 803 | 4,173 |
 | 2024-08-20 | 4.26 | 805 | 4,187 |
-| 2024-08-21 | 4.26 | 805 | 4,190 |
+| 2024-08-21 | 4.26 | 805 | 4,193 |
