@@ -2,7 +2,7 @@
   "ID": "32ef234417314b65a4f76041b684f4d0",
   "Name": "The Spectrum Retreat",
   "ProductSlug": "the-spectrum-retreat",
-  "Ranking_Rating": 1036,
+  "Ranking_Rating": 1044,
   "Ranking_Popularity": 698,
   "Ranking_PopularitySum": 698,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.25,
   "NumberOfRatings": 230,
   "RatingHistory": [
     {
@@ -498,6 +498,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-21T05:58:45.8900003+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -515,8 +521,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:27.9603268+00:00",
-  "LastChanged": "2024-08-06T05:00:02.7739803+00:00",
+  "LastChanged": "2024-08-21T05:58:45.8900001+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:14.1550347+00:00",
-  "LastUpdate_Ratings": "2024-08-21T03:59:50.3590399+00:00",
+  "LastUpdate_Ratings": "2024-08-21T05:58:45.8900006+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:52.4737554+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 676,
-  "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 270,
+  "Ranking_Popularity": 196,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 483,
   "Ranking_EOS_NewPlayers": 17,
@@ -1836,18 +1836,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 1730,
       "NumberOfAwardsMax": 981
+    },
+    {
+      "Time": "2024-08-21T05:57:16.0890214+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1747,
+      "NumberOfAwardsMax": 991
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1730,
-  "NumberOfAwardsMax": 981,
+  "NumberOfAwards": 1747,
+  "NumberOfAwardsMax": 991,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 981
+      "Count": 991
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1859,13 +1865,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 52
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2511,9 +2517,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-08-20T21:57:55.7053684+00:00",
+  "LastChanged": "2024-08-21T05:57:16.0890212+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:26.1790746+00:00",
   "LastUpdate_AppInfo": "2024-08-15T20:57:19.5109992+00:00",
-  "LastUpdate_Ratings": "2024-08-21T03:58:22.7146868+00:00",
+  "LastUpdate_Ratings": "2024-08-21T05:57:16.0890216+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:26.1791248+00:00"
 }
