@@ -3,8 +3,8 @@
   "Name": "Yooka-Laylee",
   "ProductSlug": "yooka-laylee",
   "Ranking_Rating": 1044,
-  "Ranking_Popularity": 627,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 620,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -740,11 +740,17 @@
       "Rating": 4.25,
       "NumberOfAwards": 169,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-08-21T22:59:55.1841717+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 170,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 169,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 170,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -769,7 +775,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Highly Recommended",
@@ -801,8 +807,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2024-08-20T13:58:00.4083817+00:00",
+  "LastChanged": "2024-08-21T22:59:55.1841715+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:51.7702367+00:00",
-  "LastUpdate_Ratings": "2024-08-21T21:58:21.5186094+00:00",
+  "LastUpdate_Ratings": "2024-08-21T22:59:55.184172+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:42.50104+00:00"
 }

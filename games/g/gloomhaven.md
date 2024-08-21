@@ -213,7 +213,7 @@ Completed: 3 (0.00%) (Ranked 561)
 | 2024-08-20 | 64,034 | 3 |
 ## Awards
 Max (Character Customization): 3,747  (Ranked 107)  
-Sum: 8,934 (Ranked 131)  
+Sum: 8,937 (Ranked 131)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -227,7 +227,7 @@ Diff (max vs sum): -24
 | This game has Quickly Understood Controls | 523 |
 | This game has Amazing Storytelling | 516 |
 | This game has Unique Visuals | 410 |
-| This game has a Creative Community | 240 |
+| This game has a Creative Community | 243 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -676,4 +676,4 @@ Diff (max vs sum): -24
 | 2024-08-18 | 4.47 | - | 3,745 | 8,929 |
 | 2024-08-19 | 4.47 | - | 3,746 | 8,930 |
 | 2024-08-20 | 4.47 | - | 3,747 | 8,931 |
-| 2024-08-21 | 4.47 | - | 3,747 | 8,934 |
+| 2024-08-21 | 4.47 | - | 3,747 | 8,937 |

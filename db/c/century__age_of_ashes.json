@@ -4,7 +4,7 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 868,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2230,10 +2230,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 710,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-08-21T22:59:07.1303413+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 711,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 710,
+  "NumberOfAwards": 711,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2277,7 +2283,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Competitive Players",
@@ -2315,8 +2321,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2024-08-21T13:03:13.27902+00:00",
+  "LastChanged": "2024-08-21T22:59:07.1303411+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:12.7121469+00:00",
-  "LastUpdate_Ratings": "2024-08-21T21:00:07.2493422+00:00",
+  "LastUpdate_Ratings": "2024-08-21T22:59:07.1303418+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:10.2059826+00:00"
 }
