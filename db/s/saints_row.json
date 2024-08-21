@@ -2,7 +2,7 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 1222,
+  "Ranking_Rating": 1223,
   "Ranking_Popularity": 164,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 21,
@@ -8941,11 +8941,17 @@
       "Rating": 3.91,
       "NumberOfAwards": 10611,
       "NumberOfAwardsMax": 1327
+    },
+    {
+      "Time": "2024-08-21T16:57:25.8525932+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 10616,
+      "NumberOfAwardsMax": 1330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10611,
-  "NumberOfAwardsMax": 1327,
+  "NumberOfAwards": 10616,
+  "NumberOfAwardsMax": 1330,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8976,7 +8982,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1327
+      "Count": 1330
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8994,7 +9000,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1207
+      "Count": 1209
     },
     {
       "Text": "This game has a Silly Community",
@@ -41791,9 +41797,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-08-21T02:59:02.6911523+00:00",
+  "LastChanged": "2024-08-21T16:57:25.852593+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:48.0514842+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:51.9125157+00:00",
-  "LastUpdate_Ratings": "2024-08-21T14:58:17.0190023+00:00",
+  "LastUpdate_Ratings": "2024-08-21T16:57:25.8525937+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:48.0516633+00:00"
 }

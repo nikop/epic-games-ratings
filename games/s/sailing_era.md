@@ -1,7 +1,7 @@
 # Sailing Era
 [Store](https://store.epicgames.com/en-US/p/sailingera-450a80)  
 [View Rawdata](../../db/s/sailing_era.json)  
-Rating: 4.68 (Ranked 289)  
+Rating: 4.68 (Ranked 290)  
 ## Awards
 Max (Character Customization): 21  (Ranked 680)  
 Sum: 21 (Ranked 682)  

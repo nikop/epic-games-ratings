@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 290,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 43,
@@ -22417,10 +22417,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 88183,
       "NumberOfAwardsMax": 10777
+    },
+    {
+      "Time": "2024-08-21T16:59:35.6780828+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 88220,
+      "NumberOfAwardsMax": 10777
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88183,
+  "NumberOfAwards": 88220,
   "NumberOfAwardsMax": 10777,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -22446,7 +22452,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9858
+      "Count": 9867
     },
     {
       "Text": "This game is Educational",
@@ -22470,13 +22476,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 9800
+      "Count": 9816
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8887
+      "Count": 8899
     },
     {
       "Text": "This game has Amazing Characters",
@@ -58132,9 +58138,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-08-21T11:59:37.3187955+00:00",
+  "LastChanged": "2024-08-21T16:59:35.6780826+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:59.8826529+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:33.3376225+00:00",
-  "LastUpdate_Ratings": "2024-08-21T15:00:24.6781626+00:00",
+  "LastUpdate_Ratings": "2024-08-21T16:59:35.6780833+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:59.8837496+00:00"
 }

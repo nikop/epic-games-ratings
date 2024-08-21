@@ -1,7 +1,7 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 266)  
+Rating: 4.69 (Ranked 267)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
