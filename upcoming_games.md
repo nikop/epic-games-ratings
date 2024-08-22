@@ -79,6 +79,7 @@
 | [Subway Outbreak](games/6/68cff49f67af49f2909be946848af18a.md) | 2024-10-23 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
+| [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
 | [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-31 | - |  | - | - |
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
