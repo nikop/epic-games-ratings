@@ -2,7 +2,7 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "NumberOfRatings": 6301,
   "RatingHistory": [
     {
@@ -8212,10 +8212,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4966,
       "NumberOfAwardsMax": 586
+    },
+    {
+      "Time": "2024-08-22T11:58:39.4581785+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 4967,
+      "NumberOfAwardsMax": 586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4966,
+  "NumberOfAwards": 4967,
   "NumberOfAwardsMax": 586,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8235,7 +8241,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 544
+      "Count": 545
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8291,8 +8297,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-08-22T02:00:07.6600353+00:00",
+  "LastChanged": "2024-08-22T11:58:39.4581783+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:42.0111603+00:00",
-  "LastUpdate_Ratings": "2024-08-22T09:59:44.1487673+00:00",
+  "LastUpdate_Ratings": "2024-08-22T11:58:39.4581789+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.3413385+00:00"
 }
