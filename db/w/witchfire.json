@@ -4,7 +4,7 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 442,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3383,10 +3383,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1069,
       "NumberOfAwardsMax": 183
+    },
+    {
+      "Time": "2024-08-22T16:57:29.6367314+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1070,
+      "NumberOfAwardsMax": 183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1069,
+  "NumberOfAwards": 1070,
   "NumberOfAwardsMax": 183,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3406,7 +3412,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 162
+      "Count": 163
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3469,8 +3475,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
-  "LastChanged": "2024-08-22T14:58:16.7427336+00:00",
+  "LastChanged": "2024-08-22T16:57:29.6367312+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:36.1162612+00:00",
-  "LastUpdate_Ratings": "2024-08-22T14:58:16.7427342+00:00",
+  "LastUpdate_Ratings": "2024-08-22T16:57:29.6367319+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:15.5570177+00:00"
 }
