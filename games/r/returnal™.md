@@ -1,19 +1,19 @@
 # Returnal™
 [Store](https://store.epicgames.com/en-US/p/returnal)  
 [View Rawdata](../../db/r/returnal™.json)  
-Rating: 4.57 (Ranked 533)  
+Rating: 4.57 (Ranked 532)  
 ## Awards
 Max (Great Boss Battles): 244  (Ranked 334)  
-Sum: 398 (Ranked 426)  
+Sum: 399 (Ranked 426)  
 Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 244 |
 | This game has Amazing Characters | 32 |
+| This game is Highly Recommended | 26 |
 | This game has Amazing Storytelling | 25 |
 | This game has Quickly Understood Controls | 25 |
 | This game has Challenging Combat | 25 |
-| This game is Highly Recommended | 25 |
 | This game is Extremely Fun | 22 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -241,3 +241,4 @@ Diff (max vs sum): -92
 | 2024-08-16 | 4.57 | 244 | 417 |
 | 2024-08-17 | 4.57 | 244 | 397 |
 | 2024-08-18 | 4.57 | 244 | 398 |
+| 2024-08-22 | 4.57 | 244 | 399 |
