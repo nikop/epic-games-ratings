@@ -6605,10 +6605,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 2193,
       "NumberOfAwardsMax": 795
+    },
+    {
+      "Time": "2024-08-22T04:58:36.8287843+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2194,
+      "NumberOfAwardsMax": 795
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2193,
+  "NumberOfAwards": 2194,
   "NumberOfAwardsMax": 795,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6634,7 +6640,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 157
+      "Count": 158
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6691,8 +6697,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2024-08-21T03:59:02.1241908+00:00",
+  "LastChanged": "2024-08-22T04:58:36.8287841+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:32.7276942+00:00",
-  "LastUpdate_Ratings": "2024-08-22T03:01:07.9220153+00:00",
+  "LastUpdate_Ratings": "2024-08-22T04:58:36.8287854+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:06.5723216+00:00"
 }
