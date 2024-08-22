@@ -3,8 +3,8 @@
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 633,
+  "Ranking_Popularity": 583,
+  "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -392,18 +392,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 37,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-08-21T23:57:45.5397456+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 38,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 37
+      "Count": 38
     }
   ],
   "EOS_Progressed": 0,
@@ -417,8 +423,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
-  "LastChanged": "2024-08-10T19:01:18.6985908+00:00",
+  "LastChanged": "2024-08-21T23:57:45.5397454+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:25.4154441+00:00",
-  "LastUpdate_Ratings": "2024-08-21T21:59:16.4082856+00:00",
+  "LastUpdate_Ratings": "2024-08-21T23:57:45.5397459+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:49.1040243+00:00"
 }
