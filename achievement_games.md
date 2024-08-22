@@ -161,7 +161,7 @@
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | 10 (1,000 XP) | 4 | - | 0 |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 18 | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.62 | 26 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.61 | 26 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | 28 (1,000 XP) | 249 | - | 0 |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | 33 (1,000 XP) | 157 | - | - |
 | [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-06 | 7 (1,000 XP) | 352 | - | 0 |
@@ -488,7 +488,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 41 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 64,651 | 4.84 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 978 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 988 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.57 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 211 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 75 | - | - |
@@ -644,10 +644,10 @@
 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 2023-08-22 | 22 (1,000 XP) | 75 | - | 0 |
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 1,604 | 3.83 | 0 |
 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 2023-08-22 | 43 (1,000 XP) | 1 | - | 0 |
-| [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,472 | 4.18 | 36 |
+| [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,472 | 4.18 | 37 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
 | [Monmusu Gladiator](games/4/477b9d6ee98c4ff4a751a7289adbfcb2.md) | 2023-08-20 | 21 (1,000 XP) | 2 | - | 0 |
-| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 15,907 | 4.19 | 571 |
+| [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 15,907 | 4.19 | 573 |
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 1,978 | - | 0 |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 1,983 | 4.86 | 0 |
 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 2023-08-17 | 68 (1,000 XP) | 87 | - | 0 |
@@ -757,7 +757,7 @@
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 1,133 | - | 0 |
 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 2023-06-09 | 74 (1,110 XP) | 308 | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 16 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,974,211 | 4.58 | 13,334 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,974,211 | 4.58 | 13,355 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 13 (1,000 XP) | 64 | - | 0 |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 111 | - | 0 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 127 | - | 0 |
@@ -929,12 +929,12 @@
 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2023-02-16 | 48 (1,000 XP) | 1,971 | - | - |
 | [Loretta](games/l/loretta.md) | 2023-02-16 | 22 (1,000 XP) | 15 | - | 0 |
 | [Shin-chan Me and the Professor on Summer Vacation](games/s/shin-chan_me_and_the_professor_on_summer_vacation.md) | 2023-02-15 | 46 (1,000 XP) | 49 | - | 0 |
-| [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 14,681 | 4.15 | 0 |
+| [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 2023-02-15 | 29 (1,000 XP) | 14,681 | 4.14 | 0 |
 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 2023-02-15 | 35 (1,000 XP) | 23,623 | 4.56 | 129 |
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 19,684 | 4.53 | 33 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 6,973 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 895 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 431,785 | 4.73 | 42,359 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 431,785 | 4.73 | 42,392 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 298 | - | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 105,894 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 4,998 | - | 0 |
@@ -948,7 +948,7 @@
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 244 | - | 0 |
 | [Shoulders of Giants: Ultimate](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,410 | 4.34 | 0 |
 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 2023-01-25 | 71 (1,250 XP) | 19,934 | 4.83 | 66 |
-| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 52,741 | 4.18 | 82 |
+| [Forspoken](games/f/forspoken.md) | 2023-01-24 | 53 (1,000 XP) | 52,741 | 4.18 | 83 |
 | [Bratz™: Flaunt Your Fashion](games/b/bratz™__flaunt_your_fashion.md) | 2023-01-24 | 19 (1,000 XP) | 325 | - | 0 |
 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 2023-01-19 | 26 (1,000 XP) | 17,836 | 3.83 | 0 |
 | [Colossal Cave](games/c/colossal_cave.md) | 2023-01-19 | 24 (1,000 XP) | 122 | - | 0 |
@@ -1145,7 +1145,7 @@
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 13,408 | 4.24 | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 192 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 789,781 | 4.82 | 8,271 |
-| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,214,746 | 4.59 | 18,238 |
+| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,214,746 | 4.59 | 18,255 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 677 | 4.69 | 55 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,477,437 | 4.77 | 13,613 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 578 | - | 0 |
@@ -1227,7 +1227,7 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 56,349 | 4.60 | 243 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 96 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,593,224 | 4.47 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 359,323 | 4.06 | 6,677 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 359,323 | 4.07 | 6,677 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,517 | 4.73 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 615,465 | - | 0 |

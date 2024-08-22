@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Companion](games/9/9929fd534aae43acb7fd6e8016646ab9.md) | 2024-08-22 | - |  | - | - |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-22 | 49 (1,000 XP) | 1 | - | - |
 | [Zen Chess: Champion's Moves](games/4/4214b36dc2434f0aa0a3210aa0f6ad91.md) | 2024-08-22 | - |  | - | - |
 | [Zen Chess: Mate in Four](games/0/0d2f8331491948169855cb81947e973a.md) | 2024-08-22 | - |  | - | - |

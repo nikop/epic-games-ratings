@@ -73,7 +73,7 @@
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
 | [Wanderers](games/c/cd58edb4b4c54807b1f71ccdb907da77.md) | 2024-07-30 | - |  | - | 0 |
 | [Valor Rising: Quest for the 7](games/5/580aa156a1fb43eeb45e5c6e39d18d20.md) | 2024-07-20 | - |  | - | 0 |
-| [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.56 | 91 |
+| [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.55 | 91 |
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.30 | 0 |
 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.49 | 31 |
@@ -120,7 +120,7 @@
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 7,447 | 4.52 | 39 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
-| [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.72 | 46 |
+| [Zeeverse](games/a/a99f555b20ad4e49a077ae50ebbd1238.md) | 2023-12-18 | - |  | 4.73 | 46 |
 | [Aviatrix](games/7/79312789a26f41dd99cd05ee30e5c524.md) | 2023-12-12 | - |  | - | 0 |
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
