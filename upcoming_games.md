@@ -27,6 +27,7 @@
 | [Drizzlepath: Picturae](games/b/b764ec91043244a2918ed594205c0149.md) | 2024-09-06 | - |  | - | - |
 | [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | - |  | - | - |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | - |  | - | - |
+| [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | - |  | - | - |
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | - |  | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2024-09-16 | - |  | - | - |
@@ -81,8 +82,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
@@ -427,7 +428,6 @@
 | [Hold On](games/h/hold_on.md) | 2099-01-01 | - |  | - | - |
 | [Homaysa](games/9/98e145c3fa464271a0ee3e6d6f6bf75f.md) | 2099-01-01 | - |  | - | - |
 | [Horizon Heat](games/c/c0ec8837e5e248259075443e531da3ab.md) | 2099-01-01 | - |  | - | - |
-| [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2099-01-01 | - |  | - | - |
 | [House of Legacy](games/5/5ef78d1f002246fa924d4618da242456.md) | 2099-01-01 | - |  | - | - |
 | [HumanitZ](games/h/humanitz.md) | 2099-01-01 | - |  | - | - |
 | [HUNGER](games/b/b81917c3f5b741dbb6cfde1e4e9e2a43.md) | 2099-01-01 | - |  | - | - |
