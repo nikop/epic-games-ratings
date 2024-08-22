@@ -27,7 +27,7 @@
 | [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
 | [Everreach: Project Eden](games/b/b585604242fc45a189c63fcdac9da693.md) | 2024-08-15 | - |  | - | 0 |
 | [The Inner World - The Last Wind Monk](games/a/a1d133c695a4461a9b841a0c6c6657cd.md) | 2024-08-15 | - |  | - | - |
-| [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | - |  | - | - |
+| [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | - |  | - | 0 |
 | [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | - |  | - | 0 |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
 | [Dawn of Defiance](games/3/39ad2a543d7a40d89813c5ef64c861d9.md) | 2024-08-15 | - |  | - | 0 |
