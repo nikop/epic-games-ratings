@@ -71,7 +71,7 @@
 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 11 (1,000 XP) | 1 | - | - |
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 11 | - | 0 |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 47,946 | 4.20 | 0 |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 47,946 | 4.21 | 0 |
 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2024-08-06 | 38 (1,045 XP) | 3,464 | 4.25 | 0 |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | 34 (1,000 XP) | 2 | - | - |
 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 36,702 | 3.94 | 0 |
@@ -281,11 +281,11 @@
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 1,014 | - | 0 |
 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,422 | 4.23 | 0 |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.49 | 22 |
-| [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 1,977 | 4.51 | 0 |
+| [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 1,977 | 4.52 | 0 |
 | [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,897 | 4.68 | 0 |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 8,127 | 4.38 | 0 |
 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 28,742 | 4.64 | 22 |
-| [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 4,431 | 4.62 | 47 |
+| [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 4,431 | 4.63 | 47 |
 | [The Savior's Gang](games/9/9c9dff6576ec4d26b527529cf9a946b8.md) | 2024-03-28 | 37 (1,000 XP) | 0 | - | - |
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | 9 (1,000 XP) | 146 | - | 0 |
 | [Witch It](games/b/b9e6e3d5a4474a8ead248c62bfdf08b7.md) | 2024-03-26 | 41 (1,000 XP) | 625 | - | 0 |
@@ -1000,7 +1000,7 @@
 | [Saturnalia](games/s/saturnalia.md) | 2022-10-27 | 20 (1,000 XP) | 75,954 | 4.26 | 0 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 2022-10-27 | 23 (1,000 XP) | 13 | - | 0 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 2022-10-22 | 16 (1,000 XP) | 209,620 | 4.15 | 0 |
-| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 90,785 | 4.19 | 3,721 |
+| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 90,785 | 4.19 | 3,722 |
 | [Late Shift](games/l/late_shift.md) | 2022-10-21 | 20 (1,000 XP) | 2,938 | - | 0 |
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 274 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 4,162 | 4.09 | 0 |
@@ -1175,7 +1175,7 @@
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 116,892 | 4.28 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 266 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 187 | 4.30 | 0 |
-| [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 3,186 | 4.41 | 0 |
+| [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 3,186 | 4.42 | 0 |
 | [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,835 | 4.82 | 511 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,383 | 4.42 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,676,727 | 4.65 | 1,259 |

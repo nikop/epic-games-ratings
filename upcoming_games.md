@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Millennium Conflict](games/a/aff50fded81843749d7641e8c5c2cb07.md) | 2024-08-22 | - |  | - | - |
 | [Exo Mayhem](games/0/05a60577cbce49f987ccebfd548cd088.md) | 2024-08-22 | - |  | - | - |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-22 | 49 (1,000 XP) | 1 | - | - |
 | [Zen Chess: Champion's Moves](games/4/4214b36dc2434f0aa0a3210aa0f6ad91.md) | 2024-08-22 | - |  | - | - |
@@ -521,7 +520,6 @@
 | [Norse](games/0/059219b5334940bbbf06e995c6b74e21.md) | 2099-01-01 | - |  | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Nyan Heroes](games/8/8e8c6752bd704123adc71241c92e7bce.md) | 2099-01-01 | - |  | - | - |
-| [Obby Parkour 3D: Run Only Up](games/6/6d15c3ed19d34a62915bf88c6d1df1e5.md) | 2099-01-01 | - |  | - | - |
 | [Omega Ops](games/b/b30aa3c65b2f4754b78a219636c7dba1.md) | 2099-01-01 | - |  | - | - |
 | [One Eleven](games/5/57bfe5b2441545b7bfe8812fb8936814.md) | 2099-01-01 | - |  | - | - |
 | [ORDINEM](games/5/5feb8fb5da084884b66d1d56e67526b9.md) | 2099-01-01 | - |  | - | - |
