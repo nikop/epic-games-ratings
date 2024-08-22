@@ -2,9 +2,9 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 881,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 395,
+  "Ranking_PopularitySum": 394,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 156,
@@ -2243,10 +2243,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 525,
       "NumberOfAwardsMax": 81
+    },
+    {
+      "Time": "2024-08-22T10:00:14.9326356+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 529,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 525,
+  "NumberOfAwards": 529,
   "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2260,13 +2266,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2278,7 +2284,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2290,7 +2296,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Competitive Players",
@@ -29681,9 +29687,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-08-20T21:58:31.6729972+00:00",
+  "LastChanged": "2024-08-22T10:00:14.9326344+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:15.2232224+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:32.2643085+00:00",
-  "LastUpdate_Ratings": "2024-08-22T07:59:53.4741838+00:00",
+  "LastUpdate_Ratings": "2024-08-22T10:00:14.9326361+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:15.2234047+00:00"
 }
