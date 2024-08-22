@@ -4,7 +4,7 @@
   "ProductSlug": "outlast",
   "Ranking_Rating": 182,
   "Ranking_Popularity": 559,
-  "Ranking_PopularitySum": 490,
+  "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -813,10 +813,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 228,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-08-22T07:00:56.6678778+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 228,
+  "NumberOfAwards": 231,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -830,7 +836,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
@@ -860,7 +866,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Extremely Fun",
@@ -881,8 +887,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-08-21T14:59:17.2629473+00:00",
+  "LastChanged": "2024-08-22T07:00:56.6678777+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:14.1751565+00:00",
-  "LastUpdate_Ratings": "2024-08-22T05:57:39.8871595+00:00",
+  "LastUpdate_Ratings": "2024-08-22T07:00:56.6678782+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:52.9614919+00:00"
 }
