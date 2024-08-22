@@ -1,12 +1,12 @@
 # Mafia: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-definitive-edition)  
 [View Rawdata](../../db/m/mafia___definitive_edition.json)  
-Rating: 4.63 (Ranked 396)  
+Rating: 4.63 (Ranked 395)  
 Number of Ratings: 2,035  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 830  (Ranked 212)  
+Max (Great Boss Battles): 830  (Ranked 213)  
 Sum: 1,045 (Ranked 317)  
-Diff (max vs sum): -105  
+Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 830 |

@@ -2,7 +2,7 @@
   "ID": "fa0c74ef7780498fb222dcd099bf82a2",
   "Name": "The Eternal Cylinder",
   "ProductSlug": "the-eternal-cylinder",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 697,
   "Ranking_PopularitySum": 697,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 149,
   "RatingHistory": [
     {
@@ -432,6 +432,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-22T15:58:54.9061585+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -449,8 +455,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:08.6088333+00:00",
-  "LastChanged": "2024-06-15T10:59:52.7028091+00:00",
+  "LastChanged": "2024-08-22T15:58:54.9061583+00:00",
   "LastUpdate_AppInfo": "2024-08-19T11:57:20.7897321+00:00",
-  "LastUpdate_Ratings": "2024-08-22T13:59:51.9026354+00:00",
+  "LastUpdate_Ratings": "2024-08-22T15:58:54.906159+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:16.0387138+00:00"
 }
