@@ -3,7 +3,7 @@
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
   "Ranking_Rating": 923,
-  "Ranking_Popularity": 293,
+  "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -3551,10 +3551,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1121,
       "NumberOfAwardsMax": 344
+    },
+    {
+      "Time": "2024-08-22T18:00:13.489383+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1122,
+      "NumberOfAwardsMax": 344
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1121,
+  "NumberOfAwards": 1122,
   "NumberOfAwardsMax": 344,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3592,7 +3598,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game is Educational",
@@ -3637,8 +3643,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-08-22T14:57:57.4588176+00:00",
+  "LastChanged": "2024-08-22T18:00:13.4893828+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:08.1846989+00:00",
-  "LastUpdate_Ratings": "2024-08-22T15:59:57.8647121+00:00",
+  "LastUpdate_Ratings": "2024-08-22T18:00:13.4893835+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:44.5239516+00:00"
 }

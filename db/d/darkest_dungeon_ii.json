@@ -16222,18 +16222,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 24309,
       "NumberOfAwardsMax": 8752
+    },
+    {
+      "Time": "2024-08-22T17:58:41.438016+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 24317,
+      "NumberOfAwardsMax": 8754
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24309,
-  "NumberOfAwardsMax": 8752,
+  "NumberOfAwards": 24317,
+  "NumberOfAwardsMax": 8754,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8752
+      "Count": 8754
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -16245,7 +16251,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1806
+      "Count": 1808
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16269,7 +16275,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1735
+      "Count": 1737
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16299,7 +16305,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1281
+      "Count": 1283
     }
   ],
   "EOS_Progressed": 144959,
@@ -47376,9 +47382,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-08-22T03:59:49.5313745+00:00",
+  "LastChanged": "2024-08-22T17:58:41.4380158+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:49.9771172+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:28.0496754+00:00",
-  "LastUpdate_Ratings": "2024-08-22T15:58:51.676707+00:00",
+  "LastUpdate_Ratings": "2024-08-22T17:58:41.4380163+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:49.9773006+00:00"
 }

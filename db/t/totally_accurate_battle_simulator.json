@@ -4,7 +4,7 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 181,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8462,10 +8462,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4493,
       "NumberOfAwardsMax": 604
+    },
+    {
+      "Time": "2024-08-22T17:59:02.2772098+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4498,
+      "NumberOfAwardsMax": 604
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4493,
+  "NumberOfAwards": 4498,
   "NumberOfAwardsMax": 604,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8491,7 +8497,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 430
+      "Count": 432
     },
     {
       "Text": "This game is Relaxing",
@@ -8503,7 +8509,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 485
+      "Count": 488
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8565,8 +8571,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-08-22T04:00:05.0925328+00:00",
+  "LastChanged": "2024-08-22T17:59:02.2772096+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:16.671206+00:00",
-  "LastUpdate_Ratings": "2024-08-22T15:59:09.1498522+00:00",
+  "LastUpdate_Ratings": "2024-08-22T17:59:02.2772102+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.7027547+00:00"
 }
