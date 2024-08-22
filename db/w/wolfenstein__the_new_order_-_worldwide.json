@@ -2,7 +2,7 @@
   "ID": "0bd3e505924240adb702295fa08c1eff",
   "Name": "Wolfenstein: The New Order",
   "ProductSlug": "wolfenstein-the-new-order",
-  "Ranking_Rating": 512,
+  "Ranking_Rating": 513,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 1193,
@@ -5686,6 +5686,6 @@
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
   "LastChanged": "2024-08-21T01:59:32.6074378+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:25.4478735+00:00",
-  "LastUpdate_Ratings": "2024-08-22T00:00:18.7469929+00:00",
+  "LastUpdate_Ratings": "2024-08-22T03:00:05.1730873+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:28.7164595+00:00"
 }

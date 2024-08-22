@@ -1,16 +1,16 @@
 # Neverwinter
 [Store](https://store.epicgames.com/en-US/p/neverwinter)  
 [View Rawdata](../../db/n/neverwinter.json)  
-Rating: 4.30 (Ranked 993)  
+Rating: 4.30 (Ranked 992)  
 Number of Ratings: 1,084  (23.09.2022)  
 ## Awards
 Max (Character Customization): 900  (Ranked 207)  
-Sum: 2,890 (Ranked 217)  
+Sum: 2,891 (Ranked 217)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 900 |
-| This game is Great for Beginners | 304 |
+| This game is Great for Beginners | 305 |
 | This game has Diverse Characters | 296 |
 | This game is Highly Recommended | 252 |
 | This game is Relaxing | 243 |
@@ -473,3 +473,4 @@ Diff (max vs sum): -10
 | 2024-08-18 | 4.30 | - | 899 | 2,884 |
 | 2024-08-19 | 4.30 | - | 899 | 2,887 |
 | 2024-08-21 | 4.30 | - | 900 | 2,890 |
+| 2024-08-22 | 4.30 | - | 900 | 2,891 |
