@@ -2,7 +2,7 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 64,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 897,
   "RatingHistory": [
     {
@@ -3890,10 +3890,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 2671,
       "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2024-08-22T18:57:41.1938983+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2673,
+      "NumberOfAwardsMax": 322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2671,
+  "NumberOfAwards": 2673,
   "NumberOfAwardsMax": 322,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3931,7 +3937,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 256
+      "Count": 258
     },
     {
       "Text": "This game is Relaxing",
@@ -3975,8 +3981,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-08-22T09:59:22.4243952+00:00",
+  "LastChanged": "2024-08-22T18:57:41.1938981+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:28.1257735+00:00",
-  "LastUpdate_Ratings": "2024-08-22T16:59:24.4230249+00:00",
+  "LastUpdate_Ratings": "2024-08-22T18:57:41.1938987+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:42.4003844+00:00"
 }

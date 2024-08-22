@@ -1,11 +1,11 @@
 # Oxygen Not Included
 [Store](https://store.epicgames.com/en-US/p/oxygen-not-included)  
 [View Rawdata](../../db/o/oxygen_not_included.json)  
-Rating: 4.84 (Ranked 49)  
+Rating: 4.83 (Ranked 64)  
 Number of Ratings: 897  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 322  (Ranked 300)  
-Sum: 2,671 (Ranked 226)  
+Sum: 2,673 (Ranked 226)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 74
 | This game is Educational | 265 |
 | This game is Relaxing | 262 |
 | This game has Quickly Understood Controls | 261 |
-| This game is Highly Recommended | 256 |
+| This game is Highly Recommended | 258 |
 | This game has Amazing Characters | 255 |
 | This game has Amazing Storytelling | 248 |
 | This game has a Creative Community | 245 |
@@ -391,4 +391,4 @@ Diff (max vs sum): 74
 | 2024-08-19 | 4.84 | - | 319 | 2,660 |
 | 2024-08-20 | 4.84 | - | 320 | 2,664 |
 | 2024-08-21 | 4.84 | - | 320 | 2,668 |
-| 2024-08-22 | 4.84 | - | 322 | 2,671 |
+| 2024-08-22 | 4.84 | - | 322 | 2,673 |

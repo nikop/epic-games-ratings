@@ -3,8 +3,8 @@
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 100,
-  "Ranking_Popularity": 697,
-  "Ranking_PopularitySum": 697,
+  "Ranking_Popularity": 673,
+  "Ranking_PopularitySum": 676,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -515,17 +515,30 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-22T18:57:33.5413067+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
       "Count": 115
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -540,8 +553,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-08-22T00:00:18.1040799+00:00",
+  "LastChanged": "2024-08-22T18:57:33.5413065+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:25.1825375+00:00",
-  "LastUpdate_Ratings": "2024-08-22T16:59:14.8154815+00:00",
+  "LastUpdate_Ratings": "2024-08-22T18:57:33.5413069+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:21.063413+00:00"
 }
