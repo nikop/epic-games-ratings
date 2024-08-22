@@ -351,7 +351,7 @@ Completed: 254 (0.02%) (Ranked 514)
 | 2024-08-20 | 1,118,614 | 254 |
 ## Awards
 Max (Great for Beginners): 1,330  (Ranked 164)  
-Sum: 10,621 (Ranked 115)  
+Sum: 10,622 (Ranked 115)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): 49
 | This game has Amazing Storytelling | 1,183 |
 | This game is Relaxing | 1,163 |
 | This game has Playful Visuals | 927 |
-| This game has a Silly Community | 746 |
+| This game has a Silly Community | 747 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -844,3 +844,4 @@ Diff (max vs sum): 49
 | 2024-08-19 | 3.91 | - | 1,324 | 10,599 |
 | 2024-08-20 | 3.91 | - | 1,327 | 10,609 |
 | 2024-08-21 | 3.91 | - | 1,330 | 10,621 |
+| 2024-08-22 | 3.91 | - | 1,330 | 10,622 |
