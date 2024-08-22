@@ -3,7 +3,7 @@
   "Name": "Atomicrops",
   "ProductSlug": "atomicrops",
   "Ranking_Rating": 18,
-  "Ranking_Popularity": 389,
+  "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -645,18 +645,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 298,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-08-22T23:00:22.2480821+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 299,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 298,
-  "NumberOfAwardsMax": 159,
+  "NumberOfAwards": 299,
+  "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -706,8 +712,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2024-08-16T04:59:37.3711662+00:00",
+  "LastChanged": "2024-08-22T23:00:22.2480818+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:19.5288032+00:00",
-  "LastUpdate_Ratings": "2024-08-22T21:57:44.1575043+00:00",
+  "LastUpdate_Ratings": "2024-08-22T23:00:22.2480823+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:49.7491205+00:00"
 }
