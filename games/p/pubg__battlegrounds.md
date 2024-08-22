@@ -1,7 +1,7 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 4.00 (Ranked 1,197)  
+Rating: 4.01 (Ranked 1,195)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -889,4 +889,4 @@ Diff (max vs sum): 3
 | 2024-08-19 | 4.01 | 12,438 | 40,975 |
 | 2024-08-20 | 4.01 | 12,456 | 41,017 |
 | 2024-08-21 | 4.01 | 12,475 | 41,084 |
-| 2024-08-22 | 4.00 | 12,475 | 41,125 |
+| 2024-08-22 | 4.01 | 12,475 | 41,125 |
