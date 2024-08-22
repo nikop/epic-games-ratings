@@ -3,7 +3,7 @@
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 112,
-  "Ranking_Popularity": 201,
+  "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 561,
@@ -9847,11 +9847,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 7429,
       "NumberOfAwardsMax": 978
+    },
+    {
+      "Time": "2024-08-22T19:58:41.0977719+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7456,
+      "NumberOfAwardsMax": 988
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7429,
-  "NumberOfAwardsMax": 978,
+  "NumberOfAwards": 7456,
+  "NumberOfAwardsMax": 988,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9864,7 +9870,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 978
+      "Count": 988
     },
     {
       "Text": "This game is Relaxing",
@@ -9882,7 +9888,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 618
+      "Count": 622
     },
     {
       "Text": "This game has Competitive Players",
@@ -9894,7 +9900,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 770
+      "Count": 783
     },
     {
       "Text": "This game has a Creative Community",
@@ -20514,9 +20520,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-08-22T16:57:31.1324829+00:00",
+  "LastChanged": "2024-08-22T19:58:41.0977717+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:54.6525756+00:00",
   "LastUpdate_AppInfo": "2024-08-21T17:57:37.7143007+00:00",
-  "LastUpdate_Ratings": "2024-08-22T18:00:38.7222904+00:00",
+  "LastUpdate_Ratings": "2024-08-22T19:58:41.0977723+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:54.6526933+00:00"
 }

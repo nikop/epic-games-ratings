@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.55 (Ranked 581)  
+Rating: 4.55 (Ranked 580)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -233,13 +233,13 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-08-20 | 150,899 | 0 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 652)  
-Sum: 70 (Ranked 590)  
-Diff (max vs sum): 62  
+Sum: 71 (Ranked 586)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 25 |
 | This game has Beautiful Visuals | 24 |
-| This game is Great for Quick Sessions | 21 |
+| This game is Great for Quick Sessions | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -298,3 +298,4 @@ Diff (max vs sum): 62
 | 2024-08-17 | 4.54 | 24 | 48 |
 | 2024-08-20 | 4.55 | 24 | 69 |
 | 2024-08-21 | 4.55 | 25 | 70 |
+| 2024-08-22 | 4.55 | 25 | 71 |

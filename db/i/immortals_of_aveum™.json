@@ -3,7 +3,7 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 1116,
-  "Ranking_Popularity": 594,
+  "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 409,
@@ -985,18 +985,24 @@
       "Rating": 4.18,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-08-22T19:59:55.4521891+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 233,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game is Relaxing",
@@ -7190,9 +7196,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-08-22T18:57:36.6415353+00:00",
+  "LastChanged": "2024-08-22T19:59:55.4521889+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:39.8774978+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:25.7139891+00:00",
-  "LastUpdate_Ratings": "2024-08-22T18:57:36.6415358+00:00",
+  "LastUpdate_Ratings": "2024-08-22T19:59:55.4521895+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:39.8775471+00:00"
 }
