@@ -2,7 +2,7 @@
   "ID": "41f47fd0d3e248bc938a5815d6d64daa",
   "Name": "Fez",
   "ProductSlug": "fez",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 181,
   "Ranking_Popularity": 633,
   "Ranking_PopularitySum": 656,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "NumberOfRatings": 103,
   "RatingHistory": [
     {
@@ -384,6 +384,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-08-22T07:57:16.9528878+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
@@ -409,8 +415,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:13.418664+00:00",
-  "LastChanged": "2024-08-12T06:01:30.0834757+00:00",
+  "LastChanged": "2024-08-22T07:57:16.9528876+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:20.2050134+00:00",
-  "LastUpdate_Ratings": "2024-08-22T05:57:57.3050063+00:00",
+  "LastUpdate_Ratings": "2024-08-22T07:57:16.9528881+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:15.5151604+00:00"
 }
