@@ -1,12 +1,12 @@
 # Maneater
 [Store](https://store.epicgames.com/en-US/p/maneater)  
 [View Rawdata](../../db/m/maneater.json)  
-Rating: 4.49 (Ranked 701)  
+Rating: 4.49 (Ranked 702)  
 Number of Ratings: 82,037  (23.09.2022)  
 ## Awards
 Max (Character Customization): 14,490  (Ranked 41)  
-Sum: 19,235 (Ranked 76)  
-Diff (max vs sum): -35  
+Sum: 19,235 (Ranked 75)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 14,490 |

@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-unity",
   "Ranking_Rating": 418,
   "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -4084,10 +4084,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1750,
       "NumberOfAwardsMax": 1255
+    },
+    {
+      "Time": "2024-08-23T04:59:57.4921988+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1751,
+      "NumberOfAwardsMax": 1255
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1750,
+  "NumberOfAwards": 1751,
   "NumberOfAwardsMax": 1255,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4155,7 +4161,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Educational",
@@ -4187,8 +4193,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-08-23T01:59:19.7874805+00:00",
+  "LastChanged": "2024-08-23T04:59:57.4921986+00:00",
   "LastUpdate_AppInfo": "2024-08-19T11:57:19.9844867+00:00",
-  "LastUpdate_Ratings": "2024-08-23T02:59:49.3900155+00:00",
+  "LastUpdate_Ratings": "2024-08-23T04:59:57.4921991+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:31.956728+00:00"
 }
