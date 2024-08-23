@@ -4,7 +4,7 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 442,
   "Ranking_Popularity": 255,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 182,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 28,
@@ -8048,10 +8048,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4346,
       "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2024-08-23T09:00:05.1116379+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4348,
+      "NumberOfAwardsMax": 541
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4346,
+  "NumberOfAwards": 4348,
   "NumberOfAwardsMax": 541,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -8107,7 +8113,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 436
+      "Count": 438
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -40948,9 +40954,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-08-22T23:59:08.9431206+00:00",
+  "LastChanged": "2024-08-23T09:00:05.1116377+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:14.1435235+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:28.518129+00:00",
-  "LastUpdate_Ratings": "2024-08-23T07:57:34.7695787+00:00",
+  "LastUpdate_Ratings": "2024-08-23T09:00:05.111639+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:14.1437148+00:00"
 }
