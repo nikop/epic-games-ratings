@@ -3,8 +3,8 @@
   "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
   "ProductSlug": "shadowrun-dragonfall",
   "Ranking_Rating": 557,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 562,
+  "Ranking_Popularity": 450,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -581,18 +581,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 103,
       "NumberOfAwardsMax": 103
+    },
+    {
+      "Time": "2024-08-23T16:59:34.3176589+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 104,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 103,
-  "NumberOfAwardsMax": 103,
+  "NumberOfAwards": 104,
+  "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 103
+      "Count": 104
     }
   ],
   "EOS_Progressed": 0,
@@ -606,8 +612,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
-  "LastChanged": "2024-08-13T05:57:38.9737622+00:00",
+  "LastChanged": "2024-08-23T16:59:34.3176587+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:28.3131097+00:00",
-  "LastUpdate_Ratings": "2024-08-23T15:57:34.040231+00:00",
+  "LastUpdate_Ratings": "2024-08-23T16:59:34.3176593+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:15.419893+00:00"
 }

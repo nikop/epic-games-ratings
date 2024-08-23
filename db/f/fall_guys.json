@@ -27076,10 +27076,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1463765,
       "NumberOfAwardsMax": 165128
+    },
+    {
+      "Time": "2024-08-23T16:57:39.8250715+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1464005,
+      "NumberOfAwardsMax": 165128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1463765,
+  "NumberOfAwards": 1464005,
   "NumberOfAwardsMax": 165128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -27093,19 +27099,19 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 142043
+      "Count": 142093
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 139076
+      "Count": 139120
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 139627
+      "Count": 139676
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -27135,7 +27141,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 118955
+      "Count": 119000
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -27147,7 +27153,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 110183
+      "Count": 110235
     }
   ],
   "EOS_Progressed": 40737800,
@@ -60073,9 +60079,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-08-23T14:58:17.8377764+00:00",
+  "LastChanged": "2024-08-23T16:57:39.8250712+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:06.2423096+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:46.0812336+00:00",
-  "LastUpdate_Ratings": "2024-08-23T14:58:17.837777+00:00",
+  "LastUpdate_Ratings": "2024-08-23T16:57:39.8250718+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:06.2424775+00:00"
 }
