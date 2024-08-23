@@ -2,7 +2,7 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 1193,
@@ -10451,10 +10451,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 14386,
       "NumberOfAwardsMax": 2577
+    },
+    {
+      "Time": "2024-08-23T21:59:11.4949175+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14387,
+      "NumberOfAwardsMax": 2577
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14386,
+  "NumberOfAwards": 14387,
   "NumberOfAwardsMax": 2577,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -10468,7 +10474,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2404
+      "Count": 2405
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10512,8 +10518,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-08-23T18:57:52.3375901+00:00",
+  "LastChanged": "2024-08-23T21:59:11.4949173+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:45.4131811+00:00",
-  "LastUpdate_Ratings": "2024-08-23T20:00:11.4184928+00:00",
+  "LastUpdate_Ratings": "2024-08-23T21:59:11.4949182+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:09.2467767+00:00"
 }

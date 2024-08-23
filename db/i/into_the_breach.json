@@ -2,7 +2,7 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 4082,
   "RatingHistory": [
     {
@@ -5896,10 +5896,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4546,
       "NumberOfAwardsMax": 509
+    },
+    {
+      "Time": "2024-08-23T21:58:30.3417231+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4549,
+      "NumberOfAwardsMax": 509
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4546,
+  "NumberOfAwards": 4549,
   "NumberOfAwardsMax": 509,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5913,7 +5919,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 462
+      "Count": 464
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5943,7 +5949,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 440
+      "Count": 441
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5993,8 +5999,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-08-23T18:01:25.1285225+00:00",
+  "LastChanged": "2024-08-23T21:58:30.3417229+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:37.7977562+00:00",
-  "LastUpdate_Ratings": "2024-08-23T19:59:24.2090138+00:00",
+  "LastUpdate_Ratings": "2024-08-23T21:58:30.3417236+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.061096+00:00"
 }

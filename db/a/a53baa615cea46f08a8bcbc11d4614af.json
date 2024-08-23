@@ -2,7 +2,7 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1045,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 1193,
@@ -1111,10 +1111,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 483,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-08-23T21:59:22.2578584+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 486,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 483,
+  "NumberOfAwards": 486,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1164,7 +1170,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 51
+      "Count": 54
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1197,8 +1203,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-08-23T14:59:17.1090249+00:00",
+  "LastChanged": "2024-08-23T21:59:22.2578583+00:00",
   "LastUpdate_AppInfo": "2024-08-20T16:57:07.6920115+00:00",
-  "LastUpdate_Ratings": "2024-08-23T20:57:09.8815775+00:00",
+  "LastUpdate_Ratings": "2024-08-23T21:59:22.2578588+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:14.4523445+00:00"
 }
