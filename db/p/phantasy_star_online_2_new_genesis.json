@@ -8040,10 +8040,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 5174,
       "NumberOfAwardsMax": 1166
+    },
+    {
+      "Time": "2024-08-23T11:58:52.8706666+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 5175,
+      "NumberOfAwardsMax": 1166
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5174,
+  "NumberOfAwards": 5175,
   "NumberOfAwardsMax": 1166,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8105,7 +8111,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8131,8 +8137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-08-22T19:57:35.1852566+00:00",
+  "LastChanged": "2024-08-23T11:58:52.8706664+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:01.6684412+00:00",
-  "LastUpdate_Ratings": "2024-08-23T10:01:08.7847411+00:00",
+  "LastUpdate_Ratings": "2024-08-23T11:58:52.870667+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:17.1532533+00:00"
 }

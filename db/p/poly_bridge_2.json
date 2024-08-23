@@ -3,8 +3,8 @@
   "Name": "Poly Bridge 2",
   "ProductSlug": "poly-bridge-2",
   "Ranking_Rating": 643,
-  "Ranking_Popularity": 596,
-  "Ranking_PopularitySum": 640,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 638,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -373,18 +373,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 36,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-08-23T11:57:29.2725485+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 37,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 37,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 36
+      "Count": 37
     }
   ],
   "EOS_Progressed": 0,
@@ -398,8 +404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.1339202+00:00",
-  "LastChanged": "2024-08-21T07:57:53.7804692+00:00",
+  "LastChanged": "2024-08-23T11:57:29.2725483+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:48.9545182+00:00",
-  "LastUpdate_Ratings": "2024-08-23T09:58:58.3578719+00:00",
+  "LastUpdate_Ratings": "2024-08-23T11:57:29.2725488+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:39.9022938+00:00"
 }

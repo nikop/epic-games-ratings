@@ -2,7 +2,7 @@
   "ID": "3f97c780915242898209d0e7edf9b1ec",
   "Name": "FAR: Changing Tides",
   "ProductSlug": "far-changing-tides",
-  "Ranking_Rating": 328,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -240,6 +240,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-23T11:59:19.2183151+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -257,8 +263,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:44.5991869+00:00",
-  "LastChanged": "2024-08-22T13:10:51.0601091+00:00",
+  "LastChanged": "2024-08-23T11:59:19.2183149+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:29.6716635+00:00",
-  "LastUpdate_Ratings": "2024-08-23T10:57:13.1851799+00:00",
+  "LastUpdate_Ratings": "2024-08-23T11:59:19.2183156+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:43.4269807+00:00"
 }
