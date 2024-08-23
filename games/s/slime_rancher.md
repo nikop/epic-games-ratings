@@ -1,12 +1,12 @@
 # Slime Rancher
 [Store](https://store.epicgames.com/en-US/p/slime-rancher)  
 [View Rawdata](../../db/s/slime_rancher.json)  
-Rating: 4.82 (Ranked 73)  
+Rating: 4.82 (Ranked 74)  
 Number of Ratings: 5,898  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 580  (Ranked 250)  
+Max (Great for Beginners): 580  (Ranked 251)  
 Sum: 4,030 (Ranked 186)  
-Diff (max vs sum): 64  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 580 |

@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 814)  
 ## Awards
 Max (Diverse Characters): 89  (Ranked 473)  
-Sum: 748 (Ranked 360)  
-Diff (max vs sum): 113  
+Sum: 748 (Ranked 361)  
+Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 89 |
