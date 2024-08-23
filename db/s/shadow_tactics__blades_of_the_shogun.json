@@ -2,7 +2,7 @@
   "ID": "2f215955790d456b80c291bc2feaf7f7",
   "Name": "Shadow Tactics: Blades of the Shogun",
   "ProductSlug": "shadow-tactics",
-  "Ranking_Rating": 310,
+  "Ranking_Rating": 309,
   "Ranking_Popularity": 242,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 86,
@@ -3692,10 +3692,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5183,
       "NumberOfAwardsMax": 632
+    },
+    {
+      "Time": "2024-08-23T17:58:58.9586044+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5184,
+      "NumberOfAwardsMax": 632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5183,
+  "NumberOfAwards": 5184,
   "NumberOfAwardsMax": 632,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3763,7 +3769,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 275
+      "Count": 276
     }
   ],
   "EOS_Progressed": 257085,
@@ -36684,9 +36690,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-08-22T14:58:50.8236844+00:00",
+  "LastChanged": "2024-08-23T17:58:58.9586042+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:37.1204562+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:33.80981+00:00",
-  "LastUpdate_Ratings": "2024-08-23T16:00:07.7699434+00:00",
+  "LastUpdate_Ratings": "2024-08-23T17:58:58.9586047+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.1206513+00:00"
 }

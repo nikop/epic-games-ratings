@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 468,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 544,
@@ -2559,10 +2559,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1247,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-08-23T18:00:48.0526151+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1248,
+      "NumberOfAwardsMax": 177
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1247,
+  "NumberOfAwards": 1248,
   "NumberOfAwardsMax": 177,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2588,7 +2594,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18628,9 +18634,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2024-08-23T02:57:34.6509828+00:00",
+  "LastChanged": "2024-08-23T18:00:48.052615+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:34.0694998+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:36.8802551+00:00",
-  "LastUpdate_Ratings": "2024-08-23T16:57:21.3938548+00:00",
+  "LastUpdate_Ratings": "2024-08-23T18:00:48.0526155+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:34.0696115+00:00"
 }

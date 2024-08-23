@@ -1,7 +1,7 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.44 (Ranked 796)  
+Rating: 4.43 (Ranked 813)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -230,3 +230,4 @@ Diff (max vs sum): -53
 | 2024-07-29 | 4.44 | 38 | 38 |
 | 2024-08-04 | 4.43 | 38 | 38 |
 | 2024-08-16 | 4.44 | 39 | 39 |
+| 2024-08-23 | 4.43 | 39 | 39 |
