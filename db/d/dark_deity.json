@@ -4,7 +4,7 @@
   "ProductSlug": "dark-deity-0b08d1",
   "Ranking_Rating": 1127,
   "Ranking_Popularity": 240,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -611,10 +611,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 920,
       "NumberOfAwardsMax": 637
+    },
+    {
+      "Time": "2024-08-23T16:01:11.814591+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 923,
+      "NumberOfAwardsMax": 637
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 920,
+  "NumberOfAwards": 923,
   "NumberOfAwardsMax": 637,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -658,13 +664,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Extremely Fun",
@@ -676,7 +682,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -691,8 +697,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
-  "LastChanged": "2024-08-16T14:00:13.3404003+00:00",
+  "LastChanged": "2024-08-23T16:01:11.8145908+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:26.65965+00:00",
-  "LastUpdate_Ratings": "2024-08-23T14:57:31.175312+00:00",
+  "LastUpdate_Ratings": "2024-08-23T16:01:11.8145914+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:45.830568+00:00"
 }

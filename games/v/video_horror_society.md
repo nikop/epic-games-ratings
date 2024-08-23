@@ -1,12 +1,12 @@
 # Video Horror Society
 [Store](https://store.epicgames.com/en-US/p/vhs)  
 [View Rawdata](../../db/v/video_horror_society.json)  
-Rating: 4.26 (Ranked 1,038)  
+Rating: 4.26 (Ranked 1,037)  
 Number of Ratings: 559  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 297  (Ranked 308)  
-Sum: 876 (Ranked 340)  
-Diff (max vs sum): -32  
+Sum: 876 (Ranked 341)  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 297 |
