@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 1193,
@@ -25187,10 +25187,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 147987,
       "NumberOfAwardsMax": 19492
+    },
+    {
+      "Time": "2024-08-23T20:57:28.5709961+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 148003,
+      "NumberOfAwardsMax": 19492
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147987,
+  "NumberOfAwards": 148003,
   "NumberOfAwardsMax": 19492,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -25222,7 +25228,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 15549
+      "Count": 15565
     },
     {
       "Text": "This game is Great for Beginners",
@@ -25280,9 +25286,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-08-23T18:58:15.1284401+00:00",
+  "LastChanged": "2024-08-23T20:57:28.5709959+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:27.0110243+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:53.9954914+00:00",
-  "LastUpdate_Ratings": "2024-08-23T18:58:15.128441+00:00",
+  "LastUpdate_Ratings": "2024-08-23T20:57:28.5709967+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:27.0110281+00:00"
 }

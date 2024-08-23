@@ -1,7 +1,7 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.69 (Ranked 267)  
+Rating: 4.69 (Ranked 266)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-08-20 | 1,189 | 0 |
 ## Awards
 Max (Character Customization): 737  (Ranked 231)  
-Sum: 1,879 (Ranked 258)  
+Sum: 1,880 (Ranked 258)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -180,7 +180,7 @@ Diff (max vs sum): -27
 | This game has Amazing Characters | 106 |
 | This game is Relaxing | 106 |
 | This game has Easy Combat | 104 |
-| This game has Amazing Storytelling | 94 |
+| This game has Amazing Storytelling | 95 |
 | This game has a Creative Community | 94 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
@@ -559,4 +559,4 @@ Diff (max vs sum): -27
 | 2024-08-20 | 4.69 | - | 735 | 1,875 |
 | 2024-08-21 | 4.69 | - | 735 | 1,876 |
 | 2024-08-22 | 4.69 | - | 736 | 1,878 |
-| 2024-08-23 | 4.69 | - | 737 | 1,879 |
+| 2024-08-23 | 4.69 | - | 737 | 1,880 |

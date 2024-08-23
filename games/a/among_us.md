@@ -1,7 +1,7 @@
 # Among Us
 [Store](https://store.epicgames.com/en-US/p/among-us)  
 [View Rawdata](../../db/a/among_us.json)  
-Rating: 4.55 (Ranked 583)  
+Rating: 4.55 (Ranked 582)  
 Number of Ratings: 26,171  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 3,846  (Ranked 106)  

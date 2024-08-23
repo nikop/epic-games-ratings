@@ -1,14 +1,14 @@
 # SKULL AND BONES™
 [Store](https://store.epicgames.com/en-US/p/skull-and-bones)  
 [View Rawdata](../../db/s/skull_and_bones™.json)  
-Rating: 4.13 (Ranked 1,148)  
+Rating: 4.13 (Ranked 1,149)  
 ## Awards
-Max (Great Boss Battles): 3,223  (Ranked 114)  
-Sum: 7,253 (Ranked 150)  
+Max (Great Boss Battles): 3,238  (Ranked 114)  
+Sum: 7,268 (Ranked 150)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,223 |
+| This game has Great Boss Battles | 3,238 |
 | This game is Great for Beginners | 886 |
 | This game is Highly Recommended | 802 |
 | This game is Extremely Fun | 796 |
@@ -208,4 +208,4 @@ Diff (max vs sum): -36
 | 2024-08-20 | 4.13 | 3,202 | 7,201 |
 | 2024-08-21 | 4.13 | 3,214 | 7,223 |
 | 2024-08-22 | 4.13 | 3,223 | 7,239 |
-| 2024-08-23 | 4.13 | 3,223 | 7,253 |
+| 2024-08-23 | 4.13 | 3,238 | 7,268 |

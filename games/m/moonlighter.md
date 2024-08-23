@@ -1,7 +1,7 @@
 # Moonlighter
 [Store](https://store.epicgames.com/en-US/p/moonlighter)  
 [View Rawdata](../../db/m/moonlighter.json)  
-Rating: 4.70 (Ranked 244)  
+Rating: 4.69 (Ranked 266)  
 Number of Ratings: 1,098  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -93,3 +93,4 @@ Number of Ratings: 1,098  (23.09.2022)
 | 2024-01-12 | 4.70 | - | 0 | 0 |
 | 2024-02-01 | 4.69 | - | 0 | 0 |
 | 2024-05-28 | 4.70 | - | 0 | 0 |
+| 2024-08-23 | 4.69 | - | 0 | 0 |

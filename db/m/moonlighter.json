@@ -2,7 +2,7 @@
   "ID": "bec822fb982843c3be794d440728336b",
   "Name": "Moonlighter",
   "ProductSlug": "moonlighter",
-  "Ranking_Rating": 244,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 1098,
   "RatingHistory": [
     {
@@ -608,6 +608,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-23T20:59:44.3670937+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -625,8 +631,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
-  "LastChanged": "2024-05-28T19:59:25.3248945+00:00",
+  "LastChanged": "2024-08-23T20:59:44.3670935+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:09.5148473+00:00",
-  "LastUpdate_Ratings": "2024-08-23T18:59:42.3683804+00:00",
+  "LastUpdate_Ratings": "2024-08-23T20:59:44.3670942+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:36.1913914+00:00"
 }

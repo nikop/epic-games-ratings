@@ -1,11 +1,11 @@
 # Bloons TD 6
 [Store](https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0)  
 [View Rawdata](../../db/b/bloons_td_6.json)  
-Rating: 4.77 (Ranked 133)  
+Rating: 4.77 (Ranked 132)  
 Number of Ratings: 136  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 15,943  (Ranked 38)  
-Sum: 83,276 (Ranked 29)  
+Sum: 83,325 (Ranked 29)  
 Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 9
 | This game has Playful Visuals | 8,795 |
 | This game has a Creative Community | 8,164 |
 | This game is Highly Recommended | 7,889 |
-| This game has Amazing Characters | 6,922 |
+| This game has Amazing Characters | 6,971 |
 | This game is Extremely Fun | 6,403 |
 | This game has Amazing Storytelling | 5,996 |
 | This game has Quickly Understood Controls | 5,633 |
@@ -602,4 +602,4 @@ Diff (max vs sum): 9
 | 2024-08-20 | 4.77 | - | 15,724 | 82,226 |
 | 2024-08-21 | 4.77 | - | 15,771 | 82,554 |
 | 2024-08-22 | 4.77 | - | 15,851 | 82,897 |
-| 2024-08-23 | 4.77 | - | 15,943 | 83,276 |
+| 2024-08-23 | 4.77 | - | 15,943 | 83,325 |

@@ -3,7 +3,7 @@
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
   "Ranking_Rating": 348,
-  "Ranking_Popularity": 215,
+  "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 230,
@@ -9028,18 +9028,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 4460,
       "NumberOfAwardsMax": 831
+    },
+    {
+      "Time": "2024-08-23T20:58:33.5955126+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 4467,
+      "NumberOfAwardsMax": 834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4460,
-  "NumberOfAwardsMax": 831,
+  "NumberOfAwards": 4467,
+  "NumberOfAwardsMax": 834,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 576
+      "Count": 578
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9057,13 +9063,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 613
+      "Count": 615
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 831
+      "Count": 834
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9365,9 +9371,9 @@
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
-  "LastChanged": "2024-08-23T18:58:56.350617+00:00",
+  "LastChanged": "2024-08-23T20:58:33.5955124+00:00",
   "LastChanged_Achievements": "2024-08-20T20:14:04.9961124+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:18.8101221+00:00",
-  "LastUpdate_Ratings": "2024-08-23T18:58:56.3506177+00:00",
+  "LastUpdate_Ratings": "2024-08-23T20:58:33.5955131+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:14:04.9961276+00:00"
 }

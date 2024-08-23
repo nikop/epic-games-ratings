@@ -1,7 +1,7 @@
 # Inscryption
 [Store](https://store.epicgames.com/en-US/p/inscryption-6b29ab)  
 [View Rawdata](../../db/i/inscryption.json)  
-Rating: 4.87 (Ranked 18)  
+Rating: 4.87 (Ranked 19)  
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 398  (Ranked 280)  
