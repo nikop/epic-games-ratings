@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1178,
+  "Ranking_Rating": 1180,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.07,
+  "Rating": 4.06,
   "NumberOfRatings": 9041,
   "RatingHistory": [
     {
@@ -14439,6 +14439,12 @@
     {
       "Time": "2024-08-22T23:58:17.0218036+00:00",
       "Rating": 4.07,
+      "NumberOfAwards": 37038,
+      "NumberOfAwardsMax": 6677
+    },
+    {
+      "Time": "2024-08-23T03:59:08.2375169+00:00",
+      "Rating": 4.06,
       "NumberOfAwards": 37038,
       "NumberOfAwardsMax": 6677
     }
@@ -51367,9 +51373,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-08-22T23:58:17.0218034+00:00",
+  "LastChanged": "2024-08-23T03:59:08.2375163+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:02.7907352+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:29.2358495+00:00",
-  "LastUpdate_Ratings": "2024-08-23T02:01:17.398967+00:00",
+  "LastUpdate_Ratings": "2024-08-23T03:59:08.2375187+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:02.7934513+00:00"
 }

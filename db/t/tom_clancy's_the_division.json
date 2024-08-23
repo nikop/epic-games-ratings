@@ -3,7 +3,7 @@
   "Name": "Tom Clancy\u0027s The Division",
   "ProductSlug": "the-division",
   "Ranking_Rating": 468,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5261,18 +5261,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 1734,
       "NumberOfAwardsMax": 588
+    },
+    {
+      "Time": "2024-08-23T03:58:59.1252982+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1737,
+      "NumberOfAwardsMax": 591
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1734,
-  "NumberOfAwardsMax": 588,
+  "NumberOfAwards": 1737,
+  "NumberOfAwardsMax": 591,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 588
+      "Count": 591
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -5364,8 +5370,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-08-21T08:57:50.5976884+00:00",
+  "LastChanged": "2024-08-23T03:58:59.125298+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:34.6480211+00:00",
-  "LastUpdate_Ratings": "2024-08-23T02:01:08.0794343+00:00",
+  "LastUpdate_Ratings": "2024-08-23T03:58:59.1252985+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:35.6912605+00:00"
 }

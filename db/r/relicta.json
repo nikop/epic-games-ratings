@@ -700,18 +700,24 @@
       "Rating": 4.13,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 210
+    },
+    {
+      "Time": "2024-08-23T03:58:41.4968443+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
-  "NumberOfAwardsMax": 210,
+  "NumberOfAwards": 287,
+  "NumberOfAwardsMax": 211,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "In this game, your choices Don\u0027t Impact the Story",
@@ -731,8 +737,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2024-08-08T23:59:10.8957282+00:00",
+  "LastChanged": "2024-08-23T03:58:41.4968441+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:31.2073859+00:00",
-  "LastUpdate_Ratings": "2024-08-23T02:00:51.6346241+00:00",
+  "LastUpdate_Ratings": "2024-08-23T03:58:41.4968447+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:13.5074745+00:00"
 }

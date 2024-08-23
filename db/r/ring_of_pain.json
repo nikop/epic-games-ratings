@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 511,
   "Ranking_Popularity": 150,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 140,
@@ -5474,10 +5474,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13876,
       "NumberOfAwardsMax": 1694
+    },
+    {
+      "Time": "2024-08-23T03:58:35.6392114+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13880,
+      "NumberOfAwardsMax": 1694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13876,
+  "NumberOfAwards": 13880,
   "NumberOfAwardsMax": 1694,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5503,7 +5509,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1298
+      "Count": 1299
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5521,7 +5527,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1450
+      "Count": 1452
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5533,7 +5539,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1364
+      "Count": 1365
     },
     {
       "Text": "This game is Relaxing",
@@ -35900,9 +35906,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-08-22T23:57:27.9679352+00:00",
+  "LastChanged": "2024-08-23T03:58:35.6392112+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:57.9087335+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:07.6308731+00:00",
-  "LastUpdate_Ratings": "2024-08-23T02:00:45.3438583+00:00",
+  "LastUpdate_Ratings": "2024-08-23T03:58:35.6392117+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:57.9090503+00:00"
 }
