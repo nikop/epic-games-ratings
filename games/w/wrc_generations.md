@@ -1,11 +1,11 @@
 # WRC Generations
 [Store](https://store.epicgames.com/en-US/p/wrc-11-fia-world-rally-championship-f0749b)  
 [View Rawdata](../../db/w/wrc_generations.json)  
-Rating: 4.46 (Ranked 757)  
+Rating: 4.46 (Ranked 758)  
 ## Awards
-Max (Realistic Visuals): 30  (Ranked 622)  
+Max (Realistic Visuals): 30  (Ranked 623)  
 Sum: 130 (Ranked 535)  
-Diff (max vs sum): 87  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 30 |

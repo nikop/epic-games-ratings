@@ -1,7 +1,7 @@
 # Freshly Frosted
 [Store](https://store.epicgames.com/en-US/p/freshly-frosted-c636d0)  
 [View Rawdata](../../db/f/freshly_frosted.json)  
-Rating: 4.55 (Ranked 580)  
+Rating: 4.55 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -93,8 +93,8 @@ Completed: 771 (0.85%) (Ranked 284)
 | 2024-08-09 | 88,417 | 715 |
 | 2024-08-20 | 90,278 | 771 |
 ## Awards
-Max (Challenging Puzzles): 86  (Ranked 478)  
-Sum: 86 (Ranked 574)  
+Max (Challenging Puzzles): 86  (Ranked 479)  
+Sum: 86 (Ranked 575)  
 Diff (max vs sum): -96  
 | Award | Count |
 | ----- | ----- |

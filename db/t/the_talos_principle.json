@@ -3,8 +3,8 @@
   "Name": "The Talos Principle",
   "ProductSlug": "the-talos-principle",
   "Ranking_Rating": 225,
-  "Ranking_Popularity": 698,
-  "Ranking_PopularitySum": 698,
+  "Ranking_Popularity": 700,
+  "Ranking_PopularitySum": 700,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -521,6 +521,6 @@
   "FirstSeen": "2022-07-22T20:29:14.4566709+00:00",
   "LastChanged": "2024-08-02T09:58:27.3388008+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:36.2603766+00:00",
-  "LastUpdate_Ratings": "2024-08-22T21:59:35.6734667+00:00",
+  "LastUpdate_Ratings": "2024-08-22T23:59:45.2532588+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:52.4225066+00:00"
 }

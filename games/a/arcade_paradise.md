@@ -176,9 +176,9 @@ Completed: 2 (0.00%) (Ranked 561)
 | 2024-06-17 | 789 | 0 |
 | 2024-08-09 | 386,429 | 2 |
 ## Awards
-Max (Great for Beginners): 68  (Ranked 506)  
-Sum: 354 (Ranked 443)  
-Diff (max vs sum): 63  
+Max (Great for Beginners): 68  (Ranked 507)  
+Sum: 338 (Ranked 451)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 68 |
@@ -189,7 +189,7 @@ Diff (max vs sum): 63
 | This game is Great for Quick Sessions | 48 |
 | This game is Extremely Fun | 46 |
 | This game has Quickly Understood Controls | 36 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 32 |
 | This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
