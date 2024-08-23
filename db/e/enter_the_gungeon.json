@@ -2,7 +2,7 @@
   "ID": "be13f6c4fb11427fbf3313ce93b97cc0",
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon",
-  "Ranking_Rating": 50,
+  "Ranking_Rating": 40,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 8617,
   "RatingHistory": [
     {
@@ -10415,6 +10415,12 @@
       "Rating": 4.84,
       "NumberOfAwards": 16336,
       "NumberOfAwardsMax": 9137
+    },
+    {
+      "Time": "2024-08-23T22:58:30.9182971+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 16336,
+      "NumberOfAwardsMax": 9137
     }
   ],
   "ReviewsDisabled": false,
@@ -10500,8 +10506,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2024-08-23T20:59:42.8640671+00:00",
+  "LastChanged": "2024-08-23T22:58:30.918297+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:08.5477809+00:00",
-  "LastUpdate_Ratings": "2024-08-23T20:59:42.8640678+00:00",
+  "LastUpdate_Ratings": "2024-08-23T22:58:30.9182978+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:00.8910396+00:00"
 }
