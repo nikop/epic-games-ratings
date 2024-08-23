@@ -4,7 +4,7 @@
   "ProductSlug": "dishonored-death-of-the-outsider",
   "Ranking_Rating": 813,
   "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 360,
+  "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3111,10 +3111,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 749,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-08-23T19:57:21.5186171+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 751,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 749,
+  "NumberOfAwards": 751,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3176,7 +3182,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 83
+      "Count": 85
     },
     {
       "Text": "This game has a Creative Community",
@@ -3197,8 +3203,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2024-08-23T13:09:34.7650581+00:00",
+  "LastChanged": "2024-08-23T19:57:21.518617+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:31.3459242+00:00",
-  "LastUpdate_Ratings": "2024-08-23T17:58:40.5905351+00:00",
+  "LastUpdate_Ratings": "2024-08-23T19:57:21.5186175+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:01.73384+00:00"
 }

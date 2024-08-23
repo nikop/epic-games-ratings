@@ -2,7 +2,7 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_Rating": 1114,
+  "Ranking_Rating": 1125,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 96,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:39.4211119+00:00",
@@ -230,6 +230,12 @@
     {
       "Time": "2024-08-21T10:57:53.0802975+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-23T19:58:46.4807407+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1460,9 +1466,9 @@
   "FirstSeen": "2022-10-30T19:31:40.9889126+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
-  "LastChanged": "2024-08-21T10:57:53.0802973+00:00",
+  "LastChanged": "2024-08-23T19:58:46.4807405+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:51.689894+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:42.3855506+00:00",
-  "LastUpdate_Ratings": "2024-08-23T18:00:34.9675376+00:00",
+  "LastUpdate_Ratings": "2024-08-23T19:58:46.480741+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:51.6899139+00:00"
 }
