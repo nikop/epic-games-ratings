@@ -2,7 +2,7 @@
   "ID": "8473f47ba98e44c2a2edc867aed03c4e",
   "Name": "Warhammer: Chaos And Conquest",
   "ProductSlug": "warhammer-939868",
-  "Ranking_Rating": 1037,
+  "Ranking_Rating": 1038,
   "Ranking_Popularity": 661,
   "Ranking_PopularitySum": 620,
   "Ranking_EOS_Progress": 1193,
@@ -257,10 +257,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-08-23T13:57:54.2257119+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46,
+  "NumberOfAwards": 47,
   "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -268,7 +274,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -289,8 +295,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-26T08:57:15.2831528+00:00",
   "FirstSeenRating": "2023-11-16T13:59:57.3096202+00:00",
-  "LastChanged": "2024-08-22T07:00:26.117646+00:00",
+  "LastChanged": "2024-08-23T13:57:54.2257118+00:00",
   "LastUpdate_AppInfo": "2024-08-17T06:57:17.7711668+00:00",
-  "LastUpdate_Ratings": "2024-08-23T11:58:28.0936089+00:00",
+  "LastUpdate_Ratings": "2024-08-23T13:57:54.2257123+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:10.6269167+00:00"
 }
