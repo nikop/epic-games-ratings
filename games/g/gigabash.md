@@ -1,7 +1,7 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 642)  
+Rating: 4.53 (Ranked 625)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -101,12 +101,12 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 151,060 | 0 |
 | 2024-08-09 | 154,991 | 0 |
 ## Awards
-Max (Great Boss Battles): 128  (Ranked 417)  
-Sum: 128 (Ranked 537)  
-Diff (max vs sum): -120  
+Max (Great Boss Battles): 130  (Ranked 414)  
+Sum: 130 (Ranked 535)  
+Diff (max vs sum): -121  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 128 |
+| This game has Great Boss Battles | 130 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -224,3 +224,4 @@ Diff (max vs sum): -120
 | 2024-08-16 | 4.53 | 126 | 126 |
 | 2024-08-18 | 4.53 | 128 | 128 |
 | 2024-08-22 | 4.52 | 128 | 128 |
+| 2024-08-23 | 4.53 | 130 | 130 |

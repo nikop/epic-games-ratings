@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.69 (Ranked 268)  
+Rating: 4.69 (Ranked 267)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -365,7 +365,7 @@ Completed: 3,832 (0.34%) (Ranked 359)
 | 2024-08-20 | 1,114,913 | 3,832 |
 ## Awards
 Max (Character Customization): 175,019  (Ranked 7)  
-Sum: 694,039 (Ranked 8)  
+Sum: 694,067 (Ranked 8)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -379,7 +379,7 @@ Diff (max vs sum): -1
 | This game has Amazing Characters | 43,091 |
 | This game is Relaxing | 41,841 |
 | This game has Quickly Understood Controls | 41,633 |
-| This game has a Creative Community | 28,751 |
+| This game has a Creative Community | 28,779 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -965,3 +965,4 @@ Diff (max vs sum): -1
 | 2024-08-20 | 4.69 | - | 174,827 | 692,941 |
 | 2024-08-21 | 4.69 | - | 174,938 | 693,531 |
 | 2024-08-22 | 4.69 | - | 175,019 | 694,039 |
+| 2024-08-23 | 4.69 | - | 175,019 | 694,067 |

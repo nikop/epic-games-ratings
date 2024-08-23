@@ -2,9 +2,9 @@
   "ID": "51817fc62352469faf5aae0133642b45",
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
-  "Ranking_Rating": 879,
-  "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 421,
+  "Ranking_Rating": 878,
+  "Ranking_Popularity": 505,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1781,12 +1781,18 @@
       "Rating": 4.39,
       "NumberOfAwards": 415,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2024-08-23T02:57:59.6633617+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 329,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 415,
-  "NumberOfAwardsMax": 88,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 329,
+  "NumberOfAwardsMax": 69,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1816,7 +1822,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Competitive Players",
@@ -1828,7 +1834,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1861,8 +1867,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-08-22T13:57:52.6304511+00:00",
+  "LastChanged": "2024-08-23T02:57:59.6633615+00:00",
   "LastUpdate_AppInfo": "2024-08-22T09:57:26.9793563+00:00",
-  "LastUpdate_Ratings": "2024-08-23T00:00:25.0919084+00:00",
+  "LastUpdate_Ratings": "2024-08-23T02:57:59.6633621+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.9203011+00:00"
 }
