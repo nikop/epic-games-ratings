@@ -2,7 +2,7 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 796,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-07-29T23:57:57.562026+00:00",
@@ -6695,10 +6695,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 3248,
       "NumberOfAwardsMax": 1015
+    },
+    {
+      "Time": "2024-08-23T09:59:33.2567873+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3258,
+      "NumberOfAwardsMax": 1015
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3248,
+  "NumberOfAwards": 3258,
   "NumberOfAwardsMax": 1015,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6712,13 +6718,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 324
+      "Count": 329
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 352
+      "Count": 357
     },
     {
       "Text": "This game is Relaxing",
@@ -6775,8 +6781,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-08-23T02:58:57.2303122+00:00",
+  "LastChanged": "2024-08-23T09:59:33.2567871+00:00",
   "LastUpdate_AppInfo": "2024-08-16T20:57:16.1604979+00:00",
-  "LastUpdate_Ratings": "2024-08-23T07:59:38.326194+00:00",
+  "LastUpdate_Ratings": "2024-08-23T09:59:33.2567877+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.6402292+00:00"
 }

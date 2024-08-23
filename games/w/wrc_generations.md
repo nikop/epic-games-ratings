@@ -4,8 +4,8 @@
 Rating: 4.46 (Ranked 758)  
 ## Awards
 Max (Realistic Visuals): 30  (Ranked 624)  
-Sum: 130 (Ranked 535)  
-Diff (max vs sum): 89  
+Sum: 150 (Ranked 526)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 30 |
@@ -13,6 +13,7 @@ Diff (max vs sum): 89
 | This game has Diverse Characters | 29 |
 | This game is Highly Recommended | 21 |
 | This game has Amazing Characters | 21 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -122,3 +123,4 @@ Diff (max vs sum): 89
 | 2024-08-19 | 4.46 | 29 | 128 |
 | 2024-08-21 | 4.46 | 29 | 129 |
 | 2024-08-22 | 4.46 | 30 | 130 |
+| 2024-08-23 | 4.46 | 30 | 150 |
