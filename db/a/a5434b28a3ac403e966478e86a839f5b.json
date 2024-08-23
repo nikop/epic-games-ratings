@@ -2,7 +2,7 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_Rating": 74,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 384,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "RatingHistory": [
     {
       "Time": "2024-01-20T20:58:07.638153+00:00",
@@ -107,6 +107,12 @@
     {
       "Time": "2024-08-19T21:58:28.4519016+00:00",
       "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-23T18:58:40.1933128+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3827,9 +3833,9 @@
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged": "2024-08-19T21:58:28.4519014+00:00",
+  "LastChanged": "2024-08-23T18:58:40.1933126+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:30.2235677+00:00",
   "LastUpdate_AppInfo": "2024-08-17T02:57:06.7236816+00:00",
-  "LastUpdate_Ratings": "2024-08-23T16:59:19.6236643+00:00",
+  "LastUpdate_Ratings": "2024-08-23T18:58:40.1933131+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:30.223597+00:00"
 }

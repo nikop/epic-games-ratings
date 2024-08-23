@@ -2,9 +2,9 @@
   "ID": "ff1cd8b38bda4f6281879c9bdb228ff1",
   "Name": "Atomicrops",
   "ProductSlug": "atomicrops",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 28,
   "Ranking_Popularity": 389,
-  "Ranking_PopularitySum": 463,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.87,
+  "Rating": 4.86,
   "NumberOfRatings": 157,
   "RatingHistory": [
     {
@@ -651,10 +651,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 299,
       "NumberOfAwardsMax": 160
+    },
+    {
+      "Time": "2024-08-23T19:00:01.1765192+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 301,
+      "NumberOfAwardsMax": 160
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 299,
+  "NumberOfAwards": 301,
   "NumberOfAwardsMax": 160,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -680,13 +686,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -712,8 +718,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:16.7457184+00:00",
-  "LastChanged": "2024-08-22T23:00:22.2480818+00:00",
+  "LastChanged": "2024-08-23T19:00:01.1765191+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:19.5288032+00:00",
-  "LastUpdate_Ratings": "2024-08-23T17:58:06.5963443+00:00",
+  "LastUpdate_Ratings": "2024-08-23T19:00:01.1765195+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:49.7491205+00:00"
 }

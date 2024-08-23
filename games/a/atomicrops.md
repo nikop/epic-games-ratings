@@ -1,18 +1,18 @@
 # Atomicrops
 [Store](https://store.epicgames.com/en-US/p/atomicrops)  
 [View Rawdata](../../db/a/atomicrops.json)  
-Rating: 4.87 (Ranked 18)  
+Rating: 4.86 (Ranked 28)  
 Number of Ratings: 157  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 160  (Ranked 389)  
-Sum: 299 (Ranked 463)  
-Diff (max vs sum): -74  
+Sum: 301 (Ranked 462)  
+Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 160 |
-| This game has Diverse Characters | 25 |
+| This game has Diverse Characters | 26 |
 | This game has Quickly Understood Controls | 24 |
-| This game is Highly Recommended | 23 |
+| This game is Highly Recommended | 24 |
 | This game has Challenging Combat | 23 |
 | This game has Amazing Characters | 22 |
 | This game is Extremely Fun | 22 |
@@ -124,3 +124,4 @@ Diff (max vs sum): -74
 | 2024-08-14 | 4.87 | - | 159 | 297 |
 | 2024-08-16 | 4.87 | - | 159 | 298 |
 | 2024-08-22 | 4.87 | - | 160 | 299 |
+| 2024-08-23 | 4.86 | - | 160 | 301 |

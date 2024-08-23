@@ -4,7 +4,7 @@
   "ProductSlug": "desperados-3",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 536,
-  "Ranking_PopularitySum": 424,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 425,
   "Ranking_EOS_NewPlayers": 167,
@@ -1059,10 +1059,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 402,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-08-23T18:59:45.6644332+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 403,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 402,
+  "NumberOfAwards": 403,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1070,7 +1076,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1479,9 +1485,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:31.4438433+00:00",
-  "LastChanged": "2024-08-22T14:57:52.1457174+00:00",
+  "LastChanged": "2024-08-23T18:59:45.664433+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:40.2987206+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:04.3132564+00:00",
-  "LastUpdate_Ratings": "2024-08-23T17:57:41.8217194+00:00",
+  "LastUpdate_Ratings": "2024-08-23T18:59:45.6644335+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:40.2987451+00:00"
 }

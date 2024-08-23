@@ -2,9 +2,9 @@
   "ID": "4de5e06a60314c12ada34d918e65cfda",
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 291,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-05-16T18:57:41.1739302+00:00",
@@ -1878,10 +1878,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1556,
       "NumberOfAwardsMax": 367
+    },
+    {
+      "Time": "2024-08-23T18:59:47.1481184+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1564,
+      "NumberOfAwardsMax": 367
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1556,
+  "NumberOfAwards": 1564,
   "NumberOfAwardsMax": 367,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1919,13 +1925,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 103
+      "Count": 108
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 106
+      "Count": 109
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1964,8 +1970,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-08-23T17:57:44.5321976+00:00",
+  "LastChanged": "2024-08-23T18:59:47.1481182+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:11.9533897+00:00",
-  "LastUpdate_Ratings": "2024-08-23T17:57:44.5321983+00:00",
+  "LastUpdate_Ratings": "2024-08-23T18:59:47.1481187+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:29.0177179+00:00"
 }
