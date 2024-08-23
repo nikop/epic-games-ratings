@@ -2,7 +2,7 @@
   "ID": "be13f6c4fb11427fbf3313ce93b97cc0",
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 39,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.85,
   "NumberOfRatings": 8617,
   "RatingHistory": [
     {
@@ -10385,10 +10385,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 16304,
       "NumberOfAwardsMax": 9118
+    },
+    {
+      "Time": "2024-08-23T02:00:08.4580656+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 16308,
+      "NumberOfAwardsMax": 9118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16304,
+  "NumberOfAwards": 16308,
   "NumberOfAwardsMax": 9118,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10402,7 +10408,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 998
+      "Count": 999
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10432,7 +10438,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 984
+      "Count": 986
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10444,7 +10450,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1002
+      "Count": 1003
     },
     {
       "Text": "This game has a Creative Community",
@@ -10470,8 +10476,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2024-08-22T17:59:59.3938757+00:00",
+  "LastChanged": "2024-08-23T02:00:08.4580654+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:08.5477809+00:00",
-  "LastUpdate_Ratings": "2024-08-22T22:59:57.0464455+00:00",
+  "LastUpdate_Ratings": "2024-08-23T02:00:08.4580661+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:00.8910396+00:00"
 }

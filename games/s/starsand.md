@@ -1,7 +1,7 @@
 # Starsand
 [Store](https://store.epicgames.com/en-US/p/starsand)  
 [View Rawdata](../../db/s/starsand.json)  
-Rating: 4.24 (Ranked 1,055)  
+Rating: 4.19 (Ranked 1,106)  
 Number of Ratings: 29  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -40,3 +40,4 @@ Number of Ratings: 29  (23.09.2022)
 | 2023-07-01 | 4.23 | - | 0 | 0 |
 | 2023-07-17 | 4.25 | - | 0 | 0 |
 | 2024-03-12 | 4.24 | - | 0 | 0 |
+| 2024-08-23 | 4.19 | - | 0 | 0 |

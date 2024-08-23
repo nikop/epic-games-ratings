@@ -2,9 +2,9 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 1087,
+  "Ranking_Rating": 1086,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 91,
@@ -1552,10 +1552,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 851,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2024-08-23T02:00:24.4955177+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 852,
+      "NumberOfAwardsMax": 132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 851,
+  "NumberOfAwards": 852,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1569,7 +1575,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 118
+      "Count": 119
     },
     {
       "Text": "This game has Competitive Players",
@@ -32241,9 +32247,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
-  "LastChanged": "2024-08-20T15:59:15.8843992+00:00",
+  "LastChanged": "2024-08-23T02:00:24.4955175+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:33.5973181+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:32.99464+00:00",
-  "LastUpdate_Ratings": "2024-08-22T23:00:15.8176952+00:00",
+  "LastUpdate_Ratings": "2024-08-23T02:00:24.495518+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:33.5974623+00:00"
 }

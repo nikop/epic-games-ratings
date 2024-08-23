@@ -4,7 +4,7 @@
   "ProductSlug": "carcassonne",
   "Ranking_Rating": 328,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1314,10 +1314,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 647,
       "NumberOfAwardsMax": 122
+    },
+    {
+      "Time": "2024-08-23T01:59:26.0838235+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 648,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 647,
+  "NumberOfAwards": 648,
   "NumberOfAwardsMax": 122,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1373,7 +1379,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1399,8 +1405,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2024-08-22T15:59:00.5245669+00:00",
+  "LastChanged": "2024-08-23T01:59:26.0838233+00:00",
   "LastUpdate_AppInfo": "2024-08-18T19:57:06.8113178+00:00",
-  "LastUpdate_Ratings": "2024-08-22T22:59:07.2706469+00:00",
+  "LastUpdate_Ratings": "2024-08-23T01:59:26.0838239+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:46.9910951+00:00"
 }
