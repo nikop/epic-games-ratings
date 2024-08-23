@@ -1,7 +1,7 @@
 # Cursed Treasure 2 Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/cursed-treasure-2-ultimate-edition-2ebbb4)  
 [View Rawdata](../../db/c/cursed_treasure_2_ultimate_edition.json)  
-Rating: 4.65 (Ranked 349)  
+Rating: 4.65 (Ranked 348)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

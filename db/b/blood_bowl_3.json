@@ -3,8 +3,8 @@
   "Name": "Blood Bowl 3\t",
   "ProductSlug": "blood-bowl-3",
   "Ranking_Rating": 1216,
-  "Ranking_Popularity": 644,
-  "Ranking_PopularitySum": 660,
+  "Ranking_Popularity": 634,
+  "Ranking_PopularitySum": 657,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -433,18 +433,24 @@
       "Rating": 3.95,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-08-23T13:10:45.133306+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -459,8 +465,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T17:57:00.609773+00:00",
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
-  "LastChanged": "2024-08-22T02:00:03.3389812+00:00",
+  "LastChanged": "2024-08-23T13:10:45.1333058+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:33.3953622+00:00",
-  "LastUpdate_Ratings": "2024-08-23T10:59:37.2720161+00:00",
+  "LastUpdate_Ratings": "2024-08-23T13:10:45.1333063+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:07.6134689+00:00"
 }

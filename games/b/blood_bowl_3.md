@@ -3,12 +3,12 @@
 [View Rawdata](../../db/b/blood_bowl_3.json)  
 Rating: 3.95 (Ranked 1,216)  
 ## Awards
-Max (Diverse Characters): 27  (Ranked 644)  
-Sum: 27 (Ranked 660)  
-Diff (max vs sum): -16  
+Max (Diverse Characters): 28  (Ranked 634)  
+Sum: 28 (Ranked 657)  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 27 |
+| This game has Diverse Characters | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -80,3 +80,4 @@ Diff (max vs sum): -16
 | 2024-08-04 | 3.93 | 26 | 26 |
 | 2024-08-07 | 3.95 | 26 | 26 |
 | 2024-08-22 | 3.95 | 27 | 27 |
+| 2024-08-23 | 3.95 | 28 | 28 |
