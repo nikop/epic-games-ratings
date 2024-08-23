@@ -2,7 +2,7 @@
   "ID": "f3867695344144dc920630264c4dd678",
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
-  "Ranking_Rating": 1157,
+  "Ranking_Rating": 1150,
   "Ranking_Popularity": 390,
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2023-07-14T19:57:17.8350643+00:00",
@@ -2135,6 +2135,12 @@
       "Rating": 4.12,
       "NumberOfAwards": 440,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2024-08-23T06:57:28.0550177+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 440,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
@@ -2197,8 +2203,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-08-22T17:57:51.8291348+00:00",
+  "LastChanged": "2024-08-23T06:57:28.0550175+00:00",
   "LastUpdate_AppInfo": "2024-08-22T19:57:09.6334935+00:00",
-  "LastUpdate_Ratings": "2024-08-23T04:59:05.1427165+00:00",
+  "LastUpdate_Ratings": "2024-08-23T06:57:28.055018+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:32.0460818+00:00"
 }
