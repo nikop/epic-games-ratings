@@ -4,7 +4,7 @@
   "ProductSlug": "rebel-galaxy",
   "Ranking_Rating": 838,
   "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 483,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1170,10 +1170,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 247,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-08-24T21:01:07.7351115+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 248,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 247,
+  "NumberOfAwards": 248,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1187,7 +1193,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1237,8 +1243,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2024-08-19T22:00:14.561822+00:00",
+  "LastChanged": "2024-08-24T21:01:07.7351113+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:12.288442+00:00",
-  "LastUpdate_Ratings": "2024-08-24T19:57:52.2836007+00:00",
+  "LastUpdate_Ratings": "2024-08-24T21:01:07.7351119+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:32.6774409+00:00"
 }

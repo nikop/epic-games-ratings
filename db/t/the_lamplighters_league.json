@@ -3,8 +3,8 @@
   "Name": "The Lamplighters League",
   "ProductSlug": "the-lamplighters-league",
   "Ranking_Rating": 816,
-  "Ranking_Popularity": 692,
-  "Ranking_PopularitySum": 693,
+  "Ranking_Popularity": 693,
+  "Ranking_PopularitySum": 694,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -200,6 +200,6 @@
   "LastChanged": "2024-08-22T22:59:39.3740158+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:29.4855374+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:27.8802929+00:00",
-  "LastUpdate_Ratings": "2024-08-24T19:57:20.5556433+00:00",
+  "LastUpdate_Ratings": "2024-08-24T21:00:33.5297125+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:29.4855404+00:00"
 }

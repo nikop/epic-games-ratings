@@ -2,7 +2,7 @@
   "ID": "feb6055528834fcf84e4d32c7d4ea0ba",
   "Name": "Men of War II",
   "ProductSlug": "men-of-war-ii-171a7e",
-  "Ranking_Rating": 1089,
+  "Ranking_Rating": 1103,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -23,11 +23,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2024-08-23T20:57:41.9250712+00:00",
       "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-24T20:58:55.0118242+00:00",
+      "Rating": 4.19,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -48,8 +54,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-22T20:59:03.6735812+00:00",
   "FirstSeenRating": "2024-08-23T20:57:41.925071+00:00",
-  "LastChanged": "2024-08-23T20:57:41.925071+00:00",
+  "LastChanged": "2024-08-24T20:58:55.0118241+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:55.5895226+00:00",
-  "LastUpdate_Ratings": "2024-08-24T18:59:13.910303+00:00",
+  "LastUpdate_Ratings": "2024-08-24T20:58:55.0118246+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:26.5047273+00:00"
 }

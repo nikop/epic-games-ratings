@@ -3,7 +3,7 @@
   "Name": "Solitairica",
   "ProductSlug": "solitairica",
   "Ranking_Rating": 727,
-  "Ranking_Popularity": 440,
+  "Ranking_Popularity": 437,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -1837,18 +1837,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 750,
       "NumberOfAwardsMax": 117
+    },
+    {
+      "Time": "2024-08-24T20:59:51.1758965+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 751,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 750,
-  "NumberOfAwardsMax": 117,
+  "NumberOfAwards": 751,
+  "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1928,8 +1934,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-08-24T10:57:57.7642271+00:00",
+  "LastChanged": "2024-08-24T20:59:51.1758963+00:00",
   "LastUpdate_AppInfo": "2024-08-18T19:57:06.7957889+00:00",
-  "LastUpdate_Ratings": "2024-08-24T18:59:51.0272715+00:00",
+  "LastUpdate_Ratings": "2024-08-24T20:59:51.1758968+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:27.8245741+00:00"
 }
