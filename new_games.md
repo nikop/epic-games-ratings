@@ -121,5 +121,3 @@
 | [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 86,313 | 4.74 | 21 |
 | [Goddess Connect](games/e/eebea9ae68284b4c9701d4cbd990d176.md) | 2024-07-25 | - |  | - | 0 |
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2024-07-25 | 38 (1,000 XP) | 0 | - | - |
-| [Idle Trillionaire](games/8/8b5be370173547eea257cc8696c7491e.md) | 2024-07-25 | - |  | - | 0 |
-| [Hannah's Day](games/9/9bed0b06c3de4f39be171578a828da1a.md) | 2024-07-25 | - |  | - | - |
