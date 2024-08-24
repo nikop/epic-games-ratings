@@ -1,7 +1,7 @@
 # Minit
 [Store](https://store.epicgames.com/en-US/p/minit)  
 [View Rawdata](../../db/m/minit.json)  
-Rating: 4.57 (Ranked 534)  
+Rating: 4.56 (Ranked 559)  
 Number of Ratings: 104  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -68,3 +68,4 @@ Number of Ratings: 104  (23.09.2022)
 | 2024-03-05 | 4.57 | - | 0 | 0 |
 | 2024-07-31 | 4.56 | - | 0 | 0 |
 | 2024-08-13 | 4.57 | - | 0 | 0 |
+| 2024-08-24 | 4.56 | - | 0 | 0 |

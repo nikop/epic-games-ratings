@@ -2,7 +2,7 @@
   "ID": "43605e89e49d438485298819a7ef17b4",
   "Name": "Minit",
   "ProductSlug": "minit",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 104,
   "RatingHistory": [
     {
@@ -329,6 +329,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-24T22:58:55.1816859+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -346,8 +352,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
-  "LastChanged": "2024-08-13T02:57:34.7072377+00:00",
+  "LastChanged": "2024-08-24T22:58:55.1816857+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:03.5133477+00:00",
-  "LastUpdate_Ratings": "2024-08-24T21:01:09.7546432+00:00",
+  "LastUpdate_Ratings": "2024-08-24T22:58:55.1816888+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:15.0163132+00:00"
 }
