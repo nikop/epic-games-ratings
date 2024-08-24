@@ -38,7 +38,7 @@
 | [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | 33 (1,000 XP) | 93 | - | 0 |
 | [Looper Tactics Deluxe Edition](games/e/e551ed37b11f45ec9fb62af82ed0354f.md) | 2024-08-09 | 28 (1,000 XP) | 0 | - | 0 |
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
-| [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 36,702 | 3.97 | 20 |
+| [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 36,702 | 3.97 | 25 |
 | [DOOM Eternal](games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 2024-08-08 | 50 (1,545 XP) | 13 | - | 0 |
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 0 | - | 0 |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-22 | 49 (1,000 XP) | 1 | - | - |
@@ -290,7 +290,7 @@
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 29 | - | 0 |
 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2024-01-23 | 37 (1,000 XP) | 2 | - | 0 |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2024-06-06 | - |  | - | 0 |
-| [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2024-02-21 | 39 (1,000 XP) | 794 | 4.57 | 0 |
+| [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2024-02-21 | 39 (1,000 XP) | 794 | 4.59 | 0 |
 | [Toribash Next](games/2/2bee239ee96643fbb2afab3013004136.md) | 2024-01-24 | 15 (1,000 XP) | 4,523 | - | 0 |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 62 | - | - |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 10,513 | 4.56 | 462 |
@@ -306,7 +306,7 @@
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 2024-04-10 | 19 (1,000 XP) | 65 | - | 0 |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,522 | 4.56 | 180 |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 48,609 | 4.65 | 834 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 48,609 | 4.65 | 836 |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | 6 (1,000 XP) | 17 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 15 | - | 0 |
 | [Dreadful River](games/0/01c515c1f28547ab8142678d107be081.md) | 2024-03-19 | 110 (1,000 XP) | 30 | - | 0 |
@@ -395,7 +395,7 @@
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 86 | - | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 117 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 86,884 | 4.27 | 236 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 86,884 | 4.27 | 241 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 424 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 17 | - | 0 |
@@ -512,7 +512,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.57 | 0 |
 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 2023-11-10 | 6 (1,000 XP) | 1 | - | 0 |
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 137 | - | 0 |
-| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,189 | 4.69 | 737 |
+| [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,189 | 4.69 | 738 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 8 | - | 0 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,114,913 | 4.69 | 175,180 |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
@@ -690,7 +690,7 @@
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2023-08-23 | 14 (1,000 XP) | 153 | - | 0 |
 | [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-12-31 | 31 (1,000 XP) | 398,734 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 334 | - | 0 |
-| [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 1,604 | 3.83 | 0 |
+| [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 1,604 | 3.88 | 0 |
 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 2023-08-22 | 43 (1,000 XP) | 1 | - | 0 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,732 | 4.84 | 66 |
