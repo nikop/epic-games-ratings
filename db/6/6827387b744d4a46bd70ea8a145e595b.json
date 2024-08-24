@@ -2,8 +2,8 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 604,
-  "Ranking_Popularity": 35,
+  "Ranking_Rating": 605,
+  "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -2117,18 +2117,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 41714,
       "NumberOfAwardsMax": 16329
+    },
+    {
+      "Time": "2024-08-24T14:58:55.3469603+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 42184,
+      "NumberOfAwardsMax": 16677
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41714,
-  "NumberOfAwardsMax": 16329,
+  "NumberOfAwards": 42184,
+  "NumberOfAwardsMax": 16677,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 16329
+      "Count": 16677
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2182,7 +2188,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 1662
+      "Count": 1729
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2194,7 +2200,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1503
+      "Count": 1558
     }
   ],
   "EOS_Progressed": 0,
@@ -2209,8 +2215,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-08-24T11:58:10.0224614+00:00",
+  "LastChanged": "2024-08-24T14:58:55.3469602+00:00",
   "LastUpdate_AppInfo": "2024-08-20T02:57:05.134582+00:00",
-  "LastUpdate_Ratings": "2024-08-24T13:07:33.8234525+00:00",
+  "LastUpdate_Ratings": "2024-08-24T14:58:55.3469607+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:15.1606852+00:00"
 }

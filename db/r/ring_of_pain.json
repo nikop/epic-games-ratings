@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 514,
   "Ranking_Popularity": 150,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 140,
@@ -5492,10 +5492,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 13883,
       "NumberOfAwardsMax": 1694
+    },
+    {
+      "Time": "2024-08-24T14:57:43.4103109+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 13886,
+      "NumberOfAwardsMax": 1694
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13883,
+  "NumberOfAwards": 13886,
   "NumberOfAwardsMax": 1694,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5503,7 +5509,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1465
+      "Count": 1466
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5521,7 +5527,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1299
+      "Count": 1301
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -35918,9 +35924,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-08-24T13:06:33.3576008+00:00",
+  "LastChanged": "2024-08-24T14:57:43.4103108+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:57.9087335+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:07.6308731+00:00",
-  "LastUpdate_Ratings": "2024-08-24T13:06:33.3576015+00:00",
+  "LastUpdate_Ratings": "2024-08-24T14:57:43.4103113+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:57.9090503+00:00"
 }
