@@ -3,8 +3,8 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 200,
-  "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 376,
+  "Ranking_Popularity": 474,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 333,
@@ -2009,18 +2009,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 681,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-08-24T15:58:11.9042534+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 686,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 681,
-  "NumberOfAwardsMax": 87,
+  "NumberOfAwards": 686,
+  "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 87
+      "Count": 89
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2038,7 +2044,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2050,7 +2056,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2092,7 +2098,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 58
+      "Count": 59
     }
   ],
   "EOS_Progressed": 1106,
@@ -3201,9 +3207,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "FirstSeenAchievements": "2024-06-17T16:13:37.1010985+00:00",
-  "LastChanged": "2024-08-21T23:57:51.1892886+00:00",
+  "LastChanged": "2024-08-24T15:58:11.9042532+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:38.6461514+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:27.7790649+00:00",
-  "LastUpdate_Ratings": "2024-08-24T13:59:21.0615545+00:00",
+  "LastUpdate_Ratings": "2024-08-24T15:58:11.9042538+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:38.6462922+00:00"
 }

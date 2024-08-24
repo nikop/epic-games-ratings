@@ -2,7 +2,7 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 225,
   "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 1193,
@@ -1232,6 +1232,6 @@
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
   "LastChanged": "2024-08-23T22:59:28.0448931+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:29.3815799+00:00",
-  "LastUpdate_Ratings": "2024-08-24T14:57:43.9657107+00:00",
+  "LastUpdate_Ratings": "2024-08-24T15:59:38.251087+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:22.360103+00:00"
 }

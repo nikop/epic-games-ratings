@@ -4,7 +4,7 @@
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 705,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 208,
+  "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 532,
   "Ranking_EOS_NewPlayers": 78,
@@ -7671,10 +7671,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 3327,
       "NumberOfAwardsMax": 1462
+    },
+    {
+      "Time": "2024-08-24T15:57:39.2499229+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 3330,
+      "NumberOfAwardsMax": 1462
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3327,
+  "NumberOfAwards": 3330,
   "NumberOfAwardsMax": 1462,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -7742,7 +7748,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 99
+      "Count": 102
     }
   ],
   "EOS_Progressed": 462681,
@@ -32392,9 +32398,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-08-24T06:59:11.228279+00:00",
+  "LastChanged": "2024-08-24T15:57:39.2499227+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:45.4547226+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:15.2189704+00:00",
-  "LastUpdate_Ratings": "2024-08-24T13:58:44.4302844+00:00",
+  "LastUpdate_Ratings": "2024-08-24T15:57:39.2499234+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:45.4548938+00:00"
 }

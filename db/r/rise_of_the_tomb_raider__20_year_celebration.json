@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-tomb-raider",
   "Ranking_Rating": 289,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 88,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8108,10 +8108,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 16548,
       "NumberOfAwardsMax": 12899
+    },
+    {
+      "Time": "2024-08-24T15:57:35.2932389+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 16549,
+      "NumberOfAwardsMax": 12899
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16548,
+  "NumberOfAwards": 16549,
   "NumberOfAwardsMax": 12899,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8131,7 +8137,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 442
+      "Count": 443
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8193,8 +8199,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2024-08-24T04:59:55.5884519+00:00",
+  "LastChanged": "2024-08-24T15:57:35.2932387+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:13.2474633+00:00",
-  "LastUpdate_Ratings": "2024-08-24T13:58:39.3536507+00:00",
+  "LastUpdate_Ratings": "2024-08-24T15:57:35.2932392+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:57.4658294+00:00"
 }
