@@ -2,7 +2,7 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 300,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 897,
   "RatingHistory": [
     {
@@ -3908,11 +3908,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 2678,
       "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2024-08-24T11:58:11.12214+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 2680,
+      "NumberOfAwardsMax": 323
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2678,
-  "NumberOfAwardsMax": 322,
+  "NumberOfAwards": 2680,
+  "NumberOfAwardsMax": 323,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3931,7 +3937,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 322
+      "Count": 323
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3967,7 +3973,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game has a Creative Community",
@@ -3993,8 +3999,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
-  "LastChanged": "2024-08-24T07:58:52.8461511+00:00",
+  "LastChanged": "2024-08-24T11:58:11.1221392+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:28.1257735+00:00",
-  "LastUpdate_Ratings": "2024-08-24T09:58:54.6573294+00:00",
+  "LastUpdate_Ratings": "2024-08-24T11:58:11.1221412+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:42.4003844+00:00"
 }

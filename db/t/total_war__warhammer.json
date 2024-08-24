@@ -2,8 +2,8 @@
   "ID": "0c321ac6d5fe49139c153253b60702f4",
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
-  "Ranking_Rating": 513,
-  "Ranking_Popularity": 73,
+  "Ranking_Rating": 514,
+  "Ranking_Popularity": 72,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -11653,18 +11653,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 16879,
       "NumberOfAwardsMax": 7367
+    },
+    {
+      "Time": "2024-08-24T11:58:35.6502651+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 16886,
+      "NumberOfAwardsMax": 7373
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16879,
-  "NumberOfAwardsMax": 7367,
+  "NumberOfAwards": 16886,
+  "NumberOfAwardsMax": 7373,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7367
+      "Count": 7373
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11688,7 +11694,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1262
+      "Count": 1263
     },
     {
       "Text": "This game is Relaxing",
@@ -11750,8 +11756,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2024-08-23T19:58:44.5281742+00:00",
+  "LastChanged": "2024-08-24T11:58:35.6502649+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:35.5375771+00:00",
-  "LastUpdate_Ratings": "2024-08-24T09:59:18.9406596+00:00",
+  "LastUpdate_Ratings": "2024-08-24T11:58:35.6502655+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:27.532433+00:00"
 }

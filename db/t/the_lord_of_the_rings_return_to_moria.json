@@ -2,7 +2,7 @@
   "ID": "1d6b5762a1d643a4830481c44d59abfb",
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-  "Ranking_Rating": 815,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 158,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 66,
@@ -7738,11 +7738,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 8000,
       "NumberOfAwardsMax": 1448
+    },
+    {
+      "Time": "2024-08-24T12:01:54.8437507+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 8005,
+      "NumberOfAwardsMax": 1453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8000,
-  "NumberOfAwardsMax": 1448,
+  "NumberOfAwards": 8005,
+  "NumberOfAwardsMax": 1453,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7761,7 +7767,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1448
+      "Count": 1453
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -19438,9 +19444,9 @@
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2024-08-24T05:57:24.1278385+00:00",
+  "LastChanged": "2024-08-24T12:01:54.8437505+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:49.9700144+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:25.1824822+00:00",
-  "LastUpdate_Ratings": "2024-08-24T10:57:42.2099418+00:00",
+  "LastUpdate_Ratings": "2024-08-24T12:01:54.8437512+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:49.9700889+00:00"
 }
