@@ -1,7 +1,7 @@
 # MotoGP™21
 [Store](https://store.epicgames.com/en-US/p/motogp-21)  
 [View Rawdata](../../db/m/motogp™21.json)  
-Rating: 4.59 (Ranked 496)  
+Rating: 4.60 (Ranked 469)  
 Number of Ratings: 95  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 28  (Ranked 635)  
@@ -93,3 +93,4 @@ Diff (max vs sum): 111
 | 2024-08-13 | 4.58 | - | 28 | 117 |
 | 2024-08-15 | 4.59 | - | 28 | 118 |
 | 2024-08-16 | 4.59 | - | 28 | 160 |
+| 2024-08-24 | 4.60 | - | 28 | 160 |
