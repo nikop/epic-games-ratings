@@ -1,7 +1,7 @@
 # Super Meat Boy Forever
 [Store](https://store.epicgames.com/en-US/p/super-meat-boy-forever)  
 [View Rawdata](../../db/s/super_meat_boy_forever.json)  
-Rating: 4.53 (Ranked 628)  
+Rating: 4.53 (Ranked 627)  
 Number of Ratings: 24  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,8 +53,8 @@ Completed: 2 (0.00%) (Ranked 561)
 | 2024-06-17 | 563,197 | 2 |
 | 2024-08-09 | 583,087 | 2 |
 ## Awards
-Max (Great Boss Battles): 137  (Ranked 408)  
-Sum: 137 (Ranked 534)  
+Max (Great Boss Battles): 137  (Ranked 409)  
+Sum: 137 (Ranked 535)  
 Diff (max vs sum): -126  
 | Award | Count |
 | ----- | ----- |
