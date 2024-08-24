@@ -77,8 +77,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
@@ -103,6 +103,7 @@
 | [Cabernet](games/f/fe7271d3a3da49c6924e38388ed3174a.md) | 2024-12-31 | - |  | - | - |
 | [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |
 | [Card Clash Chronicles](games/e/eb594d29ab71410fb26280a6fedb01b6.md) | 2024-12-31 | - |  | - | - |
+| [Carpathian Survival](games/c/ce34ca6d3ae240d9b6f0753c004fef67.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
 | [City 20](games/8/8b1072dbd9c84374935b5c4b9d363865.md) | 2024-12-31 | - |  | - | - |
 | [Coffee Town](games/a/a8b07df0c03c4a29992d60683e17cf84.md) | 2024-12-31 | - |  | - | - |
@@ -305,7 +306,6 @@
 | [cant be touched: Algeria War](games/7/73df555f0b5145ee89ee3b370e7eebb7.md) | 2099-01-01 | - |  | - | - |
 | [Capes](games/c/capes.md) | 2099-01-01 | - |  | - | - |
 | [Captain Bones](games/c/c72f755f02204435a4ad38a451805260.md) | 2099-01-01 | - |  | - | - |
-| [Carpathian Survival](games/c/ce34ca6d3ae240d9b6f0753c004fef67.md) | 2099-01-01 | - |  | - | - |
 | [Cat Billiards](games/a/af1bc981716d44a4a2e6e6bec2fef194.md) | 2099-01-01 | 100 (1,000 XP) | 1 | - | - |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | - |  | - | - |
 | [Chains of War](games/2/29f2565853204cf3ad9aa748f30a36d5.md) | 2099-01-01 | - |  | - | - |
@@ -640,7 +640,6 @@
 | [The Coma 2B: Catacomb](games/6/6acda0e8f5d744c094ef0b85e1cae86f.md) | 2099-01-01 | - |  | - | - |
 | [THE DARK SIDE OF CECLON](games/5/539015909ce942109cddcbfd3006a29b.md) | 2099-01-01 | - |  | - | - |
 | [The Dead Await](games/t/the_dead_await.md) | 2099-01-01 | - |  | - | - |
-| [The Eightfold Path](games/3/32aff53b2ea849249541da8da6d6592a.md) | 2099-01-01 | - |  | - | - |
 | [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2099-01-01 | - |  | - | - |
 | [The Fold Ingression](games/t/the_fold_ingression.md) | 2099-01-01 | - |  | - | - |
 | [The Golden Eyed Ghosts](games/t/the_golden_eyed_ghosts.md) | 2099-01-01 | - |  | - | - |
