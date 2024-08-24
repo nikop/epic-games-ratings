@@ -3,8 +3,8 @@
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 496,
-  "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 238,
+  "Ranking_Popularity": 237,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2628,11 +2628,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 2302,
       "NumberOfAwardsMax": 655
+    },
+    {
+      "Time": "2024-08-24T16:58:02.7245258+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2337,
+      "NumberOfAwardsMax": 670
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2302,
-  "NumberOfAwardsMax": 655,
+  "NumberOfAwards": 2337,
+  "NumberOfAwardsMax": 670,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2657,7 +2663,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 655
+      "Count": 670
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2669,13 +2675,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 228
+      "Count": 231
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 210
+      "Count": 218
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2693,7 +2699,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 276
+      "Count": 285
     }
   ],
   "EOS_Progressed": 0,
@@ -2708,8 +2714,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-08-24T09:58:33.0437375+00:00",
+  "LastChanged": "2024-08-24T16:58:02.7245257+00:00",
   "LastUpdate_AppInfo": "2024-08-23T13:09:11.97109+00:00",
-  "LastUpdate_Ratings": "2024-08-24T14:58:40.3187084+00:00",
+  "LastUpdate_Ratings": "2024-08-24T16:58:02.7245261+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:13.856769+00:00"
 }

@@ -1,7 +1,7 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 559)  
+Rating: 4.56 (Ranked 560)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -331,13 +331,13 @@ Completed: 145 (0.61%) (Ranked 310)
 | 2024-08-09 | 23,523 | 143 |
 | 2024-08-20 | 23,623 | 145 |
 ## Awards
-Max (Great for Beginners): 129  (Ranked 417)  
-Sum: 937 (Ranked 329)  
-Diff (max vs sum): 88  
+Max (Great for Beginners): 130  (Ranked 415)  
+Sum: 938 (Ranked 329)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 768 |
-| This game is Great for Beginners | 129 |
+| This game is Great for Beginners | 130 |
 | This game is Highly Recommended | 126 |
 | This game has Amazing Characters | 122 |
 | This game is Relaxing | 119 |
@@ -761,4 +761,4 @@ Diff (max vs sum): 88
 | 2024-08-20 | 4.56 | 129 | 934 |
 | 2024-08-21 | 4.56 | 129 | 935 |
 | 2024-08-23 | 4.56 | 129 | 936 |
-| 2024-08-24 | 4.56 | 129 | 937 |
+| 2024-08-24 | 4.56 | 130 | 938 |
