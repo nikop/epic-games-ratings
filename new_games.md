@@ -23,7 +23,7 @@
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | - |  | - | - |
 | [The Lost War](games/a/aa32800387e648c8a53d50684f60ea34.md) | 2024-08-19 | - |  | - | - |
 | [Lost in Space: Madness](games/7/798b7ebbde4d4904aa528a4a8823203b.md) | 2024-08-19 | 21 (1,000 XP) | 2 | - | - |
-| [Distant Bloom](games/e/e8733a5925c5456b896fd816c2e89c0f.md) | 2024-08-19 | - |  | - | - |
+| [Distant Bloom](games/e/e8733a5925c5456b896fd816c2e89c0f.md) | 2024-08-19 | - |  | - | 0 |
 | [Hero of the Kingdom: The Lost Tales 1](games/0/0ff213fbaec14c7c89ab968f5ebd2a8a.md) | 2024-08-19 | 26 (1,000 XP) | 5 | - | 0 |
 | [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-08-19 | - |  | - | - |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
@@ -112,7 +112,7 @@
 | [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-26 | 18 (1,000 XP) | 2 | - | - |
 | [Trapaze](games/1/1000868feb26473f82cd34c1d5e1cb06.md) | 2024-07-25 | - |  | - | - |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 21 | - | 0 |
-| [Death's Gambit - Afterlife](games/7/7b9cdaaca4f5424e8d6bd7dabe559010.md) | 2024-07-25 | - |  | 4.56 | 117 |
+| [Death's Gambit - Afterlife](games/7/7b9cdaaca4f5424e8d6bd7dabe559010.md) | 2024-07-25 | - |  | 4.57 | 166 |
 | [Daylife in Japan - Pixel Art Jigsaw Puzzle](games/4/41e056766e214f898060922b94481457.md) | 2024-07-25 | 12 (1,000 XP) | 19 | - | 0 |
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | 7 (1,000 XP) | 29 | - | 0 |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | 20 (1,000 XP) | 0 | - | - |
