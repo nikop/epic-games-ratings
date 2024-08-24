@@ -1,7 +1,7 @@
 # The Lamplighters League
 [Store](https://store.epicgames.com/en-US/p/the-lamplighters-league)  
 [View Rawdata](../../db/t/the_lamplighters_league.json)  
-Rating: 4.43 (Ranked 816)  
+Rating: 4.43 (Ranked 817)  
 ## Awards
 Max (Character Customization): 20  (Ranked 693)  
 Sum: 20 (Ranked 694)  

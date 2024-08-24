@@ -2,9 +2,9 @@
   "ID": "1972d7d943d144318403545b8ae517ed",
   "Name": "Moonray",
   "ProductSlug": "moonray-52967b",
-  "Ranking_Rating": 680,
-  "Ranking_Popularity": 620,
-  "Ranking_PopularitySum": 652,
+  "Ranking_Rating": 681,
+  "Ranking_Popularity": 616,
+  "Ranking_PopularitySum": 651,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -167,18 +167,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-08-24T21:59:55.2342902+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 32,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 31
+      "Count": 32
     }
   ],
   "EOS_Progressed": 0,
@@ -193,8 +199,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-01T14:57:24.8686221+00:00",
   "FirstSeenRating": "2024-07-25T19:58:17.3352432+00:00",
-  "LastChanged": "2024-08-24T07:59:29.2730014+00:00",
+  "LastChanged": "2024-08-24T21:59:55.23429+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:33.3717557+00:00",
-  "LastUpdate_Ratings": "2024-08-24T20:00:56.4602143+00:00",
+  "LastUpdate_Ratings": "2024-08-24T21:59:55.2342905+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:36.8421616+00:00"
 }

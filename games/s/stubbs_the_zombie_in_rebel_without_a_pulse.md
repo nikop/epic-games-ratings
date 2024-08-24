@@ -1,11 +1,11 @@
 # Stubbs the Zombie in Rebel Without a Pulse
 [Store](https://store.epicgames.com/en-US/p/stubbs-the-zombie-in-rebel-without-a-pulse)  
 [View Rawdata](../../db/s/stubbs_the_zombie_in_rebel_without_a_pulse.json)  
-Rating: 4.36 (Ranked 927)  
+Rating: 4.36 (Ranked 928)  
 Number of Ratings: 249  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 57  (Ranked 533)  
-Sum: 57 (Ranked 608)  
+Max (Great Boss Battles): 57  (Ranked 534)  
+Sum: 57 (Ranked 609)  
 Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |

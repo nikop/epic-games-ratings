@@ -2,9 +2,9 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 515,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 516,
+  "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 107,
   "Ranking_EOS_NewPlayers": 363,
@@ -432,18 +432,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 182,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2024-08-24T21:57:29.2400491+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 183,
+      "NumberOfAwardsMax": 143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 182,
-  "NumberOfAwardsMax": 142,
+  "NumberOfAwards": 183,
+  "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 142
+      "Count": 143
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3659,9 +3665,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
-  "LastChanged": "2024-08-23T03:58:34.1824736+00:00",
+  "LastChanged": "2024-08-24T21:57:29.2400489+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:47.8238884+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:59.0603835+00:00",
-  "LastUpdate_Ratings": "2024-08-24T19:58:30.983844+00:00",
+  "LastUpdate_Ratings": "2024-08-24T21:57:29.2400494+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:47.8239242+00:00"
 }
