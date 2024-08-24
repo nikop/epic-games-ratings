@@ -2,7 +2,7 @@
   "ID": "9c8ca95368b84b6fb5f2192e7f7484a3",
   "Name": "NEO: The World Ends with You",
   "ProductSlug": "neo-the-world-ends-with-you",
-  "Ranking_Rating": 28,
+  "Ranking_Rating": 29,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 1193,
@@ -487,6 +487,6 @@
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
   "LastChanged": "2024-08-15T04:58:15.6339095+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:29.0688058+00:00",
-  "LastUpdate_Ratings": "2024-08-24T16:58:42.826801+00:00",
+  "LastUpdate_Ratings": "2024-08-24T18:57:33.4284324+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:11.2292326+00:00"
 }

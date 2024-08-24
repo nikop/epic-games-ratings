@@ -2,7 +2,7 @@
   "ID": "c7f4f01a250d409ebf0a47677b1b4896",
   "Name": "Plants vs. Zombies\u2122 Game of the Year Edition",
   "ProductSlug": "plants-vs-zombies-game-of-the-year-edition-e8b166",
-  "Ranking_Rating": 28,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2024-07-27T19:59:42.3963847+00:00",
@@ -96,6 +96,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-24T18:59:37.4873153+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -114,8 +120,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-03T08:57:12.7978211+00:00",
   "FirstSeenRating": "2024-07-27T19:59:42.3963844+00:00",
-  "LastChanged": "2024-08-23T02:59:42.143343+00:00",
+  "LastChanged": "2024-08-24T18:59:37.4873151+00:00",
   "LastUpdate_AppInfo": "2024-08-23T07:57:01.6607213+00:00",
-  "LastUpdate_Ratings": "2024-08-24T17:57:27.0577009+00:00",
+  "LastUpdate_Ratings": "2024-08-24T18:59:37.4873156+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:57.9291606+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "petunia",
   "Name": "Metro 2033 Redux",
   "ProductSlug": "metro-2033-redux",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 269,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 5684,
   "RatingHistory": [
     {
@@ -1979,6 +1979,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 1613,
       "NumberOfAwardsMax": 1380
+    },
+    {
+      "Time": "2024-08-24T18:58:01.3103171+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1613,
+      "NumberOfAwardsMax": 1380
     }
   ],
   "ReviewsDisabled": false,
@@ -2064,8 +2070,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2024-08-23T11:00:24.572801+00:00",
+  "LastChanged": "2024-08-24T18:58:01.310317+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:13.2120961+00:00",
-  "LastUpdate_Ratings": "2024-08-24T16:59:11.5447792+00:00",
+  "LastUpdate_Ratings": "2024-08-24T18:58:01.3103174+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:02.9913494+00:00"
 }
