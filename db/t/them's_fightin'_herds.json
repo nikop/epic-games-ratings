@@ -4,7 +4,7 @@
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 497,
   "Ranking_Popularity": 610,
-  "Ranking_PopularitySum": 540,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -501,18 +501,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 126,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-08-24T06:57:22.4785553+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 126,
+  "NumberOfAwards": 127,
   "NumberOfAwardsMax": 33,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -29387,9 +29393,9 @@
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-08-20T01:57:16.125269+00:00",
+  "LastChanged": "2024-08-24T06:57:22.4785551+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:41.8461171+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:36.4122462+00:00",
-  "LastUpdate_Ratings": "2024-08-24T04:58:22.691319+00:00",
+  "LastUpdate_Ratings": "2024-08-24T06:57:22.4785556+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:41.8462485+00:00"
 }
