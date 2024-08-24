@@ -4,7 +4,7 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 867,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 367,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2248,10 +2248,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 714,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2024-08-24T10:00:30.2911897+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 715,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 714,
+  "NumberOfAwards": 715,
   "NumberOfAwardsMax": 85,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2307,7 +2313,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2333,8 +2339,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2024-08-22T10:00:59.3422443+00:00",
+  "LastChanged": "2024-08-24T10:00:30.2911895+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:12.7121469+00:00",
-  "LastUpdate_Ratings": "2024-08-24T08:57:09.2837952+00:00",
+  "LastUpdate_Ratings": "2024-08-24T10:00:30.2911904+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:10.2059826+00:00"
 }
