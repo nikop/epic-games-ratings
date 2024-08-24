@@ -2,7 +2,7 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 1162,
+  "Ranking_Rating": 1163,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 78,
@@ -3521,10 +3521,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 1909,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2024-08-24T01:59:12.3780637+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 1910,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1909,
+  "NumberOfAwards": 1910,
   "NumberOfAwardsMax": 268,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3598,7 +3604,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 130
+      "Count": 131
     },
     {
       "Text": "This game has Challenging Combat",
@@ -36479,9 +36485,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2024-08-23T18:57:37.7161034+00:00",
+  "LastChanged": "2024-08-24T01:59:12.3780636+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:28.179472+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:47.5287252+00:00",
-  "LastUpdate_Ratings": "2024-08-23T23:57:58.0342823+00:00",
+  "LastUpdate_Ratings": "2024-08-24T01:59:12.3780641+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:28.1796529+00:00"
 }

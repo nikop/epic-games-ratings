@@ -4,8 +4,8 @@
 Rating: 4.33 (Ranked 966)  
 ## Awards
 Max (Relaxing): 104  (Ranked 450)  
-Sum: 700 (Ranked 372)  
-Diff (max vs sum): 78  
+Sum: 700 (Ranked 371)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 104 |
