@@ -48,4 +48,3 @@
 | [Survivors Will](games/0/0a3bdf37e8b84849bb86db9be2eda7cd.md) | 2024-07-30 | 36 (1,000 XP) | 49 | - | 0 |
 | [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-26 | 5 (1,000 XP) | 20 | - | 0 |
 | [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-26 | 18 (1,000 XP) | 2 | - | - |
-| [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 21 | - | 0 |
