@@ -3,8 +3,8 @@
   "Name": "This Is The Police 2",
   "ProductSlug": "this-is-the-police-2",
   "Ranking_Rating": 312,
-  "Ranking_Popularity": 702,
-  "Ranking_PopularitySum": 702,
+  "Ranking_Popularity": 703,
+  "Ranking_PopularitySum": 703,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -231,6 +231,6 @@
   "FirstSeen": "2022-07-22T20:23:15.818188+00:00",
   "LastChanged": "2024-03-17T15:58:24.4350584+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:04.8559681+00:00",
-  "LastUpdate_Ratings": "2024-08-25T18:58:08.0060859+00:00",
+  "LastUpdate_Ratings": "2024-08-25T20:57:11.5909851+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:34.9630257+00:00"
 }
