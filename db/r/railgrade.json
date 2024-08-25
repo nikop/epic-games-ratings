@@ -2,9 +2,9 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 425,
   "Ranking_EOS_NewPlayers": 4820,
@@ -13231,6 +13231,6 @@
   "LastChanged": "2024-08-22T20:59:05.9911378+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:21.9267519+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:45.1838932+00:00",
-  "LastUpdate_Ratings": "2024-08-25T10:59:36.5497035+00:00",
+  "LastUpdate_Ratings": "2024-08-25T13:04:30.0070485+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:21.9268493+00:00"
 }
