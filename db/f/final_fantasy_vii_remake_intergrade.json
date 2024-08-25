@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 39,
   "Ranking_Popularity": 86,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8405,18 +8405,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 13890,
       "NumberOfAwardsMax": 6245
+    },
+    {
+      "Time": "2024-08-25T19:59:57.9941937+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13893,
+      "NumberOfAwardsMax": 6248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13890,
-  "NumberOfAwardsMax": 6245,
+  "NumberOfAwards": 13893,
+  "NumberOfAwardsMax": 6248,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6245
+      "Count": 6248
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8502,8 +8508,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-08-25T09:57:45.7407471+00:00",
+  "LastChanged": "2024-08-25T19:59:57.9941935+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:45.0464797+00:00",
-  "LastUpdate_Ratings": "2024-08-25T18:01:01.5508883+00:00",
+  "LastUpdate_Ratings": "2024-08-25T19:59:57.9941941+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:55.9695875+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "car-mechanic-simulator-2018",
   "Ranking_Rating": 707,
   "Ranking_Popularity": 137,
-  "Ranking_PopularitySum": 91,
+  "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -7551,10 +7551,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 16316,
       "NumberOfAwardsMax": 2138
+    },
+    {
+      "Time": "2024-08-25T19:57:41.6784797+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 16321,
+      "NumberOfAwardsMax": 2138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16316,
+  "NumberOfAwards": 16321,
   "NumberOfAwardsMax": 2138,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7568,7 +7574,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2057
+      "Count": 2059
     },
     {
       "Text": "This game is Educational",
@@ -7604,7 +7610,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1783
+      "Count": 1786
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7630,8 +7636,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
-  "LastChanged": "2024-08-25T13:03:01.8065098+00:00",
+  "LastChanged": "2024-08-25T19:57:41.6784793+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:28.9365935+00:00",
-  "LastUpdate_Ratings": "2024-08-25T17:58:44.7434135+00:00",
+  "LastUpdate_Ratings": "2024-08-25T19:57:41.6784802+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:43.5505616+00:00"
 }

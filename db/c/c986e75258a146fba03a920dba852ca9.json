@@ -3,7 +3,7 @@
   "Name": "Cat Quest",
   "ProductSlug": "cat-quest-8373e0",
   "Ranking_Rating": 350,
-  "Ranking_Popularity": 289,
+  "Ranking_Popularity": 288,
   "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 359,
@@ -803,18 +803,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 380,
       "NumberOfAwardsMax": 380
+    },
+    {
+      "Time": "2024-08-25T19:57:23.6071232+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 383,
+      "NumberOfAwardsMax": 383
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 380,
-  "NumberOfAwardsMax": 380,
+  "NumberOfAwards": 383,
+  "NumberOfAwardsMax": 383,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 380
+      "Count": 383
     }
   ],
   "EOS_Progressed": 368366,
@@ -4506,9 +4512,9 @@
   "FirstSeen": "2023-12-28T18:57:14.4261716+00:00",
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
-  "LastChanged": "2024-08-24T09:58:39.4736056+00:00",
+  "LastChanged": "2024-08-25T19:57:23.6071231+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:11.4520358+00:00",
   "LastUpdate_AppInfo": "2024-08-23T13:09:12.1613261+00:00",
-  "LastUpdate_Ratings": "2024-08-25T17:58:26.4188533+00:00",
+  "LastUpdate_Ratings": "2024-08-25T19:57:23.6071237+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:11.4520626+00:00"
 }
