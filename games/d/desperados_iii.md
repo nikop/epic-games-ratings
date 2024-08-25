@@ -55,9 +55,9 @@ Completed: 4 (0.12%) (Ranked 425)
 | 2024-08-09 | 3,224 | 4 |
 | 2024-08-20 | 3,346 | 4 |
 ## Awards
-Max (Amazing Storytelling): 56  (Ranked 536)  
+Max (Amazing Storytelling): 56  (Ranked 537)  
 Sum: 404 (Ranked 424)  
-Diff (max vs sum): 112  
+Diff (max vs sum): 113  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 56 |
