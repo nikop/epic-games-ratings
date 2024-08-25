@@ -3,8 +3,8 @@
   "Name": "Black Myth: Wukong",
   "ProductSlug": "black-myth-wukong-87a72b",
   "Ranking_Rating": 14,
-  "Ranking_Popularity": 154,
-  "Ranking_PopularitySum": 232,
+  "Ranking_Popularity": 130,
+  "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -150,18 +150,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 2472,
       "NumberOfAwardsMax": 1565
+    },
+    {
+      "Time": "2024-08-25T10:57:25.7942322+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 3185,
+      "NumberOfAwardsMax": 2249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2472,
-  "NumberOfAwardsMax": 1565,
+  "NumberOfAwards": 3185,
+  "NumberOfAwardsMax": 2249,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1565
+      "Count": 2249
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -216,6 +222,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 33
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 29
     }
   ],
   "EOS_Progressed": 20788,
@@ -526,9 +538,9 @@
   "FirstSeen": "2024-08-20T05:59:33.1921959+00:00",
   "FirstSeenRating": "2024-08-20T09:57:56.1070988+00:00",
   "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
-  "LastChanged": "2024-08-25T08:58:38.8227525+00:00",
+  "LastChanged": "2024-08-25T10:57:25.7942318+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:36.1550622+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:34.5073427+00:00",
-  "LastUpdate_Ratings": "2024-08-25T08:58:38.8227529+00:00",
+  "LastUpdate_Ratings": "2024-08-25T10:57:25.7942324+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:36.1558868+00:00"
 }
