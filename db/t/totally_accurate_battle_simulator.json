@@ -4,7 +4,7 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 182,
   "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8522,10 +8522,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 4515,
       "NumberOfAwardsMax": 607
+    },
+    {
+      "Time": "2024-08-25T04:58:37.5870301+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 4517,
+      "NumberOfAwardsMax": 607
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4515,
+  "NumberOfAwards": 4517,
   "NumberOfAwardsMax": 607,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8575,7 +8581,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 561
+      "Count": 563
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8625,8 +8631,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-08-25T02:04:09.3798352+00:00",
+  "LastChanged": "2024-08-25T04:58:37.5870299+00:00",
   "LastUpdate_AppInfo": "2024-08-19T03:57:16.671206+00:00",
-  "LastUpdate_Ratings": "2024-08-25T03:00:15.1723969+00:00",
+  "LastUpdate_Ratings": "2024-08-25T04:58:37.5870307+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.7027547+00:00"
 }
