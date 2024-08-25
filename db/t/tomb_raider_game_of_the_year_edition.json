@@ -3,7 +3,7 @@
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "ProductSlug": "tomb-raider",
   "Ranking_Rating": 329,
-  "Ranking_Popularity": 82,
+  "Ranking_Popularity": 81,
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -4846,18 +4846,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 7824,
       "NumberOfAwardsMax": 6585
+    },
+    {
+      "Time": "2024-08-25T13:59:21.6331326+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7831,
+      "NumberOfAwardsMax": 6592
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7824,
-  "NumberOfAwardsMax": 6585,
+  "NumberOfAwards": 7831,
+  "NumberOfAwardsMax": 6592,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6585
+      "Count": 6592
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4931,8 +4937,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2024-08-25T13:02:49.0529514+00:00",
+  "LastChanged": "2024-08-25T13:59:21.6331324+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:35.9853644+00:00",
-  "LastUpdate_Ratings": "2024-08-25T13:02:49.0529521+00:00",
+  "LastUpdate_Ratings": "2024-08-25T13:59:21.6331329+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:29.1689801+00:00"
 }
