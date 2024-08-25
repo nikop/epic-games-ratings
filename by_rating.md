@@ -168,7 +168,7 @@
 | 165 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 1,317 | 168 |
 | 165 | [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 4.75 | 23 | 672 |
 | 165 | [Football Manager 2023](games/f/football_manager_2023.md) | 4.75 | 1,935 | 142 |
-| 165 | [Frostpunk](games/f/frostpunk.md) | 4.75 | 1,026 | 194 |
+| 165 | [Frostpunk](games/f/frostpunk.md) | 4.75 | 1,026 | 195 |
 | 165 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 8,263 | 68 |
 | 165 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 701 |
 | 165 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.75 | 0 | 701 |
@@ -477,7 +477,7 @@
 | 470 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.60 | 0 | 701 |
 | 470 | [DOOM 3](games/d/doom_3.md) | 4.60 | 76 | 494 |
 | 470 | [Eastward](games/e/eastward.md) | 4.60 | 0 | 701 |
-| 470 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 18,104 | 31 |
+| 470 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 18,118 | 31 |
 | 470 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 178 | 379 |
 | 470 | [GRIME](games/g/grime.md) | 4.60 | 104 | 451 |
 | 470 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 701 |
@@ -763,7 +763,7 @@
 | 759 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 701 |
 | 759 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,354 | 162 |
 | 759 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 4.46 | 21 | 685 |
-| 759 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 16,519 | 34 |
+| 759 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.46 | 16,550 | 34 |
 | 759 | [Othercide](games/o/othercide.md) | 4.46 | 0 | 701 |
 | 759 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.46 | 960 | 204 |
 | 759 | [Riverbond](games/r/riverbond.md) | 4.46 | 24 | 664 |
@@ -813,7 +813,7 @@
 | 798 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 701 |
 | 798 | [Scorn](games/s/scorn.md) | 4.44 | 0 | 701 |
 | 798 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.44 | 0 | 701 |
-| 798 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.44 | 1,022 | 196 |
+| 798 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.44 | 1,029 | 194 |
 | 798 | [The Captain](games/t/the_captain.md) | 4.44 | 100 | 458 |
 | 798 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 308 | 304 |
 | 798 | [Warpips](games/w/warpips.md) | 4.44 | 60 | 526 |
@@ -851,7 +851,7 @@
 | 841 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 4.42 | 0 | 701 |
 | 841 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 20 | 693 |
 | 841 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 43 | 569 |
-| 841 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 295 | 309 |
+| 841 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 296 | 309 |
 | 841 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 79 |
 | 841 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 237 | 342 |
 | 841 | [STG Football](games/s/stg_football.md) | 4.42 | 56 | 536 |
@@ -991,8 +991,8 @@
 | 989 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 473 | 268 |
 | 989 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 4.31 | 539 | 257 |
 | 989 | [Men of War](games/m/men_of_war.md) | 4.31 | 0 | 701 |
-| 989 | [Paladins](games/p/paladins.md) | 4.31 | 4,804 | 97 |
-| 989 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,024 | 195 |
+| 989 | [Paladins](games/p/paladins.md) | 4.31 | 4,813 | 97 |
+| 989 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 1,024 | 196 |
 | 989 | [The Riflemen](games/t/the_riflemen.md) | 4.31 | 0 | 701 |
 | 995 | [Chess Ultra](games/c/chess_ultra.md) | 4.30 | 0 | 701 |
 | 995 | [City of Gangsters](games/c/city_of_gangsters.md) | 4.30 | 61 | 524 |
@@ -1197,7 +1197,7 @@
 | 1,195 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.02 | 0 | 701 |
 | 1,195 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 701 |
 | 1,195 | [The First Tree](games/t/the_first_tree.md) | 4.02 | 0 | 701 |
-| 1,198 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 12,522 | 48 |
+| 1,198 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 12,549 | 48 |
 | 1,198 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,393 | 90 |
 | 1,200 | [Armored Warfare](games/a/armored_warfare.md) | 4.00 | 146 | 402 |
 | 1,200 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.00 | 0 | 701 |

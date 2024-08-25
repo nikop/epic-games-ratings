@@ -30,10 +30,10 @@
 | 28 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 18,848 | 4.60 | 470 |
 | 29 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 18,306 | 4.59 | 497 |
 | 30 | [SnowRunner](games/s/snowrunner.md) | 18,226 | 4.75 | 165 |
-| 31 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 18,104 | 4.60 | 470 |
+| 31 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 18,118 | 4.60 | 470 |
 | 32 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 17,440 | 4.49 | 707 |
 | 33 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 16,677 | 4.54 | 606 |
-| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 16,519 | 4.46 | 759 |
+| 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 16,550 | 4.46 | 759 |
 | 35 | [Dead Island 2](games/d/dead_island_2.md) | 16,473 | 4.54 | 606 |
 | 36 | [Killing Floor 2](games/k/killing_floor_2.md) | 16,228 | 4.44 | 798 |
 | 37 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 16,225 | 4.84 | 51 |
@@ -47,7 +47,7 @@
 | 45 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 13,382 | 4.62 | 421 |
 | 46 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,983 | 4.36 | 929 |
 | 47 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 12,911 | 4.68 | 292 |
-| 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 12,522 | 4.01 | 1,198 |
+| 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 12,549 | 4.01 | 1,198 |
 | 49 | [DEATH STRANDING](games/d/death_stranding.md) | 12,060 | 4.78 | 127 |
 | 50 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 11,929 | 4.61 | 446 |
 | 51 | [NBA 2K21](games/n/nba_2k21.md) | 11,911 | 4.38 | 902 |
@@ -96,7 +96,7 @@
 | 94 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 5,116 | 4.46 | 759 |
 | 95 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 5,097 | 4.63 | 399 |
 | 96 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 5,085 | 4.68 | 292 |
-| 97 | [Paladins](games/p/paladins.md) | 4,804 | 4.31 | 989 |
+| 97 | [Paladins](games/p/paladins.md) | 4,813 | 4.31 | 989 |
 | 98 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,796 | 4.70 | 247 |
 | 99 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4,544 | 4.57 | 535 |
 | 100 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,502 | 4.47 | 748 |
@@ -193,9 +193,9 @@
 | 191 | [Prison Architect](games/p/prison_architect.md) | 1,039 | 4.61 | 446 |
 | 192 | [Subnautica](games/s/subnautica.md) | 1,037 | 4.85 | 40 |
 | 193 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 1,036 | 4.50 | 683 |
-| 194 | [Frostpunk](games/f/frostpunk.md) | 1,026 | 4.75 | 165 |
-| 195 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,024 | 4.31 | 989 |
-| 196 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 1,022 | 4.44 | 798 |
+| 194 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 1,029 | 4.44 | 798 |
+| 195 | [Frostpunk](games/f/frostpunk.md) | 1,026 | 4.75 | 165 |
+| 196 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,024 | 4.31 | 989 |
 | 197 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,075 |
 | 198 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 1,006 | 4.79 | 113 |
 | 199 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 988 | 4.60 | 470 |
@@ -308,7 +308,7 @@
 | 305 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 307 | 4.69 | 271 |
 | 307 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 421 |
 | 308 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 1,038 |
-| 309 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 295 | 4.42 | 841 |
+| 309 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 296 | 4.42 | 841 |
 | 310 | [Sheltered](games/s/sheltered.md) | 294 | 4.41 | 859 |
 | 311 | [Crysis Remastered](games/c/crysis_remastered.md) | 291 | 4.43 | 819 |
 | 312 | [Roller Champions™](games/r/roller_champions™.md) | 287 | 4.35 | 943 |
