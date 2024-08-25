@@ -2,7 +2,7 @@
   "ID": "324dc1d18ca942d5852d677fb8710ad6",
   "Name": "Five Nights at Freddy\u0027s: Security Breach",
   "ProductSlug": "five-nights-at-freddys-security-breach-8dee2a",
-  "Ranking_Rating": 377,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 1193,
@@ -1796,10 +1796,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-08-25T21:58:22.4813572+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 384,
+  "NumberOfAwards": 385,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1837,7 +1843,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Relaxing",
@@ -1875,8 +1881,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:10.1176223+00:00",
-  "LastChanged": "2024-08-25T09:57:53.1759895+00:00",
+  "LastChanged": "2024-08-25T21:58:22.481357+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:51.3635068+00:00",
-  "LastUpdate_Ratings": "2024-08-25T20:00:09.0796217+00:00",
+  "LastUpdate_Ratings": "2024-08-25T21:58:22.4813577+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:36.4259606+00:00"
 }
