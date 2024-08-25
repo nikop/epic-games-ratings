@@ -2,7 +2,7 @@
   "ID": "43605e89e49d438485298819a7ef17b4",
   "Name": "Minit",
   "ProductSlug": "minit",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -354,6 +354,6 @@
   "FirstSeen": "2022-07-22T20:17:43.6346922+00:00",
   "LastChanged": "2024-08-24T22:58:55.1816857+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:57:03.5133477+00:00",
-  "LastUpdate_Ratings": "2024-08-25T02:05:18.7649432+00:00",
+  "LastUpdate_Ratings": "2024-08-25T03:57:06.1406154+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:15.0163132+00:00"
 }

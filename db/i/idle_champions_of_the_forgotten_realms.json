@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1182,
+  "Ranking_Rating": 1183,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 75,
@@ -14513,10 +14513,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 37138,
       "NumberOfAwardsMax": 6697
+    },
+    {
+      "Time": "2024-08-25T03:58:04.0673498+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 37148,
+      "NumberOfAwardsMax": 6697
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 37138,
+  "NumberOfAwards": 37148,
   "NumberOfAwardsMax": 6697,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -14530,7 +14536,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6565
+      "Count": 6575
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -51439,9 +51445,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-08-24T22:59:53.3692802+00:00",
+  "LastChanged": "2024-08-25T03:58:04.0673496+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:02.7907352+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:29.2358495+00:00",
-  "LastUpdate_Ratings": "2024-08-25T02:06:47.3532324+00:00",
+  "LastUpdate_Ratings": "2024-08-25T03:58:04.0673504+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:02.7934513+00:00"
 }

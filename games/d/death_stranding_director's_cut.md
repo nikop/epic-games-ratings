@@ -362,7 +362,7 @@ Completed: 2,768 (0.46%) (Ranked 333)
 | 2024-08-20 | 604,409 | 2,768 |
 ## Awards
 Max (Great Boss Battles): 11,116  (Ranked 52)  
-Sum: 19,704 (Ranked 73)  
+Sum: 19,708 (Ranked 73)  
 Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
@@ -373,7 +373,7 @@ Diff (max vs sum): -21
 | This game has Amazing Characters | 804 |
 | This game is Highly Recommended | 795 |
 | This game has Unique Visuals | 788 |
-| This game has Quickly Understood Controls | 760 |
+| This game has Quickly Understood Controls | 764 |
 | This game is Extremely Fun | 758 |
 | This game is Educational | 743 |
 | This game is Relaxing | 718 |
@@ -968,4 +968,4 @@ Diff (max vs sum): -21
 | 2024-08-22 | 4.89 | - | 11,083 | 19,655 |
 | 2024-08-23 | 4.89 | - | 11,099 | 19,680 |
 | 2024-08-24 | 4.89 | - | 11,116 | 19,701 |
-| 2024-08-25 | 4.89 | - | 11,116 | 19,704 |
+| 2024-08-25 | 4.89 | - | 11,116 | 19,708 |

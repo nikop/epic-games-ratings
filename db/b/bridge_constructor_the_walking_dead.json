@@ -2,9 +2,9 @@
   "ID": "39697c68e46b48d2b75e17bdc417d859",
   "Name": "Bridge Constructor: The Walking Dead",
   "ProductSlug": "bridge-constructor-the-walking-dead",
-  "Ranking_Rating": 1215,
-  "Ranking_Popularity": 616,
-  "Ranking_PopularitySum": 652,
+  "Ranking_Rating": 1216,
+  "Ranking_Popularity": 611,
+  "Ranking_PopularitySum": 650,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -385,18 +385,24 @@
       "Rating": 3.96,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-25T03:57:23.076062+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 33,
+  "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 32
+      "Count": 33
     }
   ],
   "EOS_Progressed": 0,
@@ -410,8 +416,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
-  "LastChanged": "2024-08-23T22:59:08.2631461+00:00",
+  "LastChanged": "2024-08-25T03:57:23.0760617+00:00",
   "LastUpdate_AppInfo": "2024-08-19T05:57:36.4744248+00:00",
-  "LastUpdate_Ratings": "2024-08-25T02:05:44.103863+00:00",
+  "LastUpdate_Ratings": "2024-08-25T03:57:23.0760624+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:05.625319+00:00"
 }

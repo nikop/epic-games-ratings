@@ -1,11 +1,11 @@
 # The Front
 [Store](https://store.epicgames.com/en-US/p/the-front-3a8219)  
 [View Rawdata](../../db/t/the_front.json)  
-Rating: 4.08 (Ranked 1,175)  
+Rating: 4.08 (Ranked 1,176)  
 ## Awards
-Max (Highly Recommended): 30  (Ranked 624)  
+Max (Highly Recommended): 30  (Ranked 625)  
 Sum: 104 (Ranked 561)  
-Diff (max vs sum): 63  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |
