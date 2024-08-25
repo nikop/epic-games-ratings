@@ -2,7 +2,7 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 930,
   "Ranking_Popularity": 508,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 71,
@@ -22,7 +22,7 @@
       "isPromotionalContentUsed": "false"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2022-10-03T03:02:52.8117429+00:00",
@@ -811,10 +811,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 354,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-08-25T05:57:12.4605885+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 355,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 354,
+  "NumberOfAwards": 355,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -864,7 +870,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has a Creative Community",
@@ -2278,9 +2284,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-08-24T18:00:27.6588901+00:00",
+  "LastChanged": "2024-08-25T05:57:12.4605883+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:49.8804407+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:19.9893114+00:00",
-  "LastUpdate_Ratings": "2024-08-25T03:57:57.7730796+00:00",
+  "LastUpdate_Ratings": "2024-08-25T05:57:12.4605889+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:49.8804766+00:00"
 }

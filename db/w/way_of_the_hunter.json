@@ -4,7 +4,7 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 819,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 494,
   "Ranking_EOS_NewPlayers": 173,
@@ -3267,10 +3267,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 849,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-08-25T05:59:16.608316+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 850,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 849,
+  "NumberOfAwards": 850,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3278,7 +3284,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7952,9 +7958,9 @@
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
-  "LastChanged": "2024-08-24T23:58:18.3637846+00:00",
+  "LastChanged": "2024-08-25T05:59:16.6083158+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:43.7646783+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:36.7196721+00:00",
-  "LastUpdate_Ratings": "2024-08-25T03:59:24.6312279+00:00",
+  "LastUpdate_Ratings": "2024-08-25T05:59:16.6083164+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:43.7647143+00:00"
 }
