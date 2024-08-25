@@ -171,7 +171,7 @@
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-06-05 | 13 (1,000 XP) | 4 | - | - |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | 44 (1,000 XP) | 16 | - | 0 |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 25,548 | - | 0 |
-| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,007 | 4.63 | 27 |
+| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,007 | 4.63 | 28 |
 | [Cyberpunk SFX](games/7/7a0721af1f89440ba190a2c1eb2a1378.md) | 2024-05-31 | 5 (1,000 XP) | 21 | - | - |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
@@ -298,7 +298,7 @@
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | 0 |
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 202 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 28 | - | 0 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,931 | 4.82 | 697 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,931 | 4.82 | 705 |
 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 12,974 | 4.44 | 26 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | 0 |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 15 | - | 0 |
@@ -398,7 +398,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 86 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 124 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 83 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 86,884 | 4.27 | 241 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 86,884 | 4.26 | 241 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 117 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 51 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 203 | - | 0 |
@@ -488,7 +488,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 41 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 64,651 | 4.84 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,000 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,006 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.57 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 211 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 75 | - | - |
@@ -987,7 +987,7 @@
 | [McPixel 3](games/m/mcpixel_3.md) | 2022-11-14 | 93 (1,000 XP) | 1 | - | 0 |
 | [Bloodshore](games/b/bloodshore.md) | 2022-11-11 | 17 (1,000 XP) | 523 | - | 0 |
 | [Fabular: Once Upon a Spacetime](games/f/fabular__once_upon_a_spacetime.md) | 2022-11-10 | 8 (1,000 XP) | 9 | - | 0 |
-| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 392,962 | 4.75 | 1,932 |
+| [Football Manager 2023](games/f/football_manager_2023.md) | 2022-11-08 | 100 (1,000 XP) | 392,962 | 4.75 | 1,935 |
 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 2022-11-07 | 32 (1,000 XP) | 1,680 | 4.53 | 28 |
 | [BloodRayne Betrayal Fresh Bites](games/b/bloodrayne_betrayal_fresh_bites.md) | 2022-11-04 | 24 (1,000 XP) | 86 | - | 0 |
 | [BloodRayne 2: Terminal Cut](games/b/bloodrayne_2__terminal_cut.md) | 2022-11-04 | 14 (1,000 XP) | 13 | - | 0 |

@@ -127,7 +127,7 @@
 | [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 3 | - | 0 |
 | [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 90,278 | 4.56 | 86 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 744 | - | 0 |
-| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,007 | 4.63 | 27 |
+| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,007 | 4.63 | 28 |
 | [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-17 | 11 (1,000 XP) | 162 | - | 0 |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 21 | - | 0 |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | 12 (1,000 XP) | 2 | - | 0 |
@@ -285,7 +285,7 @@
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 534 | - | 0 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 583,087 | 4.53 | 137 |
 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 16,542 | 4.20 | 41 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,931 | 4.82 | 697 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,931 | 4.82 | 705 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 3,052 | 4.60 | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 29 | - | 0 |
 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2024-01-23 | 37 (1,000 XP) | 2 | - | 0 |
@@ -395,7 +395,7 @@
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 86 | - | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 117 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 86,884 | 4.27 | 241 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 86,884 | 4.26 | 241 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 424 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 17 | - | 0 |
@@ -503,7 +503,7 @@
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 2023-11-30 | 5 (1,000 XP) | 0 | - | - |
 | [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2023-11-10 | 28 (1,000 XP) | 2,329 | - | 0 |
 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 2023-11-13 | 34 (1,000 XP) | 444 | - | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,000 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,006 |
 | [Patrolling Mars](games/e/e8e0954ed50b46458165b250c8a05671.md) | 2023-11-10 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 51 | - | 0 |
