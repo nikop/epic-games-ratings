@@ -2,9 +2,9 @@
   "ID": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
   "Name": "Gigantic: Rampage Edition",
   "ProductSlug": "gigantic-rampage-edition-03f532",
-  "Ranking_Rating": 1147,
-  "Ranking_Popularity": 703,
-  "Ranking_PopularitySum": 703,
+  "Ranking_Rating": 1152,
+  "Ranking_Popularity": 695,
+  "Ranking_PopularitySum": 696,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.13,
   "RatingHistory": [
     {
       "Time": "2024-05-22T13:59:53.4146915+00:00",
@@ -114,12 +114,26 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-25T22:58:37.5683422+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great Boss Battles",
+  "Tags": [
+    {
+      "Text": "This game has Great Boss Battles",
+      "Prefix": "This game has",
+      "Type": "Great Boss Battles",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -140,9 +154,9 @@
   "FirstSeen": "2024-04-09T14:57:17.1065092+00:00",
   "FirstSeenRating": "2024-05-22T13:59:53.4146913+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:06.8983561+00:00",
-  "LastChanged": "2024-08-25T08:59:08.2044844+00:00",
+  "LastChanged": "2024-08-25T22:58:37.568342+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:01.1618345+00:00",
   "LastUpdate_AppInfo": "2024-08-21T09:57:12.9791995+00:00",
-  "LastUpdate_Ratings": "2024-08-25T20:59:53.6410949+00:00",
+  "LastUpdate_Ratings": "2024-08-25T22:58:37.5683425+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:01.1618377+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "A Knights Quest",
   "ProductSlug": "a-knights-quest",
   "Ranking_Rating": 1187,
-  "Ranking_Popularity": 703,
-  "Ranking_PopularitySum": 703,
+  "Ranking_Popularity": 705,
+  "Ranking_PopularitySum": 705,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -59,6 +59,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.1214723+00:00",
   "LastChanged": "2024-08-21T17:58:51.0299261+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:40.2016132+00:00",
-  "LastUpdate_Ratings": "2024-08-25T21:00:18.6623302+00:00",
+  "LastUpdate_Ratings": "2024-08-25T22:59:00.2788483+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:06.2184248+00:00"
 }

@@ -4,12 +4,12 @@
 Rating: 4.82 (Ranked 75)  
 Number of Ratings: 1,298  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 111  (Ranked 445)  
-Sum: 848 (Ranked 348)  
+Max (Great for Quick Sessions): 112  (Ranked 445)  
+Sum: 849 (Ranked 348)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 111 |
+| This game is Great for Quick Sessions | 112 |
 | This game is Extremely Fun | 103 |
 | This game is Great for Beginners | 103 |
 | This game has Diverse Characters | 94 |
@@ -264,3 +264,4 @@ Diff (max vs sum): 97
 | 2024-08-21 | 4.82 | - | 109 | 843 |
 | 2024-08-22 | 4.82 | - | 111 | 847 |
 | 2024-08-23 | 4.82 | - | 111 | 848 |
+| 2024-08-25 | 4.82 | - | 112 | 849 |
