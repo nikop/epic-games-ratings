@@ -2,7 +2,7 @@
   "ID": "2c42520d342a46d7a6e0cfa77b4715de",
   "Name": "Dying Light: Standard Edition",
   "ProductSlug": "dying-light",
-  "Ranking_Rating": 421,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 13,
   "Ranking_PopularitySum": 17,
   "Ranking_EOS_Progress": 3,
@@ -23838,10 +23838,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 134884,
       "NumberOfAwardsMax": 66889
+    },
+    {
+      "Time": "2024-08-25T02:58:14.8773408+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 134903,
+      "NumberOfAwardsMax": 66889
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 134884,
+  "NumberOfAwards": 134903,
   "NumberOfAwardsMax": 66889,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -23861,7 +23867,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6795
+      "Count": 6814
     },
     {
       "Text": "This game has Diverse Characters",
@@ -57149,9 +57155,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-08-24T23:58:18.2323584+00:00",
+  "LastChanged": "2024-08-25T02:58:14.8773407+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:47.1424435+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:47.720782+00:00",
-  "LastUpdate_Ratings": "2024-08-24T23:58:18.232359+00:00",
+  "LastUpdate_Ratings": "2024-08-25T02:58:14.877341+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:47.1426341+00:00"
 }

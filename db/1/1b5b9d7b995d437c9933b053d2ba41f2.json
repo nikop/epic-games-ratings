@@ -2,7 +2,7 @@
   "ID": "1b5b9d7b995d437c9933b053d2ba41f2",
   "Name": "Need For Speed: Hot Pursuit Remastered",
   "ProductSlug": "need-for-speed-hot-pursuit-remastered-de0bf5",
-  "Ranking_Rating": 397,
+  "Ranking_Rating": 376,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 361,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2024-07-27T01:54:32.1401611+00:00",
@@ -100,6 +100,12 @@
     {
       "Time": "2024-08-22T15:58:14.6672276+00:00",
       "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-25T02:59:26.1163312+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -684,9 +690,9 @@
   "FirstSeen": "2024-04-04T13:58:04.3003285+00:00",
   "FirstSeenRating": "2024-07-27T01:54:32.1401609+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:58.1236046+00:00",
-  "LastChanged": "2024-08-22T15:58:14.6672274+00:00",
+  "LastChanged": "2024-08-25T02:59:26.116331+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:59.2084158+00:00",
   "LastUpdate_AppInfo": "2024-08-23T03:57:11.5968108+00:00",
-  "LastUpdate_Ratings": "2024-08-24T23:59:29.0140947+00:00",
+  "LastUpdate_Ratings": "2024-08-25T02:59:26.1163316+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:59.2084752+00:00"
 }

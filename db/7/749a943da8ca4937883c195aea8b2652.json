@@ -4,7 +4,7 @@
   "ProductSlug": "gods-unchained-9b2cb5",
   "Ranking_Rating": 682,
   "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 500,
+  "Ranking_PopularitySum": 499,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -737,10 +737,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 207,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-08-25T03:00:01.0325462+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 208,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 207,
+  "NumberOfAwards": 208,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -772,7 +778,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Characters",
@@ -799,8 +805,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-08-23T13:58:06.437808+00:00",
+  "LastChanged": "2024-08-25T03:00:01.032546+00:00",
   "LastUpdate_AppInfo": "2024-08-23T13:09:14.1055176+00:00",
-  "LastUpdate_Ratings": "2024-08-25T00:00:03.8653965+00:00",
+  "LastUpdate_Ratings": "2024-08-25T03:00:01.0325466+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:12.6738113+00:00"
 }
