@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 1,086)  
+Rating: 4.21 (Ranked 1,087)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -181,8 +181,8 @@ Completed: 16 (0.00%) (Ranked 561)
 | 2024-08-20 | 406,701 | 16 |
 ## Awards
 Max (Great Boss Battles): 121  (Ranked 432)  
-Sum: 121 (Ranked 545)  
-Diff (max vs sum): -113  
+Sum: 121 (Ranked 546)  
+Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 121 |

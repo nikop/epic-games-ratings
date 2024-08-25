@@ -4,7 +4,7 @@
   "ProductSlug": "detroit-become-human",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3064,18 +3064,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 2231,
       "NumberOfAwardsMax": 1940
+    },
+    {
+      "Time": "2024-08-25T14:59:38.8466204+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 2237,
+      "NumberOfAwardsMax": 1946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2231,
-  "NumberOfAwardsMax": 1940,
+  "NumberOfAwards": 2237,
+  "NumberOfAwardsMax": 1946,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 1940
+      "Count": 1946
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3149,8 +3155,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2024-08-25T11:57:28.6834428+00:00",
+  "LastChanged": "2024-08-25T14:59:38.8466202+00:00",
   "LastUpdate_AppInfo": "2024-08-18T17:57:17.13554+00:00",
-  "LastUpdate_Ratings": "2024-08-25T13:04:59.5340829+00:00",
+  "LastUpdate_Ratings": "2024-08-25T14:59:38.846621+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:33.0848066+00:00"
 }

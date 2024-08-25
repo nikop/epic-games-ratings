@@ -4,7 +4,7 @@
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 518,
   "Ranking_Popularity": 283,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 532,
   "Ranking_EOS_NewPlayers": 108,
@@ -2899,10 +2899,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 853,
       "NumberOfAwardsMax": 390
+    },
+    {
+      "Time": "2024-08-25T15:00:23.8429926+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 854,
+      "NumberOfAwardsMax": 390
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 853,
+  "NumberOfAwards": 854,
   "NumberOfAwardsMax": 390,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2940,7 +2946,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -29634,9 +29640,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-08-23T22:57:13.5703931+00:00",
+  "LastChanged": "2024-08-25T15:00:23.8429924+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:55.5821012+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:27.5038273+00:00",
-  "LastUpdate_Ratings": "2024-08-25T13:56:59.3537361+00:00",
+  "LastUpdate_Ratings": "2024-08-25T15:00:23.8429933+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:55.5822678+00:00"
 }

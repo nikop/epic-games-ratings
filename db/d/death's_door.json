@@ -2,9 +2,9 @@
   "ID": "f588333a02fe4011980472c7be02db12",
   "Name": "Death\u0027s Door",
   "ProductSlug": "deaths-door",
-  "Ranking_Rating": 447,
-  "Ranking_Popularity": 701,
-  "Ranking_PopularitySum": 701,
+  "Ranking_Rating": 421,
+  "Ranking_Popularity": 702,
+  "Ranking_PopularitySum": 702,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 120,
   "RatingHistory": [
     {
@@ -346,6 +346,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-25T14:57:11.8584311+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -363,8 +369,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:20.4430327+00:00",
-  "LastChanged": "2024-06-25T05:59:19.1346292+00:00",
+  "LastChanged": "2024-08-25T14:57:11.8584309+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:30.5728924+00:00",
-  "LastUpdate_Ratings": "2024-08-25T13:03:27.3353816+00:00",
+  "LastUpdate_Ratings": "2024-08-25T14:57:11.8584314+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:02.2964749+00:00"
 }

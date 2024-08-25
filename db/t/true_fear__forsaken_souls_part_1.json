@@ -2,9 +2,9 @@
   "ID": "52d9c5885cb54c9280d4b9b8cf32a7b9",
   "Name": "True Fear: Forsaken Souls Part 1",
   "ProductSlug": "true-fear-forsaken-souls-part-1-cd1eb1",
-  "Ranking_Rating": 819,
-  "Ranking_Popularity": 701,
-  "Ranking_PopularitySum": 701,
+  "Ranking_Rating": 774,
+  "Ranking_Popularity": 702,
+  "Ranking_PopularitySum": 702,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2022-10-23T18:01:32.6537842+00:00",
@@ -72,6 +72,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-25T14:58:55.39169+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -90,8 +96,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:33.0006243+00:00",
   "FirstSeenRating": "2022-10-23T18:01:32.6537838+00:00",
-  "LastChanged": "2024-08-12T09:57:01.5209867+00:00",
+  "LastChanged": "2024-08-25T14:58:55.3916898+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:46.0867249+00:00",
-  "LastUpdate_Ratings": "2024-08-25T13:04:32.6654321+00:00",
+  "LastUpdate_Ratings": "2024-08-25T14:58:55.3916905+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:43.0664172+00:00"
 }

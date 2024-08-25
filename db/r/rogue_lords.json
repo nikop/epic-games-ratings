@@ -2,9 +2,9 @@
   "ID": "e901b6ea77454b0e9d944976a975165c",
   "Name": "Rogue Lords",
   "ProductSlug": "rogue-lords",
-  "Ranking_Rating": 447,
-  "Ranking_Popularity": 701,
-  "Ranking_PopularitySum": 701,
+  "Ranking_Rating": 448,
+  "Ranking_Popularity": 702,
+  "Ranking_PopularitySum": 702,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -215,6 +215,6 @@
   "FirstSeen": "2022-07-22T20:17:30.3189892+00:00",
   "LastChanged": "2024-08-18T20:58:20.5961479+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:56:55.7053666+00:00",
-  "LastUpdate_Ratings": "2024-08-25T13:57:33.5165323+00:00",
+  "LastUpdate_Ratings": "2024-08-25T15:01:15.3584824+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:48.0107869+00:00"
 }

@@ -1,7 +1,7 @@
 # True Fear: Forsaken Souls Part 1
 [Store](https://store.epicgames.com/en-US/p/true-fear-forsaken-souls-part-1-cd1eb1)  
 [View Rawdata](../../db/t/true_fear__forsaken_souls_part_1.json)  
-Rating: 4.43 (Ranked 819)  
+Rating: 4.45 (Ranked 774)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.43 (Ranked 819)
 | 2023-03-31 | 4.38 | 0 | 0 |
 | 2023-12-31 | 4.41 | 0 | 0 |
 | 2024-08-12 | 4.43 | 0 | 0 |
+| 2024-08-25 | 4.45 | 0 | 0 |
