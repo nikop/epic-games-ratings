@@ -4,7 +4,7 @@
   "ProductSlug": "ruiner",
   "Ranking_Rating": 644,
   "Ranking_Popularity": 635,
-  "Ranking_PopularitySum": 659,
+  "Ranking_PopularitySum": 660,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -437,6 +437,6 @@
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
   "LastChanged": "2024-08-20T18:57:33.3619127+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:37.3917407+00:00",
-  "LastUpdate_Ratings": "2024-08-24T21:59:45.5961966+00:00",
+  "LastUpdate_Ratings": "2024-08-24T23:57:59.8453075+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:19.3352088+00:00"
 }

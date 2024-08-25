@@ -4,7 +4,7 @@
   "ProductSlug": "hawked-b256b5",
   "Ranking_Rating": 1045,
   "Ranking_Popularity": 672,
-  "Ranking_PopularitySum": 676,
+  "Ranking_PopularitySum": 677,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 138,
@@ -472,6 +472,6 @@
   "LastChanged": "2024-08-24T13:58:37.4973227+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:32.060686+00:00",
   "LastUpdate_AppInfo": "2024-08-22T13:57:04.1899177+00:00",
-  "LastUpdate_Ratings": "2024-08-24T22:57:15.2137302+00:00",
+  "LastUpdate_Ratings": "2024-08-24T23:59:24.5037494+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:32.0607035+00:00"
 }
