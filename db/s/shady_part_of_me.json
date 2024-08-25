@@ -2,7 +2,7 @@
   "ID": "c35a1d7081e44562afaa750f27cd0a18",
   "Name": "Shady Part of Me",
   "ProductSlug": "shady-part-of-me",
-  "Ranking_Rating": 329,
+  "Ranking_Rating": 312,
   "Ranking_Popularity": 702,
   "Ranking_PopularitySum": 702,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2022-10-19T19:01:08.0891804+00:00",
@@ -89,6 +89,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-25T16:57:37.1487609+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:38.1986449+00:00",
   "FirstSeenRating": "2022-10-19T19:01:08.08918+00:00",
-  "LastChanged": "2024-07-29T10:57:48.6769052+00:00",
+  "LastChanged": "2024-08-25T16:57:37.1487607+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:43.911897+00:00",
-  "LastUpdate_Ratings": "2024-08-25T14:58:45.132766+00:00",
+  "LastUpdate_Ratings": "2024-08-25T16:57:37.1487613+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.3740682+00:00"
 }

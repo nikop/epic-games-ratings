@@ -3034,10 +3034,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 1357,
       "NumberOfAwardsMax": 862
+    },
+    {
+      "Time": "2024-08-25T16:59:29.5288788+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 1358,
+      "NumberOfAwardsMax": 862
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1357,
+  "NumberOfAwards": 1358,
   "NumberOfAwardsMax": 862,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -3099,7 +3105,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has a Creative Community",
@@ -3125,8 +3131,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-08-24T22:58:29.2104484+00:00",
+  "LastChanged": "2024-08-25T16:59:29.5288786+00:00",
   "LastUpdate_AppInfo": "2024-08-19T04:56:55.7902495+00:00",
-  "LastUpdate_Ratings": "2024-08-25T15:01:17.992033+00:00",
+  "LastUpdate_Ratings": "2024-08-25T16:59:29.5288792+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:03.7012261+00:00"
 }
