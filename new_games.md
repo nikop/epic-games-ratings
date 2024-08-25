@@ -109,4 +109,3 @@
 | [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
 | [Cats on Duty](games/2/2819d0278f1b4fe7bcf06b783950f64d.md) | 2024-07-29 | - |  | - | 0 |
 | [Micro Tanks](games/d/de3ed17d886342a998ea8b187c656f15.md) | 2024-07-26 | - |  | - | - |
-| [Spectra](games/2/20793453c6ee412cadbc2932db902e86.md) | 2024-07-26 | 5 (1,000 XP) | 20 | - | 0 |
