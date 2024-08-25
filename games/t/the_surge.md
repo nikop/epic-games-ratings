@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.39 (Ranked 883)  
+Rating: 4.40 (Ranked 869)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -433,3 +433,4 @@ Diff (max vs sum): -58
 | 2024-08-13 | 4.40 | - | 41 | 41 |
 | 2024-08-15 | 4.40 | - | 42 | 42 |
 | 2024-08-16 | 4.39 | - | 42 | 42 |
+| 2024-08-25 | 4.40 | - | 42 | 42 |

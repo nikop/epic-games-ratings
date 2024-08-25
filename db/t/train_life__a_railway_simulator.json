@@ -2,7 +2,7 @@
   "ID": "8965024015f5467699f4a497c7c016e8",
   "Name": "Train Life: A Railway Simulator",
   "ProductSlug": "train-life",
-  "Ranking_Rating": 1216,
+  "Ranking_Rating": 1212,
   "Ranking_Popularity": 701,
   "Ranking_PopularitySum": 701,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.96,
+  "Rating": 3.97,
   "NumberOfRatings": 42,
   "RatingHistory": [
     {
@@ -308,6 +308,12 @@
       "Rating": 3.96,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-25T07:58:04.7532398+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -325,8 +331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:34.3889134+00:00",
-  "LastChanged": "2024-08-23T07:58:41.7477873+00:00",
+  "LastChanged": "2024-08-25T07:58:04.7532396+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:38.9076977+00:00",
-  "LastUpdate_Ratings": "2024-08-25T05:59:29.8970983+00:00",
+  "LastUpdate_Ratings": "2024-08-25T07:58:04.7532402+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.2029305+00:00"
 }

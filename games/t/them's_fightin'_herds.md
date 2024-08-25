@@ -1,7 +1,7 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.59 (Ranked 498)  
+Rating: 4.60 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -426,3 +426,4 @@ Diff (max vs sum): 72
 | 2024-08-17 | 4.59 | 33 | 106 |
 | 2024-08-20 | 4.59 | 33 | 126 |
 | 2024-08-24 | 4.59 | 33 | 127 |
+| 2024-08-25 | 4.60 | 33 | 127 |
