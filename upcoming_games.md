@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [SPGP](games/a/ab566a024224474b8d4a4042d1d140df.md) | 2024-08-26 | 32 (1,000 XP) | 0 | - | - |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | 26 (1,000 XP) | 0 | - | - |
 | [Abysswalkers](games/b/b8bd5380b79344c59ea92636bd103ee8.md) | 2024-08-26 | - |  | - | - |
 | [BIOMORPH](games/a/a63da3e34b8a46799ea1bcc4cf62c97d.md) | 2024-08-27 | 30 (1,000 XP) | 1 | - | - |
@@ -591,7 +592,6 @@
 | [Space Nation Online](games/1/12dc38cab446471a86b3c78ba31d0a5f.md) | 2099-01-01 | - |  | - | - |
 | [Spellborne](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | - |  | - | - |
 | [SpellBoundGame](games/2/2af2a7eed5c149bd9d86c48366d4aaba.md) | 2099-01-01 | - |  | - | - |
-| [SPGP](games/a/ab566a024224474b8d4a4042d1d140df.md) | 2099-01-01 | 32 (1,000 XP) | 0 | - | - |
 | [Spirit of the North 2](games/c/c083fb427c1b49efb2a3af523d545469.md) | 2099-01-01 | - |  | - | - |
 | [Spirittea](games/s/spirittea.md) | 2099-01-01 | - |  | - | - |
 | [SPLASH - Paintball](games/6/68d7cea514474cac89318ac7d5c08ba6.md) | 2099-01-01 | - |  | - | - |
