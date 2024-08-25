@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 29)
 Number of Ratings: 3,910  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 1,940  (Ranked 142)  
-Sum: 2,230 (Ranked 241)  
+Sum: 2,231 (Ranked 241)  
 Diff (max vs sum): -99  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -99
 | This game has Amazing Storytelling | 32 |
 | This game has Amazing Characters | 31 |
 | This game is Educational | 30 |
-| This game is Great for Beginners | 29 |
+| This game is Great for Beginners | 30 |
 | This game has a Creative Community | 28 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Highly Recommended | 26 |
@@ -383,3 +383,4 @@ Diff (max vs sum): -99
 | 2024-08-21 | 4.86 | - | 1,935 | 2,223 |
 | 2024-08-23 | 4.86 | - | 1,937 | 2,227 |
 | 2024-08-24 | 4.86 | - | 1,940 | 2,230 |
+| 2024-08-25 | 4.86 | - | 1,940 | 2,231 |
