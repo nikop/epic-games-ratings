@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 1117,
+  "Ranking_Rating": 1128,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 190,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -4087,6 +4087,12 @@
     {
       "Time": "2024-08-25T07:58:16.9029513+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 1144,
+      "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2024-08-25T09:57:24.3124634+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 1144,
       "NumberOfAwardsMax": 220
     }
@@ -17238,9 +17244,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-08-25T07:58:16.9029512+00:00",
+  "LastChanged": "2024-08-25T09:57:24.3124632+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:34.0522098+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:45.5995879+00:00",
-  "LastUpdate_Ratings": "2024-08-25T07:58:16.9029517+00:00",
+  "LastUpdate_Ratings": "2024-08-25T09:57:24.3124639+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:34.052304+00:00"
 }

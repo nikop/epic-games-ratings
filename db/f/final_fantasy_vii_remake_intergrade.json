@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
   "Ranking_Rating": 40,
   "Ranking_Popularity": 86,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8399,10 +8399,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 13888,
       "NumberOfAwardsMax": 6245
+    },
+    {
+      "Time": "2024-08-25T09:57:45.7407473+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13890,
+      "NumberOfAwardsMax": 6245
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13888,
+  "NumberOfAwards": 13890,
   "NumberOfAwardsMax": 6245,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8434,7 +8440,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 367
+      "Count": 369
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8496,8 +8502,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-08-25T07:58:37.4819507+00:00",
+  "LastChanged": "2024-08-25T09:57:45.7407471+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:45.0464797+00:00",
-  "LastUpdate_Ratings": "2024-08-25T07:58:37.4819514+00:00",
+  "LastUpdate_Ratings": "2024-08-25T09:57:45.7407478+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:55.9695875+00:00"
 }
