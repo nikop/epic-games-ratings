@@ -4,7 +4,7 @@
   "ProductSlug": "mudrunner",
   "Ranking_Rating": 471,
   "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 237,
+  "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -5453,10 +5453,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 2387,
       "NumberOfAwardsMax": 381
+    },
+    {
+      "Time": "2024-08-26T22:00:56.8580765+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2662,
+      "NumberOfAwardsMax": 381
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2387,
+  "NumberOfAwards": 2662,
   "NumberOfAwardsMax": 381,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5500,7 +5506,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 273
+      "Count": 275
     },
     {
       "Text": "This game is Relaxing",
@@ -5538,8 +5544,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-08-26T13:57:57.2977301+00:00",
+  "LastChanged": "2024-08-26T22:00:56.8580764+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:54.1718266+00:00",
-  "LastUpdate_Ratings": "2024-08-26T20:57:39.4931209+00:00",
+  "LastUpdate_Ratings": "2024-08-26T22:00:56.8580771+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:35.430527+00:00"
 }

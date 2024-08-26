@@ -4,7 +4,7 @@
   "ProductSlug": "dauntless",
   "Ranking_Rating": 627,
   "Ranking_Popularity": 19,
-  "Ranking_PopularitySum": 27,
+  "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21279,18 +21279,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 88759,
       "NumberOfAwardsMax": 31450
+    },
+    {
+      "Time": "2024-08-26T21:57:15.985083+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 88786,
+      "NumberOfAwardsMax": 31477
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88759,
-  "NumberOfAwardsMax": 31450,
+  "NumberOfAwards": 88786,
+  "NumberOfAwardsMax": 31477,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 31450
+      "Count": 31477
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -21364,8 +21370,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-08-26T17:59:07.3441305+00:00",
+  "LastChanged": "2024-08-26T21:57:15.9850828+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:59.8438763+00:00",
-  "LastUpdate_Ratings": "2024-08-26T19:58:29.0025224+00:00",
+  "LastUpdate_Ratings": "2024-08-26T21:57:15.9850837+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.6290985+00:00"
 }
