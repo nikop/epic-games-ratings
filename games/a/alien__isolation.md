@@ -5,12 +5,12 @@ Rating: 4.61 (Ranked 449)
 Number of Ratings: 5,222  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 161  (Ranked 390)  
-Sum: 1,168 (Ranked 309)  
+Sum: 1,169 (Ranked 309)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 161 |
-| This game has Amazing Storytelling | 157 |
+| This game has Amazing Storytelling | 158 |
 | This game has Challenging Combat | 156 |
 | This game has Diverse Characters | 155 |
 | This game is Extremely Fun | 150 |
@@ -240,4 +240,4 @@ Diff (max vs sum): 81
 | 2024-08-23 | 4.61 | - | 158 | 1,156 |
 | 2024-08-24 | 4.61 | - | 158 | 1,158 |
 | 2024-08-25 | 4.61 | - | 159 | 1,161 |
-| 2024-08-26 | 4.62 | - | 161 | 1,168 |
+| 2024-08-26 | 4.62 | - | 161 | 1,169 |
