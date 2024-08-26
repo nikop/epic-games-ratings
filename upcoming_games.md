@@ -205,6 +205,7 @@
 | [The Stone of Madness](games/b/bc51d32ca88b41bda1e50f5876c0b16e.md) | 2025-03-31 | - |  | - | - |
 | [Wrekless](games/1/1ca7ecb5530d4ae9b1b0348266a44555.md) | 2025-03-31 | - |  | - | - |
 | [FATAL FURY: City of the Wolves Special Edition](games/6/6ce9cadbab474f07928e3035473289d2.md) | 2025-04-24 | - |  | - | - |
+| [Navigating The Labyrinth](games/2/223e662749a74e1dbf26715af200def1.md) | 2025-04-28 | - |  | - | - |
 | [Battle Bits](games/d/dd2c84892f4945a48cf4213842f57fa0.md) | 2025-04-28 | - |  | - | - |
 | [Pantheon Rift](games/p/project_chaos.md) | 2025-04-30 | - |  | - | - |
 | [Ariokan](games/f/f4962a68cb2a46e295f690e592655ec0.md) | 2025-06-30 | - |  | - | - |
