@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-3",
   "Ranking_Rating": 665,
   "Ranking_Popularity": 317,
-  "Ranking_PopularitySum": 473,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1018,18 +1018,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 278,
       "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2024-08-26T20:59:01.5826389+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 280,
+      "NumberOfAwardsMax": 280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 278,
-  "NumberOfAwardsMax": 278,
+  "NumberOfAwards": 280,
+  "NumberOfAwardsMax": 280,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 278
+      "Count": 280
     }
   ],
   "EOS_Progressed": 0,
@@ -1043,8 +1049,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:27.0025149+00:00",
-  "LastChanged": "2024-08-23T19:58:09.5371758+00:00",
+  "LastChanged": "2024-08-26T20:59:01.5826387+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:12:04.5944175+00:00",
-  "LastUpdate_Ratings": "2024-08-26T18:59:25.3447667+00:00",
+  "LastUpdate_Ratings": "2024-08-26T20:59:01.5826391+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:11.3626916+00:00"
 }
