@@ -2,9 +2,9 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 177,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "NumberOfRatings": 4082,
   "RatingHistory": [
     {
@@ -5956,10 +5956,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4562,
       "NumberOfAwardsMax": 512
+    },
+    {
+      "Time": "2024-08-26T16:00:12.2003115+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4563,
+      "NumberOfAwardsMax": 512
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4562,
+  "NumberOfAwards": 4563,
   "NumberOfAwardsMax": 512,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6027,7 +6033,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 393
+      "Count": 394
     },
     {
       "Text": "This game has Unique Visuals",
@@ -6053,8 +6059,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-08-26T02:01:21.9498119+00:00",
+  "LastChanged": "2024-08-26T16:00:12.2003113+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:01.3231947+00:00",
-  "LastUpdate_Ratings": "2024-08-26T13:59:56.8541748+00:00",
+  "LastUpdate_Ratings": "2024-08-26T16:00:12.200312+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.061096+00:00"
 }
