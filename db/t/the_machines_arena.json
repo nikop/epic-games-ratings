@@ -3,8 +3,8 @@
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 91,
-  "Ranking_Popularity": 672,
-  "Ranking_PopularitySum": 627,
+  "Ranking_Popularity": 664,
+  "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -539,11 +539,17 @@
       "Rating": 4.81,
       "NumberOfAwards": 44,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-08-26T02:00:17.2414288+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 44,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 45,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -556,7 +562,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Diverse Characters",
@@ -577,8 +583,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-08-24T23:57:22.668942+00:00",
+  "LastChanged": "2024-08-26T02:00:17.2414286+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:25.1825375+00:00",
-  "LastUpdate_Ratings": "2024-08-25T22:58:44.7379928+00:00",
+  "LastUpdate_Ratings": "2024-08-26T02:00:17.2414291+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:21.063413+00:00"
 }

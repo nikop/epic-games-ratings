@@ -3,13 +3,13 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.81 (Ranked 91)  
 ## Awards
-Max (Great for Quick Sessions): 23  (Ranked 672)  
-Sum: 44 (Ranked 627)  
-Diff (max vs sum): 45  
+Max (Great for Quick Sessions): 24  (Ranked 664)  
+Sum: 45 (Ranked 625)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
-| This game is Great for Quick Sessions | 23 |
+| This game is Great for Quick Sessions | 24 |
 | This game has Diverse Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -89,3 +89,4 @@ Diff (max vs sum): 45
 | 2024-08-22 | 4.80 | 22 | 22 |
 | 2024-08-23 | 4.81 | 22 | 22 |
 | 2024-08-24 | 4.81 | 23 | 44 |
+| 2024-08-26 | 4.81 | 24 | 45 |

@@ -4,7 +4,7 @@
   "ProductSlug": "shop-titans-d95c1c",
   "Ranking_Rating": 1198,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 60,
+  "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 118,
@@ -11879,10 +11879,16 @@
       "Rating": 4.01,
       "NumberOfAwards": 29602,
       "NumberOfAwardsMax": 5393
+    },
+    {
+      "Time": "2024-08-26T02:01:44.4059299+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 29604,
+      "NumberOfAwardsMax": 5393
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29602,
+  "NumberOfAwards": 29604,
   "NumberOfAwardsMax": 5393,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11908,7 +11914,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3984
+      "Count": 3986
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -42897,9 +42903,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-08-24T23:58:40.0338732+00:00",
+  "LastChanged": "2024-08-26T02:01:44.4059297+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:50.570536+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:09:45.4805944+00:00",
-  "LastUpdate_Ratings": "2024-08-25T23:00:03.0861823+00:00",
+  "LastUpdate_Ratings": "2024-08-26T02:01:44.4059303+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:50.5707802+00:00"
 }
