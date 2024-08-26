@@ -3,8 +3,8 @@
 [View Rawdata](../../db/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.json)  
 Rating: 4.09 (Ranked 1,170)  
 ## Awards
-Max (Great Boss Battles): 20  (Ranked 695)  
-Sum: 20 (Ranked 696)  
+Max (Great Boss Battles): 20  (Ranked 696)  
+Sum: 20 (Ranked 697)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |

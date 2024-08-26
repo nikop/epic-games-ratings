@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 1128,
   "Ranking_Popularity": 334,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 176,
@@ -4143,10 +4143,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 1288,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2024-08-26T19:57:59.7039984+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 1325,
+      "NumberOfAwardsMax": 248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1288,
+  "NumberOfAwards": 1325,
   "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4160,7 +4166,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 209
+      "Count": 230
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4190,7 +4196,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 109
+      "Count": 125
     }
   ],
   "EOS_Progressed": 29887,
@@ -17292,9 +17298,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-08-26T16:00:33.007119+00:00",
+  "LastChanged": "2024-08-26T19:57:59.7039982+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:34.0522098+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:10.2654809+00:00",
-  "LastUpdate_Ratings": "2024-08-26T17:58:45.0665612+00:00",
+  "LastUpdate_Ratings": "2024-08-26T19:57:59.703999+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:34.052304+00:00"
 }

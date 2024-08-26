@@ -3,8 +3,8 @@
   "Name": "OverTrip",
   "ProductSlug": "overtrip-79b8b0",
   "Ranking_Rating": 1017,
-  "Ranking_Popularity": 695,
-  "Ranking_PopularitySum": 696,
+  "Ranking_Popularity": 686,
+  "Ranking_PopularitySum": 689,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -336,11 +336,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-08-26T19:57:30.4050831+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -353,7 +359,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -368,8 +374,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T18:58:07.3074335+00:00",
   "FirstSeenRating": "2024-07-16T20:58:34.8152521+00:00",
-  "LastChanged": "2024-08-25T14:57:48.4853536+00:00",
+  "LastChanged": "2024-08-26T19:57:30.4050829+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:57:14.532688+00:00",
-  "LastUpdate_Ratings": "2024-08-26T17:58:22.742895+00:00",
+  "LastUpdate_Ratings": "2024-08-26T19:57:30.4050835+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:36.7077651+00:00"
 }

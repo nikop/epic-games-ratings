@@ -2,9 +2,9 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 291,
-  "Ranking_Popularity": 93,
-  "Ranking_PopularitySum": 133,
+  "Ranking_Rating": 290,
+  "Ranking_Popularity": 92,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -7853,18 +7853,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 8942,
       "NumberOfAwardsMax": 5181
+    },
+    {
+      "Time": "2024-08-26T19:57:48.8065787+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 8960,
+      "NumberOfAwardsMax": 5196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8942,
-  "NumberOfAwardsMax": 5181,
+  "NumberOfAwards": 8960,
+  "NumberOfAwardsMax": 5196,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5181
+      "Count": 5196
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7876,7 +7882,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 420
+      "Count": 422
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7900,7 +7906,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 437
+      "Count": 438
     },
     {
       "Text": "This game is Great for Beginners",
@@ -7944,8 +7950,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-08-26T13:13:16.4909487+00:00",
+  "LastChanged": "2024-08-26T19:57:48.8065785+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:56.1262478+00:00",
-  "LastUpdate_Ratings": "2024-08-26T17:58:36.8130061+00:00",
+  "LastUpdate_Ratings": "2024-08-26T19:57:48.806579+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:50.0164646+00:00"
 }

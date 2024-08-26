@@ -2,9 +2,9 @@
   "ID": "131e306949034972959ca401ca27837e",
   "Name": "Yooka-Laylee",
   "ProductSlug": "yooka-laylee",
-  "Ranking_Rating": 1049,
+  "Ranking_Rating": 1050,
   "Ranking_Popularity": 625,
-  "Ranking_PopularitySum": 519,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -752,10 +752,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 171,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-08-26T19:58:57.101221+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 171,
+  "NumberOfAwards": 191,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -800,6 +806,12 @@
       "Prefix": "This game has",
       "Type": "Playful Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -813,8 +825,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.9300447+00:00",
-  "LastChanged": "2024-08-25T18:57:23.4123895+00:00",
+  "LastChanged": "2024-08-26T19:58:57.1012208+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:07.3392473+00:00",
-  "LastUpdate_Ratings": "2024-08-26T17:59:28.8143122+00:00",
+  "LastUpdate_Ratings": "2024-08-26T19:58:57.1012213+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:42.50104+00:00"
 }

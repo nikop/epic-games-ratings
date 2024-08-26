@@ -1,12 +1,12 @@
 # Metro 2033 Redux
 [Store](https://store.epicgames.com/en-US/p/metro-2033-redux)  
 [View Rawdata](../../db/m/metro_2033_redux.json)  
-Rating: 4.68 (Ranked 291)  
+Rating: 4.68 (Ranked 290)  
 Number of Ratings: 5,684  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,385  (Ranked 160)  
-Sum: 1,618 (Ranked 282)  
-Diff (max vs sum): -122  
+Sum: 1,618 (Ranked 281)  
+Diff (max vs sum): -121  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,385 |

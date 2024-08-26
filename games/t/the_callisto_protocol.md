@@ -336,17 +336,17 @@ Completed: 88 (0.29%) (Ranked 374)
 | 2024-08-20 | 29,887 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 248  (Ranked 334)  
-Sum: 1,288 (Ranked 305)  
-Diff (max vs sum): 29  
+Sum: 1,325 (Ranked 302)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 248 |
 | This game is Highly Recommended | 245 |
 | This game has Amazing Characters | 239 |
 | This game has Amazing Storytelling | 238 |
-| This game is Extremely Fun | 209 |
+| This game is Extremely Fun | 230 |
 | This game has Challenging Combat | 154 |
-| This game has a Creative Community | 109 |
+| This game has a Creative Community | 125 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -729,4 +729,4 @@ Diff (max vs sum): 29
 | 2024-08-23 | 4.24 | 208 | 1,080 |
 | 2024-08-24 | 4.20 | 220 | 1,119 |
 | 2024-08-25 | 4.18 | 226 | 1,192 |
-| 2024-08-26 | 4.17 | 248 | 1,288 |
+| 2024-08-26 | 4.17 | 248 | 1,325 |

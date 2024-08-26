@@ -2,7 +2,7 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "ProductSlug": "rise-of-the-tomb-raider",
-  "Ranking_Rating": 270,
+  "Ranking_Rating": 290,
   "Ranking_Popularity": 47,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 28216,
   "RatingHistory": [
     {
@@ -8150,18 +8150,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 16587,
       "NumberOfAwardsMax": 12933
+    },
+    {
+      "Time": "2024-08-26T19:59:07.2375475+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 16605,
+      "NumberOfAwardsMax": 12951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16587,
-  "NumberOfAwardsMax": 12933,
+  "NumberOfAwards": 16605,
+  "NumberOfAwardsMax": 12951,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12933
+      "Count": 12951
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8235,8 +8241,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2024-08-26T03:59:02.1696277+00:00",
+  "LastChanged": "2024-08-26T19:59:07.2375473+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:54.5152869+00:00",
-  "LastUpdate_Ratings": "2024-08-26T17:59:36.4429791+00:00",
+  "LastUpdate_Ratings": "2024-08-26T19:59:07.2375478+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:57.4658294+00:00"
 }
