@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 19)
 Number of Ratings: 771  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 399  (Ranked 280)  
-Sum: 603 (Ranked 389)  
+Sum: 604 (Ranked 389)  
 Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): -109
 | This game has Unique Visuals | 22 |
 | This game is Relaxing | 22 |
 | This game is Great for Beginners | 21 |
+| This game has Challenging Combat | 21 |
 | This game is Extremely Fun | 20 |
-| This game has Challenging Combat | 20 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -181,3 +181,4 @@ Diff (max vs sum): -109
 | 2024-08-22 | 4.87 | - | 398 | 601 |
 | 2024-08-23 | 4.87 | - | 399 | 602 |
 | 2024-08-25 | 4.87 | - | 399 | 603 |
+| 2024-08-26 | 4.87 | - | 399 | 604 |
