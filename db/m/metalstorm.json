@@ -2,9 +2,9 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 774,
-  "Ranking_Popularity": 316,
-  "Ranking_PopularitySum": 287,
+  "Ranking_Rating": 773,
+  "Ranking_Popularity": 313,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3846,18 +3846,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 1559,
       "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2024-08-26T02:57:26.4550055+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1571,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1559,
-  "NumberOfAwardsMax": 278,
+  "NumberOfAwards": 1571,
+  "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 278
+      "Count": 285
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3875,7 +3881,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 131
+      "Count": 135
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3911,7 +3917,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has Competitive Players",
@@ -4123,9 +4129,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-08-25T23:58:13.2060771+00:00",
+  "LastChanged": "2024-08-26T02:57:26.4550053+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:18.2290852+00:00",
   "LastUpdate_AppInfo": "2024-08-19T11:57:20.3710009+00:00",
-  "LastUpdate_Ratings": "2024-08-25T23:58:13.2060775+00:00",
+  "LastUpdate_Ratings": "2024-08-26T02:57:26.4550058+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:18.2291033+00:00"
 }

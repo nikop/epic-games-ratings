@@ -4,7 +4,7 @@
   "ProductSlug": "doom-1993",
   "Ranking_Rating": 75,
   "Ranking_Popularity": 585,
-  "Ranking_PopularitySum": 638,
+  "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -331,6 +331,6 @@
   "FirstSeenRating": "2022-08-26T00:30:55.8306783+00:00",
   "LastChanged": "2024-08-11T22:59:54.6119746+00:00",
   "LastUpdate_AppInfo": "2024-08-19T08:57:27.1751775+00:00",
-  "LastUpdate_Ratings": "2024-08-26T02:00:22.5119273+00:00",
+  "LastUpdate_Ratings": "2024-08-26T02:59:55.0307178+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:57.4091283+00:00"
 }

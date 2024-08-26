@@ -4,7 +4,7 @@
   "ProductSlug": "apex-legends-006cde",
   "Ranking_Rating": 1092,
   "Ranking_Popularity": 686,
-  "Ranking_PopularitySum": 688,
+  "Ranking_PopularitySum": 633,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 4,
@@ -336,10 +336,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-08-26T02:57:20.9487542+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
+  "NumberOfAwards": 41,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -348,6 +354,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 21
+    },
+    {
+      "Text": "This game is Hard for Beginners",
+      "Prefix": "This game is",
+      "Type": "Hard for Beginners",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 47946,
@@ -484,9 +496,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-08-25T20:57:13.4266003+00:00",
+  "LastChanged": "2024-08-26T02:57:20.948754+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.8121394+00:00",
   "LastUpdate_AppInfo": "2024-08-19T19:57:14.9304926+00:00",
-  "LastUpdate_Ratings": "2024-08-25T23:58:08.0411223+00:00",
+  "LastUpdate_Ratings": "2024-08-26T02:57:20.9487546+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.8121467+00:00"
 }
