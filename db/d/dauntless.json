@@ -4,7 +4,7 @@
   "ProductSlug": "dauntless",
   "Ranking_Rating": 628,
   "Ranking_Popularity": 19,
-  "Ranking_PopularitySum": 27,
+  "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21267,10 +21267,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 88723,
       "NumberOfAwardsMax": 31450
+    },
+    {
+      "Time": "2024-08-26T14:57:55.9090122+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 88749,
+      "NumberOfAwardsMax": 31450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88723,
+  "NumberOfAwards": 88749,
   "NumberOfAwardsMax": 31450,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21284,7 +21290,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22061
+      "Count": 22087
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -21352,8 +21358,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-08-26T10:59:22.3375876+00:00",
+  "LastChanged": "2024-08-26T14:57:55.909012+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:59.8438763+00:00",
-  "LastUpdate_Ratings": "2024-08-26T13:13:57.075133+00:00",
+  "LastUpdate_Ratings": "2024-08-26T14:57:55.9090127+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.6290985+00:00"
 }

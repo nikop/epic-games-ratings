@@ -2256,10 +2256,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 964,
       "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-08-26T14:57:59.4704852+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 965,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 964,
+  "NumberOfAwards": 965,
   "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2321,7 +2327,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2347,8 +2353,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-08-26T13:14:01.7973084+00:00",
+  "LastChanged": "2024-08-26T14:57:59.470485+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:15.3981365+00:00",
-  "LastUpdate_Ratings": "2024-08-26T13:14:01.7973089+00:00",
+  "LastUpdate_Ratings": "2024-08-26T14:57:59.4704855+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:43.288191+00:00"
 }
