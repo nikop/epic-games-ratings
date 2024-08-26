@@ -11951,10 +11951,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 6838,
       "NumberOfAwardsMax": 874
+    },
+    {
+      "Time": "2024-08-26T04:59:45.5291995+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 6842,
+      "NumberOfAwardsMax": 874
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6838,
+  "NumberOfAwards": 6842,
   "NumberOfAwardsMax": 874,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12022,7 +12028,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 631
+      "Count": 635
     }
   ],
   "EOS_Progressed": 308310,
@@ -43600,9 +43606,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-08-25T20:59:15.2293176+00:00",
+  "LastChanged": "2024-08-26T04:59:45.5291993+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:06.5135637+00:00",
   "LastUpdate_AppInfo": "2024-08-19T09:57:33.1820262+00:00",
-  "LastUpdate_Ratings": "2024-08-26T02:59:09.6024586+00:00",
+  "LastUpdate_Ratings": "2024-08-26T04:59:45.5291998+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:06.5137187+00:00"
 }

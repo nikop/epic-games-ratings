@@ -4,7 +4,7 @@
   "ProductSlug": "zenless-zone-zero-c7c151",
   "Ranking_Rating": 605,
   "Ranking_Popularity": 33,
-  "Ranking_PopularitySum": 42,
+  "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2183,10 +2183,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 43860,
       "NumberOfAwardsMax": 17026
+    },
+    {
+      "Time": "2024-08-26T05:00:53.7769364+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 43947,
+      "NumberOfAwardsMax": 17026
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43860,
+  "NumberOfAwards": 43947,
   "NumberOfAwardsMax": 17026,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2236,7 +2242,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1816
+      "Count": 1903
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2275,8 +2281,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-08-26T02:00:23.9375145+00:00",
+  "LastChanged": "2024-08-26T05:00:53.7769362+00:00",
   "LastUpdate_AppInfo": "2024-08-20T02:57:05.134582+00:00",
-  "LastUpdate_Ratings": "2024-08-26T02:59:56.4505165+00:00",
+  "LastUpdate_Ratings": "2024-08-26T05:00:53.7769367+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:15.1606852+00:00"
 }
