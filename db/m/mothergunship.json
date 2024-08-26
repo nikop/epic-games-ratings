@@ -2,7 +2,7 @@
   "ID": "7dc02eac2fe347368b5f72a02bb5bc5e",
   "Name": "Mothergunship",
   "ProductSlug": "mothergunship",
-  "Ranking_Rating": 905,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "NumberOfRatings": 436,
   "RatingHistory": [
     {
@@ -835,6 +835,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 201,
       "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2024-08-26T07:58:18.5275768+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 201,
+      "NumberOfAwardsMax": 201
     }
   ],
   "ReviewsDisabled": false,
@@ -860,8 +866,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2024-08-17T13:59:55.2907328+00:00",
+  "LastChanged": "2024-08-26T07:58:18.5275767+00:00",
   "LastUpdate_AppInfo": "2024-08-19T13:10:00.0193191+00:00",
-  "LastUpdate_Ratings": "2024-08-26T05:59:18.6634116+00:00",
+  "LastUpdate_Ratings": "2024-08-26T07:58:18.5275772+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:17.7056258+00:00"
 }

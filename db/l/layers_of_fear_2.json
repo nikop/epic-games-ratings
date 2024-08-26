@@ -2,7 +2,7 @@
   "ID": "2972368dffc24d4ea80ba1aa2bcf56d2",
   "Name": "Layers of Fear 2",
   "ProductSlug": "layers-of-fear-2",
-  "Ranking_Rating": 1105,
+  "Ranking_Rating": 1092,
   "Ranking_Popularity": 705,
   "Ranking_PopularitySum": 705,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "NumberOfRatings": 249,
   "RatingHistory": [
     {
@@ -543,6 +543,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-26T07:59:46.8150256+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -560,8 +566,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:56.3171366+00:00",
-  "LastChanged": "2024-08-25T08:58:21.9676454+00:00",
+  "LastChanged": "2024-08-26T07:59:46.8150253+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:31.7020032+00:00",
-  "LastUpdate_Ratings": "2024-08-26T06:57:59.6141715+00:00",
+  "LastUpdate_Ratings": "2024-08-26T07:59:46.815026+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:25.823219+00:00"
 }
