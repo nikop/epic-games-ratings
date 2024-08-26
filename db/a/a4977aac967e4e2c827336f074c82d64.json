@@ -3,8 +3,8 @@
   "Name": "Teenage Mutant Ninja Turtles: Shredder\u0027s Revenge",
   "ProductSlug": "teenage-mutant-ninja-turtles-shredders-revenge",
   "Ranking_Rating": 133,
-  "Ranking_Popularity": 611,
-  "Ranking_PopularitySum": 650,
+  "Ranking_Popularity": 605,
+  "Ranking_PopularitySum": 649,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 514,
   "Ranking_EOS_NewPlayers": 14,
@@ -301,18 +301,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-08-25T23:58:09.3421428+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 34,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 33
+      "Count": 34
     }
   ],
   "EOS_Progressed": 79402,
@@ -588,9 +594,9 @@
   "FirstSeen": "2024-07-02T14:00:05.0043445+00:00",
   "FirstSeenRating": "2024-07-16T17:59:55.7700245+00:00",
   "FirstSeenAchievements": "2024-08-09T18:07:49.7157889+00:00",
-  "LastChanged": "2024-08-24T10:57:47.6400905+00:00",
+  "LastChanged": "2024-08-25T23:58:09.3421426+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.4014799+00:00",
   "LastUpdate_AppInfo": "2024-08-20T14:57:03.1072551+00:00",
-  "LastUpdate_Ratings": "2024-08-25T21:59:21.9956382+00:00",
+  "LastUpdate_Ratings": "2024-08-25T23:58:09.3421435+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.4014965+00:00"
 }
