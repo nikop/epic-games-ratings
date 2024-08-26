@@ -1,7 +1,7 @@
 # War Mongrels
 [Store](https://store.epicgames.com/en-US/p/war-mongrels)  
 [View Rawdata](../../db/w/war_mongrels.json)  
-Rating: 4.42 (Ranked 840)  
+Rating: 4.43 (Ranked 820)  
 Number of Ratings: 34  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -373,3 +373,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-07-25 | 4.40 | - | 0 | 0 |
 | 2024-08-11 | 4.41 | - | 0 | 0 |
 | 2024-08-22 | 4.42 | - | 0 | 0 |
+| 2024-08-26 | 4.43 | - | 0 | 0 |
