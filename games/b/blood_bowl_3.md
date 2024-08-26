@@ -1,7 +1,7 @@
 # Blood Bowl 3	
 [Store](https://store.epicgames.com/en-US/p/blood-bowl-3)  
 [View Rawdata](../../db/b/blood_bowl_3.json)  
-Rating: 3.95 (Ranked 1,220)  
+Rating: 3.92 (Ranked 1,225)  
 ## Awards
 Max (Diverse Characters): 28  (Ranked 639)  
 Sum: 28 (Ranked 661)  
@@ -81,3 +81,4 @@ Diff (max vs sum): -22
 | 2024-08-07 | 3.95 | 26 | 26 |
 | 2024-08-22 | 3.95 | 27 | 27 |
 | 2024-08-23 | 3.95 | 28 | 28 |
+| 2024-08-26 | 3.92 | 28 | 28 |
