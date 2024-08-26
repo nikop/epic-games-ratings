@@ -3,8 +3,8 @@
   "Name": "Dakar Desert Rally",
   "ProductSlug": "dakar-desert-rally",
   "Ranking_Rating": 1216,
-  "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 294,
+  "Ranking_Popularity": 339,
+  "Ranking_PopularitySum": 293,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3699,11 +3699,17 @@
       "Rating": 3.96,
       "NumberOfAwards": 1430,
       "NumberOfAwardsMax": 238
+    },
+    {
+      "Time": "2024-08-26T05:59:26.8356446+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 1433,
+      "NumberOfAwardsMax": 241
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1430,
-  "NumberOfAwardsMax": 238,
+  "NumberOfAwards": 1433,
+  "NumberOfAwardsMax": 241,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3764,7 +3770,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 238
+      "Count": 241
     }
   ],
   "EOS_Progressed": 0,
@@ -3779,8 +3785,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T11:57:00.7702383+00:00",
   "FirstSeenRating": "2023-01-07T16:56:50.871604+00:00",
-  "LastChanged": "2024-08-25T16:59:06.1977407+00:00",
+  "LastChanged": "2024-08-26T05:59:26.8356445+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:40.2148275+00:00",
-  "LastUpdate_Ratings": "2024-08-26T03:59:55.1242236+00:00",
+  "LastUpdate_Ratings": "2024-08-26T05:59:26.8356452+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:08.021222+00:00"
 }

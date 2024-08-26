@@ -331,15 +331,15 @@ Completed: 35 (0.00%) (Ranked 561)
 | 2024-06-17 | 1,246,479 | 31 |
 | 2024-08-09 | 1,334,975 | 35 |
 ## Awards
-Max (Competitive Players): 12,549  (Ranked 48)  
-Sum: 41,382 (Ranked 44)  
+Max (Competitive Players): 12,573  (Ranked 48)  
+Sum: 41,419 (Ranked 44)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Competitive Players | 12,549 |
+| This game has Competitive Players | 12,573 |
 | This game has Challenging Combat | 11,249 |
 | This game is Highly Recommended | 10,225 |
-| This game has a Competitive Community | 7,359 |
+| This game has a Competitive Community | 7,372 |
 | This game has Quickly Understood Controls | 3,335 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -893,3 +893,4 @@ Diff (max vs sum): 4
 | 2024-08-23 | 4.01 | 12,496 | 41,211 |
 | 2024-08-24 | 4.01 | 12,522 | 41,304 |
 | 2024-08-25 | 4.01 | 12,549 | 41,382 |
+| 2024-08-26 | 4.01 | 12,573 | 41,419 |

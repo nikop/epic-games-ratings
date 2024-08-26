@@ -320,12 +320,12 @@ Completed: 617 (0.33%) (Ranked 362)
 | 2024-06-17 | 181,547 | 586 |
 | 2024-08-09 | 184,840 | 617 |
 ## Awards
-Max (Challenging Combat): 104  (Ranked 452)  
-Sum: 742 (Ranked 363)  
-Diff (max vs sum): 89  
+Max (Challenging Combat): 105  (Ranked 450)  
+Sum: 743 (Ranked 363)  
+Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 104 |
+| This game has Challenging Combat | 105 |
 | This game is Extremely Fun | 100 |
 | This game has Amazing Storytelling | 95 |
 | This game has Quickly Understood Controls | 94 |
@@ -666,3 +666,4 @@ Diff (max vs sum): 89
 | 2024-08-23 | 4.60 | - | 104 | 738 |
 | 2024-08-24 | 4.60 | - | 104 | 739 |
 | 2024-08-25 | 4.60 | - | 104 | 742 |
+| 2024-08-26 | 4.60 | - | 105 | 743 |
