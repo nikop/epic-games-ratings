@@ -1,7 +1,7 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.09 (Ranked 1,171)  
+Rating: 4.09 (Ranked 1,170)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
