@@ -76,7 +76,7 @@
 | [Illuvium Zero](games/5/5728256099ea4e028abfb327c4382660.md) | 2024-07-12 | - |  | 4.56 | 102 |
 | [Astra Nova](games/2/24157594879741fca671c04b3227fe27.md) | 2024-07-11 | - |  | - | 0 |
 | [OverTrip](games/2/2236052ecf0d480b838196b379726922.md) | 2024-07-10 | - |  | 4.28 | 20 |
-| [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.50 | 32 |
+| [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 2024-07-01 | - |  | 4.52 | 32 |
 | [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2024-06-30 | - |  | - | 0 |
 | [CryptoBall](games/5/539a43c4910f41ae851d7acc184c92f1.md) | 2024-06-30 | - |  | - | - |
 | [EARLY ACCESS: What Is This Sorcery: Trading Card Game](games/1/1a0e52b3813344f3a9e82ff7dc7c6c51.md) | 2024-06-30 | - |  | - | 0 |

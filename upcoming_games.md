@@ -570,6 +570,7 @@
 | [SCP: Submerged](games/a/a745435cd45c4821ac6418cfe9018076.md) | 2099-01-01 | - |  | - | - |
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | - |  | - | - |
 | [Set Sail](games/c/c667cce0acf1428281d560ec9848d3ea.md) | 2099-01-01 | - |  | - | - |
+| [Shadow of the Road](games/c/cc3b1d2ad407462d85aae3421985df2f.md) | 2099-01-01 | - |  | - | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shy Cats Hidden Orchestra](games/7/744c73d9f99f416dabceeacaf91031a1.md) | 2099-01-01 | - |  | - | - |
