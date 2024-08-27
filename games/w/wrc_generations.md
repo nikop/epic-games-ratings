@@ -4,8 +4,8 @@
 Rating: 4.44 (Ranked 801)  
 ## Awards
 Max (Realistic Visuals): 30  (Ranked 625)  
-Sum: 151 (Ranked 526)  
-Diff (max vs sum): 99  
+Sum: 151 (Ranked 527)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 30 |

@@ -2,7 +2,7 @@
   "ID": "50648c4c6f7f47e98a1b3756ed06cc4a",
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
-  "Ranking_Rating": 200,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 471,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "NumberOfRatings": 315,
   "RatingHistory": [
     {
@@ -3066,6 +3066,12 @@
       "Rating": 4.73,
       "NumberOfAwards": 521,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-08-27T18:01:08.5696812+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 521,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
@@ -3151,8 +3157,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-08-26T08:57:16.5734489+00:00",
+  "LastChanged": "2024-08-27T18:01:08.569681+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:22.4853525+00:00",
-  "LastUpdate_Ratings": "2024-08-27T16:57:37.7369108+00:00",
+  "LastUpdate_Ratings": "2024-08-27T18:01:08.5696816+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:34.8485615+00:00"
 }
