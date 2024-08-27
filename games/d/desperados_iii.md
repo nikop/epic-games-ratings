@@ -56,7 +56,7 @@ Completed: 4 (0.12%) (Ranked 425)
 | 2024-08-20 | 3,346 | 4 |
 ## Awards
 Max (Diverse Characters): 57  (Ranked 535)  
-Sum: 406 (Ranked 425)  
+Sum: 407 (Ranked 425)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
@@ -66,7 +66,7 @@ Diff (max vs sum): 110
 | This game is Extremely Fun | 46 |
 | This game has Amazing Characters | 46 |
 | This game is Great for Beginners | 46 |
-| This game is Highly Recommended | 43 |
+| This game is Highly Recommended | 44 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 36 |
 | This game has Obsessive Gameplay | 20 |
@@ -233,4 +233,4 @@ Diff (max vs sum): 110
 | 2024-08-23 | 4.84 | - | 56 | 403 |
 | 2024-08-24 | 4.84 | - | 56 | 404 |
 | 2024-08-26 | 4.84 | - | 56 | 405 |
-| 2024-08-27 | 4.84 | - | 57 | 406 |
+| 2024-08-27 | 4.84 | - | 57 | 407 |

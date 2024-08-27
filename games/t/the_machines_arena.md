@@ -1,7 +1,7 @@
 # The Machines Arena
 [Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.81 (Ranked 92)  
+Rating: 4.81 (Ranked 93)  
 ## Awards
 Max (Great for Quick Sessions): 27  (Ranked 650)  
 Sum: 69 (Ranked 594)  
