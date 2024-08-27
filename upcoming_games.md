@@ -76,8 +76,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
@@ -725,6 +725,7 @@
 | [Nivalis](games/n/nivalis.md) | 2099-02-01 | - |  | - | - |
 | [Path of Exile 2](games/5/58a18be6bbba41a0bf52b014bb81d33b.md) | 2099-02-01 | - |  | - | - |
 | [PixelJunk Eden 2](games/c/c7d240a44afd4e0ba06780cfc6fc5884.md) | 2099-02-01 | - |  | - | - |
+| [Sniper Elite: Resistance](games/5/532644adc3434590b6d5b644e05fec16.md) | 2099-02-01 | - |  | - | - |
 | [The Anacrusis](games/t/the_anacrusis.md) | 2099-02-01 | - |  | - | - |
 | [Under The Waves](games/u/under_the_waves.md) | 2099-02-01 | - |  | - | - |
 | [Ambulance Life: A Paramedic Simulator](games/7/720b4f9b718c4bdba3547b680607c4c0.md) | 2099-02-01 | - |  | - | - |
