@@ -3,8 +3,8 @@
   "Name": "Trine 5: A Clockwork Conspiracy",
   "ProductSlug": "trine-5",
   "Ranking_Rating": 290,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -222,6 +222,6 @@
   "LastChanged": "2024-08-17T11:58:45.3220798+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:55.0536523+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:58.4548331+00:00",
-  "LastUpdate_Ratings": "2024-08-26T22:59:06.4264244+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:01:18.5882456+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:55.0536603+00:00"
 }

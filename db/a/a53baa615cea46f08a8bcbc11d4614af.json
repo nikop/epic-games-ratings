@@ -2,8 +2,8 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1057,
-  "Ranking_Popularity": 480,
+  "Ranking_Rating": 1056,
+  "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 392,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -1171,10 +1171,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 582,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2024-08-27T02:01:37.0196433+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 583,
+      "NumberOfAwardsMax": 86
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 582,
+  "NumberOfAwards": 583,
   "NumberOfAwardsMax": 86,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1230,7 +1236,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1257,8 +1263,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-08-26T14:58:10.804683+00:00",
+  "LastChanged": "2024-08-27T02:01:37.0196431+00:00",
   "LastUpdate_AppInfo": "2024-08-20T16:57:07.6920115+00:00",
-  "LastUpdate_Ratings": "2024-08-26T22:59:22.8479519+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:01:37.0196437+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:14.4523445+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Industries of Titan",
   "ProductSlug": "industries-of-titan",
   "Ranking_Rating": 707,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -466,6 +466,6 @@
   "FirstSeen": "2022-07-22T20:25:16.5099101+00:00",
   "LastChanged": "2024-07-28T17:57:26.0743305+00:00",
   "LastUpdate_AppInfo": "2024-08-26T03:56:59.4590174+00:00",
-  "LastUpdate_Ratings": "2024-08-26T23:57:35.8290836+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:02:58.1860406+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:55.7614837+00:00"
 }

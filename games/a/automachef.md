@@ -1,11 +1,11 @@
 # Automachef
 [Store](https://store.epicgames.com/en-US/p/automachef)  
 [View Rawdata](../../db/a/automachef.json)  
-Rating: 4.34 (Ranked 958)  
+Rating: 4.34 (Ranked 959)  
 Number of Ratings: 543  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 29  (Ranked 634)  
-Sum: 98 (Ranked 568)  
+Max (Extremely Fun): 29  (Ranked 633)  
+Sum: 98 (Ranked 567)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |

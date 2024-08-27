@@ -3,8 +3,8 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 1075,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 483,
   "Ranking_EOS_NewPlayers": 77,
@@ -1481,6 +1481,6 @@
   "LastChanged": "2024-08-16T14:57:41.7262289+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:44.6278059+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:14.6474027+00:00",
-  "LastUpdate_Ratings": "2024-08-26T22:59:08.5728477+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:01:20.9866478+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:44.6278455+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Haven",
   "ProductSlug": "haven",
   "Ranking_Rating": 201,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 544,
@@ -4297,6 +4297,6 @@
   "LastChanged": "2024-07-20T14:58:36.4840485+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:45.7327932+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:06.3817044+00:00",
-  "LastUpdate_Ratings": "2024-08-26T22:59:25.4378126+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:01:39.9366255+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:45.7328313+00:00"
 }

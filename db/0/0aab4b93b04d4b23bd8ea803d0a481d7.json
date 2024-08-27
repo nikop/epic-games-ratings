@@ -3,8 +3,8 @@
   "Name": "Karos Classic",
   "ProductSlug": "karos-classic-93c08d",
   "Ranking_Rating": 1161,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -73,6 +73,6 @@
   "FirstSeenRating": "2024-06-01T22:57:19.2052461+00:00",
   "LastChanged": "2024-08-24T04:59:40.7652899+00:00",
   "LastUpdate_AppInfo": "2024-08-21T02:57:34.611262+00:00",
-  "LastUpdate_Ratings": "2024-08-26T22:59:20.0326046+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:01:33.8654818+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:47.2463402+00:00"
 }

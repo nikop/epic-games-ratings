@@ -3,8 +3,8 @@
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
   "Ranking_Rating": 1152,
-  "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 413,
+  "Ranking_Popularity": 386,
+  "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2183,10 +2183,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 452,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-08-27T02:01:58.0239142+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 452,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2194,7 +2200,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2206,7 +2212,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2224,7 +2230,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2245,8 +2251,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-08-26T02:02:43.5700151+00:00",
+  "LastChanged": "2024-08-27T02:01:58.023914+00:00",
   "LastUpdate_AppInfo": "2024-08-22T19:57:09.6334935+00:00",
-  "LastUpdate_Ratings": "2024-08-26T22:59:41.0107435+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:01:58.0239146+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:32.0460818+00:00"
 }

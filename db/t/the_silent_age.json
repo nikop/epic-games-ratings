@@ -3,8 +3,8 @@
   "Name": "The Silent Age",
   "ProductSlug": "the-silent-age-eb6972",
   "Ranking_Rating": 868,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -456,6 +456,6 @@
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
   "LastChanged": "2024-08-21T18:58:40.5412269+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:37.8289669+00:00",
-  "LastUpdate_Ratings": "2024-08-26T23:57:58.8247063+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:03:25.3052387+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:00.2696318+00:00"
 }
