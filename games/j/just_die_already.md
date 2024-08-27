@@ -5,8 +5,8 @@ Rating: 4.52 (Ranked 646)
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 121  (Ranked 433)  
-Sum: 967 (Ranked 327)  
-Diff (max vs sum): 106  
+Sum: 968 (Ranked 326)  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 121 |
@@ -19,7 +19,7 @@ Diff (max vs sum): 106
 | This game is Relaxing | 89 |
 | This game has a Silly Community | 86 |
 | This game has Amazing Characters | 82 |
-| This game has Easy Combat | 80 |
+| This game has Easy Combat | 81 |
 | This game has Obsessive Gameplay | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -236,3 +236,4 @@ Diff (max vs sum): 106
 | 2024-08-22 | 4.52 | - | 119 | 959 |
 | 2024-08-24 | 4.52 | - | 120 | 962 |
 | 2024-08-26 | 4.52 | - | 121 | 967 |
+| 2024-08-27 | 4.52 | - | 121 | 968 |

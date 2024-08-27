@@ -3,7 +3,7 @@
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire",
   "Ranking_Rating": 665,
-  "Ranking_Popularity": 274,
+  "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5541,11 +5541,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 2867,
       "NumberOfAwardsMax": 443
+    },
+    {
+      "Time": "2024-08-27T21:59:52.8890136+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2871,
+      "NumberOfAwardsMax": 447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2867,
-  "NumberOfAwardsMax": 443,
+  "NumberOfAwards": 2871,
+  "NumberOfAwardsMax": 447,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5582,7 +5588,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 443
+      "Count": 447
     },
     {
       "Text": "This game is Educational",
@@ -5628,9 +5634,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2024-08-27T13:11:23.8904815+00:00",
+  "LastChanged": "2024-08-27T21:59:52.8890134+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:20.2779692+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:25.2123737+00:00",
-  "LastUpdate_Ratings": "2024-08-27T20:57:55.8888584+00:00",
+  "LastUpdate_Ratings": "2024-08-27T21:59:52.8890141+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:20.2779722+00:00"
 }

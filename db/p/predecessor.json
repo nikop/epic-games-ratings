@@ -4,7 +4,7 @@
   "ProductSlug": "predecessor",
   "Ranking_Rating": 1040,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -10384,11 +10384,17 @@
       "Rating": 4.26,
       "NumberOfAwards": 4289,
       "NumberOfAwardsMax": 822
+    },
+    {
+      "Time": "2024-08-27T21:57:29.122498+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 4296,
+      "NumberOfAwardsMax": 827
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4289,
-  "NumberOfAwardsMax": 822,
+  "NumberOfAwards": 4296,
+  "NumberOfAwardsMax": 827,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10401,7 +10407,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 822
+      "Count": 827
     },
     {
       "Text": "This game has a Competitive Community",
@@ -10413,7 +10419,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 548
+      "Count": 550
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10464,8 +10470,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2024-08-27T15:57:17.5238904+00:00",
+  "LastChanged": "2024-08-27T21:57:29.1224978+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:47.8468708+00:00",
-  "LastUpdate_Ratings": "2024-08-27T18:58:28.5046917+00:00",
+  "LastUpdate_Ratings": "2024-08-27T21:57:29.1224985+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.5267563+00:00"
 }

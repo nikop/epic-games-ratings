@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-mars",
   "Ranking_Rating": 450,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -6843,10 +6843,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3644,
       "NumberOfAwardsMax": 695
+    },
+    {
+      "Time": "2024-08-27T21:59:07.0511281+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3646,
+      "NumberOfAwardsMax": 695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3644,
+  "NumberOfAwards": 3646,
   "NumberOfAwardsMax": 695,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6908,7 +6914,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 307
+      "Count": 309
     }
   ],
   "EOS_Progressed": 0,
@@ -6922,8 +6928,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2024-08-27T15:59:46.0328598+00:00",
+  "LastChanged": "2024-08-27T21:59:07.0511279+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:32.0111215+00:00",
-  "LastUpdate_Ratings": "2024-08-27T20:57:12.3527807+00:00",
+  "LastUpdate_Ratings": "2024-08-27T21:59:07.0511286+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:18.2295037+00:00"
 }

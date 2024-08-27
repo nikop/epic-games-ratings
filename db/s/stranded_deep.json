@@ -3,7 +3,7 @@
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 1079,
-  "Ranking_Popularity": 313,
+  "Ranking_Popularity": 314,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -4165,10 +4165,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1709,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2024-08-27T21:59:22.9901493+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1711,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1709,
+  "NumberOfAwards": 1711,
   "NumberOfAwardsMax": 285,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4176,7 +4182,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 255
+      "Count": 257
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4244,8 +4250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-08-27T20:57:27.4414998+00:00",
+  "LastChanged": "2024-08-27T21:59:22.9901491+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:16.007373+00:00",
-  "LastUpdate_Ratings": "2024-08-27T20:57:27.4415008+00:00",
+  "LastUpdate_Ratings": "2024-08-27T21:59:22.9901497+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:36.2932945+00:00"
 }
