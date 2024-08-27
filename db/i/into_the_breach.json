@@ -2,7 +2,7 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 51,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 4082,
   "RatingHistory": [
     {
@@ -5974,10 +5974,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4565,
       "NumberOfAwardsMax": 513
+    },
+    {
+      "Time": "2024-08-27T16:59:15.6676106+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4566,
+      "NumberOfAwardsMax": 513
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4565,
+  "NumberOfAwards": 4566,
   "NumberOfAwardsMax": 513,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6051,7 +6057,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 337
+      "Count": 338
     },
     {
       "Text": "This game has a Creative Community",
@@ -6071,8 +6077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-08-27T02:00:37.135335+00:00",
+  "LastChanged": "2024-08-27T16:59:15.6676104+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:01.3231947+00:00",
-  "LastUpdate_Ratings": "2024-08-27T14:59:36.4516751+00:00",
+  "LastUpdate_Ratings": "2024-08-27T16:59:15.667611+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.061096+00:00"
 }

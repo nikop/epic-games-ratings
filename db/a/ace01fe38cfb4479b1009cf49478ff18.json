@@ -2,7 +2,7 @@
   "ID": "ace01fe38cfb4479b1009cf49478ff18",
   "Name": "Warhammer 40,000: Boltgun",
   "ProductSlug": "boltgun-b1cb36",
-  "Ranking_Rating": 727,
+  "Ranking_Rating": 686,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 386,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2024-06-03T21:59:07.3873532+00:00",
@@ -81,6 +81,12 @@
     {
       "Time": "2024-08-22T17:00:22.3223576+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-27T16:59:03.1867876+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3691,9 +3697,9 @@
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenRating": "2024-06-03T21:59:07.387353+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged": "2024-08-22T17:00:22.3223574+00:00",
+  "LastChanged": "2024-08-27T16:59:03.1867874+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:57.0950836+00:00",
   "LastUpdate_AppInfo": "2024-08-24T07:56:53.1851715+00:00",
-  "LastUpdate_Ratings": "2024-08-27T14:59:24.1455484+00:00",
+  "LastUpdate_Ratings": "2024-08-27T16:59:03.1867879+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:57.0951113+00:00"
 }

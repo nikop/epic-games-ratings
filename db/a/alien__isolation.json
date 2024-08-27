@@ -2,7 +2,7 @@
   "ID": "df37f065c3f14eadbf011177396e2966",
   "Name": "Alien: Isolation",
   "ProductSlug": "alien-isolation",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 424,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "NumberOfRatings": 5222,
   "RatingHistory": [
     {
@@ -3116,6 +3116,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 1169,
       "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2024-08-27T16:58:50.9666212+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1169,
+      "NumberOfAwardsMax": 161
     }
   ],
   "ReviewsDisabled": false,
@@ -3189,8 +3195,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2024-08-26T22:58:04.759967+00:00",
+  "LastChanged": "2024-08-27T16:58:50.966621+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:10:50.8680211+00:00",
-  "LastUpdate_Ratings": "2024-08-27T14:59:11.7745107+00:00",
+  "LastUpdate_Ratings": "2024-08-27T16:58:50.9666216+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:17.1524772+00:00"
 }

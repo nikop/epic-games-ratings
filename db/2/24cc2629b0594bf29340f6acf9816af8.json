@@ -2,7 +2,7 @@
   "ID": "24cc2629b0594bf29340f6acf9816af8",
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
-  "Ranking_Rating": 75,
+  "Ranking_Rating": 76,
   "Ranking_Popularity": 232,
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 229,
@@ -3409,10 +3409,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 1824,
       "NumberOfAwardsMax": 718
+    },
+    {
+      "Time": "2024-08-27T16:58:22.2001607+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 1828,
+      "NumberOfAwardsMax": 718
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1824,
+  "NumberOfAwards": 1828,
   "NumberOfAwardsMax": 718,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3438,13 +3444,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 97
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3468,7 +3474,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game is Relaxing",
@@ -4187,9 +4193,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-08-27T07:59:11.4125787+00:00",
+  "LastChanged": "2024-08-27T16:58:22.2001605+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:55.4665755+00:00",
   "LastUpdate_AppInfo": "2024-08-22T19:57:07.1486264+00:00",
-  "LastUpdate_Ratings": "2024-08-27T14:58:43.2815037+00:00",
+  "LastUpdate_Ratings": "2024-08-27T16:58:22.2001609+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:55.4666694+00:00"
 }
