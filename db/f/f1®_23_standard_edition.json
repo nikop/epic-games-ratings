@@ -4,7 +4,7 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 534,
   "Ranking_Popularity": 304,
-  "Ranking_PopularitySum": 256,
+  "Ranking_PopularitySum": 257,
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 235,
@@ -17355,6 +17355,6 @@
   "LastChanged": "2024-08-27T02:03:26.6847346+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:04.3980078+00:00",
   "LastUpdate_AppInfo": "2024-08-26T06:57:18.8219011+00:00",
-  "LastUpdate_Ratings": "2024-08-27T13:11:14.5387579+00:00",
+  "LastUpdate_Ratings": "2024-08-27T14:57:02.1289613+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:04.3980798+00:00"
 }

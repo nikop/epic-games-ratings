@@ -2,7 +2,7 @@
   "ID": "7973ee6548ab4863a815a208f8721f4f",
   "Name": "GrandChase",
   "ProductSlug": "grandchase-c03eb2",
-  "Ranking_Rating": 268,
+  "Ranking_Rating": 247,
   "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-12-07T10:57:43.4911973+00:00",
@@ -1001,6 +1001,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 242,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-08-27T14:57:52.5546289+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 242,
+      "NumberOfAwardsMax": 116
     }
   ],
   "ReviewsDisabled": false,
@@ -1045,8 +1051,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
-  "LastChanged": "2024-08-26T11:59:40.1875089+00:00",
+  "LastChanged": "2024-08-27T14:57:52.5546287+00:00",
   "LastUpdate_AppInfo": "2024-08-21T21:57:25.7890111+00:00",
-  "LastUpdate_Ratings": "2024-08-27T13:12:03.9930184+00:00",
+  "LastUpdate_Ratings": "2024-08-27T14:57:52.5546292+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:47.6306061+00:00"
 }

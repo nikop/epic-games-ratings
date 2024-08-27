@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-of-the-tomb-raider",
   "Ranking_Rating": 377,
   "Ranking_Popularity": 20,
-  "Ranking_PopularitySum": 45,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -11161,10 +11161,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 41297,
       "NumberOfAwardsMax": 31077
+    },
+    {
+      "Time": "2024-08-27T14:58:37.915224+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 41303,
+      "NumberOfAwardsMax": 31077
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41297,
+  "NumberOfAwards": 41303,
   "NumberOfAwardsMax": 31077,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -11178,7 +11184,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1004
+      "Count": 1007
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11226,7 +11232,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1233
+      "Count": 1236
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11252,8 +11258,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2024-08-27T13:12:48.4086855+00:00",
+  "LastChanged": "2024-08-27T14:58:37.9152238+00:00",
   "LastUpdate_AppInfo": "2024-08-25T20:57:05.3041203+00:00",
-  "LastUpdate_Ratings": "2024-08-27T13:12:48.408686+00:00",
+  "LastUpdate_Ratings": "2024-08-27T14:58:37.9152248+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:24.2215372+00:00"
 }

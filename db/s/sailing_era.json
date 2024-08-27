@@ -3,8 +3,8 @@
   "Name": "Sailing Era",
   "ProductSlug": "sailingera-450a80",
   "Ranking_Rating": 290,
-  "Ranking_Popularity": 688,
-  "Ranking_PopularitySum": 691,
+  "Ranking_Popularity": 681,
+  "Ranking_PopularitySum": 686,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -243,18 +243,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-08-27T14:57:42.0674667+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -277,9 +283,9 @@
   "FirstSeen": "2023-01-12T09:59:58.7174418+00:00",
   "FirstSeenRating": "2023-03-12T23:58:12.567648+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.1243565+00:00",
-  "LastChanged": "2024-08-18T15:59:32.4610853+00:00",
+  "LastChanged": "2024-08-27T14:57:42.0674665+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:12.966867+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:18.6944291+00:00",
-  "LastUpdate_Ratings": "2024-08-27T13:11:53.809727+00:00",
+  "LastUpdate_Ratings": "2024-08-27T14:57:42.0674672+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:12.9668747+00:00"
 }
