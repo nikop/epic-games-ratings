@@ -1,7 +1,7 @@
 # Gigantic: Rampage Edition
 [Store](https://store.epicgames.com/en-US/p/gigantic-rampage-edition-03f532)  
 [View Rawdata](../../db/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.json)  
-Rating: 4.08 (Ranked 1,175)  
+Rating: 4.09 (Ranked 1,170)  
 ## Awards
 Max (Great Boss Battles): 24  (Ranked 665)  
 Sum: 24 (Ranked 674)  
@@ -27,3 +27,4 @@ Diff (max vs sum): -9
 | 2024-08-24 | 4.16 | 0 | 0 |
 | 2024-08-25 | 4.14 | 20 | 20 |
 | 2024-08-26 | 4.09 | 24 | 24 |
+| 2024-08-27 | 4.09 | 24 | 24 |
