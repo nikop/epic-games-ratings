@@ -4,7 +4,7 @@
   "ProductSlug": "dauntless",
   "Ranking_Rating": 627,
   "Ranking_Popularity": 19,
-  "Ranking_PopularitySum": 27,
+  "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21309,10 +21309,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 88820,
       "NumberOfAwardsMax": 31477
+    },
+    {
+      "Time": "2024-08-27T15:57:51.828211+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 88852,
+      "NumberOfAwardsMax": 31477
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88820,
+  "NumberOfAwards": 88852,
   "NumberOfAwardsMax": 31477,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21326,7 +21332,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22087
+      "Count": 22105
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -21362,7 +21368,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6099
+      "Count": 6113
     },
     {
       "Text": "This game has Amazing Characters",
@@ -21394,8 +21400,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-08-27T13:58:58.521585+00:00",
+  "LastChanged": "2024-08-27T15:57:51.8282108+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:59.8438763+00:00",
-  "LastUpdate_Ratings": "2024-08-27T13:58:58.5215857+00:00",
+  "LastUpdate_Ratings": "2024-08-27T15:57:51.8282113+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.6290985+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/o/outlast.json)  
 Rating: 4.74 (Ranked 184)  
 ## Awards
-Max (Great for Beginners): 47  (Ranked 557)  
-Sum: 237 (Ranked 487)  
-Diff (max vs sum): 70  
+Max (Great for Beginners): 48  (Ranked 552)  
+Sum: 238 (Ranked 487)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 47 |
+| This game is Great for Beginners | 48 |
 | This game is Highly Recommended | 41 |
 | This game has Diverse Characters | 40 |
 | This game has Amazing Storytelling | 33 |
@@ -135,3 +135,4 @@ Diff (max vs sum): 70
 | 2024-08-22 | 4.74 | 46 | 232 |
 | 2024-08-23 | 4.74 | 46 | 235 |
 | 2024-08-26 | 4.74 | 47 | 237 |
+| 2024-08-27 | 4.74 | 48 | 238 |
