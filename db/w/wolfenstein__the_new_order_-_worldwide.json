@@ -2,7 +2,7 @@
   "ID": "0bd3e505924240adb702295fa08c1eff",
   "Name": "Wolfenstein: The New Order",
   "ProductSlug": "wolfenstein-the-new-order",
-  "Ranking_Rating": 517,
+  "Ranking_Rating": 516,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 1193,
@@ -5647,10 +5647,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18068,
       "NumberOfAwardsMax": 15151
+    },
+    {
+      "Time": "2024-08-27T18:57:14.2648777+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18069,
+      "NumberOfAwardsMax": 15151
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18068,
+  "NumberOfAwards": 18069,
   "NumberOfAwardsMax": 15151,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5694,7 +5700,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 397
+      "Count": 398
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5726,8 +5732,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2024-08-27T16:58:19.8468525+00:00",
+  "LastChanged": "2024-08-27T18:57:14.2648775+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:30.8097248+00:00",
-  "LastUpdate_Ratings": "2024-08-27T16:58:19.8468531+00:00",
+  "LastUpdate_Ratings": "2024-08-27T18:57:14.264878+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:28.7164595+00:00"
 }

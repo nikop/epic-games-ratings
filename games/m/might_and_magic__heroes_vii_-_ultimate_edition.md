@@ -1,17 +1,17 @@
 # Might and Magic: Heroes VII - Ultimate Edition
 [Store](https://store.epicgames.com/en-US/p/might-and-magic-heroes-7)  
 [View Rawdata](../../db/m/might_and_magic__heroes_vii_-_ultimate_edition.json)  
-Rating: 4.46 (Ranked 756)  
+Rating: 4.46 (Ranked 755)  
 Number of Ratings: 96  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 60  (Ranked 525)  
-Sum: 355 (Ranked 443)  
+Sum: 356 (Ranked 443)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 60 |
 | This game is Great for Beginners | 52 |
-| This game has Quickly Understood Controls | 50 |
+| This game has Quickly Understood Controls | 51 |
 | This game is Highly Recommended | 49 |
 | This game is Extremely Fun | 39 |
 | This game is Relaxing | 38 |
@@ -271,4 +271,4 @@ Diff (max vs sum): 82
 | 2024-08-21 | 4.47 | - | 58 | 352 |
 | 2024-08-23 | 4.47 | - | 59 | 353 |
 | 2024-08-25 | 4.47 | - | 59 | 354 |
-| 2024-08-27 | 4.46 | - | 60 | 355 |
+| 2024-08-27 | 4.46 | - | 60 | 356 |

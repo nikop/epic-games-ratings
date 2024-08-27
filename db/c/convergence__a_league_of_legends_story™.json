@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 383,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2023-07-28T17:00:54.1232384+00:00",
@@ -103,6 +103,12 @@
     {
       "Time": "2024-05-28T00:00:54.975199+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-27T18:57:50.7972023+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4707,9 +4713,9 @@
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged": "2024-05-28T00:00:54.9751988+00:00",
+  "LastChanged": "2024-08-27T18:57:50.7972021+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:54.0551942+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:40.7749866+00:00",
-  "LastUpdate_Ratings": "2024-08-27T16:58:56.2370505+00:00",
+  "LastUpdate_Ratings": "2024-08-27T18:57:50.7972026+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:54.0552473+00:00"
 }

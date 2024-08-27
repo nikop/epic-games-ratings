@@ -2,7 +2,7 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 627,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 61,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2022-10-16T14:30:41.059788+00:00",
@@ -332,6 +332,12 @@
     {
       "Time": "2024-08-05T02:01:33.4068041+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-27T18:58:15.8936368+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -15216,9 +15222,9 @@
   "FirstSeen": "2022-07-22T20:19:42.5762189+00:00",
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
-  "LastChanged": "2024-08-05T02:01:33.4068039+00:00",
+  "LastChanged": "2024-08-27T18:58:15.8936366+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:33.9313382+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:04.7663585+00:00",
-  "LastUpdate_Ratings": "2024-08-27T16:59:20.9674558+00:00",
+  "LastUpdate_Ratings": "2024-08-27T18:58:15.8936372+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:33.9314199+00:00"
 }
