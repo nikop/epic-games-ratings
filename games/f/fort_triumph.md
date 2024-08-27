@@ -1,14 +1,14 @@
 # Fort Triumph
 [Store](https://store.epicgames.com/en-US/p/fort-triumph)  
 [View Rawdata](../../db/f/fort_triumph.json)  
-Rating: 4.08 (Ranked 1,176)  
+Rating: 4.08 (Ranked 1,175)  
 ## Awards
-Max (Character Customization): 150  (Ranked 397)  
-Sum: 150 (Ranked 527)  
+Max (Character Customization): 151  (Ranked 397)  
+Sum: 151 (Ranked 527)  
 Diff (max vs sum): -130  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 150 |
+| This game has Inclusive Character Customization | 151 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -32,3 +32,4 @@ Diff (max vs sum): -130
 | 2024-08-03 | 4.08 | 148 | 148 |
 | 2024-08-14 | 4.08 | 149 | 149 |
 | 2024-08-24 | 4.08 | 150 | 150 |
+| 2024-08-26 | 4.08 | 151 | 151 |
