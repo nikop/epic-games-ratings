@@ -332,7 +332,7 @@ Completed: 223 (0.20%) (Ranked 392)
 | 2024-08-09 | 108,955 | 223 |
 ## Awards
 Max (Relaxing): 571  (Ranked 253)  
-Sum: 3,625 (Ranked 201)  
+Sum: 3,626 (Ranked 201)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
@@ -344,7 +344,7 @@ Diff (max vs sum): 52
 | This game has Amazing Storytelling | 423 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 298 |
-| This game has Amazing Characters | 225 |
+| This game has Amazing Characters | 226 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -742,4 +742,4 @@ Diff (max vs sum): 52
 | 2024-08-23 | 4.54 | - | 571 | 3,611 |
 | 2024-08-24 | 4.54 | - | 571 | 3,620 |
 | 2024-08-26 | 4.54 | - | 571 | 3,624 |
-| 2024-08-27 | 4.54 | - | 571 | 3,625 |
+| 2024-08-27 | 4.54 | - | 571 | 3,626 |

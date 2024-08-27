@@ -3,8 +3,8 @@
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
   "Ranking_Rating": 558,
-  "Ranking_Popularity": 655,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 642,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 35,
@@ -431,18 +431,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 73,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-08-27T20:58:41.1673529+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 75,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 73,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 75,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Beautiful Visuals",
   "Tags": [
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2250,9 +2256,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-08-26T06:58:14.0589533+00:00",
+  "LastChanged": "2024-08-27T20:58:41.1673527+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:42.4436388+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:57.6046191+00:00",
-  "LastUpdate_Ratings": "2024-08-27T18:01:07.2856494+00:00",
+  "LastUpdate_Ratings": "2024-08-27T20:58:41.1673533+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:42.4436843+00:00"
 }

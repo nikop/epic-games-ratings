@@ -2,7 +2,7 @@
   "ID": "4de5e06a60314c12ada34d918e65cfda",
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
-  "Ranking_Rating": 944,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 1193,
@@ -2034,10 +2034,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1730,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2024-08-27T20:57:57.2920671+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1736,
+      "NumberOfAwardsMax": 403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1730,
+  "NumberOfAwards": 1736,
   "NumberOfAwardsMax": 403,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2105,7 +2111,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 145
+      "Count": 151
     }
   ],
   "EOS_Progressed": 0,
@@ -2120,8 +2126,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-08-27T17:59:58.2045597+00:00",
+  "LastChanged": "2024-08-27T20:57:57.2920669+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:43.3402115+00:00",
-  "LastUpdate_Ratings": "2024-08-27T17:59:58.2045603+00:00",
+  "LastUpdate_Ratings": "2024-08-27T20:57:57.2920674+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:29.0177179+00:00"
 }

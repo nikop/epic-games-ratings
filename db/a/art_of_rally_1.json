@@ -2882,10 +2882,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 846,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-08-27T20:59:19.1815221+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 847,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 846,
+  "NumberOfAwards": 847,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2893,7 +2899,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 90
+      "Count": 91
     },
     {
       "Text": "This game is Relaxing",
@@ -9541,9 +9547,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-08-27T07:59:05.5132063+00:00",
+  "LastChanged": "2024-08-27T20:59:19.181522+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:24.8226879+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:30.059617+00:00",
-  "LastUpdate_Ratings": "2024-08-27T18:57:10.4784356+00:00",
+  "LastUpdate_Ratings": "2024-08-27T20:59:19.1815225+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:24.8227465+00:00"
 }

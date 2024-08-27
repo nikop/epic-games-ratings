@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 558,
   "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -870,10 +870,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 491,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-08-27T20:59:34.5244681+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 525,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 491,
+  "NumberOfAwards": 525,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -923,7 +929,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -935,7 +941,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 21
+      "Count": 33
     }
   ],
   "EOS_Progressed": 0,
@@ -950,8 +956,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-08-27T18:57:26.4450422+00:00",
+  "LastChanged": "2024-08-27T20:59:34.524468+00:00",
   "LastUpdate_AppInfo": "2024-08-23T21:57:04.4360306+00:00",
-  "LastUpdate_Ratings": "2024-08-27T18:57:26.4450428+00:00",
+  "LastUpdate_Ratings": "2024-08-27T20:59:34.5244685+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }
