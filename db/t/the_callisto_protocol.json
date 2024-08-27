@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 1128,
-  "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 301,
+  "Ranking_Popularity": 323,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 176,
@@ -4161,18 +4161,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 1378,
       "NumberOfAwardsMax": 265
+    },
+    {
+      "Time": "2024-08-27T08:57:26.0557116+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 1399,
+      "NumberOfAwardsMax": 266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1378,
-  "NumberOfAwardsMax": 265,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 1399,
+  "NumberOfAwardsMax": 266,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 245
+      "Count": 266
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17310,9 +17316,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-08-27T04:59:10.6469792+00:00",
+  "LastChanged": "2024-08-27T08:57:26.0557114+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:34.0522098+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:10.2654809+00:00",
-  "LastUpdate_Ratings": "2024-08-27T06:58:17.4339695+00:00",
+  "LastUpdate_Ratings": "2024-08-27T08:57:26.055712+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:34.052304+00:00"
 }
