@@ -2,9 +2,9 @@
   "ID": "f7ca5706875344d8a1fe695093353fae",
   "Name": "Floppy Knights",
   "ProductSlug": "floppy-knights-6a735a",
-  "Ranking_Rating": 757,
-  "Ranking_Popularity": 680,
-  "Ranking_PopularitySum": 627,
+  "Ranking_Rating": 772,
+  "Ranking_Popularity": 673,
+  "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 43,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2024-07-13T09:59:24.7498767+00:00",
@@ -330,18 +330,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-08-27T02:57:33.1658727+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 44,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Great for Beginners",
@@ -532,9 +538,9 @@
   "FirstSeen": "2024-07-11T17:57:44.3443353+00:00",
   "FirstSeenRating": "2024-07-13T09:59:24.7498765+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:17.4742947+00:00",
-  "LastChanged": "2024-08-25T23:59:04.580525+00:00",
+  "LastChanged": "2024-08-27T02:57:33.1658725+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:13.6812335+00:00",
   "LastUpdate_AppInfo": "2024-08-22T19:57:06.0868574+00:00",
-  "LastUpdate_Ratings": "2024-08-26T23:58:09.3128039+00:00",
+  "LastUpdate_Ratings": "2024-08-27T02:57:33.1658731+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:13.6812441+00:00"
 }
