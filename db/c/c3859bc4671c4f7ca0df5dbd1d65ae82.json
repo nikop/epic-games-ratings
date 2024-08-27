@@ -4,7 +4,7 @@
   "ProductSlug": "seekers-of-tokane-a5986d",
   "Ranking_Rating": 727,
   "Ranking_Popularity": 578,
-  "Ranking_PopularitySum": 555,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -654,10 +654,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 111,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-08-27T07:58:10.3530357+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 131,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 111,
+  "NumberOfAwards": 131,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -678,6 +684,12 @@
       "Prefix": "This game has",
       "Type": "Diverse Characters",
       "Count": 33
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -692,8 +704,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-08-24T21:57:31.3253798+00:00",
+  "LastChanged": "2024-08-27T07:58:10.3530356+00:00",
   "LastUpdate_AppInfo": "2024-08-23T07:57:03.5412716+00:00",
-  "LastUpdate_Ratings": "2024-08-27T05:59:57.6966346+00:00",
+  "LastUpdate_Ratings": "2024-08-27T07:58:10.353036+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:58.2922179+00:00"
 }

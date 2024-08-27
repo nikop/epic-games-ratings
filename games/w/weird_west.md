@@ -273,8 +273,8 @@ Completed: 15 (0.06%) (Ranked 463)
 | 2024-08-20 | 25,118 | 15 |
 ## Awards
 Max (Impact the Story): 65  (Ranked 513)  
-Sum: 65 (Ranked 599)  
-Diff (max vs sum): -86  
+Sum: 65 (Ranked 600)  
+Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 65 |

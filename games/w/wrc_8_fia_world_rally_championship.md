@@ -4,12 +4,12 @@
 Rating: 4.54 (Ranked 606)  
 Number of Ratings: 199  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 28  (Ranked 640)  
-Sum: 113 (Ranked 553)  
-Diff (max vs sum): 87  
+Max (Quickly Understood Controls): 29  (Ranked 633)  
+Sum: 114 (Ranked 554)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 28 |
+| This game has Quickly Understood Controls | 29 |
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 22 |
 | This game is Relaxing | 21 |
@@ -114,3 +114,4 @@ Diff (max vs sum): 87
 | 2024-08-18 | 4.55 | - | 28 | 112 |
 | 2024-08-20 | 4.54 | - | 28 | 112 |
 | 2024-08-26 | 4.54 | - | 28 | 113 |
+| 2024-08-27 | 4.54 | - | 29 | 114 |

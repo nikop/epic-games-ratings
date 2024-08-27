@@ -3,8 +3,8 @@
   "Name": "WRC 8 FIA World Rally Championship",
   "ProductSlug": "wrc-8",
   "Ranking_Rating": 606,
-  "Ranking_Popularity": 640,
-  "Ranking_PopularitySum": 553,
+  "Ranking_Popularity": 633,
+  "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -562,18 +562,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 113,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-08-27T07:59:56.4814718+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 113,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 114,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -611,8 +617,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2024-08-26T08:58:43.9027858+00:00",
+  "LastChanged": "2024-08-27T07:59:56.4814717+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:43.3446749+00:00",
-  "LastUpdate_Ratings": "2024-08-27T06:57:44.2989477+00:00",
+  "LastUpdate_Ratings": "2024-08-27T07:59:56.4814722+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:57.586135+00:00"
 }

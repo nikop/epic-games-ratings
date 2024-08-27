@@ -3,8 +3,8 @@
   "Name": "EARTH DEFENSE FORCE \uFF16",
   "ProductSlug": "earth-defense-force-6-129839",
   "Ranking_Rating": 164,
-  "Ranking_Popularity": 673,
-  "Ranking_PopularitySum": 678,
+  "Ranking_Popularity": 665,
+  "Ranking_PopularitySum": 673,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 18,
@@ -102,18 +102,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-08-27T07:57:54.0211099+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 86313,
@@ -466,9 +472,9 @@
   "FirstSeen": "2024-07-25T13:07:03.6627965+00:00",
   "FirstSeenRating": "2024-08-03T23:59:46.9471215+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:13.3675269+00:00",
-  "LastChanged": "2024-08-24T22:59:06.4336943+00:00",
+  "LastChanged": "2024-08-27T07:57:54.0211098+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:06.0202371+00:00",
   "LastUpdate_AppInfo": "2024-08-26T20:57:14.2640131+00:00",
-  "LastUpdate_Ratings": "2024-08-27T05:59:33.1270245+00:00",
+  "LastUpdate_Ratings": "2024-08-27T07:57:54.0211102+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:06.020259+00:00"
 }
