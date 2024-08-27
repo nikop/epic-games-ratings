@@ -182,7 +182,7 @@
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | 46 (1,000 XP) | 71 | - | 0 |
 | [Knight Swap](games/d/d62ad943ddbb4d0b8aa4969f31260bc5.md) | 2024-05-29 | 10 (1,000 XP) | 75 | - | 0 |
 | [Unlock The King](games/e/eda8051dd8c54c5c8782a5acda485245.md) | 2024-05-29 | 10 (1,000 XP) | 155 | - | 0 |
-| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,386,739 | 4.54 | 5,603 |
+| [MultiVersus](games/m/multiversus.md) | 2024-05-28 | 28 (1,000 XP) | 1,386,739 | 4.54 | 5,612 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 10 | - | - |
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 80 | - | 0 |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 26 | - | 0 |
@@ -228,7 +228,7 @@
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 21 | - | 0 |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 45 | - | 0 |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 328,241 | 4.69 | 187 |
-| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 519,261 | 4.56 | 1,363 |
+| [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 519,261 | 4.56 | 1,365 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | 50 (1,000 XP) | 1 | - | 0 |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | 15 (1,000 XP) | 4 | - | 0 |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 57 | - | 0 |
@@ -413,7 +413,7 @@
 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-21 | 8 (1,000 XP) | 19,701 | - | 0 |
 | [Mediterranea Inferno](games/3/3623ba5530504da8a3f6e8d7f51177df.md) | 2023-12-18 | 11 (1,000 XP) | 48 | - | 0 |
 | [Tales of the Tiny Planet](games/f/fcfb5f2cb071465391cc3c4555327790.md) | 2023-12-18 | 34 (1,000 XP) | 1 | - | 0 |
-| [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 694,455 | 4.35 | 127 |
+| [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 694,455 | 4.34 | 127 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 120 | - | 0 |
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 87 | - | 0 |
 | [Battle Planet - Judgement Day](games/e/e3c41cdcfdd044478dd6ed66556df982.md) | 2023-12-15 | 13 (1,000 XP) | 4 | - | 0 |
@@ -757,7 +757,7 @@
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 1,133 | - | 0 |
 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 2023-06-09 | 74 (1,110 XP) | 308 | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 16 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,974,211 | 4.58 | 13,423 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,974,211 | 4.58 | 13,446 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 13 (1,000 XP) | 64 | - | 0 |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 111 | - | 0 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 127 | - | 0 |
@@ -934,7 +934,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 19,684 | 4.52 | 33 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 6,973 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 895 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 431,785 | 4.73 | 42,541 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 431,785 | 4.73 | 42,571 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 298 | - | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 105,894 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 4,998 | - | 0 |
@@ -1260,7 +1260,7 @@
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 3,346 | 4.84 | 57 |
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 40 (1,000 XP) | 148,058 | 4.87 | 844 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 366 (3,480 XP) | 20,212 | 4.65 | 266 |
-| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 122,180 | 4.74 | 10,556 |
+| [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 122,180 | 4.74 | 10,581 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,250 | 4.69 | 988 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 752,219 | 4.92 | 4,199 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 89,481 | 4.69 | 0 |
