@@ -4,7 +4,7 @@
   "ProductSlug": "aztez",
   "Ranking_Rating": 626,
   "Ranking_Popularity": 665,
-  "Ranking_PopularitySum": 673,
+  "Ranking_PopularitySum": 674,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -350,6 +350,6 @@
   "FirstSeenRating": "2022-08-01T19:31:46.0667461+00:00",
   "LastChanged": "2024-08-20T19:00:17.8427988+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:34.9091631+00:00",
-  "LastUpdate_Ratings": "2024-08-27T08:59:22.9020524+00:00",
+  "LastUpdate_Ratings": "2024-08-27T10:59:09.4987293+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:54.0901785+00:00"
 }

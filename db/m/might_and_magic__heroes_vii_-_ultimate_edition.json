@@ -2,9 +2,9 @@
   "ID": "55d082ca99b64bd9bdb25754eb56a135",
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "ProductSlug": "might-and-magic-heroes-7",
-  "Ranking_Rating": 747,
-  "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 444,
+  "Ranking_Rating": 756,
+  "Ranking_Popularity": 525,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.46,
   "NumberOfRatings": 96,
   "RatingHistory": [
     {
@@ -1588,11 +1588,17 @@
       "Rating": 4.47,
       "NumberOfAwards": 354,
       "NumberOfAwardsMax": 59
+    },
+    {
+      "Time": "2024-08-27T10:57:16.5918404+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 355,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 354,
-  "NumberOfAwardsMax": 59,
+  "NumberOfAwards": 355,
+  "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1611,7 +1617,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1655,8 +1661,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2024-08-25T18:01:12.7218841+00:00",
+  "LastChanged": "2024-08-27T10:57:16.5918402+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:16.9186203+00:00",
-  "LastUpdate_Ratings": "2024-08-27T08:57:59.0025433+00:00",
+  "LastUpdate_Ratings": "2024-08-27T10:57:16.5918408+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:17.6979099+00:00"
 }

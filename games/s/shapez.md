@@ -4,19 +4,19 @@
 Rating: 4.71 (Ranked 227)  
 ## Awards
 Max (Great for Beginners): 38  (Ranked 584)  
-Sum: 244 (Ranked 484)  
+Sum: 246 (Ranked 484)  
 Diff (max vs sum): 100  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
 | This game is Great for Beginners | 38 |
-| This game has Quickly Understood Controls | 35 |
+| This game has Quickly Understood Controls | 36 |
 | This game is Relaxing | 34 |
 | This game is Educational | 30 |
 | This game is Highly Recommended | 30 |
 | This game is Extremely Fun | 30 |
 | This game has a Creative Community | 25 |
-| This game has Unique Visuals | 22 |
+| This game has Unique Visuals | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -155,3 +155,4 @@ Diff (max vs sum): 100
 | 2024-08-22 | 4.71 | 37 | 242 |
 | 2024-08-23 | 4.71 | 37 | 243 |
 | 2024-08-24 | 4.71 | 38 | 244 |
+| 2024-08-27 | 4.71 | 38 | 246 |
