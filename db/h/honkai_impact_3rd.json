@@ -18112,10 +18112,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 17651,
       "NumberOfAwardsMax": 4516
+    },
+    {
+      "Time": "2024-08-28T22:58:09.3564456+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 17653,
+      "NumberOfAwardsMax": 4516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17651,
+  "NumberOfAwards": 17653,
   "NumberOfAwardsMax": 4516,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18195,7 +18201,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 927
+      "Count": 929
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -18216,8 +18222,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2024-08-28T19:59:07.8880025+00:00",
+  "LastChanged": "2024-08-28T22:58:09.3564454+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:16.9328578+00:00",
-  "LastUpdate_Ratings": "2024-08-28T19:59:07.8880036+00:00",
+  "LastUpdate_Ratings": "2024-08-28T22:58:09.356446+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:39.2047181+00:00"
 }

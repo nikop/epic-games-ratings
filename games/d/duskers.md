@@ -3,8 +3,8 @@
 [View Rawdata](../../db/d/duskers.json)  
 Rating: 4.54 (Ranked 607)  
 ## Awards
-Max (Highly Recommended): 22  (Ranked 682)  
-Sum: 63 (Ranked 606)  
+Max (Highly Recommended): 22  (Ranked 683)  
+Sum: 63 (Ranked 607)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |

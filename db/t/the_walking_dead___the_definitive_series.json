@@ -3082,10 +3082,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 1326,
       "NumberOfAwardsMax": 871
+    },
+    {
+      "Time": "2024-08-28T22:58:15.1934691+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 1327,
+      "NumberOfAwardsMax": 871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1326,
+  "NumberOfAwards": 1327,
   "NumberOfAwardsMax": 871,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -3141,7 +3147,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Easy Combat",
@@ -3173,8 +3179,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-08-28T14:59:53.2513361+00:00",
+  "LastChanged": "2024-08-28T22:58:15.1934689+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:21.0966927+00:00",
-  "LastUpdate_Ratings": "2024-08-28T19:59:14.2515459+00:00",
+  "LastUpdate_Ratings": "2024-08-28T22:58:15.1934694+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:03.7012261+00:00"
 }

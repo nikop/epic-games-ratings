@@ -3,8 +3,8 @@
   "Name": "The First Tree",
   "ProductSlug": "the-first-tree",
   "Ranking_Rating": 1197,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 706,
+  "Ranking_PopularitySum": 706,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 366,
   "Ranking_EOS_NewPlayers": 544,
@@ -25495,6 +25495,6 @@
   "LastChanged": "2024-08-20T13:10:41.0922833+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:54.2480443+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:27.7177501+00:00",
-  "LastUpdate_Ratings": "2024-08-28T19:59:47.4468249+00:00",
+  "LastUpdate_Ratings": "2024-08-28T22:58:44.2722216+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:54.2481808+00:00"
 }

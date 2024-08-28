@@ -3,8 +3,8 @@
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
   "Ranking_Rating": 1007,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 706,
+  "Ranking_PopularitySum": 706,
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 270,
@@ -2259,6 +2259,6 @@
   "LastChanged": "2024-07-27T10:01:37.1243682+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:35.0508627+00:00",
   "LastUpdate_AppInfo": "2024-08-26T03:56:58.661301+00:00",
-  "LastUpdate_Ratings": "2024-08-28T19:58:58.0781457+00:00",
+  "LastUpdate_Ratings": "2024-08-28T22:58:00.4379372+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:35.0509049+00:00"
 }

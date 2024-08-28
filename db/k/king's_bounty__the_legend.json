@@ -3,8 +3,8 @@
   "Name": "King\u0027s Bounty: The Legend",
   "ProductSlug": "kings-bounty-the-legend-b69320",
   "Ranking_Rating": 133,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 669,
+  "Ranking_PopularitySum": 676,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -226,17 +226,24 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-28T22:59:03.932107+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -250,8 +257,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:22.2011944+00:00",
-  "LastChanged": "2024-08-10T07:58:26.4118244+00:00",
+  "LastChanged": "2024-08-28T22:59:03.9321068+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:54.3624113+00:00",
-  "LastUpdate_Ratings": "2024-08-28T20:00:09.2068694+00:00",
+  "LastUpdate_Ratings": "2024-08-28T22:59:03.9321072+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:03.2861388+00:00"
 }

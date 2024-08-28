@@ -3,7 +3,7 @@
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 350,
-  "Ranking_Popularity": 505,
+  "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -1977,11 +1977,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 481,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-08-28T22:57:44.5127395+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 482,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 481,
-  "NumberOfAwardsMax": 72,
+  "NumberOfAwards": 482,
+  "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2042,7 +2048,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game is Educational",
@@ -2074,8 +2080,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2024-08-26T07:58:15.3797059+00:00",
+  "LastChanged": "2024-08-28T22:57:44.5127393+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:18.0162785+00:00",
-  "LastUpdate_Ratings": "2024-08-28T19:58:40.5230636+00:00",
+  "LastUpdate_Ratings": "2024-08-28T22:57:44.5127398+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:28.826898+00:00"
 }
