@@ -2,7 +2,7 @@
   "ID": "65a9273ec61f4bb6b94461eb1ce8ec23",
   "Name": "PC Building Simulator 2",
   "ProductSlug": "pc-building-simulator-2",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 55,
@@ -7495,10 +7495,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 6443,
       "NumberOfAwardsMax": 991
+    },
+    {
+      "Time": "2024-08-27T23:58:56.492434+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 6444,
+      "NumberOfAwardsMax": 991
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6443,
+  "NumberOfAwards": 6444,
   "NumberOfAwardsMax": 991,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7560,7 +7566,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 486
+      "Count": 487
     },
     {
       "Text": "This game has Easy Combat",
@@ -39888,9 +39894,9 @@
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
-  "LastChanged": "2024-08-27T20:58:00.5556555+00:00",
+  "LastChanged": "2024-08-27T23:58:56.4924338+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:16.9299067+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:26.6428116+00:00",
-  "LastUpdate_Ratings": "2024-08-27T21:59:57.7610562+00:00",
+  "LastUpdate_Ratings": "2024-08-27T23:58:56.4924345+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:16.9301099+00:00"
 }

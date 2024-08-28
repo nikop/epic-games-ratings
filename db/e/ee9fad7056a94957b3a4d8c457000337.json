@@ -4,7 +4,7 @@
   "ProductSlug": "20-minutes-till-dawn-be3305",
   "Ranking_Rating": 472,
   "Ranking_Popularity": 180,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2339,10 +2339,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1574,
       "NumberOfAwardsMax": 1138
+    },
+    {
+      "Time": "2024-08-27T23:57:58.6079531+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1625,
+      "NumberOfAwardsMax": 1138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1574,
+  "NumberOfAwards": 1625,
   "NumberOfAwardsMax": 1138,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2405,6 +2411,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 26
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 51
     }
   ],
   "EOS_Progressed": 0,
@@ -2419,8 +2431,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-08-27T21:58:58.5949193+00:00",
+  "LastChanged": "2024-08-27T23:57:58.607953+00:00",
   "LastUpdate_AppInfo": "2024-08-21T11:57:37.7917587+00:00",
-  "LastUpdate_Ratings": "2024-08-27T21:58:58.5949197+00:00",
+  "LastUpdate_Ratings": "2024-08-27T23:57:58.6079535+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:24.558473+00:00"
 }
