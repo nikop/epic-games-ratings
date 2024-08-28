@@ -2,7 +2,7 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 116,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-10-20T10:59:47.6628887+00:00",
@@ -465,6 +465,12 @@
     {
       "Time": "2024-08-26T16:01:06.1725486+00:00",
       "Rating": 4.32,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-28T10:58:39.7579819+00:00",
+      "Rating": 4.31,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -18563,9 +18569,9 @@
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged": "2024-08-26T16:01:06.1725484+00:00",
+  "LastChanged": "2024-08-28T10:58:39.7579818+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:58.483662+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:02.5758862+00:00",
-  "LastUpdate_Ratings": "2024-08-28T08:58:58.7567333+00:00",
+  "LastUpdate_Ratings": "2024-08-28T10:58:39.7579821+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:58.4837644+00:00"
 }

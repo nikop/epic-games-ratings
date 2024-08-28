@@ -1,7 +1,7 @@
 # Into the Breach
 [Store](https://store.epicgames.com/en-US/p/into-the-breach)  
 [View Rawdata](../../db/i/into_the_breach.json)  
-Rating: 4.84 (Ranked 52)  
+Rating: 4.83 (Ranked 65)  
 Number of Ratings: 4,082  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 513  (Ranked 261)  
@@ -434,3 +434,4 @@ Diff (max vs sum): 83
 | 2024-08-25 | 4.84 | - | 510 | 4,560 |
 | 2024-08-26 | 4.84 | - | 512 | 4,564 |
 | 2024-08-27 | 4.84 | - | 513 | 4,566 |
+| 2024-08-28 | 4.83 | - | 513 | 4,566 |

@@ -2,7 +2,7 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 497,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 169,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 401,
   "RatingHistory": [
     {
@@ -1086,6 +1086,12 @@
     {
       "Time": "2024-08-27T11:59:03.112722+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 425,
+      "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2024-08-28T10:58:08.3775796+00:00",
+      "Rating": 4.59,
       "NumberOfAwards": 425,
       "NumberOfAwardsMax": 248
     }
@@ -30542,9 +30548,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-08-27T11:59:03.1127219+00:00",
+  "LastChanged": "2024-08-28T10:58:08.3775794+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:33.4409638+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:51.9884818+00:00",
-  "LastUpdate_Ratings": "2024-08-28T08:58:38.206615+00:00",
+  "LastUpdate_Ratings": "2024-08-28T10:58:08.3775798+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:33.4411198+00:00"
 }
