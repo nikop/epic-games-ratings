@@ -3,8 +3,8 @@
   "Name": "War Tanks",
   "ProductSlug": "war-of-tanks-e916f2",
   "Ranking_Rating": 1258,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 704,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -308,6 +308,6 @@
   "FirstSeenRating": "2024-07-04T01:53:00.4931155+00:00",
   "LastChanged": "2024-08-27T09:57:37.7368679+00:00",
   "LastUpdate_AppInfo": "2024-08-22T19:57:06.9125225+00:00",
-  "LastUpdate_Ratings": "2024-08-28T02:59:17.4681327+00:00",
+  "LastUpdate_Ratings": "2024-08-28T04:58:10.6776725+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:34.7924396+00:00"
 }

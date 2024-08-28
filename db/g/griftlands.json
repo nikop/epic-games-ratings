@@ -3,8 +3,8 @@
   "Name": "Griftlands",
   "ProductSlug": "griftlands",
   "Ranking_Rating": 113,
-  "Ranking_Popularity": 675,
-  "Ranking_PopularitySum": 681,
+  "Ranking_Popularity": 674,
+  "Ranking_PopularitySum": 680,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -352,6 +352,6 @@
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
   "LastChanged": "2024-03-26T13:02:13.1294171+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:28.6789442+00:00",
-  "LastUpdate_Ratings": "2024-08-28T02:59:22.0502844+00:00",
+  "LastUpdate_Ratings": "2024-08-28T04:58:15.0838744+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:16.2812997+00:00"
 }

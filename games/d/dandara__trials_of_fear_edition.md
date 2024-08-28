@@ -1,7 +1,7 @@
 # Dandara: Trials of Fear Edition
 [Store](https://store.epicgames.com/en-US/p/dandara)  
 [View Rawdata](../../db/d/dandara__trials_of_fear_edition.json)  
-Rating: 4.56 (Ranked 558)  
+Rating: 4.57 (Ranked 534)  
 Number of Ratings: 164  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 55  (Ranked 541)  
@@ -90,3 +90,4 @@ Diff (max vs sum): -73
 | 2024-07-26 | 4.56 | - | 55 | 55 |
 | 2024-08-04 | 4.57 | - | 55 | 55 |
 | 2024-08-17 | 4.56 | - | 55 | 55 |
+| 2024-08-28 | 4.57 | - | 55 | 55 |
