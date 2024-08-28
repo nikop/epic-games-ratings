@@ -177,13 +177,13 @@ Completed: 2 (0.00%) (Ranked 561)
 | 2024-08-09 | 386,429 | 2 |
 ## Awards
 Max (Great for Beginners): 77  (Ranked 494)  
-Sum: 347 (Ranked 447)  
+Sum: 350 (Ranked 447)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 77 |
 | This game is Highly Recommended | 67 |
-| This game has Amazing Storytelling | 57 |
+| This game has Amazing Storytelling | 60 |
 | This game is Extremely Fun | 55 |
 | This game is Relaxing | 52 |
 | This game has Amazing Characters | 48 |
