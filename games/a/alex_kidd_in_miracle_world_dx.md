@@ -1,7 +1,7 @@
 # Alex Kidd in Miracle World DX
 [Store](https://store.epicgames.com/en-US/p/alex-kidd-in-miracle-world-dx)  
 [View Rawdata](../../db/a/alex_kidd_in_miracle_world_dx.json)  
-Rating: 4.39 (Ranked 888)  
+Rating: 4.39 (Ranked 889)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

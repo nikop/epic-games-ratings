@@ -2,7 +2,7 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 685,
+  "Ranking_Rating": 706,
   "Ranking_Popularity": 623,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 185,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:56:57.8348963+00:00",
@@ -563,6 +563,12 @@
     {
       "Time": "2024-08-23T06:58:30.3438119+00:00",
       "Rating": 4.5,
+      "NumberOfAwards": 116,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-08-28T14:59:29.0506939+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 116,
       "NumberOfAwardsMax": 31
     }
@@ -15588,9 +15594,9 @@
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
-  "LastChanged": "2024-08-23T06:58:30.3438117+00:00",
+  "LastChanged": "2024-08-28T14:59:29.0506937+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:40.3848813+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:34.5929993+00:00",
-  "LastUpdate_Ratings": "2024-08-28T13:12:59.2511293+00:00",
+  "LastUpdate_Ratings": "2024-08-28T14:59:29.0506943+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:40.3849678+00:00"
 }

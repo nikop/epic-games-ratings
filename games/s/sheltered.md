@@ -1,7 +1,7 @@
 # Sheltered
 [Store](https://store.epicgames.com/en-US/p/sheltered)  
 [View Rawdata](../../db/s/sheltered.json)  
-Rating: 4.41 (Ranked 859)  
+Rating: 4.41 (Ranked 860)  
 Number of Ratings: 877  (23.09.2022)  
 ## Awards
 Max (Character Customization): 295  (Ranked 311)  
