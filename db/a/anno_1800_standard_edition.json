@@ -2,7 +2,7 @@
   "ID": "oregano",
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
-  "Ranking_Rating": 93,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 1193,
@@ -19113,10 +19113,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 20810,
       "NumberOfAwardsMax": 2662
+    },
+    {
+      "Time": "2024-08-28T17:58:50.1641653+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 20812,
+      "NumberOfAwardsMax": 2662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20810,
+  "NumberOfAwards": 20812,
   "NumberOfAwardsMax": 2662,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -19142,7 +19148,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2414
+      "Count": 2416
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19198,8 +19204,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2024-08-28T08:58:56.4579777+00:00",
+  "LastChanged": "2024-08-28T17:58:50.1641651+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:03.4559771+00:00",
-  "LastUpdate_Ratings": "2024-08-28T16:00:31.2487204+00:00",
+  "LastUpdate_Ratings": "2024-08-28T17:58:50.1641657+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:53.3585117+00:00"
 }

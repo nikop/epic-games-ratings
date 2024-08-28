@@ -4,7 +4,7 @@
   "ProductSlug": "avatar-frontiers-of-pandora",
   "Ranking_Rating": 586,
   "Ranking_Popularity": 277,
-  "Ranking_PopularitySum": 200,
+  "Ranking_PopularitySum": 199,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -6279,11 +6279,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 3647,
       "NumberOfAwardsMax": 415
+    },
+    {
+      "Time": "2024-08-28T18:00:35.9720201+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 3648,
+      "NumberOfAwardsMax": 416
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3647,
-  "NumberOfAwardsMax": 415,
+  "NumberOfAwards": 3648,
+  "NumberOfAwardsMax": 416,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -6308,7 +6314,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 415
+      "Count": 416
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6365,8 +6371,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-07T07:59:53.6089805+00:00",
   "FirstSeenRating": "2023-12-07T19:59:23.1655437+00:00",
-  "LastChanged": "2024-08-28T16:58:27.0108796+00:00",
+  "LastChanged": "2024-08-28T18:00:35.9720199+00:00",
   "LastUpdate_AppInfo": "2024-08-27T07:57:04.1211004+00:00",
-  "LastUpdate_Ratings": "2024-08-28T16:58:27.0108801+00:00",
+  "LastUpdate_Ratings": "2024-08-28T18:00:35.9720205+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:41.2055284+00:00"
 }

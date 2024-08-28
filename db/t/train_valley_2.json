@@ -7755,10 +7755,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 3360,
       "NumberOfAwardsMax": 1474
+    },
+    {
+      "Time": "2024-08-28T17:59:10.4097301+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 3362,
+      "NumberOfAwardsMax": 1474
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3360,
+  "NumberOfAwards": 3362,
   "NumberOfAwardsMax": 1474,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -7826,7 +7832,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 104
+      "Count": 106
     }
   ],
   "EOS_Progressed": 462681,
@@ -32476,9 +32482,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-08-28T08:59:17.3689948+00:00",
+  "LastChanged": "2024-08-28T17:59:10.4097299+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:45.4547226+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:56.0155456+00:00",
-  "LastUpdate_Ratings": "2024-08-28T16:01:03.14359+00:00",
+  "LastUpdate_Ratings": "2024-08-28T17:59:10.4097304+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:45.4548938+00:00"
 }
