@@ -2,7 +2,7 @@
   "ID": "7ab8af3a04424eeaa509d37d7b5222b7",
   "Name": "Beyond Good \u0026 Evil",
   "ProductSlug": "beyond-good-and-evil",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 161,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:24.4398974+00:00",
@@ -75,6 +75,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-28T14:01:17.3613824+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -93,8 +99,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:50.8664104+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.4398971+00:00",
-  "LastChanged": "2024-06-09T04:58:34.1150654+00:00",
+  "LastChanged": "2024-08-28T14:01:17.3613822+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:06.9173279+00:00",
-  "LastUpdate_Ratings": "2024-08-28T13:11:22.0929973+00:00",
+  "LastUpdate_Ratings": "2024-08-28T14:01:17.3613827+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:55.7689507+00:00"
 }

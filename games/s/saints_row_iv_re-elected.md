@@ -366,12 +366,12 @@ Completed: 20 (0.00%) (Ranked 561)
 | 2024-06-17 | 418,344 | 18 |
 | 2024-08-09 | 441,355 | 20 |
 ## Awards
-Max (Great Boss Battles): 679  (Ranked 239)  
-Sum: 826 (Ranked 350)  
+Max (Great Boss Battles): 681  (Ranked 239)  
+Sum: 828 (Ranked 350)  
 Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 679 |
+| This game has Great Boss Battles | 681 |
 | This game is Highly Recommended | 28 |
 | This game has Amazing Characters | 26 |
 | This game has Diverse Characters | 26 |
@@ -599,4 +599,4 @@ Diff (max vs sum): -111
 | 2024-08-25 | 4.41 | 676 | 821 |
 | 2024-08-26 | 4.41 | 676 | 822 |
 | 2024-08-27 | 4.41 | 679 | 825 |
-| 2024-08-28 | 4.41 | 679 | 826 |
+| 2024-08-28 | 4.41 | 681 | 828 |
