@@ -4,6 +4,7 @@
 | [Zen Chess: Blindfold Masters](games/d/d2615579d5cb48828c9b9167fcdf3dc1.md) | 2024-08-29 | - |  | - | - |
 | [Sift Heads Legendary Pack](games/9/914da631db4047e3b02da6ef1777e1ac.md) | 2024-08-29 | - |  | - | - |
 | [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-29 | - |  | - | - |
+| [Death Noodle Delivery](games/a/aeb49c35b9fb43e1b1e157d4e1895222.md) | 2024-08-30 | - |  | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | - | - |
 | [StarbaseSim](games/5/5a1b2edca43946c5af9ae1098a327ff5.md) | 2024-08-30 | - |  | - | - |
 | [Cafe Maid - Cute Anime Girls](games/3/3dfc7c92bb4846b5bfbb0066ba5149e8.md) | 2024-08-31 | - |  | - | - |
@@ -74,8 +75,8 @@
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
