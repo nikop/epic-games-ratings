@@ -4,7 +4,7 @@
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 685,
   "Ranking_Popularity": 528,
-  "Ranking_PopularitySum": 552,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 376,
   "Ranking_EOS_NewPlayers": 212,
@@ -995,10 +995,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 118,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-08-28T18:58:39.8676539+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 119,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 118,
+  "NumberOfAwards": 119,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1024,7 +1030,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 5071,
@@ -10998,9 +11004,9 @@
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2024-08-27T16:58:22.0780857+00:00",
+  "LastChanged": "2024-08-28T18:58:39.8676538+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:35.3903263+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:10.5751466+00:00",
-  "LastUpdate_Ratings": "2024-08-28T17:00:03.547777+00:00",
+  "LastUpdate_Ratings": "2024-08-28T18:58:39.8676542+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:35.3904096+00:00"
 }

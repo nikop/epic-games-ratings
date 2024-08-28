@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 472)  
+Rating: 4.60 (Ranked 473)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -306,12 +306,12 @@ Completed: 21 (0.21%) (Ranked 388)
 | 2024-06-17 | 9,761 | 19 |
 | 2024-08-09 | 10,061 | 21 |
 ## Awards
-Max (Great for Beginners): 181  (Ranked 377)  
-Sum: 1,257 (Ranked 306)  
-Diff (max vs sum): 71  
+Max (Great for Beginners): 183  (Ranked 375)  
+Sum: 1,259 (Ranked 306)  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 181 |
+| This game is Great for Beginners | 183 |
 | This game has Diverse Characters | 138 |
 | This game is Relaxing | 135 |
 | This game is Highly Recommended | 128 |
@@ -622,3 +622,4 @@ Diff (max vs sum): 71
 | 2024-08-24 | 4.60 | - | 178 | 1,249 |
 | 2024-08-25 | 4.60 | - | 178 | 1,252 |
 | 2024-08-26 | 4.60 | - | 181 | 1,257 |
+| 2024-08-28 | 4.60 | - | 183 | 1,259 |

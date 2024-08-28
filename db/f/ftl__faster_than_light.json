@@ -3,7 +3,7 @@
   "Name": "FTL: Faster Than Light",
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 102,
-  "Ranking_Popularity": 367,
+  "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -3142,10 +3142,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 1583,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2024-08-28T18:59:01.9352477+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 1585,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1583,
+  "NumberOfAwards": 1585,
   "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -3153,7 +3159,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 192
+      "Count": 194
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3227,8 +3233,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-08-28T15:58:27.9379504+00:00",
+  "LastChanged": "2024-08-28T18:59:01.9352476+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:38.488595+00:00",
-  "LastUpdate_Ratings": "2024-08-28T17:00:25.9895341+00:00",
+  "LastUpdate_Ratings": "2024-08-28T18:59:01.9352481+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:55.8931172+00:00"
 }

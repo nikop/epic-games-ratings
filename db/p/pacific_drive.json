@@ -2,7 +2,7 @@
   "ID": "d6d8a7241f6841a8823f5a533a1564da",
   "Name": "Pacific Drive",
   "ProductSlug": "pacific-drive",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 319,
@@ -21,7 +21,7 @@
       "isManuallySetViewableDate": "true"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2024-02-28T20:59:46.1423803+00:00",
@@ -302,6 +302,12 @@
     {
       "Time": "2024-08-22T11:58:57.8012122+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-28T18:59:08.4990631+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -765,9 +771,9 @@
   "FirstSeen": "2024-02-22T11:59:08.3857414+00:00",
   "FirstSeenRating": "2024-02-28T20:59:46.14238+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:47.7975545+00:00",
-  "LastChanged": "2024-08-22T11:58:57.801212+00:00",
+  "LastChanged": "2024-08-28T18:59:08.499063+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:42.6504141+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:11.8066062+00:00",
-  "LastUpdate_Ratings": "2024-08-28T17:00:32.587428+00:00",
+  "LastUpdate_Ratings": "2024-08-28T18:59:08.4990635+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:42.6504433+00:00"
 }

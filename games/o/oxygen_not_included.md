@@ -1,7 +1,7 @@
 # Oxygen Not Included
 [Store](https://store.epicgames.com/en-US/p/oxygen-not-included)  
 [View Rawdata](../../db/o/oxygen_not_included.json)  
-Rating: 4.84 (Ranked 52)  
+Rating: 4.83 (Ranked 64)  
 Number of Ratings: 897  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 324  (Ranked 300)  
@@ -396,3 +396,4 @@ Diff (max vs sum): 72
 | 2024-08-25 | 4.84 | - | 323 | 2,683 |
 | 2024-08-26 | 4.84 | - | 323 | 2,684 |
 | 2024-08-27 | 4.84 | - | 324 | 2,688 |
+| 2024-08-28 | 4.83 | - | 324 | 2,688 |
