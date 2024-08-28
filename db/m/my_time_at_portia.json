@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-portia",
   "Ranking_Rating": 312,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -5209,10 +5209,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5360,
       "NumberOfAwardsMax": 2442
+    },
+    {
+      "Time": "2024-08-28T11:57:35.7364376+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5361,
+      "NumberOfAwardsMax": 2442
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5360,
+  "NumberOfAwards": 5361,
   "NumberOfAwardsMax": 2442,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5238,7 +5244,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5306,8 +5312,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2024-08-28T07:59:08.2769592+00:00",
+  "LastChanged": "2024-08-28T11:57:35.7364373+00:00",
   "LastUpdate_AppInfo": "2024-08-26T06:57:08.984918+00:00",
-  "LastUpdate_Ratings": "2024-08-28T09:58:07.1311626+00:00",
+  "LastUpdate_Ratings": "2024-08-28T11:57:35.7364385+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:47.4569067+00:00"
 }
