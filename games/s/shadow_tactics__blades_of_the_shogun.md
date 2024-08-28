@@ -341,7 +341,7 @@ Completed: 139 (0.05%) (Ranked 473)
 | 2024-08-09 | 257,085 | 139 |
 ## Awards
 Max (Great for Beginners): 635  (Ranked 241)  
-Sum: 5,200 (Ranked 168)  
+Sum: 5,201 (Ranked 168)  
 Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): 73
 | This game is Highly Recommended | 524 |
 | This game is Relaxing | 517 |
 | This game has Quickly Understood Controls | 489 |
-| This game has a Creative Community | 278 |
+| This game has a Creative Community | 279 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -763,3 +763,4 @@ Diff (max vs sum): 73
 | 2024-08-25 | 4.67 | - | 634 | 5,190 |
 | 2024-08-26 | 4.67 | - | 634 | 5,196 |
 | 2024-08-27 | 4.67 | - | 635 | 5,200 |
+| 2024-08-28 | 4.67 | - | 635 | 5,201 |

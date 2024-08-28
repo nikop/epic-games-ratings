@@ -2,9 +2,9 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 755,
+  "Ranking_Rating": 772,
   "Ranking_Popularity": 313,
-  "Ranking_PopularitySum": 285,
+  "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-11-25T02:17:36.1236478+00:00",
@@ -3906,10 +3906,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 1599,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2024-08-28T02:57:25.8870372+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1611,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1599,
+  "NumberOfAwards": 1611,
   "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3923,7 +3929,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 271
+      "Count": 281
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3959,7 +3965,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4183,9 +4189,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-08-27T21:58:57.9697062+00:00",
+  "LastChanged": "2024-08-28T02:57:25.887037+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:18.2290852+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:28.1921313+00:00",
-  "LastUpdate_Ratings": "2024-08-27T23:57:57.979053+00:00",
+  "LastUpdate_Ratings": "2024-08-28T02:57:25.8870378+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:18.2291033+00:00"
 }
