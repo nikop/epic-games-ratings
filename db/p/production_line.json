@@ -3,8 +3,8 @@
   "Name": "Production Line",
   "ProductSlug": "production-line",
   "Ranking_Rating": 1230,
-  "Ranking_Popularity": 704,
-  "Ranking_PopularitySum": 704,
+  "Ranking_Popularity": 705,
+  "Ranking_PopularitySum": 705,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -54,6 +54,6 @@
   "FirstSeenRating": "2023-03-31T05:57:52.1070267+00:00",
   "LastChanged": "2024-08-07T23:58:15.0060105+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:56.6634975+00:00",
-  "LastUpdate_Ratings": "2024-08-27T22:59:39.3190641+00:00",
+  "LastUpdate_Ratings": "2024-08-28T02:02:45.9509183+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:13.0559096+00:00"
 }

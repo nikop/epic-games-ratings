@@ -3,8 +3,8 @@
   "Name": "Before We Leave",
   "ProductSlug": "before-we-leave",
   "Ranking_Rating": 377,
-  "Ranking_Popularity": 704,
-  "Ranking_PopularitySum": 704,
+  "Ranking_Popularity": 705,
+  "Ranking_PopularitySum": 705,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -338,6 +338,6 @@
   "FirstSeen": "2022-07-22T20:29:09.2176269+00:00",
   "LastChanged": "2024-04-30T21:58:01.1429723+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:09.0781192+00:00",
-  "LastUpdate_Ratings": "2024-08-27T22:59:41.9388059+00:00",
+  "LastUpdate_Ratings": "2024-08-28T02:02:48.6191705+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:25.7973894+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Homeworld 3",
   "ProductSlug": "homeworld-3",
   "Ranking_Rating": 1171,
-  "Ranking_Popularity": 704,
-  "Ranking_PopularitySum": 704,
+  "Ranking_Popularity": 705,
+  "Ranking_PopularitySum": 705,
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 229,
@@ -528,6 +528,6 @@
   "LastChanged": "2024-08-24T17:57:02.1898687+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:14.1251747+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:23.9880129+00:00",
-  "LastUpdate_Ratings": "2024-08-27T23:57:34.3766231+00:00",
+  "LastUpdate_Ratings": "2024-08-28T02:03:54.7746978+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:14.125196+00:00"
 }

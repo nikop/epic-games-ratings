@@ -3,8 +3,8 @@
   "Name": "Tavern Master",
   "ProductSlug": "tavern-master-ee18ab",
   "Ranking_Rating": 665,
-  "Ranking_Popularity": 704,
-  "Ranking_PopularitySum": 704,
+  "Ranking_Popularity": 705,
+  "Ranking_PopularitySum": 705,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -325,6 +325,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.2935408+00:00",
   "LastChanged": "2024-08-12T22:58:07.905159+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:12:01.1426984+00:00",
-  "LastUpdate_Ratings": "2024-08-27T22:58:05.8587646+00:00",
+  "LastUpdate_Ratings": "2024-08-28T02:01:12.1414241+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:29.2515885+00:00"
 }

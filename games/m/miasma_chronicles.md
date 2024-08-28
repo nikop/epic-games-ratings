@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.49 (Ranked 708)  
+Rating: 4.49 (Ranked 707)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -248,8 +248,8 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-08-09 | 1,880 | 0 |
 | 2024-08-20 | 1,883 | 0 |
 ## Awards
-Max (Great Boss Battles): 40  (Ranked 578)  
-Sum: 40 (Ranked 636)  
+Max (Great Boss Battles): 40  (Ranked 579)  
+Sum: 40 (Ranked 637)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |

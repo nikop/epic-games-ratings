@@ -3,8 +3,8 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.44 (Ranked 802)  
 ## Awards
-Max (Realistic Visuals): 30  (Ranked 625)  
-Sum: 151 (Ranked 527)  
+Max (Realistic Visuals): 30  (Ranked 626)  
+Sum: 151 (Ranked 528)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
