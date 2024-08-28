@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 472,
-  "Ranking_Popularity": 450,
+  "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 362,
@@ -3239,10 +3239,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 748,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-08-28T08:59:28.487284+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 749,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 748,
+  "NumberOfAwards": 749,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3274,7 +3280,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -26435,9 +26441,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-08-28T02:03:53.1385772+00:00",
+  "LastChanged": "2024-08-28T08:59:28.4872838+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:38.4457215+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:23.3624324+00:00",
-  "LastUpdate_Ratings": "2024-08-28T07:57:25.7616942+00:00",
+  "LastUpdate_Ratings": "2024-08-28T08:59:28.4872843+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:38.4458554+00:00"
 }
