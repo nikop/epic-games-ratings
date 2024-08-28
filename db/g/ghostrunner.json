@@ -2,7 +2,7 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 7,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 1047,
   "RatingHistory": [
     {
@@ -5897,6 +5897,12 @@
     {
       "Time": "2024-08-28T07:57:46.1549152+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 5386,
+      "NumberOfAwardsMax": 4162
+    },
+    {
+      "Time": "2024-08-28T16:01:51.8477267+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 5386,
       "NumberOfAwardsMax": 4162
     }
@@ -37080,9 +37086,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
-  "LastChanged": "2024-08-28T07:57:46.154915+00:00",
+  "LastChanged": "2024-08-28T16:01:51.8477265+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:36.5697348+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:16.7541986+00:00",
-  "LastUpdate_Ratings": "2024-08-28T14:58:57.7671823+00:00",
+  "LastUpdate_Ratings": "2024-08-28T16:01:51.8477272+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:36.5698779+00:00"
 }
