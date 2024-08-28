@@ -3,8 +3,8 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 308,
+  "Ranking_Popularity": 426,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 116,
@@ -2763,12 +2763,18 @@
       "Rating": 4.53,
       "NumberOfAwards": 1233,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2024-08-28T13:12:41.047828+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1103,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1233,
-  "NumberOfAwardsMax": 130,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 1103,
+  "NumberOfAwardsMax": 123,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -34533,9 +34539,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-08-27T20:57:07.7152185+00:00",
+  "LastChanged": "2024-08-28T13:12:41.0478279+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:51.4205388+00:00",
   "LastUpdate_AppInfo": "2024-08-25T20:57:01.3749323+00:00",
-  "LastUpdate_Ratings": "2024-08-28T11:00:08.9955698+00:00",
+  "LastUpdate_Ratings": "2024-08-28T13:12:41.0478284+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:51.4207257+00:00"
 }
