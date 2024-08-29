@@ -63,7 +63,7 @@
 | [Abysswalkers](games/b/b8bd5380b79344c59ea92636bd103ee8.md) | 2024-08-26 | - |  | - | 0 |
 | [The Lost War](games/a/aa32800387e648c8a53d50684f60ea34.md) | 2024-08-19 | - |  | - | - |
 | [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-08-19 | - |  | - | - |
-| [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | - | 0 |
+| [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | 4.60 | 0 |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | 0 |
 | [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2024-08-08 | - |  | - | 0 |
@@ -125,7 +125,7 @@
 | [Bezogia](games/l/legends_of_bezogia.md) | 2023-12-11 | - |  | - | 0 |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | 0 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | - |  | 4.41 | 127 |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.71 | 2,016 |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | 4.71 | 2,020 |
 | [Citizen Conflict](games/2/26bf8fe08d064d399c477e5e31d9f3bd.md) | 2023-11-21 | - |  | 4.49 | 0 |
 | [PHANTOM GALAXIES™](games/f/f2144add4a0542e385d8d8506f26d760.md) | 2023-11-15 | - |  | 4.14 | 0 |
 | [Meta Lordz](games/6/63d008723df74b828d6916c39b26052d.md) | 2023-11-06 | - |  | - | 0 |
