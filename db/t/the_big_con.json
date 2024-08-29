@@ -2,7 +2,7 @@
   "ID": "a1f2a672b08f45d28bb6b65eef6ffe41",
   "Name": "The Big Con",
   "ProductSlug": "the-big-con",
-  "Ranking_Rating": 861,
+  "Ranking_Rating": 862,
   "Ranking_Popularity": 706,
   "Ranking_PopularitySum": 706,
   "Ranking_EOS_Progress": 1193,
@@ -329,6 +329,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.1494977+00:00",
   "LastChanged": "2024-08-27T16:57:56.8814072+00:00",
   "LastUpdate_AppInfo": "2024-08-26T05:57:06.3562981+00:00",
-  "LastUpdate_Ratings": "2024-08-29T04:59:45.2334399+00:00",
+  "LastUpdate_Ratings": "2024-08-29T06:58:33.043081+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:37.2433775+00:00"
 }
