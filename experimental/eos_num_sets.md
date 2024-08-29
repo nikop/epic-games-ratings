@@ -38,7 +38,7 @@
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 | 2 |
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 54 | 1,705 | 2 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 | 2 |
-| [GRID Legends: Deluxe Edition](../games/4/4dbce3b6359541ae90e4fcb14c9d2164.md) | 0 | 0 | 2 |
+| [GRID Legends](../games/4/4dbce3b6359541ae90e4fcb14c9d2164.md) | 0 | 0 | 2 |
 | [GRIME](../games/g/grime.md) | 46 | 1,210 | 2 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
