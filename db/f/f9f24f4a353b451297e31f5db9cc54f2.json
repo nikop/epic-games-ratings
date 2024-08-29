@@ -2,9 +2,9 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1107,
+  "Ranking_Rating": 1098,
   "Ranking_Popularity": 657,
-  "Ranking_PopularitySum": 620,
+  "Ranking_PopularitySum": 598,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 4,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2024-08-07T22:57:45.2970789+00:00",
@@ -390,10 +390,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-08-29T09:57:56.6341339+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 69,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
+  "NumberOfAwards": 69,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Hard for Beginners",
   "Tags": [
@@ -408,6 +414,12 @@
       "Prefix": "This game is",
       "Type": "Hard for Beginners",
       "Count": 26
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 47946,
@@ -544,9 +556,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-08-28T22:57:37.3141806+00:00",
+  "LastChanged": "2024-08-29T09:57:56.6341337+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.8121394+00:00",
   "LastUpdate_AppInfo": "2024-08-26T20:57:14.88161+00:00",
-  "LastUpdate_Ratings": "2024-08-29T07:59:35.307925+00:00",
+  "LastUpdate_Ratings": "2024-08-29T09:57:56.6341341+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.8121467+00:00"
 }
