@@ -137,7 +137,7 @@
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | 55 (1,000 XP) | 311 | 4.65 | 0 |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,106 | 4.73 | 91 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 21,019 | 4.64 | 687 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 21,019 | 4.64 | 690 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 11 | - | 0 |
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 17,347 | 4.50 | 58 |
 | [Republic of Pirates](games/0/0cf54ee6730540daadb4f3bb7d54d481.md) | 2024-06-19 | 50 (1,000 XP) | 120 | - | 0 |
@@ -181,7 +181,7 @@
 | [Survival: Fountain of Youth](games/c/cb0f45bc17c84708bbbe08741f6ff2b8.md) | 2024-05-21 | 49 (1,000 XP) | 84 | - | 0 |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-23 | 100 (1,000 XP) | 6 | - | 0 |
 | [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | 6 (1,000 XP) | 20 | - | - |
-| [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2024-05-09 | 14 (1,000 XP) | 854 | 4.71 | 0 |
+| [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2024-05-09 | 14 (1,000 XP) | 854 | 4.74 | 0 |
 | [Spellcats Auto Card Tactics](games/4/4dadd911cca741d684859a00e813a14b.md) | 2024-05-17 | 26 (1,000 XP) | 2 | - | - |
 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.79 | 77 |
 | [FRONT MISSION 2: Remake](games/e/e80b3a84fa574d44ace56f5ad69d71a1.md) | 2024-04-30 | 32 (1,000 XP) | 0 | - | 0 |
@@ -693,7 +693,7 @@
 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 2023-08-22 | 20 (1,000 XP) | 1,604 | 3.88 | 0 |
 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 2023-08-22 | 43 (1,000 XP) | 1 | - | 0 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
-| [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,732 | 4.84 | 67 |
+| [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,732 | 4.84 | 69 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
 | [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 178,958 | 4.40 | 2,469 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 46 | - | 0 |
