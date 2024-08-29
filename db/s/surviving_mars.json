@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-mars",
   "Ranking_Rating": 449,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 199,
+  "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -6885,11 +6885,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 3656,
       "NumberOfAwardsMax": 695
+    },
+    {
+      "Time": "2024-08-29T16:58:02.9753705+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3662,
+      "NumberOfAwardsMax": 697
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3656,
-  "NumberOfAwardsMax": 695,
+  "NumberOfAwards": 3662,
+  "NumberOfAwardsMax": 697,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6902,13 +6908,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 486
+      "Count": 488
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 695
+      "Count": 697
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6920,7 +6926,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 496
+      "Count": 497
     },
     {
       "Text": "This game is Relaxing",
@@ -6938,7 +6944,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 466
+      "Count": 467
     },
     {
       "Text": "This game has a Creative Community",
@@ -6964,8 +6970,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2024-08-29T11:57:39.5700072+00:00",
+  "LastChanged": "2024-08-29T16:58:02.9753703+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:32.0111215+00:00",
-  "LastUpdate_Ratings": "2024-08-29T14:58:48.523872+00:00",
+  "LastUpdate_Ratings": "2024-08-29T16:58:02.9753708+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:18.2295037+00:00"
 }

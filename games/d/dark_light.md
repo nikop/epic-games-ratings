@@ -1,7 +1,7 @@
 # Dark Light
 [Store](https://store.epicgames.com/en-US/p/dark-light)  
 [View Rawdata](../../db/d/dark_light.json)  
-Rating: 4.35 (Ranked 942)  
+Rating: 4.37 (Ranked 921)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -23,3 +23,4 @@ Rating: 4.35 (Ranked 942)
 | 2024-02-03 | 4.31 | 0 | 0 |
 | 2024-02-08 | 4.33 | 0 | 0 |
 | 2024-05-10 | 4.35 | 0 | 0 |
+| 2024-08-29 | 4.37 | 0 | 0 |
