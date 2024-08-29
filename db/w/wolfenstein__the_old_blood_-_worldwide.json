@@ -2,9 +2,9 @@
   "ID": "511ba0dc05dd4a3caa39708bcc806cb8",
   "Name": "Wolfenstein: The Old Blood",
   "ProductSlug": "wolfenstein-the-old-blood",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 472,
   "Ranking_Popularity": 468,
-  "Ranking_PopularitySum": 573,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 290,
   "RatingHistory": [
     {
@@ -518,6 +518,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2024-08-29T07:58:18.366042+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
@@ -543,8 +549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
-  "LastChanged": "2024-08-27T08:58:00.8734833+00:00",
+  "LastChanged": "2024-08-29T07:58:18.3660418+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:03.7348109+00:00",
-  "LastUpdate_Ratings": "2024-08-29T05:59:47.161604+00:00",
+  "LastUpdate_Ratings": "2024-08-29T07:58:18.3660424+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:26.3930271+00:00"
 }
