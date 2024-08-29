@@ -1,7 +1,7 @@
 # Outlast
 [Store](https://store.epicgames.com/en-US/p/outlast)  
 [View Rawdata](../../db/o/outlast.json)  
-Rating: 4.74 (Ranked 181)  
+Rating: 4.74 (Ranked 180)  
 ## Awards
 Max (Great for Beginners): 48  (Ranked 553)  
 Sum: 240 (Ranked 487)  
