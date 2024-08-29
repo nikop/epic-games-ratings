@@ -2,7 +2,7 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 560,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 149,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 1193,
@@ -6867,10 +6867,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 14904,
       "NumberOfAwardsMax": 1815
+    },
+    {
+      "Time": "2024-08-29T14:57:42.2831529+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 14906,
+      "NumberOfAwardsMax": 1815
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14904,
+  "NumberOfAwards": 14906,
   "NumberOfAwardsMax": 1815,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6920,7 +6926,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1663
+      "Count": 1665
     },
     {
       "Text": "This game has a Competitive Community",
@@ -6952,8 +6958,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-08-27T10:57:18.1982963+00:00",
+  "LastChanged": "2024-08-29T14:57:42.2831527+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:13.7571446+00:00",
-  "LastUpdate_Ratings": "2024-08-29T13:13:15.254202+00:00",
+  "LastUpdate_Ratings": "2024-08-29T14:57:42.2831535+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:41.9661213+00:00"
 }

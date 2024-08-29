@@ -2,7 +2,7 @@
   "ID": "be13f6c4fb11427fbf3313ce93b97cc0",
   "Name": "Enter the Gungeon",
   "ProductSlug": "enter-the-gungeon",
-  "Ranking_Rating": 40,
+  "Ranking_Rating": 39,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 1193,
@@ -10535,10 +10535,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 16442,
       "NumberOfAwardsMax": 9194
+    },
+    {
+      "Time": "2024-08-29T14:59:29.0252557+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 16444,
+      "NumberOfAwardsMax": 9194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16442,
+  "NumberOfAwards": 16444,
   "NumberOfAwardsMax": 9194,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10564,7 +10570,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1069
+      "Count": 1071
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10620,8 +10626,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:04.490879+00:00",
-  "LastChanged": "2024-08-29T11:58:19.0334664+00:00",
+  "LastChanged": "2024-08-29T14:59:29.0252555+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:40.0604405+00:00",
-  "LastUpdate_Ratings": "2024-08-29T13:57:15.3277228+00:00",
+  "LastUpdate_Ratings": "2024-08-29T14:59:29.0252559+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:00.8910396+00:00"
 }
