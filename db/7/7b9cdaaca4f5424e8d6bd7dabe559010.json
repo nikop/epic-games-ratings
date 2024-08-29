@@ -2,7 +2,7 @@
   "ID": "7b9cdaaca4f5424e8d6bd7dabe559010",
   "Name": "Death\u0027s Gambit - Afterlife",
   "ProductSlug": "deaths-gambit-afterlife-b5f411",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 515,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 1193,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2024-08-16T09:00:44.416811+00:00",
@@ -180,6 +180,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 341,
       "NumberOfAwardsMax": 341
+    },
+    {
+      "Time": "2024-08-29T15:59:04.992816+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 341
     }
   ],
   "ReviewsDisabled": false,
@@ -214,9 +220,9 @@
   "FirstSeen": "2024-08-12T09:00:11.602464+00:00",
   "FirstSeenRating": "2024-08-16T09:00:44.4168107+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:10.6887869+00:00",
-  "LastChanged": "2024-08-29T02:05:25.9094192+00:00",
+  "LastChanged": "2024-08-29T15:59:04.9928158+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:00.8901834+00:00",
   "LastUpdate_AppInfo": "2024-08-22T17:57:08.7472411+00:00",
-  "LastUpdate_Ratings": "2024-08-29T14:01:08.9600493+00:00",
+  "LastUpdate_Ratings": "2024-08-29T15:59:04.9928163+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.8901866+00:00"
 }
