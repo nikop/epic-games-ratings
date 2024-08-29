@@ -2,7 +2,7 @@
   "ID": "6f43ab8025ad42d18510aa91e9eb688b",
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
-  "Ranking_Rating": 39,
+  "Ranking_Rating": 40,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 1193,
@@ -8447,18 +8447,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 13906,
       "NumberOfAwardsMax": 6253
+    },
+    {
+      "Time": "2024-08-29T19:58:06.0137109+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 13909,
+      "NumberOfAwardsMax": 6256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13906,
-  "NumberOfAwardsMax": 6253,
+  "NumberOfAwards": 13909,
+  "NumberOfAwardsMax": 6256,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6253
+      "Count": 6256
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8544,8 +8550,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-08-28T17:58:42.0527679+00:00",
+  "LastChanged": "2024-08-29T19:58:06.0137107+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:00.3578705+00:00",
-  "LastUpdate_Ratings": "2024-08-29T17:58:41.1526772+00:00",
+  "LastUpdate_Ratings": "2024-08-29T19:58:06.0137114+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:55.9695875+00:00"
 }
