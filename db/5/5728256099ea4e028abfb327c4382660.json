@@ -2,9 +2,9 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 399,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2024-07-19T16:58:57.1679558+00:00",
@@ -894,10 +894,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 529,
       "NumberOfAwardsMax": 108
+    },
+    {
+      "Time": "2024-08-29T10:57:32.1953285+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 533,
+      "NumberOfAwardsMax": 108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 529,
+  "NumberOfAwards": 533,
   "NumberOfAwardsMax": 108,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -923,19 +929,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 45
+      "Count": 47
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Characters",
@@ -974,8 +980,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-08-28T08:57:21.3748248+00:00",
+  "LastChanged": "2024-08-29T10:57:32.1953283+00:00",
   "LastUpdate_AppInfo": "2024-08-23T21:57:04.4360306+00:00",
-  "LastUpdate_Ratings": "2024-08-29T08:58:28.5156453+00:00",
+  "LastUpdate_Ratings": "2024-08-29T10:57:32.1953287+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface: Clutch",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1235,
+  "Ranking_Rating": 1237,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.88,
+  "Rating": 3.87,
   "NumberOfRatings": 3179,
   "RatingHistory": [
     {
@@ -5740,10 +5740,16 @@
       "Rating": 3.88,
       "NumberOfAwards": 2989,
       "NumberOfAwardsMax": 533
+    },
+    {
+      "Time": "2024-08-29T10:58:47.8526002+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 2990,
+      "NumberOfAwardsMax": 533
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2989,
+  "NumberOfAwards": 2990,
   "NumberOfAwardsMax": 533,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5763,7 +5769,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 395
+      "Count": 396
     },
     {
       "Text": "This game is Relaxing",
@@ -5825,8 +5831,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-08-28T23:58:10.5943342+00:00",
+  "LastChanged": "2024-08-29T10:58:47.8526001+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:51.8137108+00:00",
-  "LastUpdate_Ratings": "2024-08-29T08:59:55.9130241+00:00",
+  "LastUpdate_Ratings": "2024-08-29T10:58:47.8526004+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:46.5314462+00:00"
 }
