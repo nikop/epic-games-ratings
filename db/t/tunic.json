@@ -3,8 +3,8 @@
   "Name": "TUNIC",
   "ProductSlug": "tunic",
   "Ranking_Rating": 64,
-  "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 629,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 626,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -300,18 +300,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-08-29T18:57:14.033784+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46,
-  "NumberOfAwardsMax": 46,
+  "NumberOfAwards": 47,
+  "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 46
+      "Count": 47
     }
   ],
   "EOS_Progressed": 0,
@@ -325,8 +331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
-  "LastChanged": "2024-08-20T20:58:58.2699476+00:00",
+  "LastChanged": "2024-08-29T18:57:14.0337835+00:00",
   "LastUpdate_AppInfo": "2024-08-26T03:57:00.4419526+00:00",
-  "LastUpdate_Ratings": "2024-08-29T16:58:16.751255+00:00",
+  "LastUpdate_Ratings": "2024-08-29T18:57:14.0337844+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:22.7798869+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 666)
 Number of Ratings: 6,675  (23.09.2022)  
 ## Awards
 Max (Character Customization): 10,143  (Ranked 59)  
-Sum: 36,244 (Ranked 53)  
+Sum: 36,246 (Ranked 53)  
 Diff (max vs sum): 6  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): 6
 | This game is Relaxing | 2,006 |
 | This game has Amazing Storytelling | 1,983 |
 | This game has Quickly Understood Controls | 1,979 |
-| This game has Challenging Combat | 1,974 |
+| This game has Challenging Combat | 1,976 |
 | This game has Amazing Characters | 1,928 |
 | This game has Obsessive Gameplay | 156 |
 ## Ratings History
@@ -616,4 +616,4 @@ Diff (max vs sum): 6
 | 2024-08-26 | 4.51 | - | 10,133 | 36,221 |
 | 2024-08-27 | 4.51 | - | 10,133 | 36,227 |
 | 2024-08-28 | 4.51 | - | 10,139 | 36,234 |
-| 2024-08-29 | 4.51 | - | 10,143 | 36,244 |
+| 2024-08-29 | 4.51 | - | 10,143 | 36,246 |

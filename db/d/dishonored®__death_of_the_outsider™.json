@@ -3,8 +3,8 @@
   "Name": "Dishonored\u00AE: Death of the Outsider\u2122",
   "ProductSlug": "dishonored-death-of-the-outsider",
   "Ranking_Rating": 822,
-  "Ranking_Popularity": 472,
-  "Ranking_PopularitySum": 360,
+  "Ranking_Popularity": 476,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3153,12 +3153,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 758,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-08-29T18:59:02.276529+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 667,
+      "NumberOfAwardsMax": 90
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 758,
-  "NumberOfAwardsMax": 91,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 667,
+  "NumberOfAwardsMax": 90,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -3239,8 +3245,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-15T22:58:09.2323476+00:00",
   "FirstSeenRating": "2022-12-26T17:58:45.352902+00:00",
-  "LastChanged": "2024-08-28T18:57:47.361127+00:00",
+  "LastChanged": "2024-08-29T18:59:02.2765285+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:20.9732887+00:00",
-  "LastUpdate_Ratings": "2024-08-29T16:59:40.6842648+00:00",
+  "LastUpdate_Ratings": "2024-08-29T18:59:02.2765294+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:01.73384+00:00"
 }
