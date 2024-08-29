@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 199,
+  "Ranking_Rating": 200,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 65,
@@ -23845,18 +23845,24 @@
       "Rating": 4.73,
       "NumberOfAwards": 95503,
       "NumberOfAwardsMax": 42591
+    },
+    {
+      "Time": "2024-08-29T22:58:00.5754833+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 95545,
+      "NumberOfAwardsMax": 42619
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 95503,
-  "NumberOfAwardsMax": 42591,
+  "NumberOfAwards": 95545,
+  "NumberOfAwardsMax": 42619,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 42591
+      "Count": 42619
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -23880,7 +23886,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 3546
+      "Count": 3551
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23904,7 +23910,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3192
+      "Count": 3198
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -23922,7 +23928,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 2029
+      "Count": 2032
     }
   ],
   "EOS_Progressed": 431785,
@@ -55052,9 +55058,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-08-29T20:58:53.6212519+00:00",
+  "LastChanged": "2024-08-29T22:58:00.5754831+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:48.7785498+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:36.1809023+00:00",
-  "LastUpdate_Ratings": "2024-08-29T20:58:53.6212526+00:00",
+  "LastUpdate_Ratings": "2024-08-29T22:58:00.5754839+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:48.778754+00:00"
 }
