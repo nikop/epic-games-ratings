@@ -3,8 +3,8 @@
   "Name": "Olympics Go! Paris 2024",
   "ProductSlug": "olympics-go-paris-2024-5d5f77",
   "Ranking_Rating": 1267,
-  "Ranking_Popularity": 612,
-  "Ranking_PopularitySum": 601,
+  "Ranking_Popularity": 608,
+  "Ranking_PopularitySum": 599,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 13,
@@ -414,18 +414,24 @@
       "Rating": 3.64,
       "NumberOfAwards": 65,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-08-29T03:01:34.9676092+00:00",
+      "Rating": 3.64,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65,
-  "NumberOfAwardsMax": 33,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "NumberOfAwards": 67,
+  "NumberOfAwardsMax": 34,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 32
+      "Count": 34
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -773,9 +779,9 @@
   "FirstSeen": "2024-06-11T21:59:22.6599322+00:00",
   "FirstSeenRating": "2024-07-25T21:59:13.7991957+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:29.9069245+00:00",
-  "LastChanged": "2024-08-28T22:58:42.8625485+00:00",
+  "LastChanged": "2024-08-29T03:01:34.967609+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:32.390927+00:00",
   "LastUpdate_AppInfo": "2024-08-24T07:56:51.9132482+00:00",
-  "LastUpdate_Ratings": "2024-08-29T02:02:42.1651387+00:00",
+  "LastUpdate_Ratings": "2024-08-29T03:01:34.9676095+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:32.3909475+00:00"
 }
