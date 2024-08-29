@@ -1,7 +1,7 @@
 # The Forgotten City
 [Store](https://store.epicgames.com/en-US/p/the-forgotten-city)  
 [View Rawdata](../../db/t/the_forgotten_city.json)  
-Rating: 4.75 (Ranked 162)  
+Rating: 4.74 (Ranked 182)  
 Number of Ratings: 37  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -45,3 +45,4 @@ Number of Ratings: 37  (23.09.2022)
 | 2024-04-15 | 4.76 | - | 0 | 0 |
 | 2024-06-17 | 4.77 | - | 0 | 0 |
 | 2024-07-30 | 4.75 | - | 0 | 0 |
+| 2024-08-29 | 4.74 | - | 0 | 0 |

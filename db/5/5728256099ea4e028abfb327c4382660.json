@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 606,
   "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -906,10 +906,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 537,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-08-29T13:59:58.5579371+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 540,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 537,
+  "NumberOfAwards": 540,
   "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -953,7 +959,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 37
+      "Count": 40
     },
     {
       "Text": "This game has a Creative Community",
@@ -986,8 +992,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-08-29T12:00:07.3792028+00:00",
+  "LastChanged": "2024-08-29T13:59:58.5579369+00:00",
   "LastUpdate_AppInfo": "2024-08-23T21:57:04.4360306+00:00",
-  "LastUpdate_Ratings": "2024-08-29T12:00:07.3792032+00:00",
+  "LastUpdate_Ratings": "2024-08-29T13:59:58.5579376+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }
