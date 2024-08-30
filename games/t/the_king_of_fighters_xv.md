@@ -1,12 +1,12 @@
 # THE KING OF FIGHTERS XV
 [Store](https://store.epicgames.com/en-US/p/the-king-of-fighters-xv)  
 [View Rawdata](../../db/t/the_king_of_fighters_xv.json)  
-Rating: 4.67 (Ranked 312)  
+Rating: 4.67 (Ranked 313)  
 Number of Ratings: 181  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 83  (Ranked 485)  
-Sum: 606 (Ranked 389)  
-Diff (max vs sum): 96  
+Sum: 606 (Ranked 388)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 83 |

@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 586,
   "Ranking_Popularity": 635,
-  "Ranking_PopularitySum": 570,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -582,10 +582,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-08-30T02:04:48.3011335+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 96,
+  "NumberOfAwards": 117,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -611,6 +617,12 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
+      "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
       "Count": 21
     }
   ],
@@ -1042,9 +1054,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-08-29T22:59:42.4623587+00:00",
+  "LastChanged": "2024-08-30T02:04:48.3011334+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:54.1220155+00:00",
   "LastUpdate_AppInfo": "2024-08-23T03:57:11.4407125+00:00",
-  "LastUpdate_Ratings": "2024-08-29T22:59:42.4623592+00:00",
+  "LastUpdate_Ratings": "2024-08-30T02:04:48.3011338+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:54.1220526+00:00"
 }

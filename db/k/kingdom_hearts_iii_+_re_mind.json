@@ -3,7 +3,7 @@
   "Name": "KINGDOM HEARTS III \u002B Re Mind (DLC)",
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 113,
-  "Ranking_Popularity": 190,
+  "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -4898,11 +4898,17 @@
       "Rating": 4.79,
       "NumberOfAwards": 2159,
       "NumberOfAwardsMax": 1054
+    },
+    {
+      "Time": "2024-08-30T02:03:34.0238029+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2162,
+      "NumberOfAwardsMax": 1057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2159,
-  "NumberOfAwardsMax": 1054,
+  "NumberOfAwards": 2162,
+  "NumberOfAwardsMax": 1057,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -4915,7 +4921,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1054
+      "Count": 1057
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4989,8 +4995,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2024-08-28T20:58:44.8974108+00:00",
+  "LastChanged": "2024-08-30T02:03:34.0238028+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:02.1197465+00:00",
-  "LastUpdate_Ratings": "2024-08-29T22:58:38.3095309+00:00",
+  "LastUpdate_Ratings": "2024-08-30T02:03:34.0238031+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:04.9937552+00:00"
 }

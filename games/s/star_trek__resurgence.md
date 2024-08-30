@@ -3,12 +3,12 @@
 [View Rawdata](../../db/s/star_trek__resurgence.json)  
 Rating: 4.36 (Ranked 933)  
 ## Awards
-Max (Impact the Story): 37  (Ranked 595)  
-Sum: 37 (Ranked 645)  
-Diff (max vs sum): -50  
+Max (Impact the Story): 38  (Ranked 587)  
+Sum: 38 (Ranked 641)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 37 |
+| In this game, your choices Impact the Story | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -110,3 +110,4 @@ Diff (max vs sum): -50
 | 2024-08-26 | 4.35 | 36 | 36 |
 | 2024-08-27 | 4.35 | 37 | 37 |
 | 2024-08-29 | 4.36 | 37 | 37 |
+| 2024-08-30 | 4.36 | 38 | 38 |
