@@ -270,12 +270,12 @@ Completed: 71 (0.01%) (Ranked 532)
 | 2024-08-09 | 531,105 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 123  (Ranked 426)  
-Sum: 789 (Ranked 357)  
+Sum: 790 (Ranked 357)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 123 |
-| This game is Highly Recommended | 108 |
+| This game is Highly Recommended | 109 |
 | This game is Extremely Fun | 94 |
 | This game has Quickly Understood Controls | 91 |
 | This game is Relaxing | 86 |
@@ -533,3 +533,4 @@ Diff (max vs sum): 69
 | 2024-08-27 | 4.61 | - | 123 | 847 |
 | 2024-08-28 | 4.61 | - | 123 | 852 |
 | 2024-08-29 | 4.61 | - | 123 | 789 |
+| 2024-08-30 | 4.61 | - | 123 | 790 |

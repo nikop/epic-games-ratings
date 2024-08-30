@@ -367,7 +367,7 @@ Completed: 30 (0.02%) (Ranked 514)
 | 2024-08-20 | 159,934 | 30 |
 ## Awards
 Max (Competitive Players): 345  (Ranked 295)  
-Sum: 3,436 (Ranked 203)  
+Sum: 3,437 (Ranked 203)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
@@ -376,7 +376,7 @@ Diff (max vs sum): 92
 | This game has Diverse Characters | 339 |
 | This game is Extremely Fun | 330 |
 | This game has Quickly Understood Controls | 328 |
-| This game is Relaxing | 321 |
+| This game is Relaxing | 322 |
 | This game is Highly Recommended | 308 |
 | This game has Amazing Characters | 297 |
 | This game has Realistic Visuals | 280 |
@@ -679,3 +679,4 @@ Diff (max vs sum): 92
 | 2024-08-23 | 4.39 | - | 345 | 3,431 |
 | 2024-08-25 | 4.39 | - | 345 | 3,435 |
 | 2024-08-26 | 4.39 | - | 345 | 3,436 |
+| 2024-08-30 | 4.39 | - | 345 | 3,437 |
