@@ -3,8 +3,8 @@
   "Name": "Baldur\u0027s Gate II: Enhanced Edition",
   "ProductSlug": "baldurs-gate-2-enhanced-edition",
   "Ranking_Rating": 14,
-  "Ranking_Popularity": 629,
-  "Ranking_PopularitySum": 659,
+  "Ranking_Popularity": 626,
+  "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -222,18 +222,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-08-30T10:57:38.8298241+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
+  "NumberOfAwards": 31,
+  "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 30
+      "Count": 31
     }
   ],
   "EOS_Progressed": 0,
@@ -248,8 +254,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:50.9338623+00:00",
   "FirstSeenRating": "2022-08-05T18:01:05.432518+00:00",
-  "LastChanged": "2024-08-28T13:12:07.6747444+00:00",
+  "LastChanged": "2024-08-30T10:57:38.8298238+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:24.016284+00:00",
-  "LastUpdate_Ratings": "2024-08-30T08:58:48.9325183+00:00",
+  "LastUpdate_Ratings": "2024-08-30T10:57:38.8298245+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:28.1602804+00:00"
 }
