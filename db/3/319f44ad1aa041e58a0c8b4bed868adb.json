@@ -2,7 +2,7 @@
   "ID": "319f44ad1aa041e58a0c8b4bed868adb",
   "Name": "Need for Speed\u2122 Payback - Deluxe Edition",
   "ProductSlug": "need-for-speed-payback-fd57e4",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 611,
   "Ranking_EOS_Progress": 293,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2024-05-26T21:59:48.458921+00:00",
@@ -436,6 +436,12 @@
     {
       "Time": "2024-08-29T19:58:07.0986682+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-08-30T20:57:43.4717551+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 61,
       "NumberOfAwardsMax": 61
     }
@@ -962,9 +968,9 @@
   "FirstSeen": "2024-03-29T08:01:15.7425433+00:00",
   "FirstSeenRating": "2024-05-26T21:59:48.4589208+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9377006+00:00",
-  "LastChanged": "2024-08-29T19:58:07.098668+00:00",
+  "LastChanged": "2024-08-30T20:57:43.4717549+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:51.400077+00:00",
   "LastUpdate_AppInfo": "2024-08-30T04:57:27.1310754+00:00",
-  "LastUpdate_Ratings": "2024-08-30T18:59:19.2821193+00:00",
+  "LastUpdate_Ratings": "2024-08-30T20:57:43.4717553+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:51.4001163+00:00"
 }
