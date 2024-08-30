@@ -1,7 +1,7 @@
 # Tinykin
 [Store](https://store.epicgames.com/en-US/p/tinykin-d1a022)  
 [View Rawdata](../../db/t/tinykin.json)  
-Rating: 4.92 (Ranked 3)  
+Rating: 4.92 (Ranked 4)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

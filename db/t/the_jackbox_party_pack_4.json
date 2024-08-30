@@ -2,7 +2,7 @@
   "ID": "snowdrop",
   "Name": "The Jackbox Party Pack 4",
   "ProductSlug": "jackbox-party-pack-4",
-  "Ranking_Rating": 5,
+  "Ranking_Rating": 6,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
@@ -57,6 +57,6 @@
   "FirstSeenRating": "2023-01-02T04:58:42.9664816+00:00",
   "LastChanged": "2023-12-26T00:02:50.3891563+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:12:17.4875922+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:15:27.2112753+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:59:20.3629503+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:26.014799+00:00"
 }

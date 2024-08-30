@@ -2,7 +2,7 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 162,
   "Ranking_EOS_Progress": 1193,
@@ -6315,10 +6315,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 6019,
       "NumberOfAwardsMax": 814
+    },
+    {
+      "Time": "2024-08-30T14:57:34.3158829+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 6020,
+      "NumberOfAwardsMax": 814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6019,
+  "NumberOfAwards": 6020,
   "NumberOfAwardsMax": 814,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6338,7 +6344,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 665
+      "Count": 666
     },
     {
       "Text": "This game is Relaxing",
@@ -6394,8 +6400,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-08-30T02:59:47.626708+00:00",
+  "LastChanged": "2024-08-30T14:57:34.3158827+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:07.8207604+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:12:45.8840257+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:57:34.3158837+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:29.6162566+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "24cc2629b0594bf29340f6acf9816af8",
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
-  "Ranking_Rating": 75,
+  "Ranking_Rating": 76,
   "Ranking_Popularity": 233,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 229,
@@ -3469,10 +3469,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 1845,
       "NumberOfAwardsMax": 727
+    },
+    {
+      "Time": "2024-08-30T14:58:53.5725137+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 1850,
+      "NumberOfAwardsMax": 727
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1845,
+  "NumberOfAwards": 1850,
   "NumberOfAwardsMax": 727,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3498,13 +3504,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 99
+      "Count": 101
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3516,7 +3522,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 100
+      "Count": 102
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4247,9 +4253,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-08-30T13:14:46.4527983+00:00",
+  "LastChanged": "2024-08-30T14:58:53.5725136+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:55.4665755+00:00",
   "LastUpdate_AppInfo": "2024-08-29T19:57:13.3496952+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:14:46.4527989+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:58:53.5725143+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:55.4666694+00:00"
 }

@@ -1,16 +1,16 @@
 # RAGE 2
 [Store](https://store.epicgames.com/en-US/p/rage-2)  
 [View Rawdata](../../db/r/rage_2.json)  
-Rating: 4.26 (Ranked 1,040)  
+Rating: 4.26 (Ranked 1,041)  
 Number of Ratings: 4,311  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 3,370  (Ranked 113)  
-Sum: 4,539 (Ranked 182)  
+Sum: 4,540 (Ranked 182)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,370 |
-| This game is Great for Beginners | 201 |
+| This game is Great for Beginners | 202 |
 | This game has Amazing Storytelling | 174 |
 | This game is Extremely Fun | 170 |
 | This game is Highly Recommended | 163 |
@@ -491,4 +491,4 @@ Diff (max vs sum): -69
 | 2024-08-26 | 4.26 | - | 3,356 | 4,521 |
 | 2024-08-27 | 4.26 | - | 3,362 | 4,528 |
 | 2024-08-28 | 4.26 | - | 3,364 | 4,533 |
-| 2024-08-30 | 4.26 | - | 3,370 | 4,539 |
+| 2024-08-30 | 4.26 | - | 3,370 | 4,540 |

@@ -2,7 +2,7 @@
   "ID": "ddce4dcb2dee4a3693e902573c77b146",
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
-  "Ranking_Rating": 537,
+  "Ranking_Rating": 538,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 1193,
@@ -3131,10 +3131,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 936,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-08-30T14:58:40.1559356+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 938,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 936,
+  "NumberOfAwards": 938,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3202,7 +3208,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Easy Combat",
@@ -3223,8 +3229,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-08-30T13:14:26.5210953+00:00",
+  "LastChanged": "2024-08-30T14:58:40.1559354+00:00",
   "LastUpdate_AppInfo": "2024-08-28T17:57:44.2877635+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:14:26.5210958+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:58:40.155936+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:55.7173772+00:00"
 }

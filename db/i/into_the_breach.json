@@ -2,7 +2,7 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 1193,
@@ -6040,10 +6040,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4582,
       "NumberOfAwardsMax": 515
+    },
+    {
+      "Time": "2024-08-30T14:59:47.0222845+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4583,
+      "NumberOfAwardsMax": 515
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4582,
+  "NumberOfAwards": 4583,
   "NumberOfAwardsMax": 515,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6075,7 +6081,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 418
+      "Count": 419
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6137,8 +6143,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-08-30T11:57:57.3864864+00:00",
+  "LastChanged": "2024-08-30T14:59:47.0222843+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:01.3231947+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:57:21.9331186+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:59:47.0222849+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.061096+00:00"
 }

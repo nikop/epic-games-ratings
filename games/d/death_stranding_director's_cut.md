@@ -1,7 +1,7 @@
 # DEATH STRANDING DIRECTOR'S CUT
 [Store](https://store.epicgames.com/en-US/p/death-stranding-directors-cut)  
 [View Rawdata](../../db/d/death_stranding_director's_cut.json)  
-Rating: 4.89 (Ranked 11)  
+Rating: 4.89 (Ranked 12)  
 Number of Ratings: 3,099  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -361,12 +361,12 @@ Completed: 2,768 (0.46%) (Ranked 333)
 | 2024-08-09 | 603,151 | 2,745 |
 | 2024-08-20 | 604,409 | 2,768 |
 ## Awards
-Max (Great Boss Battles): 11,170  (Ranked 52)  
-Sum: 19,831 (Ranked 74)  
+Max (Great Boss Battles): 11,177  (Ranked 52)  
+Sum: 19,838 (Ranked 74)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 11,170 |
+| This game has Great Boss Battles | 11,177 |
 | This game is Great for Beginners | 938 |
 | This game has Diverse Characters | 868 |
 | This game has Amazing Storytelling | 812 |
@@ -973,4 +973,4 @@ Diff (max vs sum): -22
 | 2024-08-27 | 4.89 | - | 11,152 | 19,781 |
 | 2024-08-28 | 4.89 | - | 11,161 | 19,806 |
 | 2024-08-29 | 4.89 | - | 11,170 | 19,824 |
-| 2024-08-30 | 4.89 | - | 11,170 | 19,831 |
+| 2024-08-30 | 4.89 | - | 11,177 | 19,838 |

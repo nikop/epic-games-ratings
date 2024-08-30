@@ -1,7 +1,7 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.27 (Ranked 1,027)  
+Rating: 4.27 (Ranked 1,028)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -324,8 +324,8 @@ Completed: 39 (0.07%) (Ranked 457)
 | 2024-08-09 | 52,299 | 39 |
 ## Awards
 Max (Great Boss Battles): 135  (Ranked 411)  
-Sum: 135 (Ranked 538)  
-Diff (max vs sum): -127  
+Sum: 135 (Ranked 539)  
+Diff (max vs sum): -128  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 135 |

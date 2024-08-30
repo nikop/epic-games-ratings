@@ -1,11 +1,11 @@
 # Loop Hero
 [Store](https://store.epicgames.com/en-US/p/loop-hero)  
 [View Rawdata](../../db/l/loop_hero.json)  
-Rating: 4.67 (Ranked 313)  
+Rating: 4.67 (Ranked 314)  
 Number of Ratings: 6,301  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 602  (Ranked 248)  
-Sum: 5,037 (Ranked 173)  
+Sum: 5,040 (Ranked 173)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 75
 | This game has Amazing Storytelling | 538 |
 | This game is Extremely Fun | 509 |
 | This game is Highly Recommended | 504 |
-| This game has Diverse Characters | 481 |
+| This game has Diverse Characters | 484 |
 | This game has Unique Visuals | 478 |
 | This game has Amazing Characters | 472 |
 | This game has a Creative Community | 333 |
@@ -509,4 +509,4 @@ Diff (max vs sum): 75
 | 2024-08-27 | 4.67 | - | 597 | 5,018 |
 | 2024-08-28 | 4.67 | - | 600 | 5,026 |
 | 2024-08-29 | 4.67 | - | 602 | 5,033 |
-| 2024-08-30 | 4.67 | - | 602 | 5,037 |
+| 2024-08-30 | 4.67 | - | 602 | 5,040 |
