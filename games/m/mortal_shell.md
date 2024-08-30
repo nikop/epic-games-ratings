@@ -1,11 +1,11 @@
 # Mortal Shell
 [Store](https://store.epicgames.com/en-US/p/mortal-shell)  
 [View Rawdata](../../db/m/mortal_shell.json)  
-Rating: 4.25 (Ranked 1,054)  
+Rating: 4.24 (Ranked 1,058)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 29  (Ranked 634)  
-Sum: 212 (Ranked 498)  
+Sum: 213 (Ranked 498)  
 Diff (max vs sum): 136  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 136
 | This game has Quickly Understood Controls | 28 |
 | This game has Unique Visuals | 27 |
 | This game is Extremely Fun | 27 |
-| This game is Highly Recommended | 26 |
+| This game is Highly Recommended | 27 |
 | This game has Competitive Players | 26 |
 | This game has Challenging Combat | 25 |
 | This game has Amazing Characters | 24 |
@@ -185,3 +185,4 @@ Diff (max vs sum): 136
 | 2024-08-26 | 4.25 | - | 28 | 210 |
 | 2024-08-27 | 4.25 | - | 29 | 211 |
 | 2024-08-28 | 4.25 | - | 29 | 212 |
+| 2024-08-30 | 4.24 | - | 29 | 213 |

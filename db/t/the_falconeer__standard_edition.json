@@ -2,7 +2,7 @@
   "ID": "29e93200bb53431a961afc53e39fb9c8",
   "Name": "The Falconeer: Standard Edition",
   "ProductSlug": "the-falconeer",
-  "Ranking_Rating": 1153,
+  "Ranking_Rating": 1164,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.13,
+  "Rating": 4.12,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:27.4762374+00:00",
@@ -275,6 +275,12 @@
       "Rating": 4.13,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-30T18:58:45.2221257+00:00",
+      "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -293,8 +299,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:35.086459+00:00",
   "FirstSeenRating": "2023-03-31T05:57:27.476237+00:00",
-  "LastChanged": "2024-08-28T18:59:51.1045967+00:00",
+  "LastChanged": "2024-08-30T18:58:45.2221254+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:09.9500898+00:00",
-  "LastUpdate_Ratings": "2024-08-30T16:58:51.594357+00:00",
+  "LastUpdate_Ratings": "2024-08-30T18:58:45.2221261+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:58.0010694+00:00"
 }

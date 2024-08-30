@@ -2,7 +2,7 @@
   "ID": "8e56fc9fc0fb4f18af0592c74ad896ba",
   "Name": "Ironcast",
   "ProductSlug": "ironcast",
-  "Ranking_Rating": 1233,
+  "Ranking_Rating": 1230,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.9,
+  "Rating": 3.91,
   "NumberOfRatings": 238,
   "RatingHistory": [
     {
@@ -513,6 +513,12 @@
       "Rating": 3.9,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-30T18:58:01.4431997+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -537,8 +543,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:19.8161901+00:00",
-  "LastChanged": "2024-08-26T13:12:42.4938398+00:00",
+  "LastChanged": "2024-08-30T18:58:01.4431994+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:43.2733086+00:00",
-  "LastUpdate_Ratings": "2024-08-30T16:58:22.7220965+00:00",
+  "LastUpdate_Ratings": "2024-08-30T18:58:01.4432001+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:20.3610345+00:00"
 }
