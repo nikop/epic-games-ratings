@@ -2,7 +2,7 @@
   "ID": "b79cdb6e07ea4ce9a82c00a0fb079ca5",
   "Name": "Barony",
   "ProductSlug": "barony",
-  "Ranking_Rating": 161,
+  "Ranking_Rating": 162,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 1193,
@@ -3447,6 +3447,6 @@
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
   "LastChanged": "2024-08-29T04:59:47.6064102+00:00",
   "LastUpdate_AppInfo": "2024-08-26T05:57:07.5663847+00:00",
-  "LastUpdate_Ratings": "2024-08-29T23:59:05.3347294+00:00",
+  "LastUpdate_Ratings": "2024-08-30T03:00:41.5029641+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:18.6242508+00:00"
 }

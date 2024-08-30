@@ -8374,10 +8374,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5033,
       "NumberOfAwardsMax": 602
+    },
+    {
+      "Time": "2024-08-30T03:01:20.5511662+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5035,
+      "NumberOfAwardsMax": 602
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5033,
+  "NumberOfAwards": 5035,
   "NumberOfAwardsMax": 602,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8409,7 +8415,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 503
+      "Count": 504
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8439,7 +8445,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 332
+      "Count": 333
     }
   ],
   "EOS_Progressed": 0,
@@ -8453,8 +8459,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-08-29T22:58:00.4945617+00:00",
+  "LastChanged": "2024-08-30T03:01:20.5511661+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:12:14.4196776+00:00",
-  "LastUpdate_Ratings": "2024-08-29T23:59:44.0282139+00:00",
+  "LastUpdate_Ratings": "2024-08-30T03:01:20.5511684+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.3413385+00:00"
 }
