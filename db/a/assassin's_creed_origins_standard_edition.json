@@ -12474,10 +12474,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 9492,
       "NumberOfAwardsMax": 5104
+    },
+    {
+      "Time": "2024-08-30T17:59:11.469662+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 9494,
+      "NumberOfAwardsMax": 5104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9492,
+  "NumberOfAwards": 9494,
   "NumberOfAwardsMax": 5104,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12491,7 +12497,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 448
+      "Count": 449
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12551,7 +12557,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 235
+      "Count": 236
     }
   ],
   "EOS_Progressed": 0,
@@ -12565,8 +12571,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2024-08-30T10:59:26.7849003+00:00",
+  "LastChanged": "2024-08-30T17:59:11.4696618+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:19.913869+00:00",
-  "LastUpdate_Ratings": "2024-08-30T15:59:46.2374613+00:00",
+  "LastUpdate_Ratings": "2024-08-30T17:59:11.4696623+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.384548+00:00"
 }

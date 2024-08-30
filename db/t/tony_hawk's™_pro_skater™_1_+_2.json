@@ -4,7 +4,7 @@
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2414,10 +2414,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 855,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-08-30T17:58:55.2834271+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 856,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 855,
+  "NumberOfAwards": 856,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2485,7 +2491,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2511,8 +2517,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2024-08-29T09:59:18.4494528+00:00",
+  "LastChanged": "2024-08-30T17:58:55.2834269+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:52.4331833+00:00",
-  "LastUpdate_Ratings": "2024-08-30T15:59:31.9778385+00:00",
+  "LastUpdate_Ratings": "2024-08-30T17:58:55.2834277+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:21.1086005+00:00"
 }
