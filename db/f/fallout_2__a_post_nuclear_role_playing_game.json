@@ -2,7 +2,7 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 245,
+  "Ranking_Rating": 267,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -1897,10 +1897,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 600,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2024-08-29T23:58:28.2187896+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 601,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 600,
+  "NumberOfAwards": 601,
   "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1920,7 +1926,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1977,8 +1983,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-08-29T04:59:13.4347985+00:00",
+  "LastChanged": "2024-08-29T23:58:28.2187894+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:20.3488246+00:00",
-  "LastUpdate_Ratings": "2024-08-29T22:00:56.6547072+00:00",
+  "LastUpdate_Ratings": "2024-08-29T23:58:28.21879+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:08.2104588+00:00"
 }
