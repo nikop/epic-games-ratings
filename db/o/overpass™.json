@@ -3,8 +3,8 @@
   "Name": "OVERPASS\u2122",
   "ProductSlug": "overpass",
   "Ranking_Rating": 1020,
-  "Ranking_Popularity": 707,
-  "Ranking_PopularitySum": 707,
+  "Ranking_Popularity": 708,
+  "Ranking_PopularitySum": 708,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -97,6 +97,6 @@
   "FirstSeenRating": "2022-09-27T09:01:01.2666865+00:00",
   "LastChanged": "2023-11-13T14:57:33.9895954+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:04.1950375+00:00",
-  "LastUpdate_Ratings": "2024-08-30T05:57:15.1267622+00:00",
+  "LastUpdate_Ratings": "2024-08-30T06:59:19.7547134+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:11.8095232+00:00"
 }

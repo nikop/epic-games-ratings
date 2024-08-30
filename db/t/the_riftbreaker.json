@@ -4,7 +4,7 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 366,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2045,10 +2045,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 725,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2024-08-30T06:57:51.9386288+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 726,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 725,
+  "NumberOfAwards": 726,
   "NumberOfAwardsMax": 268,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2074,7 +2080,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2118,8 +2124,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-08-30T02:03:29.7141652+00:00",
+  "LastChanged": "2024-08-30T06:57:51.9386286+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:45.4811247+00:00",
-  "LastUpdate_Ratings": "2024-08-30T05:00:04.724277+00:00",
+  "LastUpdate_Ratings": "2024-08-30T06:57:51.9386291+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:44.5531276+00:00"
 }
