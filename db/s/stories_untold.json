@@ -3,8 +3,8 @@
   "Name": "Stories Untold",
   "ProductSlug": "stories-untold",
   "Ranking_Rating": 628,
-  "Ranking_Popularity": 708,
-  "Ranking_PopularitySum": 708,
+  "Ranking_Popularity": 707,
+  "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -256,6 +256,6 @@
   "FirstSeen": "2022-07-22T20:24:00.2135471+00:00",
   "LastChanged": "2024-08-25T02:04:57.2508379+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:06.2752401+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:12:08.0647854+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:01:10.0088969+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:51.1488185+00:00"
 }

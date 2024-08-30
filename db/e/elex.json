@@ -3,8 +3,8 @@
   "Name": "ELEX",
   "ProductSlug": "elex",
   "Ranking_Rating": 843,
-  "Ranking_Popularity": 630,
-  "Ranking_PopularitySum": 660,
+  "Ranking_Popularity": 707,
+  "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -405,9 +405,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Character Customization",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
@@ -861,6 +860,6 @@
   "LastChanged": "2024-08-03T02:57:29.9644632+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:27.771361+00:00",
   "LastUpdate_AppInfo": "2024-08-26T06:57:16.6882417+00:00",
-  "LastUpdate_Ratings": "2024-08-30T13:12:00.1131917+00:00",
+  "LastUpdate_Ratings": "2024-08-30T14:01:02.0558461+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.7713903+00:00"
 }

@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/duskers.json)  
 Rating: 4.54 (Ranked 608)  
 ## Awards
-Max (Highly Recommended): 22  (Ranked 684)  
+Max (Highly Recommended): 22  (Ranked 683)  
 Sum: 63 (Ranked 607)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 22 |
