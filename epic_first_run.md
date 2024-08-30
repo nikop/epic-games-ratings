@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Xtracosm Metaverse](games/f/fb5af030960c487ca1ed800b253e6421.md) | 2024-08-31 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [ZELENSTROY](games/f/f8cdddb2e147402c89c8565a9276b148.md) | 2024-08-21 | - |  | - | - |
 | [Drizzlepath: Picturae](games/b/b764ec91043244a2918ed594205c0149.md) | 2024-09-06 | - |  | - | - |
