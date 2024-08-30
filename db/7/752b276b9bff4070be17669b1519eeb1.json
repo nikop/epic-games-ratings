@@ -3,7 +3,7 @@
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 804,
-  "Ranking_Popularity": 193,
+  "Ranking_Popularity": 187,
   "Ranking_PopularitySum": 208,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -6851,24 +6851,30 @@
       "Rating": 4.44,
       "NumberOfAwards": 3374,
       "NumberOfAwardsMax": 1050
+    },
+    {
+      "Time": "2024-08-30T03:58:07.3494823+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 3392,
+      "NumberOfAwardsMax": 1058
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3374,
-  "NumberOfAwardsMax": 1050,
+  "NumberOfAwards": 3392,
+  "NumberOfAwardsMax": 1058,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1050
+      "Count": 1058
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 344
+      "Count": 348
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6886,7 +6892,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 241
+      "Count": 244
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6916,7 +6922,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 220
+      "Count": 223
     }
   ],
   "EOS_Progressed": 0,
@@ -6931,8 +6937,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-08-29T02:59:44.4564855+00:00",
+  "LastChanged": "2024-08-30T03:58:07.3494821+00:00",
   "LastUpdate_AppInfo": "2024-08-23T21:57:07.3944066+00:00",
-  "LastUpdate_Ratings": "2024-08-30T02:04:35.3486179+00:00",
+  "LastUpdate_Ratings": "2024-08-30T03:58:07.3494827+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.6402292+00:00"
 }
