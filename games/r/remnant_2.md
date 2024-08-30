@@ -1,7 +1,7 @@
 # Remnant II®
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.70 (Ranked 245)  
+Rating: 4.70 (Ranked 244)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -271,12 +271,12 @@ Completed: 2,158 (0.51%) (Ranked 325)
 | 2024-08-20 | 421,008 | 2,158 |
 ## Awards
 Max (Great Boss Battles): 10,435  (Ranked 56)  
-Sum: 27,718 (Ranked 63)  
+Sum: 27,719 (Ranked 63)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 10,435 |
-| This game has Diverse Characters | 1,936 |
+| This game has Diverse Characters | 1,937 |
 | This game is Highly Recommended | 1,881 |
 | This game has Challenging Combat | 1,814 |
 | This game has Quickly Understood Controls | 1,803 |
@@ -690,4 +690,4 @@ Diff (max vs sum): -7
 | 2024-08-27 | 4.70 | 10,424 | 27,672 |
 | 2024-08-28 | 4.70 | 10,424 | 27,682 |
 | 2024-08-29 | 4.70 | 10,430 | 27,701 |
-| 2024-08-30 | 4.70 | 10,435 | 27,718 |
+| 2024-08-30 | 4.70 | 10,435 | 27,719 |

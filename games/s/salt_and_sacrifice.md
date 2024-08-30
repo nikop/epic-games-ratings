@@ -1,7 +1,7 @@
 # Salt and Sacrifice
 [Store](https://store.epicgames.com/en-US/p/salt-and-sacrifice)  
 [View Rawdata](../../db/s/salt_and_sacrifice.json)  
-Rating: 4.31 (Ranked 993)  
+Rating: 4.30 (Ranked 998)  
 Number of Ratings: 2,205  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -617,3 +617,4 @@ Diff (max vs sum): -52
 | 2024-08-25 | 4.31 | - | 1,025 | 2,095 |
 | 2024-08-26 | 4.31 | - | 1,026 | 2,096 |
 | 2024-08-29 | 4.31 | - | 1,026 | 2,097 |
+| 2024-08-30 | 4.30 | - | 1,026 | 2,097 |
