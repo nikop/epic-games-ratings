@@ -330,9 +330,9 @@ Completed: 160 (0.81%) (Ranked 289)
 | 2024-08-09 | 19,603 | 158 |
 | 2024-08-20 | 19,684 | 160 |
 ## Awards
-Max (Diverse Characters): 33  (Ranked 615)  
-Sum: 226 (Ranked 495)  
-Diff (max vs sum): 120  
+Max (Amazing Storytelling): 33  (Ranked 615)  
+Sum: 246 (Ranked 486)  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 177 |
@@ -345,6 +345,7 @@ Diff (max vs sum): 120
 | This game is Relaxing | 26 |
 | This game has Quickly Understood Controls | 23 |
 | This game has a Creative Community | 22 |
+| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -589,3 +590,4 @@ Diff (max vs sum): 120
 | 2024-08-20 | 4.53 | 33 | 224 |
 | 2024-08-21 | 4.53 | 33 | 226 |
 | 2024-08-27 | 4.52 | 33 | 226 |
+| 2024-08-30 | 4.52 | 33 | 246 |
