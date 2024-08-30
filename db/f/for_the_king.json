@@ -3,7 +3,7 @@
   "Name": "For The King",
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 245,
-  "Ranking_Popularity": 265,
+  "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5491,18 +5491,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 3409,
       "NumberOfAwardsMax": 485
+    },
+    {
+      "Time": "2024-08-30T16:59:37.2684202+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3410,
+      "NumberOfAwardsMax": 486
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3409,
-  "NumberOfAwardsMax": 485,
+  "NumberOfAwards": 3410,
+  "NumberOfAwardsMax": 486,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 485
+      "Count": 486
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5570,8 +5576,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2024-08-29T17:59:05.5860662+00:00",
+  "LastChanged": "2024-08-30T16:59:37.2684201+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:54.0188931+00:00",
-  "LastUpdate_Ratings": "2024-08-30T15:57:35.1818559+00:00",
+  "LastUpdate_Ratings": "2024-08-30T16:59:37.2684207+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:22.2365161+00:00"
 }

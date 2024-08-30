@@ -2,7 +2,7 @@
   "ID": "5c0d568c71174cff8026db2606771d96",
   "Name": "Into the Breach",
   "ProductSlug": "into-the-breach",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 54,
   "Ranking_Popularity": 261,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.84,
   "NumberOfRatings": 4082,
   "RatingHistory": [
     {
@@ -6046,10 +6046,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4583,
       "NumberOfAwardsMax": 515
+    },
+    {
+      "Time": "2024-08-30T16:58:32.0422864+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4584,
+      "NumberOfAwardsMax": 515
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4583,
+  "NumberOfAwards": 4584,
   "NumberOfAwardsMax": 515,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6105,7 +6111,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 365
+      "Count": 366
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -6143,8 +6149,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-08-30T14:59:47.0222843+00:00",
+  "LastChanged": "2024-08-30T16:58:32.0422862+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:01.3231947+00:00",
-  "LastUpdate_Ratings": "2024-08-30T14:59:47.0222849+00:00",
+  "LastUpdate_Ratings": "2024-08-30T16:58:32.0422868+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.061096+00:00"
 }

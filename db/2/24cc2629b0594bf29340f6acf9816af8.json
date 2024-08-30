@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-forbidden-west-complete-edition",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 148,
@@ -3475,18 +3475,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 1850,
       "NumberOfAwardsMax": 727
+    },
+    {
+      "Time": "2024-08-30T16:57:38.7137897+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 1861,
+      "NumberOfAwardsMax": 735
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1850,
-  "NumberOfAwardsMax": 727,
+  "NumberOfAwards": 1861,
+  "NumberOfAwardsMax": 735,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 727
+      "Count": 735
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3498,7 +3504,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 105
+      "Count": 107
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3552,7 +3558,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 143
+      "Count": 144
     }
   ],
   "EOS_Progressed": 15931,
@@ -4253,9 +4259,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-08-30T14:58:53.5725136+00:00",
+  "LastChanged": "2024-08-30T16:57:38.7137895+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:55.4665755+00:00",
   "LastUpdate_AppInfo": "2024-08-29T19:57:13.3496952+00:00",
-  "LastUpdate_Ratings": "2024-08-30T14:58:53.5725143+00:00",
+  "LastUpdate_Ratings": "2024-08-30T16:57:38.7137903+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:55.4666694+00:00"
 }
