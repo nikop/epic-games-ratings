@@ -3,7 +3,7 @@
   "Name": "DAEMON X MACHINA",
   "ProductSlug": "daemon-x-machina",
   "Ranking_Rating": 872,
-  "Ranking_Popularity": 182,
+  "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -2529,6 +2529,6 @@
   "FirstSeen": "2022-07-22T20:20:03.7612115+00:00",
   "LastChanged": "2024-08-29T19:01:42.8965388+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:10:54.713359+00:00",
-  "LastUpdate_Ratings": "2024-08-30T18:57:51.3533459+00:00",
+  "LastUpdate_Ratings": "2024-08-30T19:59:45.9450197+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:01.531383+00:00"
 }

@@ -11643,11 +11643,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 9017,
       "NumberOfAwardsMax": 1031
+    },
+    {
+      "Time": "2024-08-30T19:57:40.5585677+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 9019,
+      "NumberOfAwardsMax": 1033
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9017,
-  "NumberOfAwardsMax": 1031,
+  "NumberOfAwards": 9019,
+  "NumberOfAwardsMax": 1033,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -11666,7 +11672,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1031
+      "Count": 1033
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11736,9 +11742,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-08-30T17:58:34.5296552+00:00",
+  "LastChanged": "2024-08-30T19:57:40.5585675+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:23.5292227+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:25.8923991+00:00",
-  "LastUpdate_Ratings": "2024-08-30T17:58:34.5296558+00:00",
+  "LastUpdate_Ratings": "2024-08-30T19:57:40.558568+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:23.5292299+00:00"
 }
