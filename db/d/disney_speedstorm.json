@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 862,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 544,
@@ -8557,10 +8557,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 3873,
       "NumberOfAwardsMax": 609
+    },
+    {
+      "Time": "2024-08-30T13:14:35.7940246+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3880,
+      "NumberOfAwardsMax": 609
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3873,
+  "NumberOfAwards": 3880,
   "NumberOfAwardsMax": 609,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8568,7 +8574,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 481
+      "Count": 484
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8580,7 +8586,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 564
+      "Count": 566
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8628,7 +8634,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 304
+      "Count": 306
     },
     {
       "Text": "This game is Relaxing",
@@ -28501,9 +28507,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-08-30T09:58:41.7907426+00:00",
+  "LastChanged": "2024-08-30T13:14:35.7940245+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:53.6327436+00:00",
   "LastUpdate_AppInfo": "2024-08-25T20:57:05.1689319+00:00",
-  "LastUpdate_Ratings": "2024-08-30T11:00:18.9345654+00:00",
+  "LastUpdate_Ratings": "2024-08-30T13:14:35.7940249+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:53.6328525+00:00"
 }

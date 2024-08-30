@@ -2,7 +2,7 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 609,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 447,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 1193,
@@ -930,10 +930,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 547,
       "NumberOfAwardsMax": 110
+    },
+    {
+      "Time": "2024-08-30T13:15:00.6345758+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 550,
+      "NumberOfAwardsMax": 110
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 547,
+  "NumberOfAwards": 550,
   "NumberOfAwardsMax": 110,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -983,7 +989,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 44
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1010,8 +1016,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-08-30T11:57:11.4212164+00:00",
+  "LastChanged": "2024-08-30T13:15:00.6345756+00:00",
   "LastUpdate_AppInfo": "2024-08-23T21:57:04.4360306+00:00",
-  "LastUpdate_Ratings": "2024-08-30T11:57:11.421217+00:00",
+  "LastUpdate_Ratings": "2024-08-30T13:15:00.6345769+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }
