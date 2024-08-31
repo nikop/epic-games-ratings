@@ -4,7 +4,7 @@
   "ProductSlug": "phantom-blade-executioners-918ac0",
   "Ranking_Rating": 1214,
   "Ranking_Popularity": 621,
-  "Ranking_PopularitySum": 613,
+  "Ranking_PopularitySum": 658,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -773,10 +773,16 @@
       "Rating": 3.97,
       "NumberOfAwards": 58,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-08-31T03:00:29.1029519+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 32,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58,
+  "NumberOfAwards": 32,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -805,8 +811,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-13T13:14:49.9131564+00:00",
   "FirstSeenRating": "2023-11-21T03:58:33.7584778+00:00",
-  "LastChanged": "2024-08-30T03:58:00.4667518+00:00",
+  "LastChanged": "2024-08-31T03:00:29.1029517+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:04.4048212+00:00",
-  "LastUpdate_Ratings": "2024-08-30T23:58:46.1807712+00:00",
+  "LastUpdate_Ratings": "2024-08-31T03:00:29.1029522+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:05.1992198+00:00"
 }
