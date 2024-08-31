@@ -2,9 +2,9 @@
   "ID": "0e548758b82a4be785f435cedf306130",
   "Name": "Black Myth: Wukong",
   "ProductSlug": "black-myth-wukong-87a72b",
-  "Ranking_Rating": 15,
-  "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 115,
+  "Ranking_Rating": 19,
+  "Ranking_Popularity": 89,
+  "Ranking_PopularitySum": 112,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "RatingHistory": [
     {
       "Time": "2024-08-20T09:57:56.1070991+00:00",
@@ -438,18 +438,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 10691,
       "NumberOfAwardsMax": 5184
+    },
+    {
+      "Time": "2024-08-31T09:58:41.1827661+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 11297,
+      "NumberOfAwardsMax": 5790
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10691,
-  "NumberOfAwardsMax": 5184,
+  "NumberOfAwards": 11297,
+  "NumberOfAwardsMax": 5790,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 5184
+      "Count": 5790
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -832,9 +838,9 @@
   "FirstSeen": "2024-08-20T05:59:33.1921959+00:00",
   "FirstSeenRating": "2024-08-20T09:57:56.1070988+00:00",
   "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
-  "LastChanged": "2024-08-31T07:58:47.9379162+00:00",
+  "LastChanged": "2024-08-31T09:58:41.1827659+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:36.1550622+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:23.9606595+00:00",
-  "LastUpdate_Ratings": "2024-08-31T07:58:47.9379166+00:00",
+  "LastUpdate_Ratings": "2024-08-31T09:58:41.1827664+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:36.1558868+00:00"
 }
