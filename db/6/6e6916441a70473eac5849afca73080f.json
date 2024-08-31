@@ -2,7 +2,7 @@
   "ID": "6e6916441a70473eac5849afca73080f",
   "Name": "War Tanks",
   "ProductSlug": "war-of-tanks-e916f2",
-  "Ranking_Rating": 1264,
+  "Ranking_Rating": 1259,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.71,
+  "Rating": 3.75,
   "RatingHistory": [
     {
       "Time": "2024-07-04T01:53:00.4931158+00:00",
@@ -300,6 +300,12 @@
       "Rating": 3.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-31T18:57:11.2727227+00:00",
+      "Rating": 3.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -318,8 +324,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-13T20:57:21.6038626+00:00",
   "FirstSeenRating": "2024-07-04T01:53:00.4931155+00:00",
-  "LastChanged": "2024-08-29T23:58:53.265353+00:00",
+  "LastChanged": "2024-08-31T18:57:11.2727226+00:00",
   "LastUpdate_AppInfo": "2024-08-29T19:57:13.1851948+00:00",
-  "LastUpdate_Ratings": "2024-08-31T16:58:13.2887915+00:00",
+  "LastUpdate_Ratings": "2024-08-31T18:57:11.2727229+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:34.7924396+00:00"
 }
