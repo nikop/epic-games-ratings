@@ -2,7 +2,7 @@
   "ID": "helloneighbor",
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 562,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 1193,
@@ -9322,10 +9322,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 3687,
       "NumberOfAwardsMax": 596
+    },
+    {
+      "Time": "2024-08-31T13:08:50.0973822+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 3690,
+      "NumberOfAwardsMax": 596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3687,
+  "NumberOfAwards": 3690,
   "NumberOfAwardsMax": 596,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9333,7 +9339,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 443
+      "Count": 446
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9401,8 +9407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2024-08-31T07:58:07.279419+00:00",
+  "LastChanged": "2024-08-31T13:08:50.097382+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:49.407837+00:00",
-  "LastUpdate_Ratings": "2024-08-31T11:01:06.3682166+00:00",
+  "LastUpdate_Ratings": "2024-08-31T13:08:50.0973825+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:21.5674918+00:00"
 }
