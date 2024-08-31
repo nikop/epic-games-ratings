@@ -2,7 +2,7 @@
   "ID": "begonia",
   "Name": "The Walking Dead: A New Frontier",
   "ProductSlug": "walking-dead-a-new-frontier",
-  "Ranking_Rating": 103,
+  "Ranking_Rating": 102,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
@@ -218,6 +218,6 @@
   "FirstSeenRating": "2022-08-09T06:30:26.3767839+00:00",
   "LastChanged": "2024-08-30T10:59:47.1151361+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:26.5710243+00:00",
-  "LastUpdate_Ratings": "2024-08-31T09:58:42.5584612+00:00",
+  "LastUpdate_Ratings": "2024-08-31T11:57:25.5448014+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:38.6219964+00:00"
 }

@@ -385,12 +385,12 @@ Completed: 3,420 (0.01%) (Ranked 532)
 | 2024-08-09 | 30,547,380 | 3,381 |
 | 2024-08-20 | 30,691,645 | 3,420 |
 ## Awards
-Max (Great for Quick Sessions): 933,276  (Ranked 2)  
-Sum: 5,507,011 (Ranked 2)  
+Max (Great for Quick Sessions): 934,687  (Ranked 2)  
+Sum: 5,508,422 (Ranked 2)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 933,276 |
+| This game is Great for Quick Sessions | 934,687 |
 | This game has Competitive Players | 806,582 |
 | This game is Extremely Fun | 708,230 |
 | This game is Highly Recommended | 671,431 |
@@ -989,3 +989,4 @@ Diff (max vs sum): 0
 | 2024-08-28 | 4.43 | - | 930,959 | 5,496,160 |
 | 2024-08-29 | 4.43 | - | 932,148 | 5,501,430 |
 | 2024-08-30 | 4.43 | - | 933,276 | 5,507,011 |
+| 2024-08-31 | 4.43 | - | 934,687 | 5,508,422 |
