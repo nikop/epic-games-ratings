@@ -118,5 +118,3 @@
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | - |
 | [Marble Puzzle Blast](games/3/3b7e9e4feae3460781d25006fcfb261f.md) | 2024-08-01 | - |  | - | - |
 | [Welcome to Elk](games/9/93a34c70b09247f396e5124b3f6c1302.md) | 2024-08-01 | - |  | - | - |
-| [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2024-08-01 | 6 (1,000 XP) | 2 | - | - |
-| [Sift Heads Rush](games/0/00dc291114184ee8b1f97af9d7ac8d58.md) | 2024-08-01 | - |  | - | 0 |
