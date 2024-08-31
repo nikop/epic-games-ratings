@@ -87,7 +87,7 @@
 | [The Voidness - Lidar Horror Survival Game](games/a/a7353f6ece4a4126ad3d27fe6410cc72.md) | 2024-08-09 | - |  | - | 0 |
 | [Looper Tactics Deluxe Edition](games/e/e551ed37b11f45ec9fb62af82ed0354f.md) | 2024-08-09 | 28 (1,000 XP) | 0 | - | 0 |
 | [Solo Path](games/0/006f58d65fcf4ce896d28335e1ef93c5.md) | 2024-08-09 | - |  | - | - |
-| [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | 33 (1,000 XP) | 93 | 4.95 | 0 |
+| [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | 33 (1,000 XP) | 93 | 4.96 | 0 |
 | [DOOM Eternal](games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 2024-08-08 | 50 (1,545 XP) | 13 | - | 0 |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | 35 (1,000 XP) | 13 | - | 0 |
 | [Radiant Arena](games/e/e842ff4630504acd96d55f65a5827d1c.md) | 2024-08-08 | - |  | - | 0 |
@@ -121,4 +121,3 @@
 | [Quiztopia : The Ultimate Trivia](games/1/14e5ac79eb304c5d834a9985cd4d127e.md) | 2024-08-01 | 6 (1,000 XP) | 2 | - | - |
 | [Sift Heads Rush](games/0/00dc291114184ee8b1f97af9d7ac8d58.md) | 2024-08-01 | - |  | - | 0 |
 | [Thank Goodness You're Here!](games/c/c54616412a81452a9222e43b97b69ef2.md) | 2024-08-01 | 32 (1,000 XP) | 247 | - | 0 |
-| [Thymesia](games/3/3ef48399a4044d9eb00beb44623fe5e5.md) | 2024-08-01 | 38 (1,000 XP) | 11 | - | 0 |
