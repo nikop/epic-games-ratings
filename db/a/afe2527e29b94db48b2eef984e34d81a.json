@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 667,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 483,
   "Ranking_EOS_NewPlayers": 17,
@@ -2082,10 +2082,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2012,
       "NumberOfAwardsMax": 1138
+    },
+    {
+      "Time": "2024-08-31T02:04:56.1396374+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2024,
+      "NumberOfAwardsMax": 1138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2012,
+  "NumberOfAwards": 2024,
   "NumberOfAwardsMax": 1138,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2099,7 +2105,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 499
+      "Count": 511
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2757,9 +2763,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-08-30T21:58:19.9731155+00:00",
+  "LastChanged": "2024-08-31T02:04:56.1396373+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:26.1790746+00:00",
   "LastUpdate_AppInfo": "2024-08-29T22:57:07.4812884+00:00",
-  "LastUpdate_Ratings": "2024-08-30T23:57:03.0100976+00:00",
+  "LastUpdate_Ratings": "2024-08-31T02:04:56.1396377+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:26.1791248+00:00"
 }
