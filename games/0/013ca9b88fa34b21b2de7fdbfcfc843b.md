@@ -220,8 +220,8 @@ Completed: 3 (0.03%) (Ranked 494)
 | 2024-08-09 | 11,105 | 3 |
 | 2024-08-20 | 11,199 | 3 |
 ## Awards
-Max (Character Customization): 36  (Ranked 600)  
-Sum: 36 (Ranked 649)  
+Max (Character Customization): 36  (Ranked 601)  
+Sum: 36 (Ranked 650)  
 Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |

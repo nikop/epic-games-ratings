@@ -1,11 +1,11 @@
 # Rise of the Tomb Raider: 20 Year Celebration
 [Store](https://store.epicgames.com/en-US/p/rise-of-the-tomb-raider)  
 [View Rawdata](../../db/r/rise_of_the_tomb_raider__20_year_celebration.json)  
-Rating: 4.68 (Ranked 289)  
+Rating: 4.68 (Ranked 290)  
 Number of Ratings: 28,216  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 12,996  (Ranked 46)  
-Sum: 16,678 (Ranked 87)  
+Sum: 16,679 (Ranked 87)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): -41
 | This game is Highly Recommended | 453 |
 | This game is Relaxing | 451 |
 | This game is Great for Beginners | 448 |
-| This game has Amazing Storytelling | 434 |
+| This game has Amazing Storytelling | 435 |
 | This game is Extremely Fun | 421 |
 | This game has Amazing Characters | 418 |
 | This game has Diverse Characters | 413 |
@@ -556,4 +556,4 @@ Diff (max vs sum): -41
 | 2024-08-28 | 4.68 | - | 12,960 | 16,632 |
 | 2024-08-29 | 4.68 | - | 12,973 | 16,647 |
 | 2024-08-30 | 4.68 | - | 12,983 | 16,663 |
-| 2024-08-31 | 4.68 | - | 12,996 | 16,678 |
+| 2024-08-31 | 4.68 | - | 12,996 | 16,679 |

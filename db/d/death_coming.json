@@ -2,7 +2,7 @@
   "ID": "58c35a214bbb4656a536126ad1552d42",
   "Name": "Death Coming",
   "ProductSlug": "death-coming",
-  "Ranking_Rating": 863,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.41,
+  "Rating": 4.42,
   "NumberOfRatings": 91,
   "RatingHistory": [
     {
@@ -604,6 +604,12 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-08-31T20:58:48.3945633+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -621,8 +627,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:20.4886047+00:00",
-  "LastChanged": "2024-08-30T20:57:51.429375+00:00",
+  "LastChanged": "2024-08-31T20:58:48.3945629+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:13.8938896+00:00",
-  "LastUpdate_Ratings": "2024-08-31T18:59:46.0611058+00:00",
+  "LastUpdate_Ratings": "2024-08-31T20:58:48.3945637+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:42.8330798+00:00"
 }

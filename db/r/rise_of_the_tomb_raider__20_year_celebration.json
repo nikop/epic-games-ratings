@@ -2,7 +2,7 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "ProductSlug": "rise-of-the-tomb-raider",
-  "Ranking_Rating": 289,
+  "Ranking_Rating": 290,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 1193,
@@ -8252,10 +8252,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 16678,
       "NumberOfAwardsMax": 12996
+    },
+    {
+      "Time": "2024-08-31T20:59:05.7112343+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 16679,
+      "NumberOfAwardsMax": 12996
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16678,
+  "NumberOfAwards": 16679,
   "NumberOfAwardsMax": 12996,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8281,7 +8287,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 434
+      "Count": 435
     },
     {
       "Text": "This game is Relaxing",
@@ -8337,8 +8343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2024-08-31T13:59:25.9552749+00:00",
+  "LastChanged": "2024-08-31T20:59:05.7112342+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:54.5152869+00:00",
-  "LastUpdate_Ratings": "2024-08-31T19:00:03.7429212+00:00",
+  "LastUpdate_Ratings": "2024-08-31T20:59:05.7112348+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:57.4658294+00:00"
 }
