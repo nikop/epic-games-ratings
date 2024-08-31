@@ -1,7 +1,7 @@
 # No Straight Roads
 [Store](https://store.epicgames.com/en-US/p/no-straight-roads)  
 [View Rawdata](../../db/n/no_straight_roads.json)  
-Rating: 4.59 (Ranked 500)  
+Rating: 4.61 (Ranked 449)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.59 (Ranked 500)
 | 2024-08-04 | 4.57 | 0 | 0 |
 | 2024-08-20 | 4.58 | 0 | 0 |
 | 2024-08-23 | 4.59 | 0 | 0 |
+| 2024-08-31 | 4.61 | 0 | 0 |

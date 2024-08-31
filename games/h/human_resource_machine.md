@@ -1,14 +1,14 @@
 # Human Resource Machine
 [Store](https://store.epicgames.com/en-US/p/human-resource-machine)  
 [View Rawdata](../../db/h/human_resource_machine.json)  
-Rating: 4.62 (Ranked 425)  
+Rating: 4.63 (Ranked 404)  
 ## Awards
-Max (Challenging Puzzles): 95  (Ranked 466)  
-Sum: 95 (Ranked 571)  
-Diff (max vs sum): -105  
+Max (Challenging Puzzles): 97  (Ranked 464)  
+Sum: 97 (Ranked 570)  
+Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 95 |
+| This game features Challenging Puzzles | 97 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -80,3 +80,4 @@ Diff (max vs sum): -105
 | 2024-08-27 | 4.63 | 94 | 94 |
 | 2024-08-29 | 4.63 | 95 | 95 |
 | 2024-08-30 | 4.62 | 95 | 95 |
+| 2024-08-31 | 4.63 | 97 | 97 |

@@ -3,8 +3,8 @@
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
   "Ranking_Rating": 404,
-  "Ranking_Popularity": 656,
-  "Ranking_PopularitySum": 670,
+  "Ranking_Popularity": 645,
+  "Ranking_PopularitySum": 664,
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 267,
   "Ranking_EOS_NewPlayers": 151,
@@ -440,18 +440,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-08-31T17:00:10.7617877+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 26
+      "Count": 28
     }
   ],
   "EOS_Progressed": 3342,
@@ -5060,9 +5066,9 @@
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
-  "LastChanged": "2024-08-24T16:59:23.2475882+00:00",
+  "LastChanged": "2024-08-31T17:00:10.7617875+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:54.1863885+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:56.7951462+00:00",
-  "LastUpdate_Ratings": "2024-08-31T15:57:28.8050193+00:00",
+  "LastUpdate_Ratings": "2024-08-31T17:00:10.761788+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:54.1864257+00:00"
 }
