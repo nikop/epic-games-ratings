@@ -2,7 +2,7 @@
   "ID": "ca0530b485754032be50cb6f27be0c2c",
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
-  "Ranking_Rating": 116,
+  "Ranking_Rating": 115,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 1193,
@@ -13657,10 +13657,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 11288,
       "NumberOfAwardsMax": 1896
+    },
+    {
+      "Time": "2024-08-31T13:57:54.0484042+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 11290,
+      "NumberOfAwardsMax": 1896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11288,
+  "NumberOfAwards": 11290,
   "NumberOfAwardsMax": 1896,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -13698,7 +13704,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1357
+      "Count": 1359
     },
     {
       "Text": "This game has a Creative Community",
@@ -13725,8 +13731,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2024-08-31T10:00:18.7581218+00:00",
+  "LastChanged": "2024-08-31T13:57:54.048404+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:51.1102609+00:00",
-  "LastUpdate_Ratings": "2024-08-31T11:59:06.9501159+00:00",
+  "LastUpdate_Ratings": "2024-08-31T13:57:54.0484046+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:20.5554606+00:00"
 }

@@ -1,7 +1,7 @@
 # TOEM
 [Store](https://store.epicgames.com/en-US/p/toem)  
 [View Rawdata](../../db/t/toem.json)  
-Rating: 4.80 (Ranked 102)  
+Rating: 4.80 (Ranked 101)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

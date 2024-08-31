@@ -4,8 +4,8 @@
 Rating: 4.44 (Ranked 804)  
 ## Awards
 Max (Character Customization): 182  (Ranked 377)  
-Sum: 448 (Ranked 417)  
-Diff (max vs sum): -40  
+Sum: 449 (Ranked 416)  
+Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 182 |
@@ -18,7 +18,7 @@ Diff (max vs sum): -40
 | This game is Highly Recommended | 25 |
 | This game has Quickly Understood Controls | 25 |
 | This game is Extremely Fun | 24 |
-| This game has a Creative Community | 22 |
+| This game has a Creative Community | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -222,4 +222,4 @@ Diff (max vs sum): -40
 | 2024-08-26 | 4.45 | 182 | 479 |
 | 2024-08-27 | 4.45 | 182 | 481 |
 | 2024-08-29 | 4.45 | 182 | 448 |
-| 2024-08-31 | 4.44 | 182 | 448 |
+| 2024-08-31 | 4.44 | 182 | 449 |
