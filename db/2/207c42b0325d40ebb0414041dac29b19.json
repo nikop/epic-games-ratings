@@ -2,7 +2,7 @@
   "ID": "207c42b0325d40ebb0414041dac29b19",
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
-  "Ranking_Rating": 403,
+  "Ranking_Rating": 404,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 1193,
@@ -8663,10 +8663,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 16315,
       "NumberOfAwardsMax": 5132
+    },
+    {
+      "Time": "2024-08-31T06:57:51.719453+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 16323,
+      "NumberOfAwardsMax": 5132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16315,
+  "NumberOfAwards": 16323,
   "NumberOfAwardsMax": 5132,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8710,7 +8716,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1008
+      "Count": 1016
     },
     {
       "Text": "This game has Easy Combat",
@@ -8755,8 +8761,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-08-31T03:58:46.3261182+00:00",
+  "LastChanged": "2024-08-31T06:57:51.7194529+00:00",
   "LastUpdate_AppInfo": "2024-08-30T13:11:10.8969392+00:00",
-  "LastUpdate_Ratings": "2024-08-31T03:58:46.3261186+00:00",
+  "LastUpdate_Ratings": "2024-08-31T06:57:51.7194535+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:51.1609157+00:00"
 }

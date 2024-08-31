@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1202,
+  "Ranking_Rating": 1203,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 103,
@@ -11993,10 +11993,16 @@
       "Rating": 4.01,
       "NumberOfAwards": 29670,
       "NumberOfAwardsMax": 5407
+    },
+    {
+      "Time": "2024-08-31T06:58:36.9398652+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 29676,
+      "NumberOfAwardsMax": 5407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29670,
+  "NumberOfAwards": 29676,
   "NumberOfAwardsMax": 5407,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12010,7 +12016,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4358
+      "Count": 4364
     },
     {
       "Text": "This game is Great for Beginners",
@@ -43011,9 +43017,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-08-30T18:58:45.4220751+00:00",
+  "LastChanged": "2024-08-31T06:58:36.9398651+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:50.570536+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:10.2317245+00:00",
-  "LastUpdate_Ratings": "2024-08-31T03:59:33.6530857+00:00",
+  "LastUpdate_Ratings": "2024-08-31T06:58:36.9398654+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:50.5707802+00:00"
 }

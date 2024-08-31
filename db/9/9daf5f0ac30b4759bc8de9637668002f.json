@@ -2,6 +2,9 @@
   "ID": "9daf5f0ac30b4759bc8de9637668002f",
   "Name": "BattleCore Arena",
   "ProductSlug": "battlecore-arena",
+  "Ranking_Rating": 314,
+  "Ranking_Popularity": 707,
+  "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -15,7 +18,15 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "RatingHistory": [],
+  "Rating": 4.67,
+  "RatingHistory": [
+    {
+      "Time": "2024-08-31T06:57:15.8146266+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -31,7 +42,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2024-06-07T01:52:07.9773253+00:00",
+  "FirstSeenRating": "2024-08-31T06:57:15.8146264+00:00",
+  "LastChanged": "2024-08-31T06:57:15.8146265+00:00",
   "LastUpdate_AppInfo": "2024-08-28T03:57:35.2032577+00:00",
-  "LastUpdate_Ratings": "2024-08-31T03:58:09.2223354+00:00",
+  "LastUpdate_Ratings": "2024-08-31T06:57:15.8146274+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:29.9289493+00:00"
 }

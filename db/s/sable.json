@@ -2,7 +2,7 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 118,
@@ -1023,10 +1023,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 266,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-08-31T06:58:02.6741878+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 266,
+  "NumberOfAwards": 267,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1052,7 +1058,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -34079,9 +34085,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-08-28T15:58:52.0737957+00:00",
+  "LastChanged": "2024-08-31T06:58:02.6741876+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:48.6031535+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:10:55.0472251+00:00",
-  "LastUpdate_Ratings": "2024-08-31T03:58:57.903163+00:00",
+  "LastUpdate_Ratings": "2024-08-31T06:58:02.6741881+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:48.6032991+00:00"
 }
