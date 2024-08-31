@@ -4,7 +4,7 @@
   "ProductSlug": "solitairica",
   "Ranking_Rating": 734,
   "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 362,
+  "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1861,10 +1861,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 754,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-08-31T07:57:05.250015+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 756,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 754,
+  "NumberOfAwards": 756,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1896,7 +1902,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 102
+      "Count": 104
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1952,8 +1958,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:54.4785127+00:00",
-  "LastChanged": "2024-08-29T16:57:59.8829325+00:00",
+  "LastChanged": "2024-08-31T07:57:05.2500148+00:00",
   "LastUpdate_AppInfo": "2024-08-25T20:57:02.0304572+00:00",
-  "LastUpdate_Ratings": "2024-08-31T04:57:49.8424513+00:00",
+  "LastUpdate_Ratings": "2024-08-31T07:57:05.2500156+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:27.8245741+00:00"
 }
