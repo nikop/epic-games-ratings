@@ -2,7 +2,7 @@
   "ID": "cobra",
   "Name": "My Time At Portia",
   "ProductSlug": "my-time-at-portia",
-  "Ranking_Rating": 314,
+  "Ranking_Rating": 315,
   "Ranking_Popularity": 126,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 1193,
@@ -5251,10 +5251,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5368,
       "NumberOfAwardsMax": 2445
+    },
+    {
+      "Time": "2024-08-31T21:58:28.325489+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5369,
+      "NumberOfAwardsMax": 2445
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5368,
+  "NumberOfAwards": 5369,
   "NumberOfAwardsMax": 2445,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5304,7 +5310,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game has Playful Visuals",
@@ -5348,8 +5354,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2024-08-31T19:58:38.7196507+00:00",
+  "LastChanged": "2024-08-31T21:58:28.3254888+00:00",
   "LastUpdate_AppInfo": "2024-08-26T06:57:08.984918+00:00",
-  "LastUpdate_Ratings": "2024-08-31T19:58:38.7196514+00:00",
+  "LastUpdate_Ratings": "2024-08-31T21:58:28.3254894+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:47.4569067+00:00"
 }
