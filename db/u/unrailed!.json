@@ -2,7 +2,7 @@
   "ID": "5a6d34ba28bc45d081d9311c3885feef",
   "Name": "Unrailed!",
   "ProductSlug": "unrailed-e19729",
-  "Ranking_Rating": 380,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 340,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 32,
@@ -3693,18 +3693,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 1774,
       "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2024-08-31T04:59:34.697049+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 1775,
+      "NumberOfAwardsMax": 245
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1774,
-  "NumberOfAwardsMax": 244,
+  "NumberOfAwards": 1775,
+  "NumberOfAwardsMax": 245,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 244
+      "Count": 245
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -36719,9 +36725,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
-  "LastChanged": "2024-08-30T21:57:38.8695259+00:00",
+  "LastChanged": "2024-08-31T04:59:34.6970489+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:50.8760116+00:00",
   "LastUpdate_AppInfo": "2024-08-25T18:57:09.6233296+00:00",
-  "LastUpdate_Ratings": "2024-08-31T03:57:46.2322894+00:00",
+  "LastUpdate_Ratings": "2024-08-31T04:59:34.6970495+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:50.8761666+00:00"
 }

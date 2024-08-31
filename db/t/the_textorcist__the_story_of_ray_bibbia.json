@@ -2,7 +2,7 @@
   "ID": "0f7039ef44ad4ee18f16f19d96cf2a6b",
   "Name": "The Textorcist: The Story of Ray Bibbia",
   "ProductSlug": "the-textorcist",
-  "Ranking_Rating": 353,
+  "Ranking_Rating": 379,
   "Ranking_Popularity": 683,
   "Ranking_PopularitySum": 688,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "NumberOfRatings": 78,
   "RatingHistory": [
     {
@@ -372,6 +372,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-08-31T04:59:45.4485497+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -397,8 +403,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:57.7786659+00:00",
-  "LastChanged": "2024-08-28T04:58:24.783931+00:00",
+  "LastChanged": "2024-08-31T04:59:45.4485495+00:00",
   "LastUpdate_AppInfo": "2024-08-26T05:57:08.4330105+00:00",
-  "LastUpdate_Ratings": "2024-08-31T03:57:57.4962308+00:00",
+  "LastUpdate_Ratings": "2024-08-31T04:59:45.4485501+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:11.4792287+00:00"
 }
