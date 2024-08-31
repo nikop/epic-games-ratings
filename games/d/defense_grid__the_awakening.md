@@ -385,7 +385,7 @@ Completed: 5 (0.00%) (Ranked 561)
 | 2024-08-20 | 506,083 | 5 |
 ## Awards
 Max (Great for Beginners): 314  (Ranked 304)  
-Sum: 1,913 (Ranked 259)  
+Sum: 1,914 (Ranked 259)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -396,7 +396,7 @@ Diff (max vs sum): 45
 | This game is Highly Recommended | 215 |
 | This game has Challenging Combat | 208 |
 | This game has Amazing Storytelling | 200 |
-| This game has Amazing Characters | 191 |
+| This game has Amazing Characters | 192 |
 | This game has a Creative Community | 81 |
 | This game has Playful Visuals | 38 |
 ## Ratings History
@@ -673,3 +673,4 @@ Diff (max vs sum): 45
 | 2024-08-28 | 4.45 | - | 314 | 1,910 |
 | 2024-08-29 | 4.45 | - | 314 | 1,912 |
 | 2024-08-30 | 4.45 | - | 314 | 1,913 |
+| 2024-08-31 | 4.45 | - | 314 | 1,914 |
