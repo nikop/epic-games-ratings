@@ -4,7 +4,7 @@
   "ProductSlug": "zenless-zone-zero-c7c151",
   "Ranking_Rating": 588,
   "Ranking_Popularity": 29,
-  "Ranking_PopularitySum": 37,
+  "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2519,10 +2519,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 50975,
       "NumberOfAwardsMax": 18947
+    },
+    {
+      "Time": "2024-09-01T13:11:44.2412434+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 51175,
+      "NumberOfAwardsMax": 18947
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50975,
+  "NumberOfAwards": 51175,
   "NumberOfAwardsMax": 18947,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2560,13 +2566,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1854
+      "Count": 1903
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1822
+      "Count": 1868
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2578,7 +2584,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2092
+      "Count": 2144
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2590,7 +2596,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2042
+      "Count": 2095
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2611,8 +2617,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-09-01T07:58:27.1085373+00:00",
+  "LastChanged": "2024-09-01T13:11:44.2412432+00:00",
   "LastUpdate_AppInfo": "2024-08-27T02:57:22.0133867+00:00",
-  "LastUpdate_Ratings": "2024-09-01T11:00:24.9143653+00:00",
+  "LastUpdate_Ratings": "2024-09-01T13:11:44.2412443+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:15.1606852+00:00"
 }
