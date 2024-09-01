@@ -1,7 +1,7 @@
 # Hue
 [Store](https://store.epicgames.com/en-US/p/hue)  
 [View Rawdata](../../db/h/hue.json)  
-Rating: 4.57 (Ranked 538)  
+Rating: 4.58 (Ranked 519)  
 Number of Ratings: 426  (23.09.2022)  
 ## Awards
 | Award | Count |
@@ -95,3 +95,4 @@ Number of Ratings: 426  (23.09.2022)
 | 2024-08-18 | 4.57 | - | 0 | 0 |
 | 2024-08-20 | 4.58 | - | 0 | 0 |
 | 2024-08-23 | 4.57 | - | 0 | 0 |
+| 2024-09-01 | 4.58 | - | 0 | 0 |
