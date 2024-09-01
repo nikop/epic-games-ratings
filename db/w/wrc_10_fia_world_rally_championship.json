@@ -2,7 +2,7 @@
   "ID": "d4d0270b8219470ebfc720c18767aef9",
   "Name": "WRC 10 FIA World Rally Championship",
   "ProductSlug": "wrc-10",
-  "Ranking_Rating": 749,
+  "Ranking_Rating": 758,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.46,
   "NumberOfRatings": 248,
   "RatingHistory": [
     {
@@ -731,6 +731,12 @@
       "Rating": 4.47,
       "NumberOfAwards": 354,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-09-01T22:57:39.3059234+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
@@ -828,8 +834,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.0440724+00:00",
-  "LastChanged": "2024-08-26T18:00:10.728383+00:00",
+  "LastChanged": "2024-09-01T22:57:39.3059233+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:14.7060243+00:00",
-  "LastUpdate_Ratings": "2024-09-01T20:58:08.7760621+00:00",
+  "LastUpdate_Ratings": "2024-09-01T22:57:39.3059237+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:24.3085534+00:00"
 }
