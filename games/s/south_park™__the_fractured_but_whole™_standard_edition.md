@@ -1,11 +1,11 @@
 # South Park™: The Fractured But Whole™ Standard Edition
 [Store](https://store.epicgames.com/en-US/p/south-park-the-fractured-but-whole)  
 [View Rawdata](../../db/s/south_park™__the_fractured_but_whole™_standard_edition.json)  
-Rating: 4.84 (Ranked 54)  
+Rating: 4.84 (Ranked 53)  
 Number of Ratings: 162  (23.09.2022)  
 ## Awards
-Max (Character Customization): 254  (Ranked 332)  
-Sum: 254 (Ranked 481)  
+Max (Character Customization): 254  (Ranked 333)  
+Sum: 254 (Ranked 482)  
 Diff (max vs sum): -149  
 | Award | Count |
 | ----- | ----- |

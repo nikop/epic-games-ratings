@@ -3,7 +3,7 @@
   "Name": "Book of Yog Idle RPG",
   "ProductSlug": "book-of-yog-idle-rpg-74cebc",
   "Ranking_Rating": 1225,
-  "Ranking_Popularity": 550,
+  "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -1157,11 +1157,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 109,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-09-01T16:00:25.7931906+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 109,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 110,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1174,7 +1180,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1207,8 +1213,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-22T15:57:06.3635011+00:00",
   "FirstSeenRating": "2023-07-14T13:12:36.4172007+00:00",
-  "LastChanged": "2024-08-31T16:57:45.7841352+00:00",
+  "LastChanged": "2024-09-01T16:00:25.7931904+00:00",
   "LastUpdate_AppInfo": "2024-08-31T13:06:56.4915352+00:00",
-  "LastUpdate_Ratings": "2024-09-01T13:59:55.3167239+00:00",
+  "LastUpdate_Ratings": "2024-09-01T16:00:25.7931908+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:23.9119404+00:00"
 }
