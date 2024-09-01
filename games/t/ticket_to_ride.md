@@ -1,15 +1,15 @@
 # Ticket To Ride: Classic Edition
 [Store](https://store.epicgames.com/en-US/p/ticket-to-ride)  
 [View Rawdata](../../db/t/ticket_to_ride.json)  
-Rating: 4.59 (Ranked 499)  
+Rating: 4.59 (Ranked 500)  
 Number of Ratings: 167  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 81  (Ranked 491)  
-Sum: 431 (Ranked 420)  
-Diff (max vs sum): 71  
+Max (Great for Quick Sessions): 82  (Ranked 490)  
+Sum: 432 (Ranked 420)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 81 |
+| This game is Great for Quick Sessions | 82 |
 | This game is Relaxing | 49 |
 | This game is Great for Beginners | 49 |
 | This game has Competitive Players | 48 |
@@ -156,3 +156,4 @@ Diff (max vs sum): 71
 | 2024-07-15 | 4.61 | - | 81 | 430 |
 | 2024-07-27 | 4.60 | - | 81 | 430 |
 | 2024-08-01 | 4.59 | - | 81 | 431 |
+| 2024-09-01 | 4.59 | - | 82 | 432 |
