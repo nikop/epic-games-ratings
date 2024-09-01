@@ -4,7 +4,7 @@
   "ProductSlug": "subnautica",
   "Ranking_Rating": 41,
   "Ranking_Popularity": 189,
-  "Ranking_PopularitySum": 151,
+  "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -10381,10 +10381,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 7385,
       "NumberOfAwardsMax": 1058
+    },
+    {
+      "Time": "2024-09-01T02:16:28.4217502+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 7390,
+      "NumberOfAwardsMax": 1058
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7385,
+  "NumberOfAwards": 7390,
   "NumberOfAwardsMax": 1058,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10446,7 +10452,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 625
+      "Count": 630
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -10466,8 +10472,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2024-08-31T23:00:22.246973+00:00",
+  "LastChanged": "2024-09-01T02:16:28.42175+00:00",
   "LastUpdate_AppInfo": "2024-08-26T06:57:12.5230417+00:00",
-  "LastUpdate_Ratings": "2024-08-31T23:00:22.2469736+00:00",
+  "LastUpdate_Ratings": "2024-09-01T02:16:28.4217507+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:20.1836255+00:00"
 }

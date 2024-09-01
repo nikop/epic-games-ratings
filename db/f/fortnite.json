@@ -2,7 +2,7 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 1193,
@@ -10244,18 +10244,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 20104496,
       "NumberOfAwardsMax": 3881810
+    },
+    {
+      "Time": "2024-09-01T02:17:52.4307091+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 20122235,
+      "NumberOfAwardsMax": 3885447
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20104496,
-  "NumberOfAwardsMax": 3881810,
+  "NumberOfAwards": 20122235,
+  "NumberOfAwardsMax": 3885447,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3881810
+      "Count": 3885447
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10267,13 +10273,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3670428
+      "Count": 3673733
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3542915
+      "Count": 3546085
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10285,19 +10291,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3185969
+      "Count": 3188718
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3213816
+      "Count": 3216633
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 2609558
+      "Count": 2611619
     }
   ],
   "EOS_Progressed": 0,
@@ -10311,8 +10317,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-08-31T02:03:48.5351278+00:00",
+  "LastChanged": "2024-09-01T02:17:52.4307089+00:00",
   "LastUpdate_AppInfo": "2024-08-26T05:57:04.0830795+00:00",
-  "LastUpdate_Ratings": "2024-08-31T23:57:53.685153+00:00",
+  "LastUpdate_Ratings": "2024-09-01T02:17:52.4307096+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.9179796+00:00"
 }

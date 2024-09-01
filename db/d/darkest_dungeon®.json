@@ -4,7 +4,7 @@
   "ProductSlug": "darkest-dungeon",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 112,
-  "Ranking_PopularitySum": 123,
+  "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8457,10 +8457,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 10088,
       "NumberOfAwardsMax": 3731
+    },
+    {
+      "Time": "2024-09-01T02:16:26.7017827+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10091,
+      "NumberOfAwardsMax": 3731
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10088,
+  "NumberOfAwards": 10091,
   "NumberOfAwardsMax": 3731,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8480,7 +8486,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 770
+      "Count": 773
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8542,8 +8548,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2024-08-31T23:00:20.0879917+00:00",
+  "LastChanged": "2024-09-01T02:16:26.7017826+00:00",
   "LastUpdate_AppInfo": "2024-08-26T04:57:20.2435115+00:00",
-  "LastUpdate_Ratings": "2024-08-31T23:00:20.0879921+00:00",
+  "LastUpdate_Ratings": "2024-09-01T02:16:26.701783+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:56.3604025+00:00"
 }

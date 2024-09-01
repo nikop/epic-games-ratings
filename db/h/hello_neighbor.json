@@ -3,7 +3,7 @@
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
   "Ranking_Rating": 562,
-  "Ranking_Popularity": 250,
+  "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -9340,11 +9340,17 @@
       "Rating": 4.56,
       "NumberOfAwards": 3692,
       "NumberOfAwardsMax": 596
+    },
+    {
+      "Time": "2024-09-01T02:17:10.0274324+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 3694,
+      "NumberOfAwardsMax": 598
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3692,
-  "NumberOfAwardsMax": 596,
+  "NumberOfAwards": 3694,
+  "NumberOfAwardsMax": 598,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -9405,7 +9411,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 596
+      "Count": 598
     }
   ],
   "EOS_Progressed": 0,
@@ -9419,8 +9425,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2024-08-31T16:57:24.6099304+00:00",
+  "LastChanged": "2024-09-01T02:17:10.0274323+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:49.407837+00:00",
-  "LastUpdate_Ratings": "2024-08-31T23:57:09.4729847+00:00",
+  "LastUpdate_Ratings": "2024-09-01T02:17:10.0274328+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:21.5674918+00:00"
 }

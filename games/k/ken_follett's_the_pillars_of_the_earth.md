@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.50 (Ranked 688)  
+Rating: 4.50 (Ranked 689)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -338,9 +338,9 @@ Completed: 145 (0.67%) (Ranked 302)
 | 2024-08-09 | 21,454 | 143 |
 | 2024-08-20 | 21,620 | 145 |
 ## Awards
-Max (Easy Puzzles): 169  (Ranked 385)  
+Max (Easy Puzzles): 169  (Ranked 386)  
 Sum: 217 (Ranked 498)  
-Diff (max vs sum): -113  
+Diff (max vs sum): -112  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 169 |

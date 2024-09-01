@@ -4,7 +4,7 @@
   "ProductSlug": "godfall",
   "Ranking_Rating": 1192,
   "Ranking_Popularity": 242,
-  "Ranking_PopularitySum": 331,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1954,18 +1954,24 @@
       "Rating": 4.05,
       "NumberOfAwards": 955,
       "NumberOfAwardsMax": 635
+    },
+    {
+      "Time": "2024-09-01T02:15:50.6242141+00:00",
+      "Rating": 4.05,
+      "NumberOfAwards": 957,
+      "NumberOfAwardsMax": 637
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 955,
-  "NumberOfAwardsMax": 635,
+  "NumberOfAwards": 957,
+  "NumberOfAwardsMax": 637,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 635
+      "Count": 637
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2033,8 +2039,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2024-08-31T17:58:12.5195131+00:00",
+  "LastChanged": "2024-09-01T02:15:50.6242139+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:17.5472376+00:00",
-  "LastUpdate_Ratings": "2024-08-31T22:59:35.1467121+00:00",
+  "LastUpdate_Ratings": "2024-09-01T02:15:50.6242144+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:22.0898357+00:00"
 }
