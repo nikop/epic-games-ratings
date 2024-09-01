@@ -4,9 +4,9 @@
 Rating: 4.74 (Ranked 178)  
 Number of Ratings: 1,090  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 119  (Ranked 442)  
-Sum: 1,013 (Ranked 322)  
-Diff (max vs sum): 120  
+Max (Diverse Characters): 119  (Ranked 442)  
+Sum: 894 (Ranked 339)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 119 |
@@ -308,3 +308,4 @@ Diff (max vs sum): 120
 | 2024-08-29 | 4.75 | - | 119 | 1,010 |
 | 2024-08-30 | 4.74 | - | 119 | 1,011 |
 | 2024-08-31 | 4.74 | - | 119 | 1,013 |
+| 2024-09-01 | 4.74 | - | 119 | 894 |

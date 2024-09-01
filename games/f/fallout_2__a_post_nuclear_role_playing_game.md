@@ -1,10 +1,10 @@
 # Fallout 2: A Post Nuclear Role Playing Game
 [Store](https://store.epicgames.com/en-US/p/fallout-2)  
 [View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
-Rating: 4.69 (Ranked 266)  
+Rating: 4.68 (Ranked 292)  
 ## Awards
 Max (Character Customization): 336  (Ranked 298)  
-Sum: 609 (Ranked 388)  
+Sum: 610 (Ranked 388)  
 Diff (max vs sum): -90  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -90
 | This game has Quickly Understood Controls | 28 |
 | This game is Highly Recommended | 26 |
 | This game has a Creative Community | 26 |
-| This game has Challenging Combat | 23 |
+| This game has Challenging Combat | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -286,4 +286,4 @@ Diff (max vs sum): -90
 | 2024-08-29 | 4.70 | 329 | 601 |
 | 2024-08-30 | 4.69 | 332 | 604 |
 | 2024-08-31 | 4.69 | 334 | 606 |
-| 2024-09-01 | 4.69 | 336 | 609 |
+| 2024-09-01 | 4.69 | 336 | 610 |

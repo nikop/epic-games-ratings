@@ -2,7 +2,7 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -1927,10 +1927,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 609,
       "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2024-09-01T20:59:49.3421818+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 609,
+  "NumberOfAwards": 610,
   "NumberOfAwardsMax": 336,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1986,7 +1992,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has a Creative Community",
@@ -2007,8 +2013,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-09-01T16:00:30.1779578+00:00",
+  "LastChanged": "2024-09-01T20:59:49.3421817+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:57:20.3488246+00:00",
-  "LastUpdate_Ratings": "2024-09-01T19:58:33.7126079+00:00",
+  "LastUpdate_Ratings": "2024-09-01T20:59:49.3421822+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:08.2104588+00:00"
 }
