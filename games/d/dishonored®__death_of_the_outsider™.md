@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 824)  
 ## Awards
 Max (Relaxing): 90  (Ranked 476)  
-Sum: 667 (Ranked 381)  
-Diff (max vs sum): 95  
+Sum: 667 (Ranked 380)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 91 |
