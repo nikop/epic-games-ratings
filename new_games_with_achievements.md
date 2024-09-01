@@ -43,5 +43,3 @@
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | 34 (1,000 XP) | 2 | - | - |
 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 36,702 | 3.99 | 36 |
 | [Hero of the Kingdom II](games/e/ed5411fb63534b74952a4dba16d5a38f.md) | 2024-08-05 | 48 (1,000 XP) | 50 | - | 0 |
-| [Revenge Of The Colon](games/b/be90059f81674291a0a2d348f7918cc9.md) | 2024-08-02 | 5 (1,000 XP) | 15 | - | 0 |
-| [Unleaving](games/d/d7d04ac078b04cf894d3a68f15c71a98.md) | 2024-08-02 | 13 (1,000 XP) | 16 | - | 0 |

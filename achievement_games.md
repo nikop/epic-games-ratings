@@ -176,7 +176,7 @@
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
 | [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | 25 (1,000 XP) | 146 | - | 0 |
-| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 87 |
+| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 92 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 28 | - | 0 |
 | [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | 13 (1,000 XP) | 63 | - | 0 |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | 46 (1,000 XP) | 71 | - | 0 |
@@ -254,7 +254,7 @@
 | [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | 43 (1,000 XP) | 1 | - | 0 |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 86 | - | 0 |
 | [Alaskan Road Truckers](games/a/alaskan_truck_simulator.md) | 2024-04-18 | 30 (1,000 XP) | 113 | - | 0 |
-| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 142,797 | 4.52 | 110 |
+| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 142,797 | 4.52 | 111 |
 | [Evil Seal](games/6/6b627f8704ae454aaec3b576eb965d76.md) | 2024-04-13 | 32 (1,000 XP) | 1 | - | 0 |
 | [Massira](games/1/15b4e5ae7fb345bdb9fe80fe56b67423.md) | 2024-04-12 | 23 (1,000 XP) | 2 | - | - |
 | [Revival: Recolonization](games/4/4ccef3d9b96a4839ab46a6e83ddc6e61.md) | 2024-04-11 | 32 (1,000 XP) | 1 | - | 0 |
@@ -974,7 +974,7 @@
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,567 | 4.38 | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,977 | 4.41 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,334,975 | 4.01 | 12,702 |
-| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 29,887 | 4.16 | 415 |
+| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 29,887 | 4.15 | 415 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 86,035 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 428 | - | 0 |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 2022-11-18 | 15 (1,000 XP) | 605 | - | 0 |
@@ -1110,7 +1110,7 @@
 | [Wunderling DX](games/w/wunderling_dx.md) | 2022-04-28 | 41 (1,000 XP) | 41 | - | 0 |
 | [Imagine Earth](games/i/imagine_earth.md) | 2022-04-28 | 24 (1,000 XP) | 472 | 4.32 | 0 |
 | [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 457 | - | 0 |
-| [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.59 | 0 |
+| [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.60 | 0 |
 | [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 868 | 4.35 | 0 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 2022-04-26 | 72 (1,000 XP) | 7,975 | 4.18 | 101 |
 | [Unrailed!](games/u/unrailed!.md) | 2022-04-25 | 52 (1,000 XP) | 723,397 | 4.64 | 245 |
@@ -1205,7 +1205,7 @@
 | [Supraland](games/s/supraland.md) | 2021-07-02 | 98 (1,000 XP) | 759,160 | 4.61 | 7,990 |
 | [Adios](games/a/adios.md) | 2021-06-29 | 25 (1,000 XP) | 95,139 | 3.65 | 0 |
 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,164,062 | 4.54 | 229 |
-| [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 22,956 | 4.39 | 0 |
+| [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 22,956 | 4.41 | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 722 | - | 0 |
 | [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 10,061 | 4.60 | 184 |
 | [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 2,348 | 4.34 | 144 |

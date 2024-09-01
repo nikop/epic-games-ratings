@@ -161,7 +161,7 @@
 | [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 28 | - | - |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | 33 (1,000 XP) | 157 | - | - |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 18 | - | 0 |
-| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 142,797 | 4.52 | 110 |
+| [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 142,797 | 4.52 | 111 |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 328,241 | 4.69 | 198 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | 30 (1,000 XP) | 254 | - | 0 |
@@ -183,7 +183,7 @@
 | [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | 6 (1,000 XP) | 20 | - | - |
 | [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2024-05-09 | 14 (1,000 XP) | 854 | 4.68 | 0 |
 | [Spellcats Auto Card Tactics](games/4/4dadd911cca741d684859a00e813a14b.md) | 2024-05-17 | 26 (1,000 XP) | 2 | - | - |
-| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 87 |
+| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 92 |
 | [FRONT MISSION 2: Remake](games/e/e80b3a84fa574d44ace56f5ad69d71a1.md) | 2024-04-30 | 32 (1,000 XP) | 0 | - | 0 |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | 43 (1,000 XP) | 1 | - | 0 |
