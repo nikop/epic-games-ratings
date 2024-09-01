@@ -3,8 +3,8 @@
   "Name": "The Jackbox Party Pack 7",
   "ProductSlug": "jackbox-party-pack-7",
   "Ranking_Rating": 213,
-  "Ranking_Popularity": 707,
-  "Ranking_PopularitySum": 707,
+  "Ranking_Popularity": 708,
+  "Ranking_PopularitySum": 708,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -105,6 +105,6 @@
   "FirstSeenRating": "2022-10-13T00:01:18.3468864+00:00",
   "LastChanged": "2024-08-30T20:00:05.7086604+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:03.6665356+00:00",
-  "LastUpdate_Ratings": "2024-09-01T07:59:31.253973+00:00",
+  "LastUpdate_Ratings": "2024-09-01T09:58:18.910383+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:29.2145188+00:00"
 }

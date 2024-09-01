@@ -1,12 +1,12 @@
 # EVE Online
 [Store](https://store.epicgames.com/en-US/p/eve-online)  
 [View Rawdata](../../db/e/eve_online.json)  
-Rating: 4.24 (Ranked 1,063)  
+Rating: 4.24 (Ranked 1,064)  
 Number of Ratings: 1,408  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,330  (Ranked 169)  
-Sum: 2,965 (Ranked 216)  
-Diff (max vs sum): -47  
+Sum: 2,965 (Ranked 217)  
+Diff (max vs sum): -48  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,330 |

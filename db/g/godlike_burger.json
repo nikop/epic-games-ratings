@@ -3,8 +3,8 @@
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 707,
-  "Ranking_PopularitySum": 707,
+  "Ranking_Popularity": 699,
+  "Ranking_PopularitySum": 699,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 514,
   "Ranking_EOS_NewPlayers": 66,
@@ -340,12 +340,26 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-01T09:58:20.2193542+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 446449,
   "EOS_Completed": 108,
   "EOS_NewPlayers": 1317,
@@ -15222,9 +15236,9 @@
   "FirstSeen": "2022-07-22T20:19:42.5762189+00:00",
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
-  "LastChanged": "2024-08-27T18:58:15.8936366+00:00",
+  "LastChanged": "2024-09-01T09:58:20.219354+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:33.9313382+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:11:04.7663585+00:00",
-  "LastUpdate_Ratings": "2024-09-01T07:59:32.522529+00:00",
+  "LastUpdate_Ratings": "2024-09-01T09:58:20.2193544+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:33.9314199+00:00"
 }
