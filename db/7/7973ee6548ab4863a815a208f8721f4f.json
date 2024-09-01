@@ -4,7 +4,7 @@
   "ProductSlug": "grandchase-c03eb2",
   "Ranking_Rating": 243,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 487,
+  "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1025,10 +1025,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 247,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2024-09-01T03:58:49.857108+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 250,
+      "NumberOfAwardsMax": 119
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 247,
+  "NumberOfAwards": 250,
   "NumberOfAwardsMax": 119,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1042,7 +1048,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 80
+      "Count": 83
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1069,8 +1075,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
-  "LastChanged": "2024-08-31T17:59:50.776788+00:00",
+  "LastChanged": "2024-09-01T03:58:49.8571079+00:00",
   "LastUpdate_AppInfo": "2024-08-28T22:57:23.0464388+00:00",
-  "LastUpdate_Ratings": "2024-09-01T02:17:41.2302238+00:00",
+  "LastUpdate_Ratings": "2024-09-01T03:58:49.8571088+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:47.6306061+00:00"
 }
