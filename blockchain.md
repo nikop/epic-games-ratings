@@ -136,7 +136,7 @@
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 76,765 | 4.12 | 0 |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | 0 |
 | [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | 4.50 | 21 |
-| [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.81 | 0 |
+| [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.82 | 0 |
 | [3D City: Metaverse](games/8/832915a6cdbc4da1889092021da40df2.md) | 2023-09-30 | - |  | - | 0 |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | 0 |
 | [APE SQUAD](games/0/09c47d3d9f3847d28e192c31f5622e98.md) | 2023-09-26 | - |  | - | 0 |
@@ -157,7 +157,7 @@
 | [DinoDash](games/3/3411919497ef47359de5d9a67a7225fb.md) | 2023-06-30 | - |  | - | 0 |
 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | 3.95 | 0 |
 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 2023-06-27 | - |  | 4.25 | 27 |
-| [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.50 | 46 |
+| [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.50 | 47 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.65 | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.62 | 0 |
