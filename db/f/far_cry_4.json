@@ -2,7 +2,7 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
-  "Ranking_Rating": 315,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 1193,
@@ -5215,10 +5215,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 1927,
       "NumberOfAwardsMax": 1140
+    },
+    {
+      "Time": "2024-09-01T21:59:22.3877866+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 1929,
+      "NumberOfAwardsMax": 1140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1927,
+  "NumberOfAwards": 1929,
   "NumberOfAwardsMax": 1140,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5280,7 +5286,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 99
+      "Count": 101
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5300,8 +5306,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2024-08-31T10:01:00.3700615+00:00",
+  "LastChanged": "2024-09-01T21:59:22.3877864+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:46.609993+00:00",
-  "LastUpdate_Ratings": "2024-09-01T20:01:15.3069762+00:00",
+  "LastUpdate_Ratings": "2024-09-01T21:59:22.387787+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:40.2569414+00:00"
 }
