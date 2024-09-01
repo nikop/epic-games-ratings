@@ -4,7 +4,7 @@
 Rating: 4.28 (Ranked 1,024)  
 ## Awards
 Max (Great for Quick Sessions): 28  (Ranked 646)  
-Sum: 193 (Ranked 516)  
+Sum: 194 (Ranked 516)  
 Diff (max vs sum): 130  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 130
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 24 |
 | This game is Great for Beginners | 23 |
-| This game has Amazing Storytelling | 21 |
+| This game has Amazing Storytelling | 22 |
 | This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -119,3 +119,4 @@ Diff (max vs sum): 130
 | 2024-08-25 | 4.28 | 28 | 193 |
 | 2024-08-30 | 4.29 | 28 | 193 |
 | 2024-08-31 | 4.28 | 28 | 193 |
+| 2024-09-01 | 4.28 | 28 | 194 |

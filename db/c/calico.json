@@ -2,9 +2,9 @@
   "ID": "92e8ff0ca9bb421c831dc0f6fc8ef54d",
   "Name": "Calico",
   "ProductSlug": "calico",
-  "Ranking_Rating": 646,
-  "Ranking_Popularity": 709,
-  "Ranking_PopularitySum": 709,
+  "Ranking_Rating": 588,
+  "Ranking_Popularity": 710,
+  "Ranking_PopularitySum": 710,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:36.6626769+00:00",
@@ -37,6 +37,12 @@
     {
       "Time": "2024-08-24T17:56:58.0302538+00:00",
       "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-01T18:58:56.1518521+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -57,8 +63,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:52.6378124+00:00",
   "FirstSeenRating": "2023-03-31T05:57:36.6626764+00:00",
-  "LastChanged": "2024-08-24T17:56:58.0302536+00:00",
+  "LastChanged": "2024-09-01T18:58:56.151852+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:22.9507879+00:00",
-  "LastUpdate_Ratings": "2024-09-01T16:59:48.2057228+00:00",
+  "LastUpdate_Ratings": "2024-09-01T18:58:56.1518523+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:57.5958251+00:00"
 }

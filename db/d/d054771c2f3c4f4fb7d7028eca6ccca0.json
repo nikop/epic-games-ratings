@@ -2,9 +2,9 @@
   "ID": "d054771c2f3c4f4fb7d7028eca6ccca0",
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
-  "Ranking_Rating": 1122,
-  "Ranking_Popularity": 709,
-  "Ranking_PopularitySum": 709,
+  "Ranking_Rating": 1133,
+  "Ranking_Popularity": 710,
+  "Ranking_PopularitySum": 710,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2024-07-21T14:56:57.8461852+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2024-08-12T19:57:16.442029+00:00",
       "Rating": 4.18,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-01T18:57:01.4508373+00:00",
+      "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -6715,9 +6721,9 @@
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenRating": "2024-07-21T14:56:57.846185+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged": "2024-08-12T19:57:16.4420288+00:00",
+  "LastChanged": "2024-09-01T18:57:01.4508371+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:54.8034933+00:00",
   "LastUpdate_AppInfo": "2024-08-28T10:57:02.0457215+00:00",
-  "LastUpdate_Ratings": "2024-09-01T16:57:53.1019372+00:00",
+  "LastUpdate_Ratings": "2024-09-01T18:57:01.4508378+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:54.8035578+00:00"
 }
