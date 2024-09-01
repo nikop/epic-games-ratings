@@ -2,7 +2,7 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 1023,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 707,
   "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 439,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 124,
   "RatingHistory": [
     {
@@ -604,6 +604,12 @@
     {
       "Time": "2024-08-29T08:00:10.4264744+00:00",
       "Rating": 4.28,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-01T08:57:58.5193218+00:00",
+      "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2262,9 +2268,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
-  "LastChanged": "2024-08-29T08:00:10.4264743+00:00",
+  "LastChanged": "2024-09-01T08:57:58.5193216+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:35.0508627+00:00",
   "LastUpdate_AppInfo": "2024-08-26T03:56:58.661301+00:00",
-  "LastUpdate_Ratings": "2024-09-01T06:59:49.970365+00:00",
+  "LastUpdate_Ratings": "2024-09-01T08:57:58.5193221+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:35.0509049+00:00"
 }

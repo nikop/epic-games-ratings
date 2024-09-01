@@ -4,7 +4,7 @@
   "ProductSlug": "sackboy-a-big-adventure",
   "Ranking_Rating": 161,
   "Ranking_Popularity": 622,
-  "Ranking_PopularitySum": 494,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -843,6 +843,6 @@
   "FirstSeenRating": "2022-11-01T17:31:11.1953561+00:00",
   "LastChanged": "2024-08-31T03:02:37.6001428+00:00",
   "LastUpdate_AppInfo": "2024-08-26T06:57:06.5246982+00:00",
-  "LastUpdate_Ratings": "2024-09-01T07:01:13.4069698+00:00",
+  "LastUpdate_Ratings": "2024-09-01T08:58:51.4161149+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:42.4373107+00:00"
 }
