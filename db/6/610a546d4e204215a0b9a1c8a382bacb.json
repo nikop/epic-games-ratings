@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 114,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 144,
+  "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 40,
@@ -10213,10 +10213,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 7898,
       "NumberOfAwardsMax": 1060
+    },
+    {
+      "Time": "2024-09-01T17:58:42.2682951+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 7903,
+      "NumberOfAwardsMax": 1060
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7898,
+  "NumberOfAwards": 7903,
   "NumberOfAwardsMax": 1060,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10284,7 +10290,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 598
+      "Count": 603
     }
   ],
   "EOS_Progressed": 102848,
@@ -20880,9 +20886,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-09-01T16:00:08.6134408+00:00",
+  "LastChanged": "2024-09-01T17:58:42.268295+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:54.6525756+00:00",
   "LastUpdate_AppInfo": "2024-08-28T17:57:43.721309+00:00",
-  "LastUpdate_Ratings": "2024-09-01T16:00:08.6134414+00:00",
+  "LastUpdate_Ratings": "2024-09-01T17:58:42.2682956+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:54.6526933+00:00"
 }
