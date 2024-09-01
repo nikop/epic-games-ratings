@@ -3,8 +3,8 @@
   "Name": "World of Goo 2",
   "ProductSlug": "world-of-goo-2",
   "Ranking_Rating": 198,
-  "Ranking_Popularity": 708,
-  "Ranking_PopularitySum": 708,
+  "Ranking_Popularity": 597,
+  "Ranking_PopularitySum": 647,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -169,12 +169,26 @@
       "Rating": 4.73,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-01T14:58:46.8228765+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 37,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 37,
+  "NumberOfAwardsMax": 37,
+  "MaxAwardTitle": "Challenging Puzzles",
+  "Tags": [
+    {
+      "Text": "This game features Challenging Puzzles",
+      "Prefix": "This game features",
+      "Type": "Challenging Puzzles",
+      "Count": 37
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -187,8 +201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-02T17:59:13.8716367+00:00",
   "FirstSeenRating": "2024-08-04T03:58:20.4552693+00:00",
-  "LastChanged": "2024-08-30T11:57:45.0630151+00:00",
+  "LastChanged": "2024-09-01T14:58:46.8228763+00:00",
   "LastUpdate_AppInfo": "2024-08-29T07:57:28.3255134+00:00",
-  "LastUpdate_Ratings": "2024-09-01T13:12:28.7641637+00:00",
+  "LastUpdate_Ratings": "2024-09-01T14:58:46.8228767+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:11.2390931+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "BattleCore Arena",
   "ProductSlug": "battlecore-arena",
   "Ranking_Rating": 499,
-  "Ranking_Popularity": 708,
-  "Ranking_PopularitySum": 708,
+  "Ranking_Popularity": 709,
+  "Ranking_PopularitySum": 709,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -51,6 +51,6 @@
   "FirstSeenRating": "2024-08-31T06:57:15.8146264+00:00",
   "LastChanged": "2024-09-01T05:58:42.1038874+00:00",
   "LastUpdate_AppInfo": "2024-08-28T03:57:35.2032577+00:00",
-  "LastUpdate_Ratings": "2024-09-01T13:11:30.4935344+00:00",
+  "LastUpdate_Ratings": "2024-09-01T14:57:56.9828089+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:29.9289493+00:00"
 }

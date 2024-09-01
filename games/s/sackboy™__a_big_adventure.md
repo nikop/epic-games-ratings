@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/sackboy™__a_big_adventure.json)  
 Rating: 4.75 (Ranked 161)  
 ## Awards
-Max (Great for Beginners): 32  (Ranked 622)  
+Max (Great for Beginners): 32  (Ranked 624)  
 Sum: 229 (Ranked 495)  
-Diff (max vs sum): 127  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

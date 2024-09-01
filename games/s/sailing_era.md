@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/sailing_era.json)  
 Rating: 4.69 (Ranked 266)  
 ## Awards
-Max (Character Customization): 23  (Ranked 676)  
-Sum: 23 (Ranked 681)  
+Max (Character Customization): 23  (Ranked 677)  
+Sum: 23 (Ranked 682)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |
