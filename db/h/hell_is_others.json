@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 896,
   "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 398,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 156,
@@ -2309,10 +2309,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 539,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-09-01T07:59:07.3207747+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 540,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 539,
+  "NumberOfAwards": 540,
   "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2344,7 +2350,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has a Competitive Community",
@@ -29747,9 +29753,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-08-31T22:01:06.1690741+00:00",
+  "LastChanged": "2024-09-01T07:59:07.3207745+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:15.2232224+00:00",
   "LastUpdate_AppInfo": "2024-08-26T13:10:54.2820633+00:00",
-  "LastUpdate_Ratings": "2024-09-01T05:59:29.2565518+00:00",
+  "LastUpdate_Ratings": "2024-09-01T07:59:07.320775+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:15.2234047+00:00"
 }

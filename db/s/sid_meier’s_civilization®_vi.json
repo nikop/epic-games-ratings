@@ -26153,10 +26153,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 464397,
       "NumberOfAwardsMax": 60473
+    },
+    {
+      "Time": "2024-09-01T07:58:28.6484495+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 464441,
+      "NumberOfAwardsMax": 60473
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 464397,
+  "NumberOfAwards": 464441,
   "NumberOfAwardsMax": 60473,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -26218,7 +26224,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 39675
+      "Count": 39719
     },
     {
       "Text": "This game has a Creative Community",
@@ -26238,8 +26244,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-08-31T22:00:15.4418991+00:00",
+  "LastChanged": "2024-09-01T07:58:28.6484494+00:00",
   "LastUpdate_AppInfo": "2024-08-26T11:57:17.5418833+00:00",
-  "LastUpdate_Ratings": "2024-09-01T05:58:55.6298674+00:00",
+  "LastUpdate_Ratings": "2024-09-01T07:58:28.6484503+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:39.5440999+00:00"
 }
