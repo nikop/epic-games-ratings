@@ -688,7 +688,7 @@
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2023-07-27 | 35 (1,200 XP) | 22,029 | 4.48 | 0 |
 | [Full Moon Rush](games/f/full_moon_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
 | [Probo Rush](games/p/probo_rush.md) | 2023-07-25 | 17 (1,400 XP) | 1 | - | - |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 421,008 | 4.70 | 10,435 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 421,008 | 4.70 | 10,438 |
 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 2023-07-24 | 12 (1,000 XP) | 30 | - | 0 |
 | [ACL Pro Cornhole](games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 2023-07-21 | 32 (1,000 XP) | 0 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
@@ -900,7 +900,7 @@
 | [Gripper](games/g/gripper.md) | 2023-03-29 | 35 (1,000 XP) | 52 | - | 0 |
 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 2023-03-29 | 13 (1,000 XP) | 22,138 | 4.56 | 0 |
 | [Horse Tales - Emerald Valley Ranch](games/h/horse_tales_-_emerald_valley_ranch.md) | 2023-03-29 | 33 (1,000 XP) | 169 | - | 0 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 45 (1,260 XP) | 133,011 | 3.98 | 904 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 2023-03-28 | 45 (1,260 XP) | 133,011 | 3.98 | 909 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | 2023-03-28 | 33 (1,000 XP) | 4,690 | 4.70 | 0 |
 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2023-03-23 | 17 (1,440 XP) | 294 | - | 0 |
 | [Chess Ultra](games/c/chess_ultra.md) | 2023-03-23 | 38 (1,000 XP) | 249,445 | 4.29 | 0 |
@@ -1175,7 +1175,7 @@
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 116,892 | 4.29 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 266 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 187 | 4.30 | 0 |
-| [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 3,186 | 4.40 | 0 |
+| [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 3,186 | 4.41 | 0 |
 | [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,835 | 4.82 | 518 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,383 | 4.42 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,676,727 | 4.65 | 1,274 |
