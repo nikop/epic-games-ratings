@@ -2,7 +2,7 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 450,
+  "Ranking_Rating": 449,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 29,
@@ -4757,10 +4757,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 10522,
       "NumberOfAwardsMax": 7987
+    },
+    {
+      "Time": "2024-09-01T05:59:26.7204586+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 10524,
+      "NumberOfAwardsMax": 7987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10522,
+  "NumberOfAwards": 10524,
   "NumberOfAwardsMax": 7987,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -4816,7 +4822,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 286
+      "Count": 288
     },
     {
       "Text": "This game is Highly Recommended",
@@ -37626,9 +37632,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
-  "LastChanged": "2024-08-31T06:57:58.9910429+00:00",
+  "LastChanged": "2024-09-01T05:59:26.7204582+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:56.2389543+00:00",
   "LastUpdate_AppInfo": "2024-08-26T10:56:52.0982983+00:00",
-  "LastUpdate_Ratings": "2024-09-01T04:57:18.2552706+00:00",
+  "LastUpdate_Ratings": "2024-09-01T05:59:26.7204591+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:56.2391569+00:00"
 }
