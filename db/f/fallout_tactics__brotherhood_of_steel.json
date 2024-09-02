@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
   "Ranking_Rating": 823,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1415,10 +1415,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 450,
       "NumberOfAwardsMax": 183
+    },
+    {
+      "Time": "2024-09-02T15:59:58.5088584+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 451,
+      "NumberOfAwardsMax": 183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 450,
+  "NumberOfAwards": 451,
   "NumberOfAwardsMax": 183,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1438,7 +1444,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
@@ -1501,8 +1507,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:01:33.5009817+00:00",
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
-  "LastChanged": "2024-09-01T23:57:22.6052874+00:00",
+  "LastChanged": "2024-09-02T15:59:58.5088582+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:35.5807982+00:00",
-  "LastUpdate_Ratings": "2024-09-02T14:58:12.0289761+00:00",
+  "LastUpdate_Ratings": "2024-09-02T15:59:58.5088587+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:14.6943617+00:00"
 }

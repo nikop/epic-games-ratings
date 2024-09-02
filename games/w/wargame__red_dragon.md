@@ -5,12 +5,12 @@ Rating: 4.68 (Ranked 292)
 Number of Ratings: 2,918  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,353  (Ranked 165)  
-Sum: 9,685 (Ranked 127)  
+Sum: 9,690 (Ranked 127)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,353 |
-| This game has Challenging Combat | 1,174 |
+| This game has Challenging Combat | 1,179 |
 | This game is Highly Recommended | 1,169 |
 | This game is Educational | 1,089 |
 | This game is Extremely Fun | 1,066 |
@@ -578,4 +578,4 @@ Diff (max vs sum): 38
 | 2024-08-30 | 4.69 | - | 1,335 | 9,611 |
 | 2024-08-31 | 4.68 | - | 1,340 | 9,638 |
 | 2024-09-01 | 4.68 | - | 1,353 | 9,676 |
-| 2024-09-02 | 4.68 | - | 1,353 | 9,685 |
+| 2024-09-02 | 4.68 | - | 1,353 | 9,690 |
