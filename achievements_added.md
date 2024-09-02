@@ -165,7 +165,7 @@
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 328,241 | 4.69 | 200 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | 30 (1,000 XP) | 254 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.64 | 36 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.65 | 36 |
 | [OLD SKOOL RACER](games/8/8d617ef953bf4147b3b507f33e2a7299.md) | 2024-04-10 | 8 (1,000 XP) | 8 | - | - |
 | [Unravel Two](games/2/2cad1455afca4f79ba7010936155b0a8.md) | 2024-05-09 | 28 (1,000 XP) | 303 | - | 0 |
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 519,261 | 4.56 | 1,379 |
@@ -503,7 +503,7 @@
 | [Dizzy Fight](games/0/0e75b2d3188d42378ba82dccbfa48891.md) | 2023-11-30 | 5 (1,000 XP) | 0 | - | - |
 | [Who's Your Daddy?!](games/6/63d0293742c943d68b88af4173b1a5d0.md) | 2023-11-10 | 28 (1,000 XP) | 2,329 | - | 0 |
 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 2023-11-13 | 34 (1,000 XP) | 444 | - | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,060 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,070 |
 | [Patrolling Mars](games/e/e8e0954ed50b46458165b250c8a05671.md) | 2023-11-10 | - |  | - | - |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-10-31 | 17 (1,000 XP) | 1 | - | 0 |
 | [Railbreak](games/b/b8877a4db3f04eec83b7410484e80473.md) | 2023-12-23 | 25 (1,000 XP) | 51 | - | 0 |
@@ -623,7 +623,7 @@
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 7,970 | - | - |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 86,035 | - | - |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 5,241 | 4.29 | 65 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 245,697 | 4.26 | 24,741 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 245,697 | 4.26 | 24,748 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 27,276 | 4.72 | 545 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 25 | - | 0 |

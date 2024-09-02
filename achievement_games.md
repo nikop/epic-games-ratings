@@ -161,7 +161,7 @@
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | 10 (1,000 XP) | 4 | - | 0 |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 18 | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.64 | 36 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.65 | 36 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | 28 (1,000 XP) | 249 | - | 0 |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | 33 (1,000 XP) | 157 | - | - |
 | [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-06 | 7 (1,000 XP) | 352 | - | 0 |
@@ -488,7 +488,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 41 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 64,651 | 4.85 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,060 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,070 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.57 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 211 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 75 | - | - |
@@ -858,7 +858,7 @@
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,662 | - | 0 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 117,598 | 3.75 | 891 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 97 | - | 0 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,016,218 | 4.54 | 16,579 |
+| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,016,218 | 4.54 | 16,596 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
 | [Biped](games/b/biped.md) | 2023-04-20 | 15 (1,000 XP) | 14,655 | 4.39 | 0 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 52 (1,200 XP) | 221 | - | 0 |
@@ -870,7 +870,7 @@
 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 2023-04-14 | 5 (1,000 XP) | 51 | - | 0 |
 | ['n Verlore Verstand](games/'/'n_verlore_verstand.md) | 2023-04-13 | 48 (1,000 XP) | 120 | - | 0 |
 | [Out of Bounds](games/o/out_of_bounds.md) | 2023-04-13 | 32 (1,000 XP) | 33 | - | - |
-| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,658,899 | 4.35 | 2,212 |
+| [MORDHAU](games/m/mordhau.md) | 2023-04-13 | 38 (1,000 XP) | 1,658,899 | 4.35 | 2,215 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Hunt the Night](games/h/hunt_the_night.md) | 2023-04-12 | 22 (1,000 XP) | 19 | - | 0 |
 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 2023-04-12 | 14 (1,000 XP) | 1,926 | - | 0 |
@@ -1019,7 +1019,7 @@
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 2022-10-06 | 29 (1,000 XP) | 52,299 | 4.27 | 135 |
 | [The Complex](games/t/the_complex.md) | 2022-10-04 | 20 (1,000 XP) | 1,376 | - | 0 |
 | [Airoheart](games/a/airoheart.md) | 2022-09-30 | 29 (1,000 XP) | 0 | - | 0 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 245,697 | 4.26 | 24,741 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 245,697 | 4.26 | 24,748 |
 | [Bunny Park](games/b/bunny_park.md) | 2022-09-30 | 18 (1,000 XP) | 343 | - | 0 |
 | [Lemon Cake](games/l/lemon_cake.md) | 2022-09-29 | 17 (1,000 XP) | 312 | - | 0 |
 | [Despot's Game](games/d/despot's_game.md) | 2022-09-29 | 35 (1,000 XP) | 568 | 4.43 | 0 |
@@ -1160,7 +1160,7 @@
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 19 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,723 | 4.45 | 38 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 637,519 | 4.51 | 150 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,046,669 | 4.61 | 20,421 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,046,669 | 4.61 | 20,562 |
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 181,604 | - | 0 |
 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 2021-11-16 | 59 (1,000 XP) | 579,696 | 4.38 | 451 |
 | [Lifeslide](games/l/lifeslide.md) | 2021-11-15 | 31 (1,000 XP) | 389 | - | 0 |
