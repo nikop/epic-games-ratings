@@ -1,7 +1,7 @@
 # The Textorcist: The Story of Ray Bibbia
 [Store](https://store.epicgames.com/en-US/p/the-textorcist)  
 [View Rawdata](../../db/t/the_textorcist__the_story_of_ray_bibbia.json)  
-Rating: 4.64 (Ranked 378)  
+Rating: 4.63 (Ranked 401)  
 Number of Ratings: 78  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 22  (Ranked 685)  
@@ -84,3 +84,4 @@ Diff (max vs sum): -5
 | 2024-08-20 | 4.65 | - | 21 | 21 |
 | 2024-08-28 | 4.65 | - | 22 | 22 |
 | 2024-08-31 | 4.64 | - | 22 | 22 |
+| 2024-09-02 | 4.63 | - | 22 | 22 |
