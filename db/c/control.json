@@ -2,7 +2,7 @@
   "ID": "calluna",
   "Name": "Control",
   "ProductSlug": "control",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 1193,
@@ -10106,10 +10106,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 15365,
       "NumberOfAwardsMax": 9965
+    },
+    {
+      "Time": "2024-09-02T21:00:12.1230366+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 15366,
+      "NumberOfAwardsMax": 9965
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15365,
+  "NumberOfAwards": 15366,
   "NumberOfAwardsMax": 9965,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10147,7 +10153,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 606
+      "Count": 607
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10185,8 +10191,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:45.0678604+00:00",
-  "LastChanged": "2024-09-02T18:59:48.7262421+00:00",
+  "LastChanged": "2024-09-02T21:00:12.1230365+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:11.6993969+00:00",
-  "LastUpdate_Ratings": "2024-09-02T18:59:48.7262426+00:00",
+  "LastUpdate_Ratings": "2024-09-02T21:00:12.1230369+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:01.070276+00:00"
 }

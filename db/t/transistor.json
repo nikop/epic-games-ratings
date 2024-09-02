@@ -2,7 +2,7 @@
   "ID": "bc81d1e7d1794d3a94e4dbf26e92166d",
   "Name": "Transistor",
   "ProductSlug": "transistor",
-  "Ranking_Rating": 424,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 711,
   "Ranking_PopularitySum": 711,
   "Ranking_EOS_Progress": 1193,
@@ -394,6 +394,6 @@
   "FirstSeen": "2022-07-22T20:25:51.9037164+00:00",
   "LastChanged": "2024-07-28T19:57:15.7660974+00:00",
   "LastUpdate_AppInfo": "2024-09-02T06:57:24.4242856+00:00",
-  "LastUpdate_Ratings": "2024-09-02T18:59:50.0682704+00:00",
+  "LastUpdate_Ratings": "2024-09-02T21:00:14.2757749+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:17.69695+00:00"
 }

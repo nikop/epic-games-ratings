@@ -2,9 +2,9 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 25,
-  "Ranking_PopularitySum": 21,
+  "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21490,10 +21490,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 116556,
       "NumberOfAwardsMax": 20562
+    },
+    {
+      "Time": "2024-09-02T21:00:28.5057694+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 116845,
+      "NumberOfAwardsMax": 20562
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 116556,
+  "NumberOfAwards": 116845,
   "NumberOfAwardsMax": 20562,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -21513,13 +21519,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 10439
+      "Count": 10512
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 9010
+      "Count": 9057
     },
     {
       "Text": "This game is Highly Recommended",
@@ -21537,7 +21543,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9941
+      "Count": 10004
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -21555,7 +21561,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 15271
+      "Count": 15377
     },
     {
       "Text": "This game has a Creative Community",
@@ -49015,9 +49021,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-09-02T15:58:47.4349041+00:00",
+  "LastChanged": "2024-09-02T21:00:28.5057692+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:45.9911132+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:03.0854716+00:00",
-  "LastUpdate_Ratings": "2024-09-02T18:59:59.6215029+00:00",
+  "LastUpdate_Ratings": "2024-09-02T21:00:28.5057699+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:45.9912784+00:00"
 }
