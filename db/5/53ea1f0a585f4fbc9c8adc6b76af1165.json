@@ -2,9 +2,9 @@
   "ID": "53ea1f0a585f4fbc9c8adc6b76af1165",
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
-  "Ranking_Rating": 666,
-  "Ranking_Popularity": 692,
-  "Ranking_PopularitySum": 696,
+  "Ranking_Rating": 646,
+  "Ranking_Popularity": 685,
+  "Ranking_PopularitySum": 690,
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 159,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2024-07-29T08:58:31.2395445+00:00",
@@ -258,18 +258,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-09-02T18:56:57.6974682+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 1303,
@@ -558,9 +564,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-09-01T18:57:41.080369+00:00",
+  "LastChanged": "2024-09-02T18:56:57.697468+00:00",
   "LastChanged_Achievements": "2024-08-20T20:14:00.8697539+00:00",
   "LastUpdate_AppInfo": "2024-08-28T07:57:23.2449103+00:00",
-  "LastUpdate_Ratings": "2024-09-02T16:57:59.8227885+00:00",
+  "LastUpdate_Ratings": "2024-09-02T18:56:57.6974688+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:14:00.8697725+00:00"
 }

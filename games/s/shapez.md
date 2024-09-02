@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.71 (Ranked 225)  
 ## Awards
-Max (Great for Beginners): 39  (Ranked 583)  
-Sum: 250 (Ranked 487)  
-Diff (max vs sum): 96  
+Max (Great for Beginners): 39  (Ranked 584)  
+Sum: 251 (Ranked 487)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 215 |
@@ -16,7 +16,7 @@ Diff (max vs sum): 96
 | This game is Highly Recommended | 30 |
 | This game is Extremely Fun | 30 |
 | This game has a Creative Community | 26 |
-| This game has Unique Visuals | 23 |
+| This game has Unique Visuals | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -158,3 +158,4 @@ Diff (max vs sum): 96
 | 2024-08-27 | 4.71 | 38 | 247 |
 | 2024-08-29 | 4.71 | 39 | 249 |
 | 2024-08-30 | 4.71 | 39 | 250 |
+| 2024-09-02 | 4.71 | 39 | 251 |
