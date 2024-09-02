@@ -2,7 +2,7 @@
   "ID": "foxglove",
   "Name": "Subnautica Below Zero",
   "ProductSlug": "subnautica-below-zero",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 374,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 1193,
@@ -2887,10 +2887,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1397,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2024-09-02T16:58:09.4141586+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1398,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1397,
+  "NumberOfAwards": 1398,
   "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2910,7 +2916,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 159
+      "Count": 160
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2966,8 +2972,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2024-09-01T07:59:52.1790656+00:00",
+  "LastChanged": "2024-09-02T16:58:09.4141584+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:48.6720005+00:00",
-  "LastUpdate_Ratings": "2024-09-02T14:59:49.863476+00:00",
+  "LastUpdate_Ratings": "2024-09-02T16:58:09.414159+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:14.3281411+00:00"
 }

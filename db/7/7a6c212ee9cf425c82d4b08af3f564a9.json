@@ -2,7 +2,7 @@
   "ID": "7a6c212ee9cf425c82d4b08af3f564a9",
   "Name": "The Walking Dead No Man\u0027s Land",
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
-  "Ranking_Rating": 1044,
+  "Ranking_Rating": 1029,
   "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 144,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2024-01-14T22:59:40.5405565+00:00",
@@ -3527,10 +3527,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 1483,
       "NumberOfAwardsMax": 261
+    },
+    {
+      "Time": "2024-09-02T17:00:04.191119+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 1491,
+      "NumberOfAwardsMax": 261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1483,
+  "NumberOfAwards": 1491,
   "NumberOfAwardsMax": 261,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3550,13 +3556,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 247
+      "Count": 249
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 169
+      "Count": 170
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3574,7 +3580,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 137
+      "Count": 142
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6293,9 +6299,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-09-01T22:58:23.4060113+00:00",
+  "LastChanged": "2024-09-02T17:00:04.1911189+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:50.3643885+00:00",
   "LastUpdate_AppInfo": "2024-08-29T05:57:23.5077595+00:00",
-  "LastUpdate_Ratings": "2024-09-02T15:57:51.1902522+00:00",
+  "LastUpdate_Ratings": "2024-09-02T17:00:04.1911193+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:50.3644471+00:00"
 }

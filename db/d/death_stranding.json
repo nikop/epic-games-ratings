@@ -2,7 +2,7 @@
   "ID": "f4a904fcef2447439c35c4e6457f3027",
   "Name": "DEATH STRANDING",
   "ProductSlug": "death-stranding",
-  "Ranking_Rating": 127,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 49,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 4,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2022-12-26T09:58:07.1196692+00:00",
@@ -13851,10 +13851,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 17944,
       "NumberOfAwardsMax": 12226
+    },
+    {
+      "Time": "2024-09-02T16:58:15.5484002+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 17951,
+      "NumberOfAwardsMax": 12226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17944,
+  "NumberOfAwards": 17951,
   "NumberOfAwardsMax": 12226,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13880,13 +13886,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 607
+      "Count": 610
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 770
+      "Count": 773
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13898,7 +13904,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 684
+      "Count": 685
     },
     {
       "Text": "This game has a Creative Community",
@@ -47076,9 +47082,9 @@
   "FirstSeen": "2022-12-25T17:57:41.2427697+00:00",
   "FirstSeenRating": "2022-12-26T09:58:07.1196688+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4568425+00:00",
-  "LastChanged": "2024-09-02T07:58:35.496242+00:00",
+  "LastChanged": "2024-09-02T16:58:15.5484+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:34.8910243+00:00",
   "LastUpdate_AppInfo": "2024-09-01T19:57:26.0920701+00:00",
-  "LastUpdate_Ratings": "2024-09-02T14:59:58.8879521+00:00",
+  "LastUpdate_Ratings": "2024-09-02T16:58:15.5484005+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:34.8911889+00:00"
 }
