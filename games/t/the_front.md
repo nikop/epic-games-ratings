@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_front.json)  
 Rating: 4.08 (Ranked 1,180)  
 ## Awards
-Max (Highly Recommended): 30  (Ranked 632)  
+Max (Highly Recommended): 30  (Ranked 634)  
 Sum: 104 (Ranked 565)  
-Diff (max vs sum): 67  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 34 |

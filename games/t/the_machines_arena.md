@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.79 (Ranked 113)  
 ## Awards
-Max (Great for Quick Sessions): 31  (Ranked 628)  
+Max (Great for Quick Sessions): 31  (Ranked 629)  
 Sum: 82 (Ranked 584)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
