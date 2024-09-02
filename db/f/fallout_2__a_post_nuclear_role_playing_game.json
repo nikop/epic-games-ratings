@@ -2,9 +2,9 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 298,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 387,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -1933,10 +1933,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 610,
       "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2024-09-02T17:57:55.0087891+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 630,
+      "NumberOfAwardsMax": 336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 610,
+  "NumberOfAwards": 630,
   "NumberOfAwardsMax": 336,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1999,6 +2005,12 @@
       "Prefix": "This game has a",
       "Type": "Creative Community",
       "Count": 26
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -2013,8 +2025,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-09-01T20:59:49.3421817+00:00",
+  "LastChanged": "2024-09-02T17:57:55.008789+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:48.3777593+00:00",
-  "LastUpdate_Ratings": "2024-09-02T15:58:49.790697+00:00",
+  "LastUpdate_Ratings": "2024-09-02T17:57:55.0087894+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:08.2104588+00:00"
 }

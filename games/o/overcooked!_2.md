@@ -1,17 +1,17 @@
 # Overcooked! 2
 [Store](https://store.epicgames.com/en-US/p/overcooked-2)  
 [View Rawdata](../../db/o/overcooked!_2.json)  
-Rating: 4.69 (Ranked 267)  
+Rating: 4.69 (Ranked 266)  
 Number of Ratings: 5,157  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 384  (Ranked 292)  
-Sum: 2,847 (Ranked 223)  
+Sum: 2,848 (Ranked 223)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 384 |
 | This game is Great for Quick Sessions | 341 |
-| This game has Diverse Characters | 324 |
+| This game has Diverse Characters | 325 |
 | This game is Relaxing | 313 |
 | This game has Quickly Understood Controls | 263 |
 | This game is Extremely Fun | 263 |
@@ -493,4 +493,4 @@ Diff (max vs sum): 69
 | 2024-08-30 | 4.69 | - | 383 | 2,828 |
 | 2024-08-31 | 4.69 | - | 383 | 2,834 |
 | 2024-09-01 | 4.69 | - | 384 | 2,843 |
-| 2024-09-02 | 4.69 | - | 384 | 2,847 |
+| 2024-09-02 | 4.69 | - | 384 | 2,848 |

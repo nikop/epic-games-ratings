@@ -2,7 +2,7 @@
   "ID": "530eeeaffca14275a451d7cff61ee6bb",
   "Name": "The End is Nigh",
   "ProductSlug": "the-end-is-nigh",
-  "Ranking_Rating": 243,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 711,
   "Ranking_PopularitySum": 711,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -206,6 +206,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-02T17:57:58.522947+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -224,8 +230,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:42.5852877+00:00",
   "FirstSeenRating": "2022-08-04T20:31:15.3945222+00:00",
-  "LastChanged": "2024-06-17T01:57:29.4459121+00:00",
+  "LastChanged": "2024-09-02T17:57:58.5229469+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:49.6277874+00:00",
-  "LastUpdate_Ratings": "2024-09-02T15:58:53.1058943+00:00",
+  "LastUpdate_Ratings": "2024-09-02T17:57:58.5229474+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:35.6746974+00:00"
 }
