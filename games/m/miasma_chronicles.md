@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.49 (Ranked 711)  
+Rating: 4.48 (Ranked 732)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -337,3 +337,4 @@ Diff (max vs sum): -58
 | 2024-07-27 | 4.48 | 39 | 39 |
 | 2024-08-04 | 4.48 | 40 | 40 |
 | 2024-08-24 | 4.49 | 40 | 40 |
+| 2024-09-02 | 4.48 | 40 | 40 |
