@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 544,
@@ -3293,10 +3293,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 760,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-09-02T15:01:19.8137386+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 762,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 760,
+  "NumberOfAwards": 762,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3340,7 +3346,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 94
+      "Count": 96
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -26489,9 +26495,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-09-01T15:57:36.0745234+00:00",
+  "LastChanged": "2024-09-02T15:01:19.8137384+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:38.4457215+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:11.6724415+00:00",
-  "LastUpdate_Ratings": "2024-09-02T13:58:14.7706521+00:00",
+  "LastUpdate_Ratings": "2024-09-02T15:01:19.8137389+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:38.4458554+00:00"
 }
