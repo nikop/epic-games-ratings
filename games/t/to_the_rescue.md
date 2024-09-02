@@ -1,7 +1,7 @@
 # To The Rescue
 [Store](https://store.epicgames.com/en-US/p/to-the-rescue-a6c254)  
 [View Rawdata](../../db/t/to_the_rescue.json)  
-Rating: 3.79 (Ranked 1,258)  
+Rating: 3.80 (Ranked 1,257)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 3.79 (Ranked 1,258)
 | 2024-05-02 | 3.93 | 0 | 0 |
 | 2024-05-18 | 3.82 | 0 | 0 |
 | 2024-07-30 | 3.79 | 0 | 0 |
+| 2024-09-02 | 3.80 | 0 | 0 |
