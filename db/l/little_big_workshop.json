@@ -2,7 +2,7 @@
   "ID": "402982723c79438bab7bfe346c34b5b6",
   "Name": "Little Big Workshop",
   "ProductSlug": "little-big-workshop",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 934,
   "Ranking_Popularity": 710,
   "Ranking_PopularitySum": 710,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2022-10-23T19:31:08.0358179+00:00",
@@ -89,6 +89,12 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-02T03:02:08.5309285+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:20.9578996+00:00",
   "FirstSeenRating": "2022-10-23T19:31:08.0358175+00:00",
-  "LastChanged": "2024-07-20T16:57:27.8435144+00:00",
+  "LastChanged": "2024-09-02T03:02:08.5309283+00:00",
   "LastUpdate_AppInfo": "2024-08-26T09:57:53.6332839+00:00",
-  "LastUpdate_Ratings": "2024-09-01T23:58:37.9566126+00:00",
+  "LastUpdate_Ratings": "2024-09-02T03:02:08.5309289+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:29.6764908+00:00"
 }
