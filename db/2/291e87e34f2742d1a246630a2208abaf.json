@@ -3,8 +3,8 @@
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
   "Ranking_Rating": 1062,
-  "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 366,
+  "Ranking_Popularity": 389,
+  "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3077,24 +3077,30 @@
       "Rating": 4.24,
       "NumberOfAwards": 728,
       "NumberOfAwardsMax": 166
+    },
+    {
+      "Time": "2024-09-02T13:13:30.7300183+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 733,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 728,
-  "NumberOfAwardsMax": 166,
+  "NumberOfAwards": 733,
+  "NumberOfAwardsMax": 167,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 166
+      "Count": 167
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 145
+      "Count": 146
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3136,7 +3142,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 77
+      "Count": 80
     }
   ],
   "EOS_Progressed": 0,
@@ -3151,8 +3157,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-09-01T16:57:14.0696207+00:00",
+  "LastChanged": "2024-09-02T13:13:30.7300168+00:00",
   "LastUpdate_AppInfo": "2024-08-27T07:57:06.1223653+00:00",
-  "LastUpdate_Ratings": "2024-09-02T11:00:32.1920964+00:00",
+  "LastUpdate_Ratings": "2024-09-02T13:13:30.7300186+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:24.1668464+00:00"
 }
