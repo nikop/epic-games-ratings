@@ -167,7 +167,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-08-20 | 1,189 | 0 |
 ## Awards
 Max (Character Customization): 744  (Ranked 233)  
-Sum: 1,903 (Ranked 263)  
+Sum: 1,904 (Ranked 263)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): -30
 | This game has Easy Combat | 108 |
 | This game is Relaxing | 106 |
 | This game has Amazing Storytelling | 96 |
-| This game has a Creative Community | 94 |
+| This game has a Creative Community | 95 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
 ## Ratings History
@@ -570,3 +570,4 @@ Diff (max vs sum): -30
 | 2024-08-31 | 4.69 | - | 743 | 1,899 |
 | 2024-09-01 | 4.69 | - | 744 | 1,901 |
 | 2024-09-02 | 4.69 | - | 744 | 1,903 |
+| 2024-09-03 | 4.69 | - | 744 | 1,904 |
