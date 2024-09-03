@@ -4,7 +4,7 @@
   "ProductSlug": "dark-deity-0b08d1",
   "Ranking_Rating": 1133,
   "Ranking_Popularity": 240,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -629,10 +629,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 925,
       "NumberOfAwardsMax": 639
+    },
+    {
+      "Time": "2024-09-03T05:00:24.5744158+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 926,
+      "NumberOfAwardsMax": 639
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 925,
+  "NumberOfAwards": 926,
   "NumberOfAwardsMax": 639,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -682,7 +688,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Extremely Fun",
@@ -709,8 +715,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:09.3077466+00:00",
   "FirstSeenRating": "2022-08-09T18:32:09.805547+00:00",
-  "LastChanged": "2024-09-02T05:58:29.5578527+00:00",
+  "LastChanged": "2024-09-03T05:00:24.5744156+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:15.317354+00:00",
-  "LastUpdate_Ratings": "2024-09-03T03:57:52.3730236+00:00",
+  "LastUpdate_Ratings": "2024-09-03T05:00:24.5744161+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:45.830568+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 226,
   "Ranking_Popularity": 617,
-  "Ranking_PopularitySum": 491,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1182,6 +1182,6 @@
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
   "LastChanged": "2024-08-20T02:57:52.0951174+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:46.8267419+00:00",
-  "LastUpdate_Ratings": "2024-09-03T03:02:30.3583805+00:00",
+  "LastUpdate_Ratings": "2024-09-03T04:59:21.6842291+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:56.9981982+00:00"
 }
