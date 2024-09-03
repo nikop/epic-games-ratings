@@ -3,7 +3,7 @@
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
   "Ranking_Rating": 944,
-  "Ranking_Popularity": 134,
+  "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 125,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 532,
@@ -12841,11 +12841,17 @@
       "Rating": 4.35,
       "NumberOfAwards": 10082,
       "NumberOfAwardsMax": 2215
+    },
+    {
+      "Time": "2024-09-03T16:57:48.06969+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 10096,
+      "NumberOfAwardsMax": 2222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10082,
-  "NumberOfAwardsMax": 2215,
+  "NumberOfAwards": 10096,
+  "NumberOfAwardsMax": 2222,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -12858,7 +12864,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1854
+      "Count": 1857
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12876,13 +12882,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2215
+      "Count": 2222
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1367
+      "Count": 1371
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -45804,9 +45810,9 @@
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2024-09-03T11:57:28.2793274+00:00",
+  "LastChanged": "2024-09-03T16:57:48.0696898+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:23.6576202+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:15.9457107+00:00",
-  "LastUpdate_Ratings": "2024-09-03T14:58:53.3962713+00:00",
+  "LastUpdate_Ratings": "2024-09-03T16:57:48.0696905+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:23.657771+00:00"
 }
