@@ -208,7 +208,7 @@
 | 201 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 93 | 472 |
 | 201 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 711 |
 | 201 | [Haven](games/h/haven.md) | 4.73 | 0 | 711 |
-| 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.73 | 42,728 | 18 |
+| 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.73 | 42,751 | 18 |
 | 201 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.73 | 171 | 383 |
 | 201 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 108 | 449 |
 | 201 | [The Long Dark](games/t/the_long_dark.md) | 4.73 | 1,059 | 194 |
@@ -258,7 +258,7 @@
 | 245 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.70 | 0 | 711 |
 | 245 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.70 | 0 | 711 |
 | 245 | [The Pathless](games/t/the_pathless.md) | 4.70 | 0 | 711 |
-| 245 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,303 | 92 |
+| 245 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 5,311 | 92 |
 | 245 | [Touch Type Tale](games/t/touch_type_tale.md) | 4.70 | 0 | 711 |
 | 245 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 711 |
 | 245 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.70 | 0 | 711 |
@@ -449,7 +449,7 @@
 | 425 | [Transistor](games/t/transistor.md) | 4.62 | 0 | 711 |
 | 448 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.61 | 0 | 711 |
 | 448 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 125 | 426 |
-| 448 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 1,270 | 172 |
+| 448 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 1,274 | 172 |
 | 448 | [Control](games/c/control.md) | 4.61 | 9,970 | 60 |
 | 448 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 265 | 328 |
 | 448 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 108 | 449 |
@@ -879,6 +879,7 @@
 | 865 | [The Silent Age](games/t/the_silent_age.md) | 4.41 | 0 | 711 |
 | 878 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.40 | 0 | 711 |
 | 878 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 711 |
+| 878 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.40 | 74 | 502 |
 | 878 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 711 |
 | 878 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.40 | 87 | 482 |
 | 878 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,123 | 185 |
@@ -894,22 +895,21 @@
 | 878 | [The Surge](games/t/the_surge.md) | 4.40 | 42 | 574 |
 | 878 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 2,492 | 125 |
 | 878 | [Wreckfest](games/w/wreckfest.md) | 4.40 | 0 | 711 |
-| 895 | [Biped](games/b/biped.md) | 4.39 | 0 | 711 |
-| 895 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.39 | 74 | 502 |
-| 895 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 0 | 711 |
-| 895 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 84 | 486 |
-| 895 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 711 |
-| 895 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 779 | 227 |
-| 895 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 20 | 701 |
-| 895 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 202 | 362 |
-| 895 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 711 |
-| 895 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.39 | 0 | 711 |
-| 895 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.39 | 0 | 711 |
-| 895 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 135 | 412 |
-| 895 | [SMITE](games/s/smite.md) | 4.39 | 6,322 | 86 |
-| 895 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 345 | 297 |
-| 895 | [The Lion's Song](games/t/the_lion's_song.md) | 4.39 | 0 | 711 |
-| 895 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 0 | 711 |
+| 896 | [Biped](games/b/biped.md) | 4.39 | 0 | 711 |
+| 896 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 0 | 711 |
+| 896 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 84 | 486 |
+| 896 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 711 |
+| 896 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 779 | 227 |
+| 896 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 20 | 701 |
+| 896 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 202 | 362 |
+| 896 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 711 |
+| 896 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.39 | 0 | 711 |
+| 896 | [Prince of Persia: The Forgotten Sands STANDARD EDITION](games/d/db75e4104b3343eda2e6530e7bb03cd9.md) | 4.39 | 0 | 711 |
+| 896 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 135 | 412 |
+| 896 | [SMITE](games/s/smite.md) | 4.39 | 6,322 | 86 |
+| 896 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 345 | 297 |
+| 896 | [The Lion's Song](games/t/the_lion's_song.md) | 4.39 | 0 | 711 |
+| 896 | [War Mongrels](games/w/war_mongrels.md) | 4.39 | 0 | 711 |
 | 911 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.38 | 0 | 711 |
 | 911 | [Democracy 4](games/d/democracy_4.md) | 4.38 | 0 | 711 |
 | 911 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.38 | 0 | 711 |
@@ -942,7 +942,7 @@
 | 934 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.36 | 0 | 711 |
 | 934 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 28 | 646 |
 | 934 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.36 | 57 | 537 |
-| 934 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.36 | 690 | 238 |
+| 934 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.36 | 691 | 238 |
 | 944 | [Among Trees](games/a/among_trees.md) | 4.35 | 0 | 711 |
 | 944 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 711 |
 | 944 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 4.35 | 352 | 295 |
