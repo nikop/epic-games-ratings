@@ -2,7 +2,7 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 629,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 42,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-09-15T13:59:44.5988416+00:00",
@@ -507,6 +507,12 @@
     {
       "Time": "2024-09-02T14:00:41.8036642+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-09-03T13:58:37.5117901+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 31
     }
@@ -16799,9 +16805,9 @@
   "FirstSeen": "2023-09-14T16:00:42.0495436+00:00",
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged": "2024-09-02T14:00:41.803664+00:00",
+  "LastChanged": "2024-09-03T13:58:37.5117899+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:23.7020252+00:00",
   "LastUpdate_AppInfo": "2024-08-30T22:56:54.5980944+00:00",
-  "LastUpdate_Ratings": "2024-09-03T11:59:32.5771461+00:00",
+  "LastUpdate_Ratings": "2024-09-03T13:58:37.5117904+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:23.702119+00:00"
 }

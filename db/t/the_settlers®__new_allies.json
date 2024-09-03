@@ -2,9 +2,9 @@
   "ID": "84f45b7676af47d9adecd3b636466f89",
   "Name": "The Settlers\u00AE: New Allies",
   "ProductSlug": "the-settlers",
-  "Ranking_Rating": 1232,
+  "Ranking_Rating": 1230,
   "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 392,
+  "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.92,
+  "Rating": 3.93,
   "RatingHistory": [
     {
       "Time": "2023-02-19T13:09:54.8324224+00:00",
@@ -2353,10 +2353,16 @@
       "Rating": 3.92,
       "NumberOfAwards": 593,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2024-09-03T14:01:29.0161528+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 711,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 593,
+  "NumberOfAwards": 711,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2383,6 +2389,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 126
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 118
     }
   ],
   "EOS_Progressed": 0,
@@ -2397,8 +2409,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2024-09-02T04:00:47.2986584+00:00",
+  "LastChanged": "2024-09-03T14:01:29.0161526+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:33.0470644+00:00",
-  "LastUpdate_Ratings": "2024-09-03T13:12:02.0314593+00:00",
+  "LastUpdate_Ratings": "2024-09-03T14:01:29.016153+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:55.1711287+00:00"
 }
