@@ -4,7 +4,7 @@
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 425,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -9015,10 +9015,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3422,
       "NumberOfAwardsMax": 484
+    },
+    {
+      "Time": "2024-09-03T10:59:44.0072884+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3424,
+      "NumberOfAwardsMax": 484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3422,
+  "NumberOfAwards": 3424,
   "NumberOfAwardsMax": 484,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9074,7 +9080,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 389
+      "Count": 391
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9094,8 +9100,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2024-09-02T23:57:56.8139487+00:00",
+  "LastChanged": "2024-09-03T10:59:44.0072882+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:02.6724221+00:00",
-  "LastUpdate_Ratings": "2024-09-03T09:56:58.8014309+00:00",
+  "LastUpdate_Ratings": "2024-09-03T10:59:44.0072889+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:14.0092847+00:00"
 }
