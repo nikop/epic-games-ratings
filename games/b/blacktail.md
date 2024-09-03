@@ -1,7 +1,7 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.63 (Ranked 402)  
+Rating: 4.64 (Ranked 379)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -286,3 +286,4 @@ Completed: 2 (0.17%) (Ranked 405)
 | 2024-03-22 | 4.67 | 0 | 0 |
 | 2024-04-15 | 4.61 | 0 | 0 |
 | 2024-08-20 | 4.63 | 0 | 0 |
+| 2024-09-03 | 4.64 | 0 | 0 |
