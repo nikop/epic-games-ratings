@@ -2,7 +2,7 @@
   "ID": "a0149619255648e8af0993a17ef4ee8e",
   "Name": "Poker Club",
   "ProductSlug": "poker-club-6e18ee",
-  "Ranking_Rating": 1243,
+  "Ranking_Rating": 1242,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 45,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.86,
+  "Rating": 3.87,
   "RatingHistory": [
     {
       "Time": "2023-04-27T17:00:42.1303149+00:00",
@@ -1797,6 +1797,12 @@
     {
       "Time": "2024-09-02T11:59:40.6096623+00:00",
       "Rating": 3.86,
+      "NumberOfAwards": 365,
+      "NumberOfAwardsMax": 121
+    },
+    {
+      "Time": "2024-09-03T11:57:21.1154973+00:00",
+      "Rating": 3.87,
       "NumberOfAwards": 365,
       "NumberOfAwardsMax": 121
     }
@@ -34539,9 +34545,9 @@
   "FirstSeen": "2023-04-27T17:00:42.1303107+00:00",
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
-  "LastChanged": "2024-09-02T11:59:40.609662+00:00",
+  "LastChanged": "2024-09-03T11:57:21.1154971+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:00.1951721+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:39.1423198+00:00",
-  "LastUpdate_Ratings": "2024-09-03T09:57:46.0487848+00:00",
+  "LastUpdate_Ratings": "2024-09-03T11:57:21.1154975+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:00.1953367+00:00"
 }
