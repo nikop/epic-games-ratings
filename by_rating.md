@@ -106,7 +106,7 @@
 | 100 | [Cobra Kai - The Karate Kid Saga Continues](games/c/cobra_kai_-_the_karate_kid_saga_continues.md) | 4.80 | 0 | 712 |
 | 100 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,597 | 83 |
 | 100 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 195 | 369 |
-| 100 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 4.80 | 97 | 464 |
+| 100 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 4.80 | 97 | 465 |
 | 100 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 487 | 268 |
 | 100 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 712 |
 | 100 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 38 | 590 |
@@ -139,7 +139,7 @@
 | 133 | [Journey](games/j/journey.md) | 4.77 | 0 | 712 |
 | 133 | [King's Bounty: The Legend](games/k/king's_bounty__the_legend.md) | 4.77 | 24 | 671 |
 | 133 | [Legend Bowl](games/l/legend_bowl.md) | 4.77 | 0 | 712 |
-| 133 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.77 | 6,882 | 76 |
+| 133 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.77 | 6,888 | 76 |
 | 133 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 4.77 | 970 | 204 |
 | 133 | [Quake](games/q/quake.md) | 4.77 | 63 | 524 |
 | 133 | [Sonic Mania](games/s/sonic_mania.md) | 4.77 | 1,080 | 187 |
@@ -411,7 +411,7 @@
 | 403 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.63 | 33 | 617 |
 | 403 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.63 | 0 | 712 |
 | 403 | [HITMAN](games/h/hitman.md) | 4.63 | 243 | 341 |
-| 403 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 97 | 464 |
+| 403 | [Human Resource Machine](games/h/human_resource_machine.md) | 4.63 | 97 | 465 |
 | 403 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.63 | 212 | 355 |
 | 403 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.63 | 5,172 | 95 |
 | 403 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 4.63 | 43 | 571 |
@@ -430,7 +430,7 @@
 | 426 | [Alien: Isolation](games/a/alien__isolation.md) | 4.62 | 167 | 389 |
 | 426 | [Darkwood](games/d/darkwood.md) | 4.62 | 347 | 296 |
 | 426 | [Death's Door](games/d/death's_door.md) | 4.62 | 0 | 712 |
-| 426 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.62 | 68,028 | 13 |
+| 426 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.62 | 68,148 | 13 |
 | 426 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.62 | 2,600 | 122 |
 | 426 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.62 | 125 | 427 |
 | 426 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 4.62 | 36 | 605 |
@@ -588,7 +588,7 @@
 | 566 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.56 | 257 | 331 |
 | 566 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 6,858 | 77 |
 | 588 | [Alan Wake](games/a/alan_wake.md) | 4.55 | 0 | 712 |
-| 588 | [Among Us](games/a/among_us.md) | 4.55 | 3,921 | 107 |
+| 588 | [Among Us](games/a/among_us.md) | 4.55 | 3,926 | 107 |
 | 588 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 419 | 281 |
 | 588 | [Calico](games/c/calico.md) | 4.55 | 0 | 712 |
 | 588 | [Costume Quest](games/c/costume_quest.md) | 4.55 | 0 | 712 |
@@ -808,7 +808,7 @@
 | 806 | [Beholder 3](games/b/beholder_3.md) | 4.44 | 0 | 712 |
 | 806 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.44 | 292 | 315 |
 | 806 | [Dark Deception](games/d/dark_deception.md) | 4.44 | 0 | 712 |
-| 806 | [DEATHLOOP](games/d/deathloop.md) | 4.44 | 97 | 464 |
+| 806 | [DEATHLOOP](games/d/deathloop.md) | 4.44 | 98 | 463 |
 | 806 | [Destiny 2](games/d/destiny_2.md) | 4.44 | 84,675 | 11 |
 | 806 | [Faeria](games/f/faeria.md) | 4.44 | 127 | 423 |
 | 806 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 377 | 293 |
@@ -818,7 +818,7 @@
 | 806 | [OUTRIDERS](games/o/outriders.md) | 4.44 | 1,687 | 152 |
 | 806 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 712 |
 | 806 | [Prince of Persia: The Two Thrones Standard Edition](games/9/93e1f80f18614d6a9a36fa32513bd9a8.md) | 4.44 | 0 | 712 |
-| 806 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.44 | 1,073 | 189 |
+| 806 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.44 | 1,076 | 188 |
 | 806 | [The Captain](games/t/the_captain.md) | 4.44 | 100 | 460 |
 | 806 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 310 | 308 |
 | 806 | [Warpips](games/w/warpips.md) | 4.44 | 61 | 528 |
