@@ -360,7 +360,7 @@ Completed: 37 (0.01%) (Ranked 532)
 | 2024-08-20 | 462,681 | 37 |
 ## Awards
 Max (Challenging Puzzles): 1,490  (Ranked 157)  
-Sum: 3,403 (Ranked 209)  
+Sum: 3,404 (Ranked 209)  
 Diff (max vs sum): -52  
 | Award | Count |
 | ----- | ----- |
@@ -371,7 +371,7 @@ Diff (max vs sum): -52
 | This game is Extremely Fun | 171 |
 | This game is Relaxing | 170 |
 | This game has Quickly Understood Controls | 167 |
-| This game has Challenging Combat | 148 |
+| This game has Challenging Combat | 149 |
 | This game has a Creative Community | 146 |
 | This game has Amazing Storytelling | 129 |
 | This game has Amazing Characters | 106 |
@@ -839,4 +839,4 @@ Diff (max vs sum): -52
 | 2024-08-30 | 4.49 | - | 1,484 | 3,387 |
 | 2024-08-31 | 4.49 | - | 1,490 | 3,395 |
 | 2024-09-01 | 4.49 | - | 1,490 | 3,397 |
-| 2024-09-02 | 4.49 | - | 1,490 | 3,403 |
+| 2024-09-02 | 4.49 | - | 1,490 | 3,404 |

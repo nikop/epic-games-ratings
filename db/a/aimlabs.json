@@ -4,7 +4,7 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 518,
   "Ranking_Popularity": 374,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -4375,10 +4375,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1201,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2024-09-02T23:57:00.9243112+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1099,
+      "NumberOfAwardsMax": 185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1201,
+  "NumberOfAwards": 1099,
   "NumberOfAwardsMax": 185,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4467,8 +4473,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-09-02T17:59:53.7222243+00:00",
+  "LastChanged": "2024-09-02T23:57:00.9243111+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:37.0002087+00:00",
-  "LastUpdate_Ratings": "2024-09-02T21:58:19.19406+00:00",
+  "LastUpdate_Ratings": "2024-09-02T23:57:00.9243116+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:16.7502734+00:00"
 }
