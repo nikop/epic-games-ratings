@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.18 (Ranked 1,124)  
+Rating: 4.18 (Ranked 1,123)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -184,8 +184,8 @@ Completed: 7 (0.16%) (Ranked 409)
 | 2024-08-20 | 4,472 | 7 |
 ## Awards
 Max (Quickly Understood Controls): 37  (Ranked 599)  
-Sum: 233 (Ranked 494)  
-Diff (max vs sum): 105  
+Sum: 233 (Ranked 495)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 37 |

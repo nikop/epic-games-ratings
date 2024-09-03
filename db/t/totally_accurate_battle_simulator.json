@@ -3,8 +3,8 @@
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 161,
-  "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 181,
+  "Ranking_Popularity": 245,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8738,11 +8738,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 4593,
       "NumberOfAwardsMax": 614
+    },
+    {
+      "Time": "2024-09-03T03:00:37.8946521+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4598,
+      "NumberOfAwardsMax": 616
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4593,
-  "NumberOfAwardsMax": 614,
+  "NumberOfAwards": 4598,
+  "NumberOfAwardsMax": 616,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8755,7 +8761,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 614
+      "Count": 616
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8791,7 +8797,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 573
+      "Count": 575
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8803,7 +8809,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 426
+      "Count": 427
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8841,8 +8847,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-09-02T20:58:34.9760326+00:00",
+  "LastChanged": "2024-09-03T03:00:37.894652+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:09.9233485+00:00",
-  "LastUpdate_Ratings": "2024-09-02T23:59:07.494118+00:00",
+  "LastUpdate_Ratings": "2024-09-03T03:00:37.8946525+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.7027547+00:00"
 }

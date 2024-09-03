@@ -4,7 +4,7 @@
   "ProductSlug": "apex-legends-006cde",
   "Ranking_Rating": 1092,
   "Ranking_Popularity": 655,
-  "Ranking_PopularitySum": 538,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 4,
@@ -456,10 +456,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-09-03T03:00:10.3469978+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 121,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147,
+  "NumberOfAwards": 121,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -640,9 +646,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-09-02T22:00:22.2471836+00:00",
+  "LastChanged": "2024-09-03T03:00:10.3469976+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.8121394+00:00",
   "LastUpdate_AppInfo": "2024-09-02T21:57:05.2778555+00:00",
-  "LastUpdate_Ratings": "2024-09-02T23:58:49.9032412+00:00",
+  "LastUpdate_Ratings": "2024-09-03T03:00:10.3469981+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.8121467+00:00"
 }
