@@ -340,13 +340,13 @@ Completed: 2,305 (2.73%) (Ranked 180)
 | 2024-06-17 | 84,087 | 2,298 |
 | 2024-08-09 | 84,353 | 2,305 |
 ## Awards
-Max (Great Boss Battles): 808  (Ranked 223)  
-Sum: 1,681 (Ranked 280)  
+Max (Great Boss Battles): 809  (Ranked 223)  
+Sum: 1,682 (Ranked 280)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,083 |
-| This game has Great Boss Battles | 808 |
+| This game has Great Boss Battles | 809 |
 | This game is Highly Recommended | 123 |
 | This game is Extremely Fun | 118 |
 | This game has Diverse Characters | 117 |
@@ -559,3 +559,4 @@ Diff (max vs sum): -57
 | 2024-08-21 | 4.51 | - | 807 | 1,678 |
 | 2024-08-24 | 4.51 | - | 808 | 1,679 |
 | 2024-09-01 | 4.51 | - | 808 | 1,681 |
+| 2024-09-03 | 4.51 | - | 809 | 1,682 |
