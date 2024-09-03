@@ -18,7 +18,7 @@
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 53,641 | 4.50 | 690 |
 | 17 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 46,507 | 4.17 | 1,133 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 42,728 | 4.73 | 201 |
-| 19 | [Dauntless](games/d/dauntless.md) | 31,647 | 4.53 | 632 |
+| 19 | [Dauntless](games/d/dauntless.md) | 31,677 | 4.53 | 632 |
 | 20 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 31,182 | 4.64 | 379 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 30,509 | 4.89 | 12 |
 | 22 | [Warframe](games/w/warframe.md) | 26,820 | 4.61 | 448 |
@@ -98,7 +98,7 @@
 | 96 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 5,139 | 4.46 | 760 |
 | 97 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 5,125 | 4.68 | 294 |
 | 98 | [Paladins](games/p/paladins.md) | 4,845 | 4.31 | 992 |
-| 99 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,818 | 4.70 | 245 |
+| 99 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,822 | 4.70 | 245 |
 | 100 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4,721 | 4.50 | 690 |
 | 101 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4,579 | 4.57 | 539 |
 | 102 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,534 | 4.47 | 749 |
@@ -109,7 +109,7 @@
 | 107 | [Among Us](games/a/among_us.md) | 3,921 | 4.55 | 587 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 3,825 | 4.55 | 587 |
 | 109 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,764 | 4.57 | 539 |
-| 110 | [Gloomhaven](games/g/gloomhaven.md) | 3,760 | 4.47 | 749 |
+| 110 | [Gloomhaven](games/g/gloomhaven.md) | 3,761 | 4.47 | 749 |
 | 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,738 | 4.76 | 148 |
 | 111 | [Gotham Knights](games/g/gotham_knights.md) | 3,738 | 4.19 | 1,114 |
 | 113 | [RAGE 2](games/r/rage_2.md) | 3,382 | 4.26 | 1,045 |
@@ -222,7 +222,7 @@
 | 220 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 817 | 4.35 | 944 |
 | 221 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 815 | 4.24 | 1,063 |
 | 221 | [Neon Abyss](games/n/neon_abyss.md) | 815 | 4.67 | 314 |
-| 223 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 808 | 4.51 | 669 |
+| 223 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 809 | 4.51 | 669 |
 | 224 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 795 | 4.59 | 500 |
 | 225 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 790 | 4.62 | 425 |
 | 226 | [Star Trek Online](games/s/star_trek_online.md) | 789 | 4.45 | 780 |
@@ -388,11 +388,11 @@
 | 386 | [First Class Trouble](games/f/first_class_trouble.md) | 169 | 4.47 | 749 |
 | 386 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 169 | 4.50 | 690 |
 | 388 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 168 | 4.14 | 1,152 |
+| 389 | [Alien: Isolation](games/a/alien__isolation.md) | 167 | 4.62 | 425 |
 | 389 | [Barony](games/b/barony.md) | 167 | 4.75 | 161 |
 | 389 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 167 | 4.24 | 1,063 |
-| 391 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 166 | 4.53 | 632 |
-| 392 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 165 | 4.45 | 780 |
-| 393 | [Alien: Isolation](games/a/alien__isolation.md) | 164 | 4.62 | 425 |
+| 389 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 167 | 4.53 | 632 |
+| 393 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 165 | 4.45 | 780 |
 | 394 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 162 | 3.92 | 1,232 |
 | 395 | [Atomicrops](games/a/atomicrops.md) | 161 | 4.86 | 28 |
 | 396 | [Tropico 5](games/t/tropico_5.md) | 158 | 4.45 | 780 |

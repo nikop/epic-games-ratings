@@ -244,7 +244,7 @@
 | 226 | [The Talos Principle](games/t/the_talos_principle.md) | 4.71 | 0 | 711 |
 | 226 | [This Is The Police](games/t/this_is_the_police.md) | 4.71 | 0 | 711 |
 | 226 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 3,111 | 118 |
-| 245 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,818 | 99 |
+| 245 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,822 | 99 |
 | 245 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 153 | 398 |
 | 245 | [For The King](games/f/for_the_king.md) | 4.70 | 489 | 266 |
 | 245 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.70 | 108 | 449 |
@@ -426,7 +426,7 @@
 | 402 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 22 | 685 |
 | 425 | [ABZU](games/a/abzu.md) | 4.62 | 0 | 711 |
 | 425 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.62 | 0 | 711 |
-| 425 | [Alien: Isolation](games/a/alien__isolation.md) | 4.62 | 164 | 393 |
+| 425 | [Alien: Isolation](games/a/alien__isolation.md) | 4.62 | 167 | 389 |
 | 425 | [Darkwood](games/d/darkwood.md) | 4.62 | 347 | 296 |
 | 425 | [Death's Door](games/d/death's_door.md) | 4.62 | 0 | 711 |
 | 425 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 4.62 | 68,028 | 13 |
@@ -634,8 +634,8 @@
 | 632 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.53 | 28 | 646 |
 | 632 | [Chivalry 2](games/c/chivalry_2.md) | 4.53 | 7,547 | 72 |
 | 632 | [Cosmik Battle](games/3/3f5bd4a3bb62462c8b6846a68ad6a4d9.md) | 4.53 | 44 | 567 |
-| 632 | [Dauntless](games/d/dauntless.md) | 4.53 | 31,647 | 19 |
-| 632 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.53 | 166 | 391 |
+| 632 | [Dauntless](games/d/dauntless.md) | 4.53 | 31,677 | 19 |
+| 632 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.53 | 167 | 389 |
 | 632 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.53 | 42 | 574 |
 | 632 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 4.53 | 38 | 589 |
 | 632 | [Moonray](games/1/1972d7d943d144318403545b8ae517ed.md) | 4.53 | 38 | 589 |
@@ -683,7 +683,7 @@
 | 669 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.51 | 0 | 711 |
 | 669 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.51 | 0 | 711 |
 | 669 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.51 | 14,012 | 42 |
-| 669 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 808 | 223 |
+| 669 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.51 | 809 | 223 |
 | 669 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.51 | 10,151 | 59 |
 | 669 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 4.51 | 81 | 493 |
 | 669 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.51 | 0 | 711 |
@@ -751,7 +751,7 @@
 | 749 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.47 | 26 | 659 |
 | 749 | [Escape Academy](games/e/escape_academy.md) | 4.47 | 0 | 711 |
 | 749 | [First Class Trouble](games/f/first_class_trouble.md) | 4.47 | 169 | 386 |
-| 749 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,760 | 110 |
+| 749 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,761 | 110 |
 | 749 | [Haven's Compass](games/d/da744ab3564a4d2dac8b942a86d5aad9.md) | 4.47 | 0 | 711 |
 | 749 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 4,534 | 102 |
 | 749 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.47 | 0 | 711 |
@@ -799,7 +799,7 @@
 | 780 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.45 | 0 | 711 |
 | 780 | [Star Renegades](games/s/star_renegades.md) | 4.45 | 0 | 711 |
 | 780 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 789 | 226 |
-| 780 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 4.45 | 165 | 392 |
+| 780 | [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 4.45 | 165 | 393 |
 | 780 | [The Escapists](games/t/the_escapists.md) | 4.45 | 0 | 711 |
 | 780 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.45 | 319 | 303 |
 | 780 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 0 | 711 |
