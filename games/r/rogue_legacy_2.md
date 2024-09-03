@@ -334,12 +334,12 @@ Completed: 35 (0.11%) (Ranked 431)
 | 2024-08-09 | 30,471 | 35 |
 | 2024-08-20 | 30,539 | 35 |
 ## Awards
-Max (Extremely Fun): 239  (Ranked 343)  
-Sum: 1,855 (Ranked 269)  
+Max (Extremely Fun): 240  (Ranked 343)  
+Sum: 1,856 (Ranked 269)  
 Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 239 |
+| This game is Extremely Fun | 240 |
 | This game has Quickly Understood Controls | 225 |
 | This game has Diverse Characters | 219 |
 | This game has Challenging Combat | 218 |
@@ -588,4 +588,4 @@ Diff (max vs sum): 74
 | 2024-08-30 | 4.84 | - | 239 | 1,852 |
 | 2024-08-31 | 4.84 | - | 239 | 1,853 |
 | 2024-09-02 | 4.84 | - | 239 | 1,854 |
-| 2024-09-03 | 4.84 | - | 239 | 1,855 |
+| 2024-09-03 | 4.84 | - | 240 | 1,856 |

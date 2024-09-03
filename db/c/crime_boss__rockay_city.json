@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1214,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 457,
   "Ranking_EOS_NewPlayers": 63,
@@ -9115,10 +9115,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 5083,
       "NumberOfAwardsMax": 910
+    },
+    {
+      "Time": "2024-09-03T14:57:43.4153124+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5087,
+      "NumberOfAwardsMax": 910
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 5083,
+  "NumberOfAwards": 5087,
   "NumberOfAwardsMax": 910,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9138,7 +9144,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 831
+      "Count": 832
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9174,7 +9180,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 821
+      "Count": 824
     }
   ],
   "EOS_Progressed": 133011,
@@ -36085,9 +36091,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-09-02T16:58:17.462031+00:00",
+  "LastChanged": "2024-09-03T14:57:43.4153122+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:21.0228506+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:06.9043299+00:00",
-  "LastUpdate_Ratings": "2024-09-03T13:12:48.3690743+00:00",
+  "LastUpdate_Ratings": "2024-09-03T14:57:43.4153128+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:21.0230053+00:00"
 }

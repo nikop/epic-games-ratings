@@ -1,7 +1,7 @@
 # Realpolitiks II
 [Store](https://store.epicgames.com/en-US/p/realpolitiks-2)  
 [View Rawdata](../../db/r/realpolitiks_ii.json)  
-Rating: 4.24 (Ranked 1,062)  
+Rating: 4.27 (Ranked 1,029)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -11,3 +11,4 @@ Rating: 4.24 (Ranked 1,062)
 | 2023-12-15 | 4.17 | 0 | 0 |
 | 2024-06-22 | 4.21 | 0 | 0 |
 | 2024-06-29 | 4.24 | 0 | 0 |
+| 2024-09-03 | 4.27 | 0 | 0 |
