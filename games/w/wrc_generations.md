@@ -4,8 +4,8 @@
 Rating: 4.44 (Ranked 807)  
 ## Awards
 Max (Diverse Characters): 30  (Ranked 635)  
-Sum: 172 (Ranked 523)  
-Diff (max vs sum): 112  
+Sum: 172 (Ranked 524)  
+Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 30 |

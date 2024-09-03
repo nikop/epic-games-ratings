@@ -1,7 +1,7 @@
 # Darksiders II Deathinitive Edition
 [Store](https://store.epicgames.com/en-US/p/darksiders2)  
 [View Rawdata](../../db/d/darksiders_ii_deathinitive_edition.json)  
-Rating: 4.55 (Ranked 587)  
+Rating: 4.55 (Ranked 588)  
 Number of Ratings: 827  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -68,12 +68,12 @@ Completed: 11 (0.10%) (Ranked 438)
 | 2024-08-09 | 10,513 | 11 |
 ## Awards
 Max (Character Customization): 471  (Ranked 271)  
-Sum: 809 (Ranked 355)  
-Diff (max vs sum): -84  
+Sum: 811 (Ranked 353)  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 471 |
-| This game has Great Boss Battles | 248 |
+| This game has Great Boss Battles | 250 |
 | This game is Highly Recommended | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game is Great for Beginners | 23 |
@@ -278,4 +278,4 @@ Diff (max vs sum): -84
 | 2024-08-29 | 4.56 | - | 466 | 802 |
 | 2024-08-30 | 4.55 | - | 468 | 806 |
 | 2024-08-31 | 4.55 | - | 469 | 807 |
-| 2024-09-03 | 4.55 | - | 471 | 809 |
+| 2024-09-03 | 4.55 | - | 471 | 811 |
