@@ -1,7 +1,7 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 227)  
+Rating: 4.71 (Ranked 226)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -380,7 +380,7 @@ Completed: 67 (0.01%) (Ranked 532)
 | 2024-08-20 | 861,544 | 67 |
 ## Awards
 Max (Character Customization): 8,962  (Ranked 65)  
-Sum: 32,480 (Ranked 57)  
+Sum: 32,481 (Ranked 57)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
@@ -393,7 +393,7 @@ Diff (max vs sum): 8
 | This game has Realistic Visuals | 1,916 |
 | This game is Extremely Fun | 1,885 |
 | This game has Amazing Characters | 1,885 |
-| This game is Educational | 1,779 |
+| This game is Educational | 1,780 |
 | This game is Relaxing | 1,698 |
 | This game has Obsessive Gameplay | 1,048 |
 | This game has a Creative Community | 664 |
@@ -985,4 +985,4 @@ Diff (max vs sum): 8
 | 2024-09-01 | 4.71 | - | 8,928 | 32,373 |
 | 2024-09-02 | 4.71 | - | 8,940 | 32,410 |
 | 2024-09-03 | 4.71 | - | 8,955 | 32,444 |
-| 2024-09-04 | 4.71 | - | 8,962 | 32,480 |
+| 2024-09-04 | 4.71 | - | 8,962 | 32,481 |

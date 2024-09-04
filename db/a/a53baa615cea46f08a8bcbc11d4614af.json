@@ -4,7 +4,7 @@
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 1063,
   "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1333,10 +1333,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 644,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-09-04T19:58:37.8743315+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 652,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 644,
+  "NumberOfAwards": 652,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1374,7 +1380,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1404,7 +1410,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 58
+      "Count": 65
     }
   ],
   "EOS_Progressed": 0,
@@ -1419,8 +1425,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-09-04T15:59:52.1656236+00:00",
+  "LastChanged": "2024-09-04T19:58:37.8743313+00:00",
   "LastUpdate_AppInfo": "2024-09-03T17:57:09.5648234+00:00",
-  "LastUpdate_Ratings": "2024-09-04T17:59:19.2606225+00:00",
+  "LastUpdate_Ratings": "2024-09-04T19:58:37.8743317+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:14.4523445+00:00"
 }
