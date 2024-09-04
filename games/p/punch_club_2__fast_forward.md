@@ -1,7 +1,7 @@
 # Punch Club 2: Fast Forward
 [Store](https://store.epicgames.com/en-US/p/punch-club-2-fast-forward-46d985)  
 [View Rawdata](../../db/p/punch_club_2__fast_forward.json)  
-Rating: 4.43 (Ranked 824)  
+Rating: 4.45 (Ranked 781)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -219,3 +219,4 @@ Completed: 16 (1.81%) (Ranked 209)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2024-07-22 | 4.55 | 0 | 0 |
 | 2024-08-04 | 4.43 | 0 | 0 |
+| 2024-09-03 | 4.45 | 0 | 0 |
