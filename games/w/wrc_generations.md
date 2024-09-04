@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.44 (Ranked 807)  
 ## Awards
-Max (Diverse Characters): 30  (Ranked 635)  
-Sum: 172 (Ranked 525)  
-Diff (max vs sum): 110  
+Max (Realistic Visuals): 30  (Ranked 635)  
+Sum: 192 (Ranked 519)  
+Diff (max vs sum): 116  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 30 |
@@ -15,6 +15,7 @@ Diff (max vs sum): 110
 | This game has Amazing Characters | 21 |
 | This game has Quickly Understood Controls | 21 |
 | This game is Extremely Fun | 20 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -128,3 +129,4 @@ Diff (max vs sum): 110
 | 2024-08-27 | 4.44 | 30 | 151 |
 | 2024-08-28 | 4.44 | 30 | 171 |
 | 2024-09-03 | 4.44 | 30 | 172 |
+| 2024-09-04 | 4.44 | 30 | 192 |
