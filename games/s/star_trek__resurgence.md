@@ -1,11 +1,11 @@
 # Star Trek: Resurgence
 [Store](https://store.epicgames.com/en-US/p/star-trek-resurgence)  
 [View Rawdata](../../db/s/star_trek__resurgence.json)  
-Rating: 4.35 (Ranked 944)  
+Rating: 4.35 (Ranked 945)  
 ## Awards
 Max (Impact the Story): 38  (Ranked 590)  
-Sum: 38 (Ranked 644)  
-Diff (max vs sum): -54  
+Sum: 38 (Ranked 645)  
+Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 38 |

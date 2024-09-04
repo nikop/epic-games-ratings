@@ -10268,10 +10268,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 20167803,
       "NumberOfAwardsMax": 3894772
+    },
+    {
+      "Time": "2024-09-04T13:57:44.809562+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 20170132,
+      "NumberOfAwardsMax": 3894772
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20167803,
+  "NumberOfAwards": 20170132,
   "NumberOfAwardsMax": 3894772,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -10291,7 +10297,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3682367
+      "Count": 3684696
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10335,8 +10341,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-09-04T03:01:38.0226316+00:00",
+  "LastChanged": "2024-09-04T13:57:44.8095619+00:00",
   "LastUpdate_AppInfo": "2024-09-02T06:57:28.4174019+00:00",
-  "LastUpdate_Ratings": "2024-09-04T10:58:08.8811332+00:00",
+  "LastUpdate_Ratings": "2024-09-04T13:57:44.8095624+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.9179796+00:00"
 }

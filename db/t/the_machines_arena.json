@@ -2,7 +2,7 @@
   "ID": "e45dd95b2504456b90bf56ff55231668",
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
-  "Ranking_Rating": 113,
+  "Ranking_Rating": 114,
   "Ranking_Popularity": 625,
   "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 1193,
@@ -629,10 +629,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-09-04T13:58:30.4849523+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86,
+  "NumberOfAwards": 87,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -658,7 +664,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -673,8 +679,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-09-03T20:59:17.601291+00:00",
+  "LastChanged": "2024-09-04T13:58:30.4849521+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:13.3697227+00:00",
-  "LastUpdate_Ratings": "2024-09-04T10:58:54.7547494+00:00",
+  "LastUpdate_Ratings": "2024-09-04T13:58:30.4849526+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:21.063413+00:00"
 }
