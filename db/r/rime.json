@@ -2,7 +2,7 @@
   "ID": "d0d1b5541a6540d5a81daacb3324639b",
   "Name": "RiME",
   "ProductSlug": "rime",
-  "Ranking_Rating": 588,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 712,
   "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.53,
   "NumberOfRatings": 85,
   "RatingHistory": [
     {
@@ -371,6 +371,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-04T07:58:36.4661386+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -388,8 +394,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:44.5137427+00:00",
-  "LastChanged": "2024-08-30T04:59:43.7357018+00:00",
+  "LastChanged": "2024-09-04T07:58:36.4661384+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:11:54.7033822+00:00",
-  "LastUpdate_Ratings": "2024-09-04T05:00:16.3391902+00:00",
+  "LastUpdate_Ratings": "2024-09-04T07:58:36.4661391+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:50.5240229+00:00"
 }

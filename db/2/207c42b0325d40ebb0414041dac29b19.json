@@ -4,7 +4,7 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 401,
   "Ranking_Popularity": 95,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8789,10 +8789,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 16539,
       "NumberOfAwardsMax": 5172
+    },
+    {
+      "Time": "2024-09-04T07:58:25.7945934+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 16554,
+      "NumberOfAwardsMax": 5172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16539,
+  "NumberOfAwards": 16554,
   "NumberOfAwardsMax": 5172,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8824,7 +8830,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2867
+      "Count": 2877
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8860,7 +8866,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1239
+      "Count": 1244
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8881,8 +8887,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-09-03T22:59:03.5321038+00:00",
+  "LastChanged": "2024-09-04T07:58:25.7945933+00:00",
   "LastUpdate_AppInfo": "2024-08-30T13:11:10.8969392+00:00",
-  "LastUpdate_Ratings": "2024-09-04T04:59:59.771115+00:00",
+  "LastUpdate_Ratings": "2024-09-04T07:58:25.7945942+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:51.1609157+00:00"
 }

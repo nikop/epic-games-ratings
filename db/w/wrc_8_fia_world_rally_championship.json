@@ -2,7 +2,7 @@
   "ID": "f6dcd5bf17c0469789292d1166bf91a1",
   "Name": "WRC 8 FIA World Rally Championship",
   "ProductSlug": "wrc-8",
-  "Ranking_Rating": 632,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 639,
   "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 1193,
@@ -586,10 +586,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 135,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-04T07:58:43.6602687+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 136,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 135,
+  "NumberOfAwards": 136,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -627,7 +633,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -641,8 +647,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2024-09-01T09:58:03.6243899+00:00",
+  "LastChanged": "2024-09-04T07:58:43.6602685+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:35.4063783+00:00",
-  "LastUpdate_Ratings": "2024-09-04T05:00:27.6812113+00:00",
+  "LastUpdate_Ratings": "2024-09-04T07:58:43.6602689+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:57.586135+00:00"
 }

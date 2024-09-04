@@ -2,7 +2,7 @@
   "ID": "8518a041f3064613a354f997aac0c3cb",
   "Name": "Spiritfarer\u00AE: Farewell Edition",
   "ProductSlug": "spiritfarer",
-  "Ranking_Rating": 28,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 668,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.86,
+  "Rating": 4.87,
   "NumberOfRatings": 178,
   "RatingHistory": [
     {
@@ -451,6 +451,12 @@
       "Rating": 4.86,
       "NumberOfAwards": 128,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-04T07:58:22.2193446+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 128,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -506,8 +512,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:28.7454672+00:00",
-  "LastChanged": "2024-09-02T07:57:35.6397235+00:00",
+  "LastChanged": "2024-09-04T07:58:22.2193443+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:39.7462986+00:00",
-  "LastUpdate_Ratings": "2024-09-04T04:59:54.2413182+00:00",
+  "LastUpdate_Ratings": "2024-09-04T07:58:22.2193449+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:20.568652+00:00"
 }
