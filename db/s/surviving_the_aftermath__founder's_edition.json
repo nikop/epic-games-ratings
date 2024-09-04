@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-the-aftermath",
   "Ranking_Rating": 913,
   "Ranking_Popularity": 276,
-  "Ranking_PopularitySum": 249,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 514,
   "Ranking_EOS_NewPlayers": 50,
@@ -5812,10 +5812,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 2169,
       "NumberOfAwardsMax": 451
+    },
+    {
+      "Time": "2024-09-04T18:57:45.340001+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 2171,
+      "NumberOfAwardsMax": 451
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2169,
+  "NumberOfAwards": 2171,
   "NumberOfAwardsMax": 451,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5829,7 +5835,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 282
+      "Count": 284
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -30913,9 +30919,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-09-04T16:58:53.0164678+00:00",
+  "LastChanged": "2024-09-04T18:57:45.3400007+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:53.2017766+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:15.0166465+00:00",
-  "LastUpdate_Ratings": "2024-09-04T16:58:53.0164682+00:00",
+  "LastUpdate_Ratings": "2024-09-04T18:57:45.3400015+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:53.2019469+00:00"
 }

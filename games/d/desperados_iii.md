@@ -1,7 +1,7 @@
 # Desperados III
 [Store](https://store.epicgames.com/en-US/p/desperados-3)  
 [View Rawdata](../../db/d/desperados_iii.json)  
-Rating: 4.84 (Ranked 53)  
+Rating: 4.84 (Ranked 52)  
 Number of Ratings: 351  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,14 +56,14 @@ Completed: 4 (0.12%) (Ranked 425)
 | 2024-08-20 | 3,346 | 4 |
 ## Awards
 Max (Diverse Characters): 57  (Ranked 537)  
-Sum: 409 (Ranked 428)  
-Diff (max vs sum): 109  
+Sum: 410 (Ranked 426)  
+Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 57 |
 | This game has Amazing Storytelling | 56 |
 | This game is Relaxing | 53 |
-| This game has Amazing Characters | 47 |
+| This game has Amazing Characters | 48 |
 | This game is Extremely Fun | 46 |
 | This game is Great for Beginners | 46 |
 | This game is Highly Recommended | 44 |
@@ -236,3 +236,4 @@ Diff (max vs sum): 109
 | 2024-08-27 | 4.84 | - | 57 | 407 |
 | 2024-08-31 | 4.84 | - | 57 | 408 |
 | 2024-09-01 | 4.84 | - | 57 | 409 |
+| 2024-09-04 | 4.84 | - | 57 | 410 |
