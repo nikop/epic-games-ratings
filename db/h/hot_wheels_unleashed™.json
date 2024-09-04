@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed",
   "Ranking_Rating": 519,
   "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 431,
+  "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -807,10 +807,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 396,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-09-04T16:59:38.2188975+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 398,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 396,
+  "NumberOfAwards": 398,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -824,7 +830,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Characters",
@@ -848,7 +854,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -906,9 +912,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "FirstSeenAchievements": "2023-10-25T15:04:44.0813586+00:00",
-  "LastChanged": "2024-09-01T16:00:20.2526951+00:00",
+  "LastChanged": "2024-09-04T16:59:38.2188973+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:34.0786649+00:00",
   "LastUpdate_AppInfo": "2024-09-02T06:57:26.6809792+00:00",
-  "LastUpdate_Ratings": "2024-09-04T15:00:35.0776252+00:00",
+  "LastUpdate_Ratings": "2024-09-04T16:59:38.2188978+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:34.0786679+00:00"
 }
