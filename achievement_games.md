@@ -197,7 +197,7 @@
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | 48 (1,000 XP) | 1 | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 11 | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 106,689 | 4.85 | 3,353 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 327,838 | 4.51 | 1,195 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 327,838 | 4.51 | 1,214 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 581 | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 95 | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 78 | - | 0 |
@@ -489,7 +489,7 @@
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 41 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 64,651 | 4.85 | 0 |
 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.79 | 1,087 |
-| [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.57 | 0 |
+| [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.55 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 211 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 75 | - | - |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
@@ -565,7 +565,7 @@
 | [Tribu](games/e/e7b4e081597b4c148f26d6e8d6866efd.md) | 2023-09-29 | 14 (1,000 XP) | 0 | - | 0 |
 | [WrestleQuest](games/3/35d43f4f16d14dcfb5dc88e01a99c131.md) | 2023-09-29 | 122 (1,000 XP) | 7 | - | 0 |
 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 2023-09-29 | 30 (1,000 XP) | 29 | - | 0 |
-| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 695,128 | 4.17 | 46,648 |
+| [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 695,128 | 4.17 | 46,861 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,586 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 406,701 | 4.21 | 122 |
@@ -673,7 +673,7 @@
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 103,060 | 3.94 | 0 |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 156 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
-| [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 904,941 | 4.53 | 1,346 |
+| [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 904,941 | 4.53 | 1,348 |
 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 645,713 | 4.58 | 268 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 49 | - | 0 |
@@ -1056,7 +1056,7 @@
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 50,060 | 4.50 | 0 |
 | [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 386,429 | 4.36 | 84 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 384,125 | 4.30 | 65 |
-| [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,834 | 4.33 | 611 |
+| [Filament](games/f/filament.md) | 2022-08-11 | 29 (1,000 XP) | 217,834 | 4.33 | 613 |
 | [Project Highrise](games/p/project_highrise.md) | 2022-08-11 | 88 (1,000 XP) | 721 | - | 0 |
 | [Rise of Industry](games/r/rise_of_industry.md) | 2022-08-11 | 27 (1,000 XP) | 805,447 | 4.27 | 50 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 2022-08-11 | 34 (1,000 XP) | 245,079 | 4.44 | 310 |
@@ -1066,7 +1066,7 @@
 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 2022-07-28 | 54 (1,000 XP) | 747,093 | 4.08 | 187 |
 | [LOOPMANCER](games/l/loopmancer.md) | 2022-07-27 | 57 (1,000 XP) | 111 | - | 0 |
 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 2022-07-21 | 36 (1,000 XP) | 679 | 4.61 | 0 |
-| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 168,555 | 4.01 | 5,417 |
+| [Shop Titans](games/s/shop_titans.md) | 2022-07-21 | 112 (1,000 XP) | 168,555 | 4.01 | 5,429 |
 | [Silence](games/s/silence.md) | 2022-07-21 | 46 (1,000 XP) | 290 | - | 0 |
 | [Hazel Sky](games/h/hazel_sky.md) | 2022-07-20 | 24 (1,000 XP) | 6 | - | 0 |
 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 2022-07-19 | 28 (1,000 XP) | 807 | 4.64 | 0 |
@@ -1141,7 +1141,7 @@
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 2022-02-25 | 101 (1,000 XP) | 4,710 | 4.28 | 0 |
 | [Call of the Sea](games/c/call_of_the_sea.md) | 2022-02-17 | 34 (1,000 XP) | 159,839 | 4.40 | 0 |
 | [Session: Skate Sim](games/s/session__skate_sim.md) | 2022-02-17 | 48 (1,000 XP) | 4,706 | 4.66 | 96 |
-| [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 632,496 | 4.61 | 550 |
+| [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 2022-02-10 | 35 (1,000 XP) | 632,496 | 4.61 | 553 |
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 13,408 | 4.24 | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 192 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 789,781 | 4.82 | 8,369 |
@@ -1155,7 +1155,7 @@
 | [Unspottable](games/u/unspottable.md) | 2021-12-14 | 25 (1,000 XP) | 16 | - | 0 |
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 12,554 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,102 | - | 0 |
-| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 251 (6,045 XP) | 1,576,946 | 4.50 | 53,713 |
+| [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 251 (6,045 XP) | 1,576,946 | 4.50 | 53,804 |
 | [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 280,153 | 4.61 | 1,063 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 19 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,723 | 4.45 | 38 |
@@ -1183,7 +1183,7 @@
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 373 (5,500 XP) | 591,216 | 4.68 | 10,977 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 30,504 | 4.27 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 6,624 | 4.40 | 42 |
-| [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 132,581 | 4.54 | 38 |
+| [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 132,581 | 4.53 | 38 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 2021-09-21 | 41 (1,000 XP) | 432,911 | 4.70 | 1,412 |
 | [Severed Steel](games/s/severed_steel.md) | 2021-09-17 | 52 (1,000 XP) | 681,950 | 4.68 | 718 |
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 269,988 | 4.27 | 122 |
@@ -1195,7 +1195,7 @@
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 17,347 | 4.50 | 58 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 272 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 89,351 | 4.64 | 26 |
-| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 26,177 | 4.69 | 393 |
+| [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 26,177 | 4.69 | 394 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 184,840 | 4.60 | 108 |
 | [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 159,934 | 4.39 | 346 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 82,734 | 4.53 | 124 |
