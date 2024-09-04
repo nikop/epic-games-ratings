@@ -3,7 +3,7 @@
   "Name": "Cosmik Battle",
   "ProductSlug": "cosmik-battle-f6dbf4",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 567,
+  "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 531,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -587,18 +587,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 158,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-09-04T15:57:41.4335413+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 158,
-  "NumberOfAwardsMax": 44,
+  "NumberOfAwards": 159,
+  "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -649,8 +655,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T17:57:36.2608146+00:00",
   "FirstSeenRating": "2024-04-14T07:50:45.1717656+00:00",
-  "LastChanged": "2024-09-04T13:58:31.8797304+00:00",
+  "LastChanged": "2024-09-04T15:57:41.4335411+00:00",
   "LastUpdate_AppInfo": "2024-09-04T04:57:14.8756095+00:00",
-  "LastUpdate_Ratings": "2024-09-04T13:58:31.8797308+00:00",
+  "LastUpdate_Ratings": "2024-09-04T15:57:41.4335417+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:08.7547261+00:00"
 }
