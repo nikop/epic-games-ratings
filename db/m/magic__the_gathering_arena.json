@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 18,
   "Ranking_EOS_Progress": 1193,
@@ -26276,10 +26276,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 125572,
       "NumberOfAwardsMax": 16845
+    },
+    {
+      "Time": "2024-09-04T18:00:15.0680897+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 125713,
+      "NumberOfAwardsMax": 16845
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 125572,
+  "NumberOfAwards": 125713,
   "NumberOfAwardsMax": 16845,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -26293,13 +26299,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 13058
+      "Count": 13087
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12071
+      "Count": 12094
     },
     {
       "Text": "This game is Relaxing",
@@ -26311,7 +26317,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 11463
+      "Count": 11491
     },
     {
       "Text": "This game has Diverse Characters",
@@ -26323,13 +26329,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11047
+      "Count": 11071
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 9759
+      "Count": 9776
     },
     {
       "Text": "This game has Amazing Characters",
@@ -26347,7 +26353,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 8217
+      "Count": 8237
     }
   ],
   "EOS_Progressed": 0,
@@ -26361,8 +26367,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-09-04T16:58:06.1233964+00:00",
+  "LastChanged": "2024-09-04T18:00:15.0680895+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:18.8246284+00:00",
-  "LastUpdate_Ratings": "2024-09-04T16:58:06.123397+00:00",
+  "LastUpdate_Ratings": "2024-09-04T18:00:15.0680904+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:59.8762812+00:00"
 }

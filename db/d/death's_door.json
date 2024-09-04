@@ -2,7 +2,7 @@
   "ID": "f588333a02fe4011980472c7be02db12",
   "Name": "Death\u0027s Door",
   "ProductSlug": "deaths-door",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 712,
   "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.6,
   "NumberOfRatings": 120,
   "RatingHistory": [
     {
@@ -352,6 +352,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-04T17:58:01.0215847+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -369,8 +375,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:20.4430327+00:00",
-  "LastChanged": "2024-08-25T14:57:11.8584309+00:00",
+  "LastChanged": "2024-09-04T17:58:01.0215845+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:11:53.3208754+00:00",
-  "LastUpdate_Ratings": "2024-09-04T15:58:20.9903837+00:00",
+  "LastUpdate_Ratings": "2024-09-04T17:58:01.0215849+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:02.2964749+00:00"
 }
