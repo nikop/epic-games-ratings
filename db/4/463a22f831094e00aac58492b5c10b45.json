@@ -4,7 +4,7 @@
   "ProductSlug": "manor-lords-ef795f",
   "Ranking_Rating": 632,
   "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 509,
+  "Ranking_PopularitySum": 508,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 494,
   "Ranking_EOS_NewPlayers": 76,
@@ -756,10 +756,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 203,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-09-04T02:04:31.8556412+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 204,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 203,
+  "NumberOfAwards": 204,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -785,7 +791,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Great for Beginners",
@@ -943,9 +949,9 @@
   "FirstSeen": "2024-04-26T16:58:14.5386901+00:00",
   "FirstSeenRating": "2024-04-28T11:57:16.1750664+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:55.3815866+00:00",
-  "LastChanged": "2024-09-03T19:57:57.2765894+00:00",
+  "LastChanged": "2024-09-04T02:04:31.855641+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:26.6103569+00:00",
   "LastUpdate_AppInfo": "2024-08-31T06:57:06.0820057+00:00",
-  "LastUpdate_Ratings": "2024-09-03T22:59:47.2139523+00:00",
+  "LastUpdate_Ratings": "2024-09-04T02:04:31.8556416+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:26.6103649+00:00"
 }

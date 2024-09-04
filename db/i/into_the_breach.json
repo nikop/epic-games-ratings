@@ -4,7 +4,7 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 63,
   "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -6112,10 +6112,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4599,
       "NumberOfAwardsMax": 518
+    },
+    {
+      "Time": "2024-09-04T02:04:18.9549875+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4602,
+      "NumberOfAwardsMax": 518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4599,
+  "NumberOfAwards": 4602,
   "NumberOfAwardsMax": 518,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6147,7 +6153,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 419
+      "Count": 420
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6165,7 +6171,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 474
+      "Count": 475
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6183,7 +6189,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 398
+      "Count": 399
     },
     {
       "Text": "This game has Unique Visuals",
@@ -6209,8 +6215,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-09-03T22:59:34.3450627+00:00",
+  "LastChanged": "2024-09-04T02:04:18.9549873+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:11:58.7803344+00:00",
-  "LastUpdate_Ratings": "2024-09-03T22:59:34.3450634+00:00",
+  "LastUpdate_Ratings": "2024-09-04T02:04:18.9549879+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:31.061096+00:00"
 }

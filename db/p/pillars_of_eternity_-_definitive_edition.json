@@ -2,7 +2,7 @@
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 330,
   "Ranking_Popularity": 138,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 405,
@@ -4798,10 +4798,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 5114,
       "NumberOfAwardsMax": 2070
+    },
+    {
+      "Time": "2024-09-04T02:03:07.5555091+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5116,
+      "NumberOfAwardsMax": 2070
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5114,
+  "NumberOfAwards": 5116,
   "NumberOfAwardsMax": 2070,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4827,7 +4833,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 333
+      "Count": 335
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5727,9 +5733,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2024-09-03T20:59:13.6355729+00:00",
+  "LastChanged": "2024-09-04T02:03:07.5555089+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:36.544345+00:00",
   "LastUpdate_AppInfo": "2024-09-01T21:57:14.5250538+00:00",
-  "LastUpdate_Ratings": "2024-09-03T22:58:23.9939191+00:00",
+  "LastUpdate_Ratings": "2024-09-04T02:03:07.5555095+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:36.544377+00:00"
 }

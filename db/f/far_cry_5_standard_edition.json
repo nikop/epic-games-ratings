@@ -2,7 +2,7 @@
   "ID": "coriander",
   "Name": "Far Cry 5 Standard Edition",
   "ProductSlug": "far-cry-5",
-  "Ranking_Rating": 379,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 1193,
@@ -7795,18 +7795,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 3839,
       "NumberOfAwardsMax": 2288
+    },
+    {
+      "Time": "2024-09-04T02:04:35.9088431+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 3841,
+      "NumberOfAwardsMax": 2290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3839,
-  "NumberOfAwardsMax": 2288,
+  "NumberOfAwards": 3841,
+  "NumberOfAwardsMax": 2290,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2288
+      "Count": 2290
     },
     {
       "Text": "This game is Relaxing",
@@ -7886,8 +7892,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:47.7430658+00:00",
-  "LastChanged": "2024-09-03T22:59:51.4007595+00:00",
+  "LastChanged": "2024-09-04T02:04:35.9088426+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:46.5420298+00:00",
-  "LastUpdate_Ratings": "2024-09-03T22:59:51.4007601+00:00",
+  "LastUpdate_Ratings": "2024-09-04T02:04:35.9088436+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:36.9708479+00:00"
 }

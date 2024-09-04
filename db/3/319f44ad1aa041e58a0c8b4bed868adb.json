@@ -2,9 +2,9 @@
   "ID": "319f44ad1aa041e58a0c8b4bed868adb",
   "Name": "Need for Speed\u2122 Payback - Deluxe Edition",
   "ProductSlug": "need-for-speed-payback-fd57e4",
-  "Ranking_Rating": 448,
-  "Ranking_Popularity": 524,
-  "Ranking_PopularitySum": 609,
+  "Ranking_Rating": 473,
+  "Ranking_Popularity": 517,
+  "Ranking_PopularitySum": 606,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 514,
   "Ranking_EOS_NewPlayers": 75,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2024-05-26T21:59:48.458921+00:00",
@@ -456,18 +456,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 63,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-09-04T02:05:08.4269103+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63,
-  "NumberOfAwardsMax": 63,
+  "NumberOfAwards": 65,
+  "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 63
+      "Count": 65
     }
   ],
   "EOS_Progressed": 4431,
@@ -980,9 +986,9 @@
   "FirstSeen": "2024-03-29T08:01:15.7425433+00:00",
   "FirstSeenRating": "2024-05-26T21:59:48.4589208+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9377006+00:00",
-  "LastChanged": "2024-09-03T13:13:00.5540691+00:00",
+  "LastChanged": "2024-09-04T02:05:08.4269101+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:51.400077+00:00",
   "LastUpdate_AppInfo": "2024-08-30T04:57:27.1310754+00:00",
-  "LastUpdate_Ratings": "2024-09-03T23:00:23.9386563+00:00",
+  "LastUpdate_Ratings": "2024-09-04T02:05:08.4269106+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:51.4001163+00:00"
 }
