@@ -2,7 +2,7 @@
   "ID": "cd88d9edc5a748cfa138e467205adcac",
   "Name": "Hue",
   "ProductSlug": "hue",
-  "Ranking_Rating": 518,
+  "Ranking_Rating": 519,
   "Ranking_Popularity": 712,
   "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
@@ -518,6 +518,6 @@
   "FirstSeen": "2022-07-22T20:18:29.4748598+00:00",
   "LastChanged": "2024-09-01T10:57:06.2942164+00:00",
   "LastUpdate_AppInfo": "2024-09-01T19:57:34.0064562+00:00",
-  "LastUpdate_Ratings": "2024-09-04T11:59:40.6741832+00:00",
+  "LastUpdate_Ratings": "2024-09-04T14:58:39.3719477+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:40.6822378+00:00"
 }
