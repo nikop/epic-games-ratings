@@ -4,7 +4,7 @@
   "ProductSlug": "phantom-blade-executioners-918ac0",
   "Ranking_Rating": 1214,
   "Ranking_Popularity": 624,
-  "Ranking_PopularitySum": 660,
+  "Ranking_PopularitySum": 621,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -785,10 +785,16 @@
       "Rating": 3.98,
       "NumberOfAwards": 32,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-09-04T03:58:32.1395701+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32,
+  "NumberOfAwards": 52,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -803,6 +809,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 26
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -817,8 +829,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-13T13:14:49.9131564+00:00",
   "FirstSeenRating": "2023-11-21T03:58:33.7584778+00:00",
-  "LastChanged": "2024-09-03T02:58:55.5190995+00:00",
+  "LastChanged": "2024-09-04T03:58:32.1395699+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:24.6409915+00:00",
-  "LastUpdate_Ratings": "2024-09-04T02:05:18.9020558+00:00",
+  "LastUpdate_Ratings": "2024-09-04T03:58:32.1395703+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:05.1992198+00:00"
 }
