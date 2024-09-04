@@ -9,7 +9,7 @@
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 11 | - | 0 |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 7 | - | - |
 | [Daylife in Japan - Pixel Art Jigsaw Puzzle](games/4/41e056766e214f898060922b94481457.md) | 2024-07-25 | 12 (1,000 XP) | 19 | - | 0 |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 79,402 | 4.76 | 37 |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 79,402 | 4.77 | 37 |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | 24 (1,000 XP) | 4 | - | - |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2099-01-01 | 15 (1,000 XP) | 0 | - | - |
 | [Juna - The Dreamwalker](games/e/e424e1d51e114ae8b6d685c943043cd7.md) | 2024-08-31 | 28 (1,000 XP) | 1 | - | - |
@@ -237,7 +237,7 @@
 | [Turbo Sloths](games/1/1e88d9727b3c46339da2d81de81590c2.md) | 2024-03-31 | 30 (1,000 XP) | 18 | - | 0 |
 | [DEMON'S TILT](games/d/demon's_tilt.md) | 2021-05-10 | 29 (1,000 XP) | 15,131 | 4.55 | 30 |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 1 | - | 0 |
-| [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,897 | 4.67 | 0 |
+| [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,897 | 4.61 | 0 |
 | [Evil Tonight](games/e/ea17712b1bd24b64a7b7ff60b8c936b0.md) | 2099-01-01 | 8 (1,000 XP) | 0 | - | - |
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 21 | - | 0 |
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 1,977 | 4.53 | 0 |
@@ -557,7 +557,7 @@
 | [Outbreak Contagious Memories](games/c/c5ca2bb23eed43d29d7e4cbc164513a4.md) | 2023-08-16 | 25 (1,000 XP) | 25 | - | 0 |
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-27 | 78 (1,200 XP) | 463,549 | 4.81 | 1,392 |
-| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.71 | 24 |
+| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.70 | 24 |
 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 2023-10-26 | 34 (1,000 XP) | 19,807 | 4.70 | 108 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 688 | 4.74 | 0 |
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | 5 (1,000 XP) | 0 | - | - |

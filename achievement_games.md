@@ -128,7 +128,7 @@
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | 27 (1,000 XP) | 0 | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | 15 (1,000 XP) | 0 | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | 30 (1,000 XP) | 5 | - | - |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 79,402 | 4.76 | 37 |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 79,402 | 4.77 | 37 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | 5 (1,000 XP) | 0 | - | - |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | 21 (1,000 XP) | 5 | - | - |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 18 | - | - |
@@ -282,7 +282,7 @@
 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,422 | 4.27 | 0 |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.54 | 32 |
 | [Battlefield™ Hardline Ultimate Edition](games/d/d0328a2bc8e04364b1fff1253a986174.md) | 2024-03-28 | 62 (2,000 XP) | 1,977 | 4.53 | 0 |
-| [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,897 | 4.67 | 0 |
+| [Need For Speed: Hot Pursuit Remastered](games/1/1b5b9d7b995d437c9933b053d2ba41f2.md) | 2024-03-28 | 66 (1,000 XP) | 1,897 | 4.61 | 0 |
 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 8,127 | 4.41 | 0 |
 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 2024-03-28 | 42 (1,000 XP) | 28,742 | 4.63 | 43 |
 | [Need for Speed™ Payback - Deluxe Edition](games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 2024-03-28 | 57 (1,250 XP) | 4,431 | 4.60 | 65 |
@@ -460,7 +460,7 @@
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 2023-11-23 | 18 (1,000 XP) | 83 | - | 0 |
 | [Magnetism](games/1/1f5c217a910f4c00aaee91c20b34bb46.md) | 2023-11-23 | 9 (1,000 XP) | 1 | - | - |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 2023-11-22 | 43 (1,000 XP) | 70 | - | 0 |
-| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.71 | 24 |
+| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.70 | 24 |
 | [Worldless](games/c/c0a02ff2b624425c8111868dec76ac7b.md) | 2023-11-21 | 24 (1,000 XP) | 221 | - | 0 |
 | [Aron's Adventure: Magic Reborn](games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 2023-11-20 | 31 (1,000 XP) | 241 | - | 0 |
 | [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | 2023-11-18 | 27 (1,000 XP) | 2,588 | - | 0 |
