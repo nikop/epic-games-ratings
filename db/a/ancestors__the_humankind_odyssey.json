@@ -4,7 +4,7 @@
   "ProductSlug": "ancestors",
   "Ranking_Rating": 539,
   "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -838,10 +838,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-09-04T03:00:16.04798+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 268,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 267,
+  "NumberOfAwards": 268,
   "NumberOfAwardsMax": 48,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -867,7 +873,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 39
+      "Count": 40
     },
     {
       "Text": "This game has Amazing Characters",
@@ -911,8 +917,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:27.180823+00:00",
-  "LastChanged": "2024-09-02T08:57:36.5456102+00:00",
+  "LastChanged": "2024-09-04T03:00:16.0479798+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:26.9593654+00:00",
-  "LastUpdate_Ratings": "2024-09-03T23:58:51.7165296+00:00",
+  "LastUpdate_Ratings": "2024-09-04T03:00:16.0479804+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:45.6009515+00:00"
 }

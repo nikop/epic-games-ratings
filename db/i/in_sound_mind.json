@@ -1079,10 +1079,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 370,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-09-04T03:00:31.0446244+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 371,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 370,
+  "NumberOfAwards": 371,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1120,7 +1126,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1152,8 +1158,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2024-09-03T21:59:44.8964134+00:00",
+  "LastChanged": "2024-09-04T03:00:31.0446243+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:30.5193471+00:00",
-  "LastUpdate_Ratings": "2024-09-03T23:59:01.232159+00:00",
+  "LastUpdate_Ratings": "2024-09-04T03:00:31.0446248+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:59.0261342+00:00"
 }
