@@ -2,7 +2,7 @@
   "ID": "begonia",
   "Name": "The Walking Dead: A New Frontier",
   "ProductSlug": "walking-dead-a-new-frontier",
-  "Ranking_Rating": 99,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.81,
   "NumberOfRatings": 27,
   "RatingHistory": [
     {
@@ -198,6 +198,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-05T09:57:44.2591914+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -216,8 +222,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:08.3729258+00:00",
   "FirstSeenRating": "2022-08-09T06:30:26.3767839+00:00",
-  "LastChanged": "2024-08-30T10:59:47.1151361+00:00",
+  "LastChanged": "2024-09-05T09:57:44.2591912+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:07.5565847+00:00",
-  "LastUpdate_Ratings": "2024-09-05T07:58:33.9809572+00:00",
+  "LastUpdate_Ratings": "2024-09-05T09:57:44.2591917+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:38.6219964+00:00"
 }
