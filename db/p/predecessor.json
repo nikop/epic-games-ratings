@@ -2,8 +2,8 @@
   "ID": "85f0435aa88347d185dbcb147716609b",
   "Name": "Predecessor",
   "ProductSlug": "predecessor",
-  "Ranking_Rating": 1044,
-  "Ranking_Popularity": 217,
+  "Ranking_Rating": 1045,
+  "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -10558,11 +10558,17 @@
       "Rating": 4.26,
       "NumberOfAwards": 4392,
       "NumberOfAwardsMax": 845
+    },
+    {
+      "Time": "2024-09-05T15:57:30.1395617+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 4408,
+      "NumberOfAwardsMax": 848
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4392,
-  "NumberOfAwardsMax": 845,
+  "NumberOfAwards": 4408,
+  "NumberOfAwardsMax": 848,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10575,19 +10581,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 845
+      "Count": 848
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 523
+      "Count": 526
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 562
+      "Count": 570
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10599,7 +10605,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 519
+      "Count": 521
     },
     {
       "Text": "This game has Competitive Players",
@@ -10638,8 +10644,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-01T08:57:03.8695537+00:00",
   "FirstSeenRating": "2022-12-02T07:57:13.3206902+00:00",
-  "LastChanged": "2024-09-04T17:58:41.7092591+00:00",
+  "LastChanged": "2024-09-05T15:57:30.1395615+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:47.5448532+00:00",
-  "LastUpdate_Ratings": "2024-09-05T13:58:33.8770066+00:00",
+  "LastUpdate_Ratings": "2024-09-05T15:57:30.139562+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.5267563+00:00"
 }
