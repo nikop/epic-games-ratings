@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | - |  | - | - |
+| [Sniper Ghost Warrior Contracts 2](games/1/1169554e6b18447280cf8e2af785d936.md) | 2024-09-05 | - |  | - | - |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-05 | - |  | - | - |
 | [Son and Bone](games/f/f0bf0742b7fd44398d2c920e613b9e05.md) | 2024-09-04 | - |  | - | 0 |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | - |  | - | 0 |
@@ -109,4 +111,3 @@
 | [Space Fishing](games/3/3df23be2365443668cc6ebedfe11476f.md) | 2024-08-06 | - |  | - | - |
 | [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 47,946 | 4.20 | 35 |
 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2024-08-06 | 38 (1,045 XP) | 3,464 | 4.24 | 0 |
-| [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-08-06 | - |  | - | - |
