@@ -2,7 +2,7 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 865,
   "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 6169,
   "RatingHistory": [
     {
@@ -3365,6 +3365,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 3337,
       "NumberOfAwardsMax": 2370
+    },
+    {
+      "Time": "2024-09-05T03:59:11.0205503+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3337,
+      "NumberOfAwardsMax": 2370
     }
   ],
   "ReviewsDisabled": false,
@@ -3456,8 +3462,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2024-09-04T03:00:09.1040918+00:00",
+  "LastChanged": "2024-09-05T03:59:11.02055+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:15.2601278+00:00",
-  "LastUpdate_Ratings": "2024-09-05T02:07:54.3276066+00:00",
+  "LastUpdate_Ratings": "2024-09-05T03:59:11.0205506+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:16.4495203+00:00"
 }
