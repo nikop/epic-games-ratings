@@ -2,7 +2,7 @@
   "ID": "1368a7f14c3344bbaededbae528fafed",
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
-  "Ranking_Rating": 53,
+  "Ranking_Rating": 52,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 1193,
@@ -8024,10 +8024,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4100,
       "NumberOfAwardsMax": 525
+    },
+    {
+      "Time": "2024-09-05T14:58:07.7473857+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4104,
+      "NumberOfAwardsMax": 525
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4100,
+  "NumberOfAwards": 4104,
   "NumberOfAwardsMax": 525,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8065,7 +8071,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 375
+      "Count": 379
     },
     {
       "Text": "This game is Relaxing",
@@ -8115,8 +8121,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-09-05T11:00:13.4314111+00:00",
+  "LastChanged": "2024-09-05T14:58:07.7473855+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:14.1651906+00:00",
-  "LastUpdate_Ratings": "2024-09-05T13:13:50.1738492+00:00",
+  "LastUpdate_Ratings": "2024-09-05T14:58:07.7473864+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:12.375664+00:00"
 }

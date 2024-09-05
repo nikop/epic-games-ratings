@@ -3,7 +3,7 @@
   "Name": "Sable",
   "ProductSlug": "sable",
   "Ranking_Rating": 633,
-  "Ranking_Popularity": 590,
+  "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
@@ -1041,11 +1041,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 269,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-09-05T14:59:50.2700764+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 270,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 269,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 270,
+  "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1058,7 +1064,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Highly Recommended",
@@ -34097,9 +34103,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-09-04T20:59:20.9225889+00:00",
+  "LastChanged": "2024-09-05T14:59:50.2700762+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:48.6031535+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:11:54.7860668+00:00",
-  "LastUpdate_Ratings": "2024-09-05T13:57:42.2678677+00:00",
+  "LastUpdate_Ratings": "2024-09-05T14:59:50.2700772+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:48.6032991+00:00"
 }

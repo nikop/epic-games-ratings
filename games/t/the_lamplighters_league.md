@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/the_lamplighters_league.json)  
 Rating: 4.43 (Ranked 827)  
 ## Awards
-Max (Character Customization): 20  (Ranked 702)  
-Sum: 20 (Ranked 702)  
+Max (Character Customization): 20  (Ranked 701)  
+Sum: 20 (Ranked 701)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

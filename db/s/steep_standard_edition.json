@@ -3,7 +3,7 @@
   "Name": "Steep Standard Edition",
   "ProductSlug": "steep",
   "Ranking_Rating": 225,
-  "Ranking_Popularity": 619,
+  "Ranking_Popularity": 618,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -1101,10 +1101,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 240,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-05T14:58:12.3067438+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 240,
+  "NumberOfAwards": 241,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1142,7 +1148,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1180,8 +1186,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
-  "LastChanged": "2024-08-20T02:57:52.0951174+00:00",
+  "LastChanged": "2024-09-05T14:58:12.3067436+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:46.8267419+00:00",
-  "LastUpdate_Ratings": "2024-09-05T13:13:55.115988+00:00",
+  "LastUpdate_Ratings": "2024-09-05T14:58:12.3067442+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:56.9981982+00:00"
 }

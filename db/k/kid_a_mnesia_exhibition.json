@@ -2,9 +2,9 @@
   "ID": "72eb87039aa74e82a4b873c276de61e3",
   "Name": "KID A MNESIA EXHIBITION",
   "ProductSlug": "kid-a-mnesia-exhibition",
-  "Ranking_Rating": 74,
-  "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 713,
+  "Ranking_Rating": 63,
+  "Ranking_Popularity": 712,
+  "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "NumberOfRatings": 41,
   "RatingHistory": [
     {
@@ -230,6 +230,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-05T14:57:28.2225072+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -247,8 +253,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:23.6056304+00:00",
-  "LastChanged": "2024-08-05T13:12:40.8470002+00:00",
+  "LastChanged": "2024-09-05T14:57:28.222507+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:14.8619308+00:00",
-  "LastUpdate_Ratings": "2024-09-05T13:13:05.4020672+00:00",
+  "LastUpdate_Ratings": "2024-09-05T14:57:28.2225076+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:13.5902118+00:00"
 }
