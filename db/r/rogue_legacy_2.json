@@ -2,7 +2,7 @@
   "ID": "4966d5da285c4f2c876937844b0e23ee",
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
-  "Ranking_Rating": 52,
+  "Ranking_Rating": 53,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 269,
   "Ranking_EOS_Progress": 187,
@@ -2248,10 +2248,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 1856,
       "NumberOfAwardsMax": 240
+    },
+    {
+      "Time": "2024-09-05T22:59:19.7599415+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 1857,
+      "NumberOfAwardsMax": 240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1856,
+  "NumberOfAwards": 1857,
   "NumberOfAwardsMax": 240,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2295,7 +2301,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15935,9 +15941,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-09-03T14:59:53.3786853+00:00",
+  "LastChanged": "2024-09-05T22:59:19.7599414+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:43.4780559+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:16.8935734+00:00",
-  "LastUpdate_Ratings": "2024-09-05T20:59:59.1256278+00:00",
+  "LastUpdate_Ratings": "2024-09-05T22:59:19.7599422+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:43.4781438+00:00"
 }
