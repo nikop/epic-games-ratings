@@ -3,8 +3,8 @@
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
   "Ranking_Rating": 1101,
-  "Ranking_Popularity": 635,
-  "Ranking_PopularitySum": 530,
+  "Ranking_Popularity": 611,
+  "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 4,
@@ -522,18 +522,24 @@
       "Rating": 4.2,
       "NumberOfAwards": 163,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-09-05T14:00:44.4425193+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 163,
-  "NumberOfAwardsMax": 30,
-  "MaxAwardTitle": "Challenging Combat",
+  "NumberOfAwards": 169,
+  "NumberOfAwardsMax": 35,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 29
+      "Count": 35
     },
     {
       "Text": "This game is Hard for Beginners",
@@ -712,9 +718,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-09-05T08:58:45.0413789+00:00",
+  "LastChanged": "2024-09-05T14:00:44.4425191+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.8121394+00:00",
   "LastUpdate_AppInfo": "2024-09-02T21:57:05.2778555+00:00",
-  "LastUpdate_Ratings": "2024-09-05T13:12:10.8244986+00:00",
+  "LastUpdate_Ratings": "2024-09-05T14:00:44.4425198+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.8121467+00:00"
 }

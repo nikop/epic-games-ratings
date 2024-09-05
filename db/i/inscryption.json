@@ -1166,18 +1166,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 609,
       "NumberOfAwardsMax": 403
+    },
+    {
+      "Time": "2024-09-05T14:00:05.8825455+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 404
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 609,
-  "NumberOfAwardsMax": 403,
+  "NumberOfAwards": 610,
+  "NumberOfAwardsMax": 404,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 403
+      "Count": 404
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1251,8 +1257,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:28.221027+00:00",
-  "LastChanged": "2024-09-03T16:57:26.5858117+00:00",
+  "LastChanged": "2024-09-05T14:00:05.8825453+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:09.3798734+00:00",
-  "LastUpdate_Ratings": "2024-09-05T12:01:15.2089651+00:00",
+  "LastUpdate_Ratings": "2024-09-05T14:00:05.8825459+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:37.0288643+00:00"
 }

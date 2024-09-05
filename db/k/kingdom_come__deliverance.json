@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 226,
+  "Ranking_Rating": 225,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 26,
@@ -16075,10 +16075,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 32481,
       "NumberOfAwardsMax": 8962
+    },
+    {
+      "Time": "2024-09-05T13:59:09.8343421+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 32501,
+      "NumberOfAwardsMax": 8962
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32481,
+  "NumberOfAwards": 32501,
   "NumberOfAwardsMax": 8962,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -16092,7 +16098,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6412
+      "Count": 6421
     },
     {
       "Text": "This game is Highly Recommended",
@@ -16110,7 +16116,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2049
+      "Count": 2053
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16134,13 +16140,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1926
+      "Count": 1930
     },
     {
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1916
+      "Count": 1919
     },
     {
       "Text": "This game is Relaxing",
@@ -48818,9 +48824,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-09-04T19:58:23.163529+00:00",
+  "LastChanged": "2024-09-05T13:59:09.8343417+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:55.1200291+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:59.2503161+00:00",
-  "LastUpdate_Ratings": "2024-09-05T12:00:16.5346309+00:00",
+  "LastUpdate_Ratings": "2024-09-05T13:59:09.8343425+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:55.1202119+00:00"
 }
