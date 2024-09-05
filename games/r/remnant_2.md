@@ -1,7 +1,7 @@
 # Remnant II®
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.70 (Ranked 243)  
+Rating: 4.70 (Ranked 244)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -271,7 +271,7 @@ Completed: 2,158 (0.51%) (Ranked 325)
 | 2024-08-20 | 421,008 | 2,158 |
 ## Awards
 Max (Great Boss Battles): 10,459  (Ranked 57)  
-Sum: 27,815 (Ranked 63)  
+Sum: 27,818 (Ranked 63)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): -6
 | This game has Amazing Storytelling | 1,787 |
 | This game is Relaxing | 1,747 |
 | This game has Amazing Characters | 1,708 |
-| This game has Unique Visuals | 1,592 |
+| This game has Unique Visuals | 1,595 |
 | This game has a Creative Community | 1,257 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -696,4 +696,4 @@ Diff (max vs sum): -6
 | 2024-09-02 | 4.70 | 10,447 | 27,772 |
 | 2024-09-03 | 4.70 | 10,450 | 27,785 |
 | 2024-09-04 | 4.70 | 10,450 | 27,806 |
-| 2024-09-05 | 4.70 | 10,459 | 27,815 |
+| 2024-09-05 | 4.70 | 10,459 | 27,818 |
