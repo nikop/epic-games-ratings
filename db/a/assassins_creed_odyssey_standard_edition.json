@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 161,
   "Ranking_Popularity": 64,
-  "Ranking_PopularitySum": 68,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21114,18 +21114,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 25875,
       "NumberOfAwardsMax": 9156
+    },
+    {
+      "Time": "2024-09-05T21:57:55.5476483+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 25888,
+      "NumberOfAwardsMax": 9169
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25875,
-  "NumberOfAwardsMax": 9156,
+  "NumberOfAwards": 25888,
+  "NumberOfAwardsMax": 9169,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 9156
+      "Count": 9169
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -21217,8 +21223,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-09-05T19:58:18.3897671+00:00",
+  "LastChanged": "2024-09-05T21:57:55.5476481+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:15.8804251+00:00",
-  "LastUpdate_Ratings": "2024-09-05T19:58:18.3897676+00:00",
+  "LastUpdate_Ratings": "2024-09-05T21:57:55.5476486+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:13.4315602+00:00"
 }
