@@ -8933,10 +8933,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 6302,
       "NumberOfAwardsMax": 1060
+    },
+    {
+      "Time": "2024-09-05T05:59:32.991871+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6303,
+      "NumberOfAwardsMax": 1060
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6302,
+  "NumberOfAwards": 6303,
   "NumberOfAwardsMax": 1060,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -8944,7 +8950,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 895
+      "Count": 896
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9000,8 +9006,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2024-09-04T16:59:33.6514529+00:00",
+  "LastChanged": "2024-09-05T05:59:32.9918708+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:13.3162094+00:00",
-  "LastUpdate_Ratings": "2024-09-05T03:59:51.7760001+00:00",
+  "LastUpdate_Ratings": "2024-09-05T05:59:32.9918713+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:19.6005647+00:00"
 }
