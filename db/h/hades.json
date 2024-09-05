@@ -2,7 +2,7 @@
   "ID": "min",
   "Name": "Hades",
   "ProductSlug": "hades",
-  "Ranking_Rating": 5,
+  "Ranking_Rating": 4,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 30,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.92,
   "NumberOfRatings": 6336,
   "RatingHistory": [
     {
@@ -10710,6 +10710,12 @@
     {
       "Time": "2024-09-05T11:00:01.7683245+00:00",
       "Rating": 4.91,
+      "NumberOfAwards": 10440,
+      "NumberOfAwardsMax": 4250
+    },
+    {
+      "Time": "2024-09-05T17:59:03.38011+00:00",
+      "Rating": 4.92,
       "NumberOfAwards": 10440,
       "NumberOfAwardsMax": 4250
     }
@@ -42318,9 +42324,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-09-05T11:00:01.7683243+00:00",
+  "LastChanged": "2024-09-05T17:59:03.3801098+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:47.5026506+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:35.003405+00:00",
-  "LastUpdate_Ratings": "2024-09-05T16:01:27.6202202+00:00",
+  "LastUpdate_Ratings": "2024-09-05T17:59:03.3801104+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:47.5027977+00:00"
 }

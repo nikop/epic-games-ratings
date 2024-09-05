@@ -1,11 +1,11 @@
 # Mafia III: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-iii-definitive-edition)  
 [View Rawdata](../../db/m/mafia_iii__definitive_edition.json)  
-Rating: 4.18 (Ranked 1,121)  
+Rating: 4.18 (Ranked 1,122)  
 Number of Ratings: 1,289  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 85  (Ranked 486)  
-Sum: 546 (Ranked 400)  
+Sum: 547 (Ranked 400)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 86
 | This game is Extremely Fun | 68 |
 | This game has Diverse Characters | 67 |
 | This game is Great for Beginners | 66 |
-| This game has Quickly Understood Controls | 63 |
+| This game has Quickly Understood Controls | 64 |
 | This game is Highly Recommended | 52 |
 | This game has Obsessive Gameplay | 30 |
 | This game has Realistic Visuals | 22 |
@@ -203,4 +203,4 @@ Diff (max vs sum): 86
 | 2024-08-31 | 4.18 | - | 85 | 540 |
 | 2024-09-03 | 4.18 | - | 85 | 543 |
 | 2024-09-04 | 4.18 | - | 85 | 545 |
-| 2024-09-05 | 4.18 | - | 85 | 546 |
+| 2024-09-05 | 4.18 | - | 85 | 547 |

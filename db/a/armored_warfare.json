@@ -4,7 +4,7 @@
   "ProductSlug": "armored-warfare",
   "Ranking_Rating": 1208,
   "Ranking_Popularity": 402,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3201,10 +3201,16 @@
       "Rating": 4,
       "NumberOfAwards": 926,
       "NumberOfAwardsMax": 147
+    },
+    {
+      "Time": "2024-09-05T17:58:52.952571+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 927,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 926,
+  "NumberOfAwards": 927,
   "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3242,7 +3248,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3280,8 +3286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2024-09-02T08:57:48.2571973+00:00",
+  "LastChanged": "2024-09-05T17:58:52.9525708+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:18.4368414+00:00",
-  "LastUpdate_Ratings": "2024-09-05T16:01:11.9406438+00:00",
+  "LastUpdate_Ratings": "2024-09-05T17:58:52.9525714+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:09.1742496+00:00"
 }
