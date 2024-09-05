@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 633,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 57,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.53,
   "NumberOfRatings": 1003,
   "RatingHistory": [
     {
@@ -885,6 +885,12 @@
     {
       "Time": "2024-09-02T02:04:27.985666+00:00",
       "Rating": 4.52,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 253
+    },
+    {
+      "Time": "2024-09-05T02:06:58.6134471+00:00",
+      "Rating": 4.53,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 253
     }
@@ -30719,9 +30725,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2024-09-02T02:04:27.9856658+00:00",
+  "LastChanged": "2024-09-05T02:06:58.6134469+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:31.4719885+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:20.5173518+00:00",
-  "LastUpdate_Ratings": "2024-09-04T23:57:27.2130301+00:00",
+  "LastUpdate_Ratings": "2024-09-05T02:06:58.6134474+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:31.472159+00:00"
 }

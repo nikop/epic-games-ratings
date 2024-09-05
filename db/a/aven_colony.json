@@ -2,7 +2,7 @@
   "ID": "31bd7140ab344cd59a770e14b2afbcea",
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
-  "Ranking_Rating": 1102,
+  "Ranking_Rating": 1101,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 1193,
@@ -2017,10 +2017,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 815,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2024-09-05T02:04:22.1978969+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 816,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 815,
+  "NumberOfAwards": 816,
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2052,7 +2058,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 109
+      "Count": 110
     },
     {
       "Text": "This game is Relaxing",
@@ -2090,8 +2096,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-09-03T10:59:11.5816114+00:00",
+  "LastChanged": "2024-09-05T02:04:22.1978967+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:47.7243209+00:00",
-  "LastUpdate_Ratings": "2024-09-04T22:58:45.2157582+00:00",
+  "LastUpdate_Ratings": "2024-09-05T02:04:22.1978971+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:12.1544085+00:00"
 }
