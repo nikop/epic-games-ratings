@@ -2,7 +2,7 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_Rating": 1063,
+  "Ranking_Rating": 1079,
   "Ranking_Popularity": 479,
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 53,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2024-04-06T03:58:46.1197859+00:00",
@@ -1499,10 +1499,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 438,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-09-05T19:57:12.5248819+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 439,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 438,
+  "NumberOfAwards": 439,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1528,7 +1534,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2758,9 +2764,9 @@
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenRating": "2024-04-06T03:58:46.1197856+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged": "2024-09-05T02:07:10.8767359+00:00",
+  "LastChanged": "2024-09-05T19:57:12.5248818+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:37.5911113+00:00",
   "LastUpdate_AppInfo": "2024-09-05T13:12:00.5988871+00:00",
-  "LastUpdate_Ratings": "2024-09-05T17:58:07.8606643+00:00",
+  "LastUpdate_Ratings": "2024-09-05T19:57:12.5248823+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.5911329+00:00"
 }

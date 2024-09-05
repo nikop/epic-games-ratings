@@ -5756,10 +5756,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 12261,
       "NumberOfAwardsMax": 1549
+    },
+    {
+      "Time": "2024-09-05T19:58:21.0562007+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 12262,
+      "NumberOfAwardsMax": 1549
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12261,
+  "NumberOfAwards": 12262,
   "NumberOfAwardsMax": 1549,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -5803,7 +5809,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1465
+      "Count": 1466
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -36182,9 +36188,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-09-05T16:57:19.2141275+00:00",
+  "LastChanged": "2024-09-05T19:58:21.0562005+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:57.9087335+00:00",
   "LastUpdate_AppInfo": "2024-09-02T05:57:02.6558439+00:00",
-  "LastUpdate_Ratings": "2024-09-05T17:59:15.6708757+00:00",
+  "LastUpdate_Ratings": "2024-09-05T19:58:21.0562012+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:57.9090503+00:00"
 }
