@@ -1,7 +1,7 @@
 # Far Cry
 [Store](https://store.epicgames.com/en-US/p/far-cry)  
 [View Rawdata](../../db/f/far_cry.json)  
-Rating: 4.49 (Ranked 714)  
+Rating: 4.49 (Ranked 713)  
 Number of Ratings: 46  (23.09.2022)  
 ## Awards
 | Award | Count |
