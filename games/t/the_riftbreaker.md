@@ -1,16 +1,16 @@
 # The Riftbreaker
 [Store](https://store.epicgames.com/en-US/p/the-riftbreaker)  
 [View Rawdata](../../db/t/the_riftbreaker.json)  
-Rating: 4.76 (Ranked 149)  
+Rating: 4.76 (Ranked 148)  
 Number of Ratings: 277  (23.09.2022)  
 ## Awards
 Max (Character Customization): 269  (Ranked 326)  
-Sum: 730 (Ranked 367)  
+Sum: 731 (Ranked 367)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 269 |
-| This game is Great for Beginners | 92 |
+| This game is Great for Beginners | 93 |
 | This game is Highly Recommended | 64 |
 | This game has Amazing Storytelling | 60 |
 | This game is Relaxing | 59 |
@@ -271,4 +271,4 @@ Diff (max vs sum): -41
 | 2024-08-30 | 4.76 | - | 268 | 726 |
 | 2024-08-31 | 4.76 | - | 268 | 727 |
 | 2024-09-04 | 4.76 | - | 268 | 729 |
-| 2024-09-05 | 4.76 | - | 269 | 730 |
+| 2024-09-05 | 4.76 | - | 269 | 731 |

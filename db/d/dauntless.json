@@ -2,7 +2,7 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 1193,
@@ -21639,10 +21639,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 89562,
       "NumberOfAwardsMax": 31714
+    },
+    {
+      "Time": "2024-09-05T20:57:57.0305384+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 89587,
+      "NumberOfAwardsMax": 31714
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 89562,
+  "NumberOfAwards": 89587,
   "NumberOfAwardsMax": 31714,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21656,7 +21662,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22260
+      "Count": 22278
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -21668,7 +21674,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4932
+      "Count": 4934
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -21686,7 +21692,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5011
+      "Count": 5016
     },
     {
       "Text": "This game is Great for Beginners",
@@ -21724,8 +21730,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-09-05T15:58:02.6407193+00:00",
+  "LastChanged": "2024-09-05T20:57:57.030537+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:59.0128843+00:00",
-  "LastUpdate_Ratings": "2024-09-05T18:58:49.5507608+00:00",
+  "LastUpdate_Ratings": "2024-09-05T20:57:57.0305389+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.6290985+00:00"
 }

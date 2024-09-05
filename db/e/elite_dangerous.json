@@ -4,7 +4,7 @@
   "ProductSlug": "elite-dangerous",
   "Ranking_Rating": 425,
   "Ranking_Popularity": 122,
-  "Ranking_PopularitySum": 97,
+  "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -10667,10 +10667,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 14480,
       "NumberOfAwardsMax": 2600
+    },
+    {
+      "Time": "2024-09-05T20:58:00.6178747+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14485,
+      "NumberOfAwardsMax": 2600
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14480,
+  "NumberOfAwards": 14485,
   "NumberOfAwardsMax": 2600,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -10696,7 +10702,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2404
+      "Count": 2406
     },
     {
       "Text": "This game is Highly Recommended",
@@ -10714,7 +10720,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2167
+      "Count": 2170
     }
   ],
   "EOS_Progressed": 0,
@@ -10728,8 +10734,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-09-05T08:57:46.468966+00:00",
+  "LastChanged": "2024-09-05T20:58:00.6178745+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:00.593155+00:00",
-  "LastUpdate_Ratings": "2024-09-05T18:58:53.3848185+00:00",
+  "LastUpdate_Ratings": "2024-09-05T20:58:00.6178753+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:09.2467767+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "f774d8b9a9324124892868e7b5c71169",
   "Name": "The Riftbreaker",
   "ProductSlug": "the-riftbreaker",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 1193,
@@ -2069,10 +2069,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 730,
       "NumberOfAwardsMax": 269
+    },
+    {
+      "Time": "2024-09-05T20:57:14.6382275+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 731,
+      "NumberOfAwardsMax": 269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 730,
+  "NumberOfAwards": 731,
   "NumberOfAwardsMax": 269,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2080,7 +2086,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2142,8 +2148,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-09-05T06:57:50.9085103+00:00",
+  "LastChanged": "2024-09-05T20:57:14.6382273+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:39.0080974+00:00",
-  "LastUpdate_Ratings": "2024-09-05T18:58:01.3360132+00:00",
+  "LastUpdate_Ratings": "2024-09-05T20:57:14.6382278+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:44.5531276+00:00"
 }

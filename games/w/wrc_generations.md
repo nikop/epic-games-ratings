@@ -3,12 +3,12 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.45 (Ranked 782)  
 ## Awards
-Max (Realistic Visuals): 30  (Ranked 636)  
-Sum: 192 (Ranked 519)  
-Diff (max vs sum): 117  
+Max (Realistic Visuals): 31  (Ranked 632)  
+Sum: 193 (Ranked 519)  
+Diff (max vs sum): 113  
 | Award | Count |
 | ----- | ----- |
-| This game has Realistic Visuals | 30 |
+| This game has Realistic Visuals | 31 |
 | This game has Diverse Characters | 30 |
 | This game is Great for Beginners | 29 |
 | This game is Highly Recommended | 21 |
@@ -130,4 +130,4 @@ Diff (max vs sum): 117
 | 2024-08-28 | 4.44 | 30 | 171 |
 | 2024-09-03 | 4.44 | 30 | 172 |
 | 2024-09-04 | 4.44 | 30 | 192 |
-| 2024-09-05 | 4.45 | 30 | 192 |
+| 2024-09-05 | 4.45 | 31 | 193 |
