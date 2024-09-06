@@ -3,7 +3,7 @@
   "Name": "Phantasy Star Online 2 New Genesis",
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 610,
-  "Ranking_Popularity": 180,
+  "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -8262,18 +8262,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 5221,
       "NumberOfAwardsMax": 1173
+    },
+    {
+      "Time": "2024-09-06T02:04:15.8872903+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 5225,
+      "NumberOfAwardsMax": 1175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5221,
-  "NumberOfAwardsMax": 1173,
+  "NumberOfAwards": 5225,
+  "NumberOfAwardsMax": 1175,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1173
+      "Count": 1175
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8285,7 +8291,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 356
+      "Count": 357
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8309,7 +8315,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 347
+      "Count": 348
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8353,8 +8359,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-09-05T02:06:59.583603+00:00",
+  "LastChanged": "2024-09-06T02:04:15.8872901+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:20.7579239+00:00",
-  "LastUpdate_Ratings": "2024-09-05T22:58:36.6654947+00:00",
+  "LastUpdate_Ratings": "2024-09-06T02:04:15.887291+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:17.1532533+00:00"
 }

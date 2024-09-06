@@ -4,7 +4,7 @@
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 64,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 154,
+  "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 58,
@@ -12239,10 +12239,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 6969,
       "NumberOfAwardsMax": 889
+    },
+    {
+      "Time": "2024-09-06T02:06:27.7422913+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 6970,
+      "NumberOfAwardsMax": 889
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6969,
+  "NumberOfAwards": 6970,
   "NumberOfAwardsMax": 889,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12256,7 +12262,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 620
+      "Count": 621
     },
     {
       "Text": "This game is Extremely Fun",
@@ -43888,9 +43894,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-09-05T23:00:09.2570364+00:00",
+  "LastChanged": "2024-09-06T02:06:27.7422911+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:06.5135637+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:51.6814262+00:00",
-  "LastUpdate_Ratings": "2024-09-05T23:00:09.257037+00:00",
+  "LastUpdate_Ratings": "2024-09-06T02:06:27.7422916+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:06.5137187+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "9f101e25b1a9427a9e6971d2b21c5f82",
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
-  "Ranking_Rating": 1023,
-  "Ranking_Popularity": 552,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Rating": 1031,
+  "Ranking_Popularity": 549,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 65,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.27,
   "RatingHistory": [
     {
       "Time": "2023-03-03T20:57:50.7322234+00:00",
@@ -685,11 +685,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 149,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-09-06T02:06:09.6253392+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 150,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 149,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 150,
+  "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -702,7 +708,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Relaxing",
@@ -33551,9 +33557,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-09-05T16:57:23.1726282+00:00",
+  "LastChanged": "2024-09-06T02:06:09.625339+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:04.8749697+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:48.3070815+00:00",
-  "LastUpdate_Ratings": "2024-09-05T22:59:56.6870926+00:00",
+  "LastUpdate_Ratings": "2024-09-06T02:06:09.6253394+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:04.8751388+00:00"
 }

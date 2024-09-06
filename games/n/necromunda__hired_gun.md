@@ -1,7 +1,7 @@
 # Necromunda: Hired Gun
 [Store](https://store.epicgames.com/en-US/p/necromunda-hired-gun)  
 [View Rawdata](../../db/n/necromunda__hired_gun.json)  
-Rating: 4.02 (Ranked 1,203)  
+Rating: 4.01 (Ranked 1,205)  
 Number of Ratings: 112  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,3 +82,4 @@ Number of Ratings: 112  (23.09.2022)
 | 2024-05-30 | 4.02 | - | 0 | 0 |
 | 2024-06-09 | 4.03 | - | 0 | 0 |
 | 2024-08-03 | 4.02 | - | 0 | 0 |
+| 2024-09-06 | 4.01 | - | 0 | 0 |
