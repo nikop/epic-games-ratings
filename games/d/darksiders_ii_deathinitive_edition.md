@@ -68,7 +68,7 @@ Completed: 11 (0.10%) (Ranked 438)
 | 2024-08-09 | 10,513 | 11 |
 ## Awards
 Max (Character Customization): 472  (Ranked 272)  
-Sum: 813 (Ranked 354)  
+Sum: 814 (Ranked 354)  
 Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
@@ -76,7 +76,7 @@ Diff (max vs sum): -82
 | This game has Great Boss Battles | 250 |
 | This game has Quickly Understood Controls | 24 |
 | This game is Highly Recommended | 24 |
-| This game is Great for Beginners | 23 |
+| This game is Great for Beginners | 24 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -281,3 +281,4 @@ Diff (max vs sum): -82
 | 2024-09-03 | 4.55 | - | 471 | 811 |
 | 2024-09-04 | 4.55 | - | 472 | 812 |
 | 2024-09-05 | 4.55 | - | 472 | 813 |
+| 2024-09-06 | 4.55 | - | 472 | 814 |
