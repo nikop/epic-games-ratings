@@ -11,7 +11,7 @@
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-05 | - |  | - | - |
 | [Son and Bone](games/f/f0bf0742b7fd44398d2c920e613b9e05.md) | 2024-09-04 | - |  | - | 0 |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | - |  | - | 0 |
-| [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | - |  | 4.05 | 0 |
+| [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | - |  | 4.09 | 0 |
 | [Kaptain Brawe - A Brawe New World](games/6/6360f6e14b864d1c998a0f04b4744f47.md) | 2024-09-03 | - |  | - | - |
 | [Sumerian Six](games/7/77d0632b8cf14d4f8b974899928a579d.md) | 2024-09-02 | - |  | - | 0 |
 | [MURK](games/f/fe446e03d2474d4ea5e2a163496e5d3c.md) | 2024-08-31 | - |  | - | 0 |
@@ -24,7 +24,7 @@
 | [realm of magic](games/9/90167acd850a4e36aec17ea7c2ccc21f.md) | 2024-08-30 | - |  | - | - |
 | [StarbaseSim](games/5/5a1b2edca43946c5af9ae1098a327ff5.md) | 2024-08-30 | - |  | - | 0 |
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2024-08-30 | - |  | - | - |
-| [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | 4.37 | 0 |
+| [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | 4.38 | 0 |
 | [Death Noodle Delivery](games/a/aeb49c35b9fb43e1b1e157d4e1895222.md) | 2024-08-30 | - |  | - | - |
 | [Vagneria](games/6/64c04bc14ae04334bc9d6dcadbadaab2.md) | 2024-08-29 | - |  | - | - |
 | [Sift Heads Legendary Pack](games/9/914da631db4047e3b02da6ef1777e1ac.md) | 2024-08-29 | - |  | - | 0 |
