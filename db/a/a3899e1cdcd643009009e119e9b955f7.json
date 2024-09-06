@@ -2,7 +2,7 @@
   "ID": "a3899e1cdcd643009009e119e9b955f7",
   "Name": null,
   "ProductSlug": "3dmark",
-  "Ranking_Rating": 75,
+  "Ranking_Rating": 92,
   "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 684,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.82,
+  "Rating": 4.81,
   "RatingHistory": [
     {
       "Time": "2023-10-31T00:01:13.5106707+00:00",
@@ -283,6 +283,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-09-06T23:00:14.7569823+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -309,8 +315,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-20T19:00:08.0227684+00:00",
   "FirstSeenRating": "2023-10-31T00:01:13.5106703+00:00",
-  "LastChanged": "2024-08-18T21:58:51.3370101+00:00",
+  "LastChanged": "2024-09-06T23:00:14.7569822+00:00",
   "LastUpdate_AppInfo": "2024-09-05T04:57:16.1855065+00:00",
-  "LastUpdate_Ratings": "2024-09-06T21:58:05.2783214+00:00",
+  "LastUpdate_Ratings": "2024-09-06T23:00:14.7569825+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:50.2354025+00:00"
 }
