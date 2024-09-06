@@ -1,7 +1,7 @@
 # The Wolf Among Us
 [Store](https://store.epicgames.com/en-US/p/the-wolf-among-us)  
 [View Rawdata](../../db/t/the_wolf_among_us.json)  
-Rating: 4.80 (Ranked 100)  
+Rating: 4.80 (Ranked 99)  
 Number of Ratings: 511  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
