@@ -1,7 +1,7 @@
 # Breakout: Recharged
 [Store](https://store.epicgames.com/en-US/p/breakout-recharged)  
 [View Rawdata](../../db/b/breakout__recharged.json)  
-Rating: 4.24 (Ranked 1,065)  
+Rating: 4.24 (Ranked 1,066)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

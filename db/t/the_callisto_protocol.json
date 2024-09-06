@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 1149,
+  "Ranking_Rating": 1150,
   "Ranking_Popularity": 266,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 190,
@@ -4479,10 +4479,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 2727,
       "NumberOfAwardsMax": 507
+    },
+    {
+      "Time": "2024-09-06T17:59:08.7524381+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 2731,
+      "NumberOfAwardsMax": 507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2727,
+  "NumberOfAwards": 2731,
   "NumberOfAwardsMax": 507,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4526,7 +4532,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 234
+      "Count": 238
     }
   ],
   "EOS_Progressed": 29887,
@@ -17628,9 +17634,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-09-06T15:59:52.225905+00:00",
+  "LastChanged": "2024-09-06T17:59:08.7524379+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:34.0522098+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:05.0796233+00:00",
-  "LastUpdate_Ratings": "2024-09-06T15:59:52.2259058+00:00",
+  "LastUpdate_Ratings": "2024-09-06T17:59:08.7524385+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:34.052304+00:00"
 }
