@@ -2,7 +2,7 @@
   "ID": "0d23bb77ee2f45b7a571bde68caddb09",
   "Name": "Saints Row",
   "ProductSlug": "saints-row",
-  "Ranking_Rating": 1236,
+  "Ranking_Rating": 1237,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 21,
@@ -9271,10 +9271,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 10706,
       "NumberOfAwardsMax": 1346
+    },
+    {
+      "Time": "2024-09-06T16:57:51.7520405+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 10708,
+      "NumberOfAwardsMax": 1346
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10706,
+  "NumberOfAwards": 10708,
   "NumberOfAwardsMax": 1346,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9300,7 +9306,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1168
+      "Count": 1170
     },
     {
       "Text": "This game is Great for Beginners",
@@ -42121,9 +42127,9 @@
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2024-09-06T07:59:52.7929184+00:00",
+  "LastChanged": "2024-09-06T16:57:51.7520403+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:48.0514842+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:29.4597589+00:00",
-  "LastUpdate_Ratings": "2024-09-06T14:58:21.7550898+00:00",
+  "LastUpdate_Ratings": "2024-09-06T16:57:51.7520411+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:48.0516633+00:00"
 }
