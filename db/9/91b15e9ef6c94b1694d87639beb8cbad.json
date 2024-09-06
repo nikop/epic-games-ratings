@@ -4,7 +4,7 @@
   "ProductSlug": "dark-and-darker-qa-c1e629",
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 170,
-  "Ranking_PopularitySum": 120,
+  "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3744,10 +3744,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 10448,
       "NumberOfAwardsMax": 1341
+    },
+    {
+      "Time": "2024-09-06T21:59:46.0830675+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 10463,
+      "NumberOfAwardsMax": 1341
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10448,
+  "NumberOfAwards": 10463,
   "NumberOfAwardsMax": 1341,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3797,7 +3803,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 892
+      "Count": 907
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3830,8 +3836,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-09-06T18:58:32.2188584+00:00",
+  "LastChanged": "2024-09-06T21:59:46.0830673+00:00",
   "LastUpdate_AppInfo": "2024-09-01T19:57:35.5350211+00:00",
-  "LastUpdate_Ratings": "2024-09-06T20:57:41.4319589+00:00",
+  "LastUpdate_Ratings": "2024-09-06T21:59:46.0830678+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:59.3646394+00:00"
 }

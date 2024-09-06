@@ -4,12 +4,12 @@
 Rating: 4.85 (Ranked 41)  
 ## Awards
 Max (Great for Quick Sessions): 33  (Ranked 619)  
-Sum: 106 (Ranked 566)  
+Sum: 107 (Ranked 566)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 33 |
-| This game has Diverse Characters | 28 |
+| This game has Diverse Characters | 29 |
 | This game has Challenging Combat | 24 |
 | This game has a Creative Community | 21 |
 ## Ratings History
@@ -58,3 +58,4 @@ Diff (max vs sum): 53
 | 2024-08-21 | 4.85 | 32 | 104 |
 | 2024-09-01 | 4.85 | 33 | 105 |
 | 2024-09-02 | 4.85 | 33 | 106 |
+| 2024-09-06 | 4.85 | 33 | 107 |
