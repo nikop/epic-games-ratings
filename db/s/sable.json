@@ -3,7 +3,7 @@
   "Name": "Sable",
   "ProductSlug": "sable",
   "Ranking_Rating": 635,
-  "Ranking_Popularity": 587,
+  "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 254,
@@ -1047,10 +1047,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-09-06T15:59:14.8227897+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 271,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
+  "NumberOfAwards": 271,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1088,7 +1094,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Unique Visuals",
@@ -34103,9 +34109,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-09-05T14:59:50.2700762+00:00",
+  "LastChanged": "2024-09-06T15:59:14.8227896+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:48.6031535+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:11:54.7860668+00:00",
-  "LastUpdate_Ratings": "2024-09-06T14:00:05.1789783+00:00",
+  "LastUpdate_Ratings": "2024-09-06T15:59:14.8227899+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:48.6032991+00:00"
 }
