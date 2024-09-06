@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 501,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 274,
+  "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -5387,10 +5387,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1760,
       "NumberOfAwardsMax": 599
+    },
+    {
+      "Time": "2024-09-06T03:58:17.441876+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1762,
+      "NumberOfAwardsMax": 599
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1760,
+  "NumberOfAwards": 1762,
   "NumberOfAwardsMax": 599,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5416,7 +5422,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5434,7 +5440,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -5490,8 +5496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-09-03T02:02:27.8143046+00:00",
+  "LastChanged": "2024-09-06T03:58:17.4418758+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:53.7714556+00:00",
-  "LastUpdate_Ratings": "2024-09-06T02:06:37.8191633+00:00",
+  "LastUpdate_Ratings": "2024-09-06T03:58:17.4418764+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:35.6912605+00:00"
 }

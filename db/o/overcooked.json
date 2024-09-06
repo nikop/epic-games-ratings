@@ -3,8 +3,8 @@
   "Name": "Overcooked",
   "ProductSlug": "overcooked",
   "Ranking_Rating": 352,
-  "Ranking_Popularity": 401,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 400,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -759,18 +759,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 149,
       "NumberOfAwardsMax": 149
+    },
+    {
+      "Time": "2024-09-06T03:57:21.0826594+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 150,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 149,
-  "NumberOfAwardsMax": 149,
+  "NumberOfAwards": 150,
+  "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 149
+      "Count": 150
     }
   ],
   "EOS_Progressed": 0,
@@ -784,8 +790,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:20.7350058+00:00",
-  "LastChanged": "2024-08-29T11:58:23.7524488+00:00",
+  "LastChanged": "2024-09-06T03:57:21.0826592+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:27.9363176+00:00",
-  "LastUpdate_Ratings": "2024-09-06T02:05:17.7282305+00:00",
+  "LastUpdate_Ratings": "2024-09-06T03:57:21.0826596+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:53.0756206+00:00"
 }
