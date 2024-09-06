@@ -2,7 +2,7 @@
   "ID": "ae6aa949a2874b5fa15e8ab96bd77fee",
   "Name": "Steelrising",
   "ProductSlug": "steelrising",
-  "Ranking_Rating": 1058,
+  "Ranking_Rating": 1064,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 628,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "NumberOfRatings": 122,
   "RatingHistory": [
     {
@@ -424,6 +424,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-09-06T20:58:49.6757426+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
@@ -450,8 +456,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-08T17:01:22.0375531+00:00",
   "FirstSeenRating": "2022-09-10T17:30:37.2290833+00:00",
-  "LastChanged": "2024-09-03T18:59:06.5717972+00:00",
+  "LastChanged": "2024-09-06T20:58:49.6757425+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:04.9969782+00:00",
-  "LastUpdate_Ratings": "2024-09-06T18:59:39.0459575+00:00",
+  "LastUpdate_Ratings": "2024-09-06T20:58:49.6757429+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:55.5261803+00:00"
 }

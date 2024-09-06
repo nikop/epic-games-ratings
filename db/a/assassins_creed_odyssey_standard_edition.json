@@ -3,8 +3,8 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 161,
-  "Ranking_Popularity": 64,
-  "Ranking_PopularitySum": 68,
+  "Ranking_Popularity": 63,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -21138,18 +21138,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 25894,
       "NumberOfAwardsMax": 9169
+    },
+    {
+      "Time": "2024-09-06T20:58:34.026541+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 25907,
+      "NumberOfAwardsMax": 9174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25894,
-  "NumberOfAwardsMax": 9169,
+  "NumberOfAwards": 25907,
+  "NumberOfAwardsMax": 9174,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 9169
+      "Count": 9174
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -21173,7 +21179,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1051
+      "Count": 1057
     },
     {
       "Text": "This game is Great for Beginners",
@@ -21209,7 +21215,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1039
+      "Count": 1041
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -21241,8 +21247,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-09-06T18:59:23.8959465+00:00",
+  "LastChanged": "2024-09-06T20:58:34.0265409+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:15.8804251+00:00",
-  "LastUpdate_Ratings": "2024-09-06T18:59:23.895947+00:00",
+  "LastUpdate_Ratings": "2024-09-06T20:58:34.0265414+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:13.4315602+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 128,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 40,
@@ -10399,11 +10399,17 @@
       "Rating": 4.78,
       "NumberOfAwards": 8223,
       "NumberOfAwardsMax": 1104
+    },
+    {
+      "Time": "2024-09-06T20:58:24.624055+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 8265,
+      "NumberOfAwardsMax": 1116
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8223,
-  "NumberOfAwardsMax": 1104,
+  "NumberOfAwards": 8265,
+  "NumberOfAwardsMax": 1116,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -10416,19 +10422,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1104
+      "Count": 1116
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 708
+      "Count": 717
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 773
+      "Count": 784
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10458,7 +10464,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 640
+      "Count": 650
     },
     {
       "Text": "This game has Amazing Characters",
@@ -21066,9 +21072,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-09-06T18:59:15.0481794+00:00",
+  "LastChanged": "2024-09-06T20:58:24.6240546+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:54.6525756+00:00",
   "LastUpdate_AppInfo": "2024-09-04T18:57:27.0871679+00:00",
-  "LastUpdate_Ratings": "2024-09-06T18:59:15.0481801+00:00",
+  "LastUpdate_Ratings": "2024-09-06T20:58:24.6240554+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:54.6526933+00:00"
 }

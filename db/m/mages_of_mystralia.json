@@ -2,7 +2,7 @@
   "ID": "bd12fd574df14846ad24703ca7b1a12b",
   "Name": "Mages of Mystralia",
   "ProductSlug": "mages-of-mystralia",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 1193,
@@ -655,6 +655,6 @@
   "FirstSeen": "2022-07-22T20:24:26.4536752+00:00",
   "LastChanged": "2024-09-04T20:58:02.8596399+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:07.826901+00:00",
-  "LastUpdate_Ratings": "2024-09-06T18:59:52.1547277+00:00",
+  "LastUpdate_Ratings": "2024-09-06T20:59:03.0375471+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:14:04.3361076+00:00"
 }
