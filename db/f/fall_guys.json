@@ -2,7 +2,7 @@
   "ID": "50118b7f954e450f8823df1614b24e80",
   "Name": "Fall Guys",
   "ProductSlug": "fall-guys",
-  "Ranking_Rating": 691,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 5,
   "Ranking_EOS_Progress": 1,
@@ -27670,18 +27670,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 1470684,
       "NumberOfAwardsMax": 166165
+    },
+    {
+      "Time": "2024-09-06T10:59:06.9841721+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1470865,
+      "NumberOfAwardsMax": 166251
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1470684,
-  "NumberOfAwardsMax": 166165,
+  "NumberOfAwards": 1470865,
+  "NumberOfAwardsMax": 166251,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 166165
+      "Count": 166251
     },
     {
       "Text": "This game is Relaxing",
@@ -27705,7 +27711,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 146294
+      "Count": 146350
     },
     {
       "Text": "This game has Diverse Characters",
@@ -27723,7 +27729,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 123408
+      "Count": 123447
     },
     {
       "Text": "This game has Amazing Characters",
@@ -60667,9 +60673,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:16.49776+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.7143696+00:00",
-  "LastChanged": "2024-09-06T03:01:53.1192903+00:00",
+  "LastChanged": "2024-09-06T10:59:06.9841719+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:06.2423096+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:37.4591398+00:00",
-  "LastUpdate_Ratings": "2024-09-06T08:59:39.871204+00:00",
+  "LastUpdate_Ratings": "2024-09-06T10:59:06.9841726+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:06.2424775+00:00"
 }
