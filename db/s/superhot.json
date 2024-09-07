@@ -2,7 +2,7 @@
   "ID": "908bed122ba84c4a908ee1e14da401c3",
   "Name": "SUPERHOT",
   "ProductSlug": "superhot",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 290,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 146,
   "RatingHistory": [
     {
@@ -401,6 +401,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-07T15:58:21.9469822+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -418,8 +424,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:12.2504299+00:00",
-  "LastChanged": "2024-08-31T13:58:15.3936863+00:00",
+  "LastChanged": "2024-09-07T15:58:21.946982+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:11:57.4789939+00:00",
-  "LastUpdate_Ratings": "2024-09-07T13:58:38.7731646+00:00",
+  "LastUpdate_Ratings": "2024-09-07T15:58:21.9469827+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:14:04.4996459+00:00"
 }

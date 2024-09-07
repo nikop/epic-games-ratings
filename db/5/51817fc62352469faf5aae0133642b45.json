@@ -4,7 +4,7 @@
   "ProductSlug": "call-of-dragons-d85ee6",
   "Ranking_Rating": 881,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 480,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1895,10 +1895,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-09-07T15:58:28.8017476+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 302,
+      "NumberOfAwardsMax": 77
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 302,
   "NumberOfAwardsMax": 77,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1948,7 +1954,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1960,7 +1966,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 38
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -1975,8 +1981,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-09-06T17:58:47.6400092+00:00",
+  "LastChanged": "2024-09-07T15:58:28.8017475+00:00",
   "LastUpdate_AppInfo": "2024-09-05T10:57:05.2056737+00:00",
-  "LastUpdate_Ratings": "2024-09-07T13:58:43.2183384+00:00",
+  "LastUpdate_Ratings": "2024-09-07T15:58:28.8017482+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.9203011+00:00"
 }
