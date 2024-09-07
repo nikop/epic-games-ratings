@@ -2,7 +2,7 @@
   "ID": "e9e3ee13329f434f94105e6ec63435e0",
   "Name": "BioShock Remastered",
   "ProductSlug": "bioshock-remastered",
-  "Ranking_Rating": 378,
+  "Ranking_Rating": 377,
   "Ranking_Popularity": 88,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 1193,
@@ -3798,18 +3798,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 7630,
       "NumberOfAwardsMax": 6234
+    },
+    {
+      "Time": "2024-09-07T03:01:58.5074989+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 7637,
+      "NumberOfAwardsMax": 6241
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7630,
-  "NumberOfAwardsMax": 6234,
+  "NumberOfAwards": 7637,
+  "NumberOfAwardsMax": 6241,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6234
+      "Count": 6241
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3889,8 +3895,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:33:07.4798792+00:00",
-  "LastChanged": "2024-09-06T03:58:04.2099551+00:00",
+  "LastChanged": "2024-09-07T03:01:58.5074987+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:50.6024772+00:00",
-  "LastUpdate_Ratings": "2024-09-06T23:59:32.4389933+00:00",
+  "LastUpdate_Ratings": "2024-09-07T03:01:58.5074992+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.1488013+00:00"
 }
