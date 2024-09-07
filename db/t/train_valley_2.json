@@ -4,7 +4,7 @@
   "ProductSlug": "train-valley-2-3606da",
   "Ranking_Rating": 711,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 210,
+  "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 532,
   "Ranking_EOS_NewPlayers": 78,
@@ -7923,10 +7923,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 3429,
       "NumberOfAwardsMax": 1502
+    },
+    {
+      "Time": "2024-09-07T13:06:14.2488412+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 3435,
+      "NumberOfAwardsMax": 1502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3429,
+  "NumberOfAwards": 3435,
   "NumberOfAwardsMax": 1502,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -7958,13 +7964,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 462
+      "Count": 467
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 171
+      "Count": 172
     },
     {
       "Text": "This game is Relaxing",
@@ -32644,9 +32650,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2024-09-06T21:58:31.3353251+00:00",
+  "LastChanged": "2024-09-07T13:06:14.248841+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:45.4547226+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:06.5660197+00:00",
-  "LastUpdate_Ratings": "2024-09-07T10:58:54.105826+00:00",
+  "LastUpdate_Ratings": "2024-09-07T13:06:14.2488416+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:45.4548938+00:00"
 }
