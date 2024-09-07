@@ -3,8 +3,8 @@
   "Name": "Duskers",
   "ProductSlug": "duskers-672fdc",
   "Ranking_Rating": 611,
-  "Ranking_Popularity": 690,
-  "Ranking_PopularitySum": 613,
+  "Ranking_Popularity": 689,
+  "Ranking_PopularitySum": 614,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -441,6 +441,6 @@
   "FirstSeenRating": "2023-02-25T11:58:28.997752+00:00",
   "LastChanged": "2024-08-19T15:58:53.4986105+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:57.2062369+00:00",
-  "LastUpdate_Ratings": "2024-09-07T18:59:23.2566352+00:00",
+  "LastUpdate_Ratings": "2024-09-07T20:58:06.9070078+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:39.0981413+00:00"
 }

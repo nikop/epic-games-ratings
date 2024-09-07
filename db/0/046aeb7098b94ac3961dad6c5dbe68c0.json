@@ -2,9 +2,9 @@
   "ID": "046aeb7098b94ac3961dad6c5dbe68c0",
   "Name": "Ratchet \u0026 Clank: Rift Apart",
   "ProductSlug": "ratchet-clank-rift-apart",
-  "Ranking_Rating": 243,
-  "Ranking_Popularity": 669,
-  "Ranking_PopularitySum": 630,
+  "Ranking_Rating": 226,
+  "Ranking_Popularity": 668,
+  "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-07-30T10:57:29.0735952+00:00",
@@ -667,10 +667,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-07T20:58:35.7504013+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47,
+  "NumberOfAwards": 67,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -685,6 +691,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 22
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -699,8 +711,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-26T17:57:55.6867011+00:00",
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
-  "LastChanged": "2024-09-01T21:58:53.836469+00:00",
+  "LastChanged": "2024-09-07T20:58:35.7504011+00:00",
   "LastUpdate_AppInfo": "2024-09-05T10:57:04.8953639+00:00",
-  "LastUpdate_Ratings": "2024-09-07T19:00:01.0261163+00:00",
+  "LastUpdate_Ratings": "2024-09-07T20:58:35.7504016+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:03.8149853+00:00"
 }

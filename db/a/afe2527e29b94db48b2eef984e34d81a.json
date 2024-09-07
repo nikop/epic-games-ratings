@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 670,
   "Ranking_Popularity": 176,
-  "Ranking_PopularitySum": 246,
+  "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 483,
   "Ranking_EOS_NewPlayers": 17,
@@ -2256,10 +2256,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2285,
       "NumberOfAwardsMax": 1247
+    },
+    {
+      "Time": "2024-09-07T20:58:02.1827364+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2296,
+      "NumberOfAwardsMax": 1247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2285,
+  "NumberOfAwards": 2296,
   "NumberOfAwardsMax": 1247,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2273,7 +2279,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 563
+      "Count": 571
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2309,13 +2315,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 75
+      "Count": 77
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2931,9 +2937,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-09-07T18:59:17.1090855+00:00",
+  "LastChanged": "2024-09-07T20:58:02.1827363+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:26.1790746+00:00",
   "LastUpdate_AppInfo": "2024-09-05T23:56:56.3172387+00:00",
-  "LastUpdate_Ratings": "2024-09-07T18:59:17.109086+00:00",
+  "LastUpdate_Ratings": "2024-09-07T20:58:02.1827369+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:26.1791248+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Battlesector",
   "ProductSlug": "warhammer-40000-battlesector",
   "Ranking_Rating": 400,
-  "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 713,
+  "Ranking_Popularity": 712,
+  "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -255,6 +255,6 @@
   "FirstSeen": "2022-07-22T20:22:10.2455747+00:00",
   "LastChanged": "2024-09-06T19:59:03.8751307+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:25.5645369+00:00",
-  "LastUpdate_Ratings": "2024-09-07T19:57:46.3230126+00:00",
+  "LastUpdate_Ratings": "2024-09-07T21:00:01.9494159+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:11.309487+00:00"
 }
