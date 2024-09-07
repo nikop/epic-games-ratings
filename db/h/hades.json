@@ -4,7 +4,7 @@
   "ProductSlug": "hades",
   "Ranking_Rating": 4,
   "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 120,
+  "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 107,
@@ -10766,10 +10766,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 10461,
       "NumberOfAwardsMax": 4256
+    },
+    {
+      "Time": "2024-09-07T20:00:59.5632466+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 10788,
+      "NumberOfAwardsMax": 4256
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10461,
+  "NumberOfAwards": 10788,
   "NumberOfAwardsMax": 4256,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10847,15 +10853,15 @@
     },
     {
       "Text": "This game has Challenging Combat",
-      "Prefix": "",
-      "Type": "",
-      "Count": 170
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 326
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 374
+      "Count": 375
     },
     {
       "Text": "This game is Educational",
@@ -42372,9 +42378,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-09-07T16:58:33.6915762+00:00",
+  "LastChanged": "2024-09-07T20:00:59.5632464+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:47.5026506+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:35.003405+00:00",
-  "LastUpdate_Ratings": "2024-09-07T18:57:20.8497353+00:00",
+  "LastUpdate_Ratings": "2024-09-07T20:00:59.563247+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:47.5027977+00:00"
 }

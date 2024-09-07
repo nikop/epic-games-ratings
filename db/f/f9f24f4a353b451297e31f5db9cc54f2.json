@@ -2,9 +2,9 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1113,
-  "Ranking_Popularity": 602,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Rating": 1112,
+  "Ranking_Popularity": 586,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 4,
@@ -576,18 +576,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-09-07T19:59:03.0365038+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 185,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 212,
+  "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 40
     },
     {
       "Text": "This game is Hard for Beginners",
@@ -611,7 +617,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 30
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -630,6 +636,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 25
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 47946,
@@ -766,9 +778,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-09-07T02:04:32.763979+00:00",
+  "LastChanged": "2024-09-07T19:59:03.0365036+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.8121394+00:00",
   "LastUpdate_AppInfo": "2024-09-02T21:57:05.2778555+00:00",
-  "LastUpdate_Ratings": "2024-09-07T17:59:06.665417+00:00",
+  "LastUpdate_Ratings": "2024-09-07T19:59:03.036504+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.8121467+00:00"
 }

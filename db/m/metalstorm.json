@@ -3,8 +3,8 @@
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 786,
-  "Ranking_Popularity": 302,
-  "Ranking_PopularitySum": 267,
+  "Ranking_Popularity": 300,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -4248,24 +4248,30 @@
       "Rating": 4.45,
       "NumberOfAwards": 1876,
       "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2024-09-07T19:59:06.842412+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1893,
+      "NumberOfAwardsMax": 338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1876,
-  "NumberOfAwardsMax": 333,
+  "NumberOfAwards": 1893,
+  "NumberOfAwardsMax": 338,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 333
+      "Count": 338
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 315
+      "Count": 322
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4313,7 +4319,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 110
+      "Count": 115
     },
     {
       "Text": "This game has Competitive Players",
@@ -4525,9 +4531,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-09-07T17:59:09.2542623+00:00",
+  "LastChanged": "2024-09-07T19:59:06.8424119+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:18.2290852+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:17.5074071+00:00",
-  "LastUpdate_Ratings": "2024-09-07T17:59:09.2542628+00:00",
+  "LastUpdate_Ratings": "2024-09-07T19:59:06.8424123+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:18.2291033+00:00"
 }
