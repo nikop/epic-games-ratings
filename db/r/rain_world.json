@@ -4,7 +4,7 @@
   "ProductSlug": "rain-world-4c860c",
   "Ranking_Rating": 41,
   "Ranking_Popularity": 620,
-  "Ranking_PopularitySum": 566,
+  "Ranking_PopularitySum": 565,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -299,10 +299,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 107,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-07T12:01:41.5950488+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 108,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 107,
+  "NumberOfAwards": 108,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -328,7 +334,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -343,8 +349,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2024-09-06T21:58:07.3586337+00:00",
+  "LastChanged": "2024-09-07T12:01:41.5950463+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:02.108837+00:00",
-  "LastUpdate_Ratings": "2024-09-07T10:58:17.4572717+00:00",
+  "LastUpdate_Ratings": "2024-09-07T12:01:41.5950491+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:33.3952637+00:00"
 }
