@@ -1,16 +1,16 @@
 # WRC Generations
 [Store](https://store.epicgames.com/en-US/p/wrc-11-fia-world-rally-championship-f0749b)  
 [View Rawdata](../../db/w/wrc_generations.json)  
-Rating: 4.45 (Ranked 787)  
+Rating: 4.44 (Ranked 811)  
 ## Awards
 Max (Realistic Visuals): 31  (Ranked 633)  
-Sum: 193 (Ranked 519)  
-Diff (max vs sum): 114  
+Sum: 194 (Ranked 518)  
+Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 31 |
+| This game is Great for Beginners | 30 |
 | This game has Diverse Characters | 30 |
-| This game is Great for Beginners | 29 |
 | This game is Highly Recommended | 21 |
 | This game has Amazing Characters | 21 |
 | This game has Quickly Understood Controls | 21 |
@@ -131,3 +131,4 @@ Diff (max vs sum): 114
 | 2024-09-03 | 4.44 | 30 | 172 |
 | 2024-09-04 | 4.44 | 30 | 192 |
 | 2024-09-05 | 4.45 | 31 | 193 |
+| 2024-09-07 | 4.44 | 31 | 194 |

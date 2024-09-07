@@ -5,7 +5,7 @@ Rating: 4.86 (Ranked 29)
 Number of Ratings: 3,910  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 1,988  (Ranked 142)  
-Sum: 2,291 (Ranked 245)  
+Sum: 2,293 (Ranked 245)  
 Diff (max vs sum): -103  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): -103
 | This game is Educational | 31 |
 | This game has Quickly Understood Controls | 30 |
 | This game has a Creative Community | 29 |
+| This game is Relaxing | 29 |
 | This game is Highly Recommended | 27 |
-| This game is Relaxing | 27 |
 | This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -395,3 +395,4 @@ Diff (max vs sum): -103
 | 2024-09-04 | 4.86 | - | 1,981 | 2,283 |
 | 2024-09-05 | 4.86 | - | 1,985 | 2,287 |
 | 2024-09-06 | 4.86 | - | 1,988 | 2,291 |
+| 2024-09-07 | 4.86 | - | 1,988 | 2,293 |

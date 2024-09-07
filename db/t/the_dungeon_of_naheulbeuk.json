@@ -2,7 +2,7 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 518,
+  "Ranking_Rating": 517,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 84,
@@ -2971,10 +2971,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 869,
       "NumberOfAwardsMax": 395
+    },
+    {
+      "Time": "2024-09-07T17:59:05.926334+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 870,
+      "NumberOfAwardsMax": 395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 869,
+  "NumberOfAwards": 870,
   "NumberOfAwardsMax": 395,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3036,7 +3042,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has a Silly Community",
@@ -29706,9 +29712,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-09-03T16:57:52.7509102+00:00",
+  "LastChanged": "2024-09-07T17:59:05.9263338+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:55.5821012+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:44.1262262+00:00",
-  "LastUpdate_Ratings": "2024-09-07T16:01:06.5488829+00:00",
+  "LastUpdate_Ratings": "2024-09-07T17:59:05.9263343+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:55.5822678+00:00"
 }

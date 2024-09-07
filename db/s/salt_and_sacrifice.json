@@ -2,7 +2,7 @@
   "ID": "5e0e5678caaa469baf3a8627c3d1dee4",
   "Name": "Salt and Sacrifice",
   "ProductSlug": "salt-and-sacrifice",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 157,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.3,
+  "Rating": 4.31,
   "NumberOfRatings": 2205,
   "RatingHistory": [
     {
@@ -2439,6 +2439,12 @@
     {
       "Time": "2024-09-04T15:59:50.4813049+00:00",
       "Rating": 4.3,
+      "NumberOfAwards": 2101,
+      "NumberOfAwardsMax": 1026
+    },
+    {
+      "Time": "2024-09-07T17:58:15.3050398+00:00",
+      "Rating": 4.31,
       "NumberOfAwards": 2101,
       "NumberOfAwardsMax": 1026
     }
@@ -18590,9 +18596,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
-  "LastChanged": "2024-09-04T15:59:50.4813048+00:00",
+  "LastChanged": "2024-09-07T17:58:15.3050396+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:09.1507741+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:24.8205912+00:00",
-  "LastUpdate_Ratings": "2024-09-07T15:59:48.737927+00:00",
+  "LastUpdate_Ratings": "2024-09-07T17:58:15.3050404+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:09.1508823+00:00"
 }
