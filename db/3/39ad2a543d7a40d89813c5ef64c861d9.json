@@ -2,6 +2,9 @@
   "ID": "39ad2a543d7a40d89813c5ef64c861d9",
   "Name": "Dawn of Defiance",
   "ProductSlug": "dawn-of-defiance-b4f0ca",
+  "Ranking_Rating": 917,
+  "Ranking_Popularity": 712,
+  "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +23,15 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.38,
+  "RatingHistory": [
+    {
+      "Time": "2024-09-07T22:59:04.9276945+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -36,7 +47,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2024-08-15T16:58:53.0910579+00:00",
+  "FirstSeenRating": "2024-09-07T22:59:04.9276943+00:00",
+  "LastChanged": "2024-09-07T22:59:04.9276944+00:00",
   "LastUpdate_AppInfo": "2024-09-04T23:57:22.4595954+00:00",
-  "LastUpdate_Ratings": "2024-09-07T20:59:56.8480814+00:00",
+  "LastUpdate_Ratings": "2024-09-07T22:59:04.9276959+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:30.3370592+00:00"
 }

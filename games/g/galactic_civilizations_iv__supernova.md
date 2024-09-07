@@ -1,7 +1,7 @@
 # Galactic Civilizations IV: Supernova
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv-supernova)  
 [View Rawdata](../../db/g/galactic_civilizations_iv__supernova.json)  
-Rating: 4.46 (Ranked 770)  
+Rating: 4.47 (Ranked 752)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -457,3 +457,4 @@ Diff (max vs sum): -19
 | 2024-09-03 | 4.45 | 26 | 26 |
 | 2024-09-04 | 4.45 | 27 | 27 |
 | 2024-09-06 | 4.46 | 27 | 27 |
+| 2024-09-07 | 4.47 | 27 | 27 |

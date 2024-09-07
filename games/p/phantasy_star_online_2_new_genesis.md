@@ -1,16 +1,16 @@
 # Phantasy Star Online 2 New Genesis
 [Store](https://store.epicgames.com/en-US/p/phantasy-star-online-2)  
 [View Rawdata](../../db/p/phantasy_star_online_2_new_genesis.json)  
-Rating: 4.54 (Ranked 611)  
+Rating: 4.54 (Ranked 613)  
 Number of Ratings: 692  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,175  (Ranked 180)  
-Sum: 5,230 (Ranked 170)  
+Sum: 5,231 (Ranked 170)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,175 |
-| This game has Great Boss Battles | 926 |
+| This game has Great Boss Battles | 927 |
 | This game is Great for Beginners | 424 |
 | This game has Diverse Characters | 397 |
 | This game is Highly Recommended | 357 |
@@ -596,3 +596,4 @@ Diff (max vs sum): 10
 | 2024-09-04 | 4.54 | - | 1,173 | 5,219 |
 | 2024-09-05 | 4.54 | - | 1,173 | 5,221 |
 | 2024-09-06 | 4.54 | - | 1,175 | 5,230 |
+| 2024-09-07 | 4.54 | - | 1,175 | 5,231 |
