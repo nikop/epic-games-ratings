@@ -4,8 +4,8 @@
 Rating: 4.71 (Ranked 226)  
 ## Awards
 Max (Extremely Fun): 56  (Ranked 542)  
-Sum: 396 (Ranked 433)  
-Diff (max vs sum): 109  
+Sum: 397 (Ranked 432)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 56 |
@@ -17,7 +17,7 @@ Diff (max vs sum): 109
 | This game is Relaxing | 42 |
 | This game has Amazing Characters | 36 |
 | This game has Playful Visuals | 25 |
-| This game has a Creative Community | 21 |
+| This game has a Creative Community | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -140,4 +140,4 @@ Diff (max vs sum): 109
 | 2024-09-04 | 4.71 | 56 | 387 |
 | 2024-09-05 | 4.71 | 56 | 393 |
 | 2024-09-06 | 4.71 | 56 | 394 |
-| 2024-09-07 | 4.71 | 56 | 396 |
+| 2024-09-07 | 4.71 | 56 | 397 |
