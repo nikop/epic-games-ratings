@@ -34,4 +34,3 @@
 | [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | 34 (1,000 XP) | 1 | - | 0 |
 | [Escape From Mystwood Mansion](games/f/fe870cd6ecac4382a8cd9c974f1638f0.md) | 2024-08-08 | 20 (1,000 XP) | 38 | - | 0 |
 | [Inquisitor's Heart and Soul](games/2/2ac0cd69936144c0b4e7ff7ae136905f.md) | 2024-08-08 | 5 (1,000 XP) | 3 | - | - |
-| [Vitamin Girl](games/0/0c9536f6fadb4d849d79c3fbea65afd1.md) | 2024-08-08 | 22 (1,000 XP) | 2 | - | - |
