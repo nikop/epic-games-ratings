@@ -2,7 +2,7 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "ProductSlug": "predator-hunting-grounds",
-  "Ranking_Rating": 768,
+  "Ranking_Rating": 769,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 1193,
@@ -3637,10 +3637,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 2672,
       "NumberOfAwardsMax": 971
+    },
+    {
+      "Time": "2024-09-07T05:57:58.1121965+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 2673,
+      "NumberOfAwardsMax": 971
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2672,
+  "NumberOfAwards": 2673,
   "NumberOfAwardsMax": 971,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3666,7 +3672,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 201
+      "Count": 202
     },
     {
       "Text": "This game has Competitive Players",
@@ -3734,8 +3740,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2024-09-06T18:57:23.7254721+00:00",
+  "LastChanged": "2024-09-07T05:57:58.1121963+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:58:12.9359712+00:00",
-  "LastUpdate_Ratings": "2024-09-07T03:58:47.0560295+00:00",
+  "LastUpdate_Ratings": "2024-09-07T05:57:58.1121967+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.2589773+00:00"
 }

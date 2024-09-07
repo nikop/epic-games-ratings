@@ -1,15 +1,15 @@
 # NARAKA: BLADEPOINT
 [Store](https://store.epicgames.com/en-US/p/naraka-bladepoint)  
 [View Rawdata](../../db/n/naraka__bladepoint.json)  
-Rating: 4.18 (Ranked 1,124)  
+Rating: 4.18 (Ranked 1,125)  
 Number of Ratings: 132,339  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 236,104  (Ranked 6)  
-Sum: 537,869 (Ranked 9)  
+Max (Great Boss Battles): 236,153  (Ranked 6)  
+Sum: 537,918 (Ranked 9)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 236,104 |
+| This game has Great Boss Battles | 236,153 |
 | This game has Competitive Players | 115,755 |
 | This game has Diverse Characters | 107,335 |
 | This game has Amazing Characters | 78,675 |
@@ -617,3 +617,4 @@ Diff (max vs sum): -3
 | 2024-09-04 | 4.18 | - | 236,031 | 537,584 |
 | 2024-09-05 | 4.18 | - | 236,067 | 537,727 |
 | 2024-09-06 | 4.18 | - | 236,104 | 537,869 |
+| 2024-09-07 | 4.18 | - | 236,153 | 537,918 |

@@ -1,7 +1,7 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.34 (Ranked 963)  
+Rating: 4.34 (Ranked 964)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

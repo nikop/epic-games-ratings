@@ -1,7 +1,7 @@
 # Marvel's Midnight Suns
 [Store](https://store.epicgames.com/en-US/p/marvels-midnight-suns)  
 [View Rawdata](../../db/m/marvel's_midnight_suns.json)  
-Rating: 4.44 (Ranked 811)  
+Rating: 4.44 (Ranked 812)  
 ## Awards
 Max (Character Customization): 11,251  (Ranked 52)  
 Sum: 27,908 (Ranked 63)  
