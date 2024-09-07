@@ -101,4 +101,3 @@
 | [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | 33 (1,000 XP) | 93 | 4.96 | 0 |
 | [DOOM Eternal](games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 2024-08-08 | 50 (1,545 XP) | 13 | - | 0 |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | 35 (1,000 XP) | 13 | - | 0 |
-| [SteamWorld Heist II](games/5/5ff7ac1fd96b4faaabb55876cf536439.md) | 2024-08-08 | 34 (1,000 XP) | 1 | - | 0 |
