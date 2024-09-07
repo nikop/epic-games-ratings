@@ -3,7 +3,7 @@
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 787,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5605,18 +5605,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 3275,
       "NumberOfAwardsMax": 790
+    },
+    {
+      "Time": "2024-09-07T11:00:01.047873+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 3276,
+      "NumberOfAwardsMax": 791
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3275,
-  "NumberOfAwardsMax": 790,
+  "NumberOfAwards": 3276,
+  "NumberOfAwardsMax": 791,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 790
+      "Count": 791
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5690,8 +5696,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-09-07T03:59:19.5496092+00:00",
+  "LastChanged": "2024-09-07T11:00:01.0478729+00:00",
   "LastUpdate_AppInfo": "2024-09-01T21:57:15.6520089+00:00",
-  "LastUpdate_Ratings": "2024-09-07T08:59:54.7606605+00:00",
+  "LastUpdate_Ratings": "2024-09-07T11:00:01.0478733+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:01.8541135+00:00"
 }
