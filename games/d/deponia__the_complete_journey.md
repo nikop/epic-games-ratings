@@ -4,12 +4,12 @@
 Rating: 4.63 (Ranked 400)  
 Number of Ratings: 777  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 315  (Ranked 308)  
-Sum: 335 (Ranked 456)  
+Max (Challenging Puzzles): 316  (Ranked 308)  
+Sum: 336 (Ranked 456)  
 Diff (max vs sum): -148  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 315 |
+| This game features Challenging Puzzles | 316 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -131,3 +131,4 @@ Diff (max vs sum): -148
 | 2024-08-16 | 4.63 | - | 313 | 333 |
 | 2024-08-24 | 4.63 | - | 314 | 334 |
 | 2024-09-05 | 4.63 | - | 315 | 335 |
+| 2024-09-07 | 4.63 | - | 316 | 336 |

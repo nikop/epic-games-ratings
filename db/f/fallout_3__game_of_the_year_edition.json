@@ -2,7 +2,7 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 471,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 1193,
@@ -14963,10 +14963,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 38115,
       "NumberOfAwardsMax": 18265
+    },
+    {
+      "Time": "2024-09-07T21:57:11.0847912+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 38128,
+      "NumberOfAwardsMax": 18265
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38115,
+  "NumberOfAwards": 38128,
   "NumberOfAwardsMax": 18265,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14980,7 +14986,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2081
+      "Count": 2086
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15010,13 +15016,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1897
+      "Count": 1900
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2096
+      "Count": 2097
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15040,7 +15046,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2394
+      "Count": 2398
     }
   ],
   "EOS_Progressed": 0,
@@ -15055,8 +15061,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-09-07T17:58:49.9121408+00:00",
+  "LastChanged": "2024-09-07T21:57:11.0847911+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:14.0715235+00:00",
-  "LastUpdate_Ratings": "2024-09-07T19:58:37.7250183+00:00",
+  "LastUpdate_Ratings": "2024-09-07T21:57:11.0847917+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:46.39904+00:00"
 }

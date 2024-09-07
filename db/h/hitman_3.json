@@ -4,7 +4,7 @@
   "ProductSlug": "hitman-3",
   "Ranking_Rating": 133,
   "Ranking_Popularity": 44,
-  "Ranking_PopularitySum": 28,
+  "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 21,
@@ -21386,10 +21386,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 88186,
       "NumberOfAwardsMax": 13842
+    },
+    {
+      "Time": "2024-09-07T21:57:22.871401+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 88195,
+      "NumberOfAwardsMax": 13842
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88186,
+  "NumberOfAwards": 88195,
   "NumberOfAwardsMax": 13842,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -21445,7 +21451,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 10712
+      "Count": 10721
     },
     {
       "Text": "This game is Great for Beginners",
@@ -54421,9 +54427,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
-  "LastChanged": "2024-09-07T19:58:55.433179+00:00",
+  "LastChanged": "2024-09-07T21:57:22.8714006+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:12.0587668+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:16.1363835+00:00",
-  "LastUpdate_Ratings": "2024-09-07T19:58:55.4331795+00:00",
+  "LastUpdate_Ratings": "2024-09-07T21:57:22.8714016+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:12.0589714+00:00"
 }
