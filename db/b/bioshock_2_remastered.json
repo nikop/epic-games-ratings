@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-2-remastered",
   "Ranking_Rating": 669,
   "Ranking_Popularity": 103,
-  "Ranking_PopularitySum": 164,
+  "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3337,10 +3337,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 5546,
       "NumberOfAwardsMax": 4311
+    },
+    {
+      "Time": "2024-09-07T03:59:01.6272666+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5547,
+      "NumberOfAwardsMax": 4311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5546,
+  "NumberOfAwards": 5547,
   "NumberOfAwardsMax": 4311,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3402,7 +3408,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3428,8 +3434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2024-09-06T04:58:41.1974592+00:00",
+  "LastChanged": "2024-09-07T03:59:01.6272665+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:41.8293687+00:00",
-  "LastUpdate_Ratings": "2024-09-07T02:04:30.41722+00:00",
+  "LastUpdate_Ratings": "2024-09-07T03:59:01.6272669+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:43.75373+00:00"
 }
