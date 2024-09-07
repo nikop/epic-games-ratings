@@ -2,7 +2,7 @@
   "ID": "d34cf6aeceb94c579af0236fe1185b79",
   "Name": "KARDS - The WWII Card Game",
   "ProductSlug": "kards-the-world-war-ii-card-game",
-  "Ranking_Rating": 898,
+  "Ranking_Rating": 899,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 1193,
@@ -5439,10 +5439,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 5047,
       "NumberOfAwardsMax": 786
+    },
+    {
+      "Time": "2024-09-07T14:58:28.6048427+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 5048,
+      "NumberOfAwardsMax": 786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5047,
+  "NumberOfAwards": 5048,
   "NumberOfAwardsMax": 786,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5474,7 +5480,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 594
+      "Count": 595
     },
     {
       "Text": "This game has Competitive Players",
@@ -5518,8 +5524,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:27.7135917+00:00",
-  "LastChanged": "2024-09-07T09:58:07.5747014+00:00",
+  "LastChanged": "2024-09-07T14:58:28.6048426+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:32.9607383+00:00",
-  "LastUpdate_Ratings": "2024-09-07T13:08:09.0998715+00:00",
+  "LastUpdate_Ratings": "2024-09-07T14:58:28.6048429+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:09.755611+00:00"
 }

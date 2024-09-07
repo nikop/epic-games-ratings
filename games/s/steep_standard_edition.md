@@ -5,8 +5,8 @@ Rating: 4.71 (Ranked 226)
 Number of Ratings: 414  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 33  (Ranked 620)  
-Sum: 242 (Ranked 492)  
-Diff (max vs sum): 128  
+Sum: 242 (Ranked 491)  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 33 |

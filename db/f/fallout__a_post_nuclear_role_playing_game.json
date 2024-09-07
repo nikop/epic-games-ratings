@@ -2,7 +2,7 @@
   "ID": "2e412cfcbd954e7180930e9784a47e18",
   "Name": "Fallout: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-28T01:33:28.7432566+00:00",
@@ -1187,6 +1187,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 353,
       "NumberOfAwardsMax": 333
+    },
+    {
+      "Time": "2024-09-07T14:59:14.4884332+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 353,
+      "NumberOfAwardsMax": 333
     }
   ],
   "ReviewsDisabled": false,
@@ -1225,8 +1231,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-09-06T17:57:19.6288758+00:00",
+  "LastChanged": "2024-09-07T14:59:14.4884331+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:18.3945812+00:00",
-  "LastUpdate_Ratings": "2024-09-07T13:57:15.1622996+00:00",
+  "LastUpdate_Ratings": "2024-09-07T14:59:14.4884335+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:58.7706483+00:00"
 }

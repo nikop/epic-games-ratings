@@ -2,7 +2,7 @@
   "ID": "87b7846d2eba4bc49eead0854323aba8",
   "Name": "Dying Light 2 Stay Human - Reloaded Edition",
   "ProductSlug": "dying-light-2-stay-human",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 30,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 18,
@@ -24536,24 +24536,30 @@
       "Rating": 4.59,
       "NumberOfAwards": 57550,
       "NumberOfAwardsMax": 18604
+    },
+    {
+      "Time": "2024-09-07T14:58:37.1422866+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 57598,
+      "NumberOfAwardsMax": 18631
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57550,
-  "NumberOfAwardsMax": 18604,
+  "NumberOfAwards": 57598,
+  "NumberOfAwardsMax": 18631,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 18604
+      "Count": 18631
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12746
+      "Count": 12767
     },
     {
       "Text": "This game is Extremely Fun",
@@ -57723,9 +57729,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:57.6151265+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.1190573+00:00",
-  "LastChanged": "2024-09-07T13:08:19.170315+00:00",
+  "LastChanged": "2024-09-07T14:58:37.1422865+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:23.0781015+00:00",
   "LastUpdate_AppInfo": "2024-09-02T06:57:23.8607642+00:00",
-  "LastUpdate_Ratings": "2024-09-07T13:08:19.1703156+00:00",
+  "LastUpdate_Ratings": "2024-09-07T14:58:37.1422869+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:23.0782636+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 693,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2085,30 +2085,36 @@
       "Rating": 4.5,
       "NumberOfAwards": 1065,
       "NumberOfAwardsMax": 749
+    },
+    {
+      "Time": "2024-09-07T14:58:47.8061778+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1105,
+      "NumberOfAwardsMax": 751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1065,
-  "NumberOfAwardsMax": 749,
+  "NumberOfAwards": 1105,
+  "NumberOfAwardsMax": 751,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 749
+      "Count": 751
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Relaxing",
@@ -2150,7 +2156,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 34
+      "Count": 36
     }
   ],
   "EOS_Progressed": 0,
@@ -2164,8 +2170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2024-09-07T13:08:31.5077331+00:00",
+  "LastChanged": "2024-09-07T14:58:47.8061776+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:47.0127071+00:00",
-  "LastUpdate_Ratings": "2024-09-07T13:08:31.5077337+00:00",
+  "LastUpdate_Ratings": "2024-09-07T14:58:47.8061781+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:38.7100063+00:00"
 }
