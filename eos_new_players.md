@@ -486,7 +486,7 @@
 | 464 | [Cross Tails](games/c/cb0899902d9c4f33b4f763b22b981043.md) | 1 | 34 |
 | 464 | [Dahlia View](games/c/conway__disappearance_at_dahlia_view.md) | 1 | 8 |
 | 464 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 1 | 462 |
-| 464 | [Deal With The Devil: Chapter 1](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 1 | 2 |
+| 464 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 1 | 2 |
 | 464 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 1 | 419 |
 | 464 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 1 | 22 |
 | 464 | [Dreadful River](games/0/01c515c1f28547ab8142678d107be081.md) | 1 | 30 |

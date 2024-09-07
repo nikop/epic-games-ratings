@@ -442,8 +442,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [ROBOBEAT](../games/r/robobeat.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
@@ -992,7 +992,7 @@
 | [Chicken Journey](../games/1/1df6c2cb003d48979ee3f72fff54d013.md) | 16 | 1,000 |
 | [Cursed Castilla (Maldita Castilla EX)](../games/c/cursed_castilla_(maldita_castilla_ex).md) | 16 | 1,000 |
 | [Cymatically Muffed](../games/c/cymatically_muffed.md) | 16 | 1,000 |
-| [Deal With The Devil: Chapter 1](../games/d/d6f114b7af6644d482cf4232cca775cc.md) | 16 | 1,000 |
+| [Deal With The Devil: Chapter 1 – Journey to Tuonela](../games/d/d6f114b7af6644d482cf4232cca775cc.md) | 16 | 1,000 |
 | [Destroyer - The U-Boat Hunter](../games/d/d4fc25a4cde949368011c764b1c78dc5.md) | 16 | 1,000 |
 | [Echo Storm](../games/0/0b4313e25d17431b901edda54d678ab4.md) | 16 | 1,000 |
 | [Eximius: Seize the Frontline](../games/e/eximius__seize_the_frontline.md) | 16 | 1,000 |

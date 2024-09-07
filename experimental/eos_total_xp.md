@@ -338,7 +338,7 @@
 | [Deadly Broadcast](../games/2/26f95abaabab4e63b390242ba69111c3.md) | 23 | 1,000 |
 | [Deadly Domain](../games/b/bd7abb8b7b1b46408a4eb7de6f50b9c9.md) | 5 | 1,000 |
 | [Deadwater Saloon](../games/0/0011a38fecb741dc9923879a4f490d42.md) | 64 | 1,000 |
-| [Deal With The Devil: Chapter 1](../games/d/d6f114b7af6644d482cf4232cca775cc.md) | 16 | 1,000 |
+| [Deal With The Devil: Chapter 1 – Journey to Tuonela](../games/d/d6f114b7af6644d482cf4232cca775cc.md) | 16 | 1,000 |
 | [Death Crown](../games/3/36c80652a9de4ac28ab9f990034dc847.md) | 22 | 1,000 |
 | [Death From Above - Complete Edition](../games/f/f7dd9963616b4c1d9b89d5582a07766c.md) | 21 | 1,000 |
 | [DEATH STRANDING](../games/d/death_stranding.md) | 63 | 1,000 |
@@ -804,8 +804,8 @@
 | [PAW Patrol Mighty Pups Save Adventure Bay](../games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 30 | 1,000 |
 | [PC Building Simulator](../games/p/pc_building_simulator.md) | 52 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
-| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
 | [PERISH](../games/p/perish.md) | 63 | 1,000 |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](../games/3/3645577654d440e4a833ce60dac7ccf3.md) | 43 | 1,000 |

@@ -688,7 +688,7 @@
 | 561 | [De-Exit - Eternal Matters](games/d/de-exit_-_eternal_matters.md) | 0.00% |
 | 561 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 0.00% |
 | 561 | [Deadly Broadcast](games/2/26f95abaabab4e63b390242ba69111c3.md) | 0.00% |
-| 561 | [Deal With The Devil: Chapter 1](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 0.00% |
+| 561 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 0.00% |
 | 561 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 0.00% |
 | 561 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 0.00% |
 | 561 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 0.00% |
@@ -935,8 +935,8 @@
 | 561 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 0.00% |
 | 561 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 561 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 561 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
 | 561 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
+| 561 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
 | 561 | [PERISH](games/p/perish.md) | 0.00% |
 | 561 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
 | 561 | [Pinball FX](games/p/pinball_fx.md) | 0.00% |

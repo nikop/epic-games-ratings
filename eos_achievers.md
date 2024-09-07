@@ -1057,7 +1057,7 @@
 | 1,049 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2 | 0 |
 | 1,049 | [Bread and Fred](games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 2 | 0 |
 | 1,049 | [Curse of the Deadwood](games/c/curse_of_the_deadwood.md) | 2 | 0 |
-| 1,049 | [Deal With The Devil: Chapter 1](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2 | 0 |
+| 1,049 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2 | 0 |
 | 1,049 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2 | 0 |
 | 1,049 | [FlatOut: Ultimate Carnage Collector's Edition](games/b/b35a662d8e5f4238a1b9efd18ed8e56b.md) | 2 | 0 |
 | 1,049 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2 | 0 |
@@ -1149,8 +1149,8 @@
 | 1,099 | [Nerth Downfall](games/d/dad8521e64e74ece84dafbb0470b8ccf.md) | 1 | 0 |
 | 1,099 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 1 | 0 |
 | 1,099 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 1 | 0 |
-| 1,099 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 1 | 0 |
 | 1,099 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 1 | 0 |
+| 1,099 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 1 | 0 |
 | 1,099 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 1 | 0 |
 | 1,099 | [Popcorn Rocket](games/4/4acbe0ba4b144020b1dee0d6dd607029.md) | 1 | 0 |
 | 1,099 | [Probo Rush](games/p/probo_rush.md) | 1 | 1 |
