@@ -1,7 +1,7 @@
 # Fallout: A Post Nuclear Role Playing Game
 [Store](https://store.epicgames.com/en-US/p/fallout)  
 [View Rawdata](../../db/f/fallout__a_post_nuclear_role_playing_game.json)  
-Rating: 4.60 (Ranked 471)  
+Rating: 4.60 (Ranked 472)  
 ## Awards
 Max (Character Customization): 333  (Ranked 301)  
 Sum: 353 (Ranked 451)  

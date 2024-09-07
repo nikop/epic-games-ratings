@@ -4,7 +4,7 @@
   "ProductSlug": "nuclear-throne",
   "Ranking_Rating": 115,
   "Ranking_Popularity": 267,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3265,10 +3265,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1666,
       "NumberOfAwardsMax": 494
+    },
+    {
+      "Time": "2024-09-07T00:00:04.6131156+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1667,
+      "NumberOfAwardsMax": 494
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1666,
+  "NumberOfAwards": 1667,
   "NumberOfAwardsMax": 494,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3342,7 +3348,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 87
+      "Count": 88
     },
     {
       "Text": "This game is Relaxing",
@@ -3362,8 +3368,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
-  "LastChanged": "2024-09-06T15:58:14.6371856+00:00",
+  "LastChanged": "2024-09-07T00:00:04.6131154+00:00",
   "LastUpdate_AppInfo": "2024-09-02T06:57:36.0559116+00:00",
-  "LastUpdate_Ratings": "2024-09-06T22:58:00.0675363+00:00",
+  "LastUpdate_Ratings": "2024-09-07T00:00:04.6131161+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:40.690247+00:00"
 }
