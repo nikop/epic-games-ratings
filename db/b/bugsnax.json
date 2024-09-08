@@ -4,7 +4,7 @@
   "ProductSlug": "bugsnax",
   "Ranking_Rating": 29,
   "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 226,
@@ -1428,10 +1428,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 473,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-09-08T10:57:31.5067292+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 475,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 473,
+  "NumberOfAwards": 475,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1445,7 +1451,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1475,7 +1481,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10404,9 +10410,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:14.9687777+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.3441921+00:00",
-  "LastChanged": "2024-09-06T11:57:46.3053163+00:00",
+  "LastChanged": "2024-09-08T10:57:31.5067291+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:41.3113008+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:40.0776472+00:00",
-  "LastUpdate_Ratings": "2024-09-08T08:58:28.0411609+00:00",
+  "LastUpdate_Ratings": "2024-09-08T10:57:31.5067295+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:41.3113585+00:00"
 }
