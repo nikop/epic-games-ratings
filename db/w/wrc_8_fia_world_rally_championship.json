@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-8",
   "Ranking_Rating": 634,
   "Ranking_Popularity": 641,
-  "Ranking_PopularitySum": 535,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -598,10 +598,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 156,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-08T18:57:58.849037+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 135,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 156,
+  "NumberOfAwards": 135,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -659,8 +665,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2024-09-08T14:59:20.2763347+00:00",
+  "LastChanged": "2024-09-08T18:57:58.8490368+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:35.4063783+00:00",
-  "LastUpdate_Ratings": "2024-09-08T16:59:12.0468792+00:00",
+  "LastUpdate_Ratings": "2024-09-08T18:57:58.8490374+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:57.586135+00:00"
 }
