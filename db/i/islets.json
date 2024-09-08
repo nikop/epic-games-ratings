@@ -2,9 +2,9 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
-  "Ranking_Rating": 228,
-  "Ranking_Popularity": 542,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Rating": 227,
+  "Ranking_Popularity": 540,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1252,11 +1252,17 @@
       "Rating": 4.71,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-09-08T21:57:25.1652341+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 400,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 399,
-  "NumberOfAwardsMax": 56,
+  "NumberOfAwards": 400,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
@@ -1281,7 +1287,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game is Relaxing",
@@ -1332,8 +1338,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-09-08T03:59:33.3860088+00:00",
+  "LastChanged": "2024-09-08T21:57:25.1652339+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:47.5839056+00:00",
-  "LastUpdate_Ratings": "2024-09-08T19:57:54.3834453+00:00",
+  "LastUpdate_Ratings": "2024-09-08T21:57:25.1652343+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:22.360103+00:00"
 }

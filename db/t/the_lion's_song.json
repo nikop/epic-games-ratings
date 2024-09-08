@@ -3,8 +3,8 @@
   "Name": "The Lion\u0027s Song",
   "ProductSlug": "the-lions-song",
   "Ranking_Rating": 880,
-  "Ranking_Popularity": 712,
-  "Ranking_PopularitySum": 712,
+  "Ranking_Popularity": 713,
+  "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -353,6 +353,6 @@
   "FirstSeen": "2022-07-22T20:23:33.7126844+00:00",
   "LastChanged": "2024-09-08T14:59:03.0156686+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:27.6518225+00:00",
-  "LastUpdate_Ratings": "2024-09-08T19:59:31.3491073+00:00",
+  "LastUpdate_Ratings": "2024-09-08T21:59:39.5010308+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:12.5399031+00:00"
 }

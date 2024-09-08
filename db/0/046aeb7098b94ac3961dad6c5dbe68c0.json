@@ -2,8 +2,8 @@
   "ID": "046aeb7098b94ac3961dad6c5dbe68c0",
   "Name": "Ratchet \u0026 Clank: Rift Apart",
   "ProductSlug": "ratchet-clank-rift-apart",
-  "Ranking_Rating": 228,
-  "Ranking_Popularity": 669,
+  "Ranking_Rating": 227,
+  "Ranking_Popularity": 670,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -713,6 +713,6 @@
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
   "LastChanged": "2024-09-07T20:58:35.7504011+00:00",
   "LastUpdate_AppInfo": "2024-09-05T10:57:04.8953639+00:00",
-  "LastUpdate_Ratings": "2024-09-08T19:59:36.1184879+00:00",
+  "LastUpdate_Ratings": "2024-09-08T21:59:46.1073798+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:03.8149853+00:00"
 }
