@@ -4,7 +4,7 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 1248,
   "Ranking_Popularity": 261,
-  "Ranking_PopularitySum": 216,
+  "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -5836,10 +5836,16 @@
       "Rating": 3.87,
       "NumberOfAwards": 3015,
       "NumberOfAwardsMax": 541
+    },
+    {
+      "Time": "2024-09-08T09:59:02.9237783+00:00",
+      "Rating": 3.87,
+      "NumberOfAwards": 2571,
+      "NumberOfAwardsMax": 541
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3015,
+  "NumberOfAwards": 2571,
   "NumberOfAwardsMax": 541,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5921,8 +5927,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-09-08T08:57:23.0028811+00:00",
+  "LastChanged": "2024-09-08T09:59:02.9237781+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:53.1694086+00:00",
-  "LastUpdate_Ratings": "2024-09-08T08:57:23.0028817+00:00",
+  "LastUpdate_Ratings": "2024-09-08T09:59:02.9237787+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:46.5314462+00:00"
 }
