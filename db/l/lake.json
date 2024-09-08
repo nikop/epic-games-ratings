@@ -2,7 +2,7 @@
   "ID": "b36ca8a7314444e6a6b513729790582d",
   "Name": "Lake",
   "ProductSlug": "lake",
-  "Ranking_Rating": 1026,
+  "Ranking_Rating": 1010,
   "Ranking_Popularity": 712,
   "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "NumberOfRatings": 22,
   "RatingHistory": [
     {
@@ -196,6 +196,12 @@
       "Rating": 4.28,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-08T09:00:06.6396874+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -214,8 +220,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:48.5356941+00:00",
   "FirstSeenRating": "2022-09-12T17:01:06.2568783+00:00",
-  "LastChanged": "2024-09-01T08:59:06.3328593+00:00",
+  "LastChanged": "2024-09-08T09:00:06.6396873+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:47.3891806+00:00",
-  "LastUpdate_Ratings": "2024-09-08T07:57:47.438207+00:00",
+  "LastUpdate_Ratings": "2024-09-08T09:00:06.6396878+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:28.4658281+00:00"
 }
