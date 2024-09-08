@@ -1,11 +1,11 @@
 # F.I.S.T.: Forged In Shadow Torch
 [Store](https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch)  
 [View Rawdata](../../db/f/f.i.s.t.__forged_in_shadow_torch.json)  
-Rating: 4.54 (Ranked 612)  
+Rating: 4.54 (Ranked 611)  
 Number of Ratings: 572  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,944  (Ranked 144)  
-Sum: 2,411 (Ranked 239)  
+Sum: 2,412 (Ranked 239)  
 Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -95
 | This game is Highly Recommended | 52 |
 | This game has Amazing Characters | 51 |
 | This game has Unique Visuals | 48 |
-| This game has a Creative Community | 38 |
+| This game has a Creative Community | 39 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -407,4 +407,4 @@ Diff (max vs sum): -95
 | 2024-09-05 | 4.54 | - | 1,911 | 2,375 |
 | 2024-09-06 | 4.54 | - | 1,918 | 2,382 |
 | 2024-09-07 | 4.54 | - | 1,929 | 2,395 |
-| 2024-09-08 | 4.54 | - | 1,944 | 2,411 |
+| 2024-09-08 | 4.54 | - | 1,944 | 2,412 |

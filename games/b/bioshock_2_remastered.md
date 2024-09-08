@@ -1,11 +1,11 @@
 # BioShock 2 Remastered
 [Store](https://store.epicgames.com/en-US/p/bioshock-2-remastered)  
 [View Rawdata](../../db/b/bioshock_2_remastered.json)  
-Rating: 4.51 (Ranked 670)  
+Rating: 4.51 (Ranked 669)  
 Number of Ratings: 12,272  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 4,312  (Ranked 103)  
-Sum: 5,549 (Ranked 166)  
+Sum: 5,550 (Ranked 166)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -63
 | This game has Quickly Understood Controls | 138 |
 | This game has Amazing Storytelling | 137 |
 | This game has Amazing Characters | 125 |
-| This game is Great for Beginners | 120 |
+| This game is Great for Beginners | 121 |
 | This game is Relaxing | 120 |
 | This game has Obsessive Gameplay | 87 |
 | This game has a Creative Community | 81 |
@@ -308,4 +308,4 @@ Diff (max vs sum): -63
 | 2024-09-05 | 4.51 | - | 4,309 | 5,543 |
 | 2024-09-06 | 4.51 | - | 4,311 | 5,546 |
 | 2024-09-07 | 4.51 | - | 4,311 | 5,548 |
-| 2024-09-08 | 4.51 | - | 4,312 | 5,549 |
+| 2024-09-08 | 4.51 | - | 4,312 | 5,550 |
