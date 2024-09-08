@@ -3,7 +3,7 @@
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
   "Ranking_Rating": 1004,
-  "Ranking_Popularity": 212,
+  "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5275,18 +5275,24 @@
       "Rating": 4.3,
       "NumberOfAwards": 2931,
       "NumberOfAwardsMax": 910
+    },
+    {
+      "Time": "2024-09-08T04:57:23.8091588+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 2933,
+      "NumberOfAwardsMax": 912
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2931,
-  "NumberOfAwardsMax": 910,
+  "NumberOfAwards": 2933,
+  "NumberOfAwardsMax": 912,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 910
+      "Count": 912
     },
     {
       "Text": "This game is Great for Beginners",
@@ -5360,8 +5366,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
-  "LastChanged": "2024-09-07T23:58:54.0029903+00:00",
+  "LastChanged": "2024-09-08T04:57:23.8091586+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:29.4474506+00:00",
-  "LastUpdate_Ratings": "2024-09-08T03:03:46.1141762+00:00",
+  "LastUpdate_Ratings": "2024-09-08T04:57:23.8091593+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:01.4351989+00:00"
 }

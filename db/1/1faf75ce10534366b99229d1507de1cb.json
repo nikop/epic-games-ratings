@@ -4,7 +4,7 @@
   "ProductSlug": "rennsport-3776b8",
   "Ranking_Rating": 1113,
   "Ranking_Popularity": 656,
-  "Ranking_PopularitySum": 580,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -550,6 +550,6 @@
   "FirstSeenRating": "2024-07-12T12:00:28.9090218+00:00",
   "LastChanged": "2024-09-08T03:57:52.1174702+00:00",
   "LastUpdate_AppInfo": "2024-09-05T05:57:06.5702862+00:00",
-  "LastUpdate_Ratings": "2024-09-08T03:57:52.1174707+00:00",
+  "LastUpdate_Ratings": "2024-09-08T05:00:00.304778+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:42.3607447+00:00"
 }

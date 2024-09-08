@@ -3,7 +3,7 @@
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 162,
-  "Ranking_Popularity": 69,
+  "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -17108,18 +17108,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 19442,
       "NumberOfAwardsMax": 8388
+    },
+    {
+      "Time": "2024-09-08T04:58:06.593805+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 19456,
+      "NumberOfAwardsMax": 8402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19442,
-  "NumberOfAwardsMax": 8388,
+  "NumberOfAwards": 19456,
+  "NumberOfAwardsMax": 8402,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8388
+      "Count": 8402
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -17199,8 +17205,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2024-09-07T22:57:48.3775752+00:00",
+  "LastChanged": "2024-09-08T04:58:06.5938045+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:31.3036983+00:00",
-  "LastUpdate_Ratings": "2024-09-08T03:04:51.3420227+00:00",
+  "LastUpdate_Ratings": "2024-09-08T04:58:06.5938054+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:12.5021308+00:00"
 }
