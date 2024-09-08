@@ -1,7 +1,7 @@
 # Tunche
 [Store](https://store.epicgames.com/en-US/p/tunche)  
 [View Rawdata](../../db/t/tunche.json)  
-Rating: 4.43 (Ranked 830)  
+Rating: 4.44 (Ranked 810)  
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 596)  
 Sum: 38 (Ranked 650)  
@@ -83,3 +83,4 @@ Diff (max vs sum): -54
 | 2024-05-31 | 4.43 | 36 | 36 |
 | 2024-08-03 | 4.43 | 37 | 37 |
 | 2024-08-25 | 4.43 | 38 | 38 |
+| 2024-09-08 | 4.44 | 38 | 38 |

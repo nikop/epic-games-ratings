@@ -3,8 +3,8 @@
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 938,
-  "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 237,
+  "Ranking_Popularity": 251,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2454,18 +2454,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 2455,
       "NumberOfAwardsMax": 586
+    },
+    {
+      "Time": "2024-09-08T19:57:18.0792449+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 2492,
+      "NumberOfAwardsMax": 608
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2455,
-  "NumberOfAwardsMax": 586,
+  "NumberOfAwards": 2492,
+  "NumberOfAwardsMax": 608,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 586
+      "Count": 608
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2495,7 +2501,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 155
+      "Count": 162
     },
     {
       "Text": "This game has Competitive Players",
@@ -2507,7 +2513,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 200
+      "Count": 208
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2540,8 +2546,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-09-08T15:59:00.68338+00:00",
+  "LastChanged": "2024-09-08T19:57:18.0792447+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:28.847511+00:00",
-  "LastUpdate_Ratings": "2024-09-08T17:58:19.0142972+00:00",
+  "LastUpdate_Ratings": "2024-09-08T19:57:18.0792454+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:29.0177179+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "333cce509c6b413c852e5177f19f8e84",
   "Name": "EA SPORTS\u2122 Madden NFL 25",
   "ProductSlug": "madden-nfl-25",
-  "Ranking_Rating": 1084,
+  "Ranking_Rating": 1060,
   "Ranking_Popularity": 712,
   "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2024-08-20T22:59:12.6488976+00:00",
@@ -163,6 +163,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-08T19:56:57.6280592+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -189,9 +195,9 @@
   "FirstSeen": "2024-08-16T04:58:48.482638+00:00",
   "FirstSeenRating": "2024-08-20T22:59:12.6488974+00:00",
   "FirstSeenAchievements": "2024-07-25T19:01:58.553285+00:00",
-  "LastChanged": "2024-09-07T21:58:11.3570868+00:00",
+  "LastChanged": "2024-09-08T19:56:57.628059+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:53.9852471+00:00",
   "LastUpdate_AppInfo": "2024-09-05T23:56:59.6094969+00:00",
-  "LastUpdate_Ratings": "2024-09-08T17:57:59.5929344+00:00",
+  "LastUpdate_Ratings": "2024-09-08T19:56:57.6280597+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:53.9852503+00:00"
 }
