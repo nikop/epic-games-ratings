@@ -91,7 +91,7 @@
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | 7 (1,000 XP) | 29 | - | 0 |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | 20 (1,000 XP) | 0 | - | - |
 | [Trepang2](games/e/e9e954cebd354b7092bbecef04b5d7fd.md) | 2024-07-25 | 49 (1,000 XP) | 0 | - | 0 |
-| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 86,313 | 4.75 | 27 |
+| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 86,313 | 4.76 | 27 |
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2024-07-25 | 38 (1,000 XP) | 0 | - | - |
 | [Silenced: The House](games/d/d58638016a464d09919c32f8830f682e.md) | 2024-07-24 | 11 (1,000 XP) | 11 | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | 43 (1,000 XP) | 100,678 | 4.38 | 20 |
@@ -161,7 +161,7 @@
 | [Chess Knights: Viking Lands](games/4/407fa6baf9244d2a937ca1255f29c202.md) | 2024-06-13 | 10 (1,000 XP) | 4 | - | 0 |
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 18 | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
-| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.65 | 41 |
+| [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 82,344 | 3.65 | 44 |
 | [Secrets of the Heartbeat](games/5/523d96a53f9a4fb996f7086e38696ca6.md) | 2024-06-07 | 28 (1,000 XP) | 249 | - | 0 |
 | [Command & Conquer™ Remastered Collection](games/2/2c01f88a21d94b10846433931e3fb628.md) | 2024-06-06 | 33 (1,000 XP) | 157 | - | - |
 | [Colorgrid](games/3/37986e23d96545498b42f60c3198b6d3.md) | 2024-06-06 | 7 (1,000 XP) | 352 | - | 0 |
@@ -460,7 +460,7 @@
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 2023-11-23 | 18 (1,000 XP) | 83 | - | 0 |
 | [Magnetism](games/1/1f5c217a910f4c00aaee91c20b34bb46.md) | 2023-11-23 | 9 (1,000 XP) | 1 | - | - |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 2023-11-22 | 43 (1,000 XP) | 70 | - | 0 |
-| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.70 | 29 |
+| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.71 | 29 |
 | [Worldless](games/c/c0a02ff2b624425c8111868dec76ac7b.md) | 2023-11-21 | 24 (1,000 XP) | 221 | - | 0 |
 | [Aron's Adventure: Magic Reborn](games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 2023-11-20 | 31 (1,000 XP) | 241 | - | 0 |
 | [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | 2023-11-18 | 27 (1,000 XP) | 2,588 | - | 0 |
@@ -918,7 +918,7 @@
 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 2023-03-09 | 21 (1,000 XP) | 226 | - | 0 |
 | [Hotel Renovator](games/h/hotel_renovator.md) | 2023-03-07 | 27 (1,000 XP) | 1,822 | 4.34 | 0 |
 | [Rogue Spirit](games/r/rogue_spirit.md) | 2023-03-07 | 60 (1,000 XP) | 42 | - | 0 |
-| [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 5,071 | 4.50 | 61 |
+| [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 5,071 | 4.50 | 62 |
 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 2023-02-28 | 24 (1,000 XP) | 2,288 | - | 0 |
 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 2023-02-27 | 31 (1,000 XP) | 162 | - | 0 |
 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 2023-02-23 | 40 (1,000 XP) | 1,753 | 4.47 | 0 |
@@ -1158,7 +1158,7 @@
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 251 (6,045 XP) | 1,576,946 | 4.50 | 54,018 |
 | [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 280,153 | 4.61 | 1,068 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 19 | - | 0 |
-| [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,723 | 4.45 | 38 |
+| [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,723 | 4.44 | 38 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 637,519 | 4.51 | 150 |
 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,046,669 | 4.61 | 21,257 |
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 181,604 | - | 0 |
@@ -1191,7 +1191,7 @@
 | [Dice Legacy](games/d/dice_legacy.md) | 2021-09-09 | 45 (1,000 XP) | 1,587 | 4.29 | 0 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 152 (1,400 XP) | 14,614 | 4.76 | 1,913 |
 | [Transport Fever 2](games/t/transport_fever_2.md) | 2021-08-18 | 61 (1,000 XP) | 2,979 | 4.67 | 61 |
-| [Road 96](games/r/road_96.md) | 2021-08-16 | 12 (1,000 XP) | 2 | 4.68 | 0 |
+| [Road 96](games/r/road_96.md) | 2021-08-16 | 12 (1,000 XP) | 2 | 4.69 | 0 |
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 17,347 | 4.50 | 58 |
 | [FORECLOSED](games/f/foreclosed.md) | 2021-08-12 | 24 (1,000 XP) | 272 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 89,351 | 4.64 | 26 |
@@ -1242,12 +1242,12 @@
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,114,913 | 4.69 | 176,513 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 231 | 4.17 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 29,945 | 4.86 | 58 |
-| [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 61,233 | 4.65 | 470 |
+| [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 61,233 | 4.66 | 470 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,106 | 4.73 | 93 |
 | [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,447,304 | 4.56 | 4,263 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 86,532 | - | 0 |
 | [Port Royale 4](games/p/port_royale_4.md) | 2020-09-25 | 50 (1,000 XP) | 1,815 | 4.02 | 0 |
-| [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 531,105 | 4.61 | 125 |
+| [Art of Rally](games/a/art_of_rally_1.md) | 2020-09-23 | 43 (1,000 XP) | 531,105 | 4.61 | 126 |
 | [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 30,691,645 | 4.43 | 942,951 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 264,939 | 4.58 | 395 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 2020-09-08 | 69 (1,000 XP) | 1,727 | 4.55 | 92 |
@@ -1269,7 +1269,7 @@
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 56,900 | 4.45 | 0 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 861,544 | 4.71 | 9,000 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 10,675 | 4.61 | 109 |
-| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 10,513 | 4.55 | 473 |
+| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 10,513 | 4.55 | 475 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 176,424 | 4.21 | 23 |
 | [Crayta](games/c/crayta.md) | - | 34 (1,000 XP) | 110,332 | 4.19 | 50 |
 | [Cymatically Muffed](games/c/cymatically_muffed.md) | - | 16 (1,000 XP) | 0 | - | - |
