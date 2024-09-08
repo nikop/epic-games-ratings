@@ -389,7 +389,7 @@
 | [Geometric Sniper](games/1/17514f68442f4cb19f6219f45309142b.md) | 2024-01-19 | 35 (1,000 XP) | 466 | - | 0 |
 | [The Death Into Trouble](games/6/61bf61eac17e4387b779eac91395aa79.md) | 2024-01-19 | 21 (1,000 XP) | 4 | - | 0 |
 | [Title_Pending](games/a/a9b4829f53a54f098c57c87bd1ff791e.md) | 2024-01-19 | 24 (1,000 XP) | 144 | - | 0 |
-| [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 2024-01-18 | 18 (1,000 XP) | 163,711 | 4.42 | 0 |
+| [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 2024-01-18 | 18 (1,000 XP) | 163,711 | 4.41 | 0 |
 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 2024-01-18 | 23 (1,000 XP) | 475 | - | 0 |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2024-01-17 | 60 (1,000 XP) | 1 | - | - |
 | [Aircraft Carrier Survival](games/6/6c0cf3150f2647858f071175510cfcd4.md) | 2024-01-17 | 18 (1,000 XP) | 134 | - | 0 |
@@ -488,7 +488,7 @@
 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 36 | - | 0 |
 | [Godzilla Voxel Wars](games/8/8549e5bffe744f67933bf4f8689030c4.md) | 2023-11-08 | 63 (1,000 XP) | 41 | - | 0 |
 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 2023-11-07 | 81 (1,070 XP) | 64,651 | 4.85 | 0 |
-| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.76 | 1,143 |
+| [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 2023-11-06 | 100 (1,000 XP) | 102,848 | 4.77 | 1,143 |
 | [The Invincible](games/t/the_invincible.md) | 2023-11-06 | 29 (1,000 XP) | 2,441 | 4.49 | 0 |
 | [The Hive](games/3/3778010ababa48d387d44ee9fd61b517.md) | 2023-11-05 | 39 (1,000 XP) | 211 | - | 0 |
 | [Strange House](games/s/strange_house.md) | 2023-11-03 | 6 (1,000 XP) | 75 | - | - |
@@ -523,7 +523,7 @@
 | [Desktop Girlfriend NEO](games/e/e9e51dd0d086464a9a794d9cfa7da123.md) | 2023-10-25 | 93 (1,000 XP) | 130 | - | 0 |
 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 2023-10-24 | 31 (1,000 XP) | 119 | - | 0 |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 76,765 | 4.12 | 0 |
-| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 429,785 | 4.43 | 1,496 |
+| [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 429,785 | 4.43 | 1,502 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 265 | - | 0 |
 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 37,247 | 4.38 | 0 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 688 | 4.74 | 0 |
@@ -834,7 +834,7 @@
 | [Ravenlok](games/r/ravenlok.md) | 2023-05-04 | 50 (1,000 XP) | 1,273 | - | 0 |
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 73 | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 54 (1,300 XP) | 3 | - | 0 |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 72 (1,735 XP) | 8,020 | 4.66 | 99 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 72 (1,735 XP) | 8,020 | 4.65 | 99 |
 | [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,654 | 3.71 | 49 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 15 | - | 0 |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 2023-05-01 | 60 (1,000 XP) | 8 | - | 0 |
@@ -843,7 +843,7 @@
 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 2023-04-29 | 35 (1,000 XP) | 81 | - | 0 |
 | [Life After Death](games/l/life_after_death.md) | 2023-04-28 | 60 (1,000 XP) | 38 | - | 0 |
 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 2023-04-28 | 10 (1,000 XP) | 25 | - | 0 |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 66,472 | 4.51 | 14,041 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 66,472 | 4.51 | 14,052 |
 | [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 582,304 | 3.87 | 122 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 3,474 | 4.47 | 27 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 29 (1,150 XP) | 1,194 | - | 0 |
@@ -921,7 +921,7 @@
 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 2023-03-07 | 71 (1,705 XP) | 5,071 | 4.50 | 62 |
 | [Nickelodeon All-Star Brawl](games/n/nickelodeon_all-star_brawl.md) | 2023-02-28 | 24 (1,000 XP) | 2,288 | - | 0 |
 | [Voltaire: The Vegan Vampire](games/v/voltaire__the_vegan_vampire.md) | 2023-02-27 | 31 (1,000 XP) | 162 | - | 0 |
-| [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 2023-02-23 | 40 (1,000 XP) | 1,753 | 4.47 | 0 |
+| [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 2023-02-23 | 40 (1,000 XP) | 1,753 | 4.46 | 0 |
 | [Swordship](games/s/swordship.md) | 2023-02-21 | 17 (1,000 XP) | 0 | - | 0 |
 | [Seven Doors](games/s/seven_doors.md) | 2023-02-20 | 17 (1,000 XP) | 62 | - | 0 |
 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 2023-02-17 | 12 (1,000 XP) | 3,112 | - | 0 |
@@ -1019,7 +1019,7 @@
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 2022-10-06 | 29 (1,000 XP) | 52,299 | 4.27 | 136 |
 | [The Complex](games/t/the_complex.md) | 2022-10-04 | 20 (1,000 XP) | 1,376 | - | 0 |
 | [Airoheart](games/a/airoheart.md) | 2022-09-30 | 29 (1,000 XP) | 0 | - | 0 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 245,697 | 4.26 | 24,767 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 245,697 | 4.26 | 24,773 |
 | [Bunny Park](games/b/bunny_park.md) | 2022-09-30 | 18 (1,000 XP) | 343 | - | 0 |
 | [Lemon Cake](games/l/lemon_cake.md) | 2022-09-29 | 17 (1,000 XP) | 312 | - | 0 |
 | [Despot's Game](games/d/despot's_game.md) | 2022-09-29 | 35 (1,000 XP) | 568 | 4.43 | 0 |
