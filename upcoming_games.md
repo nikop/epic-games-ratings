@@ -544,6 +544,7 @@
 | [R-Type Tactics I - II Cosmos](games/r/r-type_tactics_i_-_ii_cosmos.md) | 2099-01-01 | - |  | - | - |
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | - |  | - | - |
 | [Realife Simulator](games/b/b45f4ea9d6ca4644a06b5f52ee87930e.md) | 2099-01-01 | - |  | - | - |
+| [Realm of Dread](games/5/5830e39c9f3149cdaf4d6fcb4953273a.md) | 2099-01-01 | - |  | - | - |
 | [Realms of Alterra: Prologue](games/d/d779b7aef075456b9b056a8eb4172819.md) | 2099-01-01 | - |  | - | - |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | - |  | - | - |
 | [RESISTOR](games/0/0d7ae272a45342aa8abcc5b6a9bca792.md) | 2099-01-01 | - |  | - | - |
