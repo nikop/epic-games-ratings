@@ -2,9 +2,9 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 787,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 596,
-  "Ranking_PopularitySum": 649,
+  "Ranking_PopularitySum": 650,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 333,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR,JP"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 58,
   "RatingHistory": [
     {
@@ -375,6 +375,12 @@
     {
       "Time": "2024-08-03T02:59:50.0344799+00:00",
       "Rating": 4.45,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-09-08T07:58:44.987176+00:00",
+      "Rating": 4.44,
       "NumberOfAwards": 38,
       "NumberOfAwardsMax": 38
     }
@@ -3666,9 +3672,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
-  "LastChanged": "2024-08-03T02:59:50.0344796+00:00",
+  "LastChanged": "2024-09-08T07:58:44.9871759+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:42.117624+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:11.5023035+00:00",
-  "LastUpdate_Ratings": "2024-09-08T05:59:48.6992162+00:00",
+  "LastUpdate_Ratings": "2024-09-08T07:58:44.9871763+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:42.1176819+00:00"
 }

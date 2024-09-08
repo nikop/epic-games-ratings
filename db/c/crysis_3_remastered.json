@@ -3,8 +3,8 @@
   "Name": "Crysis 3 Remastered",
   "ProductSlug": "crysis-3-remastered",
   "Ranking_Rating": 331,
-  "Ranking_Popularity": 356,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -793,18 +793,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2024-09-08T07:58:11.3807749+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 213,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
-  "NumberOfAwardsMax": 211,
+  "NumberOfAwards": 213,
+  "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 211
+      "Count": 213
     }
   ],
   "EOS_Progressed": 0,
@@ -818,8 +824,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:55.830928+00:00",
-  "LastChanged": "2024-09-04T17:00:07.8831106+00:00",
+  "LastChanged": "2024-09-08T07:58:11.3807739+00:00",
   "LastUpdate_AppInfo": "2024-09-01T19:57:17.9978771+00:00",
-  "LastUpdate_Ratings": "2024-09-08T05:59:15.4098506+00:00",
+  "LastUpdate_Ratings": "2024-09-08T07:58:11.3807754+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:00.1592002+00:00"
 }

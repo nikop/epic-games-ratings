@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 351,
+  "Ranking_Rating": 331,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 164,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 1635,
   "RatingHistory": [
     {
@@ -4745,10 +4745,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 3102,
       "NumberOfAwardsMax": 470
+    },
+    {
+      "Time": "2024-09-08T07:58:08.1265731+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3103,
+      "NumberOfAwardsMax": 470
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3102,
+  "NumberOfAwards": 3103,
   "NumberOfAwardsMax": 470,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4810,7 +4816,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 330
+      "Count": 331
     },
     {
       "Text": "This game has a Silly Community",
@@ -36760,9 +36766,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2024-09-06T10:57:38.7523187+00:00",
+  "LastChanged": "2024-09-08T07:58:08.1265729+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:23.2215471+00:00",
   "LastUpdate_AppInfo": "2024-09-02T06:57:28.9717763+00:00",
-  "LastUpdate_Ratings": "2024-09-08T05:59:12.2242599+00:00",
+  "LastUpdate_Ratings": "2024-09-08T07:58:08.1265736+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:23.2217239+00:00"
 }
