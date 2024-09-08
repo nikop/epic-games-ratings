@@ -1,7 +1,7 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 351)  
+Rating: 4.65 (Ranked 352)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -348,19 +348,19 @@ Completed: 50 (0.00%) (Ranked 561)
 | 2024-08-09 | 3,676,727 | 50 |
 ## Awards
 Max (Great for Beginners): 1,286  (Ranked 171)  
-Sum: 8,931 (Ranked 137)  
+Sum: 8,937 (Ranked 137)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,286 |
-| This game is Educational | 1,092 |
-| This game is Extremely Fun | 1,076 |
+| This game is Educational | 1,094 |
+| This game is Extremely Fun | 1,078 |
 | This game is Relaxing | 1,061 |
 | This game has Quickly Understood Controls | 1,029 |
 | This game is Highly Recommended | 1,004 |
 | This game has Amazing Storytelling | 911 |
 | This game has a Creative Community | 739 |
-| This game has Amazing Characters | 733 |
+| This game has Amazing Characters | 735 |
 | This game has Obsessive Gameplay | 664 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -881,4 +881,4 @@ Diff (max vs sum): 34
 | 2024-09-05 | 4.65 | - | 1,280 | 8,918 |
 | 2024-09-06 | 4.65 | - | 1,284 | 8,924 |
 | 2024-09-07 | 4.65 | - | 1,286 | 8,929 |
-| 2024-09-08 | 4.65 | - | 1,286 | 8,931 |
+| 2024-09-08 | 4.65 | - | 1,286 | 8,937 |

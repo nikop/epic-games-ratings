@@ -1,7 +1,7 @@
 # Pillars of Eternity - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pillars-of-eternity)  
 [View Rawdata](../../db/p/pillars_of_eternity_-_definitive_edition.json)  
-Rating: 4.66 (Ranked 331)  
+Rating: 4.66 (Ranked 332)  
 Number of Ratings: 2,847  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -125,19 +125,19 @@ Completed: 2 (0.19%) (Ranked 397)
 | 2024-06-17 | 1,061 | 2 |
 | 2024-08-09 | 1,058 | 2 |
 ## Awards
-Max (Character Customization): 2,072  (Ranked 138)  
-Sum: 5,131 (Ranked 171)  
+Max (Character Customization): 2,075  (Ranked 138)  
+Sum: 5,135 (Ranked 171)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 2,072 |
+| This game has Inclusive Character Customization | 2,075 |
 | This game is Extremely Fun | 376 |
 | This game has Diverse Characters | 371 |
 | This game has Amazing Storytelling | 370 |
 | This game has Amazing Characters | 362 |
 | This game is Highly Recommended | 351 |
 | This game has Challenging Combat | 345 |
-| This game is Relaxing | 342 |
+| This game is Relaxing | 343 |
 | This game has Quickly Understood Controls | 337 |
 | This game has a Creative Community | 205 |
 | This game has Unique Visuals | 141 |
@@ -526,4 +526,4 @@ Diff (max vs sum): -33
 | 2024-09-05 | 4.66 | - | 2,071 | 5,124 |
 | 2024-09-06 | 4.66 | - | 2,072 | 5,126 |
 | 2024-09-07 | 4.66 | - | 2,072 | 5,128 |
-| 2024-09-08 | 4.66 | - | 2,072 | 5,131 |
+| 2024-09-08 | 4.66 | - | 2,075 | 5,135 |

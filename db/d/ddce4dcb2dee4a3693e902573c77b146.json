@@ -2,7 +2,7 @@
   "ID": "ddce4dcb2dee4a3693e902573c77b146",
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 500,
   "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 1193,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-12-13T01:50:49.5895067+00:00",
@@ -3383,10 +3383,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1016,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-09-08T16:57:42.4189304+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1018,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1016,
+  "NumberOfAwards": 1018,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3412,7 +3418,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 81
+      "Count": 83
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3475,8 +3481,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-09-08T07:58:40.8295088+00:00",
+  "LastChanged": "2024-09-08T16:57:42.4189302+00:00",
   "LastUpdate_AppInfo": "2024-09-04T18:57:29.2122503+00:00",
-  "LastUpdate_Ratings": "2024-09-08T14:58:22.2343548+00:00",
+  "LastUpdate_Ratings": "2024-09-08T16:57:42.4189312+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:55.7173772+00:00"
 }

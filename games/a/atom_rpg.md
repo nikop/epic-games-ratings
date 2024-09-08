@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.51 (Ranked 669)  
+Rating: 4.52 (Ranked 653)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -392,3 +392,4 @@ Diff (max vs sum): -87
 | 2024-08-20 | 4.52 | - | 60 | 60 |
 | 2024-08-23 | 4.51 | - | 61 | 61 |
 | 2024-09-06 | 4.51 | - | 62 | 62 |
+| 2024-09-08 | 4.52 | - | 62 | 62 |
