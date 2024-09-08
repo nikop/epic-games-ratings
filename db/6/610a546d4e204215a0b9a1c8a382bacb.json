@@ -2,7 +2,7 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 147,
+  "Ranking_Rating": 148,
   "Ranking_Popularity": 184,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 133,
@@ -10459,10 +10459,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7887,
       "NumberOfAwardsMax": 1143
+    },
+    {
+      "Time": "2024-09-08T17:58:39.3475686+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7923,
+      "NumberOfAwardsMax": 1143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7887,
+  "NumberOfAwards": 7923,
   "NumberOfAwardsMax": 1143,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -10506,7 +10512,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 878
+      "Count": 914
     },
     {
       "Text": "This game has a Creative Community",
@@ -21126,9 +21132,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-09-08T15:59:21.3855118+00:00",
+  "LastChanged": "2024-09-08T17:58:39.3475684+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:54.6525756+00:00",
   "LastUpdate_AppInfo": "2024-09-04T18:57:27.0871679+00:00",
-  "LastUpdate_Ratings": "2024-09-08T15:59:21.3855126+00:00",
+  "LastUpdate_Ratings": "2024-09-08T17:58:39.3475691+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:54.6526933+00:00"
 }

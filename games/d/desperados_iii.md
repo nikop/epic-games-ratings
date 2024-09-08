@@ -1,7 +1,7 @@
 # Desperados III
 [Store](https://store.epicgames.com/en-US/p/desperados-3)  
 [View Rawdata](../../db/d/desperados_iii.json)  
-Rating: 4.84 (Ranked 53)  
+Rating: 4.84 (Ranked 54)  
 Number of Ratings: 351  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,8 +56,8 @@ Completed: 4 (0.12%) (Ranked 425)
 | 2024-08-20 | 3,346 | 4 |
 ## Awards
 Max (Diverse Characters): 57  (Ranked 540)  
-Sum: 412 (Ranked 427)  
-Diff (max vs sum): 113  
+Sum: 412 (Ranked 428)  
+Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 57 |

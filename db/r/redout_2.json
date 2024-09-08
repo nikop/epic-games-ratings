@@ -4,7 +4,7 @@
   "ProductSlug": "redout-2",
   "Ranking_Rating": 564,
   "Ranking_Popularity": 629,
-  "Ranking_PopularitySum": 553,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 35,
@@ -485,10 +485,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 124,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-09-08T17:59:06.0010701+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 124,
+  "NumberOfAwards": 145,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Beautiful Visuals",
   "Tags": [
@@ -502,7 +508,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -521,6 +527,12 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 21
+    },
+    {
+      "Text": "This game has a Competitive Community",
+      "Prefix": "This game has a",
+      "Type": "Competitive Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 150899,
@@ -2316,9 +2328,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-09-08T03:02:47.3825223+00:00",
+  "LastChanged": "2024-09-08T17:59:06.0010699+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:42.4436388+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:17.7433337+00:00",
-  "LastUpdate_Ratings": "2024-09-08T15:59:47.0920272+00:00",
+  "LastUpdate_Ratings": "2024-09-08T17:59:06.0010704+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:42.4436843+00:00"
 }
