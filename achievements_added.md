@@ -125,7 +125,7 @@
 | [Baby Storm](games/c/ce637d3eeee844a8b902d93416b1e40e.md) | 2023-09-07 | 32 (1,000 XP) | 39 | - | 0 |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-05-13 | 35 (1,000 XP) | 2,202 | 4.07 | 0 |
 | [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 3 | - | 0 |
-| [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 90,278 | 4.56 | 94 |
+| [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 90,278 | 4.57 | 96 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 744 | - | 0 |
 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,007 | 4.65 | 34 |
 | [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-17 | 11 (1,000 XP) | 162 | - | 0 |
@@ -183,7 +183,7 @@
 | [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | 6 (1,000 XP) | 20 | - | - |
 | [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2024-05-09 | 14 (1,000 XP) | 854 | 4.64 | 0 |
 | [Spellcats Auto Card Tactics](games/4/4dadd911cca741d684859a00e813a14b.md) | 2024-05-17 | 26 (1,000 XP) | 2 | - | - |
-| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 110 |
+| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 114 |
 | [FRONT MISSION 2: Remake](games/e/e80b3a84fa574d44ace56f5ad69d71a1.md) | 2024-04-30 | 32 (1,000 XP) | 0 | - | 0 |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | 43 (1,000 XP) | 1 | - | 0 |
@@ -283,7 +283,7 @@
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 34 | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 151 | - | 0 |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 534 | - | 0 |
-| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 583,087 | 4.53 | 145 |
+| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 583,087 | 4.53 | 147 |
 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 16,542 | 4.20 | 42 |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 15,931 | 4.82 | 786 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 3,052 | 4.62 | 0 |
@@ -714,7 +714,7 @@
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 1,978 | - | 0 |
 | [Quantum Recharged](games/9/9161d1b30f4e4a0cbec5ee398d6e5cd6.md) | 2023-08-17 | 13 (1,000 XP) | 14 | - | - |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 1,983 | 4.86 | 0 |
-| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 457 | 4.55 | 0 |
+| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 457 | 4.60 | 0 |
 | [greensheen Production](games/g/greensheen_production.md) | - | 35 (1,000 XP) | 33 | - | - |
 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 2023-08-11 | 40 (1,000 XP) | 28 | - | 0 |
 | [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 2023-08-10 | 14 (1,000 XP) | 602 | - | 0 |
@@ -723,12 +723,12 @@
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | 0 |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-13 | 24 (1,000 XP) | 0 | - | - |
-| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.17 | 0 |
+| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.18 | 0 |
 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 375,984 | 4.42 | 45 |
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 2 | - | 0 |
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 103,060 | 3.94 | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 904,941 | 4.53 | 1,350 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 645,713 | 4.58 | 269 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 645,713 | 4.58 | 273 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 487 | - | 0 |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 34 | - | - |
 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 2023-09-06 | 11 (1,000 XP) | 17 | - | 0 |

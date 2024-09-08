@@ -176,7 +176,7 @@
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
 | [Reliefs The Time of the Lemures](games/3/3184fa4f95ff42e48853f3f16de47fce.md) | 2024-05-30 | 25 (1,000 XP) | 146 | - | 0 |
-| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 110 |
+| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 5,560 | 4.80 | 114 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 28 | - | 0 |
 | [SOKOCAT - DUNGEON](games/7/7835e0cee5f244368043d0ba83528856.md) | 2024-05-30 | 13 (1,000 XP) | 63 | - | 0 |
 | [Capes](games/4/41354424d5e74b579fc22def2cd1df6c.md) | 2024-05-29 | 46 (1,000 XP) | 71 | - | 0 |
@@ -666,7 +666,7 @@
 | [Project Nightmares Case 36: Henrietta Kedward](games/7/745fc8d94b6244caa3a97f453ddb92ca.md) | 2023-08-10 | 20 (1,000 XP) | 47 | - | 0 |
 | [Stray Gods: The Roleplaying Musical](games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 2023-08-10 | 37 (1,000 XP) | 372 | - | 0 |
 | [The Dragoness Command Of The Flame](games/8/8bf17fa0bd774f72bb06bd095830af2a.md) | 2023-08-09 | 37 (1,000 XP) | 56 | - | 0 |
-| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.17 | 0 |
+| [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 89,645 | 4.18 | 0 |
 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 2023-08-04 | 20 (1,000 XP) | 462 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
@@ -674,7 +674,7 @@
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 156 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 904,941 | 4.53 | 1,350 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 645,713 | 4.58 | 269 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 645,713 | 4.58 | 273 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 49 | - | 0 |
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 474 | - | 0 |
@@ -1088,7 +1088,7 @@
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,922 | 4.74 | 121 |
 | [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 702 | 4.20 | 0 |
 | [It Takes Two](games/i/it_takes_two.md) | 2022-06-10 | 20 (1,000 XP) | 206,009 | - | - |
-| [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 90,278 | 4.56 | 94 |
+| [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 90,278 | 4.57 | 96 |
 | [Train Valley 2](games/t/train_valley_2.md) | 2022-06-08 | 100 (1,420 XP) | 462,681 | 4.49 | 1,505 |
 | [My Lovely Wife](games/m/my_lovely_wife.md) | 2022-06-07 | 33 (1,000 XP) | 709 | 4.40 | 0 |
 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 2022-06-03 | 21 (1,000 XP) | 143,330 | - | - |
@@ -1109,7 +1109,7 @@
 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 2022-05-04 | 20 (1,000 XP) | 0 | 3.83 | 0 |
 | [Wunderling DX](games/w/wunderling_dx.md) | 2022-04-28 | 41 (1,000 XP) | 41 | - | 0 |
 | [Imagine Earth](games/i/imagine_earth.md) | 2022-04-28 | 24 (1,000 XP) | 472 | 4.32 | 0 |
-| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 457 | 4.55 | 0 |
+| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 457 | 4.60 | 0 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.60 | 0 |
 | [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 868 | 4.35 | 0 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 2022-04-26 | 72 (1,000 XP) | 7,975 | 4.18 | 102 |
@@ -1178,13 +1178,13 @@
 | [War Mongrels](games/w/war_mongrels.md) | 2021-10-19 | 59 (1,000 XP) | 3,186 | 4.40 | 0 |
 | [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,835 | 4.82 | 520 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,383 | 4.42 | 0 |
-| [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,676,727 | 4.65 | 1,284 |
+| [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,676,727 | 4.65 | 1,286 |
 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 176,185 | 4.47 | 26 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 373 (5,500 XP) | 591,216 | 4.68 | 11,032 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 30,504 | 4.27 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 6,624 | 4.40 | 42 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 132,581 | 4.53 | 39 |
-| [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 2021-09-21 | 41 (1,000 XP) | 432,911 | 4.70 | 1,414 |
+| [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 2021-09-21 | 41 (1,000 XP) | 432,911 | 4.70 | 1,415 |
 | [Severed Steel](games/s/severed_steel.md) | 2021-09-17 | 52 (1,000 XP) | 681,950 | 4.68 | 719 |
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 269,988 | 4.27 | 122 |
 | [Flat Heroes](games/f/flat_heroes.md) | 2021-09-15 | 44 (1,000 XP) | 755 | - | 0 |
@@ -1234,7 +1234,7 @@
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 8,485 | - | 0 |
 | [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 482,170 | 4.53 | 255 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,226 | 4.65 | 134 |
-| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 583,087 | 4.53 | 145 |
+| [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 583,087 | 4.53 | 147 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 506,083 | 4.45 | 317 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,470,302 | 4.65 | 9,184 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,558 | 4.65 | 0 |
