@@ -4,13 +4,13 @@
 Rating: 4.60 (Ranked 470)  
 ## Awards
 Max (Character Customization): 18,265  (Ranked 32)  
-Sum: 38,134 (Ranked 50)  
+Sum: 38,138 (Ranked 50)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,265 |
 | This game is Great for Beginners | 2,398 |
-| This game has Diverse Characters | 2,204 |
+| This game has Diverse Characters | 2,208 |
 | This game is Highly Recommended | 2,097 |
 | This game has Amazing Storytelling | 2,087 |
 | This game is Extremely Fun | 2,086 |
@@ -559,4 +559,4 @@ Diff (max vs sum): -18
 | 2024-09-05 | 4.60 | 18,238 | 38,063 |
 | 2024-09-06 | 4.60 | 18,249 | 38,087 |
 | 2024-09-07 | 4.60 | 18,265 | 38,128 |
-| 2024-09-08 | 4.60 | 18,265 | 38,134 |
+| 2024-09-08 | 4.60 | 18,265 | 38,138 |

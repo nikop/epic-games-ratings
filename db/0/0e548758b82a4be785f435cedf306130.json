@@ -4,7 +4,7 @@
   "ProductSlug": "black-myth-wukong-87a72b",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 62,
-  "Ranking_PopularitySum": 72,
+  "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -786,10 +786,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 22493,
       "NumberOfAwardsMax": 9365
+    },
+    {
+      "Time": "2024-09-08T15:59:53.8060175+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 22897,
+      "NumberOfAwardsMax": 9365
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22493,
+  "NumberOfAwards": 22897,
   "NumberOfAwardsMax": 9365,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -803,7 +809,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5938
+      "Count": 6342
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1180,9 +1186,9 @@
   "FirstSeen": "2024-08-20T05:59:33.1921959+00:00",
   "FirstSeenRating": "2024-08-20T09:57:56.1070988+00:00",
   "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
-  "LastChanged": "2024-09-08T14:57:56.341355+00:00",
+  "LastChanged": "2024-09-08T15:59:53.8060173+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:36.1550622+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:53.5415546+00:00",
-  "LastUpdate_Ratings": "2024-09-08T14:57:56.3413555+00:00",
+  "LastUpdate_Ratings": "2024-09-08T15:59:53.8060178+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:36.1558868+00:00"
 }

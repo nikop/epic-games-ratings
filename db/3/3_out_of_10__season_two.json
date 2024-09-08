@@ -2,7 +2,7 @@
   "ID": "b829cfd910554ad3ad2eb3b314e2b1ef",
   "Name": "3 out of 10: Season Two",
   "ProductSlug": "3-out-of-10-season-2",
-  "Ranking_Rating": 1011,
+  "Ranking_Rating": 1036,
   "Ranking_Popularity": 712,
   "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.27,
   "NumberOfRatings": 52,
   "RatingHistory": [
     {
@@ -269,6 +269,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-08T15:57:20.6574023+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -286,8 +292,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.8158493+00:00",
-  "LastChanged": "2024-08-11T11:57:50.7151463+00:00",
+  "LastChanged": "2024-09-08T15:57:20.6574021+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:32.1501545+00:00",
-  "LastUpdate_Ratings": "2024-09-08T13:58:23.6201294+00:00",
+  "LastUpdate_Ratings": "2024-09-08T15:57:20.6574026+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:18.0458552+00:00"
 }
