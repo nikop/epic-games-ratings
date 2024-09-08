@@ -4,7 +4,7 @@
   "ProductSlug": "in-sound-mind",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 514,
-  "Ranking_PopularitySum": 444,
+  "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1085,10 +1085,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 371,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-09-08T14:00:08.4786532+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 412,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 371,
+  "NumberOfAwards": 412,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1142,9 +1148,9 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 32
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 41
     }
   ],
   "EOS_Progressed": 0,
@@ -1158,8 +1164,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:02.478793+00:00",
-  "LastChanged": "2024-09-04T03:00:31.0446243+00:00",
+  "LastChanged": "2024-09-08T14:00:08.478653+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:12:30.5193471+00:00",
-  "LastUpdate_Ratings": "2024-09-08T13:08:24.5332746+00:00",
+  "LastUpdate_Ratings": "2024-09-08T14:00:08.4786534+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:59.0261342+00:00"
 }

@@ -2,6 +2,9 @@
   "ID": "bf31a8cb90704bd686155cf3d32e5a8e",
   "Name": "90 Minute Fever - Online Football (Soccer) Manager",
   "ProductSlug": "90-minute-fever-0f4a21",
+  "Ranking_Rating": 787,
+  "Ranking_Popularity": 712,
+  "Ranking_PopularitySum": 712,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -19,7 +22,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.45,
+  "RatingHistory": [
+    {
+      "Time": "2024-09-08T13:57:16.8324507+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -35,7 +46,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2023-10-03T13:06:35.3488643+00:00",
+  "FirstSeenRating": "2024-09-08T13:57:16.8324504+00:00",
+  "LastChanged": "2024-09-08T13:57:16.8324505+00:00",
   "LastUpdate_AppInfo": "2024-09-05T21:57:10.2103896+00:00",
-  "LastUpdate_Ratings": "2024-09-08T11:57:52.8252186+00:00",
+  "LastUpdate_Ratings": "2024-09-08T13:57:16.8324516+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:29.7751548+00:00"
 }
