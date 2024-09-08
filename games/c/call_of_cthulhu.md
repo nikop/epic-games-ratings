@@ -1,7 +1,7 @@
 # Call of Cthulhu
 [Store](https://store.epicgames.com/en-US/p/call-of-cthulhu-8e5446)  
 [View Rawdata](../../db/c/call_of_cthulhu.json)  
-Rating: 4.34 (Ranked 964)  
+Rating: 4.33 (Ranked 976)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -44,3 +44,4 @@ Rating: 4.34 (Ranked 964)
 | 2024-08-06 | 4.37 | 0 | 0 |
 | 2024-08-08 | 4.36 | 0 | 0 |
 | 2024-08-12 | 4.34 | 0 | 0 |
+| 2024-09-08 | 4.33 | 0 | 0 |

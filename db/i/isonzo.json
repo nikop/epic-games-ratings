@@ -4,7 +4,7 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 518,
   "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 406,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 532,
   "Ranking_EOS_NewPlayers": 4857,
@@ -1745,10 +1745,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 526,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2024-09-08T02:09:23.9712896+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 528,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 526,
+  "NumberOfAwards": 528,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1768,7 +1774,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1804,7 +1810,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has a Kind Community",
@@ -12757,9 +12763,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-09-06T03:02:54.3574954+00:00",
+  "LastChanged": "2024-09-08T02:09:23.9712895+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:28.8197545+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:26.6320851+00:00",
-  "LastUpdate_Ratings": "2024-09-07T22:59:11.7285305+00:00",
+  "LastUpdate_Ratings": "2024-09-08T02:09:23.9712899+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:28.819815+00:00"
 }

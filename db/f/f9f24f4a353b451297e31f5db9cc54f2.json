@@ -4,7 +4,7 @@
   "ProductSlug": "apex-legends-006cde",
   "Ranking_Rating": 1114,
   "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 504,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 4,
@@ -588,10 +588,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 214,
       "NumberOfAwardsMax": 40
+    },
+    {
+      "Time": "2024-09-08T02:10:14.6964231+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 215,
+      "NumberOfAwardsMax": 40
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 214,
+  "NumberOfAwards": 215,
   "NumberOfAwardsMax": 40,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -617,7 +623,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
@@ -784,9 +790,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-09-07T21:57:30.6969017+00:00",
+  "LastChanged": "2024-09-08T02:10:14.6964229+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:12.8121394+00:00",
   "LastUpdate_AppInfo": "2024-09-02T21:57:05.2778555+00:00",
-  "LastUpdate_Ratings": "2024-09-07T23:00:08.7255365+00:00",
+  "LastUpdate_Ratings": "2024-09-08T02:10:14.6964235+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:12.8121467+00:00"
 }

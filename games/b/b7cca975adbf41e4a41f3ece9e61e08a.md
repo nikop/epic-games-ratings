@@ -191,8 +191,8 @@ Completed: 413 (1.96%) (Ranked 202)
 | 2024-08-09 | 21,010 | 413 |
 | 2024-08-20 | 21,064 | 413 |
 ## Awards
-Max (Impact the Story): 67  (Ranked 515)  
-Sum: 67 (Ranked 607)  
+Max (Impact the Story): 67  (Ranked 516)  
+Sum: 67 (Ranked 608)  
 Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |

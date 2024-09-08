@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 589,
   "Ranking_Popularity": 611,
-  "Ranking_PopularitySum": 495,
+  "Ranking_PopularitySum": 494,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -738,10 +738,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 237,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-09-08T02:09:38.1676393+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 237,
+  "NumberOfAwards": 238,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -779,7 +785,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1228,9 +1234,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-09-07T22:59:28.0590672+00:00",
+  "LastChanged": "2024-09-08T02:09:38.1676391+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:54.1220155+00:00",
   "LastUpdate_AppInfo": "2024-09-06T05:56:59.2723669+00:00",
-  "LastUpdate_Ratings": "2024-09-07T22:59:28.0590677+00:00",
+  "LastUpdate_Ratings": "2024-09-08T02:09:38.1676397+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:54.1220526+00:00"
 }
