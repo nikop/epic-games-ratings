@@ -4,7 +4,7 @@
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 811,
   "Ranking_Popularity": 518,
-  "Ranking_PopularitySum": 444,
+  "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1663,10 +1663,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 372,
       "NumberOfAwardsMax": 65
+    },
+    {
+      "Time": "2024-09-09T15:59:18.0279873+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 373,
+      "NumberOfAwardsMax": 65
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 372,
+  "NumberOfAwards": 373,
   "NumberOfAwardsMax": 65,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1674,7 +1680,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1763,9 +1769,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-09-08T13:08:51.0563506+00:00",
+  "LastChanged": "2024-09-09T15:59:18.0279871+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:20.1352485+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:22.3352928+00:00",
-  "LastUpdate_Ratings": "2024-09-09T14:00:13.0353645+00:00",
+  "LastUpdate_Ratings": "2024-09-09T15:59:18.0279877+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:20.1352502+00:00"
 }
