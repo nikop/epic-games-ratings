@@ -1,10 +1,10 @@
 # Sins of a Solar Empire 2
 [Store](https://store.epicgames.com/en-US/p/sins-of-a-solar-empire-ii)  
 [View Rawdata](../../db/s/sins_of_a_solar_empire_2.json)  
-Rating: 4.63 (Ranked 400)  
+Rating: 4.63 (Ranked 401)  
 ## Awards
 Max (Great for Beginners): 153  (Ranked 399)  
-Sum: 589 (Ranked 396)  
+Sum: 592 (Ranked 396)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -12,8 +12,8 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 81 |
 | This game has Diverse Characters | 81 |
 | This game is Extremely Fun | 68 |
-| This game is Relaxing | 64 |
-| This game has Quickly Understood Controls | 50 |
+| This game is Relaxing | 66 |
+| This game has Quickly Understood Controls | 51 |
 | This game has Amazing Storytelling | 47 |
 | This game has Amazing Characters | 45 |
 | This game has Competitive Players | 20 |
@@ -232,4 +232,4 @@ Diff (max vs sum): 3
 | 2024-09-06 | 4.63 | 146 | 571 |
 | 2024-09-07 | 4.63 | 148 | 575 |
 | 2024-09-08 | 4.63 | 151 | 585 |
-| 2024-09-09 | 4.63 | 153 | 589 |
+| 2024-09-09 | 4.63 | 153 | 592 |
