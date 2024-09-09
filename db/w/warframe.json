@@ -2,7 +2,7 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 1193,
@@ -23396,18 +23396,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 78327,
       "NumberOfAwardsMax": 27054
+    },
+    {
+      "Time": "2024-09-09T21:59:02.3035741+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 78346,
+      "NumberOfAwardsMax": 27073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78327,
-  "NumberOfAwardsMax": 27054,
+  "NumberOfAwards": 78346,
+  "NumberOfAwardsMax": 27073,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 27054
+      "Count": 27073
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23481,8 +23487,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2024-09-09T20:57:20.3075794+00:00",
+  "LastChanged": "2024-09-09T21:59:02.3035739+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:56:57.0331408+00:00",
-  "LastUpdate_Ratings": "2024-09-09T20:57:20.3075802+00:00",
+  "LastUpdate_Ratings": "2024-09-09T21:59:02.3035751+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:18.5018436+00:00"
 }

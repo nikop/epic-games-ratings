@@ -1,7 +1,7 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 446)  
+Rating: 4.61 (Ranked 445)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -398,14 +398,14 @@ Completed: 866 (0.11%) (Ranked 431)
 | 2024-08-20 | 759,160 | 866 |
 ## Awards
 Max (Challenging Puzzles): 8,002  (Ranked 71)  
-Sum: 10,541 (Ranked 120)  
+Sum: 10,542 (Ranked 120)  
 Diff (max vs sum): -49  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 8,002 |
 | This game is Educational | 310 |
 | This game is Great for Beginners | 307 |
-| This game has Amazing Characters | 301 |
+| This game has Amazing Characters | 302 |
 | This game has Amazing Storytelling | 293 |
 | This game has Quickly Understood Controls | 288 |
 | This game is Relaxing | 287 |
@@ -799,3 +799,4 @@ Diff (max vs sum): -49
 | 2024-09-05 | 4.61 | - | 7,998 | 10,535 |
 | 2024-09-07 | 4.61 | - | 8,000 | 10,538 |
 | 2024-09-08 | 4.61 | - | 8,002 | 10,541 |
+| 2024-09-09 | 4.61 | - | 8,002 | 10,542 |
