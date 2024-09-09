@@ -3,7 +3,7 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 29,
-  "Ranking_Popularity": 359,
+  "Ranking_Popularity": 358,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 409,
@@ -1031,18 +1031,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 395,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2024-09-09T03:04:41.103248+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 210
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 395,
-  "NumberOfAwardsMax": 209,
+  "NumberOfAwards": 396,
+  "NumberOfAwardsMax": 210,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 209
+      "Count": 210
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5663,9 +5669,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-09-07T02:03:49.8520577+00:00",
+  "LastChanged": "2024-09-09T03:04:41.1032478+00:00",
   "LastChanged_Achievements": "2024-08-20T20:08:56.1080958+00:00",
   "LastUpdate_AppInfo": "2024-09-06T15:57:05.4774061+00:00",
-  "LastUpdate_Ratings": "2024-09-08T23:59:44.0238281+00:00",
+  "LastUpdate_Ratings": "2024-09-09T03:04:41.1032484+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:56.1081481+00:00"
 }

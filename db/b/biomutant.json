@@ -2,8 +2,8 @@
   "ID": "f7dc2f3c915444f1a6ba4105bc00d592",
   "Name": "BIOMUTANT",
   "ProductSlug": "biomutant",
-  "Ranking_Rating": 977,
-  "Ranking_Popularity": 407,
+  "Ranking_Rating": 966,
+  "Ranking_Popularity": 408,
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 483,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "NumberOfRatings": 198,
   "RatingHistory": [
     {
@@ -713,6 +713,12 @@
       "Rating": 4.33,
       "NumberOfAwards": 197,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-09-09T03:03:23.3975443+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 197,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
@@ -1143,9 +1149,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
   "FirstSeenAchievements": "2023-11-30T12:05:23.2186094+00:00",
-  "LastChanged": "2024-09-08T03:05:11.7106114+00:00",
+  "LastChanged": "2024-09-09T03:03:23.3975441+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:36.5716174+00:00",
   "LastUpdate_AppInfo": "2024-09-02T10:57:38.1410881+00:00",
-  "LastUpdate_Ratings": "2024-09-08T23:58:34.8781142+00:00",
+  "LastUpdate_Ratings": "2024-09-09T03:03:23.3975446+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:36.5716465+00:00"
 }
