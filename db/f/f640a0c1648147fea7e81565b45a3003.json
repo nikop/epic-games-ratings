@@ -13,9 +13,7 @@
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {
-      "isPrePurchase": "true"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
