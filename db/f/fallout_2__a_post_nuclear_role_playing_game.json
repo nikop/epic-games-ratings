@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 289,
   "Ranking_Popularity": 295,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2023,18 +2023,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 656,
       "NumberOfAwardsMax": 352
+    },
+    {
+      "Time": "2024-09-09T17:58:35.8901858+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 661,
+      "NumberOfAwardsMax": 357
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 656,
-  "NumberOfAwardsMax": 352,
+  "NumberOfAwards": 661,
+  "NumberOfAwardsMax": 357,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 352
+      "Count": 357
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2109,8 +2115,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-09-09T15:59:36.9085153+00:00",
+  "LastChanged": "2024-09-09T17:58:35.8901855+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:46.3940842+00:00",
-  "LastUpdate_Ratings": "2024-09-09T15:59:36.9085166+00:00",
+  "LastUpdate_Ratings": "2024-09-09T17:58:35.890186+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:08.2104588+00:00"
 }

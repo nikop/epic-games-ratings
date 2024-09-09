@@ -2,7 +2,7 @@
   "ID": "2cc23de0d8ca4785a0bc37cc95979462",
   "Name": "Card Shark",
   "ProductSlug": "card-shark-8f95f0",
-  "Ranking_Rating": 263,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -275,6 +275,6 @@
   "FirstSeenRating": "2022-08-19T11:03:13.5817816+00:00",
   "LastChanged": "2024-09-01T19:59:01.2018139+00:00",
   "LastUpdate_AppInfo": "2024-09-09T10:57:11.6113188+00:00",
-  "LastUpdate_Ratings": "2024-09-09T16:00:06.8721827+00:00",
+  "LastUpdate_Ratings": "2024-09-09T17:59:05.4860503+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:15.3159802+00:00"
 }
