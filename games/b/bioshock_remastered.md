@@ -5,7 +5,7 @@ Rating: 4.64 (Ranked 377)
 Number of Ratings: 24,195  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 6,245  (Ranked 88)  
-Sum: 7,642 (Ranked 147)  
+Sum: 7,643 (Ranked 147)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -59
 | This game is Relaxing | 142 |
 | This game is Great for Beginners | 137 |
 | This game has Diverse Characters | 130 |
-| This game has Unique Visuals | 125 |
+| This game has Unique Visuals | 126 |
 | This game has Obsessive Gameplay | 106 |
 | This game has a Creative Community | 84 |
 ## Ratings History
@@ -349,3 +349,4 @@ Diff (max vs sum): -59
 | 2024-09-06 | 4.64 | - | 6,234 | 7,630 |
 | 2024-09-07 | 4.64 | - | 6,241 | 7,637 |
 | 2024-09-08 | 4.64 | - | 6,245 | 7,642 |
+| 2024-09-09 | 4.64 | - | 6,245 | 7,643 |

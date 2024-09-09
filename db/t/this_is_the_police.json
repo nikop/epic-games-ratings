@@ -2,7 +2,7 @@
   "ID": "a3fb4c2877a7466b895da9d7fab2bd24",
   "Name": "This Is The Police",
   "ProductSlug": "this-is-the-police",
-  "Ranking_Rating": 227,
+  "Ranking_Rating": 243,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "NumberOfRatings": 52,
   "RatingHistory": [
     {
@@ -269,6 +269,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-09T02:09:37.6541235+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -286,8 +292,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:17.2330735+00:00",
-  "LastChanged": "2024-06-25T07:58:49.736339+00:00",
+  "LastChanged": "2024-09-09T02:09:37.6541233+00:00",
   "LastUpdate_AppInfo": "2024-09-02T13:57:34.1915059+00:00",
-  "LastUpdate_Ratings": "2024-09-08T23:57:55.6508044+00:00",
+  "LastUpdate_Ratings": "2024-09-09T02:09:37.6541239+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:58.4732342+00:00"
 }

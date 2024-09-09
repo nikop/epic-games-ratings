@@ -1,7 +1,7 @@
 # Remnant II®
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.70 (Ranked 244)  
+Rating: 4.70 (Ranked 243)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
