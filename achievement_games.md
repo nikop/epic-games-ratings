@@ -268,7 +268,7 @@
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | 30 (1,000 XP) | 2 | - | 0 |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | 12 (1,000 XP) | 2 | - | 0 |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 1 | - | - |
-| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 7,088 | 4.80 | 62 |
+| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 7,088 | 4.79 | 62 |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 1 | - | 0 |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 65,219 | 3.82 | 128 |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
@@ -957,7 +957,7 @@
 | [Children of Silentown](games/c/children_of_silentown.md) | 2023-01-11 | 26 (1,000 XP) | 293 | - | 0 |
 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 2023-01-09 | 23 (1,000 XP) | 59 | - | 0 |
 | [NHRA Championship Drag Racing - Speed For All](games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 2023-01-03 | 33 (1,000 XP) | 1,028 | - | 0 |
-| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 446,948 | 4.41 | 35 |
+| [Sail Forth](games/s/sail_forth.md) | 2022-12-21 | 47 (1,000 XP) | 446,948 | 4.41 | 36 |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 2022-12-19 | 28 (1,000 XP) | 240,889 | 4.60 | 33 |
 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 2022-12-16 | 27 (1,000 XP) | 363 | - | 0 |
 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 2022-12-15 | 11 (1,000 XP) | 134 | - | 0 |
@@ -972,7 +972,7 @@
 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 2022-12-08 | 72 (1,000 XP) | 441,355 | 4.41 | 690 |
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 5,023 | 4.61 | 0 |
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,567 | 4.39 | 0 |
-| [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,977 | 4.42 | 0 |
+| [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,977 | 4.43 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,334,975 | 4.01 | 12,820 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 29,887 | 4.15 | 565 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 86,035 | - | - |
@@ -1038,7 +1038,7 @@
 | [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 8,692 | 4.57 | 65 |
 | [Tower Princess](games/t/tower_princess.md) | 2022-09-08 | 36 (1,000 XP) | 1 | - | 0 |
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 57 | - | 0 |
-| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 71,379 | 4.23 | 0 |
+| [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 71,379 | 4.22 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 17,590 | 4.76 | 1,661 |
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 937,484 | 4.25 | 832 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 1,087 | 4.55 | 41 |
@@ -1171,7 +1171,7 @@
 | [Saint Kotar](games/s/saint_kotar.md) | 2021-10-28 | 45 (1,000 XP) | 32 | - | 0 |
 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 2021-10-28 | 14 (1,000 XP) | 29,885 | 4.21 | 0 |
 | [Aeon Must Die!](games/a/aeon_must_die!.md) | 2021-10-27 | 35 (1,000 XP) | 3,746 | - | 0 |
-| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 144,959 | 4.69 | 8,846 |
+| [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 2021-10-26 | 79 (1,270 XP) | 144,959 | 4.69 | 8,856 |
 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 2021-10-21 | 10 (1,000 XP) | 116,892 | 4.29 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 266 | - | 0 |
 | [JARS](games/j/jars.md) | 2021-10-20 | 20 (1,000 XP) | 187 | 4.30 | 0 |
