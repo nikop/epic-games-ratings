@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,198)  
+Rating: 4.07 (Ranked 1,199)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -895,12 +895,12 @@ Completed: 3,259 (0.91%) (Ranked 276)
 | 2024-08-09 | 358,083 | 3,235 |
 | 2024-08-20 | 359,323 | 3,259 |
 ## Awards
-Max (Great for Beginners): 6,837  (Ranked 79)  
-Sum: 37,725 (Ranked 51)  
+Max (Great for Beginners): 6,843  (Ranked 79)  
+Sum: 37,731 (Ranked 51)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 6,837 |
+| This game is Great for Beginners | 6,843 |
 | This game has Diverse Characters | 6,708 |
 | This game has Quickly Understood Controls | 5,305 |
 | This game is Relaxing | 5,144 |
@@ -1502,4 +1502,4 @@ Diff (max vs sum): 28
 | 2024-09-06 | 4.07 | - | 6,808 | 37,583 |
 | 2024-09-07 | 4.07 | - | 6,822 | 37,647 |
 | 2024-09-08 | 4.07 | - | 6,837 | 37,705 |
-| 2024-09-09 | 4.07 | - | 6,837 | 37,725 |
+| 2024-09-09 | 4.07 | - | 6,843 | 37,731 |
