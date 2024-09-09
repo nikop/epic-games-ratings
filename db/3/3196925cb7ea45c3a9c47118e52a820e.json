@@ -2,7 +2,7 @@
   "ID": "3196925cb7ea45c3a9c47118e52a820e",
   "Name": "Sniper Ghost Warrior Contracts",
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
-  "Ranking_Rating": 1106,
+  "Ranking_Rating": 1116,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2024-09-06T17:01:24.0348151+00:00",
@@ -108,6 +108,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-09T19:57:11.5156486+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -126,7 +132,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
-  "LastChanged": "2024-09-09T13:15:15.9229177+00:00",
+  "LastChanged": "2024-09-09T19:57:11.5156485+00:00",
   "LastUpdate_AppInfo": "2024-09-05T16:57:07.6956304+00:00",
-  "LastUpdate_Ratings": "2024-09-09T17:58:38.151944+00:00"
+  "LastUpdate_Ratings": "2024-09-09T19:57:11.515649+00:00"
 }

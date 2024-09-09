@@ -5,12 +5,12 @@ Rating: 4.60 (Ranked 470)
 Number of Ratings: 986  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 35  (Ranked 613)  
-Sum: 232 (Ranked 499)  
-Diff (max vs sum): 114  
+Sum: 233 (Ranked 498)  
+Diff (max vs sum): 115  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
-| This game has Unique Visuals | 29 |
+| This game has Unique Visuals | 30 |
 | This game has Amazing Characters | 28 |
 | This game has Amazing Storytelling | 27 |
 | This game is Highly Recommended | 26 |
@@ -151,3 +151,4 @@ Diff (max vs sum): 114
 | 2024-09-05 | 4.60 | - | 34 | 229 |
 | 2024-09-07 | 4.60 | - | 35 | 231 |
 | 2024-09-08 | 4.60 | - | 35 | 232 |
+| 2024-09-09 | 4.60 | - | 35 | 233 |
