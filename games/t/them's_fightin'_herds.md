@@ -323,7 +323,7 @@ Completed: 7 (0.00%) (Ranked 561)
 | 2024-08-09 | 240,889 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 621)  
-Sum: 128 (Ranked 551)  
+Sum: 129 (Ranked 551)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
@@ -331,9 +331,9 @@ Diff (max vs sum): 70
 | This game has Diverse Characters | 33 |
 | This game has Challenging Combat | 22 |
 | This game is Highly Recommended | 22 |
+| This game has Amazing Characters | 21 |
 | This game has a Kind Community | 20 |
 | This game is Great for Quick Sessions | 20 |
-| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -428,3 +428,4 @@ Diff (max vs sum): 70
 | 2024-08-24 | 4.59 | 33 | 127 |
 | 2024-08-25 | 4.60 | 33 | 127 |
 | 2024-09-01 | 4.60 | 33 | 128 |
+| 2024-09-09 | 4.60 | 33 | 129 |
