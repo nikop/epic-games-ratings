@@ -2,7 +2,7 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 122,
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 1193,
@@ -10733,10 +10733,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 14521,
       "NumberOfAwardsMax": 2611
+    },
+    {
+      "Time": "2024-09-09T14:59:42.9390779+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14525,
+      "NumberOfAwardsMax": 2611
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14521,
+  "NumberOfAwards": 14525,
   "NumberOfAwardsMax": 2611,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -10750,7 +10756,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2412
+      "Count": 2415
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10780,7 +10786,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2175
+      "Count": 2176
     }
   ],
   "EOS_Progressed": 0,
@@ -10794,8 +10800,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-09-09T08:00:29.1484591+00:00",
+  "LastChanged": "2024-09-09T14:59:42.9390776+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:12.0440086+00:00",
-  "LastUpdate_Ratings": "2024-09-09T13:18:10.4132809+00:00",
+  "LastUpdate_Ratings": "2024-09-09T14:59:42.9390782+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:09.2467767+00:00"
 }

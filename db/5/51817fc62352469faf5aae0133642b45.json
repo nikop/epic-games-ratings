@@ -2,9 +2,9 @@
   "ID": "51817fc62352469faf5aae0133642b45",
   "Name": "Call of Dragons",
   "ProductSlug": "call-of-dragons-d85ee6",
-  "Ranking_Rating": 879,
+  "Ranking_Rating": 880,
   "Ranking_Popularity": 498,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1919,11 +1919,17 @@
       "Rating": 4.4,
       "NumberOfAwards": 306,
       "NumberOfAwardsMax": 77
+    },
+    {
+      "Time": "2024-09-09T14:58:51.8455437+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 306,
-  "NumberOfAwardsMax": 77,
+  "NumberOfAwards": 307,
+  "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1942,7 +1948,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game is Relaxing",
@@ -1999,8 +2005,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-26T12:02:29.4792017+00:00",
   "FirstSeenRating": "2023-11-12T06:58:46.414749+00:00",
-  "LastChanged": "2024-09-08T23:58:39.8244656+00:00",
+  "LastChanged": "2024-09-09T14:58:51.8455435+00:00",
   "LastUpdate_AppInfo": "2024-09-05T10:57:05.2056737+00:00",
-  "LastUpdate_Ratings": "2024-09-09T13:17:21.3792095+00:00",
+  "LastUpdate_Ratings": "2024-09-09T14:58:51.8455439+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:40.9203011+00:00"
 }
