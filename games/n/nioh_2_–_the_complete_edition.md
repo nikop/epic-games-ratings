@@ -1,11 +1,11 @@
 # Nioh 2 – The Complete Edition
 [Store](https://store.epicgames.com/en-US/p/nioh-2-the-complete-edition)  
 [View Rawdata](../../db/n/nioh_2_–_the_complete_edition.json)  
-Rating: 4.79 (Ranked 112)  
+Rating: 4.79 (Ranked 111)  
 Number of Ratings: 2,526  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,142  (Ranked 118)  
-Sum: 9,142 (Ranked 133)  
+Sum: 9,145 (Ranked 133)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -13,8 +13,8 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 2,308 |
 | This game has Diverse Characters | 602 |
 | This game is Highly Recommended | 566 |
-| This game is Extremely Fun | 563 |
-| This game has Amazing Storytelling | 539 |
+| This game is Extremely Fun | 565 |
+| This game has Amazing Storytelling | 540 |
 | This game has Amazing Characters | 511 |
 | This game has Unique Visuals | 494 |
 | This game has a Creative Community | 417 |
@@ -574,4 +574,4 @@ Diff (max vs sum): -15
 | 2024-09-06 | 4.79 | - | 3,135 | 9,109 |
 | 2024-09-07 | 4.79 | - | 3,138 | 9,123 |
 | 2024-09-08 | 4.79 | - | 3,142 | 9,141 |
-| 2024-09-09 | 4.79 | - | 3,142 | 9,142 |
+| 2024-09-09 | 4.79 | - | 3,142 | 9,145 |
