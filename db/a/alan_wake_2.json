@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-2",
   "Ranking_Rating": 92,
   "Ranking_Popularity": 162,
-  "Ranking_PopularitySum": 141,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 53,
@@ -8239,10 +8239,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 8294,
       "NumberOfAwardsMax": 1410
+    },
+    {
+      "Time": "2024-09-09T13:59:01.6424624+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 8302,
+      "NumberOfAwardsMax": 1410
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8294,
+  "NumberOfAwards": 8302,
   "NumberOfAwardsMax": 1410,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8262,7 +8268,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1232
+      "Count": 1240
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20769,9 +20775,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-09-09T11:59:48.2683169+00:00",
+  "LastChanged": "2024-09-09T13:59:01.6424623+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:01.5995452+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:43.5355061+00:00",
-  "LastUpdate_Ratings": "2024-09-09T11:59:48.268318+00:00",
+  "LastUpdate_Ratings": "2024-09-09T13:59:01.6424628+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:01.5996499+00:00"
 }

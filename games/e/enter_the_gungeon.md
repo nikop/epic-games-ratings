@@ -1,7 +1,7 @@
 # Enter the Gungeon
 [Store](https://store.epicgames.com/en-US/p/enter-the-gungeon)  
 [View Rawdata](../../db/e/enter_the_gungeon.json)  
-Rating: 4.84 (Ranked 53)  
+Rating: 4.85 (Ranked 42)  
 Number of Ratings: 8,617  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 9,318  (Ranked 63)  
@@ -595,4 +595,4 @@ Diff (max vs sum): -27
 | 2024-09-06 | 4.85 | - | 9,284 | 16,606 |
 | 2024-09-07 | 4.84 | - | 9,300 | 16,628 |
 | 2024-09-08 | 4.85 | - | 9,318 | 16,652 |
-| 2024-09-09 | 4.84 | - | 9,318 | 16,655 |
+| 2024-09-09 | 4.85 | - | 9,318 | 16,655 |
