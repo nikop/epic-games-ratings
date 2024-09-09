@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 311,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 170,
+  "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 473,
   "Ranking_EOS_NewPlayers": 544,
@@ -3914,10 +3914,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5234,
       "NumberOfAwardsMax": 643
+    },
+    {
+      "Time": "2024-09-09T03:58:22.9079799+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5236,
+      "NumberOfAwardsMax": 643
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5234,
+  "NumberOfAwards": 5236,
   "NumberOfAwardsMax": 643,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3973,7 +3979,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 536
+      "Count": 538
     },
     {
       "Text": "This game has Amazing Characters",
@@ -36906,9 +36912,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-09-08T19:58:12.3398004+00:00",
+  "LastChanged": "2024-09-09T03:58:22.9079797+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:37.1204562+00:00",
   "LastUpdate_AppInfo": "2024-09-02T11:57:52.452872+00:00",
-  "LastUpdate_Ratings": "2024-09-09T02:08:37.7206081+00:00",
+  "LastUpdate_Ratings": "2024-09-09T03:58:22.9079803+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.1206513+00:00"
 }
