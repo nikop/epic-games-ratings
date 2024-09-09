@@ -2,7 +2,7 @@
   "ID": "f93166410da745b58b1613db66141c02",
   "Name": "ELEX",
   "ProductSlug": "elex",
-  "Ranking_Rating": 847,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 465,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 58,
   "RatingHistory": [
     {
@@ -402,6 +402,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 30,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-09-09T20:58:46.7076106+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -857,9 +863,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:49.7646389+00:00",
   "FirstSeenAchievements": "2024-02-22T21:03:39.1638587+00:00",
-  "LastChanged": "2024-08-03T02:57:29.9644632+00:00",
+  "LastChanged": "2024-09-09T20:58:46.7076103+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:27.771361+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:13.1342884+00:00",
-  "LastUpdate_Ratings": "2024-09-09T18:59:54.7680005+00:00",
+  "LastUpdate_Ratings": "2024-09-09T20:58:46.707611+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:27.7713903+00:00"
 }

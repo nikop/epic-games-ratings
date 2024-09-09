@@ -3,7 +3,7 @@
   "Name": "For The King",
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 243,
-  "Ranking_Popularity": 268,
+  "Ranking_Popularity": 267,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5617,18 +5617,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 3436,
       "NumberOfAwardsMax": 493
+    },
+    {
+      "Time": "2024-09-09T20:57:26.8550849+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3439,
+      "NumberOfAwardsMax": 494
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3436,
-  "NumberOfAwardsMax": 493,
+  "NumberOfAwards": 3439,
+  "NumberOfAwardsMax": 494,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 493
+      "Count": 494
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5640,7 +5646,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 330
+      "Count": 331
     },
     {
       "Text": "This game is Relaxing",
@@ -5676,7 +5682,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 375
+      "Count": 376
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5696,8 +5702,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2024-09-08T09:59:38.38166+00:00",
+  "LastChanged": "2024-09-09T20:57:26.8550848+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:14.3947682+00:00",
-  "LastUpdate_Ratings": "2024-09-09T18:58:27.7925096+00:00",
+  "LastUpdate_Ratings": "2024-09-09T20:57:26.8550854+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:22.2365161+00:00"
 }
