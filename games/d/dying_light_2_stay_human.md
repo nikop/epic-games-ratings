@@ -1,7 +1,7 @@
 # Dying Light 2 Stay Human - Reloaded Edition
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.59 (Ranked 500)  
+Rating: 4.59 (Ranked 501)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -363,14 +363,14 @@ Completed: 93 (0.01%) (Ranked 532)
 | 2024-08-20 | 1,214,746 | 93 |
 ## Awards
 Max (Character Customization): 18,690  (Ranked 30)  
-Sum: 57,812 (Ranked 34)  
+Sum: 57,819 (Ranked 34)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 18,690 |
 | This game has Great Boss Battles | 12,801 |
 | This game is Great for Beginners | 3,672 |
-| This game has Diverse Characters | 3,312 |
+| This game has Diverse Characters | 3,319 |
 | This game is Highly Recommended | 3,106 |
 | This game has Amazing Characters | 2,925 |
 | This game has Amazing Storytelling | 2,863 |
@@ -989,4 +989,4 @@ Diff (max vs sum): -4
 | 2024-09-07 | 4.59 | - | 18,631 | 57,638 |
 | 2024-09-08 | 4.59 | - | 18,667 | 57,726 |
 | 2024-09-09 | 4.59 | - | 18,690 | 57,806 |
-| 2024-09-10 | 4.59 | - | 18,690 | 57,812 |
+| 2024-09-10 | 4.59 | - | 18,690 | 57,819 |
