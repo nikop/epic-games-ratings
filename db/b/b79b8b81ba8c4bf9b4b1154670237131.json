@@ -3,8 +3,8 @@
   "Name": "Invincible Presents: Atom Eve",
   "ProductSlug": "atom-eve-ff090d",
   "Ranking_Rating": 968,
-  "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 642,
+  "Ranking_Popularity": 580,
+  "Ranking_PopularitySum": 639,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 447,
   "Ranking_EOS_NewPlayers": 100,
@@ -533,18 +533,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-09-10T13:12:52.1864948+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 42,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 42,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 41
+      "Count": 42
     }
   ],
   "EOS_Progressed": 103589,
@@ -8195,9 +8201,9 @@
   "FirstSeen": "2023-11-14T21:00:09.5142789+00:00",
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
-  "LastChanged": "2024-09-03T07:57:32.8583829+00:00",
+  "LastChanged": "2024-09-10T13:12:52.1864942+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:16.2310364+00:00",
   "LastUpdate_AppInfo": "2024-09-04T11:57:05.4489965+00:00",
-  "LastUpdate_Ratings": "2024-09-10T10:58:49.4911758+00:00",
+  "LastUpdate_Ratings": "2024-09-10T13:12:52.1864951+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:16.2310978+00:00"
 }
