@@ -3,7 +3,7 @@
   "Name": "Totally Accurate Battle Simulator",
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 166,
-  "Ranking_Popularity": 247,
+  "Ranking_Popularity": 248,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -8882,10 +8882,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4644,
       "NumberOfAwardsMax": 628
+    },
+    {
+      "Time": "2024-09-10T21:58:33.0327762+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4645,
+      "NumberOfAwardsMax": 628
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4644,
+  "NumberOfAwards": 4645,
   "NumberOfAwardsMax": 628,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8917,7 +8923,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 383
+      "Count": 384
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -8985,8 +8991,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-09-10T14:58:24.6944907+00:00",
+  "LastChanged": "2024-09-10T21:58:33.032776+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:13.3339356+00:00",
-  "LastUpdate_Ratings": "2024-09-10T19:59:21.6003508+00:00",
+  "LastUpdate_Ratings": "2024-09-10T21:58:33.0327768+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:29.7027547+00:00"
 }
