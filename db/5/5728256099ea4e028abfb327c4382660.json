@@ -2,9 +2,9 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 594,
+  "Ranking_Rating": 614,
   "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 372,
+  "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2024-07-19T16:58:57.1679558+00:00",
@@ -1248,10 +1248,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 719,
       "NumberOfAwardsMax": 142
+    },
+    {
+      "Time": "2024-09-10T20:59:00.0545773+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 720,
+      "NumberOfAwardsMax": 142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 719,
+  "NumberOfAwards": 720,
   "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1283,7 +1289,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game is Relaxing",
@@ -1328,8 +1334,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-09-10T17:57:25.7162679+00:00",
+  "LastChanged": "2024-09-10T20:59:00.0545771+00:00",
   "LastUpdate_AppInfo": "2024-09-06T21:57:12.101388+00:00",
-  "LastUpdate_Ratings": "2024-09-10T18:59:35.8174532+00:00",
+  "LastUpdate_Ratings": "2024-09-10T20:59:00.0545778+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }
