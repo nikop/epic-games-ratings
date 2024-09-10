@@ -2,7 +2,7 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 1071,
+  "Ranking_Rating": 1085,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "NumberOfRatings": 5442,
   "RatingHistory": [
     {
@@ -7067,6 +7067,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 3886,
       "NumberOfAwardsMax": 711
+    },
+    {
+      "Time": "2024-09-10T13:57:46.1314776+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 3886,
+      "NumberOfAwardsMax": 711
     }
   ],
   "ReviewsDisabled": false,
@@ -7140,8 +7146,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2024-09-09T13:15:03.8492846+00:00",
+  "LastChanged": "2024-09-10T13:57:46.1314774+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:21.2461059+00:00",
-  "LastUpdate_Ratings": "2024-09-10T11:58:34.0601057+00:00",
+  "LastUpdate_Ratings": "2024-09-10T13:57:46.1314779+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:18.521132+00:00"
 }
