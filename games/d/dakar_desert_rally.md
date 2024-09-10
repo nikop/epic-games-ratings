@@ -4,12 +4,12 @@
 Rating: 3.96 (Ranked 1,230)  
 ## Awards
 Max (Great for Beginners): 246  (Ranked 341)  
-Sum: 1,492 (Ranked 294)  
+Sum: 1,494 (Ranked 294)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 246 |
-| This game is Highly Recommended | 172 |
+| This game is Highly Recommended | 174 |
 | This game has Realistic Visuals | 152 |
 | This game has Competitive Players | 140 |
 | This game is Extremely Fun | 136 |
@@ -293,4 +293,4 @@ Diff (max vs sum): 47
 | 2024-09-07 | 3.95 | 246 | 1,484 |
 | 2024-09-08 | 3.96 | 246 | 1,486 |
 | 2024-09-09 | 3.96 | 246 | 1,489 |
-| 2024-09-10 | 3.96 | 246 | 1,492 |
+| 2024-09-10 | 3.96 | 246 | 1,494 |
