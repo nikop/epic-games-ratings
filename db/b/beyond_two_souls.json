@@ -2,9 +2,9 @@
   "ID": "lavender",
   "Name": "Beyond Two Souls",
   "ProductSlug": "beyond-two-souls",
-  "Ranking_Rating": 265,
-  "Ranking_Popularity": 486,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Rating": 289,
+  "Ranking_Popularity": 483,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 348,
   "RatingHistory": [
     {
@@ -703,18 +703,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 86,
       "NumberOfAwardsMax": 86
+    },
+    {
+      "Time": "2024-09-10T08:59:47.5047425+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 88
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 86,
-  "NumberOfAwardsMax": 86,
+  "NumberOfAwards": 88,
+  "NumberOfAwardsMax": 88,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 86
+      "Count": 88
     }
   ],
   "EOS_Progressed": 0,
@@ -728,8 +734,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:51.5955427+00:00",
-  "LastChanged": "2024-09-09T14:58:18.8520262+00:00",
+  "LastChanged": "2024-09-10T08:59:47.5047423+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:07.8267691+00:00",
-  "LastUpdate_Ratings": "2024-09-10T06:59:38.0123782+00:00",
+  "LastUpdate_Ratings": "2024-09-10T08:59:47.5047429+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:00.501142+00:00"
 }
