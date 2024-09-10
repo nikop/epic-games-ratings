@@ -4,7 +4,7 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 353,
   "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 397,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 418,
   "Ranking_EOS_NewPlayers": 544,
@@ -2287,10 +2287,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 590,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-09-10T06:57:17.3122798+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 592,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 590,
+  "NumberOfAwards": 592,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2358,7 +2364,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 35
+      "Count": 37
     }
   ],
   "EOS_Progressed": 8020,
@@ -13705,9 +13711,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-09-10T03:03:36.865802+00:00",
+  "LastChanged": "2024-09-10T06:57:17.3122797+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:37.9344228+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:11.8639231+00:00",
-  "LastUpdate_Ratings": "2024-09-10T04:58:09.9101763+00:00",
+  "LastUpdate_Ratings": "2024-09-10T06:57:17.3122801+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:37.9345261+00:00"
 }
