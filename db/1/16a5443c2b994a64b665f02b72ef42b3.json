@@ -2,7 +2,7 @@
   "ID": "16a5443c2b994a64b665f02b72ef42b3",
   "Name": "Parallel TCG",
   "ProductSlug": "parallel-tcg-724880",
-  "Ranking_Rating": 215,
+  "Ranking_Rating": 201,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "RatingHistory": [
     {
       "Time": "2024-07-25T16:58:09.724564+00:00",
@@ -210,6 +210,12 @@
       "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-10T03:58:39.5158586+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -228,8 +234,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T02:56:53.6157309+00:00",
   "FirstSeenRating": "2024-07-25T16:58:09.7245638+00:00",
-  "LastChanged": "2024-09-06T14:57:32.9837314+00:00",
+  "LastChanged": "2024-09-10T03:58:39.5158584+00:00",
   "LastUpdate_AppInfo": "2024-09-05T04:57:15.1773429+00:00",
-  "LastUpdate_Ratings": "2024-09-10T02:07:40.586947+00:00",
+  "LastUpdate_Ratings": "2024-09-10T03:58:39.5158588+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:33.103907+00:00"
 }

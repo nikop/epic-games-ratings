@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.22 (Ranked 1,090)  
+Rating: 4.22 (Ranked 1,091)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -188,19 +188,19 @@ Completed: 7 (0.04%) (Ranked 483)
 | 2024-08-20 | 17,952 | 7 |
 ## Awards
 Max (Character Customization): 1,065  (Ranked 194)  
-Sum: 2,921 (Ranked 220)  
+Sum: 2,925 (Ranked 220)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,065 |
 | This game has Great Boss Battles | 816 |
 | This game has Diverse Characters | 162 |
-| This game has Challenging Combat | 156 |
+| This game has Challenging Combat | 158 |
 | This game is Highly Recommended | 155 |
 | This game has Amazing Storytelling | 151 |
 | This game has Amazing Characters | 143 |
+| This game is Extremely Fun | 138 |
 | This game has Quickly Understood Controls | 137 |
-| This game is Extremely Fun | 136 |
 | This game has Competitive Players | 36 |
 | This game is Relaxing | 20 |
 | This game has a Creative Community | 20 |
@@ -516,3 +516,4 @@ Diff (max vs sum): -26
 | 2024-09-07 | 4.22 | 1,064 | 2,916 |
 | 2024-09-08 | 4.22 | 1,064 | 2,917 |
 | 2024-09-09 | 4.22 | 1,065 | 2,921 |
+| 2024-09-10 | 4.22 | 1,065 | 2,925 |
