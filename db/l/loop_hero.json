@@ -4,7 +4,7 @@
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 312,
   "Ranking_Popularity": 249,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8614,10 +8614,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5129,
       "NumberOfAwardsMax": 617
+    },
+    {
+      "Time": "2024-09-10T15:58:28.1236417+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5134,
+      "NumberOfAwardsMax": 617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5129,
+  "NumberOfAwards": 5134,
   "NumberOfAwardsMax": 617,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8625,7 +8631,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 515
+      "Count": 517
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8637,7 +8643,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 556
+      "Count": 558
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8661,7 +8667,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 487
+      "Count": 488
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8693,8 +8699,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-09-10T11:59:59.6389077+00:00",
+  "LastChanged": "2024-09-10T15:58:28.1236415+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:05.8515049+00:00",
-  "LastUpdate_Ratings": "2024-09-10T13:59:11.3706457+00:00",
+  "LastUpdate_Ratings": "2024-09-10T15:58:28.1236421+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.3413385+00:00"
 }

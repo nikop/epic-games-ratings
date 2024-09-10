@@ -2,7 +2,7 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 1193,
@@ -2915,18 +2915,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 59702,
       "NumberOfAwardsMax": 20785
+    },
+    {
+      "Time": "2024-09-10T15:58:06.8914409+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 59986,
+      "NumberOfAwardsMax": 20978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 59702,
-  "NumberOfAwardsMax": 20785,
+  "NumberOfAwards": 59986,
+  "NumberOfAwardsMax": 20978,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20785
+      "Count": 20978
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2962,7 +2968,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2315
+      "Count": 2360
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2986,7 +2992,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2563
+      "Count": 2609
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3007,8 +3013,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-09-10T13:58:56.9436224+00:00",
+  "LastChanged": "2024-09-10T15:58:06.8914407+00:00",
   "LastUpdate_AppInfo": "2024-09-10T03:01:42.6921858+00:00",
-  "LastUpdate_Ratings": "2024-09-10T13:58:56.9436232+00:00",
+  "LastUpdate_Ratings": "2024-09-10T15:58:06.8914413+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:15.1606852+00:00"
 }

@@ -1,16 +1,16 @@
 # Murder by Numbers
 [Store](https://store.epicgames.com/en-US/p/murder-by-numbers)  
 [View Rawdata](../../db/m/murder_by_numbers.json)  
-Rating: 4.29 (Ranked 1,013)  
+Rating: 4.29 (Ranked 1,014)  
 ## Awards
-Max (Great for Quick Sessions): 28  (Ranked 649)  
-Sum: 195 (Ranked 521)  
+Max (Diverse Characters): 28  (Ranked 649)  
+Sum: 196 (Ranked 521)  
 Diff (max vs sum): 128  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28 |
 | This game is Great for Quick Sessions | 28 |
-| This game has Playful Visuals | 26 |
+| This game has Playful Visuals | 27 |
 | This game is Extremely Fun | 24 |
 | This game has Amazing Characters | 24 |
 | This game is Highly Recommended | 24 |
@@ -122,3 +122,4 @@ Diff (max vs sum): 128
 | 2024-09-01 | 4.28 | 28 | 194 |
 | 2024-09-08 | 4.28 | 28 | 195 |
 | 2024-09-09 | 4.29 | 28 | 195 |
+| 2024-09-10 | 4.29 | 28 | 196 |
