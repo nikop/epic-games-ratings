@@ -1,7 +1,7 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.83 (Ranked 65)  
+Rating: 4.83 (Ranked 66)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -356,8 +356,8 @@ Completed: 15 (0.08%) (Ranked 447)
 | 2024-08-09 | 19,934 | 15 |
 ## Awards
 Max (Great Boss Battles): 69  (Ranked 513)  
-Sum: 69 (Ranked 606)  
-Diff (max vs sum): -93  
+Sum: 69 (Ranked 605)  
+Diff (max vs sum): -92  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 69 |

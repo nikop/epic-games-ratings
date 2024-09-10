@@ -1,17 +1,17 @@
 # League of Legends
 [Store](https://store.epicgames.com/en-US/p/league-of-legends)  
 [View Rawdata](../../db/l/league_of_legends.json)  
-Rating: 4.18 (Ranked 1,134)  
+Rating: 4.18 (Ranked 1,133)  
 Number of Ratings: 10,796  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 7,589  (Ranked 74)  
-Sum: 34,330 (Ranked 55)  
+Sum: 34,337 (Ranked 55)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 17,611 |
 | This game has Diverse Characters | 7,589 |
-| This game has Challenging Combat | 6,022 |
+| This game has Challenging Combat | 6,029 |
 | This game has Amazing Characters | 5,414 |
 | This game has a Competitive Community | 5,185 |
 | This game has Competitive Players | 5,179 |
@@ -633,4 +633,4 @@ Diff (max vs sum): 19
 | 2024-09-07 | 4.18 | - | 7,546 | 34,178 |
 | 2024-09-08 | 4.18 | - | 7,568 | 34,255 |
 | 2024-09-09 | 4.18 | - | 7,581 | 34,306 |
-| 2024-09-10 | 4.18 | - | 7,589 | 34,330 |
+| 2024-09-10 | 4.18 | - | 7,589 | 34,337 |

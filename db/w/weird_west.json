@@ -4,7 +4,7 @@
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 849,
   "Ranking_Popularity": 507,
-  "Ranking_PopularitySum": 599,
+  "Ranking_PopularitySum": 598,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 463,
   "Ranking_EOS_NewPlayers": 57,
@@ -3936,6 +3936,6 @@
   "LastChanged": "2024-09-08T15:58:51.9476741+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:13.925311+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:15.5296284+00:00",
-  "LastUpdate_Ratings": "2024-09-10T14:58:59.9566663+00:00",
+  "LastUpdate_Ratings": "2024-09-10T16:59:18.1462858+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:13.9253547+00:00"
 }
