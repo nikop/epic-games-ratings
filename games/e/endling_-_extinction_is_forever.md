@@ -1,7 +1,7 @@
 # Endling - Extinction is Forever
 [Store](https://store.epicgames.com/en-US/p/endling-extinction-is-forever)  
 [View Rawdata](../../db/e/endling_-_extinction_is_forever.json)  
-Rating: 4.62 (Ranked 420)  
+Rating: 4.63 (Ranked 401)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -206,3 +206,4 @@ Completed: 3 (0.37%) (Ranked 350)
 | 2024-07-30 | 4.63 | 0 | 0 |
 | 2024-08-02 | 4.64 | 0 | 0 |
 | 2024-09-07 | 4.62 | 0 | 0 |
+| 2024-09-10 | 4.63 | 0 | 0 |

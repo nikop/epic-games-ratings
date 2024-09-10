@@ -3,7 +3,7 @@
   "Name": "Star Trek Online",
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 790,
-  "Ranking_Popularity": 228,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -5659,18 +5659,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 3300,
       "NumberOfAwardsMax": 791
+    },
+    {
+      "Time": "2024-09-10T19:59:17.0645031+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 3307,
+      "NumberOfAwardsMax": 794
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3300,
-  "NumberOfAwardsMax": 791,
+  "NumberOfAwards": 3307,
+  "NumberOfAwardsMax": 794,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 791
+      "Count": 794
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5694,7 +5700,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5706,7 +5712,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5730,7 +5736,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 383
+      "Count": 385
     }
   ],
   "EOS_Progressed": 0,
@@ -5744,8 +5750,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-09-10T03:03:08.7542207+00:00",
+  "LastChanged": "2024-09-10T19:59:17.0645029+00:00",
   "LastUpdate_AppInfo": "2024-09-08T22:57:09.0859444+00:00",
-  "LastUpdate_Ratings": "2024-09-10T18:00:29.1869105+00:00",
+  "LastUpdate_Ratings": "2024-09-10T19:59:17.0645035+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:01.8541135+00:00"
 }

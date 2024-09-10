@@ -359,15 +359,15 @@ Completed: 1 (0.00%) (Ranked 561)
 | 2024-08-20 | 82,734 | 1 |
 ## Awards
 Max (Highly Recommended): 124  (Ranked 433)  
-Sum: 1,124 (Ranked 315)  
+Sum: 1,127 (Ranked 315)  
 Diff (max vs sum): 118  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 130 |
 | This game is Highly Recommended | 124 |
 | This game has Diverse Characters | 123 |
-| This game is Extremely Fun | 117 |
-| This game is Educational | 113 |
+| This game is Extremely Fun | 119 |
+| This game is Educational | 114 |
 | This game has Quickly Understood Controls | 100 |
 | This game has Amazing Characters | 98 |
 | This game has Realistic Visuals | 98 |
@@ -664,4 +664,4 @@ Diff (max vs sum): 118
 | 2024-09-06 | 4.53 | - | 124 | 1,120 |
 | 2024-09-07 | 4.53 | - | 124 | 1,121 |
 | 2024-09-08 | 4.53 | - | 124 | 1,123 |
-| 2024-09-10 | 4.53 | - | 124 | 1,124 |
+| 2024-09-10 | 4.53 | - | 124 | 1,127 |

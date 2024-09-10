@@ -2,7 +2,7 @@
   "ID": "1200aeb2f87c48349594d96554e2833d",
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
-  "Ranking_Rating": 1014,
+  "Ranking_Rating": 1031,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.29,
+  "Rating": 4.28,
   "NumberOfRatings": 60,
   "RatingHistory": [
     {
@@ -2073,6 +2073,12 @@
       "Rating": 4.29,
       "NumberOfAwards": 655,
       "NumberOfAwardsMax": 84
+    },
+    {
+      "Time": "2024-09-10T19:57:18.5025714+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 655,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
@@ -2170,8 +2176,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2024-09-09T16:58:22.8174835+00:00",
+  "LastChanged": "2024-09-10T19:57:18.5025714+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:02.706783+00:00",
-  "LastUpdate_Ratings": "2024-09-10T17:58:19.2219944+00:00",
+  "LastUpdate_Ratings": "2024-09-10T19:57:18.5025719+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:24.7205231+00:00"
 }
