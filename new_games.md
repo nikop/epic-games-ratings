@@ -30,7 +30,7 @@
 | [realm of magic](games/9/90167acd850a4e36aec17ea7c2ccc21f.md) | 2024-08-30 | - |  | - | 0 |
 | [StarbaseSim](games/5/5a1b2edca43946c5af9ae1098a327ff5.md) | 2024-08-30 | - |  | - | 0 |
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2024-08-30 | - |  | - | - |
-| [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | 4.26 | 0 |
+| [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | 4.27 | 0 |
 | [Death Noodle Delivery](games/a/aeb49c35b9fb43e1b1e157d4e1895222.md) | 2024-08-30 | - |  | - | 0 |
 | [Vagneria](games/6/64c04bc14ae04334bc9d6dcadbadaab2.md) | 2024-08-29 | - |  | - | - |
 | [Sift Heads Legendary Pack](games/9/914da631db4047e3b02da6ef1777e1ac.md) | 2024-08-29 | - |  | - | 0 |
