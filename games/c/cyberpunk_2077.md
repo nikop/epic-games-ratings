@@ -365,7 +365,7 @@ Completed: 3,832 (0.34%) (Ranked 359)
 | 2024-08-20 | 1,114,913 | 3,832 |
 ## Awards
 Max (Character Customization): 176,855  (Ranked 7)  
-Sum: 704,737 (Ranked 8)  
+Sum: 704,794 (Ranked 8)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -373,13 +373,13 @@ Diff (max vs sum): -1
 | This game has Great Boss Battles | 138,492 |
 | This game is Great for Beginners | 49,338 |
 | This game has Diverse Characters | 47,860 |
-| This game is Highly Recommended | 45,347 |
+| This game is Highly Recommended | 45,379 |
 | This game has Amazing Storytelling | 44,423 |
 | This game is Extremely Fun | 44,232 |
 | This game has Amazing Characters | 43,869 |
 | This game is Relaxing | 42,675 |
 | This game has Quickly Understood Controls | 42,406 |
-| This game has a Creative Community | 29,240 |
+| This game has a Creative Community | 29,265 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -983,4 +983,4 @@ Diff (max vs sum): -1
 | 2024-09-07 | 4.69 | - | 176,513 | 702,820 |
 | 2024-09-08 | 4.69 | - | 176,643 | 703,604 |
 | 2024-09-09 | 4.69 | - | 176,758 | 704,284 |
-| 2024-09-10 | 4.69 | - | 176,855 | 704,737 |
+| 2024-09-10 | 4.69 | - | 176,855 | 704,794 |

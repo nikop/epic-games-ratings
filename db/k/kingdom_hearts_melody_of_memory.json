@@ -3,8 +3,8 @@
   "Name": "KINGDOM HEARTS Melody of Memory",
   "ProductSlug": "kingdom-hearts-melody-of-memory",
   "Ranking_Rating": 353,
-  "Ranking_Popularity": 665,
-  "Ranking_PopularitySum": 682,
+  "Ranking_Popularity": 658,
+  "Ranking_PopularitySum": 678,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -466,18 +466,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-09-10T17:58:30.2107798+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 27,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 27,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 26
+      "Count": 27
     }
   ],
   "EOS_Progressed": 0,
@@ -491,8 +497,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:47.7088275+00:00",
-  "LastChanged": "2024-08-28T02:02:43.9485281+00:00",
+  "LastChanged": "2024-09-10T17:58:30.2107797+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:56:59.7286071+00:00",
-  "LastUpdate_Ratings": "2024-09-10T15:59:43.029033+00:00",
+  "LastUpdate_Ratings": "2024-09-10T17:58:30.2107801+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:24.7030646+00:00"
 }
