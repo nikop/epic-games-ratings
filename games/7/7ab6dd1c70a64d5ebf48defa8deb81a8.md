@@ -1,7 +1,7 @@
 # Atlas Fallen: Reign Of Sand
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.25 (Ranked 1,062)  
+Rating: 4.24 (Ranked 1,070)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -201,3 +201,4 @@ Completed: 8 (0.23%) (Ranked 385)
 | 2024-08-18 | 4.25 | 0 | 0 |
 | 2024-08-24 | 4.24 | 0 | 0 |
 | 2024-09-08 | 4.25 | 0 | 0 |
+| 2024-09-10 | 4.24 | 0 | 0 |
