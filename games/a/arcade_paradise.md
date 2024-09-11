@@ -177,8 +177,8 @@ Completed: 2 (0.00%) (Ranked 561)
 | 2024-08-09 | 386,429 | 2 |
 ## Awards
 Max (Great for Beginners): 95  (Ranked 473)  
-Sum: 506 (Ranked 409)  
-Diff (max vs sum): 64  
+Sum: 467 (Ranked 416)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 95 |
@@ -189,8 +189,8 @@ Diff (max vs sum): 64
 | This game has Amazing Characters | 59 |
 | This game is Great for Quick Sessions | 48 |
 | This game has Playful Visuals | 46 |
+| This game has Quickly Understood Controls | 40 |
 | This game has a Creative Community | 40 |
-| This game has Quickly Understood Controls | 39 |
 | This game has Easy Combat | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
