@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-alien-dawn",
   "Ranking_Rating": 563,
   "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 528,
+  "Ranking_PopularitySum": 527,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -925,10 +925,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 178,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-09-11T19:00:05.083647+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 178,
+  "NumberOfAwards": 180,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -960,7 +966,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has a Creative Community",
@@ -981,8 +987,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-25T13:05:45.0799807+00:00",
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
-  "LastChanged": "2024-09-11T13:59:01.2168575+00:00",
+  "LastChanged": "2024-09-11T19:00:05.0836469+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:15.6206364+00:00",
-  "LastUpdate_Ratings": "2024-09-11T17:58:21.2449781+00:00",
+  "LastUpdate_Ratings": "2024-09-11T19:00:05.0836476+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:55.2988573+00:00"
 }
