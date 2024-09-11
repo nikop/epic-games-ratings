@@ -3,8 +3,8 @@
   "Name": "Sniper Ghost Warrior Contracts",
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
   "Ranking_Rating": 1118,
-  "Ranking_Popularity": 703,
-  "Ranking_PopularitySum": 705,
+  "Ranking_Popularity": 677,
+  "Ranking_PopularitySum": 636,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -132,18 +132,30 @@
       "Rating": 4.19,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-09-10T23:59:00.1860318+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Challenging Combat",
+  "NumberOfAwards": 44,
+  "NumberOfAwardsMax": 24,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -158,7 +170,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
-  "LastChanged": "2024-09-10T18:58:30.298904+00:00",
+  "LastChanged": "2024-09-10T23:59:00.1860317+00:00",
   "LastUpdate_AppInfo": "2024-09-05T16:57:07.6956304+00:00",
-  "LastUpdate_Ratings": "2024-09-10T22:00:00.8216003+00:00"
+  "LastUpdate_Ratings": "2024-09-10T23:59:00.1860322+00:00"
 }

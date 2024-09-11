@@ -26468,18 +26468,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 126639,
       "NumberOfAwardsMax": 16981
+    },
+    {
+      "Time": "2024-09-10T23:57:31.9092437+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 126695,
+      "NumberOfAwardsMax": 16998
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 126639,
-  "NumberOfAwardsMax": 16981,
+  "NumberOfAwards": 126695,
+  "NumberOfAwardsMax": 16998,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 16981
+      "Count": 16998
     },
     {
       "Text": "This game has Competitive Players",
@@ -26491,7 +26497,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 12166
+      "Count": 12179
     },
     {
       "Text": "This game is Relaxing",
@@ -26521,19 +26527,19 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 9853
+      "Count": 9861
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 8930
+      "Count": 8941
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8215
+      "Count": 8222
     },
     {
       "Text": "This game has a Competitive Community",
@@ -26553,8 +26559,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-09-10T16:58:09.8950017+00:00",
+  "LastChanged": "2024-09-10T23:57:31.9092434+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:40.1584929+00:00",
-  "LastUpdate_Ratings": "2024-09-10T21:58:22.170973+00:00",
+  "LastUpdate_Ratings": "2024-09-10T23:57:31.9092439+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:59.8762812+00:00"
 }
