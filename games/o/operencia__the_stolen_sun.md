@@ -1,7 +1,7 @@
 # Operencia: The Stolen Sun
 [Store](https://store.epicgames.com/en-US/p/operencia)  
 [View Rawdata](../../db/o/operencia__the_stolen_sun.json)  
-Rating: 4.41 (Ranked 868)  
+Rating: 4.38 (Ranked 920)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -34,3 +34,4 @@ Rating: 4.41 (Ranked 868)
 | 2024-05-28 | 4.43 | 0 | 0 |
 | 2024-08-02 | 4.40 | 0 | 0 |
 | 2024-08-13 | 4.41 | 0 | 0 |
+| 2024-09-11 | 4.38 | 0 | 0 |
