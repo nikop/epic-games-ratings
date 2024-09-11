@@ -5,7 +5,7 @@ Rating: 4.51 (Ranked 674)
 Number of Ratings: 2,006  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 123  (Ranked 436)  
-Sum: 794 (Ranked 359)  
+Sum: 795 (Ranked 359)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 77
 | This game has Quickly Understood Controls | 100 |
 | This game has Playful Visuals | 95 |
 | This game has Amazing Storytelling | 81 |
-| This game has Challenging Combat | 78 |
+| This game has Challenging Combat | 79 |
 | This game has Obsessive Gameplay | 64 |
 | This game is Great for Beginners | 59 |
 | This game is Relaxing | 34 |
@@ -147,3 +147,4 @@ Diff (max vs sum): 77
 | 2024-09-04 | 4.51 | - | 120 | 789 |
 | 2024-09-07 | 4.51 | - | 122 | 793 |
 | 2024-09-09 | 4.51 | - | 123 | 794 |
+| 2024-09-11 | 4.51 | - | 123 | 795 |
