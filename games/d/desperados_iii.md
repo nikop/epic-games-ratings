@@ -55,7 +55,7 @@ Completed: 4 (0.12%) (Ranked 425)
 | 2024-08-09 | 3,224 | 4 |
 | 2024-08-20 | 3,346 | 4 |
 ## Awards
-Max (Diverse Characters): 57  (Ranked 541)  
+Max (Amazing Storytelling): 57  (Ranked 541)  
 Sum: 412 (Ranked 429)  
 Diff (max vs sum): 112  
 | Award | Count |

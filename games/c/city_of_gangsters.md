@@ -377,8 +377,8 @@ Completed: 9 (0.00%) (Ranked 561)
 | 2024-08-20 | 384,125 | 9 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 519)  
-Sum: 380 (Ranked 439)  
-Diff (max vs sum): 80  
+Sum: 380 (Ranked 440)  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 72 |
