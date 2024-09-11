@@ -4,7 +4,7 @@
   "ProductSlug": "the-riftbreaker",
   "Ranking_Rating": 150,
   "Ranking_Popularity": 328,
-  "Ranking_PopularitySum": 370,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2111,10 +2111,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 738,
       "NumberOfAwardsMax": 269
+    },
+    {
+      "Time": "2024-09-11T21:59:57.5110015+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 739,
+      "NumberOfAwardsMax": 269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 738,
+  "NumberOfAwards": 739,
   "NumberOfAwardsMax": 269,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2134,7 +2140,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Relaxing",
@@ -2184,8 +2190,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:56.9409047+00:00",
-  "LastChanged": "2024-09-09T19:59:03.5793063+00:00",
+  "LastChanged": "2024-09-11T21:59:57.5110013+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:42.802453+00:00",
-  "LastUpdate_Ratings": "2024-09-11T20:57:51.35961+00:00",
+  "LastUpdate_Ratings": "2024-09-11T21:59:57.5110019+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:44.5531276+00:00"
 }

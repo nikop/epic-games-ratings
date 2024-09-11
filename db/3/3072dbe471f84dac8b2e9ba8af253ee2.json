@@ -2,7 +2,7 @@
   "ID": "3072dbe471f84dac8b2e9ba8af253ee2",
   "Name": "Wild Card Football",
   "ProductSlug": "wild-card-football",
-  "Ranking_Rating": 1163,
+  "Ranking_Rating": 1189,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.14,
+  "Rating": 4.09,
   "RatingHistory": [
     {
       "Time": "2024-09-01T08:58:38.1562844+00:00",
@@ -97,6 +97,12 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-11T21:57:35.8626702+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -115,8 +121,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-03T13:03:10.7629076+00:00",
   "FirstSeenRating": "2024-09-01T08:58:38.1562843+00:00",
-  "LastChanged": "2024-09-11T07:58:06.5524792+00:00",
+  "LastChanged": "2024-09-11T21:57:35.8626701+00:00",
   "LastUpdate_AppInfo": "2024-09-06T22:56:57.866051+00:00",
-  "LastUpdate_Ratings": "2024-09-11T19:59:28.412276+00:00",
+  "LastUpdate_Ratings": "2024-09-11T21:57:35.8626706+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:00.0977425+00:00"
 }
