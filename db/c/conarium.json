@@ -2,7 +2,7 @@
   "ID": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
   "Name": "Conarium",
   "ProductSlug": "conarium",
-  "Ranking_Rating": 1228,
+  "Ranking_Rating": 1231,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 3.97,
+  "Rating": 3.96,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -257,6 +257,12 @@
       "Rating": 3.97,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-11T02:04:46.5710071+00:00",
+      "Rating": 3.96,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -274,8 +280,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.4733415+00:00",
-  "LastChanged": "2024-05-20T13:02:53.390717+00:00",
+  "LastChanged": "2024-09-11T02:04:46.5710069+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:04.6005763+00:00",
-  "LastUpdate_Ratings": "2024-09-10T22:59:00.3600705+00:00",
+  "LastUpdate_Ratings": "2024-09-11T02:04:46.5710075+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:10.8524139+00:00"
 }

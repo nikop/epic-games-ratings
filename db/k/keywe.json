@@ -2,7 +2,7 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_Rating": 422,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 713,
   "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 490,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:13.8503403+00:00",
@@ -56,6 +56,12 @@
     {
       "Time": "2024-09-10T02:06:53.6926303+00:00",
       "Rating": 4.62,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-11T02:03:48.1116109+00:00",
+      "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1093,9 +1099,9 @@
   "FirstSeen": "2022-07-22T20:28:35.060249+00:00",
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
-  "LastChanged": "2024-09-10T02:06:53.6926302+00:00",
+  "LastChanged": "2024-09-11T02:03:48.1116107+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:14.3018272+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:33.6955868+00:00",
-  "LastUpdate_Ratings": "2024-09-10T22:58:02.3814137+00:00",
+  "LastUpdate_Ratings": "2024-09-11T02:03:48.1116113+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:14.3018449+00:00"
 }

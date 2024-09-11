@@ -3,8 +3,8 @@
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 1071,
-  "Ranking_Popularity": 457,
-  "Ranking_PopularitySum": 374,
+  "Ranking_Popularity": 454,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1489,18 +1489,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 710,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-09-11T02:05:13.5781569+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 714,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 710,
-  "NumberOfAwardsMax": 104,
+  "NumberOfAwards": 714,
+  "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 104
+      "Count": 106
     },
     {
       "Text": "This game is Relaxing",
@@ -1560,7 +1566,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 71
+      "Count": 73
     }
   ],
   "EOS_Progressed": 0,
@@ -1575,8 +1581,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-09-10T13:13:26.6006658+00:00",
+  "LastChanged": "2024-09-11T02:05:13.5781567+00:00",
   "LastUpdate_AppInfo": "2024-09-10T17:57:10.6700836+00:00",
-  "LastUpdate_Ratings": "2024-09-10T22:59:27.2259566+00:00",
+  "LastUpdate_Ratings": "2024-09-11T02:05:13.5781574+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:14.4523445+00:00"
 }
