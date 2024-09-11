@@ -2,9 +2,9 @@
   "ID": "ff50f85ed609454e80ac46d9496da34d",
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 249,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -8632,10 +8632,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 5140,
       "NumberOfAwardsMax": 618
+    },
+    {
+      "Time": "2024-09-11T15:01:06.8950906+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5143,
+      "NumberOfAwardsMax": 618
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5140,
+  "NumberOfAwards": 5143,
   "NumberOfAwardsMax": 618,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8685,7 +8691,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 498
+      "Count": 501
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8711,8 +8717,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-09-11T13:56:58.1063798+00:00",
+  "LastChanged": "2024-09-11T15:01:06.8950898+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:05.8515049+00:00",
-  "LastUpdate_Ratings": "2024-09-11T13:56:58.1063804+00:00",
+  "LastUpdate_Ratings": "2024-09-11T15:01:06.8950916+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:08.3413385+00:00"
 }

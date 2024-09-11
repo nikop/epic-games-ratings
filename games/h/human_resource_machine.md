@@ -4,8 +4,8 @@
 Rating: 4.62 (Ranked 421)  
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 466)  
-Sum: 98 (Ranked 576)  
-Diff (max vs sum): -110  
+Sum: 98 (Ranked 577)  
+Diff (max vs sum): -111  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 98 |

@@ -1,12 +1,12 @@
 # Wargame: Red Dragon
 [Store](https://store.epicgames.com/en-US/p/wargame-red-dragon)  
 [View Rawdata](../../db/w/wargame__red_dragon.json)  
-Rating: 4.68 (Ranked 288)  
+Rating: 4.68 (Ranked 289)  
 Number of Ratings: 2,918  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 1,375  (Ranked 164)  
+Max (Diverse Characters): 1,375  (Ranked 165)  
 Sum: 9,819 (Ranked 127)  
-Diff (max vs sum): 37  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,375 |
