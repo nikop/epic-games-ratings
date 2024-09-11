@@ -3,7 +3,7 @@
   "Name": "Deponia: The Complete Journey",
   "ProductSlug": "deponia-the-complete-journey",
   "Ranking_Rating": 402,
-  "Ranking_Popularity": 309,
+  "Ranking_Popularity": 307,
   "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -847,18 +847,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 316
+    },
+    {
+      "Time": "2024-09-11T04:00:07.1860241+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 317
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
-  "NumberOfAwardsMax": 316,
+  "NumberOfAwards": 337,
+  "NumberOfAwardsMax": 317,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 316
+      "Count": 317
     },
     {
       "Text": "This game has Unique Visuals",
@@ -878,8 +884,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:58.1804178+00:00",
-  "LastChanged": "2024-09-07T21:58:07.889299+00:00",
+  "LastChanged": "2024-09-11T04:00:07.1860236+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:10.4459104+00:00",
-  "LastUpdate_Ratings": "2024-09-11T02:06:41.0641135+00:00",
+  "LastUpdate_Ratings": "2024-09-11T04:00:07.1860244+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:56.0147287+00:00"
 }
