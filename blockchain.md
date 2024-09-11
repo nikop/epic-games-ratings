@@ -25,6 +25,7 @@
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [KIRAVERSE](games/9/90f2ff8eb85a4730a0ed66e6e38754c4.md) | 2099-01-01 | - |  | - | - |
 | [KOKODI](games/2/2d89fb7420d8473fa28de88efc7d2f99.md) | 2099-01-01 | - |  | - | - |
+| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2099-01-01 | - |  | - | - |
 | [Lowlife Forms](games/5/56584c5aaba5428582d56e561d0a81f4.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [MetaDOS](games/c/c93d58631e5841a89a75dd2dce81add9.md) | 2099-01-01 | - |  | - | - |
