@@ -2,7 +2,7 @@
   "ID": "8962863aee2f4e7483fc37d4719c3f69",
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
-  "Ranking_Rating": 1218,
+  "Ranking_Rating": 1215,
   "Ranking_Popularity": 477,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4,
+  "Rating": 4.01,
   "RatingHistory": [
     {
       "Time": "2023-09-22T23:59:41.345092+00:00",
@@ -2257,10 +2257,16 @@
       "Rating": 4,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2024-09-11T15:57:44.9581134+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 501,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499,
+  "NumberOfAwards": 501,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2304,7 +2310,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 69
+      "Count": 71
     },
     {
       "Text": "This game is Relaxing",
@@ -2325,8 +2331,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-09-09T21:58:20.0658271+00:00",
+  "LastChanged": "2024-09-11T15:57:44.9581132+00:00",
   "LastUpdate_AppInfo": "2024-09-07T07:57:04.7000437+00:00",
-  "LastUpdate_Ratings": "2024-09-11T13:58:00.6682462+00:00",
+  "LastUpdate_Ratings": "2024-09-11T15:57:44.9581137+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:18.4011209+00:00"
 }
