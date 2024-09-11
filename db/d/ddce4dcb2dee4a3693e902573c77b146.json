@@ -2,9 +2,9 @@
   "ID": "ddce4dcb2dee4a3693e902573c77b146",
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 538,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 325,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-12-13T01:50:49.5895067+00:00",
@@ -3413,10 +3413,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1025,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-09-11T20:01:24.1182588+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 1029,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1025,
+  "NumberOfAwards": 1029,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3436,7 +3442,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 75
+      "Count": 78
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3478,7 +3484,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Relaxing",
@@ -3505,8 +3511,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-09-11T03:01:46.2655492+00:00",
-  "LastUpdate_AppInfo": "2024-09-04T18:57:29.2122503+00:00",
-  "LastUpdate_Ratings": "2024-09-11T18:57:49.8959997+00:00",
+  "LastChanged": "2024-09-11T20:01:24.1182586+00:00",
+  "LastUpdate_AppInfo": "2024-09-11T19:57:16.0763219+00:00",
+  "LastUpdate_Ratings": "2024-09-11T20:01:24.1182592+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:55.7173772+00:00"
 }
