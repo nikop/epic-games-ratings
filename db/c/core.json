@@ -2,7 +2,7 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 971,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 1193,
@@ -3447,6 +3447,6 @@
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
   "LastChanged": "2024-09-11T06:57:40.559563+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:30.8744878+00:00",
-  "LastUpdate_Ratings": "2024-09-11T15:01:07.1683666+00:00",
+  "LastUpdate_Ratings": "2024-09-11T16:59:05.4647188+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:09.932172+00:00"
 }
