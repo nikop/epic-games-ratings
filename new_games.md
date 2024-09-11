@@ -78,7 +78,7 @@
 | [Baby Boomer 2: 35 Years Too Soon](games/e/ec138d2df7af46d39a50c5f454c7317d.md) | 2024-08-16 | 29 (1,000 XP) | 15 | - | - |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 7 | - | - |
 | [Upekkha](games/1/15e416f5483a4767ab85570343a0f3e6.md) | 2024-08-16 | - |  | - | 0 |
-| [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | 4.14 | 0 |
+| [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 2024-08-16 | - |  | 4.15 | 0 |
 | [Holy Clash Cards](games/0/0211b3c0025c4883a872953748c73b65.md) | 2024-08-15 | - |  | - | - |
 | [Arco](games/1/1d34bec4cdd44038b6568636855d07eb.md) | 2024-08-15 | - |  | - | 0 |
 | [Idolverse](games/b/beabc23b8f0042e19e07784b4539ea1a.md) | 2024-08-15 | - |  | - | - |
@@ -97,4 +97,3 @@
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 1 | - | 0 |
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-12 | 57 (1,000 XP) | 13 | - | 0 |
 | [Dark Odyssey](games/0/068f3fcf3467498d84472b24e6cff069.md) | 2024-08-12 | - |  | - | 0 |
-| [Runes of Mystery](games/4/4e2e4b7052de48e192361c7364b27bf0.md) | 2024-08-12 | 5 (1,000 XP) | 5 | - | 0 |
