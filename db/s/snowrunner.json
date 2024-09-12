@@ -4,7 +4,7 @@
   "ProductSlug": "snowrunner",
   "Ranking_Rating": 166,
   "Ranking_Popularity": 31,
-  "Ranking_PopularitySum": 21,
+  "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -24250,6 +24250,6 @@
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
   "LastChanged": "2024-09-12T13:15:09.4909034+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:42.4303143+00:00",
-  "LastUpdate_Ratings": "2024-09-12T13:15:09.4909041+00:00",
+  "LastUpdate_Ratings": "2024-09-12T14:58:02.0496484+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:55.0339897+00:00"
 }

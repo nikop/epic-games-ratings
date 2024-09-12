@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-fc-24",
   "Ranking_Rating": 1146,
   "Ranking_Popularity": 17,
-  "Ranking_PopularitySum": 22,
+  "Ranking_PopularitySum": 18,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 36,
@@ -9301,10 +9301,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 109215,
       "NumberOfAwardsMax": 48028
+    },
+    {
+      "Time": "2024-09-12T14:57:32.5413629+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 137872,
+      "NumberOfAwardsMax": 48028
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 109215,
+  "NumberOfAwards": 137872,
   "NumberOfAwardsMax": 48028,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9312,7 +9318,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 31000
+      "Count": 31040
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9336,7 +9342,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 30187
+      "Count": 30239
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9360,7 +9366,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28405
+      "Count": 28565
     }
   ],
   "EOS_Progressed": 695128,
@@ -24646,9 +24652,9 @@
   "FirstSeen": "2023-09-29T00:00:53.2265881+00:00",
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
-  "LastChanged": "2024-09-11T20:57:14.1045981+00:00",
+  "LastChanged": "2024-09-12T14:57:32.5413627+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:14.1859975+00:00",
   "LastUpdate_AppInfo": "2024-09-07T07:57:02.8745774+00:00",
-  "LastUpdate_Ratings": "2024-09-12T13:14:25.3271449+00:00",
+  "LastUpdate_Ratings": "2024-09-12T14:57:32.5413633+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:14.1861015+00:00"
 }
