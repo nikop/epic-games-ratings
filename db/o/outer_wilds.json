@@ -4,7 +4,7 @@
   "ProductSlug": "outerwilds",
   "Ranking_Rating": 8,
   "Ranking_Popularity": 672,
-  "Ranking_PopularitySum": 565,
+  "Ranking_PopularitySum": 566,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -659,6 +659,6 @@
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
   "LastChanged": "2024-09-10T09:57:29.9637335+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:32.8286004+00:00",
-  "LastUpdate_Ratings": "2024-09-12T04:59:18.7406915+00:00",
+  "LastUpdate_Ratings": "2024-09-12T06:58:07.0199801+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:28.9831364+00:00"
 }
