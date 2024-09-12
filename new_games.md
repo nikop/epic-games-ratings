@@ -1,5 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | - |  | - | - |
+| [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | - |  | - | - |
 | [Caravan SandWitch](games/4/45b137b2ecd14e01a54b52e575f1632d.md) | 2024-09-12 | - |  | - | - |
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | - |  | - | - |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | - |  | - | - |
