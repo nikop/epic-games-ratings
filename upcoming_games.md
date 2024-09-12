@@ -48,7 +48,6 @@
 | [Project Tower](games/a/a9d8b50783fa4e3aa449991c563c9217.md) | 2024-09-30 | - |  | - | - |
 | [Sofie: The Echoes](games/7/77593ca0e0f3495f95ab77a6ea960a65.md) | 2024-09-30 | - |  | - | - |
 | [Spiral](games/4/4ac2b56f3cbb4de58183d6f20ee834a1.md) | 2024-09-30 | - |  | - | - |
-| [Superscout](games/3/34813212c9b04b2793d4f7e90814b7a5.md) | 2024-09-30 | - |  | - | - |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-30 | 11 (1,000 XP) | 2 | - | - |
 | [Union of Gnomes](games/3/3880ec67d75643da816c9feabb168010.md) | 2024-09-30 | - |  | - | - |
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
@@ -69,8 +68,8 @@
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [The Smurfs – Dreams](games/d/d6bbed959ee545229d579407d5616452.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
