@@ -2,7 +2,7 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 593,
+  "Ranking_Rating": 592,
   "Ranking_Popularity": 107,
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 1193,
@@ -18858,10 +18858,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 28972,
       "NumberOfAwardsMax": 3978
+    },
+    {
+      "Time": "2024-09-12T18:00:22.8562532+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 28976,
+      "NumberOfAwardsMax": 3978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28972,
+  "NumberOfAwards": 28976,
   "NumberOfAwardsMax": 3978,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18899,7 +18905,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3180
+      "Count": 3184
     },
     {
       "Text": "This game is Highly Recommended",
@@ -18949,8 +18955,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2024-09-12T16:57:25.9044105+00:00",
+  "LastChanged": "2024-09-12T18:00:22.856253+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:58.5804431+00:00",
-  "LastUpdate_Ratings": "2024-09-12T16:57:25.9044111+00:00",
+  "LastUpdate_Ratings": "2024-09-12T18:00:22.8562537+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:26.1869375+00:00"
 }
