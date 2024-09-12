@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -14054,18 +14054,24 @@
       "Rating": 4.43,
       "NumberOfAwards": 5589709,
       "NumberOfAwardsMax": 946073
+    },
+    {
+      "Time": "2024-09-12T10:58:19.6828242+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5590641,
+      "NumberOfAwardsMax": 947005
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5589709,
-  "NumberOfAwardsMax": 946073,
+  "NumberOfAwards": 5590641,
+  "NumberOfAwardsMax": 947005,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 946073
+      "Count": 947005
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -47532,9 +47538,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-09-11T18:57:23.0553722+00:00",
+  "LastChanged": "2024-09-12T10:58:19.682824+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:54.5486068+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:24.3238663+00:00",
-  "LastUpdate_Ratings": "2024-09-12T08:59:53.8971262+00:00",
+  "LastUpdate_Ratings": "2024-09-12T10:58:19.6828246+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:54.5488487+00:00"
 }
