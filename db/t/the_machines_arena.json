@@ -4,7 +4,7 @@
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 111,
   "Ranking_Popularity": 604,
-  "Ranking_PopularitySum": 555,
+  "Ranking_PopularitySum": 543,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -713,10 +713,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 123,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-09-11T23:58:25.9509416+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 143,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 123,
+  "NumberOfAwards": 143,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -749,6 +755,12 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 23
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -763,8 +775,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-09-11T15:00:34.8323573+00:00",
+  "LastChanged": "2024-09-11T23:58:25.9509415+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:24.5014717+00:00",
-  "LastUpdate_Ratings": "2024-09-11T21:59:01.2026925+00:00",
+  "LastUpdate_Ratings": "2024-09-11T23:58:25.950942+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:21.063413+00:00"
 }

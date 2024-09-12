@@ -4,7 +4,7 @@
   "ProductSlug": "arcade-paradise",
   "Ranking_Rating": 939,
   "Ranking_Popularity": 473,
-  "Ranking_PopularitySum": 430,
+  "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1111,10 +1111,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 409,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-09-11T23:57:48.7583803+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 410,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 409,
+  "NumberOfAwards": 410,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1128,7 +1134,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2584,9 +2590,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-09-11T21:58:27.7357744+00:00",
+  "LastChanged": "2024-09-11T23:57:48.7583801+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:49.8804407+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:20.7609214+00:00",
-  "LastUpdate_Ratings": "2024-09-11T21:58:27.735775+00:00",
+  "LastUpdate_Ratings": "2024-09-11T23:57:48.7583807+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:49.8804766+00:00"
 }
