@@ -2,7 +2,7 @@
   "ID": "046aeb7098b94ac3961dad6c5dbe68c0",
   "Name": "Ratchet \u0026 Clank: Rift Apart",
   "ProductSlug": "ratchet-clank-rift-apart",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 227,
   "Ranking_Popularity": 672,
   "Ranking_PopularitySum": 610,
   "Ranking_EOS_Progress": 1193,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "RatingHistory": [
     {
       "Time": "2023-07-30T10:57:29.0735952+00:00",
@@ -679,6 +679,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-12T21:57:57.6945476+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 67,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
@@ -717,8 +723,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-26T17:57:55.6867011+00:00",
   "FirstSeenRating": "2023-07-30T10:57:29.073595+00:00",
-  "LastChanged": "2024-09-09T21:57:39.1655377+00:00",
+  "LastChanged": "2024-09-12T21:57:57.6945474+00:00",
   "LastUpdate_AppInfo": "2024-09-12T10:57:10.5057016+00:00",
-  "LastUpdate_Ratings": "2024-09-12T19:57:58.4341015+00:00",
+  "LastUpdate_Ratings": "2024-09-12T21:57:57.6945478+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:03.8149853+00:00"
 }

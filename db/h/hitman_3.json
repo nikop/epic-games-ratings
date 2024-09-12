@@ -2,7 +2,7 @@
   "ID": "ed55aa5edc5941de92fd7f64de415793",
   "Name": "HITMAN World of Assassination",
   "ProductSlug": "hitman-3",
-  "Ranking_Rating": 133,
+  "Ranking_Rating": 132,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 13,
@@ -21542,10 +21542,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 88448,
       "NumberOfAwardsMax": 13892
+    },
+    {
+      "Time": "2024-09-12T22:01:01.3760419+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 88455,
+      "NumberOfAwardsMax": 13892
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88448,
+  "NumberOfAwards": 88455,
   "NumberOfAwardsMax": 13892,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -21553,7 +21559,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 10925
+      "Count": 10932
     },
     {
       "Text": "This game is Highly Recommended",
@@ -54577,9 +54583,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
-  "LastChanged": "2024-09-12T18:58:19.3367915+00:00",
+  "LastChanged": "2024-09-12T22:01:01.3760417+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:12.0587668+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:34.3265272+00:00",
-  "LastUpdate_Ratings": "2024-09-12T20:57:38.0141191+00:00",
+  "LastUpdate_Ratings": "2024-09-12T22:01:01.3760423+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:12.0589714+00:00"
 }
