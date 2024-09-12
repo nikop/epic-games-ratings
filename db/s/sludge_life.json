@@ -3,8 +3,8 @@
   "Name": "SLUDGE LIFE",
   "ProductSlug": "sludge-life",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 713,
+  "Ranking_Popularity": 714,
+  "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -456,6 +456,6 @@
   "FirstSeen": "2022-07-22T20:20:12.4151557+00:00",
   "LastChanged": "2024-08-23T00:00:31.8549384+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:03.3519978+00:00",
-  "LastUpdate_Ratings": "2024-09-12T07:58:46.4048585+00:00",
+  "LastUpdate_Ratings": "2024-09-12T09:57:53.3248772+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:24.4416833+00:00"
 }

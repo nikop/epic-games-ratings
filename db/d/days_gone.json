@@ -2,7 +2,7 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 288,
+  "Ranking_Rating": 289,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 133,
   "Ranking_EOS_Progress": 1193,
@@ -8225,10 +8225,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 9231,
       "NumberOfAwardsMax": 5329
+    },
+    {
+      "Time": "2024-09-12T09:58:03.693602+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 9232,
+      "NumberOfAwardsMax": 5329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9231,
+  "NumberOfAwards": 9232,
   "NumberOfAwardsMax": 5329,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8302,7 +8308,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 239
+      "Count": 240
     }
   ],
   "EOS_Progressed": 0,
@@ -8316,8 +8322,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-09-12T03:02:13.4476683+00:00",
+  "LastChanged": "2024-09-12T09:58:03.6936018+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:00.8802529+00:00",
-  "LastUpdate_Ratings": "2024-09-12T07:58:58.1991773+00:00",
+  "LastUpdate_Ratings": "2024-09-12T09:58:03.6936024+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:50.0164646+00:00"
 }
