@@ -1,11 +1,11 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Shelter: An Animal Adventure](games/3/380c783528fb4ec58069229a29c71802.md) | 2024-09-12 | - |  | - | - |
 | [Caravan SandWitch](games/4/45b137b2ecd14e01a54b52e575f1632d.md) | 2024-09-12 | - |  | - | - |
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | - |  | - | - |
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | - |  | - | - |
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | - |  | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | - |  | - | - |
+| [Fell in love with doctors](games/e/edcd55bb56c3485484dcdd2fd78f42ae.md) | 2024-09-12 | - |  | - | - |
 | [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-13 | - |  | - | - |
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | - |  | - | - |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | - |  | - | - |
@@ -438,7 +438,6 @@
 | [Infinity Nikki](games/a/ad13a7222a9b4e899e14cd021c7c5118.md) | 2099-01-01 | - |  | - | - |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 1 | - | - |
 | [Intravenous](games/1/1a75390ae85d492d875b29a6e7fe1466.md) | 2099-01-01 | - |  | - | - |
-| [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
 | [JDM: Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | - |  | - | - |
 | [Juniper Burning](games/c/c86a5ee2673d47eabf02967f9a623d6c.md) | 2099-01-01 | - |  | - | - |
