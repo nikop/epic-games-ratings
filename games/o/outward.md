@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 611)  
+Rating: 4.53 (Ranked 632)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -327,14 +327,14 @@ Completed: 6 (0.09%) (Ranked 444)
 | 2024-08-20 | 6,418 | 6 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 599)  
-Sum: 281 (Ranked 477)  
-Diff (max vs sum): 122  
+Sum: 282 (Ranked 476)  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |
 | This game has Amazing Characters | 35 |
 | This game has Unique Visuals | 34 |
-| This game has Challenging Combat | 31 |
+| This game has Challenging Combat | 32 |
 | This game has Quickly Understood Controls | 30 |
 | This game has Diverse Characters | 30 |
 | This game is Extremely Fun | 29 |
@@ -452,3 +452,4 @@ Diff (max vs sum): 122
 | 2024-09-02 | 4.54 | - | 38 | 281 |
 | 2024-09-09 | 4.55 | - | 38 | 281 |
 | 2024-09-11 | 4.54 | - | 38 | 281 |
+| 2024-09-12 | 4.53 | - | 38 | 282 |

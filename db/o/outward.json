@@ -2,9 +2,9 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 611,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 599,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 444,
   "Ranking_EOS_NewPlayers": 236,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "NumberOfRatings": 266,
   "RatingHistory": [
     {
@@ -737,10 +737,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 281,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-09-12T21:01:11.9910116+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 281,
+  "NumberOfAwards": 282,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -778,7 +784,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9373,9 +9379,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "LastChanged": "2024-09-11T16:58:32.0281888+00:00",
+  "LastChanged": "2024-09-12T21:01:11.9910114+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:19.5038974+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:56:56.7150193+00:00",
-  "LastUpdate_Ratings": "2024-09-12T19:57:10.7080733+00:00",
+  "LastUpdate_Ratings": "2024-09-12T21:01:11.991012+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:19.5039548+00:00"
 }
