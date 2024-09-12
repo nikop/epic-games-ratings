@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Madness Starts Young](games/2/2606dbe6dcab483b8cd65d9faf168b6f.md) | 2024-09-12 | - |  | - | - |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2024-09-12 | 15 (1,000 XP) | 0 | - | - |
 | [Facecheck](games/d/d552eca77bcc418183d7689fc8156c58.md) | 2024-09-11 | - |  | - | - |
 | [KurtzPel](games/7/727a79e37aea499db68214a27867aec2.md) | 2024-09-11 | - |  | - | 0 |
