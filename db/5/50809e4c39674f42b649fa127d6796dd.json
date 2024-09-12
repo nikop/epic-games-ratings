@@ -2,7 +2,7 @@
   "ID": "50809e4c39674f42b649fa127d6796dd",
   "Name": "Sonic Frontiers",
   "ProductSlug": "sonic-frontiers",
-  "Ranking_Rating": 201,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 635,
   "Ranking_PopularitySum": 667,
   "Ranking_EOS_Progress": 374,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[KR]"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2024-04-02T11:58:37.0098896+00:00",
@@ -241,6 +241,12 @@
     {
       "Time": "2024-09-11T21:57:38.401339+00:00",
       "Rating": 4.73,
+      "NumberOfAwards": 31,
+      "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-09-12T18:59:26.0593633+00:00",
+      "Rating": 4.74,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
     }
@@ -2250,9 +2256,9 @@
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenRating": "2024-04-02T11:58:37.0098894+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged": "2024-09-11T21:57:38.4013388+00:00",
+  "LastChanged": "2024-09-12T18:59:26.0593631+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:57.0807085+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:13.8658899+00:00",
-  "LastUpdate_Ratings": "2024-09-12T17:57:14.987929+00:00",
+  "LastUpdate_Ratings": "2024-09-12T18:59:26.0593636+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:57.0807383+00:00"
 }

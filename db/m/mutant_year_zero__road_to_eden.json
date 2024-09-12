@@ -4,7 +4,7 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 695,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 314,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2208,6 +2208,6 @@
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
   "LastChanged": "2024-09-12T03:58:39.0100673+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:45.1208994+00:00",
-  "LastUpdate_Ratings": "2024-09-12T17:57:53.2465547+00:00",
+  "LastUpdate_Ratings": "2024-09-12T18:59:51.9521722+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:38.7100063+00:00"
 }
