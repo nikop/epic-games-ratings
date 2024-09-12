@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 695)
 Number of Ratings: 2,052  (23.09.2022)  
 ## Awards
 Max (Character Customization): 754  (Ranked 232)  
-Sum: 1,128 (Ranked 315)  
-Diff (max vs sum): -83  
+Sum: 1,129 (Ranked 314)  
+Diff (max vs sum): -82  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 754 |
@@ -19,7 +19,7 @@ Diff (max vs sum): -83
 | This game is Relaxing | 40 |
 | This game has Challenging Combat | 36 |
 | This game has Obsessive Gameplay | 25 |
-| This game has a Creative Community | 20 |
+| This game has a Creative Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -260,3 +260,4 @@ Diff (max vs sum): -83
 | 2024-09-08 | 4.50 | - | 753 | 1,107 |
 | 2024-09-10 | 4.50 | - | 754 | 1,108 |
 | 2024-09-11 | 4.50 | - | 754 | 1,128 |
+| 2024-09-12 | 4.50 | - | 754 | 1,129 |

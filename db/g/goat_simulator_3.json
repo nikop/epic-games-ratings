@@ -3,7 +3,7 @@
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 214,
+  "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 350,
@@ -12389,11 +12389,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 7025,
       "NumberOfAwardsMax": 894
+    },
+    {
+      "Time": "2024-09-12T02:06:47.2476735+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 7033,
+      "NumberOfAwardsMax": 898
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7025,
-  "NumberOfAwardsMax": 894,
+  "NumberOfAwards": 7033,
+  "NumberOfAwardsMax": 898,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12424,7 +12430,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 894
+      "Count": 898
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12442,13 +12448,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 689
+      "Count": 690
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 669
+      "Count": 672
     },
     {
       "Text": "This game has Diverse Characters",
@@ -44038,9 +44044,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-09-11T23:57:40.0232216+00:00",
+  "LastChanged": "2024-09-12T02:06:47.2476733+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:06.5135637+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:49.372172+00:00",
-  "LastUpdate_Ratings": "2024-09-11T23:57:40.0232222+00:00",
+  "LastUpdate_Ratings": "2024-09-12T02:06:47.2476739+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:06.5137187+00:00"
 }

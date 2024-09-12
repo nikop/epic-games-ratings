@@ -4,7 +4,7 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 695,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 315,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2109,10 +2109,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1128,
       "NumberOfAwardsMax": 754
+    },
+    {
+      "Time": "2024-09-12T02:06:31.9643623+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1129,
+      "NumberOfAwardsMax": 754
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1128,
+  "NumberOfAwards": 1129,
   "NumberOfAwardsMax": 754,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2180,7 +2186,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -2194,8 +2200,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2024-09-11T03:00:53.2248112+00:00",
+  "LastChanged": "2024-09-12T02:06:31.9643621+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:45.1208994+00:00",
-  "LastUpdate_Ratings": "2024-09-11T23:57:22.591416+00:00",
+  "LastUpdate_Ratings": "2024-09-12T02:06:31.9643627+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:38.7100063+00:00"
 }
