@@ -2,7 +2,7 @@
   "ID": "a83aedcdb7304b51802d41c5ca308ef2",
   "Name": "Farmer\u0027s Dynasty",
   "ProductSlug": "farmers-dynasty",
-  "Ranking_Rating": 1064,
+  "Ranking_Rating": 1054,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "NumberOfRatings": 64,
   "RatingHistory": [
     {
@@ -368,6 +368,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-12T13:57:51.3766356+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -385,8 +391,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:48.9867279+00:00",
-  "LastChanged": "2024-09-10T13:14:22.0282283+00:00",
+  "LastChanged": "2024-09-12T13:57:51.3766354+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:56:59.9409908+00:00",
-  "LastUpdate_Ratings": "2024-09-12T11:59:01.7418626+00:00",
+  "LastUpdate_Ratings": "2024-09-12T13:57:51.376636+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:20.4088083+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "The Walking Dead No Man\u0027s Land",
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
   "Ranking_Rating": 1040,
-  "Ranking_Popularity": 317,
+  "Ranking_Popularity": 316,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 532,
@@ -3791,18 +3791,24 @@
       "Rating": 4.27,
       "NumberOfAwards": 1658,
       "NumberOfAwardsMax": 287
+    },
+    {
+      "Time": "2024-09-12T13:58:18.9433296+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 1661,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1658,
-  "NumberOfAwardsMax": 287,
+  "NumberOfAwards": 1661,
+  "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 287
+      "Count": 290
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6557,9 +6563,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-09-12T11:59:43.0574005+00:00",
+  "LastChanged": "2024-09-12T13:58:18.9433294+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:50.3643885+00:00",
   "LastUpdate_AppInfo": "2024-09-12T07:56:55.7436394+00:00",
-  "LastUpdate_Ratings": "2024-09-12T11:59:43.0574011+00:00",
+  "LastUpdate_Ratings": "2024-09-12T13:58:18.9433299+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:50.3644471+00:00"
 }
