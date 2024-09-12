@@ -461,7 +461,7 @@
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 2023-11-23 | 18 (1,000 XP) | 83 | - | 0 |
 | [Magnetism](games/1/1f5c217a910f4c00aaee91c20b34bb46.md) | 2023-11-23 | 9 (1,000 XP) | 1 | - | - |
 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 2023-11-22 | 43 (1,000 XP) | 70 | - | 0 |
-| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.73 | 31 |
+| [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 2023-11-21 | 40 (1,000 XP) | 1,626 | 4.74 | 31 |
 | [Worldless](games/c/c0a02ff2b624425c8111868dec76ac7b.md) | 2023-11-21 | 24 (1,000 XP) | 221 | - | 0 |
 | [Aron's Adventure: Magic Reborn](games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 2023-11-20 | 31 (1,000 XP) | 241 | - | 0 |
 | [Dark Table CCG](games/a/a0e5651da05447508a6cfe91e883af3a.md) | 2023-11-18 | 27 (1,000 XP) | 2,588 | - | 0 |
@@ -1000,7 +1000,7 @@
 | [Saturnalia](games/s/saturnalia.md) | 2022-10-27 | 20 (1,000 XP) | 75,954 | 4.26 | 0 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 2022-10-27 | 23 (1,000 XP) | 13 | - | 0 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 2022-10-22 | 16 (1,000 XP) | 209,620 | 4.15 | 0 |
-| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 90,785 | 4.19 | 3,751 |
+| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 90,785 | 4.19 | 3,752 |
 | [Late Shift](games/l/late_shift.md) | 2022-10-21 | 20 (1,000 XP) | 2,938 | - | 0 |
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 274 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 4,162 | 4.09 | 0 |
@@ -1232,11 +1232,11 @@
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 615,465 | - | 0 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 8,485 | - | 0 |
-| [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 482,170 | 4.53 | 255 |
+| [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 482,170 | 4.53 | 256 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,226 | 4.65 | 135 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 583,087 | 4.53 | 147 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 506,083 | 4.45 | 317 |
-| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,470,302 | 4.65 | 9,226 |
+| [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,470,302 | 4.65 | 9,234 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,558 | 4.65 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,058 | 4.66 | 2,079 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,114,913 | 4.69 | 177,073 |
