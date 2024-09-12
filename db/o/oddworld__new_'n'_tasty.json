@@ -2,9 +2,9 @@
   "ID": "56eab841eaab4016b9fedd2350f997b6",
   "Name": "Oddworld: New \u0027n\u0027 Tasty",
   "ProductSlug": "oddworld-new-n-tasty",
-  "Ranking_Rating": 672,
-  "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 643,
+  "Ranking_Rating": 653,
+  "Ranking_Popularity": 579,
+  "Ranking_PopularitySum": 638,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 112,
   "RatingHistory": [
     {
@@ -443,18 +443,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 42,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-09-12T22:57:08.8093745+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 43,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 43,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 42
+      "Count": 43
     }
   ],
   "EOS_Progressed": 0,
@@ -468,8 +474,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:35.2607812+00:00",
-  "LastChanged": "2024-08-27T14:01:25.056109+00:00",
+  "LastChanged": "2024-09-12T22:57:08.8093743+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:08.2265831+00:00",
-  "LastUpdate_Ratings": "2024-09-12T20:58:38.6458359+00:00",
+  "LastUpdate_Ratings": "2024-09-12T22:57:08.8093748+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:38.8458367+00:00"
 }

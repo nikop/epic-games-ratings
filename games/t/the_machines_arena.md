@@ -4,13 +4,13 @@
 Rating: 4.79 (Ranked 111)  
 ## Awards
 Max (Great for Quick Sessions): 37  (Ranked 604)  
-Sum: 143 (Ranked 544)  
+Sum: 145 (Ranked 544)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
 | This game is Great for Quick Sessions | 37 |
-| This game is Great for Beginners | 32 |
+| This game is Great for Beginners | 34 |
 | This game has Diverse Characters | 31 |
 | This game has a Competitive Community | 23 |
 | This game has Challenging Combat | 20 |
@@ -107,3 +107,4 @@ Diff (max vs sum): 60
 | 2024-09-09 | 4.80 | 35 | 117 |
 | 2024-09-10 | 4.79 | 35 | 119 |
 | 2024-09-11 | 4.79 | 37 | 143 |
+| 2024-09-12 | 4.79 | 37 | 145 |
