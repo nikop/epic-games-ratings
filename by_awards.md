@@ -5,12 +5,12 @@
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 446,319 | 4.68 | 288 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 367,176 | 4.66 | 332 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 359,233 | 4.87 | 19 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 236,350 | 4.18 | 1,134 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 236,389 | 4.18 | 1,134 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 176,969 | 4.69 | 265 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 166,591 | 4.50 | 695 |
 | 9 | [VALORANT](games/v/valorant.md) | 146,937 | 4.49 | 718 |
 | 10 | [Borderlands 3](games/b/borderlands_3.md) | 141,607 | 4.69 | 265 |
-| 11 | [Destiny 2](games/d/destiny_2.md) | 85,012 | 4.44 | 816 |
+| 11 | [Destiny 2](games/d/destiny_2.md) | 85,047 | 4.44 | 816 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 72,791 | 4.58 | 518 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 68,971 | 4.62 | 419 |
 | 14 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 65,432 | 4.72 | 215 |
@@ -215,8 +215,8 @@
 | 213 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 898 | 4.83 | 65 |
 | 213 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 898 | 4.87 | 19 |
 | 215 | [The Outlast Trials](games/t/the_outlast_trials.md) | 877 | 4.65 | 351 |
-| 216 | [Predecessor](games/p/predecessor.md) | 869 | 4.25 | 1,063 |
-| 217 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 868 | 4.64 | 374 |
+| 216 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 870 | 4.64 | 374 |
+| 217 | [Predecessor](games/p/predecessor.md) | 869 | 4.25 | 1,063 |
 | 218 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 852 | 4.87 | 19 |
 | 219 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 842 | 4.25 | 1,063 |
 | 220 | [Core](games/c/core.md) | 833 | 4.34 | 969 |
@@ -264,7 +264,7 @@
 | 262 | [Warface: Clutch](games/w/warface.md) | 541 | 3.87 | 1,252 |
 | 263 | [Dead Cells](games/d/dead_cells.md) | 540 | 4.84 | 52 |
 | 264 | [Into the Breach](games/i/into_the_breach.md) | 526 | 4.84 | 52 |
-| 265 | [Against the Storm](games/a/against_the_storm.md) | 521 | 4.82 | 76 |
+| 265 | [Against the Storm](games/a/against_the_storm.md) | 522 | 4.82 | 76 |
 | 266 | [Second Extinction™](games/s/second_extinction™.md) | 511 | 4.07 | 1,200 |
 | 267 | [For The King](games/f/for_the_king.md) | 495 | 4.70 | 242 |
 | 268 | [Nuclear Throne](games/n/nuclear_throne.md) | 494 | 4.79 | 111 |
@@ -411,7 +411,7 @@
 | 409 | [BIOMUTANT](games/b/biomutant.md) | 144 | 4.32 | 990 |
 | 410 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 143 | 4.45 | 792 |
 | 411 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 142 | 4.79 | 111 |
-| 412 | [Aven Colony](games/a/aven_colony.md) | 140 | 4.20 | 1,112 |
+| 412 | [Aven Colony](games/a/aven_colony.md) | 140 | 4.20 | 1,113 |
 | 412 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 140 | 4.32 | 990 |
 | 412 | [Ranch Simulator](games/r/ranch_simulator.md) | 140 | 4.39 | 901 |
 | 415 | [GigaBash](games/g/gigabash.md) | 137 | 4.53 | 633 |
@@ -606,7 +606,7 @@
 | 604 | [Chimeraland](games/c/chimeraland.md) | 37 | 3.89 | 1,249 |
 | 604 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 37 | 4.18 | 1,134 |
 | 604 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 37 | 4.52 | 652 |
-| 604 | [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 37 | 4.20 | 1,112 |
+| 604 | [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 37 | 4.21 | 1,097 |
 | 604 | [The Machines Arena](games/t/the_machines_arena.md) | 37 | 4.79 | 111 |
 | 604 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 37 | 4.57 | 537 |
 | 610 | [Aether TCG](games/c/cards_of_ethernity.md) | 36 | 4.46 | 774 |
@@ -619,7 +619,7 @@
 | 616 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 35 | 4.64 | 374 |
 | 616 | [Void Bastards](games/v/void_bastards.md) | 35 | 4.60 | 469 |
 | 616 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 35 | 4.35 | 954 |
-| 620 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 34 | 4.20 | 1,112 |
+| 620 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 34 | 4.20 | 1,113 |
 | 620 | [Railway Empire 2](games/r/railway_empire_2.md) | 34 | 4.40 | 881 |
 | 622 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 33 | 3.96 | 1,231 |
 | 622 | [Deceive Inc.](games/d/deceive_inc..md) | 33 | 4.51 | 673 |
