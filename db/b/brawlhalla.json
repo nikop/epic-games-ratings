@@ -2,7 +2,7 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 518,
   "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 1193,
@@ -17619,10 +17619,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 9741,
       "NumberOfAwardsMax": 1260
+    },
+    {
+      "Time": "2024-09-12T03:57:13.860237+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 9743,
+      "NumberOfAwardsMax": 1260
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9741,
+  "NumberOfAwards": 9743,
   "NumberOfAwardsMax": 1260,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -17636,7 +17642,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1015
+      "Count": 1017
     },
     {
       "Text": "This game has Diverse Characters",
@@ -17711,8 +17717,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2024-09-11T21:00:08.3636124+00:00",
+  "LastChanged": "2024-09-12T03:57:13.8602368+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:42.5503471+00:00",
-  "LastUpdate_Ratings": "2024-09-12T02:05:16.7974729+00:00",
+  "LastUpdate_Ratings": "2024-09-12T03:57:13.8602375+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:04.3053625+00:00"
 }
