@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-online",
   "Ranking_Rating": 792,
   "Ranking_Popularity": 226,
-  "Ranking_PopularitySum": 213,
+  "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -5683,10 +5683,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 3315,
       "NumberOfAwardsMax": 796
+    },
+    {
+      "Time": "2024-09-12T15:57:18.9285238+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 3316,
+      "NumberOfAwardsMax": 796
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3315,
+  "NumberOfAwards": 3316,
   "NumberOfAwardsMax": 796,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5754,7 +5760,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 385
+      "Count": 386
     }
   ],
   "EOS_Progressed": 0,
@@ -5768,8 +5774,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:13.4550293+00:00",
-  "LastChanged": "2024-09-12T11:59:10.403437+00:00",
+  "LastChanged": "2024-09-12T15:57:18.9285236+00:00",
   "LastUpdate_AppInfo": "2024-09-08T22:57:09.0859444+00:00",
-  "LastUpdate_Ratings": "2024-09-12T13:57:57.0977942+00:00",
+  "LastUpdate_Ratings": "2024-09-12T15:57:18.9285242+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:01.8541135+00:00"
 }
