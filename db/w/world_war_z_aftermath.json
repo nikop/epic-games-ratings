@@ -2,7 +2,7 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 561,
+  "Ranking_Rating": 562,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 1193,
@@ -19586,18 +19586,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 38495,
       "NumberOfAwardsMax": 6916
+    },
+    {
+      "Time": "2024-09-12T16:58:25.5510717+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 38518,
+      "NumberOfAwardsMax": 6924
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38495,
-  "NumberOfAwardsMax": 6916,
+  "NumberOfAwards": 38518,
+  "NumberOfAwardsMax": 6924,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6916
+      "Count": 6924
     },
     {
       "Text": "This game is Relaxing",
@@ -19615,19 +19621,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4717
+      "Count": 4722
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4275
+      "Count": 4278
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5799
+      "Count": 5804
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19645,7 +19651,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4176
+      "Count": 4178
     }
   ],
   "EOS_Progressed": 0,
@@ -19667,9 +19673,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2024-09-12T14:58:54.2051149+00:00",
+  "LastChanged": "2024-09-12T16:58:25.5510715+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:51.316807+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:15.3801892+00:00",
-  "LastUpdate_Ratings": "2024-09-12T14:58:54.2051154+00:00",
+  "LastUpdate_Ratings": "2024-09-12T16:58:25.5510722+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:51.3168098+00:00"
 }

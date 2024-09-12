@@ -1,7 +1,7 @@
 # STORY OF SEASONS: Friends of Mineral Town
 [Store](https://store.epicgames.com/en-US/p/story-of-seasons-friends-of-mineral-town)  
 [View Rawdata](../../db/s/story_of_seasons__friends_of_mineral_town.json)  
-Rating: 4.82 (Ranked 76)  
+Rating: 4.82 (Ranked 77)  
 Number of Ratings: 59  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

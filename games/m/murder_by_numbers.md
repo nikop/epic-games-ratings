@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/murder_by_numbers.json)  
 Rating: 4.29 (Ranked 1,014)  
 ## Awards
-Max (Diverse Characters): 28  (Ranked 650)  
+Max (Diverse Characters): 28  (Ranked 651)  
 Sum: 196 (Ranked 522)  
-Diff (max vs sum): 128  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 28 |
