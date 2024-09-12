@@ -1,15 +1,15 @@
 # Crysis 2 Remastered
 [Store](https://store.epicgames.com/en-US/p/crysis-2-remastered)  
 [View Rawdata](../../db/c/crysis_2_remastered.json)  
-Rating: 4.60 (Ranked 469)  
+Rating: 4.61 (Ranked 444)  
 Number of Ratings: 612  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 267  (Ranked 329)  
-Sum: 267 (Ranked 480)  
+Max (Great Boss Battles): 268  (Ranked 329)  
+Sum: 268 (Ranked 480)  
 Diff (max vs sum): -151  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 267 |
+| This game has Great Boss Battles | 268 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -155,3 +155,4 @@ Diff (max vs sum): -151
 | 2024-09-04 | 4.61 | - | 266 | 266 |
 | 2024-09-08 | 4.61 | - | 267 | 267 |
 | 2024-09-11 | 4.60 | - | 267 | 267 |
+| 2024-09-12 | 4.61 | - | 268 | 268 |

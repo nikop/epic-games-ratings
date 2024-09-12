@@ -3,9 +3,9 @@
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.33 (Ranked 981)  
 ## Awards
-Max (Educational): 106  (Ranked 454)  
+Max (Educational): 106  (Ranked 455)  
 Sum: 709 (Ranked 377)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 106 |
