@@ -251,9 +251,9 @@ Completed: 108 (0.02%) (Ranked 514)
 | 2024-08-09 | 445,132 | 108 |
 | 2024-08-20 | 446,449 | 108 |
 ## Awards
-Max (Great for Quick Sessions): 20  (Ranked 706)  
+Max (Great for Quick Sessions): 20  (Ranked 705)  
 Sum: 40 (Ranked 649)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 20 |

@@ -1,7 +1,7 @@
 # Way of the Hunter
 [Store](https://store.epicgames.com/en-US/p/way-of-the-hunter)  
 [View Rawdata](../../db/w/way_of_the_hunter.json)  
-Rating: 4.43 (Ranked 834)  
+Rating: 4.43 (Ranked 833)  
 Number of Ratings: 190  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -93,12 +93,12 @@ Completed: 2 (0.03%) (Ranked 494)
 | 2024-08-20 | 5,853 | 2 |
 ## Awards
 Max (Great for Beginners): 128  (Ranked 426)  
-Sum: 885 (Ranked 345)  
+Sum: 886 (Ranked 345)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 128 |
-| This game is Highly Recommended | 105 |
+| This game is Highly Recommended | 106 |
 | This game is Relaxing | 93 |
 | This game has Amazing Storytelling | 93 |
 | This game is Extremely Fun | 90 |
@@ -492,3 +492,4 @@ Diff (max vs sum): 81
 | 2024-09-10 | 4.43 | - | 127 | 877 |
 | 2024-09-11 | 4.43 | - | 128 | 882 |
 | 2024-09-12 | 4.43 | - | 128 | 885 |
+| 2024-09-13 | 4.43 | - | 128 | 886 |

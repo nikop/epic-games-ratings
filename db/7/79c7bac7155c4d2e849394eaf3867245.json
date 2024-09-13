@@ -3,8 +3,8 @@
   "Name": "World of Goo 2",
   "ProductSlug": "world-of-goo-2",
   "Ranking_Rating": 214,
-  "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 649,
+  "Ranking_Popularity": 713,
+  "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -202,9 +202,8 @@
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40,
-  "NumberOfAwardsMax": 40,
-  "MaxAwardTitle": "Challenging Puzzles",
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
@@ -227,6 +226,6 @@
   "FirstSeenRating": "2024-08-04T03:58:20.4552693+00:00",
   "LastChanged": "2024-09-08T22:00:01.2279345+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:35.9910226+00:00",
-  "LastUpdate_Ratings": "2024-09-13T13:12:27.5676762+00:00",
+  "LastUpdate_Ratings": "2024-09-13T14:57:29.980463+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:11.2390931+00:00"
 }

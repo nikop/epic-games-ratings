@@ -2,9 +2,9 @@
   "ID": "fa193e6390404683a6002376f276bfed",
   "Name": "The Lost Glitches",
   "ProductSlug": "the-lost-glitches-1bebe7",
-  "Ranking_Rating": 445,
-  "Ranking_Popularity": 714,
-  "Ranking_PopularitySum": 714,
+  "Ranking_Rating": 375,
+  "Ranking_Popularity": 713,
+  "Ranking_PopularitySum": 713,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2024-09-02T20:58:52.6569898+00:00",
@@ -78,6 +78,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-13T15:01:08.8467392+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -96,8 +102,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-21T16:57:49.6336305+00:00",
   "FirstSeenRating": "2024-09-02T20:58:52.6569895+00:00",
-  "LastChanged": "2024-09-11T16:00:35.7251077+00:00",
+  "LastChanged": "2024-09-13T15:01:08.8467391+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:09.2749296+00:00",
-  "LastUpdate_Ratings": "2024-09-13T13:57:26.617461+00:00",
+  "LastUpdate_Ratings": "2024-09-13T15:01:08.8467397+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:48.9547213+00:00"
 }

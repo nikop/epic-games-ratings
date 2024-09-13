@@ -1,7 +1,7 @@
 # Achilles Legends Untold
 [Store](https://store.epicgames.com/en-US/p/achilles-legends-untold-bb77ad)  
 [View Rawdata](../../db/a/achilles_legends_untold.json)  
-Rating: 4.18 (Ranked 1,136)  
+Rating: 4.19 (Ranked 1,121)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -40,3 +40,4 @@ Rating: 4.18 (Ranked 1,136)
 | 2024-08-02 | 4.19 | 0 | 0 |
 | 2024-08-19 | 4.20 | 0 | 0 |
 | 2024-09-04 | 4.18 | 0 | 0 |
+| 2024-09-13 | 4.19 | 0 | 0 |

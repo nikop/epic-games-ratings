@@ -4,7 +4,7 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 992,
   "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 377,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3137,10 +3137,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2024-09-13T14:58:28.36537+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 710,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 710,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -3190,7 +3196,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 92
+      "Count": 93
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3217,8 +3223,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-09-12T19:58:45.0922118+00:00",
+  "LastChanged": "2024-09-13T14:58:28.3653698+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:03.7726678+00:00",
-  "LastUpdate_Ratings": "2024-09-13T13:13:06.3308369+00:00",
+  "LastUpdate_Ratings": "2024-09-13T14:58:28.3653702+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:16.0218282+00:00"
 }
