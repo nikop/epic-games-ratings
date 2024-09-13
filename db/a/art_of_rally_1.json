@@ -2,7 +2,7 @@
   "ID": "4751c4f6a96547209a33831d847d2810",
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 50,
@@ -3038,10 +3038,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 818,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2024-09-13T20:59:12.0783155+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 819,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 818,
+  "NumberOfAwards": 819,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -3109,7 +3115,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 74
+      "Count": 75
     }
   ],
   "EOS_Progressed": 531105,
@@ -9697,9 +9703,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-09-13T13:59:42.6219775+00:00",
+  "LastChanged": "2024-09-13T20:59:12.0783153+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:24.8226879+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:23.9665345+00:00",
-  "LastUpdate_Ratings": "2024-09-13T18:59:55.113494+00:00",
+  "LastUpdate_Ratings": "2024-09-13T20:59:12.0783159+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:24.8227465+00:00"
 }

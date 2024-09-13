@@ -2,7 +2,7 @@
   "ID": "51c19c28a7024793b9e38174d0e1634b",
   "Name": "Tormentor x Punisher",
   "ProductSlug": "tormentor-x-punisher",
-  "Ranking_Rating": 182,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1193,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-02-22T10:57:04.2870059+00:00",
@@ -49,6 +49,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-13T20:59:01.4973716+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -67,8 +73,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:13.9421627+00:00",
   "FirstSeenRating": "2023-02-22T10:57:04.2870054+00:00",
-  "LastChanged": "2024-04-08T15:57:58.9682356+00:00",
+  "LastChanged": "2024-09-13T20:59:01.4973714+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:56:57.0607008+00:00",
-  "LastUpdate_Ratings": "2024-09-13T18:59:45.1800579+00:00",
+  "LastUpdate_Ratings": "2024-09-13T20:59:01.4973719+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:08:37.9822034+00:00"
 }

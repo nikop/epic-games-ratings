@@ -2,7 +2,7 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 637,
   "Ranking_Popularity": 400,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 1193,
@@ -1332,10 +1332,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 765,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2024-09-13T20:59:27.2837275+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 768,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 765,
+  "NumberOfAwards": 768,
   "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1349,7 +1355,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 147
+      "Count": 150
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1412,8 +1418,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-09-13T16:00:11.0697044+00:00",
+  "LastChanged": "2024-09-13T20:59:27.2837273+00:00",
   "LastUpdate_AppInfo": "2024-09-06T21:57:12.101388+00:00",
-  "LastUpdate_Ratings": "2024-09-13T19:57:18.3802072+00:00",
+  "LastUpdate_Ratings": "2024-09-13T20:59:27.2837278+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.1198567+00:00"
 }
