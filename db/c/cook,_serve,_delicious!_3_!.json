@@ -4,7 +4,7 @@
   "ProductSlug": "cook-serve-delicious-3-fb9aae",
   "Ranking_Rating": 675,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 359,
+  "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -1610,10 +1610,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 795,
       "NumberOfAwardsMax": 123
+    },
+    {
+      "Time": "2024-09-13T13:14:11.612011+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 796,
+      "NumberOfAwardsMax": 123
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 795,
+  "NumberOfAwards": 796,
   "NumberOfAwardsMax": 123,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1675,7 +1681,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 103
+      "Count": 104
     },
     {
       "Text": "This game is Relaxing",
@@ -1702,8 +1708,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-11T18:01:43.0387462+00:00",
   "FirstSeenRating": "2022-08-12T08:02:43.2007187+00:00",
-  "LastChanged": "2024-09-11T08:58:58.1573025+00:00",
+  "LastChanged": "2024-09-13T13:14:11.6120108+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:29.7278928+00:00",
-  "LastUpdate_Ratings": "2024-09-13T11:57:29.9741416+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:14:11.6120114+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:10.1308945+00:00"
 }

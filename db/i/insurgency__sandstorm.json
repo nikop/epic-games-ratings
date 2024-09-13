@@ -4,7 +4,7 @@
   "ProductSlug": "insurgency-sandstorm",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 260,
-  "Ranking_PopularitySum": 186,
+  "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 28,
@@ -8450,10 +8450,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4488,
       "NumberOfAwardsMax": 560
+    },
+    {
+      "Time": "2024-09-13T13:11:49.0545033+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4493,
+      "NumberOfAwardsMax": 560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4488,
+  "NumberOfAwards": 4493,
   "NumberOfAwardsMax": 560,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -8461,7 +8467,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 514
+      "Count": 516
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8473,7 +8479,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 494
+      "Count": 495
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8497,7 +8503,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 512
+      "Count": 514
     },
     {
       "Text": "This game is Extremely Fun",
@@ -41350,9 +41356,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-09-13T10:57:45.9270617+00:00",
+  "LastChanged": "2024-09-13T13:11:49.0545031+00:00",
   "LastChanged_Achievements": "2024-08-20T20:11:14.1435235+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:27.069344+00:00",
-  "LastUpdate_Ratings": "2024-09-13T10:57:45.9270623+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:11:49.0545038+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:14.1437148+00:00"
 }

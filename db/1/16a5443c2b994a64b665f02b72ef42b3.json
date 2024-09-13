@@ -3,8 +3,8 @@
   "Name": "Parallel TCG",
   "ProductSlug": "parallel-tcg-724880",
   "Ranking_Rating": 445,
-  "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 707,
+  "Ranking_Popularity": 702,
+  "Ranking_PopularitySum": 646,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -240,18 +240,30 @@
       "Rating": 4.61,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-09-13T13:12:51.1196285+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 41,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 41,
+  "NumberOfAwardsMax": 21,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -266,8 +278,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T02:56:53.6157309+00:00",
   "FirstSeenRating": "2024-07-25T16:58:09.7245638+00:00",
-  "LastChanged": "2024-09-12T09:58:00.4523532+00:00",
+  "LastChanged": "2024-09-13T13:12:51.1196283+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:35.0107489+00:00",
-  "LastUpdate_Ratings": "2024-09-13T10:58:47.6356397+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:12:51.1196287+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:33.103907+00:00"
 }
