@@ -2,7 +2,7 @@
   "ID": "4817ba5c11504724ba4d5817c8995dff",
   "Name": "Jurassic World Evolution 2",
   "ProductSlug": "jurassic-world-evolution-2",
-  "Ranking_Rating": 184,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 1193,
@@ -12373,10 +12373,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 8718,
       "NumberOfAwardsMax": 1146
+    },
+    {
+      "Time": "2024-09-13T08:59:46.31489+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 8720,
+      "NumberOfAwardsMax": 1146
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8718,
+  "NumberOfAwards": 8720,
   "NumberOfAwardsMax": 1146,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12402,7 +12408,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 817
+      "Count": 818
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12444,7 +12450,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 851
+      "Count": 852
     }
   ],
   "EOS_Progressed": 0,
@@ -12458,8 +12464,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:10.4170435+00:00",
-  "LastChanged": "2024-09-12T13:15:33.6741378+00:00",
+  "LastChanged": "2024-09-13T08:59:46.3148898+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:06.136045+00:00",
-  "LastUpdate_Ratings": "2024-09-13T07:57:32.8143376+00:00",
+  "LastUpdate_Ratings": "2024-09-13T08:59:46.3148903+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:13.628411+00:00"
 }
