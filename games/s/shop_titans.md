@@ -411,7 +411,7 @@ Completed: 550 (0.33%) (Ranked 362)
 | 2024-08-20 | 168,555 | 550 |
 ## Awards
 Max (Great for Beginners): 5,454  (Ranked 91)  
-Sum: 29,881 (Ranked 60)  
+Sum: 29,884 (Ranked 60)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -421,7 +421,7 @@ Diff (max vs sum): 31
 | This game has Quickly Understood Controls | 4,246 |
 | This game is Highly Recommended | 4,042 |
 | This game has Easy Combat | 4,023 |
-| This game has Playful Visuals | 3,472 |
+| This game has Playful Visuals | 3,475 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1009,3 +1009,4 @@ Diff (max vs sum): 31
 | 2024-09-10 | 4.01 | - | 5,446 | 29,857 |
 | 2024-09-11 | 4.01 | - | 5,451 | 29,871 |
 | 2024-09-12 | 4.01 | - | 5,454 | 29,881 |
+| 2024-09-13 | 4.01 | - | 5,454 | 29,884 |
