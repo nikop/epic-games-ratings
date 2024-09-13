@@ -2,8 +2,8 @@
   "ID": "magnolia",
   "Name": "The Witness",
   "ProductSlug": "the-witness",
-  "Ranking_Rating": 266,
-  "Ranking_Popularity": 361,
+  "Ranking_Rating": 267,
+  "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -702,18 +702,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 209
+    },
+    {
+      "Time": "2024-09-13T13:57:19.2580028+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 210
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
-  "NumberOfAwardsMax": 209,
+  "NumberOfAwards": 210,
+  "NumberOfAwardsMax": 210,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 209
+      "Count": 210
     }
   ],
   "EOS_Progressed": 0,
@@ -727,8 +733,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2024-08-14T16:57:58.3936728+00:00",
+  "LastChanged": "2024-09-13T13:57:19.2580026+00:00",
   "LastUpdate_AppInfo": "2024-09-09T03:57:02.905065+00:00",
-  "LastUpdate_Ratings": "2024-09-13T11:58:21.7252258+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:57:19.2580032+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:34.5601125+00:00"
 }

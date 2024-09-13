@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 325,
-  "Ranking_PopularitySum": 281,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 457,
   "Ranking_EOS_NewPlayers": 544,
@@ -5131,10 +5131,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1675,
       "NumberOfAwardsMax": 273
+    },
+    {
+      "Time": "2024-09-13T13:57:49.4455412+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1676,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1675,
+  "NumberOfAwards": 1676,
   "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5142,7 +5148,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 228
+      "Count": 229
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17054,9 +17060,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-09-12T18:59:09.4895579+00:00",
+  "LastChanged": "2024-09-13T13:57:49.445541+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:32.6396716+00:00",
   "LastUpdate_AppInfo": "2024-09-13T04:57:10.0861849+00:00",
-  "LastUpdate_Ratings": "2024-09-13T11:59:01.9903744+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:57:49.4455416+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:32.6397458+00:00"
 }

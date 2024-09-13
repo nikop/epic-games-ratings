@@ -21318,10 +21318,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 26023,
       "NumberOfAwardsMax": 9216
+    },
+    {
+      "Time": "2024-09-13T13:58:36.0142225+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 26026,
+      "NumberOfAwardsMax": 9216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26023,
+  "NumberOfAwards": 26026,
   "NumberOfAwardsMax": 9216,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21341,7 +21347,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1091
+      "Count": 1094
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -21421,8 +21427,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-09-13T02:05:15.1394945+00:00",
+  "LastChanged": "2024-09-13T13:58:36.0142223+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:57:28.0473203+00:00",
-  "LastUpdate_Ratings": "2024-09-13T12:00:03.8075584+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:58:36.0142228+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:13.4315602+00:00"
 }

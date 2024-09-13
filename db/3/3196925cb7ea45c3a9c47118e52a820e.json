@@ -3,8 +3,8 @@
   "Name": "Sniper Ghost Warrior Contracts",
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
   "Ranking_Rating": 1111,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 524,
+  "Ranking_Popularity": 558,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -210,18 +210,24 @@
       "Rating": 4.2,
       "NumberOfAwards": 195,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-09-13T13:58:44.0480542+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 224,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 195,
-  "NumberOfAwardsMax": 45,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 224,
+  "NumberOfAwardsMax": 50,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 33
+      "Count": 41
     },
     {
       "Text": "This game is Great for Beginners",
@@ -233,7 +239,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 37
+      "Count": 50
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -245,7 +251,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -266,7 +272,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
-  "LastChanged": "2024-09-13T08:57:43.9346082+00:00",
+  "LastChanged": "2024-09-13T13:58:44.048054+00:00",
   "LastUpdate_AppInfo": "2024-09-12T16:57:18.1894284+00:00",
-  "LastUpdate_Ratings": "2024-09-13T12:00:14.4127335+00:00"
+  "LastUpdate_Ratings": "2024-09-13T13:58:44.0480546+00:00"
 }

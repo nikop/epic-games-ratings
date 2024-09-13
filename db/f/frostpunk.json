@@ -4,7 +4,7 @@
   "ProductSlug": "frostpunk",
   "Ranking_Rating": 165,
   "Ranking_Popularity": 196,
-  "Ranking_PopularitySum": 135,
+  "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -12009,10 +12009,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 9168,
       "NumberOfAwardsMax": 1055
+    },
+    {
+      "Time": "2024-09-13T13:58:04.1881573+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 9170,
+      "NumberOfAwardsMax": 1055
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9168,
+  "NumberOfAwards": 9170,
   "NumberOfAwardsMax": 1055,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -12074,7 +12080,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 582
+      "Count": 584
     },
     {
       "Text": "This game has Unique Visuals",
@@ -12102,9 +12108,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-09-13T03:04:06.0944047+00:00",
+  "LastChanged": "2024-09-13T13:58:04.1881571+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:23.5292227+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:21.150892+00:00",
-  "LastUpdate_Ratings": "2024-09-13T11:59:21.737636+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:58:04.1881575+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:23.5292299+00:00"
 }

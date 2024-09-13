@@ -4,7 +4,7 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 612,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 202,
+  "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 392,
   "Ranking_EOS_NewPlayers": 544,
@@ -5015,24 +5015,30 @@
       "Rating": 4.54,
       "NumberOfAwards": 3685,
       "NumberOfAwardsMax": 580
+    },
+    {
+      "Time": "2024-09-13T13:57:48.1994179+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3690,
+      "NumberOfAwardsMax": 581
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3685,
-  "NumberOfAwardsMax": 580,
+  "NumberOfAwards": 3690,
+  "NumberOfAwardsMax": 581,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 580
+      "Count": 581
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 523
+      "Count": 524
     },
     {
       "Text": "This game is Relaxing",
@@ -5062,13 +5068,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 429
+      "Count": 430
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 229
+      "Count": 231
     },
     {
       "Text": "This game has a Competitive Community",
@@ -36999,9 +37005,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-09-12T20:58:56.3167699+00:00",
+  "LastChanged": "2024-09-13T13:57:48.1994177+00:00",
   "LastChanged_Achievements": "2024-08-09T18:03:40.5802755+00:00",
   "LastUpdate_AppInfo": "2024-09-09T04:57:12.9728395+00:00",
-  "LastUpdate_Ratings": "2024-09-13T11:59:00.3087758+00:00",
+  "LastUpdate_Ratings": "2024-09-13T13:57:48.1994181+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:40.5804058+00:00"
 }
