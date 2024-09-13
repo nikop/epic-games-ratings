@@ -2,7 +2,7 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 1016,
+  "Ranking_Rating": 1017,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 1193,
@@ -10334,18 +10334,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 20311485,
       "NumberOfAwardsMax": 3924225
+    },
+    {
+      "Time": "2024-09-13T02:05:36.5034675+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 20322713,
+      "NumberOfAwardsMax": 3927309
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20311485,
-  "NumberOfAwardsMax": 3924225,
+  "NumberOfAwards": 20322713,
+  "NumberOfAwardsMax": 3927309,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3924225
+      "Count": 3927309
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10357,13 +10363,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3709147
+      "Count": 3712115
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3580350
+      "Count": 3583178
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10375,7 +10381,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3218120
+      "Count": 3220468
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10401,8 +10407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2024-09-12T03:58:59.1923475+00:00",
+  "LastChanged": "2024-09-13T02:05:36.5034673+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:23.6209273+00:00",
-  "LastUpdate_Ratings": "2024-09-12T22:58:24.3077862+00:00",
+  "LastUpdate_Ratings": "2024-09-13T02:05:36.503468+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:37.9179796+00:00"
 }

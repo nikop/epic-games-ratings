@@ -1,7 +1,7 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.83 (Ranked 66)  
+Rating: 4.83 (Ranked 67)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -352,7 +352,7 @@ Completed: 1,153 (0.37%) (Ranked 350)
 | 2024-08-20 | 308,310 | 1,153 |
 ## Awards
 Max (Great for Beginners): 898  (Ranked 213)  
-Sum: 7,037 (Ranked 154)  
+Sum: 7,039 (Ranked 154)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): 59
 | This game has a Silly Community | 676 |
 | This game is Extremely Fun | 672 |
 | This game has Amazing Storytelling | 672 |
-| This game has Easy Combat | 660 |
+| This game has Easy Combat | 662 |
 | This game has Quickly Understood Controls | 623 |
 | This game is Relaxing | 616 |
 | This game is Educational | 263 |
@@ -903,3 +903,4 @@ Diff (max vs sum): 59
 | 2024-09-10 | 4.83 | 894 | 7,013 |
 | 2024-09-11 | 4.83 | 894 | 7,025 |
 | 2024-09-12 | 4.83 | 898 | 7,037 |
+| 2024-09-13 | 4.83 | 898 | 7,039 |

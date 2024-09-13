@@ -2,6 +2,9 @@
   "ID": "b71378a3955b4aba8e722241664d4380",
   "Name": "Dead Space\u2122 2",
   "ProductSlug": "dead-space-2-1467b0",
+  "Ranking_Rating": 29,
+  "Ranking_Popularity": 714,
+  "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +23,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.86,
+  "RatingHistory": [
+    {
+      "Time": "2024-09-13T02:07:23.4194226+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -36,7 +47,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2024-04-01T16:59:15.1229361+00:00",
+  "FirstSeenRating": "2024-09-13T02:07:23.4194223+00:00",
+  "LastChanged": "2024-09-13T02:07:23.4194224+00:00",
   "LastUpdate_AppInfo": "2024-09-06T05:56:56.4602172+00:00",
-  "LastUpdate_Ratings": "2024-09-12T23:57:12.5895185+00:00",
+  "LastUpdate_Ratings": "2024-09-13T02:07:23.4194233+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:55.8505442+00:00"
 }

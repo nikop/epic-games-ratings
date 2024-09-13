@@ -2,8 +2,8 @@
   "ID": "58dfcd1952ee48c1a1fa31c6ace5fe3d",
   "Name": "The Long Dark",
   "ProductSlug": "the-long-dark",
-  "Ranking_Rating": 202,
-  "Ranking_Popularity": 193,
+  "Ranking_Rating": 203,
+  "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
@@ -9113,11 +9113,17 @@
       "Rating": 4.73,
       "NumberOfAwards": 6386,
       "NumberOfAwardsMax": 1073
+    },
+    {
+      "Time": "2024-09-13T02:05:10.5079718+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 6388,
+      "NumberOfAwardsMax": 1075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6386,
-  "NumberOfAwardsMax": 1073,
+  "NumberOfAwards": 6388,
+  "NumberOfAwardsMax": 1075,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -9148,7 +9154,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1073
+      "Count": 1075
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9180,8 +9186,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:46.2160701+00:00",
-  "LastChanged": "2024-09-12T22:57:58.2375633+00:00",
+  "LastChanged": "2024-09-13T02:05:10.5079716+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:57:25.7082902+00:00",
-  "LastUpdate_Ratings": "2024-09-12T22:57:58.2375638+00:00",
+  "LastUpdate_Ratings": "2024-09-13T02:05:10.5079722+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:19.6005647+00:00"
 }

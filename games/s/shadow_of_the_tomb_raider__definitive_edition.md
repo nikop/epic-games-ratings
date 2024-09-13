@@ -1,11 +1,11 @@
 # Shadow of the Tomb Raider: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/shadow-of-the-tomb-raider)  
 [View Rawdata](../../db/s/shadow_of_the_tomb_raider__definitive_edition.json)  
-Rating: 4.64 (Ranked 374)  
+Rating: 4.64 (Ranked 375)  
 Number of Ratings: 77,497  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 31,351  (Ranked 20)  
-Sum: 41,696 (Ranked 45)  
+Sum: 41,698 (Ranked 45)  
 Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -25
 | This game has Quickly Understood Controls | 1,110 |
 | This game is Extremely Fun | 1,067 |
 | This game has Amazing Storytelling | 1,056 |
-| This game is Educational | 1,035 |
+| This game is Educational | 1,037 |
 | This game has Amazing Characters | 1,020 |
 | This game is Relaxing | 975 |
 | This game has a Creative Community | 584 |
@@ -603,3 +603,4 @@ Diff (max vs sum): -25
 | 2024-09-10 | 4.64 | - | 31,313 | 41,643 |
 | 2024-09-11 | 4.64 | - | 31,328 | 41,672 |
 | 2024-09-12 | 4.64 | - | 31,351 | 41,696 |
+| 2024-09-13 | 4.64 | - | 31,351 | 41,698 |
