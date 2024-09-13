@@ -12,7 +12,6 @@
 | [Surrealverse](games/4/41ac4135cc994a0bb5a7349701c292df.md) | 2099-01-01 | - |  | - | - |
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 0 | - | 0 |
 | [Airport](games/6/685f5a4e22814cf88dd98cdda721649e.md) | 2024-08-09 | 45 (1,000 XP) | 3 | - | 0 |
-| [PaperMadeRacing](games/f/f056b83fd8c04561826d41aa08ff5e8c.md) | 2099-01-01 | - |  | - | - |
 | [Doggy Farmer](games/c/cb78e3de03514619a506cc0f526ec22a.md) | 2099-01-01 | - |  | - | - |
 | [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
 | [Where They Go](games/7/7ee5a15b09884e2190ed8743f1ea58ac.md) | 2025-12-31 | - |  | - | - |
