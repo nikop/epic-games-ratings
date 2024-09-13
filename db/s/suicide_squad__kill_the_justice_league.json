@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-squad-kill-the-justice-league",
   "Ranking_Rating": 1267,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 532,
   "Ranking_EOS_NewPlayers": 20,
@@ -2905,10 +2905,16 @@
       "Rating": 3.79,
       "NumberOfAwards": 2002,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2024-09-13T19:59:30.1725006+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 2004,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2002,
+  "NumberOfAwards": 2004,
   "NumberOfAwardsMax": 268,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2964,7 +2970,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 216
+      "Count": 218
     }
   ],
   "EOS_Progressed": 150702,
@@ -3410,9 +3416,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-09-13T15:00:01.2097287+00:00",
+  "LastChanged": "2024-09-13T19:59:30.1725005+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:06.850896+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:27.5759304+00:00",
-  "LastUpdate_Ratings": "2024-09-13T18:57:13.627287+00:00",
+  "LastUpdate_Ratings": "2024-09-13T19:59:30.1725011+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:06.8509239+00:00"
 }

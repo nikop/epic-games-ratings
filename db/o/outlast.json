@@ -2,9 +2,9 @@
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
   "ProductSlug": "outlast",
-  "Ranking_Rating": 165,
+  "Ranking_Rating": 182,
   "Ranking_Popularity": 550,
-  "Ranking_PopularitySum": 468,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -1023,10 +1023,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 302,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-09-13T19:59:59.9820939+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 306,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 302,
+  "NumberOfAwards": 306,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1034,7 +1040,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 46
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1064,7 +1070,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1097,8 +1103,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-09-13T16:58:40.2679946+00:00",
+  "LastChanged": "2024-09-13T19:59:59.9820937+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:11.3399516+00:00",
-  "LastUpdate_Ratings": "2024-09-13T18:57:40.6967281+00:00",
+  "LastUpdate_Ratings": "2024-09-13T19:59:59.9820944+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:52.9614919+00:00"
 }
