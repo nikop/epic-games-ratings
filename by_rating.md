@@ -53,7 +53,7 @@
 | 43 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 64 | 525 |
 | 43 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 4.85 | 0 | 714 |
 | 43 | [Subnautica](games/s/subnautica.md) | 4.85 | 1,089 | 190 |
-| 54 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 540 | 263 |
+| 54 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 544 | 262 |
 | 54 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 58 | 537 |
 | 54 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.84 | 370 | 295 |
 | 54 | [Fabledom](games/7/777bdd3852e549bba87e873475cc62da.md) | 4.84 | 0 | 714 |
@@ -297,7 +297,7 @@
 | 290 | [Dungeons 4](games/d/dungeons_4.md) | 4.68 | 0 | 714 |
 | 290 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 11,090 | 54 |
 | 290 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.68 | 55 | 545 |
-| 290 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.68 | 361 | 296 |
+| 290 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.68 | 366 | 296 |
 | 290 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.68 | 16,107 | 39 |
 | 290 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.68 | 10,479 | 58 |
 | 290 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 446,721 | 3 |
@@ -375,7 +375,7 @@
 | 351 | [Trackmania Starter Access](games/t/trackmania.md) | 4.65 | 5,251 | 94 |
 | 351 | [Tropico 6](games/t/tropico_6.md) | 4.65 | 135 | 418 |
 | 375 | [Before We Leave](games/b/before_we_leave.md) | 4.64 | 0 | 714 |
-| 375 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,254 | 88 |
+| 375 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 6,256 | 88 |
 | 375 | [Black Book](games/b/black_book.md) | 4.64 | 27 | 660 |
 | 375 | [BLACKTAIL](games/b/blacktail.md) | 4.64 | 0 | 714 |
 | 375 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 36 | 610 |
@@ -411,7 +411,7 @@
 | 399 | [Need for Speed™ Heat Deluxe Edition](games/b/bdefe348a0ae441e84687addee74fd10.md) | 4.63 | 51 | 555 |
 | 399 | [Northgard](games/n/northgard.md) | 4.63 | 64 | 525 |
 | 399 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 0 | 714 |
-| 399 | [Prey](games/p/prey.md) | 4.63 | 6,254 | 88 |
+| 399 | [Prey](games/p/prey.md) | 4.63 | 6,254 | 89 |
 | 399 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.63 | 154 | 399 |
 | 399 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.63 | 48 | 562 |
 | 399 | [Tails of Iron](games/t/tails_of_iron.md) | 4.63 | 28 | 651 |
@@ -459,7 +459,7 @@
 | 445 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 714 |
 | 445 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.61 | 0 | 714 |
 | 445 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 1,074 | 193 |
-| 445 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 12,069 | 50 |
+| 445 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 12,077 | 50 |
 | 445 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,175 | 183 |
 | 445 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.61 | 96 | 469 |
 | 445 | [Supraland](games/s/supraland.md) | 4.61 | 8,004 | 71 |
@@ -558,7 +558,7 @@
 | 541 | [Returnal™](games/r/returnal™.md) | 4.57 | 251 | 338 |
 | 541 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.57 | 0 | 714 |
 | 541 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 69 | 513 |
-| 541 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 6,835 | 80 |
+| 541 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 6,843 | 80 |
 | 541 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.57 | 37 | 605 |
 | 541 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 25,320 | 23 |
 | 541 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.57 | 0 | 714 |
@@ -900,14 +900,14 @@
 | 883 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.40 | 20 | 705 |
 | 883 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 714 |
 | 883 | [The Surge](games/t/the_surge.md) | 4.40 | 42 | 583 |
-| 883 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 2,550 | 123 |
+| 883 | [World of Warships](games/w/world_of_warships.md) | 4.40 | 2,555 | 123 |
 | 902 | [Biped](games/b/biped.md) | 4.39 | 0 | 714 |
 | 902 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 714 |
 | 902 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.39 | 0 | 714 |
 | 902 | [Hell is Others](games/h/hell_is_others.md) | 4.39 | 85 | 489 |
 | 902 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.39 | 0 | 714 |
 | 902 | [Iron Harvest](games/i/iron_harvest.md) | 4.39 | 0 | 714 |
-| 902 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 793 | 228 |
+| 902 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 794 | 228 |
 | 902 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.39 | 0 | 714 |
 | 902 | [Mothergunship](games/m/mothergunship.md) | 4.39 | 203 | 365 |
 | 902 | [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 4.39 | 0 | 714 |
@@ -1254,7 +1254,7 @@
 | 1,251 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 3.89 | 0 | 714 |
 | 1,253 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 3.88 | 0 | 714 |
 | 1,254 | [Poker Club](games/p/poker_club.md) | 3.87 | 125 | 433 |
-| 1,254 | [Warface: Clutch](games/w/warface.md) | 3.87 | 542 | 262 |
+| 1,254 | [Warface: Clutch](games/w/warface.md) | 3.87 | 542 | 263 |
 | 1,256 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 714 |
 | 1,257 | [Blood of Steel](games/b/blood_of_steel.md) | 3.84 | 0 | 714 |
 | 1,257 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.84 | 0 | 714 |

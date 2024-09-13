@@ -49,7 +49,7 @@
 | 47 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 13,004 | 4.36 | 941 |
 | 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 12,874 | 4.01 | 1,216 |
 | 49 | [DEATH STRANDING](games/d/death_stranding.md) | 12,395 | 4.77 | 134 |
-| 50 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 12,069 | 4.61 | 445 |
+| 50 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 12,077 | 4.61 | 445 |
 | 51 | [NBA 2K21](games/n/nba_2k21.md) | 11,925 | 4.38 | 921 |
 | 52 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 11,404 | 4.44 | 818 |
 | 53 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 11,324 | 4.89 | 11 |
@@ -79,7 +79,7 @@
 | 77 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 6,948 | 4.38 | 921 |
 | 78 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 6,924 | 4.56 | 563 |
 | 79 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 6,856 | 4.07 | 1,200 |
-| 80 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 6,835 | 4.57 | 541 |
+| 80 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 6,843 | 4.57 | 541 |
 | 81 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,723 | 4.66 | 332 |
 | 82 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 848 |
 | 83 | [God of War](games/g/god_of_war.md) | 6,685 | 4.87 | 19 |
@@ -87,8 +87,8 @@
 | 85 | [Rogue Company](games/r/rogue_company.md) | 6,510 | 4.27 | 1,042 |
 | 86 | [SMITE](games/s/smite.md) | 6,369 | 4.39 | 902 |
 | 87 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,281 | 4.85 | 43 |
-| 88 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,254 | 4.64 | 375 |
-| 88 | [Prey](games/p/prey.md) | 6,254 | 4.63 | 399 |
+| 88 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,256 | 4.64 | 375 |
+| 89 | [Prey](games/p/prey.md) | 6,254 | 4.63 | 399 |
 | 90 | [MultiVersus](games/m/multiversus.md) | 5,687 | 4.54 | 612 |
 | 91 | [Shop Titans](games/s/shop_titans.md) | 5,454 | 4.01 | 1,216 |
 | 92 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,362 | 4.70 | 244 |
@@ -122,7 +122,7 @@
 | 120 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,750 | 4.76 | 150 |
 | 121 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,673 | 4.81 | 93 |
 | 122 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,615 | 4.62 | 420 |
-| 123 | [World of Warships](games/w/world_of_warships.md) | 2,550 | 4.40 | 883 |
+| 123 | [World of Warships](games/w/world_of_warships.md) | 2,555 | 4.40 | 883 |
 | 124 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 2,527 | 4.56 | 563 |
 | 125 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 1,184 |
 | 126 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,461 | 4.67 | 313 |
@@ -227,7 +227,7 @@
 | 225 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 808 | 4.82 | 78 |
 | 226 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 799 | 4.62 | 420 |
 | 227 | [Star Trek Online](games/s/star_trek_online.md) | 796 | 4.45 | 793 |
-| 228 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 793 | 4.39 | 902 |
+| 228 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 794 | 4.39 | 902 |
 | 229 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 774 | 4.58 | 521 |
 | 230 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 762 | 4.71 | 228 |
 | 231 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 758 | 4.71 | 228 |
@@ -261,8 +261,8 @@
 | 259 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 568 | 4.31 | 1,000 |
 | 260 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 559 | 4.61 | 445 |
 | 261 | [Dead Space](games/d/dead_space.md) | 554 | 4.72 | 215 |
-| 262 | [Warface: Clutch](games/w/warface.md) | 542 | 3.87 | 1,254 |
-| 263 | [Dead Cells](games/d/dead_cells.md) | 540 | 4.84 | 54 |
+| 262 | [Dead Cells](games/d/dead_cells.md) | 544 | 4.84 | 54 |
+| 263 | [Warface: Clutch](games/w/warface.md) | 542 | 3.87 | 1,254 |
 | 264 | [Into the Breach](games/i/into_the_breach.md) | 528 | 4.84 | 54 |
 | 265 | [Against the Storm](games/a/against_the_storm.md) | 522 | 4.82 | 78 |
 | 266 | [Second Extinction™](games/s/second_extinction™.md) | 511 | 4.07 | 1,200 |
@@ -295,7 +295,7 @@
 | 293 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 379 | 4.44 | 818 |
 | 294 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 372 | 4.61 | 445 |
 | 295 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 370 | 4.84 | 54 |
-| 296 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 361 | 4.68 | 290 |
+| 296 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 366 | 4.68 | 290 |
 | 297 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 355 | 4.35 | 956 |
 | 297 | [Metalstorm](games/m/metalstorm.md) | 355 | 4.45 | 793 |
 | 299 | [Darkwood](games/d/darkwood.md) | 349 | 4.62 | 420 |
