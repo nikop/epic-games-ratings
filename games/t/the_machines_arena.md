@@ -1,17 +1,17 @@
 # The Machines Arena
 [Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.79 (Ranked 113)  
+Rating: 4.80 (Ranked 100)  
 ## Awards
 Max (Great for Quick Sessions): 39  (Ranked 594)  
-Sum: 149 (Ranked 544)  
-Diff (max vs sum): 50  
+Sum: 151 (Ranked 540)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
 | This game is Great for Quick Sessions | 39 |
 | This game is Great for Beginners | 34 |
-| This game has Diverse Characters | 31 |
+| This game has Diverse Characters | 33 |
 | This game has a Competitive Community | 24 |
 | This game has Challenging Combat | 21 |
 ## Ratings History
@@ -108,4 +108,4 @@ Diff (max vs sum): 50
 | 2024-09-10 | 4.79 | 35 | 119 |
 | 2024-09-11 | 4.79 | 37 | 143 |
 | 2024-09-12 | 4.79 | 37 | 145 |
-| 2024-09-13 | 4.79 | 39 | 149 |
+| 2024-09-13 | 4.80 | 39 | 151 |

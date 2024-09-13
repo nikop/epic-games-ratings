@@ -2,7 +2,7 @@
   "ID": "3c06b15a8a2845c0b725d4f952fe00aa",
   "Name": "HITMAN",
   "ProductSlug": "hitman/standard-edition",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 1193,
@@ -3532,10 +3532,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1774,
       "NumberOfAwardsMax": 246
+    },
+    {
+      "Time": "2024-09-13T17:58:42.4227318+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1775,
+      "NumberOfAwardsMax": 246
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1774,
+  "NumberOfAwards": 1775,
   "NumberOfAwardsMax": 246,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3579,7 +3585,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 205
+      "Count": 206
     },
     {
       "Text": "This game has a Creative Community",
@@ -3611,8 +3617,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2024-09-11T03:02:28.1497993+00:00",
+  "LastChanged": "2024-09-13T17:58:42.4227317+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:07.4053441+00:00",
-  "LastUpdate_Ratings": "2024-09-13T16:00:34.1423463+00:00",
+  "LastUpdate_Ratings": "2024-09-13T17:58:42.4227322+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:35.1802799+00:00"
 }
