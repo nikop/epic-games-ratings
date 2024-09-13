@@ -47,7 +47,7 @@
 | 43 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 714 |
 | 43 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.85 | 0 | 714 |
 | 43 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 9,347 | 63 |
-| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,278 | 87 |
+| 43 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 6,281 | 87 |
 | 43 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 4.85 | 3,438 | 113 |
 | 43 | [Rain World](games/r/rain_world.md) | 4.85 | 33 | 622 |
 | 43 | [Rayman Origins](games/r/rayman_origins.md) | 4.85 | 64 | 525 |
@@ -306,7 +306,7 @@
 | 290 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 714 |
 | 290 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.68 | 0 | 714 |
 | 290 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.68 | 1,418 | 162 |
-| 290 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 13,169 | 46 |
+| 290 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.68 | 13,180 | 46 |
 | 290 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.68 | 0 | 714 |
 | 290 | [SUPERHOT](games/s/superhot.md) | 4.68 | 0 | 714 |
 | 290 | [The Alto Collection](games/t/the_alto_collection.md) | 4.68 | 64 | 525 |
@@ -380,7 +380,7 @@
 | 375 | [BLACKTAIL](games/b/blacktail.md) | 4.64 | 0 | 714 |
 | 375 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.64 | 36 | 610 |
 | 375 | [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 4.64 | 36 | 610 |
-| 375 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.64 | 737 | 234 |
+| 375 | [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 4.64 | 745 | 234 |
 | 375 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.64 | 0 | 714 |
 | 375 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.64 | 2,302 | 131 |
 | 375 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.64 | 52 | 551 |
@@ -494,7 +494,7 @@
 | 471 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.60 | 0 | 714 |
 | 471 | [Roguebook](games/r/roguebook.md) | 4.60 | 0 | 714 |
 | 471 | [System Shock](games/s/system_shock.md) | 4.60 | 0 | 714 |
-| 471 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 7,777 | 72 |
+| 471 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.60 | 7,785 | 72 |
 | 471 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.60 | 33 | 622 |
 | 471 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.60 | 600 | 254 |
 | 471 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 35 | 617 |
@@ -826,10 +826,10 @@
 | 818 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.44 | 379 | 293 |
 | 818 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 16,341 | 38 |
 | 818 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.44 | 0 | 714 |
-| 818 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 11,385 | 52 |
+| 818 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 11,404 | 52 |
 | 818 | [OUTRIDERS](games/o/outriders.md) | 4.44 | 1,697 | 152 |
 | 818 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 714 |
-| 818 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.44 | 1,108 | 187 |
+| 818 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 4.44 | 1,115 | 187 |
 | 818 | [The Captain](games/t/the_captain.md) | 4.44 | 100 | 463 |
 | 818 | [Tunche](games/t/tunche.md) | 4.44 | 38 | 600 |
 | 818 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.44 | 310 | 310 |
