@@ -2,7 +2,7 @@
   "ID": "d400b874b09b4cd49d149358c67aa453",
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
-  "Ranking_Rating": 1121,
+  "Ranking_Rating": 1136,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 141,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2024-05-14T21:56:55.8086132+00:00",
@@ -369,6 +369,12 @@
     {
       "Time": "2024-09-12T12:00:49.6532937+00:00",
       "Rating": 4.19,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-13T11:59:46.1893307+00:00",
+      "Rating": 4.18,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3403,9 +3409,9 @@
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenRating": "2024-05-14T21:56:55.8086129+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged": "2024-09-12T12:00:49.6532934+00:00",
+  "LastChanged": "2024-09-13T11:59:46.1893305+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:14.5173509+00:00",
   "LastUpdate_AppInfo": "2024-09-13T04:57:11.3954359+00:00",
-  "LastUpdate_Ratings": "2024-09-13T09:59:25.6259691+00:00",
+  "LastUpdate_Ratings": "2024-09-13T11:59:46.1893311+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:14.5173788+00:00"
 }

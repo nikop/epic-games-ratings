@@ -4,7 +4,7 @@
   "ProductSlug": "apeiron-b83793",
   "Ranking_Rating": 1056,
   "Ranking_Popularity": 660,
-  "Ranking_PopularitySum": 629,
+  "Ranking_PopularitySum": 627,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -419,10 +419,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-09-13T11:59:30.0538514+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
+  "NumberOfAwards": 51,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -436,7 +442,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -451,8 +457,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-27T15:57:08.6160015+00:00",
   "FirstSeenRating": "2024-01-22T08:00:14.8352566+00:00",
-  "LastChanged": "2024-09-10T11:58:15.3302659+00:00",
+  "LastChanged": "2024-09-13T11:59:30.0538512+00:00",
   "LastUpdate_AppInfo": "2024-09-12T02:04:08.0580408+00:00",
-  "LastUpdate_Ratings": "2024-09-13T09:59:14.6727711+00:00",
+  "LastUpdate_Ratings": "2024-09-13T11:59:30.0538517+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:20.5639237+00:00"
 }
