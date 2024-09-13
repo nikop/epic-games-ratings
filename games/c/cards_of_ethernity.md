@@ -1,11 +1,11 @@
 # Aether TCG
 [Store](https://store.epicgames.com/en-US/p/aether-trading-card-game-420f51)  
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
-Rating: 4.46 (Ranked 775)  
+Rating: 4.46 (Ranked 776)  
 ## Awards
-Max (Great for Beginners): 36  (Ranked 609)  
+Max (Great for Beginners): 36  (Ranked 610)  
 Sum: 83 (Ranked 591)  
-Diff (max vs sum): 18  
+Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 36 |

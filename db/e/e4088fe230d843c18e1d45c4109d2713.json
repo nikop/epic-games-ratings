@@ -3,8 +3,8 @@
   "Name": "fell in love with coser",
   "ProductSlug": "fell-in-love-with-coser-0015db",
   "Ranking_Rating": 1290,
-  "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 713,
+  "Ranking_Popularity": 714,
+  "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.42,
+  "Rating": 3.44,
   "RatingHistory": [
     {
       "Time": "2024-06-05T13:58:34.7939018+00:00",
@@ -66,6 +66,12 @@
       "Rating": 3.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-13T18:57:56.6057028+00:00",
+      "Rating": 3.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -84,8 +90,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-29T20:59:16.4633871+00:00",
   "FirstSeenRating": "2024-06-05T13:58:34.7939015+00:00",
-  "LastChanged": "2024-09-03T16:58:20.3013149+00:00",
+  "LastChanged": "2024-09-13T18:57:56.6057026+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:40.0912766+00:00",
-  "LastUpdate_Ratings": "2024-09-13T16:58:56.1989946+00:00",
+  "LastUpdate_Ratings": "2024-09-13T18:57:56.6057031+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:07.2343887+00:00"
 }

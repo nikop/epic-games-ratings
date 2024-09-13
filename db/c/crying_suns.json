@@ -2,8 +2,8 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 635,
-  "Ranking_Popularity": 336,
+  "Ranking_Rating": 636,
+  "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 532,
@@ -917,18 +917,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 325,
       "NumberOfAwardsMax": 256
+    },
+    {
+      "Time": "2024-09-13T18:57:44.0186907+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 328,
+      "NumberOfAwardsMax": 259
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 325,
-  "NumberOfAwardsMax": 256,
+  "NumberOfAwards": 328,
+  "NumberOfAwardsMax": 259,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 256
+      "Count": 259
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -30749,9 +30755,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
-  "LastChanged": "2024-09-12T18:58:37.4610631+00:00",
+  "LastChanged": "2024-09-13T18:57:44.0186906+00:00",
   "LastChanged_Achievements": "2024-08-20T20:09:31.4719885+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:42.2644995+00:00",
-  "LastUpdate_Ratings": "2024-09-13T16:58:43.6024473+00:00",
+  "LastUpdate_Ratings": "2024-09-13T18:57:44.018691+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:09:31.472159+00:00"
 }

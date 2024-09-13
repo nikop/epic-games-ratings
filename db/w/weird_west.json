@@ -740,10 +740,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 213,
       "NumberOfAwardsMax": 139
+    },
+    {
+      "Time": "2024-09-13T18:58:20.6602418+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 213,
+  "NumberOfAwards": 214,
   "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -757,7 +763,7 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 74
+      "Count": 75
     }
   ],
   "EOS_Progressed": 25118,
@@ -3945,9 +3951,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
-  "LastChanged": "2024-09-13T16:59:20.5997795+00:00",
+  "LastChanged": "2024-09-13T18:58:20.6602417+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:13.925311+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:15.5296284+00:00",
-  "LastUpdate_Ratings": "2024-09-13T16:59:20.5997801+00:00",
+  "LastUpdate_Ratings": "2024-09-13T18:58:20.6602422+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:13.9253547+00:00"
 }

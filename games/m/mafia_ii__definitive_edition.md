@@ -4,9 +4,9 @@
 Rating: 4.42 (Ranked 847)  
 Number of Ratings: 1,020  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 23  (Ranked 684)  
+Max (Extremely Fun): 23  (Ranked 685)  
 Sum: 43 (Ranked 639)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 365 |
