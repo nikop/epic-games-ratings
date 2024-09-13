@@ -17,7 +17,7 @@
 | 15 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 61,200 | 4.74 | 183 |
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 54,382 | 4.50 | 697 |
 | 17 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 48,133 | 4.17 | 1,148 |
-| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 43,288 | 4.73 | 201 |
+| 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 43,350 | 4.73 | 201 |
 | 19 | [Dauntless](games/d/dauntless.md) | 31,870 | 4.53 | 634 |
 | 20 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 31,372 | 4.64 | 375 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 30,764 | 4.89 | 11 |
@@ -211,7 +211,7 @@
 | 209 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 937 | 4.60 | 471 |
 | 210 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 936 | 4.68 | 290 |
 | 211 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 918 | 3.98 | 1,226 |
-| 212 | [Neverwinter](games/n/neverwinter.md) | 915 | 4.30 | 1,010 |
+| 212 | [Neverwinter](games/n/neverwinter.md) | 916 | 4.30 | 1,010 |
 | 213 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 898 | 4.83 | 67 |
 | 213 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 898 | 4.87 | 19 |
 | 215 | [The Outlast Trials](games/t/the_outlast_trials.md) | 879 | 4.65 | 351 |
@@ -264,7 +264,7 @@
 | 262 | [Dead Cells](games/d/dead_cells.md) | 544 | 4.84 | 54 |
 | 263 | [Warface: Clutch](games/w/warface.md) | 542 | 3.87 | 1,254 |
 | 264 | [Into the Breach](games/i/into_the_breach.md) | 528 | 4.84 | 54 |
-| 265 | [Against the Storm](games/a/against_the_storm.md) | 522 | 4.82 | 78 |
+| 265 | [Against the Storm](games/a/against_the_storm.md) | 523 | 4.82 | 78 |
 | 266 | [Second Extinction™](games/s/second_extinction™.md) | 511 | 4.07 | 1,200 |
 | 267 | [For The King](games/f/for_the_king.md) | 495 | 4.70 | 244 |
 | 268 | [Nuclear Throne](games/n/nuclear_throne.md) | 494 | 4.79 | 113 |
@@ -375,9 +375,9 @@
 | 373 | [SYNCED](games/s/synced.md) | 189 | 4.08 | 1,195 |
 | 374 | [Aimlabs](games/a/aimlabs.md) | 188 | 4.58 | 521 |
 | 375 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 187 | 4.08 | 1,195 |
+| 376 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 186 | 4.54 | 612 |
 | 376 | [Going Medieval](games/g/going_medieval.md) | 186 | 4.60 | 471 |
 | 376 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 186 | 4.77 | 134 |
-| 378 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 184 | 4.54 | 612 |
 | 379 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 183 | 4.57 | 541 |
 | 380 | [Cris Tales](games/c/cris_tales.md) | 181 | 4.36 | 941 |
 | 380 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 181 | 4.37 | 931 |

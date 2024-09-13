@@ -77,7 +77,7 @@
 | 67 | [Superliminal](games/s/superliminal.md) | 4.83 | 0 | 714 |
 | 67 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 714 |
 | 67 | [TUNIC](games/t/tunic.md) | 4.83 | 47 | 567 |
-| 78 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 522 | 265 |
+| 78 | [Against the Storm](games/a/against_the_storm.md) | 4.82 | 523 | 265 |
 | 78 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 8,274 | 70 |
 | 78 | [Blasphemous](games/b/blasphemous.md) | 4.82 | 285 | 320 |
 | 78 | [DOOM (1993)](games/d/doom_(1993).md) | 4.82 | 38 | 601 |
@@ -208,7 +208,7 @@
 | 201 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.73 | 96 | 469 |
 | 201 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.73 | 0 | 714 |
 | 201 | [Haven](games/h/haven.md) | 4.73 | 0 | 714 |
-| 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.73 | 43,288 | 18 |
+| 201 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.73 | 43,350 | 18 |
 | 201 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.73 | 229 | 351 |
 | 201 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.73 | 109 | 454 |
 | 201 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 714 |
@@ -620,7 +620,7 @@
 | 612 | [Duskers](games/d/duskers.md) | 4.54 | 22 | 692 |
 | 612 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.54 | 1,980 | 143 |
 | 612 | [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 4.54 | 24 | 678 |
-| 612 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.54 | 184 | 378 |
+| 612 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.54 | 186 | 376 |
 | 612 | [Godlike Burger](games/g/godlike_burger.md) | 4.54 | 20 | 705 |
 | 612 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.54 | 233 | 348 |
 | 612 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.54 | 0 | 714 |
@@ -1013,7 +1013,7 @@
 | 1,010 | [ELEX II](games/e/elex_ii.md) | 4.30 | 0 | 714 |
 | 1,010 | [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 4.30 | 24 | 678 |
 | 1,010 | [JARS](games/j/jars.md) | 4.30 | 0 | 714 |
-| 1,010 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 915 | 212 |
+| 1,010 | [Neverwinter](games/n/neverwinter.md) | 4.30 | 916 | 212 |
 | 1,010 | [Scrapnaut](games/s/scrapnaut.md) | 4.30 | 0 | 714 |
 | 1,010 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 4.30 | 0 | 714 |
 | 1,010 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.30 | 0 | 714 |
