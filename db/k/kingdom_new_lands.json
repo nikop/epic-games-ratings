@@ -3,8 +3,8 @@
   "Name": "Kingdom New Lands",
   "ProductSlug": "kingdom-new-lands",
   "Ranking_Rating": 654,
-  "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 335,
+  "Ranking_Popularity": 396,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -2580,11 +2580,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 935,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-09-13T03:58:51.4423548+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 937,
+      "NumberOfAwardsMax": 161
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 935,
-  "NumberOfAwardsMax": 159,
+  "NumberOfAwards": 937,
+  "NumberOfAwardsMax": 161,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2597,7 +2603,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 159
+      "Count": 161
     },
     {
       "Text": "This game is Relaxing",
@@ -2659,8 +2665,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:48.0590918+00:00",
-  "LastChanged": "2024-09-09T21:58:24.3618468+00:00",
+  "LastChanged": "2024-09-13T03:58:51.4423536+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:09.0668783+00:00",
-  "LastUpdate_Ratings": "2024-09-13T02:07:37.9343922+00:00",
+  "LastUpdate_Ratings": "2024-09-13T03:58:51.4423552+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:13.6396648+00:00"
 }

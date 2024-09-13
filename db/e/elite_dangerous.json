@@ -10799,10 +10799,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 14544,
       "NumberOfAwardsMax": 2615
+    },
+    {
+      "Time": "2024-09-13T03:59:11.035821+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14545,
+      "NumberOfAwardsMax": 2615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14544,
+  "NumberOfAwards": 14545,
   "NumberOfAwardsMax": 2615,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -10840,7 +10846,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 2363
+      "Count": 2364
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10860,8 +10866,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-09-13T02:07:57.3313786+00:00",
+  "LastChanged": "2024-09-13T03:59:11.0358208+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:12.0440086+00:00",
-  "LastUpdate_Ratings": "2024-09-13T02:07:57.3313792+00:00",
+  "LastUpdate_Ratings": "2024-09-13T03:59:11.0358217+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:11:09.2467767+00:00"
 }

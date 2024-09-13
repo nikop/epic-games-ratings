@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 1159,
   "Ranking_Popularity": 250,
-  "Ranking_PopularitySum": 214,
+  "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 374,
   "Ranking_EOS_NewPlayers": 176,
@@ -4659,12 +4659,18 @@
       "Rating": 4.15,
       "NumberOfAwards": 3310,
       "NumberOfAwardsMax": 614
+    },
+    {
+      "Time": "2024-09-13T03:58:48.4034449+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 3334,
+      "NumberOfAwardsMax": 617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3310,
-  "NumberOfAwardsMax": 614,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "NumberOfAwards": 3334,
+  "NumberOfAwardsMax": 617,
+  "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -4682,7 +4688,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 602
+      "Count": 617
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4706,7 +4712,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 277
+      "Count": 286
     }
   ],
   "EOS_Progressed": 29887,
@@ -17808,9 +17814,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-09-12T21:59:02.6762118+00:00",
+  "LastChanged": "2024-09-13T03:58:48.4034447+00:00",
   "LastChanged_Achievements": "2024-08-20T20:07:34.0522098+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:08.6753993+00:00",
-  "LastUpdate_Ratings": "2024-09-13T02:07:34.8536888+00:00",
+  "LastUpdate_Ratings": "2024-09-13T03:58:48.4034452+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:07:34.052304+00:00"
 }
