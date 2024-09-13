@@ -4,7 +4,7 @@
   "ProductSlug": "octopath-traveler",
   "Ranking_Rating": 113,
   "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 547,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -667,6 +667,6 @@
   "FirstSeen": "2022-07-22T20:21:15.1292703+00:00",
   "LastChanged": "2024-09-07T10:59:23.3464941+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:29.4068297+00:00",
-  "LastUpdate_Ratings": "2024-09-13T15:00:07.5018175+00:00",
+  "LastUpdate_Ratings": "2024-09-13T16:58:16.5180187+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:47.864627+00:00"
 }

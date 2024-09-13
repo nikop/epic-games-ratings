@@ -4,7 +4,7 @@
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
   "Ranking_Rating": 1111,
   "Ranking_Popularity": 558,
-  "Ranking_PopularitySum": 505,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -216,10 +216,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 224,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-09-13T17:00:05.4984271+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 193,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 224,
+  "NumberOfAwards": 193,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -272,7 +278,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
-  "LastChanged": "2024-09-13T13:58:44.048054+00:00",
+  "LastChanged": "2024-09-13T17:00:05.4984268+00:00",
   "LastUpdate_AppInfo": "2024-09-12T16:57:18.1894284+00:00",
-  "LastUpdate_Ratings": "2024-09-13T15:58:29.3258811+00:00"
+  "LastUpdate_Ratings": "2024-09-13T17:00:05.4984277+00:00"
 }

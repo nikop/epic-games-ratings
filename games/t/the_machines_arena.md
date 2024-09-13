@@ -4,8 +4,8 @@
 Rating: 4.79 (Ranked 113)  
 ## Awards
 Max (Great for Quick Sessions): 39  (Ranked 594)  
-Sum: 149 (Ranked 543)  
-Diff (max vs sum): 51  
+Sum: 149 (Ranked 544)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
