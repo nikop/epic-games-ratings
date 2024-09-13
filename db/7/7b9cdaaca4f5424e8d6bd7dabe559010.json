@@ -4,7 +4,7 @@
   "ProductSlug": "deaths-gambit-afterlife-b5f411",
   "Ranking_Rating": 542,
   "Ranking_Popularity": 237,
-  "Ranking_PopularitySum": 332,
+  "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -516,10 +516,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 967,
       "NumberOfAwardsMax": 717
+    },
+    {
+      "Time": "2024-09-13T21:57:31.5222167+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 971,
+      "NumberOfAwardsMax": 717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 967,
+  "NumberOfAwards": 971,
   "NumberOfAwardsMax": 717,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -539,7 +545,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33
+      "Count": 37
     },
     {
       "Text": "This game is Great for Beginners",
@@ -610,9 +616,9 @@
   "FirstSeen": "2024-08-12T09:00:11.602464+00:00",
   "FirstSeenRating": "2024-08-16T09:00:44.4168107+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:10.6887869+00:00",
-  "LastChanged": "2024-09-13T19:58:05.1459852+00:00",
+  "LastChanged": "2024-09-13T21:57:31.5222165+00:00",
   "LastChanged_Achievements": "2024-08-20T20:13:00.8901834+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:19.5145055+00:00",
-  "LastUpdate_Ratings": "2024-09-13T19:58:05.1459857+00:00",
+  "LastUpdate_Ratings": "2024-09-13T21:57:31.522217+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:13:00.8901866+00:00"
 }

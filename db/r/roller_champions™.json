@@ -2,9 +2,9 @@
   "ID": "03208f1f61764f5a8f6b7ea24c56edf1",
   "Name": "Roller Champions\u2122",
   "ProductSlug": "roller-champions",
-  "Ranking_Rating": 969,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 238,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 5693,
   "RatingHistory": [
     {
@@ -4133,6 +4133,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 2471,
       "NumberOfAwardsMax": 287
+    },
+    {
+      "Time": "2024-09-13T21:58:32.1639287+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2471,
+      "NumberOfAwardsMax": 287
     }
   ],
   "ReviewsDisabled": false,
@@ -4218,8 +4224,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:37.6973739+00:00",
-  "LastChanged": "2024-09-09T09:59:50.5865503+00:00",
+  "LastChanged": "2024-09-13T21:58:32.1639285+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:21.6541973+00:00",
-  "LastUpdate_Ratings": "2024-09-13T19:59:06.1820395+00:00",
+  "LastUpdate_Ratings": "2024-09-13T21:58:32.1639291+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:20.5684016+00:00"
 }

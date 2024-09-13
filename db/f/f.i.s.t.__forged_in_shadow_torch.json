@@ -4,7 +4,7 @@
   "ProductSlug": "fist-forged-in-shadow-torch",
   "Ranking_Rating": 614,
   "Ranking_Popularity": 143,
-  "Ranking_PopularitySum": 239,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -3267,10 +3267,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 2462,
       "NumberOfAwardsMax": 1980
+    },
+    {
+      "Time": "2024-09-13T21:58:59.7653189+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2465,
+      "NumberOfAwardsMax": 1980
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2462,
+  "NumberOfAwards": 2465,
   "NumberOfAwardsMax": 1980,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3320,7 +3326,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3332,7 +3338,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 39
+      "Count": 40
     }
   ],
   "EOS_Progressed": 0,
@@ -3346,8 +3352,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2024-09-13T19:59:33.6798962+00:00",
+  "LastChanged": "2024-09-13T21:58:59.7653187+00:00",
   "LastUpdate_AppInfo": "2024-09-09T05:57:17.7876105+00:00",
-  "LastUpdate_Ratings": "2024-09-13T19:59:33.6798968+00:00",
+  "LastUpdate_Ratings": "2024-09-13T21:58:59.7653192+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:51.4525283+00:00"
 }

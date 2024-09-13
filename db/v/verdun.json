@@ -4,7 +4,7 @@
   "ProductSlug": "verdun",
   "Ranking_Rating": 637,
   "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 315,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 116,
@@ -2919,10 +2919,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 1133,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2024-09-13T21:59:21.5762277+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1134,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1133,
+  "NumberOfAwards": 1134,
   "NumberOfAwardsMax": 125,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2942,7 +2948,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -34689,9 +34695,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-09-13T18:57:38.6821111+00:00",
+  "LastChanged": "2024-09-13T21:59:21.5762276+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:51.4205388+00:00",
   "LastUpdate_AppInfo": "2024-09-08T22:57:08.6685361+00:00",
-  "LastUpdate_Ratings": "2024-09-13T19:59:58.0054065+00:00",
+  "LastUpdate_Ratings": "2024-09-13T21:59:21.5762281+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:51.4207257+00:00"
 }
