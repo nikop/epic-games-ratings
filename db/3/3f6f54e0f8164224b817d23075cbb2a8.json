@@ -3,8 +3,8 @@
   "Name": "Sunless Skies: Sovereign Edition",
   "ProductSlug": "sunless-skies-bb4947",
   "Ranking_Rating": 815,
-  "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 439,
+  "Ranking_Popularity": 380,
+  "Ranking_PopularitySum": 438,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -881,18 +881,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 393,
       "NumberOfAwardsMax": 180
+    },
+    {
+      "Time": "2024-09-14T19:57:08.9097018+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 395,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 393,
-  "NumberOfAwardsMax": 180,
+  "NumberOfAwards": 395,
+  "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 180
+      "Count": 182
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1234,9 +1240,9 @@
   "FirstSeen": "2024-06-27T18:57:45.3938214+00:00",
   "FirstSeenRating": "2024-06-30T03:01:14.9196581+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:09.4008727+00:00",
-  "LastChanged": "2024-09-14T13:12:31.86469+00:00",
+  "LastChanged": "2024-09-14T19:57:08.9097016+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:15.5594814+00:00",
   "LastUpdate_AppInfo": "2024-09-12T21:57:16.3471372+00:00",
-  "LastUpdate_Ratings": "2024-09-14T17:57:57.3226556+00:00",
+  "LastUpdate_Ratings": "2024-09-14T19:57:08.9097022+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:15.5594985+00:00"
 }
