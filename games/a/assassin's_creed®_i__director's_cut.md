@@ -4,12 +4,12 @@
 Rating: 4.42 (Ranked 848)  
 Number of Ratings: 142  (23.09.2022)  
 ## Awards
-Max (Quickly Understood Controls): 21  (Ranked 702)  
-Sum: 62 (Ranked 619)  
-Diff (max vs sum): 83  
+Max (Relaxing): 22  (Ranked 692)  
+Sum: 63 (Ranked 616)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 21 |
+| This game is Relaxing | 22 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Unique Visuals | 20 |
 ## Ratings History
@@ -145,3 +145,4 @@ Diff (max vs sum): 83
 | 2024-08-08 | 4.43 | - | 21 | 61 |
 | 2024-08-11 | 4.43 | - | 21 | 62 |
 | 2024-08-25 | 4.42 | - | 21 | 62 |
+| 2024-09-14 | 4.42 | - | 22 | 63 |

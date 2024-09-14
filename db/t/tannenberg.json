@@ -4407,10 +4407,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3452,
       "NumberOfAwardsMax": 347
+    },
+    {
+      "Time": "2024-09-14T02:03:28.8290597+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3454,
+      "NumberOfAwardsMax": 347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3452,
+  "NumberOfAwards": 3454,
   "NumberOfAwardsMax": 347,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4472,7 +4478,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 339
+      "Count": 340
     },
     {
       "Text": "This game is Relaxing",
@@ -4490,7 +4496,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 345
+      "Count": 346
     }
   ],
   "EOS_Progressed": 159934,
@@ -36925,9 +36931,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
-  "LastChanged": "2024-09-11T16:59:12.9396725+00:00",
+  "LastChanged": "2024-09-14T02:03:28.8290593+00:00",
   "LastChanged_Achievements": "2024-08-20T20:10:19.4458329+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:33.8039639+00:00",
-  "LastUpdate_Ratings": "2024-09-13T22:59:00.8368722+00:00",
+  "LastUpdate_Ratings": "2024-09-14T02:03:28.82906+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:19.4459993+00:00"
 }

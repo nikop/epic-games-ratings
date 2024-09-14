@@ -3,8 +3,8 @@
   "Name": "Assassin\u0027s Creed\u00AE I: Director\u0027s Cut",
   "ProductSlug": "assassins-creed-1",
   "Ranking_Rating": 848,
-  "Ranking_Popularity": 702,
-  "Ranking_PopularitySum": 619,
+  "Ranking_Popularity": 692,
+  "Ranking_PopularitySum": 616,
   "Ranking_EOS_Progress": 1193,
   "Ranking_EOS_Completed": 561,
   "Ranking_EOS_NewPlayers": 544,
@@ -715,18 +715,24 @@
       "Rating": 4.42,
       "NumberOfAwards": 62,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-09-14T02:03:45.3081143+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62,
-  "NumberOfAwardsMax": 21,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 63,
+  "NumberOfAwardsMax": 22,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Unique Visuals",
@@ -752,8 +758,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
-  "LastChanged": "2024-08-25T10:58:43.0345777+00:00",
+  "LastChanged": "2024-09-14T02:03:45.3081141+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:39.2410596+00:00",
-  "LastUpdate_Ratings": "2024-09-13T22:59:16.9772297+00:00",
+  "LastUpdate_Ratings": "2024-09-14T02:03:45.3081148+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:03:56.3621983+00:00"
 }
