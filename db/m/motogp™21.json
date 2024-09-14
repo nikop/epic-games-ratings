@@ -4,7 +4,7 @@
   "ProductSlug": "motogp-21",
   "Ranking_Rating": 502,
   "Ranking_Popularity": 645,
-  "Ranking_PopularitySum": 535,
+  "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -545,6 +545,6 @@
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
   "LastChanged": "2024-09-10T19:59:11.1256469+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:39.8032052+00:00",
-  "LastUpdate_Ratings": "2024-09-14T18:59:18.4441633+00:00",
+  "LastUpdate_Ratings": "2024-09-14T20:58:13.6179506+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:01.4261977+00:00"
 }

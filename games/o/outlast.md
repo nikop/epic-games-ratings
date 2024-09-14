@@ -4,13 +4,13 @@
 Rating: 4.74 (Ranked 184)  
 ## Awards
 Max (Great for Beginners): 54  (Ranked 552)  
-Sum: 307 (Ranked 467)  
-Diff (max vs sum): 85  
+Sum: 308 (Ranked 466)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 54 |
 | This game has Diverse Characters | 50 |
-| This game is Highly Recommended | 48 |
+| This game is Highly Recommended | 49 |
 | This game has Amazing Storytelling | 40 |
 | This game has Amazing Characters | 32 |
 | This game has Quickly Understood Controls | 30 |
@@ -152,4 +152,4 @@ Diff (max vs sum): 85
 | 2024-09-11 | 4.75 | 53 | 296 |
 | 2024-09-12 | 4.75 | 53 | 297 |
 | 2024-09-13 | 4.75 | 53 | 306 |
-| 2024-09-14 | 4.74 | 54 | 307 |
+| 2024-09-14 | 4.74 | 54 | 308 |

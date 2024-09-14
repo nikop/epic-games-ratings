@@ -2,9 +2,9 @@
   "ID": "58004246d72f474a957ff5f57b9684ca",
   "Name": "Cat Quest II",
   "ProductSlug": "cat-quest-ii-9dbefc",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 515,
+  "Ranking_PopularitySum": 514,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 3,
@@ -742,6 +742,6 @@
   "LastChanged": "2024-09-14T10:59:19.1393358+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:51.6792149+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:09.5420189+00:00",
-  "LastUpdate_Ratings": "2024-09-14T18:59:59.9213787+00:00",
+  "LastUpdate_Ratings": "2024-09-14T20:58:54.0094817+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:51.6792245+00:00"
 }
