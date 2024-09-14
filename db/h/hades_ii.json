@@ -2,7 +2,7 @@
   "ID": "36a21c249987423a93f8442cc40a0e33",
   "Name": "Hades II",
   "ProductSlug": "hades-ii",
-  "Ranking_Rating": 11,
+  "Ranking_Rating": 8,
   "Ranking_Popularity": 359,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.9,
   "RatingHistory": [
     {
       "Time": "2024-05-08T21:57:36.1712834+00:00",
@@ -864,6 +864,12 @@
       "Rating": 4.89,
       "NumberOfAwards": 381,
       "NumberOfAwardsMax": 211
+    },
+    {
+      "Time": "2024-09-14T15:58:55.0163184+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 381,
+      "NumberOfAwardsMax": 211
     }
   ],
   "ReviewsDisabled": false,
@@ -902,8 +908,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-06T20:57:55.3749991+00:00",
   "FirstSeenRating": "2024-05-08T21:57:36.1712831+00:00",
-  "LastChanged": "2024-09-14T03:03:01.3456103+00:00",
+  "LastChanged": "2024-09-14T15:58:55.0163182+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:25.6625511+00:00",
-  "LastUpdate_Ratings": "2024-09-14T14:14:33.7695133+00:00",
+  "LastUpdate_Ratings": "2024-09-14T15:58:55.0163188+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:14.6987434+00:00"
 }
