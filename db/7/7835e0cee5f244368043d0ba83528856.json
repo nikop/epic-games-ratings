@@ -2,10 +2,10 @@
   "ID": "7835e0cee5f244368043d0ba83528856",
   "Name": "SOKOCAT - DUNGEON",
   "ProductSlug": "sokocat-dungeon-f58b6d",
-  "Ranking_EOS_Progress": 744,
-  "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Progress": 760,
+  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-30T13:00:00+00:00",
     "PcReleaseDate": "2021-09-02T13:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 69,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.59,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2024-07-25T19:01:52.8499637+00:00",
@@ -44,6 +44,11 @@
     {
       "Time": "2024-08-20T20:11:28.6627942+00:00",
       "NumProgressed": 63,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:24:31.9037628+00:00",
+      "NumProgressed": 69,
       "NumCompleted": 1
     }
   ],
@@ -63,15 +68,15 @@
       "ID": "Enter the dungeon",
       "SetID": "5h87ic2",
       "Name": "Enter the dungeon",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 80,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "Exit the dungeon",
       "SetID": "5h87ic2",
       "Name": "Exit the dungeon",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "Full Collection",
       "SetID": "5h87ic2",
       "Name": "Full Collection!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -87,9 +92,9 @@
       "ID": "Into to the castle",
       "SetID": "5h87ic2",
       "Name": "Into to the castle",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 63
     },
     {
       "ID": "The floor is lava",
@@ -103,17 +108,17 @@
       "ID": "amethyst item",
       "SetID": "5h87ic2",
       "Name": "First treasure",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "boomerang skill unlocked",
       "SetID": "5h87ic2",
       "Name": "The Boomerang",
-      "Percentage": 83,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "cup gold item",
@@ -135,7 +140,7 @@
       "ID": "diamond item",
       "SetID": "5h87ic2",
       "Name": "Diamond",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -151,7 +156,7 @@
       "ID": "gold crown item",
       "SetID": "5h87ic2",
       "Name": "The Golden Crown",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -160,14 +165,14 @@
     {
       "ID": "5h87ic2",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 69,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-08-17T18:00:10.6155568+00:00",
   "FirstSeenAchievements": "2024-07-25T19:01:52.8499714+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:28.6627937+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:31.9037622+00:00",
   "LastUpdate_AppInfo": "2024-09-13T02:04:57.5250867+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:04.1430841+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:28.6628027+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:45.0173654+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:31.903774+00:00"
 }

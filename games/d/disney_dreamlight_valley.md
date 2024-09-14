@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 68.00% | ~11,961 |
-| Photographer | 68.00% | ~11,961 |
-| Valley's Helper | 59.00% | ~10,378 |
-| Constructor | 57.00% | ~10,026 |
-| Renovator | 52.00% | ~9,147 |
-| Bestest Friend | 45.00% | ~7,916 |
-| Banker | 40.00% | ~7,036 |
-| Gardener | 32.00% | ~5,629 |
-| Generous | 28.00% | ~4,925 |
-| Chef Cook | 22.00% | ~3,870 |
-| Miner | 16.00% | ~2,814 |
-| Angler | 10.00% | ~1,759 |
-| Duty Bound | 10.00% | ~1,759 |
-| Thorn Cleaner | 9.00% | ~1,583 |
-| Chit Chatter | 4.00% | ~704 |
+| Goofy's Investor | 67.00% | ~12,139 |
+| Photographer | 67.00% | ~12,139 |
+| Valley's Helper | 59.00% | ~10,690 |
+| Constructor | 58.00% | ~10,508 |
+| Renovator | 52.00% | ~9,421 |
+| Bestest Friend | 44.00% | ~7,972 |
+| Banker | 40.00% | ~7,247 |
+| Gardener | 32.00% | ~5,798 |
+| Generous | 28.00% | ~5,073 |
+| Chef Cook | 22.00% | ~3,986 |
+| Miner | 16.00% | ~2,899 |
+| Angler | 11.00% | ~1,993 |
+| Duty Bound | 11.00% | ~1,993 |
+| Thorn Cleaner | 9.00% | ~1,631 |
+| Chit Chatter | 4.00% | ~725 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,590 (Ranked 224)  
-Completed: 516 (2.93%) (Ranked 175)  
+Progressed: 18,118 (Ranked 230)  
+Completed: 553 (3.05%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,16 +262,17 @@ Completed: 516 (2.93%) (Ranked 175)
 | 2024-06-17 | 16,588 | 466 |
 | 2024-08-09 | 17,479 | 508 |
 | 2024-08-20 | 17,590 | 516 |
+| 2024-09-14 | 18,118 | 553 |
 ## Awards
 Max (Great for Beginners): 1,678  (Ranked 153)  
-Sum: 10,509 (Ranked 122)  
+Sum: 10,513 (Ranked 122)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,678 |
 | This game has Diverse Characters | 1,346 |
 | This game is Highly Recommended | 1,068 |
-| This game has Amazing Characters | 1,034 |
+| This game has Amazing Characters | 1,038 |
 | This game has Amazing Storytelling | 964 |
 | This game has a Creative Community | 950 |
 | This game is Extremely Fun | 937 |
@@ -828,4 +829,4 @@ Diff (max vs sum): 31
 | 2024-09-11 | 4.76 | - | 1,665 | 10,470 |
 | 2024-09-12 | 4.76 | - | 1,669 | 10,482 |
 | 2024-09-13 | 4.76 | - | 1,669 | 10,492 |
-| 2024-09-14 | 4.76 | - | 1,678 | 10,509 |
+| 2024-09-14 | 4.76 | - | 1,678 | 10,513 |

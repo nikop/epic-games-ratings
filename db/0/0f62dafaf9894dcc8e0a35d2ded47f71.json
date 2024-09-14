@@ -5,10 +5,10 @@
   "Ranking_Rating": 1,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 691,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 449,
+  "Ranking_EOS_Completed": 322,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-08T19:04:40.272+00:00",
     "PcReleaseDate": "2023-12-10T17:00:00+00:00",
@@ -42,16 +42,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 733,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.68,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:02:08.9083766+00:00",
       "NumProgressed": 93,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:17.5622046+00:00",
+      "NumProgressed": 733,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2024-08-09T18:02:08.9083839+00:00",
@@ -62,281 +67,281 @@
       "ID": "ACH_ARMOR_AND_HEALTH",
       "SetID": "cpdd6h4",
       "Name": "Overprepared",
-      "Percentage": 4,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_BARREL",
       "SetID": "cpdd6h4",
       "Name": "Timing Is Everything",
-      "Percentage": 37,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_BERSERK",
       "SetID": "cpdd6h4",
       "Name": "A Man and a Half",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BFG",
       "SetID": "cpdd6h4",
       "Name": "Overkill",
-      "Percentage": 2,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_CAMPAIGN_DOOM",
       "SetID": "cpdd6h4",
       "Name": "DOOM",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_CAMPAIGN_DOOM2",
       "SetID": "cpdd6h4",
       "Name": "DOOM II",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_CAMPAIGN_EVILUTION",
       "SetID": "cpdd6h4",
       "Name": "Evilution",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CAMPAIGN_MASTER",
       "SetID": "cpdd6h4",
       "Name": "Master Levels",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CAMPAIGN_NEWDOOM",
       "SetID": "cpdd6h4",
       "Name": "Legacy of Rust",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_CAMPAIGN_NOREST",
       "SetID": "cpdd6h4",
       "Name": "No Rest for the Living",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_CAMPAIGN_PLUTONIA",
       "SetID": "cpdd6h4",
       "Name": "Plutonia",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CAMPAIGN_SIGIL",
       "SetID": "cpdd6h4",
       "Name": "Sigil",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_CHAINGUN",
       "SetID": "cpdd6h4",
       "Name": "Heavenly Joy",
-      "Percentage": 1,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_CHAINSAW",
       "SetID": "cpdd6h4",
       "Name": "Until It Is Done",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_DOOR_CRUSH",
       "SetID": "cpdd6h4",
       "Name": "Doormat",
-      "Percentage": 34,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_ENEMY_FRIENDLY_FIRE",
       "SetID": "cpdd6h4",
       "Name": "Not So Friendly Fire",
-      "Percentage": 60,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 520
     },
     {
       "ID": "ACH_FISTS",
       "SetID": "cpdd6h4",
       "Name": "Guns Are For Wusses",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FLAMETHROWER",
       "SetID": "cpdd6h4",
       "Name": "Kill It With Fire",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_HOARDER",
       "SetID": "cpdd6h4",
       "Name": "Hoarder",
-      "Percentage": 15,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_HUNDO",
       "SetID": "cpdd6h4",
       "Name": "Burning Out of Control",
-      "Percentage": 9,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_KILL_ALL",
       "SetID": "cpdd6h4",
       "Name": "Clean Slate",
-      "Percentage": 38,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_KILL_ENEMY_TYPES",
       "SetID": "cpdd6h4",
       "Name": "Indiscriminate Headhunter",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_NIGHTMARE",
       "SetID": "cpdd6h4",
       "Name": "More Like a Dream",
-      "Percentage": 1,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_PAR",
       "SetID": "cpdd6h4",
       "Name": "Untouchable",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_PISTOL",
       "SetID": "cpdd6h4",
       "Name": "Shoot It Until It Dies",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_PLASMA",
       "SetID": "cpdd6h4",
       "Name": "Cookin\u0027 With Plasma",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_ROCKET_LAUNCHER",
       "SetID": "cpdd6h4",
       "Name": "Bowling for Gibs",
-      "Percentage": 2,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_SECRET_AREA",
       "SetID": "cpdd6h4",
       "Name": "An Important Looking Door",
-      "Percentage": 56,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_SECRET_LEVEL",
       "SetID": "cpdd6h4",
       "Name": "Alternate Dimension",
-      "Percentage": 2,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_SHOTGUN",
       "SetID": "cpdd6h4",
       "Name": "Groovy",
-      "Percentage": 34,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_SUPERWEAPON",
       "SetID": "cpdd6h4",
       "Name": "Screen Wipe",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_SUPER_SHOTGUN",
       "SetID": "cpdd6h4",
       "Name": "Skeet Shooting",
-      "Percentage": 2,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_UNTOUCHABLE",
       "SetID": "cpdd6h4",
       "Name": "The Only Thing They Fear Is You",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "cpdd6h4",
       "IsBase": true,
-      "Progressed": 93,
-      "Completed": 0
+      "Progressed": 733,
+      "Completed": 5
     }
   ],
   "FirstSeen": "2024-08-09T13:57:23.9600675+00:00",
   "FirstSeenRating": "2024-08-30T14:59:54.1220984+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:08.9083838+00:00",
   "LastChanged": "2024-08-31T15:57:20.9824401+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:08.9083759+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:17.5622039+00:00",
   "LastUpdate_AppInfo": "2024-09-12T21:57:14.4981504+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:00.925977+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:08.9092798+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:47.1651841+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:17.5622281+00:00"
 }

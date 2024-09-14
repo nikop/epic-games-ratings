@@ -2,13 +2,13 @@
   "ID": "b2df9b20c72446d690718965da41c7ad",
   "Name": "Amnesia: Rebirth",
   "ProductSlug": "amnesia-rebirth",
-  "Ranking_Rating": 1075,
+  "Ranking_Rating": 1074,
   "Ranking_Popularity": 618,
   "Ranking_PopularitySum": 529,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-10-20T14:55:00+00:00",
     "PcReleaseDate": "2020-10-20T14:00:00+00:00",
@@ -781,6 +781,6 @@
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
   "LastChanged": "2024-08-26T16:58:35.7108531+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:40.0227281+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:11.9454252+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:12.8561621+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:48.3982257+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:40.1590533+00:00"
 }

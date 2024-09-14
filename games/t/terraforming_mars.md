@@ -6,44 +6,44 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prop-M Rover | 4.00% | ~4,358 |
-| First Journey | 3.00% | ~3,269 |
-| Changing the Planet | 3.00% | ~3,269 |
-| Sojourner | 3.00% | ~3,269 |
-| New Home | 2.00% | ~2,179 |
-| No Longer Red | 2.00% | ~2,179 |
-| Project Manager | 2.00% | ~2,179 |
-| It's a steal! | 2.00% | ~2,179 |
-| Curiosity | 2.00% | ~2,179 |
-| Beagle 2 | 2.00% | ~2,179 |
-| Collector | 2.00% | ~2,179 |
-| Winner Winner Terraformer | 2.00% | ~2,179 |
-| Final touch | 2.00% | ~2,179 |
-| Landlord | 1.00% | ~1,090 |
-| Biggest Reward | 1.00% | ~1,090 |
-| Most Achievements | 1.00% | ~1,090 |
-| Spirit | 1.00% | ~1,090 |
-| Money money | 1.00% | ~1,090 |
-| Self-sufficient | 1.00% | ~1,090 |
-| Master | 1.00% | ~1,090 |
-| Variety Expert | 0.90% | ~981 |
-| Acquired knowledge | 0.70% | ~763 |
-| Hellenic Elysium | 0.70% | ~763 |
-| Ultimate success | 0.70% | ~763 |
-| Grand champion | 0.70% | ~763 |
-| Frequent tester | 0.60% | ~654 |
-| The Shepherd's tiles | 0.60% | ~95 |
-| Venusian | 0.60% | ~95 |
-| Determined | 0.50% | ~545 |
-| Birth of Venus | 0.50% | ~79 |
-| Terraformer | 0.30% | ~327 |
-| Opportunity | 0.30% | ~327 |
-| Head in the clouds | 0.30% | ~48 |
-| Team Effort | 0.20% | ~218 |
-| Consultant | 0.10% | ~16 |
+| Prop-M Rover | 4.00% | ~4,462 |
+| First Journey | 3.00% | ~3,347 |
+| New Home | 3.00% | ~3,347 |
+| Changing the Planet | 3.00% | ~3,347 |
+| Beagle 2 | 3.00% | ~3,347 |
+| Sojourner | 3.00% | ~3,347 |
+| No Longer Red | 2.00% | ~2,231 |
+| Project Manager | 2.00% | ~2,231 |
+| It's a steal! | 2.00% | ~2,231 |
+| Curiosity | 2.00% | ~2,231 |
+| Collector | 2.00% | ~2,231 |
+| Winner Winner Terraformer | 2.00% | ~2,231 |
+| Final touch | 2.00% | ~2,231 |
+| Landlord | 1.00% | ~1,116 |
+| Biggest Reward | 1.00% | ~1,116 |
+| Most Achievements | 1.00% | ~1,116 |
+| Variety Expert | 1.00% | ~1,116 |
+| Spirit | 1.00% | ~1,116 |
+| Money money | 1.00% | ~1,116 |
+| Self-sufficient | 1.00% | ~1,116 |
+| Master | 1.00% | ~1,116 |
+| Acquired knowledge | 0.90% | ~1,004 |
+| Hellenic Elysium | 0.80% | ~892 |
+| Ultimate success | 0.80% | ~892 |
+| Grand champion | 0.80% | ~892 |
+| Frequent tester | 0.70% | ~781 |
+| The Shepherd's tiles | 0.70% | ~129 |
+| Determined | 0.60% | ~669 |
+| Venusian | 0.60% | ~111 |
+| Birth of Venus | 0.60% | ~111 |
+| Terraformer | 0.40% | ~446 |
+| Opportunity | 0.30% | ~335 |
+| Head in the clouds | 0.30% | ~55 |
+| Team Effort | 0.20% | ~223 |
+| Consultant | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 108,955 (Ranked 127)  
-Completed: 223 (0.20%) (Ranked 392)  
+Progressed: 111,561 (Ranked 135)  
+Completed: 228 (0.20%) (Ranked 415)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,6 +330,7 @@ Completed: 223 (0.20%) (Ranked 392)
 | 2024-04-10 | 99,247 | 199 |
 | 2024-06-17 | 105,296 | 215 |
 | 2024-08-09 | 108,955 | 223 |
+| 2024-09-14 | 111,561 | 228 |
 ## Awards
 Max (Highly Recommended): 581  (Ranked 256)  
 Sum: 3,694 (Ranked 201)  

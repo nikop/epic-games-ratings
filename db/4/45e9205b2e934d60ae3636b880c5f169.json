@@ -2,10 +2,10 @@
   "ID": "45e9205b2e934d60ae3636b880c5f169",
   "Name": "Ironclads: American Civil War",
   "ProductSlug": "ironclads-american-civil-war-9a18b0",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-05T04:00:00+00:00",
     "PcReleaseDate": "2023-12-05T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T05:57:09.3094013+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:46.6055322+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:17.2150206+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:40.4154786+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:18:41.223944+00:00"
 }

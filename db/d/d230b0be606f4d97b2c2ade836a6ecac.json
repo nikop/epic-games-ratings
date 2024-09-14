@@ -2,10 +2,10 @@
   "ID": "d230b0be606f4d97b2c2ade836a6ecac",
   "Name": "BoltBreak 2 Prologue",
   "ProductSlug": "boltbreak-2-prologue-adab3f",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-23T03:30:00+00:00",
     "PcReleaseDate": "2024-03-01T07:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-25T16:58:49.4272408+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:17.3392326+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:32.5661723+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:03.4743064+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:36.5962988+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:16.2732699+00:00"
 }

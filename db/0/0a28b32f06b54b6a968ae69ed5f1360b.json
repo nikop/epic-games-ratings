@@ -2,10 +2,10 @@
   "ID": "0a28b32f06b54b6a968ae69ed5f1360b",
   "Name": "Sim City 3000\u2122 Unlimited",
   "ProductSlug": "simcity-3000-unlimited-647ab3",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-11T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T06:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T23:57:00.7953442+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:25.6604114+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:03.1861581+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:00.4529304+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:19.4995193+00:00"
 }

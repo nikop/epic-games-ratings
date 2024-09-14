@@ -2,10 +2,10 @@
   "ID": "29f2565853204cf3ad9aa748f30a36d5",
   "Name": "Chains of War",
   "ProductSlug": "chains-of-war-bd5b0b",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T02:04:08.8486284+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:04.1672481+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:19.3105727+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:24.2922621+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:29.7846082+00:00"
 }

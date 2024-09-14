@@ -2,10 +2,10 @@
   "ID": "76e9bc3f4ccd4061b471ee52735daf45",
   "Name": "Entomophobia",
   "ProductSlug": "entomophobia-5e766c",
-  "Ranking_EOS_Progress": 866,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 892,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
     "PcReleaseDate": "2022-04-16T17:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -75,6 +75,11 @@
       "Time": "2024-08-09T18:02:20.8772392+00:00",
       "NumProgressed": 21,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:30.9972726+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-02T04:08:27.0225922+00:00",
@@ -101,9 +106,9 @@
       "ID": "DIE_1",
       "SetID": "73fploh",
       "Name": "Congrats, you failed :)",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DIE_10",
@@ -125,9 +130,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "73fploh",
       "Name": "Might",
-      "Percentage": 105,
+      "Percentage": 104,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "FIRST_UPGRADE",
@@ -173,9 +178,9 @@
       "ID": "PRESS_ESCAPE",
       "SetID": "73fploh",
       "Name": "Take a Breather",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "PRESS_SPACE",
@@ -198,14 +203,14 @@
     {
       "ID": "73fploh",
       "IsBase": true,
-      "Progressed": 21,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-01T21:58:52.843175+00:00",
   "FirstSeenAchievements": "2023-10-12T05:03:22.9962515+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:20.8772385+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:30.9972721+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:29.5857745+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:22.80719+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:20.877249+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:29.0684684+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:30.9972821+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e785c43b142546029dc0a3220ccb5ac4",
   "Name": "The Lone Blade",
   "ProductSlug": "the-lone-blade-7bfcdd",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-08T13:00:00+00:00",
     "PcReleaseDate": "2023-05-23T13:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T20:57:18.1187451+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:39.7088143+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:33.0505367+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:41.7074886+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:41.0611253+00:00"
 }

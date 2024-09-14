@@ -2,10 +2,10 @@
   "ID": "c466c310959a47d9a3d59acdd77a0caa",
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
-  "Ranking_EOS_Progress": 641,
-  "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 667,
+  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 127,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -729,9 +729,9 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
@@ -744,8 +744,8 @@
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:06:59.645723+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:59.0067956+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:57.1336148+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:58.2429019+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:59.6457385+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:35.9944277+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:59.0068098+00:00"
 }

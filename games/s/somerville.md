@@ -1,24 +1,24 @@
 # Somerville
 [Store](https://store.epicgames.com/en-US/p/somerville-229529)  
 [View Rawdata](../../db/s/somerville.json)  
-Rating: 4.24 (Ranked 1,075)  
+Rating: 4.24 (Ranked 1,074)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| “Occupied!“ | 7.00% | ~125 |
 | Worlds best dad | 7.00% | ~125 |
-| “Occupied!“ | 6.00% | ~107 |
-| Resignation Reprise | 4.00% | ~71 |
-| War of the worlds | 3.00% | ~53 |
-| Admiring the view | 3.00% | ~53 |
+| Resignation Reprise | 4.00% | ~72 |
+| War of the worlds | 3.00% | ~54 |
+| Admiring the view | 3.00% | ~54 |
 | Resignation | 2.00% | ~36 |
 | Blues Jam | 1.00% | ~18 |
 | Family First | 1.00% | ~18 |
+| “Here boy…“ | 1.00% | ~18 |
 | Understanding | 1.00% | ~18 |
-| “Here boy…“ | 0.80% | ~14 |
 | First contact | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,780 (Ranked 366)  
-Completed: 34 (1.91%) (Ranked 204)  
+Progressed: 1,789 (Ranked 382)  
+Completed: 34 (1.90%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,6 +152,7 @@ Completed: 34 (1.91%) (Ranked 204)
 | 2024-06-17 | 1,755 | 33 |
 | 2024-08-09 | 1,777 | 34 |
 | 2024-08-20 | 1,780 | 34 |
+| 2024-09-14 | 1,789 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

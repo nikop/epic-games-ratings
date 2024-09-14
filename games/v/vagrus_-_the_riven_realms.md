@@ -4,53 +4,54 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 59.00% | ~231 |
-| Press-ganged | 45.00% | ~176 |
-| The Package | 27.00% | ~106 |
-| Randomized | 20.00% | ~78 |
-| Conquered | 20.00% | ~78 |
-| Scribe | 12.00% | ~47 |
-| Breached | 12.00% | ~47 |
-| Conciliator | 11.00% | ~43 |
-| Tactician | 11.00% | ~43 |
-| Fight Another Day | 11.00% | ~43 |
-| Taskmaster | 10.00% | ~39 |
-| Acquaintance | 9.00% | ~35 |
-| Scholar | 8.00% | ~31 |
-| The More the Merrier | 8.00% | ~31 |
-| Tail-wind | 8.00% | ~31 |
-| Deputized | 7.00% | ~27 |
-| Harbinger | 7.00% | ~27 |
-| Courier | 7.00% | ~27 |
-| Merchant | 7.00% | ~27 |
-| Quartermaster | 6.00% | ~23 |
-| Strategist | 6.00% | ~23 |
-| Pilgrimage's End | 6.00% | ~23 |
-| Trouble at Fort Larius | 6.00% | ~23 |
+| A Second Chance | 59.00% | ~234 |
+| Press-ganged | 45.00% | ~179 |
+| The Package | 27.00% | ~107 |
+| Conquered | 21.00% | ~83 |
+| Randomized | 20.00% | ~79 |
+| Scribe | 13.00% | ~52 |
+| Breached | 13.00% | ~52 |
+| Conciliator | 12.00% | ~48 |
+| Tactician | 11.00% | ~44 |
+| Fight Another Day | 11.00% | ~44 |
+| Taskmaster | 11.00% | ~44 |
+| Acquaintance | 9.00% | ~36 |
+| Scholar | 8.00% | ~32 |
+| The More the Merrier | 8.00% | ~32 |
+| Harbinger | 8.00% | ~32 |
+| Tail-wind | 8.00% | ~32 |
+| Merchant | 8.00% | ~32 |
+| Strategist | 7.00% | ~28 |
+| Deputized | 7.00% | ~28 |
+| Courier | 7.00% | ~28 |
+| Quartermaster | 6.00% | ~24 |
+| Pilgrimage's End | 6.00% | ~24 |
+| Trouble at Fort Larius | 6.00% | ~24 |
 | Potential Unlocked | 5.00% | ~20 |
 | Been There | 5.00% | ~20 |
 | A Terrible Will | 5.00% | ~20 |
 | Spiritual Journey | 5.00% | ~20 |
+| Inquisitions of Discord | 5.00% | ~20 |
 | Supercargo | 4.00% | ~16 |
 | Xevarian Gambit | 4.00% | ~16 |
 | The Voice of Hereafter | 4.00% | ~16 |
 | Despised | 4.00% | ~16 |
-| Inquisitions of Discord | 4.00% | ~16 |
+| Merchant Lord | 4.00% | ~16 |
 | Unseen Patterns | 4.00% | ~16 |
 | Insectoid Propagator | 4.00% | ~16 |
+| Bounty Hunter | 3.00% | ~12 |
 | Huntress Unbound | 3.00% | ~12 |
 | Business As Usual | 3.00% | ~12 |
 | Legacy of a Mercenary | 3.00% | ~12 |
 | Delayed | 3.00% | ~12 |
 | A Real Battle | 3.00% | ~12 |
 | Life... Finds a Way | 3.00% | ~12 |
-| Merchant Lord | 3.00% | ~12 |
 | Making Contact | 2.00% | ~8 |
-| Bounty Hunter | 2.00% | ~8 |
 | Watcher | 2.00% | ~8 |
 | Loremaster | 2.00% | ~8 |
 | Talent Nurtured | 2.00% | ~8 |
 | Trailblazer | 2.00% | ~8 |
+| Loader | 2.00% | ~8 |
 | What Lies Below | 2.00% | ~8 |
 | The Last Voyage | 2.00% | ~8 |
 | Theory to Practice | 2.00% | ~8 |
@@ -60,14 +61,13 @@
 | Adept | 1.00% | ~4 |
 | Ever After | 1.00% | ~4 |
 | Forged in Battle | 1.00% | ~4 |
-| Loader | 1.00% | ~4 |
 | Moving At Odd Angles | 1.00% | ~4 |
+| Escort | 1.00% | ~4 |
 | Despoiler | 1.00% | ~4 |
 | The Darkness Within | 1.00% | ~4 |
 | Executor | 0.80% | ~3 |
 | Embellished | 0.80% | ~3 |
 | Manticore | 0.80% | ~3 |
-| Escort | 0.80% | ~3 |
 | Carpenter | 0.50% | ~2 |
 | General | 0.50% | ~2 |
 | Company of Heroes | 0.50% | ~2 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 506)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 397 (Ranked 516)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -232,6 +232,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 383 | 0 |
 | 2024-07-25 | 388 | 0 |
 | 2024-08-09 | 391 | 0 |
+| 2024-09-14 | 397 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

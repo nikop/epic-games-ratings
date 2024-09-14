@@ -5,49 +5,49 @@ Rating: 4.21 (Ranked 1,101)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 11.00% | ~44,737 |
-| May the Torchbearer light our way | 10.00% | ~40,670 |
-| A powerful aura was here | 7.00% | ~28,469 |
-| Let's raise the stakes!! | 4.00% | ~16,268 |
-| Your wounds… They are healing so fast! | 3.00% | ~12,201 |
-| Rumors are true | 2.00% | ~8,134 |
-| We'll be careful | 2.00% | ~8,134 |
-| Back to your senses | 2.00% | ~8,134 |
-| Pride is a sin, young Knight | 2.00% | ~8,134 |
-| Bring it on! | 2.00% | ~8,134 |
-| They tricked me | 1.00% | ~4,067 |
-| We need to talk | 1.00% | ~4,067 |
-| I feel drawn to it | 1.00% | ~4,067 |
-| Here to stay | 1.00% | ~4,067 |
-| Counting on you | 1.00% | ~4,067 |
-| This is the end | 1.00% | ~4,067 |
-| We can choose to fight | 1.00% | ~4,067 |
-| They won't last long | 1.00% | ~4,067 |
-| I took a risk | 1.00% | ~4,067 |
-| Their fate is sealed | 0.70% | ~2,847 |
-| Not even from this world | 0.60% | ~2,440 |
-| No damsels in distress | 0.30% | ~1,220 |
-| You want more? I've got more! | 0.30% | ~1,220 |
-| Chaos be damned! | 0.30% | ~1,220 |
-| The Ashen Knight | 0.20% | ~813 |
-| The Shade | 0.20% | ~813 |
-| Through the Veil | 0.20% | ~813 |
-| The immortal is bound to reborn | 0.10% | ~407 |
-| A legend among Chimeras | 0.10% | ~407 |
-| It's only pain | 0.10% | ~407 |
-| I know how to handle it | 0.10% | ~407 |
-| Settle this once and for all | 0.10% | ~407 |
-| Call this the Judge's mercy | 0.10% | ~407 |
-| There's too many of them! | 0.10% | ~407 |
-| I've been waiting for this! | 0.10% | ~407 |
-| I'm just warming up | 0.10% | ~407 |
-| We learned it the hard way | 0.10% | ~407 |
-| They wanted yet another monster… | 0.10% | ~407 |
-| Something... unnatural | 0.10% | ~407 |
-| We strike as one | 0.10% | ~407 |
+| May the Torchbearer light our way | 11.00% | ~45,441 |
+| The touch of Chaos | 11.00% | ~45,441 |
+| A powerful aura was here | 8.00% | ~33,048 |
+| Let's raise the stakes!! | 4.00% | ~16,524 |
+| Your wounds… They are healing so fast! | 3.00% | ~12,393 |
+| Rumors are true | 2.00% | ~8,262 |
+| We'll be careful | 2.00% | ~8,262 |
+| Back to your senses | 2.00% | ~8,262 |
+| They won't last long | 2.00% | ~8,262 |
+| Pride is a sin, young Knight | 2.00% | ~8,262 |
+| Bring it on! | 2.00% | ~8,262 |
+| They tricked me | 1.00% | ~4,131 |
+| We need to talk | 1.00% | ~4,131 |
+| I feel drawn to it | 1.00% | ~4,131 |
+| Here to stay | 1.00% | ~4,131 |
+| Counting on you | 1.00% | ~4,131 |
+| This is the end | 1.00% | ~4,131 |
+| We can choose to fight | 1.00% | ~4,131 |
+| I took a risk | 1.00% | ~4,131 |
+| Their fate is sealed | 0.80% | ~3,305 |
+| Not even from this world | 0.60% | ~2,479 |
+| No damsels in distress | 0.30% | ~1,239 |
+| You want more? I've got more! | 0.30% | ~1,239 |
+| Chaos be damned! | 0.30% | ~1,239 |
+| The Ashen Knight | 0.20% | ~826 |
+| The Shade | 0.20% | ~826 |
+| Through the Veil | 0.20% | ~826 |
+| The immortal is bound to reborn | 0.10% | ~413 |
+| A legend among Chimeras | 0.10% | ~413 |
+| It's only pain | 0.10% | ~413 |
+| I know how to handle it | 0.10% | ~413 |
+| Settle this once and for all | 0.10% | ~413 |
+| Call this the Judge's mercy | 0.10% | ~413 |
+| There's too many of them! | 0.10% | ~413 |
+| I've been waiting for this! | 0.10% | ~413 |
+| I'm just warming up | 0.10% | ~413 |
+| We learned it the hard way | 0.10% | ~413 |
+| They wanted yet another monster… | 0.10% | ~413 |
+| Something... unnatural | 0.10% | ~413 |
+| We strike as one | 0.10% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,701 (Ranked 68)  
-Completed: 16 (0.00%) (Ranked 561)  
+Progressed: 413,101 (Ranked 72)  
+Completed: 17 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -179,6 +179,7 @@ Completed: 16 (0.00%) (Ranked 561)
 | 2024-06-17 | 385,304 | 13 |
 | 2024-08-09 | 403,609 | 16 |
 | 2024-08-20 | 406,701 | 16 |
+| 2024-09-14 | 413,101 | 17 |
 ## Awards
 Max (Great Boss Battles): 123  (Ranked 442)  
 Sum: 123 (Ranked 561)  

@@ -5,37 +5,37 @@ Rating: 4.37 (Ranked 933)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 87.00% | ~514 |
-| Luc Piette | 74.00% | ~437 |
-| Angeline Van den Bosch | 72.00% | ~426 |
-| Elizabeth Padget | 69.00% | ~408 |
-| Little Grey Cells | 68.00% | ~402 |
-| The Bracelet | 65.00% | ~384 |
-| Florette Duval | 54.00% | ~319 |
-| Fine-toothed Comb | 53.00% | ~313 |
-| The Blackmail | 53.00% | ~313 |
-| Major Felix Hagen | 53.00% | ~313 |
-| Order and Method | 51.00% | ~301 |
-| The Altercation | 48.00% | ~284 |
-| Truth from Within | 47.00% | ~278 |
-| The Major | 46.00% | ~272 |
-| Comtesse Margaux de Vos | 44.00% | ~260 |
-| Curious and Beautiful | 43.00% | ~254 |
-| Jacqueline “Jackie” Conrad | 43.00% | ~254 |
-| The Interrogations | 43.00% | ~254 |
-| Well-acquainted | 41.00% | ~242 |
-| Zakariya Demir | 41.00% | ~242 |
-| Well-read | 39.00% | ~230 |
+| It Wasn’t a Burglary | 87.00% | ~516 |
+| Luc Piette | 73.00% | ~433 |
+| Angeline Van den Bosch | 72.00% | ~427 |
+| Elizabeth Padget | 69.00% | ~409 |
+| Little Grey Cells | 68.00% | ~403 |
+| The Bracelet | 65.00% | ~385 |
+| Florette Duval | 54.00% | ~320 |
+| Fine-toothed Comb | 53.00% | ~314 |
+| The Blackmail | 53.00% | ~314 |
+| Major Felix Hagen | 53.00% | ~314 |
+| Order and Method | 51.00% | ~302 |
+| The Altercation | 48.00% | ~285 |
+| Truth from Within | 47.00% | ~279 |
+| The Major | 46.00% | ~273 |
+| Curious and Beautiful | 44.00% | ~261 |
+| Comtesse Margaux de Vos | 44.00% | ~261 |
+| Jacqueline “Jackie” Conrad | 43.00% | ~255 |
+| The Interrogations | 43.00% | ~255 |
+| Well-acquainted | 41.00% | ~243 |
+| Zakariya Demir | 41.00% | ~243 |
+| Well-read | 39.00% | ~231 |
 | Cassandra Van den Bosch | 38.00% | ~225 |
-| The Secret | 37.00% | ~219 |
+| The Secret | 38.00% | ~225 |
 | Gedeon Demir | 36.00% | ~213 |
-| Rehana Piette | 35.00% | ~207 |
-| Instinct is Marvellous | 33.00% | ~195 |
-| Ernesto da Silva | 33.00% | ~195 |
-| Inge Frank | 32.00% | ~189 |
-| The Search | 31.00% | ~183 |
-| Hugo Beckers | 30.00% | ~177 |
-| The Family | 28.00% | ~165 |
+| Rehana Piette | 35.00% | ~208 |
+| Instinct is Marvellous | 33.00% | ~196 |
+| Ernesto da Silva | 33.00% | ~196 |
+| Inge Frank | 32.00% | ~190 |
+| The Search | 31.00% | ~184 |
+| Hugo Beckers | 30.00% | ~178 |
+| The Family | 28.00% | ~166 |
 | Well-travelled | 27.00% | ~160 |
 | Thinking of Everything | 27.00% | ~160 |
 | Archibald Sterling | 26.00% | ~154 |
@@ -43,17 +43,17 @@ Rating: 4.37 (Ranked 933)
 | Exquisite Artwork | 25.00% | ~148 |
 | Well-prepared | 22.00% | ~130 |
 | The Truth | 22.00% | ~130 |
-| What Else Did I Miss? | 19.00% | ~112 |
-| I Like an Audience | 19.00% | ~112 |
-| The Denouement | 18.00% | ~106 |
-| Sunken Secrets | 18.00% | ~106 |
+| I Like an Audience | 20.00% | ~119 |
+| What Else Did I Miss? | 19.00% | ~113 |
+| The Denouement | 18.00% | ~107 |
+| Sunken Secrets | 18.00% | ~107 |
 | Probably the Greatest Detective in the World | 12.00% | ~71 |
 | Take a Break | 11.00% | ~65 |
 | Room with a View | 8.00% | ~47 |
 | Work-life Balance | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591 (Ranked 452)  
-Completed: 8 (1.35%) (Ranked 230)  
+Progressed: 593 (Ranked 468)  
+Completed: 8 (1.35%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -174,6 +174,7 @@ Completed: 8 (1.35%) (Ranked 230)
 | 2024-07-09 | 578 | 8 |
 | 2024-08-09 | 583 | 8 |
 | 2024-08-20 | 591 | 8 |
+| 2024-09-14 | 593 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

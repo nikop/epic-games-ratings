@@ -5,29 +5,29 @@ Rating: 4.41 (Ranked 870)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 74.00% | ~2,428 |
-| Highballer | 71.00% | ~2,330 |
-| Dirty Roller | 40.00% | ~1,312 |
-| Regional Juniors Champion | 36.00% | ~1,181 |
-| Look Mom, I Can Fly | 32.00% | ~1,050 |
-| Wheeler Dealer | 30.00% | ~984 |
-| National Amateurs Champion | 21.00% | ~689 |
-| Hating Them Tin Cans | 21.00% | ~689 |
-| Junk Collector | 19.00% | ~623 |
-| Trashing Around | 17.00% | ~558 |
-| Challengers Champion | 13.00% | ~427 |
-| Cash For Crashes | 12.00% | ~394 |
-| Pro Internationals Champion | 9.00% | ~295 |
-| World Masters Champion | 4.00% | ~131 |
-| Maniac Driver | 4.00% | ~131 |
-| Showing Some Dedication | 3.00% | ~98 |
-| Glutton For Punishment | 1.00% | ~33 |
-| Garden Variety | 1.00% | ~33 |
-| Human Lover | 0.90% | ~30 |
-| Rocketeer | 0.60% | ~20 |
+| Highballer | 74.00% | ~2,708 |
+| Storm Warning | 74.00% | ~2,708 |
+| Dirty Roller | 39.00% | ~1,427 |
+| Regional Juniors Champion | 36.00% | ~1,318 |
+| Look Mom, I Can Fly | 31.00% | ~1,135 |
+| Wheeler Dealer | 30.00% | ~1,098 |
+| National Amateurs Champion | 21.00% | ~769 |
+| Hating Them Tin Cans | 20.00% | ~732 |
+| Junk Collector | 19.00% | ~695 |
+| Trashing Around | 17.00% | ~622 |
+| Challengers Champion | 13.00% | ~476 |
+| Cash For Crashes | 11.00% | ~403 |
+| Pro Internationals Champion | 8.00% | ~293 |
+| World Masters Champion | 4.00% | ~146 |
+| Showing Some Dedication | 3.00% | ~110 |
+| Maniac Driver | 3.00% | ~110 |
+| Glutton For Punishment | 1.00% | ~37 |
+| Garden Variety | 1.00% | ~37 |
+| Human Lover | 0.90% | ~33 |
+| Rocketeer | 0.60% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,281 (Ranked 314)  
-Completed: 2 (0.06%) (Ranked 463)  
+Progressed: 3,660 (Ranked 318)  
+Completed: 2 (0.05%) (Ranked 497)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -78,6 +78,7 @@ Completed: 2 (0.06%) (Ranked 463)
 | 2024-06-17 | 2,834 | 2 |
 | 2024-08-09 | 3,234 | 2 |
 | 2024-08-20 | 3,281 | 2 |
+| 2024-09-14 | 3,660 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

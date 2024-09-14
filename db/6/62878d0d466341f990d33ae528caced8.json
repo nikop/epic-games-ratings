@@ -2,10 +2,10 @@
   "ID": "62878d0d466341f990d33ae528caced8",
   "Name": "Tavern Manager Simulator",
   "ProductSlug": "tavern-manager-simulator-0803bf",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-08-13T17:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T18:57:11.7653652+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:40.9086733+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:11.5979743+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:10.3113377+00:00"
 }

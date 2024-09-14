@@ -2,10 +2,10 @@
   "ID": "173d783680df4fba92423e189f6df67d",
   "Name": "Kids Learn",
   "ProductSlug": "kids-learn-e4a163",
-  "Ranking_EOS_Progress": 861,
+  "Ranking_EOS_Progress": 901,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
     "PcReleaseDate": "2016-03-30T18:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 13.04,
+  "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
     {
       "Time": "2023-11-28T18:03:15.3881622+00:00",
@@ -104,6 +104,11 @@
       "Time": "2024-08-20T20:08:42.2516619+00:00",
       "NumProgressed": 23,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:21:37.8987496+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-28T18:03:15.3892997+00:00",
@@ -155,14 +160,14 @@
     {
       "ID": "68ndjm7",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-06-25T17:58:02.1048368+00:00",
   "FirstSeenAchievements": "2023-11-28T18:03:15.3892997+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:42.2516614+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:37.8987489+00:00",
   "LastUpdate_AppInfo": "2024-09-11T18:57:17.8730884+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:43.5922239+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:42.2516737+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:22.9985291+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:37.8987562+00:00"
 }

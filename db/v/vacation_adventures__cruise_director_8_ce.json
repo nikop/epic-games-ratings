@@ -2,10 +2,10 @@
   "ID": "7b3415764ddf4473a626e615cfe15477",
   "Name": "Vacation Adventures: Cruise Director 8 CE",
   "ProductSlug": "vacation-adventures-cruise-director-8-collectors-edition-36dee5",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-12T06:00:00+00:00",
     "PcReleaseDate": "2023-05-12T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-03T13:57:23.9685876+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:57:04.8230619+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:17.2580761+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:25.9113945+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:56.9564016+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:48.0281924+00:00"
 }

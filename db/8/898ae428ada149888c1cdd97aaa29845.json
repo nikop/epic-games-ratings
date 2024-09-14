@@ -2,10 +2,10 @@
   "ID": "898ae428ada149888c1cdd97aaa29845",
   "Name": "Rogue Waters",
   "ProductSlug": "rogue-waters-9764d6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T04:00:00+00:00",
     "PcReleaseDate": "2024-09-30T04:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "pnik57",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:06.553232+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:06.5532271+00:00",
   "LastUpdate_AppInfo": "2024-09-12T02:04:10.604093+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:18.3681932+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:59.8679313+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:06.5532335+00:00"
 }

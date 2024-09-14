@@ -2,10 +2,10 @@
   "ID": "d1a966320cca4315888baf5acd3ab932",
   "Name": "Dead By Murder",
   "ProductSlug": "dead-by-murder-190eab",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-31T04:00:00+00:00",
     "PcReleaseDate": "2023-10-31T04:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-14T13:09:32.9784057+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:12.897305+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:57:58.0751211+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:49.8008831+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:10.7126251+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:04.8525318+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "b9e6e3d5a4474a8ead248c62bfdf08b7",
   "Name": "Witch It",
   "ProductSlug": "witch-it-3624a9",
-  "Ranking_EOS_Progress": 446,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-26T16:00:00+00:00",
     "PcReleaseDate": "2020-10-22T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2024-08-20T20:13:57.0907626+00:00",
       "NumProgressed": 625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:28:02.4637463+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-04-10T06:01:56.8110184+00:00",
@@ -80,7 +85,7 @@
       "ID": "AchCannonball",
       "SetID": "akkdgk3",
       "Name": "Why are you running?!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -88,9 +93,9 @@
       "ID": "AchCatchFly",
       "SetID": "akkdgk3",
       "Name": "I believe I can fly",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 14
     },
     {
       "ID": "AchFruitSalad",
@@ -104,49 +109,49 @@
       "ID": "AchLastWitch",
       "SetID": "akkdgk3",
       "Name": "Last Witch Standing",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "AchLevel002",
       "SetID": "akkdgk3",
       "Name": "Level 2",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 176
     },
     {
       "ID": "AchLevel005",
       "SetID": "akkdgk3",
       "Name": "Level 5",
-      "Percentage": 15,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 142
     },
     {
       "ID": "AchLevel010",
       "SetID": "akkdgk3",
       "Name": "Level 10",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 47
     },
     {
       "ID": "AchLevel020",
       "SetID": "akkdgk3",
       "Name": "Level 20",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "AchLevel030",
       "SetID": "akkdgk3",
       "Name": "Level 30",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "AchLevel040",
@@ -168,7 +173,7 @@
       "ID": "AchLevel060",
       "SetID": "akkdgk3",
       "Name": "Level 60",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -176,7 +181,7 @@
       "ID": "AchLevel070",
       "SetID": "akkdgk3",
       "Name": "Level 70",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -184,7 +189,7 @@
       "ID": "AchLevel080",
       "SetID": "akkdgk3",
       "Name": "Level 80",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -232,7 +237,7 @@
       "ID": "AchNativeWitch",
       "SetID": "akkdgk3",
       "Name": "One with the wall",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -240,17 +245,17 @@
       "ID": "AchOnlyOne",
       "SetID": "akkdgk3",
       "Name": "I\u0027m not lazy!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "AchPCCollected01",
       "SetID": "akkdgk3",
       "Name": "Stockpiler",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 74
     },
     {
       "ID": "AchPCCollected02",
@@ -258,21 +263,21 @@
       "Name": "It\u0027s getting more and more",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "AchPCCollected03",
       "SetID": "akkdgk3",
       "Name": "Gotta collect \u0027em all!",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "AchPCCollected04",
       "SetID": "akkdgk3",
       "Name": "This is getting out of hand",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -296,7 +301,7 @@
       "ID": "AchPCCollected07",
       "SetID": "akkdgk3",
       "Name": "\u0027I can see nothing but props.\u0027",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -304,7 +309,7 @@
       "ID": "AchPCCollected08",
       "SetID": "akkdgk3",
       "Name": "Chained to an obsession",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -312,7 +317,7 @@
       "ID": "AchPCSecretCollected01",
       "SetID": "akkdgk3",
       "Name": "Drag them to the witch realm!",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -320,7 +325,7 @@
       "ID": "AchPCSecretCollected02",
       "SetID": "akkdgk3",
       "Name": "Crazy Collector",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -376,7 +381,7 @@
       "ID": "AchTourist",
       "SetID": "akkdgk3",
       "Name": "Tourist",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -393,14 +398,14 @@
     {
       "ID": "akkdgk3",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 675,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-29T16:59:38.0487457+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:56.8110183+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:57.0907621+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:28:02.4637457+00:00",
   "LastUpdate_AppInfo": "2024-09-11T08:57:05.9161687+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:41.2919723+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:57.0907855+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:32.0552336+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:02.4637733+00:00"
 }

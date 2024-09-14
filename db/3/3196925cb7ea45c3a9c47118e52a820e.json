@@ -4,11 +4,11 @@
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
   "Ranking_Rating": 1113,
   "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 493,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_PopularitySum": 476,
+  "Ranking_EOS_Progress": 30,
+  "Ranking_EOS_Completed": 559,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-05T15:00:00+00:00",
     "PcReleaseDate": "2024-09-05T15:00:00+00:00",
@@ -240,10 +240,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 251,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-09-14T14:13:27.8372263+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 283,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 251,
+  "NumberOfAwards": 283,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -263,7 +269,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 50
+      "Count": 64
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -275,7 +281,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -290,19 +296,357 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 765960,
+  "EOS_Completed": 59,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 0.01,
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:09.4518833+00:00",
+      "NumProgressed": 765960,
+      "NumCompleted": 59
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:09.4518896+00:00",
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "d4255l6",
+      "Name": "Snowstorm",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 122554
+    },
+    {
+      "ID": "10",
+      "SetID": "d4255l6",
+      "Name": "Warlord",
+      "Percentage": 0.1,
+      "XP": 25,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "11",
+      "SetID": "d4255l6",
+      "Name": "Initiation",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 122554
+    },
+    {
+      "ID": "12",
+      "SetID": "d4255l6",
+      "Name": "Growth",
+      "Percentage": 3,
+      "XP": 25,
+      "UsersEstimate": 22979
+    },
+    {
+      "ID": "13",
+      "SetID": "d4255l6",
+      "Name": "Evolution",
+      "Percentage": 0.6,
+      "XP": 30,
+      "UsersEstimate": 4596
+    },
+    {
+      "ID": "14",
+      "SetID": "d4255l6",
+      "Name": "Deadeye",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 3830
+    },
+    {
+      "ID": "15",
+      "SetID": "d4255l6",
+      "Name": "Gunslinger",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 3830
+    },
+    {
+      "ID": "16",
+      "SetID": "d4255l6",
+      "Name": "Jack of all Trades",
+      "Percentage": 0.3,
+      "XP": 25,
+      "UsersEstimate": 2298
+    },
+    {
+      "ID": "17",
+      "SetID": "d4255l6",
+      "Name": "Private Contractor",
+      "Percentage": 55,
+      "XP": 15,
+      "UsersEstimate": 421278
+    },
+    {
+      "ID": "18",
+      "SetID": "d4255l6",
+      "Name": "Military Contractor",
+      "Percentage": 5,
+      "XP": 15,
+      "UsersEstimate": 38298
+    },
+    {
+      "ID": "19",
+      "SetID": "d4255l6",
+      "Name": "SpecOps Contractor",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 7660
+    },
+    {
+      "ID": "2",
+      "SetID": "d4255l6",
+      "Name": "Black Gold",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 61277
+    },
+    {
+      "ID": "20",
+      "SetID": "d4255l6",
+      "Name": "Trial by Ice",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 252767
+    },
+    {
+      "ID": "21",
+      "SetID": "d4255l6",
+      "Name": "Trial by Fire",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 1532
+    },
+    {
+      "ID": "22",
+      "SetID": "d4255l6",
+      "Name": "Trial by Blood",
+      "Percentage": 0.1,
+      "XP": 90,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "23",
+      "SetID": "d4255l6",
+      "Name": "Mercenary",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 168511
+    },
+    {
+      "ID": "24",
+      "SetID": "d4255l6",
+      "Name": "Headhunter",
+      "Percentage": 0.9,
+      "XP": 15,
+      "UsersEstimate": 6894
+    },
+    {
+      "ID": "25",
+      "SetID": "d4255l6",
+      "Name": "Assassin",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "26",
+      "SetID": "d4255l6",
+      "Name": "Navigator",
+      "Percentage": 2,
+      "XP": 90,
+      "UsersEstimate": 15319
+    },
+    {
+      "ID": "27",
+      "SetID": "d4255l6",
+      "Name": "The Little Picture",
+      "Percentage": 25,
+      "XP": 15,
+      "UsersEstimate": 191490
+    },
+    {
+      "ID": "28",
+      "SetID": "d4255l6",
+      "Name": "The Bigger Picture",
+      "Percentage": 6,
+      "XP": 15,
+      "UsersEstimate": 45958
+    },
+    {
+      "ID": "29",
+      "SetID": "d4255l6",
+      "Name": "The Whole Picture",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 15319
+    },
+    {
+      "ID": "3",
+      "SetID": "d4255l6",
+      "Name": "Cosa Nostra",
+      "Percentage": 4,
+      "XP": 15,
+      "UsersEstimate": 30638
+    },
+    {
+      "ID": "30",
+      "SetID": "d4255l6",
+      "Name": "Virtuoso",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "31",
+      "SetID": "d4255l6",
+      "Name": "Efficient",
+      "Percentage": 0.3,
+      "XP": 15,
+      "UsersEstimate": 2298
+    },
+    {
+      "ID": "32",
+      "SetID": "d4255l6",
+      "Name": "Sniper",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 7660
+    },
+    {
+      "ID": "33",
+      "SetID": "d4255l6",
+      "Name": "One-man Army",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 130213
+    },
+    {
+      "ID": "34",
+      "SetID": "d4255l6",
+      "Name": "Freerunner",
+      "Percentage": 0.1,
+      "XP": 15,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "35",
+      "SetID": "d4255l6",
+      "Name": "Interrogator",
+      "Percentage": 12,
+      "XP": 15,
+      "UsersEstimate": 91915
+    },
+    {
+      "ID": "36",
+      "SetID": "d4255l6",
+      "Name": "Gunny",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 1532
+    },
+    {
+      "ID": "37",
+      "SetID": "d4255l6",
+      "Name": "Sapper",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "38",
+      "SetID": "d4255l6",
+      "Name": "Hawk",
+      "Percentage": 0.2,
+      "XP": 30,
+      "UsersEstimate": 1532
+    },
+    {
+      "ID": "39",
+      "SetID": "d4255l6",
+      "Name": "Hitman",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "4",
+      "SetID": "d4255l6",
+      "Name": "Exitus Acta Probat",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 15319
+    },
+    {
+      "ID": "40",
+      "SetID": "d4255l6",
+      "Name": "Shade",
+      "Percentage": 0.1,
+      "XP": 30,
+      "UsersEstimate": 766
+    },
+    {
+      "ID": "5",
+      "SetID": "d4255l6",
+      "Name": "Final Countdown",
+      "Percentage": 1,
+      "XP": 15,
+      "UsersEstimate": 7660
+    },
+    {
+      "ID": "6",
+      "SetID": "d4255l6",
+      "Name": "Frost Wolf",
+      "Percentage": 1,
+      "XP": 25,
+      "UsersEstimate": 7660
+    },
+    {
+      "ID": "7",
+      "SetID": "d4255l6",
+      "Name": "Debt Collector",
+      "Percentage": 0.7,
+      "XP": 25,
+      "UsersEstimate": 5362
+    },
+    {
+      "ID": "8",
+      "SetID": "d4255l6",
+      "Name": "Executioner",
+      "Percentage": 0.4,
+      "XP": 25,
+      "UsersEstimate": 3064
+    },
+    {
+      "ID": "9",
+      "SetID": "d4255l6",
+      "Name": "Doppelganger",
+      "Percentage": 0.2,
+      "XP": 25,
+      "UsersEstimate": 1532
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "d4255l6",
+      "IsBase": true,
+      "Progressed": 765960,
+      "Completed": 59
+    }
+  ],
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
-  "LastChanged": "2024-09-14T07:58:50.6424011+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:15:09.4518896+00:00",
+  "LastChanged": "2024-09-14T14:13:27.8372261+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:09.451883+00:00",
   "LastUpdate_AppInfo": "2024-09-12T16:57:18.1894284+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:26.3467782+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:27.8372266+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:09.4527531+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a78848dfcbb046deadbc956260fd9123",
   "Name": "CLeM",
   "ProductSlug": "clem-d637c0",
-  "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 869,
+  "Ranking_EOS_Completed": 176,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-06T16:00:00+00:00",
     "PcReleaseDate": "2024-02-06T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
+  "EOS_Progressed": 30,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.45,
+  "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:07:42.2304706+00:00",
@@ -49,6 +49,11 @@
       "Time": "2024-08-09T18:03:03.0059694+00:00",
       "NumProgressed": 29,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:16:20.0694393+00:00",
+      "NumProgressed": 30,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:42.2304733+00:00",
@@ -59,39 +64,39 @@
       "ID": "Achievement_01",
       "SetID": "d1c2329",
       "Name": "Beauty",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_02",
       "SetID": "d1c2329",
       "Name": "Determination",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_03",
       "SetID": "d1c2329",
       "Name": "Intelligence",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_04",
       "SetID": "d1c2329",
       "Name": "Strength",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_05",
       "SetID": "d1c2329",
       "Name": "Hope",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -99,23 +104,23 @@
       "ID": "Achievement_06",
       "SetID": "d1c2329",
       "Name": "In plain sight",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achievement_07",
       "SetID": "d1c2329",
       "Name": "Free entry",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_08",
       "SetID": "d1c2329",
       "Name": "No time to lose",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 25,
       "UsersEstimate": 17
     },
@@ -123,23 +128,23 @@
       "ID": "Achievement_09",
       "SetID": "d1c2329",
       "Name": "Bug tea",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_10",
       "SetID": "d1c2329",
       "Name": "Black and white",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_11",
       "SetID": "d1c2329",
       "Name": "37",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 75,
       "UsersEstimate": 8
     },
@@ -147,7 +152,7 @@
       "ID": "Achievement_12",
       "SetID": "d1c2329",
       "Name": "Forgiveness",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 200,
       "UsersEstimate": 10
     },
@@ -155,39 +160,39 @@
       "ID": "Achievement_13",
       "SetID": "d1c2329",
       "Name": "Voodoo",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement_14",
       "SetID": "d1c2329",
       "Name": "Awesome",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_15",
       "SetID": "d1c2329",
       "Name": "Sharp-eared",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_16",
       "SetID": "d1c2329",
       "Name": "Next stop",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_17",
       "SetID": "d1c2329",
       "Name": "Equivalent exchange",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 75,
       "UsersEstimate": 9
     },
@@ -195,7 +200,7 @@
       "ID": "Achievement_18",
       "SetID": "d1c2329",
       "Name": "Research project",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 75,
       "UsersEstimate": 7
     }
@@ -204,14 +209,14 @@
     {
       "ID": "d1c2329",
       "IsBase": true,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-02-12T23:57:15.5724448+00:00",
   "FirstSeenAchievements": "2024-01-22T11:04:20.1223043+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:03.0059689+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:20.0694382+00:00",
   "LastUpdate_AppInfo": "2024-09-10T08:58:13.4870888+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:47.1065389+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:03.0059813+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:58.9201576+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:20.0694589+00:00"
 }

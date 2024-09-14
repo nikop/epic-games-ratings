@@ -2,10 +2,10 @@
   "ID": "3dfc7c92bb4846b5bfbb0066ba5149e8",
   "Name": "Cafe Maid - Cute Anime Girls",
   "ProductSlug": "cafe-maid-cute-anime-girls-d75535",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T20:57:16.9404418+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:21.1768419+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:30.9476234+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:41.1421562+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:37.569866+00:00"
 }

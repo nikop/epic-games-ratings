@@ -5,54 +5,54 @@ Rating: 3.98 (Ranked 1,229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 11.00% | ~14,631 |
-| First One’s Free | 9.00% | ~11,971 |
-| Too Old for This | 9.00% | ~11,971 |
-| Fancy Pants | 8.00% | ~10,641 |
-| Downed but Not Outed | 7.00% | ~9,311 |
-| Underworld Initiate | 6.00% | ~7,981 |
-| Headhunter | 6.00% | ~7,981 |
-| Roid Ranger | 5.00% | ~6,651 |
-| Case Closed | 5.00% | ~6,651 |
-| Hidden Sonata | 4.00% | ~5,320 |
-| Foo Finder | 4.00% | ~5,320 |
-| King of the Hill | 4.00% | ~5,320 |
-| Off the Rocks | 4.00% | ~5,320 |
-| Raider’s Ruin | 4.00% | ~5,320 |
-| Dragonslayer | 4.00% | ~5,320 |
-| Track Star | 3.00% | ~3,990 |
-| Legend Looter | 3.00% | ~3,990 |
-| Rockay Rex | 3.00% | ~3,990 |
-| Imports and Exports | 2.00% | ~2,660 |
-| Savvy Seeker | 2.00% | ~2,660 |
-| I Like Trains | 2.00% | ~2,660 |
-| Freebooter | 2.00% | ~2,660 |
-| Groundhog Days | 2.00% | ~2,660 |
-| Classy Joint | 2.00% | ~2,660 |
-| True Player | 2.00% | ~2,660 |
-| All that Glitters | 2.00% | ~1,227 |
-| All for One | 2.00% | ~1,227 |
-| If I Die, Delete My History | 2.00% | ~1,227 |
-| Rockay Raider | 1.00% | ~1,330 |
-| Privateer | 1.00% | ~1,330 |
-| Moneybags | 1.00% | ~1,330 |
-| Ding Dong | 1.00% | ~1,330 |
-| Red Star | 1.00% | ~1,330 |
-| One for All | 1.00% | ~614 |
-| Now You See Me | 1.00% | ~614 |
-| Luddite | 1.00% | ~614 |
-| Paradise Lost | 1.00% | ~614 |
-| Injustice for All | 1.00% | ~614 |
-| Olympus Ascended | 0.90% | ~1,197 |
-| Impossible Dreamer | 0.90% | ~1,197 |
-| Cracked the Jack | 0.80% | ~1,064 |
-| Rockay Knight | 0.50% | ~665 |
-| Talent Scout | 0.50% | ~665 |
-| Geek Out | 0.40% | ~532 |
-| Full House | 0.20% | ~266 |
+| Neophyte Ninja | 12.00% | ~16,140 |
+| First One’s Free | 10.00% | ~13,450 |
+| Too Old for This | 9.00% | ~12,105 |
+| Downed but Not Outed | 8.00% | ~10,760 |
+| Fancy Pants | 8.00% | ~10,760 |
+| Headhunter | 7.00% | ~9,415 |
+| Underworld Initiate | 6.00% | ~8,070 |
+| Roid Ranger | 5.00% | ~6,725 |
+| Case Closed | 5.00% | ~6,725 |
+| Raider’s Ruin | 5.00% | ~6,725 |
+| Hidden Sonata | 4.00% | ~5,380 |
+| Foo Finder | 4.00% | ~5,380 |
+| King of the Hill | 4.00% | ~5,380 |
+| Off the Rocks | 4.00% | ~5,380 |
+| Dragonslayer | 4.00% | ~5,380 |
+| Track Star | 3.00% | ~4,035 |
+| Legend Looter | 3.00% | ~4,035 |
+| I Like Trains | 3.00% | ~4,035 |
+| True Player | 3.00% | ~4,035 |
+| Rockay Rex | 3.00% | ~4,035 |
+| Imports and Exports | 2.00% | ~2,690 |
+| Savvy Seeker | 2.00% | ~2,690 |
+| Freebooter | 2.00% | ~2,690 |
+| Groundhog Days | 2.00% | ~2,690 |
+| Classy Joint | 2.00% | ~2,690 |
+| All that Glitters | 2.00% | ~1,257 |
+| All for One | 2.00% | ~1,257 |
+| If I Die, Delete My History | 2.00% | ~1,257 |
+| Rockay Raider | 1.00% | ~1,345 |
+| Privateer | 1.00% | ~1,345 |
+| Moneybags | 1.00% | ~1,345 |
+| Olympus Ascended | 1.00% | ~1,345 |
+| Ding Dong | 1.00% | ~1,345 |
+| Red Star | 1.00% | ~1,345 |
+| Impossible Dreamer | 1.00% | ~1,345 |
+| One for All | 1.00% | ~628 |
+| Now You See Me | 1.00% | ~628 |
+| Luddite | 1.00% | ~628 |
+| Paradise Lost | 1.00% | ~628 |
+| Injustice for All | 1.00% | ~628 |
+| Cracked the Jack | 0.90% | ~1,211 |
+| Rockay Knight | 0.50% | ~673 |
+| Talent Scout | 0.50% | ~673 |
+| Geek Out | 0.40% | ~538 |
+| Full House | 0.30% | ~404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,011 (Ranked 117)  
-Completed: 92 (0.07%) (Ranked 457)  
+Progressed: 134,502 (Ranked 124)  
+Completed: 103 (0.08%) (Ranked 468)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,15 +340,16 @@ Completed: 92 (0.07%) (Ranked 457)
 | 2024-06-17 | 103,845 | 66 |
 | 2024-08-09 | 131,530 | 86 |
 | 2024-08-20 | 133,011 | 92 |
+| 2024-09-14 | 134,502 | 103 |
 ## Awards
 Max (Diverse Characters): 918  (Ranked 211)  
-Sum: 5,127 (Ranked 174)  
+Sum: 5,128 (Ranked 174)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 918 |
 | This game is Highly Recommended | 851 |
-| This game has Amazing Storytelling | 847 |
+| This game has Amazing Storytelling | 848 |
 | This game has Quickly Understood Controls | 846 |
 | This game has Amazing Characters | 838 |
 | This game is Extremely Fun | 827 |
@@ -877,4 +878,4 @@ Diff (max vs sum): 37
 | 2024-09-11 | 3.98 | 917 | 5,119 |
 | 2024-09-12 | 3.98 | 918 | 5,123 |
 | 2024-09-13 | 3.98 | 918 | 5,125 |
-| 2024-09-14 | 3.98 | 918 | 5,127 |
+| 2024-09-14 | 3.98 | 918 | 5,128 |

@@ -2,10 +2,10 @@
   "ID": "9dd57a83fbae44f5b0fee00cf941be7d",
   "Name": "LOVE 3",
   "ProductSlug": "love-3-c2516f",
-  "Ranking_EOS_Progress": 878,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 917,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-12-07T00:00:00+00:00",
     "PcReleaseDate": "2021-12-07T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2024-08-20T20:06:29.0654956+00:00",
       "NumProgressed": 19,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:19:42.2773327+00:00",
+      "NumProgressed": 20,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-22T22:05:52.1814908+00:00",
@@ -117,7 +122,7 @@
       "ID": "Air walker",
       "SetID": "cigfl04",
       "Name": "Air walker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -125,7 +130,7 @@
       "ID": "Ball Dropper",
       "SetID": "cigfl04",
       "Name": "Ball Dropper",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -165,7 +170,7 @@
       "ID": "Frequent Flyer",
       "SetID": "cigfl04",
       "Name": "Frequent Flyer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -173,7 +178,7 @@
       "ID": "Friendly Fire",
       "SetID": "cigfl04",
       "Name": "Friendly Fire",
-      "Percentage": 42,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -189,7 +194,7 @@
       "ID": "Gotta Go Fast",
       "SetID": "cigfl04",
       "Name": "Gotta Go Fast",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -197,7 +202,7 @@
       "ID": "Jump rope",
       "SetID": "cigfl04",
       "Name": "Jump rope",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -205,7 +210,7 @@
       "ID": "Just a Scratch or Two",
       "SetID": "cigfl04",
       "Name": "Just a Scratch or Two",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -213,7 +218,7 @@
       "ID": "LOVE",
       "SetID": "cigfl04",
       "Name": "LOVE",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -221,7 +226,7 @@
       "ID": "Longest Fall",
       "SetID": "cigfl04",
       "Name": "Longest Fall",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -237,9 +242,9 @@
       "ID": "Safety",
       "SetID": "cigfl04",
       "Name": "Safety",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Seeker",
@@ -253,7 +258,7 @@
       "ID": "Threading the Needle",
       "SetID": "cigfl04",
       "Name": "Threading the Needle",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -269,7 +274,7 @@
       "ID": "kuso",
       "SetID": "cigfl04",
       "Name": "kuso",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -286,7 +291,7 @@
     {
       "ID": "cigfl04",
       "IsBase": true,
-      "Progressed": 19,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
@@ -294,8 +299,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.4140956+00:00",
   "FirstSeenAchievements": "2023-05-25T21:04:32.3599326+00:00",
   "LastChanged": "2023-03-31T05:58:42.4140957+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:06:29.065495+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:42.2773318+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:12.0995787+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:48.8146804+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:29.0655097+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:30.6450357+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:42.2773467+00:00"
 }

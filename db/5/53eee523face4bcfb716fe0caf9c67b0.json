@@ -2,10 +2,10 @@
   "ID": "53eee523face4bcfb716fe0caf9c67b0",
   "Name": "Crowded Mysteries",
   "ProductSlug": "crowded-mysteries-084054",
-  "Ranking_EOS_Progress": 866,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 914,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-02T22:00:00+00:00",
     "PcReleaseDate": "2023-08-22T22:00:00+00:00",
@@ -83,9 +83,9 @@
       "ID": "ach_extra_clue_5",
       "SetID": "nig6n",
       "Name": "Keen Eye",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_extra_clue_8",
@@ -99,9 +99,9 @@
       "ID": "ach_game_finished",
       "SetID": "nig6n",
       "Name": "Professional Detective",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_game_finished_night",
@@ -115,33 +115,33 @@
       "ID": "ach_hint_pass_level_10",
       "SetID": "nig6n",
       "Name": "Good Detective",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_hint_pass_level_14",
       "SetID": "nig6n",
       "Name": "Experienced Detective",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_hint_pass_level_3",
       "SetID": "nig6n",
       "Name": "Promising Detective",
-      "Percentage": 57,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_hint_pass_level_7",
       "SetID": "nig6n",
       "Name": "Junior Detective",
-      "Percentage": 14,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_speedrun_finished",
@@ -218,8 +218,8 @@
   ],
   "FirstSeen": "2024-08-26T07:00:07.8266491+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:57.6856007+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:58.8908735+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:28:04.9538931+00:00",
   "LastUpdate_AppInfo": "2024-09-12T02:04:10.2192241+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:08.1023186+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:58.8908843+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:02.1264202+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:04.9539044+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9e3c3806794d49e7858081054f2fe2ab",
   "Name": "Chronoshot",
   "ProductSlug": "chronoshot-4b6a41",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-07T17:00:00+00:00",
     "PcReleaseDate": "2024-08-07T17:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-30T18:57:40.793711+00:00",
   "LastUpdate_AppInfo": "2024-09-09T22:57:13.7428857+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:02.1358436+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:28.8720151+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:03.8639232+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:35.1321336+00:00"
 }

@@ -6,52 +6,52 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~424,884 |
-| good drivers have dead flies on the side windows | 33.00% | ~175,265 |
-| keep it tidy | 27.00% | ~143,398 |
-| brail | 27.00% | ~143,398 |
-| car wash | 24.00% | ~127,465 |
-| the artist | 24.00% | ~127,465 |
-| podium | 21.00% | ~111,532 |
-| medium attack | 18.00% | ~95,599 |
-| bicycle race | 7.00% | ~37,177 |
-| grocery-getter | 6.00% | ~31,866 |
-| autopilot | 5.00% | ~26,555 |
-| where is the stage? | 4.00% | ~21,244 |
-| night ride | 4.00% | ~21,244 |
-| snorkel | 4.00% | ~21,244 |
-| rwd only | 3.00% | ~15,933 |
-| food tour: pasta | 3.00% | ~15,933 |
-| to finish first, first you must finish | 2.00% | ~10,622 |
-| perkele | 2.00% | ~10,622 |
-| turbo | 2.00% | ~10,622 |
-| in like a lamb, out like a lion | 2.00% | ~10,622 |
-| if in doubt, flat out! | 2.00% | ~10,622 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~10,622 |
-| mittens | 2.00% | ~10,622 |
-| food tour: pretzel | 2.00% | ~10,622 |
-| espresso | 1.00% | ~5,311 |
-| monster | 1.00% | ~5,311 |
-| parallel universe | 1.00% | ~5,311 |
-| eurobeat | 0.80% | ~4,249 |
-| viking | 0.80% | ~4,249 |
-| oktoberfest | 0.70% | ~3,718 |
-| master of rally | 0.70% | ~3,718 |
-| antilag | 0.70% | ~3,718 |
-| group b | 0.70% | ~3,718 |
-| samir | 0.70% | ~3,718 |
-| parking lot | 0.60% | ~3,187 |
-| maximum attack | 0.60% | ~3,187 |
-| real roads, real fast | 0.50% | ~2,656 |
-| comfy seats | 0.40% | ~2,124 |
-| simulator | 0.20% | ~1,062 |
-| if everything seems under control, you're not going fast enough | 0.10% | ~531 |
-| absolute drift | 0.10% | ~531 |
-| barely keeping it together | 0.10% | ~531 |
-| you're here for a good time, not a long time | 0.10% | ~531 |
+| light attack | 80.00% | ~431,450 |
+| good drivers have dead flies on the side windows | 34.00% | ~183,366 |
+| keep it tidy | 27.00% | ~145,615 |
+| brail | 27.00% | ~145,615 |
+| car wash | 24.00% | ~129,435 |
+| the artist | 24.00% | ~129,435 |
+| podium | 21.00% | ~113,256 |
+| medium attack | 18.00% | ~97,076 |
+| bicycle race | 7.00% | ~37,752 |
+| grocery-getter | 6.00% | ~32,359 |
+| autopilot | 5.00% | ~26,966 |
+| where is the stage? | 4.00% | ~21,573 |
+| night ride | 4.00% | ~21,573 |
+| snorkel | 4.00% | ~21,573 |
+| rwd only | 3.00% | ~16,179 |
+| food tour: pasta | 3.00% | ~16,179 |
+| to finish first, first you must finish | 2.00% | ~10,786 |
+| perkele | 2.00% | ~10,786 |
+| turbo | 2.00% | ~10,786 |
+| in like a lamb, out like a lion | 2.00% | ~10,786 |
+| if in doubt, flat out! | 2.00% | ~10,786 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~10,786 |
+| mittens | 2.00% | ~10,786 |
+| food tour: pretzel | 2.00% | ~10,786 |
+| espresso | 1.00% | ~5,393 |
+| monster | 1.00% | ~5,393 |
+| parallel universe | 1.00% | ~5,393 |
+| eurobeat | 0.80% | ~4,315 |
+| viking | 0.80% | ~4,315 |
+| oktoberfest | 0.70% | ~3,775 |
+| master of rally | 0.70% | ~3,775 |
+| antilag | 0.70% | ~3,775 |
+| group b | 0.70% | ~3,775 |
+| samir | 0.70% | ~3,775 |
+| parking lot | 0.60% | ~3,236 |
+| maximum attack | 0.60% | ~3,236 |
+| real roads, real fast | 0.50% | ~2,697 |
+| comfy seats | 0.40% | ~2,157 |
+| simulator | 0.20% | ~1,079 |
+| if everything seems under control, you're not going fast enough | 0.10% | ~539 |
+| absolute drift | 0.10% | ~539 |
+| barely keeping it together | 0.10% | ~539 |
+| you're here for a good time, not a long time | 0.10% | ~539 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,105 (Ranked 50)  
-Completed: 71 (0.01%) (Ranked 532)  
+Progressed: 539,313 (Ranked 53)  
+Completed: 81 (0.02%) (Ranked 536)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -268,13 +268,14 @@ Completed: 71 (0.01%) (Ranked 532)
 | 2024-04-10 | 492,501 | 46 |
 | 2024-06-17 | 518,123 | 61 |
 | 2024-08-09 | 531,105 | 71 |
+| 2024-09-14 | 539,313 | 81 |
 ## Awards
-Max (Great for Quick Sessions): 127  (Ranked 431)  
-Sum: 822 (Ranked 355)  
-Diff (max vs sum): 76  
+Max (Great for Quick Sessions): 128  (Ranked 428)  
+Sum: 823 (Ranked 355)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 127 |
+| This game is Great for Quick Sessions | 128 |
 | This game is Highly Recommended | 118 |
 | This game is Extremely Fun | 96 |
 | This game has Quickly Understood Controls | 94 |
@@ -546,4 +547,4 @@ Diff (max vs sum): 76
 | 2024-09-11 | 4.61 | - | 127 | 815 |
 | 2024-09-12 | 4.61 | - | 127 | 816 |
 | 2024-09-13 | 4.61 | - | 127 | 819 |
-| 2024-09-14 | 4.61 | - | 127 | 822 |
+| 2024-09-14 | 4.61 | - | 128 | 823 |

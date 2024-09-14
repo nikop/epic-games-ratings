@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self-Defence | 42.00% | ~93 |
-| Tinkerer | 34.00% | ~75 |
-| Welcome to the Club | 23.00% | ~51 |
+| Self-Defence | 42.00% | ~94 |
+| Tinkerer | 34.00% | ~76 |
+| Welcome to the Club | 22.00% | ~49 |
 | A new World ahead | 17.00% | ~38 |
-| Don't Cry Wolf | 14.00% | ~31 |
-| Apprentice | 14.00% | ~31 |
-| Can't touch this | 10.00% | ~22 |
+| Apprentice | 15.00% | ~34 |
+| Don't Cry Wolf | 13.00% | ~29 |
 | Freezing Cold | 9.00% | ~20 |
-| Searing Heat | 7.00% | ~15 |
-| Expert | 7.00% | ~15 |
+| Can't touch this | 9.00% | ~20 |
+| Expert | 8.00% | ~18 |
+| Searing Heat | 7.00% | ~16 |
 | Craftsmen | 6.00% | ~13 |
 | Locked and Loaded | 6.00% | ~13 |
 | Nothing but the Truth | 6.00% | ~13 |
 | Defeat Tezuth | 5.00% | ~11 |
 | The Golden Flash | 5.00% | ~11 |
-| The Power of the Mountains | 5.00% | ~11 |
 | Changing the World | 5.00% | ~11 |
 | Through Dangers Untold | 4.00% | ~9 |
 | Witch | 4.00% | ~9 |
 | The A-Team | 4.00% | ~9 |
+| The Power of the Mountains | 4.00% | ~9 |
 | Sponsor | 3.00% | ~7 |
+| Defeat Ingla | 3.00% | ~7 |
 | Ancient Powers | 3.00% | ~7 |
-| Defeat Ingla | 2.00% | ~4 |
+| But what of the Acreans? | 3.00% | ~7 |
+| A Deceiving Gift | 3.00% | ~7 |
 | Defeat Uskol | 2.00% | ~4 |
 | Wizard | 2.00% | ~4 |
 | Pathfinder | 2.00% | ~4 |
 | Finally! | 2.00% | ~4 |
 | The End | 2.00% | ~4 |
-| But what of the Acreans? | 2.00% | ~4 |
-| A Deceiving Gift | 2.00% | ~4 |
 | Unveiling the Truth | 2.00% | ~4 |
 | Mirror, Mirror on the Wall | 1.00% | ~2 |
 | Collector | 1.00% | ~2 |
@@ -44,21 +44,21 @@
 | Master of all Domains | 0.90% | ~2 |
 | Mind Over Matter | 0.90% | ~2 |
 | Small Setback | 0.90% | ~2 |
-| Style over Stats | 0.50% | ~1 |
-| Explorer by Heart | 0.50% | ~1 |
-| Wasteland Connoisseur | 0.50% | ~1 |
-| Fashionista | 0.50% | ~1 |
-| Knowledge is King | 0.50% | ~1 |
-| Bookworm | 0.50% | ~1 |
-| Wayseeker | 0.50% | ~1 |
-| Coming Prepared | 0.50% | ~1 |
+| Style over Stats | 0.40% | ~1 |
+| Explorer by Heart | 0.40% | ~1 |
+| Wasteland Connoisseur | 0.40% | ~1 |
+| Fashionista | 0.40% | ~1 |
+| Knowledge is King | 0.40% | ~1 |
+| Bookworm | 0.40% | ~1 |
+| Wayseeker | 0.40% | ~1 |
+| Coming Prepared | 0.40% | ~1 |
 | Bringing guns to a sword fight | 0.00% | ~0 |
 | Everything in its Place | 0.00% | ~0 |
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 221 (Ranked 570)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 224 (Ranked 590)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,6 +178,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 201 | 0 |
 | 2024-06-17 | 218 | 0 |
 | 2024-08-09 | 221 | 0 |
+| 2024-09-14 | 224 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

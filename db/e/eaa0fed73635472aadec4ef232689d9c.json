@@ -2,10 +2,10 @@
   "ID": "eaa0fed73635472aadec4ef232689d9c",
   "Name": "PARAVOX",
   "ProductSlug": "paravox-8c7def",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-01T10:00:00+00:00",
     "PcReleaseDate": "2024-04-01T10:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-21T07:57:37.5398783+00:00",
   "LastUpdate_AppInfo": "2024-09-10T21:56:58.1340107+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:14.8175159+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:14:01.0089272+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:18.8489376+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:08.0580413+00:00"
 }

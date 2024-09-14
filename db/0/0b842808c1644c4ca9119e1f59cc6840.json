@@ -2,10 +2,10 @@
   "ID": "0b842808c1644c4ca9119e1f59cc6840",
   "Name": "Limerick: Cadence Mansion",
   "ProductSlug": "limerick-cadence-mansion-e84385",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-23T13:00:00+00:00",
     "PcReleaseDate": "2023-09-29T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-07T22:57:16.2163506+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:16.5475771+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:37.9104115+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:53.5138528+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:47.2477502+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 376,
   "Ranking_Popularity": 704,
   "Ranking_PopularitySum": 707,
-  "Ranking_EOS_Progress": 580,
-  "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Completed": 254,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2017-10-03T16:00:00+00:00",
@@ -251,11 +251,11 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 204,
-  "EOS_Completed": 2,
+  "EOS_Progressed": 233,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.98,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:06:10.709082+00:00",
@@ -276,6 +276,11 @@
       "Time": "2024-08-09T18:02:25.3322274+00:00",
       "NumProgressed": 204,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:15:36.0144338+00:00",
+      "NumProgressed": 233,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-03-21T17:06:10.7090851+00:00",
@@ -286,9 +291,9 @@
       "ID": "aFantasyFinalized",
       "SetID": "b95gi9n",
       "Name": "A Fantasy, Finalized",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "allOutOfBubblegum",
@@ -296,15 +301,15 @@
       "Name": "All out of Bubblegum...",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "anUnstoppableForce",
       "SetID": "b95gi9n",
       "Name": "An Unstoppable Force",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 28
     },
     {
       "ID": "angler",
@@ -312,7 +317,7 @@
       "Name": "Angler",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "apprenticeCrafter",
@@ -320,15 +325,15 @@
       "Name": "Apprentice Crafter",
       "Percentage": 45,
       "XP": 90,
-      "UsersEstimate": 92
+      "UsersEstimate": 105
     },
     {
       "ID": "areYouNotEntertained",
       "SetID": "b95gi9n",
       "Name": "Are You Not Entertained",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "badMoonRising",
@@ -336,31 +341,31 @@
       "Name": "Bad Moon Rising",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 49
     },
     {
       "ID": "barrelOfFun",
       "SetID": "b95gi9n",
       "Name": "Barrel of Fun",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 84
     },
     {
       "ID": "battleReady",
       "SetID": "b95gi9n",
       "Name": "Battle Ready",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 56
     },
     {
       "ID": "beautyInTheEye",
       "SetID": "b95gi9n",
       "Name": "Beauty is in the Eye",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 37
     },
     {
       "ID": "beginnersLuck",
@@ -368,7 +373,7 @@
       "Name": "Beginner\u0027s Luck",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 82
     },
     {
       "ID": "beholdMyTrueForm",
@@ -376,15 +381,15 @@
       "Name": "Behold, My True Form",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "bigGameHunter",
       "SetID": "b95gi9n",
       "Name": "Big Game Hunter",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "bloodAndTears",
@@ -392,23 +397,23 @@
       "Name": "Blood and Tears",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 54
     },
     {
       "ID": "braveByDefault",
       "SetID": "b95gi9n",
       "Name": "Brave by Default",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 68
     },
     {
       "ID": "changes",
       "SetID": "b95gi9n",
       "Name": "Ch-ch-ch-changes!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "cosplaying",
@@ -416,23 +421,23 @@
       "Name": "Cosplaying",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "dirtyHands",
       "SetID": "b95gi9n",
       "Name": "Dirty Hands",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 49
     },
     {
       "ID": "epicCrafter",
       "SetID": "b95gi9n",
       "Name": "Epic Crafter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "findersKeepers",
@@ -440,15 +445,15 @@
       "Name": "Finders Keepers",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "fishWatching",
       "SetID": "b95gi9n",
       "Name": "Fish Watching",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "freshMint",
@@ -456,7 +461,7 @@
       "Name": "Fresh Mint",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "goOn",
@@ -464,7 +469,7 @@
       "Name": "Go On...",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "itsJustBeginning",
@@ -472,21 +477,21 @@
       "Name": "It\u0027s Just Beginning",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "lichPlease",
       "SetID": "b95gi9n",
       "Name": "Lich, Please",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 42
     },
     {
       "ID": "likeANoss",
       "SetID": "b95gi9n",
       "Name": "Like A Noss",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 16
     },
@@ -494,9 +499,9 @@
       "ID": "littleGameHunter",
       "SetID": "b95gi9n",
       "Name": "Little Game Hunter",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 44
     },
     {
       "ID": "massRuckus",
@@ -504,7 +509,7 @@
       "Name": "Mass Ruckus",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "masterCrafter",
@@ -512,7 +517,7 @@
       "Name": "Master Crafter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "mustBeBored",
@@ -520,7 +525,7 @@
       "Name": "Must Be Bored",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "mysterySolved",
@@ -528,7 +533,7 @@
       "Name": "Mystery Solved",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 82
     },
     {
       "ID": "newBitcoin",
@@ -536,7 +541,7 @@
       "Name": "The New Bitcoin",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "noParley",
@@ -544,7 +549,7 @@
       "Name": "No Parley",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "queenOfTheNorth",
@@ -552,15 +557,15 @@
       "Name": "Queen of the North",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "rareCrafter",
       "SetID": "b95gi9n",
       "Name": "Rare Crafter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "riskTaker",
@@ -568,23 +573,23 @@
       "Name": "Risk Taker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "seeingRed",
       "SetID": "b95gi9n",
       "Name": "Seeing Red",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 72
     },
     {
       "ID": "survivors",
       "SetID": "b95gi9n",
       "Name": "Survivors",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 189
     },
     {
       "ID": "thatsDeepBro",
@@ -592,7 +597,7 @@
       "Name": "That\u0027s Deep, Bro",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 56
     },
     {
       "ID": "theLibrarian",
@@ -600,7 +605,7 @@
       "Name": "The Librarian",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "theLookingGlass",
@@ -608,31 +613,31 @@
       "Name": "The Looking Glass",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "theNewStandard",
       "SetID": "b95gi9n",
       "Name": "The New Standard",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 28
     },
     {
       "ID": "tooLate",
       "SetID": "b95gi9n",
       "Name": "Too Late",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 72
     },
     {
       "ID": "trialByCombat",
       "SetID": "b95gi9n",
       "Name": "Trial By Combat",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 91
     },
     {
       "ID": "viceVersa",
@@ -640,7 +645,7 @@
       "Name": "Vice Versa",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "warmingUp",
@@ -648,7 +653,7 @@
       "Name": "Warming Up",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "wellRead",
@@ -656,30 +661,30 @@
       "Name": "Well Read",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 40
     },
     {
       "ID": "youreLearning",
       "SetID": "b95gi9n",
       "Name": "You\u0027re Learning...",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 103
     }
   ],
   "AchievementSets": [
     {
       "ID": "b95gi9n",
       "IsBase": true,
-      "Progressed": 204,
-      "Completed": 2
+      "Progressed": 233,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:21:09.2276065+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:10.7090851+00:00",
   "LastChanged": "2024-09-13T17:57:28.9462546+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:25.3322266+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:36.0144331+00:00",
   "LastUpdate_AppInfo": "2024-09-09T10:57:11.174661+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:51.6739999+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:25.3322818+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:05.3435551+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:36.0144628+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1f39dc63e52d41d6aa207542f3cb22da",
   "Name": "Exverse",
   "ProductSlug": "exverse-d6e676",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-24T00:00:00+00:00",
     "PcReleaseDate": "2024-06-24T00:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-25T13:59:10.3582109+00:00",
   "LastUpdate_AppInfo": "2024-09-09T20:57:17.2994764+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:05.9858573+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:25.1215837+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:47.9197724+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:33.994183+00:00"
 }

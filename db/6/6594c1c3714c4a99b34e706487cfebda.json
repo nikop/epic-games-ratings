@@ -2,10 +2,10 @@
   "ID": "6594c1c3714c4a99b34e706487cfebda",
   "Name": "Sakura Day Mahjong",
   "ProductSlug": "sakura-day-mahjong-007b44",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-11T01:00:00+00:00",
     "PcReleaseDate": "2015-07-15T01:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-25T03:59:38.09683+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:33.1410019+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:22.3808956+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:32.094578+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:42.9302069+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:43.7119942+00:00"
 }

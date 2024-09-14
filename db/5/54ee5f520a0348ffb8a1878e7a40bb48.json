@@ -2,10 +2,10 @@
   "ID": "54ee5f520a0348ffb8a1878e7a40bb48",
   "Name": "Doodle Mafia",
   "ProductSlug": "doodle-mafia-b470f1",
-  "Ranking_EOS_Progress": 864,
-  "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 909,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-31T09:00:00+00:00",
     "PcReleaseDate": "2017-04-19T21:00:00+00:00",
@@ -27,7 +27,7 @@
   "Tags": [],
   "EOS_Progressed": 22,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 9.09,
   "EosHistory": [
@@ -179,8 +179,8 @@
   ],
   "FirstSeen": "2024-06-08T01:48:15.4664276+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:14.5208428+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:58.1521725+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:14.8438313+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:16.7359344+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:17.7277399+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:58.1521815+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:33.1056214+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:14.8438429+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "09d0e2d34c3a4788907bdea8b5c895c1",
   "Name": "Unicorns on Unicycles",
   "ProductSlug": "unicorns-on-unicycles-2f8151",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-10-20T01:00:00+00:00",
     "PcReleaseDate": "2021-10-19T07:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.1039644+00:00",
   "LastChanged": "2023-03-31T05:58:05.1039645+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:24.5440907+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:15.0537871+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:26.2171106+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:52.4207555+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:18:51.7055328+00:00"
 }

@@ -1,25 +1,25 @@
 # Chef Life - A Restaurant Simulator
 [Store](https://store.epicgames.com/en-US/p/chef-life-a-restaurant-simulator)  
 [View Rawdata](../../db/c/chef_life_-_a_restaurant_simulator.json)  
-Rating: 4.48 (Ranked 739)  
+Rating: 4.49 (Ranked 719)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 60.00% | ~1,052 |
-| You're the Expert! | 26.00% | ~456 |
-| Home Cook | 23.00% | ~403 |
-| So Clean You Can Eat Off the Floor | 17.00% | ~298 |
-| French Flair | 15.00% | ~263 |
-| S is for Scrumptious | 14.00% | ~245 |
-| Next Level Cuisine | 8.00% | ~140 |
-| Haute Cuisine | 7.00% | ~123 |
-| Italian Style | 7.00% | ~123 |
-| Well-Stocked Kitchen | 5.00% | ~88 |
-| Culinary Arts | 4.00% | ~70 |
-| Sous-Chef | 4.00% | ~70 |
-| Rolling in Dough | 4.00% | ~70 |
-| Perfectionist | 3.00% | ~53 |
-| Leaning Tower of Pizza | 2.00% | ~35 |
+| The Big Day | 60.00% | ~1,105 |
+| You're the Expert! | 25.00% | ~460 |
+| Home Cook | 22.00% | ~405 |
+| So Clean You Can Eat Off the Floor | 17.00% | ~313 |
+| French Flair | 15.00% | ~276 |
+| S is for Scrumptious | 14.00% | ~258 |
+| Next Level Cuisine | 8.00% | ~147 |
+| Haute Cuisine | 7.00% | ~129 |
+| Italian Style | 6.00% | ~111 |
+| Well-Stocked Kitchen | 5.00% | ~92 |
+| Sous-Chef | 4.00% | ~74 |
+| Rolling in Dough | 4.00% | ~74 |
+| Culinary Arts | 3.00% | ~55 |
+| Perfectionist | 3.00% | ~55 |
+| Leaning Tower of Pizza | 2.00% | ~37 |
 | Eco Warrior | 0.50% | ~9 |
 | The Bigger the Better | 0.40% | ~7 |
 | Kitchen Model | 0.20% | ~4 |
@@ -46,8 +46,8 @@ Rating: 4.48 (Ranked 739)
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,753 (Ranked 367)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,842 (Ranked 379)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -287,6 +287,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 1,618 | 0 |
 | 2024-08-09 | 1,737 | 0 |
 | 2024-08-20 | 1,753 | 0 |
+| 2024-09-14 | 1,842 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -338,3 +339,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-09-08 | 4.46 | 0 | 0 |
 | 2024-09-09 | 4.47 | 0 | 0 |
 | 2024-09-11 | 4.48 | 0 | 0 |
+| 2024-09-14 | 4.49 | 0 | 0 |

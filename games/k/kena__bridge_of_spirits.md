@@ -6,50 +6,50 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~411,265 |
-| Haikyo | 80.00% | ~346,329 |
-| Good as New | 73.00% | ~316,025 |
-| Into the Woods | 70.00% | ~303,038 |
-| Hunter in the Forest | 61.00% | ~264,076 |
-| Rot Commander | 60.00% | ~259,747 |
-| Taro's Fear | 56.00% | ~242,430 |
-| Between the Eyes | 47.00% | ~203,468 |
-| Taro's Love | 46.00% | ~199,139 |
-| Taro's Regret | 44.00% | ~190,481 |
-| Spirit Guide | 43.00% | ~186,152 |
-| Harness Your Power | 39.00% | ~168,835 |
-| The Open Range | 38.00% | ~164,506 |
-| Adira's Love | 34.00% | ~147,190 |
-| Adira's Fear | 33.00% | ~142,861 |
-| Weigh Them Down | 32.00% | ~138,532 |
-| Adira's Regret | 32.00% | ~138,532 |
-| A Heavy Hammer | 31.00% | ~134,202 |
-| Crossing Over | 30.00% | ~129,873 |
-| Quick Draw | 30.00% | ~129,873 |
-| Toshi's Fear | 28.00% | ~121,215 |
-| Toshi's Regret | 27.00% | ~116,886 |
-| Toshi's Love | 27.00% | ~116,886 |
-| A Leader Walks Alone | 26.00% | ~112,557 |
-| Bow Master | 26.00% | ~112,557 |
-| The Lonely Path | 26.00% | ~112,557 |
-| Restore Balance | 25.00% | ~108,228 |
-| Say Cheese | 16.00% | ~69,266 |
-| Skillful Spirit Guide | 15.00% | ~64,937 |
-| Piercing Blow | 14.00% | ~60,608 |
-| Curse Collector | 8.00% | ~34,633 |
-| Zen Master | 8.00% | ~34,633 |
-| The Last Stop | 7.00% | ~30,304 |
-| Restoration Master | 5.00% | ~21,646 |
-| Hat Collector | 4.00% | ~17,316 |
-| No Stone Unturned | 4.00% | ~17,316 |
-| Sharpshooter | 2.00% | ~8,658 |
-| Return to Sender | 2.00% | ~8,658 |
-| Triple Tap | 1.00% | ~4,329 |
-| Triple Threat | 1.00% | ~4,329 |
+| Found a Friend | 95.00% | ~411,465 |
+| Haikyo | 80.00% | ~346,497 |
+| Good as New | 73.00% | ~316,178 |
+| Into the Woods | 70.00% | ~303,185 |
+| Hunter in the Forest | 61.00% | ~264,204 |
+| Rot Commander | 60.00% | ~259,873 |
+| Taro's Fear | 56.00% | ~242,548 |
+| Between the Eyes | 47.00% | ~203,567 |
+| Taro's Love | 46.00% | ~199,236 |
+| Taro's Regret | 44.00% | ~190,573 |
+| Spirit Guide | 43.00% | ~186,242 |
+| Harness Your Power | 39.00% | ~168,917 |
+| The Open Range | 38.00% | ~164,586 |
+| Adira's Love | 35.00% | ~151,592 |
+| Adira's Fear | 33.00% | ~142,930 |
+| Weigh Them Down | 32.00% | ~138,599 |
+| Adira's Regret | 32.00% | ~138,599 |
+| A Heavy Hammer | 31.00% | ~134,268 |
+| Crossing Over | 30.00% | ~129,936 |
+| Quick Draw | 30.00% | ~129,936 |
+| Toshi's Fear | 28.00% | ~121,274 |
+| Toshi's Regret | 27.00% | ~116,943 |
+| Toshi's Love | 27.00% | ~116,943 |
+| A Leader Walks Alone | 26.00% | ~112,611 |
+| Bow Master | 26.00% | ~112,611 |
+| The Lonely Path | 26.00% | ~112,611 |
+| Restore Balance | 25.00% | ~108,280 |
+| Say Cheese | 16.00% | ~69,299 |
+| Skillful Spirit Guide | 15.00% | ~64,968 |
+| Piercing Blow | 14.00% | ~60,637 |
+| Curse Collector | 8.00% | ~34,650 |
+| Zen Master | 8.00% | ~34,650 |
+| The Last Stop | 7.00% | ~30,318 |
+| Restoration Master | 5.00% | ~21,656 |
+| Hat Collector | 4.00% | ~17,325 |
+| No Stone Unturned | 4.00% | ~17,325 |
+| Sharpshooter | 2.00% | ~8,662 |
+| Return to Sender | 2.00% | ~8,662 |
+| Triple Tap | 1.00% | ~4,331 |
+| Triple Threat | 1.00% | ~4,331 |
 | Master Spirit Guide | 0.30% | ~1,299 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,911 (Ranked 64)  
-Completed: 598 (0.14%) (Ranked 418)  
+Progressed: 433,121 (Ranked 69)  
+Completed: 604 (0.14%) (Ranked 441)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -338,9 +338,10 @@ Completed: 598 (0.14%) (Ranked 418)
 | 2024-07-09 | 432,539 | 591 |
 | 2024-08-09 | 432,813 | 597 |
 | 2024-08-20 | 432,911 | 598 |
+| 2024-09-14 | 433,121 | 604 |
 ## Awards
 Max (Great Boss Battles): 1,419  (Ranked 164)  
-Sum: 1,801 (Ranked 272)  
+Sum: 1,802 (Ranked 272)  
 Diff (max vs sum): -108  
 | Award | Count |
 | ----- | ----- |
@@ -351,7 +352,7 @@ Diff (max vs sum): -108
 | This game has Amazing Storytelling | 44 |
 | This game is Extremely Fun | 44 |
 | This game has Amazing Characters | 43 |
-| This game has Challenging Combat | 40 |
+| This game has Challenging Combat | 41 |
 | This game has Quickly Understood Controls | 38 |
 | This game has Beautiful Visuals | 37 |
 | This game has Diverse Characters | 34 |
@@ -575,3 +576,4 @@ Diff (max vs sum): -108
 | 2024-09-09 | 4.70 | - | 1,417 | 1,798 |
 | 2024-09-12 | 4.70 | - | 1,417 | 1,799 |
 | 2024-09-13 | 4.70 | - | 1,419 | 1,801 |
+| 2024-09-14 | 4.70 | - | 1,419 | 1,802 |

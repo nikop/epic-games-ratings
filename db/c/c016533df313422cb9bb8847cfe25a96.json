@@ -2,10 +2,10 @@
   "ID": "c016533df313422cb9bb8847cfe25a96",
   "Name": "Luminis - Heal Them All",
   "ProductSlug": "luminis-heal-them-all-b8a29c",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T10:57:02.3559257+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:59.3059349+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:31.696088+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:59.354038+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:16.0228325+00:00"
 }

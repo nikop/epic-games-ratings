@@ -2,10 +2,10 @@
   "ID": "779b5dccd6354e2a8a5cc05d7ba5f87d",
   "Name": "A Hero\u0027s Rest: An RPG Town Simulator",
   "ProductSlug": "a-heros-rest-67f117",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-12T07:00:00+00:00",
     "PcReleaseDate": "2022-10-12T07:00:00+00:00",
@@ -45,14 +45,20 @@
       "IsBase": true,
       "Progressed": 0,
       "Completed": 0
+    },
+    {
+      "ID": "19j4472",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-12T15:01:43.2795766+00:00",
   "FirstSeenRating": "2023-03-31T05:57:29.9621063+00:00",
   "FirstSeenAchievements": "2023-07-21T08:04:30.7694129+00:00",
   "LastChanged": "2023-03-31T05:57:29.9621064+00:00",
-  "LastChanged_Achievements": "2024-05-13T20:05:10.0257927+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:32.4019725+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:57:33.0683211+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:13.8671443+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:59.2193601+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:54.3100654+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:32.401976+00:00"
 }

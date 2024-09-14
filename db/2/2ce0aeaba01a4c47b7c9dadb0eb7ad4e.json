@@ -2,10 +2,10 @@
   "ID": "2ce0aeaba01a4c47b7c9dadb0eb7ad4e",
   "Name": "Escape from Ever After",
   "ProductSlug": "escape-from-ever-after-47f826",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T15:57:16.8260219+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:56.0900591+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:19.1039081+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:54.5343875+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:29.6565106+00:00"
 }

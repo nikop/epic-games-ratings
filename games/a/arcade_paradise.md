@@ -5,63 +5,63 @@ Rating: 4.36 (Ranked 944)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 95.00% | ~367,108 |
-| Fetch Quest Complete | 73.00% | ~282,093 |
-| I can't wait! | 57.00% | ~220,265 |
-| Swish | 29.00% | ~112,064 |
-| Existential dread | 11.00% | ~42,507 |
-| Clean up on Aisle 9 | 10.00% | ~38,643 |
-| Gerald of Riviera | 10.00% | ~38,643 |
-| Machine Maxed | 7.00% | ~27,050 |
-| Bug Fixer | 5.00% | ~19,321 |
-| Goal | 4.00% | ~15,457 |
-| Jimmy Goldman Would be Proud | 3.00% | ~11,593 |
-| Ahoy Hoy | 2.00% | ~7,729 |
-| I ran the numbers | 2.00% | ~7,729 |
-| Taking the plunge | 2.00% | ~7,729 |
-| GOOOAAAL | 1.00% | ~3,864 |
-| Rhythm is a dancer | 1.00% | ~3,864 |
-| New Kid on the Block | 1.00% | ~3,864 |
-| Hidden Packages | 1.00% | ~3,864 |
-| Your Bloody Valentine | 0.80% | ~3,091 |
-| You Spin Me Round | 0.80% | ~3,091 |
-| Bombscare | 0.70% | ~2,705 |
-| Nose to the Grindstone | 0.70% | ~2,705 |
-| Waking nightmare | 0.70% | ~2,705 |
-| Crowning achievement | 0.60% | ~2,319 |
-| IMANOK CODE | 0.60% | ~2,319 |
-| GoldGuy Jr | 0.50% | ~1,932 |
-| We come in peace | 0.40% | ~1,546 |
-| Fresh Prince of Grindstone | 0.40% | ~1,546 |
-| Modern Gorefare | 0.40% | ~1,546 |
-| GTA: Crime City | 0.40% | ~1,546 |
-| 1CC | 0.30% | ~1,159 |
-| To do. Done! | 0.30% | ~1,159 |
-| Hammer time | 0.30% | ~1,159 |
-| True Capitalist | 0.30% | ~1,159 |
-| Slacker | 0.30% | ~1,159 |
-| Got 9999 problem but a Zombie ain't one | 0.30% | ~1,159 |
-| GOOOOOOAAAAAAALLLL!!!! | 0.20% | ~773 |
-| Intergalactic, planetary, planetary... | 0.20% | ~773 |
-| 1337 HAXXOR | 0.10% | ~386 |
-| Many Machines Maxed | 0.10% | ~386 |
-| Friends Reunited | 0.10% | ~386 |
-| Drop the ball | 0.10% | ~386 |
-| Fat Princess | 0.10% | ~386 |
-| Hexadecimal | 0.10% | ~386 |
-| Arcadeception | 0.10% | ~386 |
-| Video killed the radio star | 0.10% | ~386 |
-| Corporate Restructrure | 0.10% | ~386 |
-| Ballz To The Wallz | 0.10% | ~386 |
-| Another all nighter? | 0.10% | ~386 |
-| Pimp My Ride | 0.10% | ~386 |
-| Once upon a slime | 0.10% | ~386 |
-| It's a horror game | 0.10% | ~386 |
-| Smells like teen spirit | 0.10% | ~386 |
-| Sonically Youthful | 0.10% | ~386 |
+| Pushing a pull door | 95.00% | ~406,864 |
+| Fetch Quest Complete | 73.00% | ~312,643 |
+| I can't wait! | 57.00% | ~244,118 |
+| Swish | 30.00% | ~128,483 |
+| Existential dread | 11.00% | ~47,111 |
+| Clean up on Aisle 9 | 11.00% | ~47,111 |
+| Gerald of Riviera | 11.00% | ~47,111 |
+| Machine Maxed | 8.00% | ~34,262 |
+| Bug Fixer | 5.00% | ~21,414 |
+| Goal | 4.00% | ~17,131 |
+| I ran the numbers | 3.00% | ~12,848 |
+| Jimmy Goldman Would be Proud | 3.00% | ~12,848 |
+| Taking the plunge | 3.00% | ~12,848 |
+| GOOOAAAL | 2.00% | ~8,566 |
+| Ahoy Hoy | 2.00% | ~8,566 |
+| Hidden Packages | 2.00% | ~8,566 |
+| Bombscare | 1.00% | ~4,283 |
+| Rhythm is a dancer | 1.00% | ~4,283 |
+| New Kid on the Block | 1.00% | ~4,283 |
+| Waking nightmare | 1.00% | ~4,283 |
+| You Spin Me Round | 1.00% | ~4,283 |
+| Your Bloody Valentine | 0.90% | ~3,855 |
+| Nose to the Grindstone | 0.90% | ~3,855 |
+| Crowning achievement | 0.80% | ~3,426 |
+| IMANOK CODE | 0.60% | ~2,570 |
+| To do. Done! | 0.50% | ~2,141 |
+| We come in peace | 0.50% | ~2,141 |
+| Fresh Prince of Grindstone | 0.50% | ~2,141 |
+| GoldGuy Jr | 0.50% | ~2,141 |
+| Modern Gorefare | 0.50% | ~2,141 |
+| GTA: Crime City | 0.50% | ~2,141 |
+| 1CC | 0.40% | ~1,713 |
+| Hammer time | 0.40% | ~1,713 |
+| Slacker | 0.40% | ~1,713 |
+| Got 9999 problem but a Zombie ain't one | 0.40% | ~1,713 |
+| GOOOOOOAAAAAAALLLL!!!! | 0.30% | ~1,285 |
+| True Capitalist | 0.30% | ~1,285 |
+| Intergalactic, planetary, planetary... | 0.30% | ~1,285 |
+| 1337 HAXXOR | 0.20% | ~857 |
+| Friends Reunited | 0.20% | ~857 |
+| Drop the ball | 0.20% | ~857 |
+| Fat Princess | 0.20% | ~857 |
+| Many Machines Maxed | 0.10% | ~428 |
+| Hexadecimal | 0.10% | ~428 |
+| Arcadeception | 0.10% | ~428 |
+| Video killed the radio star | 0.10% | ~428 |
+| Corporate Restructrure | 0.10% | ~428 |
+| Ballz To The Wallz | 0.10% | ~428 |
+| Another all nighter? | 0.10% | ~428 |
+| Pimp My Ride | 0.10% | ~428 |
+| Once upon a slime | 0.10% | ~428 |
+| It's a horror game | 0.10% | ~428 |
+| Smells like teen spirit | 0.10% | ~428 |
+| Sonically Youthful | 0.10% | ~428 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,429 (Ranked 71)  
-Completed: 2 (0.00%) (Ranked 561)  
+Progressed: 428,278 (Ranked 71)  
+Completed: 2 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -175,6 +175,7 @@ Completed: 2 (0.00%) (Ranked 561)
 | 2024-04-10 | 781 | 0 |
 | 2024-06-17 | 789 | 0 |
 | 2024-08-09 | 386,429 | 2 |
+| 2024-09-14 | 428,278 | 2 |
 ## Awards
 Max (Great for Beginners): 98  (Ranked 467)  
 Sum: 418 (Ranked 426)  

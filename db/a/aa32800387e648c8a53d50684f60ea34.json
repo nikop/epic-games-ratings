@@ -2,10 +2,10 @@
   "ID": "aa32800387e648c8a53d50684f60ea34",
   "Name": "The Lost War",
   "ProductSlug": "the-lost-war-ea53eb",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-19T20:00:00+00:00",
     "PcReleaseDate": "2024-08-19T20:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-13T20:57:56.4987766+00:00",
   "LastUpdate_AppInfo": "2024-09-09T22:57:14.1450535+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:48.8032378+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:22.0414928+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:07.973719+00:00"
 }

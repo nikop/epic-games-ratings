@@ -2,10 +2,10 @@
   "ID": "11b636268cb64c7f9feada368d41ba76",
   "Name": "Last Hope Bunker: Zombie Survival",
   "ProductSlug": "last-hope-bunker-zombie-survival-92a49d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-09T09:00:00+00:00",
     "PcReleaseDate": "2024-04-09T09:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-10T16:01:29.3339313+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:10.8868081+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:34.0657124+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:14:00.3232729+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:11.2825335+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:06.8796612+00:00"
 }

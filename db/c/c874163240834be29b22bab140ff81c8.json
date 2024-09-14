@@ -2,10 +2,10 @@
   "ID": "c874163240834be29b22bab140ff81c8",
   "Name": "Victory At Sea Atlantic: Epic Naval Battles in World War II",
   "ProductSlug": "victory-at-sea-atlantic-epic-naval-battles-in-world-war-ii-dfb1b5",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-21T16:00:00.646+00:00",
     "PcReleaseDate": "2024-04-05T16:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-25T03:00:46.1678812+00:00",
   "LastUpdate_AppInfo": "2024-09-10T16:57:25.9538695+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:14.2181729+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:17.5130922+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:21.416861+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:28.7356559+00:00"
 }

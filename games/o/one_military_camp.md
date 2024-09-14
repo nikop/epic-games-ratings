@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 55.00% | ~216 |
-| The 4 Pillars | 52.00% | ~204 |
-| Capitalism | 24.00% | ~94 |
+| First Step | 55.00% | ~218 |
+| The 4 Pillars | 53.00% | ~210 |
+| Capitalism | 24.00% | ~95 |
 | Green Energy | 17.00% | ~67 |
 | There's something in those trees | 15.00% | ~59 |
-| Desert Power | 15.00% | ~59 |
 | Health Care | 14.00% | ~55 |
+| Desert Power | 14.00% | ~55 |
 | Great Producer | 14.00% | ~55 |
-| Perfect Soldier | 10.00% | ~39 |
-| Healing | 10.00% | ~39 |
-| Indebted | 10.00% | ~39 |
-| Overpopulation | 9.00% | ~35 |
-| Ammo Tycoon | 9.00% | ~35 |
-| Pathfinder | 8.00% | ~31 |
-| Food Tycoon | 8.00% | ~31 |
-| Fuel Tycoon | 8.00% | ~31 |
-| Desert Rat | 8.00% | ~31 |
+| Healing | 11.00% | ~44 |
+| Perfect Soldier | 10.00% | ~40 |
+| Indebted | 10.00% | ~40 |
+| Overpopulation | 9.00% | ~36 |
+| Pathfinder | 9.00% | ~36 |
+| Ammo Tycoon | 9.00% | ~36 |
+| Food Tycoon | 8.00% | ~32 |
+| Fuel Tycoon | 8.00% | ~32 |
+| Desert Rat | 8.00% | ~32 |
 | Jantine: the Misfortunes of Evil | 7.00% | ~28 |
+| Property Bro | 7.00% | ~28 |
 | Good payer | 7.00% | ~28 |
 | Self-sufficient | 7.00% | ~28 |
 | Supersoldier | 6.00% | ~24 |
-| Property Bro | 6.00% | ~24 |
 | Medicine Tycoon | 6.00% | ~24 |
 | Tear Down the Wall! | 5.00% | ~20 |
 | Vive le Résistance | 5.00% | ~20 |
+| Human Resources | 5.00% | ~20 |
 | Training Camp | 5.00% | ~20 |
 | Outdoor Decorator | 4.00% | ~16 |
 | No News is Good News | 4.00% | ~16 |
-| Human Resources | 4.00% | ~16 |
 | Winter Soldier | 3.00% | ~12 |
 | Economist | 2.00% | ~8 |
 | Counter-espionage | 2.00% | ~8 |
@@ -49,8 +49,8 @@
 | Attack of the Drones | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 504)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 396 (Ranked 517)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -169,3 +169,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-07-24 | 389 | 0 |
 | 2024-08-09 | 391 | 0 |
 | 2024-08-20 | 393 | 0 |
+| 2024-09-14 | 396 | 0 |

@@ -2,10 +2,10 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 557,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 576,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 244,
+  "EOS_Progressed": 245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2024-08-20T20:06:07.7082828+00:00",
       "NumProgressed": 244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:19:30.8079079+00:00",
+      "NumProgressed": 245,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T10:10:18.7530566+00:00",
@@ -633,9 +638,9 @@
       "ID": "ACH_AIR_COMBO",
       "SetID": "5akmpni",
       "Name": "Air Fighter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_ALL_CHALENGES",
@@ -729,17 +734,17 @@
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_ENEMY_FIRE",
       "SetID": "5akmpni",
       "Name": "Tap Dancing",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_ENEMY_LEDGE_FALL",
@@ -769,9 +774,9 @@
       "ID": "ACH_EQUIP_ARTIFACT",
       "SetID": "5akmpni",
       "Name": "Treasure Hunter",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_EVO_MOMENT_37",
@@ -787,15 +792,15 @@
       "Name": "Finish Him!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_GIVE_MONEY_CHECKPOINT",
       "SetID": "5akmpni",
       "Name": "Act of Kindness",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_GRAPPLE_ENEMY",
@@ -835,7 +840,7 @@
       "Name": "Locksley\u0027s Tears",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_KILL_KIRKLEES",
@@ -897,9 +902,9 @@
       "ID": "ACH_MONEY_TO_POOR",
       "SetID": "5akmpni",
       "Name": "The Altruist",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_NO_SIBLINGS",
@@ -955,7 +960,7 @@
       "Name": "First Aid",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_THROW_ENEMY",
@@ -1010,14 +1015,14 @@
     {
       "ID": "5akmpni",
       "IsBase": true,
-      "Progressed": 244,
+      "Progressed": 245,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:06:07.7082825+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:30.8079073+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:44.21019+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:15.3895252+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:07.7083345+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:01.9947843+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:30.8079425+00:00"
 }

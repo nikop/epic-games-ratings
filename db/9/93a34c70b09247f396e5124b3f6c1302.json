@@ -2,10 +2,10 @@
   "ID": "93a34c70b09247f396e5124b3f6c1302",
   "Name": "Welcome to Elk",
   "ProductSlug": "welcome-to-elk-0baebd",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-01T20:45:07.475+00:00",
     "PcReleaseDate": "2020-09-17T14:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:02:07.3655844+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:07.365575+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:16.6333145+00:00",
   "LastUpdate_AppInfo": "2024-09-13T02:04:57.8246347+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:02.4208808+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:07.3655861+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:38.1825455+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:16.6333184+00:00"
 }

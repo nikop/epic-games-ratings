@@ -2,10 +2,10 @@
   "ID": "23047faee0134ed3bb4c8d71857c567b",
   "Name": "Mixing Ammos",
   "ProductSlug": "mixing-ammos-c2e28c",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-04T07:00:00+00:00",
     "PcReleaseDate": "2023-08-04T07:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T13:13:59.2151814+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:32.3061516+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:18.0041423+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:04.4356833+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:19.2650184+00:00"
 }

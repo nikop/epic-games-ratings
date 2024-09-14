@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 641,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2024-08-20T20:07:51.5699286+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:08.1125282+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 43,
@@ -528,9 +533,9 @@
       "ID": "ach_fast_00",
       "SetID": "8jkn3bi",
       "Name": "Fast 6x6",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_fast_01",
@@ -602,7 +607,7 @@
       "Name": "Complete 50 levels",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_levels_02",
@@ -808,9 +813,9 @@
       "ID": "ach_usehints_00",
       "SetID": "8jkn3bi",
       "Name": "Use 10 hints",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_usehints_01",
@@ -818,7 +823,7 @@
       "Name": "Use 20 hints",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_usehints_02",
@@ -833,14 +838,14 @@
     {
       "ID": "8jkn3bi",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T16:58:15.9400848+00:00",
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:51.5699281+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:08.1125277+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:57:04.9009779+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:19.4856281+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:51.5699594+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:58.5612127+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:08.1125583+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 4.65 (Ranked 351)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marathoner | 46.00% | ~22,360 |
-| Hunchback | 45.00% | ~21,874 |
-| Chicken in a Pot | 33.00% | ~16,041 |
-| Big Saver | 32.00% | ~15,555 |
-| Glutton for Therapy | 29.00% | ~14,097 |
-| Mechanophiliac | 28.00% | ~13,611 |
-| Together We Are Strong | 28.00% | ~13,611 |
-| Bullseye | 26.00% | ~12,638 |
-| Power Surge | 26.00% | ~12,638 |
-| Bamboozler | 23.00% | ~11,180 |
-| Vision Quest | 22.00% | ~10,694 |
-| Slip and Slider | 20.00% | ~9,722 |
-| Hemophiliac | 20.00% | ~9,722 |
-| Major League Player | 20.00% | ~9,722 |
-| Get Down | 17.00% | ~8,264 |
-| Trigger Happy | 17.00% | ~8,264 |
-| Anger Issues | 15.00% | ~7,291 |
-| Tapetum Lucidum | 13.00% | ~6,319 |
-| Hoarder | 12.00% | ~5,833 |
-| Sawbones | 10.00% | ~4,861 |
-| Toastmaster | 9.00% | ~4,375 |
-| Crowd Control | 8.00% | ~3,889 |
-| Speed Freak | 8.00% | ~3,889 |
-| Breathe In | 7.00% | ~3,403 |
-| Can't Touch This | 7.00% | ~3,403 |
-| Hypochondriac | 4.00% | ~1,944 |
-| Sleight of Hand | 3.00% | ~1,458 |
+| Marathoner | 44.00% | ~23,574 |
+| Hunchback | 43.00% | ~23,038 |
+| Chicken in a Pot | 31.00% | ~16,609 |
+| Big Saver | 30.00% | ~16,073 |
+| Glutton for Therapy | 27.00% | ~14,466 |
+| Mechanophiliac | 27.00% | ~14,466 |
+| Together We Are Strong | 26.00% | ~13,930 |
+| Power Surge | 25.00% | ~13,394 |
+| Bullseye | 24.00% | ~12,858 |
+| Bamboozler | 22.00% | ~11,787 |
+| Vision Quest | 21.00% | ~11,251 |
+| Slip and Slider | 19.00% | ~10,180 |
+| Hemophiliac | 19.00% | ~10,180 |
+| Major League Player | 19.00% | ~10,180 |
+| Get Down | 16.00% | ~8,572 |
+| Trigger Happy | 16.00% | ~8,572 |
+| Anger Issues | 14.00% | ~7,501 |
+| Tapetum Lucidum | 12.00% | ~6,429 |
+| Hoarder | 12.00% | ~6,429 |
+| Sawbones | 10.00% | ~5,358 |
+| Toastmaster | 8.00% | ~4,286 |
+| Speed Freak | 8.00% | ~4,286 |
+| Breathe In | 7.00% | ~3,750 |
+| Crowd Control | 7.00% | ~3,750 |
+| Can't Touch This | 6.00% | ~3,215 |
+| Hypochondriac | 4.00% | ~2,143 |
+| Sleight of Hand | 3.00% | ~1,607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48,609 (Ranked 173)  
-Completed: 658 (1.35%) (Ranked 230)  
+Progressed: 53,577 (Ranked 178)  
+Completed: 713 (1.33%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,6 +44,7 @@ Completed: 658 (1.35%) (Ranked 230)
 | 2024-07-30 | 44,855 | 567 |
 | 2024-08-09 | 46,979 | 614 |
 | 2024-08-20 | 48,609 | 658 |
+| 2024-09-14 | 53,577 | 713 |
 ## Awards
 Max (Great for Beginners): 885  (Ranked 215)  
 Sum: 4,763 (Ranked 179)  

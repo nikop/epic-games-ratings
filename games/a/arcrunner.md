@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 49.00% | ~585 |
-| Challenge Accepted | 40.00% | ~478 |
-| Terminated I | 40.00% | ~478 |
-| Nanonic I | 38.00% | ~454 |
-| Unlocked and Loaded | 36.00% | ~430 |
-| Terminated II | 32.00% | ~382 |
-| The City | 26.00% | ~310 |
-| Challenge Mastered | 23.00% | ~275 |
-| Terminated III | 23.00% | ~275 |
-| Nanonic II | 19.00% | ~227 |
-| Fully Modded | 18.00% | ~215 |
-| Starship Docks | 14.00% | ~167 |
-| Nanonic III | 14.00% | ~167 |
-| Supply Run | 14.00% | ~167 |
-| Rookie | 13.00% | ~155 |
-| Cybernetic | 12.00% | ~143 |
-| The Bigger They Are | 11.00% | ~131 |
-| Eden Heights | 9.00% | ~107 |
-| Up Close And Personal | 9.00% | ~107 |
+| Augmented | 49.00% | ~589 |
+| Challenge Accepted | 40.00% | ~481 |
+| Terminated I | 40.00% | ~481 |
+| Nanonic I | 38.00% | ~457 |
+| Unlocked and Loaded | 37.00% | ~445 |
+| Terminated II | 32.00% | ~385 |
+| The City | 26.00% | ~313 |
+| Challenge Mastered | 23.00% | ~276 |
+| Terminated III | 23.00% | ~276 |
+| Nanonic II | 19.00% | ~228 |
+| Fully Modded | 18.00% | ~216 |
+| Starship Docks | 15.00% | ~180 |
+| Nanonic III | 14.00% | ~168 |
+| Supply Run | 14.00% | ~168 |
+| Cybernetic | 13.00% | ~156 |
+| Rookie | 13.00% | ~156 |
+| The Bigger They Are | 11.00% | ~132 |
+| Eden Heights | 9.00% | ~108 |
+| Up Close And Personal | 9.00% | ~108 |
 | Outer Core | 7.00% | ~84 |
 | Inner Core | 6.00% | ~72 |
 | Integration | 4.00% | ~48 |
@@ -30,12 +30,12 @@
 | Trickshot | 2.00% | ~24 |
 | Ripperdoc | 1.00% | ~12 |
 | Hard Boiled | 0.60% | ~7 |
-| Cyborg | 0.30% | ~4 |
-| Weaponsmith | 0.30% | ~4 |
+| Cyborg | 0.40% | ~5 |
+| Weaponsmith | 0.20% | ~2 |
 | Hell Raiser | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,194 (Ranked 393)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,202 (Ranked 407)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -206,6 +206,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 1,132 | 0 |
 | 2024-08-09 | 1,179 | 0 |
 | 2024-08-20 | 1,194 | 0 |
+| 2024-09-14 | 1,202 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

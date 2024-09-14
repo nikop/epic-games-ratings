@@ -2,10 +2,10 @@
   "ID": "c5c4671e21c14f20a82078ee4d7a6bd3",
   "Name": "Zen Chess: Mate in One",
   "ProductSlug": "zen-chess-mate-in-one-ecebc1",
-  "Ranking_EOS_Progress": 551,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Progress": 562,
+  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-06T17:30:00+00:00",
     "PcReleaseDate": "2018-04-10T08:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Progressed": 276,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:30.8641024+00:00",
@@ -50,6 +50,11 @@
       "Time": "2024-08-20T20:12:33.6360683+00:00",
       "NumProgressed": 254,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:26:42.1830699+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:30.8641048+00:00",
@@ -60,255 +65,255 @@
       "ID": "LEVEL_10",
       "SetID": "c3gjk9i",
       "Name": "The Italian Stallion",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_100",
       "SetID": "c3gjk9i",
       "Name": "Queen of Chess",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_110",
       "SetID": "c3gjk9i",
       "Name": "The Book",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_120",
       "SetID": "c3gjk9i",
       "Name": "Alekwine",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_130",
       "SetID": "c3gjk9i",
       "Name": "The John McEnroe of Chess",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_140",
       "SetID": "c3gjk9i",
       "Name": "White Russian",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_150",
       "SetID": "c3gjk9i",
       "Name": "Little Capablanca",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_160",
       "SetID": "c3gjk9i",
       "Name": "The Princess of Chess",
-      "Percentage": 0.4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_170",
       "SetID": "c3gjk9i",
       "Name": "Rapid Robert",
-      "Percentage": 0.4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_180",
       "SetID": "c3gjk9i",
       "Name": "The White Horse",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_190",
       "SetID": "c3gjk9i",
       "Name": "The Lightning Kid",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_20",
       "SetID": "c3gjk9i",
       "Name": "The Patriarch",
-      "Percentage": 48,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_200",
       "SetID": "c3gjk9i",
       "Name": "The Artist",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_210",
       "SetID": "c3gjk9i",
       "Name": "The Iron Tigran",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_220",
       "SetID": "c3gjk9i",
       "Name": "The Pride and Sorrow of Chess",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_230",
       "SetID": "c3gjk9i",
       "Name": "The Terminator",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_240",
       "SetID": "c3gjk9i",
       "Name": "The Machine with Two Switches",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_250",
       "SetID": "c3gjk9i",
       "Name": "The Spanish Bishop",
-      "Percentage": 0.4,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_260",
       "SetID": "c3gjk9i",
       "Name": "The Puzzle King",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_270",
       "SetID": "c3gjk9i",
       "Name": "Viktor the Terrible",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_280",
       "SetID": "c3gjk9i",
       "Name": "Leonardo da Vinci of chess",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_290",
       "SetID": "c3gjk9i",
       "Name": "The Magician from Riga",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_30",
       "SetID": "c3gjk9i",
       "Name": "The Crown Prince of Chess",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_300",
       "SetID": "c3gjk9i",
       "Name": "Mozart of Chess",
-      "Percentage": 0.4,
+      "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_40",
       "SetID": "c3gjk9i",
       "Name": "Iron Logician",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_50",
       "SetID": "c3gjk9i",
       "Name": "The Iceman",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_60",
       "SetID": "c3gjk9i",
       "Name": "The Great Stone Face",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_70",
       "SetID": "c3gjk9i",
       "Name": "The Professor",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_80",
       "SetID": "c3gjk9i",
       "Name": "Paul the Second",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_90",
       "SetID": "c3gjk9i",
       "Name": "Tiger of Madras",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "c3gjk9i",
       "IsBase": true,
-      "Progressed": 254,
-      "Completed": 1
+      "Progressed": 276,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-06-20T22:58:24.2608882+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:30.8641048+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:33.6360678+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:42.1830693+00:00",
   "LastUpdate_AppInfo": "2024-09-11T08:57:06.5109878+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:32.0508493+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:33.6360865+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:36.432836+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:42.1830882+00:00"
 }

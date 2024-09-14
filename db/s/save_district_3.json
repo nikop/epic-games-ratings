@@ -2,10 +2,10 @@
   "ID": "5429432c061e4e929f2f24a70e169041",
   "Name": "Save District 3",
   "ProductSlug": "save-district-3-ad0130",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-09T19:00:00+00:00",
     "PcReleaseDate": "2023-04-10T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-30T06:58:16.6624861+00:00",
   "LastUpdate_AppInfo": "2024-09-09T05:57:10.8272292+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:24.8060801+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:20.9008828+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:26.1113446+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:09.6112391+00:00"
 }

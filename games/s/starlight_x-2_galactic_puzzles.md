@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete 25 levels | 7.00% | ~9 |
-| Fast 6x6 | 6.00% | ~8 |
-| Use 10 hints | 6.00% | ~8 |
-| Complete 50 levels | 5.00% | ~6 |
-| Use 20 hints | 5.00% | ~6 |
+| Fast 6x6 | 5.00% | ~7 |
+| Complete 50 levels | 5.00% | ~7 |
+| Use 10 hints | 5.00% | ~7 |
+| Use 20 hints | 5.00% | ~7 |
 | By Yourself 5x5 | 3.00% | ~4 |
 | Play for 5 hours | 3.00% | ~4 |
 | Fast 7x7 | 2.00% | ~3 |
@@ -48,8 +48,8 @@
 | Complete 5000 levels | 0.00% | ~0 |
 | Complete 25 12x12 levels | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 641)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 131 (Ranked 662)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,3 +119,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 117 | 0 |
 | 2024-08-09 | 126 | 0 |
 | 2024-08-20 | 127 | 0 |
+| 2024-09-14 | 131 | 0 |

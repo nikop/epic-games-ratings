@@ -5,10 +5,10 @@
   "Ranking_Rating": 835,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 534,
-  "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -69,9 +69,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2024-08-20T20:11:13.4673952+00:00",
       "NumProgressed": 297,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:24:21.3805865+00:00",
+      "NumProgressed": 298,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 49,
@@ -268,7 +273,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_03",
@@ -282,17 +287,17 @@
       "ID": "ACH_04",
       "SetID": "2eg5kgc",
       "Name": "Go-Home Club Activities START!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_05",
       "SetID": "2eg5kgc",
       "Name": "Behind the Curtain",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_06",
@@ -308,7 +313,7 @@
       "Name": "One-Track Mind",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_08",
@@ -316,7 +321,7 @@
       "Name": "The Greater Good",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_09",
@@ -324,7 +329,7 @@
       "Name": "Selfish Decisions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_10",
@@ -332,7 +337,7 @@
       "Name": "Pulling Heartstrings",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_11",
@@ -356,7 +361,7 @@
       "Name": "Depths of the Heart",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_14",
@@ -380,7 +385,7 @@
       "Name": "Friendly Neighborhood",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_17",
@@ -420,7 +425,7 @@
       "Name": "Extracurricular Affair",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_22",
@@ -516,15 +521,15 @@
       "Name": "WIRE Guru",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_34",
       "SetID": "2eg5kgc",
       "Name": "Test Your Luck",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_35",
@@ -532,7 +537,7 @@
       "Name": "Nice Doing Business",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_36",
@@ -540,7 +545,7 @@
       "Name": "Lost Souls For Sale",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_37",
@@ -548,7 +553,7 @@
       "Name": "Investment Ban-\u03C7-ing",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_38",
@@ -572,7 +577,7 @@
       "Name": "Never Saw It Coming",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_41",
@@ -588,7 +593,7 @@
       "Name": "Coup de Grace",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_43",
@@ -604,7 +609,7 @@
       "Name": "Counter Champion",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_45",
@@ -612,7 +617,7 @@
       "Name": "Combo Commando",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_46",
@@ -628,7 +633,7 @@
       "Name": "Trigger Finger",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_48",
@@ -636,7 +641,7 @@
       "Name": "Stay Winning",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_49",
@@ -651,15 +656,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2024-03-18T16:59:46.7197526+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:13.4673945+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:21.3805859+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:02.1476742+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:12.6694186+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:13.4674306+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:55.6767777+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:21.3806224+00:00"
 }

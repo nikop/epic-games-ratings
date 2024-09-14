@@ -2,10 +2,10 @@
   "ID": "4270c5d2ac0941d7986057d31425d1e7",
   "Name": "Wallace and Gromit\u0027s Grand Adventures - Episode 1",
   "ProductSlug": "wallace-and-gromits-grand-adventures-episode-1-43ff24",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-11-19T12:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T23:57:03.3581593+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:47.0062913+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:30.9199797+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:35.4539634+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:33.4631393+00:00"
 }

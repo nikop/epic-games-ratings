@@ -5,10 +5,10 @@
   "Ranking_Rating": 1269,
   "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 261,
-  "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 532,
-  "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_Progress": 111,
+  "Ranking_EOS_Completed": 536,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-26T15:00:00+00:00",
     "PcReleaseDate": "2024-02-02T18:00:00+00:00",
@@ -2923,10 +2923,16 @@
       "Rating": 3.79,
       "NumberOfAwards": 2007,
       "NumberOfAwardsMax": 268
+    },
+    {
+      "Time": "2024-09-14T14:06:08.8836283+00:00",
+      "Rating": 3.79,
+      "NumberOfAwards": 2009,
+      "NumberOfAwardsMax": 268
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2007,
+  "NumberOfAwards": 2009,
   "NumberOfAwardsMax": 268,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2940,7 +2946,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 265
+      "Count": 267
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2985,11 +2991,11 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 150702,
-  "EOS_Completed": 22,
-  "EOS_NewPlayers": 6079,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.01,
+  "EOS_Progressed": 158456,
+  "EOS_Completed": 38,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
     {
       "Time": "2024-04-10T06:06:23.0346579+00:00",
@@ -3010,6 +3016,11 @@
       "Time": "2024-08-20T20:09:06.8508966+00:00",
       "NumProgressed": 150702,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-09-14T14:23:01.8298047+00:00",
+      "NumProgressed": 158456,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2024-04-10T06:06:23.0346607+00:00",
@@ -3022,15 +3033,15 @@
       "Name": "Winged Vengeance",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7923
     },
     {
       "ID": "BRANCH02",
       "SetID": "dj80dka",
       "Name": "War Machine",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6028
+      "UsersEstimate": 7923
     },
     {
       "ID": "BRANCH03",
@@ -3038,15 +3049,15 @@
       "Name": "Welcome to the Jungle!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3169
     },
     {
       "ID": "BRANCH04",
       "SetID": "dj80dka",
       "Name": "Managing People",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 13563
+      "UsersEstimate": 15846
     },
     {
       "ID": "BRANCH05",
@@ -3054,15 +3065,15 @@
       "Name": "Your World is Mine!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7923
     },
     {
       "ID": "BRANCH06",
       "SetID": "dj80dka",
       "Name": "Shock Treatment",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6028
+      "UsersEstimate": 7923
     },
     {
       "ID": "BRANCH07",
@@ -3070,7 +3081,7 @@
       "Name": "Combine and Conquer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3169
     },
     {
       "ID": "CINE01",
@@ -3078,7 +3089,7 @@
       "Name": "Cleaning Out the Closet",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 87407
+      "UsersEstimate": 91904
     },
     {
       "ID": "CINE02",
@@ -3086,15 +3097,15 @@
       "Name": "Hitting The Fan",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 72337
+      "UsersEstimate": 76059
     },
     {
       "ID": "CINE03",
       "SetID": "dj80dka",
       "Name": "Fowl Play",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 57267
+      "UsersEstimate": 61798
     },
     {
       "ID": "CINE04",
@@ -3102,23 +3113,23 @@
       "Name": "Walled In",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 36168
+      "UsersEstimate": 38029
     },
     {
       "ID": "CINE05",
       "SetID": "dj80dka",
       "Name": "Death Blooms",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 33154
+      "UsersEstimate": 36445
     },
     {
       "ID": "CINE06",
       "SetID": "dj80dka",
       "Name": "Blitzkrieg Bop",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 25619
+      "UsersEstimate": 28522
     },
     {
       "ID": "CINE07",
@@ -3126,23 +3137,23 @@
       "Name": "Thunderstruck!",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 22605
+      "UsersEstimate": 23768
     },
     {
       "ID": "CINE08",
       "SetID": "dj80dka",
       "Name": "Hell and Back",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 21098
+      "UsersEstimate": 23768
     },
     {
       "ID": "CINE09",
       "SetID": "dj80dka",
       "Name": "Blackest Night",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19591
+      "UsersEstimate": 22184
     },
     {
       "ID": "CINE10",
@@ -3150,15 +3161,15 @@
       "Name": "Endgame",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 18084
+      "UsersEstimate": 19015
     },
     {
       "ID": "CINE11",
       "SetID": "dj80dka",
       "Name": "Abandon All Hope",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 16577
+      "UsersEstimate": 19015
     },
     {
       "ID": "CINE12",
@@ -3166,7 +3177,7 @@
       "Name": "No One Defeats Brainiac!",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13563
+      "UsersEstimate": 14261
     },
     {
       "ID": "EXPLORE01",
@@ -3174,7 +3185,7 @@
       "Name": "History Repeats",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10549
+      "UsersEstimate": 11092
     },
     {
       "ID": "MISSIONCOMPLETE01",
@@ -3182,7 +3193,7 @@
       "Name": "Act of War",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9042
+      "UsersEstimate": 9507
     },
     {
       "ID": "MISSIONCOMPLETE02",
@@ -3190,15 +3201,15 @@
       "Name": "Battle Lines",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1585
     },
     {
       "ID": "MISSIONCOMPLETE03",
       "SetID": "dj80dka",
       "Name": "Killin\u0027 Time",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1426
     },
     {
       "ID": "MISSIONCOMPLETE04",
@@ -3206,7 +3217,7 @@
       "Name": "Into the Angry Planet",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 951
     },
     {
       "ID": "MISSIONCOMPLETE05",
@@ -3214,7 +3225,7 @@
       "Name": "The Final Frontier",
       "Percentage": 0.5,
       "XP": 60,
-      "UsersEstimate": 754
+      "UsersEstimate": 792
     },
     {
       "ID": "RIDDLER01",
@@ -3222,7 +3233,7 @@
       "Name": "Turn and Turn Again",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7923
     },
     {
       "ID": "RIDDLER02",
@@ -3230,15 +3241,15 @@
       "Name": "Their Dark Designs",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4754
     },
     {
       "ID": "RIDDLER03",
       "SetID": "dj80dka",
       "Name": "Blaze of Glory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 1507
+      "UsersEstimate": 3169
     },
     {
       "ID": "RIDDLER04",
@@ -3246,7 +3257,7 @@
       "Name": "The Right Question",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4754
     },
     {
       "ID": "RIDDLER05",
@@ -3254,31 +3265,31 @@
       "Name": "The Real Deal",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1109
     },
     {
       "ID": "RIDDLER06",
       "SetID": "dj80dka",
       "Name": "Stop Me If You\u0027ve Heard This One",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7535
+      "UsersEstimate": 9507
     },
     {
       "ID": "RIDDLER07",
       "SetID": "dj80dka",
       "Name": "The Oldest One in the Book!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 792
     },
     {
       "ID": "RPG01",
       "SetID": "dj80dka",
       "Name": "Level Up",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 24112
+      "UsersEstimate": 26938
     },
     {
       "ID": "RPG02",
@@ -3286,7 +3297,7 @@
       "Name": "Harleen the Queen",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3169
     },
     {
       "ID": "RPG03",
@@ -3294,7 +3305,7 @@
       "Name": "King For A Day",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1585
     },
     {
       "ID": "RPG04",
@@ -3302,7 +3313,7 @@
       "Name": "Captain Boomerang! Agent of Oz",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3169
     },
     {
       "ID": "RPG05",
@@ -3310,7 +3321,7 @@
       "Name": "Lawton\u0027s Last Stand",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3169
     },
     {
       "ID": "RPG06",
@@ -3318,15 +3329,15 @@
       "Name": "The Chosen One",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 7535
+      "UsersEstimate": 7923
     },
     {
       "ID": "RPG07",
       "SetID": "dj80dka",
       "Name": "Trial by Blood",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 475
     },
     {
       "ID": "RPG08",
@@ -3334,7 +3345,7 @@
       "Name": "Choices",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16577
+      "UsersEstimate": 17430
     },
     {
       "ID": "RPG09",
@@ -3342,15 +3353,15 @@
       "Name": "The Venom Connection",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1585
     },
     {
       "ID": "RPG10",
       "SetID": "dj80dka",
       "Name": "All Sorts of Fun",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 317
     },
     {
       "ID": "RPG11",
@@ -3358,7 +3369,7 @@
       "Name": "The Reaper",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 158
     },
     {
       "ID": "RPG12",
@@ -3366,7 +3377,7 @@
       "Name": "Trial By Fire",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 102477
+      "UsersEstimate": 107750
     },
     {
       "ID": "RPG13",
@@ -3374,7 +3385,7 @@
       "Name": "Choice of Evils",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6028
+      "UsersEstimate": 6338
     },
     {
       "ID": "RPG14",
@@ -3382,7 +3393,7 @@
       "Name": "Grand Experiment",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1585
     },
     {
       "ID": "RPG15",
@@ -3390,7 +3401,7 @@
       "Name": "Forces In Motion",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3014
+      "UsersEstimate": 3169
     },
     {
       "ID": "RPG16",
@@ -3398,7 +3409,7 @@
       "Name": "Allies",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1585
     },
     {
       "ID": "RPG17",
@@ -3406,31 +3417,31 @@
       "Name": "Number the Dead",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1585
     },
     {
       "ID": "RPG18",
       "SetID": "dj80dka",
       "Name": "Need to Know",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 634
     }
   ],
   "AchievementSets": [
     {
       "ID": "dj80dka",
       "IsBase": true,
-      "Progressed": 150702,
-      "Completed": 22
+      "Progressed": 158456,
+      "Completed": 38
     }
   ],
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-09-14T10:58:24.3239945+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:06.850896+00:00",
+  "LastChanged": "2024-09-14T14:06:08.8836282+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:01.8298042+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:27.5759304+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:37.221793+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:06.8509239+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:08.8836285+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:01.8298341+00:00"
 }

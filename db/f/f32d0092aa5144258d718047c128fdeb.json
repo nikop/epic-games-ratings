@@ -2,10 +2,10 @@
   "ID": "f32d0092aa5144258d718047c128fdeb",
   "Name": "Titan Quest II",
   "ProductSlug": "titan-quest-ii-391cf4",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T16:57:17.4978979+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:11.0404521+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:34.4873101+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:13.6747265+00:00"
 }

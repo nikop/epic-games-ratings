@@ -2,10 +2,10 @@
   "ID": "8109d0d7b82f4242bf4cd26108e50f20",
   "Name": "Mass Effect\u2122 (2007)",
   "ProductSlug": "mass-effect-effe55",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-23T20:00:00+00:00",
     "PcReleaseDate": "2008-05-28T08:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-14T19:58:34.2954887+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:27.8033473+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:12.5568283+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:31.9184193+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:37.124428+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:38.1847268+00:00"
 }

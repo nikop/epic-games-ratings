@@ -4,36 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Skilled | 60.00% | ~3 |
-| Strong | 40.00% | ~2 |
-| Prosperous | 40.00% | ~2 |
-| Warrior | 40.00% | ~2 |
-| Citizen | 40.00% | ~2 |
-| Fruiter | 40.00% | ~2 |
-| Well-known | 20.00% | ~1 |
-| Renowned | 20.00% | ~1 |
-| Wealthy | 20.00% | ~1 |
-| Excellent warrior | 20.00% | ~1 |
-| Gifted | 20.00% | ~1 |
-| Searcher | 20.00% | ~1 |
-| Mushroom-picker | 20.00% | ~1 |
-| Woodcutter | 20.00% | ~1 |
-| Farmer | 20.00% | ~1 |
-| Gatherer | 20.00% | ~1 |
-| Herbalist | 20.00% | ~1 |
-| Looter | 20.00% | ~1 |
-| Crayfisher | 20.00% | ~1 |
-| Dragonslayer | 20.00% | ~1 |
-| Frogman | 20.00% | ~1 |
-| Fisherman | 20.00% | ~1 |
-| Lucky fisherman | 20.00% | ~1 |
-| Caveman | 20.00% | ~1 |
-| Hunter | 20.00% | ~1 |
-| Hero | 20.00% | ~1 |
+| Fruiter | 61.00% | ~31 |
+| Skilled | 59.00% | ~30 |
+| Warrior | 47.00% | ~24 |
+| Prosperous | 41.00% | ~21 |
+| Citizen | 41.00% | ~21 |
+| Well-known | 33.00% | ~17 |
+| Herbalist | 33.00% | ~17 |
+| Farmer | 31.00% | ~16 |
+| Frogman | 29.00% | ~15 |
+| Lucky fisherman | 29.00% | ~15 |
+| Gifted | 25.00% | ~13 |
+| Searcher | 25.00% | ~13 |
+| Mushroom-picker | 25.00% | ~13 |
+| Woodcutter | 25.00% | ~13 |
+| Gatherer | 25.00% | ~13 |
+| Looter | 25.00% | ~13 |
+| Crayfisher | 25.00% | ~13 |
+| Caveman | 25.00% | ~13 |
+| Dragonslayer | 24.00% | ~12 |
+| Excellent warrior | 22.00% | ~11 |
+| Fisherman | 22.00% | ~11 |
+| Hero | 22.00% | ~11 |
+| Strong | 20.00% | ~10 |
+| Hunter | 18.00% | ~9 |
+| Renowned | 10.00% | ~5 |
+| Wealthy | 10.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 1,001)  
-Completed: 1 (20.00%) (Ranked 38)  
+Progressed: 51 (Ranked 801)  
+Completed: 3 (5.88%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-08-20 | 5 | 1 |
+| 2024-09-14 | 51 | 3 |

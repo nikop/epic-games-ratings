@@ -2,10 +2,10 @@
   "ID": "4334a911c46b4816b3d6580f5dd03fab",
   "Name": "The Adventures of Prince Shiratama ~Climb the mountains~",
   "ProductSlug": "adventure-of-prince-shiratama-vol_mountain-fbe9f3",
-  "Ranking_EOS_Progress": 936,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 23,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-26T11:00:00+00:00",
     "PcReleaseDate": "2024-06-05T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "Tags": [],
   "EOS_Progressed": 12,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 25,
   "EosHistory": [
@@ -102,8 +102,8 @@
   ],
   "FirstSeen": "2024-06-30T15:00:12.516361+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:19.0527509+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:16.0913865+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:27.9300239+00:00",
   "LastUpdate_AppInfo": "2024-09-11T14:57:22.5460019+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:06.4905141+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:16.0913926+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:51.179446+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:27.9300311+00:00"
 }

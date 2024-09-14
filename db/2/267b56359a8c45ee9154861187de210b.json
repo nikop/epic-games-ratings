@@ -2,10 +2,10 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 559,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-17T07:00:00+00:00",
     "PcReleaseDate": "2023-08-17T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -744,6 +744,11 @@
       "Time": "2024-08-20T20:11:41.740994+00:00",
       "NumProgressed": 241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:24:41.4069991+00:00",
+      "NumProgressed": 252,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -764,7 +769,7 @@
       "Name": "Mixing It Up!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TOURN_PARTICIP_40",
@@ -780,7 +785,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -844,7 +849,7 @@
       "Name": "Red-eye Flight",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "airtime_short",
@@ -852,7 +857,7 @@
       "Name": "Glider",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "beat_c1_bronze",
@@ -868,7 +873,7 @@
       "Name": "Wax On, Wax Off",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "beat_c1_gold",
@@ -876,15 +881,15 @@
       "Name": "Venture Time",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 103
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "beat_c1a_bronze",
@@ -932,15 +937,15 @@
       "Name": "Timing, Rhythm, and Rhyme",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "beat_c2_silver",
@@ -948,7 +953,7 @@
       "Name": "Gone for a Whirl",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "beat_c2a_bronze",
@@ -994,17 +999,17 @@
       "ID": "beat_c3_diamond",
       "SetID": "3448go",
       "Name": "Power-Levelling",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "beat_c3_gold",
       "SetID": "3448go",
       "Name": "Storm the Citadel",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "beat_c3_silver",
@@ -1012,7 +1017,7 @@
       "Name": "Power-Ups and Downs",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "beat_c3a_bronze",
@@ -1076,7 +1081,7 @@
       "Name": "Slip Sliding Away",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "beat_c4a_bronze",
@@ -1122,17 +1127,17 @@
       "ID": "beat_c5_diamond",
       "SetID": "3448go",
       "Name": "Art Dodeco",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "beat_c5_gold",
       "SetID": "3448go",
       "Name": "Every Penrose Has Its Thorn",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "beat_c5_silver",
@@ -1140,7 +1145,7 @@
       "Name": "Symbiotic Relationship",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "beat_c6_bronze",
@@ -1180,7 +1185,7 @@
       "Name": "Ultra Unlocked",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "beat_mayhem_diamond",
@@ -1330,17 +1335,17 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "rolldist_short",
       "SetID": "3448go",
       "Name": "Rolling the Competition",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 169
     },
     {
       "ID": "soccer_hattrick",
@@ -1348,7 +1353,7 @@
       "Name": "Hat Trick Hero",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "soccer_high",
@@ -1364,15 +1369,15 @@
       "Name": "Goal-Chaser",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "soccer_mid",
       "SetID": "3448go",
       "Name": "Pretty Forward",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "trophies_10",
@@ -1380,7 +1385,7 @@
       "Name": "Look What I Found!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "trophies_117",
@@ -1396,7 +1401,7 @@
       "Name": "Marble Detector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "trophies_50",
@@ -1404,7 +1409,7 @@
       "Name": "Super Sleuth",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "trophies_75",
@@ -1412,7 +1417,7 @@
       "Name": "The Archeologist",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "zombie_high",
@@ -1443,14 +1448,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 252,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:41.7409935+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:41.4069985+00:00",
   "LastUpdate_AppInfo": "2024-09-13T04:57:11.0185761+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:32.9277389+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:41.7410776+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:57.832949+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:41.4070693+00:00"
 }

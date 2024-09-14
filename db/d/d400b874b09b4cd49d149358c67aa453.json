@@ -5,10 +5,10 @@
   "Ranking_Rating": 1139,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 141,
-  "Ranking_EOS_Completed": 483,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 142,
+  "Ranking_EOS_Completed": 509,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -383,8 +383,8 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89645,
-  "EOS_Completed": 35,
+  "EOS_Progressed": 94502,
+  "EOS_Completed": 41,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
@@ -3183,6 +3183,11 @@
       "Time": "2024-08-09T18:02:14.5173514+00:00",
       "NumProgressed": 89645,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-09-14T14:15:23.6308851+00:00",
+      "NumProgressed": 94502,
+      "NumCompleted": 41
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -3195,7 +3200,7 @@
       "Name": "Cables in Paris",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1890
     },
     {
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
@@ -3203,7 +3208,7 @@
       "Name": "One to rule them all",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_CONNECT_EXTENSION_CORD_SELF",
@@ -3211,7 +3216,7 @@
       "Name": "Electuum Mobile",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1890
     },
     {
       "ID": "ACH_END_ALL_MAIL_MISSIONS",
@@ -3219,7 +3224,7 @@
       "Name": "I hate customers",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 896
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_END_ALL_TUTORIALS",
@@ -3227,7 +3232,7 @@
       "Name": "Virtual Electrician",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 10757
+      "UsersEstimate": 11340
     },
     {
       "ID": "ACH_END_ALL_WORKBENCH_MISSIONS",
@@ -3235,7 +3240,7 @@
       "Name": "Enough workbench",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 359
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_END_FIRST_MAIL_MISSION",
@@ -3243,7 +3248,7 @@
       "Name": "I love customers",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 60959
+      "UsersEstimate": 64261
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -3251,7 +3256,7 @@
       "Name": "Ready to go",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 74405
+      "UsersEstimate": 78437
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -3259,7 +3264,7 @@
       "Name": "I can fix that",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 61855
+      "UsersEstimate": 65206
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -3267,7 +3272,7 @@
       "Name": "Gotta go fast",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 23308
+      "UsersEstimate": 24571
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -3275,7 +3280,7 @@
       "Name": "First shock",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 44822
+      "UsersEstimate": 47251
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -3283,7 +3288,7 @@
       "Name": "Illuminator",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_FIX_OUTLETS",
@@ -3291,7 +3296,7 @@
       "Name": "Here comes electricity",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_GET_ALL_MAILS",
@@ -3299,7 +3304,7 @@
       "Name": "Full inbox",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 359
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_GET_MONEY",
@@ -3307,7 +3312,7 @@
       "Name": "Wealthy electrician",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 628
+      "UsersEstimate": 662
     },
     {
       "ID": "ACH_GET_POINTS_IN_ELETRIS",
@@ -3315,7 +3320,7 @@
       "Name": "Retro feeling",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_GO_TO_MISSION_WITHOUT_NEEDED_ITEMS",
@@ -3323,7 +3328,7 @@
       "Name": "I like the risk",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 18825
+      "UsersEstimate": 19845
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -3331,7 +3336,7 @@
       "Name": "Audiophile",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH_PLACE_FIRST_ITEM_IN_OFFICE",
@@ -3339,7 +3344,7 @@
       "Name": "Home sweet home",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 87852
+      "UsersEstimate": 92612
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -3347,7 +3352,7 @@
       "Name": "Huge electricity bill",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1890
     },
     {
       "ID": "ACH_REPAIR_GAME_ITEMS",
@@ -3355,7 +3360,7 @@
       "Name": "Video Games Lover",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 448
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_SELL_ALL_DEBRIS",
@@ -3363,7 +3368,7 @@
       "Name": "Unpacked",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 86059
+      "UsersEstimate": 90722
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -3371,7 +3376,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1890
     },
     {
       "ID": "ACH_START_CAR",
@@ -3379,7 +3384,7 @@
       "Name": "That\u2019s not very ecological",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 179
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH_UNSCREW",
@@ -3387,7 +3392,7 @@
       "Name": "Unscrew you",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 32272
+      "UsersEstimate": 34021
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -3395,23 +3400,23 @@
       "Name": "Watch me",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 473
     }
   ],
   "AchievementSets": [
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 89645,
-      "Completed": 35
+      "Progressed": 94502,
+      "Completed": 41
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenRating": "2024-05-14T21:56:55.8086129+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
   "LastChanged": "2024-09-13T11:59:46.1893305+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:14.5173509+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:23.6308844+00:00",
   "LastUpdate_AppInfo": "2024-09-13T04:57:11.3954359+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:58.4354639+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:14.5173788+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:36.413157+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:23.6309106+00:00"
 }

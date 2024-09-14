@@ -2,10 +2,10 @@
   "ID": "cc3b1d2ad407462d85aae3421985df2f",
   "Name": "Shadow of the Road",
   "ProductSlug": "shadow-of-the-road-42382d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T15:57:01.1877863+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:06.3505262+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:09.8543415+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:12.8760884+00:00"
 }

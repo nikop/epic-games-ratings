@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 95.00% | ~321 |
-| Practice Makes Perfect | 85.00% | ~287 |
-| Creator of Life | 84.00% | ~284 |
-| Creator of Diversity | 73.00% | ~247 |
-| Similar to Similar | 72.00% | ~243 |
-| Creator of Humanity | 67.00% | ~226 |
-| Creator of Civilization | 42.00% | ~142 |
-| Creator of Technology | 25.00% | ~84 |
-| Honorable Santa | 23.00% | ~78 |
-| God of Fun | 19.00% | ~64 |
-| Creator of Modernity | 17.00% | ~57 |
-| Doodle Bar | 17.00% | ~57 |
-| Half the Kingdom | 17.00% | ~57 |
-| Deity of Darkness | 16.00% | ~54 |
+| Good Start | 95.00% | ~325 |
+| Creator of Life | 85.00% | ~291 |
+| Practice Makes Perfect | 85.00% | ~291 |
+| Creator of Diversity | 73.00% | ~250 |
+| Similar to Similar | 71.00% | ~243 |
+| Creator of Humanity | 67.00% | ~229 |
+| Creator of Civilization | 42.00% | ~144 |
+| Creator of Technology | 25.00% | ~86 |
+| Honorable Santa | 23.00% | ~79 |
+| God of Fun | 20.00% | ~68 |
+| Creator of Modernity | 18.00% | ~62 |
+| Doodle Bar | 18.00% | ~62 |
+| Half the Kingdom | 18.00% | ~62 |
+| Deity of Darkness | 16.00% | ~55 |
 | Creator of Magic | 15.00% | ~51 |
-| Heavenly Virtues | 10.00% | ~34 |
-| Brilliant Inventor | 9.00% | ~30 |
-| Salvation! | 9.00% | ~30 |
+| Heavenly Virtues | 11.00% | ~38 |
+| Salvation! | 10.00% | ~34 |
+| Brilliant Inventor | 8.00% | ~27 |
 | Greatest inventor | 7.00% | ~24 |
-| Master of the Worlds | 6.00% | ~20 |
+| Master of the Worlds | 6.00% | ~21 |
 | Master of Alchemy | 5.00% | ~17 |
 | God of Patience | 4.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 520)  
-Completed: 12 (3.55%) (Ranked 153)  
+Progressed: 342 (Ranked 536)  
+Completed: 12 (3.51%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -111,6 +111,7 @@ Completed: 12 (3.55%) (Ranked 153)
 | 2024-04-10 | 309 | 10 |
 | 2024-06-17 | 326 | 11 |
 | 2024-08-09 | 338 | 12 |
+| 2024-09-14 | 342 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

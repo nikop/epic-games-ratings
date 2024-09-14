@@ -5,10 +5,10 @@
   "Ranking_Rating": 19,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 16,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 97,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2019-03-19T14:00:00+00:00",
     "PcReleaseDate": "2019-03-19T14:00:00+00:00",
@@ -26013,10 +26013,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 157384,
       "NumberOfAwardsMax": 21112
+    },
+    {
+      "Time": "2024-09-14T14:05:45.3676866+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 157564,
+      "NumberOfAwardsMax": 21112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 157384,
+  "NumberOfAwards": 157564,
   "NumberOfAwardsMax": 21112,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -26072,7 +26078,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 14538
+      "Count": 14718
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -26087,28 +26093,388 @@
       "Count": 12331
     }
   ],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 216724,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:38.0083271+00:00",
+      "NumProgressed": 216724,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:38.0083296+00:00",
+  "TotalAchievements": 44,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BUILD_FOUNDATIONS",
+      "SetID": "2o263om",
+      "Name": "A Concrete Example",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 2167
+    },
+    {
+      "ID": "BUILT_MANUFACTURERS",
+      "SetID": "2o263om",
+      "Name": "Bigger. Better. FICSIT.",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 8669
+    },
+    {
+      "ID": "BUILT_SPACE_ELEVATOR",
+      "SetID": "2o263om",
+      "Name": "Commencing Project Assembly",
+      "Percentage": 26,
+      "XP": 5,
+      "UsersEstimate": 56348
+    },
+    {
+      "ID": "COMPLETE_ALL_RESEARCH_TREES",
+      "SetID": "2o263om",
+      "Name": "...Satisfactory brought it back",
+      "Percentage": 0.1,
+      "XP": 65,
+      "UsersEstimate": 217
+    },
+    {
+      "ID": "COMPLETE_FIRST_RESEARCH_TREE",
+      "SetID": "2o263om",
+      "Name": "Curiosity killed the cat...",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 17338
+    },
+    {
+      "ID": "COMPLETE_GAMEPHASE1",
+      "SetID": "2o263om",
+      "Name": "Mediocre pioneering",
+      "Percentage": 27,
+      "XP": 5,
+      "UsersEstimate": 58515
+    },
+    {
+      "ID": "COMPLETE_GAMEPHASE2",
+      "SetID": "2o263om",
+      "Name": "Adequate pioneering",
+      "Percentage": 6,
+      "XP": 5,
+      "UsersEstimate": 13003
+    },
+    {
+      "ID": "COMPLETE_GAMEPHASE3",
+      "SetID": "2o263om",
+      "Name": "Pretty good pioneering",
+      "Percentage": 1,
+      "XP": 65,
+      "UsersEstimate": 2167
+    },
+    {
+      "ID": "COMPLETE_GAMEPHASE4",
+      "SetID": "2o263om",
+      "Name": "Efficient pioneering",
+      "Percentage": 0.4,
+      "XP": 105,
+      "UsersEstimate": 867
+    },
+    {
+      "ID": "COMPLETE_GAMEPHASE5",
+      "SetID": "2o263om",
+      "Name": "Saved the Day, probably",
+      "Percentage": 0.1,
+      "XP": 105,
+      "UsersEstimate": 217
+    },
+    {
+      "ID": "COMPLETE_ONBOARDING",
+      "SetID": "2o263om",
+      "Name": "Do you want a medal?",
+      "Percentage": 27,
+      "XP": 5,
+      "UsersEstimate": 58515
+    },
+    {
+      "ID": "DRINK_COFFEE",
+      "SetID": "2o263om",
+      "Name": "Are you sure that\u0027s coffee?",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 10836
+    },
+    {
+      "ID": "ENTERED_CYBERWAGON",
+      "SetID": "2o263om",
+      "Name": "No refunds",
+      "Percentage": 0.5,
+      "XP": 65,
+      "UsersEstimate": 1084
+    },
+    {
+      "ID": "FLOOR_IS_LAVA",
+      "SetID": "2o263om",
+      "Name": "The floor is lava",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 4334
+    },
+    {
+      "ID": "FUSE_RESET",
+      "SetID": "2o263om",
+      "Name": "New fear unlocked",
+      "Percentage": 45,
+      "XP": 5,
+      "UsersEstimate": 97526
+    },
+    {
+      "ID": "GATHERED_ALL_SLUG_TYPES",
+      "SetID": "2o263om",
+      "Name": "Caught them all",
+      "Percentage": 18,
+      "XP": 5,
+      "UsersEstimate": 39010
+    },
+    {
+      "ID": "GATHERED_HARDDRIVES",
+      "SetID": "2o263om",
+      "Name": "Data driven",
+      "Percentage": 0.1,
+      "XP": 5,
+      "UsersEstimate": 217
+    },
+    {
+      "ID": "JUMPED_ON_SPACE_GIRAFFE",
+      "SetID": "2o263om",
+      "Name": "Wheeeee!",
+      "Percentage": 19,
+      "XP": 5,
+      "UsersEstimate": 41178
+    },
+    {
+      "ID": "KNOCKED_CREATURE_WITH_VEHICLE",
+      "SetID": "2o263om",
+      "Name": "Establish dominance",
+      "Percentage": 8,
+      "XP": 5,
+      "UsersEstimate": 17338
+    },
+    {
+      "ID": "LENGTH_BUILT_CONVEYOR_BELT",
+      "SetID": "2o263om",
+      "Name": "Spaghetti master",
+      "Percentage": 14,
+      "XP": 5,
+      "UsersEstimate": 30341
+    },
+    {
+      "ID": "LENGTH_PIPELINE_PLACED",
+      "SetID": "2o263om",
+      "Name": "Pipe dream",
+      "Percentage": 0.7,
+      "XP": 5,
+      "UsersEstimate": 1517
+    },
+    {
+      "ID": "LENGTH_RAILWAY_PLACED",
+      "SetID": "2o263om",
+      "Name": "Railroad tycoon",
+      "Percentage": 0.6,
+      "XP": 5,
+      "UsersEstimate": 1300
+    },
+    {
+      "ID": "NUM_PICKED_UP_BOOMTAPE",
+      "SetID": "2o263om",
+      "Name": "Thank you for the music",
+      "Percentage": 5,
+      "XP": 5,
+      "UsersEstimate": 10836
+    },
+    {
+      "ID": "NUM_PLAYER_KNOCKED_OVER",
+      "SetID": "2o263om",
+      "Name": "Look both ways next time",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 4334
+    },
+    {
+      "ID": "PETTED_MANTA",
+      "SetID": "2o263om",
+      "Name": "Wait, you can pet it?",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1734
+    },
+    {
+      "ID": "PICKED_UP_ANY_SLUG",
+      "SetID": "2o263om",
+      "Name": "Yoink!",
+      "Percentage": 44,
+      "XP": 5,
+      "UsersEstimate": 95359
+    },
+    {
+      "ID": "PICKED_UP_CONSUMABLES",
+      "SetID": "2o263om",
+      "Name": "Varied diet",
+      "Percentage": 29,
+      "XP": 5,
+      "UsersEstimate": 62850
+    },
+    {
+      "ID": "PICKED_UP_FIRST_MERCER",
+      "SetID": "2o263om",
+      "Name": "I\u0027m sure these play a Critical Role",
+      "Percentage": 36,
+      "XP": 5,
+      "UsersEstimate": 78021
+    },
+    {
+      "ID": "PICKED_UP_FIRST_SOMERSLOOP",
+      "SetID": "2o263om",
+      "Name": "Oddly familiar",
+      "Percentage": 27,
+      "XP": 5,
+      "UsersEstimate": 58515
+    },
+    {
+      "ID": "PICKED_UP_FOLIAGE",
+      "SetID": "2o263om",
+      "Name": "Heal this, nature!",
+      "Percentage": 29,
+      "XP": 5,
+      "UsersEstimate": 62850
+    },
+    {
+      "ID": "PICKED_UP_X_MERCER",
+      "SetID": "2o263om",
+      "Name": "Consume",
+      "Percentage": 0.1,
+      "XP": 65,
+      "UsersEstimate": 217
+    },
+    {
+      "ID": "PICKED_UP_X_SOMERSLOOP",
+      "SetID": "2o263om",
+      "Name": "My skin feels itchy all of a sudden...",
+      "Percentage": 0.1,
+      "XP": 65,
+      "UsersEstimate": 217
+    },
+    {
+      "ID": "PLACED_PORTABLE_MINER",
+      "SetID": "2o263om",
+      "Name": "Rock and stone!",
+      "Percentage": 45,
+      "XP": 5,
+      "UsersEstimate": 97526
+    },
+    {
+      "ID": "PRINTED_COUPON",
+      "SetID": "2o263om",
+      "Name": "Now where to spend it...",
+      "Percentage": 21,
+      "XP": 5,
+      "UsersEstimate": 45512
+    },
+    {
+      "ID": "PURCHASED_NUT",
+      "SetID": "2o263om",
+      "Name": "Do you need that?",
+      "Percentage": 0.1,
+      "XP": 105,
+      "UsersEstimate": 217
+    },
+    {
+      "ID": "REACHED_HIGHEST_PEAK",
+      "SetID": "2o263om",
+      "Name": "Peak gameplay",
+      "Percentage": 1,
+      "XP": 5,
+      "UsersEstimate": 2167
+    },
+    {
+      "ID": "REACHED_MAX_WORLD_HEIGHT",
+      "SetID": "2o263om",
+      "Name": "What a thrill",
+      "Percentage": 0.8,
+      "XP": 5,
+      "UsersEstimate": 1734
+    },
+    {
+      "ID": "SETUP_TRAIN_SCHEDULE",
+      "SetID": "2o263om",
+      "Name": "All aboard!",
+      "Percentage": 2,
+      "XP": 5,
+      "UsersEstimate": 4334
+    },
+    {
+      "ID": "STARTING_AREAS_VISITED",
+      "SetID": "2o263om",
+      "Name": "Let\u0027s see what\u0027s out there",
+      "Percentage": 3,
+      "XP": 65,
+      "UsersEstimate": 6502
+    },
+    {
+      "ID": "SURVIVED_FALL_1HP",
+      "SetID": "2o263om",
+      "Name": "That was a close one",
+      "Percentage": 7,
+      "XP": 5,
+      "UsersEstimate": 15171
+    },
+    {
+      "ID": "TAMED_LIZARD_DOGGO",
+      "SetID": "2o263om",
+      "Name": "Pioneer\u0027s best friend",
+      "Percentage": 4,
+      "XP": 5,
+      "UsersEstimate": 8669
+    },
+    {
+      "ID": "TOO_FAST",
+      "SetID": "2o263om",
+      "Name": "Too fast, Too factory",
+      "Percentage": 18,
+      "XP": 65,
+      "UsersEstimate": 39010
+    },
+    {
+      "ID": "UNLOCKED_ALL_MILESTONES",
+      "SetID": "2o263om",
+      "Name": "Efficiency first",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNLOCK_FIRST_ALT_RECIPE",
+      "SetID": "2o263om",
+      "Name": "Master Chef",
+      "Percentage": 23,
+      "XP": 5,
+      "UsersEstimate": 49847
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2o263om",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 216724,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-09-14T13:09:06.3250866+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:27.0110243+00:00",
+  "LastChanged": "2024-09-14T14:05:45.3676864+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:38.0083264+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:23.9648163+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:06.3250871+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:27.0110281+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:45.367687+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:38.0091964+00:00"
 }

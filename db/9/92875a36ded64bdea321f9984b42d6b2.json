@@ -2,10 +2,10 @@
   "ID": "92875a36ded64bdea321f9984b42d6b2",
   "Name": "Populous",
   "ProductSlug": "populous-845452",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-27T20:00:00+00:00",
     "PcReleaseDate": "2024-03-07T06:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-29T16:58:29.8502434+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:29.2154692+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:21.6626652+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:32.1360128+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:28.1723174+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:39.5350137+00:00"
 }

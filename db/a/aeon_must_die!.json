@@ -2,10 +2,10 @@
   "ID": "e4da11298fd3481daf61f46187082074",
   "Name": "Aeon Must Die!",
   "ProductSlug": "aeon-must-die",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 4879,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
     "PcReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3746,
+  "EOS_Progressed": 3758,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.75,
   "EosHistory": [
@@ -1054,6 +1054,11 @@
       "Time": "2024-08-20T20:12:43.8845584+00:00",
       "NumProgressed": 3746,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-09-14T14:26:55.4549918+00:00",
+      "NumProgressed": 3758,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1065,7 +1070,7 @@
       "Name": "The Purpose Of Betrayal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 752
     },
     {
       "ID": "10",
@@ -1073,7 +1078,7 @@
       "Name": "Purpose Lost",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "11",
@@ -1113,7 +1118,7 @@
       "Name": "Hot Potato",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "16",
@@ -1121,7 +1126,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "17",
@@ -1137,7 +1142,7 @@
       "Name": "Rightfully Yours",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 639
     },
     {
       "ID": "19",
@@ -1153,7 +1158,7 @@
       "Name": "A Scarlet Mark",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "20",
@@ -1161,7 +1166,7 @@
       "Name": "Even While Weakened",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "21",
@@ -1185,7 +1190,7 @@
       "Name": "Rush Of Flames",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "24",
@@ -1201,7 +1206,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 601
     },
     {
       "ID": "26",
@@ -1209,7 +1214,7 @@
       "Name": "Cold Blooded",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "27",
@@ -1233,7 +1238,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "3",
@@ -1241,7 +1246,7 @@
       "Name": "Dreams Of Perfection",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "30",
@@ -1249,7 +1254,7 @@
       "Name": "Untouchable Legend",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "31",
@@ -1273,7 +1278,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 864
     },
     {
       "ID": "34",
@@ -1337,14 +1342,14 @@
       "Name": "Buried Memories",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     }
   ],
   "AchievementSets": [
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3746,
+      "Progressed": 3758,
       "Completed": -28
     }
   ],
@@ -1352,8 +1357,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:43.8845575+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:55.4549912+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:18.0997736+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:11.175043+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:43.8845841+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:13.6362384+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:55.4550201+00:00"
 }

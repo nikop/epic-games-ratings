@@ -2,10 +2,10 @@
   "ID": "afb1eb5b870649929df0d5cd7a9afb94",
   "Name": "The Magical Mixture Mill",
   "ProductSlug": "magical-mixture-mill-f66c25",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2024-03-27T15:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "d8khicp",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:06.7207913+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:06.7207862+00:00",
   "LastUpdate_AppInfo": "2024-09-09T09:57:15.9215962+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:45.6840643+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:45.9815787+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:06.7207925+00:00"
 }

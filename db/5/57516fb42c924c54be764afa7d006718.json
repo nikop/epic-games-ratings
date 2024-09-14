@@ -2,10 +2,10 @@
   "ID": "57516fb42c924c54be764afa7d006718",
   "Name": "Doodle Kingdom",
   "ProductSlug": "doodle-kingdom-91f65e",
-  "Ranking_EOS_Progress": 846,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 886,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2016-06-08T21:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 26,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -50,6 +50,11 @@
       "Time": "2024-08-20T20:12:52.8782891+00:00",
       "NumProgressed": 26,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:07.6463973+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-05-13T20:05:43.9176112+00:00",
@@ -60,9 +65,9 @@
       "ID": "801302",
       "SetID": "ckhgfk3",
       "Name": "Shopper",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "801312",
@@ -92,15 +97,15 @@
       "ID": "801342",
       "SetID": "ckhgfk3",
       "Name": "Unknown Hero",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "801352",
       "SetID": "ckhgfk3",
       "Name": "Vagabond",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -108,9 +113,9 @@
       "ID": "801362",
       "SetID": "ckhgfk3",
       "Name": "Quest complete",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "801372",
@@ -124,7 +129,7 @@
       "ID": "801382",
       "SetID": "ckhgfk3",
       "Name": "Bestiary",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -140,7 +145,7 @@
       "ID": "801402",
       "SetID": "ckhgfk3",
       "Name": "Shopping addicted",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
       "UsersEstimate": 2
     },
@@ -148,7 +153,7 @@
       "ID": "801412",
       "SetID": "ckhgfk3",
       "Name": "Unstoppable",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -156,7 +161,7 @@
       "ID": "801422",
       "SetID": "ckhgfk3",
       "Name": "Lord of the elements",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -173,14 +178,14 @@
     {
       "ID": "ckhgfk3",
       "IsBase": true,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-06T01:47:06.6128001+00:00",
   "FirstSeenAchievements": "2024-04-07T18:01:56.9650271+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:52.8782887+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:07.6463967+00:00",
   "LastUpdate_AppInfo": "2024-09-13T10:56:58.0977294+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:32.5105111+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:52.8782962+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:36.2792138+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:07.6464084+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "532644adc3434590b6d5b644e05fec16",
   "Name": "Sniper Elite: Resistance",
   "ProductSlug": "sniper-elite-resistance",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,7 +29,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "6ig6713",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:13.0435728+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:13.0435707+00:00",
   "LastUpdate_AppInfo": "2024-09-10T13:57:30.3963383+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:08.480942+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:02.4129021+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:13.0435744+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "ba2f4991f6aa48ac8c7313b7b1dab551",
   "Name": "Realpolitiks 3: Earth and Beyond",
   "ProductSlug": "realpolitiks-3-earth-and-beyond-72df13",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T19:57:16.458946+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:09.3611485+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:07.4811108+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:19.0572558+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:22.1608134+00:00"
 }

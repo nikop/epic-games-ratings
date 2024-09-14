@@ -6,31 +6,31 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 86.00% | ~910 |
-| Completed Act I | 32.00% | ~339 |
-| 5 Upgrades in Stronghold | 28.00% | ~296 |
-| First 5 Levels of Od Nua | 26.00% | ~275 |
-| Make an Adventurer | 24.00% | ~254 |
-| Completed Act II | 17.00% | ~180 |
-| Enchanter | 16.00% | ~169 |
-| Disposition | 16.00% | ~169 |
-| Middle 5 Levels of Od Nua | 16.00% | ~169 |
-| Super Murderer | 15.00% | ~159 |
-| All Upgrades in Stronghold | 15.00% | ~159 |
-| The Watcher With Eight Friends | 15.00% | ~159 |
-| The Heir of Caed Nua | 14.00% | ~148 |
-| Soulbinder | 14.00% | ~148 |
-| Last 5 Levels of Od Nua | 13.00% | ~138 |
-| Bounty Hunter | 12.00% | ~127 |
-| The Giftbearer | 11.00% | ~116 |
-| Trappy | 10.00% | ~106 |
-| Herald of the Old Flame | 10.00% | ~106 |
-| Watcher at the Breach | 10.00% | ~106 |
+| Kickstarter Backer | 86.00% | ~904 |
+| Completed Act I | 32.00% | ~336 |
+| 5 Upgrades in Stronghold | 28.00% | ~294 |
+| First 5 Levels of Od Nua | 26.00% | ~273 |
+| Make an Adventurer | 24.00% | ~252 |
+| Completed Act II | 18.00% | ~189 |
+| Enchanter | 16.00% | ~168 |
+| Disposition | 16.00% | ~168 |
+| The Watcher With Eight Friends | 16.00% | ~168 |
+| Middle 5 Levels of Od Nua | 16.00% | ~168 |
+| Super Murderer | 15.00% | ~158 |
+| All Upgrades in Stronghold | 15.00% | ~158 |
+| Soulbinder | 15.00% | ~158 |
+| The Heir of Caed Nua | 14.00% | ~147 |
+| Last 5 Levels of Od Nua | 13.00% | ~137 |
+| Bounty Hunter | 12.00% | ~126 |
+| The Giftbearer | 12.00% | ~126 |
+| Trappy | 10.00% | ~105 |
+| Herald of the Old Flame | 10.00% | ~105 |
+| Watcher at the Breach | 10.00% | ~105 |
 | Completed Act III | 9.00% | ~95 |
-| Alchemist | 8.00% | ~85 |
-| Fish Guts and Murder | 8.00% | ~85 |
+| Alchemist | 8.00% | ~84 |
+| The Siege of Crägholdt | 8.00% | ~84 |
+| Fish Guts and Murder | 8.00% | ~84 |
 | A Voice from the Deep | 7.00% | ~74 |
-| The Siege of Crägholdt | 7.00% | ~74 |
 | Explorer | 6.00% | ~63 |
 | Called to their Labor | 6.00% | ~63 |
 | Chef | 5.00% | ~53 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,058 (Ranked 405)  
-Completed: 2 (0.19%) (Ranked 397)  
+Progressed: 1,051 (Ranked 419)  
+Completed: 2 (0.19%) (Ranked 420)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -124,6 +124,7 @@ Completed: 2 (0.19%) (Ranked 397)
 | 2024-04-10 | 1,070 | 2 |
 | 2024-06-17 | 1,061 | 2 |
 | 2024-08-09 | 1,058 | 2 |
+| 2024-09-14 | 1,051 | 2 |
 ## Awards
 Max (Character Customization): 2,080  (Ranked 138)  
 Sum: 5,154 (Ranked 172)  

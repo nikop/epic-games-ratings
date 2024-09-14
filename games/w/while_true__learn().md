@@ -1,42 +1,42 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 678)  
+Rating: 4.51 (Ranked 679)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 94.00% | ~599,268 |
-| Error: Stack Overflow | 66.00% | ~420,763 |
-| We need more gold | 61.00% | ~388,887 |
-| The dawn of civilization | 54.00% | ~344,260 |
-| More FPS for the FPS god! | 50.00% | ~318,760 |
-| Beauty and harmony | 48.00% | ~306,009 |
-| One more! | 45.00% | ~286,884 |
-| Overmind | 25.00% | ~159,380 |
-| RNG is my best friend now | 18.00% | ~114,753 |
-| Cosplay | 14.00% | ~89,253 |
-| Evolution in progress... | 13.00% | ~82,877 |
-| Step by step | 8.00% | ~51,002 |
-| README reader | 4.00% | ~25,501 |
-| Data scientist | 4.00% | ~25,501 |
-| One small step for a man... | 4.00% | ~25,501 |
-| To see it all, to learn it all | 2.00% | ~12,750 |
-| Evolution complete | 2.00% | ~12,750 |
-| Best deal on the market | 2.00% | ~12,750 |
-| Is this Skynet? | 2.00% | ~12,750 |
-| Cybergeek 2047 | 2.00% | ~12,750 |
-| The hoarder | 1.00% | ~6,375 |
-| Ping | 1.00% | ~6,375 |
-| Magna cum laude | 1.00% | ~6,375 |
-| Deal with it! | 0.60% | ~3,825 |
-| Gold rush | 0.50% | ~3,188 |
-| Cat-o-holic | 0.40% | ~2,550 |
-| Elements will destroy you! | 0.40% | ~2,550 |
-| The Scrooge | 0.10% | ~638 |
+| First.. Bit? | 94.00% | ~601,068 |
+| Error: Stack Overflow | 66.00% | ~422,026 |
+| We need more gold | 61.00% | ~390,055 |
+| The dawn of civilization | 54.00% | ~345,294 |
+| More FPS for the FPS god! | 50.00% | ~319,717 |
+| Beauty and harmony | 48.00% | ~306,928 |
+| One more! | 45.00% | ~287,745 |
+| Overmind | 25.00% | ~159,858 |
+| RNG is my best friend now | 18.00% | ~115,098 |
+| Cosplay | 14.00% | ~89,521 |
+| Evolution in progress... | 13.00% | ~83,126 |
+| Step by step | 8.00% | ~51,155 |
+| README reader | 4.00% | ~25,577 |
+| Data scientist | 4.00% | ~25,577 |
+| One small step for a man... | 4.00% | ~25,577 |
+| To see it all, to learn it all | 2.00% | ~12,789 |
+| Evolution complete | 2.00% | ~12,789 |
+| Best deal on the market | 2.00% | ~12,789 |
+| Is this Skynet? | 2.00% | ~12,789 |
+| Cybergeek 2047 | 2.00% | ~12,789 |
+| The hoarder | 1.00% | ~6,394 |
+| Ping | 1.00% | ~6,394 |
+| Magna cum laude | 1.00% | ~6,394 |
+| Deal with it! | 0.60% | ~3,837 |
+| Gold rush | 0.50% | ~3,197 |
+| Cat-o-holic | 0.40% | ~2,558 |
+| Elements will destroy you! | 0.40% | ~2,558 |
+| The Scrooge | 0.10% | ~639 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 637,519 (Ranked 38)  
-Completed: 630 (0.10%) (Ranked 438)  
+Progressed: 639,434 (Ranked 41)  
+Completed: 634 (0.10%) (Ranked 462)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,6 +324,7 @@ Completed: 630 (0.10%) (Ranked 438)
 | 2024-06-17 | 632,810 | 618 |
 | 2024-08-09 | 636,740 | 630 |
 | 2024-08-20 | 637,519 | 630 |
+| 2024-09-14 | 639,434 | 634 |
 ## Awards
 Max (Challenging Puzzles): 151  (Ranked 402)  
 Sum: 151 (Ranked 541)  

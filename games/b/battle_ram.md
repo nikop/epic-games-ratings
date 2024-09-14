@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| START | 3.00% | ~10 |
-| Ram Corporal | 2.00% | ~6 |
-| Ram First Sergeant | 1.00% | ~3 |
-| Senior Sergeant Baran | 1.00% | ~3 |
-| Sergeant Major Baran | 1.00% | ~3 |
-| Ram Sergeant | 0.90% | ~3 |
-| Ram Staff Sergeant | 0.90% | ~3 |
-| Senior warrant officer Baran 3rd class | 0.60% | ~2 |
-| Senior warrant officer Baran 4th class | 0.60% | ~2 |
-| Captain Baran | 0.60% | ~2 |
-| Senior Major Baran | 0.60% | ~2 |
-| Brigadier General Baran | 0.60% | ~2 |
-| Lieutenant General Baran | 0.60% | ~2 |
-| Senior warrant officer Baran 1st class | 0.60% | ~2 |
-| Senior warrant officer Baran 2nd class | 0.60% | ~2 |
-| Junior Lieutenant Baran | 0.30% | ~1 |
-| Baran Senior Warrant Officer Grade 5 | 0.30% | ~1 |
-| Senior Lieutenant Baran | 0.30% | ~1 |
-| Lieutenant Colonel Baran | 0.30% | ~1 |
-| EMERAID RAM | 0.30% | ~1 |
-| Colonel Baran | 0.00% | ~0 |
+| START | 5.00% | ~16 |
+| Ram Corporal | 4.00% | ~13 |
+| Ram First Sergeant | 3.00% | ~10 |
+| Senior Sergeant Baran | 3.00% | ~10 |
+| Ram Sergeant | 2.00% | ~7 |
+| Ram Staff Sergeant | 2.00% | ~7 |
+| Sergeant Major Baran | 2.00% | ~7 |
+| Senior warrant officer Baran 3rd class | 0.90% | ~3 |
+| Senior warrant officer Baran 4th class | 0.90% | ~3 |
+| Captain Baran | 0.90% | ~3 |
+| Senior Major Baran | 0.90% | ~3 |
+| Brigadier General Baran | 0.90% | ~3 |
+| Lieutenant General Baran | 0.90% | ~3 |
+| Senior warrant officer Baran 1st class | 0.90% | ~3 |
+| Senior warrant officer Baran 2nd class | 0.90% | ~3 |
+| Junior Lieutenant Baran | 0.60% | ~2 |
+| Baran Senior Warrant Officer Grade 5 | 0.60% | ~2 |
+| Senior Lieutenant Baran | 0.60% | ~2 |
+| Lieutenant Colonel Baran | 0.60% | ~2 |
+| EMERAID RAM | 0.60% | ~2 |
+| Colonel Baran | 0.30% | ~1 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 524)  
-Completed: 15 (4.62%) (Ranked 137)  
+Progressed: 330 (Ranked 540)  
+Completed: 16 (4.85%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,3 +129,4 @@ Completed: 15 (4.62%) (Ranked 137)
 | 2024-04-10 | 313 | 0 |
 | 2024-06-17 | 318 | 15 |
 | 2024-08-09 | 325 | 15 |
+| 2024-09-14 | 330 | 16 |

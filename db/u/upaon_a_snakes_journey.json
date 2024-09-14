@@ -2,10 +2,10 @@
   "ID": "87945ed7ad5b4689acb230bef0f92d18",
   "Name": "Upaon A Snakes Journey",
   "ProductSlug": "upaon-a-snakes-journey-672f92",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-18T16:30:00+00:00",
     "PcReleaseDate": "2022-04-18T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:05.643958+00:00",
   "LastChanged": "2023-03-31T05:58:05.6439581+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:57:26.7507942+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:12.7684668+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:29.6427696+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:57.671694+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:18:55.5291018+00:00"
 }

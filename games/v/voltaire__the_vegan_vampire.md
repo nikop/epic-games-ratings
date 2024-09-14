@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 65.00% | ~105 |
-| Good to grow | 52.00% | ~84 |
+| So it begins | 64.00% | ~104 |
+| Good to grow | 52.00% | ~85 |
 | Ay ay yarrr! | 40.00% | ~65 |
 | Shine bright | 35.00% | ~57 |
-| Graduated | 30.00% | ~49 |
-| Fashionista | 28.00% | ~45 |
-| Irrigation not irritation | 28.00% | ~45 |
+| Graduated | 29.00% | ~47 |
+| Fashionista | 28.00% | ~46 |
+| Irrigation not irritation | 28.00% | ~46 |
 | Peaceful skies | 21.00% | ~34 |
 | Night Shift | 17.00% | ~28 |
 | There be sand in me shorts | 15.00% | ~24 |
-| C'who? | 12.00% | ~19 |
+| C'who? | 12.00% | ~20 |
 | Make it rain | 10.00% | ~16 |
 | Holy Crops! | 9.00% | ~15 |
 | It's about the journey | 9.00% | ~15 |
@@ -25,7 +25,7 @@
 | V is for Vegan | 6.00% | ~10 |
 | Free Spirit | 5.00% | ~8 |
 | I am Root! | 5.00% | ~8 |
-| Zap! | 4.00% | ~6 |
+| Zap! | 4.00% | ~7 |
 | Groovy! | 3.00% | ~5 |
 | Veggie Master | 2.00% | ~3 |
 | Daddy Issues | 2.00% | ~3 |
@@ -36,8 +36,8 @@
 | Yeetus Deletus | 0.60% | ~1 |
 | Fauna Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 615)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 163 (Ranked 634)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -90,6 +90,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 156 | 0 |
 | 2024-07-25 | 158 | 0 |
 | 2024-08-20 | 162 | 0 |
+| 2024-09-14 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

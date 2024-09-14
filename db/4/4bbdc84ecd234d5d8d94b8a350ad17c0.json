@@ -2,10 +2,10 @@
   "ID": "4bbdc84ecd234d5d8d94b8a350ad17c0",
   "Name": "Hands of Necromancy II",
   "ProductSlug": "hands-of-necromancy-ii-040973",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-16T17:00:00+00:00",
     "PcReleaseDate": "2024-09-16T17:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T05:57:35.2757004+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:15.1215204+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:39.3186604+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:57.4820453+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:42.8544222+00:00"
 }

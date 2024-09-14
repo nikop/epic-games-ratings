@@ -2,10 +2,10 @@
   "ID": "be239544c05f4698b313a11cf7f27b2d",
   "Name": "HordeCore",
   "ProductSlug": "hordecore",
-  "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 518,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 394,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -254,6 +254,11 @@
       "Time": "2024-08-09T18:05:52.6221258+00:00",
       "NumProgressed": 392,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-09-14T14:23:26.9488917+00:00",
+      "NumProgressed": 394,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -265,7 +270,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 380
+      "UsersEstimate": 382
     },
     {
       "ID": "10",
@@ -281,7 +286,7 @@
       "Name": "Getting the Hang Of This",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "12",
@@ -345,7 +350,7 @@
       "Name": "That\u2019s What Friends Are For",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "2",
@@ -353,7 +358,7 @@
       "Name": "Decision Maker",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "20",
@@ -377,7 +382,7 @@
       "Name": "Poker-Man",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "23",
@@ -393,7 +398,7 @@
       "Name": "Over Nine Thousaaand",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "25",
@@ -433,7 +438,7 @@
       "Name": "Sneaky Sneak",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "4",
@@ -441,7 +446,7 @@
       "Name": "Master of Cards",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 225
     },
     {
       "ID": "5",
@@ -449,7 +454,7 @@
       "Name": "DIY",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "6",
@@ -457,7 +462,7 @@
       "Name": "FOR THE GAUNTLET!",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "7",
@@ -465,15 +470,15 @@
       "Name": "Blow \u2018Em Up",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "8",
       "SetID": "1530e6b",
       "Name": "Master Chef",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 256
     },
     {
       "ID": "9",
@@ -488,7 +493,7 @@
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 394,
       "Completed": 12
     }
   ],
@@ -496,8 +501,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:50.7420009+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:26.9488911+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:57:32.0508557+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:06.6540453+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:50.742018+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:28.0805528+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:26.9489067+00:00"
 }

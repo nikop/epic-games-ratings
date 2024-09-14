@@ -5,46 +5,46 @@ Rating: 4.01 (Ranked 1,218)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 72.00% | ~961,182 |
-| Health Junkie | 39.00% | ~520,640 |
-| You Complete Me | 38.00% | ~507,290 |
-| Guardian Angel | 33.00% | ~440,542 |
-| Devil Inside Me | 28.00% | ~373,793 |
-| Fantastic Four | 22.00% | ~293,694 |
-| Killing Spree | 21.00% | ~280,345 |
-| Marksman Novice | 18.00% | ~240,296 |
-| First Blood | 13.00% | ~173,547 |
-| Top 10 | 13.00% | ~173,547 |
-| Marksman Expert | 9.00% | ~120,148 |
-| Now You See Me, Now You Don't | 8.00% | ~106,798 |
-| CQB Novice | 8.00% | ~106,798 |
-| Collateral Damage | 7.00% | ~93,448 |
-| Airborne | 6.00% | ~80,098 |
-| Pacifist | 6.00% | ~80,098 |
-| Last Survivor | 4.00% | ~53,399 |
-| Marksman Master | 4.00% | ~53,399 |
-| Trigonometry Novice | 4.00% | ~53,399 |
-| First Come, First Served | 4.00% | ~53,399 |
-| Dynamic Duo | 4.00% | ~53,399 |
-| Winner Winner Chicken Dinner! | 3.00% | ~40,049 |
-| Okay, Now I'm Ready | 3.00% | ~40,049 |
-| Don't Pan Me Bro! | 3.00% | ~40,049 |
-| CQB Expert | 3.00% | ~40,049 |
-| Agent 48 | 2.00% | ~26,700 |
-| Fast and Furious | 2.00% | ~26,700 |
-| Nade King Novice | 1.00% | ~13,350 |
-| Master Assassin | 1.00% | ~13,350 |
-| Fury Road | 1.00% | ~13,350 |
-| Ghost | 1.00% | ~13,350 |
-| Cruising with the Enemy | 1.00% | ~13,350 |
-| CQB Master | 0.60% | ~8,010 |
-| Nade King Expert | 0.30% | ~4,005 |
-| The First Rule Is… | 0.30% | ~4,005 |
-| Nade King Master | 0.10% | ~1,335 |
-| Shoot the Knee | 0.10% | ~1,335 |
+| Blood on My Hands | 73.00% | ~1,017,700 |
+| Health Junkie | 39.00% | ~543,703 |
+| You Complete Me | 38.00% | ~529,761 |
+| Guardian Angel | 33.00% | ~460,056 |
+| Devil Inside Me | 28.00% | ~390,351 |
+| Fantastic Four | 22.00% | ~306,704 |
+| Killing Spree | 21.00% | ~292,763 |
+| Marksman Novice | 19.00% | ~264,881 |
+| First Blood | 13.00% | ~181,234 |
+| Top 10 | 13.00% | ~181,234 |
+| Marksman Expert | 9.00% | ~125,470 |
+| Now You See Me, Now You Don't | 8.00% | ~111,529 |
+| CQB Novice | 8.00% | ~111,529 |
+| Collateral Damage | 7.00% | ~97,588 |
+| Airborne | 6.00% | ~83,647 |
+| Pacifist | 6.00% | ~83,647 |
+| Last Survivor | 4.00% | ~55,764 |
+| Marksman Master | 4.00% | ~55,764 |
+| Trigonometry Novice | 4.00% | ~55,764 |
+| First Come, First Served | 4.00% | ~55,764 |
+| Dynamic Duo | 4.00% | ~55,764 |
+| Winner Winner Chicken Dinner! | 3.00% | ~41,823 |
+| Okay, Now I'm Ready | 3.00% | ~41,823 |
+| Don't Pan Me Bro! | 3.00% | ~41,823 |
+| CQB Expert | 3.00% | ~41,823 |
+| Agent 48 | 2.00% | ~27,882 |
+| Fast and Furious | 2.00% | ~27,882 |
+| Cruising with the Enemy | 2.00% | ~27,882 |
+| Nade King Novice | 1.00% | ~13,941 |
+| Master Assassin | 1.00% | ~13,941 |
+| Fury Road | 1.00% | ~13,941 |
+| Ghost | 1.00% | ~13,941 |
+| CQB Master | 0.60% | ~8,365 |
+| Nade King Expert | 0.30% | ~4,182 |
+| The First Rule Is… | 0.30% | ~4,182 |
+| Nade King Master | 0.10% | ~1,394 |
+| Shoot the Knee | 0.10% | ~1,394 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,334,975 (Ranked 17)  
-Completed: 35 (0.00%) (Ranked 561)  
+Progressed: 1,394,109 (Ranked 17)  
+Completed: 40 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,16 +330,17 @@ Completed: 35 (0.00%) (Ranked 561)
 | 2024-04-10 | 1,106,564 | 24 |
 | 2024-06-17 | 1,246,479 | 31 |
 | 2024-08-09 | 1,334,975 | 35 |
+| 2024-09-14 | 1,394,109 | 40 |
 ## Awards
 Max (Competitive Players): 12,896  (Ranked 48)  
-Sum: 42,551 (Ranked 44)  
+Sum: 42,574 (Ranked 44)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 12,896 |
 | This game has Challenging Combat | 11,569 |
-| This game is Highly Recommended | 10,509 |
-| This game has a Competitive Community | 7,577 |
+| This game is Highly Recommended | 10,523 |
+| This game has a Competitive Community | 7,586 |
 | This game has Quickly Understood Controls | 3,335 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -912,4 +913,4 @@ Diff (max vs sum): 4
 | 2024-09-11 | 4.01 | 12,859 | 42,421 |
 | 2024-09-12 | 4.01 | 12,874 | 42,465 |
 | 2024-09-13 | 4.01 | 12,896 | 42,538 |
-| 2024-09-14 | 4.01 | 12,896 | 42,551 |
+| 2024-09-14 | 4.01 | 12,896 | 42,574 |

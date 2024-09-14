@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 92.00% | ~245 |
-| Dousing a Venerable Flame | 13.00% | ~35 |
-| Advanced Armaments | 13.00% | ~35 |
-| A Small Thirsty Thing | 12.00% | ~32 |
-| Spirit Within | 11.00% | ~29 |
-| Overboard | 10.00% | ~27 |
-| Bladesmith | 10.00% | ~27 |
-| Leisis Bless You | 10.00% | ~27 |
-| Rain Must Fall | 9.00% | ~24 |
-| Explorer | 8.00% | ~21 |
-| The River Styx | 8.00% | ~21 |
-| The Guardian of Fire | 8.00% | ~21 |
-| Sovereignty of Irons | 8.00% | ~21 |
+| Setting Sail | 91.00% | ~249 |
+| Advanced Armaments | 13.00% | ~36 |
+| Dousing a Venerable Flame | 12.00% | ~33 |
+| A Small Thirsty Thing | 11.00% | ~30 |
+| Spirit Within | 11.00% | ~30 |
+| Overboard | 9.00% | ~25 |
+| Bladesmith | 9.00% | ~25 |
+| Leisis Bless You | 9.00% | ~25 |
+| Rain Must Fall | 8.00% | ~22 |
+| The River Styx | 8.00% | ~22 |
+| The Guardian of Fire | 8.00% | ~22 |
+| Sovereignty of Irons | 8.00% | ~22 |
+| Explorer | 7.00% | ~19 |
 | Twin Thorns | 7.00% | ~19 |
 | Let Me Solo Them | 6.00% | ~16 |
-| A Sandwyrm's Hoard | 6.00% | ~16 |
-| Sommelier | 5.00% | ~13 |
+| Sommelier | 5.00% | ~14 |
+| A Sandwyrm's Hoard | 5.00% | ~14 |
 | Frigid Winds | 4.00% | ~11 |
 | Missing Melodies | 3.00% | ~8 |
-| Pommelsmith | 2.00% | ~5 |
-| Redeemer | 2.00% | ~5 |
-| Smotherly Love | 2.00% | ~5 |
 | Transformative Nature | 2.00% | ~5 |
+| Pommelsmith | 1.00% | ~3 |
+| Redeemer | 1.00% | ~3 |
+| Smotherly Love | 1.00% | ~3 |
 | One Size Fits All | 0.40% | ~1 |
 | The Trinket Tracker | 0.40% | ~1 |
 | Champion of Starspire | 0.40% | ~1 |
@@ -63,8 +63,8 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 546)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 274 (Ranked 563)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 241 | 0 |
 | 2024-08-09 | 259 | 0 |
 | 2024-08-20 | 266 | 0 |
+| 2024-09-14 | 274 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

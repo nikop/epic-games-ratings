@@ -2,10 +2,10 @@
   "ID": "1869b4b037124467b43cd9e62c6ee09d",
   "Name": "CRUELTY",
   "ProductSlug": "cruelty-f90dfa",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-13T15:00:00+00:00",
     "PcReleaseDate": "2024-06-06T15:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-06-16T14:57:06.8683805+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:02.6828641+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:30.7669755+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:37.506027+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:08.647638+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:26.8945632+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:30.7669821+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:56.5653821+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:37.5060304+00:00"
 }

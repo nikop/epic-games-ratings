@@ -5,50 +5,50 @@ Rating: 4.71 (Ranked 229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 66.00% | ~217 |
-| Gorilla warfare | 60.00% | ~197 |
-| Isenburg's fall | 49.00% | ~161 |
-| Pieces of eight! | 43.00% | ~141 |
-| Elephant in the room | 33.00% | ~109 |
-| Aboard the Sea Bird | 31.00% | ~102 |
-| Dark and stinky | 30.00% | ~99 |
-| Sneak in, sneak out | 26.00% | ~86 |
-| Is this the end? | 25.00% | ~82 |
-| A gift horse | 25.00% | ~82 |
-| You sssaved me | 23.00% | ~76 |
-| Say hello to my little friends | 21.00% | ~69 |
-| Heal thyself | 20.00% | ~66 |
+| Caged tiger | 66.00% | ~220 |
+| Gorilla warfare | 60.00% | ~200 |
+| Isenburg's fall | 49.00% | ~164 |
+| Pieces of eight! | 43.00% | ~144 |
+| Elephant in the room | 33.00% | ~110 |
+| Aboard the Sea Bird | 31.00% | ~104 |
+| Dark and stinky | 30.00% | ~100 |
+| Sneak in, sneak out | 26.00% | ~87 |
+| Is this the end? | 25.00% | ~84 |
+| A gift horse | 25.00% | ~84 |
+| You sssaved me | 23.00% | ~77 |
+| Say hello to my little friends | 21.00% | ~70 |
+| Heal thyself | 20.00% | ~67 |
 | Gotcha | 19.00% | ~63 |
 | Double trouble | 16.00% | ~53 |
 | It's not cheating | 16.00% | ~53 |
 | Stronk | 16.00% | ~53 |
-| Super Moth Boy | 14.00% | ~46 |
-| Welcome to Forte Ailes | 14.00% | ~46 |
+| Super Moth Boy | 14.00% | ~47 |
+| Welcome to Forte Ailes | 14.00% | ~47 |
 | Meet your maker | 10.00% | ~33 |
 | The Bad Place | 10.00% | ~33 |
 | The pelican brief | 9.00% | ~30 |
 | Pacifist fanatic | 9.00% | ~30 |
-| The Good Place | 9.00% | ~30 |
-| A grave matter | 8.00% | ~26 |
-| Trial by combat | 8.00% | ~26 |
+| A grave matter | 8.00% | ~27 |
+| The Good Place | 8.00% | ~27 |
+| Trial by combat | 8.00% | ~27 |
+| Money talks | 7.00% | ~23 |
 | Peaceful protest | 7.00% | ~23 |
 | A bard day's night | 6.00% | ~20 |
-| Money talks | 6.00% | ~20 |
-| Lyre lyre pants on fyre | 5.00% | ~16 |
+| Lyre lyre pants on fyre | 5.00% | ~17 |
 | Squid Game | 4.00% | ~13 |
 | D4RK V0L3P41N | 4.00% | ~13 |
 | Family reunion | 4.00% | ~13 |
-| Be kind to monsters | 2.00% | ~7 |
+| Be kind to monsters | 3.00% | ~10 |
 | One shot blade | 2.00% | ~7 |
-| The Medium Place | 2.00% | ~7 |
-| Done negotiating | 0.90% | ~3 |
-| Invulnerable | 0.60% | ~2 |
-| Force of nature | 0.30% | ~1 |
+| Done negotiating | 1.00% | ~3 |
+| The Medium Place | 1.00% | ~3 |
+| Invulnerable | 0.90% | ~3 |
+| Force of nature | 0.60% | ~2 |
 | Blind as a bat | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 329 (Ranked 523)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 334 (Ranked 538)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 312 | 0 |
 | 2024-06-17 | 320 | 0 |
 | 2024-08-09 | 329 | 0 |
+| 2024-09-14 | 334 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

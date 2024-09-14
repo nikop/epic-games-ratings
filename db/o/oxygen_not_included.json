@@ -5,10 +5,10 @@
   "Ranking_Rating": 66,
   "Ranking_Popularity": 303,
   "Ranking_PopularitySum": 230,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2019-11-25T15:00:00+00:00",
     "PcReleaseDate": "2019-11-25T15:00:00+00:00",
@@ -4243,10 +4243,19 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "ogk558",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:23:21.6954801+00:00",
   "LastChanged": "2024-09-13T17:58:18.4970189+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:21.6954781+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:26.7143906+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:28.7610036+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:42.4003844+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:33.6207743+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:21.6954814+00:00"
 }

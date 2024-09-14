@@ -2,10 +2,10 @@
   "ID": "45b137b2ecd14e01a54b52e575f1632d",
   "Name": "Caravan SandWitch",
   "ProductSlug": "caravan-sandwitch-05ff58",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 980,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-12T15:00:00+00:00",
     "PcReleaseDate": "2024-09-12T15:00:00+00:00",
@@ -25,17 +25,243 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:10.5176639+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:10.5176732+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "MASTER_COMPONENTS",
+      "SetID": "83bl93p",
+      "Name": "Global Recycling",
+      "Percentage": 8,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MASTER_EXPLORATION",
+      "SetID": "83bl93p",
+      "Name": "Explorer",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_INTERESTPOINT",
+      "SetID": "83bl93p",
+      "Name": "Completionist",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MAP",
+      "SetID": "83bl93p",
+      "Name": "Scouting",
+      "Percentage": 8,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MASTER_NPCS",
+      "SetID": "83bl93p",
+      "Name": "Ambassador",
+      "Percentage": 15,
+      "XP": 60,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "MASTER_QUESTS",
+      "SetID": "83bl93p",
+      "Name": "Community Service",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_VANITEMS",
+      "SetID": "83bl93p",
+      "Name": "New Look",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_VANJUMP",
+      "SetID": "83bl93p",
+      "Name": "Suspension Test",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISC_DIRTYWATER",
+      "SetID": "83bl93p",
+      "Name": "Questionable Waters",
+      "Percentage": 31,
+      "XP": 5,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "MISC_GOAL",
+      "SetID": "83bl93p",
+      "Name": "Goal!!!",
+      "Percentage": 8,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MISC_HOPSCOTCH",
+      "SetID": "83bl93p",
+      "Name": "Heart of a Child",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MISC_TOADHEAD",
+      "SetID": "83bl93p",
+      "Name": "Toad\u0027s-eye View",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "STATS_FIRSTCOMPONENT",
+      "SetID": "83bl93p",
+      "Name": "Recycling",
+      "Percentage": 46,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "STATS_GRAPPLEDOORS",
+      "SetID": "83bl93p",
+      "Name": "Sensational Entrance",
+      "Percentage": 23,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "STATS_SAUGEJUMPS",
+      "SetID": "83bl93p",
+      "Name": "Experienced Athlete",
+      "Percentage": 46,
+      "XP": 25,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "STATS_VANDISTANCE",
+      "SetID": "83bl93p",
+      "Name": "Van Driver",
+      "Percentage": 46,
+      "XP": 25,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "STATS_VANJUMP",
+      "SetID": "83bl93p",
+      "Name": "Gliding",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "STORY_CHOICEGARANCE",
+      "SetID": "83bl93p",
+      "Name": "The Source of the Signal",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STORY_CHOICENEFLE",
+      "SetID": "83bl93p",
+      "Name": "Safe and Sound",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STORY_NORETURN",
+      "SetID": "83bl93p",
+      "Name": "Rescue Plan",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STORY_STATIONEND",
+      "SetID": "83bl93p",
+      "Name": "Mind the Gap",
+      "Percentage": 85,
+      "XP": 15,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "STORY_USEANTENNA",
+      "SetID": "83bl93p",
+      "Name": "Scanning",
+      "Percentage": 38,
+      "XP": 20,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "STORY_USEGRAPPLE",
+      "SetID": "83bl93p",
+      "Name": "Forced Entry",
+      "Percentage": 31,
+      "XP": 20,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "STORY_USEHACK",
+      "SetID": "83bl93p",
+      "Name": "Cyber Intrusion",
+      "Percentage": 15,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "STORY_USEPOWERCABLE",
+      "SetID": "83bl93p",
+      "Name": "Emergency Generator",
+      "Percentage": 8,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "STORY_USEZIPLINE",
+      "SetID": "83bl93p",
+      "Name": "Learning the Ropes",
+      "Percentage": 15,
+      "XP": 20,
+      "UsersEstimate": 2
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "83bl93p",
+      "IsBase": true,
+      "Progressed": 13,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-09-13T03:02:21.0233673+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:15:10.5176731+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:10.517663+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:38.3459062+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:49.6862802+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:19.1313424+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:10.5185743+00:00"
 }

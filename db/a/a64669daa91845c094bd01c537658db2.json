@@ -2,10 +2,10 @@
   "ID": "a64669daa91845c094bd01c537658db2",
   "Name": "Hero of the Kingdom III",
   "ProductSlug": "hero-of-the-kingdom-iii-03147d",
-  "Ranking_EOS_Progress": 928,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 927,
+  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-12T11:00:00+00:00",
     "PcReleaseDate": "2018-08-30T16:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 19,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2024-08-20T20:12:59.2534363+00:00",
       "NumProgressed": 13,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:27:16.3254684+00:00",
+      "NumProgressed": 19,
       "NumCompleted": 1
     }
   ],
@@ -45,15 +50,15 @@
       "ID": "H2CA7",
       "SetID": "164247p",
       "Name": "Well-known",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CA8",
       "SetID": "164247p",
       "Name": "Renowned",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -61,7 +66,7 @@
       "ID": "H2CA9",
       "SetID": "164247p",
       "Name": "Strong",
-      "Percentage": 31,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -69,7 +74,7 @@
       "ID": "H2CAA",
       "SetID": "164247p",
       "Name": "Invincible",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -77,15 +82,15 @@
       "ID": "H2CAB",
       "SetID": "164247p",
       "Name": "Prosperous",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CAC",
       "SetID": "164247p",
       "Name": "Wealthy",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -93,23 +98,23 @@
       "ID": "H2CAD",
       "SetID": "164247p",
       "Name": "Warrior",
-      "Percentage": 38,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H2CAE",
       "SetID": "164247p",
       "Name": "Tough warrior",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CAF",
       "SetID": "164247p",
       "Name": "Legendary warrior",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -117,7 +122,7 @@
       "ID": "H2CB0",
       "SetID": "164247p",
       "Name": "Master warrior",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -125,23 +130,23 @@
       "ID": "H2CB1",
       "SetID": "164247p",
       "Name": "Lucky",
-      "Percentage": 38,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H2CB2",
       "SetID": "164247p",
       "Name": "Mushroom picker",
-      "Percentage": 31,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "H2CB3",
       "SetID": "164247p",
       "Name": "Excellent mushroom picker",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -149,63 +154,63 @@
       "ID": "H2CB4",
       "SetID": "164247p",
       "Name": "Looter",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "H2CB5",
       "SetID": "164247p",
       "Name": "Excellent looter",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "H2CB6",
       "SetID": "164247p",
       "Name": "Searcher",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "H2CB7",
       "SetID": "164247p",
       "Name": "Excellent searcher",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "H2CB8",
       "SetID": "164247p",
       "Name": "Diver",
-      "Percentage": 38,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H2CB9",
       "SetID": "164247p",
       "Name": "Excellent diver",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "H2CBA",
       "SetID": "164247p",
       "Name": "Hunter",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "H2CBB",
       "SetID": "164247p",
       "Name": "Clever hunter",
-      "Percentage": 23,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -213,7 +218,7 @@
       "ID": "H2CBC",
       "SetID": "164247p",
       "Name": "Tireless hunter",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -221,7 +226,7 @@
       "ID": "H2CBD",
       "SetID": "164247p",
       "Name": "Master hunter",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -229,15 +234,15 @@
       "ID": "H2CBE",
       "SetID": "164247p",
       "Name": "Fisherman",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "H2CBF",
       "SetID": "164247p",
       "Name": "Tenacious fisherman",
-      "Percentage": 23,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -245,7 +250,7 @@
       "ID": "H2CC0",
       "SetID": "164247p",
       "Name": "Lucky fisherman",
-      "Percentage": 23,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -253,7 +258,7 @@
       "ID": "H2CC1",
       "SetID": "164247p",
       "Name": "Master fisherman",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -261,31 +266,31 @@
       "ID": "H2CC2",
       "SetID": "164247p",
       "Name": "Adventurer",
-      "Percentage": 38,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "H2CC3",
       "SetID": "164247p",
       "Name": "Saviour",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CC4",
       "SetID": "164247p",
       "Name": "Herbalist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CC5",
       "SetID": "164247p",
       "Name": "Gatherer",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -293,7 +298,7 @@
       "ID": "H2CC6",
       "SetID": "164247p",
       "Name": "Flower expert",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -301,7 +306,7 @@
       "ID": "H2CC7",
       "SetID": "164247p",
       "Name": "Master herbalist",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -309,15 +314,15 @@
       "ID": "H2CC8",
       "SetID": "164247p",
       "Name": "Alchemist",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CC9",
       "SetID": "164247p",
       "Name": "Healer",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -325,7 +330,7 @@
       "ID": "H2CCA",
       "SetID": "164247p",
       "Name": "Experienced alchemist",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -333,7 +338,7 @@
       "ID": "H2CCB",
       "SetID": "164247p",
       "Name": "Master alchemist",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -341,23 +346,23 @@
       "ID": "H2CCC",
       "SetID": "164247p",
       "Name": "Stranger",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CCD",
       "SetID": "164247p",
       "Name": "Cook",
-      "Percentage": 62,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "H2CCE",
       "SetID": "164247p",
       "Name": "Good cook",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -365,7 +370,7 @@
       "ID": "H2CCF",
       "SetID": "164247p",
       "Name": "Excellent cook",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -373,7 +378,7 @@
       "ID": "H2CD0",
       "SetID": "164247p",
       "Name": "Master cook",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -381,15 +386,15 @@
       "ID": "H2CD1",
       "SetID": "164247p",
       "Name": "Thief",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CD2",
       "SetID": "164247p",
       "Name": "Talented thief",
-      "Percentage": 15,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -397,7 +402,7 @@
       "ID": "H2CD3",
       "SetID": "164247p",
       "Name": "Experienced thief",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -405,7 +410,7 @@
       "ID": "H2CD4",
       "SetID": "164247p",
       "Name": "Master thief",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -413,7 +418,7 @@
       "ID": "H2CD5",
       "SetID": "164247p",
       "Name": "Citizen",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -421,23 +426,23 @@
       "ID": "H2CD6",
       "SetID": "164247p",
       "Name": "Orc-slayer",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "H2CD7",
       "SetID": "164247p",
       "Name": "Miner",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CD8",
       "SetID": "164247p",
       "Name": "Iron ore miner",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -445,7 +450,7 @@
       "ID": "H2CD9",
       "SetID": "164247p",
       "Name": "Silver ore miner",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -453,7 +458,7 @@
       "ID": "H2CDA",
       "SetID": "164247p",
       "Name": "Master miner",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -461,15 +466,15 @@
       "ID": "H2CDB",
       "SetID": "164247p",
       "Name": "Smith",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "H2CDC",
       "SetID": "164247p",
       "Name": "Sword maker",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -477,7 +482,7 @@
       "ID": "H2CDD",
       "SetID": "164247p",
       "Name": "Experienced smith",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -485,7 +490,7 @@
       "ID": "H2CDE",
       "SetID": "164247p",
       "Name": "Master smith",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -493,7 +498,7 @@
       "ID": "H2CDF",
       "SetID": "164247p",
       "Name": "Hero",
-      "Percentage": 8,
+      "Percentage": 5,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -502,14 +507,14 @@
     {
       "ID": "164247p",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 19,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-08-13T17:57:26.8315286+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:09.3461266+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:59.2534358+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:16.3254679+00:00",
   "LastUpdate_AppInfo": "2024-09-13T13:57:04.3650268+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:27.7004347+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:59.2534683+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:50.6832854+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:16.3255051+00:00"
 }

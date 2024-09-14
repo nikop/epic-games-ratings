@@ -2,10 +2,10 @@
   "ID": "6dce698021fe497aa25d47a584cf47ba",
   "Name": "Wolf Simulator: Silent Paws",
   "ProductSlug": "wolf-simulator-silent-paws-338f5b",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-08T14:00:00+00:00",
     "PcReleaseDate": "2024-08-29T17:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-12T18:00:27.914868+00:00",
   "LastUpdate_AppInfo": "2024-09-08T13:57:12.8145584+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:34.8511871+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:07.9550785+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:07.0500471+00:00"
 }

@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blunga 1 | 99.00% | ~359 |
-| Mjam-Mjam | 96.00% | ~348 |
-| Onk Boga I | 94.00% | ~341 |
-| Sniarb! | 87.00% | ~316 |
-| Blunga 5 | 66.00% | ~240 |
-| Onk Boga II | 65.00% | ~236 |
-| Bzzzzzz | 60.00% | ~218 |
-| Onk Boga III | 53.00% | ~192 |
-| Danka, Lagga, Wonwon | 44.00% | ~160 |
-| Onk Boga IV | 44.00% | ~160 |
-| BumBum | 43.00% | ~156 |
-| Blunga 10 | 42.00% | ~152 |
-| Onk Boga V | 39.00% | ~142 |
-| Onk Boga VI | 36.00% | ~131 |
-| IQ62 | 36.00% | ~131 |
-| 1978 | 35.00% | ~127 |
-| Onk Boga VII | 35.00% | ~127 |
-| Onk Boga VIII | 33.00% | ~120 |
-| Blubb | 33.00% | ~120 |
-| ParaPara! | 31.00% | ~113 |
-| Onk Boga IX | 31.00% | ~113 |
-| AKRE! | 31.00% | ~113 |
-| Blunga 15 | 30.00% | ~109 |
-| Kokakoka | 30.00% | ~109 |
-| Blunga 20 | 11.00% | ~40 |
-| Blunga 25 | 7.00% | ~25 |
+| Blunga 1 | 99.00% | ~366 |
+| Mjam-Mjam | 96.00% | ~355 |
+| Onk Boga I | 94.00% | ~348 |
+| Sniarb! | 87.00% | ~322 |
+| Blunga 5 | 66.00% | ~244 |
+| Onk Boga II | 65.00% | ~240 |
+| Bzzzzzz | 60.00% | ~222 |
+| Onk Boga III | 53.00% | ~196 |
+| Danka, Lagga, Wonwon | 44.00% | ~163 |
+| Onk Boga IV | 44.00% | ~163 |
+| BumBum | 43.00% | ~159 |
+| Blunga 10 | 42.00% | ~155 |
+| Onk Boga V | 39.00% | ~144 |
+| Onk Boga VI | 36.00% | ~133 |
+| IQ62 | 36.00% | ~133 |
+| 1978 | 35.00% | ~130 |
+| Onk Boga VII | 35.00% | ~130 |
+| Onk Boga VIII | 34.00% | ~126 |
+| Blubb | 34.00% | ~126 |
+| ParaPara! | 31.00% | ~115 |
+| Onk Boga IX | 31.00% | ~115 |
+| Blunga 15 | 30.00% | ~111 |
+| Kokakoka | 30.00% | ~111 |
+| AKRE! | 30.00% | ~111 |
+| Blunga 20 | 11.00% | ~41 |
+| Blunga 25 | 7.00% | ~26 |
 | Blunga 30 | 6.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 512)  
-Completed: 21 (5.79%) (Ranked 113)  
+Progressed: 370 (Ranked 525)  
+Completed: 22 (5.95%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,6 +149,7 @@ Completed: 21 (5.79%) (Ranked 113)
 | 2024-07-25 | 348 | 19 |
 | 2024-08-09 | 360 | 20 |
 | 2024-08-20 | 363 | 21 |
+| 2024-09-14 | 370 | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

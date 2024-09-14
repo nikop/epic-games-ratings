@@ -5,47 +5,47 @@ Rating: 4.36 (Ranked 944)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~812,861 |
-| The ABCs | 43.00% | ~713,327 |
-| Home Run | 41.00% | ~680,149 |
-| Keeps Coming Off | 41.00% | ~680,149 |
-| Guts | 19.00% | ~315,191 |
-| Meat Grinder | 19.00% | ~315,191 |
-| Burning Man | 16.00% | ~265,424 |
-| Lived to Tell the Tale | 12.00% | ~199,068 |
-| Highlander | 10.00% | ~165,890 |
-| Just a Scratch | 9.00% | ~149,301 |
-| Unstoppable | 9.00% | ~149,301 |
-| Tough Nut to Crack | 7.00% | ~116,123 |
-| Yoink | 6.00% | ~99,534 |
-| Long List of Names | 4.00% | ~66,356 |
-| Pyromaniac | 4.00% | ~66,356 |
-| The Queen of Weapons | 4.00% | ~66,356 |
-| This isn’t Sparta | 3.00% | ~49,767 |
-| Poacher | 3.00% | ~49,767 |
-| Put That Away | 3.00% | ~49,767 |
-| Chambermaid | 2.00% | ~33,178 |
-| Crybaby | 2.00% | ~33,178 |
-| Eagle Eye | 2.00% | ~33,178 |
-| I Know Kung Fu | 2.00% | ~33,178 |
-| You’re Welcome | 2.00% | ~33,178 |
-| Boxer | 1.00% | ~16,589 |
-| Coming Through | 1.00% | ~16,589 |
-| Flyswatter | 1.00% | ~16,589 |
-| Training Accident | 1.00% | ~16,589 |
-| Friend Indeed | 0.80% | ~13,271 |
-| Rock’n’Roll | 0.80% | ~13,271 |
-| Virtuoso | 0.70% | ~11,612 |
-| Vlad the Impaler | 0.50% | ~8,294 |
-| Whack-A-Mole | 0.50% | ~8,294 |
-| Clobbered | 0.20% | ~3,318 |
-| Stairway to Hell | 0.20% | ~3,318 |
-| Ended Rightly | 0.10% | ~1,659 |
-| Living Sculpture | 0.10% | ~1,659 |
-| That’s No Ordinary Cold | 0.10% | ~1,659 |
+| Justice from the Grave | 49.00% | ~815,117 |
+| The ABCs | 43.00% | ~715,307 |
+| Home Run | 41.00% | ~682,037 |
+| Keeps Coming Off | 41.00% | ~682,037 |
+| Guts | 19.00% | ~316,066 |
+| Meat Grinder | 19.00% | ~316,066 |
+| Burning Man | 16.00% | ~266,161 |
+| Lived to Tell the Tale | 12.00% | ~199,621 |
+| Highlander | 10.00% | ~166,350 |
+| Just a Scratch | 9.00% | ~149,715 |
+| Unstoppable | 9.00% | ~149,715 |
+| Tough Nut to Crack | 7.00% | ~116,445 |
+| Yoink | 6.00% | ~99,810 |
+| Long List of Names | 4.00% | ~66,540 |
+| Pyromaniac | 4.00% | ~66,540 |
+| The Queen of Weapons | 4.00% | ~66,540 |
+| This isn’t Sparta | 3.00% | ~49,905 |
+| Poacher | 3.00% | ~49,905 |
+| Put That Away | 3.00% | ~49,905 |
+| Chambermaid | 2.00% | ~33,270 |
+| Crybaby | 2.00% | ~33,270 |
+| Eagle Eye | 2.00% | ~33,270 |
+| I Know Kung Fu | 2.00% | ~33,270 |
+| You’re Welcome | 2.00% | ~33,270 |
+| Boxer | 1.00% | ~16,635 |
+| Coming Through | 1.00% | ~16,635 |
+| Flyswatter | 1.00% | ~16,635 |
+| Training Accident | 1.00% | ~16,635 |
+| Friend Indeed | 0.80% | ~13,308 |
+| Rock’n’Roll | 0.80% | ~13,308 |
+| Virtuoso | 0.70% | ~11,645 |
+| Vlad the Impaler | 0.50% | ~8,318 |
+| Whack-A-Mole | 0.50% | ~8,318 |
+| Clobbered | 0.20% | ~3,327 |
+| Stairway to Hell | 0.20% | ~3,327 |
+| Ended Rightly | 0.10% | ~1,664 |
+| Living Sculpture | 0.10% | ~1,664 |
+| That’s No Ordinary Cold | 0.10% | ~1,664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,658,899 (Ranked 10)  
-Completed: 113 (0.01%) (Ranked 532)  
+Progressed: 1,663,505 (Ranked 11)  
+Completed: 116 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,15 +334,16 @@ Completed: 113 (0.01%) (Ranked 532)
 | 2024-07-24 | 1,653,821 | 113 |
 | 2024-08-09 | 1,656,711 | 113 |
 | 2024-08-20 | 1,658,899 | 113 |
+| 2024-09-14 | 1,663,505 | 116 |
 ## Awards
 Max (Diverse Characters): 2,269  (Ranked 133)  
-Sum: 10,339 (Ranked 125)  
+Sum: 10,349 (Ranked 125)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 2,269 |
-| This game has Challenging Combat | 1,901 |
-| This game is Highly Recommended | 1,739 |
+| This game has Challenging Combat | 1,904 |
+| This game is Highly Recommended | 1,746 |
 | This game has Amazing Characters | 1,549 |
 | This game is Extremely Fun | 1,475 |
 | This game has Competitive Players | 1,406 |
@@ -870,4 +871,4 @@ Diff (max vs sum): 8
 | 2024-09-11 | 4.36 | 2,256 | 10,290 |
 | 2024-09-12 | 4.36 | 2,260 | 10,308 |
 | 2024-09-13 | 4.36 | 2,264 | 10,330 |
-| 2024-09-14 | 4.36 | 2,269 | 10,339 |
+| 2024-09-14 | 4.36 | 2,269 | 10,349 |

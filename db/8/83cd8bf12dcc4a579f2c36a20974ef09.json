@@ -2,10 +2,10 @@
   "ID": "83cd8bf12dcc4a579f2c36a20974ef09",
   "Name": "Block Master 3D Puzzle",
   "ProductSlug": "block-master-3d-puzzle-b8a9f8",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-08T14:00:00+00:00",
     "PcReleaseDate": "2024-09-07T11:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-13T03:58:19.5392539+00:00",
   "LastUpdate_AppInfo": "2024-09-08T13:57:12.8145511+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:34.7613395+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:07.8197351+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:04.033537+00:00"
 }

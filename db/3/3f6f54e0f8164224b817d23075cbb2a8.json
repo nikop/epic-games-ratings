@@ -2,13 +2,13 @@
   "ID": "3f6f54e0f8164224b817d23075cbb2a8",
   "Name": "Sunless Skies: Sovereign Edition",
   "ProductSlug": "sunless-skies-bb4947",
-  "Ranking_Rating": 816,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 383,
   "Ranking_PopularitySum": 439,
-  "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 132,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-27T15:00:00+00:00",
     "PcReleaseDate": "2019-01-31T18:00:00+00:00",
@@ -943,9 +943,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 109996,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 3146,
+  "EOS_Progressed": 115549,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -963,6 +963,11 @@
       "Time": "2024-08-20T20:12:58.7161976+00:00",
       "NumProgressed": 109996,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:27:15.559482+00:00",
+      "NumProgressed": 115549,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:09.4008727+00:00",
@@ -973,9 +978,9 @@
       "ID": "ach_albion",
       "SetID": "23hega8",
       "Name": "The Clockwise Kingdom",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 2311
     },
     {
       "ID": "ach_allswell",
@@ -983,15 +988,15 @@
       "Name": "All Shall be Well",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 440
+      "UsersEstimate": 462
     },
     {
       "ID": "ach_berr",
       "SetID": "23hega8",
       "Name": "Fully Armed and Operational",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 440
+      "UsersEstimate": 578
     },
     {
       "ID": "ach_bilbo",
@@ -999,15 +1004,15 @@
       "Name": "Then and Back Again",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2311
     },
     {
       "ID": "ach_bk",
       "SetID": "23hega8",
       "Name": "The Districts of the Dead",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 924
     },
     {
       "ID": "ach_blythe",
@@ -1015,7 +1020,7 @@
       "Name": "Blythe Spirits",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5777
     },
     {
       "ID": "ach_boat",
@@ -1023,7 +1028,7 @@
       "Name": "Tradition is the Democracy of the Dead",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1155
     },
     {
       "ID": "ach_cup",
@@ -1031,15 +1036,15 @@
       "Name": "Idylls of the King",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_dilly",
       "SetID": "23hega8",
       "Name": "Lavenders Blue, Lavenders Green",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_edge",
@@ -1047,15 +1052,15 @@
       "Name": "Where the Winds Wait",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 660
+      "UsersEstimate": 693
     },
     {
       "ID": "ach_eleu",
       "SetID": "23hega8",
       "Name": "The Midnight Groves",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 770
+      "UsersEstimate": 924
     },
     {
       "ID": "ach_fame",
@@ -1063,7 +1068,7 @@
       "Name": "Writ Upon the Sky",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 347
     },
     {
       "ID": "ach_gods",
@@ -1071,15 +1076,15 @@
       "Name": "An Enemy of All Gods",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_level",
       "SetID": "23hega8",
       "Name": "Who are you in the Dark?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 660
+      "UsersEstimate": 809
     },
     {
       "ID": "ach_lineage",
@@ -1087,7 +1092,7 @@
       "Name": "A New Lineage",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 17599
+      "UsersEstimate": 18488
     },
     {
       "ID": "ach_nightmare",
@@ -1095,31 +1100,31 @@
       "Name": "Lose Yourself",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_officer",
       "SetID": "23hega8",
       "Name": "A Full Complement",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3300
+      "UsersEstimate": 4622
     },
     {
       "ID": "ach_reach",
       "SetID": "23hega8",
       "Name": "The Garden of Heaven",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4400
+      "UsersEstimate": 5777
     },
     {
       "ID": "ach_regions",
       "SetID": "23hega8",
       "Name": "A Whistle-Stop Tour",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 880
+      "UsersEstimate": 1040
     },
     {
       "ID": "ach_seven",
@@ -1127,7 +1132,7 @@
       "Name": "Unto the Seventh Generation",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1155
     },
     {
       "ID": "ach_soul",
@@ -1135,7 +1140,7 @@
       "Name": "A Soul the Devil Wouldn\u0027t Touch",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_stove",
@@ -1143,15 +1148,15 @@
       "Name": "A Staunch Stovepipe",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2311
     },
     {
       "ID": "ach_sun",
       "SetID": "23hega8",
       "Name": "\u2014E SUN THE SUN THE SUN THE SUN TH\u2014",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 990
+      "UsersEstimate": 1155
     },
     {
       "ID": "ach_tack",
@@ -1159,7 +1164,7 @@
       "Name": "A True Tackety",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 2200
+      "UsersEstimate": 2311
     },
     {
       "ID": "ach_terminate",
@@ -1167,7 +1172,7 @@
       "Name": "This Service Will Terminate Here",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_terror",
@@ -1175,7 +1180,7 @@
       "Name": "Off the Rails",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4622
     },
     {
       "ID": "ach_truth",
@@ -1183,7 +1188,7 @@
       "Name": "The Stars are Dying",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "ach_war",
@@ -1191,7 +1196,7 @@
       "Name": "The Fortunes of War",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5777
     },
     {
       "ID": "ach_wealth",
@@ -1199,7 +1204,7 @@
       "Name": "A Comfortable Retirement",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 220
+      "UsersEstimate": 231
     },
     {
       "ID": "ach_whitlock",
@@ -1207,7 +1212,7 @@
       "Name": "The Black Box",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 8800
+      "UsersEstimate": 9244
     },
     {
       "ID": "ach_zoo",
@@ -1215,23 +1220,23 @@
       "Name": "The Flying Zoo",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     }
   ],
   "AchievementSets": [
     {
       "ID": "23hega8",
       "IsBase": true,
-      "Progressed": 109996,
-      "Completed": 1
+      "Progressed": 115549,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2024-06-27T18:57:45.3938214+00:00",
   "FirstSeenRating": "2024-06-30T03:01:14.9196581+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:09.4008727+00:00",
   "LastChanged": "2024-09-14T13:12:31.86469+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:58.7161971+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:15.5594814+00:00",
   "LastUpdate_AppInfo": "2024-09-12T21:57:16.3471372+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:31.8646906+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:58.7162163+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:36.1426574+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:15.5594985+00:00"
 }

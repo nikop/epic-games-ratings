@@ -2,10 +2,10 @@
   "ID": "92420cc14a954873b336db9e1355c758",
   "Name": "Space Battle",
   "ProductSlug": "spacebattle-d27e87",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1072,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-06T15:00:00+00:00",
     "PcReleaseDate": "2020-07-05T10:00:00+00:00",
@@ -23,17 +23,354 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:23:53.1941283+00:00",
+      "NumProgressed": 4,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:23:53.1941315+00:00",
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CREDIT_COLLECTOR",
+      "SetID": "d45l9k2",
+      "Name": "Credit Collector",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "CREDIT_HOARDER",
+      "SetID": "d45l9k2",
+      "Name": "Credit Hoarder",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CREDIT_SAVER",
+      "SetID": "d45l9k2",
+      "Name": "Credit Saver",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CREDIT_TYCOON",
+      "SetID": "d45l9k2",
+      "Name": "Credit Tycoon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEATH_DEALER",
+      "SetID": "d45l9k2",
+      "Name": "Death Dealer",
+      "Percentage": 25,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DEEP_DIGGER",
+      "SetID": "d45l9k2",
+      "Name": "Deep Digger",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ETERNAL_REST",
+      "SetID": "d45l9k2",
+      "Name": "Eternal Rest",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_BLOOD",
+      "SetID": "d45l9k2",
+      "Name": "First Blood",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "FIRST_STALKER_STRIKE",
+      "SetID": "d45l9k2",
+      "Name": "First Stalker Strike",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FIRST_STATION_STRIKE",
+      "SetID": "d45l9k2",
+      "Name": "First Station Strike",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FIRST_STRIKE",
+      "SetID": "d45l9k2",
+      "Name": "First Strike",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "FIRST_TURRET_STRIKE",
+      "SetID": "d45l9k2",
+      "Name": "First Turret Strike",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "GRAVE_MASTER",
+      "SetID": "d45l9k2",
+      "Name": "Grave Master",
+      "Percentage": 25,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "MASTER_MINER",
+      "SetID": "d45l9k2",
+      "Name": "Master Miner",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MINER_BEGINNER",
+      "SetID": "d45l9k2",
+      "Name": "Miner Beginner",
+      "Percentage": 75,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ORE_HUNTER",
+      "SetID": "d45l9k2",
+      "Name": "Ore Hunter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REAPERS_FRIEND",
+      "SetID": "d45l9k2",
+      "Name": "Reaper\u0027s Friend",
+      "Percentage": 25,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "RICH_PLAYER",
+      "SetID": "d45l9k2",
+      "Name": "Rich Player",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROOKIE_PILOT",
+      "SetID": "d45l9k2",
+      "Name": "Rookie Pilot",
+      "Percentage": 25,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SHIP_ASSASSIN",
+      "SetID": "d45l9k2",
+      "Name": "Ship Assassin",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHIP_DESTROYER",
+      "SetID": "d45l9k2",
+      "Name": "Ship Destroyer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHIP_HUNTER",
+      "SetID": "d45l9k2",
+      "Name": "Ship Hunter",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHIP_WARRIOR",
+      "SetID": "d45l9k2",
+      "Name": "Ship Warrior",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STALKER_ASSASSIN",
+      "SetID": "d45l9k2",
+      "Name": "Stalker Assassin",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STALKER_DESTROYER",
+      "SetID": "d45l9k2",
+      "Name": "Stalker Destroyer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STALKER_HUNTER",
+      "SetID": "d45l9k2",
+      "Name": "Stalker Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STALKER_WARRIOR",
+      "SetID": "d45l9k2",
+      "Name": "Stalker Warrior",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATION_ASSASSIN",
+      "SetID": "d45l9k2",
+      "Name": "Station Assassin",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATION_DESTROYER",
+      "SetID": "d45l9k2",
+      "Name": "Station Destroyer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATION_HUNTER",
+      "SetID": "d45l9k2",
+      "Name": "Station Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATION_WARRIOR",
+      "SetID": "d45l9k2",
+      "Name": "Station Warrior",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STONE_BREAKER",
+      "SetID": "d45l9k2",
+      "Name": "Stone Breaker",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURRET_ASSASSIN",
+      "SetID": "d45l9k2",
+      "Name": "Turret Assassin",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURRET_DESTROYER",
+      "SetID": "d45l9k2",
+      "Name": "Turret Destroyer",
+      "Percentage": 0,
+      "XP": 45,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURRET_HUNTER",
+      "SetID": "d45l9k2",
+      "Name": "Turret Hunter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TURRET_WARRIOR",
+      "SetID": "d45l9k2",
+      "Name": "Turret Warrior",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WELCOME_ON_BOARD",
+      "SetID": "d45l9k2",
+      "Name": "Welcome on board",
+      "Percentage": 100,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "WELCOME_TO_MAYHEM",
+      "SetID": "d45l9k2",
+      "Name": "Welcome To Mayhem",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "WELCOME_TO_PERMADEATH",
+      "SetID": "d45l9k2",
+      "Name": "Welcome To Permadeath",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "YEEEPEEE_EXPLORATION",
+      "SetID": "d45l9k2",
+      "Name": "Yeepee Exploration",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "d45l9k2",
+      "IsBase": true,
+      "Progressed": 4,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:23:53.1941314+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:53.1941277+00:00",
   "LastUpdate_AppInfo": "2024-09-13T02:04:58.5775224+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:12.8163313+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:32.4284343+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:19.3506141+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:53.1949234+00:00"
 }

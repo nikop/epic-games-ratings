@@ -1,28 +1,28 @@
 # Breakout: Recharged
 [Store](https://store.epicgames.com/en-US/p/breakout-recharged)  
 [View Rawdata](../../db/b/breakout__recharged.json)  
-Rating: 4.24 (Ranked 1,075)  
+Rating: 4.24 (Ranked 1,074)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 83.00% | ~11,129 |
-| Cluster One | 73.00% | ~9,788 |
-| Another Brick in the Wall (Part 1) | 48.00% | ~6,436 |
-| Comfortably Numb | 30.00% | ~4,022 |
-| High Hopes | 30.00% | ~4,022 |
-| Echoes | 28.00% | ~3,754 |
-| Another Brick in the Wall (Part 2) | 24.00% | ~3,218 |
-| Biding My Time | 21.00% | ~2,816 |
-| The Gunner's Dream | 18.00% | ~2,413 |
-| Another Brick in the Wall (Part 3) | 14.00% | ~1,877 |
-| Burning Bridges | 4.00% | ~536 |
-| The Last Few Bricks | 4.00% | ~536 |
-| The Dogs of War | 2.00% | ~268 |
-| I'm a King Bee | 1.00% | ~134 |
-| What Shall We Do Now? | 0.10% | ~13 |
+| Is There Anybody Out There? | 83.00% | ~11,331 |
+| Cluster One | 73.00% | ~9,966 |
+| Another Brick in the Wall (Part 1) | 48.00% | ~6,553 |
+| Comfortably Numb | 30.00% | ~4,096 |
+| High Hopes | 30.00% | ~4,096 |
+| Echoes | 28.00% | ~3,823 |
+| Another Brick in the Wall (Part 2) | 24.00% | ~3,276 |
+| Biding My Time | 21.00% | ~2,867 |
+| The Gunner's Dream | 18.00% | ~2,457 |
+| Another Brick in the Wall (Part 3) | 14.00% | ~1,911 |
+| Burning Bridges | 4.00% | ~546 |
+| The Last Few Bricks | 4.00% | ~546 |
+| The Dogs of War | 2.00% | ~273 |
+| I'm a King Bee | 1.00% | ~137 |
+| What Shall We Do Now? | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,408 (Ranked 236)  
-Completed: 15 (0.11%) (Ranked 431)  
+Progressed: 13,652 (Ranked 242)  
+Completed: 15 (0.11%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 15 (0.11%) (Ranked 431)
 | 2024-07-30 | 13,195 | 13 |
 | 2024-08-09 | 13,293 | 15 |
 | 2024-08-20 | 13,408 | 15 |
+| 2024-09-14 | 13,652 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

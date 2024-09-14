@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Conscience | 51.00% | ~244 |
-| So it goes | 45.00% | ~215 |
-| A New Broom Sweeps Clean | 22.00% | ~105 |
-| Small-time Finder | 19.00% | ~91 |
-| Off to a Good Start | 18.00% | ~86 |
-| Business as usual | 15.00% | ~72 |
-| Mr. Hygeni | 10.00% | ~48 |
-| Pride and Joy | 9.00% | ~43 |
-| Eyes Yet To Open | 8.00% | ~38 |
-| Hackathon | 8.00% | ~38 |
-| Total Recall | 6.00% | ~29 |
-| All the Stories | 5.00% | ~24 |
-| Something Rotten | 5.00% | ~24 |
-| Witness Protection | 5.00% | ~24 |
-| The Wing and the Thigh | 5.00% | ~24 |
-| Bee Squat | 3.00% | ~14 |
+| Clean Conscience | 53.00% | ~261 |
+| So it goes | 46.00% | ~227 |
+| A New Broom Sweeps Clean | 23.00% | ~113 |
+| Off to a Good Start | 19.00% | ~94 |
+| Small-time Finder | 19.00% | ~94 |
+| Business as usual | 16.00% | ~79 |
+| Mr. Hygeni | 10.00% | ~49 |
+| Pride and Joy | 9.00% | ~44 |
+| Eyes Yet To Open | 8.00% | ~39 |
+| Hackathon | 8.00% | ~39 |
+| Total Recall | 6.00% | ~30 |
+| All the Stories | 5.00% | ~25 |
+| Something Rotten | 5.00% | ~25 |
+| Witness Protection | 5.00% | ~25 |
+| The Wing and the Thigh | 5.00% | ~25 |
 | Blood Capade | 2.00% | ~10 |
 | … Women Inherit The Earth | 2.00% | ~7 |
+| Bee Squat | 2.00% | ~10 |
 | The Germophobes | 2.00% | ~10 |
-| The Crush And Smash The Dino Four | 1.00% | ~3 |
+| The Crush And Smash The Dino Four | 1.00% | ~4 |
 | Crazy SOB, You Did It | 0.40% | ~1 |
 | Do-you-think-he-saurus | 0.20% | ~1 |
 | Cha Cha Real Smooth | 0.20% | ~1 |
 | That’s One Big Pile | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 478 (Ranked 478)  
-Completed: 7 (1.46%) (Ranked 224)  
+Progressed: 493 (Ranked 493)  
+Completed: 7 (1.42%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -131,6 +131,7 @@ Completed: 7 (1.46%) (Ranked 224)
 | 2024-04-10 | 394 | 6 |
 | 2024-06-17 | 437 | 6 |
 | 2024-08-09 | 478 | 7 |
+| 2024-09-14 | 493 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

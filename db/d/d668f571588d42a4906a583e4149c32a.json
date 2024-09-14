@@ -2,10 +2,10 @@
   "ID": "d668f571588d42a4906a583e4149c32a",
   "Name": "Tower Defense 3D Fusion",
   "ProductSlug": "mistborn-tower-defense-2816ff",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-03T18:30:00+00:00",
     "PcReleaseDate": "2023-09-28T05:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T08:58:17.0551692+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:49.1366602+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:25.1340188+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:18.3031575+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:35.7701923+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "661acb27189a4b4f8e6fdc8ca44aa6ea",
   "Name": "Flashback 2",
   "ProductSlug": "flashback-2-9dc232",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2023-11-16T17:00:00+00:00",
@@ -22,12 +22,18 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:26:48.9595384+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-07-30T00:03:41.8427272+00:00",
   "TotalAchievements": 21,
   "TotalAchievementsXP": 1000,
@@ -36,9 +42,9 @@
       "ID": "001",
       "SetID": "2i864nb",
       "Name": "Gone full circle",
-      "Percentage": 0,
+      "Percentage": 67,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "002",
@@ -205,13 +211,13 @@
     {
       "ID": "2i864nb",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-09T14:04:04.5818441+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:39.1452325+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:48.9595378+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:32.4472986+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:54.8003828+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:39.1452442+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:52.4763961+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:48.9595498+00:00"
 }

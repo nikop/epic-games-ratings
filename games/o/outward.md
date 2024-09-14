@@ -6,51 +6,51 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 73.00% | ~4,685 |
-| Ready for Winter | 60.00% | ~3,851 |
-| Ready for Summer | 47.00% | ~3,016 |
-| Cordon Bleu | 40.00% | ~2,567 |
-| Tapped! | 33.00% | ~2,118 |
-| Eureka | 28.00% | ~1,797 |
-| Scourge Slayer | 23.00% | ~1,476 |
-| Science, Troglodyte! | 21.00% | ~1,348 |
-| Exceptional Skill | 20.00% | ~1,284 |
-| Home Sweet Home | 20.00% | ~1,284 |
-| Encyclopedic! | 18.00% | ~1,155 |
-| The Power of Family | 15.00% | ~963 |
-| A Fortress Toppled! | 14.00% | ~899 |
-| Apex Predator | 14.00% | ~899 |
-| The Power of Faith | 11.00% | ~706 |
-| Strange amalgams | 10.00% | ~642 |
-| The Power of Freedom | 8.00% | ~513 |
-| Ace Detective | 7.00% | ~449 |
-| Gift from the Ancestors | 7.00% | ~449 |
-| Magic is a science | 7.00% | ~449 |
-| House of Cards | 6.00% | ~385 |
-| Let ‘em eat magma! | 6.00% | ~385 |
-| The power of ambition | 6.00% | ~385 |
-| Blood and justice | 5.00% | ~321 |
-| Hold my Mead and Watch This | 5.00% | ~321 |
-| The stuff of legends. | 5.00% | ~321 |
-| Ancestor's Pride | 4.00% | ~257 |
-| Memory of a legend | 4.00% | ~257 |
-| For All Aurai | 3.00% | ~193 |
-| Light of Levant | 3.00% | ~193 |
-| Crowd Pleaser. | 2.00% | ~128 |
-| Perfect Defense | 2.00% | ~128 |
-| Power! To! The People! | 2.00% | ~128 |
-| This was a mistake... | 2.00% | ~128 |
-| Your actions define you | 2.00% | ~128 |
-| The blood is life | 1.00% | ~64 |
-| Vanquisher of nightmares | 1.00% | ~64 |
-| They'll Tell Stories About This | 0.70% | ~45 |
-| Through fire and flame. | 0.70% | ~45 |
-| Legacy of a master hunter | 0.40% | ~26 |
-| Master of Aurai | 0.30% | ~19 |
-| The Absolute Pinnacle. | 0.20% | ~13 |
+| Venture Outward | 72.00% | ~5,106 |
+| Ready for Winter | 58.00% | ~4,113 |
+| Ready for Summer | 45.00% | ~3,191 |
+| Cordon Bleu | 38.00% | ~2,695 |
+| Tapped! | 31.00% | ~2,198 |
+| Eureka | 27.00% | ~1,915 |
+| Scourge Slayer | 21.00% | ~1,489 |
+| Science, Troglodyte! | 20.00% | ~1,418 |
+| Exceptional Skill | 19.00% | ~1,347 |
+| Home Sweet Home | 18.00% | ~1,276 |
+| Encyclopedic! | 16.00% | ~1,135 |
+| The Power of Family | 14.00% | ~993 |
+| A Fortress Toppled! | 13.00% | ~922 |
+| Apex Predator | 13.00% | ~922 |
+| The Power of Faith | 10.00% | ~709 |
+| Strange amalgams | 9.00% | ~638 |
+| The Power of Freedom | 8.00% | ~567 |
+| Ace Detective | 7.00% | ~496 |
+| Magic is a science | 7.00% | ~496 |
+| Gift from the Ancestors | 6.00% | ~425 |
+| House of Cards | 6.00% | ~425 |
+| Let ‘em eat magma! | 6.00% | ~425 |
+| Hold my Mead and Watch This | 5.00% | ~355 |
+| The power of ambition | 5.00% | ~355 |
+| The stuff of legends. | 5.00% | ~355 |
+| Ancestor's Pride | 4.00% | ~284 |
+| Blood and justice | 4.00% | ~284 |
+| Memory of a legend | 4.00% | ~284 |
+| For All Aurai | 3.00% | ~213 |
+| Light of Levant | 3.00% | ~213 |
+| Crowd Pleaser. | 2.00% | ~142 |
+| Perfect Defense | 2.00% | ~142 |
+| Power! To! The People! | 2.00% | ~142 |
+| This was a mistake... | 2.00% | ~142 |
+| Your actions define you | 2.00% | ~142 |
+| The blood is life | 1.00% | ~71 |
+| Vanquisher of nightmares | 1.00% | ~71 |
+| They'll Tell Stories About This | 0.70% | ~50 |
+| Through fire and flame. | 0.60% | ~43 |
+| Legacy of a master hunter | 0.40% | ~28 |
+| Master of Aurai | 0.30% | ~21 |
+| The Absolute Pinnacle. | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,418 (Ranked 269)  
-Completed: 6 (0.09%) (Ranked 444)  
+Progressed: 7,091 (Ranked 274)  
+Completed: 6 (0.08%) (Ranked 468)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,10 +325,11 @@ Completed: 6 (0.09%) (Ranked 444)
 | 2024-07-24 | 6,231 | 6 |
 | 2024-08-09 | 6,395 | 6 |
 | 2024-08-20 | 6,418 | 6 |
+| 2024-09-14 | 7,091 | 6 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 600)  
-Sum: 282 (Ranked 476)  
-Diff (max vs sum): 124  
+Sum: 282 (Ranked 477)  
+Diff (max vs sum): 123  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |

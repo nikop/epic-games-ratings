@@ -2,10 +2,10 @@
   "ID": "596e41f75cf64aa8b2d19d32320f7473",
   "Name": "Office Fight",
   "ProductSlug": "office-fight-6556f6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1000,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-21T13:00:00+00:00",
     "PcReleaseDate": "2024-08-21T13:00:00+00:00",
@@ -25,17 +25,355 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:10.8094919+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:10.8095217+00:00",
+  "TotalAchievements": 40,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_3STAR_1THROW",
+      "SetID": "1cgia82",
+      "Name": "Streamline the process",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Get a life",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_AL_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "Taking candy from a baby",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_ARANEAE_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "Dark Web",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ASTERIOS_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "Grab the bull by the horns",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CEO_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "Ghostly Revenge",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COUNT_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "Final nail in the coffin",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CREDITSWATCHED",
+      "SetID": "1cgia82",
+      "Name": "WE MADE IT",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_EMP_CREATED",
+      "SetID": "1cgia82",
+      "Name": "Unique hire",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_FLOOR10_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Depths of Hell",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR1_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Managers Limbo",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR2_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Lustful Campaigning",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR3_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Gluttonous Profit",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR4_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Capital Greed",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR5_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Delivered With Anger",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR6_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Poisonous Heresies",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR7_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Violent Algorithm",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR8_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Fraudulent Case",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLOOR9_ALLSTARS",
+      "SetID": "1cgia82",
+      "Name": "Treacherous Recourses",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HACK_KARON",
+      "SetID": "1cgia82",
+      "Name": "Take it offline",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_HEADSHOTS_1",
+      "SetID": "1cgia82",
+      "Name": "Intern Marksman",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HEADSHOTS_2",
+      "SetID": "1cgia82",
+      "Name": "Associate Sharpshooter",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HEADSHOTS_3",
+      "SetID": "1cgia82",
+      "Name": "Corporate Desk Pop",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HEADSHOTS_4",
+      "SetID": "1cgia82",
+      "Name": "Executive Precision",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HORDE_3STAR",
+      "SetID": "1cgia82",
+      "Name": "Office Brawl Champion",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_HORDE_NONEPASSED",
+      "SetID": "1cgia82",
+      "Name": "Department Guardian",
+      "Percentage": 30,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_INTRO_WATCHED",
+      "SetID": "1cgia82",
+      "Name": "Early Retirement",
+      "Percentage": 60,
+      "XP": 5,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "ACH_KARON_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "This is the Manager speaking",
+      "Percentage": 30,
+      "XP": 25,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_LEGAL_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "I am the Law.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LEVELCREATED",
+      "SetID": "1cgia82",
+      "Name": "Office Architect",
+      "Percentage": 10,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_LUCIUS_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "The Devil made me do it.",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MEG_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "Market Meltdown",
+      "Percentage": 10,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_NEW_TAKEDOWNUSED",
+      "SetID": "1cgia82",
+      "Name": "Strategic Innovation",
+      "Percentage": 30,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_NODAMAGE_BOSS",
+      "SetID": "1cgia82",
+      "Name": "Can\u0027t Touch This.",
+      "Percentage": 10,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_PACKEN_DEFEATED",
+      "SetID": "1cgia82",
+      "Name": "We\u0027re gonna need a bigger box",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RUNES_ALLUNLOCKED",
+      "SetID": "1cgia82",
+      "Name": "Are we even playing the same game?",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCOREMULT_MAXREACHED",
+      "SetID": "1cgia82",
+      "Name": "Give it 110%",
+      "Percentage": 30,
+      "XP": 15,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_SHOP_ALLPURCHASED",
+      "SetID": "1cgia82",
+      "Name": "Big Spender",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SHOP_PURCHASE",
+      "SetID": "1cgia82",
+      "Name": "Taste of success",
+      "Percentage": 30,
+      "XP": 5,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_TOTALPOINTS_1",
+      "SetID": "1cgia82",
+      "Name": "Office Veteran",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1cgia82",
+      "IsBase": true,
+      "Progressed": 10,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-09-03T10:59:04.8531121+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:15:10.8095216+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:10.8094913+00:00",
   "LastUpdate_AppInfo": "2024-09-10T05:56:58.5090507+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:06.263597+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:50.9826503+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:10.8104005+00:00"
 }

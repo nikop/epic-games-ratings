@@ -2,10 +2,10 @@
   "ID": "fbf88f87983d477fbb665c2a0d1d2856",
   "Name": "Revenge of the Boxer : Moscow Crime",
   "ProductSlug": "revenge-of-the-boxer-moscow-crime-987f80",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-30T18:18:42.95+00:00",
     "PcReleaseDate": "2024-05-24T04:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T04:57:08.7313965+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:44.8653339+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:24.9259875+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:37.7181552+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:33.838145+00:00"
 }

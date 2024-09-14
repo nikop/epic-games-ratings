@@ -2,10 +2,10 @@
   "ID": "b093652271f54db8af378620985d67d5",
   "Name": "Fall of Light: Darkest Edition",
   "ProductSlug": "fall-of-light-darkest-edition-055f95",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
     "PcReleaseDate": "2017-09-28T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.4525389+00:00",
   "LastChanged": "2023-03-31T05:58:35.452539+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:12.9588726+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:26.3606423+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:42.6743489+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:09.4449464+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:53.6526935+00:00"
 }

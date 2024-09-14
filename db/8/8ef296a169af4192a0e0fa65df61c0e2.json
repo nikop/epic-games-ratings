@@ -2,10 +2,10 @@
   "ID": "8ef296a169af4192a0e0fa65df61c0e2",
   "Name": "Tukoni: Forest Keepers",
   "ProductSlug": "tukoni-forest-keepers-7ef952",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-08T03:57:08.5421526+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:46.7326771+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:46.2405927+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:18.9923368+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:47.8172243+00:00"
 }

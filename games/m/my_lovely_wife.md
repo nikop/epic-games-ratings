@@ -6,27 +6,27 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~688 |
-| I did it! | 93.00% | ~659 |
-| Learner | 90.00% | ~638 |
-| Economical | 90.00% | ~638 |
-| Devout | 88.00% | ~624 |
-| The Love Martyr | 86.00% | ~610 |
-| Frugal | 84.00% | ~596 |
-| Dilligent | 80.00% | ~567 |
-| I... I did it? | 78.00% | ~553 |
-| Adored | 73.00% | ~518 |
-| The Hobbyist | 63.00% | ~447 |
-| A Forked Tongue | 53.00% | ~376 |
-| Between Two Fires | 50.00% | ~354 |
-| The Admirer | 50.00% | ~354 |
-| Precious | 44.00% | ~312 |
+| Objective Complete | 97.00% | ~690 |
+| I did it! | 93.00% | ~661 |
+| Learner | 90.00% | ~640 |
+| Economical | 90.00% | ~640 |
+| Devout | 88.00% | ~626 |
+| The Love Martyr | 86.00% | ~611 |
+| Frugal | 84.00% | ~597 |
+| Dilligent | 80.00% | ~569 |
+| I... I did it? | 78.00% | ~555 |
+| Adored | 73.00% | ~519 |
+| The Hobbyist | 63.00% | ~448 |
+| A Forked Tongue | 53.00% | ~377 |
+| Between Two Fires | 50.00% | ~356 |
+| The Admirer | 50.00% | ~356 |
+| Precious | 44.00% | ~313 |
 | Devoted | 40.00% | ~284 |
-| The Farmer | 38.00% | ~269 |
-| Ever After | 35.00% | ~248 |
+| The Farmer | 38.00% | ~270 |
+| Ever After | 35.00% | ~249 |
 | Mandatory Sacrifice | 28.00% | ~199 |
-| Loyal | 27.00% | ~191 |
-| The Collector | 24.00% | ~170 |
+| Loyal | 27.00% | ~192 |
+| The Collector | 24.00% | ~171 |
 | All Doors Open | 19.00% | ~135 |
 | Faithful | 10.00% | ~71 |
 | Asmodeus | 9.00% | ~64 |
@@ -40,8 +40,8 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.10% | ~1 |
 | Lady Killer | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 709 (Ranked 437)  
-Completed: 1 (0.14%) (Ranked 418)  
+Progressed: 711 (Ranked 454)  
+Completed: 1 (0.14%) (Ranked 441)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -115,6 +115,7 @@ Completed: 1 (0.14%) (Ranked 418)
 | 2024-07-25 | 693 | 1 |
 | 2024-08-09 | 696 | 1 |
 | 2024-08-20 | 709 | 1 |
+| 2024-09-14 | 711 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

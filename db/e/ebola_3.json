@@ -2,10 +2,10 @@
   "ID": "929e7d2e310b44a0a2af387a803a8ec1",
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
-  "Ranking_EOS_Progress": 409,
-  "Ranking_EOS_Completed": 438,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Completed": 462,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1018,
+  "EOS_Progressed": 1021,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1496,6 +1496,11 @@
       "Time": "2024-08-20T20:07:53.8940351+00:00",
       "NumProgressed": 1018,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:21:09.8002055+00:00",
+      "NumProgressed": 1021,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -1531,7 +1536,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "achBett",
@@ -1571,7 +1576,7 @@
       "Name": "Chest \u2714",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "achCity",
@@ -1617,9 +1622,9 @@
       "ID": "achCrokoTwo",
       "SetID": "72gjli4",
       "Name": "Crocodile Attack \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 41
     },
     {
       "ID": "achCrow",
@@ -1651,7 +1656,7 @@
       "Name": "Doberman \u2714",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achEva",
@@ -1667,7 +1672,7 @@
       "Name": "Survival \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achFood",
@@ -1707,7 +1712,7 @@
       "Name": "Fright \u2714",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 633
     },
     {
       "ID": "achLizun",
@@ -1779,7 +1784,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "achPriest",
@@ -1859,7 +1864,7 @@
       "Name": "Mutation \u2714",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "achVip",
@@ -1883,7 +1888,7 @@
       "Name": "Thirst \u2714",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achWeapon",
@@ -1906,7 +1911,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 1018,
+      "Progressed": 1021,
       "Completed": 1
     }
   ],
@@ -1914,8 +1919,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:53.8940346+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:09.8002049+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:07.4652054+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:00.5888304+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:53.8940711+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:56.7475807+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:09.8002411+00:00"
 }

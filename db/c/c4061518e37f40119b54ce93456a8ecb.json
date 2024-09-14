@@ -2,10 +2,10 @@
   "ID": "c4061518e37f40119b54ce93456a8ecb",
   "Name": "Return to Grace",
   "ProductSlug": "return-to-grace-92a75a",
-  "Ranking_EOS_Progress": 846,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 890,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
     "PcReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -223,9 +223,9 @@
       "ID": "ACH_CrossedTrack",
       "SetID": "aao9n96",
       "Name": "... death is but the next great adventure",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DarkRoom",
@@ -303,9 +303,9 @@
       "ID": "ACH_Inukshuk",
       "SetID": "aao9n96",
       "Name": "Please send me a sign",
-      "Percentage": 65,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_Keeper",
@@ -319,9 +319,9 @@
       "ID": "ACH_LongJump",
       "SetID": "aao9n96",
       "Name": "Tis but a scratch!",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MomWalk",
@@ -430,8 +430,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:27.2310218+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:49.0673284+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:32.3151478+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:18.2574665+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:27.2310448+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:57.1607347+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:49.0673527+00:00"
 }

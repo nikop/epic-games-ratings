@@ -42,8 +42,8 @@ Rating: 3.63 (Ranked 1,286)
 | Customer | 0.00% | ~0 |
 | Water Desalter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 1,049)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 2 (Ranked 1,110)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

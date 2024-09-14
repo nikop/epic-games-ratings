@@ -2,10 +2,10 @@
   "ID": "2ac0cd69936144c0b4e7ff7ae136905f",
   "Name": "Inquisitor\u0027s Heart and Soul",
   "ProductSlug": "inquisitors-heart-and-soul-803cc3",
-  "Ranking_EOS_Progress": 1033,
-  "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1072,
+  "Ranking_EOS_Completed": 23,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-08T09:00:00+00:00",
     "PcReleaseDate": "2021-10-22T09:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 33.33,
+  "EOS_Completed_Percentage": 25,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:02:02.7425122+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:15:14.1327765+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 1
     }
   ],
@@ -43,7 +48,7 @@
       "ID": "ACH_1",
       "SetID": "7b31a8k",
       "Name": "First cutscene",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -51,7 +56,7 @@
       "ID": "ACH_2",
       "SetID": "7b31a8k",
       "Name": "Second cutscene",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -59,7 +64,7 @@
       "ID": "ACH_3",
       "SetID": "7b31a8k",
       "Name": "Third cutscene",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -67,7 +72,7 @@
       "ID": "ACH_4",
       "SetID": "7b31a8k",
       "Name": "Forth cutscene",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -75,7 +80,7 @@
       "ID": "ACH_5",
       "SetID": "7b31a8k",
       "Name": "Fifth cutscene",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -84,13 +89,13 @@
     {
       "ID": "7b31a8k",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:02:02.7425158+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:02.7425111+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:14.1327755+00:00",
   "LastUpdate_AppInfo": "2024-09-10T21:57:02.9206894+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:13.6692254+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:02.7432497+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:06.3359725+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:14.1328002+00:00"
 }

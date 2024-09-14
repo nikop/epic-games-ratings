@@ -2,10 +2,10 @@
   "ID": "de2c3bf324c1479e8f187604b5cb9cba",
   "Name": "Rogue Labyrinth",
   "ProductSlug": "rogue-labyrinth-e7b74b",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T05:57:08.4705529+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:02.3813851+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:27.1910443+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:38.0409209+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:35.298375+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9eeb8436a0664c16ae238d950b6d8dc6",
   "Name": "Marenian Tavern Story: Patty and the Hungry God",
   "ProductSlug": "marenian-tavern-story-patty-and-the-hungry-god-90dbd4",
-  "Ranking_EOS_Progress": 1099,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1000,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-22T15:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-08-09T18:02:06.1416719+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:15.9427859+00:00",
+      "NumProgressed": 10,
       "NumCompleted": 0
     }
   ],
@@ -197,9 +202,9 @@
       "ID": "27",
       "SetID": "976p8l",
       "Name": "Retreating Champion",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "28",
@@ -438,14 +443,14 @@
     {
       "ID": "976p8l",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-26T09:58:34.619298+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:06.1416784+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:06.1416713+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:15.9427856+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:37.6889354+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:14.2199351+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:06.1427328+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:51.5087799+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:15.9428156+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "912f8bad879c4f54ae2e4f2b2b7e970e",
   "Name": "Hector: Badge of Carnage - Episode 1",
   "ProductSlug": "hector-badge-of-carnage-episode-1-348730",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2010-06-02T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T23:57:02.9627629+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:43.35223+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:44.2590139+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:20.5658131+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:45.8078108+00:00"
 }

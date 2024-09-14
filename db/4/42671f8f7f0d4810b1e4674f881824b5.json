@@ -2,10 +2,10 @@
   "ID": "42671f8f7f0d4810b1e4674f881824b5",
   "Name": "One Night With Kawaii",
   "ProductSlug": "one-night-with-kawaii-c8f99d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-08T01:00:00+00:00",
     "PcReleaseDate": "2024-06-08T01:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-10T22:57:13.6894231+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:16.7685326+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:06.1399251+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:47.7612047+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:45.2199646+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:49.7478298+00:00"
 }

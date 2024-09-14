@@ -5,10 +5,10 @@
   "Ranking_Rating": 659,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 676,
-  "Ranking_EOS_Progress": 371,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
     "PcReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1680,
+  "EOS_Progressed": 1696,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2421,6 +2421,11 @@
       "Time": "2024-08-20T20:07:27.1833369+00:00",
       "NumProgressed": 1680,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:20:52.4305656+00:00",
+      "NumProgressed": 1696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2448,7 +2453,7 @@
       "Name": "Atomic Soda",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ATOM_QUIT",
@@ -2512,7 +2517,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -2528,7 +2533,7 @@
       "Name": "Household",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -2552,7 +2557,7 @@
       "Name": "KGB Bunker",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LOT_49",
@@ -2560,7 +2565,7 @@
       "Name": "Lot 49",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LUCKY_GOOSE",
@@ -2584,7 +2589,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "OLD_FRIEND",
@@ -2592,7 +2597,7 @@
       "Name": "An Old Friend",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "POSITRONIUM",
@@ -2600,7 +2605,7 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "POWER_SIMPLICITY",
@@ -2614,9 +2619,9 @@
       "ID": "RISING_STAR",
       "SetID": "62d2oh4",
       "Name": "Rising Star",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "SECOND_THOUGHT",
@@ -2632,7 +2637,7 @@
       "Name": "Shadow over Trudograd",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "SICK_FREAK",
@@ -2646,9 +2651,9 @@
       "ID": "SIXTH_SENSE",
       "SetID": "62d2oh4",
       "Name": "Sixth Sense",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "TERRORIST",
@@ -2664,7 +2669,7 @@
       "Name": "Viva La Revolution",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "WALKING_FORTRESS",
@@ -2672,7 +2677,7 @@
       "Name": "Walking Fortress",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WELCOME_TO_TRUDOGRAD",
@@ -2680,14 +2685,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1459
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1680,
+      "Progressed": 1696,
       "Completed": 0
     }
   ],
@@ -2695,8 +2700,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-09-10T13:58:19.1626734+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:27.1833364+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:52.430565+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:21.521639+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:00.3220516+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:27.183366+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:18.3633305+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:52.4305906+00:00"
 }

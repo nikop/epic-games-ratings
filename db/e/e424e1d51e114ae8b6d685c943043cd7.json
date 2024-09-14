@@ -2,10 +2,10 @@
   "ID": "e424e1d51e114ae8b6d685c943043cd7",
   "Name": "Juna - The Dreamwalker",
   "ProductSlug": "juna-the-dreamwalker-d4fbd7",
-  "Ranking_EOS_Progress": 1099,
-  "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1053,
+  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T19:00:00+00:00",
@@ -23,15 +23,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 5,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 100,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:07:44.9557443+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:27:19.5039395+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 1
     }
   ],
@@ -43,7 +48,7 @@
       "ID": "10000_COINS",
       "SetID": "2kbbb41",
       "Name": "Rainmaker",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -51,7 +56,7 @@
       "ID": "ALL_CRYSTAL",
       "SetID": "2kbbb41",
       "Name": "Gem trader",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -59,7 +64,7 @@
       "ID": "ALL_ENERGY",
       "SetID": "2kbbb41",
       "Name": "Sugar shock",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -67,7 +72,7 @@
       "ID": "ALL_MONSTERS",
       "SetID": "2kbbb41",
       "Name": "Monster slayer!",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -75,7 +80,7 @@
       "ID": "ALL_TREASURES",
       "SetID": "2kbbb41",
       "Name": "Treasure Hunter",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -83,7 +88,7 @@
       "ID": "ENDBOSS",
       "SetID": "2kbbb41",
       "Name": "Kwara\u0027s fate",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -91,7 +96,7 @@
       "ID": "FREE_FARMER",
       "SetID": "2kbbb41",
       "Name": "Savior!",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -99,7 +104,7 @@
       "ID": "INVASION_STOP",
       "SetID": "2kbbb41",
       "Name": "Freedom fighter",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "NO_DEATH_RUN",
       "SetID": "2kbbb41",
       "Name": "Unstoppable!",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -115,135 +120,135 @@
       "ID": "PORTAL_1",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 1",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_2",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 2",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_3",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 3",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_4",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 4",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_5",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 5",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_6",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 6",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_7",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 7",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PORTAL_8",
       "SetID": "2kbbb41",
       "Name": "Portal fragment 8",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_1",
       "SetID": "2kbbb41",
       "Name": "Priest 1 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_2",
       "SetID": "2kbbb41",
       "Name": "Priest 2 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_3",
       "SetID": "2kbbb41",
       "Name": "Priest 3 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_4",
       "SetID": "2kbbb41",
       "Name": "Priest 4 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_5",
       "SetID": "2kbbb41",
       "Name": "Priest 5 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_6",
       "SetID": "2kbbb41",
       "Name": "Priest 6 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRIEST_7",
       "SetID": "2kbbb41",
       "Name": "Priest 7 has awakened!",
-      "Percentage": 100,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "PRIEST_8",
       "SetID": "2kbbb41",
       "Name": "Priest 8 has awakened!",
-      "Percentage": 100,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SOCCER_PRO",
       "SetID": "2kbbb41",
       "Name": "Pro soccer!",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -251,7 +256,7 @@
       "ID": "VETERINARIAN",
       "SetID": "2kbbb41",
       "Name": "Veterinarian!",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -259,7 +264,7 @@
       "ID": "WORLDMAP",
       "SetID": "2kbbb41",
       "Name": "Discoverer!",
-      "Percentage": 100,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 1
     }
@@ -268,13 +273,13 @@
     {
       "ID": "2kbbb41",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 5,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:11.6356816+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:02.961082+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:19.5039388+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:11.2405054+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:37.6496062+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:02.9610989+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:26.6283043+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:19.5039557+00:00"
 }

@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| With A Single Step | 90.00% | ~86 |
-| In Snow And Moonlight | 73.00% | ~70 |
-| Friendly Fire | 53.00% | ~51 |
-| Minelayer | 47.00% | ~45 |
-| Kickstatter | 47.00% | ~45 |
-| Lifesaver | 38.00% | ~36 |
-| Slash And Dash | 33.00% | ~32 |
+| With A Single Step | 89.00% | ~86 |
+| In Snow And Moonlight | 73.00% | ~71 |
+| Friendly Fire | 55.00% | ~53 |
+| Minelayer | 48.00% | ~47 |
+| Kickstatter | 48.00% | ~47 |
+| Lifesaver | 39.00% | ~38 |
+| Slash And Dash | 34.00% | ~33 |
 | Naked And Savage | 25.00% | ~24 |
-| Scattershot | 22.00% | ~21 |
-| Purple Haze | 21.00% | ~20 |
-| Heart Attack | 17.00% | ~16 |
-| Bounceback | 16.00% | ~15 |
-| Thick As Thieves | 14.00% | ~13 |
-| Ascension | 14.00% | ~13 |
-| In Sand And Starlight | 14.00% | ~13 |
-| No Stone Unturned | 13.00% | ~12 |
-| Worlds Within Whirls | 13.00% | ~12 |
+| Scattershot | 24.00% | ~23 |
+| Purple Haze | 23.00% | ~22 |
+| Heart Attack | 16.00% | ~16 |
+| Bounceback | 15.00% | ~15 |
+| Ascension | 14.00% | ~14 |
+| In Sand And Starlight | 14.00% | ~14 |
+| Thick As Thieves | 13.00% | ~13 |
+| No Stone Unturned | 12.00% | ~12 |
+| Worlds Within Whirls | 12.00% | ~12 |
 | Passing Of The Torch | 11.00% | ~11 |
 | Chain Reaction | 10.00% | ~10 |
 | Bone Idol | 9.00% | ~9 |
@@ -47,16 +47,16 @@
 | Time Dilation | 1.00% | ~1 |
 | Outlander | 1.00% | ~1 |
 | Secrets Of The Wastes | 1.00% | ~1 |
+| The Scribe | 1.00% | ~1 |
 | Iron Lungs | 0.00% | ~0 |
 | Close And Personal | 0.00% | ~0 |
 | Treasure Hoarder | 0.00% | ~0 |
 | The Gamut | 0.00% | ~0 |
 | Secrets Of The Domain | 0.00% | ~0 |
-| The Scribe | 0.00% | ~0 |
 | Desecration | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96 (Ranked 684)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 97 (Ranked 713)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 88 | 0 |
 | 2024-08-09 | 93 | 0 |
 | 2024-08-20 | 96 | 0 |
+| 2024-09-14 | 97 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

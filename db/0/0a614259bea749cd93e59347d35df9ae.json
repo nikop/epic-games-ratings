@@ -2,10 +2,10 @@
   "ID": "0a614259bea749cd93e59347d35df9ae",
   "Name": "Gordian Rooms 2 - A curious island",
   "ProductSlug": "gordian-rooms-2-a-curious-island-606172",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1038,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-06T16:00:00+00:00",
     "PcReleaseDate": "2024-01-19T17:00:00+00:00",
@@ -25,27 +25,275 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:21:20.0681966+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:21:20.0681995+00:00",
+  "TotalAchievements": 30,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BytheSword",
+      "SetID": "chloaha",
+      "Name": "By The Sword",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Collector",
+      "SetID": "chloaha",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Creative",
+      "SetID": "chloaha",
+      "Name": "Creative Freedom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CroquetTime",
+      "SetID": "chloaha",
+      "Name": "Croquet time!",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_CulinaryMassacre",
+      "SetID": "chloaha",
+      "Name": "Culinary massacre",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DiningIn",
+      "SetID": "chloaha",
+      "Name": "Dining in",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DiningOut",
+      "SetID": "chloaha",
+      "Name": "Dining out",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DressCode",
+      "SetID": "chloaha",
+      "Name": "Dress code",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GradeA",
+      "SetID": "chloaha",
+      "Name": "Grade A",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GradeA\u002B",
+      "SetID": "chloaha",
+      "Name": "Grade A\u002B",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GradeB",
+      "SetID": "chloaha",
+      "Name": "Grade B",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_GreenThumb",
+      "SetID": "chloaha",
+      "Name": "Green thumb",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Horsing",
+      "SetID": "chloaha",
+      "Name": "Start horsing around",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ISpy",
+      "SetID": "chloaha",
+      "Name": "I Spy",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_IhavetheBestIdeas",
+      "SetID": "chloaha",
+      "Name": "I have the best ideas",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Inspector",
+      "SetID": "chloaha",
+      "Name": "Inspector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_NavalStudies",
+      "SetID": "chloaha",
+      "Name": "Naval Studies",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_OddWheelOut",
+      "SetID": "chloaha",
+      "Name": "Odd wheel out",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ParttimeButler",
+      "SetID": "chloaha",
+      "Name": "Part-time butler",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_ParttimeLibrarian",
+      "SetID": "chloaha",
+      "Name": "Part-time librarian",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Pathfinder",
+      "SetID": "chloaha",
+      "Name": "Pathfinder",
+      "Percentage": 50,
+      "XP": 20,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACH_Peculiar",
+      "SetID": "chloaha",
+      "Name": "Peculiar pictures",
+      "Percentage": 17,
+      "XP": 35,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_PerfectFragrance",
+      "SetID": "chloaha",
+      "Name": "The perfect fragrance",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PremiumWines",
+      "SetID": "chloaha",
+      "Name": "Premium wines",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SpyGame",
+      "SetID": "chloaha",
+      "Name": "Spy Game",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_StillgotIt",
+      "SetID": "chloaha",
+      "Name": "Still got it",
+      "Percentage": 33,
+      "XP": 15,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACH_Traitor",
+      "SetID": "chloaha",
+      "Name": "Traitor in the Mansion",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Treasure",
+      "SetID": "chloaha",
+      "Name": "Treasure Hunting",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_WorkingUnderPressure",
+      "SetID": "chloaha",
+      "Name": "Working under pressure",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_YouRangMLord",
+      "SetID": "chloaha",
+      "Name": "You rang M\u0027Lord?",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "chloaha",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-12T21:00:22.6111792+00:00",
   "FirstSeenAchievements": "2024-06-17T16:15:52.1209018+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:10.5476391+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:20.0681959+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:57:28.9566913+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:37.5175077+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:10.5476422+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:44.5389051+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:20.0690789+00:00"
 }

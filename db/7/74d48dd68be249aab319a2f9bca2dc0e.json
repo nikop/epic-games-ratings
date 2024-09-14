@@ -2,10 +2,10 @@
   "ID": "74d48dd68be249aab319a2f9bca2dc0e",
   "Name": "Wanderer\u0027s Sigil: Dice-Fueled Adventure",
   "ProductSlug": "wanderers-sigil-dicefueled-adventure-e11618",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T05:57:19.3131043+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:19.5215133+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:34.0906979+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:00.7213398+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:42.6675275+00:00"
 }

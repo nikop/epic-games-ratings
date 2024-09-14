@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 120.00% | ~133 |
-| Break no Sweat | 115.00% | ~128 |
-| Every little bit counts | 109.00% | ~121 |
-| Growth | 93.00% | ~103 |
+| Black Cat's Warning | 121.00% | ~134 |
+| Break no Sweat | 116.00% | ~129 |
+| Every little bit counts | 110.00% | ~122 |
+| Growth | 94.00% | ~104 |
 | Targeting the Enemy | 77.00% | ~85 |
 | Unavoidable | 71.00% | ~79 |
-| Revenge | 69.00% | ~77 |
+| Revenge | 70.00% | ~78 |
 | Reunion | 45.00% | ~50 |
 | Elimination | 38.00% | ~42 |
-| Fluke | 37.00% | ~41 |
+| Fluke | 38.00% | ~42 |
 | Once Bitten, Twice Shy | 34.00% | ~38 |
+| Victor's Prejudice | 34.00% | ~38 |
 | Excellent Driving Skills | 33.00% | ~37 |
-| Victor's Prejudice | 33.00% | ~37 |
 | Memento | 32.00% | ~36 |
 | Fleet-footed | 29.00% | ~32 |
 | Invincible | 28.00% | ~31 |
 | Defeat the AI | 27.00% | ~30 |
 | Neutralize | 26.00% | ~29 |
 | Best in Dragon City | 24.00% | ~27 |
+| Walking into a Trap | 24.00% | ~27 |
 | Unsalvageable | 24.00% | ~27 |
-| Walking into a Trap | 23.00% | ~26 |
 | Disdain | 23.00% | ~26 |
 | Brain in a Vat | 20.00% | ~22 |
 | Final Battle | 19.00% | ~21 |
@@ -43,10 +43,10 @@
 | Terrible Weather | 4.00% | ~4 |
 | Unexpected Crisis | 4.00% | ~4 |
 | Time's Up | 4.00% | ~4 |
+| Prowess | 4.00% | ~4 |
 | Greetings | 4.00% | ~4 |
 | Interception | 3.00% | ~3 |
 | Giving Up | 3.00% | ~3 |
-| Prowess | 3.00% | ~3 |
 | Clairvoyance | 3.00% | ~3 |
 | Encore | 3.00% | ~3 |
 | Escape Master | 2.00% | ~2 |
@@ -62,8 +62,8 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 662)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 111 (Ranked 691)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

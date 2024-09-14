@@ -2,10 +2,10 @@
   "ID": "9a4a33ebb75f4481ab78dc2f000bdde3",
   "Name": "Hector: Badge of Carnage - Episode 2",
   "ProductSlug": "hector-badge-of-carnage-episode-2-658fd6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2010-06-02T11:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T23:56:59.022638+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:52.0083384+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:29.9799313+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:40.7707451+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:32.6983957+00:00"
 }

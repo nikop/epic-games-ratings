@@ -5,41 +5,41 @@ Rating: 4.64 (Ranked 376)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 24.00% | ~280 |
-| Dental maturity | 19.00% | ~222 |
-| Devil's in the details | 14.00% | ~163 |
-| Uprooting | 13.00% | ~152 |
-| Forbidden techniques | 11.00% | ~128 |
-| Devoted | 9.00% | ~105 |
-| Slavic squatter | 8.00% | ~93 |
-| Spirit animal | 7.00% | ~82 |
-| Liar Liar | 7.00% | ~82 |
-| Fishing fanatic | 6.00% | ~70 |
-| Gold rush | 6.00% | ~70 |
-| The word around is... | 5.00% | ~58 |
-| A friend in need... | 5.00% | ~58 |
-| The cycle acknowledged | 5.00% | ~58 |
-| Baba Yaga | 5.00% | ~58 |
+| Tooth fairy | 24.00% | ~285 |
+| Dental maturity | 19.00% | ~226 |
+| Devil's in the details | 14.00% | ~166 |
+| Uprooting | 13.00% | ~154 |
+| Forbidden techniques | 11.00% | ~131 |
+| Devoted | 9.00% | ~107 |
+| Slavic squatter | 8.00% | ~95 |
+| Spirit animal | 7.00% | ~83 |
+| Liar Liar | 7.00% | ~83 |
+| Fishing fanatic | 6.00% | ~71 |
+| Gold rush | 6.00% | ~71 |
+| The word around is... | 5.00% | ~59 |
+| A friend in need... | 5.00% | ~59 |
+| The cycle acknowledged | 5.00% | ~59 |
+| Baba Yaga | 5.00% | ~59 |
 | Extensive retelling | 4.00% | ~47 |
 | Sneak peek | 4.00% | ~47 |
 | Favorite | 4.00% | ~47 |
 | Queen | 4.00% | ~47 |
 | Specialist | 4.00% | ~47 |
-| Toxic | 3.00% | ~35 |
-| Witch's cookbook | 3.00% | ~35 |
-| Loremaster | 2.00% | ~23 |
-| Goal! | 2.00% | ~23 |
-| Gnowlledgeable | 2.00% | ~23 |
-| Both sides | 2.00% | ~23 |
-| Always worth a try | 2.00% | ~23 |
-| Entangled | 2.00% | ~23 |
+| Toxic | 3.00% | ~36 |
+| Witch's cookbook | 3.00% | ~36 |
+| Loremaster | 2.00% | ~24 |
+| Goal! | 2.00% | ~24 |
+| Gnowlledgeable | 2.00% | ~24 |
+| Both sides | 2.00% | ~24 |
+| Always worth a try | 2.00% | ~24 |
+| Entangled | 2.00% | ~24 |
 | Bad apple | 1.00% | ~12 |
 | Awards unwarded | 1.00% | ~12 |
 | Mushrooming enthusiast | 0.70% | ~8 |
 | Apex predator | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,167 (Ranked 396)  
-Completed: 2 (0.17%) (Ranked 405)  
+Progressed: 1,187 (Ranked 408)  
+Completed: 2 (0.17%) (Ranked 429)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -269,6 +269,7 @@ Completed: 2 (0.17%) (Ranked 405)
 | 2024-06-17 | 1,117 | 2 |
 | 2024-08-09 | 1,159 | 2 |
 | 2024-08-20 | 1,167 | 2 |
+| 2024-09-14 | 1,187 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

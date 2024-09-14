@@ -2,10 +2,10 @@
   "ID": "c3a896e5dfd740309a3069cb32835592",
   "Name": "The Cub",
   "ProductSlug": "the-cub-158658",
-  "Ranking_EOS_Progress": 1099,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1110,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-04T22:00:00+00:00",
     "PcReleaseDate": "2024-04-04T22:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -31,6 +31,11 @@
     {
       "Time": "2024-04-10T06:01:54.9170643+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:59.4272601+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -203,13 +208,13 @@
     {
       "ID": "2a1b4fg",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:54.9170709+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:54.7117726+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:59.4272592+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:25.8269836+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:28.8610592+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:54.7117827+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:02.6805762+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:59.4272724+00:00"
 }

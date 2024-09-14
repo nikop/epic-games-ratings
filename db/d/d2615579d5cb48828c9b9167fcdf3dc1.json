@@ -2,10 +2,10 @@
   "ID": "d2615579d5cb48828c9b9167fcdf3dc1",
   "Name": "Zen Chess: Blindfold Masters",
   "ProductSlug": "zen-chess-blindfold-masters-50f58e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 941,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-29T15:00:00+00:00",
     "PcReleaseDate": "2019-10-01T20:00:00+00:00",
@@ -23,16 +23,154 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 17,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 5.88,
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:09.7965157+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 1
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:09.7965227+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "LEVEL_10",
+      "SetID": "54picjh",
+      "Name": "Briefcase? Oh poor memory",
+      "Percentage": 24,
+      "XP": 50,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "LEVEL_100",
+      "SetID": "54picjh",
+      "Name": "Third son of Maekar I",
+      "Percentage": 6,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_110",
+      "SetID": "54picjh",
+      "Name": "Euler is amazed with you",
+      "Percentage": 6,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_120",
+      "SetID": "54picjh",
+      "Name": "Postal chess billionaire",
+      "Percentage": 6,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_130",
+      "SetID": "54picjh",
+      "Name": "Bramblitt is proud",
+      "Percentage": 6,
+      "XP": 75,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_140",
+      "SetID": "54picjh",
+      "Name": "I just called to say I love you",
+      "Percentage": 6,
+      "XP": 125,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_150",
+      "SetID": "54picjh",
+      "Name": "Are you Matt Murdock?",
+      "Percentage": 6,
+      "XP": 125,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_20",
+      "SetID": "54picjh",
+      "Name": "Made by trouble sleeping",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_30",
+      "SetID": "54picjh",
+      "Name": "Hit the road jack",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_40",
+      "SetID": "54picjh",
+      "Name": "I could do 100 games like that",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_50",
+      "SetID": "54picjh",
+      "Name": "I\u2019m sensing a scent of a woman",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_60",
+      "SetID": "54picjh",
+      "Name": "USSR\u2019s dread",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_70",
+      "SetID": "54picjh",
+      "Name": "Also Botvinnik\u2019s dread",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_80",
+      "SetID": "54picjh",
+      "Name": "Isn\u2019t she lovely",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "LEVEL_90",
+      "SetID": "54picjh",
+      "Name": "Blackburne\u2019s golden goose",
+      "Percentage": 6,
+      "XP": 50,
+      "UsersEstimate": 1
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "54picjh",
+      "IsBase": true,
+      "Progressed": 17,
+      "Completed": 1
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:09.7965225+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:09.7965151+00:00",
   "LastUpdate_AppInfo": "2024-09-13T17:57:09.1777242+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:19.2272742+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:00.5105511+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:09.7972535+00:00"
 }

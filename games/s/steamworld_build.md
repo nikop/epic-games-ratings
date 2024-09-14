@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mathematic | 88.00% | ~337 |
-| Digging a Hole | 81.00% | ~310 |
-| It's Yours, My Friend | 75.00% | ~287 |
-| Conducted Trade | 70.00% | ~268 |
-| Going Places | 66.00% | ~253 |
-| Aristocratic | 64.00% | ~245 |
-| Tutti Frutti | 58.00% | ~222 |
-| Slotting Machine | 48.00% | ~184 |
-| Systematic | 48.00% | ~184 |
-| Gotta Go Fast | 45.00% | ~172 |
-| Mine Sweeper | 45.00% | ~172 |
-| Roll Out | 40.00% | ~153 |
-| Up, Up And Away! | 37.00% | ~142 |
-| Dopa-Miner | 35.00% | ~134 |
-| Botropolis | 31.00% | ~119 |
-| Whoa! | 31.00% | ~119 |
-| Steam Powered | 22.00% | ~84 |
-| Steaming Rich | 22.00% | ~84 |
-| Manic Mechanic | 20.00% | ~77 |
-| Room To Spare | 16.00% | ~61 |
-| Click 'Em All | 11.00% | ~42 |
-| Accustomed Customer | 7.00% | ~27 |
-| Stack Overflow | 4.00% | ~15 |
-| I'm A Lumberbot | 3.00% | ~11 |
-| Interstellar Performance | 3.00% | ~11 |
-| Real Purdy | 3.00% | ~11 |
+| Mathematic | 88.00% | ~341 |
+| Digging a Hole | 81.00% | ~314 |
+| It's Yours, My Friend | 76.00% | ~295 |
+| Conducted Trade | 70.00% | ~272 |
+| Going Places | 66.00% | ~256 |
+| Aristocratic | 64.00% | ~248 |
+| Tutti Frutti | 59.00% | ~229 |
+| Slotting Machine | 48.00% | ~186 |
+| Systematic | 48.00% | ~186 |
+| Gotta Go Fast | 45.00% | ~175 |
+| Mine Sweeper | 45.00% | ~175 |
+| Roll Out | 39.00% | ~151 |
+| Up, Up And Away! | 37.00% | ~144 |
+| Dopa-Miner | 35.00% | ~136 |
+| Botropolis | 30.00% | ~116 |
+| Whoa! | 30.00% | ~116 |
+| Steam Powered | 22.00% | ~85 |
+| Steaming Rich | 22.00% | ~85 |
+| Manic Mechanic | 20.00% | ~78 |
+| Room To Spare | 16.00% | ~62 |
+| Click 'Em All | 11.00% | ~43 |
+| Accustomed Customer | 6.00% | ~23 |
+| Stack Overflow | 4.00% | ~16 |
+| I'm A Lumberbot | 3.00% | ~12 |
+| Interstellar Performance | 3.00% | ~12 |
+| Real Purdy | 3.00% | ~12 |
 | Nothing But Road | 0.30% | ~1 |
 | Yup. | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 508)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 388 (Ranked 520)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,3 +94,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 361 | 0 |
 | 2024-08-09 | 380 | 0 |
 | 2024-08-20 | 383 | 0 |
+| 2024-09-14 | 388 | 0 |

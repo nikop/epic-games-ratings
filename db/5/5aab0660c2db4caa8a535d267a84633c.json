@@ -5,10 +5,10 @@
   "Ranking_Rating": 245,
   "Ranking_Popularity": 706,
   "Ranking_PopularitySum": 650,
-  "Ranking_EOS_Progress": 345,
-  "Ranking_EOS_Completed": 483,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Completed": 468,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-14T18:00:00+00:00",
     "PcReleaseDate": "2024-02-14T18:00:00+00:00",
@@ -403,11 +403,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2287,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_Progressed": 2377,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.04,
+  "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
     {
       "Time": "2024-02-22T21:04:33.3717589+00:00",
@@ -438,6 +438,11 @@
       "Time": "2024-08-20T20:06:07.6994792+00:00",
       "NumProgressed": 2287,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:19:30.9077558+00:00",
+      "NumProgressed": 2377,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-02-22T21:04:33.3717609+00:00",
@@ -450,7 +455,7 @@
       "Name": "TR1 | Tomb Cleaner",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_ALL_EXERCISES",
@@ -458,7 +463,7 @@
       "Name": "TR1 | Welcome to My Home!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 214
     },
     {
       "ID": "TR1_ALL_SWORDS_FALL_W_NO_DAMAGE",
@@ -466,7 +471,7 @@
       "Name": "TR1 | Exaggerated Threat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_ALL_WAYS_TO_DIE",
@@ -474,7 +479,7 @@
       "Name": "TR1 | Deadline",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_ATLANTIS_ALL_SECRETS",
@@ -482,7 +487,7 @@
       "Name": "TR1 | Codex of Atlantis",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_ATLANTIS_CHAPTER",
@@ -490,7 +495,7 @@
       "Name": "TR1 | The Cataclysm of Atlantis",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 285
     },
     {
       "ID": "TR1_AVOID_VELOCIRAPTORS_BITES",
@@ -498,7 +503,7 @@
       "Name": "TR1 | Clever Girl",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_BEATH_THE_GAME_ONLY_W_LARAS_GUNS",
@@ -506,15 +511,15 @@
       "Name": "TR1 | Hard Boiled",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_BEAT_NEW_GAME_PLUS",
       "SetID": "l78n4d",
       "Name": "TR1 | Consolidate the Material",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "TR1_BEAT_THE_GAME_WO_USING_MEDIPACKS",
@@ -522,15 +527,15 @@
       "Name": "TR1 | Hardy Raider",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_BECOME_GOLDEN",
       "SetID": "l78n4d",
       "Name": "TR1 | Midas\u2019 Touch",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 333
     },
     {
       "ID": "TR1_BLOCK_FALL_ON_LARAS_HEAD",
@@ -538,7 +543,7 @@
       "Name": "TR1 | Thor\u2019s Mercy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_CENTAURS_NOT_KILLED",
@@ -546,15 +551,15 @@
       "Name": "TR1 | On Incredible Tales",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR1_COLLECT_ALL_MEDIPACKS_ON_LEVEL",
       "SetID": "l78n4d",
       "Name": "TR1 | Pharming Health",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 428
     },
     {
       "ID": "TR1_DEFEAT_BALD_GUY",
@@ -562,7 +567,7 @@
       "Name": "TR1 | Cheese!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "TR1_DEFEAT_BALD_W_SHOTGUN",
@@ -570,7 +575,7 @@
       "Name": "TR1 | Shell Sucker!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_DEFEAT_COWBOY",
@@ -578,7 +583,7 @@
       "Name": "TR1 | It\u2019s Personal Now!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "TR1_DEFEAT_DOPPELGANGER_WO_DAMAGE",
@@ -586,15 +591,15 @@
       "Name": "TR1 | Be Like Prince",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR1_DEFEAT_LARSON",
       "SetID": "l78n4d",
       "Name": "TR1 | Pain in Your Brain!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 333
     },
     {
       "ID": "TR1_DEFEAT_NEW_BREED",
@@ -602,31 +607,31 @@
       "Name": "TR1 | Kind of Evolution on Steroids",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "TR1_DEFEAT_PIERE",
       "SetID": "l78n4d",
       "Name": "TR1 | Not So Late for the Prize Giving!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 380
     },
     {
       "ID": "TR1_DEFEAT_RULER",
       "SetID": "l78n4d",
       "Name": "TR1 | Yes, I Can!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 309
     },
     {
       "ID": "TR1_DEFEAT_SKATER_BOY",
       "SetID": "l78n4d",
       "Name": "TR1 | Yes, I\u2019m Firing at You!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 309
     },
     {
       "ID": "TR1_DONT_HURT_TREX",
@@ -634,23 +639,23 @@
       "Name": "TR1 | Raid Not Kill",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_EGYPT_ALL_SECRETS",
       "SetID": "l78n4d",
       "Name": "TR1 | Codex of Egypt",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 119
     },
     {
       "ID": "TR1_EGYPT_CHAPTER",
       "SetID": "l78n4d",
       "Name": "TR1 | Little Vacation Riot\u2019s Over",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 333
     },
     {
       "ID": "TR1_GATHER_ALL_WOLVES",
@@ -658,7 +663,7 @@
       "Name": "TR1 | Dances With Wolves",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_GET_IN_WATER_WHILE_BURNING",
@@ -666,7 +671,7 @@
       "Name": "TR1 | Tempered Lara",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 238
     },
     {
       "ID": "TR1_GET_OUT_OF_WATER_W_NO_AIR_ON_NEPTUNE",
@@ -674,7 +679,7 @@
       "Name": "TR1 | So Salacia",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "TR1_GET_TO_PYRAMIDS_DOOR_W_ONLY_ONE_SQUARE",
@@ -682,7 +687,7 @@
       "Name": "TR1 | Watch Your Step",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_GET_UNREACHABLE_MEDIPACK",
@@ -690,7 +695,7 @@
       "Name": "TR1 | You Corner Bug!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR1_GET_UPSIDE_W_NO_HARM_ON_ATLAS",
@@ -698,7 +703,7 @@
       "Name": "TR1 | I Am No Heracles",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_GORILLA_DIED_AT_HIGHEST_PLACE",
@@ -706,7 +711,7 @@
       "Name": "TR1 | Kong\u0027s Fate",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_GREECE_CHAPTER",
@@ -714,7 +719,7 @@
       "Name": "TR1 | Look Over Us Kindly, Tihocan",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 357
     },
     {
       "ID": "TR1_GREEK_ALL_SECRETS",
@@ -722,7 +727,7 @@
       "Name": "TR1 | Codex of Greece",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_HANDSTAND_ON_SPHINX",
@@ -730,15 +735,15 @@
       "Name": "TR1 | Pet This Cat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_HIDDEN_UZIS",
       "SetID": "l78n4d",
       "Name": "TR1 | Do Uzi This One?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 238
     },
     {
       "ID": "TR1_HIGHEST_SWAN_DIVE_ON_SOLID_FLOOR",
@@ -746,7 +751,7 @@
       "Name": "TR1 | Only the Brave Deserve the Fair",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_KILL_10_ANIMALS_FROM_BALCONY",
@@ -754,7 +759,7 @@
       "Name": "TR1 | Ave, Lara!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_KILL_EVERYTHING",
@@ -762,7 +767,7 @@
       "Name": "TR1 | Leave Them Sucking Wind",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_KILL_NATLA_W_HER_GUNS",
@@ -770,7 +775,7 @@
       "Name": "TR1 | Curses, Like Chickens, Come Home to Roost",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_KILL_PIERE_W_MAGNUMS",
@@ -778,15 +783,15 @@
       "Name": "TR1 | Au Revoir!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR1_KILL_TREX",
       "SetID": "l78n4d",
       "Name": "TR1 | T-Rextinct",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 570
     },
     {
       "ID": "TR1_KILL_WOLF_WHILE_BOTH_IN_AIR",
@@ -794,7 +799,7 @@
       "Name": "TR1 | The Apex Predator",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 333
     },
     {
       "ID": "TR1_LEFT_DAMOCLES_ROOM_W_ONLY_ONE_SWORD_HIT",
@@ -802,23 +807,23 @@
       "Name": "TR1 | Dionysius\u2019 Wisdom",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 238
     },
     {
       "ID": "TR1_LEFT_THORS_ROOM_WO_THUNDER_DAMAGE",
       "SetID": "l78n4d",
       "Name": "TR1 | You Are Really Loki",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 143
     },
     {
       "ID": "TR1_MAKE_ALL_SHATTERED_PANELS_CRASH",
       "SetID": "l78n4d",
       "Name": "TR1 | After Us the Deluge!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "TR1_MAKE_LARA_SCREAM_TWICE_WHILE_FALLING",
@@ -826,7 +831,7 @@
       "Name": "TR1 | Shelley\u0027s Encore",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 214
     },
     {
       "ID": "TR1_NATLAS_SECRET_WO_TRAP",
@@ -834,7 +839,7 @@
       "Name": "TR1 | I\u2019m Not Falling for This Trick",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_PERU_ALL_SECRETS",
@@ -842,7 +847,7 @@
       "Name": "TR1 | Codex of Peru",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR1_PERU_CHAPTER",
@@ -850,7 +855,7 @@
       "Name": "TR1 | The Unfound Tomb of Qualopec",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 499
     },
     {
       "ID": "TR1_PHOTO_MODE",
@@ -858,7 +863,7 @@
       "Name": "TR1 | There\u2019s So Much to Remember Here",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 404
     },
     {
       "ID": "TR1_PHOTO_W_BEAR_ON_TWO_LEGS",
@@ -866,7 +871,7 @@
       "Name": "TR1 | Circus of Vilcabamba",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_PHOTO_W_GOLD",
@@ -874,7 +879,7 @@
       "Name": "TR1 | Feast Your Eyes on This!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR1_PHOTO_W_NATLAS_THRONE",
@@ -882,7 +887,7 @@
       "Name": "TR1 | QTN",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_PHOTO_W_SNAKE",
@@ -890,7 +895,7 @@
       "Name": "TR1 | Why Did It Have to Be Snakes?",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 499
     },
     {
       "ID": "TR1_PHOTO_W_STATUE_OF_VIRACOCHA",
@@ -898,15 +903,15 @@
       "Name": "TR1 | Kon-Tiqsi-Wiraqucha",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_PHOTO_W_TIME_DEVICE",
       "SetID": "l78n4d",
       "Name": "TR1 | It\u2019s About Time!",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 261
     },
     {
       "ID": "TR1_SAVE_72_TIMES_OR_LESS",
@@ -914,7 +919,7 @@
       "Name": "TR1 | Play It Like You Did on a Console in 1996",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_SECRET_DOOR",
@@ -922,7 +927,7 @@
       "Name": "TR1 | Secret Door",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_SHOOT_MUMMY",
@@ -930,7 +935,7 @@
       "Name": "TR1 | Mummy, I\u2019m Scared!",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 333
     },
     {
       "ID": "TR1_SHOTGUN_BEFORE_COGS",
@@ -938,7 +943,7 @@
       "Name": "TR1 | Lethal and Loaded",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 320
+      "UsersEstimate": 333
     },
     {
       "ID": "TR1_SKIP_LEVEL_CHEAT_CODE",
@@ -946,15 +951,15 @@
       "Name": "TR1 | Like Dorothy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR1_SPEEDRUN",
       "SetID": "l78n4d",
       "Name": "TR1 | I Only Play for Sport!",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_SWAN_DIVE_IN_FIRE",
@@ -962,7 +967,7 @@
       "Name": "TR1 | Bullseye!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_TAKE_6_ITEMS_UNDERWATER_ONE_BREATH",
@@ -970,7 +975,7 @@
       "Name": "TR1 | Enter the Crocodile",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_TWO_PHOTOS_W_MUMMIES",
@@ -978,15 +983,15 @@
       "Name": "TR1 | May They Rest in Ukhu Pacha",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 214
     },
     {
       "ID": "TR1_UB_ALL_ITEMS_MOVING_BLOCKS_LESS_22",
       "SetID": "l78n4d",
       "Name": "TR:UB | Sokoban",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TR1_UB_ALL_SECRETS_ATLANTIS",
@@ -994,7 +999,7 @@
       "Name": "TR:UB | Codex of Hive",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_UB_ALL_SECRETS_EGYPT",
@@ -1002,15 +1007,15 @@
       "Name": "TR:UB | Codex of Cat",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_UB_AVOID_TRIGGERING_BOULDERS",
       "SetID": "l78n4d",
       "Name": "TR:UB | On Tiptoes",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_CHECK_OUT_WHAT_BIG_EYES_ARE_HIDING",
@@ -1018,7 +1023,7 @@
       "Name": "TR:UB | Behind Cat\u2019s Eyes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_UB_COLLECT_ELEVEN_ITEMS_IN_ONE_BREATH",
@@ -1026,15 +1031,15 @@
       "Name": "TR:UB | Lucky Diver",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_DIE_IN_VERY_DARK_PLACE",
       "SetID": "l78n4d",
       "Name": "TR:UB | Alone in the Dark",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_DO_HANDSTAND_HIGHEST_CAT_STATUE",
@@ -1050,15 +1055,15 @@
       "Name": "TR:UB | I See Goals, I Don\u2019t See Obstacles",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_UB_ENTER_TEMPLE_WO_MOVING_ADJ_BLOCKS",
       "SetID": "l78n4d",
       "Name": "TR:UB | Cat\u2019s Cunning",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "TR1_UB_FINISH_ALANTIS_CHAPTER",
@@ -1066,23 +1071,23 @@
       "Name": "TR:UB | Business Is Finished",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "TR1_UB_FINISH_ATLANTIS_BEFORE_EGYPT",
       "SetID": "l78n4d",
       "Name": "TR:UB | Gifts of Wonderland",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TR1_UB_FINISH_EGYPT_CHAPTER",
       "SetID": "l78n4d",
       "Name": "TR:UB | Miu",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 119
     },
     {
       "ID": "TR1_UB_FINISH_LEVEL1_LESS_5_MINUTES",
@@ -1090,15 +1095,15 @@
       "Name": "TR:UB | Emergency Escape",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_GET_ALL_WEAPONS_ATLANTIS",
       "SetID": "l78n4d",
       "Name": "TR:UB | To Arms",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 119
     },
     {
       "ID": "TR1_UB_GET_ALL_WEAPONS_RETURN_TO_EGYPT",
@@ -1106,7 +1111,7 @@
       "Name": "TR:UB | Bastet\u2019s Stash",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_UB_GET_MAGNUMS_WO_KILLING_CROCODILES",
@@ -1114,7 +1119,7 @@
       "Name": "TR:UB | Crocodile Rock",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR1_UB_GET_MEDIPACK_IN_SMALL_PLACE",
@@ -1122,7 +1127,7 @@
       "Name": "TR:UB | How Do I Get It?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR1_UB_GET_OUT_OF_TRAP_ROOM_ALIVE",
@@ -1138,23 +1143,23 @@
       "Name": "TR:UB | Schmitty\u2019s Leap",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_JUMP_OVER_THREE_BOULDERS",
       "SetID": "l78n4d",
       "Name": "TR:UB | Jaws of Death",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_JUMP_OVER_TWO_BOULDER_WO_TAKING_DMG",
       "SetID": "l78n4d",
       "Name": "TR:UB | I\u2019m Not a Pin",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TR1_UB_KILL_ALL_ATLANTEAN_CREATURES",
@@ -1162,7 +1167,7 @@
       "Name": "TR:UB | Not Too Late",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_UB_KILL_TWO_CENTAURS_IN_ARENA_USING_PISTOLS",
@@ -1170,7 +1175,7 @@
       "Name": "TR:UB | Ben-Hur",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TR1_UB_LISTEN_TO_BIGGEST_CAT_FACE",
@@ -1178,15 +1183,15 @@
       "Name": "TR:UB | Like Alice",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TR1_UB_LOOK_AT_EGYPTIAN_VASE",
       "SetID": "l78n4d",
       "Name": "TR:UB | That Belongs in a Museum!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 71
     },
     {
       "ID": "TR1_UB_MAKE_ALL_BOULDERS_ROLL",
@@ -1194,15 +1199,15 @@
       "Name": "TR:UB | Roll, Action!",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TR1_UB_MAKE_SWAN_DIVE_FOR_SPHINX",
       "SetID": "l78n4d",
       "Name": "TR:UB | Down the Rabbit Hole",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_UB_STARE_AT_LARA_ANCIENT_IMAGE_5_SECONDS",
@@ -1210,7 +1215,7 @@
       "Name": "TR:UB | Not the First Raider Here",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR1_UB_SWAN_DIVE_TO_HOLE_AT_END_OF_LEVEL",
@@ -1218,7 +1223,7 @@
       "Name": "TR:UB | Leap of Faith",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR1_UB_TAKE_LARA_FAR_OUT_OF_DESERT",
@@ -1226,7 +1231,7 @@
       "Name": "TR:UB | Exhausted",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR1_UB_TURN_ON_LIGHTS",
@@ -1234,7 +1239,7 @@
       "Name": "TR:UB | No Feline Vision",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2G_BREAK_ALL_SHATTERED_FLOOR_PANELS",
@@ -1242,7 +1247,7 @@
       "Name": "TR2:GM | The Dissolution",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2G_COLLECT_ALL_SECRETS",
@@ -1250,7 +1255,7 @@
       "Name": "TR2:GM | Codex of Melnikov",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2G_DONT_BREAK_HAMMER_SICKLE_WINDOWS",
@@ -1258,7 +1263,7 @@
       "Name": "TR2:GM | True Komsomol Member",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2G_DONT_LET_FLAMETHROWER_GUY_SHOOT",
@@ -1266,7 +1271,7 @@
       "Name": "TR2:GM | Ordered to Be Shot",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR2G_DO_HANDSTAND_ON_TOP_OF_SCULPTURE",
@@ -1290,7 +1295,7 @@
       "Name": "TR2:GM | That\u2019s Just a Nightmare",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2G_FINISH_BONUS_LEVEL_AS_LEOPARD_LARA",
@@ -1298,15 +1303,15 @@
       "Name": "TR2:GM | The Nightmare Just Got Worse",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2G_FINISH_FIRST_TWO_LEVELS_WO_USING_SNWMBL",
       "SetID": "l78n4d",
       "Name": "TR2:GM | Snow March",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "TR2G_FINISH_MELNIKOV_CHAPTER",
@@ -1314,7 +1319,7 @@
       "Name": "TR2:GM | Comrade Croft",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "TR2G_GET_ALL_GUNS_FIRST_LEVEL",
@@ -1322,7 +1327,7 @@
       "Name": "TR2:GM | Capitalist Accumulation",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2G_GET_FLARES_BEFORE_BOULDER_ROLLS_DOWN",
@@ -1338,7 +1343,7 @@
       "Name": "TR2:GM | We\u2019ll Surpass You. And We\u2019ll Go Forward.",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2G_KEEP_INUIT_WARRIORS_FRIENDLY",
@@ -1346,15 +1351,15 @@
       "Name": "TR2:GM | Na Zdorovye!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2G_KILL_THREE_CATFISHES_USING_PISTOLS",
       "SetID": "l78n4d",
       "Name": "TR2:GM | Defensive Capabilities",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "TR2G_KILL_TWO_POLAR_BEARS_NO_EVIDENCE",
@@ -1362,7 +1367,7 @@
       "Name": "TR2:GM | Kakie Vashi Dokazatelstva?",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR2G_LEAVE_SASQUATCHES_LOCKED_IN_CAGE",
@@ -1376,9 +1381,9 @@
       "ID": "TR2G_LIGHT_GURADIAN_IN_HIS_OWN_CAGE",
       "SetID": "l78n4d",
       "Name": "TR2:GM | Lucid Dream",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2G_OBTAINED_MASK_LESS_THAN_50_SECONDS",
@@ -1394,7 +1399,7 @@
       "Name": "TR2:GM | Gold Rush",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR2G_PERFORM_DOUBLE_SOMERSAULT_TO_GET_UZIS",
@@ -1402,7 +1407,7 @@
       "Name": "TR2:GM | 1980 Summer Olympics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2G_TAKE_EVERY_COLLECTIBLE_SINGLE_WALKTHROUGH",
@@ -1410,7 +1415,7 @@
       "Name": "TR2:GM | Harvest Plan Implemented",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR2G_THROW_FLARE_INTO_RAT_HOLE",
@@ -1418,7 +1423,7 @@
       "Name": "TR2:GM | Denouncing the Enemy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2_ALL_SECRETS_GW_TIBET_TOX",
@@ -1426,7 +1431,7 @@
       "Name": "TR2 | Codex of China",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR2_ALL_SECRETS_MARIA_DORIA",
@@ -1434,7 +1439,7 @@
       "Name": "TR2 | Codex of Maria Doria",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "TR2_ALL_SECRETS_OFFSHORE",
@@ -1442,7 +1447,7 @@
       "Name": "TR2 | Codex of Bartoli",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "TR2_ALL_SECRETS_VENICE",
@@ -1450,7 +1455,7 @@
       "Name": "TR2 | Codex of Italy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "TR2_ATTENTIVENESS_REWARDED",
@@ -1458,7 +1463,7 @@
       "Name": "TR2 | Attentiveness Rewarded",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_BEAT_GAME_NG_PLUS",
@@ -1466,15 +1471,15 @@
       "Name": "TR2 | Starring One More Time",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2_BEAT_GAME_ONLY_USING_PISTOLS",
       "SetID": "l78n4d",
       "Name": "TR2 | Very Hard Boiled",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "TR2_BEAT_TIBETAN_FOOTHILLS_ON_FOOT",
@@ -1490,7 +1495,7 @@
       "Name": "TR2 | Fight off the B\u0027s",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR2_BREAK_ICE_WALL_WITH_BACK",
@@ -1506,7 +1511,7 @@
       "Name": "TR2 | Emergency Exit",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR2_CATCH_FIRE_WITH_EVERY_POSSIBLE_ENEMY",
@@ -1514,15 +1519,15 @@
       "Name": "TR2 | Fire Safety",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR2_CLEAR_SPIDER_CAVE_WITHOUT_A_SCRATCH",
       "SetID": "l78n4d",
       "Name": "TR2 | Silk Cave",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "TR2_COMPLETE_ASSAULT_COURSE_LESS_1_20",
@@ -1530,7 +1535,7 @@
       "Name": "TR2 | Ready to Raid!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_CROSS_ROOF_DROPPING_ONLY_THREE_PANELS",
@@ -1538,7 +1543,7 @@
       "Name": "TR2 | With Respect for Cultural Heritage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_DIVE_TO_LAKE_FROM_GUARD_HOUSE",
@@ -1546,7 +1551,7 @@
       "Name": "TR2 | Crane Dive",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_DONT_BREAK_FLOOR_PANEL_TO_GET_GOLD_SECRET",
@@ -1554,7 +1559,7 @@
       "Name": "TR2 | No Unnecessary Moves",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR2_DONT_HURT_SWORDSMEN_WHILST_LEVITATING",
@@ -1570,7 +1575,7 @@
       "Name": "TR2 | Pollen Allergy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_DONT_TRIGGER_GREEN_BOULDERS",
@@ -1586,7 +1591,7 @@
       "Name": "TR2 | In a Rush",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_DO_NOT_USE_LADDER_TO_ENTER_MONASTERY",
@@ -1594,7 +1599,7 @@
       "Name": "TR2 | An Unexpected Visit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_DROP_ALL_ICICLES_NO_DAMAGE",
@@ -1608,9 +1613,9 @@
       "ID": "TR2_EXPLODE_CHEAT",
       "SetID": "l78n4d",
       "Name": "TR2 | Anger Management",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TR2_FINISHED_GAME_LESS_6_HRS",
@@ -1618,7 +1623,7 @@
       "Name": "TR2 | I Only Play for Sport! Still!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR2_FINISH_VENICE_WO_USING_BOAT",
@@ -1626,7 +1631,7 @@
       "Name": "TR2 | I\u2019m Not Your Tourist",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_GET_CABIN_KEY_WO_SWIMMING_IN_LAKE",
@@ -1634,7 +1639,7 @@
       "Name": "TR2 | A Land Walk",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_GET_HIDDEN_UZIS",
@@ -1642,7 +1647,7 @@
       "Name": "TR2 | Bartoli Stash",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "TR2_GET_THROUGH_OBSTACLES_TAKING_NO_DAMAGE",
@@ -1650,7 +1655,7 @@
       "Name": "TR2 | Per Aspera Ad Astra",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_GET_TIBETAN_MASK_25_SECONDS_LESS",
@@ -1658,7 +1663,7 @@
       "Name": "TR2 | And I Want It Now!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_GET_UNREACHABLE_MEDIPACK",
@@ -1666,15 +1671,15 @@
       "Name": "TR2 | Hero of Reaching Unreachable Supplies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR2_GREAT_WALL_CHAPTER",
       "SetID": "l78n4d",
       "Name": "TR2 | These Doors Are Waiting",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 475
     },
     {
       "ID": "TR2_HIDDEN_M16_RIFLE",
@@ -1682,23 +1687,23 @@
       "Name": "TR2 | The True Dettox of Evil",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 261
     },
     {
       "ID": "TR2_HOME_CHAPTER",
       "SetID": "l78n4d",
       "Name": "TR2 | I Think I\u0027ve Seen Enough",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 214
     },
     {
       "ID": "TR2_ILLUMINATE_DEEPEST_CHASM",
       "SetID": "l78n4d",
       "Name": "TR2 | Better Not Slip Here",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_JUMP_INTO_BOAT_HIGHEST_POINT_POSSIBLE",
@@ -1722,7 +1727,7 @@
       "Name": "TR2 | Cooler Than Moonraker",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_KILL_ALL_ENEMIES_IN_BALL_ROOM_WITH_MUSIC",
@@ -1730,31 +1735,31 @@
       "Name": "TR2 | Let\u2019s Dance",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2_KILL_BOTH_TREX",
       "SetID": "l78n4d",
       "Name": "TR2 | Extinct Is Extinct",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "TR2_KILL_HIDDEN_SNOW_LEOPARD",
       "SetID": "l78n4d",
       "Name": "TR2 | Who\u2019s the Cat and Who\u2019s the Mouse",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 261
     },
     {
       "ID": "TR2_KILL_THREE_OF_EACH_SPECIES_OF_FISH",
       "SetID": "l78n4d",
       "Name": "TR2 | No Fish Soup Today",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_LIGHT_FLARE_IN_FRONT_OF_MYSTICAL_EYES",
@@ -1762,7 +1767,7 @@
       "Name": "TR2 | Anuttara-Samyak-Sambodhi",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_LURE_BUTLER",
@@ -1770,7 +1775,7 @@
       "Name": "TR2 | Crime and Punishment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_MAKE_DRAGON_BREATHE_FIRE_5_TIMES",
@@ -1778,7 +1783,7 @@
       "Name": "TR2 | No Grill Today",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "TR2_MAKE_FLAMMA_NERA_BOSS_APEAR_IN_FINAL_CUT",
@@ -1786,7 +1791,7 @@
       "Name": "TR2 | I Really Think I\u0027ve Seen Enough!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR2_MARIA_DORIA_SWAN_DIVE",
@@ -1794,7 +1799,7 @@
       "Name": "TR2 | Nervous Wreck",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TR2_NO_DAMAGE_FLYING_BLADES",
@@ -1802,15 +1807,15 @@
       "Name": "TR2 | I\u2019m Not Climbing the Walls for This",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_NO_DAMAGE_FROM_RATS",
       "SetID": "l78n4d",
       "Name": "TR2 | No Time for the Plague",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_OBTAIN_LIBRARY_KEY_WO_MOVING_CHANDELIERS",
@@ -1818,7 +1823,7 @@
       "Name": "TR2 | Moving Doesn\u2019t Change Who You Are",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 119
     },
     {
       "ID": "TR2_OFFSHORE_CHAPTER",
@@ -1826,31 +1831,31 @@
       "Name": "TR2 | We Are Searching the Right Place",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 261
     },
     {
       "ID": "TR2_PASS_FOUR_SWINGING_OBSTACLES_WO_TAKING_DMG",
       "SetID": "l78n4d",
       "Name": "TR2 | Wipeout Master",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_PERFORM_DBL_SOMERSAULT_DIVE_INTO_WATER",
       "SetID": "l78n4d",
       "Name": "TR2 | 20/10",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_PERFORM_SOMERSAULT_DIVE_INTO_WATER",
       "SetID": "l78n4d",
       "Name": "TR2 | 10/10",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 95
     },
     {
       "ID": "TR2_PREVENT_MONKS_FROM_BEING_KILLED",
@@ -1858,15 +1863,15 @@
       "Name": "TR2 | The End Doesn\u0027t Justify the Means",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_RING_FOURTH_BELL_REACH_LADDER",
       "SetID": "l78n4d",
       "Name": "TR2 | Recess Bell",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_SECRET_ROOM",
@@ -1874,7 +1879,7 @@
       "Name": "TR2 | Delivery People Have Finally Arrived",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR2_SHOOT_GIANNI_BARTOLI",
@@ -1882,7 +1887,7 @@
       "Name": "TR2 | Like Father, Like Son",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_SLIP_NEXT_TO_TWO_BLOCKS_ON_SNWMBL",
@@ -1890,7 +1895,7 @@
       "Name": "TR2 | The Tibetan Express",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR2_STAY_OUT_OF_WATER",
@@ -1898,7 +1903,7 @@
       "Name": "TR2 | Don\u2019t Even Need to Wet My Feet",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_TAKE_EVERY_COLLECTIBLE",
@@ -1906,15 +1911,15 @@
       "Name": "TR2 | Souvenirs From Around the Globe",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR2_TIBET_CHAPTER",
       "SetID": "l78n4d",
       "Name": "TR2 | Lara Stamps Out Yeti!!!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 238
     },
     {
       "ID": "TR2_TOOK_GOLDEN_DRAGON_FIRST",
@@ -1922,7 +1927,7 @@
       "Name": "TR2 | Gold Digger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR2_VENICE_CHAPTER",
@@ -1930,7 +1935,7 @@
       "Name": "TR2 | Via Caravelli, Venice!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "TR2_WATER_SHAFT_ONE_BREATH",
@@ -1938,7 +1943,7 @@
       "Name": "TR2 | Like Caesar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 190
     },
     {
       "ID": "TR2_XIAN_CHAPTER",
@@ -1946,7 +1951,7 @@
       "Name": "TR2 | To the Sins and Fortunes of Marco Bartoli!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 214
     },
     {
       "ID": "TR3G_DEFEAT_SOPHIA_LEIGH",
@@ -1954,15 +1959,15 @@
       "Name": "TR3:LA | In Your Next Life!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3G_DONT_LET_DOG_LIVE_LONGER_THAN_HALF_SECOND",
       "SetID": "5ob1f2i",
       "Name": "TR3:LA | Heaven Express",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "TR3G_DONT_LET_MONKEYS_TOUCH_ITEMS",
@@ -1976,9 +1981,9 @@
       "ID": "TR3G_DONT_MISS_HIDDEN_ITEM",
       "SetID": "5ob1f2i",
       "Name": "TR3:LA | Bloodhound",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TR3G_DONT_MISS_MEDIPACK_BEHIND_BARS",
@@ -1986,7 +1991,7 @@
       "Name": "TR3:LA | Veni, Vidi, Tulit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3G_ENTER_WILLARDS_HIDEOUT_THROUGH_BACK_DOOR",
@@ -1994,15 +1999,15 @@
       "Name": "TR3:LA | Do Not Abandon Hope",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3G_ENTER_WILLARDS_HIDEOUT_THROUGH_SPIKED_CEILINGS",
       "SetID": "5ob1f2i",
       "Name": "TR3:LA | Abandon Hope",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3G_EXPLORE_SUBMARINE",
@@ -2010,7 +2015,7 @@
       "Name": "TR3:LA | Another Mystery Solved",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3G_FINISH_FRANCE_LEVELS",
@@ -2018,7 +2023,7 @@
       "Name": "TR3:LA | Codex of France",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3G_FINISH_LOST_ARTIFACT",
@@ -2026,7 +2031,7 @@
       "Name": "TR3:LA | So There Was A Fifth...",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3G_FINISH_SCOTLAND_LEVELS",
@@ -2034,7 +2039,7 @@
       "Name": "TR3:LA | Codex of Scotland",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3G_FINISH_TUNNEL_LEVELS",
@@ -2042,7 +2047,7 @@
       "Name": "TR3:LA | Codex of Tunnel",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3G_GET_ALL_WEAPONS_IN_FIRST_LEVEL",
@@ -2050,15 +2055,15 @@
       "Name": "TR3:LA | Willard\u2019s Disarming",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3G_GET_OFF_QUADBIKE_ON_TRAIN_0_39_LESS",
       "SetID": "5ob1f2i",
       "Name": "TR3:LA | Capsule Pipelines",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "TR3G_GET_ROCKET_LAUNCHER_IN_TUNNEL",
@@ -2066,7 +2071,7 @@
       "Name": "TR3:LA | Stephenson\u0027s Rocket",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3G_GET_TO_HELICOPTER_USING_SECRET_PASSAGEWAY",
@@ -2074,7 +2079,7 @@
       "Name": "TR3:LA | Callanish Way Out",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3G_HONOR_MEMORY_OF_WILARDS_ANCESTOR",
@@ -2082,15 +2087,15 @@
       "Name": "TR3:LA | He Is Doing Swell",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3G_KILL_FOUR_MUTANTS_WO_TAKING_DMG",
       "SetID": "5ob1f2i",
       "Name": "TR3:LA | Monsters, SLInc.",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "TR3G_KILL_FOUR_PREHISTORIC_CREATURES",
@@ -2106,7 +2111,7 @@
       "Name": "TR3:LA | Underground Pool",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3G_UNRAVEL_SECRET_OF_NESSIE",
@@ -2114,7 +2119,7 @@
       "Name": "TR3:LA | Extraordinary Form of Animal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3_BEAT_GAME_USING_PISTOLS_ONLY",
@@ -2122,7 +2127,7 @@
       "Name": "TR3 | Incredibly Hard Boiled",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_BEAT_NEWGAME_PLUS",
@@ -2136,9 +2141,9 @@
       "ID": "TR3_COLLECT_95_CRYSTALS",
       "SetID": "l78n4d",
       "Name": "TR3 | Crystals Are Forever",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "TR3_COLLECT_ALL_SECRETS_ANTARCTICA",
@@ -2146,15 +2151,15 @@
       "Name": "TR3 | Codex of Antarctica",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_COLLECT_ALL_SECRETS_INDIA",
       "SetID": "l78n4d",
       "Name": "TR3 | Codex of India",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3_COLLECT_ALL_SECRETS_LONDON",
@@ -2162,7 +2167,7 @@
       "Name": "TR3 | Codex of England",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_COLLECT_ALL_SECRETS_NEVADA",
@@ -2170,7 +2175,7 @@
       "Name": "TR3 | Codex of Nevada",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_COLLECT_ALL_SECRETS_SOUTH_PACIFIC",
@@ -2178,15 +2183,15 @@
       "Name": "TR3 | Codex of Polynesia",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_COMPLETE_QUAD_RACE_0_39_LESS",
       "SetID": "l78n4d",
       "Name": "TR3 | At the Speed of a Meteor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TR3_CROSS_SWAMP_LESS_20_SECONDS",
@@ -2194,7 +2199,7 @@
       "Name": "TR3 | Frog Jumps",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR3_CRUSH_EIGHTEEN_MONKEYS",
@@ -2202,15 +2207,15 @@
       "Name": "TR3 | Monkey Temple",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_DEFEAT_PUNA_WO_KILLING_ORAS",
       "SetID": "l78n4d",
       "Name": "TR3 | Faceless Death",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "TR3_DEFEAT_TONY_USING_GRENADE_LAUNCHER",
@@ -2226,7 +2231,7 @@
       "Name": "TR3 | The Quick and the Dead",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3_DONT_GET_BITTEN_BY_SNAKES",
@@ -2234,7 +2239,7 @@
       "Name": "TR3 | Rikki-Tikki-Tavi",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_DONT_LEAVE_ANY_MUTANTS_ALIVE",
@@ -2250,7 +2255,7 @@
       "Name": "TR3 | Limbo Master",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_DO_HANDSTAND_ON_WATCH_TOWER_AREA51",
@@ -2258,7 +2263,7 @@
       "Name": "TR3 | I Want to Believe",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_ELIMINATE_MP_GUARD_BEFORE_ALTERING",
@@ -2266,7 +2271,7 @@
       "Name": "TR3 | I\u0027m Not Very Sociable",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TR3_FIND_AND_USE_ALL_UPVS",
@@ -2274,23 +2279,23 @@
       "Name": "TR3 | Underwater Garage",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TR3_FIND_LARAS_ARTIFACT_COLLECTION",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Welcome to My Humble Abode!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 119
     },
     {
       "ID": "TR3_FIND_MUTATED_SCIENTIST_IN_DESTROYED_STATION",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Brundlefly",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_FIND_THREE_HIDDEN_ROCKETS",
@@ -2298,7 +2303,7 @@
       "Name": "TR3 | Rocket Science",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_FINISHED_GAME_LESS_6_HRS",
@@ -2314,15 +2319,15 @@
       "Name": "TR3 | This Place Has a Busy History",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR3_FINISH_ASSAULT_COURSE_2_20_LESS",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Train Hard, Fight Easy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_FINISH_BONUS_LEVEL",
@@ -2330,7 +2335,7 @@
       "Name": "TR3 | All Hallows",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3_FINISH_INDIA_CHAPTER",
@@ -2338,15 +2343,15 @@
       "Name": "TR3 | Infada Stone",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 238
     },
     {
       "ID": "TR3_FINISH_LONDON_CHAPTER",
       "SetID": "5ob1f2i",
       "Name": "TR3 | The Eye of Isis",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_FINISH_MADUBU_USING_KAYAK_BEHIND_HATCH",
@@ -2354,7 +2359,7 @@
       "Name": "TR3 | Deliverance",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3_FINISH_MADUBU_USING_KAYAK_GUARDED_BY_CROCS",
@@ -2362,7 +2367,7 @@
       "Name": "TR3 | Captive to Curiosity",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_FINISH_NEVADA_CHAPTER",
@@ -2370,7 +2375,7 @@
       "Name": "TR3 | Element 115",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 166
     },
     {
       "ID": "TR3_FINISH_SOUTH_PACIFIC_CHAPTER",
@@ -2378,7 +2383,7 @@
       "Name": "TR3 | Ora Dagger",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_FINISH_THAMES_1_00_LESS",
@@ -2386,31 +2391,31 @@
       "Name": "TR3 | I\u2019m Just a Local",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_GET_EVERY_COLLECTIBLE_IN_AIR_ROOM",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Gone With the Wind",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 48
     },
     {
       "ID": "TR3_GET_MEDIPACK_IN_WATER_ROOM",
       "SetID": "5ob1f2i",
       "Name": "TR3 | The Deep",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 95
     },
     {
       "ID": "TR3_GET_PRIZE_IN_CAVE",
       "SetID": "5ob1f2i",
       "Name": "TR3 | It\u2019s Not Much, but It\u2019s Nice",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_GET_TO_VILLAGE_USING_SERPENT_STONES",
@@ -2418,23 +2423,23 @@
       "Name": "TR3 | From the Flanks",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3_GET_TO_VILLAGE_USING_SMUGGLERS_KEY",
       "SetID": "5ob1f2i",
       "Name": "TR3 | In the Forefront",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 95
     },
     {
       "ID": "TR3_GOT_MEDIPACK_BEFORE_MONKEY_DOES",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Evolutionary Superiority",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 166
     },
     {
       "ID": "TR3_GOT_TO_TREETOPS_WO_GOING_DWN_HATCH",
@@ -2442,7 +2447,7 @@
       "Name": "TR3 | Her Airness",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_HELP_ALL_SOLDIERS_SURVIVE",
@@ -2458,7 +2463,7 @@
       "Name": "TR3 | Resourceful Attorney",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 143
     },
     {
       "ID": "TR3_KILL_ALL_COBRAS_IN_KALIYA",
@@ -2466,7 +2471,7 @@
       "Name": "TR3 | Snake Charming",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3_KILL_ALL_CROCODILES_USING_UPV",
@@ -2474,7 +2479,7 @@
       "Name": "TR3 | The Silent World",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TR3_KILL_NO_DAM_WORKERS",
@@ -2482,15 +2487,15 @@
       "Name": "TR3 | Lost Souls Are Forgiven",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_LET_FLAMETHROWER_GUYS_KILL_SEVEN_MUTANTS",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Who Goes There?",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_LET_SOLDIER_KILL_TREX",
@@ -2498,15 +2503,15 @@
       "Name": "TR3 | Fire Support",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TR3_LURE_VELOCIRAPTOR_TO_DEEP_HOLE",
       "SetID": "5ob1f2i",
       "Name": "TR3 | Fossil Trap",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "TR3_NO_TRAP_WALL_OR_CEILING_DAMAGE",
@@ -2522,7 +2527,7 @@
       "Name": "TR3 | Largest Assortment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3_OBTAIN_OCEANIC_MASK_WO_USING_LEVER",
@@ -2530,7 +2535,7 @@
       "Name": "TR3 | Unconditional Sense of Rhythm",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "TR3_OPENED_ALL_LEVERS_IN_ONE_BREATH",
@@ -2538,7 +2543,7 @@
       "Name": "TR3 | Amphibian Woman",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_PASS_THROUGH_ROLLING_BLADES_40_SECONDS_LESS",
@@ -2546,7 +2551,7 @@
       "Name": "TR3 | No Time to Rollerblade",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_REACH_HELIPAD_WITH_NO_ARTIFACTS_IN_INVENTORY",
@@ -2562,15 +2567,15 @@
       "Name": "TR3 | Photo Finish",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "TR3_SURVIVE_ROOM_IN_TINNOS_W_THREE_MUTANTS_NO_DMG",
       "SetID": "5ob1f2i",
       "Name": "TR3 | By Experience",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TR3_SWIM_WITH_ORCAS",
@@ -2578,7 +2583,7 @@
       "Name": "TR3 | Free Willy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "TR3_USE_ALL_ZIPLINES",
@@ -2586,7 +2591,7 @@
       "Name": "TR3 | Flying Fox",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "TR3_USE_TRAP_BUTTON",
@@ -2594,20 +2599,20 @@
       "Name": "TR3 | Like a Naive Child",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "l78n4d",
       "IsBase": true,
-      "Progressed": 2287,
-      "Completed": 1
+      "Progressed": 2377,
+      "Completed": 2
     },
     {
       "ID": "5ob1f2i",
       "IsBase": false,
-      "Progressed": 2287,
+      "Progressed": 2377,
       "Completed": 2
     }
   ],
@@ -2615,8 +2620,8 @@
   "FirstSeenRating": "2024-02-19T03:58:00.8221348+00:00",
   "FirstSeenAchievements": "2023-12-08T17:06:49.6815041+00:00",
   "LastChanged": "2024-09-07T15:59:51.8749632+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:06:07.6994781+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:30.9077553+00:00",
   "LastUpdate_AppInfo": "2024-09-11T14:57:23.2551371+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:09.0097031+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:07.7018976+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:10.2008414+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:30.9082871+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "4214b36dc2434f0aa0a3210aa0f6ad91",
   "Name": "Zen Chess: Champion\u0027s Moves",
   "ProductSlug": "zen-chess-champions-moves-4dde15",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-22T15:00:00+00:00",
     "PcReleaseDate": "2019-10-01T20:00:00+00:00",
@@ -25,17 +25,155 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 29,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 6.9,
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:08.6176414+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 2
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:08.617649+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "LEVEL_10",
+      "SetID": "2o68gog",
+      "Name": "Level 10",
+      "Percentage": 38,
+      "XP": 50,
+      "UsersEstimate": 11
+    },
+    {
+      "ID": "LEVEL_100",
+      "SetID": "2o68gog",
+      "Name": "Level 100",
+      "Percentage": 7,
+      "XP": 75,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_110",
+      "SetID": "2o68gog",
+      "Name": "Level 110",
+      "Percentage": 7,
+      "XP": 75,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_120",
+      "SetID": "2o68gog",
+      "Name": "Level 120",
+      "Percentage": 7,
+      "XP": 75,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_130",
+      "SetID": "2o68gog",
+      "Name": "Level 130",
+      "Percentage": 7,
+      "XP": 75,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_140",
+      "SetID": "2o68gog",
+      "Name": "Level 140",
+      "Percentage": 7,
+      "XP": 125,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_150",
+      "SetID": "2o68gog",
+      "Name": "Level 150",
+      "Percentage": 7,
+      "XP": 125,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_20",
+      "SetID": "2o68gog",
+      "Name": "Level 20",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "LEVEL_30",
+      "SetID": "2o68gog",
+      "Name": "Level 30",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "LEVEL_40",
+      "SetID": "2o68gog",
+      "Name": "Level 40",
+      "Percentage": 14,
+      "XP": 50,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "LEVEL_50",
+      "SetID": "2o68gog",
+      "Name": "Level 50",
+      "Percentage": 10,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "LEVEL_60",
+      "SetID": "2o68gog",
+      "Name": "Level 60",
+      "Percentage": 10,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "LEVEL_70",
+      "SetID": "2o68gog",
+      "Name": "Level 70",
+      "Percentage": 10,
+      "XP": 50,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "LEVEL_80",
+      "SetID": "2o68gog",
+      "Name": "Level 80",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "LEVEL_90",
+      "SetID": "2o68gog",
+      "Name": "Level 90",
+      "Percentage": 7,
+      "XP": 50,
+      "UsersEstimate": 2
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "2o68gog",
+      "IsBase": true,
+      "Progressed": 29,
+      "Completed": 2
+    }
+  ],
   "FirstSeen": "2024-09-03T09:01:06.0385575+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:15:08.6176489+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:08.6176408+00:00",
   "LastUpdate_AppInfo": "2024-09-13T17:57:09.0390561+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:16.9107933+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:58.7953395+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:08.6184316+00:00"
 }

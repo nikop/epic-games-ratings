@@ -2,10 +2,10 @@
   "ID": "cfc9a8bcab134a639f76d7b1646554e7",
   "Name": "Mass Effect: Andromeda Deluxe Edition",
   "ProductSlug": "mass-effect-andromeda-deluxe-edition-7a38d6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-13T20:00:00+00:00",
     "PcReleaseDate": "2017-03-20T05:00:00+00:00",
@@ -44,8 +44,8 @@
   ],
   "FirstSeen": "2024-06-20T20:57:20.6393315+00:00",
   "FirstSeenAchievements": "2024-06-25T15:01:35.6394641+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:30.5527304+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:51.6436469+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:22.9272395+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:13.8745757+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:30.5527332+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:51.5926879+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:51.6436556+00:00"
 }

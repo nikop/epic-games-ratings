@@ -5,10 +5,10 @@
   "Ranking_Rating": 1014,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 589,
-  "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 598,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -39,11 +39,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 205,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.67,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -459,6 +459,11 @@
       "Time": "2024-08-09T18:03:23.919622+00:00",
       "NumProgressed": 187,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-09-14T14:18:48.9491934+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -468,7 +473,7 @@
       "ID": "ACH_100_ITEMS_USED",
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 25,
       "UsersEstimate": 62
     },
@@ -476,9 +481,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -486,7 +491,7 @@
       "Name": "At least there is something to read",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_CHAPTER_0_DONE",
@@ -494,13 +499,13 @@
       "Name": "The child of the night",
       "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 25,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 47
     },
@@ -508,9 +513,9 @@
       "ID": "ACH_CHAPTER_2_DONE",
       "SetID": "3jfhgga",
       "Name": "Fangs",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_CHAPTER_3_DONE",
@@ -518,7 +523,7 @@
       "Name": "Mirrors",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CHAPTER_4_DONE",
@@ -526,15 +531,15 @@
       "Name": "Coat",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_CHAPTER_5_DONE",
       "SetID": "3jfhgga",
       "Name": "Sarcophagus",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
@@ -542,29 +547,29 @@
       "Name": "Missing data",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 41
     },
@@ -572,9 +577,9 @@
       "ID": "ACH_GETALL_COLLECTIBLES",
       "SetID": "3jfhgga",
       "Name": "Missing pages",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_HERO_MASTER_1",
@@ -582,15 +587,15 @@
       "Name": "I need a hero",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_HERO_MASTER_4",
       "SetID": "3jfhgga",
       "Name": "Master of puppets",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SHOP_ALL_MINIONS",
@@ -598,7 +603,7 @@
       "Name": "I love you all",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SHOP_ALL_PERKS",
@@ -606,7 +611,7 @@
       "Name": "Skills to pay the bills",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SHOP_FIRST_PURCHASE",
@@ -614,22 +619,22 @@
       "Name": "Uncle will be happy",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 205,
       "Completed": 5
     }
   ],
@@ -637,8 +642,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2024-05-31T05:00:34.9434799+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:23.9196215+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:18:48.9491929+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:41.2655565+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:18.2763029+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:23.9196359+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:57.2965998+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:18:48.9492078+00:00"
 }

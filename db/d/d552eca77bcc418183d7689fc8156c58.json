@@ -2,10 +2,10 @@
   "ID": "d552eca77bcc418183d7689fc8156c58",
   "Name": "Facecheck",
   "ProductSlug": "facecheck-dc8064",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-11T21:00:00+00:00",
     "PcReleaseDate": "2024-09-11T21:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T09:57:00.0096718+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:08.565572+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:47.0354098+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:05.9190847+00:00"
 }

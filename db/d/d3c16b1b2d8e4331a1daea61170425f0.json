@@ -2,10 +2,10 @@
   "ID": "d3c16b1b2d8e4331a1daea61170425f0",
   "Name": "Pine: A Story of Loss",
   "ProductSlug": "pine-a-story-of-loss-714c1a",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T15:57:21.8497442+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:12.5461394+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:34.0172485+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:50.2810588+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:39.4753985+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "23e0d8cad86d45308001a2c4151969c0",
   "Name": "Cyber Avenger",
   "ProductSlug": "cyber-avenger-77cc63",
-  "Ranking_EOS_Progress": 949,
+  "Ranking_EOS_Progress": 996,
   "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-20T09:00:00+00:00",
     "PcReleaseDate": "2024-01-04T10:00:00+00:00",
@@ -25,7 +25,7 @@
   "Tags": [],
   "EOS_Progressed": 11,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 27.27,
   "EosHistory": [
@@ -77,9 +77,9 @@
       "ID": "ACH_4",
       "SetID": "3a52g1d",
       "Name": "Level 4",
-      "Percentage": 27,
+      "Percentage": 36,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_5",
@@ -99,8 +99,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:12.9021816+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:05.2168489+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:20.7912914+00:00",
   "LastUpdate_AppInfo": "2024-09-10T18:57:12.0265821+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:21.9627974+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:05.2168546+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:02.665137+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:20.7912988+00:00"
 }

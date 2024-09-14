@@ -2,10 +2,10 @@
   "ID": "aa192ebf919a43a5bb8dfee09b3da1eb",
   "Name": "De-Exit - Eternal Matters",
   "ProductSlug": "deexit-eternal-matters-da8992",
-  "Ranking_EOS_Progress": 1099,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1110,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-14T16:30:00+00:00",
     "PcReleaseDate": "2023-04-14T16:30:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -40,6 +40,11 @@
     {
       "Time": "2024-01-15T13:15:05.4612391+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:20:02.8889369+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -58,7 +63,7 @@
       "ID": "ACH_ALL_LORE_POINTS",
       "SetID": "4hpl59n",
       "Name": "Knowledge does not take up space!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -66,7 +71,7 @@
       "ID": "ACH_ALL_SOULS",
       "SetID": "4hpl59n",
       "Name": "May they rest in peace.",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -74,7 +79,7 @@
       "ID": "ACH_CHALLENGE_CHAP1",
       "SetID": "4hpl59n",
       "Name": "Your artifact is almost done!",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -82,7 +87,7 @@
       "ID": "ACH_CHALLENGE_CHAP2",
       "SetID": "4hpl59n",
       "Name": "By the skin of your teeth! If you had any.",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -90,7 +95,7 @@
       "ID": "ACH_CHALLENGE_CHAP3",
       "SetID": "4hpl59n",
       "Name": "Patience is a virtue!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "ACH_CHALLENGE_CHAP4",
       "SetID": "4hpl59n",
       "Name": "Run for your life!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "ACH_CHALLENGE_CHAP5",
       "SetID": "4hpl59n",
       "Name": "You don\u0027t need a silly red sheet!",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -122,7 +127,7 @@
       "ID": "ACH_CHALLENGE_PROLOGUE",
       "SetID": "4hpl59n",
       "Name": "You look like a Snake!",
-      "Percentage": 500,
+      "Percentage": 250,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -130,7 +135,7 @@
       "ID": "ACH_COMPLETE_CHAP1",
       "SetID": "4hpl59n",
       "Name": "Ready for your journey?",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "ACH_COMPLETE_CHAP2",
       "SetID": "4hpl59n",
       "Name": "Has something changed?",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -146,7 +151,7 @@
       "ID": "ACH_COMPLETE_CHAP3",
       "SetID": "4hpl59n",
       "Name": "Is it remitting?",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -178,7 +183,7 @@
       "ID": "ACH_COMPLETE_PROLOGUE",
       "SetID": "4hpl59n",
       "Name": "Slept well?",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -186,7 +191,7 @@
       "ID": "ACH_HIDDEN_CHAP3",
       "SetID": "4hpl59n",
       "Name": "You look like a rainbow!",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -194,7 +199,7 @@
       "ID": "ACH_HIDDEN_CHAP4",
       "SetID": "4hpl59n",
       "Name": "Safety first!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "ACH_HIDDEN_CHAP5",
       "SetID": "4hpl59n",
       "Name": "That\u0027s what the fox says!",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -218,7 +223,7 @@
       "ID": "ACH_HIDDEN_EEL",
       "SetID": "4hpl59n",
       "Name": "Watch out!",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -226,7 +231,7 @@
       "ID": "ACH_HIDDEN_GUARDIAN",
       "SetID": "4hpl59n",
       "Name": "It can\u0027t be!",
-      "Percentage": 300,
+      "Percentage": 150,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -250,7 +255,7 @@
       "ID": "ACH_HIDDEN_PRIMORDIAL",
       "SetID": "4hpl59n",
       "Name": "Meet the Primordial!",
-      "Percentage": 400,
+      "Percentage": 200,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -258,7 +263,7 @@
       "ID": "ACH_ONE_GUARDIAN_ARMOR",
       "SetID": "4hpl59n",
       "Name": "Looks good on you!",
-      "Percentage": 500,
+      "Percentage": 250,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -266,7 +271,7 @@
       "ID": "ACH_ONE_LORE_POINT",
       "SetID": "4hpl59n",
       "Name": "That\u0027s interesting!",
-      "Percentage": 600,
+      "Percentage": 300,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -274,7 +279,7 @@
       "ID": "ACH_ONE_SOUL",
       "SetID": "4hpl59n",
       "Name": "Be careful with them!",
-      "Percentage": 500,
+      "Percentage": 250,
       "XP": 15,
       "UsersEstimate": 5
     }
@@ -283,7 +288,7 @@
     {
       "ID": "4hpl59n",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
@@ -291,8 +296,8 @@
   "FirstSeenRating": "2023-04-16T17:58:47.7786353+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:35.5945122+00:00",
   "LastChanged": "2023-04-16T17:58:47.7786353+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:06.2086287+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:02.8889364+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:39.654662+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:28.6197421+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:06.2086431+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:59.0234571+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:02.8889528+00:00"
 }

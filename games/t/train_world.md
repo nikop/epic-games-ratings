@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Steam Power | 49.00% | ~45 |
-| Connection Up | 45.00% | ~41 |
-| Trainee | 24.00% | ~22 |
-| Industrial Revolution | 22.00% | ~20 |
-| Tunnel Vision | 20.00% | ~18 |
-| Full House | 16.00% | ~15 |
-| City Link | 16.00% | ~15 |
-| Double Trouble | 16.00% | ~15 |
-| Heavy Load | 15.00% | ~14 |
-| Long Train | 13.00% | ~12 |
-| Bridge Over Troubled Water | 12.00% | ~11 |
-| Cargo King | 8.00% | ~7 |
-| Connections master | 8.00% | ~7 |
-| Diesel Dream | 7.00% | ~6 |
-| Old School | 7.00% | ~6 |
-| Supply Chain | 7.00% | ~6 |
-| Train Spotter | 7.00% | ~6 |
-| Urban Network | 5.00% | ~5 |
+| Steam Power | 56.00% | ~54 |
+| Connection Up | 51.00% | ~49 |
+| Trainee | 28.00% | ~27 |
+| Industrial Revolution | 24.00% | ~23 |
+| Tunnel Vision | 21.00% | ~20 |
+| Full House | 19.00% | ~18 |
+| City Link | 19.00% | ~18 |
+| Double Trouble | 18.00% | ~17 |
+| Heavy Load | 15.00% | ~15 |
+| Bridge Over Troubled Water | 13.00% | ~13 |
+| Long Train | 13.00% | ~13 |
+| Cargo King | 8.00% | ~8 |
+| Train Spotter | 8.00% | ~8 |
+| Connections master | 8.00% | ~8 |
+| Supply Chain | 7.00% | ~7 |
+| Diesel Dream | 6.00% | ~6 |
+| Old School | 6.00% | ~6 |
+| Contract Apprentice | 6.00% | ~6 |
+| Urban Network | 6.00% | ~6 |
+| Five Alive | 5.00% | ~5 |
+| Time Traveler | 5.00% | ~5 |
 | Mega Train | 5.00% | ~5 |
-| Five Alive | 4.00% | ~4 |
+| Super Long Train | 4.00% | ~4 |
 | Money Train | 4.00% | ~4 |
-| Time Traveler | 4.00% | ~4 |
-| Contract Apprentice | 4.00% | ~4 |
+| Money Matters | 4.00% | ~4 |
 | Capital Connection | 3.00% | ~3 |
 | Electric Avenue | 3.00% | ~3 |
-| Super Long Train | 3.00% | ~3 |
 | Speed Demon | 3.00% | ~3 |
 | People Mover | 3.00% | ~3 |
-| Money Matters | 3.00% | ~3 |
+| Contract Master | 3.00% | ~3 |
 | Billionaire Club | 2.00% | ~2 |
 | Industrial Giant | 2.00% | ~2 |
-| Contract Master | 2.00% | ~2 |
 | World Explorer | 1.00% | ~1 |
 | Cross Country | 1.00% | ~1 |
 | Busy Station | 1.00% | ~1 |
@@ -55,8 +55,8 @@
 | Mixed Bag | 0.00% | ~0 |
 | Bullet Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92 (Ranked 692)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 97 (Ranked 713)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,3 +88,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 67 | 0 |
 | 2024-06-17 | 83 | 0 |
 | 2024-08-09 | 92 | 0 |
+| 2024-09-14 | 97 | 0 |

@@ -6,77 +6,77 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 30.00% | ~1,333 |
-| Look Over There! | 23.00% | ~1,022 |
-| Not So Fast... | 23.00% | ~1,022 |
-| Watch Where You Step... | 23.00% | ~1,022 |
-| An Ill Omen | 22.00% | ~977 |
-| Purging Spree | 17.00% | ~755 |
-| Blood for the Blood God! | 15.00% | ~666 |
-| Bloodless | 12.00% | ~533 |
-| Friendly Fire | 11.00% | ~489 |
-| Surgical Excision | 10.00% | ~444 |
-| Honoured Battle-Brother | 8.00% | ~355 |
-| The Emperor Protects | 8.00% | ~355 |
-| A Foul Creche | 8.00% | ~355 |
-| Nemesis Master | 7.00% | ~311 |
-| Gunmaster | 7.00% | ~311 |
-| Just a Scratch | 6.00% | ~267 |
-| Hold Your Ground | 5.00% | ~222 |
-| Corruption Cleanser | 4.00% | ~178 |
-| A Gift Spurned | 4.00% | ~178 |
-| Hive Exterminator | 4.00% | ~178 |
-| Daemonkeeper | 3.00% | ~133 |
-| Exterminator | 3.00% | ~133 |
-| Mind Like a Fortress | 3.00% | ~133 |
-| Efficient Killer | 3.00% | ~133 |
-| Long Distance Call | 3.00% | ~133 |
-| Execution Force | 3.00% | ~133 |
-| Patron of Deimos | 2.00% | ~89 |
-| Fleetmaster | 2.00% | ~89 |
-| Only in Death | 2.00% | ~89 |
-| Preservationist | 2.00% | ~89 |
-| Engine Kill | 2.00% | ~89 |
-| Harvest No More | 2.00% | ~89 |
-| Junk Banishment | 2.00% | ~89 |
-| Death Comes For All | 2.00% | ~89 |
-| Tactical Flexibility | 2.00% | ~89 |
-| Tactical Sabotage | 2.00% | ~89 |
-| For the Machine God | 1.00% | ~44 |
-| Strike Force | 1.00% | ~44 |
-| Hands-On Research | 1.00% | ~44 |
-| Exercise in Restraint | 1.00% | ~44 |
-| True Mastery | 1.00% | ~44 |
-| Reign of Confusion | 1.00% | ~44 |
-| Abomination | 0.90% | ~40 |
-| Deadshot | 0.90% | ~40 |
-| Suffer Not the Mutant | 0.80% | ~36 |
+| Executioner | 32.00% | ~1,463 |
+| Look Over There! | 25.00% | ~1,143 |
+| Watch Where You Step... | 25.00% | ~1,143 |
+| Not So Fast... | 24.00% | ~1,097 |
+| An Ill Omen | 23.00% | ~1,051 |
+| Purging Spree | 17.00% | ~777 |
+| Blood for the Blood God! | 15.00% | ~686 |
+| Bloodless | 13.00% | ~594 |
+| Surgical Excision | 11.00% | ~503 |
+| Friendly Fire | 11.00% | ~503 |
+| A Foul Creche | 9.00% | ~411 |
+| Honoured Battle-Brother | 8.00% | ~366 |
+| The Emperor Protects | 8.00% | ~366 |
+| Nemesis Master | 8.00% | ~366 |
+| Gunmaster | 8.00% | ~366 |
+| Just a Scratch | 6.00% | ~274 |
+| Hold Your Ground | 5.00% | ~229 |
+| Corruption Cleanser | 5.00% | ~229 |
+| A Gift Spurned | 4.00% | ~183 |
+| Hive Exterminator | 4.00% | ~183 |
+| Daemonkeeper | 3.00% | ~137 |
+| Exterminator | 3.00% | ~137 |
+| Mind Like a Fortress | 3.00% | ~137 |
+| Efficient Killer | 3.00% | ~137 |
+| Long Distance Call | 3.00% | ~137 |
+| Execution Force | 3.00% | ~137 |
+| Patron of Deimos | 2.00% | ~91 |
+| Fleetmaster | 2.00% | ~91 |
+| For the Machine God | 2.00% | ~91 |
+| Only in Death | 2.00% | ~91 |
+| Preservationist | 2.00% | ~91 |
+| Engine Kill | 2.00% | ~91 |
+| Harvest No More | 2.00% | ~91 |
+| Junk Banishment | 2.00% | ~91 |
+| Tactical Flexibility | 2.00% | ~91 |
+| Tactical Sabotage | 2.00% | ~91 |
+| Strike Force | 1.00% | ~46 |
+| Hands-On Research | 1.00% | ~46 |
+| Exercise in Restraint | 1.00% | ~46 |
+| Death Comes For All | 1.00% | ~46 |
+| True Mastery | 1.00% | ~46 |
+| Reign of Confusion | 1.00% | ~46 |
+| Deadshot | 1.00% | ~46 |
+| Abomination | 0.90% | ~41 |
+| Clean Slate | 0.70% | ~32 |
+| Suffer Not the Mutant | 0.70% | ~32 |
 | Blood and Iron | 0.60% | ~27 |
-| Clean Slate | 0.60% | ~27 |
 | Killing Rampage | 0.60% | ~27 |
 | The Flesh is Weak | 0.40% | ~18 |
 | Unstable Immaterium | 0.40% | ~18 |
 | Brothers in Arms | 0.40% | ~18 |
 | Warp Flickers | 0.40% | ~18 |
 | Phalanx | 0.40% | ~18 |
-| Strategic Command | 0.30% | ~13 |
-| Terminal Meltdown | 0.30% | ~13 |
+| Strategic Command | 0.40% | ~18 |
+| Terminal Meltdown | 0.30% | ~14 |
+| Arsenal of Destruction | 0.20% | ~9 |
 | Grand Master | 0.20% | ~9 |
 | Opportunist | 0.20% | ~9 |
 | Field Apothecarion | 0.20% | ~9 |
 | Firing Squad | 0.20% | ~9 |
 | Not a Mote of Corruption | 0.20% | ~9 |
-| Arsenal of Destruction | 0.10% | ~4 |
-| Crisis Management | 0.10% | ~4 |
-| Legend of Titan | 0.10% | ~4 |
-| Dominus | 0.10% | ~4 |
-| Drone Army | 0.10% | ~4 |
-| Mass Extinction | 0.10% | ~4 |
-| Master of the Forge | 0.10% | ~4 |
+| Crisis Management | 0.10% | ~5 |
+| Legend of Titan | 0.10% | ~5 |
+| Dominus | 0.10% | ~5 |
+| Drone Army | 0.10% | ~5 |
+| Mass Extinction | 0.10% | ~5 |
+| Master of the Forge | 0.10% | ~5 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,443 (Ranked 292)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 4,571 (Ranked 301)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,6 +330,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 4,126 | 0 |
 | 2024-06-17 | 4,327 | 0 |
 | 2024-08-09 | 4,443 | 0 |
+| 2024-09-14 | 4,571 | 0 |
 ## Awards
 Max (Character Customization): 258  (Ranked 334)  
 Sum: 573 (Ranked 399)  

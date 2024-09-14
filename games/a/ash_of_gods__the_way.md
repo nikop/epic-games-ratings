@@ -8,34 +8,34 @@
 | Suicide squad | 53.00% | ~55 |
 | Train hard, fight easy | 39.00% | ~40 |
 | Under cover | 39.00% | ~40 |
-| First blood | 38.00% | ~39 |
+| First blood | 39.00% | ~40 |
 | Royal blessing | 31.00% | ~32 |
-| Blood and sand | 29.00% | ~30 |
-| A hidden snake | 27.00% | ~28 |
+| Blood and sand | 30.00% | ~31 |
+| A hidden snake | 28.00% | ~29 |
 | Help of the Gell | 23.00% | ~24 |
+| Crimson rivers | 22.00% | ~23 |
 | Surpass the teacher | 22.00% | ~23 |
-| Crimson rivers | 21.00% | ~22 |
+| She-Wolf | 22.00% | ~23 |
 | Power of Inquisition | 21.00% | ~22 |
+| Vene, vidi, vici | 21.00% | ~22 |
 | All for one! | 21.00% | ~22 |
-| She-Wolf | 21.00% | ~22 |
-| Vene, vidi, vici | 20.00% | ~21 |
-| Trial by cold | 17.00% | ~18 |
+| Trial by cold | 18.00% | ~19 |
+| Rage | 17.00% | ~18 |
 | Berkanan Borgia | 16.00% | ~16 |
-| Rage | 16.00% | ~16 |
 | For the greater good | 14.00% | ~14 |
-| The champion of the arena | 11.00% | ~11 |
+| The champion of the arena | 12.00% | ~12 |
 | Punish the Punisher | 10.00% | ~10 |
-| The End | 9.00% | ~9 |
-| Collector | 8.00% | ~8 |
-| Stronger than Gellian steel | 8.00% | ~8 |
-| Overplay the rogue | 7.00% | ~7 |
+| The End | 10.00% | ~10 |
+| Collector | 9.00% | ~9 |
+| Stronger than Gellian steel | 9.00% | ~9 |
+| Overplay the rogue | 8.00% | ~8 |
 | The best apprentice | 7.00% | ~7 |
+| First among Frisians | 7.00% | ~7 |
 | Defeat the bear | 7.00% | ~7 |
 | Protect the Healer! | 7.00% | ~7 |
 | Cunning plan | 7.00% | ~7 |
-| First among Frisians | 6.00% | ~6 |
+| Nothing is settled | 7.00% | ~7 |
 | All's fair in love and war | 6.00% | ~6 |
-| Nothing is settled | 6.00% | ~6 |
 | By own strength | 5.00% | ~5 |
 | Deadly strike | 5.00% | ~5 |
 | Do it yourself | 4.00% | ~4 |
@@ -54,8 +54,8 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 103 (Ranked 679)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 103 (Ranked 704)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

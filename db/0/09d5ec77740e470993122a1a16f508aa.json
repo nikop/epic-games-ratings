@@ -2,10 +2,10 @@
   "ID": "09d5ec77740e470993122a1a16f508aa",
   "Name": "Hidden Shapes Lovely Cats",
   "ProductSlug": "hidden-shapes-lovely-cats-6bfb39",
-  "Ranking_EOS_Progress": 602,
-  "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-07T17:00:00+00:00",
     "PcReleaseDate": "2021-05-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 177,
+  "EOS_Progressed": 186,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.08,
+  "EOS_Completed_Percentage": 4.84,
   "EosHistory": [
     {
       "Time": "2024-03-04T23:04:15.2339245+00:00",
@@ -54,6 +54,11 @@
       "Time": "2024-08-09T18:05:03.272715+00:00",
       "NumProgressed": 177,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-09-14T14:21:20.1973707+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:15.2339315+00:00",
@@ -66,15 +71,15 @@
       "Name": "HSLC - 01",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 175
     },
     {
       "ID": "ACHIEVEMENT_HSLC_02",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 02",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_HSLC_03",
@@ -82,7 +87,7 @@
       "Name": "HSLC - 03",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 140
     },
     {
       "ID": "ACHIEVEMENT_HSLC_04",
@@ -90,31 +95,31 @@
       "Name": "HSLC - 04",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 113
     },
     {
       "ID": "ACHIEVEMENT_HSLC_05",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 05",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENT_HSLC_06",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 06",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "ACHIEVEMENT_HSLC_07",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 07",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "ACHIEVEMENT_HSLC_08",
@@ -122,7 +127,7 @@
       "Name": "HSLC - 08",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_HSLC_09",
@@ -130,7 +135,7 @@
       "Name": "HSLC - 09",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "ACHIEVEMENT_HSLC_10",
@@ -138,7 +143,7 @@
       "Name": "HSLC - 10",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ACHIEVEMENT_HSLC_11",
@@ -146,7 +151,7 @@
       "Name": "HSLC - 11",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_HSLC_12",
@@ -154,21 +159,21 @@
       "Name": "HSLC - 12",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "ACHIEVEMENT_HSLC_13",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 13",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACHIEVEMENT_HSLC_14",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 14",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -176,7 +181,7 @@
       "ID": "ACHIEVEMENT_HSLC_15",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 15",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -184,7 +189,7 @@
       "ID": "ACHIEVEMENT_HSLC_16",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 16",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -194,7 +199,7 @@
       "Name": "HSLC - 17",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACHIEVEMENT_HSLC_18",
@@ -202,7 +207,7 @@
       "Name": "HSLC - 18",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_HSLC_19",
@@ -210,7 +215,7 @@
       "Name": "HSLC - 19",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_HSLC_20",
@@ -218,7 +223,7 @@
       "Name": "HSLC - 20",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_HSLC_21_Full",
@@ -226,31 +231,31 @@
       "Name": "HSLC - 21",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_22",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 22",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "ACHIEVEMENT_HSLC_23",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 23",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_HSLC_24",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 24",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_HSLC_25",
@@ -258,7 +263,7 @@
       "Name": "HSLC - 25",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_HSLC_26",
@@ -266,7 +271,7 @@
       "Name": "HSLC - 26",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_HSLC_27",
@@ -274,7 +279,7 @@
       "Name": "HSLC - 27",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_HSLC_28",
@@ -282,13 +287,13 @@
       "Name": "HSLC - 28",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_HSLC_29",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 29",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 19
     },
@@ -298,15 +303,15 @@
       "Name": "HSLC - 30",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_31",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 31",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_32",
@@ -314,7 +319,7 @@
       "Name": "HSLC - 32",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_33",
@@ -322,7 +327,7 @@
       "Name": "HSLC - 33",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_34",
@@ -330,7 +335,7 @@
       "Name": "HSLC - 34",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_HSLC_35",
@@ -338,7 +343,7 @@
       "Name": "HSLC - 35",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_36",
@@ -346,7 +351,7 @@
       "Name": "HSLC - 36",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_HSLC_37",
@@ -354,7 +359,7 @@
       "Name": "HSLC - 37",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSLC_38",
@@ -362,7 +367,7 @@
       "Name": "HSLC - 38",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_HSLC_39",
@@ -370,23 +375,23 @@
       "Name": "HSLC - 39",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_HSLC_40",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 40",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_HSLC_41",
       "SetID": "5d4bh0g",
       "Name": "HSLC - 41",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_HSLC_42_Full",
@@ -401,14 +406,14 @@
     {
       "ID": "5d4bh0g",
       "IsBase": true,
-      "Progressed": 177,
+      "Progressed": 186,
       "Completed": 9
     }
   ],
   "FirstSeen": "2024-03-09T14:57:26.2935655+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:15.2339315+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:10.2841791+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:20.1973701+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:00.423605+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:41.4328438+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:10.284202+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:17.6266259+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:20.1973986+00:00"
 }

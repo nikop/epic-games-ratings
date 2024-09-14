@@ -5,10 +5,10 @@
   "Ranking_Rating": 1003,
   "Ranking_Popularity": 259,
   "Ranking_PopularitySum": 352,
-  "Ranking_EOS_Progress": 47,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 48,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-08T16:00:00+00:00",
     "PcReleaseDate": "2024-02-07T16:00:00+00:00",
@@ -1531,9 +1531,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 579574,
+  "EOS_Progressed": 586224,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 3692,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1576,6 +1576,11 @@
       "Time": "2024-08-20T20:12:25.9615931+00:00",
       "NumProgressed": 579574,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2024-09-14T14:26:31.210044+00:00",
+      "NumProgressed": 586224,
+      "NumCompleted": 26
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:13.2759119+00:00",
@@ -1588,7 +1593,7 @@
       "Name": "A Little Cute",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 69549
+      "UsersEstimate": 70347
     },
     {
       "ID": "A_Private_Coffer",
@@ -1596,7 +1601,7 @@
       "Name": "A Private Coffer",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98528
+      "UsersEstimate": 99658
     },
     {
       "ID": "Another_me_in_the_mirror",
@@ -1604,7 +1609,7 @@
       "Name": "Another me in the mirror",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 11591
+      "UsersEstimate": 11724
     },
     {
       "ID": "Answer_the_Call_of_Nature",
@@ -1612,7 +1617,7 @@
       "Name": "Answer the Call of Nature",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 92732
+      "UsersEstimate": 93796
     },
     {
       "ID": "Armed_and_dangerous",
@@ -1620,7 +1625,7 @@
       "Name": "Armed and dangerous",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 2898
+      "UsersEstimate": 2931
     },
     {
       "ID": "As_firm_as_a_rock",
@@ -1628,7 +1633,7 @@
       "Name": "As firm as a rock",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46898
     },
     {
       "ID": "Assassin",
@@ -1636,7 +1641,7 @@
       "Name": "Assassin",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40570
+      "UsersEstimate": 41036
     },
     {
       "ID": "Asura",
@@ -1644,7 +1649,7 @@
       "Name": "Asura",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46898
     },
     {
       "ID": "Banker",
@@ -1652,7 +1657,7 @@
       "Name": "Banker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Beware_of_sharks",
@@ -1660,7 +1665,7 @@
       "Name": "Beware of sharks!!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Biologist",
@@ -1668,7 +1673,7 @@
       "Name": "Biologist",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34774
+      "UsersEstimate": 35173
     },
     {
       "ID": "Blacksmith_s_Gratitude",
@@ -1676,7 +1681,7 @@
       "Name": "Blacksmith\u0027s Gratitude",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 255013
+      "UsersEstimate": 257939
     },
     {
       "ID": "Blaster",
@@ -1684,7 +1689,7 @@
       "Name": "Blaster",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Blood_Oath",
@@ -1692,7 +1697,7 @@
       "Name": "Blood Oath",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40570
+      "UsersEstimate": 41036
     },
     {
       "ID": "Collector",
@@ -1700,7 +1705,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11591
+      "UsersEstimate": 11724
     },
     {
       "ID": "Cornucopia",
@@ -1708,7 +1713,7 @@
       "Name": "Cornucopia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 86936
+      "UsersEstimate": 87934
     },
     {
       "ID": "Crisis_of_Dinosaur",
@@ -1716,7 +1721,7 @@
       "Name": "Crisis of Dinosaur",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 173872
+      "UsersEstimate": 175867
     },
     {
       "ID": "Cursed_kanata",
@@ -1724,7 +1729,7 @@
       "Name": "Cursed katana",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23449
     },
     {
       "ID": "Do_you_see_my_little_dino",
@@ -1732,7 +1737,7 @@
       "Name": "Did you see my little dino?",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 86936
+      "UsersEstimate": 87934
     },
     {
       "ID": "Dragon_Slayer",
@@ -1740,7 +1745,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17387
+      "UsersEstimate": 17587
     },
     {
       "ID": "Dwarfism",
@@ -1748,7 +1753,7 @@
       "Name": "Dwarfism",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98528
+      "UsersEstimate": 99658
     },
     {
       "ID": "Embodiment_of_Justice",
@@ -1756,7 +1761,7 @@
       "Name": "Embodiment of Justice",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 86936
+      "UsersEstimate": 87934
     },
     {
       "ID": "Eroded",
@@ -1764,7 +1769,7 @@
       "Name": "Eroded",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 86936
+      "UsersEstimate": 87934
     },
     {
       "ID": "Fart_Knight_Rises",
@@ -1772,15 +1777,15 @@
       "Name": "Fart Knight Rises",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 92732
+      "UsersEstimate": 93796
     },
     {
       "ID": "Fearless_of_Death",
       "SetID": "96e67kj",
       "Name": "Fearless of Death",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 52162
+      "UsersEstimate": 58622
     },
     {
       "ID": "FireHoof",
@@ -1788,7 +1793,7 @@
       "Name": "Bullfighter",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "FishPrincess",
@@ -1796,7 +1801,7 @@
       "Name": "Princess Rescue?",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Fish_Guard",
@@ -1804,7 +1809,7 @@
       "Name": "Kung Fu Murloc",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17387
+      "UsersEstimate": 17587
     },
     {
       "ID": "Full_Moon",
@@ -1812,7 +1817,7 @@
       "Name": "Full Moon",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 133302
+      "UsersEstimate": 134832
     },
     {
       "ID": "Gambler",
@@ -1820,15 +1825,15 @@
       "Name": "Gambler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5862
     },
     {
       "ID": "Gardener",
       "SetID": "96e67kj",
       "Name": "Gardener",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 57957
+      "UsersEstimate": 64485
     },
     {
       "ID": "Ghost_Guardian",
@@ -1836,7 +1841,7 @@
       "Name": "Ghost Guardian",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5862
     },
     {
       "ID": "Ghost_Servant",
@@ -1844,7 +1849,7 @@
       "Name": "Ghost Servant",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 104323
+      "UsersEstimate": 105520
     },
     {
       "ID": "Ghost_from_the_east",
@@ -1852,7 +1857,7 @@
       "Name": "Ghost from the East",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23449
     },
     {
       "ID": "Gigantism",
@@ -1860,7 +1865,7 @@
       "Name": "Gigantism",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98528
+      "UsersEstimate": 99658
     },
     {
       "ID": "Give_Me_A_Coat",
@@ -1868,7 +1873,7 @@
       "Name": "Give Me A Coat",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2345
     },
     {
       "ID": "Give_Me_the_Money_Back",
@@ -1876,15 +1881,15 @@
       "Name": "Give Me the Money Back",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 127506
+      "UsersEstimate": 128969
     },
     {
       "ID": "Goblinzilla",
       "SetID": "96e67kj",
       "Name": "All Hail our King!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 139098
+      "UsersEstimate": 146556
     },
     {
       "ID": "God",
@@ -1892,7 +1897,7 @@
       "Name": "Final Challenger",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Grume_EVERYWHERE",
@@ -1900,7 +1905,7 @@
       "Name": "Grume EVERYWHERE!!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 110119
+      "UsersEstimate": 111383
     },
     {
       "ID": "Guardian",
@@ -1908,7 +1913,7 @@
       "Name": "Guardian",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23449
     },
     {
       "ID": "Hideyoshi",
@@ -1916,7 +1921,7 @@
       "Name": "White Fox Mask",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "I_ll_Come_Back",
@@ -1924,7 +1929,7 @@
       "Name": "I\u0027ll Come Back",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 191259
+      "UsersEstimate": 193454
     },
     {
       "ID": "IceCyclops",
@@ -1932,7 +1937,7 @@
       "Name": "Ice Rock Leader",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "IceElement",
@@ -1940,7 +1945,7 @@
       "Name": "Ice Element",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Incendiary",
@@ -1948,7 +1953,7 @@
       "Name": "Incendiary",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98528
+      "UsersEstimate": 99658
     },
     {
       "ID": "It_eat_up_all_of_my_meat",
@@ -1956,7 +1961,7 @@
       "Name": "It ate ALL of my meat!!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Its_time_for_dinner",
@@ -1964,7 +1969,7 @@
       "Name": "It\u0027s time for dinner!!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "King_Slayer",
@@ -1972,7 +1977,7 @@
       "Name": "King Slayer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 121711
+      "UsersEstimate": 123107
     },
     {
       "ID": "Lancer",
@@ -1980,7 +1985,7 @@
       "Name": "Lancer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Leader_of_the_fools",
@@ -1988,7 +1993,7 @@
       "Name": "Leader of the fools",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52162
+      "UsersEstimate": 52760
     },
     {
       "ID": "Life_or_Death",
@@ -1996,7 +2001,7 @@
       "Name": "Life or Death",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 69549
+      "UsersEstimate": 70347
     },
     {
       "ID": "Lilith",
@@ -2004,7 +2009,7 @@
       "Name": "Fatal Heiress",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1172
     },
     {
       "ID": "Lost_in_The_Castle",
@@ -2012,7 +2017,7 @@
       "Name": "Lost in The Castle",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 457863
+      "UsersEstimate": 463117
     },
     {
       "ID": "Lucky_Angel",
@@ -2020,7 +2025,7 @@
       "Name": "Lucky Angel",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98528
+      "UsersEstimate": 99658
     },
     {
       "ID": "Magician",
@@ -2028,7 +2033,7 @@
       "Name": "Magician",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 69549
+      "UsersEstimate": 70347
     },
     {
       "ID": "Master_Treasure_Hunter",
@@ -2036,7 +2041,7 @@
       "Name": "Master Treasure Hunter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3517
     },
     {
       "ID": "Master_of_spirits",
@@ -2044,7 +2049,7 @@
       "Name": "Master of spirits",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5862
     },
     {
       "ID": "Nightmare_Crasher",
@@ -2052,7 +2057,7 @@
       "Name": "Nightmare Crasher",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40570
+      "UsersEstimate": 41036
     },
     {
       "ID": "One_More_Drink",
@@ -2060,7 +2065,7 @@
       "Name": "One More Drink?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 98528
+      "UsersEstimate": 99658
     },
     {
       "ID": "Pharmacist_s_Gratitude",
@@ -2068,7 +2073,7 @@
       "Name": "Pharmacist\u0027s Gratitude",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 202851
+      "UsersEstimate": 205178
     },
     {
       "ID": "PigKing",
@@ -2076,7 +2081,7 @@
       "Name": "Rotten God",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "PigKingRed",
@@ -2084,7 +2089,7 @@
       "Name": "Burned Out",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Pitch_Dark",
@@ -2092,7 +2097,7 @@
       "Name": "Pitch Dark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 92732
+      "UsersEstimate": 93796
     },
     {
       "ID": "Poisonous",
@@ -2100,7 +2105,7 @@
       "Name": "Poisonous",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23449
     },
     {
       "ID": "Potion_Addict",
@@ -2108,7 +2113,7 @@
       "Name": "Potion Addict",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34774
+      "UsersEstimate": 35173
     },
     {
       "ID": "Pray",
@@ -2116,7 +2121,7 @@
       "Name": "Pray",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 92732
+      "UsersEstimate": 93796
     },
     {
       "ID": "Professional_Treasure_Hunter",
@@ -2124,7 +2129,7 @@
       "Name": "Professional Treasure Hunter",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5862
     },
     {
       "ID": "Purification_of_Evil",
@@ -2132,7 +2137,7 @@
       "Name": "Purification of Evil",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 226034
+      "UsersEstimate": 228627
     },
     {
       "ID": "Raise_Dead",
@@ -2140,7 +2145,7 @@
       "Name": "Raise Dead",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 69549
+      "UsersEstimate": 70347
     },
     {
       "ID": "Ranger",
@@ -2148,7 +2153,7 @@
       "Name": "Ranger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46898
     },
     {
       "ID": "Red_Dragon",
@@ -2156,7 +2161,7 @@
       "Name": "Great Champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Rescue_Expert",
@@ -2164,7 +2169,7 @@
       "Name": "Rescue Expert",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 11591
+      "UsersEstimate": 11724
     },
     {
       "ID": "Rifleman",
@@ -2172,7 +2177,7 @@
       "Name": "Rifleman",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52162
+      "UsersEstimate": 52760
     },
     {
       "ID": "RockReal",
@@ -2180,7 +2185,7 @@
       "Name": "Troll Slayer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Rollingmon",
@@ -2188,7 +2193,7 @@
       "Name": "Rollingmon",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 92732
+      "UsersEstimate": 93796
     },
     {
       "ID": "Rookie_Treasure_Hunter",
@@ -2196,7 +2201,7 @@
       "Name": "Rookie Treasure Hunter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 139098
+      "UsersEstimate": 140694
     },
     {
       "ID": "Royal_treasury",
@@ -2204,7 +2209,7 @@
       "Name": "Royal treasury",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 11591
+      "UsersEstimate": 11724
     },
     {
       "ID": "RuinKing",
@@ -2212,7 +2217,7 @@
       "Name": "Forgotten Castle",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Samurai_Asura",
@@ -2220,7 +2225,7 @@
       "Name": "Blasphemer",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "See_me_fly",
@@ -2228,7 +2233,7 @@
       "Name": "See me fly !!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 5796
+      "UsersEstimate": 5862
     },
     {
       "ID": "Senior_Treasure_Hunter",
@@ -2236,7 +2241,7 @@
       "Name": "Senior Treasure Hunter",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 52162
+      "UsersEstimate": 52760
     },
     {
       "ID": "Siege",
@@ -2244,7 +2249,7 @@
       "Name": "Siege",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23449
     },
     {
       "ID": "Silver_Conquerer",
@@ -2252,7 +2257,7 @@
       "Name": "Silver Conquerer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 40570
+      "UsersEstimate": 41036
     },
     {
       "ID": "Skull_Servants",
@@ -2260,7 +2265,7 @@
       "Name": "Skull Servants",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 133302
+      "UsersEstimate": 134832
     },
     {
       "ID": "Smell_of_Treasure",
@@ -2268,7 +2273,7 @@
       "Name": "Smell of Treasure",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 156485
+      "UsersEstimate": 158280
     },
     {
       "ID": "Soul_Reaper",
@@ -2276,7 +2281,7 @@
       "Name": "Soul Reaper",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 28979
+      "UsersEstimate": 29311
     },
     {
       "ID": "Spider_Killer",
@@ -2284,7 +2289,7 @@
       "Name": "Spider Killer",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63753
+      "UsersEstimate": 64485
     },
     {
       "ID": "The_Conquerer_of_Death",
@@ -2292,7 +2297,7 @@
       "Name": "The Conquerer of Death",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 34774
+      "UsersEstimate": 35173
     },
     {
       "ID": "The_Regicides",
@@ -2300,7 +2305,7 @@
       "Name": "The Regicides",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46898
     },
     {
       "ID": "The_Secret_Chamber",
@@ -2308,7 +2313,7 @@
       "Name": "The Secret Chamber",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46898
     },
     {
       "ID": "The_Terminator",
@@ -2316,7 +2321,7 @@
       "Name": "The Terminator",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1759
     },
     {
       "ID": "Thief_s_Gratitude",
@@ -2324,7 +2329,7 @@
       "Name": "Thief\u0027s Gratitude",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 220238
+      "UsersEstimate": 222765
     },
     {
       "ID": "Too_Darn_Hot",
@@ -2332,7 +2337,7 @@
       "Name": "Too Darn Hot",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4637
+      "UsersEstimate": 4690
     },
     {
       "ID": "Uncover_inside_story",
@@ -2340,7 +2345,7 @@
       "Name": "Uncover inside story",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 23183
+      "UsersEstimate": 23449
     },
     {
       "ID": "Victory_over_self",
@@ -2348,7 +2353,7 @@
       "Name": "Victory over self",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 17387
+      "UsersEstimate": 17587
     },
     {
       "ID": "Warrior",
@@ -2356,7 +2361,7 @@
       "Name": "Warrior",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 46366
+      "UsersEstimate": 46898
     },
     {
       "ID": "Wood_Knight",
@@ -2364,14 +2369,14 @@
       "Name": "Expel the Wood Ghost",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 63753
+      "UsersEstimate": 64485
     }
   ],
   "AchievementSets": [
     {
       "ID": "96e67kj",
       "IsBase": true,
-      "Progressed": 579574,
+      "Progressed": 586224,
       "Completed": 26
     }
   ],
@@ -2379,8 +2384,8 @@
   "FirstSeenRating": "2024-02-09T18:59:41.1383273+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:13.2759118+00:00",
   "LastChanged": "2024-09-14T13:12:47.7035657+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:25.9615926+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:31.2100431+00:00",
   "LastUpdate_AppInfo": "2024-09-13T11:57:08.962689+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:47.7035665+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:25.9616747+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:59.9130059+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:31.2101279+00:00"
 }

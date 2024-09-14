@@ -2,10 +2,10 @@
   "ID": "4ffea6176cd44dd7b7d4dc96f5b17a64",
   "Name": "Legendary Creatures 2",
   "ProductSlug": "legendary-creatures-2-7b7948",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-10-17T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T15:57:20.1328885+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:20.0945465+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:31.4746964+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:01.1537909+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:33.8181385+00:00"
 }

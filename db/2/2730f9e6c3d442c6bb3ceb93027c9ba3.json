@@ -2,10 +2,10 @@
   "ID": "2730f9e6c3d442c6bb3ceb93027c9ba3",
   "Name": "MONOPOLY\u00AE",
   "ProductSlug": "monopoly",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T08:58:14.9713627+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:35.6031115+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:30.6956761+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:38.5703913+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:37.4265803+00:00"
 }

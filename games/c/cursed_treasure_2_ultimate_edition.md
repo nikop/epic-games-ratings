@@ -5,62 +5,62 @@ Rating: 4.65 (Ranked 351)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 97.00% | ~189 |
-| On the Crest of a Wave | 96.00% | ~187 |
-| Foreman of Darkness | 96.00% | ~187 |
-| Brilliant Day | 93.00% | ~181 |
-| Evil Genius | 89.00% | ~174 |
-| Air Defense | 86.00% | ~168 |
-| Tinned Corpse | 85.00% | ~166 |
-| Your War is Over | 84.00% | ~164 |
-| The Starry Night | 77.00% | ~150 |
-| Go Home! | 76.00% | ~148 |
-| Brilliant: Meadowshire | 75.00% | ~146 |
-| Sergeant of the Evil | 75.00% | ~146 |
-| Look After the Pence... | 73.00% | ~142 |
-| Drunken Master | 73.00% | ~142 |
-| V.I.P. Cemetery | 71.00% | ~138 |
-| Woodcutter | 71.00% | ~138 |
-| Top of the World | 70.00% | ~136 |
-| Takeover | 70.00% | ~136 |
-| Sharpshooter | 70.00% | ~136 |
-| Architect of Darkness | 70.00% | ~136 |
-| The Apotheosis of War | 68.00% | ~133 |
-| Stasis Alcatraz | 68.00% | ~133 |
-| Combo Breaker | 64.00% | ~125 |
-| Tastes Like Chicken | 64.00% | ~125 |
-| Thunderstorm | 64.00% | ~125 |
-| Brilliant: Holy Mountain | 63.00% | ~123 |
-| Clean Forests | 62.00% | ~121 |
-| Starry: Meadowshire | 58.00% | ~113 |
-| Lieutenant of the Evil | 58.00% | ~113 |
-| Avada Kedavra | 57.00% | ~111 |
-| Brilliant: Tanglewood | 55.00% | ~107 |
-| It's a Trap | 55.00% | ~107 |
-| Starry: Holy Mountain | 54.00% | ~105 |
-| Brilliant: Arcania | 51.00% | ~99 |
+| Don't Touch My Gems! | 97.00% | ~191 |
+| On the Crest of a Wave | 96.00% | ~189 |
+| Foreman of Darkness | 96.00% | ~189 |
+| Brilliant Day | 93.00% | ~183 |
+| Evil Genius | 89.00% | ~175 |
+| Air Defense | 86.00% | ~169 |
+| Tinned Corpse | 85.00% | ~167 |
+| Your War is Over | 84.00% | ~165 |
+| The Starry Night | 78.00% | ~154 |
+| Go Home! | 77.00% | ~152 |
+| Brilliant: Meadowshire | 76.00% | ~150 |
+| Sergeant of the Evil | 76.00% | ~150 |
+| Look After the Pence... | 74.00% | ~146 |
+| Drunken Master | 74.00% | ~146 |
+| V.I.P. Cemetery | 72.00% | ~142 |
+| Woodcutter | 72.00% | ~142 |
+| Top of the World | 71.00% | ~140 |
+| Takeover | 71.00% | ~140 |
+| Architect of Darkness | 71.00% | ~140 |
+| Sharpshooter | 70.00% | ~138 |
+| The Apotheosis of War | 69.00% | ~136 |
+| Stasis Alcatraz | 69.00% | ~136 |
+| Tastes Like Chicken | 65.00% | ~128 |
+| Brilliant: Holy Mountain | 64.00% | ~126 |
+| Combo Breaker | 64.00% | ~126 |
+| Thunderstorm | 64.00% | ~126 |
+| Clean Forests | 63.00% | ~124 |
+| Lieutenant of the Evil | 59.00% | ~116 |
+| Avada Kedavra | 58.00% | ~114 |
+| Starry: Meadowshire | 58.00% | ~114 |
+| Brilliant: Tanglewood | 55.00% | ~108 |
+| It's a Trap | 55.00% | ~108 |
+| Starry: Holy Mountain | 54.00% | ~106 |
+| Brilliant: Arcania | 51.00% | ~100 |
 | Deposition | 50.00% | ~98 |
-| Starry: Tanglewood | 48.00% | ~94 |
-| Starry: Arcania | 45.00% | ~88 |
-| Sing, My Angel | 44.00% | ~86 |
-| The Coreland | 41.00% | ~80 |
-| Feed the Fishes | 40.00% | ~78 |
-| Starry: The Coreland | 38.00% | ~74 |
-| Father of Nation | 36.00% | ~70 |
-| Brilliant: Wasteland | 35.00% | ~68 |
-| Starry: Wasteland | 32.00% | ~62 |
-| Dwarven Countdown | 31.00% | ~60 |
-| Deadman's Chest | 30.00% | ~58 |
-| Brilliant: Free Coast | 28.00% | ~55 |
+| Starry: Tanglewood | 48.00% | ~95 |
+| Starry: Arcania | 45.00% | ~89 |
+| Sing, My Angel | 44.00% | ~87 |
+| The Coreland | 41.00% | ~81 |
+| Feed the Fishes | 40.00% | ~79 |
+| Starry: The Coreland | 38.00% | ~75 |
+| Brilliant: Wasteland | 36.00% | ~71 |
+| Father of Nation | 36.00% | ~71 |
+| Starry: Wasteland | 32.00% | ~63 |
+| Dwarven Countdown | 31.00% | ~61 |
+| Deadman's Chest | 30.00% | ~59 |
+| Brilliant: Free Coast | 29.00% | ~57 |
 | Monument Keeper | 28.00% | ~55 |
+| Starry: Free Coast | 26.00% | ~51 |
 | Brilliant: The Deep | 25.00% | ~49 |
-| Starry: Free Coast | 25.00% | ~49 |
 | Starry: The Deep | 24.00% | ~47 |
 | Hostile Waters | 20.00% | ~39 |
 | Loveless | 18.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 195 (Ranked 585)  
-Completed: 30 (15.38%) (Ranked 48)  
+Progressed: 197 (Ranked 608)  
+Completed: 30 (15.23%) (Ranked 49)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -118,6 +118,7 @@ Completed: 30 (15.38%) (Ranked 48)
 | 2024-04-10 | 190 | 30 |
 | 2024-06-17 | 194 | 30 |
 | 2024-08-09 | 195 | 30 |
+| 2024-09-14 | 197 | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

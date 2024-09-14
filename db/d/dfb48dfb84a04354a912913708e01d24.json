@@ -2,10 +2,10 @@
   "ID": "dfb48dfb84a04354a912913708e01d24",
   "Name": "Age of History 3",
   "ProductSlug": "age-of-history-3-bf4bf2",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T11:57:09.5258161+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:12.7730884+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:00.662742+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:55.7697899+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:14.5869214+00:00"
 }

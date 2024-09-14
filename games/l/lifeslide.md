@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Starts Here | 96.00% | ~373 |
-| Road to Improvement | 71.00% | ~276 |
-| Wonderful World | 57.00% | ~222 |
-| Second Wind | 56.00% | ~218 |
-| Chain of Events | 56.00% | ~218 |
-| Change of Heart | 53.00% | ~206 |
-| Endless Possibilities | 36.00% | ~140 |
-| Turbulence | 35.00% | ~136 |
-| Finding The Way | 24.00% | ~93 |
-| Tangibility | 19.00% | ~74 |
-| On The Right Path | 18.00% | ~70 |
-| Around The World | 18.00% | ~70 |
-| Bigger Picture | 15.00% | ~58 |
+| All Starts Here | 96.00% | ~377 |
+| Road to Improvement | 71.00% | ~279 |
+| Wonderful World | 57.00% | ~224 |
+| Second Wind | 56.00% | ~220 |
+| Chain of Events | 56.00% | ~220 |
+| Change of Heart | 54.00% | ~212 |
+| Endless Possibilities | 36.00% | ~141 |
+| Turbulence | 35.00% | ~138 |
+| Finding The Way | 23.00% | ~90 |
+| Tangibility | 19.00% | ~75 |
+| On The Right Path | 18.00% | ~71 |
+| Around The World | 18.00% | ~71 |
+| Bigger Picture | 15.00% | ~59 |
 | Sunset | 12.00% | ~47 |
 | Spring Air | 12.00% | ~47 |
 | Alive | 9.00% | ~35 |
 | Over The Rooftops | 8.00% | ~31 |
 | Cut The Air | 8.00% | ~31 |
 | What Are The Chances? | 8.00% | ~31 |
-| Through The Hoop | 7.00% | ~27 |
-| Best Self | 7.00% | ~27 |
-| Night Air | 7.00% | ~27 |
-| Through The Vines | 6.00% | ~23 |
-| All The Pieces | 5.00% | ~19 |
-| Under And Over | 5.00% | ~19 |
+| Through The Hoop | 7.00% | ~28 |
+| Best Self | 7.00% | ~28 |
+| Night Air | 7.00% | ~28 |
+| Through The Vines | 6.00% | ~24 |
+| All The Pieces | 5.00% | ~20 |
+| Under And Over | 5.00% | ~20 |
 | Take 'em For a Spin | 4.00% | ~16 |
 | Parallelogram | 3.00% | ~12 |
 | Welcome to The Jungle | 3.00% | ~12 |
@@ -36,8 +36,8 @@
 | In Love | 1.00% | ~4 |
 | Survivor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 389 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 393 (Ranked 519)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 379 | 0 |
 | 2024-06-17 | 386 | 0 |
 | 2024-08-09 | 389 | 0 |
+| 2024-09-14 | 393 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

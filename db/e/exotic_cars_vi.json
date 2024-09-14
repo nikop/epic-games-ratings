@@ -2,10 +2,10 @@
   "ID": "b10f9fbb50684cc7a8cc374dd315b799",
   "Name": "Exotic Cars VI",
   "ProductSlug": "exotic-cars-vi",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T13:14:49.1179868+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:26.5755886+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:38.8587084+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:49.0167026+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:39.3320664+00:00"
 }

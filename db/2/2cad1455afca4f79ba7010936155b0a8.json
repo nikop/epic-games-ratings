@@ -2,10 +2,10 @@
   "ID": "2cad1455afca4f79ba7010936155b0a8",
   "Name": "Unravel Two",
   "ProductSlug": "unravel-two-6bba8f",
-  "Ranking_EOS_Progress": 531,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 528,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-09T20:00:00+00:00",
     "PcReleaseDate": "2018-06-09T08:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 303,
+  "EOS_Progressed": 365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2024-08-20T20:13:48.3538988+00:00",
       "NumProgressed": 303,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:50.4326961+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:29.4024358+00:00",
@@ -62,111 +67,111 @@
       "Name": "Start anew",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 212
     },
     {
       "ID": "achievement_10",
       "SetID": "b1igj4a",
       "Name": "Off the hook",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_11",
       "SetID": "b1igj4a",
       "Name": "No spanner in the works",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_12",
       "SetID": "b1igj4a",
       "Name": "Fireproof",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_13",
       "SetID": "b1igj4a",
       "Name": "Dry as a bone",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_14",
       "SetID": "b1igj4a",
       "Name": "Roof runner",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_15",
       "SetID": "b1igj4a",
       "Name": "Absquatulate",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_16",
       "SetID": "b1igj4a",
       "Name": "Flying fish",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_17",
       "SetID": "b1igj4a",
       "Name": "Like clockwork",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_18",
       "SetID": "b1igj4a",
       "Name": "Flash fire",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_19",
       "SetID": "b1igj4a",
       "Name": "At the rapidest",
-      "Percentage": 0,
+      "Percentage": 0.3,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "achievement_2",
       "SetID": "b1igj4a",
       "Name": "Be safe",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_20",
       "SetID": "b1igj4a",
       "Name": "Decorated",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_21",
       "SetID": "b1igj4a",
       "Name": "Rescuer",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_22",
@@ -180,9 +185,9 @@
       "ID": "achievement_23",
       "SetID": "b1igj4a",
       "Name": "Better together",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_24",
@@ -190,109 +195,109 @@
       "Name": "New threads",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 332
     },
     {
       "ID": "achievement_25",
       "SetID": "b1igj4a",
       "Name": "Don\u0027t go with the flow",
-      "Percentage": 0,
-      "XP": 25,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "achievement_26",
-      "SetID": "b1igj4a",
-      "Name": "Airs and graces",
-      "Percentage": 1,
-      "XP": 15,
-      "UsersEstimate": 3
-    },
-    {
-      "ID": "achievement_27",
-      "SetID": "b1igj4a",
-      "Name": "Falling with style",
-      "Percentage": 0,
-      "XP": 25,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "achievement_28",
-      "SetID": "b1igj4a",
-      "Name": "Live bait",
-      "Percentage": 0,
-      "XP": 25,
-      "UsersEstimate": 0
-    },
-    {
-      "ID": "achievement_3",
-      "SetID": "b1igj4a",
-      "Name": "Don\u0027t conform",
-      "Percentage": 29,
-      "XP": 15,
-      "UsersEstimate": 88
-    },
-    {
-      "ID": "achievement_4",
-      "SetID": "b1igj4a",
-      "Name": "Go explore",
-      "Percentage": 20,
-      "XP": 15,
-      "UsersEstimate": 61
-    },
-    {
-      "ID": "achievement_5",
-      "SetID": "b1igj4a",
-      "Name": "Get crushed",
-      "Percentage": 16,
-      "XP": 15,
-      "UsersEstimate": 48
-    },
-    {
-      "ID": "achievement_6",
-      "SetID": "b1igj4a",
-      "Name": "Fall apart",
-      "Percentage": 13,
-      "XP": 15,
-      "UsersEstimate": 39
-    },
-    {
-      "ID": "achievement_7",
-      "SetID": "b1igj4a",
-      "Name": "Bounce back",
-      "Percentage": 9,
-      "XP": 15,
-      "UsersEstimate": 27
-    },
-    {
-      "ID": "achievement_8",
-      "SetID": "b1igj4a",
-      "Name": "Safety rope",
       "Percentage": 0.3,
       "XP": 25,
       "UsersEstimate": 1
     },
     {
+      "ID": "achievement_26",
+      "SetID": "b1igj4a",
+      "Name": "Airs and graces",
+      "Percentage": 2,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "achievement_27",
+      "SetID": "b1igj4a",
+      "Name": "Falling with style",
+      "Percentage": 0.3,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_28",
+      "SetID": "b1igj4a",
+      "Name": "Live bait",
+      "Percentage": 0.3,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "b1igj4a",
+      "Name": "Don\u0027t conform",
+      "Percentage": 32,
+      "XP": 15,
+      "UsersEstimate": 117
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "b1igj4a",
+      "Name": "Go explore",
+      "Percentage": 24,
+      "XP": 15,
+      "UsersEstimate": 88
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "b1igj4a",
+      "Name": "Get crushed",
+      "Percentage": 19,
+      "XP": 15,
+      "UsersEstimate": 69
+    },
+    {
+      "ID": "achievement_6",
+      "SetID": "b1igj4a",
+      "Name": "Fall apart",
+      "Percentage": 15,
+      "XP": 15,
+      "UsersEstimate": 55
+    },
+    {
+      "ID": "achievement_7",
+      "SetID": "b1igj4a",
+      "Name": "Bounce back",
+      "Percentage": 11,
+      "XP": 15,
+      "UsersEstimate": 40
+    },
+    {
+      "ID": "achievement_8",
+      "SetID": "b1igj4a",
+      "Name": "Safety rope",
+      "Percentage": 0.5,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
       "ID": "achievement_9",
       "SetID": "b1igj4a",
       "Name": "Party responsibly",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "b1igj4a",
       "IsBase": true,
-      "Progressed": 303,
+      "Progressed": 365,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-21T22:59:40.6589588+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:29.4024357+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:48.3538982+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:50.4326955+00:00",
   "LastUpdate_AppInfo": "2024-09-13T10:57:02.9516825+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:03.1801595+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:48.3539133+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:43.59718+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:50.4327121+00:00"
 }

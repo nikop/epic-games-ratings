@@ -5,93 +5,94 @@ Rating: 4.56 (Ranked 567)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Very First Donut | 92.00% | ~83,056 |
-| Sprinkles! | 89.00% | ~80,347 |
-| Zoooom! | 87.00% | ~78,542 |
-| Frosting Physics | 86.00% | ~77,639 |
-| And a Cherry on Top! | 83.00% | ~74,931 |
-| Thinking It Through | 62.00% | ~55,972 |
-| First Try | 59.00% | ~53,264 |
-| Care for a Hint? | 56.00% | ~50,556 |
-| Symmetry is Beautiful | 54.00% | ~48,750 |
-| Zig! Zag! | 54.00% | ~48,750 |
-| Dough-ing Great | 48.00% | ~43,333 |
-| The Office Favorite | 47.00% | ~42,431 |
-| Wall of Stations | 45.00% | ~40,625 |
-| A Little Help | 42.00% | ~37,917 |
-| Many Trains of Thought | 41.00% | ~37,014 |
-| Noncommittal | 39.00% | ~35,208 |
-| A Good Maple Bar | 38.00% | ~34,306 |
-| That's a Lot of Donuts | 32.00% | ~28,889 |
-| Hypnosis | 29.00% | ~26,181 |
-| Filling It Up! | 28.00% | ~25,278 |
-| Clockwork | 25.00% | ~22,570 |
-| Donut Turducken | 24.00% | ~21,667 |
-| Wow Donuts Everywhere | 22.00% | ~19,861 |
-| Everything's Hearty | 21.00% | ~18,958 |
-| Figuring it Out | 21.00% | ~18,958 |
-| Infinite Loop, Like a Donut | 20.00% | ~18,056 |
-| Spiraling Out | 20.00% | ~18,056 |
-| Just So Many Donuts | 17.00% | ~15,347 |
-| Oh My God Do We Have To Eat All These? | 13.00% | ~11,736 |
-| Freshly Frozen? | 13.00% | ~11,736 |
-| Maybe Later... | 12.00% | ~10,833 |
-| What? No Frosting? | 10.00% | ~9,028 |
-| Coming Together | 9.00% | ~8,125 |
-| A Long Road to Cherries | 9.00% | ~8,125 |
-| So Many Toppings! | 9.00% | ~8,125 |
-| Dealing with Distractions | 7.00% | ~6,319 |
-| Hot Day, Cold Donut | 7.00% | ~6,319 |
-| So Many Delivery Counters!!! | 7.00% | ~6,319 |
-| So Many Splitters!! | 7.00% | ~6,319 |
-| Around and Back Again | 6.00% | ~5,417 |
-| Donut You Love Donuts? | 6.00% | ~5,417 |
-| Non-Linear Thinking | 6.00% | ~5,417 |
-| Pushy-Pushy Little Pusher! | 6.00% | ~5,417 |
-| Circuitous | 5.00% | ~4,514 |
-| The Donut is a Lie | 5.00% | ~4,514 |
-| Impatient | 5.00% | ~4,514 |
-| Organized Chaos | 5.00% | ~4,514 |
-| Focusing on the Right Thing | 5.00% | ~4,514 |
-| Round and Round and Round | 5.00% | ~4,514 |
-| Blue and Orange | 4.00% | ~3,611 |
-| Crossing the Streams | 4.00% | ~3,611 |
-| The Donut Prestige | 4.00% | ~3,611 |
-| Is That a Jack-O-Lantern?!?! | 4.00% | ~3,611 |
-| Making a Mental Leap | 4.00% | ~3,611 |
-| Patient | 4.00% | ~3,611 |
-| Rigid Thinking | 4.00% | ~3,611 |
-| This is Halloween! | 4.00% | ~3,611 |
-| A Trusted Friend in Donuts | 4.00% | ~3,611 |
-| About Time! | 3.00% | ~2,708 |
-| Chatterbox | 3.00% | ~2,708 |
-| Cheery Cherries | 3.00% | ~2,708 |
-| From the Correct Angle | 3.00% | ~2,708 |
-| Hi Ty! Hi Amanda! Hi Ally! Hi Josie! | 3.00% | ~2,708 |
-| Hi Bramble and Pebble! | 3.00% | ~2,708 |
-| Hi Localization! | 3.00% | ~2,708 |
-| Hi Playtesters! | 3.00% | ~2,708 |
-| Hi QAG! | 3.00% | ~2,708 |
-| Hi Special Thanks! | 3.00% | ~2,708 |
-| What Lovely Folks | 3.00% | ~2,708 |
-| Repetitive Thoughts | 3.00% | ~2,708 |
-| Starry Night | 3.00% | ~2,708 |
-| The Star-t | 3.00% | ~2,708 |
-| Chaos and Resolution | 2.00% | ~1,806 |
-| Forever Grateful | 2.00% | ~1,806 |
-| That's My Jam | 2.00% | ~1,806 |
-| Dance Party | 1.00% | ~903 |
-| Lonely | 1.00% | ~903 |
-| Wait, That's Not How You Do It | 1.00% | ~903 |
+| My Very First Donut | 92.00% | ~86,210 |
+| Sprinkles! | 89.00% | ~83,399 |
+| Zoooom! | 87.00% | ~81,525 |
+| Frosting Physics | 86.00% | ~80,588 |
+| And a Cherry on Top! | 83.00% | ~77,777 |
+| Thinking It Through | 62.00% | ~58,098 |
+| First Try | 59.00% | ~55,287 |
+| Care for a Hint? | 56.00% | ~52,476 |
+| Symmetry is Beautiful | 54.00% | ~50,602 |
+| Zig! Zag! | 54.00% | ~50,602 |
+| Dough-ing Great | 48.00% | ~44,979 |
+| The Office Favorite | 48.00% | ~44,979 |
+| Wall of Stations | 45.00% | ~42,168 |
+| A Little Help | 42.00% | ~39,357 |
+| Many Trains of Thought | 41.00% | ~38,420 |
+| Noncommittal | 39.00% | ~36,546 |
+| A Good Maple Bar | 38.00% | ~35,609 |
+| That's a Lot of Donuts | 32.00% | ~29,986 |
+| Hypnosis | 30.00% | ~28,112 |
+| Filling It Up! | 28.00% | ~26,238 |
+| Clockwork | 26.00% | ~24,364 |
+| Donut Turducken | 25.00% | ~23,427 |
+| Wow Donuts Everywhere | 22.00% | ~20,616 |
+| Figuring it Out | 22.00% | ~20,616 |
+| Everything's Hearty | 21.00% | ~19,678 |
+| Spiraling Out | 21.00% | ~19,678 |
+| Infinite Loop, Like a Donut | 20.00% | ~18,741 |
+| Just So Many Donuts | 17.00% | ~15,930 |
+| Oh My God Do We Have To Eat All These? | 13.00% | ~12,182 |
+| Freshly Frozen? | 13.00% | ~12,182 |
+| Maybe Later... | 12.00% | ~11,245 |
+| Coming Together | 10.00% | ~9,371 |
+| What? No Frosting? | 10.00% | ~9,371 |
+| A Long Road to Cherries | 9.00% | ~8,434 |
+| So Many Toppings! | 9.00% | ~8,434 |
+| Dealing with Distractions | 7.00% | ~6,559 |
+| Hot Day, Cold Donut | 7.00% | ~6,559 |
+| So Many Delivery Counters!!! | 7.00% | ~6,559 |
+| So Many Splitters!! | 7.00% | ~6,559 |
+| Around and Back Again | 6.00% | ~5,622 |
+| Donut You Love Donuts? | 6.00% | ~5,622 |
+| Non-Linear Thinking | 6.00% | ~5,622 |
+| Pushy-Pushy Little Pusher! | 6.00% | ~5,622 |
+| Circuitous | 5.00% | ~4,685 |
+| The Donut is a Lie | 5.00% | ~4,685 |
+| Impatient | 5.00% | ~4,685 |
+| Organized Chaos | 5.00% | ~4,685 |
+| Focusing on the Right Thing | 5.00% | ~4,685 |
+| Round and Round and Round | 5.00% | ~4,685 |
+| A Trusted Friend in Donuts | 5.00% | ~4,685 |
+| Blue and Orange | 4.00% | ~3,748 |
+| From the Correct Angle | 4.00% | ~3,748 |
+| Crossing the Streams | 4.00% | ~3,748 |
+| The Donut Prestige | 4.00% | ~3,748 |
+| Is That a Jack-O-Lantern?!?! | 4.00% | ~3,748 |
+| Making a Mental Leap | 4.00% | ~3,748 |
+| Patient | 4.00% | ~3,748 |
+| Rigid Thinking | 4.00% | ~3,748 |
+| This is Halloween! | 4.00% | ~3,748 |
+| About Time! | 3.00% | ~2,811 |
+| Chaos and Resolution | 3.00% | ~2,811 |
+| Chatterbox | 3.00% | ~2,811 |
+| Cheery Cherries | 3.00% | ~2,811 |
+| Forever Grateful | 3.00% | ~2,811 |
+| Hi Ty! Hi Amanda! Hi Ally! Hi Josie! | 3.00% | ~2,811 |
+| Hi Bramble and Pebble! | 3.00% | ~2,811 |
+| Hi Localization! | 3.00% | ~2,811 |
+| Hi Playtesters! | 3.00% | ~2,811 |
+| Hi QAG! | 3.00% | ~2,811 |
+| Hi Special Thanks! | 3.00% | ~2,811 |
+| What Lovely Folks | 3.00% | ~2,811 |
+| Repetitive Thoughts | 3.00% | ~2,811 |
+| Starry Night | 3.00% | ~2,811 |
+| The Star-t | 3.00% | ~2,811 |
+| That's My Jam | 2.00% | ~1,874 |
+| Dance Party | 1.00% | ~937 |
+| Lonely | 1.00% | ~937 |
+| Wait, That's Not How You Do It | 1.00% | ~937 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,278 (Ranked 140)  
-Completed: 771 (0.85%) (Ranked 284)  
+Progressed: 93,707 (Ranked 144)  
+Completed: 846 (0.90%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 6 | 0 |
 | 2024-08-09 | 88,417 | 715 |
 | 2024-08-20 | 90,278 | 771 |
+| 2024-09-14 | 93,707 | 846 |
 ## Awards
 Max (Challenging Puzzles): 98  (Ranked 467)  
 Sum: 98 (Ranked 581)  

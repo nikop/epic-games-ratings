@@ -2,10 +2,10 @@
   "ID": "91570f2d1ab241f3aeeaa54998ee031b",
   "Name": "KARMA: The Dark World",
   "ProductSlug": "the-dark-world-karma-3921c2",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T08:57:04.8725813+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:41.1765039+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:24.0722747+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:17.1993964+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:33.248566+00:00"
 }

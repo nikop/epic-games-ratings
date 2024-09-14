@@ -23,8 +23,8 @@
 | To the Top | 0.00% | ~0 |
 | It Is What It Is | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 908)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 15 (Ranked 963)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

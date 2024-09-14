@@ -6,32 +6,32 @@ Number of Ratings: 32  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Redo | 95.00% | ~282 |
+| Welcome to Redo | 95.00% | ~283 |
 | Daily Life Begins Anew | 79.00% | ~235 |
 | Our World Now | 78.00% | ~232 |
-| Never Saw It Coming | 63.00% | ~187 |
-| Coup de Grace | 55.00% | ~163 |
-| Go-Home Club Activities START! | 46.00% | ~137 |
+| Never Saw It Coming | 63.00% | ~188 |
+| Coup de Grace | 55.00% | ~164 |
+| Go-Home Club Activities START! | 47.00% | ~140 |
 | Philanthropist | 36.00% | ~107 |
-| Test Your Luck | 32.00% | ~95 |
-| Behind the Curtain | 31.00% | ~92 |
+| Test Your Luck | 33.00% | ~98 |
+| Behind the Curtain | 32.00% | ~95 |
 | Master of Surprise | 28.00% | ~83 |
 | Be Who You Wanna Be | 26.00% | ~77 |
-| Counter Champion | 24.00% | ~71 |
-| Friendly Neighborhood | 23.00% | ~68 |
-| Investment Ban-χ-ing | 23.00% | ~68 |
-| Combo Commando | 23.00% | ~68 |
-| One-Track Mind | 22.00% | ~65 |
-| Nice Doing Business | 22.00% | ~65 |
-| Stay Winning | 22.00% | ~65 |
-| WIRE Guru | 21.00% | ~62 |
-| The Greater Good | 19.00% | ~56 |
-| Depths of the Heart | 19.00% | ~56 |
-| Lost Souls For Sale | 19.00% | ~56 |
-| Selfish Decisions | 18.00% | ~53 |
-| Trigger Finger | 18.00% | ~53 |
-| Pulling Heartstrings | 17.00% | ~50 |
-| Extracurricular Affair | 17.00% | ~50 |
+| Counter Champion | 24.00% | ~72 |
+| Friendly Neighborhood | 23.00% | ~69 |
+| Investment Ban-χ-ing | 23.00% | ~69 |
+| Combo Commando | 23.00% | ~69 |
+| One-Track Mind | 22.00% | ~66 |
+| Nice Doing Business | 22.00% | ~66 |
+| Stay Winning | 22.00% | ~66 |
+| WIRE Guru | 21.00% | ~63 |
+| The Greater Good | 19.00% | ~57 |
+| Depths of the Heart | 19.00% | ~57 |
+| Lost Souls For Sale | 19.00% | ~57 |
+| Selfish Decisions | 18.00% | ~54 |
+| Trigger Finger | 18.00% | ~54 |
+| Pulling Heartstrings | 17.00% | ~51 |
+| Extracurricular Affair | 17.00% | ~51 |
 | Hopes Rewarded | 16.00% | ~48 |
 | Guarding Guru | 16.00% | ~48 |
 | To Each Their Own | 11.00% | ~33 |
@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297 (Ranked 534)  
-Completed: 3 (1.01%) (Ranked 262)  
+Progressed: 298 (Ranked 551)  
+Completed: 3 (1.01%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,6 +94,7 @@ Completed: 3 (1.01%) (Ranked 262)
 | 2024-07-24 | 294 | 3 |
 | 2024-08-09 | 296 | 3 |
 | 2024-08-20 | 297 | 3 |
+| 2024-09-14 | 298 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

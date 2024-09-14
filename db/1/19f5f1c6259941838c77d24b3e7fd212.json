@@ -2,10 +2,10 @@
   "ID": "19f5f1c6259941838c77d24b3e7fd212",
   "Name": "Good Kill!",
   "ProductSlug": "good-kill-d5a802",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T15:57:21.402109+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:04.2795351+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:03.2106053+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:12.7240051+00:00"
 }

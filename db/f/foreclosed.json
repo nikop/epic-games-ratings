@@ -2,10 +2,10 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 543,
-  "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Completed": 239,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 280,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -544,6 +544,11 @@
       "Time": "2024-08-20T20:09:31.3382805+00:00",
       "NumProgressed": 272,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-09-14T14:23:15.868085+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -555,15 +560,15 @@
       "Name": "Full and Final Settlement",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "AutoBullets_0",
       "SetID": "9e3d06k",
       "Name": "Hunter",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "AutoBullets_1",
@@ -571,7 +576,7 @@
       "Name": "No Place to Hide",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClubTurretsHack",
@@ -579,15 +584,15 @@
       "Name": "Sapper",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "EnemyDefeat_1",
@@ -603,7 +608,7 @@
       "Name": "Tough Decision",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "FirstAutoSkillUnlock",
@@ -611,7 +616,7 @@
       "Name": "Breaking Through",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 185
     },
     {
       "ID": "FirstSkillBuy",
@@ -619,7 +624,7 @@
       "Name": "A.I. Training",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "GunUnlock",
@@ -627,7 +632,7 @@
       "Name": "Symbiotic Weapon",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 146
     },
     {
       "ID": "Headshots_0",
@@ -635,7 +640,7 @@
       "Name": "Sniper",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "Headshots_1",
@@ -643,13 +648,13 @@
       "Name": "Veteran Sniper",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 84
     },
@@ -659,7 +664,7 @@
       "Name": "Lifter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "LiftEnemies_1",
@@ -673,17 +678,17 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 162
     },
     {
       "ID": "SecretEnding",
@@ -691,7 +696,7 @@
       "Name": "A Voice in the Dark",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "StealthDefeat_0",
@@ -699,7 +704,7 @@
       "Name": "Flatline",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "StealthDefeat_1",
@@ -707,7 +712,7 @@
       "Name": "Brain-hacker",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "StoryEnd",
@@ -715,7 +720,7 @@
       "Name": "One Click Away",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TelekinesisThrow_0",
@@ -723,21 +728,21 @@
       "Name": "Mind Over Matter",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TelekinesisThrow_1",
       "SetID": "9e3d06k",
       "Name": "Gravity Bender",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 76
     }
@@ -746,7 +751,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 280,
       "Completed": 4
     }
   ],
@@ -754,8 +759,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:31.33828+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:15.8680844+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:06.0347172+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:33.6839865+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:31.338298+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:10.9534741+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:15.8680997+00:00"
 }

@@ -1,67 +1,67 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.74 (Ranked 183)  
+Rating: 4.74 (Ranked 184)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,893 |
-| Hit Rock Bottom | 97.00% | ~2,834 |
-| Rocket Launched | 97.00% | ~2,834 |
-| Speed | 97.00% | ~2,834 |
-| High Jump | 96.00% | ~2,805 |
-| Knee bending | 96.00% | ~2,805 |
-| Pickaxe | 94.00% | ~2,747 |
-| Entered Cage Town | 93.00% | ~2,717 |
-| Stone Pickaxe | 93.00% | ~2,717 |
-| Revenge | 93.00% | ~2,717 |
-| Cage Town | 93.00% | ~2,717 |
-| Force Beam | 92.00% | ~2,688 |
-| Surprise | 92.00% | ~2,688 |
-| Magnet | 90.00% | ~2,630 |
-| Industrial Area | 89.00% | ~2,601 |
-| Magnet Repel | 87.00% | ~2,542 |
-| You feel middle classy | 86.00% | ~2,513 |
-| Boomeraxe | 86.00% | ~2,513 |
-| Iron Pickaxe | 86.00% | ~2,513 |
-| Banking District | 85.00% | ~2,484 |
-| Arrested | 85.00% | ~2,484 |
-| Zappy Gun | 85.00% | ~2,484 |
-| Got your own one now | 85.00% | ~2,484 |
-| Mission Unlikely | 85.00% | ~2,484 |
-| Don't draw dicks pls | 84.00% | ~2,454 |
-| Ripped | 84.00% | ~2,454 |
-| Beat the big arena | 82.00% | ~2,396 |
-| Force Cube | 81.00% | ~2,367 |
-| Got Battery | 80.00% | ~2,338 |
-| Guard Distracted | 80.00% | ~2,338 |
-| Translocator | 80.00% | ~2,338 |
-| Inner Peace | 78.00% | ~2,279 |
-| Trickle Down Economy | 77.00% | ~2,250 |
-| Diamond Pickaxe | 76.00% | ~2,221 |
-| Win | 76.00% | ~2,221 |
-| Killed them all | 75.00% | ~2,192 |
-| Greenhouse | 71.00% | ~2,075 |
-| Played with fire | 70.00% | ~2,045 |
-| You feel very sorry | 70.00% | ~2,045 |
-| No Match for you | 64.00% | ~1,870 |
-| Bouncy | 62.00% | ~1,812 |
-| Faster | 60.00% | ~1,753 |
-| Much Magic | 59.00% | ~1,724 |
-| Plumbster | 58.00% | ~1,695 |
-| Chest Detector | 56.00% | ~1,636 |
-| Flames | 53.00% | ~1,549 |
-| Momentum | 46.00% | ~1,344 |
-| You're unsure if you broke the game or not | 43.00% | ~1,256 |
-| But wait... ...There's more... | 40.00% | ~1,169 |
-| So much force | 35.00% | ~1,023 |
-| You feel fully engaged | 24.00% | ~701 |
-| Too hot | 21.00% | ~614 |
-| All the chests | 14.00% | ~409 |
+| Good Morning | 99.00% | ~2,930 |
+| Hit Rock Bottom | 97.00% | ~2,871 |
+| Rocket Launched | 97.00% | ~2,871 |
+| Speed | 97.00% | ~2,871 |
+| High Jump | 96.00% | ~2,842 |
+| Knee bending | 96.00% | ~2,842 |
+| Pickaxe | 94.00% | ~2,782 |
+| Revenge | 93.00% | ~2,753 |
+| Cage Town | 93.00% | ~2,753 |
+| Force Beam | 92.00% | ~2,723 |
+| Entered Cage Town | 92.00% | ~2,723 |
+| Stone Pickaxe | 92.00% | ~2,723 |
+| Surprise | 92.00% | ~2,723 |
+| Magnet | 90.00% | ~2,664 |
+| Industrial Area | 89.00% | ~2,634 |
+| Magnet Repel | 87.00% | ~2,575 |
+| You feel middle classy | 86.00% | ~2,546 |
+| Boomeraxe | 86.00% | ~2,546 |
+| Iron Pickaxe | 86.00% | ~2,546 |
+| Banking District | 85.00% | ~2,516 |
+| Mission Unlikely | 85.00% | ~2,516 |
+| Arrested | 84.00% | ~2,486 |
+| Zappy Gun | 84.00% | ~2,486 |
+| Got your own one now | 84.00% | ~2,486 |
+| Don't draw dicks pls | 84.00% | ~2,486 |
+| Ripped | 84.00% | ~2,486 |
+| Beat the big arena | 82.00% | ~2,427 |
+| Force Cube | 81.00% | ~2,398 |
+| Got Battery | 80.00% | ~2,368 |
+| Guard Distracted | 80.00% | ~2,368 |
+| Translocator | 80.00% | ~2,368 |
+| Inner Peace | 78.00% | ~2,309 |
+| Trickle Down Economy | 77.00% | ~2,279 |
+| Diamond Pickaxe | 76.00% | ~2,250 |
+| Win | 76.00% | ~2,250 |
+| Killed them all | 75.00% | ~2,220 |
+| Greenhouse | 71.00% | ~2,102 |
+| Played with fire | 69.00% | ~2,042 |
+| You feel very sorry | 69.00% | ~2,042 |
+| No Match for you | 64.00% | ~1,894 |
+| Bouncy | 61.00% | ~1,806 |
+| Much Magic | 59.00% | ~1,746 |
+| Faster | 59.00% | ~1,746 |
+| Plumbster | 58.00% | ~1,717 |
+| Chest Detector | 55.00% | ~1,628 |
+| Flames | 53.00% | ~1,569 |
+| Momentum | 45.00% | ~1,332 |
+| You're unsure if you broke the game or not | 43.00% | ~1,273 |
+| But wait... ...There's more... | 40.00% | ~1,184 |
+| So much force | 34.00% | ~1,006 |
+| You feel fully engaged | 24.00% | ~710 |
+| Too hot | 21.00% | ~622 |
+| All the chests | 14.00% | ~414 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,922 (Ranked 325)  
-Completed: 357 (12.22%) (Ranked 62)  
+Progressed: 2,960 (Ranked 335)  
+Completed: 359 (12.13%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,6 +314,7 @@ Completed: 357 (12.22%) (Ranked 62)
 | 2024-07-30 | 2,884 | 351 |
 | 2024-08-09 | 2,903 | 352 |
 | 2024-08-20 | 2,922 | 357 |
+| 2024-09-14 | 2,960 | 359 |
 ## Awards
 Max (Challenging Puzzles): 121  (Ranked 447)  
 Sum: 121 (Ranked 563)  

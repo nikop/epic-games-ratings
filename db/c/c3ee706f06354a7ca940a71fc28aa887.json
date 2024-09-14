@@ -2,10 +2,10 @@
   "ID": "c3ee706f06354a7ca940a71fc28aa887",
   "Name": "Tents and Trees",
   "ProductSlug": "tents-and-trees-7e66fd",
-  "Ranking_EOS_Progress": 659,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 677,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-24T07:00:00+00:00",
     "PcReleaseDate": "2024-04-24T07:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -55,6 +55,11 @@
       "Time": "2024-08-20T20:08:47.615306+00:00",
       "NumProgressed": 114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:41.0039343+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-04T23:04:56.004548+00:00",
@@ -65,7 +70,7 @@
       "ID": "ach_classicpacks_01",
       "SetID": "55kje8c",
       "Name": "Classic",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -97,9 +102,9 @@
       "ID": "ach_fast_01",
       "SetID": "55kje8c",
       "Name": "Fast 10x10",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_fast_02",
@@ -129,7 +134,7 @@
       "ID": "ach_fastdailypack_03",
       "SetID": "55kje8c",
       "Name": "Fast Daily Pack {hard}",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -145,25 +150,25 @@
       "ID": "ach_levels_06",
       "SetID": "55kje8c",
       "Name": "Complete 15 levels.",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_levels_07",
       "SetID": "55kje8c",
       "Name": "Complete 60 levels.",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_levels_08",
       "SetID": "55kje8c",
       "Name": "Complete 175 levels.",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_levels_09",
@@ -185,23 +190,23 @@
       "ID": "ach_levels_size_00",
       "SetID": "55kje8c",
       "Name": "9x9 Ace",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_levels_size_01",
       "SetID": "55kje8c",
       "Name": "11x11 Ace",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_levels_size_02",
       "SetID": "55kje8c",
       "Name": "13x13 Ace",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -209,7 +214,7 @@
       "ID": "ach_levels_size_03",
       "SetID": "55kje8c",
       "Name": "15x15 Ace",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -217,7 +222,7 @@
       "ID": "ach_levels_size_04",
       "SetID": "55kje8c",
       "Name": "17x17 Ace",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "ach_multiplayer_00",
       "SetID": "55kje8c",
       "Name": "Multiplayer (2)",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -241,25 +246,25 @@
       "ID": "ach_no_grass_00",
       "SetID": "55kje8c",
       "Name": "Tents Only 7x7",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_no_grass_01",
       "SetID": "55kje8c",
       "Name": "Tents Only 8x8",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_no_grass_02",
       "SetID": "55kje8c",
       "Name": "Tents Only 9x9",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_no_grass_03",
@@ -281,25 +286,25 @@
       "ID": "ach_nohints_00",
       "SetID": "55kje8c",
       "Name": "By Yourself 12x12",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_nohints_01",
       "SetID": "55kje8c",
       "Name": "By Yourself 13x13",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_nohints_02",
       "SetID": "55kje8c",
       "Name": "By Yourself 14x14",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_tenttreelink_00",
@@ -313,23 +318,23 @@
       "ID": "ach_twodaysinarow_00",
       "SetID": "55kje8c",
       "Name": "Daily Player 1",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "55kje8c",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-26T13:59:16.2528023+00:00",
   "FirstSeenAchievements": "2024-01-03T00:06:40.2622903+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:47.6153055+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:41.0039338+00:00",
   "LastUpdate_AppInfo": "2024-09-11T18:57:16.1093308+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:49.2782519+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:47.6153266+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:38.7509395+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:41.0039553+00:00"
 }

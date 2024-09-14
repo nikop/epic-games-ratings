@@ -4,49 +4,49 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Might be useful… | 38.00% | ~70 |
-| Treasure Hunting | 37.00% | ~68 |
-| Friend! | 31.00% | ~57 |
-| Shine! | 30.00% | ~55 |
-| Uncut Gem | 27.00% | ~49 |
-| Clear as Water | 27.00% | ~49 |
-| Setting Off | 22.00% | ~40 |
-| Card Collector | 22.00% | ~40 |
-| Riddlesolver | 20.00% | ~37 |
-| Dungeon Mastery | 19.00% | ~35 |
-| The Steed | 10.00% | ~18 |
-| A Strange Proposition | 10.00% | ~18 |
-| Card Completionist | 10.00% | ~18 |
+| Might be useful… | 39.00% | ~73 |
+| Treasure Hunting | 37.00% | ~69 |
+| Friend! | 31.00% | ~58 |
+| Shine! | 30.00% | ~56 |
+| Uncut Gem | 28.00% | ~52 |
+| Clear as Water | 27.00% | ~50 |
+| Card Collector | 23.00% | ~43 |
+| Setting Off | 22.00% | ~41 |
+| Riddlesolver | 21.00% | ~39 |
+| Dungeon Mastery | 19.00% | ~36 |
+| A Strange Proposition | 11.00% | ~21 |
+| Card Completionist | 11.00% | ~21 |
+| The Steed | 10.00% | ~19 |
 | The Bodyguard | 8.00% | ~15 |
-| The Apprentice | 8.00% | ~15 |
-| No Stone Unturned | 8.00% | ~15 |
+| The Apprentice | 7.00% | ~13 |
 | Braving Miasma | 7.00% | ~13 |
-| The Familiar | 7.00% | ~13 |
-| Ancient Nemesis | 7.00% | ~13 |
+| No Stone Unturned | 7.00% | ~13 |
+| The Familiar | 6.00% | ~11 |
+| Ancient Nemesis | 6.00% | ~11 |
 | Oracle Mastery | 6.00% | ~11 |
-| Raider Mastery | 5.00% | ~9 |
+| Raider Mastery | 6.00% | ~11 |
 | Traveler Mastery | 5.00% | ~9 |
 | Warden Mastery | 5.00% | ~9 |
 | The Plot Thickens | 5.00% | ~9 |
-| Best Pupil | 3.00% | ~5 |
-| FOR JUSTICE! | 3.00% | ~5 |
-| Journey’s End | 3.00% | ~5 |
-| Masterpiece | 3.00% | ~5 |
-| Trinket Enthusiast | 3.00% | ~5 |
-| The Usurper | 3.00% | ~5 |
-| First time? | 3.00% | ~5 |
-| Harmony | 3.00% | ~5 |
-| The False Prophet | 3.00% | ~5 |
-| Sealed Once Again | 3.00% | ~5 |
-| A New Tomorrow | 3.00% | ~5 |
-| ACHOO! | 3.00% | ~5 |
+| Best Pupil | 3.00% | ~6 |
+| FOR JUSTICE! | 3.00% | ~6 |
+| Journey’s End | 3.00% | ~6 |
+| Masterpiece | 3.00% | ~6 |
+| Trinket Enthusiast | 3.00% | ~6 |
+| The Usurper | 3.00% | ~6 |
+| First time? | 3.00% | ~6 |
+| Harmony | 3.00% | ~6 |
+| The False Prophet | 3.00% | ~6 |
+| Sealed Once Again | 3.00% | ~6 |
+| A New Tomorrow | 3.00% | ~6 |
+| ACHOO! | 3.00% | ~6 |
 | Towards the Future | 2.00% | ~4 |
 | The New Demon Lord | 2.00% | ~4 |
 | Gladiator | 2.00% | ~4 |
 | True Drafter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 593)  
-Completed: 2 (1.09%) (Ranked 257)  
+Progressed: 187 (Ranked 615)  
+Completed: 2 (1.07%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,6 +139,7 @@ Completed: 2 (1.09%) (Ranked 257)
 | 2024-07-25 | 180 | 2 |
 | 2024-08-09 | 182 | 2 |
 | 2024-08-20 | 183 | 2 |
+| 2024-09-14 | 187 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

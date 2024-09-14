@@ -2,10 +2,10 @@
   "ID": "1903efa2b18040089ecbd796f9ec3a16",
   "Name": "Extreme Formula Championship",
   "ProductSlug": "extreme-formula-championship-a8271d",
-  "Ranking_EOS_Progress": 928,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 971,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-05-03T18:30:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -79,6 +79,11 @@
       "Time": "2024-08-09T18:03:37.0625198+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:19:04.1393243+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-30T19:03:25.6411728+00:00",
@@ -89,9 +94,9 @@
       "ID": "EXTREME_LEVEL2",
       "SetID": "3d99g70",
       "Name": "Contender",
-      "Percentage": 46,
+      "Percentage": 50,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EXTREME_LEVEL3",
@@ -130,14 +135,14 @@
     {
       "ID": "3d99g70",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-22T19:57:40.0065945+00:00",
   "FirstSeenAchievements": "2023-11-30T19:03:25.6411727+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:37.0625195+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:04.1393236+00:00",
   "LastUpdate_AppInfo": "2024-09-14T02:02:45.455995+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:55.8567652+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:37.0625257+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:03:50.4545815+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:04.1393312+00:00"
 }

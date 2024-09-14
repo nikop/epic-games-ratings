@@ -2,10 +2,10 @@
   "ID": "2fd1e4381c1542bb9aa1a0cc9f2195d8",
   "Name": "Deadly Contagion",
   "ProductSlug": "deadly-contagion-11a47f",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "383ik1j",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:04.8151068+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:04.8151019+00:00",
   "LastUpdate_AppInfo": "2024-09-09T03:02:43.2939037+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:03.6808357+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:58.9588121+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:04.8151086+00:00"
 }

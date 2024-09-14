@@ -2,10 +2,10 @@
   "ID": "5d0d760170c845ec988a5041f9b5198d",
   "Name": "Faaast Penguin",
   "ProductSlug": "faaast-penguin-4319d6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "7f82a2k",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:04.9376197+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:04.9376148+00:00",
   "LastUpdate_AppInfo": "2024-09-11T14:57:24.2609486+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:48.7652215+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:17.7539128+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:04.9376217+00:00"
 }

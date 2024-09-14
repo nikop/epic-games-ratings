@@ -5,42 +5,42 @@ Rating: 4.70 (Ranked 245)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 86.00% | ~4,033 |
-| Flanked! | 73.00% | ~3,424 |
-| Economics 101 | 55.00% | ~2,580 |
-| Get Rich Quick | 38.00% | ~1,782 |
-| Do the Splits | 35.00% | ~1,642 |
-| Maestro | 23.00% | ~1,079 |
-| Full Employment | 16.00% | ~750 |
-| Clay Fighter | 14.00% | ~657 |
-| All Ovens Blazing | 12.00% | ~563 |
-| Nowhere left to Hide | 12.00% | ~563 |
-| Boulder Clash | 12.00% | ~563 |
-| Held Back by the Roots | 11.00% | ~516 |
-| Well Supplied | 10.00% | ~469 |
-| Damage Control | 7.00% | ~328 |
-| Master of the Brawl | 7.00% | ~328 |
-| Sniped | 6.00% | ~281 |
-| Leave Them no Cake | 6.00% | ~281 |
-| Would be a Shame if Someone Would Waste Those Units | 6.00% | ~281 |
-| Your Biggest Fans | 5.00% | ~234 |
-| An Ally in Need | 5.00% | ~234 |
-| For the Queen | 5.00% | ~234 |
-| Not a Drop Wasted | 5.00% | ~234 |
-| A Secret Recipe | 5.00% | ~234 |
-| Reinforcements | 4.00% | ~188 |
-| Sweet Revenge | 4.00% | ~188 |
-| We Have the Technology | 4.00% | ~188 |
-| Figure of Breach | 4.00% | ~188 |
-| Work It | 3.00% | ~141 |
-| The Handyman Can! | 3.00% | ~141 |
-| A Brief Moment of Respite | 3.00% | ~141 |
-| Almost Like Winning | 2.00% | ~94 |
+| You and what Army? | 86.00% | ~4,066 |
+| Flanked! | 73.00% | ~3,451 |
+| Economics 101 | 55.00% | ~2,600 |
+| Get Rich Quick | 38.00% | ~1,797 |
+| Do the Splits | 35.00% | ~1,655 |
+| Maestro | 23.00% | ~1,087 |
+| Full Employment | 16.00% | ~756 |
+| Clay Fighter | 14.00% | ~662 |
+| All Ovens Blazing | 12.00% | ~567 |
+| Nowhere left to Hide | 12.00% | ~567 |
+| Boulder Clash | 12.00% | ~567 |
+| Held Back by the Roots | 11.00% | ~520 |
+| Well Supplied | 10.00% | ~473 |
+| Damage Control | 7.00% | ~331 |
+| Master of the Brawl | 7.00% | ~331 |
+| Sniped | 6.00% | ~284 |
+| Leave Them no Cake | 6.00% | ~284 |
+| Would be a Shame if Someone Would Waste Those Units | 6.00% | ~284 |
+| Your Biggest Fans | 5.00% | ~236 |
+| An Ally in Need | 5.00% | ~236 |
+| For the Queen | 5.00% | ~236 |
+| Not a Drop Wasted | 5.00% | ~236 |
+| A Secret Recipe | 5.00% | ~236 |
+| Reinforcements | 4.00% | ~189 |
+| Sweet Revenge | 4.00% | ~189 |
+| We Have the Technology | 4.00% | ~189 |
+| Figure of Breach | 4.00% | ~189 |
+| Work It | 3.00% | ~142 |
+| The Handyman Can! | 3.00% | ~142 |
+| A Brief Moment of Respite | 3.00% | ~142 |
+| Almost Like Winning | 2.00% | ~95 |
 | Untouchable | 1.00% | ~47 |
-| All Geared Up | 0.90% | ~42 |
+| All Geared Up | 0.90% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,690 (Ranked 288)  
-Completed: 16 (0.34%) (Ranked 359)  
+Progressed: 4,728 (Ranked 298)  
+Completed: 16 (0.34%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -294,6 +294,7 @@ Completed: 16 (0.34%) (Ranked 359)
 | 2024-04-10 | 4,358 | 12 |
 | 2024-06-17 | 4,625 | 14 |
 | 2024-08-09 | 4,690 | 16 |
+| 2024-09-14 | 4,728 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

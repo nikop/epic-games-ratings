@@ -2,10 +2,10 @@
   "ID": "4aa01217f1cc4e53923d81738de0859b",
   "Name": "Asylum Revenge",
   "ProductSlug": "asylum-revenge-53e557",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-08T20:57:02.0317889+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:37.8661724+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:04.4076335+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:10:05.0641174+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:15.3813531+00:00"
 }

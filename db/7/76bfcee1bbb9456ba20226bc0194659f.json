@@ -2,10 +2,10 @@
   "ID": "76bfcee1bbb9456ba20226bc0194659f",
   "Name": "Morels The Hunt 2",
   "ProductSlug": "morels-the-hunt-2-afa5db",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-07T13:00:00+00:00",
     "PcReleaseDate": "2024-04-17T15:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-16T08:00:06.7757421+00:00",
   "LastUpdate_AppInfo": "2024-09-13T22:57:14.4927718+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:40.7446997+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:32.5384865+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:10.7592681+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:38.6098553+00:00"
 }

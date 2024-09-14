@@ -2,10 +2,10 @@
   "ID": "7cc6974bd4314bf2979e1380491b8fbf",
   "Name": "Borderlands 4",
   "ProductSlug": "borderlands-4",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,5 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T21:56:59.9464973+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:59.1133383+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:59.0687281+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:13.7268255+00:00"
 }

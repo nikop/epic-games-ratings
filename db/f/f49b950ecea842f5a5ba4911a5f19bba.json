@@ -2,10 +2,10 @@
   "ID": "f49b950ecea842f5a5ba4911a5f19bba",
   "Name": "Quantum Command",
   "ProductSlug": "quantum-command-983dc9",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-04-30T00:00:00+00:00",
     "PcReleaseDate": "2025-04-30T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T16:57:22.8205971+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:48.1668036+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:47.7653079+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:05.6074442+00:00"
 }

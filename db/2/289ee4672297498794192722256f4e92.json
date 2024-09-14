@@ -2,10 +2,10 @@
   "ID": "289ee4672297498794192722256f4e92",
   "Name": "Zen Chess: Mate in Two",
   "ProductSlug": "zen-chess-mate-in-two-41c920",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Completed": 82,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-04-30T20:00:00+00:00",
@@ -25,17 +25,155 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 68,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EOS_Completed_Percentage": 8.82,
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:12.494021+00:00",
+      "NumProgressed": 68,
+      "NumCompleted": 6
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:12.4940257+00:00",
+  "TotalAchievements": 15,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "LEVEL_10",
+      "SetID": "3l5lf99",
+      "Name": "The Hero of Hastings",
+      "Percentage": 38,
+      "XP": 10,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "LEVEL_100",
+      "SetID": "3l5lf99",
+      "Name": "Maestro",
+      "Percentage": 13,
+      "XP": 100,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "LEVEL_110",
+      "SetID": "3l5lf99",
+      "Name": "The Penguin",
+      "Percentage": 12,
+      "XP": 100,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "LEVEL_120",
+      "SetID": "3l5lf99",
+      "Name": "The Executioner",
+      "Percentage": 10,
+      "XP": 100,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "LEVEL_130",
+      "SetID": "3l5lf99",
+      "Name": "The Chess Machine",
+      "Percentage": 9,
+      "XP": 100,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "LEVEL_140",
+      "SetID": "3l5lf99",
+      "Name": "The Matador",
+      "Percentage": 9,
+      "XP": 150,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "LEVEL_150",
+      "SetID": "3l5lf99",
+      "Name": "Beast of Baku",
+      "Percentage": 9,
+      "XP": 200,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "LEVEL_20",
+      "SetID": "3l5lf99",
+      "Name": "The Northern Philidor",
+      "Percentage": 26,
+      "XP": 20,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "LEVEL_30",
+      "SetID": "3l5lf99",
+      "Name": "Fast Breeder",
+      "Percentage": 26,
+      "XP": 30,
+      "UsersEstimate": 18
+    },
+    {
+      "ID": "LEVEL_40",
+      "SetID": "3l5lf99",
+      "Name": "The Engineer",
+      "Percentage": 24,
+      "XP": 30,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "LEVEL_50",
+      "SetID": "3l5lf99",
+      "Name": "The Stormy Petrel",
+      "Percentage": 22,
+      "XP": 30,
+      "UsersEstimate": 15
+    },
+    {
+      "ID": "LEVEL_60",
+      "SetID": "3l5lf99",
+      "Name": "The Italian Fury",
+      "Percentage": 21,
+      "XP": 30,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "LEVEL_70",
+      "SetID": "3l5lf99",
+      "Name": "The Last Knight of the King\u0027s Gambit",
+      "Percentage": 21,
+      "XP": 30,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "LEVEL_80",
+      "SetID": "3l5lf99",
+      "Name": "The Hungarian Botvinnik",
+      "Percentage": 18,
+      "XP": 30,
+      "UsersEstimate": 12
+    },
+    {
+      "ID": "LEVEL_90",
+      "SetID": "3l5lf99",
+      "Name": "The Kentucky Lion",
+      "Percentage": 16,
+      "XP": 40,
+      "UsersEstimate": 11
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "3l5lf99",
+      "IsBase": true,
+      "Progressed": 68,
+      "Completed": 6
+    }
+  ],
   "FirstSeen": "2024-08-18T05:58:10.9192025+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:15:12.4940257+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:12.4940205+00:00",
   "LastUpdate_AppInfo": "2024-09-09T20:57:17.712986+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:11.6022625+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:35.3684595+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:12.4947981+00:00"
 }

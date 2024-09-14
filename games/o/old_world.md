@@ -373,8 +373,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Not a Chance | 0.00% | ~0 |
 | Hardcore | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,212 (Ranked 213)  
-Completed: 7 (0.03%) (Ranked 494)  
+Progressed: 20,212 (Ranked 222)  
+Completed: 7 (0.03%) (Ranked 521)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

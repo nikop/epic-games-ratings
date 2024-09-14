@@ -2,10 +2,10 @@
   "ID": "a4c3c3f2087744a8b43ba268837bd6f2",
   "Name": "Exit: Left or Right",
   "ProductSlug": "exit-left-or-right-bfedd2",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-15T03:00:00+00:00",
     "PcReleaseDate": "2024-03-15T03:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-20T01:38:40.6652022+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:36.6341318+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:17.9537762+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:14:00.4736802+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:54.6128815+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:07.1865788+00:00"
 }

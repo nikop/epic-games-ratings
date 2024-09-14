@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Friendly Fire | 42.00% | ~8 |
-| Safety | 32.00% | ~6 |
-| LOVE | 21.00% | ~4 |
-| kuso | 21.00% | ~4 |
-| Air walker | 16.00% | ~3 |
-| Jump rope | 16.00% | ~3 |
-| Longest Fall | 16.00% | ~3 |
-| Threading the Needle | 16.00% | ~3 |
-| Ball Dropper | 11.00% | ~2 |
-| Frequent Flyer | 11.00% | ~2 |
-| Gotta Go Fast | 11.00% | ~2 |
-| Just a Scratch or Two | 11.00% | ~2 |
+| Friendly Fire | 40.00% | ~8 |
+| Safety | 35.00% | ~7 |
+| LOVE | 20.00% | ~4 |
+| kuso | 20.00% | ~4 |
+| Air walker | 15.00% | ~3 |
+| Jump rope | 15.00% | ~3 |
+| Longest Fall | 15.00% | ~3 |
+| Threading the Needle | 15.00% | ~3 |
+| Ball Dropper | 10.00% | ~2 |
+| Frequent Flyer | 10.00% | ~2 |
+| Gotta Go Fast | 10.00% | ~2 |
+| Just a Scratch or Two | 10.00% | ~2 |
 | 13 Years in 69 Minutes | 5.00% | ~1 |
 | Bork & Niko | 5.00% | ~1 |
 | Cautious Completionist | 5.00% | ~1 |
@@ -27,8 +27,8 @@
 | Charlie | 0.00% | ~0 |
 | Seeker | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 878)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 20 (Ranked 917)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -45,6 +45,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 16 | 0 |
 | 2024-08-09 | 18 | 0 |
 | 2024-08-20 | 19 | 0 |
+| 2024-09-14 | 20 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

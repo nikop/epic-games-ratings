@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taking Notes | 19.00% | ~46 |
+| Taking Notes | 20.00% | ~49 |
+| Time for Renovations | 19.00% | ~47 |
+| Dry No More | 18.00% | ~44 |
 | The Mendel Experiment | 18.00% | ~44 |
-| Time for Renovations | 18.00% | ~44 |
 | Who's a Good Plant? | 18.00% | ~44 |
-| Dry No More | 17.00% | ~41 |
+| Leave My Baby Alone! | 17.00% | ~42 |
 | A Greener Day | 16.00% | ~39 |
-| Leave My Baby Alone! | 16.00% | ~39 |
+| Research Complete | 15.00% | ~37 |
 | A Sad Moment | 14.00% | ~34 |
-| Research Complete | 14.00% | ~34 |
 | Room Revealer | 14.00% | ~34 |
 | Seed of Love | 14.00% | ~34 |
 | #NewFilter | 9.00% | ~22 |
 | Budding Scientist | 8.00% | ~20 |
+| Lab-Room | 8.00% | ~20 |
 | Landlord | 8.00% | ~20 |
 | Say Cheese! | 8.00% | ~20 |
-| Lab-Room | 7.00% | ~17 |
 | Let's Go for a Walk | 7.00% | ~17 |
-| Water Water Water | 5.00% | ~12 |
+| Water Water Water | 6.00% | ~15 |
+| Feet in the Water | 4.00% | ~10 |
 | Food for Insects | 4.00% | ~10 |
 | Hands in the Dirt | 4.00% | ~10 |
+| Head in the Clouds | 4.00% | ~10 |
 | Master Gardener | 4.00% | ~10 |
 | Pottery Connoisseur | 4.00% | ~10 |
 | Spray Spray Spray | 4.00% | ~10 |
 | Weeds Have Feelings Too | 4.00% | ~10 |
-| Feet in the Water | 3.00% | ~7 |
-| Head in the Clouds | 3.00% | ~7 |
 | Pet Pet Pet | 3.00% | ~7 |
+| The Best One | 3.00% | ~7 |
 | Balcony Optimizer | 2.00% | ~5 |
 | Love and Science | 2.00% | ~5 |
-| The Best One | 2.00% | ~5 |
-| Perfectionist | 1.00% | ~2 |
+| Perfectionist | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 557)  
-Completed: 2 (0.82%) (Ranked 286)  
+Progressed: 245 (Ranked 576)  
+Completed: 3 (1.22%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,6 +110,7 @@ Completed: 2 (0.82%) (Ranked 286)
 | 2024-04-10 | 224 | 1 |
 | 2024-06-17 | 240 | 2 |
 | 2024-08-09 | 244 | 2 |
+| 2024-09-14 | 245 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

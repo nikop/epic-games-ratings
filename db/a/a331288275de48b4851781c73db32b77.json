@@ -2,10 +2,10 @@
   "ID": "a331288275de48b4851781c73db32b77",
   "Name": "Hot Lap Racing",
   "ProductSlug": "hot-lap-racing-586d8a",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-12T16:00:00+00:00",
     "PcReleaseDate": "2024-07-16T16:00:00+00:00",
@@ -29,9 +29,339 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-09-14T14:27:23.1379624+00:00",
+  "TotalAchievements": 41,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Adventurer",
+      "SetID": "be1c71i",
+      "Name": "Adventurer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "An event? I\u0027ll be there in a minute!",
+      "SetID": "be1c71i",
+      "Name": "An event? I\u0027ll be there in a minute!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "As good as Jack!",
+      "SetID": "be1c71i",
+      "Name": "As good as Jack!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Aspiring driver",
+      "SetID": "be1c71i",
+      "Name": "Aspiring driver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Back from the underworld",
+      "SetID": "be1c71i",
+      "Name": "Back from the underworld",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Better safe than sorry",
+      "SetID": "be1c71i",
+      "Name": "Better safe than sorry",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Better than Damon!",
+      "SetID": "be1c71i",
+      "Name": "Better than Damon!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collector",
+      "SetID": "be1c71i",
+      "Name": "Collector",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Deutsch Qualit\u00E4t",
+      "SetID": "be1c71i",
+      "Name": "Deutsch Qualit\u00E4t",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Enlightened driver",
+      "SetID": "be1c71i",
+      "Name": "Enlightened driver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Full throttle explorer",
+      "SetID": "be1c71i",
+      "Name": "Full throttle explorer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GT at the summit",
+      "SetID": "be1c71i",
+      "Name": "GT at the summit",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Globetrotter",
+      "SetID": "be1c71i",
+      "Name": "Globetrotter",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Hot Lap",
+      "SetID": "be1c71i",
+      "Name": "Hot Lap",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Is there a bonus scene after the credits?",
+      "SetID": "be1c71i",
+      "Name": "Is there a bonus scene after the credits?",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "It\u0027s mine!",
+      "SetID": "be1c71i",
+      "Name": "It\u0027s mine!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Just one place",
+      "SetID": "be1c71i",
+      "Name": "Just one place",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "King of the track",
+      "SetID": "be1c71i",
+      "Name": "King of the track",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Little champion",
+      "SetID": "be1c71i",
+      "Name": "Little champion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Neck and neck",
+      "SetID": "be1c71i",
+      "Name": "Neck and neck",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Nerves of steel",
+      "SetID": "be1c71i",
+      "Name": "Nerves of steel",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "No wings!",
+      "SetID": "be1c71i",
+      "Name": "No wings!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Number One",
+      "SetID": "be1c71i",
+      "Name": "Number One",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "On the way to the masterpiece",
+      "SetID": "be1c71i",
+      "Name": "On the way to the masterpiece",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Relentless",
+      "SetID": "be1c71i",
+      "Name": "Relentless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Resilient driver",
+      "SetID": "be1c71i",
+      "Name": "Resilient driver",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Salty track",
+      "SetID": "be1c71i",
+      "Name": "Salty track",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Samir you\u0027re breaking the car!",
+      "SetID": "be1c71i",
+      "Name": "Samir you\u0027re breaking the car!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Seasoned Driver",
+      "SetID": "be1c71i",
+      "Name": "Seasoned Driver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Slick",
+      "SetID": "be1c71i",
+      "Name": "Slick",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Take it easy!",
+      "SetID": "be1c71i",
+      "Name": "Take it easy!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "That was close.",
+      "SetID": "be1c71i",
+      "Name": "That was close.",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The G.O.A.T.",
+      "SetID": "be1c71i",
+      "Name": "The G.O.A.T.",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The Ultimate Champion",
+      "SetID": "be1c71i",
+      "Name": "The Ultimate Champion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The enemy of race stewards",
+      "SetID": "be1c71i",
+      "Name": "The enemy of race stewards",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The future is electric",
+      "SetID": "be1c71i",
+      "Name": "The future is electric",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The goat",
+      "SetID": "be1c71i",
+      "Name": "The goat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "The most powerful car in the world",
+      "SetID": "be1c71i",
+      "Name": "The most powerful car in the world",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Top driver",
+      "SetID": "be1c71i",
+      "Name": "Top driver",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "World\u0027s best driver",
+      "SetID": "be1c71i",
+      "Name": "World\u0027s best driver",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Young graduate",
+      "SetID": "be1c71i",
+      "Name": "Young graduate",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "be1c71i",
@@ -41,8 +371,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:15.0486583+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:09.1016345+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:23.1379602+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:08.6188753+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:20.9272803+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:09.1016379+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:48.0588851+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:23.1387991+00:00"
 }

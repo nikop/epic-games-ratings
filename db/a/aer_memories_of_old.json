@@ -5,10 +5,10 @@
   "Ranking_Rating": 849,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -497,11 +497,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40667,
-  "EOS_Completed": 728,
-  "EOS_NewPlayers": 484,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 1.79,
+  "EOS_Progressed": 41793,
+  "EOS_Completed": 739,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.7860479+00:00",
@@ -30927,6 +30927,11 @@
       "Time": "2024-08-20T20:11:41.2196505+00:00",
       "NumProgressed": 40667,
       "NumCompleted": 728
+    },
+    {
+      "Time": "2024-09-14T14:24:40.9025519+00:00",
+      "NumProgressed": 41793,
+      "NumCompleted": 739
     }
   ],
   "TotalAchievements": 20,
@@ -30938,7 +30943,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 6507
+      "UsersEstimate": 6687
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30946,7 +30951,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2090
     },
     {
       "ID": "EAST_FINISHED",
@@ -30954,15 +30959,15 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5851
     },
     {
       "ID": "FOUND_BATTLEFIELD",
       "SetID": "b6m2mm5",
       "Name": "Memorial",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3660
+      "UsersEstimate": 3343
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -30970,7 +30975,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4597
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -30978,7 +30983,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4067
+      "UsersEstimate": 4179
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -30986,15 +30991,15 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2847
+      "UsersEstimate": 2926
     },
     {
       "ID": "FOUND_CRANE_STATUE",
       "SetID": "b6m2mm5",
       "Name": "Wings of Stone",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 4880
+      "UsersEstimate": 4597
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -31002,7 +31007,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 5693
+      "UsersEstimate": 5851
     },
     {
       "ID": "FOUND_ERIN",
@@ -31010,7 +31015,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1672
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -31018,7 +31023,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2508
     },
     {
       "ID": "FOUND_MAMBA",
@@ -31026,7 +31031,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2508
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -31034,7 +31039,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5433
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -31042,7 +31047,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2508
     },
     {
       "ID": "GAME_FINISHED",
@@ -31050,7 +31055,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 4880
+      "UsersEstimate": 5015
     },
     {
       "ID": "INTRO_FINISHED",
@@ -31058,7 +31063,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 31314
+      "UsersEstimate": 32181
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -31066,7 +31071,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 10980
+      "UsersEstimate": 11284
     },
     {
       "ID": "NORTH_FINISHED",
@@ -31074,7 +31079,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 5287
+      "UsersEstimate": 5433
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -31082,7 +31087,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2440
+      "UsersEstimate": 2508
     },
     {
       "ID": "WEST_FINISHED",
@@ -31090,22 +31095,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 7320
+      "UsersEstimate": 7523
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 40667,
-      "Completed": 728
+      "Progressed": 41793,
+      "Completed": 739
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-08-22T13:10:50.1923741+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:41.21965+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:40.9025513+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:11.9092181+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:02.74637+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:41.219809+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:04.8343311+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:40.9027424+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "506976eed6054a4aad5646197adc5c8d",
   "Name": "Filthy Animals | Heist Simulator",
   "ProductSlug": "filthy-animals-f6c65c",
-  "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9641,
+  "EOS_Progressed": 9699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7841,6 +7841,11 @@
       "Time": "2024-08-20T20:09:09.675732+00:00",
       "NumProgressed": 9641,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:23:03.4400715+00:00",
+      "NumProgressed": 9699,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -7916,7 +7921,7 @@
       "Name": "Bank Heisted",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "chickenMax",
@@ -8028,7 +8033,7 @@
       "Name": "Supermart Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "superMartSuccess",
@@ -8036,7 +8041,7 @@
       "Name": "Supermart Heisted",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "templeAllObjectives",
@@ -8060,7 +8065,7 @@
       "Name": "Sewer Objectives Complete",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "tutorialSuccess",
@@ -8068,14 +8073,14 @@
       "Name": "Tutorial Completed",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 578
+      "UsersEstimate": 582
     }
   ],
   "AchievementSets": [
     {
       "ID": "10d14j0",
       "IsBase": true,
-      "Progressed": 9641,
+      "Progressed": 9699,
       "Completed": 0
     }
   ],
@@ -8083,8 +8088,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:09.6757315+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:03.4400709+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:51.2088769+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:34.5185956+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:09.6757786+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:10:00.058514+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:03.4401297+00:00"
 }

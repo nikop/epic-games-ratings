@@ -2,10 +2,10 @@
   "ID": "1425a316528c444ab263d66abd3e3176",
   "Name": "Warehouse Bots",
   "ProductSlug": "warehouse-bots-ad9042",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-11-30T00:00:00+00:00",
     "PcReleaseDate": "2024-11-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T19:57:02.8290893+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:39.3393862+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:37.3785587+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:10:07.1099561+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:41.5156766+00:00"
 }

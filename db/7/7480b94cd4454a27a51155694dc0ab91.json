@@ -2,10 +2,10 @@
   "ID": "7480b94cd4454a27a51155694dc0ab91",
   "Name": "Unlock The King 2",
   "ProductSlug": "unlock-the-king-2-793d20",
-  "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 775,
+  "Ranking_EOS_Completed": 109,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-25T15:00:00+00:00",
     "PcReleaseDate": "2020-01-31T20:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_Progressed": 60,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.34,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:09.9693904+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-20T20:12:59.8431305+00:00",
       "NumProgressed": 29,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:27:16.8879405+00:00",
+      "NumProgressed": 60,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:09.9693966+00:00",
@@ -55,71 +60,71 @@
       "ID": "LEVEL_17",
       "SetID": "36e3afi",
       "Name": "The blind side",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_28",
       "SetID": "36e3afi",
       "Name": "Stargated",
-      "Percentage": 28,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "LEVEL_42",
       "SetID": "36e3afi",
       "Name": "Hello, old friend",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "LEVEL_52",
       "SetID": "36e3afi",
       "Name": "King sized",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_60",
       "SetID": "36e3afi",
       "Name": "Polyarchic era",
-      "Percentage": 10,
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_70",
       "SetID": "36e3afi",
       "Name": "King of hearts",
-      "Percentage": 10,
+      "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_9",
       "SetID": "36e3afi",
       "Name": "The other facet",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "36e3afi",
       "IsBase": true,
-      "Progressed": 29,
-      "Completed": 3
+      "Progressed": 60,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-08-03T19:58:45.4105422+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:09.9693965+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:59.8431299+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:16.8879399+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:18.5002025+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:53.4907361+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:59.8431382+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:51.6440555+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:16.8879476+00:00"
 }

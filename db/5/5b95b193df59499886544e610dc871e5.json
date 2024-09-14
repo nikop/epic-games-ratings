@@ -2,10 +2,10 @@
   "ID": "5b95b193df59499886544e610dc871e5",
   "Name": "HexON",
   "ProductSlug": "hexon-6d8557",
-  "Ranking_EOS_Progress": 684,
-  "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 670,
+  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-27T15:30:00+00:00",
     "PcReleaseDate": "2020-02-07T20:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
-  "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_Progressed": 125,
+  "EOS_Completed": 4,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:18.6228723+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-20T20:13:15.5000795+00:00",
       "NumProgressed": 96,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:27:27.6011455+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:18.6228774+00:00",
@@ -57,23 +62,23 @@
       "Name": "Scarlet purple",
       "Percentage": 26,
       "XP": 150,
-      "UsersEstimate": 25
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_21",
       "SetID": "7pfgbn1",
       "Name": "Borderless",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "LEVEL_26",
       "SetID": "7pfgbn1",
       "Name": "Motion of view",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_35",
@@ -81,7 +86,7 @@
       "Name": "Suitable purple",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_40",
@@ -89,29 +94,29 @@
       "Name": "Unplugged",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_6",
       "SetID": "7pfgbn1",
       "Name": "Primary patterns",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pfgbn1",
       "IsBase": true,
-      "Progressed": 96,
-      "Completed": 3
+      "Progressed": 125,
+      "Completed": 4
     }
   ],
   "FirstSeen": "2024-06-27T22:58:19.1581208+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:18.6228773+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:15.5000789+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:27.6011448+00:00",
   "LastUpdate_AppInfo": "2024-09-11T14:57:23.8869199+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:35.1375557+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:15.5000857+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:07.3087691+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:27.6011539+00:00"
 }

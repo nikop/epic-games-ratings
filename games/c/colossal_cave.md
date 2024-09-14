@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We've only just begun | 93.00% | ~113 |
-| You're spelunkin' now! | 80.00% | ~98 |
-| I've Fallen & I Can't Get Up | 51.00% | ~62 |
-| The Birdman of The Caves | 48.00% | ~59 |
-| Charmin' the Snake | 33.00% | ~40 |
-| Drums in the Deep | 25.00% | ~30 |
-| Bridge Builder | 22.00% | ~27 |
-| Treasure Seeker | 19.00% | ~23 |
-| Green Thumb Goliath | 16.00% | ~20 |
+| We've only just begun | 91.00% | ~114 |
+| You're spelunkin' now! | 78.00% | ~98 |
+| I've Fallen & I Can't Get Up | 50.00% | ~62 |
+| The Birdman of The Caves | 47.00% | ~59 |
+| Charmin' the Snake | 33.00% | ~41 |
+| Drums in the Deep | 25.00% | ~31 |
+| Bridge Builder | 22.00% | ~28 |
+| Treasure Seeker | 19.00% | ~24 |
+| Green Thumb Goliath | 17.00% | ~21 |
 | Take the Scenic Route | 13.00% | ~16 |
 | St. George's Gauntlet | 13.00% | ~16 |
-| Redbeard's Revenger | 11.00% | ~13 |
-| Treasure Hunter | 11.00% | ~13 |
-| BJ & The Bear | 11.00% | ~13 |
+| Redbeard's Revenger | 11.00% | ~14 |
+| Treasure Hunter | 11.00% | ~14 |
+| BJ & The Bear | 10.00% | ~12 |
 | Can't bear the weight | 8.00% | ~10 |
 | Mr. Magic | 8.00% | ~10 |
-| Egg On His Face | 7.00% | ~9 |
-| Batteries not Included | 7.00% | ~9 |
-| Who dat? | 7.00% | ~9 |
-| Soft Hands | 7.00% | ~9 |
+| Soft Hands | 8.00% | ~10 |
+| Egg On His Face | 6.00% | ~8 |
+| Batteries not Included | 6.00% | ~8 |
+| Who dat? | 6.00% | ~8 |
 | What a Winner! | 5.00% | ~6 |
 | Colossal Cave Explorer | 4.00% | ~5 |
 | Master Cave Plunderer | 3.00% | ~4 |
 | Perfect 350 pt score | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 648)  
-Completed: 1 (0.82%) (Ranked 286)  
+Progressed: 125 (Ranked 670)  
+Completed: 1 (0.80%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 1 (0.82%) (Ranked 286)
 | 2024-04-10 | 113 | 1 |
 | 2024-06-17 | 118 | 1 |
 | 2024-08-09 | 122 | 1 |
+| 2024-09-14 | 125 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

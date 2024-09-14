@@ -2,10 +2,10 @@
   "ID": "acee61c9af204dd1b2d193a1d5427567",
   "Name": "Political Punchers 2024 Arena",
   "ProductSlug": "political-punchers-2024-arena-a1cf4d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-18T04:00:00+00:00",
     "PcReleaseDate": "2024-04-09T04:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-28T01:52:53.9343088+00:00",
   "LastUpdate_AppInfo": "2024-09-13T04:57:10.6751353+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:27.5212055+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:44.6250968+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:50.4141253+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:46.1188983+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fe51006afe8b459ca86ec36efc9bec9d",
   "Name": "Futimha Tactics",
   "ProductSlug": "futimha-tactics-922126",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T05:57:38.6198507+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:02.3346024+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:33.4541902+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:04.1435583+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:45.4246594+00:00"
 }

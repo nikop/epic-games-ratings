@@ -5,32 +5,32 @@ Rating: 4.33 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First Step | 87.00% | ~915 |
-| First Blood | 83.00% | ~873 |
-| Ready to Learn | 79.00% | ~831 |
-| Monster Hunter | 68.00% | ~715 |
-| Earning Trust | 65.00% | ~684 |
-| Monster Slayer | 37.00% | ~389 |
-| Awakening | 29.00% | ~305 |
-| Huntmaster | 29.00% | ~305 |
-| Complete the sidequest 'Malice and Greed' | 24.00% | ~252 |
-| House Vulisica's Heirloom | 19.00% | ~200 |
-| Digging Deep | 18.00% | ~189 |
-| Broken Oath | 11.00% | ~116 |
-| Way of the King | 10.00% | ~105 |
-| Til We Meet Again | 6.00% | ~63 |
-| Way of the Warlord | 5.00% | ~53 |
-| Arrow in the Wind | 4.00% | ~42 |
-| The Unvanquished | 3.00% | ~32 |
-| Let Us Cling Together | 3.00% | ~32 |
+| The First Step | 89.00% | ~921 |
+| First Blood | 85.00% | ~880 |
+| Ready to Learn | 82.00% | ~849 |
+| Monster Hunter | 69.00% | ~714 |
+| Earning Trust | 67.00% | ~693 |
+| Monster Slayer | 38.00% | ~393 |
+| Awakening | 30.00% | ~310 |
+| Huntmaster | 30.00% | ~310 |
+| Complete the sidequest 'Malice and Greed' | 24.00% | ~248 |
+| Digging Deep | 19.00% | ~197 |
+| House Vulisica's Heirloom | 19.00% | ~197 |
+| Broken Oath | 11.00% | ~114 |
+| Way of the King | 10.00% | ~104 |
+| Til We Meet Again | 6.00% | ~62 |
+| Way of the Warlord | 5.00% | ~52 |
+| Arrow in the Wind | 4.00% | ~41 |
+| The Unvanquished | 3.00% | ~31 |
+| Let Us Cling Together | 3.00% | ~31 |
 | First Bloom | 2.00% | ~21 |
 | A Promised Voyage | 2.00% | ~21 |
-| Life or Death | 1.00% | ~11 |
-| Someone to Protect | 1.00% | ~11 |
-| Lean on Me | 1.00% | ~11 |
+| Life or Death | 1.00% | ~10 |
+| Someone to Protect | 1.00% | ~10 |
+| Lean on Me | 1.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,052 (Ranked 406)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,035 (Ranked 420)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -192,6 +192,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 1,082 | 1 |
 | 2024-06-17 | 1,057 | 1 |
 | 2024-08-09 | 1,052 | 0 |
+| 2024-09-14 | 1,035 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

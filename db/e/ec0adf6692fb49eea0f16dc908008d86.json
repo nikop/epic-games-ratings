@@ -2,10 +2,10 @@
   "ID": "ec0adf6692fb49eea0f16dc908008d86",
   "Name": "Yars Rising",
   "ProductSlug": "yars-rising-e591ca",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1038,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-10T07:00:00+00:00",
     "PcReleaseDate": "2024-09-10T07:00:00+00:00",
@@ -23,26 +23,298 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:27:53.0756743+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:27:53.0756775+00:00",
+  "TotalAchievements": 33,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACHIEVEMENT_01",
+      "SetID": "bhji2c8",
+      "Name": "Hello, world!",
+      "Percentage": 83,
+      "XP": 10,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "ACHIEVEMENT_02",
+      "SetID": "bhji2c8",
+      "Name": "Nobody ever notices me...",
+      "Percentage": 67,
+      "XP": 10,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACHIEVEMENT_03",
+      "SetID": "bhji2c8",
+      "Name": "The power of the sun...",
+      "Percentage": 67,
+      "XP": 25,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACHIEVEMENT_04",
+      "SetID": "bhji2c8",
+      "Name": "It\u0027s a survival trait.",
+      "Percentage": 50,
+      "XP": 10,
+      "UsersEstimate": 3
+    },
+    {
+      "ID": "ACHIEVEMENT_05",
+      "SetID": "bhji2c8",
+      "Name": "Hungry for Power",
+      "Percentage": 67,
+      "XP": 25,
+      "UsersEstimate": 4
+    },
+    {
+      "ID": "ACHIEVEMENT_06",
+      "SetID": "bhji2c8",
+      "Name": "Defensive Protocol Completed",
+      "Percentage": 33,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACHIEVEMENT_07",
+      "SetID": "bhji2c8",
+      "Name": "Making Progress",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACHIEVEMENT_08",
+      "SetID": "bhji2c8",
+      "Name": "Best not to think about it.",
+      "Percentage": 33,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "ACHIEVEMENT_09",
+      "SetID": "bhji2c8",
+      "Name": "Evolving",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_10",
+      "SetID": "bhji2c8",
+      "Name": "No Humanity Left",
+      "Percentage": 17,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_11",
+      "SetID": "bhji2c8",
+      "Name": "Where The Heart Is",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_12",
+      "SetID": "bhji2c8",
+      "Name": "Tech Savvy",
+      "Percentage": 17,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_13",
+      "SetID": "bhji2c8",
+      "Name": "Drone Warfare",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_14",
+      "SetID": "bhji2c8",
+      "Name": "A weird bug fashion statement...",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_15",
+      "SetID": "bhji2c8",
+      "Name": "Best Bro",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_16",
+      "SetID": "bhji2c8",
+      "Name": "FRFR",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_17",
+      "SetID": "bhji2c8",
+      "Name": "IMPOSSIBLE!",
+      "Percentage": 17,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACHIEVEMENT_18",
+      "SetID": "bhji2c8",
+      "Name": "Who\u0027s naming these?",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_19",
+      "SetID": "bhji2c8",
+      "Name": "Don\u0027t End Up Like Icarus",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_20",
+      "SetID": "bhji2c8",
+      "Name": "Big Picture Goals",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_21",
+      "SetID": "bhji2c8",
+      "Name": "Another World",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_22",
+      "SetID": "bhji2c8",
+      "Name": "Creature from the Razak Lagoon",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_23",
+      "SetID": "bhji2c8",
+      "Name": "All Access",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_24",
+      "SetID": "bhji2c8",
+      "Name": "Emi the Human",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_25",
+      "SetID": "bhji2c8",
+      "Name": "Humanity\u0027s Last Stand",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_26",
+      "SetID": "bhji2c8",
+      "Name": "Overkill",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_27",
+      "SetID": "bhji2c8",
+      "Name": "Mess with the best...",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_28",
+      "SetID": "bhji2c8",
+      "Name": "Maximized Potential",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_29",
+      "SetID": "bhji2c8",
+      "Name": "HACK THE PLANET!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_30",
+      "SetID": "bhji2c8",
+      "Name": "HSWWSH",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_31",
+      "SetID": "bhji2c8",
+      "Name": "Yars\u0027 Revenge",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_32",
+      "SetID": "bhji2c8",
+      "Name": "Yars\u0027 Return",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACHIEVEMENT_33",
+      "SetID": "bhji2c8",
+      "Name": "Ghost of Yars",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bhji2c8",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:08:10.8627076+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:50.135435+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:53.0756738+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:33.1760949+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:06.4718421+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:50.1354385+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:27.7378996+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:53.0764279+00:00"
 }

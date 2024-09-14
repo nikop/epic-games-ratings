@@ -2,10 +2,10 @@
   "ID": "ef58f7e6ac8648a99de895f5e571d9e7",
   "Name": "Heroes of Latera",
   "ProductSlug": "heroes-of-latera-e89ef8",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,11 +29,110 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-09-14T14:21:18.5434584+00:00",
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1 Hour - Novice Napper",
+      "SetID": "6ln358i",
+      "Name": "Novice Napper",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10 Hours - Enchanter of Endurance",
+      "SetID": "6ln358i",
+      "Name": "Enchanter of Endurance",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "15 Hours - Warlock of the Wee Hours",
+      "SetID": "6ln358i",
+      "Name": "Warlock of the Wee Hours",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2 Hours - Apprentice of Avoidance",
+      "SetID": "6ln358i",
+      "Name": "Apprentice of Avoidance",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "20 Hours - Bard of Binge",
+      "SetID": "6ln358i",
+      "Name": "Bard of Binge",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "25 Hours - Hero of Halfway",
+      "SetID": "6ln358i",
+      "Name": "Hero of Halfway",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5 Hours - Mage of the Mundane",
+      "SetID": "6ln358i",
+      "Name": "Mage of the Mundane",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "50 Hours - Immortal of Immersion",
+      "SetID": "6ln358i",
+      "Name": "Immortal of Immersion",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ben10",
+      "SetID": "6ln358i",
+      "Name": "Ben 10",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Jump",
+      "SetID": "6ln358i",
+      "Name": "Jump Jump Jump Around",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Legendary",
+      "SetID": "6ln358i",
+      "Name": "Legend - wait for it - Dary!",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6ln358i",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:21:18.5434583+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:18.5434563+00:00",
   "LastUpdate_AppInfo": "2024-09-10T08:58:16.1349103+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:14.8638341+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:07.6781032+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:18.9936336+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:18.5443524+00:00"
 }

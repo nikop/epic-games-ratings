@@ -2,10 +2,10 @@
   "ID": "4796e309f0d749cc901f80167fb6bd94",
   "Name": "WorldShadow",
   "ProductSlug": "helix-94d531",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-08T00:00:00+00:00",
     "PcReleaseDate": "2024-09-08T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-07T22:57:16.6226183+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:02.9856989+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:17.1455041+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:39.0166265+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:28.5653025+00:00"
 }

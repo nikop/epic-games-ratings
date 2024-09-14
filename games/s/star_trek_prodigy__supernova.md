@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 53.00% | ~18 |
-| Three Watchers, Two Phasers | 29.00% | ~10 |
-| Guess who's back | 29.00% | ~10 |
-| One for the Crew | 26.00% | ~9 |
-| The Clock is Ticking | 26.00% | ~9 |
-| A Helping Hand | 26.00% | ~9 |
-| I've Got You | 21.00% | ~7 |
-| Punny Lover | 15.00% | ~5 |
-| Up your Arsenal | 12.00% | ~4 |
-| Back online | 12.00% | ~4 |
-| Rok and Roll | 9.00% | ~3 |
-| First Contact? | 9.00% | ~3 |
-| Not Too Long | 9.00% | ~3 |
-| Getting Better | 9.00% | ~3 |
-| One Man Army | 6.00% | ~2 |
-| Naroan History | 6.00% | ~2 |
-| Playing with Time | 6.00% | ~2 |
-| Escape from Mirios | 6.00% | ~2 |
-| Coming in from the Cold | 6.00% | ~2 |
-| Searching for Al'Shams | 6.00% | ~2 |
-| Stopping the Supernova | 6.00% | ~2 |
-| Saved the System | 6.00% | ~2 |
-| The Crew is Back! | 6.00% | ~2 |
-| Welcome back | 6.00% | ~2 |
-| Teamwork makes the dream work | 6.00% | ~2 |
-| Priceless Collection | 3.00% | ~1 |
-| Quest for Loot | 3.00% | ~1 |
-| Proto Menagerie | 3.00% | ~1 |
-| Seeking Discovery | 3.00% | ~1 |
-| Open Sesame | 3.00% | ~1 |
-| Trekkie | 3.00% | ~1 |
+| Restoring the Protostar | 48.00% | ~24 |
+| Guess who's back | 28.00% | ~14 |
+| The Clock is Ticking | 26.00% | ~13 |
+| Three Watchers, Two Phasers | 26.00% | ~13 |
+| One for the Crew | 24.00% | ~12 |
+| A Helping Hand | 24.00% | ~12 |
+| I've Got You | 20.00% | ~10 |
+| Punny Lover | 10.00% | ~5 |
+| Back online | 10.00% | ~5 |
+| Up your Arsenal | 8.00% | ~4 |
+| Rok and Roll | 6.00% | ~3 |
+| First Contact? | 6.00% | ~3 |
+| Not Too Long | 6.00% | ~3 |
+| Getting Better | 6.00% | ~3 |
+| One Man Army | 4.00% | ~2 |
+| Naroan History | 4.00% | ~2 |
+| Playing with Time | 4.00% | ~2 |
+| Escape from Mirios | 4.00% | ~2 |
+| Coming in from the Cold | 4.00% | ~2 |
+| Searching for Al'Shams | 4.00% | ~2 |
+| Stopping the Supernova | 4.00% | ~2 |
+| Saved the System | 4.00% | ~2 |
+| The Crew is Back! | 4.00% | ~2 |
+| Welcome back | 4.00% | ~2 |
+| Teamwork makes the dream work | 4.00% | ~2 |
+| Priceless Collection | 2.00% | ~1 |
+| Quest for Loot | 2.00% | ~1 |
+| Proto Menagerie | 2.00% | ~1 |
+| Seeking Discovery | 2.00% | ~1 |
+| Open Sesame | 2.00% | ~1 |
+| Trekkie | 2.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |
@@ -46,8 +46,8 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 816)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 50 (Ranked 805)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -69,6 +69,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 28 | 0 |
 | 2024-08-09 | 33 | 0 |
 | 2024-08-20 | 34 | 0 |
+| 2024-09-14 | 50 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

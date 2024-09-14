@@ -5,56 +5,56 @@ Rating: 4.15 (Ranked 1,161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 44.00% | ~13,150 |
-| Flesh Wound | 43.00% | ~12,851 |
-| Desperate Times | 42.00% | ~12,553 |
-| Paper Jams | 37.00% | ~11,058 |
-| Get a Grip | 35.00% | ~10,460 |
-| Chew 'Em Up | 35.00% | ~10,460 |
-| Reforged | 32.00% | ~9,564 |
-| Float Like A Butterfly | 29.00% | ~8,667 |
-| If the SHU Fits... | 29.00% | ~8,667 |
-| Workplace Hazard | 28.00% | ~8,368 |
-| Without A Paddle | 25.00% | ~7,472 |
-| In the Pipe, Five by Five | 22.00% | ~6,575 |
-| Crash Site | 22.00% | ~6,575 |
-| Power Up | 21.00% | ~6,276 |
-| Two Heads Are Better Than One | 20.00% | ~5,977 |
-| Giving Back | 18.00% | ~5,380 |
-| Terminated | 18.00% | ~5,380 |
-| What Lies Beneath | 18.00% | ~5,380 |
-| Full Circle | 18.00% | ~5,380 |
-| You Need a Gun | 14.00% | ~4,184 |
-| I Do Belong Here | 13.00% | ~3,885 |
-| Keep Fighting | 10.00% | ~1,781 |
-| The Commonality | 9.00% | ~2,690 |
-| In Striking Distance | 8.00% | ~2,391 |
-| It's Time | 7.00% | ~1,247 |
-| One Last Job | 4.00% | ~713 |
-| Armed to the Teeth | 2.00% | ~356 |
-| Mugshot | 2.00% | ~598 |
-| Instigator | 2.00% | ~356 |
-| Big Spender | 2.00% | ~356 |
-| This Isn't About Escape | 2.00% | ~356 |
-| Grim Reaper | 1.00% | ~299 |
-| Parole Denied | 1.00% | ~178 |
-| Information Overload | 1.00% | ~178 |
-| Quick Pick | 1.00% | ~178 |
-| Subject Alpha | 0.80% | ~143 |
-| The Protocol is About Life | 0.60% | ~179 |
-| Recidivist | 0.50% | ~89 |
-| Hoard Mode | 0.50% | ~89 |
-| Don't Let It Mellow | 0.50% | ~89 |
-| Bear Trap | 0.30% | ~53 |
-| It's over, Jacob! | 0.10% | ~30 |
-| Glutton for Punishment | 0.10% | ~18 |
-| You Belong Here | 0.10% | ~18 |
-| Lifer | 0.10% | ~18 |
-| Big Game Hunter | 0.10% | ~18 |
+| The Outer Way | 77.00% | ~463,316 |
+| Desperate Times | 71.00% | ~427,213 |
+| Flesh Wound | 68.00% | ~409,162 |
+| Paper Jams | 45.00% | ~270,769 |
+| Chew 'Em Up | 44.00% | ~264,752 |
+| Reforged | 37.00% | ~222,632 |
+| Get a Grip | 35.00% | ~210,598 |
+| Float Like A Butterfly | 34.00% | ~204,581 |
+| If the SHU Fits... | 32.00% | ~192,547 |
+| Workplace Hazard | 28.00% | ~168,479 |
+| Without A Paddle | 23.00% | ~138,393 |
+| Terminated | 17.00% | ~102,291 |
+| Crash Site | 17.00% | ~102,291 |
+| In the Pipe, Five by Five | 16.00% | ~96,273 |
+| Power Up | 14.00% | ~84,239 |
+| Two Heads Are Better Than One | 13.00% | ~78,222 |
+| Giving Back | 12.00% | ~72,205 |
+| You Need a Gun | 10.00% | ~60,171 |
+| What Lies Beneath | 10.00% | ~60,171 |
+| Full Circle | 10.00% | ~60,171 |
+| In Striking Distance | 7.00% | ~42,120 |
+| I Do Belong Here | 5.00% | ~30,085 |
+| The Commonality | 4.00% | ~24,068 |
+| Mugshot | 2.00% | ~12,034 |
+| Armed to the Teeth | 1.00% | ~5,896 |
+| Keep Fighting | 0.90% | ~5,307 |
+| It's Time | 0.60% | ~3,538 |
+| One Last Job | 0.30% | ~1,769 |
+| Grim Reaper | 0.20% | ~1,203 |
+| The Protocol is About Life | 0.20% | ~1,203 |
+| Recidivist | 0.20% | ~1,179 |
+| Parole Denied | 0.20% | ~1,179 |
+| Instigator | 0.20% | ~1,179 |
+| Big Spender | 0.20% | ~1,179 |
+| This Isn't About Escape | 0.20% | ~1,179 |
+| It's over, Jacob! | 0.10% | ~602 |
+| Glutton for Punishment | 0.10% | ~590 |
+| You Belong Here | 0.10% | ~590 |
+| Lifer | 0.10% | ~590 |
+| Big Game Hunter | 0.10% | ~590 |
+| Bear Trap | 0.10% | ~590 |
+| Hoard Mode | 0.10% | ~590 |
+| Subject Alpha | 0.10% | ~590 |
+| Don't Let It Mellow | 0.10% | ~590 |
+| Information Overload | 0.10% | ~590 |
+| Quick Pick | 0.10% | ~590 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,887 (Ranked 190)  
-Completed: 88 (0.29%) (Ranked 374)  
+Progressed: 601,709 (Ranked 44)  
+Completed: 89 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,6 +334,7 @@ Completed: 88 (0.29%) (Ranked 374)
 | 2024-06-17 | 27,304 | 86 |
 | 2024-08-09 | 29,783 | 88 |
 | 2024-08-20 | 29,887 | 88 |
+| 2024-09-14 | 601,709 | 89 |
 ## Awards
 Max (Quickly Understood Controls): 628  (Ranked 249)  
 Sum: 3,400 (Ranked 211)  

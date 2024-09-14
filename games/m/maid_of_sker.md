@@ -5,39 +5,39 @@ Rating: 4.15 (Ranked 1,161)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Choking Hazard | 27.00% | ~51,710 |
-| Animal Lover | 16.00% | ~30,643 |
-| Don't Breathe | 14.00% | ~26,813 |
-| Wales Interactive | 7.00% | ~13,406 |
-| Smooth Operator | 6.00% | ~11,491 |
-| Easy Listening | 5.00% | ~9,576 |
-| Perfect Harmony! | 5.00% | ~9,576 |
-| Rapturous Applause! | 5.00% | ~9,576 |
-| Bull in a China Shop | 4.00% | ~7,661 |
-| Chief Butler | 4.00% | ~7,661 |
-| Sker Explorer | 1.00% | ~1,915 |
-| The Long Night | 0.70% | ~1,341 |
-| Ending on a High Note | 0.40% | ~766 |
-| Phonic Boom | 0.30% | ~575 |
-| Axe of Kindness | 0.20% | ~383 |
-| Maids of Sker | 0.20% | ~383 |
-| Axeman | 0.10% | ~192 |
-| Dodgy Geezer | 0.10% | ~192 |
-| Hard Times | 0.10% | ~192 |
-| Head of the Hotel | 0.10% | ~192 |
-| Hell at the Hotel | 0.10% | ~192 |
-| In Complete Darkness | 0.10% | ~192 |
-| In Darkness | 0.10% | ~192 |
-| Life Saver | 0.10% | ~192 |
-| Luddite | 0.10% | ~192 |
-| Make Love, Not War | 0.10% | ~192 |
-| Nightmare at the Hotel | 0.10% | ~192 |
-| Nuisance Caller | 0.10% | ~192 |
-| Scholar | 0.10% | ~192 |
-| The Longest Night | 0.10% | ~192 |
+| Choking Hazard | 28.00% | ~59,406 |
+| Animal Lover | 16.00% | ~33,946 |
+| Don't Breathe | 15.00% | ~31,825 |
+| Wales Interactive | 7.00% | ~14,852 |
+| Smooth Operator | 6.00% | ~12,730 |
+| Easy Listening | 5.00% | ~10,608 |
+| Perfect Harmony! | 5.00% | ~10,608 |
+| Rapturous Applause! | 5.00% | ~10,608 |
+| Bull in a China Shop | 4.00% | ~8,487 |
+| Chief Butler | 4.00% | ~8,487 |
+| Sker Explorer | 1.00% | ~2,122 |
+| The Long Night | 0.70% | ~1,485 |
+| Ending on a High Note | 0.40% | ~849 |
+| Phonic Boom | 0.30% | ~636 |
+| Axe of Kindness | 0.20% | ~424 |
+| Hard Times | 0.20% | ~424 |
+| In Darkness | 0.20% | ~424 |
+| Maids of Sker | 0.20% | ~424 |
+| Axeman | 0.10% | ~212 |
+| Dodgy Geezer | 0.10% | ~212 |
+| Head of the Hotel | 0.10% | ~212 |
+| Hell at the Hotel | 0.10% | ~212 |
+| In Complete Darkness | 0.10% | ~212 |
+| Life Saver | 0.10% | ~212 |
+| Luddite | 0.10% | ~212 |
+| Make Love, Not War | 0.10% | ~212 |
+| Nightmare at the Hotel | 0.10% | ~212 |
+| Nuisance Caller | 0.10% | ~212 |
+| Scholar | 0.10% | ~212 |
+| The Longest Night | 0.10% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,518 (Ranked 96)  
-Completed: 19 (0.01%) (Ranked 532)  
+Progressed: 212,165 (Ranked 98)  
+Completed: 23 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -159,6 +159,7 @@ Completed: 19 (0.01%) (Ranked 532)
 | 2024-07-30 | 157,589 | 7 |
 | 2024-08-09 | 177,921 | 14 |
 | 2024-08-20 | 191,518 | 19 |
+| 2024-09-14 | 212,165 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

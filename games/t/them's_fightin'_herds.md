@@ -1,41 +1,41 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.60 (Ranked 472)  
+Rating: 4.60 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~86,720 |
-| ... in the magical land of Foenum... | 34.00% | ~81,902 |
-| Be Gentle... | 21.00% | ~50,587 |
-| A Worthy Opponent | 17.00% | ~40,951 |
-| Makin' Bacon | 4.00% | ~9,636 |
-| Tenderhoof | 3.00% | ~7,227 |
-| Champ'een of The Praire | 1.00% | ~2,409 |
-| Come At Me! | 1.00% | ~2,409 |
-| Kickin' 'n Stompin' | 0.20% | ~482 |
-| Sin'er Man | 0.20% | ~482 |
-| Well-Done | 0.10% | ~241 |
-| Valedictorian | 0.10% | ~241 |
-| Love is a Battlefield | 0.10% | ~241 |
-| That'll Do | 0.10% | ~241 |
-| Swashbuckle'd | 0.10% | ~241 |
-| School of Hard Knocks | 0.10% | ~241 |
-| Way of the Dragon | 0.10% | ~241 |
-| Iced Out | 0.10% | ~241 |
-| Dark Magic | 0.10% | ~241 |
-| I Love You This Much | 0.10% | ~241 |
-| Who Let The Dogs Out? | 0.10% | ~241 |
-| The GOAT | 0.10% | ~241 |
-| The Key To Victory | 0.10% | ~241 |
-| Honor For All | 0.10% | ~241 |
-| Ice Queen | 0.10% | ~241 |
-| Doohickeys | 0.10% | ~241 |
-| Alpaca Space Program | 0.10% | ~241 |
-| High Priestess | 0.10% | ~241 |
+| Once upon a time... | 36.00% | ~86,952 |
+| ... in the magical land of Foenum... | 34.00% | ~82,121 |
+| Be Gentle... | 21.00% | ~50,722 |
+| A Worthy Opponent | 17.00% | ~41,060 |
+| Makin' Bacon | 4.00% | ~9,661 |
+| Tenderhoof | 3.00% | ~7,246 |
+| Champ'een of The Praire | 1.00% | ~2,415 |
+| Come At Me! | 1.00% | ~2,415 |
+| Kickin' 'n Stompin' | 0.20% | ~483 |
+| Sin'er Man | 0.20% | ~483 |
+| Well-Done | 0.10% | ~242 |
+| Valedictorian | 0.10% | ~242 |
+| Love is a Battlefield | 0.10% | ~242 |
+| That'll Do | 0.10% | ~242 |
+| Swashbuckle'd | 0.10% | ~242 |
+| School of Hard Knocks | 0.10% | ~242 |
+| Way of the Dragon | 0.10% | ~242 |
+| Iced Out | 0.10% | ~242 |
+| Dark Magic | 0.10% | ~242 |
+| I Love You This Much | 0.10% | ~242 |
+| Who Let The Dogs Out? | 0.10% | ~242 |
+| The GOAT | 0.10% | ~242 |
+| The Key To Victory | 0.10% | ~242 |
+| Honor For All | 0.10% | ~242 |
+| Ice Queen | 0.10% | ~242 |
+| Doohickeys | 0.10% | ~242 |
+| Alpaca Space Program | 0.10% | ~242 |
+| High Priestess | 0.10% | ~242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240,889 (Ranked 91)  
-Completed: 7 (0.00%) (Ranked 561)  
+Progressed: 241,532 (Ranked 94)  
+Completed: 7 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -321,6 +321,7 @@ Completed: 7 (0.00%) (Ranked 561)
 | 2024-04-10 | 238,258 | 7 |
 | 2024-06-17 | 239,919 | 7 |
 | 2024-08-09 | 240,889 | 7 |
+| 2024-09-14 | 241,532 | 7 |
 ## Awards
 Max (Great for Beginners): 33  (Ranked 622)  
 Sum: 129 (Ranked 555)  

@@ -2,10 +2,10 @@
   "ID": "b0beeaad664a41ddb029247838a5a930",
   "Name": "The Legend of Heroes: Trails through Daybreak",
   "ProductSlug": "the-legend-of-heroes-trails-through-daybreak-dac84d",
-  "Ranking_EOS_Progress": 807,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 829,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-05T17:00:00.733+00:00",
     "PcReleaseDate": "2023-03-02T00:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40,6 +40,11 @@
       "Time": "2024-08-20T20:10:04.5229637+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:23:35.3935724+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-09T18:05:59.873983+00:00",
@@ -50,7 +55,7 @@
       "ID": "TROPHY1_AAA_RANK",
       "SetID": "4an397",
       "Name": "AAA-rkride Solutions",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -66,25 +71,25 @@
       "ID": "TROPHY1_ADRIVER_CHANGE",
       "SetID": "4an397",
       "Name": "Arts Virtuoso",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "TROPHY1_ADRIVER_COUNT",
       "SetID": "4an397",
       "Name": "Master Driver",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TROPHY1_ADVANTAGE_ATTACK_COUNT",
       "SetID": "4an397",
       "Name": "Caught \u0027Em Off Shard",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "TROPHY1_ALIGNMENT_COMP",
@@ -98,41 +103,41 @@
       "ID": "TROPHY1_BOOK_NOTE_COMP",
       "SetID": "4an397",
       "Name": "Fervent Bibliophile",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TROPHY1_CHAIN_HIT_COUNT",
       "SetID": "4an397",
       "Name": "Chain Smoker",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TROPHY1_CHAOS_LV3",
       "SetID": "4an397",
       "Name": "Chaos Bringer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TROPHY1_CINEMA_COMP",
       "SetID": "4an397",
       "Name": "Unmatched Cinephile",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TROPHY1_CONNECT_MAX",
       "SetID": "4an397",
       "Name": "Unrivaled Connection",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TROPHY1_CONNECT_MAX_COMP",
@@ -146,79 +151,79 @@
       "ID": "TROPHY1_FBATTLE_KILL_COUNT",
       "SetID": "4an397",
       "Name": "Rookie Warrior",
-      "Percentage": 24,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "TROPHY1_GIFT_COUNT",
       "SetID": "4an397",
       "Name": "Vanta Claus",
-      "Percentage": 8,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "TROPHY1_GOURMET_LV_MAX",
       "SetID": "4an397",
       "Name": "Gourmaniac",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "TROPHY1_GRAY_LV3",
       "SetID": "4an397",
       "Name": "Morally Gray",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TROPHY1_HOLLOW_CHANGE_1ST",
       "SetID": "4an397",
       "Name": "Aftermarket Modder",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TROPHY1_HOLLOW_COMP",
       "SetID": "4an397",
       "Name": "Holostar",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TROPHY1_HOLLOW_LV_MAX",
       "SetID": "4an397",
       "Name": "HOLO 9000",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TROPHY1_KILL_COUNT_1",
       "SetID": "4an397",
       "Name": "Talented Spriggan",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TROPHY1_KILL_COUNT_2",
       "SetID": "4an397",
       "Name": "Legendary Champion",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TROPHY1_LAW_LV3",
       "SetID": "4an397",
       "Name": "Law-Abiding Spriggan",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -226,7 +231,7 @@
       "ID": "TROPHY1_MONS_NOTE_COMP",
       "SetID": "4an397",
       "Name": "Carving a New Trail",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -250,23 +255,23 @@
       "ID": "TROPHY1_QUEST_COMP",
       "SetID": "4an397",
       "Name": "Time For Sweets",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TROPHY1_SBOOST_COUNT",
       "SetID": "4an397",
       "Name": "The Fast and the S-Boosted",
-      "Percentage": 30,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "TROPHY1_SCENARIO_0",
       "SetID": "4an397",
       "Name": "Spriggan of the Slums",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -274,7 +279,7 @@
       "ID": "TROPHY1_SCENARIO_1",
       "SetID": "4an397",
       "Name": "The Young Flame Departs",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -362,79 +367,79 @@
       "ID": "TROPHY1_SCENARIO_BEGIN",
       "SetID": "4an397",
       "Name": "Let\u0027s Go, Spriggan!",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "TROPHY1_SCLM_COUNT",
       "SetID": "4an397",
       "Name": "SCLM Addict",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "TROPHY1_SCRAFT_COUNT",
       "SetID": "4an397",
       "Name": "S-Crutch",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "TROPHY1_SIMULATOR_CLEAR",
       "SetID": "4an397",
       "Name": "Virtually Victorious",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TROPHY1_SIMULATOR_COMP",
       "SetID": "4an397",
       "Name": "Virtual Vanguard",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "TROPHY1_SPA_COMP",
       "SetID": "4an397",
       "Name": "Solitary Spa Fanatic",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TROPHY1_STOCK_TIME_ADD_1ST",
       "SetID": "4an397",
       "Name": "Time Lord",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TROPHY1_STRONG_WEAPON_GET",
       "SetID": "4an397",
       "Name": "Unlimited Power",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TROPHY1_S_RANK",
       "SetID": "4an397",
       "Name": "Hotshot Spriggan",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "TROPHY1_TAC_BONUS_COUNT",
       "SetID": "4an397",
       "Name": "W-W-Wombo Combo",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -442,39 +447,39 @@
       "ID": "TROPHY1_TBOX_COUNT",
       "SetID": "4an397",
       "Name": "Chestiny",
-      "Percentage": 11,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TROPHY1_TOPIC_USE_COUNT",
       "SetID": "4an397",
       "Name": "Chatterbox",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "TROPHY1_TOTAL_DAMAGE",
       "SetID": "4an397",
       "Name": "Van the Stampede",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "4an397",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-06T10:58:09.3457457+00:00",
   "FirstSeenAchievements": "2024-06-17T16:18:09.1250961+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:04.5229632+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:35.3935718+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:12.4994834+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:30.1988766+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:04.5229992+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:03.7931756+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:35.3936093+00:00"
 }

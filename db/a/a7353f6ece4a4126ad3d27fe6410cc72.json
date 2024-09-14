@@ -2,10 +2,10 @@
   "ID": "a7353f6ece4a4126ad3d27fe6410cc72",
   "Name": "The Voidness - Lidar Horror Survival Game",
   "ProductSlug": "the-voidness-lidar-horror-survival-game-669e8c",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-09T10:00:00+00:00",
     "PcReleaseDate": "2023-10-30T11:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-09T16:57:54.8303692+00:00",
   "LastUpdate_AppInfo": "2024-09-09T17:57:01.7432977+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:35.8389356+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:06.4085436+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:38.7520002+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:21.4834355+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "72dda1cee6e040c1bbce452bd501e0a7",
   "Name": "Cajun",
   "ProductSlug": "diesel-brothers-truck-building-simulator-editor",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T13:13:50.3594009+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:46.7790911+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:04.5454291+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:58.4989691+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:01.9315056+00:00"
 }

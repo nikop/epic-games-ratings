@@ -5,10 +5,10 @@
   "Ranking_Rating": 376,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 396,
-  "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Completed": 429,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -111,9 +111,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1167,
+  "EOS_Progressed": 1187,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -3106,6 +3106,11 @@
       "Time": "2024-08-20T20:07:46.0271711+00:00",
       "NumProgressed": 1167,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:21:04.3663448+00:00",
+      "NumProgressed": 1187,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 32,
@@ -3141,7 +3146,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "DevilDetail",
@@ -3149,7 +3154,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 166
     },
     {
       "ID": "Devoted",
@@ -3157,7 +3162,7 @@
       "Name": "Loremaster",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Extremist",
@@ -3165,7 +3170,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "EyeSpy",
@@ -3189,7 +3194,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Goal",
@@ -3197,7 +3202,7 @@
       "Name": "Goal!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "GoldRush",
@@ -3205,7 +3210,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GossipGirl",
@@ -3213,7 +3218,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -3221,7 +3226,7 @@
       "Name": "Gnowlledgeable",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "HexMaster",
@@ -3229,7 +3234,7 @@
       "Name": "Spirit animal",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LiarLiar",
@@ -3237,7 +3242,7 @@
       "Name": "Liar Liar",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LittleHelper",
@@ -3245,7 +3250,7 @@
       "Name": "A friend in need...",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "LostAndFound",
@@ -3253,7 +3258,7 @@
       "Name": "Both sides",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "MuhsroomTruth",
@@ -3261,7 +3266,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "NoMoreWards",
@@ -3293,7 +3298,7 @@
       "Name": "Slavic squatter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "Specialist",
@@ -3309,7 +3314,7 @@
       "Name": "Uprooting",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "TheGuardian",
@@ -3317,7 +3322,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ToadCharming",
@@ -3325,7 +3330,7 @@
       "Name": "Always worth a try",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ToothFairy",
@@ -3333,7 +3338,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 285
     },
     {
       "ID": "Toxic",
@@ -3341,7 +3346,7 @@
       "Name": "Toxic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Webbed",
@@ -3349,7 +3354,7 @@
       "Name": "Entangled",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "YagaHood",
@@ -3357,7 +3362,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "YagaProfessional",
@@ -3365,14 +3370,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 1167,
+      "Progressed": 1187,
       "Completed": 2
     }
   ],
@@ -3380,8 +3385,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2024-09-03T13:13:34.9711001+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:46.0271705+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:04.3663445+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:18.1098472+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:22.084775+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:46.0271985+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:57.7819765+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:04.3663766+00:00"
 }

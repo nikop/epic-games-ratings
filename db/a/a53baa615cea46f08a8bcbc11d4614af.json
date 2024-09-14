@@ -2,13 +2,13 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1075,
+  "Ranking_Rating": 1074,
   "Ranking_Popularity": 452,
   "Ranking_PopularitySum": 368,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-02T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -1637,6 +1637,6 @@
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
   "LastChanged": "2024-09-14T03:58:26.5796542+00:00",
   "LastUpdate_AppInfo": "2024-09-10T17:57:10.6700836+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:08.6234097+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:14.4523445+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:09.622789+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:26.8502216+00:00"
 }

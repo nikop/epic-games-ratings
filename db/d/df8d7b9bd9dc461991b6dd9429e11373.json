@@ -2,10 +2,10 @@
   "ID": "df8d7b9bd9dc461991b6dd9429e11373",
   "Name": "Singularity",
   "ProductSlug": "singularity-535087",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-08T20:57:03.1218117+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:10.8662932+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:00.5569142+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:55.0344177+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:14.5878839+00:00"
 }

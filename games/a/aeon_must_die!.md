@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cheap Tricks | 23.00% | ~862 |
-| The Purpose Of Betrayal | 20.00% | ~749 |
-| Rightfully Yours | 17.00% | ~637 |
-| Like Swatting Flies | 16.00% | ~599 |
-| Moment Of Perfection | 10.00% | ~375 |
-| Balance Incarnate | 10.00% | ~375 |
-| Even While Weakened | 9.00% | ~337 |
-| Purpose Lost | 7.00% | ~262 |
-| A Scarlet Mark | 7.00% | ~262 |
-| Hot Potato | 5.00% | ~187 |
+| Cheap Tricks | 23.00% | ~864 |
+| The Purpose Of Betrayal | 20.00% | ~752 |
+| Rightfully Yours | 17.00% | ~639 |
+| Like Swatting Flies | 16.00% | ~601 |
+| Moment Of Perfection | 10.00% | ~376 |
+| Balance Incarnate | 10.00% | ~376 |
+| Even While Weakened | 9.00% | ~338 |
+| Purpose Lost | 7.00% | ~263 |
+| A Scarlet Mark | 7.00% | ~263 |
+| Hot Potato | 5.00% | ~188 |
 | Emperor's Hubris | 4.00% | ~150 |
 | Nothing To Lose | 4.00% | ~150 |
-| Dreams Of Perfection | 3.00% | ~112 |
-| Untouchable Legend | 3.00% | ~112 |
+| Dreams Of Perfection | 3.00% | ~113 |
+| Untouchable Legend | 3.00% | ~113 |
 | Loyal Companion | 2.00% | ~75 |
 | Atta Boy! | 2.00% | ~75 |
 | Not Afraid Of The Dark | 2.00% | ~75 |
 | Emperor's Education | 2.00% | ~75 |
 | Slam The Brakes! | 2.00% | ~75 |
 | Ashes Of Belief | 2.00% | ~75 |
-| Buried Memories | 1.00% | ~37 |
+| Buried Memories | 1.00% | ~38 |
 | Anything For The Throne | 0.90% | ~34 |
 | One Track Mind | 0.90% | ~34 |
 | Iron Will | 0.50% | ~19 |
@@ -34,13 +34,13 @@
 | You're Trapped Here With Me | 0.30% | ~11 |
 | Out Of My Way | 0.30% | ~11 |
 | A Path Scarred by Choice | 0.30% | ~11 |
-| Rush Of Flames | 0.20% | ~7 |
-| Cold Blooded | 0.20% | ~7 |
+| Rush Of Flames | 0.20% | ~8 |
+| Cold Blooded | 0.20% | ~8 |
 | Don't Need Your Help | 0.10% | ~4 |
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,746 (Ranked 302)  
+Progressed: 3,758 (Ranked 314)  
 Completed: -28 (-0.75%) (Ranked 4,879)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: -28 (-0.75%) (Ranked 4,879)
 | 2024-07-30 | 3,737 | -28 |
 | 2024-08-09 | 3,742 | -28 |
 | 2024-08-20 | 3,746 | -28 |
+| 2024-09-14 | 3,758 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

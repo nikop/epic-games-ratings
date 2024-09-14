@@ -2,10 +2,10 @@
   "ID": "90167acd850a4e36aec17ea7c2ccc21f",
   "Name": "realm of magic",
   "ProductSlug": "realm-of-magic-e7a69c",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-30T21:00:00+00:00",
     "PcReleaseDate": "2024-08-30T21:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-09T08:00:59.8258695+00:00",
   "LastUpdate_AppInfo": "2024-09-13T11:57:10.5239039+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:22.9498835+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:40.4983317+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:08.1246178+00:00"
 }

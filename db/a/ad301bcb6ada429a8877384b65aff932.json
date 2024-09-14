@@ -2,10 +2,10 @@
   "ID": "ad301bcb6ada429a8877384b65aff932",
   "Name": "Bewitched Part 1",
   "ProductSlug": "bewitched-part-1-8e6964",
-  "Ranking_EOS_Progress": 1049,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1110,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-26T07:00:00+00:00",
     "PcReleaseDate": "2019-10-30T22:00:00+00:00",
@@ -193,8 +193,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:16.8215407+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:12.3909+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:25.5817878+00:00",
   "LastUpdate_AppInfo": "2024-09-14T09:57:06.3755047+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:36.9687364+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:12.3909093+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:25.6269377+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:25.5818003+00:00"
 }

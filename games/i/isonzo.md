@@ -6,54 +6,54 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 70.00% | ~6,084 |
-| Tutti Eroi! | 68.00% | ~5,911 |
-| Avanti Savoia! | 60.00% | ~5,215 |
-| Peak Performance | 58.00% | ~5,041 |
-| Mamma Mia! | 48.00% | ~4,172 |
-| Gabriele D'Annunzio | 45.00% | ~3,911 |
-| Conrad von Hotzensocks | 42.00% | ~3,651 |
-| Silver Lining | 38.00% | ~3,303 |
-| Shaken, Not Stirred | 32.00% | ~2,781 |
-| Aurelio Baruzzi | 29.00% | ~2,521 |
-| Decimation | 28.00% | ~2,434 |
-| Donatello | 28.00% | ~2,434 |
-| Insubordination | 26.00% | ~2,260 |
-| Ragazzi del '99 | 26.00% | ~2,260 |
-| The Italian Job | 26.00% | ~2,260 |
-| Veni Vidi Vici | 26.00% | ~2,260 |
-| Luigi Cadorna | 24.00% | ~2,086 |
-| The Lion of the Isonzo | 19.00% | ~1,651 |
-| Uomo Universale | 18.00% | ~1,565 |
-| Die Bosniaken Kommen! | 17.00% | ~1,478 |
-| Dirty Dozen | 16.00% | ~1,391 |
-| Machiavelli | 16.00% | ~1,391 |
-| Millenial | 14.00% | ~1,217 |
-| The Devil's Paintbrush | 14.00% | ~1,217 |
-| I Have the High Ground | 13.00% | ~1,130 |
-| Thus With A Kiss | 13.00% | ~1,130 |
-| Dante's Inferno | 11.00% | ~956 |
-| The Show Must Go On | 11.00% | ~956 |
-| Tosca | 11.00% | ~956 |
-| Cercatore d'Oro | 10.00% | ~869 |
-| 12th Bottle of the Isonzo | 9.00% | ~782 |
-| The Enlightment | 8.00% | ~695 |
-| Generalissimo | 5.00% | ~435 |
-| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~435 |
-| Farewell to Arms | 4.00% | ~348 |
-| Seeing Red | 4.00% | ~348 |
-| Ponte of No Return | 3.00% | ~261 |
-| Soča Drag | 3.00% | ~261 |
-| Saboteur | 3.00% | ~261 |
-| Malpractice | 2.00% | ~174 |
-| Compagnia della Morte | 1.00% | ~87 |
-| Drop and Give Me 20 | 1.00% | ~87 |
-| Rome Wasn't Built In A Day | 1.00% | ~87 |
-| "Sacro Egoismo" | 0.90% | ~78 |
+| You Shall Not Pass | 72.00% | ~6,373 |
+| Tutti Eroi! | 71.00% | ~6,285 |
+| Avanti Savoia! | 62.00% | ~5,488 |
+| Peak Performance | 59.00% | ~5,223 |
+| Mamma Mia! | 49.00% | ~4,337 |
+| Gabriele D'Annunzio | 45.00% | ~3,983 |
+| Conrad von Hotzensocks | 43.00% | ~3,806 |
+| Silver Lining | 38.00% | ~3,364 |
+| Shaken, Not Stirred | 36.00% | ~3,187 |
+| Aurelio Baruzzi | 29.00% | ~2,567 |
+| Decimation | 29.00% | ~2,567 |
+| Donatello | 28.00% | ~2,479 |
+| Insubordination | 27.00% | ~2,390 |
+| The Italian Job | 27.00% | ~2,390 |
+| Ragazzi del '99 | 26.00% | ~2,302 |
+| Veni Vidi Vici | 26.00% | ~2,302 |
+| Luigi Cadorna | 24.00% | ~2,124 |
+| The Lion of the Isonzo | 18.00% | ~1,593 |
+| Uomo Universale | 18.00% | ~1,593 |
+| Die Bosniaken Kommen! | 17.00% | ~1,505 |
+| Dirty Dozen | 17.00% | ~1,505 |
+| Machiavelli | 16.00% | ~1,416 |
+| Millenial | 14.00% | ~1,239 |
+| The Devil's Paintbrush | 14.00% | ~1,239 |
+| I Have the High Ground | 13.00% | ~1,151 |
+| Thus With A Kiss | 13.00% | ~1,151 |
+| The Show Must Go On | 12.00% | ~1,062 |
+| Dante's Inferno | 11.00% | ~974 |
+| Tosca | 11.00% | ~974 |
+| Cercatore d'Oro | 10.00% | ~885 |
+| 12th Bottle of the Isonzo | 9.00% | ~797 |
+| The Enlightment | 8.00% | ~708 |
+| Generalissimo | 5.00% | ~443 |
+| "O La Vittoria, O Tutti Accoppati" | 5.00% | ~443 |
+| Farewell to Arms | 4.00% | ~354 |
+| Seeing Red | 4.00% | ~354 |
+| Ponte of No Return | 3.00% | ~266 |
+| Soča Drag | 3.00% | ~266 |
+| Saboteur | 3.00% | ~266 |
+| Malpractice | 2.00% | ~177 |
+| Compagnia della Morte | 1.00% | ~89 |
+| Drop and Give Me 20 | 1.00% | ~89 |
+| Rome Wasn't Built In A Day | 1.00% | ~89 |
+| "Sacro Egoismo" | 0.90% | ~80 |
 | Can I Go Home Now? | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,692 (Ranked 251)  
-Completed: 1 (0.01%) (Ranked 532)  
+Progressed: 8,852 (Ranked 260)  
+Completed: 1 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,9 +337,10 @@ Completed: 1 (0.01%) (Ranked 532)
 | 2024-06-17 | 8,841 | 1 |
 | 2024-08-09 | 8,747 | 1 |
 | 2024-08-20 | 8,692 | 1 |
+| 2024-09-14 | 8,852 | 1 |
 ## Awards
 Max (Diverse Characters): 65  (Ranked 521)  
-Sum: 538 (Ranked 404)  
+Sum: 539 (Ranked 404)  
 Diff (max vs sum): 117  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +354,7 @@ Diff (max vs sum): 117
 | This game is Educational | 43 |
 | This game has Competitive Players | 43 |
 | This game has Quickly Understood Controls | 40 |
-| This game has Amazing Storytelling | 33 |
+| This game has Amazing Storytelling | 34 |
 | This game has a Kind Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -591,4 +592,4 @@ Diff (max vs sum): 117
 | 2024-09-08 | 4.58 | - | 65 | 531 |
 | 2024-09-10 | 4.57 | - | 65 | 533 |
 | 2024-09-13 | 4.57 | - | 65 | 535 |
-| 2024-09-14 | 4.57 | - | 65 | 538 |
+| 2024-09-14 | 4.57 | - | 65 | 539 |

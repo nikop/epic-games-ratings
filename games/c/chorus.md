@@ -1,57 +1,57 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.44 (Ranked 816)  
+Rating: 4.44 (Ranked 814)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 84.00% | ~1,447 |
-| Space Traveler | 77.00% | ~1,327 |
-| Voices from the Past | 76.00% | ~1,309 |
-| Demigod | 73.00% | ~1,258 |
-| The Great Destroyer | 73.00% | ~1,258 |
-| Shields Down | 70.00% | ~1,206 |
-| Helping Hand | 64.00% | ~1,103 |
-| Safe Home | 64.00% | ~1,103 |
-| Paragon | 60.00% | ~1,034 |
-| Old Days Born Anew | 58.00% | ~999 |
-| Full Arsenal | 53.00% | ~913 |
-| Controlled Demolition | 52.00% | ~896 |
-| Huntress | 50.00% | ~862 |
-| Payback | 49.00% | ~844 |
-| Born to Drift | 48.00% | ~827 |
-| Relentless | 47.00% | ~810 |
-| The Path Forward | 42.00% | ~724 |
-| Disruption | 41.00% | ~706 |
-| Phoenix | 41.00% | ~706 |
-| Cult Slayer | 38.00% | ~655 |
-| Origin | 37.00% | ~638 |
-| It Was An Accident | 37.00% | ~638 |
-| Set in Motion | 35.00% | ~603 |
-| In the Eye of the Storm | 35.00% | ~603 |
-| The Crimson Void | 32.00% | ~551 |
-| The Nameless Dread | 32.00% | ~551 |
-| Time to Spear | 29.00% | ~500 |
-| Mastery of Weapons | 28.00% | ~482 |
-| Disciple | 28.00% | ~482 |
-| Two Birds | 25.00% | ~431 |
-| Uneasy Alliance | 24.00% | ~414 |
-| Ghosts | 24.00% | ~414 |
-| Mastery of Combat | 22.00% | ~379 |
-| Mastery of Rites | 21.00% | ~362 |
-| Retaliate | 21.00% | ~362 |
-| Power Chord | 20.00% | ~345 |
-| Ascension | 20.00% | ~345 |
-| Crash Test | 20.00% | ~345 |
-| Rise as One | 19.00% | ~327 |
-| Showoff | 14.00% | ~241 |
-| Overcharged | 10.00% | ~172 |
-| Radiation Area | 10.00% | ~172 |
-| At Least You Tried | 2.00% | ~34 |
+| Another Life | 84.00% | ~1,485 |
+| Space Traveler | 77.00% | ~1,361 |
+| Voices from the Past | 76.00% | ~1,344 |
+| Demigod | 73.00% | ~1,291 |
+| The Great Destroyer | 72.00% | ~1,273 |
+| Shields Down | 69.00% | ~1,220 |
+| Helping Hand | 64.00% | ~1,132 |
+| Safe Home | 64.00% | ~1,132 |
+| Paragon | 59.00% | ~1,043 |
+| Old Days Born Anew | 58.00% | ~1,025 |
+| Controlled Demolition | 52.00% | ~919 |
+| Full Arsenal | 52.00% | ~919 |
+| Payback | 49.00% | ~866 |
+| Huntress | 49.00% | ~866 |
+| Born to Drift | 48.00% | ~849 |
+| Relentless | 46.00% | ~813 |
+| The Path Forward | 42.00% | ~743 |
+| Disruption | 41.00% | ~725 |
+| Phoenix | 41.00% | ~725 |
+| Cult Slayer | 38.00% | ~672 |
+| Origin | 37.00% | ~654 |
+| It Was An Accident | 37.00% | ~654 |
+| Set in Motion | 35.00% | ~619 |
+| In the Eye of the Storm | 35.00% | ~619 |
+| The Crimson Void | 32.00% | ~566 |
+| The Nameless Dread | 31.00% | ~548 |
+| Time to Spear | 29.00% | ~513 |
+| Mastery of Weapons | 28.00% | ~495 |
+| Disciple | 28.00% | ~495 |
+| Uneasy Alliance | 24.00% | ~424 |
+| Ghosts | 24.00% | ~424 |
+| Two Birds | 24.00% | ~424 |
+| Mastery of Combat | 22.00% | ~389 |
+| Mastery of Rites | 21.00% | ~371 |
+| Retaliate | 21.00% | ~371 |
+| Power Chord | 20.00% | ~354 |
+| Crash Test | 20.00% | ~354 |
+| Rise as One | 19.00% | ~336 |
+| Ascension | 19.00% | ~336 |
+| Showoff | 14.00% | ~248 |
+| Overcharged | 10.00% | ~177 |
+| Radiation Area | 10.00% | ~177 |
+| At Least You Tried | 2.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,723 (Ranked 369)  
-Completed: 28 (1.63%) (Ranked 215)  
+Progressed: 1,768 (Ranked 383)  
+Completed: 28 (1.58%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -289,6 +289,7 @@ Completed: 28 (1.63%) (Ranked 215)
 | 2024-06-17 | 1,648 | 24 |
 | 2024-08-09 | 1,717 | 27 |
 | 2024-08-20 | 1,723 | 28 |
+| 2024-09-14 | 1,768 | 28 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 600)  
 Sum: 38 (Ranked 655)  

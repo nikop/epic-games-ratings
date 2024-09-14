@@ -2,10 +2,10 @@
   "ID": "c923cc91073d4405bd8d2f356066bfbd",
   "Name": "Burst Hero",
   "ProductSlug": "bursthero-dd5a56",
-  "Ranking_EOS_Progress": 718,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 744,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-29T00:00:00+00:00",
     "PcReleaseDate": "2023-05-14T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -309,6 +309,11 @@
       "Time": "2024-08-09T18:02:50.8269731+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:16:06.0761984+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T12:04:51.9829669+00:00",
@@ -319,7 +324,7 @@
       "ID": "ACED",
       "SetID": "1fek4an",
       "Name": "ACED!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 5,
       "UsersEstimate": 59
     },
@@ -329,7 +334,7 @@
       "Name": "New Challenger",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "CHALLENGER_CHAOS",
@@ -367,7 +372,7 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -591,7 +596,7 @@
       "ID": "LEVEL_COMPLETE_0_0",
       "SetID": "1fek4an",
       "Name": "Grass",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 58
     },
@@ -687,7 +692,7 @@
       "ID": "LEVEL_COMPLETE_2_0",
       "SetID": "1fek4an",
       "Name": "Castle",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -791,7 +796,7 @@
       "ID": "MAP_ZOMBIE",
       "SetID": "1fek4an",
       "Name": "Restless Nights",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -831,7 +836,7 @@
       "ID": "SHOP_LEVEL_UP_COMBO_2",
       "SetID": "1fek4an",
       "Name": "Level Skip",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -855,7 +860,7 @@
       "ID": "TEAMWORK",
       "SetID": "1fek4an",
       "Name": "Teamwork",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -872,14 +877,14 @@
     {
       "ID": "1fek4an",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:50.8269722+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:06.0761975+00:00",
   "LastUpdate_AppInfo": "2024-09-12T10:57:10.6480926+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:19.0480224+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:50.8270216+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:45.4362991+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:06.0762574+00:00"
 }

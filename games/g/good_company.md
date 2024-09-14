@@ -6,35 +6,35 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~3,128 |
-| Returning Home: Quick Learner | 26.00% | ~1,660 |
-| Level: Charlie's Circuits | 22.00% | ~1,404 |
-| Level: Rising Markets | 9.00% | ~574 |
-| Level: Extra Life | 7.00% | ~447 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~447 |
-| Peddler | 7.00% | ~447 |
-| Data Churn Type I | 7.00% | ~447 |
-| Millionaire | 6.00% | ~383 |
-| Data Churn Type II | 5.00% | ~319 |
-| Speedy | 5.00% | ~319 |
-| Extra Life: Wish Granted | 4.00% | ~255 |
-| High Five! | 4.00% | ~255 |
-| Modular Progress | 4.00% | ~255 |
-| Campaign: Lesson Learned | 3.00% | ~191 |
-| Level: Bet On Bots | 3.00% | ~191 |
-| Modular Performance | 3.00% | ~191 |
-| Salesperson | 3.00% | ~191 |
-| Level: Merry-Go-Around | 2.00% | ~128 |
-| Charlies's Circuits: Artist | 2.00% | ~128 |
-| Modular Peak | 2.00% | ~128 |
-| Accountant | 2.00% | ~128 |
-| Data Churn Type III | 2.00% | ~128 |
-| Multi-Millionaire | 2.00% | ~128 |
-| Contender | 2.00% | ~128 |
-| Trophy Collector | 2.00% | ~128 |
-| Module Maniac | 2.00% | ~128 |
-| Overproducer | 2.00% | ~128 |
-| Natural Talent | 2.00% | ~128 |
+| Level: Returning Home | 49.00% | ~3,152 |
+| Returning Home: Quick Learner | 27.00% | ~1,737 |
+| Level: Charlie's Circuits | 22.00% | ~1,415 |
+| Level: Rising Markets | 9.00% | ~579 |
+| Level: Extra Life | 7.00% | ~450 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~450 |
+| Peddler | 7.00% | ~450 |
+| Data Churn Type I | 7.00% | ~450 |
+| Millionaire | 6.00% | ~386 |
+| Data Churn Type II | 5.00% | ~322 |
+| Speedy | 5.00% | ~322 |
+| Extra Life: Wish Granted | 4.00% | ~257 |
+| High Five! | 4.00% | ~257 |
+| Modular Progress | 4.00% | ~257 |
+| Campaign: Lesson Learned | 3.00% | ~193 |
+| Level: Bet On Bots | 3.00% | ~193 |
+| Modular Performance | 3.00% | ~193 |
+| Salesperson | 3.00% | ~193 |
+| Level: Merry-Go-Around | 2.00% | ~129 |
+| Charlies's Circuits: Artist | 2.00% | ~129 |
+| Modular Peak | 2.00% | ~129 |
+| Accountant | 2.00% | ~129 |
+| Data Churn Type III | 2.00% | ~129 |
+| Multi-Millionaire | 2.00% | ~129 |
+| Contender | 2.00% | ~129 |
+| Trophy Collector | 2.00% | ~129 |
+| Module Maniac | 2.00% | ~129 |
+| Overproducer | 2.00% | ~129 |
+| Natural Talent | 2.00% | ~129 |
 | Level: A Happy Taskforce | 1.00% | ~64 |
 | Level: Topple The Top | 1.00% | ~64 |
 | Level: The Machinery | 1.00% | ~64 |
@@ -44,21 +44,21 @@ Number of Ratings: 75  (23.09.2022)
 | Entrepreneur | 1.00% | ~64 |
 | Data Churn Type IV | 1.00% | ~64 |
 | Keen Eye | 1.00% | ~64 |
-| Tycoon | 0.90% | ~57 |
+| Tycoon | 0.90% | ~58 |
 | Merry-Go-Around: Self-Made | 0.70% | ~45 |
 | Bet On Bots: Inspector's Favorite | 0.70% | ~45 |
 | Trendsetter | 0.70% | ~45 |
-| Level: Eye In The Sky | 0.60% | ~38 |
+| Level: Eye In The Sky | 0.60% | ~39 |
 | Campaign: Man vs. Machine | 0.50% | ~32 |
 | Level: Heating-Up | 0.50% | ~32 |
 | A Happy Taskforce: Interior Designer | 0.50% | ~32 |
 | CEO | 0.50% | ~32 |
 | Rockstar | 0.50% | ~32 |
 | The Machinery: Goal Orientated | 0.40% | ~26 |
+| Super Rich | 0.40% | ~26 |
 | Champion | 0.30% | ~19 |
 | Trophy Hoarder | 0.30% | ~19 |
 | The Machinery: Energy Saver | 0.30% | ~19 |
-| Super Rich | 0.30% | ~19 |
 | Fully Packed | 0.30% | ~19 |
 | Level: Mayor Trouble | 0.20% | ~13 |
 | Happy Hour | 0.20% | ~13 |
@@ -83,8 +83,8 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,383 (Ranked 271)  
-Completed: 1 (0.02%) (Ranked 514)  
+Progressed: 6,433 (Ranked 279)  
+Completed: 1 (0.02%) (Ranked 536)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -364,6 +364,7 @@ Completed: 1 (0.02%) (Ranked 514)
 | 2024-04-10 | 6,097 | 1 |
 | 2024-06-17 | 6,307 | 1 |
 | 2024-08-09 | 6,383 | 1 |
+| 2024-09-14 | 6,433 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

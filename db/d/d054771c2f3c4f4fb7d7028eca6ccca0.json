@@ -5,10 +5,10 @@
   "Ranking_Rating": 1149,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -53,7 +53,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8186,
+  "EOS_Progressed": 8522,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -6273,6 +6273,11 @@
       "Time": "2024-08-09T18:02:54.8034938+00:00",
       "NumProgressed": 8186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:16:10.6047179+00:00",
+      "NumProgressed": 8522,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -6285,55 +6290,55 @@
       "Name": "Rite of Passage",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "c167foo",
       "Name": "Done for Today",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "c167foo",
       "Name": "Wicked Zeroes",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "c167foo",
       "Name": "Highest Among the Highest",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHIEVEMENT_10",
       "SetID": "c167foo",
       "Name": "Gruesome Ball Handler",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_13",
       "SetID": "c167foo",
       "Name": "Monster Power",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_14",
       "SetID": "c167foo",
       "Name": "Power Overwhelming",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -6349,15 +6354,15 @@
       "Name": "Terrible Journey",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_17",
       "SetID": "c167foo",
       "Name": "Dark Prizes",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -6365,15 +6370,15 @@
       "Name": "Skull Collector",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_19",
       "SetID": "c167foo",
       "Name": "Grim Challenger",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -6381,15 +6386,15 @@
       "Name": "The Nine Nightmare",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_21",
       "SetID": "c167foo",
       "Name": "Worthy Badge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -6397,7 +6402,7 @@
       "Name": "High Level Mastery",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -6405,7 +6410,7 @@
       "Name": "Talented Know-how",
       "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -6421,7 +6426,7 @@
       "Name": "Challenged",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -6429,7 +6434,7 @@
       "Name": "Table Slasher",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -6437,7 +6442,7 @@
       "Name": "Tournament Spotter",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -6445,15 +6450,15 @@
       "Name": "Your Own Nightmare",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_30",
       "SetID": "c167foo",
       "Name": "Competitor",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -6461,15 +6466,15 @@
       "Name": "Little Victory",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_32",
       "SetID": "c167foo",
       "Name": "Personal Sanctuary",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6477,15 +6482,15 @@
       "Name": "Lair Expanded",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 491
+      "UsersEstimate": 682
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6493,7 +6498,7 @@
       "Name": "Half Way to Darkness",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -6501,7 +6506,7 @@
       "Name": "Path of Damnation",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -6509,7 +6514,7 @@
       "Name": "Relic Master",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -6517,7 +6522,7 @@
       "Name": "Profile Outfitted",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -6525,7 +6530,7 @@
       "Name": "Honored Badges",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -6541,7 +6546,7 @@
       "Name": "The Arrival of It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -6549,7 +6554,7 @@
       "Name": "Spawnkilling",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -6557,7 +6562,7 @@
       "Name": "We are all mad here",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -6565,7 +6570,7 @@
       "Name": "Executor",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -6573,7 +6578,7 @@
       "Name": "Strippers\u0027 favorite",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -6581,7 +6586,7 @@
       "Name": "Asskicker action",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_47",
@@ -6589,7 +6594,7 @@
       "Name": "Heads up!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -6597,7 +6602,7 @@
       "Name": "Most notorious slasher",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -6605,15 +6610,15 @@
       "Name": "I\u0027m your friend to the end",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_50",
       "SetID": "c167foo",
       "Name": "Skill Check Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_51",
@@ -6621,7 +6626,7 @@
       "Name": "Trap Season",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_52",
@@ -6645,7 +6650,7 @@
       "Name": "That Thing wanted to be us",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_55",
@@ -6653,7 +6658,7 @@
       "Name": "Hundred below",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_56",
@@ -6708,13 +6713,13 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 8186,
+      "Progressed": 8522,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 3964,
+      "Progressed": 4300,
       "Completed": 2085
     }
   ],
@@ -6722,8 +6727,8 @@
   "FirstSeenRating": "2024-07-21T14:56:57.846185+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
   "LastChanged": "2024-09-01T18:57:01.4508371+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:54.8034933+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:10.6047176+00:00",
   "LastUpdate_AppInfo": "2024-09-11T13:12:35.4158542+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:09.4217729+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:54.8035578+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:03.1094816+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:10.6047732+00:00"
 }

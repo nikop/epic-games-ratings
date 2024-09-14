@@ -2,10 +2,10 @@
   "ID": "1e3c0f172c0f4774aff92542818eaee2",
   "Name": "They Are Coming",
   "ProductSlug": "they-are-coming-a17087",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-20T16:00:00+00:00",
     "PcReleaseDate": "2022-05-20T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.4823804+00:00",
   "LastChanged": "2023-03-31T05:58:38.4823805+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:32.3797968+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:53.5626186+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:26.8688553+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:51.6675823+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:37.7750303+00:00"
 }

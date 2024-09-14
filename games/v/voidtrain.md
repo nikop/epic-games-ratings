@@ -6,64 +6,64 @@ Number of Ratings: 1,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mom, Dad! I can Fly! | 67.00% | ~11,622 |
-| Unlocked Display Name2 | 67.00% | ~11,622 |
-| Hey, I didn't mean to! | 59.00% | ~10,235 |
-| I enjoy melting things, is that a problem? | 53.00% | ~9,194 |
-| Spray and Pray | 50.00% | ~8,674 |
-| Work up a sweat | 50.00% | ~8,674 |
-| Big Cleanup | 48.00% | ~8,327 |
-| We need more platforms | 44.00% | ~7,633 |
-| Now we're talking | 43.00% | ~7,459 |
-| The more space, the merrier! | 43.00% | ~7,459 |
-| Don't stop me now | 40.00% | ~6,939 |
-| (◕‿◕) | 36.00% | ~6,245 |
-| Winch-slinging time! | 28.00% | ~4,857 |
-| Aquarius | 25.00% | ~4,337 |
-| Is this edible!? | 25.00% | ~4,337 |
-| Bruce, this is wrong game! | 24.00% | ~4,163 |
-| Hah! Is this supposed to be a puzzle? | 24.00% | ~4,163 |
-| Is this for me? | 23.00% | ~3,990 |
-| Explosive! | 22.00% | ~3,816 |
-| Did you wash your hands? | 22.00% | ~3,816 |
-| It ain't much, but it's honest work | 21.00% | ~3,643 |
-| Hauler | 20.00% | ~3,469 |
-| The game was rigged from the start | 20.00% | ~3,469 |
-| Get Over Here! | 19.00% | ~3,296 |
-| Voidcup | 18.00% | ~3,122 |
-| Headache | 16.00% | ~2,776 |
-| Train Flipper | 15.00% | ~2,602 |
-| Dream team | 14.00% | ~2,429 |
-| The Only Good Bug is a Dead Bug! | 12.00% | ~2,082 |
-| Stonks! | 11.00% | ~1,908 |
-| Squeaky Clean | 11.00% | ~1,908 |
-| Cleaned Out | 10.00% | ~1,735 |
-| BOOM! | 8.00% | ~1,388 |
-| A Kind of Magic | 8.00% | ~1,388 |
-| Bargain Hunter | 7.00% | ~1,214 |
-| Easy-peasy | 7.00% | ~1,214 |
-| Mad Engineer | 7.00% | ~1,214 |
-| Full Ahead! | 7.00% | ~1,214 |
-| On the brink | 6.00% | ~1,041 |
-| An engineer, truly an engineer! | 4.00% | ~694 |
-| Fury Road | 4.00% | ~694 |
-| Rofl-band | 4.00% | ~694 |
-| Altered Void | 3.00% | ~520 |
-| Hat Trick | 3.00% | ~520 |
-| Shock Therapy | 2.00% | ~347 |
-| Demoted! | 2.00% | ~347 |
-| One-Man Band | 2.00% | ~347 |
-| It seems like this is our stop | 2.00% | ~347 |
-| When this baby hits 88... | 1.00% | ~173 |
-| Our battle will be legendary! | 1.00% | ~173 |
-| What the hell are you? | 1.00% | ~173 |
-| Very Useful Engine | 0.80% | ~139 |
-| Death from above... no below... no wait... | 0.70% | ~121 |
-| Mpemba Effect | 0.40% | ~69 |
-| Ladies' man | 0.30% | ~52 |
+| Mom, Dad! I can Fly! | 69.00% | ~14,233 |
+| Unlocked Display Name2 | 68.00% | ~14,026 |
+| Hey, I didn't mean to! | 61.00% | ~12,582 |
+| I enjoy melting things, is that a problem? | 55.00% | ~11,345 |
+| Spray and Pray | 51.00% | ~10,520 |
+| Work up a sweat | 51.00% | ~10,520 |
+| Big Cleanup | 50.00% | ~10,314 |
+| We need more platforms | 45.00% | ~9,282 |
+| Now we're talking | 44.00% | ~9,076 |
+| The more space, the merrier! | 44.00% | ~9,076 |
+| Don't stop me now | 42.00% | ~8,663 |
+| (◕‿◕) | 36.00% | ~7,426 |
+| Winch-slinging time! | 28.00% | ~5,776 |
+| Is this edible!? | 26.00% | ~5,363 |
+| Aquarius | 25.00% | ~5,157 |
+| Bruce, this is wrong game! | 25.00% | ~5,157 |
+| Hah! Is this supposed to be a puzzle? | 25.00% | ~5,157 |
+| Is this for me? | 24.00% | ~4,950 |
+| Explosive! | 23.00% | ~4,744 |
+| Did you wash your hands? | 22.00% | ~4,538 |
+| Hauler | 21.00% | ~4,332 |
+| The game was rigged from the start | 21.00% | ~4,332 |
+| It ain't much, but it's honest work | 20.00% | ~4,125 |
+| Get Over Here! | 20.00% | ~4,125 |
+| Voidcup | 18.00% | ~3,713 |
+| Headache | 17.00% | ~3,507 |
+| Train Flipper | 15.00% | ~3,094 |
+| Dream team | 15.00% | ~3,094 |
+| The Only Good Bug is a Dead Bug! | 12.00% | ~2,475 |
+| Stonks! | 11.00% | ~2,269 |
+| Squeaky Clean | 11.00% | ~2,269 |
+| Cleaned Out | 11.00% | ~2,269 |
+| Mad Engineer | 8.00% | ~1,650 |
+| BOOM! | 8.00% | ~1,650 |
+| Full Ahead! | 8.00% | ~1,650 |
+| A Kind of Magic | 8.00% | ~1,650 |
+| Bargain Hunter | 7.00% | ~1,444 |
+| Easy-peasy | 7.00% | ~1,444 |
+| On the brink | 6.00% | ~1,238 |
+| An engineer, truly an engineer! | 4.00% | ~825 |
+| Fury Road | 4.00% | ~825 |
+| Rofl-band | 4.00% | ~825 |
+| Hat Trick | 4.00% | ~825 |
+| One-Man Band | 3.00% | ~619 |
+| It seems like this is our stop | 3.00% | ~619 |
+| Altered Void | 3.00% | ~619 |
+| Shock Therapy | 2.00% | ~413 |
+| Demoted! | 2.00% | ~413 |
+| When this baby hits 88... | 1.00% | ~206 |
+| Our battle will be legendary! | 1.00% | ~206 |
+| What the hell are you? | 1.00% | ~206 |
+| Very Useful Engine | 0.90% | ~186 |
+| Death from above... no below... no wait... | 0.70% | ~144 |
+| Mpemba Effect | 0.40% | ~83 |
+| Ladies' man | 0.30% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,347 (Ranked 225)  
-Completed: 3 (0.02%) (Ranked 514)  
+Progressed: 20,627 (Ranked 220)  
+Completed: 3 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 3 (0.02%) (Ranked 514)
 | 2024-07-09 | 11,016 | 3 |
 | 2024-08-09 | 15,801 | 3 |
 | 2024-08-20 | 17,347 | 3 |
+| 2024-09-14 | 20,627 | 3 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 539)  
 Sum: 351 (Ranked 453)  

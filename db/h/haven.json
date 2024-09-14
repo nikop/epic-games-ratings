@@ -5,10 +5,10 @@
   "Ranking_Rating": 202,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 333,
-  "Ranking_EOS_Completed": 307,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 347,
+  "Ranking_EOS_Completed": 334,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -213,11 +213,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2517,
+  "EOS_Progressed": 2564,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:19.3415137+00:00",
@@ -4038,6 +4038,11 @@
       "Time": "2024-08-09T18:02:45.7327937+00:00",
       "NumProgressed": 2517,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-09-14T14:15:59.4872712+00:00",
+      "NumProgressed": 2564,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -4049,7 +4054,7 @@
       "Name": "Lovebirds",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 982
+      "UsersEstimate": 1000
     },
     {
       "ID": "10",
@@ -4057,7 +4062,7 @@
       "Name": "Perfect timing",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "11",
@@ -4065,7 +4070,7 @@
       "Name": "Strike!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 359
     },
     {
       "ID": "12",
@@ -4073,7 +4078,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 403
+      "UsersEstimate": 410
     },
     {
       "ID": "13",
@@ -4081,7 +4086,7 @@
       "Name": "Unstoppable",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "14",
@@ -4089,7 +4094,7 @@
       "Name": "Thar she blows",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "15",
@@ -4097,7 +4102,7 @@
       "Name": "Back to rust",
       "Percentage": 9,
       "XP": 70,
-      "UsersEstimate": 227
+      "UsersEstimate": 231
     },
     {
       "ID": "16",
@@ -4105,7 +4110,7 @@
       "Name": "My little pony",
       "Percentage": 15,
       "XP": 70,
-      "UsersEstimate": 378
+      "UsersEstimate": 385
     },
     {
       "ID": "17",
@@ -4113,7 +4118,7 @@
       "Name": "Balding bloot!",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1718
     },
     {
       "ID": "18",
@@ -4121,7 +4126,7 @@
       "Name": "Like new!",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 277
+      "UsersEstimate": 282
     },
     {
       "ID": "19",
@@ -4129,7 +4134,7 @@
       "Name": "Second thoughts",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "2",
@@ -4137,7 +4142,7 @@
       "Name": "Flower Powered",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 231
     },
     {
       "ID": "20",
@@ -4145,7 +4150,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 10,
       "XP": 70,
-      "UsersEstimate": 252
+      "UsersEstimate": 256
     },
     {
       "ID": "21",
@@ -4153,7 +4158,7 @@
       "Name": "Mooning the moon",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "22",
@@ -4161,7 +4166,7 @@
       "Name": "Can\u0027t get wetter...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "23",
@@ -4169,7 +4174,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "24",
@@ -4177,7 +4182,7 @@
       "Name": "In my shoes",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 327
+      "UsersEstimate": 333
     },
     {
       "ID": "25",
@@ -4185,7 +4190,7 @@
       "Name": "Heartstrings",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 256
     },
     {
       "ID": "27",
@@ -4193,7 +4198,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "29",
@@ -4201,7 +4206,7 @@
       "Name": "A love supreme",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 352
+      "UsersEstimate": 359
     },
     {
       "ID": "3",
@@ -4209,7 +4214,7 @@
       "Name": "Hug therapy",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 831
+      "UsersEstimate": 846
     },
     {
       "ID": "30",
@@ -4217,7 +4222,7 @@
       "Name": "Self-sustainability",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 154
     },
     {
       "ID": "31",
@@ -4225,7 +4230,7 @@
       "Name": "\u00C0 la carte",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "32",
@@ -4233,7 +4238,7 @@
       "Name": "Spring cleaning",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "4",
@@ -4241,7 +4246,7 @@
       "Name": "Head in the clouds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 282
     },
     {
       "ID": "5",
@@ -4249,7 +4254,7 @@
       "Name": "An eye for an eye",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "6",
@@ -4257,7 +4262,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 856
+      "UsersEstimate": 872
     },
     {
       "ID": "7",
@@ -4265,7 +4270,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "8",
@@ -4273,30 +4278,30 @@
       "Name": "Over my dead body",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 780
+      "UsersEstimate": 795
     },
     {
       "ID": "9",
       "SetID": "n50no0",
       "Name": "Last minute",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2517,
+      "Progressed": 2564,
       "Completed": 16
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-07-20T14:58:36.4840485+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:45.7327932+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:59.4872705+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:18.3035396+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:11.940843+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:45.7328313+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:14.7844487+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:59.4873044+00:00"
 }

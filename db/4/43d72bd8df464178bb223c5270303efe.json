@@ -5,10 +5,10 @@
   "Ranking_Rating": 544,
   "Ranking_Popularity": 379,
   "Ranking_PopularitySum": 419,
-  "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 425,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 344,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-12T17:00:00+00:00",
     "PcReleaseDate": "2024-02-12T17:00:00+00:00",
@@ -1346,11 +1346,11 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 2522,
+  "EOS_Progressed": 2639,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:05:33.9545863+00:00",
@@ -1381,6 +1381,11 @@
       "Time": "2024-08-20T20:11:34.4455349+00:00",
       "NumProgressed": 2522,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:24:36.078831+00:00",
+      "NumProgressed": 2639,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-03-21T17:05:33.9545918+00:00",
@@ -1401,7 +1406,7 @@
       "Name": "Farewell my love",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 227
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_AUL_SAUL",
@@ -1409,7 +1414,7 @@
       "Name": "Old moss-head",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_BANISH",
@@ -1417,15 +1422,15 @@
       "Name": "Banishing Move",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_BEAST",
       "SetID": "628iiaa",
       "Name": "No more Beast",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 580
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_BLAST",
@@ -1433,7 +1438,7 @@
       "Name": "Outburst",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_CALENDRE",
@@ -1441,7 +1446,7 @@
       "Name": "Nazuku no more",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_COLLECTIBLE",
@@ -1449,15 +1454,15 @@
       "Name": "Bookworm",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_CURRENCY",
       "SetID": "628iiaa",
       "Name": "Round Figure",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 303
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_CURSED_CHEST",
@@ -1465,7 +1470,7 @@
       "Name": "Cursed Locksmith",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_DESTRUCTIBLES",
@@ -1473,15 +1478,15 @@
       "Name": "Demolition Man",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_DUNGEON",
       "SetID": "628iiaa",
       "Name": "Raider",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_ENTITY",
@@ -1489,15 +1494,15 @@
       "Name": "Injustice For All",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_FIRST_PACT",
       "SetID": "628iiaa",
       "Name": "A Promise made",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 739
     },
     {
       "ID": "ACH_FREEZE",
@@ -1505,7 +1510,7 @@
       "Name": "Until a cure is found",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 252
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_FULL_EQUIPMENT",
@@ -1513,7 +1518,7 @@
       "Name": "Catch \u0027Em All",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_FULL_ITEM_RANK7",
@@ -1521,15 +1526,15 @@
       "Name": "Bring it on!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_ITEM_RANK7",
       "SetID": "628iiaa",
       "Name": "A Perfect Tool",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_LEVEL_MAX",
@@ -1537,7 +1542,7 @@
       "Name": "Full Potency",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_LOCKED_CHEST",
@@ -1545,7 +1550,7 @@
       "Name": "Locksmith",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_MANOR",
@@ -1553,7 +1558,7 @@
       "Name": "Hidden Door",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_MAX_ESSENCES",
@@ -1561,7 +1566,7 @@
       "Name": "Cases Closed",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 252
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_MKC_HASKELL",
@@ -1569,23 +1574,23 @@
       "Name": "Judged Jury",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_MKC_PENNINGTON",
       "SetID": "628iiaa",
       "Name": "Burden of Command",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_MKC_THICKSKIN",
       "SetID": "628iiaa",
       "Name": "Rose\u0027s fate",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_NAMED_ENCOUNTER_VOID",
@@ -1593,7 +1598,7 @@
       "Name": "Second Death",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_NIGHTMARE",
@@ -1601,15 +1606,15 @@
       "Name": "The Curse is lifted",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_NOHIT",
       "SetID": "628iiaa",
       "Name": "Float like a Butterfly",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_NWD_PRIMER_BOOK",
@@ -1617,7 +1622,7 @@
       "Name": "Teacher\u0027s Pet",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_POST_PARRY_ATTACK",
@@ -1625,15 +1630,15 @@
       "Name": "Counterattack",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_PUPPETEER",
       "SetID": "628iiaa",
       "Name": "Broken Puppet",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_RESURRECTION",
@@ -1641,15 +1646,15 @@
       "Name": "Death is a journey",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_REUNION",
       "SetID": "628iiaa",
       "Name": "Reunion",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 706
+      "UsersEstimate": 792
     },
     {
       "ID": "ACH_RITUAL",
@@ -1657,7 +1662,7 @@
       "Name": "A Farmer\u0027s Life",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_SECOND_PACT",
@@ -1665,7 +1670,7 @@
       "Name": "Final Promise",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 554
     },
     {
       "ID": "ACH_SHELTER",
@@ -1673,7 +1678,7 @@
       "Name": "Gimme Shelter",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_SOUL_GRABBER",
@@ -1681,15 +1686,15 @@
       "Name": "The Good Hunter",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_TEAMWORK",
       "SetID": "628iiaa",
       "Name": "Teamwork",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_TREASURE_MAP",
@@ -1697,7 +1702,7 @@
       "Name": "Prospector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_ULTIMATE",
@@ -1705,23 +1710,23 @@
       "Name": "Soulmates",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_UPGRADE_ITEM",
       "SetID": "628iiaa",
       "Name": "Unlimited Power",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 765
     },
     {
       "ID": "ACH_VAMPYR_BOOK",
       "SetID": "628iiaa",
       "Name": "American Vampyr",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH_WEAKSPOT_RIFLE",
@@ -1729,14 +1734,14 @@
       "Name": "Right on Target",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 353
+      "UsersEstimate": 369
     }
   ],
   "AchievementSets": [
     {
       "ID": "628iiaa",
       "IsBase": true,
-      "Progressed": 2522,
+      "Progressed": 2639,
       "Completed": 3
     }
   ],
@@ -1744,8 +1749,8 @@
   "FirstSeenRating": "2024-02-15T23:59:07.6110237+00:00",
   "FirstSeenAchievements": "2023-11-15T16:03:15.009525+00:00",
   "LastChanged": "2024-09-14T13:10:24.4150024+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:34.4455344+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:36.0788305+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:38.8972077+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:24.4150031+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:34.4455625+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:06.4079919+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:36.0788548+00:00"
 }

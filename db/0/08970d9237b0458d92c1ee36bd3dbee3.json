@@ -2,10 +2,10 @@
   "ID": "08970d9237b0458d92c1ee36bd3dbee3",
   "Name": "Shelter: An Elephant Adventure",
   "ProductSlug": "shelter-an-elephant-adventure-0dd0a0",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -29,10 +29,78 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-09-14T14:15:06.6112383+00:00",
+  "TotalAchievements": 7,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BREAK_TREE",
+      "SetID": "2390bm2",
+      "Name": "Timber",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DRINK_PUDDLE",
+      "SetID": "2390bm2",
+      "Name": "Thirst Quencher",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ENDSCENE_UNLOCKED",
+      "SetID": "2390bm2",
+      "Name": "The Journey\u0027s End",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_LANDMARK",
+      "SetID": "2390bm2",
+      "Name": "In the Ancestor\u0027s Footsteps",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIRST_NURSING",
+      "SetID": "2390bm2",
+      "Name": "A Good Mother",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PICK_FLOWER",
+      "SetID": "2390bm2",
+      "Name": "Pretty Pick",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RUN_THROUGH_FLAMINGOS",
+      "SetID": "2390bm2",
+      "Name": "Flamboyant Flight",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "2390bm2",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:06.6112381+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:06.611233+00:00",
   "LastUpdate_AppInfo": "2024-09-09T18:57:19.1474116+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:59.6225653+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:46.2584164+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:06.6121007+00:00"
 }

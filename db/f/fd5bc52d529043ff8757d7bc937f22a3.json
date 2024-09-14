@@ -2,10 +2,10 @@
   "ID": "fd5bc52d529043ff8757d7bc937f22a3",
   "Name": "Maze OF Disorder",
   "ProductSlug": "maze-of-disorder-4f23a0",
-  "Ranking_EOS_Progress": 988,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1038,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-10T06:00:00+00:00",
     "PcReleaseDate": "2024-04-10T06:00:00+00:00",
@@ -93,8 +93,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-04-10T06:01:53.5215616+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:33.1408113+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:35.0795293+00:00",
   "LastUpdate_AppInfo": "2024-09-13T14:57:11.6417926+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:28.8181941+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:33.1408166+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:59.43211+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:35.0795373+00:00"
 }

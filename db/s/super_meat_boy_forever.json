@@ -5,10 +5,10 @@
   "Ranking_Rating": 637,
   "Ranking_Popularity": 407,
   "Ranking_PopularitySum": 545,
-  "Ranking_EOS_Progress": 44,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 47,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-12-23T05:00:00+00:00",
     "PcReleaseDate": "2020-12-23T05:00:00+00:00",
@@ -745,7 +745,7 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 583087,
+  "EOS_Progressed": 594653,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -770,6 +770,11 @@
       "Time": "2024-08-09T18:03:07.9204603+00:00",
       "NumProgressed": 583087,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:16:25.6287243+00:00",
+      "NumProgressed": 594653,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:54.1363487+00:00",
@@ -782,7 +787,7 @@
       "Name": "2014",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 29154
+      "UsersEstimate": 29733
     },
     {
       "ID": "ACH_AFRAIDNOMORE",
@@ -790,7 +795,7 @@
       "Name": "Afraid no more",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_ARACEAGAINSTTIME",
@@ -798,7 +803,7 @@
       "Name": "A race against Time",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_BRAINPUNCHER",
@@ -806,7 +811,7 @@
       "Name": "Brain Puncher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 46647
+      "UsersEstimate": 47572
     },
     {
       "ID": "ACH_BUFFEROVERRUN",
@@ -814,7 +819,7 @@
       "Name": "Buffer Overrun",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_DEVELOPMENTBOY",
@@ -822,7 +827,7 @@
       "Name": "Development Boy",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_DILATIONBOY",
@@ -830,7 +835,7 @@
       "Name": "Dilation Boy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_DOORPUNCHER",
@@ -838,15 +843,15 @@
       "Name": "Door Puncher",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 23323
+      "UsersEstimate": 23786
     },
     {
       "ID": "ACH_FETUSPUNCHER",
       "SetID": "jop92a",
       "Name": "Fetus Puncher",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11662
+      "UsersEstimate": 17840
     },
     {
       "ID": "ACH_FORTHEVEGANS",
@@ -854,7 +859,7 @@
       "Name": "For the vegans",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_GODPUNCHER",
@@ -862,7 +867,7 @@
       "Name": "God Puncher",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 5831
+      "UsersEstimate": 5947
     },
     {
       "ID": "ACH_GOLDENGOD",
@@ -870,7 +875,7 @@
       "Name": "Golden God!",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_GREENSCREENHERO",
@@ -878,7 +883,7 @@
       "Name": "Green Screen Hero",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2379
     },
     {
       "ID": "ACH_HEATDEATHGIRL",
@@ -886,7 +891,7 @@
       "Name": "Heat Death Girl",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_INSURANCEFRAUD",
@@ -894,7 +899,7 @@
       "Name": "Insurance Fraud",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_IREMEMBERYOU",
@@ -902,7 +907,7 @@
       "Name": "I remember you",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1784
     },
     {
       "ID": "ACH_LOCKJAWGIRL",
@@ -910,7 +915,7 @@
       "Name": "Lock Jaw Girl",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_LOOKSFAMILIAR",
@@ -918,7 +923,7 @@
       "Name": "Looks familiar",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17493
+      "UsersEstimate": 17840
     },
     {
       "ID": "ACH_MACHINEPUNCHER",
@@ -926,7 +931,7 @@
       "Name": "Machine Puncher",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 122448
+      "UsersEstimate": 124877
     },
     {
       "ID": "ACH_NOTAREALDOCTOR",
@@ -934,7 +939,7 @@
       "Name": "Not a real doctor",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_OAKBOY",
@@ -942,7 +947,7 @@
       "Name": "Oak Boy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_PAGEFAULT",
@@ -950,7 +955,7 @@
       "Name": "Page Fault",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_PINKBOMBER",
@@ -958,7 +963,7 @@
       "Name": "Pink Bomber",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1189
     },
     {
       "ID": "ACH_PSYCHOPHARMACOLOGYBOY",
@@ -966,15 +971,15 @@
       "Name": "Psychopharmacology Boy",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_PUNCHDRUNK",
       "SetID": "jop92a",
       "Name": "Punch Drunk",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 17493
+      "UsersEstimate": 23786
     },
     {
       "ID": "ACH_RELATIONSHIPGOALS",
@@ -982,7 +987,7 @@
       "Name": "Relationship Goals",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_RESEARCHGIRL",
@@ -990,7 +995,7 @@
       "Name": "Research Girl",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_SECONDTIMESACHARM",
@@ -998,7 +1003,7 @@
       "Name": "Second time\u0027s a charm",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_SHASCOMETO",
@@ -1006,7 +1011,7 @@
       "Name": "S has come to",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_SIMILARYETLEGALLYDISTINCT",
@@ -1014,7 +1019,7 @@
       "Name": "Similar yet legally distinct",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_STRAIGHTJACKETGIRL",
@@ -1022,7 +1027,7 @@
       "Name": "Straight Jacket Girl",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_TEAKGIRL",
@@ -1030,7 +1035,7 @@
       "Name": "Teak Girl",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_THEKEYTOITALL",
@@ -1038,7 +1043,7 @@
       "Name": "The key to it all",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 99125
+      "UsersEstimate": 101091
     },
     {
       "ID": "ACH_VACCINEBOY",
@@ -1046,7 +1051,7 @@
       "Name": "Vaccine Boy",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_WEHAVEANEWCHAMPION",
@@ -1054,7 +1059,7 @@
       "Name": "We have a new champion!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_WHATEVENISTHISGAME",
@@ -1062,14 +1067,14 @@
       "Name": "What even is this game?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 595
     }
   ],
   "AchievementSets": [
     {
       "ID": "jop92a",
       "IsBase": true,
-      "Progressed": 583087,
+      "Progressed": 594653,
       "Completed": 2
     }
   ],
@@ -1077,8 +1082,8 @@
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:54.1363487+00:00",
   "LastChanged": "2024-09-07T23:58:30.339967+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:07.9204598+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:25.6287236+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:22.1993761+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:05.3976348+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:07.9204856+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:26.1552356+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:25.6287482+00:00"
 }

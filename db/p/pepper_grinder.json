@@ -2,10 +2,10 @@
   "ID": "2f41f7b835bf4008821c8dd59e6111a0",
   "Name": "Pepper Grinder",
   "ProductSlug": "pepper-grinder-48f87f",
-  "Ranking_EOS_Progress": 826,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 863,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-28T16:00:01+00:00",
     "PcReleaseDate": "2024-03-28T16:00:00+00:00",
@@ -62,9 +62,9 @@
       "ID": "1-BossComplete",
       "SetID": "6mc99dm",
       "Name": "Beetle Flipper",
-      "Percentage": 66,
+      "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "100%Complete",
@@ -78,17 +78,17 @@
       "ID": "2-BossComplete",
       "SetID": "6mc99dm",
       "Name": "No Wormies",
-      "Percentage": 53,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "3-BossComplete",
       "SetID": "6mc99dm",
       "Name": "Pepper/Mint",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "4-BossComplete",
@@ -102,17 +102,17 @@
       "ID": "CarvePumpkin",
       "SetID": "6mc99dm",
       "Name": "Make A Friend",
-      "Percentage": 41,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "CollectSkulls",
       "SetID": "6mc99dm",
       "Name": "Skull Hunter",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "CollectSpecialStickers",
@@ -166,9 +166,9 @@
       "ID": "SoupFall",
       "SetID": "6mc99dm",
       "Name": "A Dash of Pepper",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "TimeAttackW1",
@@ -206,9 +206,9 @@
       "ID": "UnlockAll",
       "SetID": "6mc99dm",
       "Name": "Dedicated Explorer",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "UnlockBGs",
@@ -245,8 +245,8 @@
   ],
   "FirstSeen": "2024-03-29T13:58:17.3927569+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:51.1369007+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:06.6165096+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:24.1746024+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:03.2793815+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:22.4015604+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:06.6165241+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:02.8498441+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:24.1746176+00:00"
 }

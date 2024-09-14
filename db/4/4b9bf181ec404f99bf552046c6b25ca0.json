@@ -2,10 +2,10 @@
   "ID": "4b9bf181ec404f99bf552046c6b25ca0",
   "Name": "Epsylon",
   "ProductSlug": "epsylon-ef77a4",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T11:57:08.4328571+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:42.3481435+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:20.3375375+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:12.8563898+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:26.0731316+00:00"
 }

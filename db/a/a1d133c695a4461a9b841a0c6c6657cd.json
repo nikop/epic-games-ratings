@@ -2,10 +2,10 @@
   "ID": "a1d133c695a4461a9b841a0c6c6657cd",
   "Name": "The Inner World - The Last Wind Monk",
   "ProductSlug": "the-inner-world-the-last-windmonk-40da8a",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-15T15:00:00+00:00",
     "PcReleaseDate": "2017-10-20T10:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-24T13:58:43.4626149+00:00",
   "LastUpdate_AppInfo": "2024-09-12T18:57:13.7513227+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:11.8265965+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:49.5762984+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:07.2669044+00:00"
 }

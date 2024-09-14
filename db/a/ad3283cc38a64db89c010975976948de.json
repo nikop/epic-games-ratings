@@ -2,10 +2,10 @@
   "ID": "ad3283cc38a64db89c010975976948de",
   "Name": "Buddy and Friends in Halloween",
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
-  "Ranking_EOS_Progress": 656,
-  "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 677,
+  "Ranking_EOS_Completed": 123,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-18T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 119,
+  "EOS_Progressed": 122,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-09-27T22:06:15.8881954+00:00",
@@ -479,6 +479,11 @@
       "Time": "2024-08-09T18:02:55.4139944+00:00",
       "NumProgressed": 119,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-09-14T14:16:11.2925114+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-27T20:05:04.1724035+00:00",
@@ -497,33 +502,33 @@
       "ID": "LEVEL_060_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 60 pieces",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_060_002",
       "SetID": "5g7b0mb",
       "Name": "Doors - 60 pieces",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_060_003",
       "SetID": "5g7b0mb",
       "Name": "Sidewalk - 60 pieces",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_060_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 60 pieces",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_060_005",
@@ -531,7 +536,7 @@
       "Name": "Grass - 60 pieces",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_060_006",
@@ -539,7 +544,7 @@
       "Name": "Warmth - 60 pieces",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_135_001",
@@ -555,7 +560,7 @@
       "Name": "Doors - 135 pieces",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "LEVEL_135_003",
@@ -587,13 +592,13 @@
       "Name": "Warmth - 135 pieces",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_240_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 240 pieces",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -691,7 +696,7 @@
       "Name": "Mirror - 540 pieces",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_540_002",
@@ -707,7 +712,7 @@
       "Name": "Sidewalk - 540 pieces",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_540_004",
@@ -715,7 +720,7 @@
       "Name": "Alley - 540 pieces",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_540_005",
@@ -731,21 +736,21 @@
       "Name": "Warmth - 540 pieces",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "5g7b0mb",
       "IsBase": true,
-      "Progressed": 119,
+      "Progressed": 122,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:55.4139939+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:11.2925108+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:23.827717+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:32.3137169+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:55.4140165+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:05.1874842+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:11.2925299+00:00"
 }

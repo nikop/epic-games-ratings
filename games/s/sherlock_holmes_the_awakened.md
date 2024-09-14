@@ -1,41 +1,41 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.45 (Ranked 795)  
+Rating: 4.45 (Ranked 794)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 61.00% | ~1,587 |
-| To Hell In A Handcart | 61.00% | ~1,587 |
-| High Profile | 54.00% | ~1,405 |
-| Whispers In The Dark | 52.00% | ~1,353 |
-| Fond Memories | 51.00% | ~1,327 |
-| A Method To His Madness | 49.00% | ~1,275 |
-| History Check | 48.00% | ~1,249 |
-| The New World | 46.00% | ~1,197 |
-| Open Sesame | 46.00% | ~1,197 |
-| Sticky Fingers | 45.00% | ~1,171 |
-| Knives Out | 45.00% | ~1,171 |
-| Gaze Into The Abyss | 44.00% | ~1,145 |
-| Land, Ho! | 44.00% | ~1,145 |
-| Lock, Stock, And Barrel | 43.00% | ~1,119 |
-| Back In The Saddle | 43.00% | ~1,119 |
-| No Man Is An Island | 43.00% | ~1,119 |
-| At Wits' End | 43.00% | ~1,119 |
-| Up In Flames | 41.00% | ~1,067 |
-| Fhtagn! | 41.00% | ~1,067 |
-| Bookworm | 39.00% | ~1,015 |
-| Going Once... | 37.00% | ~963 |
-| Let Me Be Frank | 36.00% | ~937 |
-| No Stone Unturned | 34.00% | ~885 |
-| Brain Food | 33.00% | ~859 |
-| Read It And Weep | 22.00% | ~572 |
-| Curiosity Killed The Cat | 19.00% | ~494 |
-| Big Breakthrough | 12.00% | ~312 |
-| Reawakened | 3.00% | ~78 |
+| Read Between The Lines | 61.00% | ~1,667 |
+| To Hell In A Handcart | 61.00% | ~1,667 |
+| High Profile | 54.00% | ~1,475 |
+| Whispers In The Dark | 52.00% | ~1,421 |
+| Fond Memories | 50.00% | ~1,366 |
+| A Method To His Madness | 49.00% | ~1,339 |
+| History Check | 48.00% | ~1,311 |
+| The New World | 46.00% | ~1,257 |
+| Open Sesame | 45.00% | ~1,229 |
+| Sticky Fingers | 45.00% | ~1,229 |
+| Gaze Into The Abyss | 44.00% | ~1,202 |
+| Knives Out | 44.00% | ~1,202 |
+| Land, Ho! | 44.00% | ~1,202 |
+| Back In The Saddle | 43.00% | ~1,175 |
+| No Man Is An Island | 43.00% | ~1,175 |
+| Lock, Stock, And Barrel | 42.00% | ~1,147 |
+| At Wits' End | 42.00% | ~1,147 |
+| Fhtagn! | 41.00% | ~1,120 |
+| Up In Flames | 40.00% | ~1,093 |
+| Bookworm | 39.00% | ~1,065 |
+| Going Once... | 37.00% | ~1,011 |
+| Let Me Be Frank | 35.00% | ~956 |
+| No Stone Unturned | 34.00% | ~929 |
+| Brain Food | 32.00% | ~874 |
+| Read It And Weep | 22.00% | ~601 |
+| Curiosity Killed The Cat | 19.00% | ~519 |
+| Big Breakthrough | 12.00% | ~328 |
+| Reawakened | 3.00% | ~82 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,602 (Ranked 329)  
-Completed: 79 (3.04%) (Ranked 169)  
+Progressed: 2,732 (Ranked 338)  
+Completed: 82 (3.00%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -279,6 +279,7 @@ Completed: 79 (3.04%) (Ranked 169)
 | 2024-06-17 | 2,456 | 72 |
 | 2024-08-09 | 2,587 | 78 |
 | 2024-08-20 | 2,602 | 79 |
+| 2024-09-14 | 2,732 | 82 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

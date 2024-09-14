@@ -2,10 +2,10 @@
   "ID": "691a9f92becd48a58e558b4faccf6bcb",
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
-  "Ranking_EOS_Progress": 511,
-  "Ranking_EOS_Completed": 378,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 527,
+  "Ranking_EOS_Completed": 402,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 369,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1619,6 +1619,11 @@
       "Time": "2024-08-09T18:03:04.3597296+00:00",
       "NumProgressed": 367,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:16:21.6847186+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1695,7 +1700,7 @@
       "Name": "Golden Carrot",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_MAIN_GOLD_HAT",
@@ -1719,7 +1724,7 @@
       "Name": "Naughty list",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SHINY",
@@ -1733,9 +1738,9 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Silver Button",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
@@ -1774,14 +1779,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 369,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:04.359729+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:21.6847177+00:00",
   "LastUpdate_AppInfo": "2024-09-10T03:01:42.9764811+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:34.0851257+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:04.3597501+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:06.8689884+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:21.6847357+00:00"
 }

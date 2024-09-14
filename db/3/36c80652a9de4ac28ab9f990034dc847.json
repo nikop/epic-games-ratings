@@ -2,10 +2,10 @@
   "ID": "36c80652a9de4ac28ab9f990034dc847",
   "Name": "Death Crown",
   "ProductSlug": "death-crown-b2f5cd",
-  "Ranking_EOS_Progress": 726,
-  "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 751,
+  "Ranking_EOS_Completed": 250,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 75,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:19.5347051+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:47.6104151+00:00",
   "LastUpdate_AppInfo": "2024-09-12T23:57:01.091812+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:26.6027537+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:19.53472+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:01.1465816+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:47.6104288+00:00"
 }

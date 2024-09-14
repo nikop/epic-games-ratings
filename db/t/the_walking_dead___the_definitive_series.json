@@ -5,10 +5,10 @@
   "Ranking_Rating": 19,
   "Ranking_Popularity": 214,
   "Ranking_PopularitySum": 302,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3226,24 +3226,30 @@
       "Rating": 4.87,
       "NumberOfAwards": 1372,
       "NumberOfAwardsMax": 898
+    },
+    {
+      "Time": "2024-09-14T14:07:55.4012528+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1375,
+      "NumberOfAwardsMax": 900
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1372,
-  "NumberOfAwardsMax": 898,
+  "NumberOfAwards": 1375,
+  "NumberOfAwardsMax": 900,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 898
+      "Count": 900
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 64
+      "Count": 65
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3317,8 +3323,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-09-14T09:00:01.5360601+00:00",
+  "LastChanged": "2024-09-14T14:07:55.4012526+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:18.2182724+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:56.6645475+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:03.7012261+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:55.401253+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:00.0660072+00:00"
 }

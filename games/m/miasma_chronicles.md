@@ -1,55 +1,55 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.48 (Ranked 739)  
+Rating: 4.48 (Ranked 740)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~1,714 |
-| Ranidaphobia | 77.00% | ~1,450 |
-| Aspiring Editor | 74.00% | ~1,393 |
-| Gun for Hire | 69.00% | ~1,299 |
-| I am the law! | 64.00% | ~1,205 |
-| Lumberjack | 54.00% | ~1,017 |
-| Croaked | 50.00% | ~942 |
-| Limp Richard | 50.00% | ~942 |
-| Exorcist | 50.00% | ~942 |
-| Editor Adept | 49.00% | ~923 |
-| From Darkness to Light | 49.00% | ~923 |
-| Giant Killer | 47.00% | ~885 |
-| Sensei | 45.00% | ~847 |
-| The meaning of Kain | 44.00% | ~829 |
-| Firestarter | 43.00% | ~810 |
-| Recycler | 42.00% | ~791 |
-| Technophobe | 42.00% | ~791 |
-| Are you not entertained? | 38.00% | ~716 |
-| Jarhead | 38.00% | ~716 |
-| Ganglord | 37.00% | ~697 |
-| Infiltrator | 37.00% | ~697 |
-| Experienced | 35.00% | ~659 |
-| Hold The Line | 35.00% | ~659 |
-| Pushing Daisy | 35.00% | ~659 |
-| Silent but Violent | 33.00% | ~621 |
-| Endgame | 30.00% | ~565 |
-| Savior | 30.00% | ~565 |
-| There Can Be Only One! | 28.00% | ~527 |
-| The Watchers | 23.00% | ~433 |
-| Chain Killer | 22.00% | ~414 |
-| Commando | 18.00% | ~339 |
-| Chaos Theory | 17.00% | ~320 |
-| Dr Jones | 17.00% | ~320 |
-| Newtonian Knockout | 16.00% | ~301 |
+| First Blood | 92.00% | ~1,737 |
+| Ranidaphobia | 77.00% | ~1,454 |
+| Aspiring Editor | 74.00% | ~1,397 |
+| Gun for Hire | 69.00% | ~1,303 |
+| I am the law! | 64.00% | ~1,208 |
+| Lumberjack | 54.00% | ~1,020 |
+| Croaked | 50.00% | ~944 |
+| Limp Richard | 50.00% | ~944 |
+| Exorcist | 50.00% | ~944 |
+| Editor Adept | 49.00% | ~925 |
+| From Darkness to Light | 49.00% | ~925 |
+| Giant Killer | 47.00% | ~887 |
+| Sensei | 45.00% | ~850 |
+| Firestarter | 43.00% | ~812 |
+| The meaning of Kain | 43.00% | ~812 |
+| Recycler | 42.00% | ~793 |
+| Technophobe | 42.00% | ~793 |
+| Are you not entertained? | 38.00% | ~717 |
+| Jarhead | 38.00% | ~717 |
+| Ganglord | 37.00% | ~699 |
+| Infiltrator | 37.00% | ~699 |
+| Experienced | 35.00% | ~661 |
+| Hold The Line | 35.00% | ~661 |
+| Pushing Daisy | 35.00% | ~661 |
+| Silent but Violent | 33.00% | ~623 |
+| Endgame | 30.00% | ~566 |
+| Savior | 30.00% | ~566 |
+| There Can Be Only One! | 27.00% | ~510 |
+| The Watchers | 23.00% | ~434 |
+| Chain Killer | 22.00% | ~415 |
+| Chaos Theory | 17.00% | ~321 |
+| Commando | 17.00% | ~321 |
+| Dr Jones | 17.00% | ~321 |
+| Newtonian Knockout | 16.00% | ~302 |
 | Ruthless | 14.00% | ~264 |
-| Side Order | 11.00% | ~207 |
-| Bot Whisperer | 10.00% | ~188 |
-| Chain Reaction | 9.00% | ~169 |
+| Side Order | 11.00% | ~208 |
+| Bot Whisperer | 10.00% | ~189 |
+| Chain Reaction | 9.00% | ~170 |
 | Curveball | 8.00% | ~151 |
 | Master Editor | 8.00% | ~151 |
 | Wipe Out | 8.00% | ~151 |
 | Attenborough | 7.00% | ~132 |
 | Dressed To Kill | 7.00% | ~132 |
-| Bookworm | 4.00% | ~75 |
-| Cruelty | 3.00% | ~56 |
+| Bookworm | 4.00% | ~76 |
+| Cruelty | 3.00% | ~57 |
 | Shadow Boxin' | 2.00% | ~38 |
 | Five Finger Deathcount | 1.00% | ~19 |
 | Goaaaaal! | 0.90% | ~17 |
@@ -57,8 +57,8 @@ Rating: 4.48 (Ranked 739)
 | Fratricide | 0.80% | ~15 |
 | QA Has Suffered! (Redux) | 0.70% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,883 (Ranked 362)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,888 (Ranked 376)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,10 +247,11 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 1,870 | 0 |
 | 2024-08-09 | 1,880 | 0 |
 | 2024-08-20 | 1,883 | 0 |
+| 2024-09-14 | 1,888 | 0 |
 ## Awards
-Max (Great Boss Battles): 40  (Ranked 592)  
+Max (Great Boss Battles): 40  (Ranked 593)  
 Sum: 40 (Ranked 650)  
-Diff (max vs sum): -58  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 40 |

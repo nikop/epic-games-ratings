@@ -5,10 +5,10 @@
   "Ranking_Rating": 245,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -97,7 +97,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4690,
+  "EOS_Progressed": 4728,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -5887,6 +5887,11 @@
       "Time": "2024-08-09T18:02:39.3860693+00:00",
       "NumProgressed": 4690,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-09-14T14:15:52.2111159+00:00",
+      "NumProgressed": 4728,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 33,
@@ -5898,7 +5903,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 567
     },
     {
       "ID": "bonus2",
@@ -5906,7 +5911,7 @@
       "Name": "Sniped",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 284
     },
     {
       "ID": "bonus3",
@@ -5914,7 +5919,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 236
     },
     {
       "ID": "bonus4",
@@ -5922,7 +5927,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "bonus5",
@@ -5938,7 +5943,7 @@
       "Name": "All Geared Up",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "campaign1",
@@ -5946,7 +5951,7 @@
       "Name": "You and what Army?",
       "Percentage": 86,
       "XP": 30,
-      "UsersEstimate": 4033
+      "UsersEstimate": 4066
     },
     {
       "ID": "campaign10",
@@ -5954,7 +5959,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 284
     },
     {
       "ID": "campaign11",
@@ -5962,7 +5967,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "campaign12",
@@ -5970,7 +5975,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 284
     },
     {
       "ID": "campaign13",
@@ -5978,7 +5983,7 @@
       "Name": "Damage Control",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 331
     },
     {
       "ID": "campaign14",
@@ -5986,7 +5991,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 469
+      "UsersEstimate": 473
     },
     {
       "ID": "campaign15",
@@ -5994,7 +5999,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "campaign16",
@@ -6002,7 +6007,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 331
     },
     {
       "ID": "campaign17",
@@ -6010,7 +6015,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "campaign18",
@@ -6018,7 +6023,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "campaign19",
@@ -6026,7 +6031,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 236
     },
     {
       "ID": "campaign2",
@@ -6034,7 +6039,7 @@
       "Name": "Flanked!",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 3424
+      "UsersEstimate": 3451
     },
     {
       "ID": "campaign20",
@@ -6042,7 +6047,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 236
     },
     {
       "ID": "campaign3",
@@ -6050,7 +6055,7 @@
       "Name": "Economics 101",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 2580
+      "UsersEstimate": 2600
     },
     {
       "ID": "campaign4",
@@ -6058,7 +6063,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1797
     },
     {
       "ID": "campaign5",
@@ -6066,7 +6071,7 @@
       "Name": "Clay Fighter",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 657
+      "UsersEstimate": 662
     },
     {
       "ID": "campaign6",
@@ -6074,7 +6079,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 567
     },
     {
       "ID": "campaign7",
@@ -6082,7 +6087,7 @@
       "Name": "Maestro",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1087
     },
     {
       "ID": "campaign8",
@@ -6090,7 +6095,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 516
+      "UsersEstimate": 520
     },
     {
       "ID": "campaign9",
@@ -6098,7 +6103,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 563
+      "UsersEstimate": 567
     },
     {
       "ID": "scenario1",
@@ -6106,7 +6111,7 @@
       "Name": "Do the Splits",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1655
     },
     {
       "ID": "scenario2",
@@ -6114,7 +6119,7 @@
       "Name": "Full Employment",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 750
+      "UsersEstimate": 756
     },
     {
       "ID": "scenario3",
@@ -6122,7 +6127,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 236
     },
     {
       "ID": "scenario4",
@@ -6130,7 +6135,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 236
     },
     {
       "ID": "scenario5",
@@ -6138,7 +6143,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "scenario6",
@@ -6146,7 +6151,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "scenario7",
@@ -6154,14 +6159,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4690,
+      "Progressed": 4728,
       "Completed": 16
     }
   ],
@@ -6169,8 +6174,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-07-10T22:57:23.2016068+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:39.3860688+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:52.2111154+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:41.7191946+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:21.6614588+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:39.3861079+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:02.2503704+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:52.211165+00:00"
 }

@@ -4,22 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First | 92.00% | ~24 |
-| Classic I. | 35.00% | ~9 |
-| Champion | 31.00% | ~8 |
-| High Score | 31.00% | ~8 |
-| Randomized | 27.00% | ~7 |
-| Classic II. | 19.00% | ~5 |
-| Classic IV. | 19.00% | ~5 |
-| Classic V. | 19.00% | ~5 |
-| Classic III. | 15.00% | ~4 |
-| Creator | 15.00% | ~4 |
+| First | 93.00% | ~26 |
+| Classic I. | 36.00% | ~10 |
+| Champion | 32.00% | ~9 |
+| High Score | 29.00% | ~8 |
+| Randomized | 25.00% | ~7 |
+| Classic II. | 21.00% | ~6 |
+| Classic IV. | 18.00% | ~5 |
+| Classic V. | 18.00% | ~5 |
+| Classic III. | 14.00% | ~4 |
+| Creator | 14.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 26 (Ranked 846)  
-Completed: 2 (7.69%) (Ranked 88)  
+Progressed: 28 (Ranked 882)  
+Completed: 2 (7.14%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-04-08 | 1 | 0 |
 | 2024-06-17 | 15 | 0 |
 | 2024-08-09 | 26 | 2 |
+| 2024-09-14 | 28 | 2 |

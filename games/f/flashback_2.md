@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Gone full circle | 0.00% | ~0 |
+| Gone full circle | 67.00% | ~2 |
 | Angry General | 0.00% | ~0 |
 | Until the end | 0.00% | ~0 |
 | Let it go | 0.00% | ~0 |
@@ -25,3 +25,10 @@
 | Hyper fighting robot | 0.00% | ~0 |
 | Driver's license | 0.00% | ~0 |
 | State-of-the-art technology | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 3 (Ranked 1,091)  
+Completed: 0 (0.00%) (Ranked 591)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-09-14 | 3 | 0 |

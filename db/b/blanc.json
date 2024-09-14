@@ -2,10 +2,10 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 265,
-  "Ranking_EOS_Completed": 438,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Completed": 462,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6973,
+  "EOS_Progressed": 7123,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7566,6 +7566,11 @@
       "Time": "2024-08-20T20:08:45.6006191+00:00",
       "NumProgressed": 6973,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-09-14T14:21:39.7743371+00:00",
+      "NumProgressed": 7123,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 13,
@@ -7585,7 +7590,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1140
     },
     {
       "ID": "FALLEN_TREE",
@@ -7593,7 +7598,7 @@
       "Name": "Sheltered by the fallen tree",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 279
+      "UsersEstimate": 285
     },
     {
       "ID": "HELPING_LITTLE_ONES",
@@ -7601,7 +7606,7 @@
       "Name": "Helping the little ones",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1282
     },
     {
       "ID": "MOVE_ON",
@@ -7609,7 +7614,7 @@
       "Name": "The will to move on",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 837
+      "UsersEstimate": 855
     },
     {
       "ID": "REUNION",
@@ -7617,7 +7622,7 @@
       "Name": "Reunion",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 837
+      "UsersEstimate": 855
     },
     {
       "ID": "SLIDERS",
@@ -7625,7 +7630,7 @@
       "Name": "Sliders",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 349
+      "UsersEstimate": 356
     },
     {
       "ID": "SNOW_RUINS",
@@ -7633,7 +7638,7 @@
       "Name": "Snow-covered ruins",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "STARTING_DUO",
@@ -7641,7 +7646,7 @@
       "Name": "Starting as a duo",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1710
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -7649,7 +7654,7 @@
       "Name": "Stronger together",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1567
     },
     {
       "ID": "THE_END",
@@ -7657,7 +7662,7 @@
       "Name": "The end",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 767
+      "UsersEstimate": 784
     },
     {
       "ID": "TRANSMISSION",
@@ -7665,7 +7670,7 @@
       "Name": "Transmission",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 906
+      "UsersEstimate": 926
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -7673,14 +7678,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1923
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 6973,
+      "Progressed": 7123,
       "Completed": 7
     }
   ],
@@ -7688,8 +7693,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:45.6006185+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:39.7743365+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:13.9142046+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:59.8568852+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:45.600669+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:03:56.4017236+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:39.7743808+00:00"
 }

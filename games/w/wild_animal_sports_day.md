@@ -15,8 +15,8 @@
 | Trampolining Pro | 4.00% | ~1 |
 | Diving Pro | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 853)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 25 (Ranked 892)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

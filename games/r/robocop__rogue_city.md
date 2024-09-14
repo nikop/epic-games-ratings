@@ -5,36 +5,36 @@ Rating: 4.42 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 17.00% | ~1,088 |
-| Zip This Up | 17.00% | ~1,088 |
-| Strikeout! | 16.00% | ~1,024 |
-| Uphold the Law | 13.00% | ~832 |
-| I'd Buy That For a Dollar! | 11.00% | ~704 |
-| All Adds Up | 11.00% | ~704 |
-| Dead or Alive | 11.00% | ~704 |
-| Officer of the month | 10.00% | ~640 |
-| Twenty Seconds to Comply | 10.00% | ~640 |
-| Dead-On | 10.00% | ~640 |
-| Nukem! | 9.00% | ~576 |
-| Don't Mess With the Money! | 9.00% | ~576 |
-| Hard Boiled | 8.00% | ~512 |
-| Live by the bike... | 8.00% | ~512 |
-| Book Him! | 8.00% | ~512 |
-| "This Guy Is Really Good" | 8.00% | ~512 |
-| Let's Talk | 7.00% | ~448 |
-| Cashing Out | 6.00% | ~384 |
-| SuperCop | 6.00% | ~384 |
-| Practice Makes Perfect | 6.00% | ~384 |
-| May Be Used Against You | 5.00% | ~320 |
-| Not Arresting You Anymore | 5.00% | ~320 |
-| A Real Hero | 5.00% | ~320 |
-| "Nice shooting, son" | 4.00% | ~256 |
-| No stone unturned | 4.00% | ~256 |
-| There Can Only Be One | 2.00% | ~128 |
-| Good eyes, Murphy! | 2.00% | ~128 |
+| Night Has Just Begun | 22.00% | ~1,498 |
+| Zip This Up | 21.00% | ~1,430 |
+| Strikeout! | 20.00% | ~1,362 |
+| Uphold the Law | 16.00% | ~1,090 |
+| Dead or Alive | 14.00% | ~953 |
+| I'd Buy That For a Dollar! | 13.00% | ~885 |
+| All Adds Up | 13.00% | ~885 |
+| Officer of the month | 12.00% | ~817 |
+| Dead-On | 12.00% | ~817 |
+| Nukem! | 11.00% | ~749 |
+| Twenty Seconds to Comply | 11.00% | ~749 |
+| Don't Mess With the Money! | 11.00% | ~749 |
+| Hard Boiled | 10.00% | ~681 |
+| "This Guy Is Really Good" | 10.00% | ~681 |
+| Live by the bike... | 9.00% | ~613 |
+| Book Him! | 9.00% | ~613 |
+| Let's Talk | 8.00% | ~545 |
+| SuperCop | 8.00% | ~545 |
+| Cashing Out | 7.00% | ~477 |
+| Practice Makes Perfect | 7.00% | ~477 |
+| May Be Used Against You | 6.00% | ~409 |
+| A Real Hero | 6.00% | ~409 |
+| Not Arresting You Anymore | 5.00% | ~340 |
+| "Nice shooting, son" | 5.00% | ~340 |
+| No stone unturned | 5.00% | ~340 |
+| There Can Only Be One | 3.00% | ~204 |
+| Good eyes, Murphy! | 2.00% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,400 (Ranked 270)  
-Completed: 19 (0.30%) (Ranked 368)  
+Progressed: 6,810 (Ranked 277)  
+Completed: 24 (0.35%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,6 +88,7 @@ Completed: 19 (0.30%) (Ranked 368)
 | 2024-04-10 | 5,269 | 0 |
 | 2024-06-17 | 5,988 | 7 |
 | 2024-08-09 | 6,400 | 19 |
+| 2024-09-14 | 6,810 | 24 |
 ## Awards
 Max (Great Boss Battles): 302  (Ranked 312)  
 Sum: 325 (Ranked 462)  

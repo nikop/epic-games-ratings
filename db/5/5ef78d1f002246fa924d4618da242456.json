@@ -2,10 +2,10 @@
   "ID": "5ef78d1f002246fa924d4618da242456",
   "Name": "House of Legacy",
   "ProductSlug": "house-of-legacy-49421c",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T15:57:19.3955531+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:51.207306+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:22.052527+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:49.9031232+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:25.9393442+00:00"
 }

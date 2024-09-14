@@ -2,10 +2,10 @@
   "ID": "4ee1c06e76884f3b99af95fa347f9c36",
   "Name": "Sammy Jukes: Twin Lakes",
   "ProductSlug": "sammy-jukes-twin-lakes-4a4fb9",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-19T00:00:00+00:00",
     "PcReleaseDate": "2024-09-19T00:00:00+00:00",
@@ -29,11 +29,198 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-09-14T14:27:19.1445117+00:00",
+  "TotalAchievements": 22,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_10_CHICKEN",
+      "SetID": "8k7ln6",
+      "Name": "An adventure game classic!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_11_DEFUSE",
+      "SetID": "8k7ln6",
+      "Name": "Never gets easier",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_12_JUDGE",
+      "SetID": "8k7ln6",
+      "Name": "Save it for the judge",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_13_GRAVE",
+      "SetID": "8k7ln6",
+      "Name": "Arch Stanton",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_14_DEPUTY",
+      "SetID": "8k7ln6",
+      "Name": "Damn good detective!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_15_SCOTT",
+      "SetID": "8k7ln6",
+      "Name": "Record Keeper of Alaska",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_16_SHERIFF",
+      "SetID": "8k7ln6",
+      "Name": "High Noon",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_17_EARL",
+      "SetID": "8k7ln6",
+      "Name": "My eyes are sweating",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_18_BEES",
+      "SetID": "8k7ln6",
+      "Name": "Yes, the bees!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_19_DOG",
+      "SetID": "8k7ln6",
+      "Name": "Good boy",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_1_TAMMY_ART",
+      "SetID": "8k7ln6",
+      "Name": "Could\u0027ve been a contender",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_20_NOAH",
+      "SetID": "8k7ln6",
+      "Name": "Forget it Jukes, it\u0027s Twin Lakes",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_21_WATCH",
+      "SetID": "8k7ln6",
+      "Name": "\u0027member Firewatch? I member",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_22_BARN",
+      "SetID": "8k7ln6",
+      "Name": "Wasn\u0027t born in a barn",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_2_WOLF",
+      "SetID": "8k7ln6",
+      "Name": "The Legend of Jebediah Manson",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_3_SHED",
+      "SetID": "8k7ln6",
+      "Name": "Here\u0027s Sammy!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_4_ROTTEN",
+      "SetID": "8k7ln6",
+      "Name": "Rated F",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_5_200K",
+      "SetID": "8k7ln6",
+      "Name": "Two Kinds of People in the World",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_6_DONOR",
+      "SetID": "8k7ln6",
+      "Name": "I\u0027m All Outta Tinfoil",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_7_SHERIFF",
+      "SetID": "8k7ln6",
+      "Name": "The Watchmen",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_8_SOLVE",
+      "SetID": "8k7ln6",
+      "Name": "Hard Day\u0027s Work",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_9_PIGS",
+      "SetID": "8k7ln6",
+      "Name": "Real detective work",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "8k7ln6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:27:19.1445116+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:19.1445098+00:00",
   "LastUpdate_AppInfo": "2024-09-08T10:57:04.9431237+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:24.9836136+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:02.4900215+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:04.6487315+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:19.1454584+00:00"
 }

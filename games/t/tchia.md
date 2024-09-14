@@ -27,8 +27,8 @@ Rating: 4.71 (Ranked 229)
 | Arrr! | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,404 (Ranked 248)  
-Completed: 39 (0.41%) (Ranked 345)  
+Progressed: 9,404 (Ranked 257)  
+Completed: 39 (0.41%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

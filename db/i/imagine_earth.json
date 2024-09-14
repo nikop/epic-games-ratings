@@ -5,10 +5,10 @@
   "Ranking_Rating": 995,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 482,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 500,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 472,
+  "EOS_Progressed": 474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -563,6 +563,11 @@
       "Time": "2024-08-20T20:11:48.3001595+00:00",
       "NumProgressed": 472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:24:45.4471288+00:00",
+      "NumProgressed": 474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -582,7 +587,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "CampaignStars2",
@@ -590,7 +595,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "CampaignStars3",
@@ -598,7 +603,7 @@
       "Name": "Campaign Gold",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CampaignStars4",
@@ -654,7 +659,7 @@
       "Name": "Metropolis",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "Multitalent",
@@ -678,7 +683,7 @@
       "Name": "Edora",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "PlanetIqunox",
@@ -686,7 +691,7 @@
       "Name": "Iqunox",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "PlanetJoma",
@@ -694,7 +699,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "PlanetLorian",
@@ -702,7 +707,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "PlanetMagni",
@@ -710,7 +715,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "PlanetRounos",
@@ -718,7 +723,7 @@
       "Name": "Rounos",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "PlanetThera",
@@ -734,7 +739,7 @@
       "Name": "Tuto",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 280
     },
     {
       "ID": "PlanetUdionTorix",
@@ -765,7 +770,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 472,
+      "Progressed": 474,
       "Completed": 0
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:48.3001589+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:45.4471283+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:15.0969087+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:09.6942349+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:48.3001749+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:47.8600813+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:45.4471495+00:00"
 }

@@ -6,68 +6,68 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 3.00% | ~685 |
-| Taking Action | 3.00% | ~685 |
-| No Deaths | 3.00% | ~685 |
-| Abandoned Settlement | 3.00% | ~685 |
-| Overgrown Library | 3.00% | ~685 |
-| Petrified Necropolis | 3.00% | ~685 |
-| Gathering Storm | 3.00% | ~685 |
-| Homesick | 2.00% | ~457 |
-| Overcoming Difficulty | 2.00% | ~457 |
-| Against All Odds | 2.00% | ~457 |
-| Ruined Armory | 2.00% | ~457 |
-| Bandit Camp | 2.00% | ~457 |
-| Barren Lands | 2.00% | ~457 |
-| Ancient Battleground | 2.00% | ~457 |
-| Sparkdew Crystals | 2.00% | ~457 |
-| Fertile Meadows | 2.00% | ~457 |
-| Levitating Monument | 2.00% | ~457 |
-| Flooded Mines | 2.00% | ~457 |
-| Monastery of the Holy Flame | 2.00% | ~457 |
-| Royal Outpost | 2.00% | ~457 |
-| Lost Colonies | 2.00% | ~457 |
-| Statue of the Forefathers | 2.00% | ~457 |
-| Watchtower | 2.00% | ~457 |
-| Coral Forest | 2.00% | ~457 |
-| Cursed Lands | 2.00% | ~457 |
-| The Marshlands | 2.00% | ~457 |
-| The Scarlet Orchard | 2.00% | ~457 |
-| A Real Challenge | 2.00% | ~457 |
-| Trade Baron | 2.00% | ~457 |
-| Frosts | 2.00% | ~457 |
-| Land of Greed | 2.00% | ~457 |
-| Ominous Presence | 2.00% | ~457 |
-| Untamed Wilds | 2.00% | ~457 |
-| Serving Ale | 1.00% | ~228 |
-| Refinery | 1.00% | ~228 |
-| Fishmen Ritual Site | 1.00% | ~228 |
-| Forbidden Lands | 1.00% | ~228 |
-| Haunted Forest | 1.00% | ~228 |
-| Forsaken Gods Temple | 1.00% | ~228 |
-| Corrosive Torrent | 1.00% | ~228 |
-| Victory Through Prosperity | 1.00% | ~228 |
-| Defying the Crown | 1.00% | ~228 |
-| Into the Forest | 1.00% | ~228 |
-| Dangerous Lands | 0.90% | ~206 |
-| Like a Machine | 0.90% | ~206 |
-| Feeding The People | 0.80% | ~183 |
-| Efficient Explorer | 0.80% | ~183 |
-| Prestigious Expedition | 0.50% | ~114 |
-| Blood Flower Farmer | 0.50% | ~114 |
+| Overgrown Library | 4.00% | ~919 |
+| Petrified Necropolis | 4.00% | ~919 |
+| First Real Expedition | 3.00% | ~689 |
+| Coral Forest | 3.00% | ~689 |
+| The Marshlands | 3.00% | ~689 |
+| Taking Action | 3.00% | ~689 |
+| No Deaths | 3.00% | ~689 |
+| Abandoned Settlement | 3.00% | ~689 |
+| Frosts | 3.00% | ~689 |
+| Ominous Presence | 3.00% | ~689 |
+| Gathering Storm | 3.00% | ~689 |
+| Homesick | 2.00% | ~460 |
+| Overcoming Difficulty | 2.00% | ~460 |
+| Against All Odds | 2.00% | ~460 |
+| Ruined Armory | 2.00% | ~460 |
+| Bandit Camp | 2.00% | ~460 |
+| Barren Lands | 2.00% | ~460 |
+| Ancient Battleground | 2.00% | ~460 |
+| Sparkdew Crystals | 2.00% | ~460 |
+| Fertile Meadows | 2.00% | ~460 |
+| Fishmen Ritual Site | 2.00% | ~460 |
+| Haunted Forest | 2.00% | ~460 |
+| Levitating Monument | 2.00% | ~460 |
+| Flooded Mines | 2.00% | ~460 |
+| Monastery of the Holy Flame | 2.00% | ~460 |
+| Royal Outpost | 2.00% | ~460 |
+| Lost Colonies | 2.00% | ~460 |
+| Statue of the Forefathers | 2.00% | ~460 |
+| Corrosive Torrent | 2.00% | ~460 |
+| Watchtower | 2.00% | ~460 |
+| Cursed Lands | 2.00% | ~460 |
+| The Scarlet Orchard | 2.00% | ~460 |
+| A Real Challenge | 2.00% | ~460 |
+| Victory Through Prosperity | 2.00% | ~460 |
+| Trade Baron | 2.00% | ~460 |
+| Defying the Crown | 2.00% | ~460 |
+| Land of Greed | 2.00% | ~460 |
+| Untamed Wilds | 2.00% | ~460 |
+| Serving Ale | 1.00% | ~230 |
+| Refinery | 1.00% | ~230 |
+| Dangerous Lands | 1.00% | ~230 |
+| Forbidden Lands | 1.00% | ~230 |
+| Forsaken Gods Temple | 1.00% | ~230 |
+| Like a Machine | 1.00% | ~230 |
+| Into the Forest | 1.00% | ~230 |
+| Feeding The People | 0.90% | ~207 |
+| Efficient Explorer | 0.90% | ~207 |
+| Prestigious Expedition | 0.60% | ~138 |
+| Blood Flower Farmer | 0.60% | ~138 |
+| Human Utopia | 0.40% | ~92 |
 | Beaver Utopia | 0.30% | ~69 |
-| Human Utopia | 0.30% | ~69 |
 | Lizard Utopia | 0.30% | ~69 |
+| The Queen's Chosen | 0.30% | ~69 |
 | Ruins | 0.30% | ~69 |
 | Fox Utopia | 0.30% | ~69 |
 | Higher Needs | 0.20% | ~46 |
 | Harpy Utopia | 0.20% | ~46 |
-| The Queen's Chosen | 0.20% | ~46 |
+| Treasure | 0.20% | ~46 |
 | Paradise | 0.10% | ~23 |
-| Treasure | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,835 (Ranked 202)  
-Completed: 42 (0.18%) (Ranked 401)  
+Progressed: 22,975 (Ranked 211)  
+Completed: 43 (0.19%) (Ranked 420)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -354,6 +354,7 @@ Completed: 42 (0.18%) (Ranked 401)
 | 2024-04-10 | 22,010 | 39 |
 | 2024-06-17 | 22,607 | 41 |
 | 2024-08-09 | 22,835 | 42 |
+| 2024-09-14 | 22,975 | 43 |
 ## Awards
 Max (Great for Beginners): 523  (Ranked 265)  
 Sum: 3,691 (Ranked 202)  

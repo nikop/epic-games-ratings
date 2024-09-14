@@ -2,10 +2,10 @@
   "ID": "fcf1df110db64edb929913d38d4276aa",
   "Name": "Baimason\u0027s Thing Finder Puzzle",
   "ProductSlug": "baimasons-thing-finder-puzzle-0738aa",
-  "Ranking_EOS_Progress": 969,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 985,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-12T16:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-20T20:09:25.9059732+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:23:12.5647734+00:00",
+      "NumProgressed": 12,
       "NumCompleted": 0
     }
   ],
@@ -58,25 +63,25 @@
       "ID": "ACHIEVEMENT_01",
       "SetID": "ag9idp0",
       "Name": "Yey, Only 54 more to go",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_02",
       "SetID": "ag9idp0",
       "Name": "If only you were this good at finding the keys",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_03",
       "SetID": "ag9idp0",
       "Name": "Too old for Leo",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -98,9 +103,9 @@
       "ID": "ACHIEVEMENT_06",
       "SetID": "ag9idp0",
       "Name": "So it beggins, the adiction",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -113,7 +118,7 @@
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "ag9idp0",
-      "Name": "Now turn your life the same amount of degrees",
+      "Name": "Just like that game with the mad birds",
       "Percentage": 0,
       "XP": 180,
       "UsersEstimate": 0
@@ -121,24 +126,24 @@
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "ag9idp0",
-      "Name": "Happy new year!",
-      "Percentage": 0,
+      "Name": "Don\u0027t worry, there are only 2 hidden levels... I guess",
+      "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "ag9idp0",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-25T19:57:23.4734029+00:00",
   "FirstSeenAchievements": "2024-04-05T15:01:39.0830009+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:25.9059725+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:12.5647728+00:00",
   "LastUpdate_AppInfo": "2024-09-07T13:57:12.3047342+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:11.6639913+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:25.9059802+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:20.7949393+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:12.5647822+00:00"
 }

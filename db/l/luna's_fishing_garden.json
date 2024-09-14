@@ -2,10 +2,10 @@
   "ID": "be9b4a568a934573b2204f3fb97f8042",
   "Name": "Luna\u0027s Fishing Garden",
   "ProductSlug": "lunas-fishing-garden",
-  "Ranking_EOS_Progress": 434,
-  "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 452,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-06-16T16:00:00+00:00",
     "PcReleaseDate": "2021-06-16T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 722,
-  "EOS_Completed": 44,
-  "EOS_NewPlayers": 1,
+  "EOS_Progressed": 723,
+  "EOS_Completed": 45,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.09,
+  "EOS_Completed_Percentage": 6.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -249,6 +249,11 @@
       "Time": "2024-08-20T20:07:34.4057818+00:00",
       "NumProgressed": 722,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-09-14T14:20:56.8576956+00:00",
+      "NumProgressed": 723,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -276,7 +281,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "12_art",
@@ -298,9 +303,9 @@
       "ID": "1_skies",
       "SetID": "459695l",
       "Name": "Up!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 253
     },
     {
       "ID": "2_reel",
@@ -308,7 +313,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "3_master_angler",
@@ -316,7 +321,7 @@
       "Name": "Master Angler",
       "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "4_bird_breeder",
@@ -340,7 +345,7 @@
       "Name": "Immortal",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "7_cleanup",
@@ -356,31 +361,31 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "9_lotus",
       "SetID": "459695l",
       "Name": "Be Like the Lotus",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 722,
-      "Completed": 44
+      "Progressed": 723,
+      "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:24:08.9356043+00:00",
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:34.4057812+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:56.8576949+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:13.7050735+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:28.8286236+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:34.4057908+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:13.7664409+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:56.857706+00:00"
 }

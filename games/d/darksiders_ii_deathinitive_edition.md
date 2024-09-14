@@ -6,59 +6,59 @@ Number of Ratings: 827  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Crow Carrion | 48.00% | ~5,046 |
-| Pathfinder | 23.00% | ~2,418 |
-| Fire of the Mountain | 21.00% | ~2,208 |
-| Looks Familiar | 21.00% | ~2,208 |
-| Grim Reaping | 16.00% | ~1,682 |
-| Tears of the Mountain | 14.00% | ~1,472 |
-| Feeding Time | 12.00% | ~1,262 |
-| To Move a Mountain | 11.00% | ~1,156 |
-| The Spectral Touch | 10.00% | ~1,051 |
-| Dust to Dust | 9.00% | ~946 |
-| Heart of the Mountain | 9.00% | ~946 |
-| Tree of Life | 9.00% | ~946 |
-| The Lord of Bones | 8.00% | ~841 |
-| By Your Command | 7.00% | ~736 |
-| The Toll of Kings | 7.00% | ~736 |
-| Death Will Tear Us Apart | 6.00% | ~631 |
-| The Court of Bones | 6.00% | ~631 |
-| City of the Dead | 5.00% | ~526 |
-| Respec Yourself | 5.00% | ~526 |
-| Soul Crushing | 5.00% | ~526 |
-| Clipped Wings | 4.00% | ~421 |
-| Diamond Geezertron | 4.00% | ~421 |
-| Full Potential | 4.00% | ~421 |
-| It's Not Over | 4.00% | ~421 |
-| I Can Has Cake? | 4.00% | ~421 |
-| Lord of the Black Stone | 4.00% | ~421 |
-| Stains of Heresy | 4.00% | ~421 |
-| Tearing Time A New One | 4.00% | ~421 |
-| The Mad Queen | 4.00% | ~421 |
-| The Rod of Arafel | 4.00% | ~421 |
-| The Root Of Corruption | 4.00% | ~421 |
-| A Stroll In The Demonic Park | 3.00% | ~315 |
-| Four My Brother | 3.00% | ~315 |
-| The Big Boss | 3.00% | ~315 |
-| Like a Noss | 2.00% | ~210 |
-| A True Horseman | 1.00% | ~105 |
-| I've Brought You A Gift | 1.00% | ~105 |
-| Gnomad | 0.80% | ~84 |
-| Abracadabra | 0.60% | ~63 |
-| It's Definitive | 0.60% | ~63 |
-| The Book of the Dead | 0.60% | ~63 |
-| All You Can Eat Buffet | 0.40% | ~42 |
-| Antiquing | 0.40% | ~42 |
-| Epic! | 0.40% | ~42 |
-| Mass Ruckus | 0.30% | ~32 |
-| The Secondary Adventure | 0.30% | ~32 |
-| Bravo Old Chap | 0.20% | ~21 |
-| Is There Anyone Else? | 0.20% | ~21 |
-| The Triple Lindy | 0.20% | ~21 |
-| BFA | 0.10% | ~11 |
+| Crow Carrion | 49.00% | ~6,421 |
+| Pathfinder | 23.00% | ~3,014 |
+| Looks Familiar | 22.00% | ~2,883 |
+| Fire of the Mountain | 21.00% | ~2,752 |
+| Grim Reaping | 16.00% | ~2,097 |
+| Tears of the Mountain | 14.00% | ~1,835 |
+| Feeding Time | 12.00% | ~1,573 |
+| To Move a Mountain | 11.00% | ~1,442 |
+| The Spectral Touch | 10.00% | ~1,310 |
+| Dust to Dust | 9.00% | ~1,179 |
+| Heart of the Mountain | 9.00% | ~1,179 |
+| Tree of Life | 9.00% | ~1,179 |
+| The Lord of Bones | 8.00% | ~1,048 |
+| By Your Command | 7.00% | ~917 |
+| The Toll of Kings | 7.00% | ~917 |
+| Death Will Tear Us Apart | 6.00% | ~786 |
+| The Court of Bones | 6.00% | ~786 |
+| City of the Dead | 5.00% | ~655 |
+| Respec Yourself | 5.00% | ~655 |
+| Soul Crushing | 5.00% | ~655 |
+| The Rod of Arafel | 5.00% | ~655 |
+| Clipped Wings | 4.00% | ~524 |
+| Diamond Geezertron | 4.00% | ~524 |
+| Full Potential | 4.00% | ~524 |
+| It's Not Over | 4.00% | ~524 |
+| I Can Has Cake? | 4.00% | ~524 |
+| Lord of the Black Stone | 4.00% | ~524 |
+| Stains of Heresy | 4.00% | ~524 |
+| Tearing Time A New One | 4.00% | ~524 |
+| The Mad Queen | 4.00% | ~524 |
+| The Root Of Corruption | 4.00% | ~524 |
+| A Stroll In The Demonic Park | 3.00% | ~393 |
+| Four My Brother | 3.00% | ~393 |
+| The Big Boss | 3.00% | ~393 |
+| Like a Noss | 2.00% | ~262 |
+| A True Horseman | 1.00% | ~131 |
+| I've Brought You A Gift | 1.00% | ~131 |
+| Gnomad | 0.80% | ~105 |
+| Abracadabra | 0.60% | ~79 |
+| It's Definitive | 0.60% | ~79 |
+| The Book of the Dead | 0.60% | ~79 |
+| All You Can Eat Buffet | 0.40% | ~52 |
+| Antiquing | 0.40% | ~52 |
+| Epic! | 0.40% | ~52 |
+| Mass Ruckus | 0.40% | ~52 |
+| Is There Anyone Else? | 0.30% | ~39 |
+| The Secondary Adventure | 0.30% | ~39 |
+| The Triple Lindy | 0.30% | ~39 |
+| Bravo Old Chap | 0.20% | ~26 |
+| BFA | 0.10% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,513 (Ranked 244)  
-Completed: 11 (0.10%) (Ranked 438)  
+Progressed: 13,105 (Ranked 244)  
+Completed: 14 (0.11%) (Ranked 455)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,6 +66,7 @@ Completed: 11 (0.10%) (Ranked 438)
 | 2024-04-10 | 2,421 | 1 |
 | 2024-06-17 | 7,249 | 6 |
 | 2024-08-09 | 10,513 | 11 |
+| 2024-09-14 | 13,105 | 14 |
 ## Awards
 Max (Character Customization): 480  (Ranked 272)  
 Sum: 825 (Ranked 353)  

@@ -2,10 +2,10 @@
   "ID": "385fc5b23bd240edb3ad852f4b520eef",
   "Name": "Car Parking Real Driving Sim",
   "ProductSlug": "car-parking-real-driving-sim-ba7eed",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-15T17:30:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T09:57:15.3513288+00:00",
   "LastUpdate_AppInfo": "2024-09-12T21:57:15.7694948+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:18.9140135+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:43.4055771+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:55.3856991+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:11.7086016+00:00"
 }

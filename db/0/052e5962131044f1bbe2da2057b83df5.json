@@ -2,10 +2,10 @@
   "ID": "052e5962131044f1bbe2da2057b83df5",
   "Name": "World of Magic: Rise of Magic",
   "ProductSlug": "world-of-magic-rise-of-magic-1bbdba",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T22:57:14.3753625+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:46.6676362+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:27.5049482+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:08.5987443+00:00"
 }

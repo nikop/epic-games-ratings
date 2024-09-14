@@ -1,84 +1,84 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.51 (Ranked 678)  
+Rating: 4.52 (Ranked 659)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 49.00% | ~2,485 |
-| Confirming Suspicions | 45.00% | ~2,282 |
-| The Kraken Wakes | 41.00% | ~2,079 |
-| It's Starting to Crack | 38.00% | ~1,927 |
-| Change the Channel | 35.00% | ~1,775 |
-| Lord of War | 34.00% | ~1,724 |
-| Taking it back | 33.00% | ~1,673 |
-| Resourceful | 31.00% | ~1,572 |
-| Target America | 31.00% | ~1,572 |
-| The Kraken Sleeps | 29.00% | ~1,471 |
-| Liberté | 27.00% | ~1,369 |
-| As Quiet as a Mouse | 27.00% | ~1,369 |
-| Organ Grinder | 26.00% | ~1,318 |
-| Sharpshooter | 26.00% | ~1,318 |
-| Gunslinger | 22.00% | ~1,116 |
-| Explosive Efficiency | 22.00% | ~1,116 |
-| Climbing the Ladder | 20.00% | ~1,014 |
-| Skirmisher | 19.00% | ~963 |
-| Der Geist | 19.00% | ~963 |
-| Snake in the Grass | 19.00% | ~963 |
-| Just a Flesh Wound | 18.00% | ~913 |
-| Close Quarters | 18.00% | ~913 |
-| Brains of the Operation | 18.00% | ~913 |
-| No Stone Unturned | 17.00% | ~862 |
-| Die Nussknacker Sweet! | 17.00% | ~862 |
-| Fields of Glory | 16.00% | ~811 |
-| Set Europe Ablaze | 16.00% | ~811 |
-| Opposing Force | 15.00% | ~761 |
-| Enemy at the Gates | 15.00% | ~761 |
-| Precision Is Key | 12.00% | ~609 |
-| My Little Friend | 12.00% | ~609 |
-| Rigged to Blow | 11.00% | ~558 |
-| Herr Today, Gone Tomorrow | 9.00% | ~452 |
-| The Long Game | 7.00% | ~355 |
-| Operation Foxley | 7.00% | ~352 |
-| Strategist | 6.00% | ~304 |
-| Tinkerer | 6.00% | ~304 |
-| It'll Buff Right Out | 6.00% | ~304 |
-| Road Rage | 6.00% | ~304 |
-| Don't hold your breath | 6.00% | ~304 |
-| Last Resort | 6.00% | ~301 |
-| Siegebreaker | 6.00% | ~301 |
-| Ghost of Falaise | 6.00% | ~301 |
-| Burn after reading | 5.00% | ~254 |
-| Locomotion Commotion | 5.00% | ~254 |
-| If You Go Down To The Woods Today | 5.00% | ~251 |
-| Fight Another Day | 5.00% | ~251 |
-| From Paris with Love | 4.00% | ~203 |
-| Souvenir hunter | 4.00% | ~203 |
-| Shipbreaker | 4.00% | ~201 |
-| Sink or Swim | 4.00% | ~201 |
-| Eagle Eyed | 3.00% | ~152 |
-| Shoot for the Moon | 3.00% | ~152 |
-| Reich To The Point | 3.00% | ~151 |
-| Covert Elimination | 3.00% | ~151 |
-| Out of Scope | 2.00% | ~101 |
-| Up close and personal | 2.00% | ~101 |
-| Can't Outrun A Bullet | 2.00% | ~101 |
-| Führerious Repetition | 2.00% | ~100 |
-| Best of the Best | 1.00% | ~51 |
-| Master of Secondaries | 1.00% | ~51 |
-| Master of Rifles | 1.00% | ~51 |
-| Sight Beyond Sights | 1.00% | ~51 |
-| From Führer Away | 1.00% | ~50 |
-| Alpha | 1.00% | ~50 |
-| Das Familienjuwel | 1.00% | ~50 |
+| Meeting Resistance | 50.00% | ~2,577 |
+| Confirming Suspicions | 45.00% | ~2,319 |
+| The Kraken Wakes | 41.00% | ~2,113 |
+| It's Starting to Crack | 38.00% | ~1,959 |
+| Change the Channel | 35.00% | ~1,804 |
+| Lord of War | 34.00% | ~1,752 |
+| Taking it back | 33.00% | ~1,701 |
+| Resourceful | 31.00% | ~1,598 |
+| Target America | 31.00% | ~1,598 |
+| The Kraken Sleeps | 29.00% | ~1,495 |
+| As Quiet as a Mouse | 28.00% | ~1,443 |
+| Liberté | 27.00% | ~1,392 |
+| Sharpshooter | 27.00% | ~1,392 |
+| Organ Grinder | 26.00% | ~1,340 |
+| Gunslinger | 23.00% | ~1,185 |
+| Explosive Efficiency | 22.00% | ~1,134 |
+| Climbing the Ladder | 20.00% | ~1,031 |
+| Skirmisher | 19.00% | ~979 |
+| Der Geist | 19.00% | ~979 |
+| Snake in the Grass | 19.00% | ~979 |
+| Just a Flesh Wound | 18.00% | ~928 |
+| Close Quarters | 18.00% | ~928 |
+| Brains of the Operation | 18.00% | ~928 |
+| No Stone Unturned | 17.00% | ~876 |
+| Die Nussknacker Sweet! | 17.00% | ~876 |
+| Fields of Glory | 16.00% | ~825 |
+| Set Europe Ablaze | 16.00% | ~825 |
+| Opposing Force | 15.00% | ~773 |
+| Enemy at the Gates | 15.00% | ~773 |
+| Precision Is Key | 12.00% | ~618 |
+| My Little Friend | 12.00% | ~618 |
+| Rigged to Blow | 11.00% | ~567 |
+| Herr Today, Gone Tomorrow | 9.00% | ~460 |
+| The Long Game | 8.00% | ~412 |
+| Operation Foxley | 7.00% | ~357 |
+| Strategist | 6.00% | ~309 |
+| Tinkerer | 6.00% | ~309 |
+| It'll Buff Right Out | 6.00% | ~309 |
+| Road Rage | 6.00% | ~309 |
+| Don't hold your breath | 6.00% | ~309 |
+| Last Resort | 6.00% | ~306 |
+| Siegebreaker | 6.00% | ~306 |
+| Ghost of Falaise | 6.00% | ~306 |
+| Burn after reading | 5.00% | ~258 |
+| Locomotion Commotion | 5.00% | ~258 |
+| If You Go Down To The Woods Today | 5.00% | ~255 |
+| Fight Another Day | 5.00% | ~255 |
+| From Paris with Love | 4.00% | ~206 |
+| Souvenir hunter | 4.00% | ~206 |
+| Shipbreaker | 4.00% | ~204 |
+| Sink or Swim | 4.00% | ~204 |
+| Eagle Eyed | 3.00% | ~155 |
+| Shoot for the Moon | 3.00% | ~155 |
+| Führerious Repetition | 3.00% | ~153 |
+| Reich To The Point | 3.00% | ~153 |
+| Covert Elimination | 3.00% | ~153 |
+| Out of Scope | 2.00% | ~103 |
+| Up close and personal | 2.00% | ~103 |
+| Can't Outrun A Bullet | 2.00% | ~103 |
+| Best of the Best | 1.00% | ~52 |
+| Master of Secondaries | 1.00% | ~52 |
+| Master of Rifles | 1.00% | ~52 |
+| Sight Beyond Sights | 1.00% | ~52 |
+| From Führer Away | 1.00% | ~51 |
+| Alpha | 1.00% | ~51 |
+| Das Familienjuwel | 1.00% | ~51 |
+| Operation Overlord | 0.90% | ~46 |
 | Master of Pistols | 0.80% | ~41 |
-| Operation Overlord | 0.80% | ~40 |
-| Master-at-arms | 0.70% | ~35 |
-| Stroll in the Woods | 0.70% | ~35 |
-| Going Overboard | 0.70% | ~35 |
+| Going Overboard | 0.80% | ~41 |
+| Master-at-arms | 0.70% | ~36 |
+| Stroll in the Woods | 0.70% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,071 (Ranked 279)  
-Completed: 14 (0.28%) (Ranked 376)  
+Progressed: 5,154 (Ranked 288)  
+Completed: 14 (0.27%) (Ranked 402)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -364,6 +364,7 @@ Completed: 14 (0.28%) (Ranked 376)
 | 2024-06-17 | 4,880 | 11 |
 | 2024-08-09 | 5,030 | 13 |
 | 2024-08-20 | 5,071 | 14 |
+| 2024-09-14 | 5,154 | 14 |
 ## Awards
 Max (Great for Beginners): 64  (Ranked 526)  
 Sum: 89 (Ranked 589)  
@@ -534,3 +535,4 @@ Diff (max vs sum): -63
 | 2024-09-08 | 4.50 | 62 | 87 |
 | 2024-09-09 | 4.51 | 63 | 88 |
 | 2024-09-13 | 4.51 | 64 | 89 |
+| 2024-09-14 | 4.52 | 64 | 89 |

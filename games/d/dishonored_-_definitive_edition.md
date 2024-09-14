@@ -1,11 +1,11 @@
 # Dishonored - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/dishonored-definitive-edition)  
 [View Rawdata](../../db/d/dishonored_-_definitive_edition.json)  
-Rating: 4.75 (Ranked 165)  
+Rating: 4.75 (Ranked 166)  
 Number of Ratings: 234  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,398  (Ranked 166)  
-Sum: 2,086 (Ranked 254)  
+Sum: 2,087 (Ranked 254)  
 Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -88
 | This game has Unique Visuals | 72 |
 | This game has a Creative Community | 69 |
 | This game is Extremely Fun | 66 |
-| This game has Amazing Characters | 61 |
+| This game has Amazing Characters | 62 |
 | This game is Highly Recommended | 59 |
 | This game has Quickly Understood Controls | 58 |
 | This game is Relaxing | 49 |
@@ -544,4 +544,4 @@ Diff (max vs sum): -88
 | 2024-09-11 | 4.75 | - | 1,393 | 2,074 |
 | 2024-09-12 | 4.75 | - | 1,395 | 2,077 |
 | 2024-09-13 | 4.75 | - | 1,398 | 2,084 |
-| 2024-09-14 | 4.75 | - | 1,398 | 2,086 |
+| 2024-09-14 | 4.75 | - | 1,398 | 2,087 |

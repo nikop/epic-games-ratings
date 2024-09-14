@@ -2,10 +2,10 @@
   "ID": "b589bb7fbc204ee59d363b9fb4ef0a41",
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
-  "Ranking_EOS_Progress": 281,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4998,
+  "EOS_Progressed": 5042,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5086,6 +5086,11 @@
       "Time": "2024-08-20T20:12:28.023195+00:00",
       "NumProgressed": 4998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:26:34.0269449+00:00",
+      "NumProgressed": 5042,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -5105,7 +5110,7 @@
       "Name": "Comedy and Tragedy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_B_FS",
@@ -5121,7 +5126,7 @@
       "Name": "Pillars of Eternity",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_B_KK",
@@ -5145,7 +5150,7 @@
       "Name": "Immolator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_FH",
@@ -5153,7 +5158,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_GE",
@@ -5177,7 +5182,7 @@
       "Name": "Go For the Head",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_K_A2",
@@ -5185,7 +5190,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_K_A3",
@@ -5193,7 +5198,7 @@
       "Name": "Missilis",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_MC",
@@ -5225,7 +5230,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_M_D1",
@@ -5233,7 +5238,7 @@
       "Name": "Modest Earnings",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_M_D2",
@@ -5241,7 +5246,7 @@
       "Name": "War Chest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_M_D3",
@@ -5249,15 +5254,15 @@
       "Name": "Chthonic Investor",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_M_D4",
       "SetID": "b3fep3o",
       "Name": "The Midas Touch",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_M_D5",
@@ -5289,7 +5294,7 @@
       "Name": "Armaments of the Pantheon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_M_SC",
@@ -5305,7 +5310,7 @@
       "Name": "Persephone\u0027s Guidance",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_OB_BB",
@@ -5313,7 +5318,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_BR",
@@ -5321,7 +5326,7 @@
       "Name": "First Fragment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_OB_CA",
@@ -5329,7 +5334,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_OB_CC",
@@ -5345,7 +5350,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_CS",
@@ -5353,7 +5358,7 @@
       "Name": "Sisters of the Pantheon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_DS",
@@ -5361,7 +5366,7 @@
       "Name": "Labour of Apollo",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_OB_FB",
@@ -5369,7 +5374,7 @@
       "Name": "Siege Unit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_FC",
@@ -5393,7 +5398,7 @@
       "Name": "Eidola",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_OB_LI",
@@ -5401,7 +5406,7 @@
       "Name": "Lochos",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_OB_LS",
@@ -5409,7 +5414,7 @@
       "Name": "Divine Assemblage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OB_PR",
@@ -5417,7 +5422,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_OB_RE",
@@ -5433,7 +5438,7 @@
       "Name": "Strength of Herakles",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_OB_SD",
@@ -5441,7 +5446,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_OB_TDS",
@@ -5465,7 +5470,7 @@
       "Name": "Ophiolatreia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OT",
@@ -5473,7 +5478,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_R_A",
@@ -5521,7 +5526,7 @@
       "Name": "Reign in Blood",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_TP",
@@ -5529,7 +5534,7 @@
       "Name": "Halls of Marble",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "KA",
@@ -5537,7 +5542,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "KA2",
@@ -5569,7 +5574,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "KK",
@@ -5593,14 +5598,14 @@
       "Name": "Serpentine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 4998,
+      "Progressed": 5042,
       "Completed": 0
     }
   ],
@@ -5608,8 +5613,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:28.0231945+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:34.0269444+00:00",
   "LastUpdate_AppInfo": "2024-09-08T22:57:10.0749914+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:23.0760037+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:28.0232675+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:15:01.2684436+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:34.0270064+00:00"
 }

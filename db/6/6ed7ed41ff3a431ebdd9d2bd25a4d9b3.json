@@ -2,10 +2,10 @@
   "ID": "6ed7ed41ff3a431ebdd9d2bd25a4d9b3",
   "Name": "ChromaGun 2: Dye Hard",
   "ProductSlug": "chromagun-2-dye-hard-3eeac4",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-14T03:01:08.85871+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:34.9570503+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:42.1581451+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:08.1389386+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:44.5793377+00:00"
 }

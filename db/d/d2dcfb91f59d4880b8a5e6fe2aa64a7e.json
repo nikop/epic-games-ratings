@@ -2,10 +2,10 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 756,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-24T10:00:00+00:00",
     "PcReleaseDate": "2021-09-28T23:00:00+00:00",
@@ -301,9 +301,9 @@
       "ID": "COINS",
       "SetID": "63n2m0e",
       "Name": "Coin Operator",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COLLECTOR_ITEMS",
@@ -341,17 +341,17 @@
       "ID": "DEFLECTOR",
       "SetID": "63n2m0e",
       "Name": "Deflector",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DOOMSKULL",
       "SetID": "63n2m0e",
       "Name": "Doom Skull",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DUNGEON_BOSS",
@@ -381,17 +381,17 @@
       "ID": "NG",
       "SetID": "63n2m0e",
       "Name": "New Game\u002B\u002B",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PALACE_BOSS",
       "SetID": "63n2m0e",
       "Name": "Deanimation",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "PERK_TESTER",
@@ -453,9 +453,9 @@
       "ID": "UNDERDARK_BOSS",
       "SetID": "63n2m0e",
       "Name": "Pest Control",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -468,8 +468,8 @@
   ],
   "FirstSeen": "2023-05-26T16:57:16.6095793+00:00",
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:15.158338+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:44.5183184+00:00",
   "LastUpdate_AppInfo": "2024-09-12T10:57:11.7015085+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:56.6743327+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:15.1583504+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:29.7352356+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:44.5183334+00:00"
 }

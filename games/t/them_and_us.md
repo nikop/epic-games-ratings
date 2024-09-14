@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 68.00% | ~350 |
-| Forced to Kill | 63.00% | ~324 |
-| A Night To Remember | 37.00% | ~190 |
-| Safe...For now? | 29.00% | ~149 |
-| Open Sesame | 25.00% | ~128 |
-| Them and Us | 17.00% | ~87 |
-| OUTRAGE | 17.00% | ~87 |
-| What have I done!? | 17.00% | ~87 |
-| This Coffin Has Your Name On It! | 15.00% | ~77 |
-| Alone In The Dark | 14.00% | ~72 |
+| Alone with Them | 68.00% | ~352 |
+| Forced to Kill | 64.00% | ~332 |
+| A Night To Remember | 37.00% | ~192 |
+| Safe...For now? | 29.00% | ~150 |
+| Open Sesame | 25.00% | ~130 |
+| What have I done!? | 18.00% | ~93 |
+| Them and Us | 17.00% | ~88 |
+| OUTRAGE | 17.00% | ~88 |
+| This Coffin Has Your Name On It! | 15.00% | ~78 |
+| Alone In The Dark | 14.00% | ~73 |
+| Parasite Exterminated | 13.00% | ~67 |
 | The Cultists | 13.00% | ~67 |
 | The Forgotten Tower | 13.00% | ~67 |
-| Parasite Exterminated | 12.00% | ~62 |
 | Trapped | 11.00% | ~57 |
-| Lover of classics | 10.00% | ~51 |
-| Modern Player | 10.00% | ~51 |
-| The Curse Is Real | 10.00% | ~51 |
-| Rest In Peace | 9.00% | ~46 |
+| Lover of classics | 10.00% | ~52 |
+| Modern Player | 10.00% | ~52 |
+| The Curse Is Real | 10.00% | ~52 |
+| Rest In Peace | 9.00% | ~47 |
 | What A Mansion | 8.00% | ~41 |
 | Researcher | 6.00% | ~31 |
 | I Am The Gate Keeper! | 6.00% | ~31 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 467)  
-Completed: 1 (0.19%) (Ranked 397)  
+Progressed: 518 (Ranked 485)  
+Completed: 1 (0.19%) (Ranked 420)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -190,6 +190,7 @@ Completed: 1 (0.19%) (Ranked 397)
 | 2024-06-26 | 505 | 1 |
 | 2024-08-09 | 513 | 1 |
 | 2024-08-20 | 514 | 1 |
+| 2024-09-14 | 518 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "c916a6f3061d4785b9d39c36bcbb7ece",
   "Name": "Silent Depths",
   "ProductSlug": "silent-depths-d868a8",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T05:57:22.128027+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:19.6479212+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:28.7920868+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:35.941565+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:36.3020893+00:00"
 }

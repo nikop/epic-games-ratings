@@ -2,13 +2,13 @@
   "ID": "f013c08732e84e2db28edc95613f4d6b",
   "Name": "Etherscape",
   "ProductSlug": "the-etherscape-b2e3d2",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-16T15:00:00+00:00",
     "PcReleaseDate": "2024-08-09T15:00:00+00:00",
@@ -92,6 +92,6 @@
   "FirstSeenRating": "2024-08-29T21:59:36.5085015+00:00",
   "LastChanged": "2024-09-13T15:01:29.2891072+00:00",
   "LastUpdate_AppInfo": "2024-09-11T20:56:59.1601859+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:04.0891986+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:07.9882933+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:06.4790271+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:17.0001175+00:00"
 }

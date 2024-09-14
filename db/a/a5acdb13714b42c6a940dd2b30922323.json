@@ -2,10 +2,10 @@
   "ID": "a5acdb13714b42c6a940dd2b30922323",
   "Name": "Unsung Empires: The Cholas II Legacy of Rajendra Chola",
   "ProductSlug": "unsung-empires-the-cholas-ii-legacy-of-rajendra-chola-5b7a11",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T13:14:10.2151844+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:26.7857986+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:32.0449866+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:05.9454633+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:52.7614192+00:00"
 }

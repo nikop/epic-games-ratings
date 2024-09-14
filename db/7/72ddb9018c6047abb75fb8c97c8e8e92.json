@@ -2,10 +2,10 @@
   "ID": "72ddb9018c6047abb75fb8c97c8e8e92",
   "Name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
   "ProductSlug": "earth-defense-force-world-brothers-2-23328f",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-26T07:00:00+00:00",
     "PcReleaseDate": "2024-09-26T07:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "dfk39kc",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:03.4671147+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:03.4660844+00:00",
   "LastUpdate_AppInfo": "2024-09-12T07:56:55.2946773+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:51.2887674+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:04.7405474+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:03.4671292+00:00"
 }

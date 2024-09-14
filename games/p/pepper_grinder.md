@@ -5,17 +5,17 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Treasure Hunter | 94.00% | ~30 |
+| Beetle Flipper | 69.00% | ~22 |
 | New Hobby | 69.00% | ~22 |
-| Beetle Flipper | 66.00% | ~21 |
+| No Wormies | 59.00% | ~19 |
 | A Path Less Traveled | 59.00% | ~19 |
+| Pepper/Mint | 56.00% | ~18 |
 | Garden Shakedown | 56.00% | ~18 |
-| No Wormies | 53.00% | ~17 |
-| Pepper/Mint | 53.00% | ~17 |
-| A Dash of Pepper | 50.00% | ~16 |
-| Make A Friend | 41.00% | ~13 |
-| Dedicated Explorer | 41.00% | ~13 |
+| A Dash of Pepper | 56.00% | ~18 |
+| Make A Friend | 47.00% | ~15 |
+| Dedicated Explorer | 44.00% | ~14 |
 | Emperor Naro | 34.00% | ~11 |
-| Skull Hunter | 25.00% | ~8 |
+| Skull Hunter | 28.00% | ~9 |
 | Stickerbook World Tour | 22.00% | ~7 |
 | Killer Driller | 9.00% | ~3 |
 | Special Series Collector | 9.00% | ~3 |
@@ -28,8 +28,8 @@
 | Speed Strats | 9.00% | ~3 |
 | Done Quick | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 826)  
-Completed: 2 (6.25%) (Ranked 103)  
+Progressed: 32 (Ranked 863)  
+Completed: 2 (6.25%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

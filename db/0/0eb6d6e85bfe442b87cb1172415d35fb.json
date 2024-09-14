@@ -2,10 +2,10 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 640,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 661,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
     "PcReleaseDate": "2021-03-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -434,6 +434,11 @@
       "Time": "2024-08-20T20:08:37.9175222+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:35.650331+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -452,9 +457,9 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 36
     },
     {
       "ID": "AvianVeterinarian",
@@ -462,15 +467,15 @@
       "Name": "Avian veterinarian",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "BehemothOfTheSkies",
       "SetID": "d11cl5p",
       "Name": "Behemoth of the skies",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "CruisingAltitude",
@@ -502,15 +507,15 @@
       "Name": "Hilma af Klint",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "InterimCEO",
       "SetID": "d11cl5p",
       "Name": "Interim CEO",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "InternationalHub",
@@ -534,7 +539,7 @@
       "Name": "Life at the lab",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "MrRobot",
@@ -556,49 +561,49 @@
       "ID": "NouveauRiche",
       "SetID": "d11cl5p",
       "Name": "Nouveau riche",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 44
     },
     {
       "ID": "OrACEO",
       "SetID": "d11cl5p",
       "Name": "Or\u2026 a CEO!",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "QueenOfTheSkies",
       "SetID": "d11cl5p",
       "Name": "Queen of the skies",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "Scan750MBags",
@@ -630,15 +635,15 @@
       "Name": "Small airfield",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "TakeMeToYourHeaven",
       "SetID": "d11cl5p",
       "Name": "Take me to your heaven",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "TakingOff",
@@ -646,7 +651,7 @@
       "Name": "Taking off",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 96
     },
     {
       "ID": "TheAirportCEO",
@@ -660,9 +665,9 @@
       "ID": "TheCollector",
       "SetID": "d11cl5p",
       "Name": "The collector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "TheLuxuryTrap",
@@ -676,17 +681,17 @@
       "ID": "TheScientist",
       "SetID": "d11cl5p",
       "Name": "The scientist",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ThereAndBackAgain",
       "SetID": "d11cl5p",
       "Name": "There and back again",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "TravelToExecutiveBathroomIsland",
@@ -700,9 +705,9 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "YoungSuccessfullEntrepreneur",
@@ -717,14 +722,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:37.9175216+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:35.6503305+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:17.3022528+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:49.7873422+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:37.9175469+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:02.7758905+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:35.6503554+00:00"
 }

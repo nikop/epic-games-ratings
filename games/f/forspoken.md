@@ -5,50 +5,50 @@ Rating: 4.19 (Ranked 1,122)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 14.00% | ~7,384 |
-| Unlocked Potential | 13.00% | ~6,856 |
-| Tinkerer | 10.00% | ~5,274 |
-| Knock 'Em Dead | 9.00% | ~4,747 |
-| Pilgrimage: Initiate | 9.00% | ~4,747 |
-| Hell of a Run | 9.00% | ~4,747 |
-| Leapfrogger | 8.00% | ~4,219 |
-| Call of the Fount: Baptized | 8.00% | ~4,219 |
-| No Mercy | 7.00% | ~3,692 |
-| Explorer: Seeker | 7.00% | ~3,692 |
-| Stuck | 6.00% | ~3,164 |
-| Help Me Out Here | 6.00% | ~3,164 |
-| Through the Eyes of Another: Empath | 5.00% | ~2,637 |
-| The Interloper | 4.00% | ~2,110 |
-| Hop, Step, Jump | 4.00% | ~2,110 |
-| Outdoorsperson | 3.00% | ~1,582 |
-| What Must Be Done | 3.00% | ~1,582 |
-| Damned If You Do... | 3.00% | ~1,582 |
-| Endless Runner | 3.00% | ~1,582 |
-| Might and Main | 2.00% | ~1,055 |
-| The Hue of Blue | 2.00% | ~1,055 |
-| Breaking Point | 2.00% | ~1,055 |
-| None the Wiser | 2.00% | ~1,055 |
-| Explorer: Pathfinder | 2.00% | ~1,055 |
-| Shocker | 2.00% | ~1,055 |
-| From Every Angle | 2.00% | ~1,055 |
-| Pilgrimage: Novice | 2.00% | ~1,055 |
-| The Truth Will Out | 1.00% | ~527 |
-| Forspoken | 1.00% | ~527 |
-| Awakening | 0.90% | ~475 |
-| Wildfire | 0.90% | ~475 |
-| Realized Potential | 0.90% | ~475 |
-| Explorer: Trailblazer | 0.70% | ~369 |
-| Through the Eyes of Another: Seer | 0.60% | ~316 |
-| Craftsperson | 0.50% | ~264 |
-| Archivist | 0.40% | ~211 |
-| Tit for Tat | 0.40% | ~211 |
-| Promises | 0.40% | ~211 |
-| Paragon | 0.30% | ~158 |
-| Call of the Fount: Beatified | 0.30% | ~158 |
-| I Can Fly! | 0.30% | ~158 |
-| A Roaring Trade | 0.30% | ~158 |
-| Rebirth | 0.30% | ~158 |
-| Pilgrimage: Adept | 0.20% | ~105 |
+| Attachments | 14.00% | ~7,464 |
+| Unlocked Potential | 13.00% | ~6,930 |
+| Tinkerer | 10.00% | ~5,331 |
+| Knock 'Em Dead | 9.00% | ~4,798 |
+| Pilgrimage: Initiate | 9.00% | ~4,798 |
+| Hell of a Run | 9.00% | ~4,798 |
+| Leapfrogger | 8.00% | ~4,265 |
+| Call of the Fount: Baptized | 8.00% | ~4,265 |
+| No Mercy | 7.00% | ~3,732 |
+| Explorer: Seeker | 7.00% | ~3,732 |
+| Stuck | 6.00% | ~3,199 |
+| Help Me Out Here | 6.00% | ~3,199 |
+| Through the Eyes of Another: Empath | 5.00% | ~2,666 |
+| The Interloper | 4.00% | ~2,132 |
+| Hop, Step, Jump | 4.00% | ~2,132 |
+| Outdoorsperson | 3.00% | ~1,599 |
+| What Must Be Done | 3.00% | ~1,599 |
+| Damned If You Do... | 3.00% | ~1,599 |
+| Endless Runner | 3.00% | ~1,599 |
+| Might and Main | 2.00% | ~1,066 |
+| The Hue of Blue | 2.00% | ~1,066 |
+| Breaking Point | 2.00% | ~1,066 |
+| None the Wiser | 2.00% | ~1,066 |
+| Explorer: Pathfinder | 2.00% | ~1,066 |
+| Shocker | 2.00% | ~1,066 |
+| From Every Angle | 2.00% | ~1,066 |
+| Pilgrimage: Novice | 2.00% | ~1,066 |
+| The Truth Will Out | 1.00% | ~533 |
+| Forspoken | 1.00% | ~533 |
+| Awakening | 0.90% | ~480 |
+| Wildfire | 0.90% | ~480 |
+| Realized Potential | 0.90% | ~480 |
+| Explorer: Trailblazer | 0.70% | ~373 |
+| Through the Eyes of Another: Seer | 0.60% | ~320 |
+| Craftsperson | 0.50% | ~267 |
+| Archivist | 0.40% | ~213 |
+| Tit for Tat | 0.40% | ~213 |
+| Promises | 0.40% | ~213 |
+| Paragon | 0.30% | ~160 |
+| Call of the Fount: Beatified | 0.30% | ~160 |
+| I Can Fly! | 0.30% | ~160 |
+| A Roaring Trade | 0.30% | ~160 |
+| Rebirth | 0.30% | ~160 |
+| Pilgrimage: Adept | 0.20% | ~107 |
 | Abominizer | 0.10% | ~53 |
 | Through the Eyes of Another: Visionary | 0.10% | ~53 |
 | Kit and Caboodle | 0.10% | ~53 |
@@ -59,8 +59,8 @@ Rating: 4.19 (Ranked 1,122)
 | Remembrance | 0.10% | ~53 |
 | Cat Person | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,741 (Ranked 170)  
-Completed: 5 (0.01%) (Ranked 532)  
+Progressed: 53,311 (Ranked 180)  
+Completed: 5 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,6 +346,7 @@ Completed: 5 (0.01%) (Ranked 532)
 | 2024-04-10 | 50,032 | 4 |
 | 2024-06-17 | 51,902 | 4 |
 | 2024-08-09 | 52,741 | 5 |
+| 2024-09-14 | 53,311 | 5 |
 ## Awards
 Max (Character Customization): 89  (Ranked 484)  
 Sum: 136 (Ranked 552)  

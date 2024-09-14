@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 88.00% | ~298 |
-| Path of Despair | 88.00% | ~298 |
-| Not alone | 64.00% | ~217 |
-| Hunger | 54.00% | ~183 |
-| Awaken | 46.00% | ~156 |
-| Path of Corruption | 37.00% | ~125 |
-| Hope | 33.00% | ~112 |
-| Rage | 33.00% | ~112 |
-| Path of Pain | 27.00% | ~92 |
-| Mayhem | 24.00% | ~81 |
-| Reflections | 24.00% | ~81 |
-| The shining | 24.00% | ~81 |
-| Clarity | 21.00% | ~71 |
-| Health | 21.00% | ~71 |
-| Awaiting orders | 20.00% | ~68 |
-| Art critic | 15.00% | ~51 |
-| Jigsaw | 15.00% | ~51 |
-| Peace | 15.00% | ~51 |
-| All knowing | 10.00% | ~34 |
-| Lost | 9.00% | ~31 |
-| An act of courage | 6.00% | ~20 |
-| Corruption | 6.00% | ~20 |
+| Morgengrauen | 88.00% | ~312 |
+| Path of Despair | 88.00% | ~312 |
+| Not alone | 64.00% | ~227 |
+| Hunger | 54.00% | ~192 |
+| Awaken | 46.00% | ~163 |
+| Path of Corruption | 38.00% | ~135 |
+| Hope | 34.00% | ~121 |
+| Rage | 34.00% | ~121 |
+| Path of Pain | 28.00% | ~99 |
+| Mayhem | 24.00% | ~85 |
+| Reflections | 24.00% | ~85 |
+| The shining | 24.00% | ~85 |
+| Clarity | 21.00% | ~75 |
+| Health | 21.00% | ~75 |
+| Awaiting orders | 20.00% | ~71 |
+| Art critic | 15.00% | ~53 |
+| Jigsaw | 15.00% | ~53 |
+| Peace | 15.00% | ~53 |
+| All knowing | 10.00% | ~36 |
+| Lost | 8.00% | ~28 |
+| An act of courage | 6.00% | ~21 |
+| Corruption | 6.00% | ~21 |
 | An act of compassion | 4.00% | ~14 |
-| An act of mercy | 3.00% | ~10 |
+| An act of mercy | 3.00% | ~11 |
 | Ad Infinitum | 0.60% | ~2 |
 | Pain | 0.60% | ~2 |
 | Despair | 0.30% | ~1 |
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 339 (Ranked 519)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 355 (Ranked 532)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -125,3 +125,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 272 | 0 |
 | 2024-06-17 | 317 | 0 |
 | 2024-08-09 | 339 | 0 |
+| 2024-09-14 | 355 | 0 |

@@ -2,10 +2,10 @@
   "ID": "0dbbe16ebc3545e6a248cb918da66b9f",
   "Name": "Unstoppable: Breakout",
   "ProductSlug": "unstoppable-3e9381",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-02T15:00:00+00:00",
     "PcReleaseDate": "2024-01-11T09:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T14:57:12.5487274+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:31.7266011+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:16.5384887+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:04.7782628+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:07.3163777+00:00"
 }

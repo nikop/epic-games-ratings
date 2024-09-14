@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 86.00% | ~72 |
+| First Blood | 87.00% | ~73 |
 | Killing Spree | 68.00% | ~57 |
 | Merchant Prince I | 57.00% | ~48 |
 | 5Gb HDD | 52.00% | ~44 |
@@ -137,8 +137,8 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 84 (Ranked 706)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 84 (Ranked 734)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

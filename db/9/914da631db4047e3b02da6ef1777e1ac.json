@@ -2,10 +2,10 @@
   "ID": "914da631db4047e3b02da6ef1777e1ac",
   "Name": "Sift Heads Legendary Pack",
   "ProductSlug": "sift-heads-legendary-pack-768f5e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-29T16:00:00+00:00",
     "PcReleaseDate": "2024-05-30T17:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-31T06:59:40.3942604+00:00",
   "LastUpdate_AppInfo": "2024-09-12T07:56:55.4656925+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:18.0412077+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:05.107633+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:54.6479053+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:15.3986901+00:00"
 }

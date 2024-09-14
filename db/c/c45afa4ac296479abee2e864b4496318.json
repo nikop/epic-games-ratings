@@ -2,10 +2,10 @@
   "ID": "c45afa4ac296479abee2e864b4496318",
   "Name": "WW2 Bunker Simulator",
   "ProductSlug": "ww2-bunker-simulator-fe8678",
-  "Ranking_EOS_Progress": 741,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 755,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-10T14:00:01.116+00:00",
     "PcReleaseDate": "2022-10-10T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 65,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-08-09T18:02:10.0987442+00:00",
       "NumProgressed": 65,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:18.6129401+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-03-21T17:05:35.2225333+00:00",
@@ -56,21 +61,21 @@
       "Name": "Nobody will be offended",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_BODY2",
       "SetID": "821pm01",
       "Name": "You have to survive somehow ...",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BODY3",
       "SetID": "821pm01",
       "Name": "Graveyard hyena",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -78,17 +83,17 @@
       "ID": "ACH_END_TUTORIAL",
       "SetID": "821pm01",
       "Name": "Greenhorn",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_KILLER_MACHINE",
       "SetID": "821pm01",
       "Name": "Try to get me!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_KILLER_MACHINE2",
@@ -102,7 +107,7 @@
       "ID": "ACH_KILLER_MACHINE3",
       "SetID": "821pm01",
       "Name": "Dominator",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -118,7 +123,7 @@
       "ID": "ACH_KILLER_PISTOL2",
       "SetID": "821pm01",
       "Name": "One-armed bandit",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "ACH_KILLER_PISTOL3",
       "SetID": "821pm01",
       "Name": "Gunslinger",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -134,9 +139,9 @@
       "ID": "ACH_LUMBER",
       "SetID": "821pm01",
       "Name": "When you run out of ammo ...",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_LUMBER2",
@@ -150,7 +155,7 @@
       "ID": "ACH_LUMBER3",
       "SetID": "821pm01",
       "Name": "Butcher",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -166,7 +171,7 @@
       "ID": "ACH_PLANE2",
       "SetID": "821pm01",
       "Name": "Heaven under control",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "ACH_PLANE3",
       "SetID": "821pm01",
       "Name": "A ground ace",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "ACH_TANKS2",
       "SetID": "821pm01",
       "Name": "Taste your own weapons!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -198,7 +203,7 @@
       "ID": "ACH_TANKS3",
       "SetID": "821pm01",
       "Name": "Hunter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -207,14 +212,14 @@
     {
       "ID": "821pm01",
       "IsBase": true,
-      "Progressed": 65,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-12T11:58:13.0323052+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:35.2225332+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:10.0987435+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:18.6129392+00:00",
   "LastUpdate_AppInfo": "2024-09-14T10:57:08.8405941+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:01.5132583+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:10.0992181+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:03:58.8440721+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:18.6129545+00:00"
 }

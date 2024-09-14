@@ -2,10 +2,10 @@
   "ID": "615330bff3a54d4e88176873e842d220",
   "Name": "Finger Fury Showdown",
   "ProductSlug": "finger-fury-showdown-61f316",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-10T22:00:00+00:00",
     "PcReleaseDate": "2023-03-25T23:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T10:56:59.492276+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:13.1659419+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:32.0504244+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:56.0529449+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:38.2823668+00:00"
 }

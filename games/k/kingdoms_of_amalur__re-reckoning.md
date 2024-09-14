@@ -6,78 +6,78 @@ Number of Ratings: 137  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Reborn | 55.00% | ~950 |
-| Good as New | 39.00% | ~674 |
-| Would You Like Fries with that? | 38.00% | ~656 |
-| Cleaning Up the Streets | 25.00% | ~432 |
-| Some of This, Some of That | 24.00% | ~414 |
-| The Great Detective | 23.00% | ~397 |
-| Reckoning Rampage | 21.00% | ~363 |
-| Shop Class | 20.00% | ~345 |
-| Big Spender | 19.00% | ~328 |
-| Breaking and Entering | 19.00% | ~328 |
-| It Didn't Explode! | 18.00% | ~311 |
-| Shock and Awe | 16.00% | ~276 |
-| Jack of All Trades | 16.00% | ~276 |
-| No Destiny, All Determination | 13.00% | ~225 |
-| Niskaru Slayer | 13.00% | ~225 |
-| Green Thumb | 13.00% | ~225 |
-| To the Victor Go the Spoils | 12.00% | ~207 |
-| Bull in a China Shop | 12.00% | ~207 |
-| Diamond in the Rough | 11.00% | ~190 |
-| Five Finger Discount | 11.00% | ~190 |
-| House of Ballads | 10.00% | ~173 |
-| Juggler | 10.00% | ~173 |
-| Beam Me Up | 10.00% | ~173 |
-| Master of the Forge | 9.00% | ~155 |
-| Cartographer | 9.00% | ~155 |
-| Open Sesame | 9.00% | ~155 |
-| Turning the Tide | 8.00% | ~138 |
-| Hero of Mel Senshir | 8.00% | ~138 |
-| Warsworn | 7.00% | ~121 |
-| They Never Saw it Coming | 7.00% | ~121 |
-| It is Your Destiny | 7.00% | ~121 |
-| And Then There Were None | 6.00% | ~104 |
-| Romancing the Gem | 6.00% | ~104 |
-| We Built this City | 6.00% | ~104 |
-| Destiny Defiant | 5.00% | ~86 |
-| Foiled Again! | 5.00% | ~86 |
-| Trapper | 5.00% | ~86 |
-| Elixir of Fate | 5.00% | ~86 |
-| Bookworm | 5.00% | ~86 |
-| Crime Doesn't Pay | 5.00% | ~86 |
-| Streaker | 5.00% | ~86 |
-| Keep on Rising | 5.00% | ~86 |
-| Manic Pixie Dream Elf | 5.00% | ~86 |
-| House of Sorrows | 4.00% | ~69 |
-| Scholia Arcana | 4.00% | ~69 |
-| Travelers | 4.00% | ~69 |
-| A Wink and a Smile | 4.00% | ~69 |
-| The Harder They Fall | 4.00% | ~69 |
-| Murder Most Fowl | 4.00% | ~69 |
-| Riposte! | 3.00% | ~52 |
-| Mistaken Identity | 3.00% | ~52 |
-| Destiny Dominated | 2.00% | ~35 |
-| Out of Your League | 2.00% | ~35 |
-| Where's My Wallet? | 2.00% | ~35 |
-| Jailbreak | 2.00% | ~35 |
-| Sixpack | 2.00% | ~35 |
-| Loremaster | 1.00% | ~17 |
-| I Regret Nothing | 1.00% | ~17 |
-| Farewell, Fateless One | 1.00% | ~17 |
-| The Floor is Lava | 1.00% | ~17 |
-| Gatekeeper | 0.80% | ~14 |
-| Walking Fortress | 0.70% | ~12 |
-| Exterminator | 0.60% | ~10 |
-| Give Her a Hand | 0.50% | ~9 |
-| A Life of Crime | 0.40% | ~7 |
-| Message in a Bottle | 0.30% | ~5 |
-| Customer Service | 0.30% | ~5 |
-| Black Hole | 0.30% | ~5 |
+| Reborn | 56.00% | ~1,071 |
+| Good as New | 41.00% | ~784 |
+| Would You Like Fries with that? | 39.00% | ~746 |
+| Cleaning Up the Streets | 26.00% | ~497 |
+| The Great Detective | 24.00% | ~459 |
+| Some of This, Some of That | 24.00% | ~459 |
+| Reckoning Rampage | 22.00% | ~421 |
+| Shop Class | 20.00% | ~382 |
+| Big Spender | 19.00% | ~363 |
+| Breaking and Entering | 19.00% | ~363 |
+| It Didn't Explode! | 18.00% | ~344 |
+| Shock and Awe | 16.00% | ~306 |
+| Jack of All Trades | 16.00% | ~306 |
+| No Destiny, All Determination | 13.00% | ~249 |
+| Niskaru Slayer | 13.00% | ~249 |
+| Green Thumb | 13.00% | ~249 |
+| To the Victor Go the Spoils | 12.00% | ~229 |
+| Bull in a China Shop | 12.00% | ~229 |
+| Diamond in the Rough | 11.00% | ~210 |
+| Five Finger Discount | 11.00% | ~210 |
+| House of Ballads | 10.00% | ~191 |
+| Juggler | 10.00% | ~191 |
+| Beam Me Up | 10.00% | ~191 |
+| Master of the Forge | 9.00% | ~172 |
+| Cartographer | 9.00% | ~172 |
+| Open Sesame | 9.00% | ~172 |
+| Turning the Tide | 8.00% | ~153 |
+| Hero of Mel Senshir | 7.00% | ~134 |
+| Warsworn | 7.00% | ~134 |
+| They Never Saw it Coming | 7.00% | ~134 |
+| It is Your Destiny | 7.00% | ~134 |
+| We Built this City | 7.00% | ~134 |
+| And Then There Were None | 6.00% | ~115 |
+| Destiny Defiant | 5.00% | ~96 |
+| Foiled Again! | 5.00% | ~96 |
+| Trapper | 5.00% | ~96 |
+| Elixir of Fate | 5.00% | ~96 |
+| Romancing the Gem | 5.00% | ~96 |
+| Bookworm | 5.00% | ~96 |
+| Crime Doesn't Pay | 5.00% | ~96 |
+| Streaker | 5.00% | ~96 |
+| Keep on Rising | 5.00% | ~96 |
+| Manic Pixie Dream Elf | 5.00% | ~96 |
+| House of Sorrows | 4.00% | ~76 |
+| Scholia Arcana | 4.00% | ~76 |
+| Travelers | 4.00% | ~76 |
+| A Wink and a Smile | 4.00% | ~76 |
+| The Harder They Fall | 4.00% | ~76 |
+| Murder Most Fowl | 4.00% | ~76 |
+| Riposte! | 3.00% | ~57 |
+| Mistaken Identity | 3.00% | ~57 |
+| Destiny Dominated | 2.00% | ~38 |
+| Out of Your League | 2.00% | ~38 |
+| Where's My Wallet? | 2.00% | ~38 |
+| Jailbreak | 2.00% | ~38 |
+| Sixpack | 2.00% | ~38 |
+| Loremaster | 1.00% | ~19 |
+| I Regret Nothing | 1.00% | ~19 |
+| Farewell, Fateless One | 1.00% | ~19 |
+| The Floor is Lava | 1.00% | ~19 |
+| Gatekeeper | 0.80% | ~15 |
+| Walking Fortress | 0.70% | ~13 |
+| Exterminator | 0.60% | ~11 |
+| A Life of Crime | 0.50% | ~10 |
+| Give Her a Hand | 0.50% | ~10 |
+| Message in a Bottle | 0.30% | ~6 |
+| Customer Service | 0.30% | ~6 |
+| Black Hole | 0.30% | ~6 |
 | Perfectionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,727 (Ranked 368)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,912 (Ranked 375)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 1,221 | 0 |
 | 2024-08-09 | 1,660 | 0 |
 | 2024-08-20 | 1,727 | 0 |
+| 2024-09-14 | 1,912 | 0 |
 ## Awards
 Max (Character Customization): 94  (Ranked 478)  
 Sum: 151 (Ranked 541)  

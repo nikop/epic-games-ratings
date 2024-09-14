@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 84.00% | ~173,048 |
-| Struck A Pose | 83.00% | ~170,987 |
-| Look At Him Go | 74.00% | ~152,447 |
-| On Rails Experience | 51.00% | ~105,065 |
-| A Daring Devil | 48.00% | ~98,884 |
-| It Took Two | 43.00% | ~88,584 |
-| Break the Bank | 37.00% | ~76,223 |
-| Bug Sized Relaxation | 19.00% | ~39,142 |
-| Plastic Prison Breakers | 14.00% | ~28,841 |
-| Terror Of The Seven Seas | 13.00% | ~26,781 |
-| Meditation Maestro | 11.00% | ~22,661 |
-| Realize Your Art | 10.00% | ~20,601 |
-| Force Triangulated | 10.00% | ~20,601 |
-| Something Fishy | 9.00% | ~18,541 |
-| Lost And Found | 8.00% | ~16,481 |
-| Snackosaurus | 7.00% | ~14,421 |
-| Platforming Prodigy | 7.00% | ~14,421 |
-| Mood Swing | 6.00% | ~12,361 |
-| Faraway Frequencies | 3.00% | ~6,180 |
-| Minigame Megalomania | 2.00% | ~4,120 |
+| Fried Friendship | 84.00% | ~176,350 |
+| Struck A Pose | 83.00% | ~174,250 |
+| Look At Him Go | 74.00% | ~155,356 |
+| On Rails Experience | 52.00% | ~109,169 |
+| A Daring Devil | 48.00% | ~100,771 |
+| It Took Two | 43.00% | ~90,274 |
+| Break the Bank | 37.00% | ~77,678 |
+| Bug Sized Relaxation | 19.00% | ~39,889 |
+| Plastic Prison Breakers | 14.00% | ~29,392 |
+| Terror Of The Seven Seas | 13.00% | ~27,292 |
+| Meditation Maestro | 11.00% | ~23,093 |
+| Realize Your Art | 10.00% | ~20,994 |
+| Force Triangulated | 10.00% | ~20,994 |
+| Something Fishy | 9.00% | ~18,895 |
+| Lost And Found | 8.00% | ~16,795 |
+| Snackosaurus | 7.00% | ~14,696 |
+| Platforming Prodigy | 7.00% | ~14,696 |
+| Mood Swing | 6.00% | ~12,596 |
+| Minigame Megalomania | 3.00% | ~6,298 |
+| Faraway Frequencies | 3.00% | ~6,298 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206,009 (Ranked 95)  
-Completed: 765 (0.37%) (Ranked 350)  
+Progressed: 209,940 (Ranked 100)  
+Completed: 789 (0.38%) (Ranked 374)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -166,3 +166,4 @@ Completed: 765 (0.37%) (Ranked 350)
 | 2024-06-17 | 189,539 | 670 |
 | 2024-08-09 | 203,953 | 751 |
 | 2024-08-20 | 206,009 | 765 |
+| 2024-09-14 | 209,940 | 789 |

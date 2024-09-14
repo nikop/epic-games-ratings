@@ -2,10 +2,10 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Progress": 397,
+  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1376,
-  "EOS_Completed": 31,
-  "EOS_NewPlayers": 17,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.25,
+  "EOS_Progressed": 1396,
+  "EOS_Completed": 33,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -2101,6 +2101,11 @@
       "Time": "2024-08-20T20:09:50.9574612+00:00",
       "NumProgressed": 1376,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-09-14T14:23:27.1482965+00:00",
+      "NumProgressed": 1396,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 20,
@@ -2112,7 +2117,7 @@
       "Name": "Beat It",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 619
+      "UsersEstimate": 628
     },
     {
       "ID": "blast_from_the_past",
@@ -2120,7 +2125,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1145
     },
     {
       "ID": "deadly_secret",
@@ -2128,7 +2133,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "ending_1",
@@ -2136,7 +2141,7 @@
       "Name": "The Nano Glitches And The Martyr",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ending_2",
@@ -2144,7 +2149,7 @@
       "Name": "Second Chances",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ending_3",
@@ -2152,7 +2157,7 @@
       "Name": "Get Out Of This Alive",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "ending_4",
@@ -2160,7 +2165,7 @@
       "Name": "The Promise",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "ending_5",
@@ -2168,7 +2173,7 @@
       "Name": "Lab Rat",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 372
+      "UsersEstimate": 377
     },
     {
       "ID": "ending_6",
@@ -2176,7 +2181,7 @@
       "Name": "Stalemate",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 335
     },
     {
       "ID": "ending_7",
@@ -2184,7 +2189,7 @@
       "Name": "Trust Me For Once",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 316
+      "UsersEstimate": 321
     },
     {
       "ID": "ending_8",
@@ -2192,7 +2197,7 @@
       "Name": "MVP - Most Vanishing Person",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 168
     },
     {
       "ID": "falling_for_you",
@@ -2200,39 +2205,39 @@
       "Name": "Falling For You",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 578
+      "UsersEstimate": 586
     },
     {
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 702
+      "UsersEstimate": 726
     },
     {
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 881
+      "UsersEstimate": 907
     },
     {
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 220
+      "UsersEstimate": 237
     },
     {
       "ID": "not_a_people_person",
       "SetID": "d4f4pll",
       "Name": "Not A People Person",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 56
     },
     {
       "ID": "people_pleaser",
@@ -2240,47 +2245,47 @@
       "Name": "People Pleaser",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "storage_hunter",
       "SetID": "d4f4pll",
       "Name": "Storage Hunter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 647
+      "UsersEstimate": 670
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 771
+      "UsersEstimate": 796
     },
     {
       "ID": "tough_decision",
       "SetID": "d4f4pll",
       "Name": "Tough Decision",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1270
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 1376,
-      "Completed": 31
+      "Progressed": 1396,
+      "Completed": 33
     }
   ],
   "FirstSeen": "2022-10-09T13:32:29.6918033+00:00",
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:50.9574607+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:27.1482959+00:00",
   "LastUpdate_AppInfo": "2024-09-09T10:57:12.0954297+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:55.0678499+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:50.9574869+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:10.5204477+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:27.148316+00:00"
 }

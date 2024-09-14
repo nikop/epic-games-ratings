@@ -2,10 +2,10 @@
   "ID": "3e2c28241611405aa231308a39bee638",
   "Name": "Delta Force",
   "ProductSlug": "delta-force-acea48",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-14T03:01:06.1714803+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:29.7884509+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:36.5253158+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:33.0024203+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:40.9606254+00:00"
 }

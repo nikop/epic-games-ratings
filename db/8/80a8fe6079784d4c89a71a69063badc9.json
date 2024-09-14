@@ -2,10 +2,10 @@
   "ID": "80a8fe6079784d4c89a71a69063badc9",
   "Name": "Police, Open The Door!",
   "ProductSlug": "police-open-the-door-79506c",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-31T00:00:00+00:00",
     "PcReleaseDate": "2024-08-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-07T15:57:13.9783543+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:20.4151427+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:01.7468472+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:47.3811026+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:18.6833154+00:00"
 }

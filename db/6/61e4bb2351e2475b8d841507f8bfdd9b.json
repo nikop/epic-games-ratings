@@ -2,10 +2,10 @@
   "ID": "61e4bb2351e2475b8d841507f8bfdd9b",
   "Name": "Concord",
   "ProductSlug": "concord",
-  "Ranking_EOS_Progress": 960,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-02-01T17:00:00+00:00",
     "PcReleaseDate": "2099-02-01T17:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 131,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -29,6 +29,11 @@
     {
       "Time": "2024-08-20T20:13:31.448381+00:00",
       "NumProgressed": 9,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:37.9746086+00:00",
+      "NumProgressed": 131,
       "NumCompleted": 0
     }
   ],
@@ -40,9 +45,9 @@
       "ID": "account_lvl_10",
       "SetID": "6mljgog",
       "Name": "Freegunner Frequency",
-      "Percentage": 0,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 58
     },
     {
       "ID": "account_lvl_100",
@@ -72,233 +77,233 @@
       "ID": "anchor_kills",
       "SetID": "6mljgog",
       "Name": "1-0FF: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "anchor_lvl_10",
       "SetID": "6mljgog",
       "Name": "1-0FF: Level 10",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "berserker_kills",
       "SetID": "6mljgog",
       "Name": "Star Child: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "berserker_lvl_10",
       "SetID": "6mljgog",
       "Name": "Star Child: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "chemist_kills",
       "SetID": "6mljgog",
       "Name": "DaVeers: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "chemist_lvl_10",
       "SetID": "6mljgog",
       "Name": "DaVeers: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "destroy_deployables",
       "SetID": "6mljgog",
       "Name": "Trash Collector",
-      "Percentage": 0,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 77
     },
     {
       "ID": "field_medic_kills",
       "SetID": "6mljgog",
       "Name": "Daw: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "field_medic_lvl_10",
       "SetID": "6mljgog",
       "Name": "Daw: Level 10",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "first_kill",
       "SetID": "6mljgog",
       "Name": "First Takedown",
-      "Percentage": 0,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 97
     },
     {
       "ID": "gardener_kills",
       "SetID": "6mljgog",
       "Name": "Lark: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "gardener_lvl_10",
       "SetID": "6mljgog",
       "Name": "Lark: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "gemini_kills",
       "SetID": "6mljgog",
       "Name": "It-Z: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "gemini_lvl_10",
       "SetID": "6mljgog",
       "Name": "It-Z: Level 10",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "gunslinger_kills",
       "SetID": "6mljgog",
       "Name": "Lennox: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "gunslinger_lvl_10",
       "SetID": "6mljgog",
       "Name": "Lennox: Level 10",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "heal_damage_10k",
       "SetID": "6mljgog",
       "Name": "Veteran Medic",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 26
     },
     {
       "ID": "heal_damage_5k",
       "SetID": "6mljgog",
       "Name": "Trained Healer",
-      "Percentage": 0,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 39
     },
     {
       "ID": "jobs_10_dailies",
       "SetID": "6mljgog",
       "Name": "Day by Day",
-      "Percentage": 0,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 47
     },
     {
       "ID": "jobs_10_weeklies",
       "SetID": "6mljgog",
       "Name": "Week by Week",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "keeper_kills",
       "SetID": "6mljgog",
       "Name": "Duchess: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "keeper_lvl_10",
       "SetID": "6mljgog",
       "Name": "Duchess: Level 10",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "kill_3_w_abilities",
       "SetID": "6mljgog",
       "Name": "Special Skills",
-      "Percentage": 0,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 69
     },
     {
       "ID": "kill_5_in_single_match",
       "SetID": "6mljgog",
       "Name": "Knock \u0027Em Down",
-      "Percentage": 0,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 80
     },
     {
       "ID": "killstreak_2",
       "SetID": "6mljgog",
       "Name": "Triple Dip",
-      "Percentage": 0,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 73
     },
     {
       "ID": "killstreak_5",
       "SetID": "6mljgog",
       "Name": "Line \u0027Em Up",
-      "Percentage": 0,
+      "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 48
     },
     {
       "ID": "knife_expert_kills",
       "SetID": "6mljgog",
       "Name": "Bazz: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "knife_expert_lvl_10",
       "SetID": "6mljgog",
       "Name": "Bazz: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "lifeshare_kills",
       "SetID": "6mljgog",
       "Name": "Jabali: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "lifeshare_lvl_10",
@@ -312,151 +317,151 @@
       "ID": "lookout_kills",
       "SetID": "6mljgog",
       "Name": "Kyps: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "lookout_lvl_10",
       "SetID": "6mljgog",
       "Name": "Kyps: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "play_16_characters",
       "SetID": "6mljgog",
       "Name": "Crew Complement",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "play_games",
       "SetID": "6mljgog",
       "Name": "Power of Persistence",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "play_with_friend",
       "SetID": "6mljgog",
       "Name": "Buddy Up",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 24
     },
     {
       "ID": "pyromancer_kills",
       "SetID": "6mljgog",
       "Name": "Haymar: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "pyromancer_lvl_10",
       "SetID": "6mljgog",
       "Name": "Haymar: Level 10",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "renegade_kills",
       "SetID": "6mljgog",
       "Name": "Teo: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 10
     },
     {
       "ID": "renegade_lvl_10",
       "SetID": "6mljgog",
       "Name": "Teo: Level 10",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "rocket_jumper_lvl_10",
       "SetID": "6mljgog",
       "Name": "Roka: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "rocketjumper_kills",
       "SetID": "6mljgog",
       "Name": "Roka: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "scrapper_kills",
       "SetID": "6mljgog",
       "Name": "Emari: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "scrapper_lvl_10",
       "SetID": "6mljgog",
       "Name": "Emari: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "secure_3_objectives",
       "SetID": "6mljgog",
       "Name": "Get It Done",
-      "Percentage": 0,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 58
     },
     {
       "ID": "sniper_kills",
       "SetID": "6mljgog",
       "Name": "Vale: 50 Eliminations",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "sniper_lvl_10",
       "SetID": "6mljgog",
       "Name": "Vale: Level 10",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "win_games",
       "SetID": "6mljgog",
       "Name": "Win Big",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "6mljgog",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 131,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-23T18:57:21.9720629+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:03.9855397+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:31.4483803+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:37.9746081+00:00",
   "LastUpdate_AppInfo": "2024-09-12T23:56:59.0226307+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:01.3019932+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:31.4491955+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:47.4379477+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:37.9746395+00:00"
 }

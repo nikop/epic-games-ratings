@@ -5,42 +5,42 @@ Rating: 4.29 (Ranked 1,020)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 47.00% | ~746 |
-| Manipulating Fate | 11.00% | ~175 |
-| The City | 11.00% | ~175 |
-| Hear me out | 8.00% | ~127 |
-| Full house | 7.00% | ~111 |
-| Burn and Pillage | 7.00% | ~111 |
-| Hidden Secrets | 6.00% | ~95 |
-| Listening to the crowd | 6.00% | ~95 |
-| The Penitent Ones | 5.00% | ~79 |
-| Greedy | 5.00% | ~79 |
-| The Stranded King | 5.00% | ~79 |
-| Accepting the Prophecy | 5.00% | ~79 |
-| Just Chilling | 4.00% | ~63 |
-| Ascended | 4.00% | ~63 |
-| Incredible Strength | 4.00% | ~63 |
-| The Greedy Ones | 4.00% | ~63 |
-| Prophecy Fulfilled | 4.00% | ~63 |
-| The First King | 3.00% | ~48 |
-| The great fire | 2.00% | ~32 |
-| The Unruly Ones | 2.00% | ~32 |
+| We made it | 47.00% | ~768 |
+| Manipulating Fate | 11.00% | ~180 |
+| The City | 11.00% | ~180 |
+| Hear me out | 8.00% | ~131 |
+| Full house | 7.00% | ~114 |
+| Burn and Pillage | 7.00% | ~114 |
+| Listening to the crowd | 6.00% | ~98 |
+| The Penitent Ones | 5.00% | ~82 |
+| Greedy | 5.00% | ~82 |
+| Hidden Secrets | 5.00% | ~82 |
+| The Stranded King | 5.00% | ~82 |
+| Accepting the Prophecy | 5.00% | ~82 |
+| Just Chilling | 4.00% | ~65 |
+| Ascended | 4.00% | ~65 |
+| Incredible Strength | 4.00% | ~65 |
+| Prophecy Fulfilled | 4.00% | ~65 |
+| The First King | 3.00% | ~49 |
+| The Greedy Ones | 3.00% | ~49 |
+| The Unruly Ones | 2.00% | ~33 |
+| The great fire | 1.00% | ~16 |
 | The Council | 1.00% | ~16 |
 | The Mad | 1.00% | ~16 |
-| Metropolis | 0.90% | ~14 |
-| Like the dream | 0.90% | ~14 |
+| Like the dream | 1.00% | ~16 |
+| Metropolis | 0.90% | ~15 |
 | Knowledge is Power | 0.70% | ~11 |
 | Red Tape | 0.60% | ~10 |
 | Charismatic Leader | 0.60% | ~10 |
 | Six Faces | 0.50% | ~8 |
 | The Great Winter | 0.50% | ~8 |
-| Ice and Fire | 0.30% | ~5 |
 | It's spreading | 0.30% | ~5 |
 | The Flail | 0.30% | ~5 |
-| The Corrupted | 0.30% | ~5 |
 | The Incarnate | 0.30% | ~5 |
+| Ice and Fire | 0.20% | ~3 |
 | Mad Engineers | 0.20% | ~3 |
 | Aesthetics | 0.20% | ~3 |
+| The Corrupted | 0.20% | ~3 |
 | The experiment | 0.10% | ~2 |
 | Break the chains | 0.10% | ~2 |
 | Discover the truth | 0.10% | ~2 |
@@ -51,8 +51,8 @@ Rating: 4.29 (Ranked 1,020)
 | Purist | 0.00% | ~0 |
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,587 (Ranked 377)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,635 (Ranked 389)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -286,6 +286,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 1,443 | 0 |
 | 2024-06-17 | 1,528 | 0 |
 | 2024-08-09 | 1,587 | 0 |
+| 2024-09-14 | 1,635 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

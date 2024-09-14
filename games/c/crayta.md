@@ -6,20 +6,20 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Well Socialised! | 23.00% | ~25,376 |
-| Variety Player - Bronze | 13.00% | ~14,343 |
-| Express Yourself - Bronze | 7.00% | ~7,723 |
-| Getting Friendly | 5.00% | ~5,517 |
-| Challenge Apprentice | 5.00% | ~5,517 |
-| Building Block - Bronze | 4.00% | ~4,413 |
-| Variety Player - Silver | 4.00% | ~4,413 |
+| Well Socialised! | 23.00% | ~25,381 |
+| Variety Player - Bronze | 13.00% | ~14,346 |
+| Express Yourself - Bronze | 7.00% | ~7,725 |
+| Getting Friendly | 5.00% | ~5,518 |
+| Challenge Apprentice | 5.00% | ~5,518 |
+| Building Block - Bronze | 4.00% | ~4,414 |
+| Variety Player - Silver | 4.00% | ~4,414 |
 | Building Block - Silver | 2.00% | ~2,207 |
 | Challenge Veteran | 2.00% | ~2,207 |
 | Express Yourself - Silver | 2.00% | ~2,207 |
-| Building Block - Gold | 1.00% | ~1,103 |
-| Grouping Up - Bronze | 1.00% | ~1,103 |
-| Community Creativity | 1.00% | ~1,103 |
-| Shared! | 1.00% | ~1,103 |
+| Building Block - Gold | 1.00% | ~1,104 |
+| Grouping Up - Bronze | 1.00% | ~1,104 |
+| Community Creativity | 1.00% | ~1,104 |
+| Shared! | 1.00% | ~1,104 |
 | These Are a Few of My Favorite Things - Bronze | 0.70% | ~772 |
 | Standing on the Shoulders of Giants - Bronze | 0.60% | ~662 |
 | Going Public! | 0.60% | ~662 |
@@ -41,8 +41,8 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Silver | 0.10% | ~110 |
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,332 (Ranked 125)  
-Completed: 5 (0.00%) (Ranked 561)  
+Progressed: 110,354 (Ranked 136)  
+Completed: 5 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,6 +316,7 @@ Completed: 5 (0.00%) (Ranked 561)
 | 2024-06-17 | 110,239 | 5 |
 | 2024-08-09 | 110,320 | 5 |
 | 2024-08-20 | 110,332 | 5 |
+| 2024-09-14 | 110,354 | 5 |
 ## Awards
 Max (Diverse Characters): 50  (Ranked 559)  
 Sum: 370 (Ranked 447)  

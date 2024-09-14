@@ -2,13 +2,13 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_Rating": 183,
+  "Ranking_Rating": 184,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 457,
+  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -71,11 +71,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 688,
+  "EOS_Progressed": 693,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.16,
+  "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -2231,6 +2231,11 @@
       "Time": "2024-08-09T18:02:45.4786026+00:00",
       "NumProgressed": 688,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-09-14T14:15:59.2441188+00:00",
+      "NumProgressed": 693,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2251,7 +2256,7 @@
       "Name": "Empire",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -2259,15 +2264,15 @@
       "Name": "Bowels",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_ALL_RECIPES",
       "SetID": "16i2akc",
       "Name": "Cookbook",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 41
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -2275,7 +2280,7 @@
       "Name": "Gift",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -2297,9 +2302,9 @@
       "ID": "AC_BLACKJACK_GAMES_1",
       "SetID": "16i2akc",
       "Name": "Gambler",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 159
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2313,17 +2318,17 @@
       "ID": "AC_BOSS_00",
       "SetID": "16i2akc",
       "Name": "Hunger",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 381
     },
     {
       "ID": "AC_BOSS_01",
       "SetID": "16i2akc",
       "Name": "Misery",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 215
     },
     {
       "ID": "AC_BOSS_02",
@@ -2331,7 +2336,7 @@
       "Name": "Downfall",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "AC_BOSS_03",
@@ -2339,7 +2344,7 @@
       "Name": "Sacrilege",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AC_BOSS_04",
@@ -2347,7 +2352,7 @@
       "Name": "Heresy",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_COMBO_1",
@@ -2355,7 +2360,7 @@
       "Name": "Pack",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 208
     },
     {
       "ID": "AC_COMBO_2",
@@ -2363,7 +2368,7 @@
       "Name": "Flock",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_COMBO_3",
@@ -2387,7 +2392,7 @@
       "Name": "Corpse",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 291
     },
     {
       "ID": "AC_DEATH_2",
@@ -2395,7 +2400,7 @@
       "Name": "Carcass",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "AC_DEATH_3",
@@ -2409,9 +2414,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 374
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2419,7 +2424,7 @@
       "Name": "Psycopath",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 227
+      "UsersEstimate": 229
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2427,7 +2432,7 @@
       "Name": "Genocide",
       "Percentage": 25,
       "XP": 45,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -2435,15 +2440,15 @@
       "Name": "Excursion",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 564
+      "UsersEstimate": 568
     },
     {
       "ID": "AC_DISTANCE_2",
       "SetID": "16i2akc",
       "Name": "Journey",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 340
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2451,15 +2456,15 @@
       "Name": "Voyage",
       "Percentage": 35,
       "XP": 45,
-      "UsersEstimate": 241
+      "UsersEstimate": 243
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Player",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 243
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2467,7 +2472,7 @@
       "Name": "Creation",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 146
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2475,7 +2480,7 @@
       "Name": "Demise",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2483,7 +2488,7 @@
       "Name": "Schooling",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2499,7 +2504,7 @@
       "Name": "Winner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2515,7 +2520,7 @@
       "Name": "Gun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -2523,7 +2528,7 @@
       "Name": "Cook",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2545,17 +2550,17 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 312
     },
     {
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 83
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2563,7 +2568,7 @@
       "Name": "Crosshair",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2578,7 +2583,7 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 688,
+      "Progressed": 693,
       "Completed": 8
     }
   ],
@@ -2586,8 +2591,8 @@
   "FirstSeenRating": "2024-02-16T19:59:17.8579962+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
   "LastChanged": "2024-07-20T16:57:39.5387688+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:45.4786019+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:59.2441182+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:17.7090594+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:51.6064199+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:45.4786403+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:50.2239083+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:59.2441597+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8003a47f7a024beeac824c38c1ace029",
   "Name": "Asilium 2",
   "ProductSlug": "asilium-2-b5402e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-09T22:00:00+00:00",
     "PcReleaseDate": "2024-09-09T22:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-12T22:01:23.2525042+00:00",
   "LastUpdate_AppInfo": "2024-09-09T22:57:13.3284188+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:17.9622298+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:56.8784536+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:08.4445415+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "d23d0870e4a74ab4a993efec319ae2e8",
   "Name": "Elflock",
   "ProductSlug": "elflock-459d79",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T16:57:26.3341348+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:31.7313741+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:14.0674606+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:03.5929513+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:26.7024423+00:00"
 }

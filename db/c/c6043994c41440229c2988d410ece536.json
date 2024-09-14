@@ -2,10 +2,10 @@
   "ID": "c6043994c41440229c2988d410ece536",
   "Name": "Elemental Exiles",
   "ProductSlug": "elemental-exiles-8e3386",
-  "Ranking_EOS_Progress": 1049,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1018,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-20T00:00:00+00:00",
     "PcReleaseDate": "2024-08-20T00:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2024-08-09T18:04:58.0144678+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:13.6568037+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -148,9 +153,9 @@
       "ID": "first_death",
       "SetID": "4icd1a8",
       "Name": "It\u2019s Okay To Fail...",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "unlock_01_reaper",
@@ -196,9 +201,9 @@
       "ID": "unlock_09_orc_shaman",
       "SetID": "4icd1a8",
       "Name": "Tribal Politics",
-      "Percentage": 0,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "unlock_10_tree_stump",
@@ -213,14 +218,14 @@
     {
       "ID": "4icd1a8",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-06T08:58:18.9069988+00:00",
   "FirstSeenAchievements": "2024-08-09T18:04:58.0144691+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:59.3202442+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:13.6568032+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:52.4150292+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:59.7691479+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:59.3202546+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:17.6562331+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:13.6568175+00:00"
 }

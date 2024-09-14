@@ -19,9 +19,9 @@
 | Demolition Ambition | 13.00% | ~11 |
 | Hindenburgerer | 10.00% | ~9 |
 | Punchy Wagon | 8.00% | ~7 |
-| Trash the Planet. | 7.00% | ~6 |
+| Trash the Planet. | 8.00% | ~7 |
+| Kill All Humans! | 7.00% | ~6 |
 | Holy Terror | 6.00% | ~5 |
-| Kill All Humans! | 6.00% | ~5 |
 | Midair Affair | 5.00% | ~4 |
 | Demolition Tactician | 5.00% | ~4 |
 | Plight of the Valkyrie | 5.00% | ~4 |
@@ -35,8 +35,8 @@
 | Juggle the People | 3.00% | ~3 |
 | Simulation 8e7d28c1 | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 699)  
-Completed: 1 (1.16%) (Ranked 250)  
+Progressed: 86 (Ranked 731)  
+Completed: 1 (1.16%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

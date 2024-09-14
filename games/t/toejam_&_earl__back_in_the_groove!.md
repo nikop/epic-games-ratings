@@ -5,39 +5,39 @@ Rating: 4.33 (Ranked 984)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 10.00% | ~6,104 |
-| Fall Fest | 8.00% | ~4,884 |
-| Thrill Seeker | 7.00% | ~4,273 |
-| Flying Present Catcher | 6.00% | ~3,663 |
-| HFZ Goober | 6.00% | ~3,663 |
-| Sunflower Master | 5.00% | ~3,052 |
-| Hi Fiver | 3.00% | ~1,831 |
-| A Timely Splash | 3.00% | ~1,831 |
-| Backer Visitor | 2.00% | ~1,221 |
-| Hate That Randomizer | 2.00% | ~1,221 |
-| Feet on Funkotron | 2.00% | ~1,221 |
-| Elf Chaser | 1.00% | ~610 |
-| Fool Me Twice | 1.00% | ~610 |
-| Old School Jammin' | 1.00% | ~610 |
-| Wakey Wakey | 1.00% | ~610 |
-| Level Diver | 0.90% | ~549 |
-| Gimme My Presents Back! | 0.80% | ~488 |
-| Cleaning Out Santa's Sack | 0.80% | ~488 |
-| Beaten By A Little Girl | 0.70% | ~427 |
-| Teamwork Rules | 0.70% | ~427 |
-| Totally Bummed Again | 0.70% | ~427 |
-| Piece O' Cake | 0.60% | ~366 |
-| I Can't Believe I've Done This | 0.50% | ~305 |
-| Harsh Love | 0.50% | ~305 |
-| Made It Through | 0.50% | ~305 |
-| Boom Box Baby | 0.40% | ~244 |
-| Flying Present Ultimate Master | 0.40% | ~244 |
-| Ridiculously Generous | 0.40% | ~244 |
-| I'm A Total Saint | 0.40% | ~244 |
-| Map Explorer | 0.30% | ~183 |
-| Nine Funkotronians | 0.30% | ~183 |
-| Struck By Love | 0.30% | ~183 |
-| The Worst Possible Luck | 0.30% | ~183 |
+| Food Taster | 10.00% | ~6,123 |
+| Fall Fest | 8.00% | ~4,899 |
+| Thrill Seeker | 7.00% | ~4,286 |
+| Flying Present Catcher | 6.00% | ~3,674 |
+| HFZ Goober | 6.00% | ~3,674 |
+| Sunflower Master | 5.00% | ~3,062 |
+| Hi Fiver | 3.00% | ~1,837 |
+| A Timely Splash | 3.00% | ~1,837 |
+| Backer Visitor | 2.00% | ~1,225 |
+| Hate That Randomizer | 2.00% | ~1,225 |
+| Feet on Funkotron | 2.00% | ~1,225 |
+| Elf Chaser | 1.00% | ~612 |
+| Fool Me Twice | 1.00% | ~612 |
+| Old School Jammin' | 1.00% | ~612 |
+| Wakey Wakey | 1.00% | ~612 |
+| Level Diver | 0.90% | ~551 |
+| Gimme My Presents Back! | 0.80% | ~490 |
+| Cleaning Out Santa's Sack | 0.80% | ~490 |
+| Beaten By A Little Girl | 0.70% | ~429 |
+| Teamwork Rules | 0.70% | ~429 |
+| Totally Bummed Again | 0.70% | ~429 |
+| Piece O' Cake | 0.60% | ~367 |
+| I Can't Believe I've Done This | 0.50% | ~306 |
+| Harsh Love | 0.50% | ~306 |
+| Made It Through | 0.50% | ~306 |
+| Boom Box Baby | 0.40% | ~245 |
+| Flying Present Ultimate Master | 0.40% | ~245 |
+| Ridiculously Generous | 0.40% | ~245 |
+| I'm A Total Saint | 0.40% | ~245 |
+| Map Explorer | 0.30% | ~184 |
+| Nine Funkotronians | 0.30% | ~184 |
+| Struck By Love | 0.30% | ~184 |
+| The Worst Possible Luck | 0.30% | ~184 |
 | Rhythm Star | 0.20% | ~122 |
 | Broken Present Risk Taker | 0.20% | ~122 |
 | Truly Evil | 0.20% | ~122 |
@@ -55,8 +55,8 @@ Rating: 4.33 (Ranked 984)
 | Why Do I Keep Doing That? | 0.10% | ~61 |
 | Hey, You Did It! | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,045 (Ranked 165)  
-Completed: 6 (0.01%) (Ranked 532)  
+Progressed: 61,234 (Ranked 174)  
+Completed: 6 (0.01%) (Ranked 559)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,6 +344,7 @@ Completed: 6 (0.01%) (Ranked 532)
 | 2024-07-29 | 60,873 | 6 |
 | 2024-08-09 | 60,949 | 6 |
 | 2024-08-20 | 61,045 | 6 |
+| 2024-09-14 | 61,234 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,10 +2,10 @@
   "ID": "80d78ff4059c488784165948b212f721",
   "Name": "Shelter: A Lynx Adventure",
   "ProductSlug": "shelter-a-lynx-adventure-3c783f",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2015-03-09T08:00:00+00:00",
@@ -29,10 +29,230 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-09-14T14:15:05.1417167+00:00",
+  "TotalAchievements": 26,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BLUE_FEATHER",
+      "SetID": "9c5ff0a",
+      "Name": "Blue Feather",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BRANCHES",
+      "SetID": "9c5ff0a",
+      "Name": "Sticks of Truth",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CIRCLE_OF_LIFE",
+      "SetID": "9c5ff0a",
+      "Name": "Circle of Life",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPULSIVE_HOARDER",
+      "SetID": "9c5ff0a",
+      "Name": "Compulsive Hoarder",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EGG",
+      "SetID": "9c5ff0a",
+      "Name": "Egg",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FEATHERS",
+      "SetID": "9c5ff0a",
+      "Name": "Completely Cuckoo",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FIVE_GENERATIONS",
+      "SetID": "9c5ff0a",
+      "Name": "Five Generations",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FLOWERS",
+      "SetID": "9c5ff0a",
+      "Name": "Flower Power",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FOSSIL",
+      "SetID": "9c5ff0a",
+      "Name": "Fossil",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FOX_SKULL",
+      "SetID": "9c5ff0a",
+      "Name": "Fox Skull",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HIGH_LIFE",
+      "SetID": "9c5ff0a",
+      "Name": "The High Life",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEAVES",
+      "SetID": "9c5ff0a",
+      "Name": "Natural Bedding",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MATERNAL_INSTINCT",
+      "SetID": "9c5ff0a",
+      "Name": "Maternal Instinct",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "METEOR",
+      "SetID": "9c5ff0a",
+      "Name": "Meteor",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MUSHROOMS",
+      "SetID": "9c5ff0a",
+      "Name": "Acquired Taste",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_START",
+      "SetID": "9c5ff0a",
+      "Name": "A New Start",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PINK_FEATHER",
+      "SetID": "9c5ff0a",
+      "Name": "Pink Feather",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PINK_FLOWER",
+      "SetID": "9c5ff0a",
+      "Name": "Pink Flower",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROCKS",
+      "SetID": "9c5ff0a",
+      "Name": "Rolling Stones",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROSE",
+      "SetID": "9c5ff0a",
+      "Name": "Rose",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEA_SHELL",
+      "SetID": "9c5ff0a",
+      "Name": "Sea Shell",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SNAKE_SKELETON",
+      "SetID": "9c5ff0a",
+      "Name": "Snake Skeleton",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SUPERIOR_MOTHER",
+      "SetID": "9c5ff0a",
+      "Name": "Lynx Mother",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "THREE_GENERATIONS",
+      "SetID": "9c5ff0a",
+      "Name": "Three Generations",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TIGER_SKULL",
+      "SetID": "9c5ff0a",
+      "Name": "Tiger Skull",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TUSK",
+      "SetID": "9c5ff0a",
+      "Name": "Tusk",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "9c5ff0a",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:05.1417167+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:05.141712+00:00",
   "LastUpdate_AppInfo": "2024-09-09T18:57:19.1474105+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:59.2357635+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:45.9059137+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:05.1425171+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "a8b07df0c03c4a29992d60683e17cf84",
   "Name": "Coffee Town",
   "ProductSlug": "coffee-town-58b625",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T10:56:59.7237487+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:22.0185523+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:11.4829934+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:02.5733398+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:20.6856695+00:00"
 }

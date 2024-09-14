@@ -2,10 +2,10 @@
   "ID": "34813212c9b04b2793d4f7e90814b7a5",
   "Name": "Superscout",
   "ProductSlug": "superscout-0e457d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-12T00:00:00+00:00",
     "PcReleaseDate": "2024-07-17T16:30:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "5mkb5ci",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:10.978809+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:10.9787723+00:00",
   "LastUpdate_AppInfo": "2024-09-10T10:57:17.9305975+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:15.5379224+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:23.5593669+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:10.9788122+00:00"
 }

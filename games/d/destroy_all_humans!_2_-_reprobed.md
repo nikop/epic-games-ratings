@@ -6,53 +6,53 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 88.00% | ~957 |
-| Mash Machine | 81.00% | ~880 |
-| Ducks in a Row, Fish in a Barrel | 62.00% | ~674 |
-| Furon Fashion | 52.00% | ~565 |
-| Bodied Sattva | 46.00% | ~500 |
-| Shop Til They Drop | 46.00% | ~500 |
-| Cult Following | 41.00% | ~446 |
-| Earthly Pleasures | 38.00% | ~413 |
-| Lie Back and Think of Albion | 34.00% | ~370 |
-| Upgreatest | 32.00% | ~348 |
-| Pimp My Raid | 29.00% | ~315 |
-| Freshly Squeezed | 26.00% | ~283 |
-| I Look Up As I Walk to Takoshima | 24.00% | ~261 |
-| Perfect Probulator | 22.00% | ~239 |
-| Die Nasty | 22.00% | ~239 |
-| Transmitting From Sol-3 | 20.00% | ~217 |
-| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~163 |
-| Kaijuiced | 14.00% | ~152 |
-| Fly Me to the Moon Base | 13.00% | ~141 |
-| Dusted | 13.00% | ~141 |
-| Scuttled | 11.00% | ~120 |
-| Lobster Blisque | 9.00% | ~98 |
-| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~87 |
-| Yettisoned | 7.00% | ~76 |
-| Ultimate Smoothie | 6.00% | ~65 |
-| Arkvoodle Doodle | 5.00% | ~54 |
-| Deincarnated | 3.00% | ~33 |
-| Against All Odds | 2.00% | ~22 |
-| Forbidden Donut | 2.00% | ~22 |
-| Hidden Human Hive Harvest | 2.00% | ~22 |
-| The Optional Mandate | 2.00% | ~22 |
-| Higher Than the Futen Zoku | 2.00% | ~22 |
-| Arty Facts | 1.00% | ~11 |
-| Gotta Catch All the Pop Art | 1.00% | ~11 |
-| This Is Earth Radio | 1.00% | ~11 |
-| Toilet Break | 1.00% | ~11 |
-| Albion Bridge Is for Falling Down | 1.00% | ~11 |
-| Ouch of Body Experience | 1.00% | ~11 |
-| To Russia With Love | 1.00% | ~11 |
-| If You Know What I Mean | 1.00% | ~11 |
-| PK Slam Dunk | 0.90% | ~10 |
-| Steezy Down the Spine | 0.90% | ~10 |
-| Path of the Furon | 0.90% | ~10 |
-| Trans-Siberian Express | 0.90% | ~10 |
+| Rock of the Bay | 89.00% | ~1,102 |
+| Mash Machine | 80.00% | ~990 |
+| Ducks in a Row, Fish in a Barrel | 61.00% | ~755 |
+| Furon Fashion | 52.00% | ~644 |
+| Bodied Sattva | 46.00% | ~569 |
+| Shop Til They Drop | 46.00% | ~569 |
+| Cult Following | 41.00% | ~508 |
+| Earthly Pleasures | 38.00% | ~470 |
+| Lie Back and Think of Albion | 34.00% | ~421 |
+| Upgreatest | 31.00% | ~384 |
+| Pimp My Raid | 29.00% | ~359 |
+| Freshly Squeezed | 26.00% | ~322 |
+| I Look Up As I Walk to Takoshima | 24.00% | ~297 |
+| Perfect Probulator | 22.00% | ~272 |
+| Die Nasty | 22.00% | ~272 |
+| Transmitting From Sol-3 | 19.00% | ~235 |
+| The Irony of Fate, or Enjoy Your Tunguska! | 15.00% | ~186 |
+| Kaijuiced | 13.00% | ~161 |
+| Dusted | 13.00% | ~161 |
+| Fly Me to the Moon Base | 12.00% | ~149 |
+| Scuttled | 10.00% | ~124 |
+| Lobster Blisque | 8.00% | ~99 |
+| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~99 |
+| Yettisoned | 7.00% | ~87 |
+| Ultimate Smoothie | 5.00% | ~62 |
+| Arkvoodle Doodle | 5.00% | ~62 |
+| Deincarnated | 3.00% | ~37 |
+| Against All Odds | 2.00% | ~25 |
+| Forbidden Donut | 2.00% | ~25 |
+| Hidden Human Hive Harvest | 2.00% | ~25 |
+| The Optional Mandate | 2.00% | ~25 |
+| Higher Than the Futen Zoku | 2.00% | ~25 |
+| Arty Facts | 1.00% | ~12 |
+| Gotta Catch All the Pop Art | 1.00% | ~12 |
+| Toilet Break | 1.00% | ~12 |
+| Albion Bridge Is for Falling Down | 1.00% | ~12 |
+| To Russia With Love | 1.00% | ~12 |
+| If You Know What I Mean | 1.00% | ~12 |
+| This Is Earth Radio | 0.90% | ~11 |
+| Ouch of Body Experience | 0.90% | ~11 |
+| PK Slam Dunk | 0.80% | ~10 |
+| Steezy Down the Spine | 0.80% | ~10 |
+| Path of the Furon | 0.80% | ~10 |
+| Trans-Siberian Express | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,087 (Ranked 402)  
-Completed: 5 (0.46%) (Ranked 333)  
+Progressed: 1,238 (Ranked 404)  
+Completed: 5 (0.40%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,10 +119,11 @@ Completed: 5 (0.46%) (Ranked 333)
 | 2024-06-17 | 817 | 3 |
 | 2024-08-09 | 1,069 | 5 |
 | 2024-08-20 | 1,087 | 5 |
+| 2024-09-14 | 1,238 | 5 |
 ## Awards
-Max (Great Boss Battles): 41  (Ranked 589)  
+Max (Great Boss Battles): 41  (Ranked 590)  
 Sum: 41 (Ranked 648)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 41 |

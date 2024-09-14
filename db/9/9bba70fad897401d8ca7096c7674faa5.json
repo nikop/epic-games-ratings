@@ -2,10 +2,10 @@
   "ID": "9bba70fad897401d8ca7096c7674faa5",
   "Name": "FATE: Reawakened",
   "ProductSlug": "fate-reawakened-dab2fa",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T17:57:09.3983963+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:44.6005043+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:07.0985407+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:16.1951272+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:16.5330268+00:00"
 }

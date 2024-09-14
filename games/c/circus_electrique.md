@@ -1,64 +1,64 @@
 # Circus Electrique
 [Store](https://store.epicgames.com/en-US/p/circus-electrique)  
 [View Rawdata](../../db/c/circus_electrique.json)  
-Rating: 4.23 (Ranked 1,089)  
+Rating: 4.23 (Ranked 1,088)  
 Number of Ratings: 22  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 78.00% | ~55,676 |
-| Circus Electrique Proudly Presents... | 54.00% | ~38,545 |
-| Grand Opening | 53.00% | ~37,831 |
-| Path of Learning | 52.00% | ~37,117 |
-| Built in a Day | 33.00% | ~23,555 |
-| More Brain Than Brawn | 30.00% | ~21,414 |
-| Perfect Illusion | 20.00% | ~14,276 |
-| Hundred Percent First | 20.00% | ~14,276 |
-| Fan Service | 13.00% | ~9,279 |
-| Dirty Dozen | 12.00% | ~8,565 |
-| Lion Tamer | 10.00% | ~7,138 |
-| Amazing! | 10.00% | ~7,138 |
-| King of District 1 | 9.00% | ~6,424 |
-| Lucky Day | 7.00% | ~4,997 |
-| Bar Brawler | 7.00% | ~4,997 |
-| Flawless Presentation | 7.00% | ~4,997 |
-| One More Thing... | 6.00% | ~4,283 |
-| Time Travel! | 6.00% | ~4,283 |
-| King of District 2 | 6.00% | ~4,283 |
-| Circus Versus Circus | 4.00% | ~2,855 |
-| Hundred Percent Second | 4.00% | ~2,855 |
-| King of District 3 | 4.00% | ~2,855 |
-| Marketing Manager | 4.00% | ~2,855 |
-| Mobile Infantry | 4.00% | ~2,855 |
-| Spirits High | 3.00% | ~2,141 |
-| Around the Clock | 2.00% | ~1,428 |
-| Club Member | 2.00% | ~1,428 |
-| Club Champion | 2.00% | ~1,428 |
-| City Savior | 2.00% | ~1,428 |
-| King of District 4 | 2.00% | ~1,428 |
-| King of District 5 | 2.00% | ~1,428 |
-| Perfect Chemistry | 2.00% | ~1,428 |
-| Last Man Standing | 2.00% | ~1,428 |
-| Accomplished Veteran | 1.00% | ~714 |
-| Hundred Percent Third | 1.00% | ~714 |
-| Circus Maximus | 1.00% | ~714 |
-| Victorian Victor | 1.00% | ~714 |
-| Unmatched Skills | 0.80% | ~571 |
-| King of District 6 | 0.80% | ~571 |
-| Hundred Percent Fourth | 0.70% | ~500 |
-| The Greatest Show | 0.60% | ~428 |
-| Hundred Percent Fifth | 0.50% | ~357 |
-| Grand Slam | 0.40% | ~286 |
-| Devastating Blow | 0.30% | ~214 |
-| Vicious Busters | 0.30% | ~214 |
-| Clown Care | 0.30% | ~214 |
-| Hundred Percent Sixth | 0.20% | ~143 |
-| London Liberator | 0.10% | ~71 |
-| Versatile Tactics | 0.10% | ~71 |
-| Guest Stars | 0.10% | ~71 |
+| Self Defense | 78.00% | ~57,297 |
+| Circus Electrique Proudly Presents... | 54.00% | ~39,667 |
+| Grand Opening | 53.00% | ~38,933 |
+| Path of Learning | 52.00% | ~38,198 |
+| Built in a Day | 33.00% | ~24,241 |
+| More Brain Than Brawn | 30.00% | ~22,037 |
+| Perfect Illusion | 20.00% | ~14,692 |
+| Hundred Percent First | 20.00% | ~14,692 |
+| Fan Service | 13.00% | ~9,550 |
+| Dirty Dozen | 12.00% | ~8,815 |
+| Lion Tamer | 10.00% | ~7,346 |
+| Amazing! | 10.00% | ~7,346 |
+| King of District 1 | 9.00% | ~6,611 |
+| Lucky Day | 7.00% | ~5,142 |
+| Bar Brawler | 7.00% | ~5,142 |
+| Flawless Presentation | 7.00% | ~5,142 |
+| One More Thing... | 6.00% | ~4,407 |
+| Time Travel! | 6.00% | ~4,407 |
+| King of District 2 | 6.00% | ~4,407 |
+| Circus Versus Circus | 4.00% | ~2,938 |
+| Hundred Percent Second | 4.00% | ~2,938 |
+| King of District 3 | 4.00% | ~2,938 |
+| Marketing Manager | 4.00% | ~2,938 |
+| Mobile Infantry | 4.00% | ~2,938 |
+| Spirits High | 3.00% | ~2,204 |
+| Around the Clock | 2.00% | ~1,469 |
+| Club Member | 2.00% | ~1,469 |
+| Club Champion | 2.00% | ~1,469 |
+| City Savior | 2.00% | ~1,469 |
+| King of District 4 | 2.00% | ~1,469 |
+| King of District 5 | 2.00% | ~1,469 |
+| Perfect Chemistry | 2.00% | ~1,469 |
+| Last Man Standing | 2.00% | ~1,469 |
+| Accomplished Veteran | 1.00% | ~735 |
+| Hundred Percent Third | 1.00% | ~735 |
+| Circus Maximus | 1.00% | ~735 |
+| Victorian Victor | 1.00% | ~735 |
+| Unmatched Skills | 0.80% | ~588 |
+| King of District 6 | 0.80% | ~588 |
+| Hundred Percent Fourth | 0.70% | ~514 |
+| The Greatest Show | 0.60% | ~441 |
+| Hundred Percent Fifth | 0.50% | ~367 |
+| Grand Slam | 0.40% | ~294 |
+| Devastating Blow | 0.40% | ~294 |
+| Vicious Busters | 0.30% | ~220 |
+| Clown Care | 0.30% | ~220 |
+| Hundred Percent Sixth | 0.20% | ~147 |
+| London Liberator | 0.10% | ~73 |
+| Versatile Tactics | 0.10% | ~73 |
+| Guest Stars | 0.10% | ~73 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71,379 (Ranked 156)  
-Completed: 25 (0.04%) (Ranked 483)  
+Progressed: 73,458 (Ranked 162)  
+Completed: 28 (0.04%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -146,6 +146,7 @@ Completed: 25 (0.04%) (Ranked 483)
 | 2024-06-17 | 63,508 | 17 |
 | 2024-08-09 | 70,301 | 25 |
 | 2024-08-20 | 71,379 | 25 |
+| 2024-09-14 | 73,458 | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

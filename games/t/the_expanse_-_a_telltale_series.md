@@ -1,48 +1,48 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.48 (Ranked 739)  
+Rating: 4.48 (Ranked 740)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 25.00% | ~5,507 |
-| Captain Drummer | 23.00% | ~5,067 |
-| Celebrations are in Order | 22.00% | ~4,846 |
-| The Pit and the Pirates | 21.00% | ~4,626 |
-| Martian Music | 21.00% | ~4,626 |
-| Bosmang | 21.00% | ~4,626 |
-| Impossible Objects | 21.00% | ~4,626 |
-| Drone Dodger | 20.00% | ~4,406 |
-| Spore Taste | 18.00% | ~3,965 |
-| Stogie for Fogey | 17.00% | ~3,745 |
-| Call it Even | 15.00% | ~3,304 |
-| Zen Master | 14.00% | ~1,118 |
-| Heal Thy Medic | 13.00% | ~2,864 |
-| Safe Cracker | 13.00% | ~1,038 |
-| Madame Undersecretary | 13.00% | ~1,038 |
-| Data Archivist | 12.00% | ~2,643 |
-| Thorston Mayer | 12.00% | ~2,643 |
-| Khan's Revenge | 11.00% | ~2,423 |
-| Keep Arjun in Check | 11.00% | ~878 |
-| Drug Gifter | 10.00% | ~2,203 |
-| Bottoms up! | 10.00% | ~2,203 |
-| Doctor Approved | 9.00% | ~1,983 |
-| Master Negotiator | 9.00% | ~718 |
-| Data Logger | 7.00% | ~1,542 |
-| Miraculous Maya | 7.00% | ~1,542 |
-| Data Master | 5.00% | ~1,101 |
-| No Belter Left Behind | 4.00% | ~881 |
-| Brother's Reaper | 3.00% | ~661 |
-| Debris Spree | 3.00% | ~661 |
-| Data Recoverer | 3.00% | ~661 |
-| Urshanabi Hoarder | 2.00% | ~441 |
-| Data Miner | 1.00% | ~220 |
-| Grave Robber | 1.00% | ~220 |
-| Scavenger Star | 0.60% | ~132 |
-| Data Collector | 0.40% | ~88 |
+| Oyedang, Kopengs | 26.00% | ~5,808 |
+| Captain Drummer | 24.00% | ~5,361 |
+| Celebrations are in Order | 23.00% | ~5,138 |
+| Martian Music | 22.00% | ~4,914 |
+| Impossible Objects | 22.00% | ~4,914 |
+| The Pit and the Pirates | 21.00% | ~4,691 |
+| Bosmang | 21.00% | ~4,691 |
+| Drone Dodger | 20.00% | ~4,467 |
+| Spore Taste | 19.00% | ~4,244 |
+| Stogie for Fogey | 18.00% | ~4,021 |
+| Call it Even | 15.00% | ~3,351 |
+| Zen Master | 15.00% | ~1,244 |
+| Heal Thy Medic | 14.00% | ~3,127 |
+| Safe Cracker | 14.00% | ~1,161 |
+| Madame Undersecretary | 13.00% | ~1,078 |
+| Data Archivist | 12.00% | ~2,680 |
+| Thorston Mayer | 12.00% | ~2,680 |
+| Khan's Revenge | 12.00% | ~2,680 |
+| Keep Arjun in Check | 11.00% | ~912 |
+| Doctor Approved | 10.00% | ~2,234 |
+| Drug Gifter | 10.00% | ~2,234 |
+| Bottoms up! | 10.00% | ~2,234 |
+| Master Negotiator | 9.00% | ~746 |
+| Data Logger | 7.00% | ~1,564 |
+| Miraculous Maya | 7.00% | ~1,564 |
+| Data Master | 6.00% | ~1,340 |
+| Brother's Reaper | 4.00% | ~893 |
+| No Belter Left Behind | 4.00% | ~893 |
+| Debris Spree | 3.00% | ~670 |
+| Data Recoverer | 3.00% | ~670 |
+| Urshanabi Hoarder | 2.00% | ~447 |
+| Data Miner | 1.00% | ~223 |
+| Grave Robber | 1.00% | ~223 |
+| Scavenger Star | 0.60% | ~134 |
+| Data Collector | 0.40% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,029 (Ranked 205)  
-Completed: 95 (0.43%) (Ranked 341)  
+Progressed: 22,337 (Ranked 212)  
+Completed: 102 (0.46%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,6 +235,7 @@ Completed: 95 (0.43%) (Ranked 341)
 | 2024-04-10 | 20,212 | 77 |
 | 2024-06-17 | 21,402 | 90 |
 | 2024-08-09 | 22,029 | 95 |
+| 2024-09-14 | 22,337 | 102 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

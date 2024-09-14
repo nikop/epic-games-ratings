@@ -2,10 +2,10 @@
   "ID": "60bacbafcd4649869bb52a5ee09005f5",
   "Name": "Cricket: Jae\u0027s Really Peculiar Game",
   "ProductSlug": "cricket-jaes-really-peculiar-game-b86d2d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1155,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-19T14:00:00+00:00",
     "PcReleaseDate": "2024-09-19T14:00:00+00:00",
@@ -23,17 +23,114 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:27:36.474465+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:27:36.474468+00:00",
+  "TotalAchievements": 10,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Defeat_AcaciaEnemy_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat Acacia",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_SharkEmpress_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat the Shark Boss",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_SuperStamen_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat the Super Stamen",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_TwilaFinalHologram_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat Twila Hologram",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Defeat_Yurick2_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat Yurick",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Watch_CharlieEstate_Lighthouse_2_AfterBossFight1_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat Cheese",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Watch_Town_2_Concert_1_AfterSong_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Perform at the Boocherry concert",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Watch_Town_3_Arena_Center_1_Zack_Fight_Resolution_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Zack lost?",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Watch_Town_3_Convention_Center_Warehouse_1_BattleEnd_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Defeat Connor",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Watch_YurickStory_1_BurningVillage_Achievement",
+      "SetID": "92g9f5i",
+      "Name": "Nin...?",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "92g9f5i",
+      "IsBase": true,
+      "Progressed": 1,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:27:36.4744679+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:36.4744643+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:08.8886379+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:36.9483138+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:29.1354456+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:11.0757321+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:36.4752233+00:00"
 }

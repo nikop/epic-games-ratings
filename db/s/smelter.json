@@ -2,10 +2,10 @@
   "ID": "acc5980b138144229ceaacdebb4cb054",
   "Name": "Smelter",
   "ProductSlug": "smelter-97a47b",
-  "Ranking_EOS_Progress": 763,
-  "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 788,
+  "Ranking_EOS_Completed": 102,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
     "PcReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54,
+  "EOS_Progressed": 56,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.41,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:46.9022204+00:00",
@@ -154,6 +154,11 @@
       "Time": "2024-08-09T18:04:52.1406718+00:00",
       "NumProgressed": 54,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-09-14T14:21:07.5770008+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 51,
@@ -195,15 +200,15 @@
       "ID": "SMELTER_DEFLECT",
       "SetID": "1g58k92",
       "Name": "Deflect This!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SMELTER_DREINSTEIN",
       "SetID": "1g58k92",
       "Name": "Dr. Dreinstein III",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -211,7 +216,7 @@
       "ID": "SMELTER_ELEMENTAL_TOWER",
       "SetID": "1g58k92",
       "Name": "Just Some Improvements",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -237,7 +242,7 @@
       "Name": "Locked Away",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SMELTER_EREMAGU_UPGRADES",
@@ -251,7 +256,7 @@
       "ID": "SMELTER_FARM_BONUS",
       "SetID": "1g58k92",
       "Name": "Orcharion Boost",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -267,9 +272,9 @@
       "ID": "SMELTER_FIRST_MEET",
       "SetID": "1g58k92",
       "Name": "What took you so long?",
-      "Percentage": 91,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SMELTER_FISSURES",
@@ -283,7 +288,7 @@
       "ID": "SMELTER_GAME_CLEARED",
       "SetID": "1g58k92",
       "Name": "You did it? You did it!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -291,7 +296,7 @@
       "ID": "SMELTER_GRAVITUDE",
       "SetID": "1g58k92",
       "Name": "Case Closed",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -315,23 +320,23 @@
       "ID": "SMELTER_GURABI_FORGE",
       "SetID": "1g58k92",
       "Name": "Time to Bash Some Heads!",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "SMELTER_GURABI_RUNE",
       "SetID": "1g58k92",
       "Name": "Deep in the Mounds",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SMELTER_GURABI_UPGRADES",
       "SetID": "1g58k92",
       "Name": "All Beefed Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -339,7 +344,7 @@
       "ID": "SMELTER_HEART_LEVEL_2",
       "SetID": "1g58k92",
       "Name": "Isn\u0027t It Beautiful?",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -379,7 +384,7 @@
       "ID": "SMELTER_MOAF",
       "SetID": "1g58k92",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -395,9 +400,9 @@
       "ID": "SMELTER_NEW_CHALLENGER",
       "SetID": "1g58k92",
       "Name": "Shiny!",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "SMELTER_NUTORO_CHALLENGES",
@@ -419,7 +424,7 @@
       "ID": "SMELTER_NUTORO_RUNE",
       "SetID": "1g58k92",
       "Name": "It\u0027s a Sign!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -435,7 +440,7 @@
       "ID": "SMELTER_PLATFORMER_HP20",
       "SetID": "1g58k92",
       "Name": "A Little Extra Love",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -451,7 +456,7 @@
       "ID": "SMELTER_RIVEL2",
       "SetID": "1g58k92",
       "Name": "We\u0027re Breaking Up",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -459,7 +464,7 @@
       "ID": "SMELTER_ROOPUTER",
       "SetID": "1g58k92",
       "Name": "Final Announcement",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -467,7 +472,7 @@
       "ID": "SMELTER_RUINS",
       "SetID": "1g58k92",
       "Name": "Remains of the Rumbly Lands",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -475,7 +480,7 @@
       "ID": "SMELTER_SALVAGE",
       "SetID": "1g58k92",
       "Name": "A Little Renovating",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -483,15 +488,15 @@
       "ID": "SMELTER_SECRET_ENDING",
       "SetID": "1g58k92",
       "Name": "How Do You Like Them Apples?",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SMELTER_SMELT_PART1",
       "SetID": "1g58k92",
       "Name": "Smeltastic!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -507,7 +512,7 @@
       "ID": "SMELTER_SPIRE",
       "SetID": "1g58k92",
       "Name": "A New Strategy",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -531,15 +536,15 @@
       "ID": "SMELTER_WELCOME_TO_RUMBLYLANDS",
       "SetID": "1g58k92",
       "Name": "Welcome to the Rumbly Lands!",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "SMELTER_XELADO",
       "SetID": "1g58k92",
       "Name": "A Wingman Falls",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -547,7 +552,7 @@
       "ID": "SMELTER_ZIRMARMOR",
       "SetID": "1g58k92",
       "Name": "With a Little Help from My Friends",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -563,7 +568,7 @@
       "ID": "SMELTER_ZIRM_STARVE",
       "SetID": "1g58k92",
       "Name": "A Terrible Way to Go",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 12
     }
@@ -572,7 +577,7 @@
     {
       "ID": "1g58k92",
       "IsBase": true,
-      "Progressed": 54,
+      "Progressed": 56,
       "Completed": 4
     }
   ],
@@ -580,8 +585,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:50.6147637+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:07.5770002+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:18.1276592+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:22.2713904+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:50.6147931+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:57.9216029+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:07.5770375+00:00"
 }

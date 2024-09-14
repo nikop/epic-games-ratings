@@ -2,10 +2,10 @@
   "ID": "ff3ce2acd8964837adbaaf9388f48e69",
   "Name": "Project Canopy",
   "ProductSlug": "project-canopy-0c4d03",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T10:57:01.9246289+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:21.4732453+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:51.2691531+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:01.9689217+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:54.6286774+00:00"
 }

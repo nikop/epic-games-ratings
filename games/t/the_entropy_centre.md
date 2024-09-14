@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 88.00% | ~266 |
-| Wake Up | 80.00% | ~242 |
-| Time Gates | 63.00% | ~190 |
-| Command Centre | 50.00% | ~151 |
-| This is a Wall | 44.00% | ~133 |
-| Extendable Bridges | 43.00% | ~130 |
-| Man's Best Friend | 39.00% | ~118 |
-| Chain Reaction | 39.00% | ~118 |
-| 48 Attempts | 38.00% | ~115 |
+| It's Rewind Time | 88.00% | ~268 |
+| Wake Up | 81.00% | ~246 |
+| Time Gates | 64.00% | ~195 |
+| Command Centre | 51.00% | ~155 |
+| This is a Wall | 45.00% | ~137 |
+| Extendable Bridges | 44.00% | ~134 |
+| Man's Best Friend | 40.00% | ~122 |
+| Chain Reaction | 39.00% | ~119 |
+| 48 Attempts | 38.00% | ~116 |
 | Handyman | 25.00% | ~76 |
-| No Time To Relax | 23.00% | ~69 |
-| Bad Robots | 21.00% | ~63 |
-| Running Boots | 19.00% | ~57 |
-| Fashionista | 18.00% | ~54 |
-| Looper | 17.00% | ~51 |
-| Kaboom! | 16.00% | ~48 |
-| Archivist | 16.00% | ~48 |
-| Reunited | 16.00% | ~48 |
-| All Alone | 15.00% | ~45 |
-| So Close | 14.00% | ~42 |
-| Transformers, cubes in disguise | 14.00% | ~42 |
-| Cataclysm | 13.00% | ~39 |
+| No Time To Relax | 23.00% | ~70 |
+| Bad Robots | 21.00% | ~64 |
+| Running Boots | 19.00% | ~58 |
+| Fashionista | 18.00% | ~55 |
+| Looper | 17.00% | ~52 |
+| Kaboom! | 16.00% | ~49 |
+| Archivist | 16.00% | ~49 |
+| All Alone | 15.00% | ~46 |
+| Reunited | 15.00% | ~46 |
+| So Close | 14.00% | ~43 |
+| Transformers, cubes in disguise | 14.00% | ~43 |
+| Cataclysm | 13.00% | ~40 |
 | Final Charge | 12.00% | ~36 |
 | Summer Luvin' | 5.00% | ~15 |
 | You Are Terminated | 2.00% | ~6 |
 | Data Research | 0.30% | ~1 |
 | So, this is the End? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302 (Ranked 532)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 304 (Ranked 549)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -150,6 +150,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 293 | 0 |
 | 2024-06-17 | 300 | 0 |
 | 2024-08-09 | 302 | 0 |
+| 2024-09-14 | 304 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

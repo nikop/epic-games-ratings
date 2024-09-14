@@ -2,10 +2,10 @@
   "ID": "52635d084b7740968df20059b6fb9800",
   "Name": "Phantom Watcher",
   "ProductSlug": "phantom-watcher-10faa4",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-09T17:00:00+00:00",
     "PcReleaseDate": "2024-04-09T17:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-10T19:03:48.2939258+00:00",
   "LastUpdate_AppInfo": "2024-09-11T08:57:06.8402789+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:10.432127+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:53.9076433+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:03.8780517+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:58.4147997+00:00"
 }

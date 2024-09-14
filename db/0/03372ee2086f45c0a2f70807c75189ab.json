@@ -2,10 +2,10 @@
   "ID": "03372ee2086f45c0a2f70807c75189ab",
   "Name": "Bulwark: Falconeer Chronicles",
   "ProductSlug": "bulwark-falconeer-chronicles-72b9dd",
-  "Ranking_EOS_Progress": 688,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 709,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-26T00:00:00+00:00",
     "PcReleaseDate": "2024-03-27T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 99,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-08-09T18:02:53.9484209+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:16:09.5695887+00:00",
+      "NumProgressed": 99,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-04-10T06:03:00.3915558+00:00",
@@ -54,9 +59,9 @@
       "ID": "1",
       "SetID": "bhkck8",
       "Name": "Ursee Inhabitant",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "10",
@@ -70,7 +75,7 @@
       "ID": "11",
       "SetID": "bhkck8",
       "Name": "Ursee Town",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -96,13 +101,13 @@
       "Name": "Battle Ready",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "15",
       "SetID": "bhkck8",
       "Name": "Battle Experienced",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -110,7 +115,7 @@
       "ID": "16",
       "SetID": "bhkck8",
       "Name": "Battle Hardened",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
       "UsersEstimate": 13
     },
@@ -134,7 +139,7 @@
       "ID": "19",
       "SetID": "bhkck8",
       "Name": "For Peace and Stability!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
       "UsersEstimate": 15
     },
@@ -142,9 +147,9 @@
       "ID": "2",
       "SetID": "bhkck8",
       "Name": "The Stone Age",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "20",
@@ -174,7 +179,7 @@
       "ID": "23",
       "SetID": "bhkck8",
       "Name": "Industry Leader",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -182,25 +187,25 @@
       "ID": "24",
       "SetID": "bhkck8",
       "Name": "Ursee Balance Restored",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "3",
       "SetID": "bhkck8",
       "Name": "The Iron Age",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "4",
       "SetID": "bhkck8",
       "Name": "Expansionism",
-      "Percentage": 45,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "5",
@@ -208,15 +213,15 @@
       "Name": "Industrialist",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "6",
       "SetID": "bhkck8",
       "Name": "Naval Powerhouse",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "7",
@@ -247,14 +252,14 @@
     {
       "ID": "bhkck8",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 99,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-03-29T04:57:03.2683464+00:00",
   "FirstSeenAchievements": "2023-12-20T17:03:22.6774631+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:53.9484204+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:09.5695881+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:41.3074346+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:11.0539222+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:53.9484348+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:55.3103951+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:09.5696036+00:00"
 }

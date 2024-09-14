@@ -1,58 +1,58 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.60 (Ranked 472)  
+Rating: 4.60 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 39.00% | ~1,959 |
-| Sputnik 2049 | 35.00% | ~1,758 |
-| Infinite Growth... | 33.00% | ~1,658 |
-| Without Breaking Some Eggs... | 31.00% | ~1,557 |
-| A Thousand Strong | 24.00% | ~1,206 |
-| Ready for a New World | 24.00% | ~1,206 |
-| Space Society | 23.00% | ~1,155 |
-| Permanent Redesigns | 22.00% | ~1,105 |
-| Fully Recycled | 19.00% | ~954 |
-| Ain't Nobody Got Time for That | 19.00% | ~954 |
-| The Ship of Theseus | 19.00% | ~954 |
-| Guy de Borderlands | 18.00% | ~904 |
-| Hope Seeker | 17.00% | ~854 |
-| A Hunk of Junk | 16.00% | ~804 |
-| Exceeding Capacity | 16.00% | ~804 |
-| Breaking Protocol | 15.00% | ~753 |
-| Man's Best Friend | 11.00% | ~553 |
-| Sightseeing | 11.00% | ~553 |
-| Power Outage | 11.00% | ~553 |
-| Convenient Transport | 11.00% | ~553 |
-| Please Make it Stop! | 11.00% | ~553 |
-| Drill-dozer | 11.00% | ~553 |
-| Necessary Enhancement | 10.00% | ~502 |
-| From the Past | 9.00% | ~452 |
-| Access Granted | 8.00% | ~402 |
-| All in Good Health | 8.00% | ~402 |
-| Oats | 7.00% | ~352 |
-| In Dolos We Trust | 7.00% | ~352 |
-| What They Hide From Us | 6.00% | ~301 |
-| ...  in a finite world | 6.00% | ~301 |
-| BRAWL! | 6.00% | ~301 |
-| What the Ruins Teach Us | 6.00% | ~301 |
-| Sustainable Energy | 5.00% | ~251 |
-| Pedal to the Metal | 5.00% | ~251 |
-| Praise the Hull! | 4.00% | ~201 |
-| Delivery! | 4.00% | ~201 |
-| Help of the Forgotten Member | 4.00% | ~201 |
-| Pulsar Disciple | 4.00% | ~201 |
-| Mutual Loyalty | 3.00% | ~151 |
-| Tiqqun Contender | 3.00% | ~151 |
-| Catastrophe Avoided | 3.00% | ~151 |
-| Space Greenhouse | 3.00% | ~151 |
-| Better Him Than Me | 2.00% | ~100 |
-| Remember the Dead | 2.00% | ~100 |
-| You Had One Job... | 2.00% | ~100 |
-| Gregor Spinoza | 2.00% | ~100 |
-| Tiqqun Unchained | 2.00% | ~100 |
-| Scientifically Accurate | 2.00% | ~100 |
+| Wakey Wakey | 39.00% | ~1,976 |
+| Sputnik 2049 | 35.00% | ~1,773 |
+| Infinite Growth... | 34.00% | ~1,723 |
+| Without Breaking Some Eggs... | 32.00% | ~1,621 |
+| Space Society | 24.00% | ~1,216 |
+| A Thousand Strong | 24.00% | ~1,216 |
+| Ready for a New World | 24.00% | ~1,216 |
+| Permanent Redesigns | 22.00% | ~1,115 |
+| Fully Recycled | 19.00% | ~963 |
+| Ain't Nobody Got Time for That | 19.00% | ~963 |
+| The Ship of Theseus | 19.00% | ~963 |
+| Guy de Borderlands | 18.00% | ~912 |
+| Hope Seeker | 17.00% | ~861 |
+| A Hunk of Junk | 16.00% | ~811 |
+| Exceeding Capacity | 16.00% | ~811 |
+| Breaking Protocol | 15.00% | ~760 |
+| Drill-dozer | 12.00% | ~608 |
+| Man's Best Friend | 11.00% | ~557 |
+| Sightseeing | 11.00% | ~557 |
+| Power Outage | 11.00% | ~557 |
+| Convenient Transport | 11.00% | ~557 |
+| Please Make it Stop! | 11.00% | ~557 |
+| Necessary Enhancement | 10.00% | ~507 |
+| From the Past | 9.00% | ~456 |
+| Access Granted | 8.00% | ~405 |
+| All in Good Health | 8.00% | ~405 |
+| Oats | 7.00% | ~355 |
+| What They Hide From Us | 7.00% | ~355 |
+| In Dolos We Trust | 7.00% | ~355 |
+| BRAWL! | 7.00% | ~355 |
+| What the Ruins Teach Us | 7.00% | ~355 |
+| ...  in a finite world | 6.00% | ~304 |
+| Sustainable Energy | 5.00% | ~253 |
+| Pedal to the Metal | 5.00% | ~253 |
+| Praise the Hull! | 4.00% | ~203 |
+| Delivery! | 4.00% | ~203 |
+| Help of the Forgotten Member | 4.00% | ~203 |
+| Pulsar Disciple | 4.00% | ~203 |
+| Mutual Loyalty | 3.00% | ~152 |
+| Tiqqun Contender | 3.00% | ~152 |
+| Catastrophe Avoided | 3.00% | ~152 |
+| Space Greenhouse | 3.00% | ~152 |
+| Better Him Than Me | 2.00% | ~101 |
+| Remember the Dead | 2.00% | ~101 |
+| You Had One Job... | 2.00% | ~101 |
+| Gregor Spinoza | 2.00% | ~101 |
+| Tiqqun Unchained | 2.00% | ~101 |
+| Scientifically Accurate | 2.00% | ~101 |
 | Work Harder | 0.70% | ~35 |
 | Crunch Culture | 0.60% | ~30 |
 | Soylent Green | 0.60% | ~30 |
@@ -63,8 +63,8 @@ Rating: 4.60 (Ranked 472)
 | This is Fine | 0.10% | ~5 |
 | Suburban Perfection | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,023 (Ranked 280)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 5,067 (Ranked 293)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,6 +344,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 4,906 | 0 |
 | 2024-08-09 | 5,003 | 0 |
 | 2024-08-20 | 5,023 | 0 |
+| 2024-09-14 | 5,067 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

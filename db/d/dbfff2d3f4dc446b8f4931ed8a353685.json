@@ -2,10 +2,10 @@
   "ID": "dbfff2d3f4dc446b8f4931ed8a353685",
   "Name": "Squirrel with a Gun",
   "ProductSlug": "squirrel-with-a-gun-6b1fa1",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 399,
+  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-29T16:00:00+00:00",
     "PcReleaseDate": "2024-08-29T16:00:00+00:00",
@@ -25,27 +25,187 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 1289,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EOS_Completed_Percentage": 0.78,
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:23:51.4870789+00:00",
+      "NumProgressed": 1289,
+      "NumCompleted": 10
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:23:51.4870868+00:00",
+  "TotalAchievements": 19,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AGNT_BEAT_ANY",
+      "SetID": "4g91cnh",
+      "Name": "Yippee-Ki-Yay, Mother-Nutter!",
+      "Percentage": 30,
+      "XP": 150,
+      "UsersEstimate": 387
+    },
+    {
+      "ID": "AGNT_SHAVED",
+      "SetID": "4g91cnh",
+      "Name": "Close Shave",
+      "Percentage": 2,
+      "XP": 30,
+      "UsersEstimate": 26
+    },
+    {
+      "ID": "BEAT_HELO",
+      "SetID": "4g91cnh",
+      "Name": "Anti-Aircraft Rodent",
+      "Percentage": 9,
+      "XP": 150,
+      "UsersEstimate": 116
+    },
+    {
+      "ID": "BEAT_TANK",
+      "SetID": "4g91cnh",
+      "Name": "Anti-Tank Rodent",
+      "Percentage": 37,
+      "XP": 150,
+      "UsersEstimate": 477
+    },
+    {
+      "ID": "CREDITS_SCORE",
+      "SetID": "4g91cnh",
+      "Name": "Street Credits",
+      "Percentage": 3,
+      "XP": 50,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "CTZN_ROBBED",
+      "SetID": "4g91cnh",
+      "Name": "Crime Wave",
+      "Percentage": 3,
+      "XP": 20,
+      "UsersEstimate": 39
+    },
+    {
+      "ID": "CTZN_SHAVED",
+      "SetID": "4g91cnh",
+      "Name": "Shavior",
+      "Percentage": 1,
+      "XP": 30,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "FIRST_ACORN",
+      "SetID": "4g91cnh",
+      "Name": "Top Secret Snack",
+      "Percentage": 93,
+      "XP": 5,
+      "UsersEstimate": 1199
+    },
+    {
+      "ID": "GET_BOAT",
+      "SetID": "4g91cnh",
+      "Name": "Nautical Squirrel",
+      "Percentage": 25,
+      "XP": 20,
+      "UsersEstimate": 322
+    },
+    {
+      "ID": "GET_CAR",
+      "SetID": "4g91cnh",
+      "Name": "Joy Ride",
+      "Percentage": 56,
+      "XP": 10,
+      "UsersEstimate": 722
+    },
+    {
+      "ID": "GET_DRONE",
+      "SetID": "4g91cnh",
+      "Name": "Flying Squirrel",
+      "Percentage": 10,
+      "XP": 40,
+      "UsersEstimate": 129
+    },
+    {
+      "ID": "GET_PHONE",
+      "SetID": "4g91cnh",
+      "Name": "Phone Thief",
+      "Percentage": 22,
+      "XP": 15,
+      "UsersEstimate": 284
+    },
+    {
+      "ID": "NUM_CTZN_PHOTOS",
+      "SetID": "4g91cnh",
+      "Name": "Photogenic",
+      "Percentage": 1,
+      "XP": 20,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "NUM_TOILETS",
+      "SetID": "4g91cnh",
+      "Name": "John, Loo, and Dunny",
+      "Percentage": 23,
+      "XP": 50,
+      "UsersEstimate": 296
+    },
+    {
+      "ID": "OIL_SQUIRREL",
+      "SetID": "4g91cnh",
+      "Name": "I\u0027m an Oil Squirrel",
+      "Percentage": 12,
+      "XP": 30,
+      "UsersEstimate": 155
+    },
+    {
+      "ID": "RIDE_ROCKET",
+      "SetID": "4g91cnh",
+      "Name": "Rocket Flying Squirrel",
+      "Percentage": 8,
+      "XP": 150,
+      "UsersEstimate": 103
+    },
+    {
+      "ID": "STICK_UP",
+      "SetID": "4g91cnh",
+      "Name": "Reach For The Sky!",
+      "Percentage": 65,
+      "XP": 10,
+      "UsersEstimate": 838
+    },
+    {
+      "ID": "SUPERHERO_LAND",
+      "SetID": "4g91cnh",
+      "Name": "Superhero Landing",
+      "Percentage": 32,
+      "XP": 20,
+      "UsersEstimate": 412
+    },
+    {
+      "ID": "TD_UNIQUE",
+      "SetID": "4g91cnh",
+      "Name": "Action Button Hero",
+      "Percentage": 2,
+      "XP": 50,
+      "UsersEstimate": 26
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4g91cnh",
       "IsBase": true,
-      "Progressed": 0,
-      "Completed": 0
+      "Progressed": 1289,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2024-08-29T17:57:42.1882876+00:00",
   "FirstSeenAchievements": "2024-08-20T20:10:30.3895592+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:30.3895571+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:51.4870771+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:08.4908419+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:19.3889368+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:30.3895607+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:45.8496848+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:51.4879303+00:00"
 }

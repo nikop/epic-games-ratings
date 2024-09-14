@@ -5,66 +5,66 @@ Rating: 4.54 (Ranked 615)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 4.00% | ~40,649 |
-| Welcome To Hell-A | 4.00% | ~40,649 |
-| Git Gutte! | 3.00% | ~30,487 |
-| Break A Leg | 3.00% | ~30,487 |
-| Coup de Grâce | 3.00% | ~30,487 |
-| Hazardous Materials | 3.00% | ~30,487 |
-| Friends Like These | 3.00% | ~30,487 |
-| Apex Predator | 3.00% | ~30,487 |
-| Personal Assistant Personally Assisted | 3.00% | ~30,487 |
-| Dr. Reed, I Presume? | 2.00% | ~20,324 |
-| Anger Management | 2.00% | ~20,324 |
-| Perks of the Job | 2.00% | ~20,324 |
-| Bookworm | 2.00% | ~20,324 |
-| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~20,324 |
-| But Doctor, I am Butcho | 2.00% | ~20,324 |
-| Slayer Squad | 2.00% | ~20,324 |
-| Can't Handle the Truth | 2.00% | ~20,324 |
-| Like Riding a Bike | 2.00% | ~20,324 |
-| Zombologist | 2.00% | ~20,324 |
-| Ooh, Shiny! | 2.00% | ~20,324 |
-| A Patton Emerges | 2.00% | ~20,324 |
-| I Am the Resurrection | 2.00% | ~20,324 |
-| Stacking the Deck | 2.00% | ~20,324 |
-| Our True Nature | 2.00% | ~20,324 |
-| This is My Weapon | 2.00% | ~20,324 |
-| No Encores | 2.00% | ~6,835 |
-| Drop The Beat | 2.00% | ~6,835 |
-| Three's a Crowd | 2.00% | ~6,835 |
-| Making Your Mark | 1.00% | ~10,162 |
-| Not Even My Final Form | 1.00% | ~10,162 |
-| Jumbo Keyring | 1.00% | ~10,162 |
-| Humanity Distilled | 1.00% | ~10,162 |
-| Down with the Sickness | 1.00% | ~10,162 |
-| Max Headroom | 1.00% | ~10,162 |
-| Go, Bobcats! | 1.00% | ~10,162 |
-| Rising Star | 1.00% | ~10,162 |
-| One of Us | 1.00% | ~3,418 |
-| Whatever It Takes | 1.00% | ~3,418 |
-| Pork Chopped | 1.00% | ~3,418 |
-| On Safari | 0.90% | ~9,146 |
-| Smorgasbord | 0.90% | ~9,146 |
-| Internet Famous | 0.90% | ~9,146 |
-| Variety is the Spice of Death | 0.90% | ~9,146 |
-| Make it So | 0.80% | ~8,130 |
-| LA Influential | 0.60% | ~6,097 |
-| Gore Horse | 0.60% | ~6,097 |
-| Sharpest Tool in the Box | 0.60% | ~6,097 |
-| Sole Survivor | 0.50% | ~5,081 |
-| The Direct Approach | 0.50% | ~1,709 |
-| Survival Skills | 0.40% | ~4,065 |
-| Festival Clean Up Simulator | 0.40% | ~1,367 |
-| Top That, Tisha! | 0.30% | ~1,025 |
-| Rip 'n' Tear | 0.30% | ~1,025 |
-| Donk! | 0.20% | ~2,032 |
-| Bucket List | 0.10% | ~1,016 |
-| Lawn and Order | 0.10% | ~342 |
-| Wilhelm | 0.10% | ~342 |
+| Hotel California | 4.00% | ~41,209 |
+| Welcome To Hell-A | 4.00% | ~41,209 |
+| Dr. Reed, I Presume? | 3.00% | ~30,907 |
+| Git Gutte! | 3.00% | ~30,907 |
+| Bookworm | 3.00% | ~30,907 |
+| Break A Leg | 3.00% | ~30,907 |
+| But Doctor, I am Butcho | 3.00% | ~30,907 |
+| Slayer Squad | 3.00% | ~30,907 |
+| Coup de Grâce | 3.00% | ~30,907 |
+| Hazardous Materials | 3.00% | ~30,907 |
+| Friends Like These | 3.00% | ~30,907 |
+| Apex Predator | 3.00% | ~30,907 |
+| Stacking the Deck | 3.00% | ~30,907 |
+| Personal Assistant Personally Assisted | 3.00% | ~30,907 |
+| This is My Weapon | 3.00% | ~30,907 |
+| Three's a Crowd | 3.00% | ~10,673 |
+| Making Your Mark | 2.00% | ~20,604 |
+| Anger Management | 2.00% | ~20,604 |
+| Perks of the Job | 2.00% | ~20,604 |
+| I Got a Zombie Army and You Can't Harm Me | 2.00% | ~20,604 |
+| Can't Handle the Truth | 2.00% | ~20,604 |
+| Like Riding a Bike | 2.00% | ~20,604 |
+| Zombologist | 2.00% | ~20,604 |
+| Ooh, Shiny! | 2.00% | ~20,604 |
+| A Patton Emerges | 2.00% | ~20,604 |
+| Humanity Distilled | 2.00% | ~20,604 |
+| I Am the Resurrection | 2.00% | ~20,604 |
+| Down with the Sickness | 2.00% | ~20,604 |
+| Our True Nature | 2.00% | ~20,604 |
+| No Encores | 2.00% | ~7,115 |
+| Drop The Beat | 2.00% | ~7,115 |
+| Smorgasbord | 1.00% | ~10,302 |
+| Not Even My Final Form | 1.00% | ~10,302 |
+| Internet Famous | 1.00% | ~10,302 |
+| Jumbo Keyring | 1.00% | ~10,302 |
+| Max Headroom | 1.00% | ~10,302 |
+| Go, Bobcats! | 1.00% | ~10,302 |
+| Rising Star | 1.00% | ~10,302 |
+| One of Us | 1.00% | ~3,558 |
+| Whatever It Takes | 1.00% | ~3,558 |
+| Pork Chopped | 1.00% | ~3,558 |
+| On Safari | 0.90% | ~9,272 |
+| Variety is the Spice of Death | 0.90% | ~9,272 |
+| Make it So | 0.80% | ~8,242 |
+| Gore Horse | 0.70% | ~7,212 |
+| LA Influential | 0.60% | ~6,181 |
+| Sharpest Tool in the Box | 0.60% | ~6,181 |
+| Sole Survivor | 0.50% | ~5,151 |
+| Survival Skills | 0.50% | ~5,151 |
+| The Direct Approach | 0.50% | ~1,779 |
+| Festival Clean Up Simulator | 0.40% | ~1,423 |
+| Top That, Tisha! | 0.30% | ~1,067 |
+| Rip 'n' Tear | 0.30% | ~1,067 |
+| Donk! | 0.20% | ~2,060 |
+| Bucket List | 0.10% | ~1,030 |
+| Lawn and Order | 0.10% | ~356 |
+| Wilhelm | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,016,218 (Ranked 23)  
-Completed: 3,128 (0.31%) (Ranked 366)  
+Progressed: 1,030,222 (Ranked 24)  
+Completed: 3,158 (0.31%) (Ranked 389)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -352,16 +352,17 @@ Completed: 3,128 (0.31%) (Ranked 366)
 | 2024-06-17 | 956,612 | 3,062 |
 | 2024-08-09 | 1,011,600 | 3,117 |
 | 2024-08-20 | 1,016,218 | 3,128 |
+| 2024-09-14 | 1,030,222 | 3,158 |
 ## Awards
 Max (Great Boss Battles): 16,785  (Ranked 36)  
-Sum: 27,743 (Ranked 65)  
-Diff (max vs sum): -29  
+Sum: 27,745 (Ranked 66)  
+Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 16,785 |
 | This game is Great for Beginners | 1,596 |
 | This game has Diverse Characters | 1,510 |
-| This game has Quickly Understood Controls | 1,365 |
+| This game has Quickly Understood Controls | 1,367 |
 | This game is Highly Recommended | 1,333 |
 | This game is Extremely Fun | 1,328 |
 | This game is Relaxing | 1,293 |
@@ -882,4 +883,4 @@ Diff (max vs sum): -29
 | 2024-09-11 | 4.54 | 16,751 | 27,681 |
 | 2024-09-12 | 4.54 | 16,765 | 27,699 |
 | 2024-09-13 | 4.54 | 16,765 | 27,714 |
-| 2024-09-14 | 4.54 | 16,785 | 27,743 |
+| 2024-09-14 | 4.54 | 16,785 | 27,745 |

@@ -2,10 +2,10 @@
   "ID": "fcba6b461efc4602bbb0d4b736f7f0a7",
   "Name": "Big Helmet Heroes",
   "ProductSlug": "big-helmet-heroes-0ab7e6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T21:57:20.5289934+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:47.0015166+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:37.5613051+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:35.3084222+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:41.6714285+00:00"
 }

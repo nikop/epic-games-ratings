@@ -2,10 +2,10 @@
   "ID": "04e4108a1fec4845bd2744e8d554c9a6",
   "Name": "[REDACTED]",
   "ProductSlug": "birdseye-d9d21e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T16:57:17.8718165+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:43.5522128+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:35.873522+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:09.2216343+00:00"
 }

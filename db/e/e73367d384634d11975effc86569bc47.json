@@ -2,10 +2,10 @@
   "ID": "e73367d384634d11975effc86569bc47",
   "Name": "Monospaced Lovers",
   "ProductSlug": "monospaced-lovers-4c4c54",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -28,9 +28,507 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-09-14T14:20:55.7136474+00:00",
+  "TotalAchievements": 62,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "AllChips",
+      "SetID": "d2nf3p0",
+      "Name": "The Space Between 0 and 1",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllCoins",
+      "SetID": "d2nf3p0",
+      "Name": "A Collector\u0027s Item",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllTortoises",
+      "SetID": "d2nf3p0",
+      "Name": "Ruminations on Reality",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "AllWisps",
+      "SetID": "d2nf3p0",
+      "Name": "So Many Shapes and Shades of You",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArcadeMinigameAllDay",
+      "SetID": "d2nf3p0",
+      "Name": "Just One More Round",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ArcadeMinigameScore",
+      "SetID": "d2nf3p0",
+      "Name": "No Miss, No Bombs",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BadEnd",
+      "SetID": "d2nf3p0",
+      "Name": "Disconnection",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BinaryPuzzle1",
+      "SetID": "d2nf3p0",
+      "Name": "Zeroes and Ones",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss1EX",
+      "SetID": "d2nf3p0",
+      "Name": "Fantasy - EX",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss1Hard",
+      "SetID": "d2nf3p0",
+      "Name": "Fantasy - Hard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss1HardNoMiss",
+      "SetID": "d2nf3p0",
+      "Name": "Fantasy - Hard (Perfect)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss2EX",
+      "SetID": "d2nf3p0",
+      "Name": "Anxiety - EX",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss2Hard",
+      "SetID": "d2nf3p0",
+      "Name": "Anxiety - Hard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss2HardNoMiss",
+      "SetID": "d2nf3p0",
+      "Name": "Anxiety - Hard (Perfect)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss3EX",
+      "SetID": "d2nf3p0",
+      "Name": "Vanity - EX",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss3Hard",
+      "SetID": "d2nf3p0",
+      "Name": "Vanity - Hard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss3HardNoMiss",
+      "SetID": "d2nf3p0",
+      "Name": "Vanity - Hard (Perfect)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss4EX",
+      "SetID": "d2nf3p0",
+      "Name": "Reality - EX",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss4Hard",
+      "SetID": "d2nf3p0",
+      "Name": "Reality - Hard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Boss4HardNoMiss",
+      "SetID": "d2nf3p0",
+      "Name": "Reality - Hard (Perfect)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BossFinalEX",
+      "SetID": "d2nf3p0",
+      "Name": "Danmaku God",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BossFinalHard",
+      "SetID": "d2nf3p0",
+      "Name": "Spade Cameron - Hard",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CamelliaSidequest",
+      "SetID": "d2nf3p0",
+      "Name": "Picnic in the Clouds",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ch1",
+      "SetID": "d2nf3p0",
+      "Name": "Pandora\u0027s Sandbox",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ch2",
+      "SetID": "d2nf3p0",
+      "Name": "The Woman Behind The Curtain",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ch3",
+      "SetID": "d2nf3p0",
+      "Name": "A World Built For One",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Ch4",
+      "SetID": "d2nf3p0",
+      "Name": "Two Parallel Lines",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chat1",
+      "SetID": "d2nf3p0",
+      "Name": "\u003C\u002Bclear1ess\u003E",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chat2",
+      "SetID": "d2nf3p0",
+      "Name": "\u003C%clear1ess\u003E",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chat3",
+      "SetID": "d2nf3p0",
+      "Name": "\u003C@clear1ess\u003E",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chat4",
+      "SetID": "d2nf3p0",
+      "Name": "\u003C\u0026clear1ess\u003E",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chat5",
+      "SetID": "d2nf3p0",
+      "Name": "\u003C~clear1ess\u003E",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ColorTheory",
+      "SetID": "d2nf3p0",
+      "Name": "Color Theory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Crafting",
+      "SetID": "d2nf3p0",
+      "Name": "Lv. 99 Crafting",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DeceasedSlime",
+      "SetID": "d2nf3p0",
+      "Name": "Fluent in Slimespeak",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EdgyTanuki",
+      "SetID": "d2nf3p0",
+      "Name": "Nothin\u0027 Personnel, Kid",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EscortMission",
+      "SetID": "d2nf3p0",
+      "Name": "Escort Mission",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Fate",
+      "SetID": "d2nf3p0",
+      "Name": "Looping Thread to Thread",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FinalBossDoor",
+      "SetID": "d2nf3p0",
+      "Name": "Less Than Three",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GetFlossedOn",
+      "SetID": "d2nf3p0",
+      "Name": "Get Flossed On",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Glasses",
+      "SetID": "d2nf3p0",
+      "Name": "Glasses Are Really Versatile",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoodEndNoAssist",
+      "SetID": "d2nf3p0",
+      "Name": "This Connection (No Assist Mode)",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GoodEndWithAssist",
+      "SetID": "d2nf3p0",
+      "Name": "This Connection",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ItemBounce",
+      "SetID": "d2nf3p0",
+      "Name": "Haven Heights FC",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "KatSidequest",
+      "SetID": "d2nf3p0",
+      "Name": "Actual Treasure",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LandonSidequest",
+      "SetID": "d2nf3p0",
+      "Name": "Proof of Steak",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Laser",
+      "SetID": "d2nf3p0",
+      "Name": "Laser Evasion Certification",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MusicPuzzle1",
+      "SetID": "d2nf3p0",
+      "Name": "A Harmony Inside the Darkness",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MusicPuzzle2",
+      "SetID": "d2nf3p0",
+      "Name": "A Melody I\u0027d Never Heard Before",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoFloss",
+      "SetID": "d2nf3p0",
+      "Name": "Fair and Square",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OneUp",
+      "SetID": "d2nf3p0",
+      "Name": "1-Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PiousTanuki",
+      "SetID": "d2nf3p0",
+      "Name": "Achievement Unlocked",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PublicNuisance",
+      "SetID": "d2nf3p0",
+      "Name": "Public Nuisance No. 1",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SheepishSlime",
+      "SetID": "d2nf3p0",
+      "Name": "Hilda\u0027s Lullaby",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpadeCoin1",
+      "SetID": "d2nf3p0",
+      "Name": "To Live as a Human",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpadeCoin2",
+      "SetID": "d2nf3p0",
+      "Name": "\u0022It\u0027ll be a blast,\u0022 they said",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpadeCoin3",
+      "SetID": "d2nf3p0",
+      "Name": "Melodic Memory",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpadeCoin4",
+      "SetID": "d2nf3p0",
+      "Name": "A Starry Secret",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SpadeCoin5",
+      "SetID": "d2nf3p0",
+      "Name": "The Shape of Your Heart",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TriedEarphones",
+      "SetID": "d2nf3p0",
+      "Name": "Rosetta Earphones",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TriedTea",
+      "SetID": "d2nf3p0",
+      "Name": "Camellia Sinensis",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "VisitedCrossroad",
+      "SetID": "d2nf3p0",
+      "Name": "Connection Established",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d2nf3p0",
@@ -40,8 +538,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-09T13:13:29.8594052+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:32.4108574+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:55.7136456+00:00",
   "LastUpdate_AppInfo": "2024-09-12T23:56:59.3920997+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:29.2636191+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:32.4108599+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:07.7089783+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:55.7144939+00:00"
 }

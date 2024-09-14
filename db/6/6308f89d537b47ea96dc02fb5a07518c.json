@@ -2,10 +2,10 @@
   "ID": "6308f89d537b47ea96dc02fb5a07518c",
   "Name": "FusyFox",
   "ProductSlug": "fusyfox-752d01",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-30T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T00:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-30T04:01:21.4740729+00:00",
   "LastUpdate_AppInfo": "2024-09-10T03:01:41.0260092+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:46.9605446+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:18.9045761+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:40.8396816+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:29.4861453+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "0ec12dcb698d4b0ba999f94a710eaba3",
   "Name": "Trigger Tennis",
   "ProductSlug": "trigger-tennis-a4facb",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-09T23:00:00+00:00",
     "PcReleaseDate": "2024-01-03T23:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-08T13:57:13.062017+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:55.5931993+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:47.4773157+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:53.0400893+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:49.3602765+00:00"
 }

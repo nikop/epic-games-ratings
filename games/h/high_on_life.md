@@ -5,42 +5,42 @@ Rating: 4.66 (Ranked 332)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 9.00% | ~2,327 |
-| Sweezy Like Sunday Morning | 9.00% | ~2,327 |
-| First Bounty Down | 9.00% | ~2,327 |
-| G3 Graduation | 9.00% | ~2,327 |
-| Cold-Blooded Driller | 9.00% | ~2,327 |
-| Are You Packin'? | 8.00% | ~2,068 |
-| Bring A Knife to a Gun Fight | 8.00% | ~2,068 |
-| We're All Very Impressed, Trust Me | 8.00% | ~2,068 |
-| Don't Knife The Hand That Feeds | 8.00% | ~2,068 |
-| Creature Feature | 7.00% | ~1,810 |
-| Who's The Boss? | 7.00% | ~1,810 |
-| RIP Davey Glutes | 6.00% | ~1,551 |
-| Hardest Battle In The Game | 6.00% | ~1,551 |
-| Fallout Doesn't Let You Do This | 6.00% | ~1,551 |
-| Lezduit! | 5.00% | ~1,293 |
-| Legendary Bounty Hunter | 5.00% | ~1,293 |
-| Self-Actualization | 5.00% | ~1,293 |
-| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,293 |
-| Eye Scream, You Scream | 4.00% | ~1,034 |
-| Series Wrap on Suit-O | 4.00% | ~1,034 |
-| Eatin' Good in the Neighborhood | 3.00% | ~776 |
-| Gunning For Your Job | 2.00% | ~517 |
-| We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~517 |
-| Bathe With A Giant Nude Alien | 2.00% | ~63 |
-| Mux Ado About Shipping | 1.00% | ~31 |
-| We Came, We Chainsaw, We Conquered | 1.00% | ~31 |
-| Carried Stan's Load To Completion | 0.90% | ~233 |
-| Fall In Love With A Parasite | 0.80% | ~25 |
+| First Bounty Down | 10.00% | ~2,592 |
+| Satisfied Gus-tomer | 9.00% | ~2,333 |
+| Sweezy Like Sunday Morning | 9.00% | ~2,333 |
+| G3 Graduation | 9.00% | ~2,333 |
+| Cold-Blooded Driller | 9.00% | ~2,333 |
+| Are You Packin'? | 8.00% | ~2,074 |
+| Bring A Knife to a Gun Fight | 8.00% | ~2,074 |
+| We're All Very Impressed, Trust Me | 8.00% | ~2,074 |
+| Don't Knife The Hand That Feeds | 8.00% | ~2,074 |
+| Creature Feature | 7.00% | ~1,814 |
+| RIP Davey Glutes | 7.00% | ~1,814 |
+| Who's The Boss? | 7.00% | ~1,814 |
+| Hardest Battle In The Game | 6.00% | ~1,555 |
+| Fallout Doesn't Let You Do This | 6.00% | ~1,555 |
+| Lezduit! | 5.00% | ~1,296 |
+| Legendary Bounty Hunter | 5.00% | ~1,296 |
+| Self-Actualization | 5.00% | ~1,296 |
+| Spent 15 Hours At The Alien Strip Club | 5.00% | ~1,296 |
+| Series Wrap on Suit-O | 5.00% | ~1,296 |
+| Eatin' Good in the Neighborhood | 4.00% | ~1,037 |
+| Eye Scream, You Scream | 4.00% | ~1,037 |
+| Gunning For Your Job | 2.00% | ~518 |
+| We Paid For The Rights To Put A Whole Movie In Here | 2.00% | ~518 |
+| We Came, We Chainsaw, We Conquered | 2.00% | ~64 |
+| Bathe With A Giant Nude Alien | 2.00% | ~64 |
+| Carried Stan's Load To Completion | 1.00% | ~259 |
+| Mux Ado About Shipping | 1.00% | ~32 |
+| Fall In Love With A Parasite | 0.80% | ~26 |
 | Sequel-Bait | 0.70% | ~181 |
-| A Starfish Is Born | 0.60% | ~155 |
-| Playing Favorites | 0.60% | ~155 |
-| Epic Legendary Prize | 0.40% | ~103 |
+| A Starfish Is Born | 0.60% | ~156 |
+| Playing Favorites | 0.60% | ~156 |
+| Epic Legendary Prize | 0.40% | ~104 |
+| Mods Please Ban | 0.40% | ~104 |
 | Meet Frasier from Frasier | 0.40% | ~13 |
-| Mods Please Ban | 0.30% | ~78 |
 | Luglox Genocide | 0.30% | ~78 |
-| Give Away All Your Money | 0.30% | ~9 |
+| Give Away All Your Money | 0.30% | ~10 |
 | Playing Card To Get | 0.20% | ~52 |
 | Seeing All The Sights | 0.20% | ~52 |
 | It's Like The Santa Clause | 0.20% | ~6 |
@@ -50,8 +50,8 @@ Rating: 4.66 (Ranked 332)
 | Porch Pirate | 0.10% | ~3 |
 | Harper? I Barely Know Her! | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,856 (Ranked 195)  
-Completed: 15 (0.06%) (Ranked 463)  
+Progressed: 25,919 (Ranked 206)  
+Completed: 15 (0.06%) (Ranked 486)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -337,6 +337,7 @@ Completed: 15 (0.06%) (Ranked 463)
 | 2024-06-17 | 25,705 | 15 |
 | 2024-08-09 | 25,839 | 15 |
 | 2024-08-20 | 25,856 | 15 |
+| 2024-09-14 | 25,919 | 15 |
 ## Awards
 Max (Unique Visuals): 20  (Ranked 706)  
 Sum: 20 (Ranked 708)  

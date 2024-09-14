@@ -2,10 +2,10 @@
   "ID": "c99e1a5d5bd5462d8fbaabf6951bbbdf",
   "Name": "The Land Beneath Us",
   "ProductSlug": "the-land-beneath-us-85394f",
-  "Ranking_EOS_Progress": 899,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 941,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-13T15:00:00+00:00",
     "PcReleaseDate": "2024-05-13T15:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:07:55.1771705+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:31.8520882+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:07:47.7351293+00:00",
@@ -55,25 +60,25 @@
       "ID": "LBUA001",
       "SetID": "alp34bd",
       "Name": "Getting started",
-      "Percentage": 69,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LBUA002",
       "SetID": "alp34bd",
       "Name": "Mother\u0027s Soul",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LBUA003",
       "SetID": "alp34bd",
       "Name": "The Chained Witch",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LBUA004",
@@ -143,7 +148,7 @@
       "ID": "LBUA012",
       "SetID": "alp34bd",
       "Name": "Waxing Crescent",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -183,17 +188,17 @@
       "ID": "LBUA017",
       "SetID": "alp34bd",
       "Name": "Roguelike",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LBUA018",
       "SetID": "alp34bd",
       "Name": "Unyielding I",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LBUA019",
@@ -215,25 +220,25 @@
       "ID": "LBUA021",
       "SetID": "alp34bd",
       "Name": "Learning | Offensive",
-      "Percentage": 13,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LBUA022",
       "SetID": "alp34bd",
       "Name": "Learning | Defensive",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LBUA023",
       "SetID": "alp34bd",
       "Name": "Learning | Techinical",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "LBUA024",
@@ -255,17 +260,17 @@
       "ID": "LBUA026",
       "SetID": "alp34bd",
       "Name": "Processing | Recovery",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LBUA027",
       "SetID": "alp34bd",
       "Name": "Processing | Traps",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LBUA028",
@@ -279,9 +284,9 @@
       "ID": "LBUA029",
       "SetID": "alp34bd",
       "Name": "Processing | Overload",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LBUA030",
@@ -344,14 +349,14 @@
     {
       "ID": "alp34bd",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-05-13T15:57:24.1696992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:47.7351293+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:22.3344887+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:31.8520877+00:00",
   "LastUpdate_AppInfo": "2024-09-10T03:01:42.0103749+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:04.6307559+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:22.3345111+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:25.0005693+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:31.8521118+00:00"
 }

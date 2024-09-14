@@ -2,10 +2,10 @@
   "ID": "3645577654d440e4a833ce60dac7ccf3",
   "Name": "Persha and the Magic Labyrinth -Arabian Nyaights-",
   "ProductSlug": "persha-and-the-magic-labyrinth-ca72d4",
-  "Ranking_EOS_Progress": 732,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 758,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-22T05:00:00+00:00",
     "PcReleaseDate": "2023-09-19T05:00:00+00:00",
@@ -497,9 +497,9 @@
       "ID": "MagicCat40",
       "SetID": "df8cl74",
       "Name": "Magic Cat: 40 cats unlocked",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MagicCat50",
@@ -680,8 +680,8 @@
   ],
   "FirstSeen": "2024-01-02T01:47:17.1216415+00:00",
   "FirstSeenAchievements": "2023-11-22T06:03:17.9237808+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:14.9596431+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:22.4011448+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:36.1013632+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:51.8202728+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:14.959682+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:35.104736+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:22.4011713+00:00"
 }

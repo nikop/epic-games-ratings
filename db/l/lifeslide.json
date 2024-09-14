@@ -2,10 +2,10 @@
   "ID": "ff1ca89cef474e6fa402c58c29a6258a",
   "Name": "Lifeslide",
   "ProductSlug": "lifeslide",
-  "Ranking_EOS_Progress": 507,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 389,
+  "EOS_Progressed": 393,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -194,6 +194,11 @@
       "Time": "2024-08-09T18:02:32.5425745+00:00",
       "NumProgressed": 389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:44.2221982+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -205,7 +210,7 @@
       "Name": "Turbulence",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 138
     },
     {
       "ID": "ADULTHOOD_REACHED",
@@ -213,7 +218,7 @@
       "Name": "On The Right Path",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "ALL_PLANES _UNLOCKED",
@@ -221,7 +226,7 @@
       "Name": "All The Pieces",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ALL_PLANES_PLAYED",
@@ -237,7 +242,7 @@
       "Name": "Through The Hoop",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "BIRTH_REACHED",
@@ -245,7 +250,7 @@
       "Name": "All Starts Here",
       "Percentage": 96,
       "XP": 20,
-      "UsersEstimate": 373
+      "UsersEstimate": 377
     },
     {
       "ID": "BUILDING_HIDDEN",
@@ -267,9 +272,9 @@
       "ID": "CHANGE_POWERUP",
       "SetID": "b6f796g",
       "Name": "Change of Heart",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 212
     },
     {
       "ID": "CHILDHOOD_REACHED",
@@ -277,7 +282,7 @@
       "Name": "Wonderful World",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 224
     },
     {
       "ID": "COLLECT_MATTER_10000",
@@ -285,7 +290,7 @@
       "Name": "Tangibility",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "END_REACHED",
@@ -301,7 +306,7 @@
       "Name": "Road to Improvement",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 279
     },
     {
       "ID": "FULL_IMPROVEMENTS",
@@ -309,7 +314,7 @@
       "Name": "Best Self",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "IN_LOVE",
@@ -325,7 +330,7 @@
       "Name": "Through The Vines",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KINGDOM_HIDDEN",
@@ -341,7 +346,7 @@
       "Name": "Endless Possibilities",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "LOVE_HIDDEN",
@@ -349,7 +354,7 @@
       "Name": "Under And Over",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "MATURITY_REACHED",
@@ -357,7 +362,7 @@
       "Name": "Bigger Picture",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MAX_SPEED_REACHED",
@@ -373,7 +378,7 @@
       "Name": "Night Air",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "OLD_AGE_REACHED",
@@ -389,7 +394,7 @@
       "Name": "Second Wind",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "SECOND_WIND_X3",
@@ -429,15 +434,15 @@
       "Name": "Chain of Events",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "YOUNG_ADULTHOOD_REACHED",
       "SetID": "b6f796g",
       "Name": "Finding The Way",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 93
+      "UsersEstimate": 90
     },
     {
       "ID": "ZEN_TRAVEL_10000",
@@ -445,14 +450,14 @@
       "Name": "Around The World",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6f796g",
       "IsBase": true,
-      "Progressed": 389,
+      "Progressed": 393,
       "Completed": 0
     }
   ],
@@ -460,8 +465,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:32.5425738+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:44.2221976+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:47.0979263+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:18.0191643+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:32.542595+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:36.5669386+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:44.2222187+00:00"
 }

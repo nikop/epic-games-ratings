@@ -5,10 +5,10 @@
   "Ranking_Rating": 1113,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -269,11 +269,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2365,
-  "EOS_Completed": 90,
-  "EOS_NewPlayers": 9,
+  "EOS_Progressed": 2408,
+  "EOS_Completed": 91,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.81,
+  "EOS_Completed_Percentage": 3.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -4464,6 +4464,11 @@
       "Time": "2024-08-20T20:11:40.9957958+00:00",
       "NumProgressed": 2365,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2024-09-14T14:24:40.8156129+00:00",
+      "NumProgressed": 2408,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 11,
@@ -4475,7 +4480,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 970
+      "UsersEstimate": 987
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4483,7 +4488,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1348
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4491,7 +4496,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4499,7 +4504,7 @@
       "Name": "Spicy",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FineEV5",
@@ -4507,7 +4512,7 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1132
     },
     {
       "ID": "ACH_FineEV9",
@@ -4515,7 +4520,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 946
+      "UsersEstimate": 963
     },
     {
       "ID": "ACH_FineGioco",
@@ -4523,7 +4528,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 804
+      "UsersEstimate": 819
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -4531,7 +4536,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 946
+      "UsersEstimate": 963
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -4539,7 +4544,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 75,
       "XP": 100,
-      "UsersEstimate": 1774
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4547,7 +4552,7 @@
       "Name": "Someone was here",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 993
+      "UsersEstimate": 1011
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -4555,22 +4560,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 970
+      "UsersEstimate": 987
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 2365,
-      "Completed": 90
+      "Progressed": 2408,
+      "Completed": 91
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2024-08-06T21:58:02.6695685+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:40.9957953+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:40.8156123+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:38.7676204+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:24.2193949+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:40.9958259+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:52.8387584+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:40.8156407+00:00"
 }

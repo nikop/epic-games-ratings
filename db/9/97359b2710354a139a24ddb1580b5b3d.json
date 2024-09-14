@@ -2,10 +2,10 @@
   "ID": "97359b2710354a139a24ddb1580b5b3d",
   "Name": "I Did Not Buy This Ticket",
   "ProductSlug": "i-did-not-buy-this-ticket-086fe2",
-  "Ranking_EOS_Progress": 835,
-  "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 874,
+  "Ranking_EOS_Completed": 174,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
     "PcReleaseDate": "2023-04-13T03:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 29,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
@@ -295,9 +295,9 @@
       "ID": "ACHMirror3",
       "SetID": "bjbioka",
       "Name": "Third Look",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHMirror4",
@@ -319,9 +319,9 @@
       "ID": "ACHMourner",
       "SetID": "bjbioka",
       "Name": "Dutiful Mourner",
-      "Percentage": 45,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHNewListener",
@@ -406,8 +406,8 @@
   ],
   "FirstSeen": "2023-10-07T02:12:50.0812742+00:00",
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:24.359804+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:27.9241689+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:13.6178517+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:33.8596847+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:24.3598229+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:37.3643891+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:27.924196+00:00"
 }

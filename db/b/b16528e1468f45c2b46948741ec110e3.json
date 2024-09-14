@@ -2,10 +2,10 @@
   "ID": "b16528e1468f45c2b46948741ec110e3",
   "Name": "Match 3 Game The world is going to",
   "ProductSlug": "match-3-game-the-world-is-going-to-9a5c08",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T18:57:15.5429379+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:47.3702744+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:47.1871913+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:04.4419621+00:00"
 }

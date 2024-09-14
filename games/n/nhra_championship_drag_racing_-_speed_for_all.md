@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~1,018 |
-| Trouble with the swerve | 67.00% | ~689 |
-| Oops, My bad | 66.00% | ~678 |
-| Don't get ahead on yourself | 39.00% | ~401 |
-| I didn't know you where there! | 30.00% | ~308 |
-| Participation trophy | 22.00% | ~226 |
-| Whole again | 12.00% | ~123 |
-| Getting the job done | 7.00% | ~72 |
-| Cash Rules Everything Around Me | 7.00% | ~72 |
-| Risky business | 6.00% | ~62 |
-| Ready to Mingle | 6.00% | ~62 |
-| First one tastes better | 4.00% | ~41 |
-| Better late then never | 4.00% | ~41 |
-| Better than the pros | 2.00% | ~21 |
-| Fan Boy | 2.00% | ~21 |
-| In the bank | 1.00% | ~10 |
-| American Legend | 1.00% | ~10 |
-| Dedicated tourist | 0.90% | ~9 |
+| Graduated | 99.00% | ~1,068 |
+| Trouble with the swerve | 67.00% | ~723 |
+| Oops, My bad | 66.00% | ~712 |
+| Don't get ahead on yourself | 38.00% | ~410 |
+| I didn't know you where there! | 30.00% | ~324 |
+| Participation trophy | 22.00% | ~237 |
+| Whole again | 12.00% | ~129 |
+| Getting the job done | 8.00% | ~86 |
+| Cash Rules Everything Around Me | 7.00% | ~76 |
+| Risky business | 5.00% | ~54 |
+| Ready to Mingle | 5.00% | ~54 |
+| First one tastes better | 4.00% | ~43 |
+| Better late then never | 4.00% | ~43 |
+| Better than the pros | 2.00% | ~22 |
+| Fan Boy | 2.00% | ~22 |
+| In the bank | 1.00% | ~11 |
+| American Legend | 1.00% | ~11 |
+| Dedicated tourist | 0.80% | ~9 |
 | Well oiled Veteran | 0.40% | ~4 |
 | For Science! | 0.30% | ~3 |
 | Secure the bag | 0.20% | ~2 |
@@ -38,8 +38,8 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,028 (Ranked 407)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,079 (Ranked 415)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 954 | 0 |
 | 2024-08-09 | 1,027 | 0 |
 | 2024-08-20 | 1,028 | 0 |
+| 2024-09-14 | 1,079 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

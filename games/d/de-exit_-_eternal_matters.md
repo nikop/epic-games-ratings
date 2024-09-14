@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's interesting! | 600.00% | ~6 |
-| You look like a Snake! | 500.00% | ~5 |
-| Looks good on you! | 500.00% | ~5 |
-| Be careful with them! | 500.00% | ~5 |
-| Your artifact is almost done! | 400.00% | ~4 |
-| By the skin of your teeth! If you had any. | 400.00% | ~4 |
-| Has something changed? | 400.00% | ~4 |
-| Slept well? | 400.00% | ~4 |
-| Watch out! | 400.00% | ~4 |
-| Meet the Primordial! | 400.00% | ~4 |
-| You look like a rainbow! | 300.00% | ~3 |
-| It can't be! | 300.00% | ~3 |
-| You don't need a silly red sheet! | 200.00% | ~2 |
-| Ready for your journey? | 200.00% | ~2 |
-| Is it remitting? | 200.00% | ~2 |
-| That's what the fox says! | 200.00% | ~2 |
-| Knowledge does not take up space! | 100.00% | ~1 |
-| May they rest in peace. | 100.00% | ~1 |
-| Patience is a virtue! | 100.00% | ~1 |
-| Run for your life! | 100.00% | ~1 |
-| Safety first! | 100.00% | ~1 |
+| That's interesting! | 300.00% | ~6 |
+| You look like a Snake! | 250.00% | ~5 |
+| Looks good on you! | 250.00% | ~5 |
+| Be careful with them! | 250.00% | ~5 |
+| Your artifact is almost done! | 200.00% | ~4 |
+| By the skin of your teeth! If you had any. | 200.00% | ~4 |
+| Has something changed? | 200.00% | ~4 |
+| Slept well? | 200.00% | ~4 |
+| Watch out! | 200.00% | ~4 |
+| Meet the Primordial! | 200.00% | ~4 |
+| You look like a rainbow! | 150.00% | ~3 |
+| It can't be! | 150.00% | ~3 |
+| You don't need a silly red sheet! | 100.00% | ~2 |
+| Ready for your journey? | 100.00% | ~2 |
+| Is it remitting? | 100.00% | ~2 |
+| That's what the fox says! | 100.00% | ~2 |
+| Knowledge does not take up space! | 50.00% | ~1 |
+| May they rest in peace. | 50.00% | ~1 |
+| Patience is a virtue! | 50.00% | ~1 |
+| Run for your life! | 50.00% | ~1 |
+| Safety first! | 50.00% | ~1 |
 | Now you look like a proper Guardian! | 0.00% | ~0 |
 | You should have been a gondolier! | 0.00% | ~0 |
 | Is this really working? | 0.00% | ~0 |
@@ -34,12 +34,13 @@
 | This should have never happened! | 0.00% | ~0 |
 | You're a good neighbor! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,099)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 2 (Ranked 1,110)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-15 | 1 | 0 |
+| 2024-09-14 | 2 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

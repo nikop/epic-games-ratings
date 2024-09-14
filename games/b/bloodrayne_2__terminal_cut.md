@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Going Batty | 31.00% | ~4 |
-| Amateur Electrician | 8.00% | ~1 |
-| Armed and Dangerous | 8.00% | ~1 |
-| Go for the Heart | 8.00% | ~1 |
-| Patricide | 8.00% | ~1 |
-| Tightrope | 8.00% | ~1 |
-| Zen Garden | 8.00% | ~1 |
-| CARNAGE | 0.00% | ~0 |
+| Going Batty | 36.00% | ~5 |
+| Amateur Electrician | 7.00% | ~1 |
+| Armed and Dangerous | 7.00% | ~1 |
+| CARNAGE | 7.00% | ~1 |
+| Go for the Heart | 7.00% | ~1 |
+| Patricide | 7.00% | ~1 |
+| Tightrope | 7.00% | ~1 |
+| Zen Garden | 7.00% | ~1 |
 | Combat Specialist | 0.00% | ~0 |
 | Deathtraps | 0.00% | ~0 |
 | Executioner | 0.00% | ~0 |
@@ -19,8 +19,8 @@
 | Nowhere you can hide | 0.00% | ~0 |
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 928)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 14 (Ranked 971)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -30,6 +30,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2023-12-20 | 11 | 0 |
 | 2023-12-31 | 12 | 0 |
 | 2024-06-17 | 13 | 0 |
+| 2024-09-14 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

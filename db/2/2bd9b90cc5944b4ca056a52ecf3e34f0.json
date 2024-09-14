@@ -2,10 +2,10 @@
   "ID": "2bd9b90cc5944b4ca056a52ecf3e34f0",
   "Name": "Suv 4x4 Car Parking Simulator",
   "ProductSlug": "suv-4x4-car-parking-simulator-5d6c9e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-11T15:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-13T13:58:10.3203396+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:56:55.5416935+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:35.6585542+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:53.4040814+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:12.4580895+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:23.046958+00:00"
 }

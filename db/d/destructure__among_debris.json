@@ -2,10 +2,10 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 584,
-  "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 606,
+  "Ranking_EOS_Completed": 281,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 198,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.02,
+  "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -876,6 +876,11 @@
       "Time": "2024-08-09T18:03:57.9024494+00:00",
       "NumProgressed": 196,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:19:28.5717912+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 31,
@@ -901,9 +906,9 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ball_collector",
@@ -959,7 +964,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     },
     {
       "ID": "easy_victory",
@@ -975,7 +980,7 @@
       "Name": "Graduation",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -989,9 +994,9 @@
       "ID": "ice_breaker",
       "SetID": "jig50d",
       "Name": "Ice Breaker",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "legendary_destructor",
@@ -1021,9 +1026,9 @@
       "ID": "medium_rare",
       "SetID": "jig50d",
       "Name": "Medium Rare",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "monster_of_fashion",
@@ -1055,7 +1060,7 @@
       "Name": "Rookie",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "scrap_collector",
@@ -1125,16 +1130,16 @@
       "ID": "what_are_you",
       "SetID": "jig50d",
       "Name": "What Even Are You?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 198,
       "Completed": 2
     }
   ],
@@ -1142,8 +1147,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:57.9024492+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:28.5717906+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:47.5197172+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:28.4332132+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:57.9024662+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:30.9968974+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:28.5718155+00:00"
 }

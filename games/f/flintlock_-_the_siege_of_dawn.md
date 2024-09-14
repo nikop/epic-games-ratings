@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Shot of Espresso | 100.00% | ~1 |
+| Land Surfer | 100.00% | ~1 |
 | Full Arsenal | 0.00% | ~0 |
 | Rift Rider | 0.00% | ~0 |
 | Ruffled | 0.00% | ~0 |
@@ -38,7 +40,12 @@
 | A Name for Yourself | 0.00% | ~0 |
 | A Battle to Remember | 0.00% | ~0 |
 | War Hero | 0.00% | ~0 |
-| A Shot of Espresso | 0.00% | ~0 |
-| Land Surfer | 0.00% | ~0 |
 | Good Things Come in Threes | 0.00% | ~0 |
 | Top of the Class | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 1,155)  
+Completed: 0 (0.00%) (Ranked 591)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-09-14 | 1 | 0 |

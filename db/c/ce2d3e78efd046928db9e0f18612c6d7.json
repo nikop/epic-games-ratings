@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 635,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -26,8 +26,8 @@
   "Tags": [],
   "EOS_Progressed": 137,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 13.87,
   "EosHistory": [
     {
@@ -644,8 +644,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:13.0636267+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:20.9714113+00:00",
   "LastUpdate_AppInfo": "2024-09-11T08:57:06.7710325+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:27.2267201+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:13.0636391+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:32.4608413+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:20.9714227+00:00"
 }

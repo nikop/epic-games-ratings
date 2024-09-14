@@ -2,10 +2,10 @@
   "ID": "8d1d2207cb184a41aaa59ac26e0ba5a9",
   "Name": "Aces of the Luftwaffe - Squadron Extended Edition",
   "ProductSlug": "aces-of-the-luftwaffe-squadron-97086d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-04-08T13:00:00+00:00",
     "PcReleaseDate": "2018-07-24T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.9568108+00:00",
   "LastChanged": "2023-03-31T05:58:24.9568109+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:28.8700724+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:40.857686+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:54.2336064+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:11.6624764+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:09.4677872+00:00"
 }

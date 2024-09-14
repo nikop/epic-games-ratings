@@ -2,10 +2,10 @@
   "ID": "ac30e82169df47d88b8517c36ee5e916",
   "Name": "House Flipper 2",
   "ProductSlug": "house-flipper-2-f3bb66",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-12-14T18:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T10:57:08.9115162+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:28.2374874+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:51.371349+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:09.6127283+00:00"
 }

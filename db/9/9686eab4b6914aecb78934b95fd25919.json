@@ -2,10 +2,10 @@
   "ID": "9686eab4b6914aecb78934b95fd25919",
   "Name": "Goat Simulator Remastered",
   "ProductSlug": "goat-simulator-remastered-926445",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -32,7 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "228nmdl",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:13.5759973+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:13.5759953+00:00",
   "LastUpdate_AppInfo": "2024-09-10T21:57:02.3558155+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:56.7170566+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:53.8550775+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:13.5759991+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "76b2a6b569a8408a98c94f20c58ce1cd",
   "Name": "Project Adam : AI Attack",
   "ProductSlug": "projectadam-eec00e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-25T12:00:00+00:00",
     "PcReleaseDate": "2023-09-25T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-15T21:59:17.180682+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:32.5312375+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:29.2076683+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:36.9779244+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:14.3247673+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:49.4203173+00:00"
 }

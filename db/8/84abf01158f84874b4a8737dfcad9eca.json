@@ -2,10 +2,10 @@
   "ID": "84abf01158f84874b4a8737dfcad9eca",
   "Name": "DOSA: Guardians",
   "ProductSlug": "dosa-guardians-5f9184",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-13T03:00:00+00:00",
     "PcReleaseDate": "2024-06-13T03:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-13T13:58:33.6561863+00:00",
   "LastUpdate_AppInfo": "2024-09-12T02:04:09.124043+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:00.0250514+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:47.9475282+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:12.112214+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:49.9106548+00:00"
 }

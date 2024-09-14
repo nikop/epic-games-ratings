@@ -2,10 +2,10 @@
   "ID": "daed3ae775ab4986a0ce9ec1c3daab83",
   "Name": "The Wraith of the Galaxy",
   "ProductSlug": "the-wraith-of-the-galaxy-ac9fc1",
-  "Ranking_EOS_Progress": 979,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1000,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-17T22:00:00+00:00",
     "PcReleaseDate": "2023-02-14T22:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 10,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 10,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:52.8419888+00:00",
@@ -43,6 +43,11 @@
       "Time": "2024-08-20T20:14:03.2547281+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:28:11.6037524+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:52.8419927+00:00",
@@ -53,62 +58,62 @@
       "ID": "ACH_1",
       "SetID": "7mc7ji4",
       "Name": "Planet 1",
-      "Percentage": 29,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_2",
       "SetID": "7mc7ji4",
       "Name": "Planet 2",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_3",
       "SetID": "7mc7ji4",
       "Name": "Planet 3",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_4",
       "SetID": "7mc7ji4",
       "Name": "Planet 4",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_5",
       "SetID": "7mc7ji4",
       "Name": "Planet 5",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_6",
       "SetID": "7mc7ji4",
       "Name": "Planet 6",
-      "Percentage": 14,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mc7ji4",
       "IsBase": true,
-      "Progressed": 7,
-      "Completed": 0
+      "Progressed": 10,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:52.8419926+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:14:03.2547275+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:28:11.6037506+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:41.5747937+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:17.2749513+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:14:03.2547341+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:04.806998+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:11.6037615+00:00"
 }

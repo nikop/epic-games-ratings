@@ -3,9 +3,63 @@
 [View Rawdata](../../db/s/satisfactory.json)  
 Rating: 4.87 (Ranked 19)  
 Number of Ratings: 29,401  (23.09.2022)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| New fear unlocked | 45.00% | ~97,526 |
+| Rock and stone! | 45.00% | ~97,526 |
+| Yoink! | 44.00% | ~95,359 |
+| I'm sure these play a Critical Role | 36.00% | ~78,021 |
+| Varied diet | 29.00% | ~62,850 |
+| Heal this, nature! | 29.00% | ~62,850 |
+| Mediocre pioneering | 27.00% | ~58,515 |
+| Do you want a medal? | 27.00% | ~58,515 |
+| Oddly familiar | 27.00% | ~58,515 |
+| Commencing Project Assembly | 26.00% | ~56,348 |
+| Master Chef | 23.00% | ~49,847 |
+| Now where to spend it... | 21.00% | ~45,512 |
+| Wheeeee! | 19.00% | ~41,178 |
+| Caught them all | 18.00% | ~39,010 |
+| Too fast, Too factory | 18.00% | ~39,010 |
+| Spaghetti master | 14.00% | ~30,341 |
+| Curiosity killed the cat... | 8.00% | ~17,338 |
+| Establish dominance | 8.00% | ~17,338 |
+| That was a close one | 7.00% | ~15,171 |
+| Adequate pioneering | 6.00% | ~13,003 |
+| Are you sure that's coffee? | 5.00% | ~10,836 |
+| Thank you for the music | 5.00% | ~10,836 |
+| Bigger. Better. FICSIT. | 4.00% | ~8,669 |
+| Pioneer's best friend | 4.00% | ~8,669 |
+| Let's see what's out there | 3.00% | ~6,502 |
+| The floor is lava | 2.00% | ~4,334 |
+| Look both ways next time | 2.00% | ~4,334 |
+| All aboard! | 2.00% | ~4,334 |
+| A Concrete Example | 1.00% | ~2,167 |
+| Pretty good pioneering | 1.00% | ~2,167 |
+| Peak gameplay | 1.00% | ~2,167 |
+| Wait, you can pet it? | 0.80% | ~1,734 |
+| What a thrill | 0.80% | ~1,734 |
+| Pipe dream | 0.70% | ~1,517 |
+| Railroad tycoon | 0.60% | ~1,300 |
+| No refunds | 0.50% | ~1,084 |
+| Efficient pioneering | 0.40% | ~867 |
+| ...Satisfactory brought it back | 0.10% | ~217 |
+| Saved the Day, probably | 0.10% | ~217 |
+| Data driven | 0.10% | ~217 |
+| Consume | 0.10% | ~217 |
+| My skin feels itchy all of a sudden... | 0.10% | ~217 |
+| Do you need that? | 0.10% | ~217 |
+| Efficiency first | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 216,724 (Ranked 97)  
+Completed: 0 (0.00%) (Ranked 591)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-09-14 | 216,724 | 0 |
 ## Awards
 Max (Great for Beginners): 21,112  (Ranked 27)  
-Sum: 157,384 (Ranked 16)  
+Sum: 157,564 (Ranked 16)  
 Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +70,7 @@ Diff (max vs sum): 11
 | This game has Quickly Understood Controls | 15,924 |
 | This game has Easy Combat | 15,809 |
 | This game is Educational | 15,544 |
-| This game has a Creative Community | 14,538 |
+| This game has a Creative Community | 14,718 |
 | This game has Amazing Characters | 12,331 |
 | This game has Amazing Storytelling | 12,320 |
 | This game has Obsessive Gameplay | 5,262 |
@@ -620,4 +674,4 @@ Diff (max vs sum): 11
 | 2024-09-11 | 4.87 | - | 20,250 | 153,021 |
 | 2024-09-12 | 4.87 | - | 20,508 | 154,737 |
 | 2024-09-13 | 4.87 | - | 20,805 | 156,695 |
-| 2024-09-14 | 4.87 | - | 21,112 | 157,384 |
+| 2024-09-14 | 4.87 | - | 21,112 | 157,564 |

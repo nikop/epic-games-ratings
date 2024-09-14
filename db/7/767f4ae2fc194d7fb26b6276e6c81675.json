@@ -2,10 +2,10 @@
   "ID": "767f4ae2fc194d7fb26b6276e6c81675",
   "Name": "Memory Lost",
   "ProductSlug": "memory-lost-e53b90",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T02:04:09.6231572+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:10.8861544+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:44.2194566+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:20.1353108+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:01.6313438+00:00"
 }

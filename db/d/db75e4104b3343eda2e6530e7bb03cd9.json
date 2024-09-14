@@ -2,13 +2,13 @@
   "ID": "db75e4104b3343eda2e6530e7bb03cd9",
   "Name": "Prince of Persia: The Forgotten Sands STANDARD EDITION",
   "ProductSlug": "prince-of-persia-the-forgotten-sands",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 921,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-03T15:00:00+00:00",
     "PcReleaseDate": "2010-06-08T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR, CN, BY, RU"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-12-31T20:01:07.1794573+00:00",
@@ -165,6 +165,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-14T14:12:27.59746+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -183,8 +189,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-09T01:52:39.5670978+00:00",
   "FirstSeenRating": "2023-12-31T20:01:07.1794571+00:00",
-  "LastChanged": "2024-08-22T09:00:20.4407941+00:00",
+  "LastChanged": "2024-09-14T14:12:27.5974598+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:05.3934559+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:52.6039509+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:45.5333516+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:27.5974603+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:59.2588245+00:00"
 }

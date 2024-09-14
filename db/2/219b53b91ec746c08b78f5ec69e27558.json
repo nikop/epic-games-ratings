@@ -2,10 +2,10 @@
   "ID": "219b53b91ec746c08b78f5ec69e27558",
   "Name": "September Fall - Loneliness",
   "ProductSlug": "september-fall-loneliness-d6b39d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-01T00:00:00+00:00",
     "PcReleaseDate": "2024-08-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T18:57:19.8188795+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:35.1341877+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:07.497572+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:40.9871441+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:16.6836204+00:00"
 }

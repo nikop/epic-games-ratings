@@ -5,10 +5,10 @@
   "Ranking_Rating": 1014,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 439,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 448,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -637,9 +637,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 705,
+  "EOS_Progressed": 759,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1857,6 +1857,11 @@
       "Time": "2024-08-20T20:08:35.0508634+00:00",
       "NumProgressed": 705,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:34.0097837+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1869,7 +1874,7 @@
       "Name": "Pack Rat",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     },
     {
       "ID": "10000ELEXIT",
@@ -1877,15 +1882,15 @@
       "Name": "Banker",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 167
     },
     {
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 334
     },
     {
       "ID": "100HEALS",
@@ -1909,7 +1914,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "20AUDIOLOGS",
@@ -1917,7 +1922,7 @@
       "Name": "Storyteller",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "20TELEPORTS",
@@ -1925,7 +1930,7 @@
       "Name": "Beam Me Up",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "20TRADER",
@@ -1933,7 +1938,7 @@
       "Name": "Peddler",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 220
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1941,7 +1946,7 @@
       "Name": "Weaponsmith",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 99
     },
     {
       "ID": "300QUESTS",
@@ -1957,7 +1962,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 182
     },
     {
       "ID": "30POTIONS",
@@ -1965,7 +1970,7 @@
       "Name": "Alchemist",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "30SAVESHACKED",
@@ -1979,9 +1984,9 @@
       "ID": "35TELEPORTS",
       "SetID": "a1angca",
       "Name": "Globetrotter",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "50000ELEXIT",
@@ -1997,7 +2002,7 @@
       "Name": "Military Leader",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 235
     },
     {
       "ID": "ALLCOMBAT",
@@ -2005,7 +2010,7 @@
       "Name": "Hotshot",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 76
     },
     {
       "ID": "ALLCRAFT",
@@ -2013,7 +2018,7 @@
       "Name": "Self-Sufficient",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "ALLJETPACK",
@@ -2021,7 +2026,7 @@
       "Name": "Free as a Bird",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "ALLPERSONALITY",
@@ -2029,7 +2034,7 @@
       "Name": "Idealist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "ALLSURVIVAL",
@@ -2037,15 +2042,15 @@
       "Name": "Unbreakable",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 61
     },
     {
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 240
+      "UsersEstimate": 266
     },
     {
       "ID": "BRINGTOYS",
@@ -2053,7 +2058,7 @@
       "Name": "Toy Time",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "CHOSEABT",
@@ -2061,15 +2066,15 @@
       "Name": "Defector",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 114
     },
     {
       "ID": "CHOSEBSK",
@@ -2077,7 +2082,7 @@
       "Name": "Berserker",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "CHOSEKLE",
@@ -2085,7 +2090,7 @@
       "Name": "Cleric",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "CHOSEMOR",
@@ -2093,23 +2098,23 @@
       "Name": "Morkon",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "CHOSEOUT",
       "SetID": "a1angca",
       "Name": "Outlaw",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 23
     },
     {
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 243
     },
     {
       "ID": "DESTRUCTION",
@@ -2117,47 +2122,47 @@
       "Name": "Destroyer",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 228
     },
     {
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 273
     },
     {
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 311
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 304
     },
     {
       "ID": "FINDMAP",
@@ -2165,7 +2170,7 @@
       "Name": "Legendary",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 46
     },
     {
       "ID": "FINDWARDEK",
@@ -2173,7 +2178,7 @@
       "Name": "Family Reunion",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 197
     },
     {
       "ID": "FUTUREIRISSA",
@@ -2181,23 +2186,23 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 197
     },
     {
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 83
     },
     {
       "ID": "HELPTHORHILD",
       "SetID": "a1angca",
       "Name": "Pass A38",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 175
     },
     {
       "ID": "KILL200MONSTER",
@@ -2211,17 +2216,17 @@
       "ID": "KILL20MONSTER",
       "SetID": "a1angca",
       "Name": "Hunter",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "KILL20SKYANDS",
       "SetID": "a1angca",
       "Name": "Defender",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL30AMBIENT",
@@ -2229,7 +2234,7 @@
       "Name": "Ruthless",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KILL500MONSTER",
@@ -2243,17 +2248,17 @@
       "ID": "KILLGRANADE",
       "SetID": "a1angca",
       "Name": "Fire in the Hole",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 15
     },
     {
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 167
     },
     {
       "ID": "LOVECAJA",
@@ -2261,22 +2266,22 @@
       "Name": "Lover",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 705,
+      "Progressed": 759,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-09-13T00:00:07.5778451+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:35.0508627+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:34.0097831+00:00",
   "LastUpdate_AppInfo": "2024-09-09T04:57:08.9116007+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:34.5323045+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:35.0509049+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:21.9702159+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:34.009819+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "069263ed9b914d32807583fddb24a725",
   "Name": "Dead Space 2",
   "ProductSlug": "dead-space-2-germany-793373",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-28T15:00:00+00:00",
     "PcReleaseDate": "2013-02-04T22:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-19T19:58:37.5221993+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:23.1235252+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:15.9953214+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:57.6004836+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:53.0914939+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:03.1741579+00:00"
 }

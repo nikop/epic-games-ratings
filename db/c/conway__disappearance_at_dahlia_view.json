@@ -2,10 +2,10 @@
   "ID": "329ecb6186a14fdab79d72d8e4aaebd3",
   "Name": "Dahlia View",
   "ProductSlug": "dahlia-view-5d6354",
-  "Ranking_EOS_Progress": 969,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 996,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-11-02T10:00:00+00:00",
     "PcReleaseDate": "2021-11-02T00:00:00+00:00",
@@ -32,9 +32,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2024-08-20T20:08:22.2755699+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:26.8054236+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-09T18:05:08.8017611+00:00",
@@ -57,7 +62,7 @@
       "ID": "ACH_180",
       "SetID": "ajn36mb",
       "Name": "One Hundred \u0026 Eighty",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -65,7 +70,7 @@
       "ID": "ACH_ALL_EVIDENCE",
       "SetID": "ajn36mb",
       "Name": "Ace Detective: Conway",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -81,7 +86,7 @@
       "ID": "ACH_EVIDENCE_DOERR",
       "SetID": "ajn36mb",
       "Name": "Ace Detective: Doerr",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -89,7 +94,7 @@
       "ID": "ACH_EVIDENCE_DOWNES",
       "SetID": "ajn36mb",
       "Name": "Ace Detective: Downes",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "ACH_EVIDENCE_LEVY",
       "SetID": "ajn36mb",
       "Name": "Ace Detective: Levy",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "ACH_EVIDENCE_MCKEE",
       "SetID": "ajn36mb",
       "Name": "Ace Detective: McKee",
-      "Percentage": 38,
+      "Percentage": 27,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -121,17 +126,17 @@
       "ID": "ACH_LOOK_OUT",
       "SetID": "ajn36mb",
       "Name": "Look Out Below!",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 70,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MARLING",
       "SetID": "ajn36mb",
       "Name": "Marling",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_OBSERVANT",
@@ -145,7 +150,7 @@
       "ID": "ACH_PHILATELIST",
       "SetID": "ajn36mb",
       "Name": "Philatelist",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -161,7 +166,7 @@
       "ID": "ACH_SHOEGAZE",
       "SetID": "ajn36mb",
       "Name": "Shoegaze",
-      "Percentage": 13,
+      "Percentage": 9,
       "XP": 70,
       "UsersEstimate": 1
     }
@@ -170,7 +175,7 @@
     {
       "ID": "ajn36mb",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
@@ -178,8 +183,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2831841+00:00",
   "FirstSeenAchievements": "2024-08-09T18:05:08.801761+00:00",
   "LastChanged": "2023-03-31T05:58:16.2831842+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:22.2755695+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:26.805423+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:07.8518731+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:30.9695557+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:22.275579+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:35.171637+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:26.8054389+00:00"
 }

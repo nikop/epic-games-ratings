@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 50.00% | ~60 |
-| Beast Quest | 38.00% | ~46 |
-| Orb Gatherer | 37.00% | ~45 |
-| Monster Hunt | 37.00% | ~45 |
-| Space worm! | 37.00% | ~45 |
-| Beast Hunter | 34.00% | ~41 |
-| Orb Collector | 33.00% | ~40 |
-| Unmasked! | 33.00% | ~40 |
-| Loot, loot! | 33.00% | ~40 |
+| Horn prize! | 50.00% | ~62 |
+| Beast Quest | 38.00% | ~47 |
+| Orb Gatherer | 37.00% | ~46 |
+| Monster Hunt | 37.00% | ~46 |
+| Space worm! | 37.00% | ~46 |
+| Beast Hunter | 34.00% | ~42 |
+| Orb Collector | 33.00% | ~41 |
+| Unmasked! | 33.00% | ~41 |
+| Loot, loot! | 33.00% | ~41 |
+| Twin slayer! | 32.00% | ~39 |
+| Mercenary! | 32.00% | ~39 |
 | Vanquisher! | 31.00% | ~38 |
-| Twin slayer! | 31.00% | ~38 |
 | Snakehead! | 31.00% | ~38 |
-| Mercenary! | 31.00% | ~38 |
-| Fly, you fool! | 30.00% | ~36 |
-| Beast Knight | 26.00% | ~31 |
-| Relic Collector | 23.00% | ~28 |
-| Cartographer | 22.00% | ~27 |
-| God of the Tower! | 21.00% | ~25 |
+| Fly, you fool! | 30.00% | ~37 |
+| Beast Knight | 26.00% | ~32 |
+| Relic Collector | 24.00% | ~30 |
+| Cartographer | 23.00% | ~28 |
+| God of the Tower! | 22.00% | ~27 |
 | Wizard Mastery | 17.00% | ~21 |
 | Rogue Mastery | 17.00% | ~21 |
 | Destoy all monsters! | 15.00% | ~18 |
-| Fighter Mastery | 13.00% | ~16 |
-| Slay the Monster! | 13.00% | ~16 |
-| Gorgonslayer Mastery | 11.00% | ~13 |
-| Built for adventure | 11.00% | ~13 |
-| Collector Mastery | 11.00% | ~13 |
-| True Black Knight | 9.00% | ~11 |
-| Freedom Monster | 9.00% | ~11 |
-| No match for me! | 5.00% | ~6 |
-| True Titan | 5.00% | ~6 |
+| Fighter Mastery | 14.00% | ~17 |
+| Slay the Monster! | 14.00% | ~17 |
+| Gorgonslayer Mastery | 11.00% | ~14 |
+| Built for adventure | 11.00% | ~14 |
+| Collector Mastery | 11.00% | ~14 |
+| True Black Knight | 10.00% | ~12 |
+| Freedom Monster | 10.00% | ~12 |
+| No match for me! | 6.00% | ~7 |
+| True Titan | 6.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 650)  
-Completed: 6 (4.96%) (Ranked 129)  
+Progressed: 123 (Ranked 675)  
+Completed: 6 (4.88%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,6 +82,7 @@ Completed: 6 (4.96%) (Ranked 129)
 | 2024-06-17 | 107 | 5 |
 | 2024-08-09 | 120 | 5 |
 | 2024-08-20 | 121 | 6 |
+| 2024-09-14 | 123 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

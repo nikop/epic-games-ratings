@@ -2,10 +2,10 @@
   "ID": "ebd221dc1a8b4e2cb5e1fa2ab0dc50ec",
   "Name": "Daahrien\u0027s Active and Operational",
   "ProductSlug": "active-and-operational-a827e6",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T13:14:46.0696303+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:09.3992688+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:52.2617442+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:14.466345+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:47.8024821+00:00"
 }

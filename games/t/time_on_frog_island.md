@@ -4,44 +4,44 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shipwrecked! | 84.00% | ~88 |
-| Sea Legs | 66.00% | ~69 |
-| What?! | 47.00% | ~49 |
-| Frogs Legs | 18.00% | ~19 |
-| Hoist the Sails | 18.00% | ~19 |
-| Socialite | 16.00% | ~17 |
-| Mad Scientist | 13.00% | ~14 |
-| Secure the Sheets | 13.00% | ~14 |
-| Hands on the Helm | 9.00% | ~9 |
-| Shrub-Seeing: Silly Birbs | 8.00% | ~8 |
-| Couch-surfing | 8.00% | ~8 |
-| Shrub-Seeing: Townlife | 7.00% | ~7 |
-| Replace the Rudder | 7.00% | ~7 |
-| Who Even Needs Keys | 6.00% | ~6 |
-| Shrub-Seeing: Ruins of old | 6.00% | ~6 |
-| Sailor Swift | 6.00% | ~6 |
-| Caught Ya! | 6.00% | ~6 |
-| Bank of Me | 6.00% | ~6 |
-| No Evil | 5.00% | ~5 |
-| Home Sweet Home | 5.00% | ~5 |
-| The Journey Continues | 5.00% | ~5 |
-| Shrub-Seeing: Lights in the sky | 4.00% | ~4 |
-| Yeet! | 4.00% | ~4 |
-| Safe Investment | 4.00% | ~4 |
-| Honey, I'm Home | 4.00% | ~4 |
-| Fantastic Fungi | 4.00% | ~4 |
-| Froggy Friendship | 4.00% | ~4 |
+| Shipwrecked! | 84.00% | ~97 |
+| Sea Legs | 65.00% | ~75 |
+| What?! | 46.00% | ~53 |
+| Frogs Legs | 18.00% | ~21 |
+| Hoist the Sails | 18.00% | ~21 |
+| Socialite | 17.00% | ~20 |
+| Mad Scientist | 14.00% | ~16 |
+| Secure the Sheets | 14.00% | ~16 |
+| Hands on the Helm | 9.00% | ~10 |
+| Shrub-Seeing: Silly Birbs | 8.00% | ~9 |
+| Couch-surfing | 8.00% | ~9 |
+| Shrub-Seeing: Townlife | 7.00% | ~8 |
+| Caught Ya! | 7.00% | ~8 |
+| Shrub-Seeing: Ruins of old | 6.00% | ~7 |
+| No Evil | 6.00% | ~7 |
+| Bank of Me | 6.00% | ~7 |
+| Replace the Rudder | 6.00% | ~7 |
+| Who Even Needs Keys | 5.00% | ~6 |
+| Sailor Swift | 5.00% | ~6 |
+| Home Sweet Home | 5.00% | ~6 |
+| Shrub-Seeing: Lights in the sky | 4.00% | ~5 |
+| Yeet! | 4.00% | ~5 |
+| Honey, I'm Home | 4.00% | ~5 |
+| Froggy Friendship | 4.00% | ~5 |
+| The Journey Continues | 4.00% | ~5 |
 | Shrub-Seeing: Ancient Extractor | 3.00% | ~3 |
 | Shrub-Seeing: Seen it all! | 3.00% | ~3 |
+| Safe Investment | 3.00% | ~3 |
+| Fantastic Fungi | 3.00% | ~3 |
+| Vandal | 3.00% | ~3 |
+| Falling with Style | 3.00% | ~3 |
 | One with the frogs | 2.00% | ~2 |
 | Return to sender | 2.00% | ~2 |
-| Vandal | 2.00% | ~2 |
-| Falling with Style | 2.00% | ~2 |
-| Crunch Time | 1.00% | ~1 |
-| Just Here for the Food | 1.00% | ~1 |
+| Crunch Time | 0.90% | ~1 |
+| Just Here for the Food | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 676)  
-Completed: 1 (0.95%) (Ranked 269)  
+Progressed: 116 (Ranked 684)  
+Completed: 1 (0.86%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,6 +89,7 @@ Completed: 1 (0.95%) (Ranked 269)
 | 2024-04-10 | 63 | 1 |
 | 2024-06-17 | 97 | 1 |
 | 2024-08-09 | 105 | 1 |
+| 2024-09-14 | 116 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

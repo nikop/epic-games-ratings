@@ -2,10 +2,10 @@
   "ID": "a1e123b808af4118a74a86ccd04ae55a",
   "Name": "Ironclads II Caroline Islands War 1885",
   "ProductSlug": "ironclads-ii-caroline-islands-war-1885-39d63d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
     "PcReleaseDate": "2017-04-17T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T21:57:21.6157671+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:01.8975065+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:37.2505598+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:13.483458+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:56.8740543+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.43 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 89.00% | ~506 |
-| Vanquisher of Robots | 79.00% | ~449 |
-| Party | 52.00% | ~295 |
-| Through the Darkness | 47.00% | ~267 |
-| No Mercy | 44.00% | ~250 |
-| Impossible Cube | 43.00% | ~244 |
-| Knowledge is Power | 43.00% | ~244 |
-| The Return of a Rat | 39.00% | ~222 |
-| Fat of the Earth | 38.00% | ~216 |
-| He's Seen It All | 31.00% | ~176 |
-| Last Man Standing | 31.00% | ~176 |
-| Great Hero | 30.00% | ~170 |
-| Rookie | 29.00% | ~165 |
-| Campaigning | 26.00% | ~148 |
-| Catch Jonathan_tostar | 26.00% | ~148 |
-| Assemble a Meganewbie | 23.00% | ~131 |
-| Frugal | 22.00% | ~125 |
-| Feed a God | 21.00% | ~119 |
-| Great Flight | 20.00% | ~114 |
-| To the Moon and Back | 20.00% | ~114 |
-| Holy Vengeance | 19.00% | ~108 |
-| Honorary Cultist | 15.00% | ~85 |
-| Strength and Sorcery | 12.00% | ~68 |
-| Brain and Brawn | 11.00% | ~62 |
+| Good start! | 89.00% | ~511 |
+| Vanquisher of Robots | 79.00% | ~453 |
+| Party | 52.00% | ~298 |
+| Through the Darkness | 47.00% | ~270 |
+| No Mercy | 44.00% | ~253 |
+| Impossible Cube | 43.00% | ~247 |
+| Knowledge is Power | 43.00% | ~247 |
+| The Return of a Rat | 40.00% | ~230 |
+| Fat of the Earth | 38.00% | ~218 |
+| He's Seen It All | 31.00% | ~178 |
+| Last Man Standing | 31.00% | ~178 |
+| Great Hero | 31.00% | ~178 |
+| Rookie | 29.00% | ~166 |
+| Campaigning | 26.00% | ~149 |
+| Catch Jonathan_tostar | 26.00% | ~149 |
+| Assemble a Meganewbie | 23.00% | ~132 |
+| Frugal | 22.00% | ~126 |
+| Feed a God | 21.00% | ~121 |
+| Great Flight | 20.00% | ~115 |
+| To the Moon and Back | 20.00% | ~115 |
+| Holy Vengeance | 19.00% | ~109 |
+| Honorary Cultist | 15.00% | ~86 |
+| Strength and Sorcery | 12.00% | ~69 |
+| Brain and Brawn | 11.00% | ~63 |
 | Omae Wa Mou Shindeiru | 10.00% | ~57 |
 | Experimentalist | 7.00% | ~40 |
 | Soldier | 7.00% | ~40 |
@@ -41,8 +41,8 @@ Rating: 4.43 (Ranked 835)
 | Vet | 0.90% | ~5 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 568 (Ranked 456)  
-Completed: 1 (0.18%) (Ranked 401)  
+Progressed: 574 (Ranked 472)  
+Completed: 1 (0.17%) (Ranked 429)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,6 +141,7 @@ Completed: 1 (0.18%) (Ranked 401)
 | 2024-04-10 | 516 | 1 |
 | 2024-06-17 | 549 | 1 |
 | 2024-08-09 | 568 | 1 |
+| 2024-09-14 | 574 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

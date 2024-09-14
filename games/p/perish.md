@@ -4,45 +4,45 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 5.00% | ~250 |
-| Lochos | 5.00% | ~250 |
-| Strength of Herakles | 5.00% | ~250 |
-| Initiate's Resolve | 5.00% | ~250 |
-| Go For the Head | 4.00% | ~200 |
-| Spartan Sandal | 4.00% | ~200 |
-| Missilis | 4.00% | ~200 |
-| Modest Earnings | 4.00% | ~200 |
-| Armaments of the Pantheon | 4.00% | ~200 |
-| Persephone's Guidance | 4.00% | ~200 |
-| Eidola | 4.00% | ~200 |
-| Reign in Blood | 4.00% | ~200 |
-| Pillars of Eternity | 3.00% | ~150 |
-| Immolator | 3.00% | ~150 |
-| War Chest | 3.00% | ~150 |
-| Chthonic Investor | 3.00% | ~150 |
-| Symbols of Heresy | 3.00% | ~150 |
-| The Sons of Minos | 3.00% | ~150 |
-| Sisters of the Pantheon | 3.00% | ~150 |
-| Siege Unit | 3.00% | ~150 |
-| Divine Assemblage | 3.00% | ~150 |
-| Ophiolatreia | 3.00% | ~150 |
-| Comedy and Tragedy | 2.00% | ~100 |
-| Forged in Fire | 2.00% | ~100 |
-| The Midas Touch | 2.00% | ~100 |
-| First Fragment | 2.00% | ~100 |
-| Hapax Legomenon | 2.00% | ~100 |
-| Labour of Apollo | 2.00% | ~100 |
-| Vandili | 2.00% | ~100 |
-| Cloaca Maxima | 2.00% | ~100 |
-| Halls of Marble | 2.00% | ~100 |
-| Mors Omnibus | 2.00% | ~100 |
-| Blot Out the Sky | 2.00% | ~100 |
-| Serpentine | 2.00% | ~100 |
+| To Suffer is to Learn | 5.00% | ~252 |
+| Lochos | 5.00% | ~252 |
+| Strength of Herakles | 5.00% | ~252 |
+| Initiate's Resolve | 5.00% | ~252 |
+| Go For the Head | 4.00% | ~202 |
+| Spartan Sandal | 4.00% | ~202 |
+| Missilis | 4.00% | ~202 |
+| Modest Earnings | 4.00% | ~202 |
+| Armaments of the Pantheon | 4.00% | ~202 |
+| Persephone's Guidance | 4.00% | ~202 |
+| Eidola | 4.00% | ~202 |
+| Reign in Blood | 4.00% | ~202 |
+| Pillars of Eternity | 3.00% | ~151 |
+| Immolator | 3.00% | ~151 |
+| War Chest | 3.00% | ~151 |
+| Chthonic Investor | 3.00% | ~151 |
+| Symbols of Heresy | 3.00% | ~151 |
+| The Sons of Minos | 3.00% | ~151 |
+| Sisters of the Pantheon | 3.00% | ~151 |
+| Siege Unit | 3.00% | ~151 |
+| Divine Assemblage | 3.00% | ~151 |
+| Ophiolatreia | 3.00% | ~151 |
+| Comedy and Tragedy | 2.00% | ~101 |
+| Forged in Fire | 2.00% | ~101 |
+| First Fragment | 2.00% | ~101 |
+| Hapax Legomenon | 2.00% | ~101 |
+| Labour of Apollo | 2.00% | ~101 |
+| Vandili | 2.00% | ~101 |
+| Cloaca Maxima | 2.00% | ~101 |
+| Halls of Marble | 2.00% | ~101 |
+| Mors Omnibus | 2.00% | ~101 |
+| Blot Out the Sky | 2.00% | ~101 |
+| Serpentine | 2.00% | ~101 |
 | The Nameless One | 1.00% | ~50 |
 | Wayward Son of Hephaestus | 1.00% | ~50 |
 | Lament of the Constellations | 1.00% | ~50 |
 | Rule of Thirds | 1.00% | ~50 |
 | Rock and a Hard Place | 1.00% | ~50 |
+| The Midas Touch | 1.00% | ~50 |
 | Don't Pay the Ferryman | 1.00% | ~50 |
 | Veneration of Hephaestus | 1.00% | ~50 |
 | Biotechnology | 1.00% | ~50 |
@@ -68,8 +68,8 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,998 (Ranked 281)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 5,042 (Ranked 295)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -339,6 +339,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-07-25 | 4,917 | 0 |
 | 2024-08-09 | 4,968 | 0 |
 | 2024-08-20 | 4,998 | 0 |
+| 2024-09-14 | 5,042 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

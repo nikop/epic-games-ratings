@@ -2,10 +2,10 @@
   "ID": "0610384879594dd0b42c73e2d8af88ae",
   "Name": "Moonglow Bay",
   "ProductSlug": "moonglow-bay",
-  "Ranking_EOS_Progress": 500,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 512,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-11-11T17:00:00+00:00",
     "PcReleaseDate": "2021-11-11T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -176,6 +176,11 @@
       "Time": "2024-08-20T20:12:46.4520534+00:00",
       "NumProgressed": 417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:26:58.8934464+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 37,
@@ -185,9 +190,9 @@
       "ID": "ACH_01_MONSTER",
       "SetID": "cieb1c3",
       "Name": "The Monster of Moonglow",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_02_TEMPEST",
@@ -217,9 +222,9 @@
       "ID": "ACH_05_HEART",
       "SetID": "cieb1c3",
       "Name": "The Heart of Moonglow",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_06_JOURNEY",
@@ -273,25 +278,25 @@
       "ID": "ACH_12_RACONTEUR",
       "SetID": "cieb1c3",
       "Name": "Expert Raconteur",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_13_TOWNROUST",
       "SetID": "cieb1c3",
       "Name": "Town Roustabout",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_14_BURDEN",
       "SetID": "cieb1c3",
       "Name": "The Burden",
-      "Percentage": 0.2,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_15_FOLKLORE",
@@ -329,9 +334,9 @@
       "ID": "ACH_19_UNDERWORLD",
       "SetID": "cieb1c3",
       "Name": "From the Underworld",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_20_LEGEND",
@@ -385,17 +390,17 @@
       "ID": "ACH_26_CONFECTION",
       "SetID": "cieb1c3",
       "Name": "Collection of Confection",
-      "Percentage": 0.2,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_27_BLACKSMITH",
       "SetID": "cieb1c3",
       "Name": "Ode to a Blacksmith",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_28_SHELLFISH",
@@ -457,9 +462,9 @@
       "ID": "ACH_35_WORTH",
       "SetID": "cieb1c3",
       "Name": "Worth Your While",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_36_SPIDER",
@@ -473,16 +478,16 @@
       "ID": "ACH_37_TONNE",
       "SetID": "cieb1c3",
       "Name": "A Tonne of Fun",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "cieb1c3",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 419,
       "Completed": 0
     }
   ],
@@ -490,8 +495,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.9355782+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.8517258+00:00",
   "LastChanged": "2023-03-31T05:57:52.9355783+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:46.4520528+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:58.8934459+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:44.7844656+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:47.52598+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:46.4520775+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:41.675937+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:58.8934669+00:00"
 }

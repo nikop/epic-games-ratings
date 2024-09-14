@@ -2,10 +2,10 @@
   "ID": "1e88d9727b3c46339da2d81de81590c2",
   "Name": "Turbo Sloths",
   "ProductSlug": "turbo-sloths-912a73",
-  "Ranking_EOS_Progress": 885,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 904,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-04-11T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
       "Time": "2024-08-09T18:02:33.9176704+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:45.9600968+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-04-10T06:02:34.7944518+00:00",
@@ -54,9 +59,9 @@
       "ID": "debugger_10",
       "SetID": "3h542on",
       "Name": "DeBugger 10",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "debugger_1000",
@@ -78,7 +83,7 @@
       "ID": "destroyed_rivals_10",
       "SetID": "3h542on",
       "Name": "Destroyed Rivals 10",
-      "Percentage": 56,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -102,15 +107,15 @@
       "ID": "first_in_race_1",
       "SetID": "3h542on",
       "Name": "First in the Race 1",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 16
     },
     {
       "ID": "first_in_race_25",
       "SetID": "3h542on",
       "Name": "First in the Race 25",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -118,9 +123,9 @@
       "ID": "first_in_race_5",
       "SetID": "3h542on",
       "Name": "First in the Race 5",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "killphoto_100",
@@ -142,7 +147,7 @@
       "ID": "killphoto_25",
       "SetID": "3h542on",
       "Name": "Killer of Pressbots 25",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "last_in_race_10",
       "SetID": "3h542on",
       "Name": "Last in the Race 10",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -158,7 +163,7 @@
       "ID": "last_in_race_5",
       "SetID": "3h542on",
       "Name": "Last in the Race 5",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -168,13 +173,13 @@
       "Name": "Maximum Speed 150",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "max_speed_220",
       "SetID": "3h542on",
       "Name": "Maximum Speed 220",
-      "Percentage": 22,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -182,7 +187,7 @@
       "ID": "max_speed_300",
       "SetID": "3h542on",
       "Name": "Maximum Speed 300",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -190,9 +195,9 @@
       "ID": "roboshepherd_10",
       "SetID": "3h542on",
       "Name": "Roboshepherd! 10",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "roboshepherd_100",
@@ -222,7 +227,7 @@
       "ID": "toasted_25",
       "SetID": "3h542on",
       "Name": "Toasted 25",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -238,7 +243,7 @@
       "ID": "tv_destroyer_10",
       "SetID": "3h542on",
       "Name": "TV Destroyer 10",
-      "Percentage": 33,
+      "Percentage": 26,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -262,7 +267,7 @@
       "ID": "warbot_killer_10",
       "SetID": "3h542on",
       "Name": "Warbot Killer 10",
-      "Percentage": 61,
+      "Percentage": 48,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -278,7 +283,7 @@
       "ID": "warbot_killer_250",
       "SetID": "3h542on",
       "Name": "Warbot Killer 250",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "warbot_killer_50",
       "SetID": "3h542on",
       "Name": "Warbot Killer 50",
-      "Percentage": 28,
+      "Percentage": 22,
       "XP": 25,
       "UsersEstimate": 5
     }
@@ -295,14 +300,14 @@
     {
       "ID": "3h542on",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-11T19:59:35.6550698+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:33.190692+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:33.9176699+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:45.9600962+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:40.8629776+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:03.5706367+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:33.917689+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:05.8008181+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:45.960113+00:00"
 }

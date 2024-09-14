@@ -3,9 +3,9 @@
   "Name": "Alaskan Road Truckers",
   "ProductSlug": "alaskan-road-truckers-d31463",
   "Ranking_EOS_Progress": 660,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-18T15:00:00+00:00",
     "PcReleaseDate": "2024-04-18T15:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 133,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:05:54.9719793+00:00",
       "NumProgressed": 113,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:23:29.7862419+00:00",
+      "NumProgressed": 133,
       "NumCompleted": 0
     }
   ],
@@ -58,9 +63,9 @@
       "ID": "A_NEW_HOME",
       "SetID": "6h23j5g",
       "Name": "A New Home",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "A_PLACE_OF_MEMORY",
@@ -74,25 +79,25 @@
       "ID": "CAREFUL_TRUCKER",
       "SetID": "6h23j5g",
       "Name": "Careful Trucker",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 74
     },
     {
       "ID": "CONSTRUCTOR",
       "SetID": "6h23j5g",
       "Name": "Constructor",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "GOOD_JOB",
       "SetID": "6h23j5g",
       "Name": "Good Job!",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "GRIM_REAPER",
@@ -114,7 +119,7 @@
       "ID": "HARD_WORKER",
       "SetID": "6h23j5g",
       "Name": "Hard Worker",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -130,17 +135,17 @@
       "ID": "IOU",
       "SetID": "6h23j5g",
       "Name": "IOU",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "JUST_IN_TIME",
       "SetID": "6h23j5g",
       "Name": "Just In Time",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KING_OF_THE_ROAD",
@@ -154,25 +159,25 @@
       "ID": "LICENSED",
       "SetID": "6h23j5g",
       "Name": "Licensed",
-      "Percentage": 0.9,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "LIKE_A_GLOVE",
       "SetID": "6h23j5g",
       "Name": "Like a Glove",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "MAX_PAIN",
       "SetID": "6h23j5g",
       "Name": "Max Pain",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MONEY_MONEY_MONEY",
@@ -180,15 +185,15 @@
       "Name": "Money Money Money",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "MY_PLACE_IN_ALASKA",
       "SetID": "6h23j5g",
       "Name": "My Place In Alaska",
-      "Percentage": 0.9,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "NO_HOT_DOGS_FOR_YOU",
@@ -196,15 +201,15 @@
       "Name": "No Hot Dogs for You",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 47
     },
     {
       "ID": "ONE_THOUSAND_MILES",
       "SetID": "6h23j5g",
       "Name": "One Thousand Miles",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "PIMP_MY_TRUCK",
@@ -212,7 +217,7 @@
       "Name": "Pimp My Truck",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "RENOWNED",
@@ -220,15 +225,15 @@
       "Name": "Renowned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SANTAS_PLACE",
       "SetID": "6h23j5g",
       "Name": "Santa\u0027s Place",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 33
     },
     {
       "ID": "SPEED_DEMON",
@@ -236,15 +241,15 @@
       "Name": "Speed Demon",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "THINK_TANK",
       "SetID": "6h23j5g",
       "Name": "Think Tank",
-      "Percentage": 0.9,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "TRUCK_COLLECTOR",
@@ -258,17 +263,17 @@
       "ID": "TRUCK_SHOPPING",
       "SetID": "6h23j5g",
       "Name": "Truck Shopping",
-      "Percentage": 0,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WELCOME_TO_ALASKA",
       "SetID": "6h23j5g",
       "Name": "Welcome to Alaska",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 98
     },
     {
       "ID": "WHATS_COOKING",
@@ -276,7 +281,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WHEW",
@@ -291,14 +296,14 @@
     {
       "ID": "6h23j5g",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 133,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-19T17:58:00.4251731+00:00",
   "FirstSeenAchievements": "2023-11-30T16:05:17.1059184+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:09:54.7345087+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:29.7862413+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:29.5058294+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:41.8020299+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:09:54.734528+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:43.2093475+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:29.7862585+00:00"
 }

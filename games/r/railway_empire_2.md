@@ -5,75 +5,75 @@ Rating: 4.40 (Ranked 884)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| From X to Y | 9.00% | ~290 |
-| Departure | 9.00% | ~290 |
-| A new Journey | 9.00% | ~290 |
-| Country Bumpkin | 9.00% | ~290 |
-| Way of Iron | 9.00% | ~290 |
-| Mystery Tour | 9.00% | ~290 |
-| Brainstorm | 8.00% | ~258 |
-| We brake for nobody | 8.00% | ~258 |
-| All around the World | 8.00% | ~258 |
-| Mind the Gap | 8.00% | ~258 |
-| Travel Company | 8.00% | ~258 |
-| Facility Manager | 7.00% | ~226 |
-| Producer | 7.00% | ~226 |
-| Poor Devil | 7.00% | ~226 |
-| Right through the middle | 7.00% | ~226 |
-| Bridge Builder | 6.00% | ~194 |
-| Full Steam ahead | 5.00% | ~161 |
-| General Manager | 5.00% | ~161 |
-| Country Life | 5.00% | ~161 |
-| Access granted | 5.00% | ~161 |
-| Going once, going twice, sold | 5.00% | ~161 |
-| All mine | 5.00% | ~161 |
-| Mole | 5.00% | ~161 |
-| Bull and bear | 5.00% | ~161 |
-| Financial Shark | 5.00% | ~161 |
-| Apprentice | 4.00% | ~129 |
-| Stoker | 4.00% | ~129 |
-| Hostile Takeover | 4.00% | ~129 |
-| Traffic Junction | 4.00% | ~129 |
-| Bold and beautiful | 4.00% | ~129 |
-| Breaking Ground | 4.00% | ~129 |
-| Call of Duty | 4.00% | ~129 |
-| Trailblazer | 3.00% | ~97 |
-| Resistance is futile | 3.00% | ~97 |
-| Go West | 3.00% | ~97 |
-| Seven at one stroke | 3.00% | ~97 |
-| Traffic Jam | 3.00% | ~97 |
-| Tycoon | 3.00% | ~97 |
-| Settler | 3.00% | ~97 |
-| Socializer | 3.00% | ~97 |
-| A new Hope | 2.00% | ~65 |
-| Unstoppable | 2.00% | ~65 |
-| Track to the Future | 2.00% | ~65 |
-| Conductor | 2.00% | ~65 |
-| Engineer | 2.00% | ~65 |
-| Max Power | 2.00% | ~65 |
-| Assimilated | 2.00% | ~65 |
-| Locusts | 2.00% | ~65 |
-| Other countries, other candies | 2.00% | ~9 |
-| Let off some steam | 1.00% | ~32 |
-| Accurate | 1.00% | ~32 |
-| Networker | 1.00% | ~32 |
-| Sissi would be proud | 1.00% | ~4 |
-| Nerves of steel | 1.00% | ~4 |
-| Not free of charge | 0.90% | ~4 |
+| Country Bumpkin | 12.00% | ~399 |
+| From X to Y | 11.00% | ~366 |
+| Departure | 11.00% | ~366 |
+| A new Journey | 11.00% | ~366 |
+| Way of Iron | 11.00% | ~366 |
+| Mystery Tour | 11.00% | ~366 |
+| Brainstorm | 10.00% | ~333 |
+| We brake for nobody | 10.00% | ~333 |
+| All around the World | 10.00% | ~333 |
+| Mind the Gap | 10.00% | ~333 |
+| Travel Company | 10.00% | ~333 |
+| Facility Manager | 9.00% | ~299 |
+| Poor Devil | 9.00% | ~299 |
+| Right through the middle | 9.00% | ~299 |
+| Producer | 8.00% | ~266 |
+| Going once, going twice, sold | 7.00% | ~233 |
+| Bridge Builder | 7.00% | ~233 |
+| Bull and bear | 7.00% | ~233 |
+| Full Steam ahead | 6.00% | ~200 |
+| General Manager | 6.00% | ~200 |
+| Country Life | 6.00% | ~200 |
+| Access granted | 6.00% | ~200 |
+| All mine | 6.00% | ~200 |
+| Mole | 6.00% | ~200 |
+| Financial Shark | 6.00% | ~200 |
+| Apprentice | 5.00% | ~166 |
+| Stoker | 5.00% | ~166 |
+| Hostile Takeover | 5.00% | ~166 |
+| Traffic Junction | 5.00% | ~166 |
+| Breaking Ground | 5.00% | ~166 |
+| Trailblazer | 4.00% | ~133 |
+| Seven at one stroke | 4.00% | ~133 |
+| Traffic Jam | 4.00% | ~133 |
+| Tycoon | 4.00% | ~133 |
+| Bold and beautiful | 4.00% | ~133 |
+| Settler | 4.00% | ~133 |
+| Call of Duty | 4.00% | ~133 |
+| Resistance is futile | 3.00% | ~100 |
+| Go West | 3.00% | ~100 |
+| A new Hope | 3.00% | ~100 |
+| Conductor | 3.00% | ~100 |
+| Max Power | 3.00% | ~100 |
+| Assimilated | 3.00% | ~100 |
+| Socializer | 3.00% | ~100 |
+| Unstoppable | 2.00% | ~67 |
+| Track to the Future | 2.00% | ~67 |
+| Engineer | 2.00% | ~67 |
+| Locusts | 2.00% | ~67 |
+| Networker | 2.00% | ~67 |
+| Other countries, other candies | 2.00% | ~11 |
+| Not free of charge | 2.00% | ~11 |
+| Let off some steam | 1.00% | ~33 |
+| Accurate | 1.00% | ~33 |
+| Sissi would be proud | 1.00% | ~5 |
+| Nerves of steel | 1.00% | ~5 |
+| Peak Voltage | 0.80% | ~4 |
+| Resistance is… voltage divided by current?! | 0.60% | ~3 |
+| E-LOC Musk | 0.50% | ~3 |
 | Three Cheers for Progress | 0.40% | ~13 |
-| Peak Voltage | 0.30% | ~1 |
-| European Union | 0.20% | ~6 |
-| United States | 0.20% | ~6 |
+| European Union | 0.30% | ~10 |
+| United States | 0.20% | ~7 |
+| Too clever for Poirot | 0.20% | ~1 |
 | Not a second class murder | 0.20% | ~1 |
-| E-LOC Musk | 0.20% | ~1 |
 | Together we stand | 0.10% | ~3 |
-| Too clever for Poirot | 0.10% | ~0 |
-| Hotel Transylvania | 0.10% | ~0 |
-| Resistance is… voltage divided by current?! | 0.10% | ~0 |
-| A/C you like it | 0.00% | ~0 |
+| Hotel Transylvania | 0.10% | ~1 |
+| A/C you like it | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,227 (Ranked 315)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 3,327 (Ranked 323)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,6 +331,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 3,006 | 0 |
 | 2024-06-17 | 3,127 | 0 |
 | 2024-08-09 | 3,227 | 0 |
+| 2024-09-14 | 3,327 | 0 |
 ## Awards
 Max (Great for Beginners): 34  (Ranked 620)  
 Sum: 54 (Ranked 625)  

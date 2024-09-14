@@ -2,10 +2,10 @@
   "ID": "16e5cbb017bc4cc8a304791d27ed982c",
   "Name": "Smelogs Playground",
   "ProductSlug": "smelogs-playground-a953e3",
-  "Ranking_EOS_Progress": 433,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 445,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-25T15:00:00+00:00",
     "PcReleaseDate": "2024-04-25T15:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
       "Time": "2024-08-20T20:08:37.2336468+00:00",
       "NumProgressed": 744,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:35.3337575+00:00",
+      "NumProgressed": 770,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:16:23.5545508+00:00",
@@ -55,17 +60,17 @@
       "ID": "ACH_10DESTRUCTIONS",
       "SetID": "b60eked",
       "Name": "Great Warrior",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_10FRIENDS",
       "SetID": "b60eked",
       "Name": "Popular",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_1GIFT",
@@ -95,9 +100,9 @@
       "ID": "ACH_50DESTRUCTIONS",
       "SetID": "b60eked",
       "Name": "Legendary!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_5DESTRUCTIONS",
@@ -105,7 +110,7 @@
       "Name": "A worthy fighter!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_5GIFTS",
@@ -129,7 +134,7 @@
       "Name": "Easy AI defeated",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_AI_HARD",
@@ -137,15 +142,15 @@
       "Name": "Hard AI defeated",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_AI_NORMAL",
       "SetID": "b60eked",
       "Name": "Normal AI defeated",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_ANNOUNCER",
@@ -159,7 +164,7 @@
       "ID": "ACH_BOOM",
       "SetID": "b60eked",
       "Name": "BOOM!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -167,9 +172,9 @@
       "ID": "ACH_BUG_FINDER",
       "SetID": "b60eked",
       "Name": "Bug Finder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_COMMUNITY",
@@ -185,13 +190,13 @@
       "Name": "Conqueror \uD83D\uDD25",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_DEFAULT_BP",
       "SetID": "b60eked",
       "Name": "Battle Pass",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -207,9 +212,9 @@
       "ID": "ACH_DJ",
       "SetID": "b60eked",
       "Name": "DJ",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_EXPRESSIONIST",
@@ -265,13 +270,13 @@
       "Name": "Slayer",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_SPARKLY",
       "SetID": "b60eked",
       "Name": "Sparkly \u2728",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -295,23 +300,23 @@
       "ID": "ACH_WELCOME",
       "SetID": "b60eked",
       "Name": "Welcome",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 25,
-      "UsersEstimate": 722
+      "UsersEstimate": 755
     }
   ],
   "AchievementSets": [
     {
       "ID": "b60eked",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 770,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-26T19:58:46.9891761+00:00",
   "FirstSeenAchievements": "2024-06-17T16:16:23.5545508+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:37.2336462+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:35.3337569+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:36.4002526+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:37.8005545+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:37.2336648+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:14.2631869+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:35.3337749+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "053a26c9d1ee495e95ce70c65222d024",
   "Name": "The ultimate Math teaching game",
   "ProductSlug": "the-ultimate-math-teaching-game-32e5cf",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-20T21:00:00+00:00",
     "PcReleaseDate": "2024-06-20T21:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T04:57:52.8856605+00:00",
   "LastUpdate_AppInfo": "2024-09-09T15:57:01.1877346+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:21.0054265+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:04.6196585+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:01.2822332+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:15.5339223+00:00"
 }

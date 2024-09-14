@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 33.00% | ~16 |
-| Greengrocer | 33.00% | ~16 |
-| Seven Days of Endless Adventure | 27.00% | ~13 |
-| It's Alive! | 18.00% | ~9 |
-| Go-Getter | 18.00% | ~9 |
-| River Cleaner | 18.00% | ~9 |
-| Masu-ter Angler | 16.00% | ~8 |
-| Handyman Extraordinaire | 16.00% | ~8 |
-| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~6 |
-| Just Hoverin' Along | 12.00% | ~6 |
-| What's That Smell? | 12.00% | ~6 |
-| A New Time | 10.00% | ~5 |
-| Farm Life! | 10.00% | ~5 |
+| Cabbage in the Baggage | 30.00% | ~16 |
+| Greengrocer | 30.00% | ~16 |
+| Seven Days of Endless Adventure | 25.00% | ~13 |
+| River Cleaner | 19.00% | ~10 |
+| Masu-ter Angler | 17.00% | ~9 |
+| It's Alive! | 17.00% | ~9 |
+| Go-Getter | 17.00% | ~9 |
+| Handyman Extraordinaire | 15.00% | ~8 |
+| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~7 |
+| Just Hoverin' Along | 11.00% | ~6 |
+| What's That Smell? | 11.00% | ~6 |
+| A New Time | 9.00% | ~5 |
+| My Fair Ladybug | 9.00% | ~5 |
+| Farm Life! | 9.00% | ~5 |
+| DJ Superstar | 9.00% | ~5 |
 | Dragonfly Whiz | 8.00% | ~4 |
-| My Fair Ladybug | 8.00% | ~4 |
 | Love Is in the Air! | 8.00% | ~4 |
 | That Was a Snap! | 8.00% | ~4 |
 | Did Someone Order Ramen? | 8.00% | ~4 |
 | Top-Notch Journalist | 8.00% | ~4 |
 | Ptera Pal | 8.00% | ~4 |
 | Stego Stooge | 8.00% | ~4 |
-| DJ Superstar | 8.00% | ~4 |
 | Cicada Connoisseur | 6.00% | ~3 |
 | The Holly Grail | 6.00% | ~3 |
 | Biwa Be Mine | 6.00% | ~3 |
 | Ice Fishing | 6.00% | ~3 |
+| Brachio Battler | 6.00% | ~3 |
 | Asso Bridge Enthusiast | 6.00% | ~3 |
 | Beetle Savant | 4.00% | ~2 |
 | Veggie Virtuoso | 4.00% | ~2 |
-| Brachio Battler | 4.00% | ~2 |
 | T-Rex Wrangler | 4.00% | ~2 |
 | Gumdum Robot, I Choose You! | 4.00% | ~2 |
 | Bee Professor | 2.00% | ~1 |
@@ -51,8 +51,8 @@
 | Did Someone Order Katsu Curry? | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 776)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 53 (Ranked 792)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-03-21 | 45 | 0 |
 | 2024-06-17 | 48 | 0 |
 | 2024-08-09 | 49 | 0 |
+| 2024-09-14 | 53 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

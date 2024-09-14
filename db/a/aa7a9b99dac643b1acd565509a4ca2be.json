@@ -2,10 +2,10 @@
   "ID": "aa7a9b99dac643b1acd565509a4ca2be",
   "Name": "A Guidebook Of Babel",
   "ProductSlug": "a-guidebook-of-babel-560045",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2023-08-02T17:00:00+00:00",
@@ -32,8 +32,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "flm2l9",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:27:50.0731681+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:50.073166+00:00",
   "LastUpdate_AppInfo": "2024-09-13T15:57:20.7600336+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:24.7886925+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:48.1195989+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:04.547702+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:50.0731731+00:00"
 }

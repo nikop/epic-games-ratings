@@ -2,10 +2,10 @@
   "ID": "019f3ce538a440c48ecf5f4f8d787622",
   "Name": "World of Dypians",
   "ProductSlug": "world-of-dypians-2e0694",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-12-21T06:00:00+00:00",
     "PcReleaseDate": "2023-12-21T06:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T13:01:59.3659996+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:35.7457826+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:55.9754511+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:45.4984547+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:53.3340606+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:02.5583201+00:00"
 }

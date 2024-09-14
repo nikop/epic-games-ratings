@@ -2,10 +2,10 @@
   "ID": "46ecaef70bbb4768a90c3aa40ac1d7a6",
   "Name": "I Want to be Alive",
   "ProductSlug": "i-want-to-be-alive-0fcb6e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-06-13T22:00:00+00:00",
     "PcReleaseDate": "2023-06-13T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T21:57:03.0578144+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:21.6943759+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:49.0199306+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:49.1486969+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:04.0248219+00:00"
 }

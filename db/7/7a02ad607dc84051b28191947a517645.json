@@ -2,10 +2,10 @@
   "ID": "7a02ad607dc84051b28191947a517645",
   "Name": "Enotria: The Last Song",
   "ProductSlug": "enotria-the-last-song-dee164",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-19T12:00:00+00:00",
     "PcReleaseDate": "2024-09-19T12:00:00+00:00",
@@ -41,8 +41,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-03-21T17:07:34.9220058+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:59.6325599+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:16.1658143+00:00",
   "LastUpdate_AppInfo": "2024-09-10T13:12:19.3039043+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:44.4927846+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:59.6325659+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:54.9617336+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:16.1658214+00:00"
 }

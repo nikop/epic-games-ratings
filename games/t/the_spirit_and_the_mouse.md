@@ -14,10 +14,10 @@
 | Lightbulbs Expert | 46.00% | ~41 |
 | The Old Man and the Café | 42.00% | ~37 |
 | That's one way to travel | 40.00% | ~36 |
-| South Town Energy | 34.00% | ~30 |
+| South Town Energy | 35.00% | ~31 |
 | North Town Energy | 31.00% | ~28 |
+| OK, I heard you!! | 29.00% | ~26 |
 | Photogenic | 28.00% | ~25 |
-| OK, I heard you!! | 28.00% | ~25 |
 | The Girl and the Homework | 27.00% | ~24 |
 | Unlimited Power!! | 25.00% | ~22 |
 | Lightbulb Detective | 24.00% | ~21 |
@@ -45,8 +45,8 @@
 | Warm Bed | 2.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89 (Ranked 695)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 89 (Ranked 725)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

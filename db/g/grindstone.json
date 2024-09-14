@@ -5,10 +5,10 @@
   "Ranking_Rating": 66,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Completed": 339,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5310,
+  "EOS_Progressed": 5328,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -1283,6 +1283,11 @@
       "Time": "2024-08-20T20:10:52.0919304+00:00",
       "NumProgressed": 5310,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2024-09-14T14:24:07.1721244+00:00",
+      "NumProgressed": 5328,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 49,
@@ -1292,9 +1297,9 @@
       "ID": "ACHIEVE_1000_GRINDSTONES",
       "SetID": "b8l3p0g",
       "Name": "Employee of the Month",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 2018
+      "UsersEstimate": 1971
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -1302,7 +1307,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 531
+      "UsersEstimate": 533
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -1310,7 +1315,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1965
+      "UsersEstimate": 1971
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -1318,7 +1323,7 @@
       "Name": "Bone Collector",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -1326,7 +1331,7 @@
       "Name": "Trying To Get Into That 1%, Huh?",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACHIEVE_50_ECTOPLASM",
@@ -1334,7 +1339,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1342,7 +1347,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 850
+      "UsersEstimate": 852
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -1350,7 +1355,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2344
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1358,7 +1363,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1366,7 +1371,7 @@
       "Name": "Fe-Festival",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1918
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -1374,7 +1379,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 584
+      "UsersEstimate": 586
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -1382,7 +1387,7 @@
       "Name": "Collected 50 mushrooms",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHIEVE_50_SEEDS",
@@ -1390,7 +1395,7 @@
       "Name": "Budding Gardener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHIEVE_50_WOOD",
@@ -1398,7 +1403,7 @@
       "Name": "Timber!",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 3239
+      "UsersEstimate": 3250
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1406,7 +1411,7 @@
       "Name": "Yummy!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 906
     },
     {
       "ID": "ACHIEVE_BIOHAZARD",
@@ -1422,7 +1427,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5221
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1430,7 +1435,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3345
+      "UsersEstimate": 3357
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1438,7 +1443,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1446,7 +1451,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 956
+      "UsersEstimate": 959
     },
     {
       "ID": "ACHIEVE_FELLOWSHIP",
@@ -1454,7 +1459,7 @@
       "Name": "The Fellowship",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVE_FIREMAN",
@@ -1470,7 +1475,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2611
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -1478,7 +1483,7 @@
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
@@ -1486,7 +1491,7 @@
       "Name": "Stop Hitting Each Other",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -1502,7 +1507,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4142
+      "UsersEstimate": 4156
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1510,15 +1515,15 @@
       "Name": "If It Bleeds, You Can Kill It",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_20",
       "SetID": "b8l3p0g",
       "Name": "Killed 20 Jerks",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1526,7 +1531,7 @@
       "Name": "Ultimate Jerk",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 693
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -1534,7 +1539,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3292
+      "UsersEstimate": 3303
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1542,7 +1547,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1012
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1550,7 +1555,7 @@
       "Name": "You\u0027re In a Cult, Call Your Dad",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACHIEVE_LVL_150_COMPLETE",
@@ -1566,7 +1571,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3144
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1574,7 +1579,7 @@
       "Name": "Eternal Frenemies",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "ACHIEVE_LVL_1_COMPLETE",
@@ -1582,7 +1587,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5221
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1590,7 +1595,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1598,7 +1603,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 799
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1606,7 +1611,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 478
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -1622,7 +1627,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 480
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -1638,7 +1643,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1654,7 +1659,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 906
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1670,7 +1675,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1758
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1678,22 +1683,22 @@
       "Name": "There is No Escape",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 3823
+      "UsersEstimate": 3836
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5310,
+      "Progressed": 5328,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2024-08-05T07:59:33.5021942+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:52.0919299+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:07.1721238+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:16.5531035+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:48.6452708+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:52.0919686+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:43.2428296+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:07.172163+00:00"
 }

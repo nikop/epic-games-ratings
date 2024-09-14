@@ -6,9 +6,9 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 244,
-  "Ranking_EOS_Completed": 438,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Completed": 455,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2015-11-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1560,11 +1560,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10513,
-  "EOS_Completed": 11,
+  "EOS_Progressed": 13105,
+  "EOS_Completed": 14,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.1,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:07:20.4320879+00:00",
@@ -1585,6 +1585,11 @@
       "Time": "2024-08-09T18:02:53.5855133+00:00",
       "NumProgressed": 10513,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-09-14T14:16:09.1172386+00:00",
+      "NumProgressed": 13105,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2024-03-21T17:07:20.4320903+00:00",
@@ -1597,7 +1602,7 @@
       "Name": "Abracadabra",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 79
     },
     {
       "ID": "ALL_YOU_CAN_EAT_BUFFET",
@@ -1605,7 +1610,7 @@
       "Name": "All You Can Eat Buffet",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "ANTIQUING",
@@ -1613,7 +1618,7 @@
       "Name": "Antiquing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "A_STROLL_IN_THE_DEMONIC_PARK",
@@ -1621,7 +1626,7 @@
       "Name": "A Stroll In The Demonic Park",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 393
     },
     {
       "ID": "A_TRUE_HORSEMAN",
@@ -1629,7 +1634,7 @@
       "Name": "A True Horseman",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "BFA",
@@ -1637,7 +1642,7 @@
       "Name": "BFA",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "BRAVO_OLD_CHAP",
@@ -1645,7 +1650,7 @@
       "Name": "Bravo Old Chap",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "BY_YOUR_COMMAND",
@@ -1653,7 +1658,7 @@
       "Name": "By Your Command",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 917
     },
     {
       "ID": "CITY_OF_THE_DEAD",
@@ -1661,7 +1666,7 @@
       "Name": "City of the Dead",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 526
+      "UsersEstimate": 655
     },
     {
       "ID": "CLIPPED_WINGS",
@@ -1669,15 +1674,15 @@
       "Name": "Clipped Wings",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "CROW_CARRION",
       "SetID": "9foa4k5",
       "Name": "Crow Carrion",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 5046
+      "UsersEstimate": 6421
     },
     {
       "ID": "DEATH_WILL_TEAR_US_APART",
@@ -1685,7 +1690,7 @@
       "Name": "Death Will Tear Us Apart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 786
     },
     {
       "ID": "DIAMOND_GEEZERTRON",
@@ -1693,7 +1698,7 @@
       "Name": "Diamond Geezertron",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "DUST_TO_DUST",
@@ -1701,7 +1706,7 @@
       "Name": "Dust to Dust",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 1179
     },
     {
       "ID": "EPIC",
@@ -1709,7 +1714,7 @@
       "Name": "Epic!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 52
     },
     {
       "ID": "FEEDING_TIME",
@@ -1717,7 +1722,7 @@
       "Name": "Feeding Time",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1573
     },
     {
       "ID": "FIRE_OF_THE_MOUNTAIN",
@@ -1725,7 +1730,7 @@
       "Name": "Fire of the Mountain",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2752
     },
     {
       "ID": "FOUR_MY_BROTHER",
@@ -1733,7 +1738,7 @@
       "Name": "Four My Brother",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 315
+      "UsersEstimate": 393
     },
     {
       "ID": "FULL_POTENTIAL",
@@ -1741,7 +1746,7 @@
       "Name": "Full Potential",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "GNOMAD",
@@ -1749,7 +1754,7 @@
       "Name": "Gnomad",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 84
+      "UsersEstimate": 105
     },
     {
       "ID": "GRIM_REAPING",
@@ -1757,7 +1762,7 @@
       "Name": "Grim Reaping",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1682
+      "UsersEstimate": 2097
     },
     {
       "ID": "HEART_OF_THE_MOUNTAIN",
@@ -1765,15 +1770,15 @@
       "Name": "Heart of the Mountain",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 1179
     },
     {
       "ID": "IS_THERE_ANYONE_ELSE",
       "SetID": "9foa4k5",
       "Name": "Is There Anyone Else?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 39
     },
     {
       "ID": "ITS_DEFINITIVE",
@@ -1781,7 +1786,7 @@
       "Name": "It\u0027s Definitive",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 63
+      "UsersEstimate": 79
     },
     {
       "ID": "ITS_NOT_OVER",
@@ -1789,7 +1794,7 @@
       "Name": "It\u0027s Not Over",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "IVE_BROUGHT_YOU_A_GIFT",
@@ -1797,7 +1802,7 @@
       "Name": "I\u0027ve Brought You A Gift",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 131
     },
     {
       "ID": "I_CAN_HAS_CAKE",
@@ -1805,7 +1810,7 @@
       "Name": "I Can Has Cake?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "LIKE_A_NOSS",
@@ -1813,15 +1818,15 @@
       "Name": "Like a Noss",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 262
     },
     {
       "ID": "LOOKS_FAMILIAR",
       "SetID": "9foa4k5",
       "Name": "Looks Familiar",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2883
     },
     {
       "ID": "LORD_OF_THE_BLACK_STONE",
@@ -1829,15 +1834,15 @@
       "Name": "Lord of the Black Stone",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "MASS_RUCKUS",
       "SetID": "9foa4k5",
       "Name": "Mass Ruckus",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 52
     },
     {
       "ID": "PATHFINDER",
@@ -1845,7 +1850,7 @@
       "Name": "Pathfinder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2418
+      "UsersEstimate": 3014
     },
     {
       "ID": "RESPEC_YOURSELF",
@@ -1853,7 +1858,7 @@
       "Name": "Respec Yourself",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 655
     },
     {
       "ID": "SOUL_CRUSHING",
@@ -1861,7 +1866,7 @@
       "Name": "Soul Crushing",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 526
+      "UsersEstimate": 655
     },
     {
       "ID": "STAINS_OF_HERESY",
@@ -1869,7 +1874,7 @@
       "Name": "Stains of Heresy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "TEARING_TIME_A_NEW_ONE",
@@ -1877,7 +1882,7 @@
       "Name": "Tearing Time A New One",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "TEARS_OF_THE_MOUNTAIN",
@@ -1885,7 +1890,7 @@
       "Name": "Tears of the Mountain",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1835
     },
     {
       "ID": "THE_BIG_BOSS",
@@ -1893,7 +1898,7 @@
       "Name": "The Big Boss",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 393
     },
     {
       "ID": "THE_BOOK_OF_THE_DEAD",
@@ -1901,7 +1906,7 @@
       "Name": "The Book of the Dead",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 79
     },
     {
       "ID": "THE_COURT_OF_BONES",
@@ -1909,7 +1914,7 @@
       "Name": "The Court of Bones",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 786
     },
     {
       "ID": "THE_LORD_OF_BONES",
@@ -1917,7 +1922,7 @@
       "Name": "The Lord of Bones",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 1048
     },
     {
       "ID": "THE_MAD_QUEEN",
@@ -1925,15 +1930,15 @@
       "Name": "The Mad Queen",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "THE_ROD_OF_ARAFEL",
       "SetID": "9foa4k5",
       "Name": "The Rod of Arafel",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 655
     },
     {
       "ID": "THE_ROOT_OF_CORRUPTION",
@@ -1941,7 +1946,7 @@
       "Name": "The Root Of Corruption",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 524
     },
     {
       "ID": "THE_SECONDARY_ADVENTURE",
@@ -1949,7 +1954,7 @@
       "Name": "The Secondary Adventure",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 39
     },
     {
       "ID": "THE_SPECTRAL_TOUCH",
@@ -1957,7 +1962,7 @@
       "Name": "The Spectral Touch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1310
     },
     {
       "ID": "THE_TOLL_OF_KINGS",
@@ -1965,15 +1970,15 @@
       "Name": "The Toll of Kings",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 917
     },
     {
       "ID": "THE_TRIPLE_LINDY",
       "SetID": "9foa4k5",
       "Name": "The Triple Lindy",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 39
     },
     {
       "ID": "TO_MOVE_A_MOUNTAIN",
@@ -1981,7 +1986,7 @@
       "Name": "To Move a Mountain",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1442
     },
     {
       "ID": "TREE_OF_LIFE",
@@ -1989,22 +1994,22 @@
       "Name": "Tree of Life",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 946
+      "UsersEstimate": 1179
     }
   ],
   "AchievementSets": [
     {
       "ID": "9foa4k5",
       "IsBase": true,
-      "Progressed": 10513,
-      "Completed": 11
+      "Progressed": 13105,
+      "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:20.4320902+00:00",
   "LastChanged": "2024-09-14T09:59:28.3298976+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:53.5855127+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:16:09.117238+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:06.3391609+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:52.5492833+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:53.5855484+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:50.9593432+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:16:09.1172692+00:00"
 }

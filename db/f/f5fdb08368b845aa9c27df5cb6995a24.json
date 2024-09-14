@@ -2,10 +2,10 @@
   "ID": "f5fdb08368b845aa9c27df5cb6995a24",
   "Name": "Workers \u0026 Resources: Soviet Republic",
   "ProductSlug": "workers-and-resources-soviet-republic-c33013",
-  "Ranking_EOS_Progress": 592,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 606,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-20T17:00:00+00:00",
     "PcReleaseDate": "2024-06-20T17:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
     {
       "Time": "2024-08-20T20:13:21.7480646+00:00",
       "NumProgressed": 184,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:31.4470209+00:00",
+      "NumProgressed": 198,
       "NumCompleted": 0
     }
   ],
@@ -63,17 +68,17 @@
       "ID": "DiscipleOfPlannedEconomy",
       "SetID": "917420k",
       "Name": "Disciple of Planned Economy",
-      "Percentage": 26,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 69
     },
     {
       "ID": "MasterOfResearch",
       "SetID": "917420k",
       "Name": "Master of Research",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NatureLover",
@@ -89,7 +94,7 @@
       "Name": "Novice to Planned Economy",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 178
     },
     {
       "ID": "NuclearManufacturer",
@@ -103,9 +108,9 @@
       "ID": "RepublicFounder",
       "SetID": "917420k",
       "Name": "Republic Founder",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 10
     },
     {
       "ID": "RevolutionaryOfTheRepublic",
@@ -127,17 +132,17 @@
       "ID": "SovietAirways",
       "SetID": "917420k",
       "Name": "Soviet Airways",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "SovietParadise",
       "SetID": "917420k",
       "Name": "Soviet Paradise",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SovietRepublicExpert",
@@ -151,9 +156,9 @@
       "ID": "SovietSociety",
       "SetID": "917420k",
       "Name": "Soviet Society",
-      "Percentage": 0.5,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 6
     },
     {
       "ID": "TrabiMaker",
@@ -183,23 +188,23 @@
       "ID": "WrongCommunist",
       "SetID": "917420k",
       "Name": "Wrong Communist",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
     {
       "ID": "917420k",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-22T11:01:13.4344702+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:22.2762371+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:21.748064+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:31.4470203+00:00",
   "LastUpdate_AppInfo": "2024-09-13T22:57:14.1976049+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:13.9525676+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:21.7480749+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:20.997038+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:31.4470324+00:00"
 }

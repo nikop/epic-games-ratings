@@ -2,10 +2,10 @@
   "ID": "845587cb91e54ce6b682d4c9975c8b07",
   "Name": "FINAL FANTASY XVI",
   "ProductSlug": "final-fantasy-xvi",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 482,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-17T14:00:00+00:00",
     "PcReleaseDate": "2024-09-17T14:00:00+00:00",
@@ -24,16 +24,592 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 532,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:04.3258034+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:04.3258113+00:00",
+  "TotalAchievements": 69,
+  "TotalAchievementsXP": 1095,
+  "Achievements": [
+    {
+      "ID": "1000",
+      "SetID": "4fjcnpf",
+      "Name": "The Chronicler",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1001",
+      "SetID": "4fjcnpf",
+      "Name": "Awoken",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1002",
+      "SetID": "4fjcnpf",
+      "Name": "With Great Power",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1003",
+      "SetID": "4fjcnpf",
+      "Name": "Acceptance",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1004",
+      "SetID": "4fjcnpf",
+      "Name": "Lawless",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1005",
+      "SetID": "4fjcnpf",
+      "Name": "Legacy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1006",
+      "SetID": "4fjcnpf",
+      "Name": "Twilight Rose",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1007",
+      "SetID": "4fjcnpf",
+      "Name": "From Stone to Sand",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1008",
+      "SetID": "4fjcnpf",
+      "Name": "Twin Flames",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1009",
+      "SetID": "4fjcnpf",
+      "Name": "The Promise",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1010",
+      "SetID": "4fjcnpf",
+      "Name": "A Vessel Complete",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1011",
+      "SetID": "4fjcnpf",
+      "Name": "Ashes to Ashes",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1012",
+      "SetID": "4fjcnpf",
+      "Name": "Falling Star",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1013",
+      "SetID": "4fjcnpf",
+      "Name": "Dressed to the Fives",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1014",
+      "SetID": "4fjcnpf",
+      "Name": "Half Past Twilight",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1015",
+      "SetID": "4fjcnpf",
+      "Name": "Punisher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1016",
+      "SetID": "4fjcnpf",
+      "Name": "You\u0027re Not the Boss of Me",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1017",
+      "SetID": "4fjcnpf",
+      "Name": "Made to Be Broken",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1018",
+      "SetID": "4fjcnpf",
+      "Name": "It\u0027s Over 50,000",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1019",
+      "SetID": "4fjcnpf",
+      "Name": "Sheeeeeeeeeeeeeeeift",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1020",
+      "SetID": "4fjcnpf",
+      "Name": "Packing Heat",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1021",
+      "SetID": "4fjcnpf",
+      "Name": "Fatal Attraction",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1022",
+      "SetID": "4fjcnpf",
+      "Name": "Never Coming Down",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1023",
+      "SetID": "4fjcnpf",
+      "Name": "I Am the Thunder",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1024",
+      "SetID": "4fjcnpf",
+      "Name": "Rod to Redemption",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1025",
+      "SetID": "4fjcnpf",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1026",
+      "SetID": "4fjcnpf",
+      "Name": "Beat Rocking Blocks",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1027",
+      "SetID": "4fjcnpf",
+      "Name": "100 Mfps",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1028",
+      "SetID": "4fjcnpf",
+      "Name": "Such Dodge, So Mega",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1029",
+      "SetID": "4fjcnpf",
+      "Name": "Oh, Snap!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1030",
+      "SetID": "4fjcnpf",
+      "Name": "Cold-blooded",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1031",
+      "SetID": "4fjcnpf",
+      "Name": "Every Damn Sinew",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1032",
+      "SetID": "4fjcnpf",
+      "Name": "Fistful of Steel",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1033",
+      "SetID": "4fjcnpf",
+      "Name": "Yes, Eikon",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1034",
+      "SetID": "4fjcnpf",
+      "Name": "Masterclass",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1035",
+      "SetID": "4fjcnpf",
+      "Name": "Here Be Rosfields",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1036",
+      "SetID": "4fjcnpf",
+      "Name": "The Pen Is Mightier",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1037",
+      "SetID": "4fjcnpf",
+      "Name": "The More You Know",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1038",
+      "SetID": "4fjcnpf",
+      "Name": "With Two Ds",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1039",
+      "SetID": "4fjcnpf",
+      "Name": "And They Opened Up My Mind",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1040",
+      "SetID": "4fjcnpf",
+      "Name": "Think, Mark!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1041",
+      "SetID": "4fjcnpf",
+      "Name": "Hunter, Hunted",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1042",
+      "SetID": "4fjcnpf",
+      "Name": "Trial Run",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1043",
+      "SetID": "4fjcnpf",
+      "Name": "For the Hoard",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1044",
+      "SetID": "4fjcnpf",
+      "Name": "Careful Whisper",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1045",
+      "SetID": "4fjcnpf",
+      "Name": "You Can Pet the Dog",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1046",
+      "SetID": "4fjcnpf",
+      "Name": "A Fine Hound",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1047",
+      "SetID": "4fjcnpf",
+      "Name": "When You Ride Alone",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1048",
+      "SetID": "4fjcnpf",
+      "Name": "Eureka",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "1049",
+      "SetID": "4fjcnpf",
+      "Name": "Fantasy, Finally",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2000",
+      "SetID": "1kiid42",
+      "Name": "A Crystal Darkly",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2001",
+      "SetID": "1kiid42",
+      "Name": "The Only Way Is Up",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2002",
+      "SetID": "1kiid42",
+      "Name": "Repercussion",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2003",
+      "SetID": "1kiid42",
+      "Name": "OMG",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2004",
+      "SetID": "1kiid42",
+      "Name": "Bit Fit",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2005",
+      "SetID": "1kiid42",
+      "Name": "My Reward Is with Me",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3000",
+      "SetID": "1kiid42",
+      "Name": "The Calm",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3001",
+      "SetID": "1kiid42",
+      "Name": "Homecoming",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3002",
+      "SetID": "1kiid42",
+      "Name": "Flow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3003",
+      "SetID": "1kiid42",
+      "Name": "Flood",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3004",
+      "SetID": "1kiid42",
+      "Name": "Explain That",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3005",
+      "SetID": "1kiid42",
+      "Name": "Thou Brakest the Head",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3006",
+      "SetID": "1kiid42",
+      "Name": "Tideslinger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3007",
+      "SetID": "1kiid42",
+      "Name": "Supersoaker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3008",
+      "SetID": "1kiid42",
+      "Name": "Deus Ex",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3009",
+      "SetID": "1kiid42",
+      "Name": "A Most Worthy Vessel",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3010",
+      "SetID": "1kiid42",
+      "Name": "The End Can Wait",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3011",
+      "SetID": "1kiid42",
+      "Name": "Still Breathing",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3012",
+      "SetID": "1kiid42",
+      "Name": "Occasio Calva",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "1kiid42",
+      "IsBase": false,
+      "Progressed": 532,
+      "Completed": 0
+    },
+    {
+      "ID": "4fjcnpf",
+      "IsBase": true,
+      "Progressed": 532,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-09T17:57:02.1053499+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:19.1730643+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:35.2480728+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }

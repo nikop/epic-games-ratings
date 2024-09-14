@@ -5,63 +5,64 @@ Rating: 4.22 (Ranked 1,096)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Veil Lifted | 11.00% | ~1,975 |
-| Lost and Found | 10.00% | ~1,795 |
-| Vengeance for the Fallen | 8.00% | ~1,436 |
-| Thriving in Darkness | 8.00% | ~1,436 |
-| Rise and Fall | 7.00% | ~1,257 |
-| A Rest Among the Dead | 7.00% | ~1,257 |
-| Shades of Violence | 6.00% | ~1,077 |
-| Together in Death | 5.00% | ~898 |
-| Burying the Past | 5.00% | ~898 |
-| The Past Shapes the Present | 5.00% | ~898 |
-| Rune Novice | 4.00% | ~718 |
-| Unwanted | 4.00% | ~718 |
-| Essence of Death | 4.00% | ~718 |
-| Altered Prospects | 4.00% | ~130 |
-| Honed to Perfection | 3.00% | ~539 |
-| Rune Master | 3.00% | ~539 |
-| Comrades | 3.00% | ~539 |
-| Shared Triumph | 3.00% | ~539 |
-| No Mercy | 3.00% | ~539 |
-| Unbroken to the End | 3.00% | ~539 |
-| Wings of Grief | 3.00% | ~539 |
-| Twin Faces of Sin | 3.00% | ~539 |
-| Judgement | 3.00% | ~539 |
-| Hunt's End | 3.00% | ~539 |
-| The King is Dead | 3.00% | ~539 |
-| Without Purpose | 3.00% | ~539 |
-| Seasoned | 3.00% | ~539 |
-| Carving Out Victory | 2.00% | ~359 |
-| Utmost Insight | 2.00% | ~359 |
-| Fallen | 2.00% | ~359 |
-| Antanas' Legacy | 2.00% | ~359 |
-| In Light we Walk | 2.00% | ~359 |
-| Wayfarer | 1.00% | ~180 |
-| Salvation in Blood | 1.00% | ~180 |
-| Umbral Offerings | 1.00% | ~180 |
-| Travels Resumed | 1.00% | ~180 |
-| Hero Worship | 1.00% | ~180 |
-| The Price of Knowledge | 0.90% | ~162 |
-| Moving On | 0.80% | ~144 |
-| A Shadow Dispelled | 0.80% | ~144 |
-| Faithful | 0.70% | ~126 |
-| A Queen's Rest | 0.70% | ~126 |
-| Vengeful Reflection | 0.60% | ~108 |
-| Lord of the Risen | 0.60% | ~108 |
+| A Veil Lifted | 12.00% | ~2,172 |
+| Lost and Found | 11.00% | ~1,991 |
+| Vengeance for the Fallen | 8.00% | ~1,448 |
+| Rise and Fall | 8.00% | ~1,448 |
+| Thriving in Darkness | 8.00% | ~1,448 |
+| A Rest Among the Dead | 8.00% | ~1,448 |
+| Shades of Violence | 6.00% | ~1,086 |
+| Together in Death | 6.00% | ~1,086 |
+| Burying the Past | 5.00% | ~905 |
+| Essence of Death | 5.00% | ~905 |
+| The Past Shapes the Present | 5.00% | ~905 |
+| Altered Prospects | 5.00% | ~169 |
+| Rune Novice | 4.00% | ~724 |
+| Unwanted | 4.00% | ~724 |
+| Honed to Perfection | 3.00% | ~543 |
+| Rune Master | 3.00% | ~543 |
+| Comrades | 3.00% | ~543 |
+| Shared Triumph | 3.00% | ~543 |
+| No Mercy | 3.00% | ~543 |
+| Unbroken to the End | 3.00% | ~543 |
+| Wings of Grief | 3.00% | ~543 |
+| Twin Faces of Sin | 3.00% | ~543 |
+| Judgement | 3.00% | ~543 |
+| Hunt's End | 3.00% | ~543 |
+| The King is Dead | 3.00% | ~543 |
+| Without Purpose | 3.00% | ~543 |
+| Seasoned | 3.00% | ~543 |
+| Wayfarer | 2.00% | ~362 |
+| Carving Out Victory | 2.00% | ~362 |
+| Utmost Insight | 2.00% | ~362 |
+| Fallen | 2.00% | ~362 |
+| Travels Resumed | 2.00% | ~362 |
+| Antanas' Legacy | 2.00% | ~362 |
+| In Light we Walk | 2.00% | ~362 |
+| Salvation in Blood | 1.00% | ~181 |
+| Umbral Offerings | 1.00% | ~181 |
+| The Price of Knowledge | 1.00% | ~181 |
+| Hero Worship | 1.00% | ~181 |
+| Moving On | 0.90% | ~163 |
+| A Shadow Dispelled | 0.90% | ~163 |
+| Faithful | 0.80% | ~145 |
+| A Queen's Rest | 0.80% | ~145 |
+| Vengeful Reflection | 0.70% | ~127 |
+| Lord of the Risen | 0.70% | ~127 |
+| A Hunger Sated | 0.60% | ~109 |
+| Back to the Void | 0.60% | ~109 |
 | Radiant Adept | 0.50% | ~90 |
-| A Hunger Sated | 0.50% | ~90 |
-| Back to the Void | 0.50% | ~90 |
 | The Last Step | 0.40% | ~72 |
+| What Sights Contained Within | 0.30% | ~54 |
 | Umbral Adept | 0.30% | ~54 |
 | Gesture Collector | 0.30% | ~54 |
+| Infernal Offerings | 0.30% | ~54 |
 | Radiant Offerings | 0.30% | ~54 |
 | Part of the Divine | 0.30% | ~54 |
 | Fickle Fortune | 0.30% | ~10 |
-| What Sights Contained Within | 0.20% | ~36 |
 | Ammunition Collector | 0.20% | ~36 |
 | Inferno Adept | 0.20% | ~36 |
-| Infernal Offerings | 0.20% | ~36 |
+| A Trace of Venom | 0.20% | ~36 |
 | Weapon Collector | 0.10% | ~18 |
 | Ironclad | 0.10% | ~18 |
 | Trinket Collector | 0.10% | ~18 |
@@ -69,7 +70,6 @@ Rating: 4.22 (Ranked 1,096)
 | None Shall be Spared | 0.10% | ~18 |
 | Lord of the Fallen | 0.10% | ~18 |
 | Lingering Moments | 0.10% | ~18 |
-| A Trace of Venom | 0.10% | ~18 |
 | Inefficient Medicine | 0.10% | ~3 |
 | Trail of the Dead | 0.10% | ~3 |
 | Making Do | 0.10% | ~3 |
@@ -78,8 +78,8 @@ Rating: 4.22 (Ranked 1,096)
 | Lord of Slaughter | 0.10% | ~3 |
 | Indomitable | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,952 (Ranked 221)  
-Completed: 7 (0.04%) (Ranked 483)  
+Progressed: 18,098 (Ranked 231)  
+Completed: 7 (0.04%) (Ranked 509)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -186,6 +186,7 @@ Completed: 7 (0.04%) (Ranked 483)
 | 2024-06-17 | 17,028 | 6 |
 | 2024-08-09 | 17,740 | 7 |
 | 2024-08-20 | 17,952 | 7 |
+| 2024-09-14 | 18,098 | 7 |
 ## Awards
 Max (Character Customization): 1,067  (Ranked 195)  
 Sum: 2,938 (Ranked 220)  

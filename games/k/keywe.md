@@ -5,29 +5,29 @@ Rating: 4.57 (Ranked 544)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 95.00% | ~434 |
-| Learn the Ropes | 68.00% | ~311 |
-| Fun in the Bungalow Basin Sun | 40.00% | ~183 |
-| Practice Makes Postmasters | 34.00% | ~155 |
-| Working for the Kiweekend | 34.00% | ~155 |
-| A Startling Discovery | 32.00% | ~146 |
-| Pumpkins and Postage Stamps | 21.00% | ~96 |
-| Kiwinter Kiwonderland | 8.00% | ~37 |
-| Against All Odds | 3.00% | ~14 |
-| Secrets of the Telepost | 2.00% | ~9 |
-| Off to the Races | 2.00% | ~9 |
-| Summer Postmasters | 2.00% | ~9 |
-| Postmasters General | 1.00% | ~5 |
-| Autumn Postmasters | 1.00% | ~5 |
-| Winter Postmasters | 1.00% | ~5 |
-| Stocking Up | 1.00% | ~5 |
-| Working Overtime | 0.70% | ~3 |
-| KeyWe are the Champions | 0.40% | ~2 |
-| Tournamasters | 0.20% | ~1 |
-| Fully Stocked | 0.20% | ~1 |
+| You're Hired | 92.00% | ~7,507 |
+| Learn the Ropes | 46.00% | ~3,754 |
+| Practice Makes Postmasters | 21.00% | ~1,714 |
+| Working for the Kiweekend | 20.00% | ~1,632 |
+| Fun in the Bungalow Basin Sun | 16.00% | ~1,306 |
+| A Startling Discovery | 15.00% | ~1,224 |
+| Pumpkins and Postage Stamps | 6.00% | ~490 |
+| Kiwinter Kiwonderland | 2.00% | ~163 |
+| Summer Postmasters | 0.90% | ~73 |
+| Secrets of the Telepost | 0.50% | ~41 |
+| Autumn Postmasters | 0.50% | ~41 |
+| Stocking Up | 0.30% | ~24 |
+| Against All Odds | 0.20% | ~16 |
+| Postmasters General | 0.20% | ~16 |
+| Winter Postmasters | 0.20% | ~16 |
+| Off to the Races | 0.10% | ~8 |
+| KeyWe are the Champions | 0.10% | ~8 |
+| Tournamasters | 0.10% | ~8 |
+| Fully Stocked | 0.10% | ~8 |
+| Working Overtime | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457 (Ranked 490)  
-Completed: 1 (0.22%) (Ranked 387)  
+Progressed: 8,160 (Ranked 267)  
+Completed: 4 (0.05%) (Ranked 497)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -123,6 +123,7 @@ Completed: 1 (0.22%) (Ranked 387)
 | 2024-06-17 | 344 | 0 |
 | 2024-08-09 | 447 | 1 |
 | 2024-08-20 | 457 | 1 |
+| 2024-09-14 | 8,160 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

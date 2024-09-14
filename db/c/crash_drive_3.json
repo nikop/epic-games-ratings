@@ -2,10 +2,10 @@
   "ID": "15cb739316ba44ed87878349d10b3ffc",
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
-  "Ranking_EOS_Progress": 464,
-  "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Completed": 376,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532,
+  "EOS_Progressed": 542,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -814,6 +814,11 @@
       "Time": "2024-08-20T20:06:50.4284802+00:00",
       "NumProgressed": 532,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:19:54.2045299+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -825,7 +830,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -841,7 +846,7 @@
       "Name": "Fore!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "CATAPULT_THROW",
@@ -849,7 +854,7 @@
       "Name": "Car-Tapult",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "COIN_COLLECT",
@@ -857,15 +862,15 @@
       "Name": "The Collector",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -881,7 +886,7 @@
       "Name": "High Roller",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -897,7 +902,7 @@
       "Name": "Special Forces",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -913,7 +918,7 @@
       "Name": "Drift King!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "FIND_40_M2H",
@@ -935,17 +940,17 @@
       "ID": "FIND_THE_GAP",
       "SetID": "20koof9",
       "Name": "First Come, First Serve",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 98
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 108
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -953,7 +958,7 @@
       "Name": "Disoriented",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -975,9 +980,9 @@
       "ID": "FULLY_LEVEL_CAR",
       "SetID": "20koof9",
       "Name": "Amateur Mechanic",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 146
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -993,7 +998,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -1001,7 +1006,7 @@
       "Name": "Anger Issues",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -1009,7 +1014,7 @@
       "Name": "Pushover",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 141
     },
     {
       "ID": "HIT_ALIEN",
@@ -1017,15 +1022,15 @@
       "Name": "Earth Defense Force",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -1033,7 +1038,7 @@
       "Name": "Insurance fraud",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -1041,7 +1046,7 @@
       "Name": "Space Crash",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "HONK_100_TIMES",
@@ -1049,7 +1054,7 @@
       "Name": "Toot Toot!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -1057,7 +1062,7 @@
       "Name": "Best Friends!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "KING_CROWN",
@@ -1065,7 +1070,7 @@
       "Name": "Your Highness",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "LEFT_LEVEL",
@@ -1073,7 +1078,7 @@
       "Name": "Goodbye cruel world",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -1081,7 +1086,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -1089,15 +1094,15 @@
       "Name": "A Forest Walk",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 152
     },
     {
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 119
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -1105,15 +1110,15 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 136
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -1127,9 +1132,9 @@
       "ID": "REACH_TANKBATTLE_LEVEL_10",
       "SetID": "20koof9",
       "Name": "To war!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 33
     },
     {
       "ID": "SPIN_1080",
@@ -1137,7 +1142,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "STUNT_EVENT",
@@ -1145,15 +1150,15 @@
       "Name": "Bag of Tricks",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
       "SetID": "20koof9",
       "Name": "Out of this League",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 70
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -1169,15 +1174,15 @@
       "Name": "Ferry Good!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "USE_ROCKET",
       "SetID": "20koof9",
       "Name": "Rocketman",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "USE_TUNNEL",
@@ -1185,7 +1190,7 @@
       "Name": "I see the light!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -1193,7 +1198,7 @@
       "Name": "Event Master",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -1201,7 +1206,7 @@
       "Name": "Event Amateur",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -1209,23 +1214,23 @@
       "Name": "Event Pro",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "WIN_BALL",
       "SetID": "20koof9",
       "Name": "Beach Party!",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 103
     },
     {
       "ID": "WIN_KING_HILL",
       "SetID": "20koof9",
       "Name": "Assert Dominance",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 81
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
@@ -1233,7 +1238,7 @@
       "Name": "Speed of light",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "WIN_ROBBER",
@@ -1241,7 +1246,7 @@
       "Name": "In the Bag!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -1249,7 +1254,7 @@
       "Name": "You\u0027re it",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1257,14 +1262,14 @@
       "Name": "Blasting away!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 532,
+      "Progressed": 542,
       "Completed": 2
     }
   ],
@@ -1272,8 +1277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:06:50.4284797+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:54.2045292+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:24.2326448+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:16.2865323+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:50.4285289+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:24.0348642+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:54.2045673+00:00"
 }

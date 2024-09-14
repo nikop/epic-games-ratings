@@ -2,10 +2,10 @@
   "ID": "6c215e03a0894bc0acf2ed206f2f2e89",
   "Name": "Tiny Witch",
   "ProductSlug": "tiny-witch-5d89db",
-  "Ranking_EOS_Progress": 908,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 917,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-16T13:00:00+00:00",
     "PcReleaseDate": "2023-09-01T13:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 20,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -39,6 +39,11 @@
     {
       "Time": "2024-08-09T18:07:25.5583875+00:00",
       "NumProgressed": 15,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:26:35.6499629+00:00",
+      "NumProgressed": 20,
       "NumCompleted": 0
     }
   ],
@@ -74,7 +79,7 @@
       "ID": "CLOWN",
       "SetID": "8e34peh",
       "Name": "It was supposed to be fun, it was supposed to be...",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "COINS_GOLD",
       "SetID": "8e34peh",
       "Name": "Gold, lots of gold!",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "COMPLETED_CAVERN",
       "SetID": "8e34peh",
       "Name": "Intense!",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "COMPLETED_DESERT",
       "SetID": "8e34peh",
       "Name": "Finally, I beat the curse!",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "COMPLETED_FOREST",
       "SetID": "8e34peh",
       "Name": "Hurry up!",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -124,13 +129,13 @@
       "Name": "First Ending",
       "Percentage": 20,
       "XP": 55,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FIRE_PUMPKIN",
       "SetID": "8e34peh",
       "Name": "Burn items 15 times",
-      "Percentage": 13,
+      "Percentage": 10,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -154,7 +159,7 @@
       "ID": "NOT_BROOM",
       "SetID": "8e34peh",
       "Name": "Everything\u0027s dirty here!",
-      "Percentage": 13,
+      "Percentage": 10,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -178,7 +183,7 @@
       "ID": "SERVE_20_RICH",
       "SetID": "8e34peh",
       "Name": "I\u0027m rich!",
-      "Percentage": 7,
+      "Percentage": 5,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "SERVE_25_IMPATIENT",
       "SetID": "8e34peh",
       "Name": "Keep calm, please!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 65,
       "UsersEstimate": 5
     }
@@ -195,14 +200,14 @@
     {
       "ID": "8e34peh",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 20,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-18T20:57:36.2009161+00:00",
   "FirstSeenAchievements": "2024-07-29T18:04:01.841684+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:29.2028799+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:35.6499623+00:00",
   "LastUpdate_AppInfo": "2024-09-09T17:57:01.9231385+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:38.1215643+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:29.2028916+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:12.7161604+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:35.6499744+00:00"
 }

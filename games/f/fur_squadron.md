@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All systems go | 83.00% | ~95 |
-| Do a barrel roll! | 61.00% | ~70 |
-| Huh? What was that? | 50.00% | ~58 |
-| Whatever it is, fix it! | 37.00% | ~43 |
-| The opposite of good news | 30.00% | ~34 |
-| My Emperor... I've failed you! | 24.00% | ~28 |
-| Priceless company | 17.00% | ~20 |
-| I'm ready, anytime | 6.00% | ~7 |
+| All systems go | 82.00% | ~98 |
+| Do a barrel roll! | 61.00% | ~73 |
+| Huh? What was that? | 49.00% | ~58 |
+| Whatever it is, fix it! | 36.00% | ~43 |
+| The opposite of good news | 30.00% | ~36 |
+| My Emperor... I've failed you! | 24.00% | ~29 |
+| Priceless company | 16.00% | ~19 |
+| I'm ready, anytime | 7.00% | ~8 |
 | Actually it's called aileron roll | 4.00% | ~5 |
 | I have a bad feeling about this | 4.00% | ~5 |
 | Enemy shield analyzed | 4.00% | ~5 |
-| Piece of cake | 3.00% | ~3 |
-| Better hurry up | 3.00% | ~3 |
-| I call her the BF-Worm | 3.00% | ~3 |
-| Axel? | 3.00% | ~3 |
-| You won't escape that easy!! | 3.00% | ~3 |
-| Any other day at work | 3.00% | ~3 |
-| I've had enough! | 3.00% | ~3 |
-| No need to say goodbye | 3.00% | ~3 |
-| Like it's nothing | 3.00% | ~3 |
-| I. Am. Bored | 3.00% | ~3 |
+| Piece of cake | 3.00% | ~4 |
+| Better hurry up | 3.00% | ~4 |
+| I call her the BF-Worm | 3.00% | ~4 |
+| Axel? | 3.00% | ~4 |
+| You won't escape that easy!! | 3.00% | ~4 |
+| Any other day at work | 3.00% | ~4 |
+| I've had enough! | 3.00% | ~4 |
+| No need to say goodbye | 3.00% | ~4 |
+| Like it's nothing | 3.00% | ~4 |
+| I. Am. Bored | 3.00% | ~4 |
 | See you on the other side | 2.00% | ~2 |
 | We are the FUR Squadron! | 2.00% | ~2 |
 | Well, I'm doing it | 2.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 658)  
-Completed: 2 (1.74%) (Ranked 211)  
+Progressed: 119 (Ranked 681)  
+Completed: 2 (1.68%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,3 +100,4 @@ Completed: 2 (1.74%) (Ranked 211)
 | 2024-07-09 | 93 | 1 |
 | 2024-08-09 | 115 | 1 |
 | 2024-08-20 | 115 | 2 |
+| 2024-09-14 | 119 | 2 |

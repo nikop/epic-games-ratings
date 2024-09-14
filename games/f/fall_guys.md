@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 21.00% | ~8,554,938 |
-| Snowflake | 19.00% | ~7,740,182 |
-| Fall Throttle | 18.00% | ~7,332,804 |
-| Face First | 14.00% | ~5,703,292 |
-| Style Points | 14.00% | ~5,703,292 |
-| Big Bully | 13.00% | ~5,295,914 |
-| One to Watch | 13.00% | ~5,295,914 |
-| Flawless Victory | 12.00% | ~4,888,536 |
-| Fall Bae | 12.00% | ~4,888,536 |
-| Troublemaker | 12.00% | ~4,888,536 |
-| Victory! | 12.00% | ~4,888,536 |
-| Stumble Chums | 11.00% | ~4,481,158 |
-| Ahead of the Pack | 10.00% | ~4,073,780 |
-| One giant leap | 6.00% | ~2,444,268 |
-| Bargain Bucket | 5.00% | ~2,036,890 |
-| Household Name | 5.00% | ~2,036,890 |
-| Squad Goals | 5.00% | ~2,036,890 |
-| Big Air | 4.00% | ~1,629,512 |
-| Catwalk Model | 4.00% | ~1,629,512 |
-| Down to the Wire | 4.00% | ~1,629,512 |
-| Head Turner | 4.00% | ~1,629,512 |
-| Quite Dashing | 4.00% | ~1,629,512 |
-| Star of the Show | 3.00% | ~1,222,134 |
-| Shopping Spree | 3.00% | ~1,222,134 |
-| Top Tier | 3.00% | ~1,222,134 |
-| Low Baller | 2.00% | ~814,756 |
-| Mad Trendy | 2.00% | ~814,756 |
-| Veteran Status | 1.00% | ~407,378 |
-| Track Star | 1.00% | ~407,378 |
-| Show Off | 1.00% | ~407,378 |
-| Golden Guy | 1.00% | ~407,378 |
-| Big Tease | 0.60% | ~244,427 |
-| Fall Guy Fashionista | 0.60% | ~244,427 |
-| Infallible | 0.50% | ~203,689 |
+| One small trip | 21.00% | ~8,636,274 |
+| Snowflake | 20.00% | ~8,225,022 |
+| Fall Throttle | 19.00% | ~7,813,771 |
+| Face First | 14.00% | ~5,757,516 |
+| Style Points | 14.00% | ~5,757,516 |
+| Big Bully | 13.00% | ~5,346,265 |
+| One to Watch | 13.00% | ~5,346,265 |
+| Flawless Victory | 13.00% | ~5,346,265 |
+| Fall Bae | 12.00% | ~4,935,013 |
+| Troublemaker | 12.00% | ~4,935,013 |
+| Victory! | 12.00% | ~4,935,013 |
+| Stumble Chums | 11.00% | ~4,523,762 |
+| Ahead of the Pack | 10.00% | ~4,112,511 |
+| One giant leap | 6.00% | ~2,467,507 |
+| Bargain Bucket | 5.00% | ~2,056,256 |
+| Household Name | 5.00% | ~2,056,256 |
+| Squad Goals | 5.00% | ~2,056,256 |
+| Big Air | 4.00% | ~1,645,004 |
+| Catwalk Model | 4.00% | ~1,645,004 |
+| Down to the Wire | 4.00% | ~1,645,004 |
+| Head Turner | 4.00% | ~1,645,004 |
+| Quite Dashing | 4.00% | ~1,645,004 |
+| Top Tier | 4.00% | ~1,645,004 |
+| Star of the Show | 3.00% | ~1,233,753 |
+| Shopping Spree | 3.00% | ~1,233,753 |
+| Low Baller | 2.00% | ~822,502 |
+| Mad Trendy | 2.00% | ~822,502 |
+| Veteran Status | 1.00% | ~411,251 |
+| Track Star | 1.00% | ~411,251 |
+| Show Off | 1.00% | ~411,251 |
+| Golden Guy | 1.00% | ~411,251 |
+| Big Tease | 0.60% | ~246,751 |
+| Fall Guy Fashionista | 0.60% | ~246,751 |
+| Infallible | 0.50% | ~205,626 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,737,800 (Ranked 1)  
-Completed: 58,182 (0.14%) (Ranked 418)  
+Progressed: 41,125,112 (Ranked 1)  
+Completed: 58,880 (0.14%) (Ranked 441)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,14 +330,15 @@ Completed: 58,182 (0.14%) (Ranked 418)
 | 2024-07-24 | 40,265,234 | 57,368 |
 | 2024-08-09 | 40,516,600 | 57,824 |
 | 2024-08-20 | 40,737,800 | 58,182 |
+| 2024-09-14 | 41,125,112 | 58,880 |
 ## Awards
-Max (Great for Beginners): 166,692  (Ranked 8)  
-Sum: 1,474,005 (Ranked 5)  
+Max (Great for Beginners): 166,768  (Ranked 8)  
+Sum: 1,474,140 (Ranked 5)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 166,692 |
-| This game is Great for Quick Sessions | 146,722 |
+| This game is Great for Beginners | 166,768 |
+| This game is Great for Quick Sessions | 146,781 |
 | This game is Relaxing | 142,747 |
 | This game has Diverse Characters | 141,101 |
 | This game has Competitive Players | 140,407 |
@@ -948,4 +949,4 @@ Diff (max vs sum): 3
 | 2024-09-11 | 4.50 | - | 166,591 | 1,473,185 |
 | 2024-09-12 | 4.50 | - | 166,639 | 1,473,460 |
 | 2024-09-13 | 4.50 | - | 166,692 | 1,473,815 |
-| 2024-09-14 | 4.50 | - | 166,692 | 1,474,005 |
+| 2024-09-14 | 4.50 | - | 166,768 | 1,474,140 |

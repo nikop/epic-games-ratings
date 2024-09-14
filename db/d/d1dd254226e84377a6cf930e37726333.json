@@ -2,10 +2,10 @@
   "ID": "d1dd254226e84377a6cf930e37726333",
   "Name": "Meta NANOs: Rumble Race",
   "ProductSlug": "meta_nanos_rumble_race-7f0696",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-08-30T15:00:00+00:00",
     "PcReleaseDate": "2023-03-13T10:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-30T22:58:48.4578932+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:10.2783512+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:10.853083+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:30.2335225+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:54.3825729+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:31.1345726+00:00"
 }

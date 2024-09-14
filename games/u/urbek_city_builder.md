@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 31.00% | ~203 |
-| I like parks | 27.00% | ~177 |
-| The spiritual world... | 15.00% | ~98 |
-| It is nice to share with friends in the city | 13.00% | ~85 |
-| Sport is good for you | 12.00% | ~78 |
-| I like my life | 11.00% | ~72 |
-| The woodcutter | 11.00% | ~72 |
-| I like books | 10.00% | ~65 |
-| Soviet town | 9.00% | ~59 |
-| Clean energy | 8.00% | ~52 |
-| Bucolic city | 7.00% | ~46 |
+| Small town | 32.00% | ~213 |
+| I like parks | 27.00% | ~180 |
+| The spiritual world... | 15.00% | ~100 |
+| It is nice to share with friends in the city | 13.00% | ~86 |
+| The woodcutter | 12.00% | ~80 |
+| Sport is good for you | 12.00% | ~80 |
+| I like my life | 11.00% | ~73 |
+| I like books | 10.00% | ~66 |
+| Soviet town | 9.00% | ~60 |
+| Clean energy | 8.00% | ~53 |
+| Bucolic city | 7.00% | ~47 |
 | I love parks | 5.00% | ~33 |
-| I love books! | 4.00% | ~26 |
-| King of fish | 4.00% | ~26 |
+| I love books! | 4.00% | ~27 |
+| King of fish | 4.00% | ~27 |
 | Food producer | 3.00% | ~20 |
 | What would we do if we can't go out with friends? | 3.00% | ~20 |
 | Rebel city | 3.00% | ~20 |
@@ -25,23 +25,23 @@
 | I am very happy! | 2.00% | ~13 |
 | Metropolurbek | 2.00% | ~13 |
 | Banking city | 1.00% | ~7 |
-| Food provider master | 0.90% | ~6 |
+| Food provider master | 1.00% | ~7 |
 | Read! Everyone should read! | 0.80% | ~5 |
 | Farming Frenzy | 0.80% | ~5 |
+| Oh, I love parks, listening to birds! | 0.80% | ~5 |
 | Archipelago builder | 0.60% | ~4 |
+| I can't see the sky | 0.60% | ~4 |
 | Oh, life is too awesome! Thank you! | 0.60% | ~4 |
 | ¡Muy feliz! | 0.60% | ~4 |
-| Oh, I love parks, listening to birds! | 0.60% | ~4 |
 | Little Mayor | 0.60% | ~4 |
 | Temperate builder | 0.60% | ~4 |
-| I can't see the sky | 0.50% | ~3 |
 | Desert builder | 0.50% | ~3 |
+| Farming Frenzy Plus | 0.50% | ~3 |
 | Sport is the best thing | 0.50% | ~3 |
 | Archipelago urban planner | 0.30% | ~2 |
 | Desert urban planner | 0.30% | ~2 |
 | What is there after death? | 0.30% | ~2 |
 | Oh, I am sad | 0.30% | ~2 |
-| Farming Frenzy Plus | 0.30% | ~2 |
 | I don't feel well, I have to drink a coffe | 0.30% | ~2 |
 | Town planner | 0.30% | ~2 |
 | Metropolurbek Plus | 0.30% | ~2 |
@@ -55,6 +55,7 @@
 | Urban style | 0.20% | ~1 |
 | Fear God, you sinners! | 0.20% | ~1 |
 | Perfect city | 0.20% | ~1 |
+| City in flames | 0.20% | ~1 |
 | Restorer Plus | 0.20% | ~1 |
 | Singapore | 0.20% | ~1 |
 | Everyone should always do sport! | 0.20% | ~1 |
@@ -76,7 +77,6 @@
 | Freedom to go to the mall! | 0.00% | ~0 |
 | Only freedom to go to the mall! | 0.00% | ~0 |
 | What? Was that possible? | 0.00% | ~0 |
-| City in flames | 0.00% | ~0 |
 | Full restorer | 0.00% | ~0 |
 | Restorer master | 0.00% | ~0 |
 | Singapore Plus | 0.00% | ~0 |
@@ -84,8 +84,8 @@
 | Temperate master | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 654 (Ranked 445)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 665 (Ranked 460)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,6 +280,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-07-25 | 643 | 0 |
 | 2024-08-09 | 651 | 0 |
 | 2024-08-20 | 654 | 0 |
+| 2024-09-14 | 665 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

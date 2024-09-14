@@ -6,110 +6,110 @@ Number of Ratings: 37  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eureka! | 18.00% | ~848 |
-| Tax-man I | 16.00% | ~754 |
-| A new beginning | 16.00% | ~754 |
-| Friends from the past | 14.00% | ~659 |
-| I like to build stuff... I | 13.00% | ~612 |
-| A time consuming game I | 12.00% | ~565 |
-| Builder I | 11.00% | ~518 |
-| An honorable Governor I | 11.00% | ~518 |
-| Researcher | 11.00% | ~518 |
-| Tax-man II | 11.00% | ~518 |
-| Full-time job I | 10.00% | ~471 |
-| Time for some trade | 10.00% | ~471 |
-| Bread for the people I | 9.00% | ~424 |
-| I like to build stuff... II | 9.00% | ~424 |
-| Completionist I | 9.00% | ~424 |
-| Full-time job II | 9.00% | ~424 |
-| A time consuming game II | 9.00% | ~424 |
-| Tax-man III | 8.00% | ~377 |
-| Tools of the trade I | 8.00% | ~377 |
-| Knee deep in snow | 8.00% | ~377 |
-| Bread for the people II | 7.00% | ~330 |
-| I like to build stuff... III | 7.00% | ~330 |
-| The King's new clothes I | 7.00% | ~330 |
-| Builder II | 7.00% | ~330 |
-| Not a small trader anymore | 6.00% | ~283 |
-| An honorable Governor II | 6.00% | ~283 |
-| Full-time job III | 6.00% | ~283 |
-| Tax-man IV | 6.00% | ~283 |
-| A time consuming game III | 6.00% | ~283 |
-| Conflicting parties | 6.00% | ~283 |
-| Another one bites the dust | 5.00% | ~236 |
-| I like to build stuff... IV | 5.00% | ~236 |
-| Experienced decorator | 5.00% | ~236 |
-| My precious... I | 5.00% | ~236 |
-| Tools of the trade II | 5.00% | ~236 |
-| Bread for the people III | 4.00% | ~188 |
-| I like to build stuff... V | 4.00% | ~188 |
-| The King's new clothes II | 4.00% | ~188 |
-| Saint Florian | 4.00% | ~188 |
-| My precious... II | 4.00% | ~188 |
-| Cosmas and Damian | 4.00% | ~188 |
-| Builder III | 4.00% | ~188 |
-| A time consuming game IV | 4.00% | ~188 |
-| Out of the frying pan | 4.00% | ~188 |
-| The Art of War | 3.00% | ~141 |
-| Five brews are a schnitzel | 3.00% | ~141 |
-| The King's new clothes III | 3.00% | ~141 |
-| My precious... III | 3.00% | ~141 |
-| Plague strikes! | 3.00% | ~141 |
-| Completionist II | 3.00% | ~141 |
-| Genius | 3.00% | ~141 |
-| I've been everywhere V | 3.00% | ~141 |
-| Tools of the trade III | 3.00% | ~141 |
-| When there's fire... | 2.00% | ~94 |
-| Survivalist | 2.00% | ~94 |
-| Lord of War | 2.00% | ~94 |
-| Builder IV | 2.00% | ~94 |
-| An honorable Governor III | 2.00% | ~94 |
-| Completionist III | 2.00% | ~94 |
-| Only the sausage has two ends. | 2.00% | ~94 |
-| Reunification | 2.00% | ~94 |
-| I've been everywhere II | 2.00% | ~94 |
-| I've been everywhere I | 2.00% | ~94 |
-| Tax-man V | 2.00% | ~94 |
-| A time consuming game V | 2.00% | ~94 |
-| Builder V | 1.00% | ~47 |
-| Buried | 1.00% | ~47 |
-| Ten-Hut! | 1.00% | ~47 |
-| Treat her well… | 1.00% | ~47 |
-| Penny pincher | 1.00% | ~47 |
-| I've been everywhere VI | 1.00% | ~47 |
-| The wood shortage | 1.00% | ~47 |
-| Craftsmen challenge | 0.90% | ~42 |
-| To serve and protect | 0.90% | ~42 |
-| Last man standing | 0.80% | ~38 |
-| I've been everywhere III | 0.80% | ~38 |
-| Little place in the country | 0.80% | ~38 |
-| Made my choice | 0.80% | ~38 |
-| I've been everywhere VII | 0.80% | ~38 |
-| Impregnable | 0.80% | ~38 |
-| I've been everywhere IV | 0.70% | ~33 |
-| Governor-elect | 0.70% | ~33 |
-| I've been everywhere VIII | 0.70% | ~33 |
-| I've been everywhere IX | 0.70% | ~33 |
-| An honorable departure | 0.70% | ~33 |
-| It went unnoticed | 0.60% | ~28 |
-| Brew master | 0.60% | ~28 |
-| Negotiator | 0.60% | ~28 |
-| Panacea | 0.60% | ~28 |
-| I've been everywhere X | 0.60% | ~28 |
-| You shall not pass | 0.60% | ~28 |
-| Tired by festival | 0.50% | ~24 |
-| LEGEN… wait for it… DARY | 0.50% | ~24 |
-| War-zone | 0.50% | ~24 |
-| Waterways | 0.50% | ~24 |
-| Malediction | 0.40% | ~19 |
-| Chief Inspector | 0.40% | ~19 |
-| Good luck miner! | 0.10% | ~5 |
-| Just let it burn! | 0.10% | ~5 |
-| Now everyone is satisfied | 0.10% | ~5 |
-| We can rebuild it! | 0.10% | ~5 |
+| Eureka! | 24.00% | ~1,329 |
+| A new beginning | 23.00% | ~1,274 |
+| Tax-man I | 22.00% | ~1,219 |
+| Friends from the past | 19.00% | ~1,052 |
+| I like to build stuff... I | 17.00% | ~942 |
+| Builder I | 15.00% | ~831 |
+| Tax-man II | 15.00% | ~831 |
+| A time consuming game I | 15.00% | ~831 |
+| An honorable Governor I | 14.00% | ~775 |
+| Researcher | 14.00% | ~775 |
+| Time for some trade | 14.00% | ~775 |
+| Full-time job I | 13.00% | ~720 |
+| Bread for the people I | 12.00% | ~665 |
+| I like to build stuff... II | 12.00% | ~665 |
+| Completionist I | 12.00% | ~665 |
+| Full-time job II | 11.00% | ~609 |
+| A time consuming game II | 11.00% | ~609 |
+| Knee deep in snow | 11.00% | ~609 |
+| Tools of the trade I | 10.00% | ~554 |
+| The King's new clothes I | 9.00% | ~499 |
+| Builder II | 9.00% | ~499 |
+| Tax-man III | 9.00% | ~499 |
+| Bread for the people II | 8.00% | ~443 |
+| I like to build stuff... III | 8.00% | ~443 |
+| Conflicting parties | 8.00% | ~443 |
+| An honorable Governor II | 7.00% | ~388 |
+| Full-time job III | 7.00% | ~388 |
+| Tax-man IV | 7.00% | ~388 |
+| A time consuming game III | 7.00% | ~388 |
+| Not a small trader anymore | 6.00% | ~332 |
+| Another one bites the dust | 6.00% | ~332 |
+| I like to build stuff... IV | 6.00% | ~332 |
+| Experienced decorator | 6.00% | ~332 |
+| My precious... I | 6.00% | ~332 |
+| Tools of the trade II | 6.00% | ~332 |
+| Bread for the people III | 5.00% | ~277 |
+| The King's new clothes II | 5.00% | ~277 |
+| Saint Florian | 5.00% | ~277 |
+| Cosmas and Damian | 5.00% | ~277 |
+| Out of the frying pan | 5.00% | ~277 |
+| I like to build stuff... V | 4.00% | ~222 |
+| My precious... II | 4.00% | ~222 |
+| Builder III | 4.00% | ~222 |
+| A time consuming game IV | 4.00% | ~222 |
+| The Art of War | 3.00% | ~166 |
+| Five brews are a schnitzel | 3.00% | ~166 |
+| The King's new clothes III | 3.00% | ~166 |
+| Survivalist | 3.00% | ~166 |
+| My precious... III | 3.00% | ~166 |
+| Plague strikes! | 3.00% | ~166 |
+| Completionist II | 3.00% | ~166 |
+| Genius | 3.00% | ~166 |
+| I've been everywhere V | 3.00% | ~166 |
+| Tools of the trade III | 3.00% | ~166 |
+| When there's fire... | 2.00% | ~111 |
+| Lord of War | 2.00% | ~111 |
+| Builder IV | 2.00% | ~111 |
+| An honorable Governor III | 2.00% | ~111 |
+| Completionist III | 2.00% | ~111 |
+| Only the sausage has two ends. | 2.00% | ~111 |
+| Reunification | 2.00% | ~111 |
+| Treat her well… | 2.00% | ~111 |
+| I've been everywhere II | 2.00% | ~111 |
+| I've been everywhere I | 2.00% | ~111 |
+| Tax-man V | 2.00% | ~111 |
+| A time consuming game V | 2.00% | ~111 |
+| Builder V | 1.00% | ~55 |
+| Buried | 1.00% | ~55 |
+| Ten-Hut! | 1.00% | ~55 |
+| Craftsmen challenge | 1.00% | ~55 |
+| Penny pincher | 1.00% | ~55 |
+| I've been everywhere VI | 1.00% | ~55 |
+| The wood shortage | 1.00% | ~55 |
+| Last man standing | 0.90% | ~50 |
+| To serve and protect | 0.90% | ~50 |
+| I've been everywhere III | 0.80% | ~44 |
+| Little place in the country | 0.80% | ~44 |
+| Made my choice | 0.80% | ~44 |
+| An honorable departure | 0.80% | ~44 |
+| I've been everywhere VII | 0.80% | ~44 |
+| Impregnable | 0.80% | ~44 |
+| Governor-elect | 0.70% | ~39 |
+| I've been everywhere VIII | 0.70% | ~39 |
+| Brew master | 0.60% | ~33 |
+| Negotiator | 0.60% | ~33 |
+| Panacea | 0.60% | ~33 |
+| I've been everywhere IV | 0.60% | ~33 |
+| I've been everywhere IX | 0.60% | ~33 |
+| I've been everywhere X | 0.60% | ~33 |
+| You shall not pass | 0.60% | ~33 |
+| It went unnoticed | 0.50% | ~28 |
+| LEGEN… wait for it… DARY | 0.50% | ~28 |
+| War-zone | 0.50% | ~28 |
+| Waterways | 0.50% | ~28 |
+| Malediction | 0.40% | ~22 |
+| Tired by festival | 0.40% | ~22 |
+| Chief Inspector | 0.40% | ~22 |
+| Good luck miner! | 0.10% | ~6 |
+| Just let it burn! | 0.10% | ~6 |
+| Now everyone is satisfied | 0.10% | ~6 |
+| We can rebuild it! | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,710 (Ranked 286)  
-Completed: 4 (0.08%) (Ranked 447)  
+Progressed: 5,539 (Ranked 285)  
+Completed: 4 (0.07%) (Ranked 478)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,6 +280,7 @@ Completed: 4 (0.08%) (Ranked 447)
 | 2024-04-10 | 4,485 | 4 |
 | 2024-06-17 | 4,653 | 4 |
 | 2024-08-09 | 4,710 | 4 |
+| 2024-09-14 | 5,539 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

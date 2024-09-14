@@ -6,57 +6,57 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~485,973 |
-| Apprentice | 58.00% | ~391,478 |
-| Close Shave | 25.00% | ~168,740 |
-| Mercenary | 23.00% | ~155,241 |
-| Ninja | 23.00% | ~155,241 |
-| Northern Scourge | 17.00% | ~114,744 |
-| Thief Bane | 14.00% | ~94,495 |
-| Master of Arms | 12.00% | ~80,995 |
-| Gambler | 10.00% | ~67,496 |
-| Dice Master | 10.00% | ~67,496 |
-| Swordsman | 9.00% | ~60,747 |
-| Knight | 8.00% | ~53,997 |
-| Cure for Corruption | 8.00% | ~53,997 |
-| Focused | 8.00% | ~53,997 |
-| Flurry of Fury | 8.00% | ~53,997 |
-| Long Shot | 7.00% | ~47,247 |
-| Empire's Bane | 7.00% | ~47,247 |
-| Devil Dice | 7.00% | ~47,247 |
-| Broken Heart | 7.00% | ~47,247 |
-| Adventurer | 6.00% | ~40,498 |
-| Jack of all Trades | 5.00% | ~33,748 |
-| Smithy | 5.00% | ~33,748 |
-| Leap of Faith | 3.00% | ~20,249 |
-| Combat Ready | 3.00% | ~20,249 |
-| Stuffed Potato | 3.00% | ~20,249 |
-| Card Sharp | 2.00% | ~13,499 |
-| Magician | 2.00% | ~13,499 |
-| Draknar's Bane | 2.00% | ~13,499 |
-| Protector of the Realm | 1.00% | ~6,750 |
-| Purgatorium | 1.00% | ~6,750 |
-| Cursed Soul | 1.00% | ~6,750 |
-| Champion | 1.00% | ~6,750 |
-| Final Death | 1.00% | ~6,750 |
-| Thomas' Bane | 0.90% | ~6,075 |
-| Ally | 0.80% | ~5,400 |
-| Hero | 0.70% | ~4,725 |
-| Gamester | 0.70% | ~4,725 |
-| Dungeon Master | 0.60% | ~4,050 |
-| Rebel | 0.60% | ~4,050 |
-| Pilgrim | 0.40% | ~2,700 |
-| Smiths Honour | 0.40% | ~2,700 |
-| Peaceful Coast | 0.30% | ~2,025 |
-| Money Bags | 0.20% | ~1,350 |
-| Grifter | 0.10% | ~675 |
-| Unburdened | 0.10% | ~675 |
-| Karma | 0.10% | ~675 |
-| Miracle | 0.10% | ~675 |
-| Blood Pact | 0.10% | ~675 |
+| The Fool | 72.00% | ~486,498 |
+| Apprentice | 59.00% | ~398,658 |
+| Close Shave | 25.00% | ~168,923 |
+| Mercenary | 23.00% | ~155,409 |
+| Ninja | 23.00% | ~155,409 |
+| Northern Scourge | 18.00% | ~121,624 |
+| Thief Bane | 14.00% | ~94,597 |
+| Master of Arms | 12.00% | ~81,083 |
+| Gambler | 10.00% | ~67,569 |
+| Dice Master | 10.00% | ~67,569 |
+| Swordsman | 9.00% | ~60,812 |
+| Knight | 8.00% | ~54,055 |
+| Cure for Corruption | 8.00% | ~54,055 |
+| Focused | 8.00% | ~54,055 |
+| Flurry of Fury | 8.00% | ~54,055 |
+| Long Shot | 7.00% | ~47,298 |
+| Empire's Bane | 7.00% | ~47,298 |
+| Devil Dice | 7.00% | ~47,298 |
+| Broken Heart | 7.00% | ~47,298 |
+| Adventurer | 6.00% | ~40,541 |
+| Jack of all Trades | 5.00% | ~33,785 |
+| Smithy | 5.00% | ~33,785 |
+| Leap of Faith | 3.00% | ~20,271 |
+| Combat Ready | 3.00% | ~20,271 |
+| Stuffed Potato | 3.00% | ~20,271 |
+| Card Sharp | 2.00% | ~13,514 |
+| Magician | 2.00% | ~13,514 |
+| Draknar's Bane | 2.00% | ~13,514 |
+| Protector of the Realm | 1.00% | ~6,757 |
+| Purgatorium | 1.00% | ~6,757 |
+| Cursed Soul | 1.00% | ~6,757 |
+| Champion | 1.00% | ~6,757 |
+| Final Death | 1.00% | ~6,757 |
+| Thomas' Bane | 0.90% | ~6,081 |
+| Ally | 0.80% | ~5,406 |
+| Hero | 0.70% | ~4,730 |
+| Gamester | 0.70% | ~4,730 |
+| Dungeon Master | 0.60% | ~4,054 |
+| Rebel | 0.60% | ~4,054 |
+| Pilgrim | 0.40% | ~2,703 |
+| Smiths Honour | 0.40% | ~2,703 |
+| Peaceful Coast | 0.30% | ~2,027 |
+| Money Bags | 0.20% | ~1,351 |
+| Grifter | 0.10% | ~676 |
+| Unburdened | 0.10% | ~676 |
+| Karma | 0.10% | ~676 |
+| Miracle | 0.10% | ~676 |
+| Blood Pact | 0.10% | ~676 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,962 (Ranked 36)  
-Completed: 176 (0.03%) (Ranked 494)  
+Progressed: 675,691 (Ranked 38)  
+Completed: 176 (0.03%) (Ranked 521)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -344,10 +344,11 @@ Completed: 176 (0.03%) (Ranked 494)
 | 2024-06-17 | 673,220 | 176 |
 | 2024-08-09 | 674,644 | 176 |
 | 2024-08-20 | 674,962 | 176 |
+| 2024-09-14 | 675,691 | 176 |
 ## Awards
-Max (Amazing Storytelling): 42  (Ranked 584)  
+Max (Amazing Storytelling): 42  (Ranked 585)  
 Sum: 221 (Ranked 507)  
-Diff (max vs sum): 77  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

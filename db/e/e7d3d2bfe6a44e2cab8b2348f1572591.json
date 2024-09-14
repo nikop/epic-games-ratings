@@ -2,10 +2,10 @@
   "ID": "e7d3d2bfe6a44e2cab8b2348f1572591",
   "Name": "Alpha League",
   "ProductSlug": "alpha-league-ca4166",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-07T03:29:00+00:00",
     "PcReleaseDate": null,
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T11:57:11.5451223+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:22.9258106+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:58.050551+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:43.6422869+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:11.1949466+00:00"
 }

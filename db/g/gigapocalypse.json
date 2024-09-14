@@ -2,10 +2,10 @@
   "ID": "09f00180b25347bdb65ac0b7378756b7",
   "Name": "Gigapocalypse",
   "ProductSlug": "gigapocalypse-fdc53b",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Completed": 299,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 229,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:25.0690428+00:00",
@@ -516,6 +516,11 @@
       "Time": "2024-08-09T18:06:18.821162+00:00",
       "NumProgressed": 225,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:23:56.9740877+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -541,7 +546,7 @@
       "ID": "secret11",
       "SetID": "39f6ck8",
       "Name": "Math Wizard",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 153
     },
@@ -551,7 +556,7 @@
       "Name": "The Duelist",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "secret13",
@@ -559,7 +564,7 @@
       "Name": "You Shall Not Pass",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "secret14",
@@ -567,15 +572,15 @@
       "Name": "Mommy\u0027s Very Angry",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "secret15",
       "SetID": "39f6ck8",
       "Name": "Back To The Future",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 62
     },
     {
       "ID": "secret16",
@@ -583,7 +588,7 @@
       "Name": "From Here To Eternity",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "secret17",
@@ -591,13 +596,13 @@
       "Name": "Who\u0027s A Good Boy",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "secret18",
       "SetID": "39f6ck8",
       "Name": "Animal Lover",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 76
     },
@@ -607,7 +612,7 @@
       "Name": "Feng Shui",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 165
     },
     {
       "ID": "secret2",
@@ -615,7 +620,7 @@
       "Name": "Octopostructure",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "secret20",
@@ -623,13 +628,13 @@
       "Name": "Caretaker",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 195
     },
     {
       "ID": "secret21",
       "SetID": "39f6ck8",
       "Name": "Mutant And Proud",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 94
     },
@@ -637,9 +642,9 @@
       "ID": "secret22",
       "SetID": "39f6ck8",
       "Name": "The Emperor\u0027s New Clothes",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "secret23",
@@ -653,9 +658,9 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "secret25",
@@ -663,7 +668,7 @@
       "Name": "Power Overload",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "secret26",
@@ -671,21 +676,21 @@
       "Name": "Supreme Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "secret27",
       "SetID": "39f6ck8",
       "Name": "Godlike Power",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 158
     },
@@ -695,7 +700,7 @@
       "Name": "Impenetrable Skin",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "secret3",
@@ -711,7 +716,7 @@
       "Name": "Undying Skin",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "secret31",
@@ -719,7 +724,7 @@
       "Name": "Immortal Skin",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "secret32",
@@ -735,7 +740,7 @@
       "Name": "Glorious Battle",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "secret34",
@@ -743,15 +748,15 @@
       "Name": "Fight Me!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "secret35",
       "SetID": "39f6ck8",
       "Name": "Boss Hunter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "secret36",
@@ -759,7 +764,7 @@
       "Name": "Overwhelming Power",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "secret37",
@@ -767,15 +772,15 @@
       "Name": "Meat Larder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "secret38",
       "SetID": "39f6ck8",
       "Name": "Loyal Companion",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "secret39",
@@ -783,7 +788,7 @@
       "Name": "Chomp Chomp!",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "secret4",
@@ -799,23 +804,23 @@
       "Name": "Diaper Time!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "secret41",
       "SetID": "39f6ck8",
       "Name": "Happy Little Home",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "secret42",
       "SetID": "39f6ck8",
       "Name": "Final Evolution",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "secret43",
@@ -823,7 +828,7 @@
       "Name": "Quite A Snack",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "secret44",
@@ -831,7 +836,7 @@
       "Name": "Lunch Before The Lunch",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "secret45",
@@ -847,7 +852,7 @@
       "Name": "Target Practice",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "secret47",
@@ -855,7 +860,7 @@
       "Name": "Building Blocks",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "secret48",
@@ -863,7 +868,7 @@
       "Name": "Annihilate",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "secret49",
@@ -877,9 +882,9 @@
       "ID": "secret5",
       "SetID": "39f6ck8",
       "Name": "Hawkman",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "secret50",
@@ -893,9 +898,9 @@
       "ID": "secret51",
       "SetID": "39f6ck8",
       "Name": "Fire Beacon",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "secret52",
@@ -925,15 +930,15 @@
       "ID": "secret7",
       "SetID": "39f6ck8",
       "Name": "Too Cool For School",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "secret8",
       "SetID": "39f6ck8",
       "Name": "Destroy Erase Improve",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 153
     },
@@ -943,14 +948,14 @@
       "Name": "Supremacy",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 229,
       "Completed": 2
     }
   ],
@@ -958,8 +963,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:37.3618908+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:56.9740868+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:57:08.894189+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:06.00344+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:37.3619248+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:00.7239654+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:56.9741275+00:00"
 }

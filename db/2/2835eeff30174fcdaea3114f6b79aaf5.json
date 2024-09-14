@@ -2,10 +2,10 @@
   "ID": "2835eeff30174fcdaea3114f6b79aaf5",
   "Name": "Rising Heat",
   "ProductSlug": "rising-heat-7b055d",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T08:57:05.6376493+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:02.2954807+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:33.2100592+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:03:59.9822016+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:39.0135641+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "58ee20b04c3c4f81bdfacbd7db9c9505",
   "Name": "Flintlock: The Siege of Dawn",
   "ProductSlug": "flintlock-the-siege-of-dawn-210044",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1155,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-18T07:00:00+00:00",
     "PcReleaseDate": "2024-07-18T07:00:00+00:00",
@@ -25,12 +25,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:19:30.100476+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-08-09T18:03:59.2016574+00:00",
   "TotalAchievements": 38,
   "TotalAchievementsXP": 1000,
@@ -311,17 +317,17 @@
       "ID": "BASE_SHOT_OF_COFFEE",
       "SetID": "8bkdmcm",
       "Name": "A Shot of Espresso",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BASE_SLIDE_DURATION_01",
       "SetID": "8bkdmcm",
       "Name": "Land Surfer",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BASE_THREE_COIN_WINS",
@@ -344,14 +350,14 @@
     {
       "ID": "8bkdmcm",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-18T21:59:54.2054543+00:00",
   "FirstSeenAchievements": "2023-04-25T20:48:56.0996827+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:59.2016567+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:30.1004755+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:05.837945+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:02.0751086+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:59.2022999+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:48.0085951+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:30.1004997+00:00"
 }

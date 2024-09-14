@@ -2,10 +2,10 @@
   "ID": "3115ba037dbf4ef18d21e24422ee9c7a",
   "Name": "Astro Wars",
   "ProductSlug": "astro-wars-c8f070",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-19T22:00:00+00:00",
     "PcReleaseDate": "2024-06-03T06:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-21T21:58:44.3890605+00:00",
   "LastUpdate_AppInfo": "2024-09-13T02:04:58.5269525+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:09.2058895+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:00.0218284+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:14.1967133+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:17.2009426+00:00"
 }

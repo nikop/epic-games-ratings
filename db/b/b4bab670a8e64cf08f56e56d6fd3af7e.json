@@ -2,10 +2,10 @@
   "ID": "b4bab670a8e64cf08f56e56d6fd3af7e",
   "Name": "Kingsgrave",
   "ProductSlug": "kingsgrave-b84468",
-  "Ranking_EOS_Progress": 936,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 892,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-13T11:00:00+00:00",
     "PcReleaseDate": "2024-04-17T14:30:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -40,6 +40,11 @@
       "Time": "2024-08-09T18:06:43.0032092+00:00",
       "NumProgressed": 12,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:24:24.1424546+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-24T02:04:38.2753007+00:00",
@@ -50,279 +55,279 @@
       "ID": "Achievement_01",
       "SetID": "d8p5k4e",
       "Name": "Bleeding Wounds of the First and the Last",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achievement_02",
       "SetID": "d8p5k4e",
       "Name": "Place for a Step Forward",
-      "Percentage": 17,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_03",
       "SetID": "d8p5k4e",
       "Name": "Gimme Danger",
-      "Percentage": 17,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_04",
       "SetID": "d8p5k4e",
       "Name": "Bad Moon Rising",
-      "Percentage": 25,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_05",
       "SetID": "d8p5k4e",
       "Name": "Weapon of Choice",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_06",
       "SetID": "d8p5k4e",
       "Name": "How to Save a Life",
-      "Percentage": 17,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_07",
       "SetID": "d8p5k4e",
       "Name": "There Is a Light That Never Goes Out",
-      "Percentage": 17,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_08",
       "SetID": "d8p5k4e",
       "Name": "Starve the Ego, Feed the Soul",
-      "Percentage": 8,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_09",
       "SetID": "d8p5k4e",
       "Name": "Something in the Way",
-      "Percentage": 58,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement_10",
       "SetID": "d8p5k4e",
       "Name": "Last Day",
-      "Percentage": 17,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_11",
       "SetID": "d8p5k4e",
       "Name": "New Dawn Fades",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement_12",
       "SetID": "d8p5k4e",
       "Name": "Flash of the Blade",
-      "Percentage": 17,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_13",
       "SetID": "d8p5k4e",
       "Name": "We\u0027ll Grind That Axe for a Long Time",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_14",
       "SetID": "d8p5k4e",
       "Name": "Live by the Sword",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_15",
       "SetID": "d8p5k4e",
       "Name": "All Hell Breaks Loose",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_16",
       "SetID": "d8p5k4e",
       "Name": "God\u0027s Gonna Cut You Down",
-      "Percentage": 17,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 8
     },
     {
       "ID": "Achievement_17",
       "SetID": "d8p5k4e",
       "Name": "War Pigs",
-      "Percentage": 17,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_18",
       "SetID": "d8p5k4e",
       "Name": "Ashes to Ashes",
-      "Percentage": 17,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 9
     },
     {
       "ID": "Achievement_19",
       "SetID": "d8p5k4e",
       "Name": "Feasting on the Flowers",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_20",
       "SetID": "d8p5k4e",
       "Name": "You Want It Darker",
-      "Percentage": 17,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_21",
       "SetID": "d8p5k4e",
       "Name": "Another One Bites the Dust",
-      "Percentage": 17,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_22",
       "SetID": "d8p5k4e",
       "Name": "Riders on the Storm",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_23",
       "SetID": "d8p5k4e",
       "Name": "TNT",
-      "Percentage": 58,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Achievement_24",
       "SetID": "d8p5k4e",
       "Name": "Boom Boom Pow",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_25",
       "SetID": "d8p5k4e",
       "Name": "Another Brick In the Wall",
-      "Percentage": 8,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_26",
       "SetID": "d8p5k4e",
       "Name": "House of the Rising Sun",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_27",
       "SetID": "d8p5k4e",
       "Name": "Goodbye Yellow Brick Road",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_28",
       "SetID": "d8p5k4e",
       "Name": "Harder, Better, Faster, Stronger",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Achievement_29",
       "SetID": "d8p5k4e",
       "Name": "From the Sea to the Land Beyond",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_30",
       "SetID": "d8p5k4e",
       "Name": "Jigsaw Falling into Place",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement_31",
       "SetID": "d8p5k4e",
       "Name": "Horizons into Battlegrounds",
-      "Percentage": 17,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 7
     },
     {
       "ID": "Achievement_32",
       "SetID": "d8p5k4e",
       "Name": "Once in a Long, Long While",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "Achievement_33",
       "SetID": "d8p5k4e",
       "Name": "For Whom the Bell Tolls",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "d8p5k4e",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-07-13T22:58:45.5947739+00:00",
   "FirstSeenAchievements": "2024-07-24T02:04:38.2753006+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:11:17.4739665+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:24.1424539+00:00",
   "LastUpdate_AppInfo": "2024-09-13T10:57:00.9265728+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:36.8452419+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:17.4739842+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:08.5969705+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:24.142473+00:00"
 }

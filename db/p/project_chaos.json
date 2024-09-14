@@ -2,10 +2,10 @@
   "ID": "07a20a4f5ae84d9c82f6b9b83fca212d",
   "Name": "Pantheon Rift",
   "ProductSlug": "pantheon-rift-58eac5",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-04-30T00:00:00+00:00",
     "PcReleaseDate": "2025-04-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T11:57:24.2026389+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:16.1021153+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:17.4072635+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:23.957523+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:35.9292615+00:00"
 }

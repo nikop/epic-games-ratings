@@ -2,10 +2,10 @@
   "ID": "07d2e0643d6d4c1a9a2e690c48d576b2",
   "Name": "The InBetween",
   "ProductSlug": "the-inbetween-d79f1a",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-10-31T00:00:00+00:00",
     "PcReleaseDate": "2024-10-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T21:57:01.1921256+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:14.2816521+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:55.4043712+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:00.0372488+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:00.2665141+00:00"
 }

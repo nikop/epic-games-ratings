@@ -2,10 +2,10 @@
   "ID": "206c851f04544725af8abb022128dd0d",
   "Name": "Fireside",
   "ProductSlug": "fireside-ff8e68",
-  "Ranking_EOS_Progress": 899,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 941,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-04T09:00:00+00:00",
     "PcReleaseDate": "2024-06-04T09:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -44,6 +44,11 @@
     {
       "Time": "2024-08-20T20:13:33.5941839+00:00",
       "NumProgressed": 16,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:39.3302014+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 0
     }
   ],
@@ -71,7 +76,7 @@
       "ID": "FS_EXP_Swamp",
       "SetID": "76f48b1",
       "Name": "Tough Mudder",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -183,7 +188,7 @@
       "ID": "FS_MISC_Solidarity",
       "SetID": "76f48b1",
       "Name": "Solidarity",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -191,7 +196,7 @@
       "ID": "FS_MISC_TradesLv1",
       "SetID": "76f48b1",
       "Name": "Haggler",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -231,7 +236,7 @@
       "ID": "FS_PROG_Bridge",
       "SetID": "76f48b1",
       "Name": "Building a Bridge",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -303,7 +308,7 @@
       "ID": "FS_PROG_RiverShrine",
       "SetID": "76f48b1",
       "Name": "Restoring the Nexus: The River Delta",
-      "Percentage": 56,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -408,14 +413,14 @@
     {
       "ID": "76f48b1",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-04T20:01:23.9691418+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:06.6958709+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:33.5941834+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:39.3302008+00:00",
   "LastUpdate_AppInfo": "2024-09-12T23:56:59.2098906+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:07.2569492+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:33.594216+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:51.7522373+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:39.3302266+00:00"
 }

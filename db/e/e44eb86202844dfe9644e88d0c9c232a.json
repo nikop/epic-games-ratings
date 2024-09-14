@@ -2,10 +2,10 @@
   "ID": "e44eb86202844dfe9644e88d0c9c232a",
   "Name": "NINJA KATO 4",
   "ProductSlug": "ninja-kato-4-1d251c",
-  "Ranking_EOS_Progress": 1033,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-21T15:00:00+00:00",
     "PcReleaseDate": "2024-07-21T15:00:00+00:00",
@@ -102,8 +102,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:19.2266445+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:16.3734816+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:28.1117766+00:00",
   "LastUpdate_AppInfo": "2024-09-10T18:57:11.0488481+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:03.3164282+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:16.3734893+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:01.6894177+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:28.1117919+00:00"
 }

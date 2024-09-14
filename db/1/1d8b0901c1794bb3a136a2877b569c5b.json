@@ -2,10 +2,10 @@
   "ID": "1d8b0901c1794bb3a136a2877b569c5b",
   "Name": "PolyClassic: Wild",
   "ProductSlug": "polyclassic-wild-7c64ee",
-  "Ranking_EOS_Progress": 872,
-  "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 333,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_Progress": 909,
+  "Ranking_EOS_Completed": 14,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-26T09:00:00+00:00",
     "PcReleaseDate": "2021-10-11T09:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 20,
+  "EOS_Progressed": 22,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 35,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 31.82,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:14.0215297+00:00",
@@ -43,6 +43,11 @@
       "Time": "2024-08-20T20:13:07.3801269+00:00",
       "NumProgressed": 20,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-09-14T14:27:22.1488555+00:00",
+      "NumProgressed": 22,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:14.0215364+00:00",
@@ -53,17 +58,17 @@
       "ID": "ACH_1",
       "SetID": "69einac",
       "Name": "First Level",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_2",
       "SetID": "69einac",
       "Name": "Second Level",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 150,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_3",
@@ -71,7 +76,7 @@
       "Name": "Third Level",
       "Percentage": 55,
       "XP": 150,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_4",
@@ -79,13 +84,13 @@
       "Name": "Forth Level",
       "Percentage": 55,
       "XP": 200,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_5",
       "SetID": "69einac",
       "Name": "Fifth Level",
-      "Percentage": 40,
+      "Percentage": 36,
       "XP": 200,
       "UsersEstimate": 8
     },
@@ -93,7 +98,7 @@
       "ID": "ACH_6",
       "SetID": "69einac",
       "Name": "Sixth Level",
-      "Percentage": 35,
+      "Percentage": 32,
       "XP": 200,
       "UsersEstimate": 7
     }
@@ -102,13 +107,13 @@
     {
       "ID": "69einac",
       "IsBase": true,
-      "Progressed": 20,
+      "Progressed": 22,
       "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:14.0215364+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:07.3801263+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:22.1488549+00:00",
   "LastUpdate_AppInfo": "2024-09-09T20:57:18.9987234+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:49.5156783+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:07.3801331+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:38.9578294+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:22.1488636+00:00"
 }

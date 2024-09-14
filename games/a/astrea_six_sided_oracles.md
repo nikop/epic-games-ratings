@@ -5,31 +5,31 @@ Rating: 4.46 (Ranked 776)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meissa's Savior | 86.00% | ~418 |
-| Purification Pioneer | 82.00% | ~399 |
-| Mechanical Buddy | 76.00% | ~369 |
-| Dicesmithing Time! | 66.00% | ~321 |
-| Sanctuary Guardian | 57.00% | ~277 |
-| Endless Tricks | 54.00% | ~262 |
-| Wild's Keeper | 52.00% | ~253 |
-| Mind Illuminator | 48.00% | ~233 |
-| Stellar Dismantler | 43.00% | ~209 |
+| Meissa's Savior | 86.00% | ~420 |
+| Purification Pioneer | 82.00% | ~400 |
+| Mechanical Buddy | 76.00% | ~371 |
+| Dicesmithing Time! | 66.00% | ~322 |
+| Sanctuary Guardian | 57.00% | ~278 |
+| Endless Tricks | 54.00% | ~264 |
+| Wild's Keeper | 52.00% | ~254 |
+| Mind Illuminator | 48.00% | ~234 |
+| Stellar Dismantler | 43.00% | ~210 |
+| Noctuan Champion | 39.00% | ~190 |
 | Astral Adventurer | 38.00% | ~185 |
-| Noctuan Champion | 38.00% | ~185 |
-| Anomaly Destroyer | 36.00% | ~175 |
-| Star Killer | 34.00% | ~165 |
-| Eridanian Champion | 30.00% | ~146 |
-| Lacertian Champion | 26.00% | ~126 |
+| Anomaly Destroyer | 37.00% | ~181 |
+| Star Killer | 35.00% | ~171 |
+| Eridanian Champion | 31.00% | ~151 |
+| Lacertian Champion | 26.00% | ~127 |
 | Loyal Partner | 24.00% | ~117 |
-| Apian Champion | 23.00% | ~112 |
+| Apian Champion | 24.00% | ~117 |
 | Shard Spender | 22.00% | ~107 |
-| Sadistic Plan | 19.00% | ~92 |
-| Unbeatable | 19.00% | ~92 |
-| Behenian Champion | 18.00% | ~87 |
+| Unbeatable | 20.00% | ~98 |
+| Sadistic Plan | 18.00% | ~88 |
+| Behenian Champion | 18.00% | ~88 |
 | Wave Bender | 13.00% | ~63 |
-| Heavy Purger | 12.00% | ~58 |
-| Aquarian Champion | 12.00% | ~58 |
-| Astral Seeker | 11.00% | ~53 |
+| Aquarian Champion | 13.00% | ~63 |
+| Heavy Purger | 12.00% | ~59 |
+| Astral Seeker | 11.00% | ~54 |
 | Can't touch this | 9.00% | ~44 |
 | Heart Gate | 9.00% | ~44 |
 | Stellar Haste | 9.00% | ~44 |
@@ -44,13 +44,14 @@ Rating: 4.46 (Ranked 776)
 | If I Had Failed... | 5.00% | ~24 |
 | The Chaos Artisan | 5.00% | ~24 |
 | The Dark Moon | 5.00% | ~24 |
-| Astrarium of Holding | 4.00% | ~19 |
-| The Ardent Prince | 4.00% | ~19 |
-| The Distorted Sage | 4.00% | ~19 |
-| The Raging Skies | 4.00% | ~19 |
-| Behenian Hero | 4.00% | ~19 |
-| Lacertian Hero | 4.00% | ~19 |
-| Noctuan Hero | 4.00% | ~19 |
+| Astrarium of Holding | 4.00% | ~20 |
+| The Ardent Prince | 4.00% | ~20 |
+| The Distorted Sage | 4.00% | ~20 |
+| The Raging Skies | 4.00% | ~20 |
+| Behenian Hero | 4.00% | ~20 |
+| Lacertian Hero | 4.00% | ~20 |
+| Noctuan Hero | 4.00% | ~20 |
+| Critical Twist | 3.00% | ~15 |
 | Pocket Astrarium | 3.00% | ~15 |
 | Purification Avatar | 3.00% | ~15 |
 | The Abyssal Terror | 3.00% | ~15 |
@@ -58,7 +59,6 @@ Rating: 4.46 (Ranked 776)
 | Eridanian Hero | 3.00% | ~15 |
 | Noctuan Mastery | 3.00% | ~15 |
 | Astromancer | 2.00% | ~10 |
-| Critical Twist | 2.00% | ~10 |
 | Reflexive Mind | 2.00% | ~10 |
 | Sentinelphobic | 2.00% | ~10 |
 | Apian Mastery | 2.00% | ~10 |
@@ -104,8 +104,8 @@ Rating: 4.46 (Ranked 776)
 | Noctuan Hero | 0.00% | ~0 |
 | Noctuan Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 486 (Ranked 476)  
-Completed: 1 (0.21%) (Ranked 388)  
+Progressed: 488 (Ranked 495)  
+Completed: 1 (0.20%) (Ranked 415)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -199,6 +199,7 @@ Completed: 1 (0.21%) (Ranked 388)
 | 2024-07-25 | 478 | 1 |
 | 2024-08-09 | 483 | 1 |
 | 2024-08-20 | 486 | 1 |
+| 2024-09-14 | 488 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

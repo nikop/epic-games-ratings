@@ -2,10 +2,10 @@
   "ID": "fdf05d3975f44e8d989bc2923e3e6f38",
   "Name": "Letters \u0026 Legends",
   "ProductSlug": "letters-and-legends-2a2c80",
-  "Ranking_EOS_Progress": 829,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-25T23:00:00+00:00",
     "PcReleaseDate": "2024-04-25T23:00:00+00:00",
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -45,6 +45,11 @@
       "Time": "2024-08-09T18:08:06.680672+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:45.2863418+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:21.5144879+00:00",
@@ -63,7 +68,7 @@
       "ID": "B_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "B is for Bruiser",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -87,7 +92,7 @@
       "ID": "E_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "E is for Endangerment",
-      "Percentage": 37,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -95,7 +100,7 @@
       "ID": "F_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "F is for Fantastical",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -103,7 +108,7 @@
       "ID": "G_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "G is for Graveyard",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -119,7 +124,7 @@
       "ID": "I_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "I is for Incineration",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 4
     },
@@ -135,7 +140,7 @@
       "ID": "K_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "K is for Killer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -143,7 +148,7 @@
       "ID": "L_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "L is for Learning",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -151,15 +156,15 @@
       "ID": "M_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "M is for Megalophonous",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "N_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "N is for Nonagonic",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -167,7 +172,7 @@
       "ID": "O_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "O is for Octonary",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -183,7 +188,7 @@
       "ID": "Q_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "Q is for Quaternary",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -191,7 +196,7 @@
       "ID": "R_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "R is for Recuperative",
-      "Percentage": 40,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -199,7 +204,7 @@
       "ID": "S_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "S is for Score",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -207,7 +212,7 @@
       "ID": "T_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "T is for Thirsty",
-      "Percentage": 53,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -215,7 +220,7 @@
       "ID": "U_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "U is for Urgency",
-      "Percentage": 53,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 16
     },
@@ -231,7 +236,7 @@
       "ID": "W_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "W is for Wordsmith",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -239,7 +244,7 @@
       "ID": "X_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "X is for Xenophobia",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -247,7 +252,7 @@
       "ID": "Y_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "Y is for Yielding",
-      "Percentage": 30,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -255,7 +260,7 @@
       "ID": "Z_IS_FOR",
       "SetID": "3lcgfm4",
       "Name": "Z is for Zealotical",
-      "Percentage": 53,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 16
     }
@@ -264,14 +269,14 @@
     {
       "ID": "3lcgfm4",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-30T21:57:27.020062+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:21.5144878+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:43.2643688+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:45.2863411+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:18.0186129+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:01.7403217+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:43.2643824+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:57.5618109+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:45.2863581+00:00"
 }

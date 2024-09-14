@@ -2,10 +2,10 @@
   "ID": "3ca3fe1ee37a4dbf90f1b242c3c30bee",
   "Name": "Chess Knights: Shinobi",
   "ProductSlug": "chess-knights-shinobi-649437",
-  "Ranking_EOS_Progress": 1014,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1029,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-27T15:30:00+00:00",
     "PcReleaseDate": "2020-11-18T20:00:00+00:00",
@@ -23,7 +23,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -32,6 +32,11 @@
     {
       "Time": "2024-08-09T18:07:48.6863772+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:23.9734495+00:00",
+      "NumProgressed": 7,
       "NumCompleted": 0
     }
   ],
@@ -43,7 +48,7 @@
       "ID": "ALARM",
       "SetID": "ep32pe",
       "Name": "Spotted",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -51,7 +56,7 @@
       "ID": "ALERT",
       "SetID": "ep32pe",
       "Name": "Not the birds!",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -59,7 +64,7 @@
       "ID": "ARMOR",
       "SetID": "ep32pe",
       "Name": "Faito!",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -83,9 +88,9 @@
       "ID": "LEVEL_10",
       "SetID": "ep32pe",
       "Name": "Jacket on, jacket off",
-      "Percentage": 75,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_20",
@@ -107,7 +112,7 @@
       "ID": "LEVEL_36",
       "SetID": "ep32pe",
       "Name": "Asashin",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -115,7 +120,7 @@
       "ID": "LEVEL_49",
       "SetID": "ep32pe",
       "Name": "Shinobi",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -123,7 +128,7 @@
       "ID": "LEVEL_50",
       "SetID": "ep32pe",
       "Name": "Sakusen kanryo",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -139,9 +144,9 @@
       "ID": "SECRET_LEVEL_1",
       "SetID": "ep32pe",
       "Name": "Ichi",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SECRET_LEVEL_10",
@@ -179,7 +184,7 @@
       "ID": "SECRET_LEVEL_5",
       "SetID": "ep32pe",
       "Name": "Go",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -195,7 +200,7 @@
       "ID": "SECRET_LEVEL_7",
       "SetID": "ep32pe",
       "Name": "Nana",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -203,7 +208,7 @@
       "ID": "SECRET_LEVEL_8",
       "SetID": "ep32pe",
       "Name": "Hachi",
-      "Percentage": 25,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -219,9 +224,9 @@
       "ID": "STEALTH",
       "SetID": "ep32pe",
       "Name": "Your eyes deceive you",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TELEPORT",
@@ -229,20 +234,20 @@
       "Name": "Hiraishin",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "ep32pe",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-08-09T18:07:48.6863795+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:10.4475973+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:23.9734488+00:00",
   "LastUpdate_AppInfo": "2024-09-11T14:57:22.7349168+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:36.6094719+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:10.4476094+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:13.1482028+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:23.9734647+00:00"
 }

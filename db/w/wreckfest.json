@@ -5,10 +5,10 @@
   "Ranking_Rating": 870,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 463,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 318,
+  "Ranking_EOS_Completed": 497,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -571,11 +571,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3281,
+  "EOS_Progressed": 3660,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:07:34.0632467+00:00",
@@ -3681,6 +3681,11 @@
       "Time": "2024-08-20T20:06:25.1095233+00:00",
       "NumProgressed": 3281,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-09-14T14:19:40.0899988+00:00",
+      "NumProgressed": 3660,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3691,17 +3696,17 @@
       "ID": "AirborneTime",
       "SetID": "5hd282c",
       "Name": "Look Mom, I Can Fly",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1135
     },
     {
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 71,
+      "Percentage": 74,
       "XP": 90,
-      "UsersEstimate": 2330
+      "UsersEstimate": 2708
     },
     {
       "ID": "CareerChamp1",
@@ -3709,7 +3714,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1318
     },
     {
       "ID": "CareerChamp2",
@@ -3717,7 +3722,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 689
+      "UsersEstimate": 769
     },
     {
       "ID": "CareerChamp3",
@@ -3725,15 +3730,15 @@
       "Name": "Challengers Champion",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 427
+      "UsersEstimate": 476
     },
     {
       "ID": "CareerChamp4",
       "SetID": "5hd282c",
       "Name": "Pro Internationals Champion",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 295
+      "UsersEstimate": 293
     },
     {
       "ID": "CareerComplete",
@@ -3741,7 +3746,7 @@
       "Name": "World Masters Champion",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 131
+      "UsersEstimate": 146
     },
     {
       "ID": "CareerFirstWin",
@@ -3749,7 +3754,7 @@
       "Name": "Storm Warning",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2708
     },
     {
       "ID": "CollectVehiclesA",
@@ -3757,7 +3762,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 984
+      "UsersEstimate": 1098
     },
     {
       "ID": "CollectVehiclesB",
@@ -3765,15 +3770,15 @@
       "Name": "Junk Collector",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 623
+      "UsersEstimate": 695
     },
     {
       "ID": "CreditsEarnedA",
       "SetID": "5hd282c",
       "Name": "Cash For Crashes",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 120,
-      "UsersEstimate": 394
+      "UsersEstimate": 403
     },
     {
       "ID": "GetWreckedA",
@@ -3781,7 +3786,7 @@
       "Name": "Glutton For Punishment",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "LawnMowerTime",
@@ -3789,7 +3794,7 @@
       "Name": "Garden Variety",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "MultiplayerEventsWonA",
@@ -3797,15 +3802,15 @@
       "Name": "Human Lover",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "PlayerRankA",
       "SetID": "5hd282c",
       "Name": "Dirty Roller",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1427
     },
     {
       "ID": "PlayerRankB",
@@ -3813,7 +3818,7 @@
       "Name": "Trashing Around",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 558
+      "UsersEstimate": 622
     },
     {
       "ID": "PlayerRankC",
@@ -3821,7 +3826,7 @@
       "Name": "Showing Some Dedication",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 98
+      "UsersEstimate": 110
     },
     {
       "ID": "RocketSpeedReached",
@@ -3829,30 +3834,30 @@
       "Name": "Rocketeer",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "WreckOpponentsA",
       "SetID": "5hd282c",
       "Name": "Hating Them Tin Cans",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 689
+      "UsersEstimate": 732
     },
     {
       "ID": "WreckOpponentsBus",
       "SetID": "5hd282c",
       "Name": "Maniac Driver",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 3281,
+      "Progressed": 3660,
       "Completed": 2
     }
   ],
@@ -3860,8 +3865,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-09-06T23:58:33.7784819+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:06:25.1095228+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:40.0899982+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:13.7111632+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:07.1481312+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:25.1095984+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:11.0780474+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:40.0900229+00:00"
 }

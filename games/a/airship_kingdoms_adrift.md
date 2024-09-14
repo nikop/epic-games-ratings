@@ -4,105 +4,105 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Now You Knew | 85.00% | ~23 |
-| The Trial Begins | 85.00% | ~23 |
-| Attention Peasant! | 81.00% | ~22 |
-| The Red Flower | 81.00% | ~22 |
-| Meet THE Harbormaster | 74.00% | ~20 |
-| An Old Friend | 70.00% | ~19 |
-| It’s Smarter to Pay the Toll | 59.00% | ~16 |
-| Not a Good Decoy | 56.00% | ~15 |
-| Wise Decision | 56.00% | ~15 |
-| The Industrialist | 52.00% | ~14 |
-| Damsel in Distress? | 48.00% | ~13 |
-| Our Tiny Little Fleet | 48.00% | ~13 |
-| The Pink Flower | 48.00% | ~13 |
-| The Combatant | 48.00% | ~13 |
-| Flight Check | 44.00% | ~12 |
-| Safe Delivery | 44.00% | ~12 |
-| The Mother Ocean | 44.00% | ~12 |
-| Torpedoes! | 44.00% | ~12 |
-| Whoops | 44.00% | ~12 |
-| Gentlemen Pirates | 41.00% | ~11 |
-| It’s Commandeering | 41.00% | ~11 |
-| Let’s get Rich | 41.00% | ~11 |
-| Starting Up | 41.00% | ~11 |
-| United We Stand! | 41.00% | ~11 |
-| Dream of Flight | 37.00% | ~10 |
-| For the Republic! | 37.00% | ~10 |
-| Not Again | 37.00% | ~10 |
-| Shipping Ships | 37.00% | ~10 |
-| The Impossible Dream | 37.00% | ~10 |
-| Tuck the Tail | 37.00% | ~10 |
-| In His Majesty's Service! | 33.00% | ~9 |
-| It is Unsafe Out Here | 33.00% | ~9 |
-| Our Own Path | 33.00% | ~9 |
-| Shellshock | 30.00% | ~8 |
-| The Blue Flower | 30.00% | ~8 |
-| The Green Flower | 30.00% | ~8 |
-| An Old Hero | 26.00% | ~7 |
-| Living off the Land | 26.00% | ~7 |
-| Millionaire | 26.00% | ~7 |
-| Shady Business | 26.00% | ~7 |
-| The Himmelhaart far from Home | 26.00% | ~7 |
-| There She Blows! | 22.00% | ~6 |
-| The Coil Fanatic | 22.00% | ~6 |
-| The Logistician | 22.00% | ~6 |
-| Friendly Neighborhood Commander | 19.00% | ~5 |
-| Hunting the Shadow | 19.00% | ~5 |
-| Revenge! | 19.00% | ~5 |
-| The First Princess | 19.00% | ~5 |
-| The Gold Haired Harlot | 19.00% | ~5 |
-| Totally Redhanded | 19.00% | ~5 |
-| Played us like a Fiddle | 15.00% | ~4 |
-| Tales of Tonsborg | 15.00% | ~4 |
-| The Academy | 15.00% | ~4 |
-| The Amber Flower | 15.00% | ~4 |
-| The Big Wig | 15.00% | ~4 |
-| The Final Hunt Begins | 15.00% | ~4 |
-| The Regal Comrade | 15.00% | ~4 |
-| The Second Princess | 15.00% | ~4 |
-| The Shieldmaiden | 15.00% | ~4 |
-| The Treasure Hunter | 15.00% | ~4 |
-| A lone and Lonely Engineer | 11.00% | ~3 |
-| A Patience Admiral | 11.00% | ~3 |
-| Berserker Chief | 11.00% | ~3 |
-| Clockwork Connoisseur | 11.00% | ~3 |
-| Free Trader | 11.00% | ~3 |
-| Home Made | 11.00% | ~3 |
-| No Fear of Inflation | 11.00% | ~3 |
-| Serving the Eagle Crown | 11.00% | ~3 |
-| Small Business | 11.00% | ~3 |
-| The Bloodline of Firefort | 11.00% | ~3 |
-| The Bride | 11.00% | ~3 |
-| The Greatest Swordman | 11.00% | ~3 |
-| The Noble Sage | 11.00% | ~3 |
-| Disruption of Peace | 7.00% | ~2 |
-| Good Carpenter | 7.00% | ~2 |
-| Good Forester | 7.00% | ~2 |
-| Heart and Home | 7.00% | ~2 |
-| Honor Among Thieves | 7.00% | ~2 |
-| Learning to Trust | 7.00% | ~2 |
-| National Treasure | 7.00% | ~2 |
-| Secret Keeper | 7.00% | ~2 |
-| The Prince | 7.00% | ~2 |
-| The Rememberer | 7.00% | ~2 |
-| The Royalist | 7.00% | ~2 |
-| Good Butcher | 4.00% | ~1 |
-| Good Cook | 4.00% | ~1 |
-| Good Engineer | 4.00% | ~1 |
-| Good Fabricator | 4.00% | ~1 |
-| Good Farmer | 4.00% | ~1 |
-| Good Founder | 4.00% | ~1 |
-| Good Grinder | 4.00% | ~1 |
-| Good Mason | 4.00% | ~1 |
-| Good Smith | 4.00% | ~1 |
-| In the name of the People | 4.00% | ~1 |
-| Making it Big | 4.00% | ~1 |
-| Take Aiming to a New Level | 4.00% | ~1 |
-| The Animal Fanatic | 4.00% | ~1 |
-| The Tree Fanatic | 4.00% | ~1 |
-| We need Space! | 4.00% | ~1 |
+| The Trial Begins | 90.00% | ~28 |
+| Now You Knew | 87.00% | ~27 |
+| Attention Peasant! | 84.00% | ~26 |
+| The Red Flower | 84.00% | ~26 |
+| Meet THE Harbormaster | 74.00% | ~23 |
+| An Old Friend | 71.00% | ~22 |
+| It’s Smarter to Pay the Toll | 65.00% | ~20 |
+| Not a Good Decoy | 58.00% | ~18 |
+| Damsel in Distress? | 55.00% | ~17 |
+| Wise Decision | 55.00% | ~17 |
+| Our Tiny Little Fleet | 52.00% | ~16 |
+| The Pink Flower | 52.00% | ~16 |
+| Safe Delivery | 52.00% | ~16 |
+| The Combatant | 52.00% | ~16 |
+| Flight Check | 48.00% | ~15 |
+| The Industrialist | 48.00% | ~15 |
+| Torpedoes! | 48.00% | ~15 |
+| It’s Commandeering | 45.00% | ~14 |
+| Let’s get Rich | 45.00% | ~14 |
+| The Mother Ocean | 45.00% | ~14 |
+| Whoops | 45.00% | ~14 |
+| Gentlemen Pirates | 42.00% | ~13 |
+| Starting Up | 42.00% | ~13 |
+| United We Stand! | 42.00% | ~13 |
+| Dream of Flight | 39.00% | ~12 |
+| Shipping Ships | 39.00% | ~12 |
+| Tuck the Tail | 39.00% | ~12 |
+| For the Republic! | 35.00% | ~11 |
+| In His Majesty's Service! | 35.00% | ~11 |
+| Not Again | 35.00% | ~11 |
+| The Impossible Dream | 35.00% | ~11 |
+| It is Unsafe Out Here | 32.00% | ~10 |
+| Our Own Path | 32.00% | ~10 |
+| The Logistician | 32.00% | ~10 |
+| An Old Hero | 29.00% | ~9 |
+| Shellshock | 29.00% | ~9 |
+| The Blue Flower | 29.00% | ~9 |
+| The Green Flower | 29.00% | ~9 |
+| Living off the Land | 26.00% | ~8 |
+| Millionaire | 26.00% | ~8 |
+| Shady Business | 26.00% | ~8 |
+| The Himmelhaart far from Home | 26.00% | ~8 |
+| There She Blows! | 23.00% | ~7 |
+| Friendly Neighborhood Commander | 19.00% | ~6 |
+| The Coil Fanatic | 19.00% | ~6 |
+| Hunting the Shadow | 16.00% | ~5 |
+| Revenge! | 16.00% | ~5 |
+| The First Princess | 16.00% | ~5 |
+| The Gold Haired Harlot | 16.00% | ~5 |
+| Totally Redhanded | 16.00% | ~5 |
+| No Fear of Inflation | 13.00% | ~4 |
+| Played us like a Fiddle | 13.00% | ~4 |
+| Serving the Eagle Crown | 13.00% | ~4 |
+| Tales of Tonsborg | 13.00% | ~4 |
+| The Academy | 13.00% | ~4 |
+| The Amber Flower | 13.00% | ~4 |
+| The Big Wig | 13.00% | ~4 |
+| The Final Hunt Begins | 13.00% | ~4 |
+| The Regal Comrade | 13.00% | ~4 |
+| The Second Princess | 13.00% | ~4 |
+| The Shieldmaiden | 13.00% | ~4 |
+| The Treasure Hunter | 13.00% | ~4 |
+| A lone and Lonely Engineer | 10.00% | ~3 |
+| A Patience Admiral | 10.00% | ~3 |
+| Berserker Chief | 10.00% | ~3 |
+| Clockwork Connoisseur | 10.00% | ~3 |
+| Free Trader | 10.00% | ~3 |
+| Home Made | 10.00% | ~3 |
+| Secret Keeper | 10.00% | ~3 |
+| Small Business | 10.00% | ~3 |
+| The Bloodline of Firefort | 10.00% | ~3 |
+| The Bride | 10.00% | ~3 |
+| The Greatest Swordman | 10.00% | ~3 |
+| The Noble Sage | 10.00% | ~3 |
+| Disruption of Peace | 6.00% | ~2 |
+| Good Carpenter | 6.00% | ~2 |
+| Good Forester | 6.00% | ~2 |
+| Heart and Home | 6.00% | ~2 |
+| Honor Among Thieves | 6.00% | ~2 |
+| Learning to Trust | 6.00% | ~2 |
+| Making it Big | 6.00% | ~2 |
+| National Treasure | 6.00% | ~2 |
+| The Prince | 6.00% | ~2 |
+| The Rememberer | 6.00% | ~2 |
+| The Royalist | 6.00% | ~2 |
+| Good Butcher | 3.00% | ~1 |
+| Good Cook | 3.00% | ~1 |
+| Good Engineer | 3.00% | ~1 |
+| Good Fabricator | 3.00% | ~1 |
+| Good Farmer | 3.00% | ~1 |
+| Good Founder | 3.00% | ~1 |
+| Good Grinder | 3.00% | ~1 |
+| Good Mason | 3.00% | ~1 |
+| Good Smith | 3.00% | ~1 |
+| In the name of the People | 3.00% | ~1 |
+| Take Aiming to a New Level | 3.00% | ~1 |
+| The Animal Fanatic | 3.00% | ~1 |
+| The Tree Fanatic | 3.00% | ~1 |
+| We need Space! | 3.00% | ~1 |
 | Are We Baddies? | 0.00% | ~0 |
 | A True Logistician | 0.00% | ~0 |
 | Carnage Beyond Recognition | 0.00% | ~0 |
@@ -153,8 +153,8 @@
 | To Whom Belong The Sky | 0.00% | ~0 |
 | Trouble in Aberdonia | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27 (Ranked 843)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 31 (Ranked 866)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -165,3 +165,4 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 15 | 0 |
 | 2024-06-17 | 25 | 0 |
 | 2024-08-09 | 27 | 0 |
+| 2024-09-14 | 31 | 0 |

@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 73.00% | ~104 |
-| Remembering of the past | 55.00% | ~79 |
-| Fight like an idiot | 52.00% | ~74 |
-| Ouch, that hurt! | 42.00% | ~60 |
-| Slam-KABAM | 35.00% | ~50 |
-| Heavy Thoughts | 28.00% | ~40 |
-| Flee like an idiot | 25.00% | ~36 |
-| A heavy thinker | 22.00% | ~31 |
-| Elementary, My Dear Dusty | 20.00% | ~29 |
-| Dance like an idiot | 19.00% | ~27 |
-| I'm Back at the Surface now | 19.00% | ~27 |
-| Repair the Mind Validation Machine | 17.00% | ~24 |
-| Come full circle | 13.00% | ~19 |
-| Patient Listener | 8.00% | ~11 |
-| GOAAAAAAAAAL! | 5.00% | ~7 |
-| Whac-a-worker | 3.00% | ~4 |
-| You're a-MAZE-ing! | 0.70% | ~1 |
-| Memory Completionist | 0.70% | ~1 |
+| Black Hog Down | 71.00% | ~114 |
+| Remembering of the past | 55.00% | ~88 |
+| Fight like an idiot | 51.00% | ~82 |
+| Ouch, that hurt! | 43.00% | ~69 |
+| Slam-KABAM | 34.00% | ~54 |
+| Heavy Thoughts | 25.00% | ~40 |
+| Flee like an idiot | 23.00% | ~37 |
+| A heavy thinker | 21.00% | ~34 |
+| Elementary, My Dear Dusty | 19.00% | ~30 |
+| Dance like an idiot | 18.00% | ~29 |
+| I'm Back at the Surface now | 18.00% | ~29 |
+| Repair the Mind Validation Machine | 16.00% | ~26 |
+| Come full circle | 13.00% | ~21 |
+| Patient Listener | 9.00% | ~14 |
+| GOAAAAAAAAAL! | 4.00% | ~6 |
+| Whac-a-worker | 3.00% | ~5 |
+| You're a-MAZE-ing! | 0.60% | ~1 |
+| Memory Completionist | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143 (Ranked 633)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 160 (Ranked 640)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,6 +86,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 106 | 0 |
 | 2024-06-17 | 131 | 0 |
 | 2024-08-09 | 143 | 0 |
+| 2024-09-14 | 160 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

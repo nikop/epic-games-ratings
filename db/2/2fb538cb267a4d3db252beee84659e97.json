@@ -2,10 +2,10 @@
   "ID": "2fb538cb267a4d3db252beee84659e97",
   "Name": "AI Limit",
   "ProductSlug": "ai-limit-01fa40",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T10:57:11.2727393+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:18.8820107+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:11.3139943+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:34.8206442+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:24.6681195+00:00"
 }

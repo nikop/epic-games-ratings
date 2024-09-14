@@ -2,10 +2,10 @@
   "ID": "224b2e53d23246c2b67c3bad1ccb5eb1",
   "Name": "Spellbound Survivors",
   "ProductSlug": "spellbound-survivors-4da8c1",
-  "Ranking_EOS_Progress": 908,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-11T17:00:00+00:00",
     "PcReleaseDate": "2023-12-29T09:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -50,6 +50,11 @@
       "Time": "2024-08-20T20:13:53.0298815+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:57.2793255+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:36.5774189+00:00",
@@ -60,7 +65,7 @@
       "ID": "ADVANCED",
       "SetID": "15bl9lg",
       "Name": "Advanced",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -68,23 +73,23 @@
       "ID": "ANCIENT_SAND",
       "SetID": "15bl9lg",
       "Name": "Ancient Sand",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ARROW",
       "SetID": "15bl9lg",
       "Name": "Arrow",
-      "Percentage": 33,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ASSASSIN",
       "SetID": "15bl9lg",
       "Name": "Assassin",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -92,7 +97,7 @@
       "ID": "BERSERKER",
       "SetID": "15bl9lg",
       "Name": "Berserker",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -108,7 +113,7 @@
       "ID": "BLESSING",
       "SetID": "15bl9lg",
       "Name": "Blessing",
-      "Percentage": 73,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 11
     },
@@ -116,7 +121,7 @@
       "ID": "BOOMERANG",
       "SetID": "15bl9lg",
       "Name": "Rod",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -132,15 +137,15 @@
       "ID": "DEMISE",
       "SetID": "15bl9lg",
       "Name": "Demise",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ELITE",
       "SetID": "15bl9lg",
       "Name": "Elite",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -164,7 +169,7 @@
       "ID": "FIST",
       "SetID": "15bl9lg",
       "Name": "Fist",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -172,7 +177,7 @@
       "ID": "FORTIFY",
       "SetID": "15bl9lg",
       "Name": "Rapidfire",
-      "Percentage": 80,
+      "Percentage": 75,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -180,7 +185,7 @@
       "ID": "FROST",
       "SetID": "15bl9lg",
       "Name": "Frost",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -196,7 +201,7 @@
       "ID": "GLAMOR",
       "SetID": "15bl9lg",
       "Name": "Magnetizer",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -212,7 +217,7 @@
       "ID": "HOMING_SLASH",
       "SetID": "15bl9lg",
       "Name": "Blade Wave",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -228,15 +233,15 @@
       "ID": "INTERMEDIATE",
       "SetID": "15bl9lg",
       "Name": "Intermediate",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "JUTSU",
       "SetID": "15bl9lg",
       "Name": "Jutsu",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -252,23 +257,23 @@
       "ID": "LEGEND",
       "SetID": "15bl9lg",
       "Name": "Legend",
-      "Percentage": 27,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LIGHTNING_GLOVE",
       "SetID": "15bl9lg",
       "Name": "Lightning",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "MAGE",
       "SetID": "15bl9lg",
       "Name": "Mage",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -284,7 +289,7 @@
       "ID": "MASTER",
       "SetID": "15bl9lg",
       "Name": "Master",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -292,15 +297,15 @@
       "ID": "MASTERY",
       "SetID": "15bl9lg",
       "Name": "XP Booster",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MONK",
       "SetID": "15bl9lg",
       "Name": "Monk",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -308,7 +313,7 @@
       "ID": "MUMMY",
       "SetID": "15bl9lg",
       "Name": "Mummy",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -316,7 +321,7 @@
       "ID": "PALADIN",
       "SetID": "15bl9lg",
       "Name": "Paladin",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -324,7 +329,7 @@
       "ID": "PHANTOM",
       "SetID": "15bl9lg",
       "Name": "Shadow Knight",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -332,7 +337,7 @@
       "ID": "PIRATE",
       "SetID": "15bl9lg",
       "Name": "Pirate",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -348,7 +353,7 @@
       "ID": "PROFESSIONAL",
       "SetID": "15bl9lg",
       "Name": "Professional",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -356,7 +361,7 @@
       "ID": "REFINE",
       "SetID": "15bl9lg",
       "Name": "Elixir",
-      "Percentage": 47,
+      "Percentage": 44,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -372,15 +377,15 @@
       "ID": "SAND_STORM",
       "SetID": "15bl9lg",
       "Name": "Sand Storm",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SHAMAN",
       "SetID": "15bl9lg",
       "Name": "Shaman",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -388,7 +393,7 @@
       "ID": "SHINOBI",
       "SetID": "15bl9lg",
       "Name": "Shinobi",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -404,7 +409,7 @@
       "ID": "SPIKE_BALL",
       "SetID": "15bl9lg",
       "Name": "Spike Ball",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -412,9 +417,9 @@
       "ID": "SWIFT",
       "SetID": "15bl9lg",
       "Name": "Boots",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "TROLL",
@@ -436,15 +441,15 @@
       "ID": "UNFOLD",
       "SetID": "15bl9lg",
       "Name": "Vitalizer",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "UPRISING_TERROR",
       "SetID": "15bl9lg",
       "Name": "Uprising Terror",
-      "Percentage": 60,
+      "Percentage": 56,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -452,7 +457,7 @@
       "ID": "UPSCALE",
       "SetID": "15bl9lg",
       "Name": "Enricher",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -468,7 +473,7 @@
       "ID": "VELOCITY",
       "SetID": "15bl9lg",
       "Name": "Velocity",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -485,14 +490,14 @@
     {
       "ID": "15bl9lg",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-06-11T15:57:44.3042591+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:36.5774189+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:53.029881+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:57.2793249+00:00",
   "LastUpdate_AppInfo": "2024-09-14T02:02:44.341117+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:08.3672703+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:53.029919+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:52.5423093+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:57.2793666+00:00"
 }

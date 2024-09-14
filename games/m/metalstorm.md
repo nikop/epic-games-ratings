@@ -1,33 +1,33 @@
 # Metalstorm
 [Store](https://store.epicgames.com/en-US/p/metalstorm)  
 [View Rawdata](../../db/m/metalstorm.json)  
-Rating: 4.45 (Ranked 795)  
+Rating: 4.45 (Ranked 794)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Takedowns I | 28.00% | ~20,551 |
-| Career Wins I | 24.00% | ~17,615 |
-| Squadron Member | 23.00% | ~16,881 |
-| Making Friends | 22.00% | ~16,147 |
-| Takedowns II | 7.00% | ~5,138 |
-| Silver League | 7.00% | ~5,138 |
-| Plane Trophies I | 6.00% | ~4,404 |
-| Career Wins II | 5.00% | ~3,670 |
-| Gold League | 4.00% | ~2,936 |
-| Platinum League | 2.00% | ~1,468 |
-| Diamond League | 1.00% | ~734 |
-| Takedowns III | 0.80% | ~587 |
-| Career Wins III | 0.40% | ~294 |
-| Plane Trophies II | 0.40% | ~294 |
-| Master League | 0.40% | ~294 |
-| Grandmaster League | 0.20% | ~147 |
-| Plane Trophies III | 0.10% | ~73 |
-| Plane Trophies IV | 0.10% | ~73 |
+| Takedowns I | 29.00% | ~23,896 |
+| Career Wins I | 25.00% | ~20,600 |
+| Squadron Member | 23.00% | ~18,952 |
+| Making Friends | 22.00% | ~18,128 |
+| Takedowns II | 7.00% | ~5,768 |
+| Silver League | 7.00% | ~5,768 |
+| Plane Trophies I | 6.00% | ~4,944 |
+| Career Wins II | 5.00% | ~4,120 |
+| Gold League | 4.00% | ~3,296 |
+| Platinum League | 2.00% | ~1,648 |
+| Diamond League | 1.00% | ~824 |
+| Takedowns III | 0.90% | ~742 |
+| Career Wins III | 0.50% | ~412 |
+| Master League | 0.50% | ~412 |
+| Plane Trophies II | 0.40% | ~330 |
+| Grandmaster League | 0.20% | ~165 |
+| Plane Trophies III | 0.10% | ~82 |
+| Plane Trophies IV | 0.10% | ~82 |
 | Takedowns IV | 0.00% | ~0 |
 | Career Wins IV | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73,395 (Ranked 155)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 82,401 (Ranked 158)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -35,6 +35,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-04-10 | 29,531 | 0 |
 | 2024-06-17 | 57,608 | 0 |
 | 2024-08-09 | 73,395 | 0 |
+| 2024-09-14 | 82,401 | 0 |
 ## Awards
 Max (Great for Beginners): 361  (Ranked 297)  
 Sum: 2,053 (Ranked 255)  

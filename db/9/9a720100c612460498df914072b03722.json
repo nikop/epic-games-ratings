@@ -2,10 +2,10 @@
   "ID": "9a720100c612460498df914072b03722",
   "Name": null,
   "ProductSlug": "myth-of-empires-mod-kit",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T05:57:09.4447162+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:50.2048574+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:29.6433346+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:45.7107545+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:36.3492359+00:00"
 }

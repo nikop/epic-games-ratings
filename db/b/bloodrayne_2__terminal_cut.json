@@ -2,10 +2,10 @@
   "ID": "0c9bc4e378054051ad4433800e3c76d7",
   "Name": "BloodRayne 2: Terminal Cut",
   "ProductSlug": "bloodrayne-2-terminal-cut-a5d9d4",
-  "Ranking_EOS_Progress": 928,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 971,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2022-11-04T13:00:00+00:00",
     "PcReleaseDate": "2020-11-20T14:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -65,6 +65,11 @@
       "Time": "2024-06-17T16:16:40.5181389+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:21:46.0823572+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -74,7 +79,7 @@
       "ID": "EAchievement_Amateur_Electrician",
       "SetID": "2hpa30b",
       "Name": "Amateur Electrician",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -82,7 +87,7 @@
       "ID": "EAchievement_Armed_And_Dangerous",
       "SetID": "2hpa30b",
       "Name": "Armed and Dangerous",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -90,9 +95,9 @@
       "ID": "EAchievement_Carnage",
       "SetID": "2hpa30b",
       "Name": "CARNAGE",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Combat_Specialist",
@@ -130,7 +135,7 @@
       "ID": "EAchievement_Go_For_The_Heart",
       "SetID": "2hpa30b",
       "Name": "Go for the Heart",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -138,9 +143,9 @@
       "ID": "EAchievement_Going_Batty",
       "SetID": "2hpa30b",
       "Name": "Going Batty",
-      "Percentage": 31,
+      "Percentage": 36,
       "XP": 150,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "EAchievement_Nowhere_You_Can_Hide",
@@ -154,7 +159,7 @@
       "ID": "EAchievement_Patricide",
       "SetID": "2hpa30b",
       "Name": "Patricide",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -170,7 +175,7 @@
       "ID": "EAchievement_Tight_Rope",
       "SetID": "2hpa30b",
       "Name": "Tightrope",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "EAchievement_Zen_Garden",
       "SetID": "2hpa30b",
       "Name": "Zen Garden",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -187,7 +192,7 @@
     {
       "ID": "2hpa30b",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
@@ -195,8 +200,8 @@
   "FirstSeenRating": "2023-03-31T05:57:48.9575383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00",
   "LastChanged": "2023-03-31T05:57:48.9575384+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:52.9066862+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:46.0823565+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:57.5849218+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:23.2759302+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:52.906695+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:51.4759188+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:46.0823687+00:00"
 }

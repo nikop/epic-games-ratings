@@ -5,84 +5,84 @@ Rating: 3.75 (Ranked 1,275)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 95.00% | ~111,718 |
-| World Map | 84.00% | ~98,782 |
-| Temple of Eternals | 60.00% | ~70,559 |
-| Prestigious | 57.00% | ~67,031 |
-| Full Party | 52.00% | ~61,151 |
-| Fellowship Power | 46.00% | ~54,095 |
-| The game is on | 24.00% | ~28,224 |
-| Guild Power | 22.00% | ~25,872 |
-| Prestigious x10 | 22.00% | ~25,872 |
-| Enlightenment | 19.00% | ~22,344 |
-| Exotic Merchant | 14.00% | ~16,464 |
-| Dragon Clicker | 13.00% | ~15,288 |
-| Dragon Master | 13.00% | ~15,288 |
-| Miner Clicker | 13.00% | ~15,288 |
-| Hero inspection | 12.00% | ~14,112 |
-| Inspection | 12.00% | ~14,112 |
-| Lieutenant | 11.00% | ~12,936 |
-| Scroll Master | 11.00% | ~12,936 |
-| Milestone collector | 10.00% | ~11,760 |
-| Mysterious Rock | 10.00% | ~11,760 |
-| Natural Talent | 10.00% | ~11,760 |
-| Superior | 10.00% | ~11,760 |
-| The Unstoppable | 10.00% | ~11,760 |
-| Doing My Part | 9.00% | ~10,584 |
-| Relic Of The Past | 9.00% | ~10,584 |
-| Scientist | 9.00% | ~10,584 |
-| Challenger | 8.00% | ~9,408 |
-| Four Leaf Clover | 8.00% | ~9,408 |
-| Hunter | 8.00% | ~9,408 |
-| Mastery | 8.00% | ~9,408 |
-| Moving Up The Ladder | 8.00% | ~9,408 |
-| The power of Awakening | 8.00% | ~9,408 |
-| Daily Quest Completionist | 7.00% | ~8,232 |
-| Frostfire Liberator | 7.00% | ~8,232 |
-| Master Enchanter | 7.00% | ~8,232 |
-| The father of Dragons | 7.00% | ~8,232 |
-| Trader | 7.00% | ~8,232 |
-| Blueprint Upgrades | 6.00% | ~7,056 |
-| Crystal Mining | 6.00% | ~7,056 |
-| Dragon Slayer | 6.00% | ~7,056 |
-| Enchanting skill | 6.00% | ~7,056 |
-| Here We Go Again | 6.00% | ~7,056 |
-| How Do You Turn This On? | 6.00% | ~7,056 |
-| Sailor | 6.00% | ~7,056 |
-| Active Member | 5.00% | ~5,880 |
-| Ancient Knowledge | 5.00% | ~5,880 |
-| Engineer Mastery | 5.00% | ~5,880 |
-| Enhanced War Machines | 5.00% | ~5,880 |
-| Legendary | 5.00% | ~5,880 |
-| Lock And Load | 5.00% | ~5,880 |
-| The Alchemist | 5.00% | ~5,880 |
-| The Expeditioner | 5.00% | ~5,880 |
-| War Machines Army | 5.00% | ~5,880 |
-| Weekly Quest Completionist | 5.00% | ~5,880 |
-| Missions Dedication | 4.00% | ~4,704 |
-| Arena Challenger | 3.00% | ~3,528 |
-| Background Story | 3.00% | ~3,528 |
-| Ebony Jungle Liberator | 3.00% | ~3,528 |
-| Beast War Machines | 2.00% | ~2,352 |
-| Gear Enchanting | 2.00% | ~2,352 |
-| Mythic Power | 2.00% | ~2,352 |
-| Guardian Master | 1.00% | ~1,176 |
-| What lies behind the bush | 1.00% | ~1,176 |
-| Titan Power | 0.90% | ~1,058 |
-| Enchanting skill x5 | 0.80% | ~941 |
-| Transmute | 0.80% | ~941 |
-| Ultimate War Machines | 0.60% | ~706 |
-| Cauldron Liberator | 0.50% | ~588 |
-| Tree of Life | 0.50% | ~588 |
-| Pokerface | 0.40% | ~470 |
-| Training makes a Pro player | 0.40% | ~470 |
-| Angel Power | 0.30% | ~353 |
-| Conqueror | 0.20% | ~235 |
-| Jewel Enchanting | 0.10% | ~118 |
-| Silverwood liberator | 0.10% | ~118 |
+| Victor | 95.00% | ~112,650 |
+| World Map | 84.00% | ~99,606 |
+| Temple of Eternals | 60.00% | ~71,147 |
+| Prestigious | 56.00% | ~66,404 |
+| Full Party | 52.00% | ~61,661 |
+| Fellowship Power | 46.00% | ~54,546 |
+| The game is on | 24.00% | ~28,459 |
+| Guild Power | 22.00% | ~26,087 |
+| Prestigious x10 | 22.00% | ~26,087 |
+| Enlightenment | 19.00% | ~22,530 |
+| Exotic Merchant | 14.00% | ~16,601 |
+| Dragon Clicker | 13.00% | ~15,415 |
+| Dragon Master | 13.00% | ~15,415 |
+| Miner Clicker | 13.00% | ~15,415 |
+| Hero inspection | 12.00% | ~14,229 |
+| Inspection | 12.00% | ~14,229 |
+| Lieutenant | 11.00% | ~13,044 |
+| Scroll Master | 11.00% | ~13,044 |
+| Superior | 11.00% | ~13,044 |
+| Milestone collector | 10.00% | ~11,858 |
+| Mysterious Rock | 10.00% | ~11,858 |
+| Natural Talent | 10.00% | ~11,858 |
+| The Unstoppable | 10.00% | ~11,858 |
+| Doing My Part | 9.00% | ~10,672 |
+| Relic Of The Past | 9.00% | ~10,672 |
+| Scientist | 9.00% | ~10,672 |
+| Challenger | 8.00% | ~9,486 |
+| Four Leaf Clover | 8.00% | ~9,486 |
+| Hunter | 8.00% | ~9,486 |
+| Master Enchanter | 8.00% | ~9,486 |
+| Mastery | 8.00% | ~9,486 |
+| Moving Up The Ladder | 8.00% | ~9,486 |
+| The power of Awakening | 8.00% | ~9,486 |
+| Crystal Mining | 7.00% | ~8,301 |
+| Daily Quest Completionist | 7.00% | ~8,301 |
+| Dragon Slayer | 7.00% | ~8,301 |
+| Enchanting skill | 7.00% | ~8,301 |
+| Frostfire Liberator | 7.00% | ~8,301 |
+| Here We Go Again | 7.00% | ~8,301 |
+| The father of Dragons | 7.00% | ~8,301 |
+| Trader | 7.00% | ~8,301 |
+| Ancient Knowledge | 6.00% | ~7,115 |
+| Blueprint Upgrades | 6.00% | ~7,115 |
+| Engineer Mastery | 6.00% | ~7,115 |
+| How Do You Turn This On? | 6.00% | ~7,115 |
+| Sailor | 6.00% | ~7,115 |
+| Weekly Quest Completionist | 6.00% | ~7,115 |
+| Active Member | 5.00% | ~5,929 |
+| Enhanced War Machines | 5.00% | ~5,929 |
+| Legendary | 5.00% | ~5,929 |
+| Lock And Load | 5.00% | ~5,929 |
+| The Alchemist | 5.00% | ~5,929 |
+| The Expeditioner | 5.00% | ~5,929 |
+| War Machines Army | 5.00% | ~5,929 |
+| Arena Challenger | 4.00% | ~4,743 |
+| Missions Dedication | 4.00% | ~4,743 |
+| Background Story | 3.00% | ~3,557 |
+| Ebony Jungle Liberator | 3.00% | ~3,557 |
+| Gear Enchanting | 3.00% | ~3,557 |
+| Mythic Power | 3.00% | ~3,557 |
+| Beast War Machines | 2.00% | ~2,372 |
+| Enchanting skill x5 | 2.00% | ~2,372 |
+| Guardian Master | 2.00% | ~2,372 |
+| Titan Power | 1.00% | ~1,186 |
+| Transmute | 1.00% | ~1,186 |
+| What lies behind the bush | 1.00% | ~1,186 |
+| Cauldron Liberator | 0.80% | ~949 |
+| Ultimate War Machines | 0.80% | ~949 |
+| Tree of Life | 0.70% | ~830 |
+| Angel Power | 0.60% | ~711 |
+| Pokerface | 0.60% | ~711 |
+| Conqueror | 0.40% | ~474 |
+| Training makes a Pro player | 0.40% | ~474 |
+| Silverwood liberator | 0.20% | ~237 |
+| Jewel Enchanting | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117,598 (Ranked 123)  
-Completed: 14 (0.01%) (Ranked 532)  
+Progressed: 118,579 (Ranked 131)  
+Completed: 18 (0.02%) (Ranked 536)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -365,6 +365,7 @@ Completed: 14 (0.01%) (Ranked 532)
 | 2024-06-17 | 114,566 | 9 |
 | 2024-08-09 | 117,135 | 12 |
 | 2024-08-20 | 117,598 | 14 |
+| 2024-09-14 | 118,579 | 18 |
 ## Awards
 Max (Great for Beginners): 1,034  (Ranked 198)  
 Sum: 1,897 (Ranked 268)  

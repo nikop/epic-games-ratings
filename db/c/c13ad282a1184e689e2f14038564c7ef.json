@@ -2,10 +2,10 @@
   "ID": "c13ad282a1184e689e2f14038564c7ef",
   "Name": "Compass of the Destiny: Istanbul",
   "ProductSlug": "compass-of-the-destiny-istanbul-598642",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-15T09:00:00+00:00",
     "PcReleaseDate": "2023-09-15T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-07T22:03:24.6685454+00:00",
   "LastUpdate_AppInfo": "2024-09-10T18:57:10.7987124+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:03.6094852+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:30.685982+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:23.425121+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:43.1879365+00:00"
 }

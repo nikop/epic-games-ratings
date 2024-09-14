@@ -2,10 +2,10 @@
   "ID": "cb0899902d9c4f33b4f763b22b981043",
   "Name": "Cross Tails",
   "ProductSlug": "cross-tails-47ab3f",
-  "Ranking_EOS_Progress": 816,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 464,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 851,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-09T00:00:00+00:00",
     "PcReleaseDate": "2023-07-19T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "Tags": [],
   "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -183,41 +183,41 @@
       "ID": "24",
       "SetID": "gfnj1n",
       "Name": "Chapter 31: Rise of the Curtain",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "25",
       "SetID": "gfnj1n",
       "Name": "Final Chapter: Duraid",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "26",
       "SetID": "gfnj1n",
       "Name": "Chapter 23: Mercenary of Mutairi",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "27",
       "SetID": "gfnj1n",
       "Name": "Chapter 25: Father and Daughter",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "28",
       "SetID": "gfnj1n",
       "Name": "Chapter 28: Over the Valley",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "29",
@@ -247,9 +247,9 @@
       "ID": "31",
       "SetID": "gfnj1n",
       "Name": "Development Meister",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "32",
@@ -391,9 +391,9 @@
       "ID": "48",
       "SetID": "gfnj1n",
       "Name": "Hidiq Searcher",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "49",
@@ -454,8 +454,8 @@
   ],
   "FirstSeen": "2024-05-14T21:58:00.5414012+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:44.9814853+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:31.2501025+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:52.1662924+00:00",
   "LastUpdate_AppInfo": "2024-09-13T11:57:10.2929453+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:27.2126805+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:31.2501368+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:32.4032763+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:52.1663217+00:00"
 }

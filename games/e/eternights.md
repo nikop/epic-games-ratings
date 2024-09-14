@@ -5,34 +5,34 @@ Rating: 4.47 (Ranked 761)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New arm | 78.00% | ~1,045 |
-| Shelter Escape | 76.00% | ~1,018 |
-| The First Bond | 66.00% | ~884 |
-| Novice Scavenger | 59.00% | ~791 |
-| Master Craftsman | 44.00% | ~590 |
-| First wall | 43.00% | ~576 |
-| Piggyback Expert | 43.00% | ~576 |
-| Second wall | 34.00% | ~456 |
-| Expert Scavenger | 33.00% | ~442 |
-| Their Rock | 28.00% | ~375 |
-| Yuna's Promise | 27.00% | ~362 |
-| Stone Retriever | 27.00% | ~362 |
-| Find myself | 26.00% | ~348 |
-| Min's Promise | 19.00% | ~255 |
-| Sia's Promise | 18.00% | ~241 |
-| Truebro | 17.00% | ~228 |
-| Romantic | 14.00% | ~188 |
-| TentacleMAN | 8.00% | ~107 |
-| Yohan's Promise | 5.00% | ~67 |
-| Plushyboy | 5.00% | ~67 |
-| Flawless | 5.00% | ~67 |
-| LOVEassistant | 3.00% | ~40 |
-| True Player | 1.00% | ~13 |
-| Dreamboat | 1.00% | ~13 |
-| Bond Lord | 0.40% | ~5 |
+| New arm | 61.00% | ~5,335 |
+| Shelter Escape | 58.00% | ~5,073 |
+| The First Bond | 42.00% | ~3,673 |
+| Novice Scavenger | 35.00% | ~3,061 |
+| Master Craftsman | 23.00% | ~2,012 |
+| First wall | 22.00% | ~1,924 |
+| Piggyback Expert | 21.00% | ~1,837 |
+| Expert Scavenger | 14.00% | ~1,224 |
+| Second wall | 14.00% | ~1,224 |
+| Their Rock | 11.00% | ~962 |
+| Yuna's Promise | 10.00% | ~875 |
+| Stone Retriever | 10.00% | ~875 |
+| Find myself | 9.00% | ~787 |
+| Min's Promise | 7.00% | ~612 |
+| Truebro | 7.00% | ~612 |
+| Sia's Promise | 6.00% | ~525 |
+| Romantic | 5.00% | ~437 |
+| TentacleMAN | 3.00% | ~262 |
+| Yohan's Promise | 2.00% | ~175 |
+| Flawless | 2.00% | ~175 |
+| Plushyboy | 1.00% | ~87 |
+| LOVEassistant | 1.00% | ~87 |
+| Dreamboat | 0.40% | ~35 |
+| True Player | 0.30% | ~26 |
+| Bond Lord | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,340 (Ranked 387)  
-Completed: 6 (0.45%) (Ranked 339)  
+Progressed: 8,746 (Ranked 261)  
+Completed: 11 (0.13%) (Ranked 446)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -163,6 +163,7 @@ Completed: 6 (0.45%) (Ranked 339)
 | 2024-06-17 | 1,252 | 4 |
 | 2024-08-09 | 1,330 | 6 |
 | 2024-08-20 | 1,340 | 6 |
+| 2024-09-14 | 8,746 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

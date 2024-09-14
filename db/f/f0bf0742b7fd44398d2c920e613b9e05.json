@@ -2,10 +2,10 @@
   "ID": "f0bf0742b7fd44398d2c920e613b9e05",
   "Name": "Son and Bone",
   "ProductSlug": "sonandbone-43c00a",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-04T18:00:00+00:00",
     "PcReleaseDate": "2024-09-04T18:00:00+00:00",
@@ -37,5 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-05T03:59:50.8342887+00:00",
   "LastUpdate_AppInfo": "2024-09-07T19:57:20.3547152+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:07.4292745+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:50.0018005+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:07.4125091+00:00"
 }

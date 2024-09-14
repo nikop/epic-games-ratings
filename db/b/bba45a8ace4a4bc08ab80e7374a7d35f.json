@@ -2,10 +2,10 @@
   "ID": "bba45a8ace4a4bc08ab80e7374a7d35f",
   "Name": "Wallace and Gromit\u0027s Grand Adventures - Episode 3",
   "ProductSlug": "wallace-and-gromits-grand-adventures-episode-3-1a5510",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-11-19T12:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T23:57:03.1738435+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:44.6669503+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:38.4594776+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:22.3804094+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:42.2709844+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "639ab123836a4433ba6e5c342eeb9544",
   "Name": "Aegir Tactics",
   "ProductSlug": "aegir-tactics-d0a2d2",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T05:57:15.1589858+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:31.1906883+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:07.2857393+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:09.0995357+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:18.3562221+00:00"
 }

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play It Again Sam | 92.00% | ~556 |
-| Strong Silent Type | 92.00% | ~556 |
-| Play Me By The Hour | 71.00% | ~429 |
-| Patient Listener | 45.00% | ~272 |
-| Video Saved The Radio Star | 39.00% | ~236 |
-| Hashtag Winning | 36.00% | ~217 |
-| A Woman Scorned | 23.00% | ~139 |
-| Look Mum I'm A Detective | 20.00% | ~121 |
-| Chameleon | 17.00% | ~103 |
-| Highlander | 16.00% | ~97 |
-| You Had One Job | 13.00% | ~79 |
-| Book 'em Danny | 11.00% | ~66 |
-| Oscar Winning Performance | 11.00% | ~66 |
-| Poetent | 10.00% | ~60 |
-| Voyeur | 9.00% | ~54 |
-| Put A Ring On It | 8.00% | ~48 |
-| Heavy Rayne | 7.00% | ~42 |
-| Chicken | 6.00% | ~36 |
-| The Big Sleep | 4.00% | ~24 |
-| Bullseye | 3.00% | ~18 |
-| Show Me Some Skin | 3.00% | ~18 |
+| Strong Silent Type | 92.00% | ~573 |
+| Play It Again Sam | 91.00% | ~567 |
+| Play Me By The Hour | 70.00% | ~436 |
+| Patient Listener | 44.00% | ~274 |
+| Video Saved The Radio Star | 39.00% | ~243 |
+| Hashtag Winning | 36.00% | ~224 |
+| A Woman Scorned | 23.00% | ~143 |
+| Look Mum I'm A Detective | 20.00% | ~125 |
+| Chameleon | 17.00% | ~106 |
+| Highlander | 16.00% | ~100 |
+| You Had One Job | 13.00% | ~81 |
+| Book 'em Danny | 12.00% | ~75 |
+| Oscar Winning Performance | 11.00% | ~69 |
+| Poetent | 10.00% | ~62 |
+| Voyeur | 9.00% | ~56 |
+| Put A Ring On It | 8.00% | ~50 |
+| Heavy Rayne | 7.00% | ~44 |
+| Chicken | 6.00% | ~37 |
+| The Big Sleep | 4.00% | ~25 |
+| Bullseye | 3.00% | ~19 |
+| Show Me Some Skin | 3.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 604 (Ranked 448)  
-Completed: 4 (0.66%) (Ranked 304)  
+Progressed: 623 (Ranked 462)  
+Completed: 4 (0.64%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,6 +142,7 @@ Completed: 4 (0.66%) (Ranked 304)
 | 2024-04-10 | 417 | 3 |
 | 2024-06-17 | 546 | 3 |
 | 2024-08-09 | 604 | 4 |
+| 2024-09-14 | 623 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

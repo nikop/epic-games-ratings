@@ -2,10 +2,10 @@
   "ID": "11f11905cbd549dea36bea8380461d06",
   "Name": "Ship\u0027s Cat",
   "ProductSlug": "ships-cat-05cc6b",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-28T14:00:00+00:00",
     "PcReleaseDate": "2024-04-28T14:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-29T02:25:44.5391265+00:00",
   "LastUpdate_AppInfo": "2024-09-11T14:57:22.3386678+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:01.9315545+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:53.063099+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:57.7007944+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:57.4275737+00:00"
 }

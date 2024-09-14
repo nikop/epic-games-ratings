@@ -2,10 +2,10 @@
   "ID": "c0a02ff2b624425c8111868dec76ac7b",
   "Name": "Worldless",
   "ProductSlug": "worldless-49eae3",
-  "Ranking_EOS_Progress": 570,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 590,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 224,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -854,6 +854,11 @@
       "Time": "2024-08-09T18:03:54.975612+00:00",
       "NumProgressed": 221,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:19:24.9498093+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -866,7 +871,7 @@
       "Name": "Adaptation",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_ALL_COMBAT_SKILLS",
@@ -882,23 +887,23 @@
       "Name": "Armored",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ALL_ORBS_COLLECTED",
       "SetID": "cagp2pi",
       "Name": "Collector",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "cagp2pi",
       "Name": "Weapon Master",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ANGEL_ABSORBED",
@@ -906,15 +911,15 @@
       "Name": "Angel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_AVEN_UNLOCKED",
       "SetID": "cagp2pi",
       "Name": "Together",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_BIPOLAR_ABSORBED",
@@ -922,7 +927,7 @@
       "Name": "Duality",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_BRANCH_ALL_SLOTS",
@@ -930,7 +935,7 @@
       "Name": "All clean",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -938,15 +943,15 @@
       "Name": "Dark Paladin",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Demon",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_DETERMINATION",
@@ -968,9 +973,9 @@
       "ID": "ACH_FINISH_GAME",
       "SetID": "cagp2pi",
       "Name": "Edda and Aven",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -978,7 +983,7 @@
       "Name": "Absorption",
       "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -994,7 +999,7 @@
       "Name": "LUCA",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_PHOENIX",
@@ -1032,9 +1037,9 @@
       "ID": "ACH_UNDERSTANDINGS",
       "SetID": "cagp2pi",
       "Name": "Understandings",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_UNICORN",
@@ -1048,23 +1053,23 @@
       "ID": "ACH_YINYANG_ABSORBED",
       "SetID": "cagp2pi",
       "Name": "Yin-Yang",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 224,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:54.9756116+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:24.9498086+00:00",
   "LastUpdate_AppInfo": "2024-09-14T10:57:09.9959522+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:04.8845087+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:54.9756305+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:41.781029+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:24.9498297+00:00"
 }

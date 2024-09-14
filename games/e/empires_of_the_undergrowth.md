@@ -6,55 +6,55 @@ Number of Ratings: 212  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Home | 83.00% | ~918 |
-| Subjugation | 79.00% | ~874 |
-| The First Experiment | 74.00% | ~818 |
-| New Home - Medium | 70.00% | ~774 |
-| Subjugation - Medium | 66.00% | ~730 |
-| The First Experiment - Medium | 53.00% | ~586 |
-| New Home - Challenge | 45.00% | ~498 |
-| Quantity, not Quality | 39.00% | ~431 |
-| Subjugation - Challenge | 34.00% | ~376 |
-| Rising Tide | 27.00% | ~299 |
-| Queen of the Hill | 27.00% | ~299 |
-| New Home - Hard | 25.00% | ~276 |
-| The Harvest | 24.00% | ~265 |
-| The Second Experiment | 24.00% | ~265 |
-| First Innings | 23.00% | ~254 |
-| Separation Of Duties | 23.00% | ~254 |
-| Queen of the Hill - Medium | 23.00% | ~254 |
-| Front Line | 23.00% | ~254 |
-| Rising Tide - Medium | 22.00% | ~243 |
-| Cold Blood | 22.00% | ~243 |
-| Subjugation - Hard | 21.00% | ~232 |
-| A Bridge Too Far | 20.00% | ~221 |
-| The Second Experiment - Medium | 20.00% | ~221 |
-| Possibly the Final Experiment | 19.00% | ~210 |
-| The Final Experiment | 19.00% | ~210 |
-| The Harvest - Medium | 18.00% | ~199 |
-| Front Line - Medium | 18.00% | ~199 |
-| Rapid Growth | 17.00% | ~188 |
-| The First Experiment - Hard | 17.00% | ~188 |
-| Cold Blood - Medium | 13.00% | ~144 |
-| A Bridge Too Far - Medium | 13.00% | ~144 |
-| Possibly the Final Experiment - Medium | 13.00% | ~144 |
-| Queen of the Hill - Challenge | 11.00% | ~122 |
+| New Home | 83.00% | ~925 |
+| Subjugation | 79.00% | ~880 |
+| The First Experiment | 74.00% | ~824 |
+| New Home - Medium | 70.00% | ~780 |
+| Subjugation - Medium | 66.00% | ~735 |
+| The First Experiment - Medium | 53.00% | ~590 |
+| New Home - Challenge | 45.00% | ~501 |
+| Quantity, not Quality | 39.00% | ~434 |
+| Subjugation - Challenge | 34.00% | ~379 |
+| Queen of the Hill | 27.00% | ~301 |
+| Rising Tide | 26.00% | ~290 |
+| New Home - Hard | 25.00% | ~278 |
+| The Second Experiment | 24.00% | ~267 |
+| First Innings | 23.00% | ~256 |
+| Separation Of Duties | 23.00% | ~256 |
+| Queen of the Hill - Medium | 23.00% | ~256 |
+| The Harvest | 23.00% | ~256 |
+| Front Line | 23.00% | ~256 |
+| Rising Tide - Medium | 22.00% | ~245 |
+| Cold Blood | 22.00% | ~245 |
+| Subjugation - Hard | 21.00% | ~234 |
+| A Bridge Too Far | 20.00% | ~223 |
+| The Second Experiment - Medium | 20.00% | ~223 |
+| Possibly the Final Experiment | 19.00% | ~212 |
+| The Final Experiment | 19.00% | ~212 |
+| The Harvest - Medium | 18.00% | ~201 |
+| Front Line - Medium | 18.00% | ~201 |
+| The First Experiment - Hard | 18.00% | ~201 |
+| Rapid Growth | 17.00% | ~189 |
+| Cold Blood - Medium | 13.00% | ~145 |
+| A Bridge Too Far - Medium | 13.00% | ~145 |
+| Possibly the Final Experiment - Medium | 13.00% | ~145 |
+| Queen of the Hill - Challenge | 11.00% | ~123 |
 | Front Line - Challenge | 10.00% | ~111 |
 | The Final Experiment - Medium | 10.00% | ~111 |
 | Vanilla | 9.00% | ~100 |
 | New Home - Impossible | 9.00% | ~100 |
 | Rising Tide - Challenge | 9.00% | ~100 |
 | The Harvest - Challenge | 9.00% | ~100 |
-| Queen of the Hill - Hard | 7.00% | ~77 |
-| Rising Tide - Hard | 6.00% | ~66 |
-| The First Experiment - Impossible | 6.00% | ~66 |
-| The Second Experiment - Hard | 6.00% | ~66 |
-| Sitting Ducks | 5.00% | ~55 |
-| New Home - Extreme Challenge | 5.00% | ~55 |
-| The Harvest - Hard | 5.00% | ~55 |
-| Clever Little Ants | 4.00% | ~44 |
-| New Home - Extreme | 4.00% | ~44 |
-| Front Line - Hard | 4.00% | ~44 |
+| Queen of the Hill - Hard | 7.00% | ~78 |
+| Rising Tide - Hard | 6.00% | ~67 |
+| The First Experiment - Impossible | 6.00% | ~67 |
+| The Second Experiment - Hard | 6.00% | ~67 |
+| Sitting Ducks | 5.00% | ~56 |
+| New Home - Extreme Challenge | 5.00% | ~56 |
+| The Harvest - Hard | 5.00% | ~56 |
+| Clever Little Ants | 4.00% | ~45 |
+| New Home - Extreme | 4.00% | ~45 |
+| Front Line - Hard | 4.00% | ~45 |
 | Stand Your Ground | 3.00% | ~33 |
 | Free Willis | 3.00% | ~33 |
 | Grab The Bull By The Horns | 3.00% | ~33 |
@@ -81,13 +81,13 @@ Number of Ratings: 212  (23.09.2022)
 | Possibly the Final Experiment - Extreme | 0.60% | ~7 |
 | I Love Sashimi | 0.50% | ~6 |
 | Quick March | 0.50% | ~6 |
-| The Harvest - Impossible | 0.50% | ~6 |
-| Front Line - Extreme | 0.50% | ~6 |
 | Possibly the Final Experiment - Impossible | 0.50% | ~6 |
 | Toad-al Annihilation | 0.40% | ~4 |
 | Fool's Checkmate | 0.40% | ~4 |
 | Rising Tide - Impossible | 0.40% | ~4 |
 | Queen of the Hill - Impossible | 0.40% | ~4 |
+| The Harvest - Impossible | 0.40% | ~4 |
+| Front Line - Extreme | 0.40% | ~4 |
 | Cold Blood - Extreme | 0.40% | ~4 |
 | The Final Experiment - Extreme | 0.40% | ~4 |
 | I Can Eat 50 Eggs | 0.30% | ~3 |
@@ -140,8 +140,8 @@ Number of Ratings: 212  (23.09.2022)
 | New Year's Feast - Impossible | 0.00% | ~0 |
 | New Year's Feast - Medium | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,106 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,114 (Ranked 411)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,6 +149,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-26 | 985 | 0 |
 | 2024-08-09 | 1,100 | 0 |
 | 2024-08-20 | 1,106 | 0 |
+| 2024-09-14 | 1,114 | 0 |
 ## Awards
 Max (Great for Beginners): 96  (Ranked 472)  
 Sum: 710 (Ranked 376)  

@@ -2,10 +2,10 @@
   "ID": "eb0a6b8162c44225b5226b51f3b4a6fa",
   "Name": "Saturday Super Day",
   "ProductSlug": "saturday-super-day-494a37",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-12-31T00:00:00+00:00",
     "PcReleaseDate": "2025-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T13:13:46.9711626+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:26.8406429+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:05.3850328+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:28.5452722+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:15.5625176+00:00"
 }

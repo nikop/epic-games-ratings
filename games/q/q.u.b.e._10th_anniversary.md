@@ -5,33 +5,33 @@ Rating: 4.43 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 42.00% | ~16,823 |
-| Sector 2 | 38.00% | ~15,221 |
-| Sector 3 | 32.00% | ~12,818 |
-| Crush That Cube! | 30.00% | ~12,016 |
-| Sector 4 | 26.00% | ~10,414 |
-| Crush That Ball! | 25.00% | ~10,014 |
-| Sector 5 | 17.00% | ~6,809 |
-| Sector 6 | 14.00% | ~5,608 |
-| Feeling the Blues | 11.00% | ~4,406 |
-| Squished | 10.00% | ~4,006 |
-| Finale | 10.00% | ~4,006 |
-| Sector 7 | 10.00% | ~4,006 |
-| Did That Work? -- No! | 9.00% | ~3,605 |
-| Master Room | 6.00% | ~2,403 |
-| The Puzzle Master | 3.00% | ~1,202 |
-| Completed It. | 3.00% | ~1,202 |
-| The Collector | 2.00% | ~801 |
-| Bronze Trophy | 2.00% | ~801 |
-| Master Of The Collectables | 2.00% | ~801 |
-| Gold Trophy | 2.00% | ~801 |
-| Hopefully that's all of them! | 2.00% | ~801 |
-| Phew! | 2.00% | ~801 |
-| Silver Trophy | 2.00% | ~801 |
-| Maxed Out | 2.00% | ~801 |
+| Sector 1 | 43.00% | ~17,526 |
+| Sector 2 | 38.00% | ~15,488 |
+| Sector 3 | 32.00% | ~13,042 |
+| Crush That Cube! | 31.00% | ~12,635 |
+| Sector 4 | 26.00% | ~10,597 |
+| Crush That Ball! | 25.00% | ~10,189 |
+| Sector 5 | 17.00% | ~6,929 |
+| Sector 6 | 14.00% | ~5,706 |
+| Feeling the Blues | 11.00% | ~4,483 |
+| Squished | 10.00% | ~4,076 |
+| Finale | 10.00% | ~4,076 |
+| Sector 7 | 10.00% | ~4,076 |
+| Did That Work? -- No! | 9.00% | ~3,668 |
+| Master Room | 6.00% | ~2,445 |
+| Bronze Trophy | 3.00% | ~1,223 |
+| The Puzzle Master | 3.00% | ~1,223 |
+| Completed It. | 3.00% | ~1,223 |
+| The Collector | 2.00% | ~815 |
+| Master Of The Collectables | 2.00% | ~815 |
+| Gold Trophy | 2.00% | ~815 |
+| Hopefully that's all of them! | 2.00% | ~815 |
+| Phew! | 2.00% | ~815 |
+| Silver Trophy | 2.00% | ~815 |
+| Maxed Out | 2.00% | ~815 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,055 (Ranked 181)  
-Completed: 394 (0.98%) (Ranked 265)  
+Progressed: 40,757 (Ranked 188)  
+Completed: 408 (1.00%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,10 +143,11 @@ Completed: 394 (0.98%) (Ranked 265)
 | 2024-07-30 | 39,442 | 382 |
 | 2024-08-09 | 39,733 | 387 |
 | 2024-08-20 | 40,055 | 394 |
+| 2024-09-14 | 40,757 | 408 |
 ## Awards
-Max (Challenging Puzzles): 39  (Ranked 594)  
+Max (Challenging Puzzles): 39  (Ranked 595)  
 Sum: 39 (Ranked 653)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 39 |

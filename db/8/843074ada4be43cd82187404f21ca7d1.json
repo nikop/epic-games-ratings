@@ -2,10 +2,10 @@
   "ID": "843074ada4be43cd82187404f21ca7d1",
   "Name": "63 Days",
   "ProductSlug": "63-days-df3834",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1038,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -23,26 +23,530 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:27:55.2117016+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:27:55.2117045+00:00",
+  "TotalAchievements": 62,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_ALL_COLLECTIBLES",
+      "SetID": "7pfmlel",
+      "Name": "No stone unturned",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ALL_SIDEQUESTS",
+      "SetID": "7pfmlel",
+      "Name": "Overachiever",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_BLYSKAWICA_KILLS",
+      "SetID": "7pfmlel",
+      "Name": "Ride the lightning",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C0_FIN",
+      "SetID": "7pfmlel",
+      "Name": "Prologue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C0_FIN_NOSPOT",
+      "SetID": "7pfmlel",
+      "Name": "The Olympic Hide-and-seek Final",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1_CHALL",
+      "SetID": "7pfmlel",
+      "Name": "The Intruder",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1_COLL",
+      "SetID": "7pfmlel",
+      "Name": "Master Infiltrator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1_FIN",
+      "SetID": "7pfmlel",
+      "Name": "The Diversion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1_FIN_HARD",
+      "SetID": "7pfmlel",
+      "Name": "Kedyw\u0027s finest",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1_FREE_PRISONERS",
+      "SetID": "7pfmlel",
+      "Name": "Nightshift is Over",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1_SPAD_WONTTELL",
+      "SetID": "7pfmlel",
+      "Name": "Nostradamus",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2_CHALL",
+      "SetID": "7pfmlel",
+      "Name": "Day One Elite",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2_COLL",
+      "SetID": "7pfmlel",
+      "Name": "Warehouse Inspector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2_FIN",
+      "SetID": "7pfmlel",
+      "Name": "\u0022W\u0022 Hour",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2_FIN_HARD",
+      "SetID": "7pfmlel",
+      "Name": "Most experienced in the group",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2_FIN_SIDEQUESTS",
+      "SetID": "7pfmlel",
+      "Name": "Punctuality",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2_FREE_EVERYONE",
+      "SetID": "7pfmlel",
+      "Name": "Not on my watch",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C3_CHALL",
+      "SetID": "7pfmlel",
+      "Name": "The Liberator",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C3_COLL",
+      "SetID": "7pfmlel",
+      "Name": "Secrets of the ghetto",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C3_FIN",
+      "SetID": "7pfmlel",
+      "Name": "The Last Victory",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C3_FIN_HARD",
+      "SetID": "7pfmlel",
+      "Name": "You\u0027re a hero now",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C3_SAVE_BARRACKS",
+      "SetID": "7pfmlel",
+      "Name": "Lives Matter",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4_CHALL",
+      "SetID": "7pfmlel",
+      "Name": "Demolition Man",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4_COLL",
+      "SetID": "7pfmlel",
+      "Name": "Among the ruins",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4_FIN",
+      "SetID": "7pfmlel",
+      "Name": "The Fall",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4_FIN_HARD",
+      "SetID": "7pfmlel",
+      "Name": "Looks like we\u0027ve found our prize",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4_FREE_INSURGENTS",
+      "SetID": "7pfmlel",
+      "Name": "Lives Worth Saving",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4_NOBURNING",
+      "SetID": "7pfmlel",
+      "Name": "Sentenced to burn",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C5_CHALL",
+      "SetID": "7pfmlel",
+      "Name": "Signaling Expert",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C5_COLL",
+      "SetID": "7pfmlel",
+      "Name": "River of mystery",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C5_FIN",
+      "SetID": "7pfmlel",
+      "Name": "The Agony",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C5_FIND_WATER_CANTEENS",
+      "SetID": "7pfmlel",
+      "Name": "To give water to the thirsty",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C5_FIN_HARD",
+      "SetID": "7pfmlel",
+      "Name": "Let them come",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C6_CHALL",
+      "SetID": "7pfmlel",
+      "Name": "This storm is a blessing",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C6_COLL",
+      "SetID": "7pfmlel",
+      "Name": "Contraband Collector",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C6_FIN",
+      "SetID": "7pfmlel",
+      "Name": "Epilogue",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C6_FIN_HARD",
+      "SetID": "7pfmlel",
+      "Name": "The Ultimate Saviour",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C6_PRISONERS_ESCAPE",
+      "SetID": "7pfmlel",
+      "Name": "The Helping Hand",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COOP_FIN_NONTUTMAP",
+      "SetID": "7pfmlel",
+      "Name": "Internet high five",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_COOP_PLAY",
+      "SetID": "7pfmlel",
+      "Name": "Brothers in arms",
+      "Percentage": 17,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_DESTROY_VEHICLES",
+      "SetID": "7pfmlel",
+      "Name": "This is not San Andreas, mate!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FIN_ALL_ONHARD",
+      "SetID": "7pfmlel",
+      "Name": "Indomitable",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HELGA_DECOY",
+      "SetID": "7pfmlel",
+      "Name": "Wait, she\u0027s not d-",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HELGA_HEAL",
+      "SetID": "7pfmlel",
+      "Name": "Sister of Mercy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HENRYK_BAT",
+      "SetID": "7pfmlel",
+      "Name": "You\u0027re out!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_HIDE_BODIES",
+      "SetID": "7pfmlel",
+      "Name": "Weird funeral",
+      "Percentage": 17,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_KILL_ACCIDENT",
+      "SetID": "7pfmlel",
+      "Name": "It wasn\u0027t me!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_DURING_AIRSTRIKE",
+      "SetID": "7pfmlel",
+      "Name": "Loud silence",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_ENEMY_100",
+      "SetID": "7pfmlel",
+      "Name": "Necessary evil",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_ENEMY_200",
+      "SetID": "7pfmlel",
+      "Name": "Getting the hang of it",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_ENEMY_500",
+      "SetID": "7pfmlel",
+      "Name": "It\u0027s just a number",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_OFFICERS",
+      "SetID": "7pfmlel",
+      "Name": "Dishonorable discharge",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_PUSHING",
+      "SetID": "7pfmlel",
+      "Name": "People can\u0027t fly",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_SNIPERS",
+      "SetID": "7pfmlel",
+      "Name": "Outside the scope",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_WITH_SNIPER_RIFLE",
+      "SetID": "7pfmlel",
+      "Name": "Death from afar",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_KILL_YT_THROW_KNIFE",
+      "SetID": "7pfmlel",
+      "Name": "Impalement art",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_LYNX_STRANGLE",
+      "SetID": "7pfmlel",
+      "Name": "Suffocation",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ONE_CHALLENGE",
+      "SetID": "7pfmlel",
+      "Name": "I did... a thing!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ONE_COLLECTIBLE",
+      "SetID": "7pfmlel",
+      "Name": "That\u0027s interesting...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_ONE_GRENADE",
+      "SetID": "7pfmlel",
+      "Name": "Jigsaw puzzle",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TEN_COLLECTIBLES",
+      "SetID": "7pfmlel",
+      "Name": "This one is my favourite",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WATCH_CREDITS",
+      "SetID": "7pfmlel",
+      "Name": "Meet the team",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "7pfmlel",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:36.0451462+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:51.6378238+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:55.2117009+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:09.4108958+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:46.5825372+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:51.637827+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:40.2740442+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:55.2124668+00:00"
 }

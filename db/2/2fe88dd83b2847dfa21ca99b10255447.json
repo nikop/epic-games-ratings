@@ -2,10 +2,10 @@
   "ID": "2fe88dd83b2847dfa21ca99b10255447",
   "Name": "legend battles",
   "ProductSlug": "legend-battles-b1cd7f",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-30T00:00:00+00:00",
     "PcReleaseDate": "2024-07-30T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T20:57:17.513933+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:00.7952034+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:09.7680205+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:19.0688507+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:23.465382+00:00"
 }

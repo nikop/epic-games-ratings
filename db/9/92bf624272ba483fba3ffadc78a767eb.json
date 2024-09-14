@@ -2,10 +2,10 @@
   "ID": "92bf624272ba483fba3ffadc78a767eb",
   "Name": "LOEK",
   "ProductSlug": "loek-9e15b3",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1053,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-20T00:00:00+00:00",
     "PcReleaseDate": "2020-02-10T00:00:00+00:00",
@@ -25,17 +25,323 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-09-14T14:15:11.9645204+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-09-14T14:15:11.964525+00:00",
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Level1",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 1",
+      "Percentage": 40,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "Level2",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 2",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Level3",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 3",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Level4",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 4",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level5",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 5",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Level6",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 6",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "Level7",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 7",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level8",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 8",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Level9",
+      "SetID": "5gacn94",
+      "Name": "Completed Level 9",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ballsplit",
+      "SetID": "5gacn94",
+      "Name": "Ballsplit",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "basket",
+      "SetID": "5gacn94",
+      "Name": "Basketball 2000",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "bronzemaster",
+      "SetID": "5gacn94",
+      "Name": "Bronze Medal",
+      "Percentage": 20,
+      "XP": 15,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "bulletcow",
+      "SetID": "5gacn94",
+      "Name": "Bulletcow!",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "clean",
+      "SetID": "5gacn94",
+      "Name": "Cleaner",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cowpopper",
+      "SetID": "5gacn94",
+      "Name": "Cow Popper",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "defrag",
+      "SetID": "5gacn94",
+      "Name": "Bloxcraft",
+      "Percentage": 20,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "epilepsy",
+      "SetID": "5gacn94",
+      "Name": "Epilepsy test",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "flickshot",
+      "SetID": "5gacn94",
+      "Name": "Flickshot",
+      "Percentage": 40,
+      "XP": 20,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "goldendoor",
+      "SetID": "5gacn94",
+      "Name": "Golden door",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "goldmaster",
+      "SetID": "5gacn94",
+      "Name": "Gold Medal",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "helicopter",
+      "SetID": "5gacn94",
+      "Name": "Pink helicopter",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "loekdoor",
+      "SetID": "5gacn94",
+      "Name": "LOEK Door",
+      "Percentage": 20,
+      "XP": 5,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "minicows",
+      "SetID": "5gacn94",
+      "Name": "Hidden cows",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "nophotos",
+      "SetID": "5gacn94",
+      "Name": "No photos",
+      "Percentage": 20,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "rehab",
+      "SetID": "5gacn94",
+      "Name": "Weeb Rehab",
+      "Percentage": 40,
+      "XP": 50,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "rocketmaster",
+      "SetID": "5gacn94",
+      "Name": "Rocket Master",
+      "Percentage": 20,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "sausage",
+      "SetID": "5gacn94",
+      "Name": "Sausage killer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "secret_cow",
+      "SetID": "5gacn94",
+      "Name": "Extreme Cownado",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "secret_puzzel",
+      "SetID": "5gacn94",
+      "Name": "Kawaiiiii ^_^",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "silvermaster",
+      "SetID": "5gacn94",
+      "Name": "Silver Medal",
+      "Percentage": 20,
+      "XP": 25,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "stefan",
+      "SetID": "5gacn94",
+      "Name": "Stefan",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "toogood",
+      "SetID": "5gacn94",
+      "Name": "Too Good",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ufo",
+      "SetID": "5gacn94",
+      "Name": "UFO",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "vacuum",
+      "SetID": "5gacn94",
+      "Name": "Vacuum",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "weeb",
+      "SetID": "5gacn94",
+      "Name": "Weeb",
+      "Percentage": 40,
+      "XP": 25,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "weebwacker",
+      "SetID": "5gacn94",
+      "Name": "Weebwacker",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "5gacn94",
+      "IsBase": true,
+      "Progressed": 5,
+      "Completed": 0
+    }
+  ],
   "FirstSeen": "2024-08-28T05:59:34.9656715+00:00",
+  "FirstSeenAchievements": "2024-09-14T14:15:11.9645249+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:11.9645195+00:00",
   "LastUpdate_AppInfo": "2024-09-13T10:57:02.22783+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:49.1974621+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:44.0829855+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:11.9654121+00:00"
 }

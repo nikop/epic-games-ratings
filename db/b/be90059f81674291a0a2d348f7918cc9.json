@@ -2,10 +2,10 @@
   "ID": "be90059f81674291a0a2d348f7918cc9",
   "Name": "Revenge Of The Colon",
   "ProductSlug": "revenge-of-the-colon-c1379c",
-  "Ranking_EOS_Progress": 908,
-  "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 952,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-02T16:00:00+00:00",
     "PcReleaseDate": "2023-12-22T17:00:00+00:00",
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.67,
+  "EOS_Completed_Percentage": 6.25,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:15.8338553+00:00",
@@ -45,6 +45,11 @@
       "Time": "2024-08-20T20:13:10.6525536+00:00",
       "NumProgressed": 15,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:27:23.9771414+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:15.8338625+00:00",
@@ -55,7 +60,7 @@
       "ID": "ACH_BAD_ENDING",
       "SetID": "69laji",
       "Name": "Quietly Asked To Leave",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -71,7 +76,7 @@
       "ID": "ACH_MASTER",
       "SetID": "69laji",
       "Name": "Colon Master",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "ACH_OOPS",
       "SetID": "69laji",
       "Name": "Oops!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 1
     },
@@ -87,7 +92,7 @@
       "ID": "ACH_SCANNERS",
       "SetID": "69laji",
       "Name": "Need To Know",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 200,
       "UsersEstimate": 1
     }
@@ -96,14 +101,14 @@
     {
       "ID": "69laji",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-08-04T17:58:48.1164881+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:15.8338625+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:10.652553+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:23.9771412+00:00",
   "LastUpdate_AppInfo": "2024-09-08T22:57:09.233766+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:31.4868806+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:10.6525593+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:35.566628+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:23.9771455+00:00"
 }

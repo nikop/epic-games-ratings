@@ -2,10 +2,10 @@
   "ID": "7d28991e79624f36a87d7da5adda5e73",
   "Name": "Unsung Empires The Cholas I - Prologue",
   "ProductSlug": "unsung-empires-the-cholas-09fb06",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-03-17T22:58:23.137+00:00",
     "PcReleaseDate": "2024-01-14T18:30:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-20T16:57:50.6269833+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:56:59.2642375+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:08.6017625+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:14:01.3965738+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:18.498251+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:28:08.8488787+00:00"
 }

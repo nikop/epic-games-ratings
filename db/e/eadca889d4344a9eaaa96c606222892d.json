@@ -2,10 +2,10 @@
   "ID": "eadca889d4344a9eaaa96c606222892d",
   "Name": "The Gravity Trickster",
   "ProductSlug": "the-gravity-trickster-fb8524",
-  "Ranking_EOS_Progress": 1099,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1091,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-19T07:00:00+00:00",
     "PcReleaseDate": "2024-07-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -31,6 +31,11 @@
     {
       "Time": "2024-07-25T19:05:25.5999078+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:26:19.8411308+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -210,7 +215,7 @@
       "ID": "29",
       "SetID": "ce3jh2a",
       "Name": "You\u0027re Not Thinking Third Dimensionally!",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -291,13 +296,13 @@
     {
       "ID": "ce3jh2a",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:17:53.3469357+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:18.3480386+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:19.8411301+00:00",
   "LastUpdate_AppInfo": "2024-09-14T10:57:09.4454879+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:24.4335208+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:18.3480572+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:42.5909926+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:19.8411533+00:00"
 }

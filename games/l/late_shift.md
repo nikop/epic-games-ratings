@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~2,791 |
-| Fair Share | 67.00% | ~1,968 |
-| Even Tempered | 53.00% | ~1,557 |
-| Star-Crossed Lovers | 48.00% | ~1,410 |
-| The Delivery | 46.00% | ~1,351 |
-| Shill Bidder | 40.00% | ~1,175 |
-| The Frenzy | 33.00% | ~970 |
-| Good Karma | 27.00% | ~793 |
-| Protector | 26.00% | ~764 |
-| Office Clerk | 25.00% | ~734 |
-| The Bribe | 22.00% | ~646 |
-| Interrogation | 15.00% | ~441 |
-| The Ploy | 14.00% | ~411 |
-| Sabotage | 10.00% | ~294 |
-| Choices Matter | 6.00% | ~176 |
-| The Fool | 6.00% | ~176 |
-| The Lion's Den | 4.00% | ~118 |
-| Proficient Storyteller | 3.00% | ~88 |
-| The Coward | 2.00% | ~59 |
+| Cause and Effect | 95.00% | ~2,840 |
+| Fair Share | 67.00% | ~2,003 |
+| Even Tempered | 53.00% | ~1,584 |
+| Star-Crossed Lovers | 48.00% | ~1,435 |
+| The Delivery | 46.00% | ~1,375 |
+| Shill Bidder | 41.00% | ~1,225 |
+| The Frenzy | 33.00% | ~986 |
+| Good Karma | 27.00% | ~807 |
+| Protector | 27.00% | ~807 |
+| Office Clerk | 26.00% | ~777 |
+| The Bribe | 22.00% | ~658 |
+| Interrogation | 15.00% | ~448 |
+| The Ploy | 14.00% | ~418 |
+| Sabotage | 10.00% | ~299 |
+| Choices Matter | 6.00% | ~179 |
+| The Fool | 6.00% | ~179 |
+| The Lion's Den | 4.00% | ~120 |
+| Proficient Storyteller | 3.00% | ~90 |
+| The Coward | 2.00% | ~60 |
 | Expert Storyteller | 0.60% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,938 (Ranked 324)  
-Completed: 18 (0.61%) (Ranked 310)  
+Progressed: 2,989 (Ranked 333)  
+Completed: 18 (0.60%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,6 +231,7 @@ Completed: 18 (0.61%) (Ranked 310)
 | 2024-06-17 | 2,646 | 17 |
 | 2024-08-09 | 2,905 | 18 |
 | 2024-08-20 | 2,938 | 18 |
+| 2024-09-14 | 2,989 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

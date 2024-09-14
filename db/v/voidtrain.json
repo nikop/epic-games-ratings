@@ -5,10 +5,10 @@
   "Ranking_Rating": 699,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 453,
-  "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 514,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Completed": 559,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2021-08-12T17:00:00+00:00",
     "PcReleaseDate": "2021-08-12T17:00:00+00:00",
@@ -1766,11 +1766,11 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 17347,
+  "EOS_Progressed": 20627,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1546,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.02,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:12:28.8597998+00:00",
@@ -1791,6 +1791,11 @@
       "Time": "2024-08-20T20:10:51.6672107+00:00",
       "NumProgressed": 17347,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:24:06.6994067+00:00",
+      "NumProgressed": 20627,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-06-17T16:12:28.8598012+00:00",
@@ -1803,15 +1808,15 @@
       "Name": "Shock Therapy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 347
+      "UsersEstimate": 413
     },
     {
       "ID": "AchievementBuildFirstPlatform",
       "SetID": "bkjhj07",
       "Name": "We need more platforms",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 7633
+      "UsersEstimate": 9282
     },
     {
       "ID": "AchievementBuildMaxWagonPlatforms",
@@ -1819,15 +1824,15 @@
       "Name": "An engineer, truly an engineer!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 694
+      "UsersEstimate": 825
     },
     {
       "ID": "AchievementBuildThreeGarden",
       "SetID": "bkjhj07",
       "Name": "It ain\u0027t much, but it\u0027s honest work",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3643
+      "UsersEstimate": 4125
     },
     {
       "ID": "AchievementBuildThreeWaterCondenser",
@@ -1835,7 +1840,7 @@
       "Name": "Aquarius",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 5157
     },
     {
       "ID": "AchievementBurningFrozenEnemy",
@@ -1843,7 +1848,7 @@
       "Name": "Mpemba Effect",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 83
     },
     {
       "ID": "AchievementBurstKillMines",
@@ -1851,7 +1856,7 @@
       "Name": "Fury Road",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 694
+      "UsersEstimate": 825
     },
     {
       "ID": "AchievementBurstThreeMinutes",
@@ -1859,7 +1864,7 @@
       "Name": "When this baby hits 88...",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 206
     },
     {
       "ID": "AchievementBuyDiscountOnly",
@@ -1867,7 +1872,7 @@
       "Name": "Bargain Hunter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1444
     },
     {
       "ID": "AchievementBuyTenItems",
@@ -1875,15 +1880,15 @@
       "Name": "Stonks!",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 2269
     },
     {
       "ID": "AchievementCatchThreeVoidItems",
       "SetID": "bkjhj07",
       "Name": "Get Over Here!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3296
+      "UsersEstimate": 4125
     },
     {
       "ID": "AchievementCleanFiveMudSources",
@@ -1891,15 +1896,15 @@
       "Name": "Squeaky Clean",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1908
+      "UsersEstimate": 2269
     },
     {
       "ID": "AchievementClearOutpost",
       "SetID": "bkjhj07",
       "Name": "Big Cleanup",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 8327
+      "UsersEstimate": 10314
     },
     {
       "ID": "AchievementCompleteArena",
@@ -1907,7 +1912,7 @@
       "Name": "Easy-peasy",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1444
     },
     {
       "ID": "AchievementCompleteArenaHard",
@@ -1915,7 +1920,7 @@
       "Name": "On the brink",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1238
     },
     {
       "ID": "AchievementDeathByStone",
@@ -1923,39 +1928,39 @@
       "Name": "Death from above... no below... no wait...",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 144
     },
     {
       "ID": "AchievementDestroyEnemyEngineFast",
       "SetID": "bkjhj07",
       "Name": "Mad Engineer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1650
     },
     {
       "ID": "AchievementDestroySoldierHelms",
       "SetID": "bkjhj07",
       "Name": "Headache",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 2776
+      "UsersEstimate": 3507
     },
     {
       "ID": "AchievementEquipAnyGun",
       "SetID": "bkjhj07",
       "Name": "Now we\u0027re talking",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7459
+      "UsersEstimate": 9076
     },
     {
       "ID": "AchievementEquipBackpack",
       "SetID": "bkjhj07",
       "Name": "The more space, the merrier!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7459
+      "UsersEstimate": 9076
     },
     {
       "ID": "AchievementEquipFullLegendGun",
@@ -1963,7 +1968,7 @@
       "Name": "Our battle will be legendary!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 173
+      "UsersEstimate": 206
     },
     {
       "ID": "AchievementEquipMop",
@@ -1971,23 +1976,23 @@
       "Name": "Train Flipper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2602
+      "UsersEstimate": 3094
     },
     {
       "ID": "AchievementFirstEnterVoid",
       "SetID": "bkjhj07",
       "Name": "Mom, Dad! I can Fly!",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 11622
+      "UsersEstimate": 14233
     },
     {
       "ID": "AchievementFirstTechLearned",
       "SetID": "bkjhj07",
       "Name": "Unlocked Display Name2",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 11622
+      "UsersEstimate": 14026
     },
     {
       "ID": "AchievementFoodForWitches",
@@ -1995,7 +2000,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 62
     },
     {
       "ID": "AchievementGetFirstRofleemo",
@@ -2003,31 +2008,31 @@
       "Name": "(\u25D5\u203F\u25D5)",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6245
+      "UsersEstimate": 7426
     },
     {
       "ID": "AchievementGetFiveRofleemo",
       "SetID": "bkjhj07",
       "Name": "Dream team",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2429
+      "UsersEstimate": 3094
     },
     {
       "ID": "AchievementGetStuffFromDepot",
       "SetID": "bkjhj07",
       "Name": "Cleaned Out",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1735
+      "UsersEstimate": 2269
     },
     {
       "ID": "AchievementHookVoidItemsStrong",
       "SetID": "bkjhj07",
       "Name": "Hauler",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3469
+      "UsersEstimate": 4332
     },
     {
       "ID": "AchievementKillArenaBugs",
@@ -2035,31 +2040,31 @@
       "Name": "The Only Good Bug is a Dead Bug!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2475
     },
     {
       "ID": "AchievementKillEnemyOneMag",
       "SetID": "bkjhj07",
       "Name": "Spray and Pray",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 8674
+      "UsersEstimate": 10520
     },
     {
       "ID": "AchievementKillEnemyWithGas",
       "SetID": "bkjhj07",
       "Name": "Explosive!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 3816
+      "UsersEstimate": 4744
     },
     {
       "ID": "AchievementKillFirstSoldier",
       "SetID": "bkjhj07",
       "Name": "Hey, I didn\u0027t mean to!",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 10235
+      "UsersEstimate": 12582
     },
     {
       "ID": "AchievementKillFlyingBomber",
@@ -2067,7 +2072,7 @@
       "Name": "BOOM!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1650
     },
     {
       "ID": "AchievementKillFullEvolvedShark",
@@ -2075,23 +2080,23 @@
       "Name": "What the hell are you?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 173
+      "UsersEstimate": 206
     },
     {
       "ID": "AchievementKillLeechGrow",
       "SetID": "bkjhj07",
       "Name": "Don\u0027t stop me now",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6939
+      "UsersEstimate": 8663
     },
     {
       "ID": "AchievementKillSharkWithMutation",
       "SetID": "bkjhj07",
       "Name": "Bruce, this is wrong game!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 5157
     },
     {
       "ID": "AchievementKillTankMeleeHit",
@@ -2099,39 +2104,39 @@
       "Name": "Demoted!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 413
     },
     {
       "ID": "AchievementOnePathNoBreak",
       "SetID": "bkjhj07",
       "Name": "Full Ahead!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1650
     },
     {
       "ID": "AchievementOnePathNoSlow",
       "SetID": "bkjhj07",
       "Name": "Very Useful Engine",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 186
     },
     {
       "ID": "AchievementOpenAnyCasket",
       "SetID": "bkjhj07",
       "Name": "Is this for me?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3990
+      "UsersEstimate": 4950
     },
     {
       "ID": "AchievementPlayAllMusicTools",
       "SetID": "bkjhj07",
       "Name": "One-Man Band",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 347
+      "UsersEstimate": 619
     },
     {
       "ID": "AchievementPlayMusicWithBand",
@@ -2139,23 +2144,23 @@
       "Name": "Rofl-band",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 825
     },
     {
       "ID": "AchievementRamPathBlocker",
       "SetID": "bkjhj07",
       "Name": "It seems like this is our stop",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 619
     },
     {
       "ID": "AchievementSmeltIronIngots",
       "SetID": "bkjhj07",
       "Name": "I enjoy melting things, is that a problem?",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 9194
+      "UsersEstimate": 11345
     },
     {
       "ID": "AchievementSoccerGoal",
@@ -2163,23 +2168,23 @@
       "Name": "Voidcup",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3713
     },
     {
       "ID": "AchievementSolvePuzzle",
       "SetID": "bkjhj07",
       "Name": "Hah! Is this supposed to be a puzzle?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 5157
     },
     {
       "ID": "AchievementSpendSlotCoins",
       "SetID": "bkjhj07",
       "Name": "The game was rigged from the start",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3469
+      "UsersEstimate": 4332
     },
     {
       "ID": "AchievementStartPathFullProphecy",
@@ -2187,23 +2192,23 @@
       "Name": "Altered Void",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 520
+      "UsersEstimate": 619
     },
     {
       "ID": "AchievementTakeMushroom",
       "SetID": "bkjhj07",
       "Name": "Is this edible!?",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4337
+      "UsersEstimate": 5363
     },
     {
       "ID": "AchievementThreeSoldierHelmsFast",
       "SetID": "bkjhj07",
       "Name": "Hat Trick",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 520
+      "UsersEstimate": 825
     },
     {
       "ID": "AchievementUseAltFire",
@@ -2211,7 +2216,7 @@
       "Name": "A Kind of Magic",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1650
     },
     {
       "ID": "AchievementUseArenaBird",
@@ -2219,15 +2224,15 @@
       "Name": "Did you wash your hands?",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 3816
+      "UsersEstimate": 4538
     },
     {
       "ID": "AchievementUseLootCatcher",
       "SetID": "bkjhj07",
       "Name": "Work up a sweat",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 8674
+      "UsersEstimate": 10520
     },
     {
       "ID": "AchievementWinchUse",
@@ -2235,22 +2240,22 @@
       "Name": "Winch-slinging time!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4857
+      "UsersEstimate": 5776
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkjhj07",
       "IsBase": true,
-      "Progressed": 17347,
+      "Progressed": 20627,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:56.8390151+00:00",
   "LastChanged": "2024-09-11T02:04:25.7483394+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:51.6672102+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:24:06.6994061+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:05.018395+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:56.7090943+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:51.6672498+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:44.0970711+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:06.6994414+00:00"
 }

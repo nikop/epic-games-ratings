@@ -1,64 +1,64 @@
 # Eiyuden Chronicle: Rising
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-rising)  
 [View Rawdata](../../db/e/eiyuden_chronicle__rising.json)  
-Rating: 4.48 (Ranked 739)  
+Rating: 4.48 (Ranked 740)  
 Number of Ratings: 48  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Plenty More to Go | 85.00% | ~768 |
-| All Bark, No Bite | 73.00% | ~660 |
-| Hopeful Hunter | 64.00% | ~579 |
-| Amateur Adventurer | 62.00% | ~560 |
-| The Road to Recovery | 61.00% | ~551 |
-| Partners? | 59.00% | ~533 |
-| Magical Mineral Golem | 53.00% | ~479 |
-| On Outlander Lane | 52.00% | ~470 |
-| First Time Fishing | 50.00% | ~452 |
-| A Girl About the Town | 49.00% | ~443 |
-| First Time Hunting | 48.00% | ~434 |
-| Rune Wall Wreckage | 47.00% | ~425 |
-| ...And Your Tax Money | 45.00% | ~407 |
-| The Lords of the Snowpeak | 39.00% | ~353 |
-| The Go-To Girl | 36.00% | ~325 |
-| Scavenger's Honor | 36.00% | ~325 |
-| Natural Born Monster-Killer | 36.00% | ~325 |
-| The Lava Mantor Wyrm | 35.00% | ~316 |
-| One Mean Merc | 35.00% | ~316 |
-| Money, Money, Money | 35.00% | ~316 |
-| The Great Forest...On Foot! | 35.00% | ~316 |
-| Adept, for an Acting Mayor | 34.00% | ~307 |
-| Rune Wall Master | 33.00% | ~298 |
-| The Quarry...On Foot! | 30.00% | ~271 |
-| The Runebarrows...On Foot! | 29.00% | ~262 |
-| The Snowpeak...On Foot! | 27.00% | ~244 |
-| The Lava Ruins...On Foot! | 27.00% | ~244 |
-| Meat Master | 26.00% | ~235 |
-| Fishing Master | 25.00% | ~226 |
-| The Pride of the Town | 23.00% | ~208 |
-| Armor Master | 23.00% | ~208 |
-| This Treasure I've Found | 21.00% | ~190 |
-| New Nevaeh's Number One Customer | 19.00% | ~172 |
-| Arms Master | 18.00% | ~163 |
+| Plenty More to Go | 85.00% | ~772 |
+| All Bark, No Bite | 73.00% | ~663 |
+| Hopeful Hunter | 64.00% | ~581 |
+| Amateur Adventurer | 61.00% | ~554 |
+| The Road to Recovery | 60.00% | ~545 |
+| Partners? | 59.00% | ~536 |
+| Magical Mineral Golem | 53.00% | ~481 |
+| On Outlander Lane | 52.00% | ~472 |
+| A Girl About the Town | 49.00% | ~445 |
+| First Time Fishing | 49.00% | ~445 |
+| First Time Hunting | 47.00% | ~427 |
+| Rune Wall Wreckage | 47.00% | ~427 |
+| ...And Your Tax Money | 45.00% | ~409 |
+| The Lords of the Snowpeak | 39.00% | ~354 |
+| Natural Born Monster-Killer | 36.00% | ~327 |
+| The Lava Mantor Wyrm | 35.00% | ~318 |
+| The Go-To Girl | 35.00% | ~318 |
+| Scavenger's Honor | 35.00% | ~318 |
+| One Mean Merc | 35.00% | ~318 |
+| Money, Money, Money | 35.00% | ~318 |
+| The Great Forest...On Foot! | 35.00% | ~318 |
+| Adept, for an Acting Mayor | 34.00% | ~309 |
+| Rune Wall Master | 33.00% | ~300 |
+| The Quarry...On Foot! | 30.00% | ~272 |
+| The Runebarrows...On Foot! | 29.00% | ~263 |
+| The Snowpeak...On Foot! | 27.00% | ~245 |
+| The Lava Ruins...On Foot! | 27.00% | ~245 |
+| Meat Master | 26.00% | ~236 |
+| Fishing Master | 25.00% | ~227 |
+| The Pride of the Town | 23.00% | ~209 |
+| Armor Master | 23.00% | ~209 |
+| This Treasure I've Found | 21.00% | ~191 |
+| Arms Master | 19.00% | ~173 |
+| New Nevaeh's Number One Customer | 19.00% | ~173 |
 | Rune Scholar | 16.00% | ~145 |
 | No Treasure Left Behind | 13.00% | ~118 |
-| Sommelier | 12.00% | ~108 |
-| Champion of the Great Forest | 12.00% | ~108 |
-| One-Hundred Resident Record | 11.00% | ~99 |
-| A Local Hero | 11.00% | ~99 |
-| Gourmand | 10.00% | ~90 |
-| Accessorizer | 10.00% | ~90 |
-| Champion of the Quarry | 10.00% | ~90 |
-| Champion of the Lava Ruins | 10.00% | ~90 |
-| No One Better | 9.00% | ~81 |
-| Full Force - CJ | 9.00% | ~81 |
-| Champion of the Snowpeak | 9.00% | ~81 |
-| Full Force - Garoo | 8.00% | ~72 |
-| Full Force - Isha | 8.00% | ~72 |
-| Rising Champion | 7.00% | ~63 |
+| Sommelier | 12.00% | ~109 |
+| Champion of the Great Forest | 12.00% | ~109 |
+| One-Hundred Resident Record | 11.00% | ~100 |
+| A Local Hero | 11.00% | ~100 |
+| Gourmand | 10.00% | ~91 |
+| Accessorizer | 10.00% | ~91 |
+| Champion of the Quarry | 10.00% | ~91 |
+| Champion of the Lava Ruins | 10.00% | ~91 |
+| No One Better | 9.00% | ~82 |
+| Full Force - CJ | 9.00% | ~82 |
+| Champion of the Snowpeak | 9.00% | ~82 |
+| Full Force - Garoo | 8.00% | ~73 |
+| Full Force - Isha | 8.00% | ~73 |
+| Rising Champion | 7.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 904 (Ranked 416)  
-Completed: 74 (8.19%) (Ranked 86)  
+Progressed: 908 (Ranked 431)  
+Completed: 74 (8.15%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -144,6 +144,7 @@ Completed: 74 (8.19%) (Ranked 86)
 | 2024-04-10 | 844 | 63 |
 | 2024-06-17 | 892 | 70 |
 | 2024-08-09 | 904 | 74 |
+| 2024-09-14 | 908 | 74 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

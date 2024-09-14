@@ -2,10 +2,10 @@
   "ID": "4f5cc3b8a27e440b8dd861df167148c5",
   "Name": "Only Wish",
   "ProductSlug": "only-wish-61fbb3",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-11-29T23:00:00+00:00",
     "PcReleaseDate": "2023-11-29T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T11:57:37.4006147+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:17.5207723+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:06:09.417672+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:43.2230247+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:31.7079969+00:00"
 }

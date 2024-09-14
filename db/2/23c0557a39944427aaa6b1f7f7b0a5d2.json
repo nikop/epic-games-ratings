@@ -2,10 +2,10 @@
   "ID": "23c0557a39944427aaa6b1f7f7b0a5d2",
   "Name": "Wizard Cats",
   "ProductSlug": "wizard-cats-851dbe",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-12T02:04:08.3129387+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:25.1876831+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:26.6804478+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:05.7746327+00:00"
 }

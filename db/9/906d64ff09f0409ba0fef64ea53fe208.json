@@ -2,10 +2,10 @@
   "ID": "906d64ff09f0409ba0fef64ea53fe208",
   "Name": "Monke island: Rise Of The Beast",
   "ProductSlug": "monke-island-rise-of-the-beast-d38250",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-01-15T07:00:00+00:00",
     "PcReleaseDate": "2024-01-15T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-16T13:04:24.9900876+00:00",
   "LastUpdate_AppInfo": "2024-09-14T09:57:04.6248059+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:57.4553655+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:32.1721328+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:03:52.8761648+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:18:58.4719932+00:00"
 }

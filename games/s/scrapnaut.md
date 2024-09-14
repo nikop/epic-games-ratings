@@ -6,40 +6,40 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 60.00% | ~510 |
-| Mushroom Picker | 51.00% | ~434 |
-| Scrap Gatherer | 51.00% | ~434 |
-| Cook | 42.00% | ~357 |
-| Scrapper | 42.00% | ~357 |
-| Teleport | 41.00% | ~348 |
-| Scrap Master | 34.00% | ~289 |
-| Smelter | 33.00% | ~280 |
-| Digger | 29.00% | ~246 |
-| Electro-Scrap Gatherer | 29.00% | ~246 |
-| Survivor | 28.00% | ~238 |
-| Robot Destroyer | 27.00% | ~230 |
-| Herbalist | 26.00% | ~221 |
-| Lumberjack | 26.00% | ~221 |
-| Prepper | 24.00% | ~204 |
-| Electro-Scrap Master | 21.00% | ~178 |
-| Robot Hunter | 19.00% | ~162 |
-| Advanced Survivalist | 17.00% | ~144 |
-| Master Of Technology | 16.00% | ~136 |
-| Treasure Hunter | 14.00% | ~119 |
-| Mythical Smelter | 14.00% | ~119 |
-| Blacksmith | 12.00% | ~102 |
-| Fuel | 10.00% | ~85 |
-| Master Of Management | 9.00% | ~76 |
-| Forest Lord | 9.00% | ~76 |
-| Smelting Master | 9.00% | ~76 |
-| Black Gold | 7.00% | ~60 |
-| Survival Master | 5.00% | ~42 |
+| My New Home | 60.00% | ~521 |
+| Mushroom Picker | 52.00% | ~451 |
+| Scrap Gatherer | 51.00% | ~443 |
+| Cook | 42.00% | ~365 |
+| Scrapper | 42.00% | ~365 |
+| Teleport | 41.00% | ~356 |
+| Scrap Master | 34.00% | ~295 |
+| Smelter | 33.00% | ~286 |
+| Electro-Scrap Gatherer | 30.00% | ~260 |
+| Digger | 29.00% | ~252 |
+| Survivor | 28.00% | ~243 |
+| Robot Destroyer | 27.00% | ~234 |
+| Herbalist | 26.00% | ~226 |
+| Lumberjack | 26.00% | ~226 |
+| Prepper | 24.00% | ~208 |
+| Electro-Scrap Master | 21.00% | ~182 |
+| Robot Hunter | 19.00% | ~165 |
+| Advanced Survivalist | 17.00% | ~148 |
+| Master Of Technology | 16.00% | ~139 |
+| Treasure Hunter | 14.00% | ~122 |
+| Mythical Smelter | 14.00% | ~122 |
+| Blacksmith | 12.00% | ~104 |
+| Fuel | 10.00% | ~87 |
+| Smelting Master | 10.00% | ~87 |
+| Master Of Management | 9.00% | ~78 |
+| Forest Lord | 9.00% | ~78 |
+| Black Gold | 7.00% | ~61 |
+| Survival Master | 5.00% | ~43 |
 | Traveler | 3.00% | ~26 |
 | Forest Killer | 2.00% | ~17 |
-| Invincible | 0.40% | ~3 |
+| Invincible | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 850 (Ranked 422)  
-Completed: 4 (0.47%) (Ranked 331)  
+Progressed: 868 (Ranked 435)  
+Completed: 4 (0.46%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,6 +239,7 @@ Completed: 4 (0.47%) (Ranked 331)
 | 2024-06-17 | 831 | 4 |
 | 2024-08-09 | 848 | 4 |
 | 2024-08-20 | 850 | 4 |
+| 2024-09-14 | 868 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

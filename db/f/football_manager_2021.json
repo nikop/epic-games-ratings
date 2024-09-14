@@ -2,10 +2,10 @@
   "ID": "c2594740866d4be69d38fcf08ef0176d",
   "Name": "Football Manager 2021",
   "ProductSlug": "football-manager-2021",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T11:56:56.3637872+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:50.0541297+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:39.9972635+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:39.3003125+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:49.9129587+00:00"
 }

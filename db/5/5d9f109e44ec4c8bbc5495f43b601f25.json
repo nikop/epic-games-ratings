@@ -5,10 +5,10 @@
   "Ranking_Rating": 1229,
   "Ranking_Popularity": 571,
   "Ranking_PopularitySum": 636,
-  "Ranking_EOS_Progress": 184,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 121,
+  "Ranking_EOS_Completed": 559,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-05T23:00:00+00:00",
     "PcReleaseDate": "2024-08-05T23:00:00+00:00",
@@ -242,16 +242,21 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 36702,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 141874,
+  "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:02:07.6773716+00:00",
       "NumProgressed": 36702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:15:16.847113+00:00",
+      "NumProgressed": 141874,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2024-08-09T18:02:07.6773784+00:00",
@@ -262,9 +267,9 @@
       "ID": "Classic",
       "SetID": "73kjaa6",
       "Name": "CLASSIC",
-      "Percentage": 0.5,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 2837
     },
     {
       "ID": "Deadly_duo",
@@ -272,15 +277,15 @@
       "Name": "Deadly Duo",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 142
     },
     {
       "ID": "Game_easy",
       "SetID": "73kjaa6",
       "Name": "TRAINING WHEELS",
-      "Percentage": 1,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 5675
     },
     {
       "ID": "Game_hard",
@@ -288,127 +293,127 @@
       "Name": "ACE",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 142
     },
     {
       "ID": "Game_normal",
       "SetID": "73kjaa6",
       "Name": "ALL GUNS BLAZING",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 426
     },
     {
       "ID": "Level_1",
       "SetID": "73kjaa6",
       "Name": "BATTLE OVER THE WHITE SANDS",
-      "Percentage": 15,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 5505
+      "UsersEstimate": 26956
     },
     {
       "ID": "Level_2",
       "SetID": "73kjaa6",
       "Name": "CANYON GRAVEYARD",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 2936
+      "UsersEstimate": 17025
     },
     {
       "ID": "Level_3",
       "SetID": "73kjaa6",
       "Name": "THE DEAD SHALLOWS",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 1835
+      "UsersEstimate": 14187
     },
     {
       "ID": "Level_4",
       "SetID": "73kjaa6",
       "Name": "STORMY SEAS",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 1101
+      "UsersEstimate": 9931
     },
     {
       "ID": "Level_5",
       "SetID": "73kjaa6",
       "Name": "OVER THE CLOUDS",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 734
+      "UsersEstimate": 8512
     },
     {
       "ID": "Level_6",
       "SetID": "73kjaa6",
       "Name": "STRATOSPHERE",
-      "Percentage": 2,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 734
+      "UsersEstimate": 7094
     },
     {
       "ID": "Level_7",
       "SetID": "73kjaa6",
       "Name": "PERDITION",
-      "Percentage": 1,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 367
+      "UsersEstimate": 5675
     },
     {
       "ID": "No_mercy",
       "SetID": "73kjaa6",
       "Name": "NO MERCY",
-      "Percentage": 12,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4404
+      "UsersEstimate": 24119
     },
     {
       "ID": "Pattern_design",
       "SetID": "73kjaa6",
       "Name": "PATTERN DESIGN",
-      "Percentage": 0.3,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 1277
     },
     {
       "ID": "Tutorial_complete",
       "SetID": "73kjaa6",
       "Name": "NEW RECRUIT",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 15782
+      "UsersEstimate": 62425
     },
     {
       "ID": "Upgrade_ship",
       "SetID": "73kjaa6",
       "Name": "MECHANIC",
-      "Percentage": 8,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2936
+      "UsersEstimate": 17025
     },
     {
       "ID": "Wingman",
       "SetID": "73kjaa6",
       "Name": "WINGMAN",
-      "Percentage": 0.3,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 1277
     },
     {
       "ID": "air_superiority",
       "SetID": "73kjaa6",
       "Name": "Air Superiority",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1101
+      "UsersEstimate": 9931
     },
     {
       "ID": "eye_in_the_sky",
       "SetID": "73kjaa6",
       "Name": "EYE IN THE SKY",
-      "Percentage": 9,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3303
+      "UsersEstimate": 19862
     },
     {
       "ID": "looped",
@@ -416,7 +421,7 @@
       "Name": "LOOPED IT",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 142
     },
     {
       "ID": "red_kite",
@@ -424,7 +429,7 @@
       "Name": "THE RED KITE",
       "Percentage": 0.1,
       "XP": 155,
-      "UsersEstimate": 37
+      "UsersEstimate": 142
     },
     {
       "ID": "titan_hunter",
@@ -432,23 +437,23 @@
       "Name": "TITAN HUNTER",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 142
     }
   ],
   "AchievementSets": [
     {
       "ID": "73kjaa6",
       "IsBase": true,
-      "Progressed": 36702,
-      "Completed": 0
+      "Progressed": 141874,
+      "Completed": 10
     }
   ],
   "FirstSeen": "2024-08-08T16:57:11.2585749+00:00",
   "FirstSeenRating": "2024-08-09T23:57:10.7283886+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:07.6773784+00:00",
   "LastChanged": "2024-09-14T10:58:15.4693883+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:02:07.677371+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:16.8471125+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:21.2206644+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:25.2869566+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:07.6783381+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:00.1810006+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:16.8471323+00:00"
 }

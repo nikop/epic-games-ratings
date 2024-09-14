@@ -2,10 +2,10 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 732,
-  "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 755,
+  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-04T14:00:00+00:00",
     "PcReleaseDate": "2023-10-04T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 72,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.43,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-08-30T16:03:06.0737443+00:00",
@@ -269,6 +269,11 @@
       "Time": "2024-08-09T18:05:58.4487583+00:00",
       "NumProgressed": 70,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:23:33.5358087+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-30T15:02:12.9396867+00:00",
@@ -287,7 +292,7 @@
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -311,9 +316,9 @@
       "ID": "DINO_CHOW_ACH",
       "SetID": "7jaf9il",
       "Name": "Dino Chow",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "DINO_HUNTER_ACH",
@@ -335,9 +340,9 @@
       "ID": "HERE_WE_GO_AGAIN_ACH",
       "SetID": "7jaf9il",
       "Name": "Here We Go Again",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "HEROIC_RESCUE_ACH",
@@ -351,7 +356,7 @@
       "ID": "HORRIFIC_BEYOND_BELIEF_ACH",
       "SetID": "7jaf9il",
       "Name": "Horrific Beyond Belief",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -391,7 +396,7 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -415,9 +420,9 @@
       "ID": "SOMETHING_ISNT_RIGHT_ACH",
       "SetID": "7jaf9il",
       "Name": "Something Isn\u0027t Right",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SPEED_RUNNER_ACH",
@@ -431,15 +436,15 @@
       "ID": "TAPE_IT_BACK_TOGETHER_ACH",
       "SetID": "7jaf9il",
       "Name": "Tape It Back Together",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -480,14 +485,14 @@
     {
       "ID": "7jaf9il",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 72,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:10:01.399031+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:23:33.5358082+00:00",
   "LastUpdate_AppInfo": "2024-09-12T23:57:01.6070911+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:02.75267+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:10:01.3990483+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:14:22.2186645+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:23:33.5358232+00:00"
 }

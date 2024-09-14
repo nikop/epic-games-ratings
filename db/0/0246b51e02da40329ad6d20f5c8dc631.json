@@ -2,10 +2,10 @@
   "ID": "0246b51e02da40329ad6d20f5c8dc631",
   "Name": "Brothers: A Tale of Two Sons Remake",
   "ProductSlug": "brothers-a-tale-of-two-sons-remake",
-  "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 475,
+  "Ranking_EOS_Completed": 277,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-02-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -23,11 +23,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 559,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:08:08.2560867+00:00",
@@ -48,6 +48,11 @@
       "Time": "2024-08-09T18:03:13.6990707+00:00",
       "NumProgressed": 534,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-09-14T14:17:54.3735258+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-03-21T17:08:08.2560896+00:00",
@@ -60,7 +65,7 @@
       "Name": "Take a break",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "A02_WISHING_WELL",
@@ -68,15 +73,15 @@
       "Name": "Wishing well",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "A03_BLACK_SHEEP",
       "SetID": "2hglfi0",
       "Name": "Black sheep",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "A04_BUNNY_BUDDIES",
@@ -84,7 +89,7 @@
       "Name": "Bunny buddies",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "A05_A_SAD_TUNE",
@@ -92,7 +97,7 @@
       "Name": "A sad tune",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "A06_LOVE_BIRDS",
@@ -108,7 +113,7 @@
       "Name": "Windpipe",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "A08_CALL_OF_THE_GIANTS",
@@ -116,7 +121,7 @@
       "Name": "Call of the giants",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 84
     },
     {
       "ID": "A09_BEHIND_THE_CURTAIN",
@@ -132,7 +137,7 @@
       "Name": "Turtle soup",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "A11_WHALE_SONG",
@@ -140,7 +145,7 @@
       "Name": "Whale song",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "A12_FALLING_STAR",
@@ -148,7 +153,7 @@
       "Name": "Falling star",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "A13_ONE_LAST_GAME",
@@ -156,7 +161,7 @@
       "Name": "One last game\u2026",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "A14_SPIN_ME_AROUND",
@@ -171,14 +176,14 @@
     {
       "ID": "2hglfi0",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 559,
       "Completed": 6
     }
   ],
   "FirstSeen": "2024-02-28T17:58:05.3102806+00:00",
   "FirstSeenAchievements": "2024-01-23T10:04:16.3711297+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:13.6990701+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:17:54.3735252+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:12.3796926+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:19.9787322+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:13.699084+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:05:56.1437169+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:17:54.3735351+00:00"
 }

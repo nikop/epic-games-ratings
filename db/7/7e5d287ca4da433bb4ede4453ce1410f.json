@@ -2,10 +2,10 @@
   "ID": "7e5d287ca4da433bb4ede4453ce1410f",
   "Name": "Wallace and Gromit\u0027s Grand Adventures - Episode 4",
   "ProductSlug": "wallace-and-gromits-grand-adventures-episode-4-4ca891",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2009-11-19T12:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-13T02:04:57.8473757+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:41.2963798+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:22.0641625+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:50.3335581+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:31.6192788+00:00"
 }

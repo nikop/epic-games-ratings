@@ -2,10 +2,10 @@
   "ID": "3b7e9e4feae3460781d25006fcfb261f",
   "Name": "Marble Puzzle Blast",
   "ProductSlug": "marble-puzzle-blast-4880d0",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-01T23:00:00+00:00",
     "PcReleaseDate": "2024-08-01T23:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T19:57:18.400025+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:13.0669076+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:12.6032647+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:05.9252536+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:25.7329173+00:00"
 }

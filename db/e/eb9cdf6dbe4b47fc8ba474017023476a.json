@@ -2,10 +2,10 @@
   "ID": "eb9cdf6dbe4b47fc8ba474017023476a",
   "Name": "Sid Meier\u0027s Civilization\u00AE VII",
   "ProductSlug": "sid-meiers-civilization-vii",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2025-02-11T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T20:56:58.8007054+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:14.6173965+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:16.8882371+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:58:07.0390631+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:23.6421412+00:00"
 }

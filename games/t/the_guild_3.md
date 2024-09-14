@@ -6,23 +6,23 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My first attempt | 76.00% | ~534 |
-| This is the end | 63.00% | ~442 |
-| Office bearer | 38.00% | ~267 |
-| The golden spoon | 31.00% | ~218 |
-| Pirates of the European Seas | 15.00% | ~105 |
-| Out-Of-Sync | 11.00% | ~77 |
-| Yes, Master! | 11.00% | ~77 |
-| The cart is creaking... | 9.00% | ~63 |
-| The Ruler am I! | 7.00% | ~49 |
-| Filthy Rich | 5.00% | ~35 |
-| Competitor | 4.00% | ~28 |
-| Witchmaster | 3.00% | ~21 |
-| Magnate | 3.00% | ~21 |
-| I am the Master! | 2.00% | ~14 |
-| Executed | 0.90% | ~6 |
-| Serious Foe | 0.70% | ~5 |
-| Courageous | 0.60% | ~4 |
+| My first attempt | 76.00% | ~607 |
+| This is the end | 63.00% | ~503 |
+| Office bearer | 37.00% | ~296 |
+| The golden spoon | 31.00% | ~248 |
+| Pirates of the European Seas | 15.00% | ~120 |
+| Out-Of-Sync | 11.00% | ~88 |
+| Yes, Master! | 11.00% | ~88 |
+| The cart is creaking... | 9.00% | ~72 |
+| The Ruler am I! | 6.00% | ~48 |
+| Filthy Rich | 5.00% | ~40 |
+| Competitor | 4.00% | ~32 |
+| Witchmaster | 3.00% | ~24 |
+| Magnate | 3.00% | ~24 |
+| I am the Master! | 2.00% | ~16 |
+| Executed | 0.80% | ~6 |
+| Serious Foe | 0.80% | ~6 |
+| Courageous | 0.50% | ~4 |
 | Who is this Luther? | 0.40% | ~3 |
 | You want war? You get war! | 0.30% | ~2 |
 | Better than Heracles | 0.30% | ~2 |
@@ -33,8 +33,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sandwich maker | 0.00% | ~0 |
 | Proud as a rooster | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 440)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 799 (Ranked 442)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,6 +44,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 513 | 0 |
 | 2024-08-09 | 676 | 0 |
 | 2024-08-20 | 702 | 0 |
+| 2024-09-14 | 799 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

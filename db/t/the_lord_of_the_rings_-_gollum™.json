@@ -2,10 +2,10 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 447,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 406,
+  "Ranking_EOS_Completed": 468,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1205,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2093,6 +2093,11 @@
       "Time": "2024-08-20T20:08:19.5968571+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:21:25.2165458+00:00",
+      "NumProgressed": 1205,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2104,7 +2109,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "BreakLegs",
@@ -2128,7 +2133,7 @@
       "Name": "The Wraith",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 747
     },
     {
       "ID": "Chapter10",
@@ -2136,7 +2141,7 @@
       "Name": "The Friend",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "Chapter2",
@@ -2144,15 +2149,15 @@
       "Name": "The Maggot",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 325
     },
     {
       "ID": "Chapter3",
       "SetID": "70l3651",
       "Name": "The Breeder",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 265
     },
     {
       "ID": "Chapter4",
@@ -2160,7 +2165,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 229
     },
     {
       "ID": "Chapter5",
@@ -2168,7 +2173,7 @@
       "Name": "The Traitor",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 181
     },
     {
       "ID": "Chapter6",
@@ -2176,7 +2181,7 @@
       "Name": "The Spider",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 181
     },
     {
       "ID": "Chapter7",
@@ -2184,7 +2189,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "Chapter8",
@@ -2192,7 +2197,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "Chapter9",
@@ -2200,7 +2205,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 120
     },
     {
       "ID": "Collectibles1",
@@ -2208,7 +2213,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 590
     },
     {
       "ID": "Collectibles2",
@@ -2232,7 +2237,7 @@
       "Name": "Sweet Darkness",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ElfFriend",
@@ -2256,7 +2261,7 @@
       "Name": "Like Flying...",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 398
     },
     {
       "ID": "GollumChoices",
@@ -2272,15 +2277,15 @@
       "Name": "Wait! Wait! Not yet!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 470
     },
     {
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 289
     },
     {
       "ID": "Murderer",
@@ -2288,7 +2293,7 @@
       "Name": "Murderer",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "NoDamage",
@@ -2312,7 +2317,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "RiverHobbit",
@@ -2328,15 +2333,15 @@
       "Name": "So Silly!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Scout",
       "SetID": "70l3651",
       "Name": "Scout",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SmeagolChoices",
@@ -2350,9 +2355,9 @@
       "ID": "Song",
       "SetID": "70l3651",
       "Name": "Made a Song",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 72
     },
     {
       "ID": "StealFood",
@@ -2368,7 +2373,7 @@
       "Name": "So Tasty!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TriggerHappy",
@@ -2376,7 +2381,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "WelcomeToMordor",
@@ -2384,21 +2389,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 639
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1205,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:08:19.5968567+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:25.2165452+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:30.1581491+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:44.4396451+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:08:19.5968902+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:14.2711549+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:25.21661+00:00"
 }

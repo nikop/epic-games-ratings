@@ -4,24 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 69.00% | ~11 |
-| Mother's Soul | 31.00% | ~5 |
-| The Chained Witch | 13.00% | ~2 |
-| Waxing Crescent | 13.00% | ~2 |
-| Learning \| Offensive | 13.00% | ~2 |
+| Getting started | 71.00% | ~12 |
+| Mother's Soul | 35.00% | ~6 |
+| The Chained Witch | 18.00% | ~3 |
+| Learning \| Offensive | 18.00% | ~3 |
+| Waxing Crescent | 12.00% | ~2 |
+| Roguelike | 12.00% | ~2 |
+| Unyielding I | 12.00% | ~2 |
+| Learning \| Defensive | 12.00% | ~2 |
+| Learning \| Techinical | 12.00% | ~2 |
 | Venom Horseman | 6.00% | ~1 |
 | Family Reunion | 6.00% | ~1 |
 | New Moon | 6.00% | ~1 |
 | First Quarter | 6.00% | ~1 |
 | Blood Moon | 6.00% | ~1 |
-| Roguelike | 6.00% | ~1 |
-| Unyielding I | 6.00% | ~1 |
 | Unyielding II | 6.00% | ~1 |
 | Unyielding III | 6.00% | ~1 |
-| Learning \| Defensive | 6.00% | ~1 |
-| Learning \| Techinical | 6.00% | ~1 |
 | Processing \| Infliction | 6.00% | ~1 |
+| Processing \| Recovery | 6.00% | ~1 |
+| Processing \| Traps | 6.00% | ~1 |
 | Processing \| Enhance | 6.00% | ~1 |
+| Processing \| Overload | 6.00% | ~1 |
 | Finalize \| Recovery | 6.00% | ~1 |
 | Finalize \| Traps | 6.00% | ~1 |
 | Finalize \| Overload | 6.00% | ~1 |
@@ -33,19 +36,17 @@
 | Waxing Gibbous | 0.00% | ~0 |
 | Full Moon | 0.00% | ~0 |
 | Processing \| Plasma | 0.00% | ~0 |
-| Processing \| Recovery | 0.00% | ~0 |
-| Processing \| Traps | 0.00% | ~0 |
-| Processing \| Overload | 0.00% | ~0 |
 | Finalize \| Plasma | 0.00% | ~0 |
 | Finalize \| Infliction | 0.00% | ~0 |
 | Finalize \| Enhance | 0.00% | ~0 |
 | Hidden Sacred Sword | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 899)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 17 (Ranked 941)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-06-17 | 7 | 0 |
 | 2024-07-30 | 15 | 0 |
 | 2024-08-09 | 16 | 0 |
+| 2024-09-14 | 17 | 0 |

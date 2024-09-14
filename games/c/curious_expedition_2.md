@@ -6,31 +6,31 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 68.00% | ~337 |
+| The Adventure Begins | 69.00% | ~342 |
 | Cartographer | 61.00% | ~303 |
 | A Strange Artefact | 56.00% | ~278 |
-| Insomnia | 52.00% | ~258 |
+| Insomnia | 53.00% | ~263 |
+| From Whence we Came | 45.00% | ~223 |
 | Lost & Found & Lost Again | 44.00% | ~218 |
-| From Whence we Came | 44.00% | ~218 |
-| Fire and Flood | 43.00% | ~213 |
-| Spooky! | 39.00% | ~193 |
+| Fire and Flood | 44.00% | ~218 |
+| Spooky! | 40.00% | ~198 |
 | Shennong Herbalist | 37.00% | ~184 |
 | Treasure Hunt | 37.00% | ~184 |
 | Good Mama | 34.00% | ~169 |
 | O Captain My Captain | 33.00% | ~164 |
 | Plunderer | 31.00% | ~154 |
-| Taxonomist | 28.00% | ~139 |
+| Taxonomist | 29.00% | ~144 |
 | Traveller | 26.00% | ~129 |
 | Uncertain Loyalties | 26.00% | ~129 |
+| Roll to Save | 25.00% | ~124 |
 | Nahua Seeker | 25.00% | ~124 |
-| Roll to Save | 24.00% | ~119 |
 | Veteran Explorer | 23.00% | ~114 |
 | Red Flag Pirate | 22.00% | ~109 |
 | Iron Man | 18.00% | ~89 |
+| A Gentle Beast | 18.00% | ~89 |
 | Practical Palaeontology | 18.00% | ~89 |
-| A Gentle Beast | 17.00% | ~84 |
+| Shortening of the Way | 17.00% | ~84 |
 | For the Club! | 16.00% | ~79 |
-| Shortening of the Way | 16.00% | ~79 |
 | The Director is Dead | 15.00% | ~74 |
 | Adventurer | 15.00% | ~74 |
 | Dapper | 15.00% | ~74 |
@@ -41,10 +41,10 @@ Number of Ratings: 20  (23.09.2022)
 | Very Classy | 14.00% | ~69 |
 | Under the Table | 12.00% | ~60 |
 | It's Complicated | 12.00% | ~60 |
+| Cold Blood, Warm Heart | 10.00% | ~50 |
 | SCHMETTERLING | 9.00% | ~45 |
 | No Laughing Matter | 9.00% | ~45 |
 | Level Up | 9.00% | ~45 |
-| Cold Blood, Warm Heart | 9.00% | ~45 |
 | Errand Runner | 9.00% | ~45 |
 | Zookeeper | 8.00% | ~40 |
 | The Great Library | 8.00% | ~40 |
@@ -67,8 +67,8 @@ Number of Ratings: 20  (23.09.2022)
 | Everything is FINE... | 0.60% | ~3 |
 | Now I've Seen It All | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 496 (Ranked 471)  
-Completed: 1 (0.20%) (Ranked 392)  
+Progressed: 496 (Ranked 490)  
+Completed: 1 (0.20%) (Ranked 415)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

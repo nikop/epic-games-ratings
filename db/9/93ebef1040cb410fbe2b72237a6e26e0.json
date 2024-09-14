@@ -2,10 +2,10 @@
   "ID": "93ebef1040cb410fbe2b72237a6e26e0",
   "Name": "Hidden Shapes Old West",
   "ProductSlug": "hidden-shapes-old-west-d25c87",
-  "Ranking_EOS_Progress": 846,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-12T17:00:00+00:00",
     "PcReleaseDate": "2021-06-17T05:00:00+00:00",
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 26,
-  "EOS_Completed": 5,
+  "EOS_Progressed": 37,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 19.23,
+  "EOS_Completed_Percentage": 18.92,
   "EosHistory": [
     {
       "Time": "2024-06-17T16:08:10.1131592+00:00",
@@ -43,6 +43,11 @@
       "Time": "2024-08-20T20:13:35.1591536+00:00",
       "NumProgressed": 26,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-09-14T14:27:40.1860762+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:10.1131785+00:00",
@@ -53,81 +58,81 @@
       "ID": "ACHIEVEMENT_HSOW_01",
       "SetID": "1a274d0",
       "Name": "HSOW - 01",
-      "Percentage": 88,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_HSOW_02",
       "SetID": "1a274d0",
       "Name": "HSOW - 02",
-      "Percentage": 81,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_HSOW_03",
       "SetID": "1a274d0",
       "Name": "HSOW - 03",
-      "Percentage": 73,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_HSOW_04",
       "SetID": "1a274d0",
       "Name": "HSOW - 04",
-      "Percentage": 69,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 23
     },
     {
       "ID": "ACHIEVEMENT_HSOW_05",
       "SetID": "1a274d0",
       "Name": "HSOW - 05",
-      "Percentage": 65,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_HSOW_06",
       "SetID": "1a274d0",
       "Name": "HSOW - 06",
-      "Percentage": 58,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_HSOW_07",
       "SetID": "1a274d0",
       "Name": "HSOW - 07",
-      "Percentage": 54,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ACHIEVEMENT_HSOW_08",
       "SetID": "1a274d0",
       "Name": "HSOW - 08",
-      "Percentage": 50,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_HSOW_09",
       "SetID": "1a274d0",
       "Name": "HSOW - 09",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_HSOW_10",
       "SetID": "1a274d0",
       "Name": "HSOW - 10",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_HSOW_11",
@@ -135,15 +140,15 @@
       "Name": "HSOW - 11",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_HSOW_12",
       "SetID": "1a274d0",
       "Name": "HSOW - 12",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_HSOW_13",
@@ -151,7 +156,7 @@
       "Name": "HSOW - 13",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSOW_14",
@@ -159,7 +164,7 @@
       "Name": "HSOW - 14",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSOW_15",
@@ -167,47 +172,47 @@
       "Name": "HSOW - 15",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_HSOW_16",
       "SetID": "1a274d0",
       "Name": "HSOW - 16",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_17",
       "SetID": "1a274d0",
       "Name": "HSOW - 17",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_18",
       "SetID": "1a274d0",
       "Name": "HSOW - 18",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_19",
       "SetID": "1a274d0",
       "Name": "HSOW - 19",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_20",
       "SetID": "1a274d0",
       "Name": "HSOW - 20",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_21_Full",
@@ -215,87 +220,87 @@
       "Name": "HSOW - 21",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_22",
       "SetID": "1a274d0",
       "Name": "HSOW - 22",
-      "Percentage": 31,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_23",
       "SetID": "1a274d0",
       "Name": "HSOW - 23",
-      "Percentage": 27,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSOW_24",
       "SetID": "1a274d0",
       "Name": "HSOW - 24",
-      "Percentage": 27,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSOW_25",
       "SetID": "1a274d0",
       "Name": "HSOW - 25",
-      "Percentage": 27,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSOW_26",
       "SetID": "1a274d0",
       "Name": "HSOW - 26",
-      "Percentage": 27,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_HSOW_27",
       "SetID": "1a274d0",
       "Name": "HSOW - 27",
-      "Percentage": 23,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_28",
       "SetID": "1a274d0",
       "Name": "HSOW - 28",
-      "Percentage": 27,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSOW_29",
       "SetID": "1a274d0",
       "Name": "HSOW - 29",
-      "Percentage": 23,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_30",
       "SetID": "1a274d0",
       "Name": "HSOW - 30",
-      "Percentage": 23,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_31",
       "SetID": "1a274d0",
       "Name": "HSOW - 31",
-      "Percentage": 23,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_32",
@@ -303,7 +308,7 @@
       "Name": "HSOW - 32",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_33",
@@ -311,7 +316,7 @@
       "Name": "HSOW - 33",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_34",
@@ -319,7 +324,7 @@
       "Name": "HSOW - 34",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_35",
@@ -327,7 +332,7 @@
       "Name": "HSOW - 35",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_36",
@@ -335,15 +340,15 @@
       "Name": "HSOW - 36",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_37",
       "SetID": "1a274d0",
       "Name": "HSOW - 37",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_HSOW_38",
@@ -351,7 +356,7 @@
       "Name": "HSOW - 38",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_39",
@@ -359,7 +364,7 @@
       "Name": "HSOW - 39",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_40",
@@ -367,7 +372,7 @@
       "Name": "HSOW - 40",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_41",
@@ -375,7 +380,7 @@
       "Name": "HSOW - 41",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_HSOW_42_Full",
@@ -383,20 +388,20 @@
       "Name": "HSOW - 42",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a274d0",
       "IsBase": true,
-      "Progressed": 26,
-      "Completed": 5
+      "Progressed": 37,
+      "Completed": 7
     }
   ],
   "FirstSeenAchievements": "2024-06-17T16:08:10.1131784+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:35.159153+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:40.1860753+00:00",
   "LastUpdate_AppInfo": "2024-09-13T04:57:07.9897505+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:10:24.8164026+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:35.1591811+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:07:06.9580338+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:40.1860995+00:00"
 }

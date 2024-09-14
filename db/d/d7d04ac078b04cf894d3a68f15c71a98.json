@@ -2,10 +2,10 @@
   "ID": "d7d04ac078b04cf894d3a68f15c71a98",
   "Name": "Unleaving",
   "ProductSlug": "unleaving-9d452e",
-  "Ranking_EOS_Progress": 899,
-  "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 941,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-02T16:00:00+00:00",
     "PcReleaseDate": "2024-03-27T16:00:00+00:00",
@@ -25,15 +25,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.25,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:03:12.0548373+00:00",
       "NumProgressed": 16,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-09-14T14:17:50.4689405+00:00",
+      "NumProgressed": 17,
       "NumCompleted": 1
     }
   ],
@@ -45,9 +50,9 @@
       "ID": "ACH_HOW_DO_YOU_BEGIN",
       "SetID": "63ckp97",
       "Name": "how do you begin?",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_PERSISTENCE",
@@ -77,15 +82,15 @@
       "ID": "ACH_WHAT_DO_YOU_SEARCH_FOR",
       "SetID": "63ckp97",
       "Name": "what do you search for?",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_WHAT_DRIVES_YOU",
       "SetID": "63ckp97",
       "Name": "what drives you?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -93,9 +98,9 @@
       "ID": "ACH_WHAT_DULLS_YOUR_FEARS",
       "SetID": "63ckp97",
       "Name": "what dulls your fears?",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_WHAT_IS_INSIDE_YOU",
@@ -109,15 +114,15 @@
       "ID": "ACH_WHAT_QUENCHES_YOUR_DOUBTS",
       "SetID": "63ckp97",
       "Name": "what quenches your doubts?",
-      "Percentage": 13,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_WHAT_SATES_YOUR_HUNGER",
       "SetID": "63ckp97",
       "Name": "what sates your hunger?",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -125,39 +130,39 @@
       "ID": "ACH_WHO_ARE_YOU",
       "SetID": "63ckp97",
       "Name": "who are you?",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WHY_ARE_YOU_HERE",
       "SetID": "63ckp97",
       "Name": "why are you here?",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_ZEN",
       "SetID": "63ckp97",
       "Name": "zen",
-      "Percentage": 6,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
     {
       "ID": "63ckp97",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-08-04T17:58:29.9298356+00:00",
   "FirstSeenAchievements": "2024-08-09T18:03:12.0548387+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:12.054837+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:17:50.46894+00:00",
   "LastUpdate_AppInfo": "2024-09-10T18:57:09.2866975+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:06.1225481+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:12.0556875+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:48.0501806+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:17:50.4689509+00:00"
 }

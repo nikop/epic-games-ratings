@@ -5,10 +5,10 @@
   "Ranking_Rating": 637,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
-  "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 368,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 396,
+  "Ranking_EOS_Completed": 400,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1343,
+  "EOS_Progressed": 1440,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-10-13T10:03:19.5665873+00:00",
@@ -3517,6 +3517,11 @@
       "Time": "2024-08-09T18:03:57.0950838+00:00",
       "NumProgressed": 1343,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-09-14T14:19:27.5991864+00:00",
+      "NumProgressed": 1440,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3527,33 +3532,33 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 40
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_chapter_complete_2",
       "SetID": "d499apg",
       "Name": "Chapter II - Complete",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 13
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -3567,33 +3572,33 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 175,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 95,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 40
+      "UsersEstimate": 58
     },
     {
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 40
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3623,23 +3628,23 @@
       "ID": "ach_chapter_complete_4_easy",
       "SetID": "1fmoje6",
       "Name": "The Emperor Still Protects",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_chapter_complete_4_extreme",
       "SetID": "1fmoje6",
       "Name": "There Is Only War",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 175,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_chapter_complete_4_hard",
       "SetID": "1fmoje6",
       "Name": "Mercy Extended",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 95,
       "UsersEstimate": 1
     },
@@ -3647,17 +3652,17 @@
       "ID": "ach_chapter_complete_4_medium",
       "SetID": "1fmoje6",
       "Name": "Contempt Maintained",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_defeat_helbrute",
       "SetID": "1fmoje6",
       "Name": "Rage Incarnate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_find_all_secrets_c4",
@@ -3671,7 +3676,7 @@
       "ID": "ach_horde_complete_1_any",
       "SetID": "1fmoje6",
       "Name": "Let None Survive",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -3679,7 +3684,7 @@
       "ID": "ach_horde_complete_1_extreme",
       "SetID": "1fmoje6",
       "Name": "For the Emperor!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 175,
       "UsersEstimate": 0
     },
@@ -3687,7 +3692,7 @@
       "ID": "ach_horde_complete_1_hard",
       "SetID": "1fmoje6",
       "Name": "Duty Fulfilled",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 95,
       "UsersEstimate": 0
     }
@@ -3696,13 +3701,13 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 1343,
+      "Progressed": 1440,
       "Completed": 4
     },
     {
       "ID": "1fmoje6",
       "IsBase": false,
-      "Progressed": 147,
+      "Progressed": 244,
       "Completed": 61
     }
   ],
@@ -3710,8 +3715,8 @@
   "FirstSeenRating": "2024-06-03T21:59:07.387353+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
   "LastChanged": "2024-09-08T21:59:58.684659+00:00",
-  "LastChanged_Achievements": "2024-08-09T18:03:57.0950836+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:19:27.5991855+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:08.9701198+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:24.6056485+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:03:57.0951113+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:59:53.3848468+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:19:27.5992136+00:00"
 }

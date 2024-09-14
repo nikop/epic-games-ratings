@@ -2,10 +2,10 @@
   "ID": "c72f755f02204435a4ad38a451805260",
   "Name": "Captain Bones",
   "ProductSlug": "captain-bones-a5c57e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-07-27T17:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-10T08:58:14.1076019+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:13:21.7592672+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:05.543069+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:15:00.2910717+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:16.1689204+00:00"
 }

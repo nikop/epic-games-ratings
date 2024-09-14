@@ -5,10 +5,10 @@
   "Ranking_Rating": 52,
   "Ranking_Popularity": 539,
   "Ranking_PopularitySum": 427,
-  "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 425,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 312,
+  "Ranking_EOS_Completed": 462,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2020-06-16T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -1211,11 +1211,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3346,
+  "EOS_Progressed": 3813,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
       "Time": "2024-03-21T17:08:31.4438406+00:00",
@@ -1246,6 +1246,11 @@
       "Time": "2024-08-20T20:12:40.2987211+00:00",
       "NumProgressed": 3346,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-09-14T14:26:50.3153217+00:00",
+      "NumProgressed": 3813,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-03-21T17:08:31.4438434+00:00",
@@ -1258,7 +1263,7 @@
       "Name": "Another One Bites the Dust",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 703
+      "UsersEstimate": 801
     },
     {
       "ID": "ChickenDinner",
@@ -1266,7 +1271,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "DamnGoodMarksman",
@@ -1274,7 +1279,7 @@
       "Name": "Damn Good Marksman",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 572
     },
     {
       "ID": "Doubletime",
@@ -1282,7 +1287,7 @@
       "Name": "Doubletime",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Exterminator",
@@ -1290,15 +1295,15 @@
       "Name": "Exterminator",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 153
     },
     {
       "ID": "FiveGoodShots",
       "SetID": "a4jdli8",
       "Name": "Five Good Shots",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 419
     },
     {
       "ID": "FollowMeDarling",
@@ -1306,15 +1311,15 @@
       "Name": "Follow Me Darling",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 114
     },
     {
       "ID": "GoodGirl",
       "SetID": "a4jdli8",
       "Name": "Good Girl",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 305
     },
     {
       "ID": "GoodbyeColorado",
@@ -1322,7 +1327,7 @@
       "Name": "Goodbye Colorado",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 770
+      "UsersEstimate": 877
     },
     {
       "ID": "GoodbyeLouisiana",
@@ -1330,7 +1335,7 @@
       "Name": "Goodbye Louisiana",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 502
+      "UsersEstimate": 572
     },
     {
       "ID": "GunslingersCreed",
@@ -1338,7 +1343,7 @@
       "Name": "Gunslinger\u0027s Creed",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 76
     },
     {
       "ID": "Hardcore",
@@ -1346,7 +1351,7 @@
       "Name": "Hardcore",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 153
     },
     {
       "ID": "Inferno",
@@ -1354,7 +1359,7 @@
       "Name": "Inferno",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "Kaboom",
@@ -1362,7 +1367,7 @@
       "Name": "Kaboom!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 267
     },
     {
       "ID": "LikeClockwork",
@@ -1370,7 +1375,7 @@
       "Name": "Like Clockwork",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 38
     },
     {
       "ID": "LindbergAndHutch",
@@ -1378,7 +1383,7 @@
       "Name": "Lindberg and Hutch",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 114
     },
     {
       "ID": "LostAndFound",
@@ -1386,7 +1391,7 @@
       "Name": "Lost and Found",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 67
+      "UsersEstimate": 76
     },
     {
       "ID": "ManeaterShrub",
@@ -1394,15 +1399,15 @@
       "Name": "Maneater Shrub",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 191
     },
     {
       "ID": "Monsterkill",
       "SetID": "a4jdli8",
       "Name": "M-M-M-M-MONSTER KILL",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 267
     },
     {
       "ID": "MostEntertaining",
@@ -1410,7 +1415,7 @@
       "Name": "Most Entertaining",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 114
     },
     {
       "ID": "NeedADentist",
@@ -1418,7 +1423,7 @@
       "Name": "Need a Dentist?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 76
     },
     {
       "ID": "OutOfSightOutOfMind",
@@ -1426,31 +1431,31 @@
       "Name": "Out of Sight, Out of Mind",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 686
     },
     {
       "ID": "PackageDelivered",
       "SetID": "a4jdli8",
       "Name": "Package Delivered",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 458
     },
     {
       "ID": "PowerNap",
       "SetID": "a4jdli8",
       "Name": "Power Nap",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Puppetmaster",
       "SetID": "a4jdli8",
       "Name": "Puppet Master",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 381
     },
     {
       "ID": "SeasonedBountyHunter",
@@ -1458,7 +1463,7 @@
       "Name": "Seasoned Bounty Hunter",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 368
+      "UsersEstimate": 419
     },
     {
       "ID": "SheriffsBadge",
@@ -1466,23 +1471,23 @@
       "Name": "Sheriff\u0027s Badge",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "SomeoneCallTheUndertaker",
       "SetID": "a4jdli8",
       "Name": "Someone Call the Undertaker",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 502
+      "UsersEstimate": 534
     },
     {
       "ID": "SorryDad",
       "SetID": "a4jdli8",
       "Name": "Sorry Dad!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ThePicknick",
@@ -1490,15 +1495,15 @@
       "Name": "The Picnic",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 31
     },
     {
       "ID": "TheyWearRedBandanas",
       "SetID": "a4jdli8",
       "Name": "They Wear Red Bandanas",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 435
+      "UsersEstimate": 458
     },
     {
       "ID": "Vendetta",
@@ -1506,7 +1511,7 @@
       "Name": "Vendetta",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 153
     },
     {
       "ID": "VeteranBountyHunter",
@@ -1514,15 +1519,15 @@
       "Name": "Veteran Bounty Hunter",
       "Percentage": 0.2,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WaitDidYouSayMarshal",
       "SetID": "a4jdli8",
       "Name": "Wait, Did You Say Marshal?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 610
     },
     {
       "ID": "WatchOutBelow",
@@ -1530,30 +1535,30 @@
       "Name": "Watch Out Below!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 669
+      "UsersEstimate": 763
     },
     {
       "ID": "YaketySax",
       "SetID": "a4jdli8",
       "Name": "Yakety Sax",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 648
     }
   ],
   "AchievementSets": [
     {
       "ID": "a4jdli8",
       "IsBase": true,
-      "Progressed": 3346,
+      "Progressed": 3813,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:02.5074381+00:00",
   "FirstSeenAchievements": "2024-03-21T17:08:31.4438433+00:00",
   "LastChanged": "2024-09-13T20:57:43.7059351+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:12:40.2987206+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:26:50.3153211+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:57:01.8975322+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:29.3494988+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:40.2987451+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:09:52.5878261+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:50.3153413+00:00"
 }

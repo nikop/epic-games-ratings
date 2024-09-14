@@ -2,10 +2,10 @@
   "ID": "70c9878f9bba4601947f79fdf2f8df03",
   "Name": "Survivor Cells",
   "ProductSlug": "survivor-cells-a0622f",
-  "Ranking_EOS_Progress": 988,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 419,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 866,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-08-23T17:00:00+00:00",
     "PcReleaseDate": "2024-05-10T17:00:00+00:00",
@@ -25,9 +25,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
       "Time": "2024-08-20T20:13:40.8536289+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-09-14T14:27:43.8508561+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-06-17T16:08:18.5088041+00:00",
@@ -55,17 +60,17 @@
       "ID": "ACHIEVEMENT_SC_01",
       "SetID": "39a80p3",
       "Name": "10 Years",
-      "Percentage": 17,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_SC_02",
       "SetID": "39a80p3",
       "Name": "20 Years",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_03",
@@ -127,7 +132,7 @@
       "ID": "ACHIEVEMENT_SC_10",
       "SetID": "39a80p3",
       "Name": "100 Years",
-      "Percentage": 17,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -143,17 +148,17 @@
       "ID": "ACHIEVEMENT_SC_101",
       "SetID": "39a80p3",
       "Name": "15 Years",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_SC_102",
       "SetID": "39a80p3",
       "Name": "25 Years",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_103",
@@ -215,9 +220,9 @@
       "ID": "ACHIEVEMENT_SC_110",
       "SetID": "39a80p3",
       "Name": "Pandemic Mode",
-      "Percentage": 17,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_SC_111",
@@ -271,9 +276,9 @@
       "ID": "ACHIEVEMENT_SC_117",
       "SetID": "39a80p3",
       "Name": "Vaccine",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_121",
@@ -295,33 +300,33 @@
       "ID": "ACHIEVEMENT_SC_19",
       "SetID": "39a80p3",
       "Name": "Cella",
-      "Percentage": 83,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_SC_20",
       "SetID": "39a80p3",
       "Name": "Star",
-      "Percentage": 0,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_SC_21",
       "SetID": "39a80p3",
       "Name": "Sun",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_22",
       "SetID": "39a80p3",
       "Name": "Mine",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_23",
@@ -351,17 +356,17 @@
       "ID": "ACHIEVEMENT_SC_27",
       "SetID": "39a80p3",
       "Name": "Saw",
-      "Percentage": 17,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_SC_28",
       "SetID": "39a80p3",
       "Name": "Astro",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_29",
@@ -391,97 +396,97 @@
       "ID": "ACHIEVEMENT_SC_32",
       "SetID": "39a80p3",
       "Name": "V01",
-      "Percentage": 50,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 29
     },
     {
       "ID": "ACHIEVEMENT_SC_33",
       "SetID": "39a80p3",
       "Name": "V02",
-      "Percentage": 33,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_SC_34",
       "SetID": "39a80p3",
       "Name": "V03",
-      "Percentage": 17,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_SC_35",
       "SetID": "39a80p3",
       "Name": "V04",
-      "Percentage": 17,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_SC_36",
       "SetID": "39a80p3",
       "Name": "V05",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SC_37",
       "SetID": "39a80p3",
       "Name": "V06",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_38",
       "SetID": "39a80p3",
       "Name": "V07",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_39",
       "SetID": "39a80p3",
       "Name": "V08",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_40",
       "SetID": "39a80p3",
       "Name": "V09",
-      "Percentage": 17,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_41",
       "SetID": "39a80p3",
       "Name": "V10",
-      "Percentage": 33,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SC_42",
       "SetID": "39a80p3",
       "Name": "V11",
-      "Percentage": 33,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_SC_43",
       "SetID": "39a80p3",
       "Name": "V12",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_44",
@@ -503,7 +508,7 @@
       "ID": "ACHIEVEMENT_SC_46",
       "SetID": "39a80p3",
       "Name": "V15",
-      "Percentage": 17,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -519,7 +524,7 @@
       "ID": "ACHIEVEMENT_SC_48",
       "SetID": "39a80p3",
       "Name": "V17",
-      "Percentage": 17,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -527,7 +532,7 @@
       "ID": "ACHIEVEMENT_SC_49",
       "SetID": "39a80p3",
       "Name": "V18",
-      "Percentage": 17,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -535,97 +540,97 @@
       "ID": "ACHIEVEMENT_SC_50",
       "SetID": "39a80p3",
       "Name": "Shield \u002B",
-      "Percentage": 50,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_SC_54",
       "SetID": "39a80p3",
       "Name": "Barrier",
-      "Percentage": 17,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_55",
       "SetID": "39a80p3",
       "Name": "Reflector",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_56",
       "SetID": "39a80p3",
       "Name": "Orbit",
-      "Percentage": 33,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_SC_57",
       "SetID": "39a80p3",
       "Name": "Angry Collectors",
-      "Percentage": 17,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_SC_58",
       "SetID": "39a80p3",
       "Name": "Quick Ultimate",
-      "Percentage": 0,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_SC_59",
       "SetID": "39a80p3",
       "Name": "Collector\u0027s Pulse",
-      "Percentage": 17,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_SC_60",
       "SetID": "39a80p3",
       "Name": "Blade",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_61",
       "SetID": "39a80p3",
       "Name": "Double Shield",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_62",
       "SetID": "39a80p3",
       "Name": "Defeated the Star",
-      "Percentage": 17,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_SC_63",
       "SetID": "39a80p3",
       "Name": "Defeated the Spike.",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SC_64",
       "SetID": "39a80p3",
       "Name": "Defeated the Meteoric",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_65",
@@ -647,33 +652,33 @@
       "ID": "ACHIEVEMENT_SC_67",
       "SetID": "39a80p3",
       "Name": "Defeated the Pathogenic",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SC_68",
       "SetID": "39a80p3",
       "Name": "Defeated the Multipla",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_70",
       "SetID": "39a80p3",
       "Name": "Retreat Shield",
-      "Percentage": 17,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_SC_71",
       "SetID": "39a80p3",
       "Name": "Nanobot \u002B",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACHIEVEMENT_SC_72",
@@ -687,41 +692,41 @@
       "ID": "ACHIEVEMENT_SC_73",
       "SetID": "39a80p3",
       "Name": "T Cell",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_77",
       "SetID": "39a80p3",
       "Name": "An evolved being",
-      "Percentage": 50,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_SC_79",
       "SetID": "39a80p3",
       "Name": "Torreta Sentinel",
-      "Percentage": 17,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_SC_80",
       "SetID": "39a80p3",
       "Name": "Torreta Guardian",
-      "Percentage": 17,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_SC_81",
       "SetID": "39a80p3",
       "Name": "Turret Caliber",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_84",
@@ -735,41 +740,41 @@
       "ID": "ACHIEVEMENT_SC_85",
       "SetID": "39a80p3",
       "Name": "Magnetic Collector",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ACHIEVEMENT_SC_86",
       "SetID": "39a80p3",
       "Name": "Protein Time",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_87",
       "SetID": "39a80p3",
       "Name": "Nano Assistant",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_88",
       "SetID": "39a80p3",
       "Name": "Regenerator",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_SC_89",
       "SetID": "39a80p3",
       "Name": "Luck",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACHIEVEMENT_SC_90",
@@ -856,14 +861,14 @@
     {
       "ID": "39a80p3",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-28T05:59:54.1984011+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:18.508804+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:13:40.8536283+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:27:43.8508555+00:00",
   "LastUpdate_AppInfo": "2024-09-08T05:57:12.9418883+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:08.4115949+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:40.8537177+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:08:12.8709167+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:43.8509442+00:00"
 }

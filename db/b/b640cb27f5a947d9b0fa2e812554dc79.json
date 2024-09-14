@@ -2,10 +2,10 @@
   "ID": "b640cb27f5a947d9b0fa2e812554dc79",
   "Name": "Arsene Lupin - Once a Thief",
   "ProductSlug": "arsene-lupin-once-a-thief-825852",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-09T20:57:17.8425111+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:58:02.1083195+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:11:30.1358222+00:00"
+  "LastUpdate_Ratings": "2024-09-14T13:57:13.6204671+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:24:32.8902056+00:00"
 }

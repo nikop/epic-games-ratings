@@ -2,10 +2,10 @@
   "ID": "c33afcc65c264c81aa8e2537b7580690",
   "Name": "Truck",
   "ProductSlug": "truck-502523",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-12T00:00:00+00:00",
     "PcReleaseDate": "2024-04-30T15:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-19T06:58:19.2343394+00:00",
   "LastUpdate_AppInfo": "2024-09-08T03:57:09.521048+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:00:48.1935945+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:33.313469+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:02:29.6176109+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:26:41.6558457+00:00"
 }

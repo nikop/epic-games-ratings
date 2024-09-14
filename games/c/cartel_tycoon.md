@@ -6,28 +6,28 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 84.00% | ~1,383 |
-| Take-Off | 83.00% | ~1,366 |
-| Hokey-Pokey | 66.00% | ~1,086 |
-| Camellos | 51.00% | ~839 |
-| Bad Trip | 46.00% | ~757 |
-| That was base | 45.00% | ~741 |
-| Spread | 43.00% | ~708 |
-| Didn't Miss A Single One | 42.00% | ~691 |
-| Safe Pair of Hands | 33.00% | ~543 |
-| Don't Let Mom Know You're A Druglord | 31.00% | ~510 |
-| Bite the Blow | 22.00% | ~362 |
-| Architect of Fortunes | 21.00% | ~346 |
-| Pampered Life | 21.00% | ~346 |
-| Spreading Fear | 8.00% | ~132 |
-| I'm Going To Call You Kitty | 7.00% | ~115 |
-| Follow the Money | 6.00% | ~99 |
-| Operation Odessa | 2.00% | ~33 |
+| Our Man | 84.00% | ~1,425 |
+| Take-Off | 83.00% | ~1,409 |
+| Hokey-Pokey | 66.00% | ~1,120 |
+| Camellos | 52.00% | ~882 |
+| That was base | 45.00% | ~764 |
+| Bad Trip | 45.00% | ~764 |
+| Spread | 44.00% | ~747 |
+| Didn't Miss A Single One | 42.00% | ~713 |
+| Safe Pair of Hands | 33.00% | ~560 |
+| Don't Let Mom Know You're A Druglord | 32.00% | ~543 |
+| Bite the Blow | 22.00% | ~373 |
+| Architect of Fortunes | 21.00% | ~356 |
+| Pampered Life | 21.00% | ~356 |
+| Spreading Fear | 8.00% | ~136 |
+| I'm Going To Call You Kitty | 7.00% | ~119 |
+| Follow the Money | 6.00% | ~102 |
+| Operation Odessa | 2.00% | ~34 |
 | Sense Of Style | 0.40% | ~7 |
 | Iron Lady | 0.40% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,646 (Ranked 373)  
-Completed: 5 (0.30%) (Ranked 368)  
+Progressed: 1,697 (Ranked 387)  
+Completed: 5 (0.29%) (Ranked 397)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -271,6 +271,7 @@ Completed: 5 (0.30%) (Ranked 368)
 | 2024-04-10 | 1,231 | 4 |
 | 2024-06-17 | 1,428 | 4 |
 | 2024-08-09 | 1,646 | 5 |
+| 2024-09-14 | 1,697 | 5 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

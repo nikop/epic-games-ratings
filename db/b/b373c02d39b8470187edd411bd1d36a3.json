@@ -2,10 +2,10 @@
   "ID": "b373c02d39b8470187edd411bd1d36a3",
   "Name": "Magic Patrol Envoy",
   "ProductSlug": "magic-patrol-envoy-d660f9",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-05-23T02:00:00+00:00",
     "PcReleaseDate": "2024-05-08T02:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-07T13:57:12.6707226+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:36.3658787+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:44.7884546+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:00:10.268739+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:46.1259176+00:00"
 }

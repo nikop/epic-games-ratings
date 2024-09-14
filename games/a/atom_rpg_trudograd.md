@@ -5,26 +5,26 @@ Rating: 4.52 (Ranked 659)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 86.00% | ~1,445 |
-| Household | 6.00% | ~101 |
-| An Old Friend | 6.00% | ~101 |
-| Lot 49 | 5.00% | ~84 |
-| Viva La Revolution | 5.00% | ~84 |
-| Atomic Soda | 4.00% | ~67 |
-| Mysterious Knife | 4.00% | ~67 |
-| Walking Fortress | 4.00% | ~67 |
-| Freelance Police | 3.00% | ~50 |
-| The Great and Powerful | 3.00% | ~50 |
-| Shadow over Trudograd | 3.00% | ~50 |
+| Fresh Prince of Trudograd | 86.00% | ~1,459 |
+| Household | 6.00% | ~102 |
+| An Old Friend | 6.00% | ~102 |
+| Lot 49 | 5.00% | ~85 |
+| Viva La Revolution | 5.00% | ~85 |
+| Atomic Soda | 4.00% | ~68 |
+| Mysterious Knife | 4.00% | ~68 |
+| Walking Fortress | 4.00% | ~68 |
+| Freelance Police | 3.00% | ~51 |
+| The Great and Powerful | 3.00% | ~51 |
+| Shadow over Trudograd | 3.00% | ~51 |
 | Albino Bloodsucker | 2.00% | ~34 |
 | Fight Club | 2.00% | ~34 |
 | Human Antidote | 2.00% | ~34 |
 | Death of the Author | 1.00% | ~17 |
 | Memoirs of a Nibbler | 1.00% | ~17 |
-| KGB Bunker | 0.80% | ~13 |
-| Rising Star | 0.80% | ~13 |
-| Sixth Sense | 0.70% | ~12 |
+| Rising Star | 0.90% | ~15 |
+| KGB Bunker | 0.80% | ~14 |
 | Baby Eater | 0.60% | ~10 |
+| Sixth Sense | 0.60% | ~10 |
 | Admiral | 0.40% | ~7 |
 | Incompetence | 0.40% | ~7 |
 | Goose Sacrifice | 0.40% | ~7 |
@@ -38,8 +38,8 @@ Rating: 4.52 (Ranked 659)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,680 (Ranked 371)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 1,696 (Ranked 388)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,6 +244,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-06-17 | 1,575 | 0 |
 | 2024-08-09 | 1,671 | 0 |
 | 2024-08-20 | 1,680 | 0 |
+| 2024-09-14 | 1,696 | 0 |
 ## Awards
 Max (Character Customization): 28  (Ranked 652)  
 Sum: 28 (Ranked 676)  

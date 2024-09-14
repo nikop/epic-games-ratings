@@ -2,10 +2,10 @@
   "ID": "320330b0fc79466b9af5a71c9f749ad8",
   "Name": "GoobnBalloonsDX",
   "ProductSlug": "goobnballoons-7fe5f9",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-09-12T21:00:00+00:00",
     "PcReleaseDate": "2024-09-12T21:00:00+00:00",
@@ -29,10 +29,374 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "AchievementsAdded": "2024-09-14T14:15:03.6107937+00:00",
+  "TotalAchievements": 44,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACCESSORY_COMPLETE",
+      "SetID": "52738jm",
+      "Name": "Gotta Wear \u0027Em All!",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ALL_EARS",
+      "SetID": "52738jm",
+      "Name": "I\u0027m All Ears",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ANCIENT_GUARDIAN",
+      "SetID": "52738jm",
+      "Name": "Ancient Guardian",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ARE_THOSE_MY_PARTS",
+      "SetID": "52738jm",
+      "Name": "Are Those...My Parts?!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "A_BOOG_ADVENTURE",
+      "SetID": "52738jm",
+      "Name": "A Boog Adventure",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALLOONICIDE",
+      "SetID": "52738jm",
+      "Name": "Balloonicide",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALLOONIMANJARO",
+      "SetID": "52738jm",
+      "Name": "Balloonimanjaro",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALLOONPOCALYPSE",
+      "SetID": "52738jm",
+      "Name": "Balloonpocalypse",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALLOONTACULAR",
+      "SetID": "52738jm",
+      "Name": "Balloontacular",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BALLOONTASTROPHE",
+      "SetID": "52738jm",
+      "Name": "Balloontastrophe",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BEING_WATCHED",
+      "SetID": "52738jm",
+      "Name": "We\u0027re Being Watched",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BIRD_BRAIN",
+      "SetID": "52738jm",
+      "Name": "Bird Brain",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BOOG_V_BOOG",
+      "SetID": "52738jm",
+      "Name": "I Found you, Faker!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BRONZE_RANK",
+      "SetID": "52738jm",
+      "Name": "Thanks for Playing our Game!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFEAT_DIE.OS",
+      "SetID": "52738jm",
+      "Name": "Beep Boop Dead",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFEAT_MAW",
+      "SetID": "52738jm",
+      "Name": "Flush It",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFEAT_QUEEN",
+      "SetID": "52738jm",
+      "Name": "Crown the Queen",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EDGE_100",
+      "SetID": "52738jm",
+      "Name": "Everyone is Here!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "EDGE_UNLOCK",
+      "SetID": "52738jm",
+      "Name": "Where they go at Night",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FACTORY_100",
+      "SetID": "52738jm",
+      "Name": "Still better than Goobazon",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FACTORY_UNLOCK",
+      "SetID": "52738jm",
+      "Name": "Zip Zap Ow",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "FUFUFUFU",
+      "SetID": "52738jm",
+      "Name": "FuFuFuFu",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOLD_RANK",
+      "SetID": "52738jm",
+      "Name": "Goobucci Goob",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOBBOY_COMPLETE",
+      "SetID": "52738jm",
+      "Name": "Goobception!",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOBSTAR_100",
+      "SetID": "52738jm",
+      "Name": "Goofy Goob",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOBSTAR_HEIGHTS_100",
+      "SetID": "52738jm",
+      "Name": "Nowhere to go but up!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOBSTAR_HEIGHTS_UNLOCK",
+      "SetID": "52738jm",
+      "Name": "Up We Go!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOB_CHAMPION",
+      "SetID": "52738jm",
+      "Name": "Goob Champion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GOOB_ODYSSEY",
+      "SetID": "52738jm",
+      "Name": "Arcade Mode",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "IS_THAT_PAJARITA",
+      "SetID": "52738jm",
+      "Name": "Is That Pajarita?!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MAYHEM_COMPLETE",
+      "SetID": "52738jm",
+      "Name": "Mayhem Maniac",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ON_THE_HUNT",
+      "SetID": "52738jm",
+      "Name": "On The Hunt",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIPES_100",
+      "SetID": "52738jm",
+      "Name": "WOW, my head is spinning!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIPES_UNLOCK",
+      "SetID": "52738jm",
+      "Name": "Down We Go...",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SHINY_SHINY",
+      "SetID": "52738jm",
+      "Name": "Shiny Shiny",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILHOUETTE_SEASIDE_100",
+      "SetID": "52738jm",
+      "Name": "Beach Episode",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILHOUETTE_SEASIDE_UNLOCK",
+      "SetID": "52738jm",
+      "Name": "A Whale New World",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SILVER_RANK",
+      "SetID": "52738jm",
+      "Name": "Goobstar GlobeTrotter",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SINISTER_SMILE",
+      "SetID": "52738jm",
+      "Name": "A Sinister Smile",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STARING_CONTEST",
+      "SetID": "52738jm",
+      "Name": "Staring Contest",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "STATUE_OF_GOOBERTY",
+      "SetID": "52738jm",
+      "Name": "Statue of Gooberty",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SUN_COMPLETE",
+      "SetID": "52738jm",
+      "Name": "Setting Sun",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNDERWATER_100",
+      "SetID": "52738jm",
+      "Name": "Down Where it\u0027s Wetter",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNDERWATER_UNLOCK",
+      "SetID": "52738jm",
+      "Name": "Blub Blub Blub",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "52738jm",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-09-14T14:15:03.6107935+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:15:03.6107762+00:00",
   "LastUpdate_AppInfo": "2024-09-11T17:57:26.3954999+00:00",
-  "LastUpdate_Ratings": "2024-09-14T12:01:06.7764+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:04:06.9061377+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:03.6432201+00:00"
 }

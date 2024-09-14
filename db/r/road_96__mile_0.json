@@ -2,10 +2,10 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 376,
-  "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 92,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1598,
+  "EOS_Progressed": 1816,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 33,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -2932,6 +2932,11 @@
       "Time": "2024-08-20T20:07:38.4528855+00:00",
       "NumProgressed": 1598,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-09-14T14:20:59.6069695+00:00",
+      "NumProgressed": 1816,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -2941,31 +2946,31 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 60,
-      "UsersEstimate": 607
+      "UsersEstimate": 654
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 527
+      "UsersEstimate": 563
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 511
+      "UsersEstimate": 545
     },
     {
       "ID": "findalltapes",
       "SetID": "40n95i5",
       "Name": "Song Harvester",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 150,
       "UsersEstimate": 16
     },
@@ -2973,9 +2978,9 @@
       "ID": "scoremaxrankallrides",
       "SetID": "40n95i5",
       "Name": "Try Harder",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 200,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "scoreminrankrb1",
@@ -2983,15 +2988,15 @@
       "Name": "Truthseeker",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 182
     },
     {
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 73
     },
     {
       "ID": "scoreminrankrf1",
@@ -2999,23 +3004,23 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 80
+      "UsersEstimate": 91
     },
     {
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 91
     },
     {
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 368
+      "UsersEstimate": 400
     },
     {
       "ID": "scoreminrankrp1",
@@ -3023,7 +3028,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 160
+      "UsersEstimate": 182
     },
     {
       "ID": "scoreminrankrp2",
@@ -3031,7 +3036,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "scoreminrankrp3",
@@ -3039,15 +3044,15 @@
       "Name": "The Eye of the Storm",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 73
     },
     {
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 192
+      "UsersEstimate": 200
     },
     {
       "ID": "scoreminrankrv2",
@@ -3055,14 +3060,14 @@
       "Name": "Friendzone",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 64
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 1598,
+      "Progressed": 1816,
       "Completed": 6
     }
   ],
@@ -3070,8 +3075,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:38.452885+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:20:59.6069689+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:22.6421942+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:45.0432262+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:38.4529094+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:55.802332+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:20:59.6069953+00:00"
 }

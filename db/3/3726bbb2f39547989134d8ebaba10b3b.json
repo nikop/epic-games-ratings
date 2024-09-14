@@ -2,10 +2,10 @@
   "ID": "3726bbb2f39547989134d8ebaba10b3b",
   "Name": "Puzzle Agent",
   "ProductSlug": "puzzle-agent-b7556e",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-04-25T11:00:00+00:00",
     "PcReleaseDate": "2010-06-29T23:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-28T18:58:49.4841204+00:00",
   "LastUpdate_AppInfo": "2024-09-12T23:57:03.3276836+00:00",
-  "LastUpdate_Ratings": "2024-09-14T11:59:46.6224784+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:27.3786226+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:01:34.8795577+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:35.3248603+00:00"
 }

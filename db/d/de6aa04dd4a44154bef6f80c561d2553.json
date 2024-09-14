@@ -2,10 +2,10 @@
   "ID": "de6aa04dd4a44154bef6f80c561d2553",
   "Name": "Xuan-Yuan Sword VII",
   "ProductSlug": "xuan-yuan-sword-7-22c442",
-  "Ranking_EOS_Progress": 751,
-  "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 782,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_Completed_Percentage": 5.17,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:05.6233339+00:00",
@@ -284,6 +284,11 @@
       "Time": "2024-08-20T20:07:49.582789+00:00",
       "NumProgressed": 57,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-09-14T14:21:06.74956+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T03:05:10.0052283+00:00",
@@ -294,7 +299,7 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
       "UsersEstimate": 36
     },
@@ -310,7 +315,7 @@
       "ID": "BloodForBlood",
       "SetID": "c8fdd59",
       "Name": "Blood For Blood",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -318,7 +323,7 @@
       "ID": "BuyLowSellHigh",
       "SetID": "c8fdd59",
       "Name": "Buy Low Sell High",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -326,7 +331,7 @@
       "ID": "Catcha",
       "SetID": "c8fdd59",
       "Name": "Catcha",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
       "UsersEstimate": 34
     },
@@ -334,7 +339,7 @@
       "ID": "Chapter01_TheDesperado",
       "SetID": "c8fdd59",
       "Name": "The Desperado",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
       "UsersEstimate": 44
     },
@@ -342,7 +347,7 @@
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
       "UsersEstimate": 41
     },
@@ -350,7 +355,7 @@
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
       "UsersEstimate": 39
     },
@@ -358,7 +363,7 @@
       "ID": "Chapter04_AJourneyBegins",
       "SetID": "c8fdd59",
       "Name": "A Journey Begins",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -366,7 +371,7 @@
       "ID": "Chapter05_Breakout",
       "SetID": "c8fdd59",
       "Name": "Breakout",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -382,15 +387,15 @@
       "ID": "Chapter07_Reunion",
       "SetID": "c8fdd59",
       "Name": "Reunion",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Chapter08_UntimelyAdversity",
       "SetID": "c8fdd59",
       "Name": "Untimely Adversity",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -422,7 +427,7 @@
       "ID": "Chapter12_FirstEncounter",
       "SetID": "c8fdd59",
       "Name": "First Encounter",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -430,7 +435,7 @@
       "ID": "Chapter13_AdventureInTheArroyo",
       "SetID": "c8fdd59",
       "Name": "Adventure in the Arroyo",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -438,7 +443,7 @@
       "ID": "Chapter14_MissedOpportunity",
       "SetID": "c8fdd59",
       "Name": "Missed Opportunity",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -446,7 +451,7 @@
       "ID": "Chapter15_TheComeback",
       "SetID": "c8fdd59",
       "Name": "The Comeback",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -470,7 +475,7 @@
       "ID": "DroppedHard",
       "SetID": "c8fdd59",
       "Name": "Dropped Hard",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
       "UsersEstimate": 22
     },
@@ -478,7 +483,7 @@
       "ID": "EnemySlain",
       "SetID": "c8fdd59",
       "Name": "Enemy Slain",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -494,7 +499,7 @@
       "ID": "FirstBuildingInElysium",
       "SetID": "c8fdd59",
       "Name": "Something in the Scroll",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -510,7 +515,7 @@
       "ID": "HitTheBoardRunning",
       "SetID": "c8fdd59",
       "Name": "Hit the Board Running",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -526,7 +531,7 @@
       "ID": "PowerFromDiscipline",
       "SetID": "c8fdd59",
       "Name": "Power From Discipline",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -534,7 +539,7 @@
       "ID": "PowerUp",
       "SetID": "c8fdd59",
       "Name": "Power Up",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -542,7 +547,7 @@
       "ID": "Prologue_PeaceDisturbed",
       "SetID": "c8fdd59",
       "Name": "Peace Disturbed",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
       "UsersEstimate": 51
     },
@@ -558,7 +563,7 @@
       "ID": "Recruit",
       "SetID": "c8fdd59",
       "Name": "Recruit",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
       "UsersEstimate": 52
     },
@@ -566,7 +571,7 @@
       "ID": "ScrollToWin",
       "SetID": "c8fdd59",
       "Name": "Scroll to Win",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
       "UsersEstimate": 30
     },
@@ -582,7 +587,7 @@
       "ID": "SlayerOfMonsters",
       "SetID": "c8fdd59",
       "Name": "Slayer of Monsters",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 21
     },
@@ -647,14 +652,14 @@
     {
       "ID": "c8fdd59",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2024-08-20T20:07:49.5827885+00:00",
+  "LastChanged_Achievements": "2024-09-14T14:21:06.7495593+00:00",
   "LastUpdate_AppInfo": "2024-09-10T18:57:11.6006679+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:09:33.7996963+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:07:49.5828205+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:06:06.3162451+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:21:06.7495902+00:00"
 }

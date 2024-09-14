@@ -2,10 +2,10 @@
   "ID": "24157594879741fca671c04b3227fe27",
   "Name": "Astra Nova",
   "ProductSlug": "astra-nova-13197f",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-07-11T09:09:24.768+00:00",
     "PcReleaseDate": "2024-06-16T15:30:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-14T11:58:23.8874247+00:00",
   "LastUpdate_AppInfo": "2024-09-12T13:12:41.1751905+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:11:47.5005936+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:12:57.1822708+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:20.1029762+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:13.57513+00:00"
 }

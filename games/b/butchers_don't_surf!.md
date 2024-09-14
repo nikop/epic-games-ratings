@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Buy Schwerer Gustav | 100.00% | ~1 |
-| Buy the First Cannon | 100.00% | ~1 |
-| Buy the First Gold Cannon | 100.00% | ~1 |
-| Catch a Diamond in Space | 100.00% | ~1 |
-| Destroy a Golden Hydrant | 100.00% | ~1 |
-| Destroy a Hydrant | 100.00% | ~1 |
-| Open the Safe | 100.00% | ~1 |
-| Reach the First Goal | 100.00% | ~1 |
-| See All Instruction Boards | 100.00% | ~1 |
-| Take the First Briefcase | 100.00% | ~1 |
-| Unlock the First Capsule | 100.00% | ~1 |
-| Win the First Medal | 100.00% | ~1 |
+| Destroy a Hydrant | 100.00% | ~2 |
+| Buy Schwerer Gustav | 50.00% | ~1 |
+| Buy the First Cannon | 50.00% | ~1 |
+| Buy the First Gold Cannon | 50.00% | ~1 |
+| Catch a Diamond in Space | 50.00% | ~1 |
+| Destroy a Golden Hydrant | 50.00% | ~1 |
+| Open the Safe | 50.00% | ~1 |
+| Reach the First Goal | 50.00% | ~1 |
+| See All Instruction Boards | 50.00% | ~1 |
+| Take the First Briefcase | 50.00% | ~1 |
+| Unlock the First Capsule | 50.00% | ~1 |
+| Win the First Medal | 50.00% | ~1 |
 | Complete All Goals | 0.00% | ~0 |
 | Complete the First Mission | 0.00% | ~0 |
 | Destroy a Marine Buoy | 0.00% | ~0 |
@@ -26,9 +26,10 @@
 | Watch the End of the Story | 0.00% | ~0 |
 | Win All Medals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,099)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 2 (Ranked 1,110)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-07-23 | 1 | 0 |
+| 2024-09-14 | 2 | 0 |

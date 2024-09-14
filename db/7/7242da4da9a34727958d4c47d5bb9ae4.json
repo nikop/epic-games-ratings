@@ -2,10 +2,10 @@
   "ID": "7242da4da9a34727958d4c47d5bb9ae4",
   "Name": "Project Kinesis",
   "ProductSlug": "project-kinesis-f607f5",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-06-06T13:00:00+00:00",
     "PcReleaseDate": "2024-06-06T13:00:00+00:00",
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T05:59:59.5629383+00:00",
   "LastUpdate_AppInfo": "2024-09-12T07:56:56.2324956+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:09.3634279+00:00",
-  "LastUpdate_Achievements": "2024-08-20T20:13:39.6189061+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:12:52.9395296+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:27:43.0062426+00:00"
 }

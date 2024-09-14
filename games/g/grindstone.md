@@ -6,49 +6,49 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,204 |
-| The Journey Begins | 98.00% | ~5,204 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,142 |
-| There is No Escape | 72.00% | ~3,823 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,345 |
-| Royal Flush | 62.00% | ~3,292 |
-| Timber! | 61.00% | ~3,239 |
-| Survive the Bombsequences | 59.00% | ~3,133 |
-| Killed 20 Jerks | 55.00% | ~2,921 |
-| Death Defied | 54.00% | ~2,867 |
-| Fortunate Soul | 49.00% | ~2,602 |
-| Jerk-Slayer | 44.00% | ~2,336 |
-| Employee of the Month | 38.00% | ~2,018 |
-| I Believe I Can Fly | 37.00% | ~1,965 |
-| Bone Collector | 36.00% | ~1,912 |
-| Fe-Festival | 36.00% | ~1,912 |
-| Pardon my Slob | 33.00% | ~1,752 |
-| Top of the Food Chain | 32.00% | ~1,699 |
-| Humerus Achievement | 32.00% | ~1,699 |
-| Ghost Facers! | 28.00% | ~1,487 |
-| If It Bleeds, You Can Kill It | 22.00% | ~1,168 |
-| Trying To Get Into That 1%, Huh? | 19.00% | ~1,009 |
-| Royal Flush, Again | 19.00% | ~1,009 |
-| Can't Touch This | 18.00% | ~956 |
-| Yummy! | 17.00% | ~903 |
-| That Was Quick | 17.00% | ~903 |
-| Goldrush Glory Days | 16.00% | ~850 |
-| Best Party Guest | 15.00% | ~796 |
-| Collected 50 mushrooms | 15.00% | ~796 |
-| Budding Gardener | 15.00% | ~796 |
-| Stop Hitting Each Other | 15.00% | ~796 |
-| Shrub it Off | 15.00% | ~796 |
-| Ultimate Jerk | 13.00% | ~690 |
-| Hot Potato | 11.00% | ~584 |
-| Off the Beaten Path | 10.00% | ~531 |
-| It's Been a Blast | 9.00% | ~478 |
-| For Rock and Stone! | 9.00% | ~478 |
-| Don't Get Too Greedy | 8.00% | ~425 |
-| You're In a Cult, Call Your Dad | 6.00% | ~319 |
+| Quinceañera Time | 98.00% | ~5,221 |
+| The Journey Begins | 98.00% | ~5,221 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,156 |
+| There is No Escape | 72.00% | ~3,836 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,357 |
+| Royal Flush | 62.00% | ~3,303 |
+| Timber! | 61.00% | ~3,250 |
+| Survive the Bombsequences | 59.00% | ~3,144 |
+| Killed 20 Jerks | 54.00% | ~2,877 |
+| Death Defied | 54.00% | ~2,877 |
+| Fortunate Soul | 49.00% | ~2,611 |
+| Jerk-Slayer | 44.00% | ~2,344 |
+| Employee of the Month | 37.00% | ~1,971 |
+| I Believe I Can Fly | 37.00% | ~1,971 |
+| Bone Collector | 36.00% | ~1,918 |
+| Fe-Festival | 36.00% | ~1,918 |
+| Pardon my Slob | 33.00% | ~1,758 |
+| Top of the Food Chain | 32.00% | ~1,705 |
+| Humerus Achievement | 32.00% | ~1,705 |
+| Ghost Facers! | 28.00% | ~1,492 |
+| If It Bleeds, You Can Kill It | 22.00% | ~1,172 |
+| Trying To Get Into That 1%, Huh? | 19.00% | ~1,012 |
+| Royal Flush, Again | 19.00% | ~1,012 |
+| Can't Touch This | 18.00% | ~959 |
+| Yummy! | 17.00% | ~906 |
+| That Was Quick | 17.00% | ~906 |
+| Goldrush Glory Days | 16.00% | ~852 |
+| Best Party Guest | 15.00% | ~799 |
+| Collected 50 mushrooms | 15.00% | ~799 |
+| Budding Gardener | 15.00% | ~799 |
+| Stop Hitting Each Other | 15.00% | ~799 |
+| Shrub it Off | 15.00% | ~799 |
+| Ultimate Jerk | 13.00% | ~693 |
+| Hot Potato | 11.00% | ~586 |
+| Off the Beaten Path | 10.00% | ~533 |
+| It's Been a Blast | 9.00% | ~480 |
+| For Rock and Stone! | 9.00% | ~480 |
+| Don't Get Too Greedy | 8.00% | ~426 |
+| You're In a Cult, Call Your Dad | 6.00% | ~320 |
 | The Poison You Just Drank | 5.00% | ~266 |
 | Survived The Slaughter | 5.00% | ~266 |
-| Eternal Frenemies | 4.00% | ~212 |
-| The Fellowship | 3.00% | ~159 |
+| Eternal Frenemies | 4.00% | ~213 |
+| The Fellowship | 3.00% | ~160 |
 | Are We Good Guys Or Bad Guys? | 1.00% | ~53 |
 | Biohazard | 0.90% | ~48 |
 | OK Boomer | 0.90% | ~48 |
@@ -56,8 +56,8 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~37 |
 | Completionist | 0.60% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,310 (Ranked 277)  
-Completed: 32 (0.60%) (Ranked 315)  
+Progressed: 5,328 (Ranked 286)  
+Completed: 32 (0.60%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,6 +183,7 @@ Completed: 32 (0.60%) (Ranked 315)
 | 2024-07-09 | 5,300 | 32 |
 | 2024-08-09 | 5,307 | 32 |
 | 2024-08-20 | 5,310 | 32 |
+| 2024-09-14 | 5,328 | 32 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

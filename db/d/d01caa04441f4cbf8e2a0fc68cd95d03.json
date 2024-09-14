@@ -2,10 +2,10 @@
   "ID": "d01caa04441f4cbf8e2a0fc68cd95d03",
   "Name": "Kingmakers",
   "ProductSlug": "kingmakers-a29f88",
-  "Ranking_EOS_Progress": 1193,
-  "Ranking_EOS_Completed": 561,
-  "Ranking_EOS_NewPlayers": 544,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_Progress": 1254,
+  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_NewPlayers": 3,
+  "Ranking_EOS_NewCompleters": 1,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-09-11T19:57:15.0951854+00:00",
-  "LastUpdate_Ratings": "2024-09-14T13:12:31.3626605+00:00",
-  "LastUpdate_Achievements": "2024-08-09T18:02:05.654093+00:00"
+  "LastUpdate_Ratings": "2024-09-14T14:13:35.4294222+00:00",
+  "LastUpdate_Achievements": "2024-09-14T14:15:15.7134683+00:00"
 }

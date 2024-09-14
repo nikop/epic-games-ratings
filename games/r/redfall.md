@@ -5,66 +5,66 @@ Rating: 3.72 (Ranked 1,278)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 29.00% | ~770 |
-| Catch and Release | 24.00% | ~637 |
-| Home Is Where the Heart Is | 22.00% | ~584 |
-| ICU | 22.00% | ~584 |
-| Wounded Whispers | 22.00% | ~584 |
-| Blood Will Have Blood | 19.00% | ~504 |
-| Ne Plus Ultra | 19.00% | ~504 |
-| Peek-a-boo | 19.00% | ~504 |
-| Fly Fisher | 18.00% | ~478 |
-| Sucks To Be You | 18.00% | ~478 |
-| Throw The First Stone | 16.00% | ~425 |
-| Enter of Your Own Free Will | 15.00% | ~398 |
-| Welcome to the Neighborhood | 15.00% | ~398 |
-| Heart Attack | 15.00% | ~398 |
-| Grounded | 14.00% | ~372 |
-| Skin of Their Teeth | 13.00% | ~345 |
-| Neighborhood Revitalization | 11.00% | ~292 |
-| Bad Wiring | 11.00% | ~292 |
-| Radio Silence | 11.00% | ~292 |
-| You Clean It Up | 8.00% | ~212 |
-| From the Shadows | 8.00% | ~212 |
+| I Like My Stakes Rare! | 30.00% | ~799 |
+| Catch and Release | 24.00% | ~639 |
+| Home Is Where the Heart Is | 22.00% | ~586 |
+| ICU | 22.00% | ~586 |
+| Wounded Whispers | 22.00% | ~586 |
+| Blood Will Have Blood | 19.00% | ~506 |
+| Ne Plus Ultra | 19.00% | ~506 |
+| Peek-a-boo | 19.00% | ~506 |
+| Fly Fisher | 18.00% | ~479 |
+| Sucks To Be You | 18.00% | ~479 |
+| Throw The First Stone | 17.00% | ~453 |
+| Welcome to the Neighborhood | 16.00% | ~426 |
+| Enter of Your Own Free Will | 15.00% | ~399 |
+| Heart Attack | 15.00% | ~399 |
+| Grounded | 14.00% | ~373 |
+| Skin of Their Teeth | 14.00% | ~373 |
+| Neighborhood Revitalization | 11.00% | ~293 |
+| Bad Wiring | 11.00% | ~293 |
+| Radio Silence | 11.00% | ~293 |
+| Bell-ringer | 8.00% | ~213 |
+| You Clean It Up | 8.00% | ~213 |
+| From the Shadows | 8.00% | ~213 |
+| I Spit On Your Grave | 8.00% | ~213 |
 | Sic Transit Umbra | 7.00% | ~186 |
-| Bell-ringer | 7.00% | ~186 |
 | Silence Is Golden | 7.00% | ~186 |
 | Good Morning | 7.00% | ~186 |
 | Harvest’s End | 7.00% | ~186 |
 | Helping Hand | 7.00% | ~186 |
-| I Spit On Your Grave | 7.00% | ~186 |
-| Revelations | 6.00% | ~159 |
-| Contingency Plans | 5.00% | ~133 |
+| Revelations | 6.00% | ~160 |
+| Contingency Plans | 6.00% | ~160 |
+| Check, Please! | 6.00% | ~160 |
 | Block Party | 5.00% | ~133 |
-| Check, Please! | 5.00% | ~133 |
 | Starve the Beast | 5.00% | ~133 |
-| Curious Finch | 4.00% | ~106 |
-| Empty Nest Syndrome | 3.00% | ~80 |
-| Right This Way | 3.00% | ~80 |
+| Empty Nest Syndrome | 4.00% | ~107 |
+| Right This Way | 4.00% | ~107 |
+| Curious Finch | 4.00% | ~107 |
+| Neighborhood Watch | 3.00% | ~80 |
 | Nice Try | 3.00% | ~80 |
 | Blacklight Down | 3.00% | ~80 |
-| Neighborhood Watch | 2.00% | ~53 |
+| Good Samaritan | 3.00% | ~80 |
 | Blood Brother | 2.00% | ~53 |
 | Sisterhood | 2.00% | ~53 |
 | What Lies Below | 2.00% | ~53 |
 | Bloody Initiate | 2.00% | ~53 |
 | Under a Bushel | 2.00% | ~53 |
-| Good Samaritan | 2.00% | ~53 |
+| Dexterity Save | 2.00% | ~53 |
 | Scream Team | 1.00% | ~27 |
 | Monster Hunters Club | 1.00% | ~27 |
 | Friendgineering | 1.00% | ~27 |
 | So Anyway I Started Blasting | 1.00% | ~27 |
-| Dexterity Save | 1.00% | ~27 |
-| Enemy of My Enemy | 0.90% | ~24 |
-| Bob’s Final Hour | 0.80% | ~21 |
-| Someplace to Be | 0.50% | ~13 |
+| Enemy of My Enemy | 1.00% | ~27 |
+| Bob’s Final Hour | 0.90% | ~24 |
+| Someplace to Be | 0.60% | ~16 |
 | A Cry in the Dark | 0.40% | ~11 |
 | Sepsis | 0.40% | ~11 |
 | Rum Runner | 0.40% | ~11 |
 | Friends 'Til The End | 0.40% | ~11 |
 | Faith Healer | 0.30% | ~8 |
+| Eagle Eyes | 0.30% | ~8 |
 | Ask Not For Whom The Horns Blow | 0.20% | ~5 |
-| Eagle Eyes | 0.20% | ~5 |
 | Deforestation | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
 | Saw That Coming | 0.00% | ~0 |
@@ -72,8 +72,8 @@ Rating: 3.72 (Ranked 1,278)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,654 (Ranked 328)  
-Completed: 0 (0.00%) (Ranked 561)  
+Progressed: 2,663 (Ranked 343)  
+Completed: 0 (0.00%) (Ranked 591)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,6 +240,7 @@ Completed: 0 (0.00%) (Ranked 561)
 | 2024-07-24 | 2,624 | 0 |
 | 2024-08-09 | 2,627 | 0 |
 | 2024-08-20 | 2,654 | 0 |
+| 2024-09-14 | 2,663 | 0 |
 ## Awards
 Max (Great Boss Battles): 50  (Ranked 559)  
 Sum: 50 (Ranked 630)  

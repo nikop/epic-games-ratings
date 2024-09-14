@@ -5,52 +5,52 @@ Rating: 4.29 (Ranked 1,020)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~251 |
-| Bullseye! | 85.00% | ~242 |
-| Graduation! | 80.00% | ~228 |
-| Villfir Forest | 72.00% | ~205 |
-| Right in the kisser! | 57.00% | ~162 |
-| The Thrower | 44.00% | ~125 |
-| Duscot Steamcity | 44.00% | ~125 |
-| The Shaman | 42.00% | ~120 |
-| The Penguin | 41.00% | ~117 |
-| The Tunneler | 38.00% | ~108 |
-| The Magician | 37.00% | ~105 |
-| The Shield | 36.00% | ~103 |
-| Level Up!! | 33.00% | ~94 |
-| Topped up | 28.00% | ~80 |
-| Kill-streak | 27.00% | ~77 |
-| 1 is all I need | 24.00% | ~68 |
-| The Bird | 24.00% | ~68 |
-| The Ninja | 24.00% | ~68 |
-| The Idol | 23.00% | ~66 |
-| Inferno Ruins | 23.00% | ~66 |
-| I'm Rich | 20.00% | ~57 |
-| The Slime | 19.00% | ~54 |
-| Untouchable | 18.00% | ~51 |
-| The Giant | 15.00% | ~43 |
-| The Ooze | 15.00% | ~43 |
-| Out of the Frying Pan... | 15.00% | ~43 |
-| Ember | 15.00% | ~43 |
-| The Blacksmith | 14.00% | ~40 |
-| The Flower | 14.00% | ~40 |
-| Turquoise | 14.00% | ~40 |
-| The Assistant | 12.00% | ~34 |
-| The Steampunk | 12.00% | ~34 |
-| Verse | 10.00% | ~28 |
+| Level Up! | 88.00% | ~257 |
+| Bullseye! | 85.00% | ~248 |
+| Graduation! | 81.00% | ~237 |
+| Villfir Forest | 72.00% | ~210 |
+| Right in the kisser! | 57.00% | ~166 |
+| The Thrower | 45.00% | ~131 |
+| Duscot Steamcity | 44.00% | ~128 |
+| The Shaman | 43.00% | ~126 |
+| The Penguin | 41.00% | ~120 |
+| The Tunneler | 38.00% | ~111 |
+| The Magician | 37.00% | ~108 |
+| The Shield | 35.00% | ~102 |
+| Level Up!! | 34.00% | ~99 |
+| Topped up | 28.00% | ~82 |
+| Kill-streak | 27.00% | ~79 |
+| 1 is all I need | 24.00% | ~70 |
+| The Bird | 24.00% | ~70 |
+| The Ninja | 24.00% | ~70 |
+| The Idol | 23.00% | ~67 |
+| Inferno Ruins | 23.00% | ~67 |
+| I'm Rich | 21.00% | ~61 |
+| The Slime | 19.00% | ~55 |
+| Untouchable | 18.00% | ~53 |
+| The Giant | 15.00% | ~44 |
+| The Ooze | 15.00% | ~44 |
+| Out of the Frying Pan... | 15.00% | ~44 |
+| Ember | 15.00% | ~44 |
+| The Flower | 14.00% | ~41 |
+| Turquoise | 14.00% | ~41 |
+| The Blacksmith | 13.00% | ~38 |
+| The Steampunk | 12.00% | ~35 |
+| The Assistant | 11.00% | ~32 |
+| Verse | 10.00% | ~29 |
 | The Droid | 9.00% | ~26 |
 | Power Overwhelming | 8.00% | ~23 |
 | The Bomber | 8.00% | ~23 |
 | Iron | 8.00% | ~23 |
 | Highway to Hell | 7.00% | ~20 |
-| The Exorcist | 6.00% | ~17 |
-| The Astronaut | 6.00% | ~17 |
-| Mithril | 6.00% | ~17 |
-| Tested | 6.00% | ~17 |
-| Aluminum | 5.00% | ~14 |
-| Anvil | 5.00% | ~14 |
-| It's a Trap! | 4.00% | ~11 |
-| Analyzed | 4.00% | ~11 |
+| The Exorcist | 6.00% | ~18 |
+| The Astronaut | 6.00% | ~18 |
+| Mithril | 6.00% | ~18 |
+| Tested | 6.00% | ~18 |
+| Anvil | 5.00% | ~15 |
+| Analyzed | 4.00% | ~12 |
+| Aluminum | 4.00% | ~12 |
+| It's a Trap! | 3.00% | ~9 |
 | Tongs | 3.00% | ~9 |
 | Platinum | 3.00% | ~9 |
 | Gunpowder | 3.00% | ~9 |
@@ -71,16 +71,16 @@ Rating: 4.29 (Ranked 1,020)
 | Zombie Slayer | 2.00% | ~6 |
 | Really Bad Luck | 1.00% | ~3 |
 | Immortality | 1.00% | ~3 |
+| Zombie Hunter | 1.00% | ~3 |
 | Inferno | 1.00% | ~3 |
 | Sapphire | 1.00% | ~3 |
 | Encore | 1.00% | ~3 |
 | Divinity | 1.00% | ~3 |
-| Zombie Hunter | 0.70% | ~2 |
 | Zombie Exterminator | 0.70% | ~2 |
-| Divinity | 0.40% | ~1 |
+| Divinity | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 538)  
-Completed: 1 (0.35%) (Ranked 355)  
+Progressed: 292 (Ranked 554)  
+Completed: 1 (0.34%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -211,6 +211,7 @@ Completed: 1 (0.35%) (Ranked 355)
 | 2024-07-09 | 274 | 1 |
 | 2024-08-09 | 283 | 1 |
 | 2024-08-20 | 285 | 1 |
+| 2024-09-14 | 292 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
