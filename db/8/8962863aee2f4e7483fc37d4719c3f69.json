@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1218,
   "Ranking_Popularity": 479,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2293,10 +2293,16 @@
       "Rating": 4.01,
       "NumberOfAwards": 507,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2024-09-14T14:59:26.3321272+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2346,7 +2352,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 62
+      "Count": 63
     }
   ],
   "EOS_Progressed": 0,
@@ -2361,8 +2367,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-09-14T12:00:13.4362572+00:00",
+  "LastChanged": "2024-09-14T14:59:26.332127+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:10.4087278+00:00",
-  "LastUpdate_Ratings": "2024-09-14T14:01:56.2404139+00:00",
+  "LastUpdate_Ratings": "2024-09-14T14:59:26.3321275+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:28.1561061+00:00"
 }

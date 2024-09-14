@@ -4,7 +4,7 @@
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 1074,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1549,10 +1549,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 745,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-09-14T15:00:07.4870103+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 747,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 745,
+  "NumberOfAwards": 747,
   "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1578,7 +1584,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 96
+      "Count": 98
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1635,8 +1641,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-09-14T03:58:26.5796542+00:00",
+  "LastChanged": "2024-09-14T15:00:07.4870101+00:00",
   "LastUpdate_AppInfo": "2024-09-10T17:57:10.6700836+00:00",
-  "LastUpdate_Ratings": "2024-09-14T14:04:09.622789+00:00",
+  "LastUpdate_Ratings": "2024-09-14T15:00:07.4870107+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.8502216+00:00"
 }
