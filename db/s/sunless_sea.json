@@ -4,7 +4,7 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 503,
   "Ranking_Popularity": 340,
-  "Ranking_PopularitySum": 424,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 532,
   "Ranking_EOS_NewPlayers": 544,
@@ -1112,10 +1112,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 428,
       "NumberOfAwardsMax": 248
+    },
+    {
+      "Time": "2024-09-14T03:57:51.6431908+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 429,
+      "NumberOfAwardsMax": 248
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 428,
+  "NumberOfAwards": 429,
   "NumberOfAwardsMax": 248,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1147,7 +1153,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -30566,9 +30572,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-09-12T18:01:23.8978588+00:00",
+  "LastChanged": "2024-09-14T03:57:51.6431906+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:33.4409638+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:05.9771835+00:00",
-  "LastUpdate_Ratings": "2024-09-14T02:04:31.3262818+00:00",
+  "LastUpdate_Ratings": "2024-09-14T03:57:51.6431911+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:33.4411198+00:00"
 }
