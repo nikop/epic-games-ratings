@@ -2,7 +2,7 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 1161,
+  "Ranking_Rating": 1157,
   "Ranking_Popularity": 714,
   "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 94,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.16,
   "RatingHistory": [
     {
       "Time": "2022-12-31T16:58:21.8302488+00:00",
@@ -367,6 +367,12 @@
     {
       "Time": "2024-06-10T22:58:44.5745248+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-14T10:59:07.9391805+00:00",
+      "Rating": 4.16,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -30080,9 +30086,9 @@
   "FirstSeen": "2022-07-22T20:26:39.4598269+00:00",
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
-  "LastChanged": "2024-06-10T22:58:44.5745246+00:00",
+  "LastChanged": "2024-09-14T10:59:07.9391803+00:00",
   "LastChanged_Achievements": "2024-08-09T18:02:46.0694593+00:00",
   "LastUpdate_AppInfo": "2024-09-09T04:57:09.8973177+00:00",
-  "LastUpdate_Ratings": "2024-09-14T08:59:48.036071+00:00",
+  "LastUpdate_Ratings": "2024-09-14T10:59:07.939181+00:00",
   "LastUpdate_Achievements": "2024-08-09T18:02:46.0696345+00:00"
 }
