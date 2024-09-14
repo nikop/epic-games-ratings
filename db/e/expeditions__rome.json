@@ -2,7 +2,7 @@
   "ID": "0756b215f3394428877179923c6e2fa0",
   "Name": "Expeditions: Rome",
   "ProductSlug": "expeditions-rome",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 267,
   "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 623,
   "Ranking_EOS_Progress": 443,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 68,
   "RatingHistory": [
     {
@@ -397,6 +397,12 @@
     {
       "Time": "2024-09-05T04:00:03.4061578+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-09-14T04:57:39.0896346+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 55,
       "NumberOfAwardsMax": 55
     }
@@ -1020,9 +1026,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
   "FirstSeenAchievements": "2024-02-22T21:04:54.2215837+00:00",
-  "LastChanged": "2024-09-05T04:00:03.4061576+00:00",
+  "LastChanged": "2024-09-14T04:57:39.0896344+00:00",
   "LastChanged_Achievements": "2024-08-20T20:06:37.2410104+00:00",
   "LastUpdate_AppInfo": "2024-09-09T05:57:10.7663466+00:00",
-  "LastUpdate_Ratings": "2024-09-14T03:02:30.3220621+00:00",
+  "LastUpdate_Ratings": "2024-09-14T04:57:39.0896349+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:06:37.2410586+00:00"
 }
