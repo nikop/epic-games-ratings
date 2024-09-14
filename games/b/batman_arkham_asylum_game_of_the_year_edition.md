@@ -1,17 +1,17 @@
 # Batman Arkham Asylum Game of the Year Edition
 [Store](https://store.epicgames.com/en-US/p/batman-arkham-asylum)  
 [View Rawdata](../../db/b/batman_arkham_asylum_game_of_the_year_edition.json)  
-Rating: 4.68 (Ranked 294)  
+Rating: 4.68 (Ranked 293)  
 Number of Ratings: 2,164  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 938  (Ranked 209)  
-Sum: 1,083 (Ranked 319)  
+Sum: 1,084 (Ranked 319)  
 Diff (max vs sum): -110  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 938 |
+| This game has Amazing Storytelling | 27 |
 | This game has Amazing Characters | 26 |
-| This game has Amazing Storytelling | 26 |
 | This game is Extremely Fun | 25 |
 | This game is Great for Beginners | 25 |
 | This game has Quickly Understood Controls | 22 |
@@ -281,3 +281,4 @@ Diff (max vs sum): -110
 | 2024-09-11 | 4.68 | - | 935 | 1,080 |
 | 2024-09-12 | 4.68 | - | 936 | 1,081 |
 | 2024-09-13 | 4.68 | - | 938 | 1,083 |
+| 2024-09-14 | 4.68 | - | 938 | 1,084 |

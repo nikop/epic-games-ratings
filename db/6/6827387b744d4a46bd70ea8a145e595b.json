@@ -2,7 +2,7 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 566,
+  "Ranking_Rating": 567,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 1254,
@@ -3077,18 +3077,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 63332,
       "NumberOfAwardsMax": 21496
+    },
+    {
+      "Time": "2024-09-14T17:58:54.6339916+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 63665,
+      "NumberOfAwardsMax": 21723
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 63332,
-  "NumberOfAwardsMax": 21496,
+  "NumberOfAwards": 63665,
+  "NumberOfAwardsMax": 21723,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21496
+      "Count": 21723
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3124,7 +3130,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2505
+      "Count": 2545
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3148,7 +3154,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2772
+      "Count": 2838
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3169,8 +3175,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-09-14T14:57:29.3024675+00:00",
+  "LastChanged": "2024-09-14T17:58:54.6339914+00:00",
   "LastUpdate_AppInfo": "2024-09-10T03:01:42.6921858+00:00",
-  "LastUpdate_Ratings": "2024-09-14T15:59:25.5050462+00:00",
+  "LastUpdate_Ratings": "2024-09-14T17:58:54.6339919+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.5484973+00:00"
 }

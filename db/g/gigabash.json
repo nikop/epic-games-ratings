@@ -2,9 +2,9 @@
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 550,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -820,18 +820,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 137,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-09-14T17:59:59.8209422+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 138,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 137,
-  "NumberOfAwardsMax": 137,
+  "NumberOfAwards": 138,
+  "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 137
+      "Count": 138
     }
   ],
   "EOS_Progressed": 157189,
@@ -6927,9 +6933,9 @@
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
-  "LastChanged": "2024-09-09T19:59:18.4324405+00:00",
+  "LastChanged": "2024-09-14T17:59:59.8209419+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:54.476+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:00.2372183+00:00",
-  "LastUpdate_Ratings": "2024-09-14T16:57:57.9432043+00:00",
+  "LastUpdate_Ratings": "2024-09-14T17:59:59.8209426+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:54.4760423+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 502,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3336,10 +3336,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 4223,
       "NumberOfAwardsMax": 1022
+    },
+    {
+      "Time": "2024-09-14T17:58:39.9501801+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4231,
+      "NumberOfAwardsMax": 1022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4223,
+  "NumberOfAwards": 4231,
   "NumberOfAwardsMax": 1022,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3377,7 +3383,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 332
+      "Count": 340
     },
     {
       "Text": "This game has Competitive Players",
@@ -3416,8 +3422,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-09-14T07:59:36.0562144+00:00",
+  "LastChanged": "2024-09-14T17:58:39.9501799+00:00",
   "LastUpdate_AppInfo": "2024-09-13T13:57:06.2359836+00:00",
-  "LastUpdate_Ratings": "2024-09-14T15:59:11.1714845+00:00",
+  "LastUpdate_Ratings": "2024-09-14T17:58:39.9501804+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:22.0015912+00:00"
 }

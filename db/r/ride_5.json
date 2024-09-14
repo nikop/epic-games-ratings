@@ -2,8 +2,8 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 267,
-  "Ranking_Popularity": 674,
+  "Ranking_Rating": 293,
+  "Ranking_Popularity": 675,
   "Ranking_PopularitySum": 635,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 591,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2023-12-26T23:58:21.0860973+00:00",
@@ -529,6 +529,12 @@
     {
       "Time": "2024-09-11T21:58:18.8285091+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-14T17:58:04.3053949+00:00",
+      "Rating": 4.68,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 25
     }
@@ -10406,9 +10412,9 @@
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged": "2024-09-11T21:58:18.8285089+00:00",
+  "LastChanged": "2024-09-14T17:58:04.3053947+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:06.9111964+00:00",
   "LastUpdate_AppInfo": "2024-09-09T05:57:13.5295807+00:00",
-  "LastUpdate_Ratings": "2024-09-14T15:58:37.0289236+00:00",
+  "LastUpdate_Ratings": "2024-09-14T17:58:04.3053952+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.9112761+00:00"
 }
