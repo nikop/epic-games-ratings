@@ -3,8 +3,8 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 640,
-  "Ranking_Popularity": 601,
-  "Ranking_PopularitySum": 479,
+  "Ranking_Popularity": 596,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 468,
   "Ranking_EOS_NewPlayers": 3,
@@ -743,11 +743,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-09-14T22:59:49.14238+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 282,
-  "NumberOfAwardsMax": 38,
+  "NumberOfAwards": 284,
+  "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -772,7 +778,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -790,7 +796,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9384,9 +9390,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
-  "LastChanged": "2024-09-12T21:01:11.9910114+00:00",
+  "LastChanged": "2024-09-14T22:59:49.1423799+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:25.569937+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:56:56.7150193+00:00",
-  "LastUpdate_Ratings": "2024-09-14T21:01:30.4784012+00:00",
+  "LastUpdate_Ratings": "2024-09-14T22:59:49.1423802+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:25.5699965+00:00"
 }

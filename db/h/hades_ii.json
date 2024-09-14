@@ -4,7 +4,7 @@
   "ProductSlug": "hades-ii",
   "Ranking_Rating": 8,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 441,
+  "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -876,10 +876,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 382,
       "NumberOfAwardsMax": 212
+    },
+    {
+      "Time": "2024-09-14T22:59:35.4816705+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 402,
+      "NumberOfAwardsMax": 212
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 382,
+  "NumberOfAwards": 402,
   "NumberOfAwardsMax": 212,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -900,6 +906,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -914,8 +926,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-06T20:57:55.3749991+00:00",
   "FirstSeenRating": "2024-05-08T21:57:36.1712831+00:00",
-  "LastChanged": "2024-09-14T17:58:23.0034094+00:00",
+  "LastChanged": "2024-09-14T22:59:35.4816703+00:00",
   "LastUpdate_AppInfo": "2024-09-09T07:57:25.6625511+00:00",
-  "LastUpdate_Ratings": "2024-09-14T21:01:12.4086406+00:00",
+  "LastUpdate_Ratings": "2024-09-14T22:59:35.4816707+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:14.6987434+00:00"
 }

@@ -12455,10 +12455,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 7062,
       "NumberOfAwardsMax": 908
+    },
+    {
+      "Time": "2024-09-14T22:59:15.2378827+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 7064,
+      "NumberOfAwardsMax": 908
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7062,
+  "NumberOfAwards": 7064,
   "NumberOfAwardsMax": 908,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12484,7 +12490,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 678
+      "Count": 680
     },
     {
       "Text": "This game is Great for Beginners",
@@ -44109,9 +44115,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-09-14T15:58:38.0345781+00:00",
+  "LastChanged": "2024-09-14T22:59:15.2378825+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:56.2806585+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:49.372172+00:00",
-  "LastUpdate_Ratings": "2024-09-14T21:00:45.5008543+00:00",
+  "LastUpdate_Ratings": "2024-09-14T22:59:15.2378833+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:56.2808048+00:00"
 }
