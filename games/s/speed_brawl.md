@@ -1,11 +1,11 @@
 # Speed Brawl
 [Store](https://store.epicgames.com/en-US/p/speed-brawl)  
 [View Rawdata](../../db/s/speed_brawl.json)  
-Rating: 4.34 (Ranked 973)  
+Rating: 4.34 (Ranked 974)  
 Number of Ratings: 104  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 31  (Ranked 635)  
-Sum: 31 (Ranked 668)  
+Max (Great Boss Battles): 31  (Ranked 636)  
+Sum: 31 (Ranked 669)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |

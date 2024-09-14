@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-2",
   "Ranking_Rating": 293,
   "Ranking_Popularity": 296,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2101,10 +2101,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 687,
       "NumberOfAwardsMax": 370
+    },
+    {
+      "Time": "2024-09-14T19:01:32.5797601+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 689,
+      "NumberOfAwardsMax": 370
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 687,
+  "NumberOfAwards": 689,
   "NumberOfAwardsMax": 370,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2142,7 +2148,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2160,7 +2166,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has a Creative Community",
@@ -2187,8 +2193,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-09-14T15:58:24.9701531+00:00",
+  "LastChanged": "2024-09-14T19:01:32.5797599+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:46.3940842+00:00",
-  "LastUpdate_Ratings": "2024-09-14T17:57:52.3172107+00:00",
+  "LastUpdate_Ratings": "2024-09-14T19:01:32.5797605+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:04.0016007+00:00"
 }

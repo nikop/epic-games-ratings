@@ -1,11 +1,11 @@
 # Dishonored®: Death of the Outsider™
 [Store](https://store.epicgames.com/en-US/p/dishonored-death-of-the-outsider)  
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
-Rating: 4.43 (Ranked 835)  
+Rating: 4.43 (Ranked 836)  
 ## Awards
 Max (Relaxing): 93  (Ranked 479)  
-Sum: 687 (Ranked 382)  
-Diff (max vs sum): 97  
+Sum: 687 (Ranked 383)  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 93 |

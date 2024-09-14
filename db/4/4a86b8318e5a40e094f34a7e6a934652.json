@@ -2,6 +2,9 @@
   "ID": "4a86b8318e5a40e094f34a7e6a934652",
   "Name": "I Am Future - Cozy Apocalypse Survival",
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
+  "Ranking_Rating": 472,
+  "Ranking_Popularity": 715,
+  "Ranking_PopularitySum": 715,
   "Ranking_EOS_Progress": 440,
   "Ranking_EOS_Completed": 354,
   "Ranking_EOS_NewPlayers": 3,
@@ -19,7 +22,15 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.6,
+  "RatingHistory": [
+    {
+      "Time": "2024-09-14T18:58:42.8945851+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -2705,9 +2716,11 @@
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
+  "FirstSeenRating": "2024-09-14T18:58:42.8945847+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
+  "LastChanged": "2024-09-14T18:58:42.8945847+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:18.5394091+00:00",
   "LastUpdate_AppInfo": "2024-09-12T21:57:15.9591384+00:00",
-  "LastUpdate_Ratings": "2024-09-14T16:59:40.8872514+00:00",
+  "LastUpdate_Ratings": "2024-09-14T18:58:42.894586+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:18.5394305+00:00"
 }
