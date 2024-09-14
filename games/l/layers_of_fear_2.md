@@ -1,7 +1,7 @@
 # Layers of Fear 2
 [Store](https://store.epicgames.com/en-US/p/layers-of-fear-2)  
 [View Rawdata](../../db/l/layers_of_fear_2.json)  
-Rating: 4.20 (Ranked 1,113)  
+Rating: 4.19 (Ranked 1,122)  
 Number of Ratings: 249  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -112,3 +112,4 @@ Number of Ratings: 249  (23.09.2022)
 | 2024-08-26 | 4.20 | - | 0 | 0 |
 | 2024-09-03 | 4.19 | - | 0 | 0 |
 | 2024-09-08 | 4.20 | - | 0 | 0 |
+| 2024-09-14 | 4.19 | - | 0 | 0 |
