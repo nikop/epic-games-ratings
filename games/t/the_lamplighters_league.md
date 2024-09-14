@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_lamplighters_league.json)  
 Rating: 4.40 (Ranked 886)  
 ## Awards
-Max (Character Customization): 20  (Ranked 707)  
+Max (Character Customization): 20  (Ranked 708)  
 Sum: 20 (Ranked 709)  
-Diff (max vs sum): -2  
+Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 20 |

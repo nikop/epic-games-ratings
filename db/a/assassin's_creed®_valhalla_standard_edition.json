@@ -2,7 +2,7 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 1254,
@@ -23053,18 +23053,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 49338,
       "NumberOfAwardsMax": 19096
+    },
+    {
+      "Time": "2024-09-14T21:58:37.9303107+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 49353,
+      "NumberOfAwardsMax": 19106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49338,
-  "NumberOfAwardsMax": 19096,
+  "NumberOfAwards": 49353,
+  "NumberOfAwardsMax": 19106,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 19096
+      "Count": 19106
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -23076,7 +23082,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2111
+      "Count": 2112
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -23112,7 +23118,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1979
+      "Count": 1983
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23144,8 +23150,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-09-14T16:58:31.3781059+00:00",
+  "LastChanged": "2024-09-14T21:58:37.9303105+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:11.4713353+00:00",
-  "LastUpdate_Ratings": "2024-09-14T19:59:33.2836503+00:00",
+  "LastUpdate_Ratings": "2024-09-14T21:58:37.9303114+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:49.5488418+00:00"
 }
