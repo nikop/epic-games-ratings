@@ -5,7 +5,7 @@ Rating: 4.87 (Ranked 19)
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 898  (Ranked 214)  
-Sum: 1,371 (Ranked 302)  
+Sum: 1,372 (Ranked 302)  
 Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
@@ -20,7 +20,7 @@ Diff (max vs sum): -88
 | This game has Amazing Characters | 39 |
 | This game has Quickly Understood Controls | 37 |
 | This game has a Creative Community | 35 |
-| This game is Relaxing | 28 |
+| This game is Relaxing | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -406,3 +406,4 @@ Diff (max vs sum): -88
 | 2024-09-10 | 4.87 | - | 895 | 1,367 |
 | 2024-09-11 | 4.87 | - | 895 | 1,368 |
 | 2024-09-12 | 4.87 | - | 898 | 1,371 |
+| 2024-09-14 | 4.87 | - | 898 | 1,372 |
