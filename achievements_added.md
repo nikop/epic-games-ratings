@@ -4,7 +4,7 @@
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2099-02-01 | 51 (1,000 XP) | 9 | - | 0 |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | 35 (1,000 XP) | 13 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 20,788 | 4.87 | 10,692 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 20,788 | 4.87 | 10,944 |
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 4 | - | 0 |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 11 | - | 0 |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 7 | - | - |
@@ -152,7 +152,7 @@
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2024-05-08 | 13 (1,000 XP) | 5 | - | - |
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-06-05 | 13 (1,000 XP) | 4 | - | - |
 | [The Wraith of the Galaxy](games/d/daed3ae775ab4986a0ce9ec1c3daab83.md) | 2024-03-17 | 6 (1,000 XP) | 7 | - | - |
-| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 106,689 | 4.85 | 3,449 |
+| [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 106,689 | 4.85 | 3,474 |
 | [Jusant](games/9/9091161212874dca85088ef75d712cc2.md) | 2024-03-19 | 21 (1,000 XP) | 4 | - | 0 |
 | [Weed Shop 3](games/8/84367f1107b84e12ae5d2ef1d36d071e.md) | 2024-04-24 | 42 (1,000 XP) | 1 | - | 0 |
 | [Mars Battle](games/6/62681f0dc1b14afea3f65c97225ea517.md) | 2024-04-20 | 7 (1,000 XP) | 2,461 | - | 0 |
@@ -370,7 +370,7 @@
 | [Escape from Blackwood](games/b/b38098b4cbc9429ab4f1eac7a23cf152.md) | 2024-01-13 | 5 (1,000 XP) | 1 | - | 0 |
 | [Howl](games/h/howl.md) | 2024-01-23 | 16 (1,000 XP) | 9 | - | 0 |
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
-| [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,977 | 4.41 | 0 |
+| [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 2,977 | 4.42 | 0 |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 128,681 | 4.53 | 186 |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 25,548 | 3.64 | 0 |
@@ -565,7 +565,7 @@
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.38 | 0 |
 | [Sands of Aura](games/s/sands_of_aura.md) | 2021-10-21 | 58 (1,000 XP) | 266 | - | 0 |
 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 2023-10-31 | 21 (1,815 XP) | 1,343 | 4.53 | 0 |
-| [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 2023-10-14 | 67 (1,000 XP) | 16,251 | 4.34 | 0 |
+| [Golden Light](games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 2023-10-14 | 67 (1,000 XP) | 16,251 | 4.35 | 0 |
 | [100 Doors - Escape from Work](games/2/2e8b593f066d4ec59a473a0650c2794a.md) | 2023-10-15 | 14 (1,000 XP) | 0 | - | 0 |
 | [Haunted House](games/8/81970ccb964d4720adccf2e2244fe754.md) | 2023-10-12 | 25 (1,000 XP) | 1 | - | 0 |
 | [Ash of Gods: Redemption](games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 2023-10-11 | 50 (1,000 XP) | 282 | - | 0 |
@@ -614,7 +614,7 @@
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 66,472 | 4.51 | 14,099 |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 695,128 | 4.17 | 48,295 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,472 | 4.18 | 37 |
-| [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 541 | 4.86 | 0 |
+| [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 541 | 4.83 | 0 |
 | [Hotel: A Resort Simulator](games/b/b6a1a2bc8ab94b7fab473216aee35a3e.md) | 2024-01-23 | 27 (1,000 XP) | 2 | - | 0 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 86,532 | - | 0 |
 | [Battlefield V Definitive Edition](games/b/battlefield_v_definitive_edition.md) | 2022-06-03 | 21 (1,000 XP) | 143,330 | - | - |
