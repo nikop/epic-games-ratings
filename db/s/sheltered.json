@@ -2,7 +2,7 @@
   "ID": "3b550d92911244558770b68c5a812a5d",
   "Name": "Sheltered",
   "ProductSlug": "sheltered",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 313,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 1193,
@@ -940,18 +940,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 360,
       "NumberOfAwardsMax": 298
+    },
+    {
+      "Time": "2024-09-14T11:57:55.5893616+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 361,
+      "NumberOfAwardsMax": 299
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 360,
-  "NumberOfAwardsMax": 298,
+  "NumberOfAwards": 361,
+  "NumberOfAwardsMax": 299,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game is Highly Recommended",
@@ -983,8 +989,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.2392677+00:00",
-  "LastChanged": "2024-09-11T09:58:03.3147572+00:00",
+  "LastChanged": "2024-09-14T11:57:55.5893614+00:00",
   "LastUpdate_AppInfo": "2024-09-09T14:56:56.0947051+00:00",
-  "LastUpdate_Ratings": "2024-09-14T09:58:45.161927+00:00",
+  "LastUpdate_Ratings": "2024-09-14T11:57:55.5893622+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:10:21.0748637+00:00"
 }

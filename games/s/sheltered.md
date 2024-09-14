@@ -1,15 +1,15 @@
 # Sheltered
 [Store](https://store.epicgames.com/en-US/p/sheltered)  
 [View Rawdata](../../db/s/sheltered.json)  
-Rating: 4.41 (Ranked 869)  
+Rating: 4.41 (Ranked 870)  
 Number of Ratings: 877  (23.09.2022)  
 ## Awards
-Max (Character Customization): 298  (Ranked 313)  
-Sum: 360 (Ranked 451)  
+Max (Character Customization): 299  (Ranked 313)  
+Sum: 361 (Ranked 451)  
 Diff (max vs sum): -138  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 298 |
+| This game has Inclusive Character Customization | 299 |
 | This game is Great for Beginners | 22 |
 | This game is Highly Recommended | 20 |
 | This game is Extremely Fun | 20 |
@@ -142,3 +142,4 @@ Diff (max vs sum): -138
 | 2024-09-08 | 4.41 | - | 298 | 358 |
 | 2024-09-09 | 4.41 | - | 298 | 359 |
 | 2024-09-11 | 4.41 | - | 298 | 360 |
+| 2024-09-14 | 4.41 | - | 299 | 361 |
