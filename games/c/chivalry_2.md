@@ -4,9 +4,9 @@
 Rating: 4.53 (Ranked 638)  
 Number of Ratings: 18,078  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 7,790  (Ranked 72)  
+Max (Diverse Characters): 7,790  (Ranked 73)  
 Sum: 43,749 (Ranked 43)  
-Diff (max vs sum): 29  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 7,790 |
