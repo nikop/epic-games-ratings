@@ -1,7 +1,7 @@
 # Homeworld 3
 [Store](https://store.epicgames.com/en-US/p/homeworld-3)  
 [View Rawdata](../../db/h/homeworld_3.json)  
-Rating: 4.03 (Ranked 1,216)  
+Rating: 3.99 (Ranked 1,224)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -86,3 +86,4 @@ Completed: 1 (0.04%) (Ranked 509)
 | 2024-08-30 | 4.10 | 0 | 0 |
 | 2024-09-01 | 4.07 | 0 | 0 |
 | 2024-09-09 | 4.03 | 0 | 0 |
+| 2024-09-15 | 3.99 | 0 | 0 |

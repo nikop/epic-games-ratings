@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.01 (Ranked 1,219)  
+Rating: 4.01 (Ranked 1,218)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -412,14 +412,14 @@ Completed: 569 (0.34%) (Ranked 381)
 | 2024-09-14 | 169,703 | 569 |
 ## Awards
 Max (Great for Beginners): 5,464  (Ranked 91)  
-Sum: 29,927 (Ranked 60)  
+Sum: 29,931 (Ranked 60)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,464 |
 | This game has Diverse Characters | 4,406 |
+| This game has Quickly Understood Controls | 4,254 |
 | This game is Relaxing | 4,251 |
-| This game has Quickly Understood Controls | 4,250 |
 | This game is Highly Recommended | 4,046 |
 | This game has Easy Combat | 4,031 |
 | This game has Playful Visuals | 3,479 |
@@ -1012,4 +1012,4 @@ Diff (max vs sum): 31
 | 2024-09-12 | 4.01 | - | 5,454 | 29,881 |
 | 2024-09-13 | 4.01 | - | 5,460 | 29,901 |
 | 2024-09-14 | 4.01 | - | 5,460 | 29,918 |
-| 2024-09-15 | 4.01 | - | 5,464 | 29,927 |
+| 2024-09-15 | 4.01 | - | 5,464 | 29,931 |
