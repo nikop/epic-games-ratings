@@ -4,7 +4,7 @@
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
   "Ranking_Rating": 680,
   "Ranking_Popularity": 225,
-  "Ranking_PopularitySum": 280,
+  "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 3,
@@ -2315,10 +2315,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1688,
       "NumberOfAwardsMax": 810
+    },
+    {
+      "Time": "2024-09-15T13:59:50.222412+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1689,
+      "NumberOfAwardsMax": 810
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1688,
+  "NumberOfAwards": 1689,
   "NumberOfAwardsMax": 810,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2332,7 +2338,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 105
+      "Count": 106
     },
     {
       "Text": "This game has Inclusive Character Customization",
@@ -15689,9 +15695,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2024-09-13T02:06:52.9374634+00:00",
+  "LastChanged": "2024-09-15T13:59:50.2224118+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:24.2780814+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:36.5560459+00:00",
-  "LastUpdate_Ratings": "2024-09-15T13:10:34.6032219+00:00",
+  "LastUpdate_Ratings": "2024-09-15T13:59:50.2224124+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:24.2781608+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "bdffe95a989c4810b5abc0e525eb7a26",
   "Name": "Harry Potter: Quidditch Champions",
   "ProductSlug": "harry-potter-quidditch-champions",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 715,
   "Ranking_PopularitySum": 715,
   "Ranking_EOS_Progress": 425,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2024-09-06T03:57:30.8777804+00:00",
@@ -149,6 +149,12 @@
     {
       "Time": "2024-09-14T20:59:46.216269+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-15T13:57:51.8504957+00:00",
+      "Rating": 4.43,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -433,9 +439,9 @@
   "FirstSeen": "2024-09-03T18:58:28.6942734+00:00",
   "FirstSeenRating": "2024-09-06T03:57:30.8777801+00:00",
   "FirstSeenAchievements": "2024-08-20T20:13:24.6120024+00:00",
-  "LastChanged": "2024-09-14T20:59:46.2162688+00:00",
+  "LastChanged": "2024-09-15T13:57:51.8504955+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:33.6805714+00:00",
   "LastUpdate_AppInfo": "2024-09-14T07:57:04.4055138+00:00",
-  "LastUpdate_Ratings": "2024-09-15T11:58:35.9300202+00:00",
+  "LastUpdate_Ratings": "2024-09-15T13:57:51.850496+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:33.6812516+00:00"
 }

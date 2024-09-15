@@ -2,7 +2,7 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 418,
+  "Ranking_Rating": 419,
   "Ranking_Popularity": 115,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 1254,
@@ -10517,10 +10517,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 12211,
       "NumberOfAwardsMax": 3409
+    },
+    {
+      "Time": "2024-09-15T13:59:19.7828821+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 12215,
+      "NumberOfAwardsMax": 3409
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12211,
+  "NumberOfAwards": 12215,
   "NumberOfAwardsMax": 3409,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10534,7 +10540,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2937
+      "Count": 2941
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10614,8 +10620,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2024-09-15T02:14:48.0136904+00:00",
+  "LastChanged": "2024-09-15T13:59:19.7828819+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:57:05.7470663+00:00",
-  "LastUpdate_Ratings": "2024-09-15T13:09:48.157254+00:00",
+  "LastUpdate_Ratings": "2024-09-15T13:59:19.7828826+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:20.5046112+00:00"
 }
