@@ -3,7 +3,7 @@
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
   "Ranking_Rating": 419,
-  "Ranking_Popularity": 115,
+  "Ranking_Popularity": 114,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -10523,18 +10523,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 12215,
       "NumberOfAwardsMax": 3409
+    },
+    {
+      "Time": "2024-09-15T17:57:57.1444422+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 12229,
+      "NumberOfAwardsMax": 3415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12215,
-  "NumberOfAwardsMax": 3409,
+  "NumberOfAwards": 12229,
+  "NumberOfAwardsMax": 3415,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3409
+      "Count": 3415
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10552,7 +10558,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 897
+      "Count": 899
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10564,7 +10570,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1075
+      "Count": 1079
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10594,7 +10600,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 746
+      "Count": 748
     },
     {
       "Text": "This game has a Creative Community",
@@ -10620,8 +10626,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2024-09-15T13:59:19.7828819+00:00",
+  "LastChanged": "2024-09-15T17:57:57.144442+00:00",
   "LastUpdate_AppInfo": "2024-09-08T20:57:05.7470663+00:00",
-  "LastUpdate_Ratings": "2024-09-15T15:58:45.1343165+00:00",
+  "LastUpdate_Ratings": "2024-09-15T17:57:57.1444426+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:20.5046112+00:00"
 }

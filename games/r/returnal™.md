@@ -3,12 +3,12 @@
 [View Rawdata](../../db/r/returnal™.json)  
 Rating: 4.57 (Ranked 542)  
 ## Awards
-Max (Great Boss Battles): 251  (Ranked 338)  
-Sum: 414 (Ranked 428)  
-Diff (max vs sum): -90  
+Max (Great Boss Battles): 252  (Ranked 338)  
+Sum: 415 (Ranked 427)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 251 |
+| This game has Great Boss Battles | 252 |
 | This game has Amazing Characters | 34 |
 | This game has Amazing Storytelling | 28 |
 | This game has Quickly Understood Controls | 26 |
@@ -250,3 +250,4 @@ Diff (max vs sum): -90
 | 2024-09-06 | 4.57 | 250 | 412 |
 | 2024-09-08 | 4.57 | 251 | 413 |
 | 2024-09-13 | 4.57 | 251 | 414 |
+| 2024-09-15 | 4.57 | 252 | 415 |

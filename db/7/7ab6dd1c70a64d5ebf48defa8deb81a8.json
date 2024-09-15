@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen: Reign Of Sand",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 1075,
+  "Ranking_Rating": 1069,
   "Ranking_Popularity": 717,
   "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 320,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -275,6 +275,12 @@
     {
       "Time": "2024-09-10T02:07:02.7474707+00:00",
       "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-15T17:58:26.5418777+00:00",
+      "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5685,9 +5691,9 @@
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-09-10T02:07:02.7474705+00:00",
+  "LastChanged": "2024-09-15T17:58:26.5418775+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:05.5103811+00:00",
   "LastUpdate_AppInfo": "2024-09-10T21:57:02.8941633+00:00",
-  "LastUpdate_Ratings": "2024-09-15T15:59:13.1826755+00:00",
+  "LastUpdate_Ratings": "2024-09-15T17:58:26.541878+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:05.5104321+00:00"
 }
