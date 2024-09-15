@@ -4,7 +4,7 @@
   "ProductSlug": "viking-rise-876e15",
   "Ranking_Rating": 1104,
   "Ranking_Popularity": 481,
-  "Ranking_PopularitySum": 548,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -618,10 +618,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 141,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2024-09-15T19:57:51.2531219+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 142,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 141,
+  "NumberOfAwards": 142,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -635,7 +641,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Diverse Characters",
@@ -656,8 +662,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T06:58:36.7758205+00:00",
   "FirstSeenRating": "2024-05-25T22:59:08.2682454+00:00",
-  "LastChanged": "2024-09-15T13:10:22.0333522+00:00",
+  "LastChanged": "2024-09-15T19:57:51.2531218+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:18.2083517+00:00",
-  "LastUpdate_Ratings": "2024-09-15T17:58:19.5509355+00:00",
+  "LastUpdate_Ratings": "2024-09-15T19:57:51.2531223+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:31.9909845+00:00"
 }

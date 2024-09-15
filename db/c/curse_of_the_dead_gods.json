@@ -2,7 +2,7 @@
   "ID": "c1e33e7e700f42429ea2b8a7459bb55b",
   "Name": "Curse of the Dead Gods",
   "ProductSlug": "curse-of-the-dead-gods",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 554,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 140,
   "RatingHistory": [
     {
@@ -567,6 +567,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 131,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2024-09-15T19:58:58.9867235+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 131,
+      "NumberOfAwardsMax": 131
     }
   ],
   "ReviewsDisabled": false,
@@ -592,8 +598,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2024-09-04T19:58:20.5097064+00:00",
+  "LastChanged": "2024-09-15T19:58:58.9867233+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:10.4573096+00:00",
-  "LastUpdate_Ratings": "2024-09-15T17:59:27.1989976+00:00",
+  "LastUpdate_Ratings": "2024-09-15T19:58:58.9867238+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:21.0533678+00:00"
 }
