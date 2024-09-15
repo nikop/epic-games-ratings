@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-8",
   "Ranking_Rating": 640,
   "Ranking_Popularity": 645,
-  "Ranking_PopularitySum": 550,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -616,10 +616,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 137,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-14T23:57:19.652155+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 139,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 137,
+  "NumberOfAwards": 139,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -639,13 +645,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -677,8 +683,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2024-09-14T02:03:49.6782019+00:00",
+  "LastChanged": "2024-09-14T23:57:19.6521549+00:00",
   "LastUpdate_AppInfo": "2024-09-09T11:57:40.3194237+00:00",
-  "LastUpdate_Ratings": "2024-09-14T21:57:52.4938293+00:00",
+  "LastUpdate_Ratings": "2024-09-14T23:57:19.6521554+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:31.4622566+00:00"
 }

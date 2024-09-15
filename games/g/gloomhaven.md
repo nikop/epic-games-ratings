@@ -214,7 +214,7 @@ Completed: 3 (0.00%) (Ranked 591)
 | 2024-09-14 | 66,550 | 3 |
 ## Awards
 Max (Character Customization): 3,768  (Ranked 111)  
-Sum: 9,012 (Ranked 137)  
+Sum: 9,013 (Ranked 137)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
@@ -224,7 +224,7 @@ Diff (max vs sum): -26
 | This game is Highly Recommended | 583 |
 | This game is Extremely Fun | 581 |
 | This game has Amazing Characters | 536 |
-| This game is Relaxing | 528 |
+| This game is Relaxing | 529 |
 | This game has Quickly Understood Controls | 527 |
 | This game has Amazing Storytelling | 523 |
 | This game has Unique Visuals | 418 |
@@ -701,4 +701,4 @@ Diff (max vs sum): -26
 | 2024-09-11 | 4.47 | - | 3,767 | 9,003 |
 | 2024-09-12 | 4.47 | - | 3,768 | 9,006 |
 | 2024-09-13 | 4.47 | - | 3,768 | 9,007 |
-| 2024-09-14 | 4.47 | - | 3,768 | 9,012 |
+| 2024-09-14 | 4.47 | - | 3,768 | 9,013 |

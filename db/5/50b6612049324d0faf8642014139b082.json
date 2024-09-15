@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 1003,
+  "Ranking_Rating": 1004,
   "Ranking_Popularity": 592,
-  "Ranking_PopularitySum": 480,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1231,10 +1231,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-09-14T23:59:36.8663618+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1284,7 +1290,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 29
+      "Count": 31
     },
     {
       "Text": "This game is Relaxing",
@@ -3440,9 +3446,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-09-14T20:58:38.8118655+00:00",
+  "LastChanged": "2024-09-14T23:59:36.8663616+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:55.9621814+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:10.9441158+00:00",
-  "LastUpdate_Ratings": "2024-09-14T22:57:39.2886724+00:00",
+  "LastUpdate_Ratings": "2024-09-14T23:59:36.866362+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:55.962207+00:00"
 }

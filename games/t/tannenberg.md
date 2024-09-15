@@ -368,8 +368,8 @@ Completed: 29 (0.02%) (Ranked 536)
 | 2024-09-14 | 161,228 | 29 |
 ## Awards
 Max (Competitive Players): 347  (Ranked 300)  
-Sum: 3,454 (Ranked 209)  
-Diff (max vs sum): 91  
+Sum: 3,454 (Ranked 210)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 347 |

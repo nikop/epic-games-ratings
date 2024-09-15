@@ -1,7 +1,7 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.65 (Ranked 351)  
+Rating: 4.65 (Ranked 352)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -416,7 +416,7 @@ Completed: 13 (0.00%) (Ranked 591)
 | 2024-09-14 | 1,500,450 | 13 |
 ## Awards
 Max (Great for Beginners): 9,263  (Ranked 64)  
-Sum: 66,119 (Ranked 31)  
+Sum: 66,130 (Ranked 31)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -428,7 +428,7 @@ Diff (max vs sum): 33
 | This game is Highly Recommended | 7,289 |
 | This game has Amazing Storytelling | 6,035 |
 | This game has a Creative Community | 5,756 |
-| This game has Amazing Characters | 5,102 |
+| This game has Amazing Characters | 5,113 |
 | This game has Obsessive Gameplay | 2,497 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1030,4 +1030,4 @@ Diff (max vs sum): 33
 | 2024-09-11 | 4.65 | - | 9,226 | 65,903 |
 | 2024-09-12 | 4.65 | - | 9,234 | 65,966 |
 | 2024-09-13 | 4.65 | - | 9,246 | 66,023 |
-| 2024-09-14 | 4.65 | - | 9,263 | 66,119 |
+| 2024-09-14 | 4.65 | - | 9,263 | 66,130 |
