@@ -107,7 +107,7 @@
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 9 | - | - |
 | [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | 10 (1,000 XP) | 64 | - | 0 |
 | [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | 15 (1,000 XP) | 68 | - | 0 |
-| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.74 | 0 |
+| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.71 | 0 |
 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2024-08-13 | 40 (1,000 XP) | 5 | - | 0 |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-13 | 21 (1,000 XP) | 3 | - | 0 |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 1,942 | - | 0 |
@@ -1257,7 +1257,7 @@
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 91,808 | 4.64 | 27 |
 | [House Flipper](games/h/house_flipper.md) | 2021-08-05 | 23 (1,000 XP) | 26,503 | 4.69 | 402 |
 | [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 187,060 | 4.60 | 114 |
-| [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 161,228 | 4.39 | 347 |
+| [Tannenberg](games/t/tannenberg.md) | 2021-07-22 | 67 (1,000 XP) | 161,228 | 4.39 | 348 |
 | [Verdun](games/v/verdun.md) | 2021-07-22 | 59 (1,000 XP) | 84,039 | 4.53 | 134 |
 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 2021-07-16 | 30 (1,000 XP) | 2,560 | 4.42 | 48 |
 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 2021-07-13 | 29 (1,000 XP) | 833 | 3.82 | 0 |
