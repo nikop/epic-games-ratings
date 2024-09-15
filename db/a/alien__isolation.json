@@ -2,7 +2,7 @@
   "ID": "df37f065c3f14eadbf011177396e2966",
   "Name": "Alien: Isolation",
   "ProductSlug": "alien-isolation",
-  "Ranking_Rating": 419,
+  "Ranking_Rating": 420,
   "Ranking_Popularity": 389,
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 1254,
@@ -3386,10 +3386,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 1235,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-09-15T21:00:13.9669128+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1236,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1235,
+  "NumberOfAwards": 1236,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -3439,7 +3445,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 158
+      "Count": 159
     },
     {
       "Text": "This game has a Creative Community",
@@ -3459,8 +3465,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:09.3145857+00:00",
-  "LastChanged": "2024-09-14T23:57:03.6300655+00:00",
+  "LastChanged": "2024-09-15T21:00:13.9669126+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:13:54.3020004+00:00",
-  "LastUpdate_Ratings": "2024-09-15T19:57:55.2466266+00:00",
+  "LastUpdate_Ratings": "2024-09-15T21:00:13.9669131+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:26.7381729+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
   "ProductSlug": "outlast",
-  "Ranking_Rating": 165,
-  "Ranking_Popularity": 554,
-  "Ranking_PopularitySum": 464,
+  "Ranking_Rating": 184,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -1053,11 +1053,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 312,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-09-15T20:57:22.723016+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 312,
-  "NumberOfAwardsMax": 54,
+  "NumberOfAwards": 315,
+  "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1076,7 +1082,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 54
+      "Count": 56
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1106,7 +1112,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has a Creative Community",
@@ -1127,8 +1133,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-09-15T13:13:59.6590822+00:00",
+  "LastChanged": "2024-09-15T20:57:22.7230158+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:11.3399516+00:00",
-  "LastUpdate_Ratings": "2024-09-15T18:58:14.0872147+00:00",
+  "LastUpdate_Ratings": "2024-09-15T20:57:22.7230164+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:28.4292735+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "2cc23de0d8ca4785a0bc37cc95979462",
   "Name": "Card Shark",
   "ProductSlug": "card-shark-8f95f0",
-  "Ranking_Rating": 266,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 717,
   "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 1254,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.68,
   "NumberOfRatings": 21,
   "RatingHistory": [
     {
@@ -267,6 +267,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-15T20:59:05.0451966+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -285,8 +291,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:35.9399807+00:00",
   "FirstSeenRating": "2022-08-19T11:03:13.5817816+00:00",
-  "LastChanged": "2024-09-13T20:58:39.5322991+00:00",
+  "LastChanged": "2024-09-15T20:59:05.0451965+00:00",
   "LastUpdate_AppInfo": "2024-09-09T10:57:11.6113188+00:00",
-  "LastUpdate_Ratings": "2024-09-15T19:00:50.0528396+00:00",
+  "LastUpdate_Ratings": "2024-09-15T20:59:05.045197+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:38.6717999+00:00"
 }

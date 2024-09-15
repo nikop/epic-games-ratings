@@ -1,12 +1,12 @@
 # Rebel Galaxy
 [Store](https://store.epicgames.com/en-US/p/rebel-galaxy)  
 [View Rawdata](../../db/r/rebel_galaxy.json)  
-Rating: 4.42 (Ranked 852)  
+Rating: 4.42 (Ranked 851)  
 Number of Ratings: 774  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 43  (Ranked 584)  
-Sum: 257 (Ranked 490)  
-Diff (max vs sum): 94  
+Max (Extremely Fun): 43  (Ranked 585)  
+Sum: 257 (Ranked 492)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 43 |
