@@ -4,7 +4,7 @@
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 523,
   "Ranking_Popularity": 435,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3485,10 +3485,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1044,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2024-09-15T15:58:29.4810975+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1046,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1044,
+  "NumberOfAwards": 1046,
   "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3562,7 +3568,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 69
+      "Count": 71
     }
   ],
   "EOS_Progressed": 0,
@@ -3577,8 +3583,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-09-15T05:00:57.7078629+00:00",
+  "LastChanged": "2024-09-15T15:58:29.4810973+00:00",
   "LastUpdate_AppInfo": "2024-09-11T19:57:16.0763219+00:00",
-  "LastUpdate_Ratings": "2024-09-15T13:59:04.3016322+00:00",
+  "LastUpdate_Ratings": "2024-09-15T15:58:29.481098+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:11.5519179+00:00"
 }

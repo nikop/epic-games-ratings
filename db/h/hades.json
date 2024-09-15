@@ -2,7 +2,7 @@
   "ID": "min",
   "Name": "Hades",
   "ProductSlug": "hades",
-  "Ranking_Rating": 5,
+  "Ranking_Rating": 6,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 32,
@@ -10880,10 +10880,16 @@
       "Rating": 4.91,
       "NumberOfAwards": 10865,
       "NumberOfAwardsMax": 4292
+    },
+    {
+      "Time": "2024-09-15T15:57:28.2263228+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 10866,
+      "NumberOfAwardsMax": 4292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10865,
+  "NumberOfAwards": 10866,
   "NumberOfAwardsMax": 4292,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10903,7 +10909,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 358
+      "Count": 359
     },
     {
       "Text": "This game is Relaxing",
@@ -42491,9 +42497,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-09-15T13:58:02.3739038+00:00",
+  "LastChanged": "2024-09-15T15:57:28.2263226+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:05.3782962+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:57.4129251+00:00",
-  "LastUpdate_Ratings": "2024-09-15T13:58:02.3739046+00:00",
+  "LastUpdate_Ratings": "2024-09-15T15:57:28.2263233+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:05.3784753+00:00"
 }

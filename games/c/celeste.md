@@ -1,7 +1,7 @@
 # Celeste
 [Store](https://store.epicgames.com/en-US/p/celeste)  
 [View Rawdata](../../db/c/celeste.json)  
-Rating: 4.91 (Ranked 5)  
+Rating: 4.92 (Ranked 4)  
 Number of Ratings: 2,543  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 2,248  (Ranked 134)  
@@ -571,3 +571,4 @@ Diff (max vs sum): -48
 | 2024-09-12 | 4.91 | - | 2,241 | 4,608 |
 | 2024-09-13 | 4.91 | - | 2,244 | 4,614 |
 | 2024-09-14 | 4.91 | - | 2,248 | 4,620 |
+| 2024-09-15 | 4.92 | - | 2,248 | 4,620 |
