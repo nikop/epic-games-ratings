@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/fallout_2__a_post_nuclear_role_playing_game.json)  
 Rating: 4.68 (Ranked 292)  
 ## Awards
-Max (Character Customization): 370  (Ranked 296)  
+Max (Character Customization): 370  (Ranked 297)  
 Sum: 691 (Ranked 382)  
-Diff (max vs sum): -86  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 370 |

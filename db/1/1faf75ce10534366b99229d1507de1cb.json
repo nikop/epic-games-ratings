@@ -2,7 +2,7 @@
   "ID": "1faf75ce10534366b99229d1507de1cb",
   "Name": "RENNSPORT",
   "ProductSlug": "rennsport-3776b8",
-  "Ranking_Rating": 1102,
+  "Ranking_Rating": 1097,
   "Ranking_Popularity": 654,
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2024-07-12T12:00:28.909022+00:00",
@@ -564,10 +564,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 124,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-09-15T18:57:45.7621712+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 125,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 124,
+  "NumberOfAwards": 125,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -581,7 +587,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has a Competitive Community",
@@ -614,8 +620,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T13:08:52.5809065+00:00",
   "FirstSeenRating": "2024-07-12T12:00:28.9090218+00:00",
-  "LastChanged": "2024-09-15T14:59:54.4723777+00:00",
+  "LastChanged": "2024-09-15T18:57:45.762171+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:37.2665336+00:00",
-  "LastUpdate_Ratings": "2024-09-15T16:58:25.9688372+00:00",
+  "LastUpdate_Ratings": "2024-09-15T18:57:45.7621715+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:10.4091037+00:00"
 }
