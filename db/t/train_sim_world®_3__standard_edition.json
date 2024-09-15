@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-3",
   "Ranking_Rating": 641,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 225,
+  "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -4330,10 +4330,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 2856,
       "NumberOfAwardsMax": 441
+    },
+    {
+      "Time": "2024-09-15T08:59:58.8067821+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 2857,
+      "NumberOfAwardsMax": 441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2856,
+  "NumberOfAwards": 2857,
   "NumberOfAwardsMax": 441,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4347,7 +4353,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 340
+      "Count": 341
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4422,8 +4428,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-06T15:30:57.6812817+00:00",
   "FirstSeenRating": "2022-09-07T06:00:21.7269742+00:00",
-  "LastChanged": "2024-09-14T21:58:27.5958302+00:00",
+  "LastChanged": "2024-09-15T08:59:58.8067819+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:10.2265983+00:00",
-  "LastUpdate_Ratings": "2024-09-15T07:57:46.4529384+00:00",
+  "LastUpdate_Ratings": "2024-09-15T08:59:58.8067826+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:22.8674577+00:00"
 }
