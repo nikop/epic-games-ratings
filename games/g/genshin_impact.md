@@ -1,11 +1,11 @@
 # Genshin Impact
 [Store](https://store.epicgames.com/en-US/p/genshin-impact)  
 [View Rawdata](../../db/g/genshin_impact.json)  
-Rating: 4.66 (Ranked 334)  
+Rating: 4.66 (Ranked 333)  
 Number of Ratings: 219,180  (23.09.2022)  
 ## Awards
 Max (Character Customization): 368,449  (Ranked 4)  
-Sum: 1,678,896 (Ranked 4)  
+Sum: 1,679,027 (Ranked 4)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 176,304 |
 | This game has Amazing Characters | 142,532 |
 | This game is Highly Recommended | 140,501 |
-| This game has Amazing Storytelling | 137,481 |
+| This game has Amazing Storytelling | 137,612 |
 | This game has Beautiful Visuals | 135,957 |
 | This game is Extremely Fun | 132,674 |
 | This game has Quickly Understood Controls | 126,194 |
@@ -622,4 +622,4 @@ Diff (max vs sum): 0
 | 2024-09-12 | 4.66 | - | 367,176 | 1,674,383 |
 | 2024-09-13 | 4.66 | - | 367,517 | 1,675,875 |
 | 2024-09-14 | 4.66 | - | 368,045 | 1,677,968 |
-| 2024-09-15 | 4.66 | - | 368,449 | 1,678,896 |
+| 2024-09-15 | 4.66 | - | 368,449 | 1,679,027 |
