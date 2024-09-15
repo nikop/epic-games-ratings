@@ -1,7 +1,7 @@
 # Empires of the Undergrowth
 [Store](https://store.epicgames.com/en-US/p/empires-of-the-undergrowth)  
 [View Rawdata](../../db/e/empires_of_the_undergrowth.json)  
-Rating: 4.73 (Ranked 202)  
+Rating: 4.73 (Ranked 201)  
 Number of Ratings: 212  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 1,114 | 0 |
 ## Awards
 Max (Great for Beginners): 96  (Ranked 471)  
-Sum: 710 (Ranked 376)  
+Sum: 711 (Ranked 376)  
 Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): 95
 | This game has Amazing Characters | 61 |
 | This game has Amazing Storytelling | 61 |
 | This game has Quickly Understood Controls | 59 |
-| This game has a Creative Community | 58 |
+| This game has a Creative Community | 59 |
 | This game is Relaxing | 57 |
 | This game is Educational | 54 |
 | This game has Obsessive Gameplay | 25 |
@@ -429,3 +429,4 @@ Diff (max vs sum): 95
 | 2024-09-12 | 4.73 | - | 96 | 707 |
 | 2024-09-13 | 4.73 | - | 96 | 709 |
 | 2024-09-14 | 4.73 | - | 96 | 710 |
+| 2024-09-15 | 4.73 | - | 96 | 711 |

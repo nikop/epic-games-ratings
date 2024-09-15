@@ -2,7 +2,7 @@
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
   "ProductSlug": "outlast",
-  "Ranking_Rating": 185,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 553,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -1047,10 +1047,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 309,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-09-15T13:13:59.6590824+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 309,
+  "NumberOfAwards": 312,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1106,7 +1112,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 23
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -1121,8 +1127,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-09-14T22:57:26.2800044+00:00",
+  "LastChanged": "2024-09-15T13:13:59.6590822+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:11.3399516+00:00",
-  "LastUpdate_Ratings": "2024-09-15T11:57:41.3473503+00:00",
+  "LastUpdate_Ratings": "2024-09-15T13:13:59.6590832+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:28.4292735+00:00"
 }
