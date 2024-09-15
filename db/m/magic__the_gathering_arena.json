@@ -2,8 +2,8 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 777,
-  "Ranking_Popularity": 35,
+  "Ranking_Rating": 776,
+  "Ranking_Popularity": 34,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -26624,18 +26624,24 @@
       "Rating": 4.46,
       "NumberOfAwards": 127277,
       "NumberOfAwardsMax": 17090
+    },
+    {
+      "Time": "2024-09-15T03:15:07.6914464+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 127319,
+      "NumberOfAwardsMax": 17113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 127277,
-  "NumberOfAwardsMax": 17090,
+  "NumberOfAwards": 127319,
+  "NumberOfAwardsMax": 17113,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 17090
+      "Count": 17113
     },
     {
       "Text": "This game has Competitive Players",
@@ -26677,7 +26683,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 9897
+      "Count": 9905
     },
     {
       "Text": "This game has Amazing Characters",
@@ -26689,7 +26695,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8251
+      "Count": 8262
     },
     {
       "Text": "This game has a Competitive Community",
@@ -26709,8 +26715,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-09-14T20:58:14.4719494+00:00",
+  "LastChanged": "2024-09-15T03:15:07.6914463+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:40.1584929+00:00",
-  "LastUpdate_Ratings": "2024-09-14T23:59:20.3016408+00:00",
+  "LastUpdate_Ratings": "2024-09-15T03:15:07.6914468+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:32.7309528+00:00"
 }
