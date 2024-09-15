@@ -2,7 +2,7 @@
   "ID": "643a8667d7a940b8b36094020fcd0dcf",
   "Name": "Hell is other demons",
   "ProductSlug": "hell-is-other-demons",
-  "Ranking_Rating": 333,
+  "Ranking_Rating": 352,
   "Ranking_Popularity": 717,
   "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -474,6 +474,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-15T21:58:28.7729264+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -491,8 +497,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:36.4695159+00:00",
-  "LastChanged": "2024-08-08T13:10:36.8004116+00:00",
+  "LastChanged": "2024-09-15T21:58:28.7729262+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:12.4895995+00:00",
-  "LastUpdate_Ratings": "2024-09-15T19:59:03.671475+00:00",
+  "LastUpdate_Ratings": "2024-09-15T21:58:28.7729268+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:40.7013009+00:00"
 }
