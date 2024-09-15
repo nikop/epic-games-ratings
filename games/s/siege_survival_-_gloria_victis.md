@@ -1,7 +1,7 @@
 # Siege Survival - Gloria Victis
 [Store](https://store.epicgames.com/en-US/p/siege-survival-gloria-victis)  
 [View Rawdata](../../db/s/siege_survival_-_gloria_victis.json)  
-Rating: 4.04 (Ranked 1,213)  
+Rating: 4.03 (Ranked 1,215)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.04 (Ranked 1,213)
 | 2024-04-03 | 3.96 | 0 | 0 |
 | 2024-08-01 | 4.00 | 0 | 0 |
 | 2024-09-05 | 4.04 | 0 | 0 |
+| 2024-09-15 | 4.03 | 0 | 0 |
