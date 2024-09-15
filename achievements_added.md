@@ -269,7 +269,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,296 | 4.45 | 0 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 19,865 | 4.53 | 42 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 29 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,353 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,366 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 7 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 29 | - | - |
@@ -345,7 +345,7 @@
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 161 | - | 0 |
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 559 | - | 0 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 594,653 | 4.53 | 150 |
-| [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 33,665 | 4.21 | 44 |
+| [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 33,665 | 4.21 | 45 |
 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 16,335 | 4.82 | 814 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 3,148 | 4.60 | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 30 | - | 0 |
