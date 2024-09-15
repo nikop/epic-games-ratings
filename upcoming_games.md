@@ -45,6 +45,7 @@
 | [Unreachable](games/4/48d6c1632de6479b8c6c1d2f415cea92.md) | 2024-09-30 | - |  | - | - |
 | [XERA: Survival](games/2/229d261b68a34a35a5759d0d79d319e9.md) | 2024-09-30 | - |  | - | - |
 | [Rogue Waters](games/8/898ae428ada149888c1cdd97aaa29845.md) | 2024-09-30 | - |  | - | - |
+| [Dead No-Head](games/9/94e1d567e55e49e487f2fe2a95d26464.md) | 2024-09-30 | - |  | - | - |
 | [Kunkun Terror Express](games/2/27660b74cfde424bb757f518b171b30f.md) | 2024-10-04 | 5 (1,000 XP) | 1 | - | - |
 | [Until Dawn™](games/1/110d3c2c06d6481eb6852a4d2e6a5480.md) | 2024-10-04 | - |  | - | - |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
