@@ -4,7 +4,7 @@
   "ProductSlug": "rain-world-4c860c",
   "Ranking_Rating": 41,
   "Ranking_Popularity": 624,
-  "Ranking_PopularitySum": 572,
+  "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -311,10 +311,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 109,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-16T17:58:59.2389777+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 110,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 109,
+  "NumberOfAwards": 110,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -328,7 +334,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -363,9 +369,9 @@
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
   "FirstSeenAchievements": "2024-09-14T14:21:32.9250148+00:00",
-  "LastChanged": "2024-09-14T02:04:46.9876569+00:00",
+  "LastChanged": "2024-09-16T17:58:59.2389775+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:32.9250126+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:07.0121998+00:00",
-  "LastUpdate_Ratings": "2024-09-16T16:01:12.7421269+00:00",
+  "LastUpdate_Ratings": "2024-09-16T17:58:59.2389781+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:32.9250166+00:00"
 }

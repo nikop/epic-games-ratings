@@ -341,7 +341,7 @@ Completed: 604 (0.14%) (Ranked 441)
 | 2024-09-14 | 433,121 | 604 |
 ## Awards
 Max (Great Boss Battles): 1,421  (Ranked 164)  
-Sum: 1,804 (Ranked 271)  
+Sum: 1,805 (Ranked 271)  
 Diff (max vs sum): -107  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): -107
 | This game has Beautiful Visuals | 37 |
 | This game has Diverse Characters | 34 |
 | This game is Educational | 30 |
-| This game has a Creative Community | 29 |
+| This game has a Creative Community | 30 |
 | This game has a Kind Community | 28 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -577,4 +577,4 @@ Diff (max vs sum): -107
 | 2024-09-12 | 4.70 | - | 1,417 | 1,799 |
 | 2024-09-13 | 4.70 | - | 1,419 | 1,801 |
 | 2024-09-14 | 4.70 | - | 1,420 | 1,803 |
-| 2024-09-16 | 4.70 | - | 1,421 | 1,804 |
+| 2024-09-16 | 4.70 | - | 1,421 | 1,805 |
