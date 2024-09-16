@@ -1,16 +1,16 @@
 # Rising Storm 2: Vietnam
 [Store](https://store.epicgames.com/en-US/p/rising-storm-2-vietnam)  
 [View Rawdata](../../db/r/rising_storm_2__vietnam.json)  
-Rating: 4.49 (Ranked 719)  
+Rating: 4.49 (Ranked 720)  
 Number of Ratings: 2,871  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,291  (Ranked 174)  
-Sum: 10,731 (Ranked 120)  
+Sum: 10,733 (Ranked 120)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,291 |
-| This game has Challenging Combat | 1,196 |
+| This game has Challenging Combat | 1,198 |
 | This game is Highly Recommended | 1,137 |
 | This game is Extremely Fun | 1,094 |
 | This game has Realistic Visuals | 1,076 |
@@ -630,3 +630,4 @@ Diff (max vs sum): 54
 | 2024-09-13 | 4.49 | - | 1,284 | 10,693 |
 | 2024-09-14 | 4.49 | - | 1,286 | 10,708 |
 | 2024-09-15 | 4.49 | - | 1,291 | 10,731 |
+| 2024-09-16 | 4.49 | - | 1,291 | 10,733 |
