@@ -185,14 +185,14 @@ Completed: 7 (0.16%) (Ranked 435)
 | 2024-09-14 | 4,501 | 7 |
 ## Awards
 Max (Quickly Understood Controls): 37  (Ranked 608)  
-Sum: 234 (Ranked 502)  
+Sum: 235 (Ranked 502)  
 Diff (max vs sum): 106  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 37 |
 | This game has Amazing Characters | 35 |
 | This game is Relaxing | 31 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game has Diverse Characters | 28 |
 | This game is Extremely Fun | 26 |
 | This game has Beautiful Visuals | 25 |
@@ -321,3 +321,4 @@ Diff (max vs sum): 106
 | 2024-08-19 | 4.18 | 36 | 231 |
 | 2024-08-22 | 4.18 | 37 | 233 |
 | 2024-09-04 | 4.18 | 37 | 234 |
+| 2024-09-16 | 4.18 | 37 | 235 |

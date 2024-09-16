@@ -3,8 +3,8 @@
   "Name": "Dead Cells",
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 52,
-  "Ranking_Popularity": 262,
-  "Ranking_PopularitySum": 190,
+  "Ranking_Popularity": 256,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8342,12 +8342,18 @@
       "Rating": 4.84,
       "NumberOfAwards": 4250,
       "NumberOfAwardsMax": 549
+    },
+    {
+      "Time": "2024-09-16T20:57:41.7653144+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4844,
+      "NumberOfAwardsMax": 589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4250,
-  "NumberOfAwardsMax": 549,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 4844,
+  "NumberOfAwardsMax": 589,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -8375,9 +8381,9 @@
     },
     {
       "Text": "This game is Great for Beginners",
-      "Prefix": "",
-      "Type": "",
-      "Count": 96
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 589
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8395,7 +8401,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 403
+      "Count": 405
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -8407,7 +8413,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 342
+      "Count": 345
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8433,8 +8439,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-09-16T18:58:14.5532165+00:00",
+  "LastChanged": "2024-09-16T20:57:41.7653143+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:10.4245479+00:00",
-  "LastUpdate_Ratings": "2024-09-16T18:58:14.5532171+00:00",
+  "LastUpdate_Ratings": "2024-09-16T20:57:41.7653148+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:51.2466489+00:00"
 }
