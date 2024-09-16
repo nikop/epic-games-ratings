@@ -1,7 +1,7 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.08 (Ranked 1,199)  
+Rating: 4.08 (Ranked 1,200)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
