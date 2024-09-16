@@ -2,9 +2,9 @@
   "ID": "8928cedecc5d49e392c61bc44a14b436",
   "Name": "Return Alive",
   "ProductSlug": "return-alive-0ffdd1",
-  "Ranking_Rating": 1269,
+  "Ranking_Rating": 1270,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 517,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 478,
   "Ranking_EOS_NewPlayers": 3,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.8,
+  "Rating": 3.81,
   "RatingHistory": [
     {
       "Time": "2024-04-07T15:58:07.8680422+00:00",
@@ -893,10 +893,16 @@
       "Rating": 3.8,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 132
+    },
+    {
+      "Time": "2024-09-16T16:00:17.6154408+00:00",
+      "Rating": 3.81,
+      "NumberOfAwards": 225,
+      "NumberOfAwardsMax": 132
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 205,
+  "NumberOfAwards": 225,
   "NumberOfAwardsMax": 132,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -922,6 +928,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 20
     }
   ],
@@ -1074,9 +1086,9 @@
   "FirstSeen": "2024-04-03T02:14:35.9374728+00:00",
   "FirstSeenRating": "2024-04-07T15:58:07.8680419+00:00",
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged": "2024-09-15T17:58:58.0023411+00:00",
+  "LastChanged": "2024-09-16T16:00:17.6154406+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:02.4205217+00:00",
   "LastUpdate_AppInfo": "2024-09-13T21:57:20.6586588+00:00",
-  "LastUpdate_Ratings": "2024-09-16T14:02:34.1819534+00:00",
+  "LastUpdate_Ratings": "2024-09-16T16:00:17.615441+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:02.420531+00:00"
 }

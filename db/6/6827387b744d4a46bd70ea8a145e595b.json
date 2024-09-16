@@ -2,7 +2,7 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 567,
+  "Ranking_Rating": 568,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 1254,
@@ -3161,10 +3161,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 65123,
       "NumberOfAwardsMax": 21884
+    },
+    {
+      "Time": "2024-09-16T15:58:47.3338726+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 65179,
+      "NumberOfAwardsMax": 21884
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65123,
+  "NumberOfAwards": 65179,
   "NumberOfAwardsMax": 21884,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3220,7 +3226,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 2958
+      "Count": 3014
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3253,8 +3259,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-09-16T11:59:55.6703808+00:00",
+  "LastChanged": "2024-09-16T15:58:47.3338724+00:00",
   "LastUpdate_AppInfo": "2024-09-10T03:01:42.6921858+00:00",
-  "LastUpdate_Ratings": "2024-09-16T14:01:03.5738852+00:00",
+  "LastUpdate_Ratings": "2024-09-16T15:58:47.3338729+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.5484973+00:00"
 }
