@@ -4,7 +4,7 @@
   "ProductSlug": "alan-wake-2",
   "Ranking_Rating": 92,
   "Ranking_Popularity": 162,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 3,
@@ -8413,10 +8413,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 8416,
       "NumberOfAwardsMax": 1437
+    },
+    {
+      "Time": "2024-09-16T04:57:31.3651344+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 8420,
+      "NumberOfAwardsMax": 1437
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8416,
+  "NumberOfAwards": 8420,
   "NumberOfAwardsMax": 1437,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8466,7 +8472,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1247
+      "Count": 1251
     },
     {
       "Text": "This game is Educational",
@@ -20948,9 +20954,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-09-15T23:59:00.9532442+00:00",
+  "LastChanged": "2024-09-16T04:57:31.3651342+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:13.6489009+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:43.5355061+00:00",
-  "LastUpdate_Ratings": "2024-09-16T03:16:50.8140604+00:00",
+  "LastUpdate_Ratings": "2024-09-16T04:57:31.3651349+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:13.6490315+00:00"
 }
