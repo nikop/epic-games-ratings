@@ -2,7 +2,7 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 618,
+  "Ranking_Rating": 619,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 16,
@@ -8382,11 +8382,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 51458,
       "NumberOfAwardsMax": 5697
+    },
+    {
+      "Time": "2024-09-16T16:59:57.9649046+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 51472,
+      "NumberOfAwardsMax": 5705
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51458,
-  "NumberOfAwardsMax": 5697,
+  "NumberOfAwards": 51472,
+  "NumberOfAwardsMax": 5705,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8405,7 +8411,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5697
+      "Count": 5705
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8429,7 +8435,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 4057
+      "Count": 4059
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8441,7 +8447,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3999
+      "Count": 4003
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -15898,9 +15904,9 @@
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2024-09-16T11:59:01.8393382+00:00",
+  "LastChanged": "2024-09-16T16:59:57.9649044+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:24.8581057+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:25.3849262+00:00",
-  "LastUpdate_Ratings": "2024-09-16T15:57:36.6415672+00:00",
+  "LastUpdate_Ratings": "2024-09-16T16:59:57.9649049+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:24.8581486+00:00"
 }
