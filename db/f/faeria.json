@@ -2,7 +2,7 @@
   "ID": "f9c2aedaff8442b286fbd026948b9f09",
   "Name": "Faeria",
   "ProductSlug": "faeria",
-  "Ranking_Rating": 815,
+  "Ranking_Rating": 816,
   "Ranking_Popularity": 433,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 1254,
@@ -1362,6 +1362,6 @@
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
   "LastChanged": "2024-09-15T21:57:40.4418175+00:00",
   "LastUpdate_AppInfo": "2024-09-09T13:14:01.0415358+00:00",
-  "LastUpdate_Ratings": "2024-09-15T23:00:58.4262343+00:00",
+  "LastUpdate_Ratings": "2024-09-16T02:14:15.8847128+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:56.8998294+00:00"
 }

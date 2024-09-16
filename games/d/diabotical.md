@@ -1,7 +1,7 @@
 # Diabotical
 [Store](https://store.epicgames.com/en-US/p/diabotical)  
 [View Rawdata](../../db/d/diabotical.json)  
-Rating: 4.73 (Ranked 201)  
+Rating: 4.72 (Ranked 214)  
 Number of Ratings: 572  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 326  (Ranked 305)  
@@ -288,3 +288,4 @@ Diff (max vs sum): 77
 | 2024-09-01 | 4.73 | - | 326 | 2,823 |
 | 2024-09-07 | 4.73 | - | 326 | 2,824 |
 | 2024-09-08 | 4.73 | - | 326 | 2,825 |
+| 2024-09-16 | 4.72 | - | 326 | 2,825 |
