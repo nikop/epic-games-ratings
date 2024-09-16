@@ -1,12 +1,12 @@
 # FUSER™
 [Store](https://store.epicgames.com/en-US/p/fuser)  
 [View Rawdata](../../db/f/fuser™.json)  
-Rating: 4.72 (Ranked 214)  
+Rating: 4.72 (Ranked 213)  
 Number of Ratings: 86  (23.09.2022)  
 ## Awards
 Max (Educational): 36  (Ranked 613)  
-Sum: 347 (Ranked 456)  
-Diff (max vs sum): 157  
+Sum: 347 (Ranked 457)  
+Diff (max vs sum): 156  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 36 |

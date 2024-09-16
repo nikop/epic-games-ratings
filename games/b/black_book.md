@@ -219,14 +219,14 @@ Completed: 129 (0.14%) (Ranked 441)
 | 2024-09-14 | 91,808 | 129 |
 ## Awards
 Max (Extremely Fun): 27  (Ranked 664)  
-Sum: 118 (Ranked 567)  
-Diff (max vs sum): 97  
+Sum: 119 (Ranked 566)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 126 |
 | This game is Extremely Fun | 27 |
 | This game has Amazing Storytelling | 26 |
-| This game is Highly Recommended | 24 |
+| This game is Highly Recommended | 25 |
 | This game is Great for Beginners | 21 |
 | This game has Quickly Understood Controls | 20 |
 ## Ratings History
@@ -378,3 +378,4 @@ Diff (max vs sum): 97
 | 2024-08-20 | 4.64 | - | 26 | 117 |
 | 2024-09-12 | 4.64 | - | 27 | 118 |
 | 2024-09-15 | 4.65 | - | 27 | 118 |
+| 2024-09-16 | 4.65 | - | 27 | 119 |
