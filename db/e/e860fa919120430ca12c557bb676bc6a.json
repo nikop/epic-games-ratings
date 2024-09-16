@@ -2,7 +2,7 @@
   "ID": "e860fa919120430ca12c557bb676bc6a",
   "Name": "Star Wars Outlaws",
   "ProductSlug": "star-wars-outlaws",
-  "Ranking_Rating": 935,
+  "Ranking_Rating": 944,
   "Ranking_Popularity": 717,
   "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-09-06T17:59:47.8215374+00:00",
@@ -147,6 +147,12 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-16T10:58:47.8415112+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -165,8 +171,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-04T17:59:24.1826817+00:00",
   "FirstSeenRating": "2024-09-06T17:59:47.8215369+00:00",
-  "LastChanged": "2024-09-15T19:59:18.8131689+00:00",
+  "LastChanged": "2024-09-16T10:58:47.841511+00:00",
   "LastUpdate_AppInfo": "2024-09-11T05:57:16.5027223+00:00",
-  "LastUpdate_Ratings": "2024-09-16T09:00:58.7372131+00:00",
+  "LastUpdate_Ratings": "2024-09-16T10:58:47.8415116+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:35.2203508+00:00"
 }
