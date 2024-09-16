@@ -2,7 +2,7 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_Rating": 776,
+  "Ranking_Rating": 762,
   "Ranking_Popularity": 717,
   "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 261,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2023-12-27T15:59:49.1136696+00:00",
@@ -237,6 +237,12 @@
     {
       "Time": "2024-09-15T03:15:22.1467997+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-16T03:16:52.3359048+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3993,9 +3999,9 @@
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged": "2024-09-15T03:15:22.1467995+00:00",
+  "LastChanged": "2024-09-16T03:16:52.3359046+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:51.4142418+00:00",
   "LastUpdate_AppInfo": "2024-09-09T06:57:15.0405982+00:00",
-  "LastUpdate_Ratings": "2024-09-15T23:59:02.4752499+00:00",
+  "LastUpdate_Ratings": "2024-09-16T03:16:52.3359054+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:51.4142732+00:00"
 }

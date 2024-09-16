@@ -364,7 +364,7 @@ Completed: 98 (0.01%) (Ranked 559)
 | 2024-09-14 | 1,261,035 | 98 |
 ## Awards
 Max (Character Customization): 18,794  (Ranked 30)  
-Sum: 58,249 (Ranked 34)  
+Sum: 58,253 (Ranked 34)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -376,7 +376,7 @@ Diff (max vs sum): -4
 | This game has Amazing Characters | 2,947 |
 | This game has Amazing Storytelling | 2,895 |
 | This game is Extremely Fun | 2,797 |
-| This game has Quickly Understood Controls | 2,613 |
+| This game has Quickly Understood Controls | 2,617 |
 | This game has a Creative Community | 2,576 |
 | This game is Relaxing | 2,537 |
 | This game has Obsessive Gameplay | 230 |
@@ -996,3 +996,4 @@ Diff (max vs sum): -4
 | 2024-09-13 | 4.59 | - | 18,759 | 58,086 |
 | 2024-09-14 | 4.59 | - | 18,774 | 58,159 |
 | 2024-09-15 | 4.59 | - | 18,794 | 58,249 |
+| 2024-09-16 | 4.59 | - | 18,794 | 58,253 |

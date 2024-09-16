@@ -1,7 +1,7 @@
 # Monster Jam Steel Titans 2
 [Store](https://store.epicgames.com/en-US/p/monster-jam-steel-titans-2)  
 [View Rawdata](../../db/m/monster_jam_steel_titans_2.json)  
-Rating: 4.57 (Ranked 543)  
+Rating: 4.58 (Ranked 523)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -17,3 +17,4 @@ Rating: 4.57 (Ranked 543)
 | 2024-03-19 | 4.54 | 0 | 0 |
 | 2024-05-23 | 4.55 | 0 | 0 |
 | 2024-08-19 | 4.57 | 0 | 0 |
+| 2024-09-16 | 4.58 | 0 | 0 |
