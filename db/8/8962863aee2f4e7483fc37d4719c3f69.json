@@ -2,7 +2,7 @@
   "ID": "8962863aee2f4e7483fc37d4719c3f69",
   "Name": "PAYDAY 3",
   "ProductSlug": "payday-3",
-  "Ranking_Rating": 1220,
+  "Ranking_Rating": 1221,
   "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 1254,
@@ -2341,10 +2341,16 @@
       "Rating": 4.02,
       "NumberOfAwards": 521,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-09-17T11:00:09.3810926+00:00",
+      "Rating": 4.02,
+      "NumberOfAwards": 523,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 521,
+  "NumberOfAwards": 523,
   "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2394,7 +2400,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 63
+      "Count": 65
     }
   ],
   "EOS_Progressed": 0,
@@ -2409,8 +2415,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-09-17T01:43:15.5791783+00:00",
+  "LastChanged": "2024-09-17T11:00:09.3810925+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:10.4087278+00:00",
-  "LastUpdate_Ratings": "2024-09-17T09:58:01.5104866+00:00",
+  "LastUpdate_Ratings": "2024-09-17T11:00:09.3810931+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:28.1561061+00:00"
 }

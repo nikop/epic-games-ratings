@@ -4,7 +4,7 @@
   "ProductSlug": "bloons-td-6-bf95a0",
   "Ranking_Rating": 133,
   "Ranking_Popularity": 34,
-  "Ranking_PopularitySum": 26,
+  "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23299,10 +23299,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 91157,
       "NumberOfAwardsMax": 17249
+    },
+    {
+      "Time": "2024-09-17T10:58:22.3582481+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 91252,
+      "NumberOfAwardsMax": 17249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 91157,
+  "NumberOfAwards": 91252,
   "NumberOfAwardsMax": 17249,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -23316,7 +23322,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 13370
+      "Count": 13404
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -23340,7 +23346,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 9647
+      "Count": 9673
     },
     {
       "Text": "This game is Great for Beginners",
@@ -23364,7 +23370,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7019
+      "Count": 7039
     },
     {
       "Text": "This game is Relaxing",
@@ -23376,7 +23382,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 8932
+      "Count": 8947
     },
     {
       "Text": "This game has Competitive Players",
@@ -23397,8 +23403,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2024-09-17T05:57:43.8424882+00:00",
+  "LastChanged": "2024-09-17T10:58:22.358248+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:29.6973682+00:00",
-  "LastUpdate_Ratings": "2024-09-17T08:59:57.9329269+00:00",
+  "LastUpdate_Ratings": "2024-09-17T10:58:22.3582484+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:45.0987387+00:00"
 }
