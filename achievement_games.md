@@ -187,7 +187,7 @@
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | 27 (1,000 XP) | 1 | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | 15 (1,000 XP) | 1 | - | - |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | 30 (1,000 XP) | 12 | - | 0 |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 87,887 | 4.77 | 47 |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 87,887 | 4.76 | 47 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | 5 (1,000 XP) | 0 | - | - |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | 21 (1,000 XP) | 5 | - | - |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 28 | - | - |
@@ -1100,7 +1100,7 @@
 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 2022-09-07 | 15 (1,000 XP) | 57 | - | 0 |
 | [Circus Electrique](games/c/circus_electrique.md) | 2022-09-06 | 50 (1,000 XP) | 73,458 | 4.23 | 0 |
 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2022-09-06 | 15 (1,000 XP) | 18,118 | 4.76 | 1,688 |
-| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 949,474 | 4.25 | 859 |
+| [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 949,474 | 4.25 | 864 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 1,238 | 4.55 | 41 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
 | [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 250,998 | 4.58 | 1,551 |
@@ -1112,7 +1112,7 @@
 | [A Tale of Paper: Refolded](games/a/a_tale_of_paper__refolded.md) | 2022-08-19 | 29 (1,000 XP) | 2 | - | 0 |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 5,313 | 4.29 | 65 |
 | [We Are OFK](games/w/we_are_ofk.md) | 2022-08-18 | 28 (1,000 XP) | 1 | - | 0 |
-| [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 3,298 | 4.28 | 0 |
+| [The Surge 2](games/t/the_surge_2.md) | 2022-08-16 | 57 (1,000 XP) | 3,298 | 4.29 | 0 |
 | [Aragami 2](games/a/aragami_2.md) | 2022-08-12 | 44 (1,000 XP) | 50,758 | 4.50 | 0 |
 | [Arcade Paradise](games/a/arcade_paradise.md) | 2022-08-11 | 54 (1,000 XP) | 428,278 | 4.36 | 100 |
 | [City of Gangsters](games/c/city_of_gangsters.md) | 2022-08-11 | 80 (1,000 XP) | 386,183 | 4.31 | 65 |
@@ -1318,7 +1318,7 @@
 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2020-06-25 | 20 (1,000 XP) | 41,793 | 4.42 | 0 |
 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 2020-06-23 | 32 (1,000 XP) | 3,756 | 4.62 | 49 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 3,813 | 4.84 | 59 |
-| [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 45 (1,070 XP) | 148,633 | 4.87 | 852 |
+| [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 45 (1,070 XP) | 148,633 | 4.87 | 854 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 366 (3,480 XP) | 20,212 | 4.65 | 275 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 124,942 | 4.74 | 10,903 |
 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,426 | 4.69 | 994 |

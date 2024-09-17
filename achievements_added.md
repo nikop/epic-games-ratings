@@ -70,7 +70,7 @@
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 16 | - | 0 |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 9 | - | - |
 | [Daylife in Japan - Pixel Art Jigsaw Puzzle](games/4/41e056766e214f898060922b94481457.md) | 2024-07-25 | 12 (1,000 XP) | 39 | - | 0 |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 87,887 | 4.77 | 47 |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 87,887 | 4.76 | 47 |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | 24 (1,000 XP) | 7 | - | - |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2024-09-12 | 15 (1,000 XP) | 0 | - | - |
 | [Juna - The Dreamwalker](games/e/e424e1d51e114ae8b6d685c943043cd7.md) | 2024-08-31 | 28 (1,000 XP) | 5 | - | - |
