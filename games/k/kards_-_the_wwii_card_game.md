@@ -1,15 +1,15 @@
 # KARDS - The WWII Card Game
 [Store](https://store.epicgames.com/en-US/p/kards-the-world-war-ii-card-game)  
 [View Rawdata](../../db/k/kards_-_the_wwii_card_game.json)  
-Rating: 4.39 (Ranked 910)  
+Rating: 4.39 (Ranked 909)  
 Number of Ratings: 1,466  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 800  (Ranked 228)  
-Sum: 4,628 (Ranked 183)  
+Max (Great for Quick Sessions): 801  (Ranked 228)  
+Sum: 4,629 (Ranked 183)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 800 |
+| This game is Great for Quick Sessions | 801 |
 | This game is Highly Recommended | 604 |
 | This game has Quickly Understood Controls | 577 |
 | This game is Relaxing | 555 |
@@ -482,4 +482,4 @@ Diff (max vs sum): 45
 | 2024-09-14 | 4.39 | - | 798 | 5,093 |
 | 2024-09-15 | 4.39 | - | 800 | 5,108 |
 | 2024-09-16 | 4.39 | - | 800 | 4,622 |
-| 2024-09-17 | 4.39 | - | 800 | 4,628 |
+| 2024-09-17 | 4.39 | - | 801 | 4,629 |
