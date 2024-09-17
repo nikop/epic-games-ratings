@@ -4,7 +4,7 @@
   "ProductSlug": "sunless-skies-bb4947",
   "Ranking_Rating": 796,
   "Ranking_Popularity": 380,
-  "Ranking_PopularitySum": 438,
+  "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -917,10 +917,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2024-09-17T03:57:57.3063544+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 401,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 399,
+  "NumberOfAwards": 401,
   "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -946,7 +952,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",
@@ -964,7 +970,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1270,9 +1276,9 @@
   "FirstSeen": "2024-06-27T18:57:45.3938214+00:00",
   "FirstSeenRating": "2024-06-30T03:01:14.9196581+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:09.4008727+00:00",
-  "LastChanged": "2024-09-16T04:58:48.167434+00:00",
+  "LastChanged": "2024-09-17T03:57:57.3063543+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:15.5594814+00:00",
   "LastUpdate_AppInfo": "2024-09-12T21:57:16.3471372+00:00",
-  "LastUpdate_Ratings": "2024-09-17T02:18:02.8369565+00:00",
+  "LastUpdate_Ratings": "2024-09-17T03:57:57.3063547+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:15.5594985+00:00"
 }
