@@ -1,7 +1,7 @@
 # Slipways
 [Store](https://store.epicgames.com/en-US/p/slipways)  
 [View Rawdata](../../db/s/slipways.json)  
-Rating: 4.74 (Ranked 183)  
+Rating: 4.75 (Ranked 166)  
 Number of Ratings: 34  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -31,3 +31,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2024-04-12 | 4.72 | - | 0 | 0 |
 | 2024-08-02 | 4.73 | - | 0 | 0 |
 | 2024-08-18 | 4.74 | - | 0 | 0 |
+| 2024-09-17 | 4.75 | - | 0 | 0 |

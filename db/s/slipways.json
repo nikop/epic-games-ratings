@@ -2,7 +2,7 @@
   "ID": "ae58ba11e4ef46d18a0418db045212e1",
   "Name": "Slipways",
   "ProductSlug": "slipways",
-  "Ranking_Rating": 183,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 717,
   "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "NumberOfRatings": 34,
   "RatingHistory": [
     {
@@ -146,6 +146,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-17T16:57:34.466065+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -163,8 +169,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:00.0993046+00:00",
-  "LastChanged": "2024-08-18T16:57:40.0589971+00:00",
+  "LastChanged": "2024-09-17T16:57:34.4660648+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:26.1349783+00:00",
-  "LastUpdate_Ratings": "2024-09-17T14:58:52.8149908+00:00",
+  "LastUpdate_Ratings": "2024-09-17T16:57:34.4660654+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:09.8982272+00:00"
 }

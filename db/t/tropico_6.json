@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 350,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 338,
+  "Ranking_PopularitySum": 337,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 536,
   "Ranking_EOS_NewPlayers": 3,
@@ -2353,10 +2353,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 927,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-09-17T16:59:11.9246588+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 928,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 927,
+  "NumberOfAwards": 928,
   "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -2406,7 +2412,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18533,9 +18539,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
-  "LastChanged": "2024-09-16T13:16:18.6297855+00:00",
+  "LastChanged": "2024-09-17T16:59:11.9246586+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:12.8684859+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:00.904757+00:00",
-  "LastUpdate_Ratings": "2024-09-17T15:00:31.4306586+00:00",
+  "LastUpdate_Ratings": "2024-09-17T16:59:11.9246591+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:12.8685683+00:00"
 }

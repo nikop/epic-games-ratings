@@ -3,8 +3,8 @@
   "Name": "LEGO\u00AE Batman\u2122 3: Beyond Gotham",
   "ProductSlug": "lego-batman-3",
   "Ranking_Rating": 593,
-  "Ranking_Popularity": 336,
-  "Ranking_PopularitySum": 493,
+  "Ranking_Popularity": 334,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -915,18 +915,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 257,
       "NumberOfAwardsMax": 257
+    },
+    {
+      "Time": "2024-09-17T16:59:50.0031802+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 258,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257,
-  "NumberOfAwardsMax": 257,
+  "NumberOfAwards": 258,
+  "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 257
+      "Count": 258
     }
   ],
   "EOS_Progressed": 0,
@@ -940,8 +946,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:16.9494589+00:00",
-  "LastChanged": "2024-09-11T17:58:52.3604702+00:00",
+  "LastChanged": "2024-09-17T16:59:50.0031801+00:00",
   "LastUpdate_AppInfo": "2024-09-16T07:57:12.472491+00:00",
-  "LastUpdate_Ratings": "2024-09-17T15:01:10.3826142+00:00",
+  "LastUpdate_Ratings": "2024-09-17T16:59:50.0031805+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:46.883967+00:00"
 }

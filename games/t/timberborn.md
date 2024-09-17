@@ -1,11 +1,11 @@
 # Timberborn
 [Store](https://store.epicgames.com/en-US/p/timberborn)  
 [View Rawdata](../../db/t/timberborn.json)  
-Rating: 4.74 (Ranked 183)  
+Rating: 4.74 (Ranked 184)  
 Number of Ratings: 640  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 260  (Ranked 332)  
-Sum: 1,494 (Ranked 296)  
+Sum: 1,496 (Ranked 296)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 36
 | This game is Highly Recommended | 186 |
 | This game is Extremely Fun | 172 |
 | This game has Quickly Understood Controls | 167 |
-| This game is Relaxing | 165 |
+| This game is Relaxing | 167 |
 | This game has Amazing Characters | 162 |
 | This game has Amazing Storytelling | 131 |
 | This game is Educational | 126 |
@@ -413,3 +413,4 @@ Diff (max vs sum): 36
 | 2024-09-14 | 4.74 | - | 259 | 1,487 |
 | 2024-09-15 | 4.74 | - | 260 | 1,490 |
 | 2024-09-16 | 4.74 | - | 260 | 1,494 |
+| 2024-09-17 | 4.74 | - | 260 | 1,496 |
