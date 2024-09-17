@@ -4,8 +4,8 @@
 Rating: 4.43 (Ranked 839)  
 ## Awards
 Max (Relaxing): 93  (Ranked 480)  
-Sum: 688 (Ranked 383)  
-Diff (max vs sum): 97  
+Sum: 688 (Ranked 382)  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 93 |
