@@ -4,7 +4,7 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 81,
-  "Ranking_PopularitySum": 105,
+  "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -9951,10 +9951,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 12830,
       "NumberOfAwardsMax": 6755
+    },
+    {
+      "Time": "2024-09-17T15:58:51.4093768+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 13130,
+      "NumberOfAwardsMax": 6755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12830,
+  "NumberOfAwards": 13130,
   "NumberOfAwardsMax": 6755,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10040,7 +10046,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 259
+      "Count": 300
     },
     {
       "Text": "This game has a Creative Community",
@@ -10060,8 +10066,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-09-17T13:59:54.61104+00:00",
+  "LastChanged": "2024-09-17T15:58:51.4093766+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:13.4716203+00:00",
-  "LastUpdate_Ratings": "2024-09-17T13:59:54.6110406+00:00",
+  "LastUpdate_Ratings": "2024-09-17T15:58:51.4093772+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:48.6815782+00:00"
 }
