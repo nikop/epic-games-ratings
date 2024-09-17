@@ -5,7 +5,7 @@
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 717 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 2,253 | 134 |
 | 4 | [Tinykin](games/t/tinykin.md) | 4.92 | 0 | 717 |
-| 6 | [Hades](games/h/hades.md) | 4.91 | 4,298 | 105 |
+| 6 | [Hades](games/h/hades.md) | 4.91 | 4,304 | 105 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.91 | 0 | 717 |
 | 8 | [Mago](games/m/mago.md) | 4.90 | 0 | 717 |
 | 8 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 25 | 676 |
@@ -59,7 +59,7 @@
 | 52 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 533 | 264 |
 | 52 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.84 | 0 | 717 |
 | 52 | [LISA: The Joyful - Definitive Edition](games/8/87de7c0aad7944899fb6d2b05e13b108.md) | 4.84 | 0 | 717 |
-| 52 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 16,496 | 37 |
+| 52 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.84 | 16,517 | 37 |
 | 52 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.84 | 336 | 303 |
 | 52 | [Plants vs. Zombies™ Game of the Year Edition](games/c/c7f4f01a250d409ebf0a47677b1b4896.md) | 4.84 | 0 | 717 |
 | 52 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.84 | 241 | 346 |
@@ -355,7 +355,7 @@
 | 350 | [Black Skylands](games/b/black_skylands.md) | 4.65 | 0 | 717 |
 | 350 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 4.65 | 401 | 288 |
 | 350 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.65 | 0 | 717 |
-| 350 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 9,276 | 64 |
+| 350 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 9,289 | 64 |
 | 350 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 132 | 426 |
 | 350 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 4.65 | 0 | 717 |
 | 350 | [DOOM 64](games/d/doom_64.md) | 4.65 | 1,350 | 171 |
@@ -451,7 +451,7 @@
 | 447 | [Art of Rally](games/a/art_of_rally_1.md) | 4.61 | 128 | 432 |
 | 447 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 1,289 | 176 |
 | 447 | [Control](games/c/control.md) | 4.61 | 10,060 | 61 |
-| 447 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 270 | 330 |
+| 447 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 270 | 331 |
 | 447 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 112 | 452 |
 | 447 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 404 | 285 |
 | 447 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.61 | 0 | 717 |
@@ -557,7 +557,7 @@
 | 546 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.57 | 45 | 577 |
 | 546 | [KeyWe](games/k/keywe.md) | 4.57 | 0 | 717 |
 | 546 | [Madcar for PC](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.57 | 0 | 717 |
-| 546 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 4,626 | 101 |
+| 546 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.57 | 4,631 | 101 |
 | 546 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,789 | 109 |
 | 546 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 13,709 | 45 |
 | 546 | [Returnal™](games/r/returnal™.md) | 4.57 | 252 | 338 |
@@ -576,7 +576,7 @@
 | 568 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 29 | 648 |
 | 568 | [Freshly Frosted](games/f/freshly_frosted.md) | 4.56 | 105 | 456 |
 | 568 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.56 | 2,540 | 124 |
-| 568 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 4,349 | 103 |
+| 568 | [Ghostrunner](games/g/ghostrunner.md) | 4.56 | 4,359 | 103 |
 | 568 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.56 | 0 | 717 |
 | 568 | [Hello Neighbor](games/h/hello_neighbor.md) | 4.56 | 615 | 251 |
 | 568 | [Hob](games/h/hob.md) | 4.56 | 0 | 717 |
@@ -1056,7 +1056,7 @@
 | 1,047 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 4.27 | 209 | 363 |
 | 1,047 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.27 | 0 | 717 |
 | 1,047 | [Rise of Industry](games/r/rise_of_industry.md) | 4.27 | 53 | 557 |
-| 1,047 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,517 | 85 |
+| 1,047 | [Rogue Company](games/r/rogue_company.md) | 4.27 | 6,520 | 85 |
 | 1,047 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 4.27 | 136 | 419 |
 | 1,047 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 4.27 | 295 | 316 |
 | 1,060 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 24,791 | 24 |
@@ -1222,7 +1222,7 @@
 | 1,219 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 717 |
 | 1,219 | [The First Tree](games/t/the_first_tree.md) | 4.02 | 0 | 717 |
 | 1,222 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.01 | 0 | 717 |
-| 1,222 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 12,930 | 48 |
+| 1,222 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 12,951 | 48 |
 | 1,222 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,467 | 91 |
 | 1,225 | [Armored Warfare](games/a/armored_warfare.md) | 4.00 | 150 | 405 |
 | 1,226 | [Homeworld 3](games/h/homeworld_3.md) | 3.99 | 0 | 717 |
@@ -1276,7 +1276,7 @@
 | 1,272 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 3.79 | 0 | 717 |
 | 1,272 | [True Reporter. Hidden Mistwood](games/f/f3cdd34e969744e3a60c38fbd1c29669.md) | 3.79 | 0 | 717 |
 | 1,276 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 3.78 | 0 | 717 |
-| 1,276 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 3.78 | 270 | 330 |
+| 1,276 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 3.78 | 271 | 328 |
 | 1,278 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.75 | 1,056 | 198 |
 | 1,278 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 717 |
 | 1,280 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 3.74 | 0 | 717 |
