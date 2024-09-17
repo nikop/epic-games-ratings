@@ -4,12 +4,12 @@
 Rating: 4.58 (Ranked 525)  
 ## Awards
 Max (Great for Beginners): 192  (Ranked 374)  
-Sum: 1,042 (Ranked 325)  
+Sum: 1,043 (Ranked 325)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 192 |
-| This game is Great for Quick Sessions | 188 |
+| This game is Great for Quick Sessions | 189 |
 | This game is Educational | 126 |
 | This game has Competitive Players | 117 |
 | This game has a Competitive Community | 113 |
@@ -393,4 +393,4 @@ Diff (max vs sum): 49
 | 2024-09-14 | 4.58 | 189 | 1,036 |
 | 2024-09-15 | 4.58 | 192 | 1,040 |
 | 2024-09-16 | 4.58 | 192 | 1,041 |
-| 2024-09-17 | 4.58 | 192 | 1,042 |
+| 2024-09-17 | 4.58 | 192 | 1,043 |
