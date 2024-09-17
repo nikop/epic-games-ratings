@@ -3,7 +3,7 @@
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 722,
-  "Ranking_Popularity": 191,
+  "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 153,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -8386,10 +8386,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 7324,
       "NumberOfAwardsMax": 1088
+    },
+    {
+      "Time": "2024-09-17T01:44:16.6586157+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7325,
+      "NumberOfAwardsMax": 1088
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7324,
+  "NumberOfAwards": 7325,
   "NumberOfAwardsMax": 1088,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8421,7 +8427,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 722
+      "Count": 723
     },
     {
       "Text": "This game is Relaxing",
@@ -8471,8 +8477,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2024-09-16T17:59:24.2504532+00:00",
+  "LastChanged": "2024-09-17T01:44:16.6586156+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:02.1834088+00:00",
-  "LastUpdate_Ratings": "2024-09-16T23:57:20.4780495+00:00",
+  "LastUpdate_Ratings": "2024-09-17T01:44:16.6586162+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:52.4867514+00:00"
 }
