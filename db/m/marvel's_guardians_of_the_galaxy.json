@@ -2,7 +2,7 @@
   "ID": "2a09fb19b47f46dfb11ebd382f132a8f",
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
-  "Ranking_Rating": 420,
+  "Ranking_Rating": 421,
   "Ranking_Popularity": 42,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 1254,
@@ -9212,18 +9212,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 19423,
       "NumberOfAwardsMax": 14396
+    },
+    {
+      "Time": "2024-09-17T20:57:14.5400742+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 19472,
+      "NumberOfAwardsMax": 14441
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19423,
-  "NumberOfAwardsMax": 14396,
+  "NumberOfAwards": 19472,
+  "NumberOfAwardsMax": 14441,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14396
+      "Count": 14441
     },
     {
       "Text": "This game is Extremely Fun",
@@ -9235,7 +9241,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 592
+      "Count": 596
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9291,8 +9297,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-09-17T18:58:20.511584+00:00",
+  "LastChanged": "2024-09-17T20:57:14.540074+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:03.2285816+00:00",
-  "LastUpdate_Ratings": "2024-09-17T18:58:20.5115849+00:00",
+  "LastUpdate_Ratings": "2024-09-17T20:57:14.5400748+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:23.7861562+00:00"
 }

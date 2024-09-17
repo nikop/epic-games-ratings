@@ -3,7 +3,7 @@
   "Name": "CYGNI - All Guns Blazing",
   "ProductSlug": "cygni-all-guns-blazing-98f872",
   "Ranking_Rating": 1235,
-  "Ranking_Popularity": 577,
+  "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 642,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 559,
@@ -234,18 +234,24 @@
       "Rating": 3.97,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-09-17T20:57:19.4914362+00:00",
+      "Rating": 3.97,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45,
-  "NumberOfAwardsMax": 45,
+  "NumberOfAwards": 46,
+  "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 45
+      "Count": 46
     }
   ],
   "EOS_Progressed": 141874,
@@ -457,9 +463,9 @@
   "FirstSeen": "2024-08-08T16:57:11.2585749+00:00",
   "FirstSeenRating": "2024-08-09T23:57:10.7283886+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:07.6773784+00:00",
-  "LastChanged": "2024-09-15T11:57:06.8088923+00:00",
+  "LastChanged": "2024-09-17T20:57:19.491436+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:16.8471125+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:21.2206644+00:00",
-  "LastUpdate_Ratings": "2024-09-17T18:58:24.7699231+00:00",
+  "LastUpdate_Ratings": "2024-09-17T20:57:19.4914366+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:16.8471323+00:00"
 }
