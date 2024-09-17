@@ -5155,10 +5155,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 1699,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2024-09-17T17:59:29.5323423+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 1709,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1699,
+  "NumberOfAwards": 1709,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5172,13 +5178,13 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 254
+      "Count": 256
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 197
+      "Count": 199
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5190,19 +5196,19 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 144
+      "Count": 147
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 136
+      "Count": 138
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game is Relaxing",
@@ -5243,9 +5249,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-09-17T07:58:23.6469211+00:00",
+  "LastChanged": "2024-09-17T17:59:29.5323421+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:00.1624261+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:34.2273237+00:00",
-  "LastUpdate_Ratings": "2024-09-17T16:00:21.1307299+00:00",
+  "LastUpdate_Ratings": "2024-09-17T17:59:29.5323426+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:00.1624291+00:00"
 }

@@ -8366,10 +8366,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4850,
       "NumberOfAwardsMax": 589
+    },
+    {
+      "Time": "2024-09-17T17:57:48.7453563+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4852,
+      "NumberOfAwardsMax": 589
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4850,
+  "NumberOfAwards": 4852,
   "NumberOfAwardsMax": 589,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8443,7 +8449,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 480
+      "Count": 482
     }
   ],
   "EOS_Progressed": 0,
@@ -8457,8 +8463,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-09-17T13:59:34.5731298+00:00",
+  "LastChanged": "2024-09-17T17:57:48.7453561+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:10.4245479+00:00",
-  "LastUpdate_Ratings": "2024-09-17T15:58:28.9285337+00:00",
+  "LastUpdate_Ratings": "2024-09-17T17:57:48.7453566+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:51.2466489+00:00"
 }

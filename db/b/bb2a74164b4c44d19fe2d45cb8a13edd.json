@@ -2,7 +2,7 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 764,
+  "Ranking_Rating": 765,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 1254,
@@ -2382,10 +2382,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 6656,
       "NumberOfAwardsMax": 1494
+    },
+    {
+      "Time": "2024-09-17T18:00:14.4990124+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 6667,
+      "NumberOfAwardsMax": 1494
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6656,
+  "NumberOfAwards": 6667,
   "NumberOfAwardsMax": 1494,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2417,7 +2423,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 561
+      "Count": 572
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2456,8 +2462,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-09-17T14:59:24.2446966+00:00",
+  "LastChanged": "2024-09-17T18:00:14.4990122+00:00",
   "LastUpdate_AppInfo": "2024-09-12T05:57:35.4189034+00:00",
-  "LastUpdate_Ratings": "2024-09-17T16:58:05.8487678+00:00",
+  "LastUpdate_Ratings": "2024-09-17T18:00:14.4990129+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:51.1887147+00:00"
 }
