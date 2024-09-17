@@ -4,7 +4,7 @@
   "ProductSlug": "grandchase-c03eb2",
   "Ranking_Rating": 241,
   "Ranking_Popularity": 417,
-  "Ranking_PopularitySum": 488,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1169,10 +1169,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 261,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-09-16T23:59:37.9991459+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 282,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 261,
+  "NumberOfAwards": 282,
   "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1192,13 +1198,19 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 24
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1213,8 +1225,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
-  "LastChanged": "2024-09-16T18:58:28.2887044+00:00",
+  "LastChanged": "2024-09-16T23:59:37.9991457+00:00",
   "LastUpdate_AppInfo": "2024-09-12T02:04:08.4490584+00:00",
-  "LastUpdate_Ratings": "2024-09-16T22:57:25.2284598+00:00",
+  "LastUpdate_Ratings": "2024-09-16T23:59:37.9991461+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:03.8843705+00:00"
 }
