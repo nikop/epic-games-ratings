@@ -33,9 +33,9 @@
 | 31 | [SnowRunner](games/s/snowrunner.md) | 18,576 | 4.75 | 167 |
 | 32 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 18,373 | 4.60 | 471 |
 | 33 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 18,035 | 4.49 | 722 |
-| 34 | [Bloons TD 6](games/b/bloons_td_6.md) | 17,215 | 4.77 | 133 |
+| 34 | [Bloons TD 6](games/b/bloons_td_6.md) | 17,249 | 4.77 | 133 |
 | 35 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 17,164 | 4.46 | 778 |
-| 36 | [Dead Island 2](games/d/dead_island_2.md) | 16,831 | 4.54 | 619 |
+| 36 | [Dead Island 2](games/d/dead_island_2.md) | 16,850 | 4.54 | 619 |
 | 37 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 16,496 | 4.84 | 52 |
 | 38 | [Killing Floor 2](games/k/killing_floor_2.md) | 16,382 | 4.44 | 817 |
 | 39 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 16,218 | 4.68 | 290 |
@@ -92,7 +92,7 @@
 | 90 | [MultiVersus](games/m/multiversus.md) | 5,705 | 4.54 | 619 |
 | 91 | [Shop Titans](games/s/shop_titans.md) | 5,467 | 4.01 | 1,222 |
 | 92 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 5,375 | 4.70 | 240 |
-| 93 | [Days Gone](games/d/days_gone.md) | 5,361 | 4.68 | 290 |
+| 93 | [Days Gone](games/d/days_gone.md) | 5,369 | 4.68 | 290 |
 | 94 | [Trackmania Starter Access](games/t/trackmania.md) | 5,266 | 4.65 | 350 |
 | 95 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 5,247 | 4.63 | 401 |
 | 96 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 5,178 | 4.68 | 290 |
@@ -137,7 +137,7 @@
 | 135 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,241 | 4.50 | 701 |
 | 136 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,206 | 4.38 | 926 |
 | 137 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,158 | 4.49 | 722 |
-| 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 2,088 | 4.80 | 101 |
+| 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 2,091 | 4.80 | 101 |
 | 139 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2,084 | 4.66 | 331 |
 | 140 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2,071 | 4.70 | 240 |
 | 141 | [Football Manager 2023](games/f/football_manager_2023.md) | 2,059 | 4.75 | 167 |
@@ -258,7 +258,7 @@
 | 256 | [Dead Cells](games/d/dead_cells.md) | 589 | 4.84 | 52 |
 | 257 | [Terraforming Mars](games/t/terraforming_mars.md) | 585 | 4.54 | 619 |
 | 258 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 578 | 4.73 | 201 |
-| 259 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 577 | 4.51 | 681 |
+| 258 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 578 | 4.51 | 681 |
 | 260 | [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 570 | 4.31 | 1,006 |
 | 261 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 564 | 4.61 | 447 |
 | 262 | [Dead Space](games/d/dead_space.md) | 558 | 4.72 | 213 |
@@ -305,9 +305,9 @@
 | 303 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 336 | 4.84 | 52 |
 | 304 | [F1® 23](games/f/f1®_23_standard_edition.md) | 335 | 4.57 | 546 |
 | 305 | [Diabotical](games/d/diabotical.md) | 326 | 4.72 | 213 |
+| 306 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 323 | 4.45 | 796 |
 | 306 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 323 | 4.45 | 796 |
-| 307 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 321 | 4.45 | 796 |
-| 307 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 321 | 4.69 | 261 |
+| 308 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 321 | 4.69 | 261 |
 | 309 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 319 | 4.63 | 401 |
 | 310 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 310 | 4.44 | 817 |
 | 311 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.62 | 419 |
@@ -441,10 +441,10 @@
 | 439 | [Carcassonne](games/c/carcassonne.md) | 125 | 4.66 | 331 |
 | 439 | [Poker Club](games/p/poker_club.md) | 125 | 3.87 | 1,259 |
 | 441 | [Darksiders III](games/d/darksiders_iii.md) | 124 | 4.48 | 743 |
+| 441 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 124 | 4.27 | 1,047 |
 | 441 | [Solitairica](games/s/solitairica.md) | 124 | 4.48 | 743 |
-| 443 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 123 | 4.51 | 681 |
-| 443 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 123 | 4.30 | 1,015 |
-| 443 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 123 | 4.27 | 1,047 |
+| 444 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 123 | 4.51 | 681 |
+| 444 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 123 | 4.30 | 1,015 |
 | 446 | [Just Die Already](games/j/just_die_already.md) | 121 | 4.52 | 662 |
 | 446 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 121 | 4.74 | 184 |
 | 446 | [This War of Mine](games/t/this_war_of_mine.md) | 121 | 4.74 | 184 |
@@ -455,15 +455,15 @@
 | 453 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 111 | 4.70 | 240 |
 | 454 | [Super Meat Boy](games/s/super_meat_boy.md) | 109 | 4.72 | 213 |
 | 455 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 106 | 4.32 | 997 |
+| 456 | [Freshly Frosted](games/f/freshly_frosted.md) | 105 | 4.56 | 568 |
 | 456 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 105 | 4.86 | 29 |
 | 456 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 105 | 4.56 | 568 |
-| 458 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 103 | 4.65 | 350 |
-| 458 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,252 |
-| 458 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 103 | 4.54 | 619 |
-| 461 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 102 | 4.18 | 1,142 |
-| 461 | [Session: Skate Sim](games/s/session__skate_sim.md) | 102 | 4.66 | 331 |
-| 463 | [Freshly Frosted](games/f/freshly_frosted.md) | 101 | 4.56 | 568 |
-| 463 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 101 | 4.41 | 875 |
+| 459 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 103 | 4.65 | 350 |
+| 459 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 103 | 3.91 | 1,252 |
+| 459 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 103 | 4.54 | 619 |
+| 462 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 102 | 4.18 | 1,142 |
+| 462 | [Session: Skate Sim](games/s/session__skate_sim.md) | 102 | 4.66 | 331 |
+| 464 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 101 | 4.41 | 875 |
 | 465 | [Arcade Paradise](games/a/arcade_paradise.md) | 100 | 4.36 | 946 |
 | 465 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 100 | 4.49 | 722 |
 | 465 | [The Captain](games/t/the_captain.md) | 100 | 4.44 | 817 |
