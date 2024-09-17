@@ -1,7 +1,7 @@
 # Barony
 [Store](https://store.epicgames.com/en-US/p/barony)  
 [View Rawdata](../../db/b/barony.json)  
-Rating: 4.75 (Ranked 166)  
+Rating: 4.75 (Ranked 167)  
 Number of Ratings: 763  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 171  (Ranked 392)  

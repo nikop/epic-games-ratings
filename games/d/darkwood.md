@@ -1,11 +1,11 @@
 # Darkwood
 [Store](https://store.epicgames.com/en-US/p/darkwood-fa73bd)  
 [View Rawdata](../../db/d/darkwood.json)  
-Rating: 4.62 (Ranked 421)  
+Rating: 4.62 (Ranked 422)  
 ## Awards
 Max (Extremely Fun): 350  (Ranked 299)  
-Sum: 2,631 (Ranked 233)  
-Diff (max vs sum): 66  
+Sum: 2,631 (Ranked 234)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 350 |
