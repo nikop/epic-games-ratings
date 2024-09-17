@@ -2,6 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
+  "Ranking_Rating": 1070,
+  "Ranking_Popularity": 717,
+  "Ranking_PopularitySum": 717,
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 388,
   "Ranking_EOS_NewPlayers": 3,
@@ -15,10 +18,17 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2023-04-05T01:40:29.4675754+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-17T08:59:43.0205776+00:00",
+      "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -3074,9 +3084,9 @@
   "FirstSeen": "2023-04-05T01:40:29.4675735+00:00",
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
-  "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
+  "LastChanged": "2024-09-17T08:59:43.0205773+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:59.6069689+00:00",
   "LastUpdate_AppInfo": "2024-09-16T08:57:15.4093956+00:00",
-  "LastUpdate_Ratings": "2024-09-17T06:59:36.7178235+00:00",
+  "LastUpdate_Ratings": "2024-09-17T08:59:43.0205779+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:59.6069953+00:00"
 }

@@ -1,6 +1,7 @@
 # Road 96: Mile 0
 [Store](https://store.epicgames.com/en-US/p/road-96-mile-0)  
 [View Rawdata](../../db/r/road_96__mile_0.json)  
+Rating: 4.25 (Ranked 1,070)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -223,3 +224,4 @@ Completed: 6 (0.33%) (Ranked 388)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-04-05 | - | 0 | 0 |
+| 2024-09-17 | 4.25 | 0 | 0 |
