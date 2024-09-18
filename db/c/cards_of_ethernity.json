@@ -3,7 +3,7 @@
   "Name": "Aether TCG",
   "ProductSlug": "aether-trading-card-game-420f51",
   "Ranking_Rating": 818,
-  "Ranking_Popularity": 608,
+  "Ranking_Popularity": 604,
   "Ranking_PopularitySum": 594,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -426,18 +426,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 84,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-09-18T22:59:55.8295598+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 87,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -449,7 +455,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 23
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -464,8 +470,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T23:56:57.847601+00:00",
   "FirstSeenRating": "2023-04-26T23:56:57.849328+00:00",
-  "LastChanged": "2024-09-14T17:59:11.0038507+00:00",
+  "LastChanged": "2024-09-18T22:59:55.8295595+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:48.1346886+00:00",
-  "LastUpdate_Ratings": "2024-09-18T21:57:32.8486973+00:00",
+  "LastUpdate_Ratings": "2024-09-18T22:59:55.8295603+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:28.3353758+00:00"
 }
