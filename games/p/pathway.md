@@ -1,8 +1,15 @@
 # Pathway
 [Store](https://store.epicgames.com/en-US/p/pathway)  
 [View Rawdata](../../db/p/pathway.json)  
-Rating: 4.43 (Ranked 839)  
+Rating: 4.43 (Ranked 838)  
 Number of Ratings: 425  (23.09.2022)  
+## Awards
+Max (Quickly Understood Controls): 20  (Ranked 709)  
+Sum: 20 (Ranked 710)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -97,3 +104,4 @@ Number of Ratings: 425  (23.09.2022)
 | 2024-08-12 | 4.43 | - | 0 | 0 |
 | 2024-08-27 | 4.44 | - | 0 | 0 |
 | 2024-09-15 | 4.43 | - | 0 | 0 |
+| 2024-09-18 | 4.43 | - | 20 | 20 |
