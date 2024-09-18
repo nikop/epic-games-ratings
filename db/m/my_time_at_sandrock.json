@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 262,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 267,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 405,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3964,10 +3964,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 1943,
       "NumberOfAwardsMax": 756
+    },
+    {
+      "Time": "2024-09-18T03:01:34.9819221+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1944,
+      "NumberOfAwardsMax": 756
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1943,
+  "NumberOfAwards": 1944,
   "NumberOfAwardsMax": 756,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3993,7 +3999,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -13917,9 +13923,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-09-16T21:57:52.5583499+00:00",
+  "LastChanged": "2024-09-18T03:01:34.9819219+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:49.1554704+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:51.4907931+00:00",
-  "LastUpdate_Ratings": "2024-09-17T23:58:16.3134028+00:00",
+  "LastUpdate_Ratings": "2024-09-18T03:01:34.9819224+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:49.1555614+00:00"
 }
