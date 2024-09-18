@@ -2,7 +2,7 @@
   "ID": "e45dd95b2504456b90bf56ff55231668",
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
-  "Ranking_Rating": 102,
+  "Ranking_Rating": 113,
   "Ranking_Popularity": 578,
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:17.7202819+00:00",
@@ -809,6 +809,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 194,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-09-18T02:06:17.4871406+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 194,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -871,8 +877,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-09-17T19:58:16.6231852+00:00",
+  "LastChanged": "2024-09-18T02:06:17.4871404+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:32.8150141+00:00",
-  "LastUpdate_Ratings": "2024-09-17T22:59:24.7653164+00:00",
+  "LastUpdate_Ratings": "2024-09-18T02:06:17.487141+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:48.5529519+00:00"
 }

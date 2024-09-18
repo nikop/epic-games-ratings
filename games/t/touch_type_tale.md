@@ -1,7 +1,7 @@
 # Touch Type Tale
 [Store](https://store.epicgames.com/en-US/p/touch-type-tale)  
 [View Rawdata](../../db/t/touch_type_tale.json)  
-Rating: 4.71 (Ranked 224)  
+Rating: 4.71 (Ranked 225)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
