@@ -2,9 +2,9 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Ranking_Rating": 8,
+  "Ranking_Rating": 9,
   "Ranking_Popularity": 676,
-  "Ranking_PopularitySum": 572,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -608,10 +608,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-18T13:15:50.7592166+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 131,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
+  "NumberOfAwards": 131,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -631,7 +637,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Highly Recommended",
@@ -643,6 +649,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
       "Count": 20
     }
   ],
@@ -657,8 +669,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2024-09-10T09:57:29.9637335+00:00",
+  "LastChanged": "2024-09-18T13:15:50.7592164+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:15.9373201+00:00",
-  "LastUpdate_Ratings": "2024-09-18T11:57:50.29099+00:00",
+  "LastUpdate_Ratings": "2024-09-18T13:15:50.7592169+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:30.522087+00:00"
 }

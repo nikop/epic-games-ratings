@@ -2,9 +2,9 @@
   "ID": "74ef4349fd684c438077d9e5287c7b2e",
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 183,
+  "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3486,10 +3486,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 4632,
       "NumberOfAwardsMax": 1155
+    },
+    {
+      "Time": "2024-09-18T13:13:04.3403951+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4674,
+      "NumberOfAwardsMax": 1155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4632,
+  "NumberOfAwards": 4674,
   "NumberOfAwardsMax": 1155,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3521,13 +3527,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 430
+      "Count": 451
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 353
+      "Count": 364
     },
     {
       "Text": "This game has Competitive Players",
@@ -3545,7 +3551,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 339
+      "Count": 349
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3566,8 +3572,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-09-18T08:58:44.2543369+00:00",
+  "LastChanged": "2024-09-18T13:13:04.340395+00:00",
   "LastUpdate_AppInfo": "2024-09-13T13:57:06.2359836+00:00",
-  "LastUpdate_Ratings": "2024-09-18T10:57:49.5714208+00:00",
+  "LastUpdate_Ratings": "2024-09-18T13:13:04.3403954+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:22.0015912+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "de554cff12704db4a900032bbd194d7e",
   "Name": "EVE Online",
   "ProductSlug": "eve-online",
-  "Ranking_Rating": 1080,
+  "Ranking_Rating": 1097,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "NumberOfRatings": 1408,
   "RatingHistory": [
     {
@@ -5088,10 +5088,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 3019,
       "NumberOfAwardsMax": 1352
+    },
+    {
+      "Time": "2024-09-18T13:13:26.6689027+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 3022,
+      "NumberOfAwardsMax": 1352
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3019,
+  "NumberOfAwards": 3022,
   "NumberOfAwardsMax": 1352,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5111,7 +5117,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 259
+      "Count": 260
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5135,7 +5141,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 215
+      "Count": 217
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5173,8 +5179,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:38.4001765+00:00",
-  "LastChanged": "2024-09-17T14:57:42.7267237+00:00",
+  "LastChanged": "2024-09-18T13:13:26.6689025+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:43.107039+00:00",
-  "LastUpdate_Ratings": "2024-09-18T10:58:11.6238457+00:00",
+  "LastUpdate_Ratings": "2024-09-18T13:13:26.6689031+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:19.9843926+00:00"
 }
