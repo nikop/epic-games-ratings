@@ -2,8 +2,8 @@
   "ID": "5d9f109e44ec4c8bbc5495f43b601f25",
   "Name": "CYGNI - All Guns Blazing",
   "ProductSlug": "cygni-all-guns-blazing-98f872",
-  "Ranking_Rating": 1237,
-  "Ranking_Popularity": 576,
+  "Ranking_Rating": 1235,
+  "Ranking_Popularity": 577,
   "Ranking_PopularitySum": 643,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 559,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.97,
+  "Rating": 3.98,
   "RatingHistory": [
     {
       "Time": "2024-08-09T23:57:10.7283889+00:00",
@@ -238,6 +238,12 @@
     {
       "Time": "2024-09-17T20:57:19.4914362+00:00",
       "Rating": 3.97,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-09-18T20:57:50.9213448+00:00",
+      "Rating": 3.98,
       "NumberOfAwards": 46,
       "NumberOfAwardsMax": 46
     }
@@ -463,9 +469,9 @@
   "FirstSeen": "2024-08-08T16:57:11.2585749+00:00",
   "FirstSeenRating": "2024-08-09T23:57:10.7283886+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:07.6773784+00:00",
-  "LastChanged": "2024-09-17T20:57:19.491436+00:00",
+  "LastChanged": "2024-09-18T20:57:50.9213443+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:16.8471125+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:21.2206644+00:00",
-  "LastUpdate_Ratings": "2024-09-18T18:57:34.7398501+00:00",
+  "LastUpdate_Ratings": "2024-09-18T20:57:50.9213451+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:16.8471323+00:00"
 }
