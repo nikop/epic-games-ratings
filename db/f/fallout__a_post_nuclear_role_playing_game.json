@@ -4,7 +4,7 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 285,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1295,10 +1295,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 489,
       "NumberOfAwardsMax": 404
+    },
+    {
+      "Time": "2024-09-18T03:57:14.1911326+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 509,
+      "NumberOfAwardsMax": 404
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 489,
+  "NumberOfAwards": 509,
   "NumberOfAwardsMax": 404,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1337,6 +1343,12 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Storytelling",
+      "Prefix": "This game has",
+      "Type": "Amazing Storytelling",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1351,8 +1363,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-09-16T23:59:57.9732098+00:00",
+  "LastChanged": "2024-09-18T03:57:14.1911321+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:14.0725928+00:00",
-  "LastUpdate_Ratings": "2024-09-18T02:05:42.8207766+00:00",
+  "LastUpdate_Ratings": "2024-09-18T03:57:14.191133+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:57.1927683+00:00"
 }
