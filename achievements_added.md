@@ -14,7 +14,7 @@
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | 27 (1,000 XP) | 37 | - | 0 |
 | [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-08-06 | 40 (1,000 XP) | 4 | - | - |
 | [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-29 | 19 (1,000 XP) | 1,289 | 4.60 | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.64 | 124 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.64 | 145 |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
@@ -30,7 +30,7 @@
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 8 | - | 0 |
 | [Exo Mayhem](games/0/05a60577cbce49f987ccebfd548cd088.md) | 2024-08-22 | 11 (1,000 XP) | 12 | - | - |
 | [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | - | 0 |
-| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.58 | 0 |
+| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.57 | 0 |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [ATOMIC SHELTER](games/b/b005ba75ad8d488c9d8be26cb04f18fc.md) | 2024-09-16 | 14 (1,000 XP) | 1 | - | 0 |
 | [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | 15 (1,000 XP) | 68 | - | 0 |
@@ -51,7 +51,7 @@
 | [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | - | 0 |
 | [ZELENSTROY](games/f/f8cdddb2e147402c89c8565a9276b148.md) | 2024-08-21 | 5 (1,000 XP) | 5 | - | - |
 | [Shelter: An Animal Adventure](games/3/380c783528fb4ec58069229a29c71802.md) | 2024-09-12 | 15 (1,000 XP) | 1 | - | - |
-| [Shelter: An Elephant Adventure](games/0/08970d9237b0458d92c1ee36bd3dbee3.md) | 2024-10-03 | 7 (1,000 XP) | 0 | - | - |
+| [Shelter: An Elephant Adventure](games/0/08970d9237b0458d92c1ee36bd3dbee3.md) | 2099-01-01 | 7 (1,000 XP) | 0 | - | - |
 | [Kunkun Terror Express](games/2/27660b74cfde424bb757f518b171b30f.md) | 2024-10-04 | 5 (1,000 XP) | 1 | - | - |
 | [Kaptain Brawe - A Brawe New World](games/6/6360f6e14b864d1c998a0f04b4744f47.md) | 2024-09-03 | 29 (1,000 XP) | 5 | - | - |
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 3.78 | 0 |
@@ -99,7 +99,7 @@
 | [DOOM + DOOM II](games/0/0f62dafaf9894dcc8e0a35d2ded47f71.md) | 2024-08-08 | 33 (1,000 XP) | 733 | 4.96 | 0 |
 | [Looper Tactics Deluxe Edition](games/e/e551ed37b11f45ec9fb62af82ed0354f.md) | 2024-08-09 | 28 (1,000 XP) | 0 | - | 0 |
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
-| [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 141,874 | 3.97 | 46 |
+| [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 2024-08-05 | 22 (1,000 XP) | 141,874 | 3.98 | 46 |
 | [DOOM Eternal](games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 2024-08-08 | 50 (1,545 XP) | 44 | - | 0 |
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 2 | - | 0 |
 | [Marenian Tavern Story: Patty and the Hungry God](games/9/9eeb8436a0664c16ae238d950b6d8dc6.md) | 2024-08-22 | 49 (1,000 XP) | 10 | - | 0 |
@@ -338,7 +338,7 @@
 | [Never Alone](games/e/e578f95e616d4dc29a70d0f7be01ebb5.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 626 | 4.41 | 0 |
 | [Desperados III](games/d/desperados_iii.md) | 2020-06-16 | 36 (1,000 XP) | 3,813 | 4.84 | 59 |
-| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 82,401 | 4.44 | 373 |
+| [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 82,401 | 4.44 | 376 |
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 37 | - | 0 |
 | [Seduction of beauty](games/0/07cfed7064234bfc9d7b5c1b8462f2f8.md) | 2024-02-04 | 44 (1,000 XP) | 5,044 | 4.19 | 0 |
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 34 | - | 0 |
@@ -366,7 +366,7 @@
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 2024-04-10 | 19 (1,000 XP) | 72 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,639 | 4.57 | 186 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,639 | 4.57 | 187 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 53,577 | 4.65 | 899 |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | 6 (1,000 XP) | 17 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 16 | - | 0 |
@@ -524,7 +524,7 @@
 | [Math Fun](games/b/b2d39a10264c4afb819cbd89b533a4fb.md) | 2023-12-02 | 5 (1,000 XP) | 22 | - | 0 |
 | [Extreme Formula Championship](games/1/1903efa2b18040089ecbd796f9ec3a16.md) | 2023-12-05 | 5 (1,000 XP) | 14 | - | 0 |
 | [Tenement](games/7/78d14ec62d2a41d095ac4facc9278617.md) | 2024-01-17 | 60 (1,000 XP) | 1 | - | - |
-| [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 187,060 | 4.60 | 116 |
+| [GRIME](games/g/grime.md) | 2021-08-02 | 46 (1,210 XP) | 187,060 | 4.60 | 117 |
 | [Horse Racing](games/e/e4e71e80487245b682ed399fa518964e.md) | 2023-12-02 | 9 (1,000 XP) | 17 | - | 0 |
 | [Black Academy](games/5/5bc5fe63f152435caf6a316d66bc87e3.md) | 2023-12-01 | 29 (1,000 XP) | 3 | - | 0 |
 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 2023-12-01 | 5 (1,000 XP) | 24 | - | 0 |
