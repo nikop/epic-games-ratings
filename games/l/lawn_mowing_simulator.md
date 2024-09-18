@@ -1,7 +1,7 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.07 (Ranked 1,207)  
+Rating: 4.07 (Ranked 1,208)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -354,8 +354,8 @@ Completed: 19 (0.00%) (Ranked 591)
 | 2024-09-14 | 751,132 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 187  (Ranked 377)  
-Sum: 1,032 (Ranked 327)  
-Diff (max vs sum): 50  
+Sum: 1,032 (Ranked 328)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 187 |

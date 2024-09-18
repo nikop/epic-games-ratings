@@ -2,7 +2,7 @@
   "ID": "14ee004dadc142faaaece5a6270fb628",
   "Name": "The Witcher 3: Wild Hunt \u2013 Complete Edition",
   "ProductSlug": "the-witcher-3-wild-hunt",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 13,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 1254,
@@ -27002,10 +27002,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 94398,
       "NumberOfAwardsMax": 30939
+    },
+    {
+      "Time": "2024-09-18T10:58:10.1439861+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 94405,
+      "NumberOfAwardsMax": 30939
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 94398,
+  "NumberOfAwards": 94405,
   "NumberOfAwardsMax": 30939,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -27073,7 +27079,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6515
+      "Count": 6522
     },
     {
       "Text": "This game has a Creative Community",
@@ -27093,8 +27099,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2024-09-17T19:58:35.0382707+00:00",
+  "LastChanged": "2024-09-18T10:58:10.1439859+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:42.0927707+00:00",
-  "LastUpdate_Ratings": "2024-09-18T08:59:07.3175276+00:00",
+  "LastUpdate_Ratings": "2024-09-18T10:58:10.1439865+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:07.7610253+00:00"
 }
