@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Forgotten Bunker 1939](games/c/c7d05124d88241318dc8ff91c482e561.md) | 2024-09-18 | - |  | - | - |
 | [Seed of Heroes](games/0/0e55c16d6a89449c91646b3add220079.md) | 2024-09-17 | - |  | - | - |
 | [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | - | 0 |
 | [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | - | 0 |
@@ -91,7 +92,7 @@
 | [Office Fight](games/5/596e41f75cf64aa8b2d19d32320f7473.md) | 2024-08-21 | 40 (1,000 XP) | 10 | - | 0 |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | 5 (1,000 XP) | 33 | - | - |
 | [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2024-08-20 | 20 (1,000 XP) | 30 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 11,870 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 12,084 |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 8 | - | 0 |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | 21 (1,000 XP) | 8 | - | 0 |
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | 36 (1,000 XP) | 5 | - | 0 |

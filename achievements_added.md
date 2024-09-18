@@ -65,7 +65,7 @@
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2099-02-01 | 51 (1,000 XP) | 131 | - | 0 |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | 35 (1,000 XP) | 38 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 11,870 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 12,084 |
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 332 | - | 0 |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 16 | - | 0 |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 9 | - | - |
@@ -269,7 +269,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,296 | 4.48 | 0 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 19,865 | 4.53 | 43 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 29 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,386 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,399 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 7 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 29 | - | - |
@@ -608,7 +608,7 @@
 | [Lempo](games/l/lempo.md) | 2023-09-07 | 34 (1,000 XP) | 1 | - | 0 |
 | [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 476 | 4.58 | 0 |
 | [The Jackbox Party Pack 10](games/3/3b925119dbd84a9986f06e66e6794033.md) | 2023-10-19 | 20 (1,000 XP) | 1,132 | - | 0 |
-| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 38,180 | 4.37 | 0 |
+| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 38,180 | 4.38 | 0 |
 | [Candle Knight](games/9/909c6e888c164c78a1811afccedbc3a7.md) | 2023-06-22 | 23 (1,000 XP) | 1 | - | 0 |
 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 2023-10-25 | 12 (1,000 XP) | 20 | - | 0 |
 | [Outbreak The Nightmare Chronicles Reinvestigated](games/8/84675ff3b0cd4f26bf1f655da1b6265f.md) | 2023-09-13 | 12 (1,000 XP) | 49 | - | 0 |
@@ -726,7 +726,7 @@
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 2 | 3.63 | 0 |
 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 2023-09-12 | 24 (1,000 XP) | 21,491 | - | 0 |
 | [Engine Evolution 2023](games/6/6a47fb709a8c4f68b7638c29ea628194.md) | 2023-09-30 | 35 (1,000 XP) | 21,129 | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 451 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 454 |
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 113 | - | 0 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 15 | - | 0 |
 | [Black Book](games/b/black_book.md) | 2021-08-10 | 50 (1,000 XP) | 91,808 | 4.65 | 27 |

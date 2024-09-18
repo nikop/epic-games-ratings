@@ -123,7 +123,7 @@
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2024-01-20 | - |  | 3.99 | 0 |
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | 0 |
 | [Anito Legends](games/5/5a70a74abf1044db84a816cb0a401566.md) | 2024-01-10 | - |  | - | 0 |
-| [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | - | 0 |
+| [OpenSeason](games/5/53b4ffb651f04ca0bbd47c310ad6efd8.md) | 2024-01-05 | - |  | 4.90 | 0 |
 | [Underground Waifus TCG](games/4/469efc19125a4c3fb518e4723ad3010e.md) | 2023-12-29 | - |  | - | 0 |
 | [9Lives Arena](games/9/9lives_arena.md) | 2023-12-27 | 5 (1,000 XP) | 7,587 | 4.52 | 39 |
 | [World of Dypians](games/0/019f3ce538a440c48ecf5f4f8d787622.md) | 2023-12-21 | - |  | - | 0 |
@@ -151,7 +151,7 @@
 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 2023-09-15 | - |  | 4.35 | 358 |
 | [Kode Zero](games/d/dc4c4be805e344a4bab504dc2c2a526d.md) | 2023-09-12 | - |  | - | 0 |
 | [The Moshpit Tournament](games/2/2d9bae7960d34288b85d26ed3196d90d.md) | 2023-09-10 | - |  | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 451 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 454 |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | 4.07 | 23 |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | 0 |
 | [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | 4.51 | 0 |

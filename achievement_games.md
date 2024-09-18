@@ -96,7 +96,7 @@
 | [Office Fight](games/5/596e41f75cf64aa8b2d19d32320f7473.md) | 2024-08-21 | 40 (1,000 XP) | 10 | - | 0 |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | 5 (1,000 XP) | 33 | - | - |
 | [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2024-08-20 | 20 (1,000 XP) | 30 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 11,870 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 12,084 |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 8 | - | 0 |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | 21 (1,000 XP) | 8 | - | 0 |
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | 36 (1,000 XP) | 5 | - | 0 |
@@ -257,7 +257,7 @@
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | 48 (1,000 XP) | 1 | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 15 | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 113,593 | 4.85 | 3,538 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,386 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,399 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 612 | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 117 | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 99 | - | 0 |
@@ -586,7 +586,7 @@
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 80,210 | 4.18 | 0 |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-10-24 | 27 (1,000 XP) | 433,653 | 4.43 | 1,545 |
 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 2023-10-20 | 5 (1,000 XP) | 265 | - | 0 |
-| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 38,180 | 4.37 | 0 |
+| [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 2023-10-19 | 10 (1,000 XP) | 38,180 | 4.38 | 0 |
 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 2023-10-19 | 42 (1,000 XP) | 693 | 4.74 | 0 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 30 (1,000 XP) | 2,103 | - | 0 |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-10-19 | 27 (1,000 XP) | 490 | - | 0 |
@@ -685,7 +685,7 @@
 | [Sea Horizon](games/b/bcd479d96de045fa8805f2bf4962475e.md) | 2023-09-05 | 17 (1,000 XP) | 7 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 15 | - | - |
 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 2023-09-04 | 17 (1,000 XP) | 352 | - | 0 |
-| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 451 |
+| [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 454 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2023-09-01 | 36 (1,000 XP) | 7 | - | - |
 | [Airport CEO](games/0/0eb6d6e85bfe442b87cb1172415d35fb.md) | 2023-09-01 | 34 (1,000 XP) | 132 | - | 0 |
 | [Masterplan Tycoon](games/3/3933d71231a543fd873b8768585e2bd7.md) | 2023-09-01 | 16 (1,000 XP) | 113 | - | 0 |
@@ -1216,7 +1216,7 @@
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 12,833 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,108 | - | 0 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 257 (6,205 XP) | 1,617,795 | 4.50 | 54,756 |
-| [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 285,985 | 4.61 | 1,089 |
+| [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 285,985 | 4.61 | 1,090 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 20 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,768 | 4.44 | 38 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 639,434 | 4.51 | 151 |
