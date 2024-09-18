@@ -4,8 +4,8 @@
 Rating: 4.79 (Ranked 115)  
 ## Awards
 Max (Great for Quick Sessions): 45  (Ranked 579)  
-Sum: 194 (Ranked 528)  
-Diff (max vs sum): 51  
+Sum: 234 (Ranked 504)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
@@ -15,6 +15,8 @@ Diff (max vs sum): 51
 | This game has a Competitive Community | 26 |
 | This game has Challenging Combat | 21 |
 | This game has Amazing Characters | 20 |
+| This game has Amazing Storytelling | 20 |
+| This game is Extremely Fun | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -114,4 +116,4 @@ Diff (max vs sum): 51
 | 2024-09-15 | 4.80 | 44 | 163 |
 | 2024-09-16 | 4.79 | 44 | 185 |
 | 2024-09-17 | 4.80 | 45 | 194 |
-| 2024-09-18 | 4.79 | 45 | 194 |
+| 2024-09-18 | 4.79 | 45 | 234 |
