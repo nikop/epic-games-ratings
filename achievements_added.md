@@ -206,7 +206,7 @@
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 99 | - | 0 |
 | [Backrooms Break](games/6/6246bf144dd3486fa681b773ddbe441a.md) | 2024-05-03 | 7 (1,000 XP) | 126 | - | 0 |
 | [MiLE HiGH TAXi](games/3/3c6cb8047c2043c99fb5f53d9458658d.md) | 2024-06-21 | 17 (1,000 XP) | 39 | - | 0 |
-| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 3,981 | 4.33 | 149 |
+| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 3,981 | 4.33 | 150 |
 | [Womanizer](games/f/f5b1e856606c4990af9f705d1cd92623.md) | 2024-04-30 | 46 (1,000 XP) | 1 | - | 0 |
 | [Tales of Kenzera™: ZAU](games/4/49cd2d3bc2fb416984bee5533ceb5d88.md) | 2024-04-23 | 19 (1,000 XP) | 408 | - | 0 |
 | [The Lullaby of Life](games/b/b7abf2d38e8c4442add0d27e6e47bd8a.md) | 2024-05-06 | 10 (1,000 XP) | 21 | - | - |

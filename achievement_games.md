@@ -1268,7 +1268,7 @@
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 30,044 | 4.43 | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 723 | - | 0 |
 | [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 10,244 | 4.60 | 190 |
-| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 3,981 | 4.33 | 149 |
+| [BIOMUTANT](games/b/biomutant.md) | 2021-05-25 | 46 (1,000 XP) | 3,981 | 4.33 | 150 |
 | [Grindstone](games/g/grindstone.md) | 2021-05-20 | 49 (1,000 XP) | 5,328 | 4.83 | 0 |
 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 2021-05-13 | 31 (1,000 XP) | 43,479 | 4.35 | 217 |
 | [DEMON'S TILT](games/d/demon's_tilt.md) | 2021-05-10 | 29 (1,000 XP) | 18,172 | 4.56 | 30 |
@@ -1328,7 +1328,7 @@
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 261,993 | 4.67 | 647 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,732 | 4.48 | 124 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 57,537 | 4.45 | 0 |
-| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 868,676 | 4.71 | 9,135 |
+| [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 868,676 | 4.71 | 9,144 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 12,347 | 4.61 | 112 |
 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 13,105 | 4.53 | 484 |
 | [The Bridge](games/t/the_bridge.md) | 2013-02-22 | 20 (1,000 XP) | 180,202 | 4.21 | 24 |
