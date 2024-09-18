@@ -4,7 +4,7 @@
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_Rating": 148,
   "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 506,
+  "Ranking_PopularitySum": 504,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -665,10 +665,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 231,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-09-18T08:58:48.4649215+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 232,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231,
+  "NumberOfAwards": 232,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -694,7 +700,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -721,8 +727,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-09-17T21:57:41.3517186+00:00",
+  "LastChanged": "2024-09-18T08:58:48.4649213+00:00",
   "LastUpdate_AppInfo": "2024-09-12T08:57:35.3986577+00:00",
-  "LastUpdate_Ratings": "2024-09-18T07:00:23.1920648+00:00",
+  "LastUpdate_Ratings": "2024-09-18T08:58:48.4649219+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:56.7661649+00:00"
 }
