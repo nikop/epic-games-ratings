@@ -335,8 +335,8 @@ Completed: 3 (0.00%) (Ranked 591)
 | 2024-09-14 | 644,199 | 3 |
 ## Awards
 Max (Challenging Combat): 565  (Ranked 261)  
-Sum: 4,534 (Ranked 186)  
-Diff (max vs sum): 75  
+Sum: 4,534 (Ranked 187)  
+Diff (max vs sum): 74  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 565 |

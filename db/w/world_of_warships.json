@@ -2,7 +2,7 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 102,
@@ -21088,10 +21088,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 19318,
       "NumberOfAwardsMax": 2584
+    },
+    {
+      "Time": "2024-09-18T06:57:30.0180809+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 19325,
+      "NumberOfAwardsMax": 2584
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19318,
+  "NumberOfAwards": 19325,
   "NumberOfAwardsMax": 2584,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -21099,7 +21105,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2577
+      "Count": 2584
     },
     {
       "Text": "This game has Competitive Players",
@@ -40885,9 +40891,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-09-17T22:57:27.273734+00:00",
+  "LastChanged": "2024-09-18T06:57:30.0180807+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:04.1530247+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:32.5268709+00:00",
-  "LastUpdate_Ratings": "2024-09-18T04:58:20.8219206+00:00",
+  "LastUpdate_Ratings": "2024-09-18T06:57:30.0180816+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:04.1531318+00:00"
 }
