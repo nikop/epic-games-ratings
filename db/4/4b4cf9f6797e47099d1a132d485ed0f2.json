@@ -3,8 +3,8 @@
   "Name": "HAWKED",
   "ProductSlug": "hawked-b256b5",
   "Ranking_Rating": 1017,
-  "Ranking_Popularity": 682,
-  "Ranking_PopularitySum": 692,
+  "Ranking_Popularity": 672,
+  "Ranking_PopularitySum": 687,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -216,18 +216,24 @@
       "Rating": 4.3,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-09-18T18:57:20.1496449+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 24
+      "Count": 26
     }
   ],
   "EOS_Progressed": 6033,
@@ -510,9 +516,9 @@
   "FirstSeen": "2024-05-23T20:59:26.0928434+00:00",
   "FirstSeenRating": "2024-06-28T22:00:04.8756094+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:21.8377272+00:00",
-  "LastChanged": "2024-09-13T09:57:29.5672264+00:00",
+  "LastChanged": "2024-09-18T18:57:20.1496447+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:34.272322+00:00",
   "LastUpdate_AppInfo": "2024-09-12T15:57:17.3941512+00:00",
-  "LastUpdate_Ratings": "2024-09-18T16:58:28.3405629+00:00",
+  "LastUpdate_Ratings": "2024-09-18T18:57:20.1496454+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.2723416+00:00"
 }
