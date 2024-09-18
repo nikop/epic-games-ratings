@@ -3,8 +3,8 @@
   "Name": "Kenshi",
   "ProductSlug": "kenshi-c79c40",
   "Ranking_Rating": 150,
-  "Ranking_Popularity": 719,
-  "Ranking_PopularitySum": 719,
+  "Ranking_Popularity": 709,
+  "Ranking_PopularitySum": 710,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -131,12 +131,26 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-18T16:58:28.4597928+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -149,8 +163,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-09T13:57:40.3927189+00:00",
   "FirstSeenRating": "2024-08-01T21:58:23.816104+00:00",
-  "LastChanged": "2024-09-14T14:05:43.0017021+00:00",
+  "LastChanged": "2024-09-18T16:58:28.4597926+00:00",
   "LastUpdate_AppInfo": "2024-09-18T15:57:13.1206086+00:00",
-  "LastUpdate_Ratings": "2024-09-18T14:58:55.0573955+00:00",
+  "LastUpdate_Ratings": "2024-09-18T16:58:28.459793+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:14.263435+00:00"
 }
