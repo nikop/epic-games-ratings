@@ -1,7 +1,7 @@
 # Suzerain
 [Store](https://store.epicgames.com/en-US/p/suzerain)  
 [View Rawdata](../../db/s/suzerain.json)  
-Rating: 4.74 (Ranked 185)  
+Rating: 4.76 (Ranked 148)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -25,3 +25,4 @@ Rating: 4.74 (Ranked 185)
 | 2024-05-15 | 4.72 | 0 | 0 |
 | 2024-06-28 | 4.73 | 0 | 0 |
 | 2024-08-09 | 4.74 | 0 | 0 |
+| 2024-09-18 | 4.76 | 0 | 0 |
