@@ -3,8 +3,8 @@
   "Name": "Kao the Kangaroo",
   "ProductSlug": "kao-the-kangaroo-62abe3",
   "Ranking_Rating": 1062,
-  "Ranking_Popularity": 718,
-  "Ranking_PopularitySum": 718,
+  "Ranking_Popularity": 709,
+  "Ranking_PopularitySum": 710,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -496,12 +496,26 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-18T14:58:19.5559107+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Highly Recommended",
+  "Tags": [
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -514,8 +528,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:58.3266601+00:00",
   "FirstSeenRating": "2023-03-31T05:56:58.1547368+00:00",
-  "LastChanged": "2024-09-14T10:57:20.2788642+00:00",
+  "LastChanged": "2024-09-18T14:58:19.5559105+00:00",
   "LastUpdate_AppInfo": "2024-09-15T20:57:08.8897597+00:00",
-  "LastUpdate_Ratings": "2024-09-18T13:14:42.4340232+00:00",
+  "LastUpdate_Ratings": "2024-09-18T14:58:19.555911+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:35.2348755+00:00"
 }

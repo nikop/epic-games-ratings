@@ -3,8 +3,8 @@
   "Name": "Journey",
   "ProductSlug": "journey",
   "Ranking_Rating": 134,
-  "Ranking_Popularity": 718,
-  "Ranking_PopularitySum": 718,
+  "Ranking_Popularity": 719,
+  "Ranking_PopularitySum": 719,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -265,6 +265,6 @@
   "FirstSeen": "2022-07-22T20:24:29.6928731+00:00",
   "LastChanged": "2024-06-10T17:57:16.5378695+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:15:04.4327374+00:00",
-  "LastUpdate_Ratings": "2024-09-18T13:14:03.9253345+00:00",
+  "LastUpdate_Ratings": "2024-09-18T14:57:41.6023844+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:19.0956007+00:00"
 }
