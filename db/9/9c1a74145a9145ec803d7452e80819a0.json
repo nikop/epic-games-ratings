@@ -4,7 +4,7 @@
   "ProductSlug": "fallout-4",
   "Ranking_Rating": 378,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 261,
+  "Ranking_PopularitySum": 260,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3433,10 +3433,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 2054,
       "NumberOfAwardsMax": 766
+    },
+    {
+      "Time": "2024-09-18T21:59:03.561673+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 2056,
+      "NumberOfAwardsMax": 766
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2054,
+  "NumberOfAwards": 2056,
   "NumberOfAwardsMax": 766,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3510,7 +3516,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 73
+      "Count": 75
     }
   ],
   "EOS_Progressed": 21355,
@@ -4239,9 +4245,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-09-18T16:58:08.7561423+00:00",
+  "LastChanged": "2024-09-18T21:59:03.5616728+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:48.1183499+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:20.4415561+00:00",
-  "LastUpdate_Ratings": "2024-09-18T20:00:06.8666152+00:00",
+  "LastUpdate_Ratings": "2024-09-18T21:59:03.5616734+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:48.1184201+00:00"
 }
