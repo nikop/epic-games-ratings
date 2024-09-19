@@ -318,7 +318,7 @@ Completed: 3 (0.06%) (Ranked 486)
 | 2024-09-14 | 5,102 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 102  (Ranked 464)  
-Sum: 862 (Ranked 351)  
+Sum: 864 (Ranked 351)  
 Diff (max vs sum): 113  
 | Award | Count |
 | ----- | ----- |
@@ -330,8 +330,8 @@ Diff (max vs sum): 113
 | This game is Extremely Fun | 69 |
 | This game has Amazing Characters | 67 |
 | This game has Amazing Storytelling | 64 |
+| This game is Relaxing | 57 |
 | This game is Educational | 56 |
-| This game is Relaxing | 55 |
 | This game has Quickly Understood Controls | 55 |
 | This game has Challenging Combat | 53 |
 ## Ratings History
@@ -681,3 +681,4 @@ Diff (max vs sum): 113
 | 2024-09-15 | 4.66 | - | 102 | 859 |
 | 2024-09-17 | 4.66 | - | 102 | 860 |
 | 2024-09-18 | 4.66 | - | 102 | 862 |
+| 2024-09-19 | 4.66 | - | 102 | 864 |

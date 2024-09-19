@@ -1,16 +1,16 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
 [Store](https://store.epicgames.com/en-US/p/final-fantasy-vii-remake-intergrade)  
 [View Rawdata](../../db/f/final_fantasy_vii_remake_intergrade.json)  
-Rating: 4.85 (Ranked 43)  
+Rating: 4.85 (Ranked 42)  
 Number of Ratings: 15,120  (23.09.2022)  
 ## Awards
 Max (Character Customization): 6,288  (Ranked 87)  
-Sum: 13,963 (Ranked 99)  
+Sum: 13,966 (Ranked 99)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,288 |
-| This game has Great Boss Battles | 4,211 |
+| This game has Great Boss Battles | 4,214 |
 | This game has Amazing Storytelling | 378 |
 | This game has Amazing Characters | 375 |
 | This game is Great for Beginners | 373 |
@@ -555,3 +555,4 @@ Diff (max vs sum): -12
 | 2024-09-15 | 4.85 | - | 6,283 | 13,957 |
 | 2024-09-17 | 4.85 | - | 6,287 | 13,962 |
 | 2024-09-18 | 4.85 | - | 6,288 | 13,963 |
+| 2024-09-19 | 4.85 | - | 6,288 | 13,966 |

@@ -2,7 +2,7 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "ProductSlug": "rimworld",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 17,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 1254,
@@ -6449,10 +6449,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 4982,
       "NumberOfAwardsMax": 647
+    },
+    {
+      "Time": "2024-09-19T03:05:49.2310713+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 4984,
+      "NumberOfAwardsMax": 647
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4982,
+  "NumberOfAwards": 4984,
   "NumberOfAwardsMax": 647,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6460,7 +6466,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 480
+      "Count": 482
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6534,8 +6540,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-09-18T15:57:29.9102195+00:00",
+  "LastChanged": "2024-09-19T03:05:49.231071+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:35.3891882+00:00",
-  "LastUpdate_Ratings": "2024-09-19T02:06:48.6351947+00:00",
+  "LastUpdate_Ratings": "2024-09-19T03:05:49.2310715+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:05.7770741+00:00"
 }

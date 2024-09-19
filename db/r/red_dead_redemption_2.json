@@ -2,7 +2,7 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 21,
+  "Ranking_Rating": 20,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 1254,
@@ -32603,10 +32603,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1042883,
       "NumberOfAwardsMax": 361793
+    },
+    {
+      "Time": "2024-09-19T03:02:57.0760521+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1042992,
+      "NumberOfAwardsMax": 361793
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1042883,
+  "NumberOfAwards": 1042992,
   "NumberOfAwardsMax": 361793,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -32686,7 +32692,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 45498
+      "Count": 45607
     },
     {
       "Text": "This game has a Creative Community",
@@ -32706,8 +32712,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-09-18T20:00:05.3102613+00:00",
+  "LastChanged": "2024-09-19T03:02:57.0760519+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:05.5533751+00:00",
-  "LastUpdate_Ratings": "2024-09-18T23:58:49.2979153+00:00",
+  "LastUpdate_Ratings": "2024-09-19T03:02:57.0760524+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:12.3871459+00:00"
 }
