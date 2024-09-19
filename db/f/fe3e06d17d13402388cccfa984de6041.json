@@ -2,7 +2,7 @@
   "ID": "fe3e06d17d13402388cccfa984de6041",
   "Name": "Olympics Go! Paris 2024",
   "ProductSlug": "olympics-go-paris-2024-5d5f77",
-  "Ranking_Rating": 1295,
+  "Ranking_Rating": 1296,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 153,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.62,
+  "Rating": 3.61,
   "RatingHistory": [
     {
       "Time": "2024-07-25T21:59:13.7991959+00:00",
@@ -600,6 +600,12 @@
       "Rating": 3.62,
       "NumberOfAwards": 117,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-09-19T02:06:59.2891096+00:00",
+      "Rating": 3.61,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
@@ -970,9 +976,9 @@
   "FirstSeen": "2024-06-11T21:59:22.6599322+00:00",
   "FirstSeenRating": "2024-07-25T21:59:13.7991957+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:29.9069245+00:00",
-  "LastChanged": "2024-09-18T06:58:18.2828507+00:00",
+  "LastChanged": "2024-09-19T02:06:59.2891094+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:34.5153696+00:00",
   "LastUpdate_AppInfo": "2024-09-14T07:57:04.2898588+00:00",
-  "LastUpdate_Ratings": "2024-09-18T22:58:03.7619416+00:00",
+  "LastUpdate_Ratings": "2024-09-19T02:06:59.2891099+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.5154038+00:00"
 }
