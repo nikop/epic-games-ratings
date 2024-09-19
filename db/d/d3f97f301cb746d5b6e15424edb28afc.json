@@ -3,8 +3,8 @@
   "Name": "Gas Station Simulator",
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_Rating": 526,
-  "Ranking_Popularity": 709,
-  "Ranking_PopularitySum": 710,
+  "Ranking_Popularity": 706,
+  "Ranking_PopularitySum": 709,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 509,
   "Ranking_EOS_NewPlayers": 3,
@@ -497,18 +497,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-09-19T22:58:22.1807995+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 5150,
@@ -6328,9 +6334,9 @@
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged": "2024-09-19T15:58:25.8786995+00:00",
+  "LastChanged": "2024-09-19T22:58:22.1807993+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:57.0579354+00:00",
   "LastUpdate_AppInfo": "2024-09-17T18:57:16.8456129+00:00",
-  "LastUpdate_Ratings": "2024-09-19T20:59:21.9187805+00:00",
+  "LastUpdate_Ratings": "2024-09-19T22:58:22.1807999+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:57.0580264+00:00"
 }

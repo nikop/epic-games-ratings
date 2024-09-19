@@ -368,7 +368,7 @@ Completed: 222 (0.12%) (Ranked 450)
 | 2024-09-14 | 179,562 | 222 |
 ## Awards
 Max (Amazing Storytelling): 26  (Ranked 674)  
-Sum: 165 (Ranked 538)  
+Sum: 166 (Ranked 538)  
 Diff (max vs sum): 136  
 | Award | Count |
 | ----- | ----- |
@@ -378,8 +378,8 @@ Diff (max vs sum): 136
 | This game is Great for Beginners | 26 |
 | This game has Unique Visuals | 22 |
 | This game has Quickly Understood Controls | 22 |
+| This game is Extremely Fun | 22 |
 | This game is Highly Recommended | 22 |
-| This game is Extremely Fun | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -515,3 +515,4 @@ Diff (max vs sum): 136
 | 2024-09-15 | 4.46 | - | 26 | 163 |
 | 2024-09-17 | 4.47 | - | 26 | 164 |
 | 2024-09-18 | 4.46 | - | 26 | 165 |
+| 2024-09-19 | 4.46 | - | 26 | 166 |
