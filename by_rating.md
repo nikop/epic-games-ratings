@@ -135,7 +135,7 @@
 | 127 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 4.78 | 0 | 720 |
 | 134 | [A Monster's Expedition](games/a/a_monster's_expedition.md) | 4.77 | 0 | 720 |
 | 134 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.77 | 74 | 513 |
-| 134 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 17,288 | 34 |
+| 134 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 17,327 | 34 |
 | 134 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 12,522 | 49 |
 | 134 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.77 | 1,918 | 147 |
 | 134 | [Journey](games/j/journey.md) | 4.77 | 0 | 720 |
@@ -330,7 +330,7 @@
 | 316 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.67 | 83 | 493 |
 | 316 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 720 |
 | 316 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.67 | 64 | 530 |
-| 331 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 4,172 | 106 |
+| 331 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.66 | 4,175 | 106 |
 | 331 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 125 | 441 |
 | 331 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 213 | 358 |
 | 331 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.66 | 0 | 720 |
@@ -772,7 +772,7 @@
 | 766 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,770 | 111 |
 | 766 | [Haven's Compass](games/d/da744ab3564a4d2dac8b942a86d5aad9.md) | 4.47 | 0 | 720 |
 | 766 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.47 | 4,589 | 102 |
-| 766 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 4.47 | 1,512 | 160 |
+| 766 | [Once Human](games/b/bb2a74164b4c44d19fe2d45cb8a13edd.md) | 4.47 | 1,530 | 160 |
 | 766 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 4.47 | 27 | 666 |
 | 766 | [Rumble Club](games/3/39d4425dc6f44b92b44c025d4257c737.md) | 4.47 | 0 | 720 |
 | 766 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.47 | 0 | 720 |
@@ -829,7 +829,7 @@
 | 819 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.44 | 16,399 | 38 |
 | 819 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 720 |
 | 819 | [LEGO® Builder's Journey](games/l/lego®_builder's_journey.md) | 4.44 | 0 | 720 |
-| 819 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 11,562 | 53 |
+| 819 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.44 | 11,588 | 53 |
 | 819 | [Metalstorm](games/m/metalstorm.md) | 4.44 | 376 | 297 |
 | 819 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 4.44 | 147 | 410 |
 | 819 | [OUTRIDERS](games/o/outriders.md) | 4.44 | 1,702 | 153 |
@@ -848,6 +848,7 @@
 | 840 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.43 | 40 | 596 |
 | 840 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.43 | 0 | 720 |
 | 840 | [Rocket League®](games/r/rocket_league®.md) | 4.43 | 955,182 | 2 |
+| 840 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 720 |
 | 840 | [Star Stable Online](games/s/star_stable_online.md) | 4.43 | 240 | 347 |
 | 840 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.43 | 0 | 720 |
 | 840 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 1,553 | 157 |
@@ -856,26 +857,25 @@
 | 840 | [Warpips](games/w/warpips.md) | 4.43 | 67 | 523 |
 | 840 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.43 | 130 | 432 |
 | 840 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.43 | 60 | 541 |
-| 857 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.42 | 0 | 720 |
-| 857 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 22 | 697 |
-| 857 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 48 | 570 |
-| 857 | [Death Coming](games/d/death_coming.md) | 4.42 | 0 | 720 |
-| 857 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 0 | 720 |
-| 857 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.42 | 0 | 720 |
-| 857 | [Eternights](games/e/eternights.md) | 4.42 | 0 | 720 |
-| 857 | [Good Company](games/g/good_company.md) | 4.42 | 0 | 720 |
-| 857 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 45 | 580 |
-| 857 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 23 | 688 |
-| 857 | [MythForce](games/m/mythforce.md) | 4.42 | 40 | 596 |
-| 857 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.42 | 0 | 720 |
-| 857 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 43 | 586 |
-| 857 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 304 | 312 |
-| 857 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 83 |
-| 857 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 0 | 720 |
-| 857 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.42 | 0 | 720 |
-| 857 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.42 | 20 | 709 |
-| 857 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 247 | 341 |
-| 857 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.42 | 75 | 508 |
+| 858 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.42 | 0 | 720 |
+| 858 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.42 | 22 | 697 |
+| 858 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.42 | 48 | 570 |
+| 858 | [Death Coming](games/d/death_coming.md) | 4.42 | 0 | 720 |
+| 858 | [Deep Sky Derelicts](games/d/deep_sky_derelicts.md) | 4.42 | 0 | 720 |
+| 858 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 4.42 | 0 | 720 |
+| 858 | [Eternights](games/e/eternights.md) | 4.42 | 0 | 720 |
+| 858 | [Good Company](games/g/good_company.md) | 4.42 | 0 | 720 |
+| 858 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 4.42 | 45 | 580 |
+| 858 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 23 | 688 |
+| 858 | [MythForce](games/m/mythforce.md) | 4.42 | 40 | 596 |
+| 858 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 4.42 | 0 | 720 |
+| 858 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.42 | 43 | 586 |
+| 858 | [RoboCop: Rogue City](games/r/robocop__rogue_city.md) | 4.42 | 304 | 312 |
+| 858 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 83 |
+| 858 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.42 | 0 | 720 |
+| 858 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 4.42 | 20 | 709 |
+| 858 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 247 | 341 |
+| 858 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.42 | 75 | 508 |
 | 877 | [Call of Dragons](games/5/51817fc62352469faf5aae0133642b45.md) | 4.41 | 79 | 500 |
 | 877 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.41 | 664 | 243 |
 | 877 | [ELEX](games/e/elex.md) | 4.41 | 0 | 720 |
@@ -1208,7 +1208,7 @@
 | 1,203 | [SYNCED](games/s/synced.md) | 4.08 | 189 | 376 |
 | 1,203 | [The Front](games/t/the_front.md) | 4.08 | 30 | 644 |
 | 1,208 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 4.07 | 23 | 688 |
-| 1,208 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,902 | 80 |
+| 1,208 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 6,913 | 80 |
 | 1,208 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 187 | 379 |
 | 1,208 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 511 | 266 |
 | 1,208 | [The Falconeer: Standard Edition](games/t/the_falconeer__standard_edition.md) | 4.07 | 0 | 720 |
