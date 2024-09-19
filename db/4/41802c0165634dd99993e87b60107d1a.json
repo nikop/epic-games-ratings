@@ -2,7 +2,7 @@
   "ID": "41802c0165634dd99993e87b60107d1a",
   "Name": "The Casting of Frank Stone\u2122",
   "ProductSlug": "the-casting-of-frank-stone-09928b",
-  "Ranking_Rating": 1027,
+  "Ranking_Rating": 1063,
   "Ranking_Popularity": 722,
   "Ranking_PopularitySum": 722,
   "Ranking_EOS_Progress": 558,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.26,
   "RatingHistory": [
     {
       "Time": "2024-09-10T13:13:48.0857599+00:00",
@@ -70,6 +70,12 @@
     {
       "Time": "2024-09-17T22:01:07.7355981+00:00",
       "Rating": 4.29,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-19T21:59:34.3805426+00:00",
+      "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -362,9 +368,9 @@
   "FirstSeen": "2024-09-03T19:59:01.8908787+00:00",
   "FirstSeenRating": "2024-09-10T13:13:48.0857596+00:00",
   "FirstSeenAchievements": "2023-12-08T01:51:35.4952936+00:00",
-  "LastChanged": "2024-09-17T22:01:07.7355979+00:00",
+  "LastChanged": "2024-09-19T21:59:34.3805424+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:48.5782015+00:00",
   "LastUpdate_AppInfo": "2024-09-14T08:57:12.2466333+00:00",
-  "LastUpdate_Ratings": "2024-09-19T20:00:16.0520916+00:00",
+  "LastUpdate_Ratings": "2024-09-19T21:59:34.3805434+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:48.5790248+00:00"
 }

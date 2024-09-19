@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-2",
   "Ranking_Rating": 149,
   "Ranking_Popularity": 28,
-  "Ranking_PopularitySum": 40,
+  "Ranking_PopularitySum": 39,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20229,10 +20229,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 49494,
       "NumberOfAwardsMax": 19884
+    },
+    {
+      "Time": "2024-09-19T21:59:17.4772187+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 49505,
+      "NumberOfAwardsMax": 19884
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49494,
+  "NumberOfAwards": 49505,
   "NumberOfAwardsMax": 19884,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -20264,7 +20270,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4097
+      "Count": 4108
     },
     {
       "Text": "This game is Extremely Fun",
@@ -20320,8 +20326,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:04.5825777+00:00",
-  "LastChanged": "2024-09-19T18:00:27.73605+00:00",
+  "LastChanged": "2024-09-19T21:59:17.4772185+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:59.1913169+00:00",
-  "LastUpdate_Ratings": "2024-09-19T19:59:59.0471934+00:00",
+  "LastUpdate_Ratings": "2024-09-19T21:59:17.4772191+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:57.1833945+00:00"
 }
