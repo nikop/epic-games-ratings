@@ -2,7 +2,7 @@
   "ID": "8f5f5eff22f3468fa5551771406fc868",
   "Name": "PC Building Simulator",
   "ProductSlug": "pc-building-simulator",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 351,
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 5,
@@ -8603,10 +8603,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 8979,
       "NumberOfAwardsMax": 1292
+    },
+    {
+      "Time": "2024-09-19T15:58:14.8917847+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 8983,
+      "NumberOfAwardsMax": 1292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8979,
+  "NumberOfAwards": 8983,
   "NumberOfAwardsMax": 1292,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8626,13 +8632,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1031
+      "Count": 1032
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1098
+      "Count": 1099
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8656,7 +8662,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 918
+      "Count": 920
     },
     {
       "Text": "This game has a Creative Community",
@@ -41733,9 +41739,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
-  "LastChanged": "2024-09-19T13:59:46.1613644+00:00",
+  "LastChanged": "2024-09-19T15:58:14.8917841+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:25.7986484+00:00",
   "LastUpdate_AppInfo": "2024-09-16T08:56:57.6877356+00:00",
-  "LastUpdate_Ratings": "2024-09-19T13:59:46.1613649+00:00",
+  "LastUpdate_Ratings": "2024-09-19T15:58:14.891785+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:25.798825+00:00"
 }

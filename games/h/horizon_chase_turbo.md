@@ -1,7 +1,7 @@
 # Horizon Chase Turbo
 [Store](https://store.epicgames.com/en-US/p/horizon-chase-turbo)  
 [View Rawdata](../../db/h/horizon_chase_turbo.json)  
-Rating: 4.54 (Ranked 620)  
+Rating: 4.54 (Ranked 621)  
 Number of Ratings: 1,343  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -334,12 +334,12 @@ Completed: 686 (0.06%) (Ranked 486)
 | 2024-08-09 | 1,164,062 | 668 |
 | 2024-09-14 | 1,171,840 | 686 |
 ## Awards
-Max (Great for Beginners): 236  (Ranked 348)  
-Sum: 2,056 (Ranked 261)  
+Max (Great for Beginners): 238  (Ranked 348)  
+Sum: 2,058 (Ranked 261)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 236 |
+| This game is Great for Beginners | 238 |
 | This game is Great for Quick Sessions | 216 |
 | This game has Diverse Characters | 198 |
 | This game has Quickly Understood Controls | 180 |
@@ -824,3 +824,4 @@ Diff (max vs sum): 87
 | 2024-09-16 | 4.54 | - | 236 | 2,051 |
 | 2024-09-17 | 4.54 | - | 236 | 2,054 |
 | 2024-09-18 | 4.54 | - | 236 | 2,056 |
+| 2024-09-19 | 4.54 | - | 238 | 2,058 |

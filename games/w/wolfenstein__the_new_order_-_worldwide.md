@@ -1,11 +1,11 @@
 # Wolfenstein: The New Order
 [Store](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order)  
 [View Rawdata](../../db/w/wolfenstein__the_new_order_-_worldwide.json)  
-Rating: 4.58 (Ranked 527)  
+Rating: 4.58 (Ranked 526)  
 Number of Ratings: 61,135  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 15,261  (Ranked 40)  
-Sum: 18,218 (Ranked 84)  
+Sum: 18,219 (Ranked 84)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -17,7 +17,7 @@ Diff (max vs sum): -44
 | This game has Amazing Characters | 360 |
 | This game is Highly Recommended | 355 |
 | This game is Extremely Fun | 354 |
-| This game has Quickly Understood Controls | 338 |
+| This game has Quickly Understood Controls | 339 |
 | This game has Obsessive Gameplay | 300 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -489,4 +489,4 @@ Diff (max vs sum): -44
 | 2024-09-16 | 4.58 | - | 15,251 | 18,201 |
 | 2024-09-17 | 4.58 | - | 15,257 | 18,209 |
 | 2024-09-18 | 4.58 | - | 15,257 | 18,212 |
-| 2024-09-19 | 4.58 | - | 15,261 | 18,218 |
+| 2024-09-19 | 4.58 | - | 15,261 | 18,219 |

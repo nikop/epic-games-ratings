@@ -2,7 +2,7 @@
   "ID": "f640a0c1648147fea7e81565b45a3003",
   "Name": "Warhammer 40,000: Space Marine 2",
   "ProductSlug": "warhammer-40000-space-marine-2",
-  "Ranking_Rating": 350,
+  "Ranking_Rating": 378,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 117,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.64,
   "RatingHistory": [
     {
       "Time": "2024-09-10T15:57:34.5232302+00:00",
@@ -155,6 +155,12 @@
     {
       "Time": "2024-09-19T02:08:07.8802769+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 145,
+      "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-09-19T15:58:26.1684197+00:00",
+      "Rating": 4.64,
       "NumberOfAwards": 145,
       "NumberOfAwardsMax": 145
     }
@@ -591,9 +597,9 @@
   "FirstSeen": "2024-09-09T17:59:34.2597996+00:00",
   "FirstSeenRating": "2024-09-10T15:57:34.5232299+00:00",
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
-  "LastChanged": "2024-09-19T02:08:07.8802767+00:00",
+  "LastChanged": "2024-09-19T15:58:26.1684194+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:36.8395859+00:00",
   "LastUpdate_AppInfo": "2024-09-14T03:01:07.1014367+00:00",
-  "LastUpdate_Ratings": "2024-09-19T14:00:00.38622+00:00",
+  "LastUpdate_Ratings": "2024-09-19T15:58:26.1684198+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:36.8402529+00:00"
 }

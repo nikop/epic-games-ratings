@@ -27050,10 +27050,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 94526,
       "NumberOfAwardsMax": 30974
+    },
+    {
+      "Time": "2024-09-19T15:58:59.4308894+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 94534,
+      "NumberOfAwardsMax": 30974
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 94526,
+  "NumberOfAwards": 94534,
   "NumberOfAwardsMax": 30974,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -27121,7 +27127,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6522
+      "Count": 6530
     },
     {
       "Text": "This game has a Creative Community",
@@ -27141,8 +27147,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2024-09-19T14:00:42.6218662+00:00",
+  "LastChanged": "2024-09-19T15:58:59.4308608+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:42.0927707+00:00",
-  "LastUpdate_Ratings": "2024-09-19T14:00:42.6218668+00:00",
+  "LastUpdate_Ratings": "2024-09-19T15:58:59.4308897+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:07.7610253+00:00"
 }

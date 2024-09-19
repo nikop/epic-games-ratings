@@ -2,9 +2,9 @@
   "ID": "moose",
   "Name": "Super Meat Boy Forever",
   "ProductSlug": "super-meat-boy-forever",
-  "Ranking_Rating": 644,
-  "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 544,
+  "Ranking_Rating": 645,
+  "Ranking_Popularity": 402,
+  "Ranking_PopularitySum": 541,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -737,18 +737,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 150,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-09-19T15:58:13.7458477+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 150,
-  "NumberOfAwardsMax": 150,
+  "NumberOfAwards": 153,
+  "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 150
+      "Count": 153
     }
   ],
   "EOS_Progressed": 594653,
@@ -1087,9 +1093,9 @@
   "FirstSeen": "2022-07-22T20:24:25.4664791+00:00",
   "FirstSeenRating": "2022-09-02T12:31:23.1316509+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:54.1363487+00:00",
-  "LastChanged": "2024-09-14T22:59:31.6328973+00:00",
+  "LastChanged": "2024-09-19T15:58:13.7458475+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:25.6287236+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:30.4615602+00:00",
-  "LastUpdate_Ratings": "2024-09-19T13:59:44.7308762+00:00",
+  "LastUpdate_Ratings": "2024-09-19T15:58:13.745848+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:25.6287482+00:00"
 }
