@@ -2,7 +2,7 @@
   "ID": "845587cb91e54ce6b682d4c9975c8b07",
   "Name": "FINAL FANTASY XVI",
   "ProductSlug": "final-fantasy-xvi",
-  "Ranking_Rating": 126,
+  "Ranking_Rating": 169,
   "Ranking_Popularity": 720,
   "Ranking_PopularitySum": 720,
   "Ranking_EOS_Progress": 482,
@@ -24,7 +24,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2024-09-18T13:15:14.3478708+00:00",
@@ -59,6 +59,12 @@
     {
       "Time": "2024-09-19T14:58:17.6530607+00:00",
       "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-19T16:57:43.424392+00:00",
+      "Rating": 4.75,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -653,9 +659,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-09-19T14:58:17.6530605+00:00",
+  "LastChanged": "2024-09-19T16:57:43.4243918+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-16T17:57:14.2059715+00:00",
-  "LastUpdate_Ratings": "2024-09-19T14:58:17.653061+00:00",
+  "LastUpdate_Ratings": "2024-09-19T16:57:43.4243923+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }
