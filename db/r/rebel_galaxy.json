@@ -2,9 +2,9 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
-  "Ranking_Rating": 856,
+  "Ranking_Rating": 857,
   "Ranking_Popularity": 586,
-  "Ranking_PopularitySum": 491,
+  "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1224,10 +1224,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-09-19T07:59:49.2255374+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 258,
+  "NumberOfAwards": 259,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1259,7 +1265,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1291,8 +1297,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2024-09-16T19:59:55.1947345+00:00",
+  "LastChanged": "2024-09-19T07:59:49.2255373+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:47.8469676+00:00",
-  "LastUpdate_Ratings": "2024-09-19T06:57:53.997027+00:00",
+  "LastUpdate_Ratings": "2024-09-19T07:59:49.2255385+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:44.4743499+00:00"
 }
