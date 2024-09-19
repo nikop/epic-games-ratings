@@ -1,7 +1,7 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.54 (Ranked 621)  
+Rating: 4.54 (Ranked 622)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -332,13 +332,13 @@ Completed: 228 (0.20%) (Ranked 415)
 | 2024-08-09 | 108,955 | 223 |
 | 2024-09-14 | 111,561 | 228 |
 ## Awards
-Max (Highly Recommended): 585  (Ranked 257)  
-Sum: 3,716 (Ranked 203)  
-Diff (max vs sum): 54  
+Max (Highly Recommended): 586  (Ranked 257)  
+Sum: 3,719 (Ranked 201)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 585 |
-| This game is Relaxing | 579 |
+| This game is Highly Recommended | 586 |
+| This game is Relaxing | 581 |
 | This game is Extremely Fun | 529 |
 | This game has Quickly Understood Controls | 526 |
 | This game has Competitive Players | 517 |
@@ -766,4 +766,4 @@ Diff (max vs sum): 54
 | 2024-09-16 | 4.54 | - | 585 | 3,708 |
 | 2024-09-17 | 4.54 | - | 585 | 3,710 |
 | 2024-09-18 | 4.54 | - | 585 | 3,713 |
-| 2024-09-19 | 4.54 | - | 585 | 3,716 |
+| 2024-09-19 | 4.54 | - | 586 | 3,719 |

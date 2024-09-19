@@ -3,8 +3,8 @@
   "Name": "Worms Rumble",
   "ProductSlug": "worms-rumble",
   "Ranking_Rating": 1260,
-  "Ranking_Popularity": 721,
-  "Ranking_PopularitySum": 721,
+  "Ranking_Popularity": 722,
+  "Ranking_PopularitySum": 722,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -95,6 +95,6 @@
   "FirstSeenRating": "2023-03-31T05:57:08.8589946+00:00",
   "LastChanged": "2024-07-22T15:57:59.4554586+00:00",
   "LastUpdate_AppInfo": "2024-09-16T07:57:17.7662313+00:00",
-  "LastUpdate_Ratings": "2024-09-19T16:59:43.0500642+00:00",
+  "LastUpdate_Ratings": "2024-09-19T18:58:35.8016903+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:59.1384123+00:00"
 }

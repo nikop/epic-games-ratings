@@ -3,9 +3,9 @@
 [View Rawdata](../../db/m/metalcore.json)  
 Rating: 4.39 (Ranked 911)  
 ## Awards
-Max (Great for Beginners): 135  (Ranked 423)  
+Max (Great for Beginners): 135  (Ranked 424)  
 Sum: 1,044 (Ranked 326)  
-Diff (max vs sum): 97  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 135 |

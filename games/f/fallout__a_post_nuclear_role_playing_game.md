@@ -1,11 +1,11 @@
 # Fallout: A Post Nuclear Role Playing Game
 [Store](https://store.epicgames.com/en-US/p/fallout)  
 [View Rawdata](../../db/f/fallout__a_post_nuclear_role_playing_game.json)  
-Rating: 4.61 (Ranked 451)  
+Rating: 4.61 (Ranked 450)  
 ## Awards
 Max (Character Customization): 409  (Ranked 285)  
-Sum: 517 (Ranked 409)  
-Diff (max vs sum): -124  
+Sum: 517 (Ranked 410)  
+Diff (max vs sum): -125  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 409 |
