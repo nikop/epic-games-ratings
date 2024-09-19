@@ -19,7 +19,7 @@
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2099-01-01 | 11 (1,000 XP) | 0 | - | - |
-| [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | 26 (1,000 XP) | 107,850 | 4.12 | 0 |
+| [Gigantic: Rampage Edition](games/b/ba2eb1ee9bfc434b8c06d33f9df7d15a.md) | 2024-04-09 | 26 (1,000 XP) | 107,850 | 4.11 | 0 |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | 62 (1,000 XP) | 0 | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | - |
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2024-08-30 | 5 (1,000 XP) | 2 | - | - |
