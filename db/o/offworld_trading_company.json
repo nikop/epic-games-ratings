@@ -4,7 +4,7 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 1025,
   "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 462,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1117,10 +1117,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 333,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-09-19T05:58:44.5692127+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 384,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 333,
+  "NumberOfAwards": 384,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1138,9 +1144,9 @@
     },
     {
       "Text": "This game is Educational",
-      "Prefix": "",
-      "Type": "",
-      "Count": 33
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 51
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1196,8 +1202,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2024-09-17T23:57:50.7206037+00:00",
+  "LastChanged": "2024-09-19T05:58:44.5692126+00:00",
   "LastUpdate_AppInfo": "2024-09-16T11:57:22.9881864+00:00",
-  "LastUpdate_Ratings": "2024-09-19T03:59:04.1081706+00:00",
+  "LastUpdate_Ratings": "2024-09-19T05:58:44.5692129+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:42.2675109+00:00"
 }
