@@ -1,11 +1,11 @@
 # KINGDOM HEARTS III + Re Mind (DLC)
 [Store](https://store.epicgames.com/en-US/p/kingdom-hearts-iii)  
 [View Rawdata](../../db/k/kingdom_hearts_iii_+_re_mind.json)  
-Rating: 4.79 (Ranked 114)  
+Rating: 4.79 (Ranked 115)  
 Number of Ratings: 2,011  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,074  (Ranked 195)  
-Sum: 2,202 (Ranked 251)  
+Sum: 2,203 (Ranked 251)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -56
 | This game has Amazing Characters | 136 |
 | This game is Extremely Fun | 132 |
 | This game is Highly Recommended | 129 |
-| This game has Diverse Characters | 121 |
+| This game has Diverse Characters | 122 |
 | This game has Quickly Understood Controls | 117 |
 | This game is Relaxing | 96 |
 | This game has a Creative Community | 93 |
@@ -467,3 +467,4 @@ Diff (max vs sum): -56
 | 2024-09-15 | 4.79 | - | 1,074 | 2,197 |
 | 2024-09-17 | 4.79 | - | 1,074 | 2,199 |
 | 2024-09-18 | 4.79 | - | 1,074 | 2,202 |
+| 2024-09-19 | 4.79 | - | 1,074 | 2,203 |

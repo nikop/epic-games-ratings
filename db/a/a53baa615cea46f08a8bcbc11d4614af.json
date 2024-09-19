@@ -2,9 +2,9 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1081,
-  "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 367,
+  "Ranking_Rating": 1082,
+  "Ranking_Popularity": 451,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1633,18 +1633,24 @@
       "Rating": 4.24,
       "NumberOfAwards": 774,
       "NumberOfAwardsMax": 116
+    },
+    {
+      "Time": "2024-09-19T13:15:02.7985626+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 781,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 774,
-  "NumberOfAwardsMax": 116,
+  "NumberOfAwards": 781,
+  "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 116
+      "Count": 118
     },
     {
       "Text": "This game is Relaxing",
@@ -1680,13 +1686,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 75
+      "Count": 77
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1698,7 +1704,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 67
+      "Count": 69
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1719,8 +1725,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-09-18T18:57:10.2627466+00:00",
+  "LastChanged": "2024-09-19T13:15:02.7985623+00:00",
   "LastUpdate_AppInfo": "2024-09-17T17:57:12.1047174+00:00",
-  "LastUpdate_Ratings": "2024-09-19T10:59:34.3678337+00:00",
+  "LastUpdate_Ratings": "2024-09-19T13:15:02.7985629+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.8502216+00:00"
 }

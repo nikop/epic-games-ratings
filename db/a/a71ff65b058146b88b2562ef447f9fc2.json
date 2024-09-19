@@ -2,9 +2,9 @@
   "ID": "a71ff65b058146b88b2562ef447f9fc2",
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
-  "Ranking_Rating": 570,
+  "Ranking_Rating": 593,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 436,
+  "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-05-30T22:57:52.5489386+00:00",
@@ -954,10 +954,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 404,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2024-09-19T13:15:17.4559395+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 407,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 404,
+  "NumberOfAwards": 407,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -977,7 +983,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 32
+      "Count": 35
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1462,9 +1468,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-09-19T09:58:03.014802+00:00",
+  "LastChanged": "2024-09-19T13:15:17.4559392+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:22.7311021+00:00",
-  "LastUpdate_Ratings": "2024-09-19T10:59:48.847699+00:00",
+  "LastUpdate_Ratings": "2024-09-19T13:15:17.4559398+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }

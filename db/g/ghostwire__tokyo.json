@@ -2,7 +2,7 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 744,
+  "Ranking_Rating": 745,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 1254,
@@ -9796,10 +9796,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 13641,
       "NumberOfAwardsMax": 9855
+    },
+    {
+      "Time": "2024-09-19T13:15:02.8261713+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 13643,
+      "NumberOfAwardsMax": 9855
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13641,
+  "NumberOfAwards": 13643,
   "NumberOfAwardsMax": 9855,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9855,7 +9861,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 446
+      "Count": 448
     },
     {
       "Text": "This game has a Creative Community",
@@ -9881,8 +9887,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2024-09-19T10:59:34.3788943+00:00",
+  "LastChanged": "2024-09-19T13:15:02.8261711+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:50.1604179+00:00",
-  "LastUpdate_Ratings": "2024-09-19T10:59:34.3788949+00:00",
+  "LastUpdate_Ratings": "2024-09-19T13:15:02.8261716+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:56.2640419+00:00"
 }
