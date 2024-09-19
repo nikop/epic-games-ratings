@@ -65,6 +65,7 @@
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Interlude](games/d/d75da0b94bfe48898940f73cb3061f05.md) | 2024-09-30 | - |  | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
+| [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | - |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
 | [Asilium 2](games/8/8003a47f7a024beeac824c38c1ace029.md) | 2024-09-09 | - |  | - | 0 |
 | [MURK](games/f/fe446e03d2474d4ea5e2a163496e5d3c.md) | 2024-08-31 | - |  | - | 0 |

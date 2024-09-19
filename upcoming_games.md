@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | - | - |
 | [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 0 | - | - |
 | [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-09-20 | - |  | - | - |
@@ -8,6 +7,7 @@
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | - | - |
 | [Anarkade](games/b/b249551ce1c84c6fbbe5b77adfe443cf.md) | 2024-09-23 | - |  | - | - |
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | - |  | - | - |
+| [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | - |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 1 | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | - |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | - |
