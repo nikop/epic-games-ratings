@@ -4,7 +4,7 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 264,
   "Ranking_Popularity": 287,
-  "Ranking_PopularitySum": 238,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 466,
   "Ranking_EOS_NewPlayers": 3,
@@ -3189,10 +3189,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2518,
       "NumberOfAwardsMax": 402
+    },
+    {
+      "Time": "2024-09-19T03:57:00.4207857+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2519,
+      "NumberOfAwardsMax": 402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2518,
+  "NumberOfAwards": 2519,
   "NumberOfAwardsMax": 402,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3206,7 +3212,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 248
+      "Count": 249
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15013,9 +15019,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2024-09-19T02:07:50.451805+00:00",
+  "LastChanged": "2024-09-19T03:57:00.4207855+00:00",
   "LastChanged_Achievements": "2024-09-14T14:17:47.8897909+00:00",
   "LastUpdate_AppInfo": "2024-09-15T23:57:11.7892586+00:00",
-  "LastUpdate_Ratings": "2024-09-19T02:07:50.4518054+00:00",
+  "LastUpdate_Ratings": "2024-09-19T03:57:00.4207861+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:47.8898828+00:00"
 }

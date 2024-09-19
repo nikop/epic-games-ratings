@@ -2,7 +2,7 @@
   "ID": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
   "Name": "Gigantic: Rampage Edition",
   "ProductSlug": "gigantic-rampage-edition-03f532",
-  "Ranking_Rating": 1186,
+  "Ranking_Rating": 1191,
   "Ranking_Popularity": 720,
   "Ranking_PopularitySum": 720,
   "Ranking_EOS_Progress": 138,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.12,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2024-05-22T13:59:53.4146915+00:00",
@@ -238,6 +238,12 @@
     {
       "Time": "2024-09-18T03:57:40.0924016+00:00",
       "Rating": 4.12,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-19T03:57:27.7805514+00:00",
+      "Rating": 4.11,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -489,9 +495,9 @@
   "FirstSeen": "2024-04-09T14:57:17.1065092+00:00",
   "FirstSeenRating": "2024-05-22T13:59:53.4146913+00:00",
   "FirstSeenAchievements": "2024-03-04T23:04:06.8983561+00:00",
-  "LastChanged": "2024-09-18T03:57:40.0924014+00:00",
+  "LastChanged": "2024-09-19T03:57:27.7805511+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:14.8174186+00:00",
   "LastUpdate_AppInfo": "2024-09-18T11:57:11.8790315+00:00",
-  "LastUpdate_Ratings": "2024-09-19T02:08:17.4145943+00:00",
+  "LastUpdate_Ratings": "2024-09-19T03:57:27.7805519+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:14.8183716+00:00"
 }
