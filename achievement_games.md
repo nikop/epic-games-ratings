@@ -64,7 +64,7 @@
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
 | [Blacksmith of the Sand Kingdom](games/f/f2892c9f78c04780b6a40463a162b6c2.md) | 2024-09-06 | 45 (1,000 XP) | 20 | - | 0 |
 | [Time Travel: Escape Room Game](games/6/6d5cd78354154858b6a05f84e6ffbea8.md) | 2024-09-05 | 13 (1,000 XP) | 0 | - | 0 |
-| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | 40 (1,000 XP) | 765,960 | 4.21 | 123 |
+| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | 40 (1,000 XP) | 765,960 | 4.22 | 123 |
 | [Sniper Ghost Warrior Contracts 2](games/1/1169554e6b18447280cf8e2af785d936.md) | 2024-09-05 | 43 (1,000 XP) | 44 | - | 0 |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | 32 (1,000 XP) | 280 | 4.29 | 0 |
 | [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | 31 (1,000 XP) | 988 | 4.42 | 0 |
@@ -197,7 +197,7 @@
 | [Weko The Mask Gatherer](games/0/099401b5b55a4a38a0cdc8e2759d0fcf.md) | 2024-06-30 | 25 (1,000 XP) | 5 | - | - |
 | [Chess Knights: Shinobi](games/3/3ca3fe1ee37a4dbf90f1b242c3c30bee.md) | 2024-06-27 | 24 (1,000 XP) | 7 | - | - |
 | [HexON](games/5/5b95b193df59499886544e610dc871e5.md) | 2024-06-27 | 6 (1,000 XP) | 125 | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 115,549 | 4.45 | 185 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 115,549 | 4.45 | 188 |
 | [Blacksad - Under the Skin](games/5/537812b78c3e41949594db56674dbbe3.md) | 2024-06-27 | 39 (1,000 XP) | 97 | - | 0 |
 | [The Adventures of Prince Shiratama ~Climb the mountains~](games/4/4334a911c46b4816b3d6580f5dd03fab.md) | 2024-06-26 | 5 (1,000 XP) | 12 | - | 0 |
 | [Firelight Fantasy: Force Energy](games/2/2714efb624174e479ae1d9d3e8d3184f.md) | 2024-06-26 | 6 (1,000 XP) | 29 | - | - |
@@ -1139,11 +1139,11 @@
 | [Arcadegeddon](games/a/arcadegeddon.md) | 2022-07-05 | 50 (1,000 XP) | 12,425 | 4.48 | 67 |
 | [Doodle Devil](games/d/doodle_devil.md) | 2022-07-01 | 9 (1,000 XP) | 108 | - | 0 |
 | [The Jackbox Party Starter](games/t/the_jackbox_party_starter.md) | 2022-06-30 | 20 (1,000 XP) | 379 | - | 0 |
-| [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 49,011 | 4.21 | 132 |
+| [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 49,011 | 4.21 | 133 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 1,015 | 4.57 | 148 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 298 | 4.43 | 0 |
 | [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 41,125,112 | 4.50 | 166,985 |
-| [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 156,622 | 4.55 | 34 |
+| [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 156,622 | 4.55 | 35 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 8,217 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,960 | 4.74 | 121 |
 | [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 799 | 4.17 | 0 |
@@ -1189,7 +1189,7 @@
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 123 | - | 0 |
 | [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 52 (1,440 XP) | 329,739 | 4.10 | 273 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 27,883 | 4.42 | 75 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 607,017 | 4.89 | 11,382 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 607,017 | 4.89 | 11,394 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 2022-03-18 | 31 (1,000 XP) | 0 | 4.67 | 0 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.38 | 0 |
 | [Doodle God](games/d/doodle_god.md) | 2022-03-10 | 22 (1,000 XP) | 342 | - | 0 |
@@ -1249,7 +1249,7 @@
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 271,748 | 4.27 | 124 |
 | [Flat Heroes](games/f/flat_heroes.md) | 2021-09-15 | 44 (1,000 XP) | 761 | - | 0 |
 | [Dice Legacy](games/d/dice_legacy.md) | 2021-09-09 | 45 (1,000 XP) | 1,635 | 4.29 | 0 |
-| [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 152 (1,400 XP) | 14,776 | 4.76 | 1,916 |
+| [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 2021-09-02 | 152 (1,400 XP) | 14,776 | 4.76 | 1,919 |
 | [Transport Fever 2](games/t/transport_fever_2.md) | 2021-08-18 | 61 (1,000 XP) | 3,030 | 4.67 | 64 |
 | [Road 96](games/r/road_96.md) | 2021-08-16 | 12 (1,000 XP) | 2 | 4.71 | 0 |
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 20,627 | 4.50 | 58 |
