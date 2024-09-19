@@ -3,7 +3,7 @@
   "Name": "Horizon Forbidden West\u2122 Complete Edition",
   "ProductSlug": "horizon-forbidden-west-complete-edition",
   "Ranking_Rating": 76,
-  "Ranking_Popularity": 223,
+  "Ranking_Popularity": 221,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 389,
@@ -3901,18 +3901,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 2067,
       "NumberOfAwardsMax": 831
+    },
+    {
+      "Time": "2024-09-19T19:57:01.3484487+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 2072,
+      "NumberOfAwardsMax": 834
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2067,
-  "NumberOfAwardsMax": 831,
+  "NumberOfAwards": 2072,
+  "NumberOfAwardsMax": 834,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 831
+      "Count": 834
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3936,13 +3942,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4684,9 +4690,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-09-19T10:57:46.501392+00:00",
+  "LastChanged": "2024-09-19T19:57:01.3484484+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:11.1901907+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:17.8914596+00:00",
-  "LastUpdate_Ratings": "2024-09-19T17:58:14.6812622+00:00",
+  "LastUpdate_Ratings": "2024-09-19T19:57:01.3484495+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:11.1902552+00:00"
 }

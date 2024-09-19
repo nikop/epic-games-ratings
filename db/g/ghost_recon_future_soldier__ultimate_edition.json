@@ -2,7 +2,7 @@
   "ID": "047ee5c9350245588f043061fb0279ab",
   "Name": "Ghost Recon Future Solider",
   "ProductSlug": "ghost-recon-future-soldier",
-  "Ranking_Rating": 548,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 722,
   "Ranking_PopularitySum": 722,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 23,
   "RatingHistory": [
     {
@@ -288,6 +288,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-19T19:57:05.6753295+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -313,8 +319,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:47.3812032+00:00",
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
-  "LastChanged": "2024-03-31T15:59:39.6159668+00:00",
+  "LastChanged": "2024-09-19T19:57:05.6753293+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:38.850652+00:00",
-  "LastUpdate_Ratings": "2024-09-19T17:58:17.9729719+00:00",
+  "LastUpdate_Ratings": "2024-09-19T19:57:05.6753298+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:47.7621649+00:00"
 }
