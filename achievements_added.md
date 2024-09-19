@@ -6,7 +6,7 @@
 | [Alien Paradise](games/6/64d8cc2fb5cc4798a6db9796b7e73e3f.md) | 2024-08-23 | 20 (1,000 XP) | 1 | - | - |
 | [Sumerian Six](games/7/77d0632b8cf14d4f8b974899928a579d.md) | 2024-09-02 | 32 (1,000 XP) | 19 | - | 0 |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-09-19 | 10 (1,000 XP) | 1 | - | - |
-| [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | 31 (1,000 XP) | 988 | 4.42 | 0 |
+| [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | 31 (1,000 XP) | 988 | 4.43 | 0 |
 | [Garden Witch Life](games/0/0ff2a1392b884d6fba75823c49c96af4.md) | 2024-09-12 | 26 (1,000 XP) | 6 | - | 0 |
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | 41 (1,000 XP) | 0 | - | 0 |
 | [Days of Defiance](games/3/3422cff6d1bd4e50b5dfe2153fe64ac1.md) | 2024-12-31 | 20 (1,000 XP) | 1 | - | - |
@@ -57,7 +57,7 @@
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 3.78 | 0 |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | - |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.81 | 0 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.78 | 0 |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | 20 (1,000 XP) | 9 | - | 0 |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 0 | - | - |
@@ -198,7 +198,7 @@
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | 55 (1,000 XP) | 318 | 4.68 | 0 |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,114 | 4.73 | 97 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 21,355 | 4.64 | 766 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 21,355 | 4.64 | 770 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 15 | - | 0 |
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 20,627 | 4.50 | 58 |
 | [Republic of Pirates](games/0/0cf54ee6730540daadb4f3bb7d54d481.md) | 2024-06-19 | 50 (1,000 XP) | 159 | - | 0 |
