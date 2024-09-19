@@ -3,7 +3,7 @@
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
   "Ranking_Rating": 20,
-  "Ranking_Popularity": 26,
+  "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 591,
@@ -26241,10 +26241,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 166560,
       "NumberOfAwardsMax": 22387
+    },
+    {
+      "Time": "2024-09-19T18:00:30.5505156+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 166853,
+      "NumberOfAwardsMax": 22387
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166560,
+  "NumberOfAwards": 166853,
   "NumberOfAwardsMax": 22387,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -26276,7 +26282,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 17350
+      "Count": 17498
     },
     {
       "Text": "This game is Great for Beginners",
@@ -26288,7 +26294,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 16364
+      "Count": 16509
     },
     {
       "Text": "This game has Easy Combat",
@@ -26694,9 +26700,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-09-19T16:57:49.3758397+00:00",
+  "LastChanged": "2024-09-19T18:00:30.5505154+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:38.0083264+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:01.5110759+00:00",
-  "LastUpdate_Ratings": "2024-09-19T16:57:49.3758403+00:00",
+  "LastUpdate_Ratings": "2024-09-19T18:00:30.5505159+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:38.0091964+00:00"
 }

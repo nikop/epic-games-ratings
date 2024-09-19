@@ -2,9 +2,9 @@
   "ID": "315f40c8c7ae4f95ad7426f364a39194",
   "Name": "Fangs",
   "ProductSlug": "fangs",
-  "Ranking_Rating": 1171,
-  "Ranking_Popularity": 720,
-  "Ranking_PopularitySum": 720,
+  "Ranking_Rating": 1204,
+  "Ranking_Popularity": 721,
+  "Ranking_PopularitySum": 721,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.08,
   "RatingHistory": [
     {
       "Time": "2022-12-07T16:57:36.8831311+00:00",
@@ -115,6 +115,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-19T17:58:27.4681724+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -133,8 +139,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-30T22:56:56.3802137+00:00",
   "FirstSeenRating": "2022-12-07T16:57:36.8831309+00:00",
-  "LastChanged": "2023-12-05T19:00:46.8988725+00:00",
+  "LastChanged": "2024-09-19T17:58:27.4681722+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:45.4995099+00:00",
-  "LastUpdate_Ratings": "2024-09-19T15:59:03.1089768+00:00",
+  "LastUpdate_Ratings": "2024-09-19T17:58:27.4681727+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:55.8490555+00:00"
 }

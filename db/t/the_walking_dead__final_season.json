@@ -3,8 +3,8 @@
   "Name": "The Walking Dead: Final Season",
   "ProductSlug": "walking-dead-final-season",
   "Ranking_Rating": 133,
-  "Ranking_Popularity": 720,
-  "Ranking_PopularitySum": 720,
+  "Ranking_Popularity": 721,
+  "Ranking_PopularitySum": 721,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -315,6 +315,6 @@
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
   "LastChanged": "2024-08-25T12:00:01.6201629+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:23.2352508+00:00",
-  "LastUpdate_Ratings": "2024-09-19T15:57:55.823885+00:00",
+  "LastUpdate_Ratings": "2024-09-19T17:57:20.1770915+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:38.3044786+00:00"
 }

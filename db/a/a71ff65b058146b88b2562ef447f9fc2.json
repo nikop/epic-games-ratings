@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 594,
   "Ranking_Popularity": 509,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 432,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -966,10 +966,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 409,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2024-09-19T18:00:33.8264449+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 411,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 409,
+  "NumberOfAwards": 411,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -995,13 +1001,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1474,9 +1480,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-09-19T16:57:52.621396+00:00",
+  "LastChanged": "2024-09-19T18:00:33.8264447+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-09-13T05:57:22.7311021+00:00",
-  "LastUpdate_Ratings": "2024-09-19T16:57:52.6213966+00:00",
+  "LastUpdate_Ratings": "2024-09-19T18:00:33.8264452+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Prehistoric Kingdom",
   "ProductSlug": "prehistoric-kingdom",
   "Ranking_Rating": 474,
-  "Ranking_Popularity": 720,
-  "Ranking_PopularitySum": 720,
+  "Ranking_Popularity": 721,
+  "Ranking_PopularitySum": 721,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -526,6 +526,6 @@
   "LastChanged": "2024-09-01T16:57:29.0032725+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:23.356152+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:44.8807147+00:00",
-  "LastUpdate_Ratings": "2024-09-19T15:59:00.2229035+00:00",
+  "LastUpdate_Ratings": "2024-09-19T17:58:24.4717933+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:23.3561632+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "7b9cdaaca4f5424e8d6bd7dabe559010",
   "Name": "Death\u0027s Gambit - Afterlife",
   "ProductSlug": "deaths-gambit-afterlife-b5f411",
-  "Ranking_Rating": 570,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1254,
@@ -666,10 +666,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1120,
       "NumberOfAwardsMax": 798
+    },
+    {
+      "Time": "2024-09-19T17:59:18.2735301+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1121,
+      "NumberOfAwardsMax": 798
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1120,
+  "NumberOfAwards": 1121,
   "NumberOfAwardsMax": 798,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -683,7 +689,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -760,9 +766,9 @@
   "FirstSeen": "2024-08-12T09:00:11.602464+00:00",
   "FirstSeenRating": "2024-08-16T09:00:44.4168107+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:10.6887869+00:00",
-  "LastChanged": "2024-09-19T03:58:35.7410996+00:00",
+  "LastChanged": "2024-09-19T17:59:18.2735299+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:18.1464827+00:00",
   "LastUpdate_AppInfo": "2024-09-12T20:57:19.5145055+00:00",
-  "LastUpdate_Ratings": "2024-09-19T15:59:53.7800893+00:00",
+  "LastUpdate_Ratings": "2024-09-19T17:59:18.2735303+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:18.1464862+00:00"
 }

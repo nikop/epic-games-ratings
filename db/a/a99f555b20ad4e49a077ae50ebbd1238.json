@@ -2,9 +2,9 @@
   "ID": "a99f555b20ad4e49a077ae50ebbd1238",
   "Name": "Zeeverse",
   "ProductSlug": "zeeverse-92a34e",
-  "Ranking_Rating": 148,
+  "Ranking_Rating": 133,
   "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 506,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2024-02-09T15:57:23.2478125+00:00",
@@ -677,10 +677,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 233,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-09-19T17:58:04.4837082+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 234,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 233,
+  "NumberOfAwards": 234,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -718,7 +724,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -733,8 +739,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-09-18T15:59:13.3740684+00:00",
+  "LastChanged": "2024-09-19T17:58:04.483708+00:00",
   "LastUpdate_AppInfo": "2024-09-19T09:57:27.8810172+00:00",
-  "LastUpdate_Ratings": "2024-09-19T15:58:40.4569811+00:00",
+  "LastUpdate_Ratings": "2024-09-19T17:58:04.4837085+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:56.7661649+00:00"
 }
