@@ -3,7 +3,7 @@
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 316,
-  "Ranking_Popularity": 250,
+  "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -8824,11 +8824,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 5209,
       "NumberOfAwardsMax": 630
+    },
+    {
+      "Time": "2024-09-20T03:03:58.7584384+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5213,
+      "NumberOfAwardsMax": 633
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5209,
-  "NumberOfAwardsMax": 630,
+  "NumberOfAwards": 5213,
+  "NumberOfAwardsMax": 633,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8841,7 +8847,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 582
+      "Count": 583
     },
     {
       "Text": "This game is Relaxing",
@@ -8883,7 +8889,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 630
+      "Count": 633
     },
     {
       "Text": "This game has a Creative Community",
@@ -8903,8 +8909,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-09-19T22:59:00.7608808+00:00",
+  "LastChanged": "2024-09-20T03:03:58.7584382+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:30.9202179+00:00",
-  "LastUpdate_Ratings": "2024-09-19T22:59:00.7608814+00:00",
+  "LastUpdate_Ratings": "2024-09-20T03:03:58.7584389+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.1670664+00:00"
 }

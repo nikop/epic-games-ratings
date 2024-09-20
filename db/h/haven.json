@@ -2,7 +2,7 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 202,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 722,
   "Ranking_PopularitySum": 722,
   "Ranking_EOS_Progress": 347,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.73,
+  "Rating": 4.72,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -205,6 +205,12 @@
     {
       "Time": "2024-07-20T14:58:36.4840486+00:00",
       "Rating": 4.73,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-20T03:05:34.2123304+00:00",
+      "Rating": 4.72,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -4299,9 +4305,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
-  "LastChanged": "2024-07-20T14:58:36.4840485+00:00",
+  "LastChanged": "2024-09-20T03:05:34.2123302+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:59.4872705+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:51.7001864+00:00",
-  "LastUpdate_Ratings": "2024-09-19T23:58:13.7093948+00:00",
+  "LastUpdate_Ratings": "2024-09-20T03:05:34.2123307+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:59.4873044+00:00"
 }

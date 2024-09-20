@@ -3,8 +3,8 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_Rating": 292,
-  "Ranking_Popularity": 678,
-  "Ranking_PopularitySum": 639,
+  "Ranking_Popularity": 674,
+  "Ranking_PopularitySum": 638,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -555,18 +555,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-20T03:02:53.5326188+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 49,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10430,9 +10436,9 @@
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged": "2024-09-17T13:13:18.0202925+00:00",
+  "LastChanged": "2024-09-20T03:02:53.5326186+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:06.9111964+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:23.0287257+00:00",
-  "LastUpdate_Ratings": "2024-09-19T22:57:55.6047935+00:00",
+  "LastUpdate_Ratings": "2024-09-20T03:02:53.5326191+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.9112761+00:00"
 }
