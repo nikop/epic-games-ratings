@@ -1,7 +1,7 @@
 # Townscaper
 [Store](https://store.epicgames.com/en-US/p/townscaper)  
 [View Rawdata](../../db/t/townscaper.json)  
-Rating: 4.74 (Ranked 186)  
+Rating: 4.74 (Ranked 185)  
 Number of Ratings: 41  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
