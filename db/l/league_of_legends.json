@@ -4,7 +4,7 @@
   "ProductSlug": "league-of-legends",
   "Ranking_Rating": 1144,
   "Ranking_Popularity": 74,
-  "Ranking_PopularitySum": 55,
+  "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -19126,6 +19126,6 @@
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
   "LastChanged": "2024-09-20T07:57:14.8582972+00:00",
   "LastUpdate_AppInfo": "2024-09-16T08:57:11.9652898+00:00",
-  "LastUpdate_Ratings": "2024-09-20T14:57:55.7589626+00:00",
+  "LastUpdate_Ratings": "2024-09-20T16:57:05.1511876+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:16.7085797+00:00"
 }
