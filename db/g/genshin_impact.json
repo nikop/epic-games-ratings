@@ -2,7 +2,7 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 1254,
@@ -27525,10 +27525,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1686903,
       "NumberOfAwardsMax": 370239
+    },
+    {
+      "Time": "2024-09-20T09:57:52.724476+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1687021,
+      "NumberOfAwardsMax": 370239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1686903,
+  "NumberOfAwards": 1687021,
   "NumberOfAwardsMax": 370239,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -27572,7 +27578,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 138108
+      "Count": 138226
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -27610,8 +27616,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2024-09-20T05:59:56.8346234+00:00",
+  "LastChanged": "2024-09-20T09:57:52.7244758+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:24.1067771+00:00",
-  "LastUpdate_Ratings": "2024-09-20T07:58:49.1419124+00:00",
+  "LastUpdate_Ratings": "2024-09-20T09:57:52.7244763+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:04.6542375+00:00"
 }
