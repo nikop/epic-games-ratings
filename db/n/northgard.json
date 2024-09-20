@@ -4,7 +4,7 @@
   "ProductSlug": "northgard",
   "Ranking_Rating": 403,
   "Ranking_Popularity": 530,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1075,10 +1075,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 286,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-09-20T06:01:42.553418+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 286,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1128,7 +1134,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1154,8 +1160,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2024-09-08T16:59:29.2165341+00:00",
+  "LastChanged": "2024-09-20T06:01:42.5534178+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:26.4779871+00:00",
-  "LastUpdate_Ratings": "2024-09-20T04:58:18.2135085+00:00",
+  "LastUpdate_Ratings": "2024-09-20T06:01:42.5534183+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:35.8169798+00:00"
 }
