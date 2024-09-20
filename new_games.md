@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | - |  | - | - |
 | [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | - | 0 |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-09-19 | 10 (1,000 XP) | 1 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | - |

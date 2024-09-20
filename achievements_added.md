@@ -244,7 +244,7 @@
 | [Cybernetic Fault](games/f/fef01803e2f1468591535ce1709b89b7.md) | 2024-05-09 | 6 (1,000 XP) | 23 | - | - |
 | [A Way Out](games/4/4090664cbdc2403c8e3331989bc8c072.md) | 2024-05-09 | 14 (1,000 XP) | 1,069 | 4.58 | 0 |
 | [Spellcats Auto Card Tactics](games/4/4dadd911cca741d684859a00e813a14b.md) | 2024-05-17 | 26 (1,000 XP) | 2 | - | - |
-| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 6,071 | 4.80 | 140 |
+| [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 2024-05-30 | 63 (1,250 XP) | 6,071 | 4.80 | 144 |
 | [FRONT MISSION 2: Remake](games/e/e80b3a84fa574d44ace56f5ad69d71a1.md) | 2024-04-30 | 32 (1,000 XP) | 0 | - | 0 |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [VIDEOVERSE](games/9/9cfd154729b44c129f0cb8bbdc7ff7bb.md) | 2024-04-19 | 43 (1,000 XP) | 1 | - | 0 |
@@ -266,7 +266,7 @@
 | [We Love Katamari REROLL+ Royal Reverie](games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 2024-05-23 | 35 (1,000 XP) | 23 | - | 0 |
 | [Quest Room](games/8/8b0f65a8a3c94a918eb954c2cac7102c.md) | 2024-05-03 | 12 (1,000 XP) | 50 | - | 0 |
 | [RAM BOE](games/c/c6d2d7a5cf8648979aedb6fcee5809c1.md) | 2024-05-26 | 15 (1,000 XP) | 10 | - | - |
-| [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,296 | 4.48 | 0 |
+| [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,296 | 4.44 | 0 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 19,865 | 4.53 | 43 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 29 | - | 0 |
 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,414 |
@@ -308,7 +308,7 @@
 | [Battlefield 4™ Premium Edition](games/0/0a541deb1bbb42c987cb48d695431e18.md) | 2024-03-28 | 67 (1,990 XP) | 4,761 | 4.27 | 0 |
 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 2024-04-01 | 58 (1,250 XP) | 1,805 | 4.60 | 0 |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 2 | - | - |
-| [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 8,557 | 4.40 | 0 |
+| [Need for Speed™ Deluxe Edition](games/7/77961f9557a149a8bf1cf761220d9d24.md) | 2024-03-28 | 45 (1,500 XP) | 8,557 | 4.41 | 0 |
 | [NINJA KATO 3](games/4/45e5366436ed4058ad268d41516c4c0d.md) | 2024-04-21 | 5 (1,000 XP) | 0 | - | - |
 | [Battlefield™ 1 Revolution](games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 2024-03-28 | 50 (2,000 XP) | 0 | 4.55 | 77 |
 | [Outbreak The Fedora Files: What Lydia Knows](games/5/5367b40700174f1b9f4b5cc5ceb3751d.md) | 2024-05-03 | 31 (1,000 XP) | 4 | - | - |
@@ -354,7 +354,7 @@
 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 2024-02-21 | 39 (1,000 XP) | 800 | 4.61 | 0 |
 | [Toribash Next](games/2/2bee239ee96643fbb2afab3013004136.md) | 2024-01-24 | 15 (1,000 XP) | 4,938 | - | 0 |
 | [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 67 | - | - |
-| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 13,105 | 4.53 | 485 |
+| [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 2015-11-05 | 50 (1,000 XP) | 13,105 | 4.53 | 488 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | 41 (1,000 XP) | 0 | - | 0 |
 | [Highwater](games/h/highwater.md) | 2024-03-14 | 20 (1,000 XP) | 18 | - | 0 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 12,347 | 4.61 | 114 |
@@ -433,7 +433,7 @@
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 3,292 | 4.44 | 0 |
 | [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 1 | - | 0 |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 148,232 | 4.53 | 193 |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2024-01-30 | 20 (1,000 XP) | 148,232 | 4.53 | 194 |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 28,728 | 3.64 | 0 |
 | [Motorbike Evolution 2024](games/e/e278531bc44245d29329e60389bd04ad.md) | 2024-03-25 | 33 (1,000 XP) | 9,244 | - | 0 |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 1,942 | - | 0 |
@@ -546,7 +546,7 @@
 | [Songs of Conquest](games/s/songs_of_conquest.md) | 2022-05-10 | 54 (1,000 XP) | 3,713 | 4.66 | 33 |
 | [Backpack Hero](games/0/0dc17d69dbfa4dd7b4eeb480d3adad6d.md) | 2023-11-14 | 35 (1,000 XP) | 2 | - | 0 |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 196 | - | 0 |
-| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 104,983 | 4.35 | 42 |
+| [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 104,983 | 4.35 | 43 |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-11-13 | 37 (1,000 XP) | 271 | - | 0 |
 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 2023-11-23 | 18 (1,000 XP) | 83 | - | 0 |
 | [Asterix and Obelix Slap Them All 2](games/3/3afeb43f23944b2da7aba1f04ad5756c.md) | 2023-11-13 | 32 (1,000 XP) | 0 | - | 0 |
@@ -599,7 +599,7 @@
 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2023-10-26 | 24 (1,000 XP) | 192 | - | 0 |
 | [Creepy Tale 3 - Ingrid Penance](games/0/078713096df541f58f5fc4032efeeb2d.md) | 2023-10-26 | 33 (1,000 XP) | 177 | - | 0 |
 | [StrikeForce Kitty](games/b/be6723b7e93d4bb0a63bde783ffa06ac.md) | 2023-10-26 | 31 (1,000 XP) | 413 | - | 0 |
-| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 72 (1,200 XP) | 18,098 | 4.22 | 1,067 |
+| [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 72 (1,200 XP) | 18,098 | 4.22 | 1,070 |
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 2,253 | 4.53 | 0 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 591 | - | 0 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 30 (1,000 XP) | 2,103 | - | 0 |
@@ -686,7 +686,7 @@
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 5,313 | 4.29 | 65 |
 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 248,288 | 4.26 | 24,809 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
-| [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 27,910 | 4.72 | 558 |
+| [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 27,910 | 4.72 | 559 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 25 | - | 0 |
 | [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 2023-10-05 | 25 (1,000 XP) | 38 | - | 0 |
 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2023-09-14 | 10 (1,000 XP) | 71 | - | 0 |
@@ -720,7 +720,7 @@
 | [ALAN-13 Reformation](games/f/f514ca89c14c49858748fd9569d35d52.md) | 2023-09-21 | 9 (1,000 XP) | 9 | - | 0 |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 596,729 | 4.32 | 31 |
-| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 10,385 | 4.68 | 25 |
+| [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 10,385 | 4.68 | 26 |
 | [Deadwater Saloon](games/0/0011a38fecb741dc9923879a4f490d42.md) | 2023-09-21 | 64 (1,000 XP) | 82 | - | 0 |
 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 2023-09-21 | 15 (1,000 XP) | 27 | - | 0 |
 | [Survive on Raft](games/s/survive_on_raft.md) | 2023-10-12 | 36 (1,000 XP) | 2 | 3.63 | 0 |
