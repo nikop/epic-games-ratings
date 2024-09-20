@@ -3,7 +3,7 @@
   "Name": "Titan Quest Anniversary Edition",
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 294,
-  "Ranking_Popularity": 425,
+  "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -1105,10 +1105,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-09-20T15:59:53.7117068+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 384,
+  "NumberOfAwards": 385,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1164,7 +1170,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -1178,8 +1184,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-09-19T18:58:28.9741794+00:00",
+  "LastChanged": "2024-09-20T15:59:53.7117066+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:44.9533244+00:00",
-  "LastUpdate_Ratings": "2024-09-20T14:57:32.6951747+00:00",
+  "LastUpdate_Ratings": "2024-09-20T15:59:53.7117072+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:38.2459869+00:00"
 }

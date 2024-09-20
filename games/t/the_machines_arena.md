@@ -3,8 +3,8 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.78 (Ranked 125)  
 ## Awards
-Max (Great for Quick Sessions): 54  (Ranked 556)  
-Sum: 258 (Ranked 492)  
+Max (Great for Quick Sessions): 54  (Ranked 557)  
+Sum: 258 (Ranked 493)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |

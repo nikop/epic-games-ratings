@@ -1,12 +1,12 @@
 # Jotun: Valhalla Edition
 [Store](https://store.epicgames.com/en-US/p/jotun)  
 [View Rawdata](../../db/j/jotun__valhalla_edition.json)  
-Rating: 4.41 (Ranked 878)  
+Rating: 4.41 (Ranked 879)  
 Number of Ratings: 758  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 101  (Ranked 467)  
+Max (Great Boss Battles): 101  (Ranked 468)  
 Sum: 101 (Ranked 582)  
-Diff (max vs sum): -115  
+Diff (max vs sum): -114  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 101 |

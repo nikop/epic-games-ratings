@@ -3,8 +3,8 @@
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
   "Ranking_Rating": 688,
-  "Ranking_Popularity": 628,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 629,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 536,
   "Ranking_EOS_NewPlayers": 3,
@@ -655,10 +655,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 147,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-20T15:59:11.5857138+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 147,
+  "NumberOfAwards": 169,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -697,6 +703,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 21
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 37188,
@@ -15689,9 +15701,9 @@
   "FirstSeen": "2023-03-21T22:57:01.0375788+00:00",
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
-  "LastChanged": "2024-09-16T23:58:12.570389+00:00",
+  "LastChanged": "2024-09-20T15:59:11.5857136+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:08.0918862+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:35.0390881+00:00",
-  "LastUpdate_Ratings": "2024-09-20T14:00:20.721293+00:00",
+  "LastUpdate_Ratings": "2024-09-20T15:59:11.585714+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:08.0920336+00:00"
 }
