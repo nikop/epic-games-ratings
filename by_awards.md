@@ -5,7 +5,7 @@
 | 3 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 451,588 | 4.68 | 292 |
 | 4 | [Genshin Impact](games/g/genshin_impact.md) | 370,239 | 4.66 | 332 |
 | 5 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 362,292 | 4.87 | 20 |
-| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 236,711 | 4.18 | 1,143 |
+| 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 236,759 | 4.18 | 1,143 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 177,999 | 4.69 | 265 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 167,032 | 4.50 | 706 |
 | 9 | [VALORANT](games/v/valorant.md) | 149,143 | 4.49 | 727 |
@@ -25,8 +25,8 @@
 | 23 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 25,391 | 4.57 | 549 |
 | 24 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,809 | 4.26 | 1,065 |
 | 25 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 22,879 | 4.61 | 451 |
-| 26 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 22,504 | 4.56 | 572 |
-| 27 | [Satisfactory](games/s/satisfactory.md) | 22,387 | 4.87 | 20 |
+| 26 | [Satisfactory](games/s/satisfactory.md) | 22,779 | 4.87 | 20 |
+| 27 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 22,504 | 4.56 | 572 |
 | 28 | [Borderlands 2](games/b/borderlands_2.md) | 19,884 | 4.76 | 150 |
 | 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 19,152 | 4.60 | 475 |
 | 30 | [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 18,862 | 4.59 | 504 |
@@ -43,11 +43,11 @@
 | 41 | [Maneater](games/m/maneater.md) | 14,579 | 4.49 | 727 |
 | 42 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 14,526 | 4.62 | 426 |
 | 43 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 14,147 | 4.51 | 687 |
-| 44 | [HITMAN World of Assassination](games/h/hitman_3.md) | 13,997 | 4.76 | 150 |
+| 44 | [HITMAN World of Assassination](games/h/hitman_3.md) | 14,006 | 4.76 | 150 |
 | 45 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 13,743 | 4.57 | 549 |
 | 46 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 13,254 | 4.68 | 292 |
 | 47 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 13,016 | 4.36 | 950 |
-| 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 12,988 | 4.01 | 1,228 |
+| 48 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 13,000 | 4.01 | 1,228 |
 | 49 | [DEATH STRANDING](games/d/death_stranding.md) | 12,548 | 4.77 | 133 |
 | 50 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 12,269 | 4.87 | 20 |
 | 51 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 12,134 | 4.61 | 451 |
@@ -134,7 +134,7 @@
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,314 | 4.69 | 265 |
 | 133 | [MORDHAU](games/m/mordhau.md) | 2,302 | 4.36 | 950 |
 | 134 | [Celeste](games/c/celeste.md) | 2,261 | 4.92 | 4 |
-| 135 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,253 | 4.50 | 706 |
+| 135 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 2,257 | 4.50 | 706 |
 | 136 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,207 | 4.38 | 927 |
 | 137 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,162 | 4.49 | 727 |
 | 138 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 2,097 | 4.80 | 103 |
@@ -197,7 +197,7 @@
 | 195 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 1,075 | 4.79 | 115 |
 | 196 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 1,073 | 3.75 | 1,285 |
 | 197 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 1,070 | 4.22 | 1,106 |
-| 198 | [Frostpunk](games/f/frostpunk.md) | 1,062 | 4.75 | 170 |
+| 198 | [Frostpunk](games/f/frostpunk.md) | 1,067 | 4.75 | 170 |
 | 199 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,055 | 4.24 | 1,083 |
 | 200 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,030 | 4.31 | 1,008 |
 | 201 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 1,027 | 4.59 | 504 |
@@ -272,10 +272,10 @@
 | 270 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 490 | 4.31 | 1,008 |
 | 270 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 490 | 4.80 | 103 |
 | 272 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 488 | 4.53 | 647 |
-| 273 | [Dungeons 3](games/d/dungeons_3.md) | 472 | 4.65 | 351 |
+| 273 | [Dungeons 3](games/d/dungeons_3.md) | 473 | 4.65 | 351 |
 | 274 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 471 | 4.37 | 938 |
 | 275 | [State of Decay 2: Juggernaut Edition](games/s/state_of_decay_2__juggernaut_edition.md) | 470 | 4.72 | 216 |
-| 276 | [Railway Empire](games/r/railway_empire.md) | 466 | 4.51 | 687 |
+| 276 | [Railway Empire](games/r/railway_empire.md) | 469 | 4.51 | 687 |
 | 277 | [Unreal Tournament](games/u/unreal_tournament.md) | 464 | 4.66 | 332 |
 | 278 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 454 | 4.29 | 1,028 |
 | 279 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 449 | 4.81 | 91 |
@@ -349,8 +349,8 @@
 | 347 | [Star Stable Online](games/s/star_stable_online.md) | 240 | 4.43 | 841 |
 | 348 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 238 | 4.54 | 622 |
 | 349 | [SHRAPNEL](games/e/e4af596d707e4cea8269a78a201a39eb.md) | 236 | 3.49 | 1,302 |
-| 350 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 232 | 4.22 | 1,106 |
-| 350 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 232 | 4.74 | 187 |
+| 350 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 233 | 4.74 | 187 |
+| 351 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 232 | 4.22 | 1,106 |
 | 352 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 222 | 4.70 | 245 |
 | 353 | [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 220 | 4.68 | 292 |
 | 354 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 217 | 4.35 | 964 |
