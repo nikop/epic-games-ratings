@@ -775,7 +775,7 @@
 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 2023-08-17 | 5 (1,000 XP) | 1,997 | - | 0 |
 | [Quantum Recharged](games/9/9161d1b30f4e4a0cbec5ee398d6e5cd6.md) | 2023-08-17 | 13 (1,000 XP) | 15 | - | - |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2023-08-17 | 26 (1,000 XP) | 2,022 | 4.86 | 0 |
-| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 8,160 | 4.58 | 0 |
+| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 8,160 | 4.56 | 0 |
 | [greensheen Production](games/g/greensheen_production.md) | - | 35 (1,000 XP) | 33 | - | - |
 | [Dros](games/a/a46cade12846436281c910ddc51411f3.md) | 2023-08-11 | 40 (1,000 XP) | 28 | - | 0 |
 | [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 2023-08-10 | 14 (1,000 XP) | 613 | - | 0 |

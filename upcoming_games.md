@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [The Karate Kid Street Rumble](games/9/945620b4eca746e0991d17d4ea450d6a.md) | 2024-09-20 | - |  | - | - |
 | [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | - | - |
 | [Anarkade](games/b/b249551ce1c84c6fbbe5b77adfe443cf.md) | 2024-09-23 | - |  | - | - |
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | - |  | - | - |
@@ -248,6 +247,7 @@
 | [Arcane Wars](games/9/937fbd8060dc4d8491bb82a8aae39862.md) | 2099-01-01 | - |  | - | - |
 | [Archery RED](games/e/e17cbf6cf17b4e8dbe4119c99f668cb0.md) | 2099-01-01 | - |  | - | - |
 | [Architect of the Union](games/b/b3b5006256614445a18a91bcaf6b3fd9.md) | 2099-01-01 | - |  | - | - |
+| [Arise](games/e/ea31c0884cce4e8d82eb03ea0177b6ea.md) | 2099-01-01 | - |  | - | - |
 | [Art Shop Simulator](games/3/376a130261c24ba99c0d5b297867dab4.md) | 2099-01-01 | - |  | - | - |
 | [ASCENDANT.COM](games/f/f482bdb61ec6483c89b21c3af00a9833.md) | 2099-01-01 | - |  | - | - |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | - |  | - | - |

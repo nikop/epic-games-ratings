@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Karate Kid Street Rumble](games/9/945620b4eca746e0991d17d4ea450d6a.md) | 2024-09-20 | - |  | - | - |
 | [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-09-20 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 0 | - | - |
 | [Mouse Arcade](games/7/76dfad87100e4d69b7876b1c6d7c5448.md) | 2024-09-20 | - |  | - | - |
@@ -39,7 +40,7 @@
 | [Garden Witch Life](games/0/0ff2a1392b884d6fba75823c49c96af4.md) | 2024-09-12 | 26 (1,000 XP) | 6 | - | 0 |
 | [Madness Starts Young](games/2/2606dbe6dcab483b8cd65d9faf168b6f.md) | 2024-09-12 | - |  | - | - |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2024-09-12 | 15 (1,000 XP) | 0 | - | - |
-| [Superscout](games/3/34813212c9b04b2793d4f7e90814b7a5.md) | 2024-09-12 | - |  | - | - |
+| [Superscout](games/3/34813212c9b04b2793d4f7e90814b7a5.md) | 2024-09-12 | - |  | - | 0 |
 | [Facecheck](games/d/d552eca77bcc418183d7689fc8156c58.md) | 2024-09-11 | - |  | - | - |
 | [KurtzPel](games/7/727a79e37aea499db68214a27867aec2.md) | 2024-09-11 | - |  | - | 0 |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |

@@ -818,7 +818,7 @@
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 1,166 | - | 0 |
 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 2023-06-09 | 74 (1,110 XP) | 330 | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 16 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,985,220 | 4.57 | 13,743 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,985,220 | 4.57 | 13,757 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 13 (1,000 XP) | 64 | - | 0 |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 114 | - | 0 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 131 | - | 0 |
@@ -1103,9 +1103,9 @@
 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 2022-08-31 | 45 (1,600 XP) | 949,474 | 4.25 | 870 |
 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 2022-08-30 | 44 (1,000 XP) | 1,238 | 4.55 | 41 |
 | [Overloop](games/o/overloop.md) | 2022-08-26 | 21 (1,000 XP) | 5 | - | - |
-| [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 250,998 | 4.58 | 1,553 |
+| [Ring of Pain](games/r/ring_of_pain.md) | 2022-08-25 | 138 (1,180 XP) | 250,998 | 4.58 | 1,554 |
 | [Are You Smarter Than A 5th Grader](games/a/are_you_smarter_than_a_5th_grader.md) | 2022-08-23 | 19 (1,000 XP) | 458 | - | 0 |
-| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,699,069 | 4.44 | 85,310 |
+| [Destiny 2](games/d/destiny_2.md) | 2022-08-23 | 23 (1,240 XP) | 1,699,069 | 4.44 | 85,343 |
 | [Saints Row](games/s/saints_row.md) | 2022-08-23 | 53 (1,075 XP) | 1,133,688 | 3.91 | 1,352 |
 | [Yars: Recharged](games/y/yars__recharged.md) | 2022-08-23 | 15 (1,000 XP) | 4,364 | - | 0 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 6,388 | 4.42 | 130 |
@@ -1143,7 +1143,7 @@
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 1,015 | 4.57 | 150 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 298 | 4.43 | 0 |
 | [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 41,125,112 | 4.50 | 167,096 |
-| [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 156,622 | 4.55 | 35 |
+| [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 156,622 | 4.55 | 37 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 8,217 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,960 | 4.74 | 121 |
 | [The Guild 3](games/t/the_guild_3.md) | 2022-06-14 | 26 (1,000 XP) | 799 | 4.18 | 0 |
@@ -1169,7 +1169,7 @@
 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 2022-05-04 | 20 (1,000 XP) | 0 | 3.83 | 0 |
 | [Wunderling DX](games/w/wunderling_dx.md) | 2022-04-28 | 41 (1,000 XP) | 41 | - | 0 |
 | [Imagine Earth](games/i/imagine_earth.md) | 2022-04-28 | 24 (1,000 XP) | 474 | 4.32 | 0 |
-| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 8,160 | 4.58 | 0 |
+| [KeyWe](games/k/keywe.md) | 2022-04-28 | 20 (1,250 XP) | 8,160 | 4.56 | 0 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 2022-04-27 | 22 (1,000 XP) | 0 | 4.60 | 0 |
 | [Train Valley](games/t/train_valley.md) | 2022-04-27 | 39 (1,000 XP) | 889 | 4.35 | 0 |
 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 2022-04-26 | 72 (1,000 XP) | 8,009 | 4.18 | 102 |
@@ -1220,7 +1220,7 @@
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 20 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,768 | 4.44 | 38 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 639,434 | 4.51 | 151 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,142,884 | 4.61 | 22,879 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,142,884 | 4.61 | 23,002 |
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 202,325 | - | 0 |
 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 2021-11-16 | 59 (1,000 XP) | 584,492 | 4.37 | 471 |
 | [Lifeslide](games/l/lifeslide.md) | 2021-11-15 | 31 (1,000 XP) | 393 | - | 0 |
@@ -1239,7 +1239,7 @@
 | [Against the Storm](games/a/against_the_storm.md) | 2021-10-18 | 59 (1,000 XP) | 22,975 | 4.82 | 527 |
 | [Good Company](games/g/good_company.md) | 2021-10-18 | 76 (1,000 XP) | 6,433 | 4.42 | 0 |
 | [PC Building Simulator](games/p/pc_building_simulator.md) | 2021-10-07 | 52 (1,000 XP) | 3,686,164 | 4.65 | 1,295 |
-| [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 179,562 | 4.46 | 26 |
+| [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 2021-10-05 | 67 (1,500 XP) | 179,562 | 4.47 | 26 |
 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 2021-09-30 | 373 (5,500 XP) | 599,367 | 4.68 | 11,217 |
 | [Centipede: Recharged](games/c/centipede__recharged.md) | 2021-09-29 | 16 (1,000 XP) | 30,991 | 4.27 | 0 |
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 6,835 | 4.39 | 42 |
