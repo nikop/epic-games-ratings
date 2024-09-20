@@ -101,4 +101,3 @@
 | [Obby Parkour 3D: Run Only Up](games/6/6d15c3ed19d34a62915bf88c6d1df1e5.md) | 2024-08-22 | - |  | - | - |
 | [Millennium Conflict](games/a/aff50fded81843749d7641e8c5c2cb07.md) | 2024-08-22 | - |  | - | - |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
-| [ZELENSTROY](games/f/f8cdddb2e147402c89c8565a9276b148.md) | 2024-08-21 | 5 (1,000 XP) | 5 | - | - |
