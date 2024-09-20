@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 115,
   "Ranking_Popularity": 195,
-  "Ranking_PopularitySum": 252,
+  "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5072,10 +5072,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2204,
       "NumberOfAwardsMax": 1075
+    },
+    {
+      "Time": "2024-09-20T04:58:18.9268875+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2206,
+      "NumberOfAwardsMax": 1075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2204,
+  "NumberOfAwards": 2206,
   "NumberOfAwardsMax": 1075,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5101,7 +5107,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 163
+      "Count": 164
     },
     {
       "Text": "This game has a Creative Community",
@@ -5113,7 +5119,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 141
+      "Count": 142
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5163,8 +5169,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2024-09-20T03:04:38.8202573+00:00",
+  "LastChanged": "2024-09-20T04:58:18.9268873+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:26.551775+00:00",
-  "LastUpdate_Ratings": "2024-09-20T03:04:38.8202578+00:00",
+  "LastUpdate_Ratings": "2024-09-20T04:58:18.9268877+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.8626501+00:00"
 }

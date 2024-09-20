@@ -4,7 +4,7 @@
   "ProductSlug": "wrc-8",
   "Ranking_Rating": 622,
   "Ranking_Popularity": 648,
-  "Ranking_PopularitySum": 553,
+  "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -634,10 +634,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 140,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-20T04:58:07.1764702+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 142,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 140,
+  "NumberOfAwards": 142,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -657,7 +663,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
@@ -681,7 +687,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -695,8 +701,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
-  "LastChanged": "2024-09-18T17:59:28.5147177+00:00",
+  "LastChanged": "2024-09-20T04:58:07.1764699+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:15:03.5247365+00:00",
-  "LastUpdate_Ratings": "2024-09-20T03:04:26.9315162+00:00",
+  "LastUpdate_Ratings": "2024-09-20T04:58:07.1764705+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:31.4622566+00:00"
 }
