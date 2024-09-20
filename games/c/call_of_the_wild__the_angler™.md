@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.25 (Ranked 1,075)  
+Rating: 4.25 (Ranked 1,076)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -345,7 +345,7 @@ Completed: 78 (0.01%) (Ranked 559)
 | 2024-09-14 | 949,474 | 78 |
 ## Awards
 Max (Great for Beginners): 868  (Ranked 218)  
-Sum: 2,897 (Ranked 224)  
+Sum: 2,898 (Ranked 224)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -6
 | This game has Amazing Storytelling | 340 |
 | This game is Extremely Fun | 328 |
 | This game is Relaxing | 319 |
-| This game is Educational | 318 |
+| This game is Educational | 319 |
 | This game has Quickly Understood Controls | 286 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -669,4 +669,4 @@ Diff (max vs sum): -6
 | 2024-09-17 | 4.25 | - | 864 | 2,882 |
 | 2024-09-18 | 4.25 | - | 865 | 2,887 |
 | 2024-09-19 | 4.25 | - | 868 | 2,896 |
-| 2024-09-20 | 4.25 | - | 868 | 2,897 |
+| 2024-09-20 | 4.25 | - | 868 | 2,898 |
