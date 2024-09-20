@@ -1,12 +1,12 @@
 # Assassin's Creed® I: Director's Cut
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-1)  
 [View Rawdata](../../db/a/assassin's_creed®_i__director's_cut.json)  
-Rating: 4.42 (Ranked 858)  
+Rating: 4.42 (Ranked 857)  
 Number of Ratings: 142  (23.09.2022)  
 ## Awards
 Max (Relaxing): 22  (Ranked 698)  
-Sum: 63 (Ranked 619)  
-Diff (max vs sum): 79  
+Sum: 63 (Ranked 620)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 22 |
