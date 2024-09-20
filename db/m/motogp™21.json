@@ -3,7 +3,7 @@
   "Name": "MotoGP\u212221",
   "ProductSlug": "motogp-21",
   "Ranking_Rating": 505,
-  "Ranking_Popularity": 650,
+  "Ranking_Popularity": 651,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -482,10 +482,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 168,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-20T22:58:54.5147982+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168,
+  "NumberOfAwards": 169,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -505,7 +511,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -543,8 +549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2024-09-10T19:59:11.1256469+00:00",
+  "LastChanged": "2024-09-20T22:58:54.514798+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:28.3644993+00:00",
-  "LastUpdate_Ratings": "2024-09-20T20:59:38.8324835+00:00",
+  "LastUpdate_Ratings": "2024-09-20T22:58:54.5147984+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:01.4261977+00:00"
 }

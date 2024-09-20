@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 784,
+  "Ranking_Rating": 785,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 1254,
@@ -26870,10 +26870,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 128110,
       "NumberOfAwardsMax": 17247
+    },
+    {
+      "Time": "2024-09-20T22:58:55.1707762+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 128187,
+      "NumberOfAwardsMax": 17247
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 128110,
+  "NumberOfAwards": 128187,
   "NumberOfAwardsMax": 17247,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -26887,7 +26893,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 13290
+      "Count": 13316
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -26899,19 +26905,19 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 13302
+      "Count": 13316
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 11679
+      "Count": 11697
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 13276
+      "Count": 13295
     },
     {
       "Text": "This game is Highly Recommended",
@@ -26955,8 +26961,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-09-20T19:57:46.030478+00:00",
+  "LastChanged": "2024-09-20T22:58:55.170776+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:28.9868169+00:00",
-  "LastUpdate_Ratings": "2024-09-20T20:59:39.5371849+00:00",
+  "LastUpdate_Ratings": "2024-09-20T22:58:55.1707766+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:32.7309528+00:00"
 }
