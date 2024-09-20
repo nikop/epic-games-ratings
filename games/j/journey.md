@@ -1,7 +1,7 @@
 # Journey
 [Store](https://store.epicgames.com/en-US/p/journey)  
 [View Rawdata](../../db/j/journey.json)  
-Rating: 4.77 (Ranked 132)  
+Rating: 4.77 (Ranked 131)  
 Number of Ratings: 54  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
