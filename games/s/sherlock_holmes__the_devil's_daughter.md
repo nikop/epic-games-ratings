@@ -1,7 +1,7 @@
 # Sherlock Holmes: The Devil's Daughter
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-devils-daughter)  
 [View Rawdata](../../db/s/sherlock_holmes__the_devil's_daughter.json)  
-Rating: 4.43 (Ranked 842)  
+Rating: 4.42 (Ranked 858)  
 Number of Ratings: 56  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -82,3 +82,4 @@ Number of Ratings: 56  (23.09.2022)
 | 2024-09-12 | 4.41 | - | 0 | 0 |
 | 2024-09-14 | 4.42 | - | 0 | 0 |
 | 2024-09-19 | 4.43 | - | 0 | 0 |
+| 2024-09-20 | 4.42 | - | 0 | 0 |
