@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs-legion",
   "Ranking_Rating": 950,
   "Ranking_Popularity": 371,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 299,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5621,10 +5621,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1435,
       "NumberOfAwardsMax": 197
+    },
+    {
+      "Time": "2024-09-20T20:00:54.6424164+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1437,
+      "NumberOfAwardsMax": 197
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1435,
+  "NumberOfAwards": 1437,
   "NumberOfAwardsMax": 197,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5674,7 +5680,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 188
+      "Count": 190
     },
     {
       "Text": "This game is Relaxing",
@@ -5700,8 +5706,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-09-20T05:59:53.710425+00:00",
+  "LastChanged": "2024-09-20T20:00:54.6424162+00:00",
   "LastUpdate_AppInfo": "2024-09-15T23:57:13.3777923+00:00",
-  "LastUpdate_Ratings": "2024-09-20T18:57:29.112303+00:00",
+  "LastUpdate_Ratings": "2024-09-20T20:00:54.6424169+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:43.3394751+00:00"
 }

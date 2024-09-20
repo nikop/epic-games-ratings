@@ -2,7 +2,7 @@
   "ID": "b2df9b20c72446d690718965da41c7ad",
   "Name": "Amnesia: Rebirth",
   "ProductSlug": "amnesia-rebirth",
-  "Ranking_Rating": 1084,
+  "Ranking_Rating": 1077,
   "Ranking_Popularity": 622,
   "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "NumberOfRatings": 1664,
   "RatingHistory": [
     {
@@ -718,6 +718,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-09-20T19:57:45.4863831+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 190,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -779,8 +785,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
-  "LastChanged": "2024-08-26T16:58:35.7108531+00:00",
+  "LastChanged": "2024-09-20T19:57:45.486383+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:28.7843509+00:00",
-  "LastUpdate_Ratings": "2024-09-20T17:58:44.7806741+00:00",
+  "LastUpdate_Ratings": "2024-09-20T19:57:45.4863834+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:40.1590533+00:00"
 }

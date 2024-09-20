@@ -1,7 +1,7 @@
 # Empires of the Undergrowth
 [Store](https://store.epicgames.com/en-US/p/empires-of-the-undergrowth)  
 [View Rawdata](../../db/e/empires_of_the_undergrowth.json)  
-Rating: 4.73 (Ranked 201)  
+Rating: 4.74 (Ranked 186)  
 Number of Ratings: 212  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -431,3 +431,4 @@ Diff (max vs sum): 99
 | 2024-09-14 | 4.73 | - | 96 | 710 |
 | 2024-09-15 | 4.73 | - | 96 | 712 |
 | 2024-09-18 | 4.73 | - | 97 | 713 |
+| 2024-09-20 | 4.74 | - | 97 | 713 |
