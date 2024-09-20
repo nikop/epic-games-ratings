@@ -4,7 +4,7 @@
   "ProductSlug": "black-book",
   "Ranking_Rating": 352,
   "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 489,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 441,
   "Ranking_EOS_NewPlayers": 3,
@@ -937,10 +937,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 270,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-09-20T21:57:48.3106645+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 270,
+  "NumberOfAwards": 290,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -979,6 +985,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 21
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 91808,
@@ -19148,9 +19160,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
-  "LastChanged": "2024-09-20T16:00:04.748085+00:00",
+  "LastChanged": "2024-09-20T21:57:48.3106643+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:35.5084712+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:52.0106821+00:00",
-  "LastUpdate_Ratings": "2024-09-20T19:59:12.6658298+00:00",
+  "LastUpdate_Ratings": "2024-09-20T21:57:48.3106647+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:35.5085942+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b671fbc7be424e888c9346a9a6d3d9db",
   "Name": "Celeste",
   "ProductSlug": "celeste",
-  "Ranking_Rating": 4,
+  "Ranking_Rating": 5,
   "Ranking_Popularity": 134,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.92,
+  "Rating": 4.91,
   "NumberOfRatings": 2543,
   "RatingHistory": [
     {
@@ -8209,6 +8209,12 @@
       "Rating": 4.92,
       "NumberOfAwards": 4651,
       "NumberOfAwardsMax": 2263
+    },
+    {
+      "Time": "2024-09-20T21:58:43.1498599+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 4651,
+      "NumberOfAwardsMax": 2263
     }
   ],
   "ReviewsDisabled": false,
@@ -8294,8 +8300,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2024-09-20T18:57:12.6046965+00:00",
+  "LastChanged": "2024-09-20T21:58:43.1498598+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:16.5776615+00:00",
-  "LastUpdate_Ratings": "2024-09-20T20:00:32.5164549+00:00",
+  "LastUpdate_Ratings": "2024-09-20T21:58:43.1498602+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:57.6133118+00:00"
 }
