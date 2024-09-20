@@ -1,12 +1,12 @@
 # Oddworld: Soulstorm Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/oddworld-soulstorm)  
 [View Rawdata](../../db/o/oddworld_soulstorm.json)  
-Rating: 4.66 (Ranked 332)  
+Rating: 4.66 (Ranked 333)  
 Number of Ratings: 72  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 44  (Ranked 585)  
-Sum: 44 (Ranked 646)  
-Diff (max vs sum): -61  
+Sum: 44 (Ranked 647)  
+Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 44 |

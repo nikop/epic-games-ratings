@@ -1,12 +1,12 @@
 # Torchlight II
 [Store](https://store.epicgames.com/en-US/p/torchlight-2)  
 [View Rawdata](../../db/t/torchlight_ii.json)  
-Rating: 4.59 (Ranked 504)  
+Rating: 4.59 (Ranked 505)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
-Max (Character Customization): 1,225  (Ranked 179)  
+Max (Character Customization): 1,225  (Ranked 180)  
 Sum: 2,505 (Ranked 238)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,225 |

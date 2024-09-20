@@ -2,7 +2,7 @@
   "ID": "0ef87626cd724281b9f8f74c83c54b93",
   "Name": "TOEM",
   "ProductSlug": "toem",
-  "Ranking_Rating": 102,
+  "Ranking_Rating": 29,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.86,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:26.2892943+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-05-19T21:57:23.5477563+00:00",
       "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-20T13:58:02.7086563+00:00",
+      "Rating": 4.86,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -53,8 +59,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:28.2732826+00:00",
   "FirstSeenRating": "2023-03-31T05:57:26.289294+00:00",
-  "LastChanged": "2024-05-19T21:57:23.5477561+00:00",
+  "LastChanged": "2024-09-20T13:58:02.7086561+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:28.0019317+00:00",
-  "LastUpdate_Ratings": "2024-09-20T11:58:27.20424+00:00",
+  "LastUpdate_Ratings": "2024-09-20T13:58:02.7086567+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:43.9843308+00:00"
 }

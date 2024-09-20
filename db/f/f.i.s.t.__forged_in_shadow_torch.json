@@ -2,7 +2,7 @@
   "ID": "a7e2a2c51b9149c097b771926ed91877",
   "Name": "F.I.S.T.: Forged In Shadow Torch",
   "ProductSlug": "fist-forged-in-shadow-torch",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 623,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 1254,
@@ -3351,10 +3351,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 2474,
       "NumberOfAwardsMax": 2041
+    },
+    {
+      "Time": "2024-09-20T13:59:42.9737919+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2475,
+      "NumberOfAwardsMax": 2041
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2474,
+  "NumberOfAwards": 2475,
   "NumberOfAwardsMax": 2041,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3398,7 +3404,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3430,8 +3436,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2024-09-20T04:59:47.2742531+00:00",
+  "LastChanged": "2024-09-20T13:59:42.9737917+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:25.4338236+00:00",
-  "LastUpdate_Ratings": "2024-09-20T11:59:52.1972423+00:00",
+  "LastUpdate_Ratings": "2024-09-20T13:59:42.9737924+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.4655314+00:00"
 }

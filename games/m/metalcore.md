@@ -1,7 +1,7 @@
 # MetalCore
 [Store](https://store.epicgames.com/en-US/p/metalcore-f60c27)  
 [View Rawdata](../../db/m/metalcore.json)  
-Rating: 4.39 (Ranked 910)  
+Rating: 4.39 (Ranked 911)  
 ## Awards
 Max (Great for Beginners): 139  (Ranked 418)  
 Sum: 1,056 (Ranked 324)  

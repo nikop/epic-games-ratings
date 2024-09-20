@@ -1,7 +1,7 @@
 # WRC Generations
 [Store](https://store.epicgames.com/en-US/p/wrc-11-fia-world-rally-championship-f0749b)  
 [View Rawdata](../../db/w/wrc_generations.json)  
-Rating: 4.44 (Ranked 820)  
+Rating: 4.45 (Ranked 802)  
 ## Awards
 Max (Realistic Visuals): 32  (Ranked 637)  
 Sum: 198 (Ranked 526)  
@@ -137,3 +137,4 @@ Diff (max vs sum): 111
 | 2024-09-14 | 4.44 | 32 | 195 |
 | 2024-09-15 | 4.44 | 32 | 197 |
 | 2024-09-18 | 4.44 | 32 | 198 |
+| 2024-09-20 | 4.45 | 32 | 198 |
