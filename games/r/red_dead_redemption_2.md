@@ -1,15 +1,15 @@
 # Red Dead Redemption 2
 [Store](https://store.epicgames.com/en-US/p/red-dead-redemption-2)  
 [View Rawdata](../../db/r/red_dead_redemption_2.json)  
-Rating: 4.87 (Ranked 20)  
+Rating: 4.87 (Ranked 19)  
 Number of Ratings: 102,658  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 362,292  (Ranked 5)  
-Sum: 1,045,148 (Ranked 6)  
+Max (Impact the Story): 362,687  (Ranked 5)  
+Sum: 1,045,543 (Ranked 6)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 362,292 |
+| In this game, your choices Impact the Story | 362,687 |
 | This game has Great Boss Battles | 213,937 |
 | This game is Great for Beginners | 52,095 |
 | This game has Diverse Characters | 50,460 |
@@ -631,4 +631,4 @@ Diff (max vs sum): -1
 | 2024-09-17 | 4.87 | - | 361,200 | 1,040,914 |
 | 2024-09-18 | 4.87 | - | 361,793 | 1,042,883 |
 | 2024-09-19 | 4.87 | - | 362,292 | 1,044,573 |
-| 2024-09-20 | 4.87 | - | 362,292 | 1,045,148 |
+| 2024-09-20 | 4.87 | - | 362,687 | 1,045,543 |

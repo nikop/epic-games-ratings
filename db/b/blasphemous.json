@@ -2,7 +2,7 @@
   "ID": "eddb735dde6b47cda8193f2643cff886",
   "Name": "Blasphemous",
   "ProductSlug": "blasphemous",
-  "Ranking_Rating": 76,
+  "Ranking_Rating": 75,
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 1254,
@@ -1208,18 +1208,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 288,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2024-09-20T11:59:28.3672925+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 289,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 288,
-  "NumberOfAwardsMax": 288,
+  "NumberOfAwards": 289,
+  "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 288
+      "Count": 289
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1239,8 +1245,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:14.5456165+00:00",
-  "LastChanged": "2024-09-17T15:00:32.9489574+00:00",
+  "LastChanged": "2024-09-20T11:59:28.3672923+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:09.4772696+00:00",
-  "LastUpdate_Ratings": "2024-09-20T10:57:12.2350712+00:00",
+  "LastUpdate_Ratings": "2024-09-20T11:59:28.3672928+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:33.7591295+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Sundered: Eldritch Edition",
   "ProductSlug": "sundered-eldritch-edition",
   "Ranking_Rating": 475,
-  "Ranking_Popularity": 475,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 474,
+  "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -509,18 +509,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2024-09-20T11:58:47.0736974+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 97,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 96,
-  "NumberOfAwardsMax": 96,
+  "NumberOfAwards": 97,
+  "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 96
+      "Count": 97
     }
   ],
   "EOS_Progressed": 0,
@@ -534,8 +540,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:53.2112197+00:00",
-  "LastChanged": "2024-09-14T21:58:25.1675033+00:00",
+  "LastChanged": "2024-09-20T11:58:47.0736972+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:38.6113255+00:00",
-  "LastUpdate_Ratings": "2024-09-20T09:59:23.7040671+00:00",
+  "LastUpdate_Ratings": "2024-09-20T11:58:47.0736976+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:55.4181937+00:00"
 }
