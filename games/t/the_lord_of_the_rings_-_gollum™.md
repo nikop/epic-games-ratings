@@ -1,6 +1,7 @@
 # The Lord of the Rings - Gollum™
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-gollum-436d4f)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_-_gollum™.json)  
+Rating: 2.85 (Ranked 1,306)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -199,3 +200,7 @@ Completed: 1 (0.08%) (Ranked 468)
 | 2024-08-09 | 1,164 | 1 |
 | 2024-08-20 | 1,177 | 1 |
 | 2024-09-14 | 1,205 | 1 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2024-09-21 | 2.85 | 0 | 0 |

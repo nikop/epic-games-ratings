@@ -2,9 +2,9 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 321,
+  "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2862,10 +2862,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1089,
       "NumberOfAwardsMax": 161
+    },
+    {
+      "Time": "2024-09-21T03:03:24.8470972+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1097,
+      "NumberOfAwardsMax": 161
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1089,
+  "NumberOfAwards": 1097,
   "NumberOfAwardsMax": 161,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2879,7 +2885,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 137
+      "Count": 141
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2891,7 +2897,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 110
+      "Count": 112
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2909,7 +2915,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 138
+      "Count": 140
     },
     {
       "Text": "This game has a Competitive Community",
@@ -7924,9 +7930,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-09-20T20:57:50.3402888+00:00",
+  "LastChanged": "2024-09-21T03:03:24.847097+00:00",
   "LastChanged_Achievements": "2024-09-14T14:22:59.4441405+00:00",
   "LastUpdate_AppInfo": "2024-09-18T13:13:00.0330482+00:00",
-  "LastUpdate_Ratings": "2024-09-20T23:59:29.3002151+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:03:24.8470977+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:59.444186+00:00"
 }

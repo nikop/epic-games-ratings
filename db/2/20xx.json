@@ -2,7 +2,7 @@
   "ID": "4c7117cadb714722950338f02850fd8d",
   "Name": "20XX",
   "ProductSlug": "20xx",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 392,
   "RatingHistory": [
     {
@@ -1018,6 +1018,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 322,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-09-21T03:05:00.235538+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 322,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
@@ -1097,8 +1103,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:18.3366391+00:00",
-  "LastChanged": "2024-09-18T03:02:11.330606+00:00",
+  "LastChanged": "2024-09-21T03:05:00.2355378+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:11.9883295+00:00",
-  "LastUpdate_Ratings": "2024-09-21T02:05:30.0370386+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:05:00.2355383+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:49.1936146+00:00"
 }

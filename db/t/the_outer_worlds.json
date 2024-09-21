@@ -4,7 +4,7 @@
   "ProductSlug": "the-outer-worlds",
   "Ranking_Rating": 404,
   "Ranking_Popularity": 149,
-  "Ranking_PopularitySum": 194,
+  "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3784,6 +3784,6 @@
   "FirstSeen": "2022-07-22T20:25:45.1874412+00:00",
   "LastChanged": "2024-09-17T16:59:22.9279862+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:12.3263778+00:00",
-  "LastUpdate_Ratings": "2024-09-21T02:05:00.3827959+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:04:41.3269453+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:09.7084185+00:00"
 }

@@ -1,7 +1,7 @@
 # Assassin's Creed® I: Director's Cut
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-1)  
 [View Rawdata](../../db/a/assassin's_creed®_i__director's_cut.json)  
-Rating: 4.42 (Ranked 856)  
+Rating: 4.43 (Ranked 842)  
 Number of Ratings: 142  (23.09.2022)  
 ## Awards
 Max (Relaxing): 22  (Ranked 699)  
@@ -146,3 +146,4 @@ Diff (max vs sum): 78
 | 2024-08-11 | 4.43 | - | 21 | 62 |
 | 2024-08-25 | 4.42 | - | 21 | 62 |
 | 2024-09-14 | 4.42 | - | 22 | 63 |
+| 2024-09-21 | 4.43 | - | 22 | 63 |

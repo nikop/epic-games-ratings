@@ -2,9 +2,9 @@
   "ID": "74ef4349fd684c438077d9e5287c7b2e",
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 206,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3576,10 +3576,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 3570,
       "NumberOfAwardsMax": 1190
+    },
+    {
+      "Time": "2024-09-21T03:02:10.9343964+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4517,
+      "NumberOfAwardsMax": 1190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3570,
+  "NumberOfAwards": 4517,
   "NumberOfAwardsMax": 1190,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3587,7 +3593,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 908
+      "Count": 947
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3656,8 +3662,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-09-20T21:59:01.2824549+00:00",
+  "LastChanged": "2024-09-21T03:02:10.9343962+00:00",
   "LastUpdate_AppInfo": "2024-09-20T13:57:20.8135999+00:00",
-  "LastUpdate_Ratings": "2024-09-20T23:58:21.5798178+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:02:10.9343968+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:22.0015912+00:00"
 }

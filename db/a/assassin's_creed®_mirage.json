@@ -2,7 +2,7 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 842,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 1254,
@@ -7225,10 +7225,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 3334,
       "NumberOfAwardsMax": 419
+    },
+    {
+      "Time": "2024-09-21T03:02:07.7108946+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3335,
+      "NumberOfAwardsMax": 419
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3334,
+  "NumberOfAwards": 3335,
   "NumberOfAwardsMax": 419,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7296,7 +7302,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 152
+      "Count": 153
     }
   ],
   "EOS_Progressed": 0,
@@ -7311,8 +7317,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-09-20T20:00:54.4280771+00:00",
+  "LastChanged": "2024-09-21T03:02:07.7108945+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:23.8681599+00:00",
-  "LastUpdate_Ratings": "2024-09-20T23:58:18.4762961+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:02:07.7108949+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:51.1326973+00:00"
 }

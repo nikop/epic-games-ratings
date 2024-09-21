@@ -4,7 +4,7 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 889,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 372,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2398,10 +2398,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 746,
       "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-09-21T03:03:35.6823658+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 748,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 746,
+  "NumberOfAwards": 748,
   "NumberOfAwardsMax": 89,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2427,13 +2433,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2483,8 +2489,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2024-09-17T01:43:09.5488642+00:00",
+  "LastChanged": "2024-09-21T03:03:35.6823655+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:24.6968193+00:00",
-  "LastUpdate_Ratings": "2024-09-20T23:59:40.1605976+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:03:35.6823662+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:19.1518993+00:00"
 }

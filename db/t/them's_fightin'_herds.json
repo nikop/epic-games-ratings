@@ -2,8 +2,8 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 505,
-  "Ranking_Popularity": 630,
+  "Ranking_Rating": 504,
+  "Ranking_Popularity": 626,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 591,
@@ -531,12 +531,18 @@
       "Rating": 4.59,
       "NumberOfAwards": 129,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-21T03:02:56.6598346+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 130,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 129,
-  "NumberOfAwardsMax": 33,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 130,
+  "NumberOfAwardsMax": 34,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -548,7 +554,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Challenging Combat",
@@ -29422,9 +29428,9 @@
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-09-16T06:59:39.0652734+00:00",
+  "LastChanged": "2024-09-21T03:02:56.6598344+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:54.951625+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:52.7320872+00:00",
-  "LastUpdate_Ratings": "2024-09-20T23:59:01.8491957+00:00",
+  "LastUpdate_Ratings": "2024-09-21T03:02:56.659835+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:54.9517533+00:00"
 }
