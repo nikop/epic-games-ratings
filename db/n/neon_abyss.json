@@ -2,7 +2,7 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 316,
+  "Ranking_Rating": 317,
   "Ranking_Popularity": 224,
   "Ranking_PopularitySum": 163,
   "Ranking_EOS_Progress": 1254,
@@ -6609,10 +6609,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 6086,
       "NumberOfAwardsMax": 829
+    },
+    {
+      "Time": "2024-09-21T19:57:45.466158+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 6087,
+      "NumberOfAwardsMax": 829
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6086,
+  "NumberOfAwards": 6087,
   "NumberOfAwardsMax": 829,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6674,7 +6680,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 364
+      "Count": 365
     }
   ],
   "EOS_Progressed": 0,
@@ -6688,8 +6694,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2024-09-21T14:01:07.2857968+00:00",
+  "LastChanged": "2024-09-21T19:57:45.4661578+00:00",
   "LastUpdate_AppInfo": "2024-09-15T20:57:07.6185756+00:00",
-  "LastUpdate_Ratings": "2024-09-21T17:58:27.4476499+00:00",
+  "LastUpdate_Ratings": "2024-09-21T19:57:45.4661584+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:14.8601927+00:00"
 }
