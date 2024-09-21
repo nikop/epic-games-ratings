@@ -2,7 +2,7 @@
   "ID": "441b1561f48746059211ab905f4abc93",
   "Name": "Fishing Planet",
   "ProductSlug": "fishing-planet-87df68",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 373,
   "Ranking_PopularitySum": 368,
   "Ranking_EOS_Progress": 116,
@@ -2267,10 +2267,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 765,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2024-09-21T13:57:42.4258226+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 769,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 765,
+  "NumberOfAwards": 769,
   "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2308,7 +2314,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 77
+      "Count": 79
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2332,7 +2338,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 64
+      "Count": 66
     }
   ],
   "EOS_Progressed": 148232,
@@ -2543,9 +2549,9 @@
   "FirstSeen": "2024-01-30T20:57:10.5239583+00:00",
   "FirstSeenRating": "2024-02-06T16:00:39.8962705+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged": "2024-09-21T11:59:03.7184128+00:00",
+  "LastChanged": "2024-09-21T13:57:42.4258224+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:47.6751208+00:00",
   "LastUpdate_AppInfo": "2024-09-20T06:57:09.9505077+00:00",
-  "LastUpdate_Ratings": "2024-09-21T11:59:03.7184133+00:00",
+  "LastUpdate_Ratings": "2024-09-21T13:57:42.4258229+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:47.6751325+00:00"
 }

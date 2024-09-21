@@ -2,7 +2,7 @@
   "ID": "396a808f269241aba0fe2ad322ebd6d5",
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
-  "Ranking_Rating": 1100,
+  "Ranking_Rating": 1107,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 162,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "NumberOfRatings": 22,
   "RatingHistory": [
     {
@@ -429,6 +429,12 @@
     {
       "Time": "2024-09-12T16:58:14.383575+00:00",
       "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-21T13:57:33.8036577+00:00",
+      "Rating": 4.22,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1519,9 +1525,9 @@
   "FirstSeen": "2022-09-06T19:02:05.1337324+00:00",
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
-  "LastChanged": "2024-09-12T16:58:14.3835748+00:00",
+  "LastChanged": "2024-09-21T13:57:33.8036575+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:39.2522199+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:41.8033852+00:00",
-  "LastUpdate_Ratings": "2024-09-21T11:58:57.3650152+00:00",
+  "LastUpdate_Ratings": "2024-09-21T13:57:33.8036583+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:39.2522617+00:00"
 }
