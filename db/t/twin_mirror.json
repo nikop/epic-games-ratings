@@ -2,7 +2,7 @@
   "ID": "f7d5c4e850874d2c9fa043e9516a7a49",
   "Name": "Twin Mirror",
   "ProductSlug": "twin-mirror",
-  "Ranking_Rating": 1063,
+  "Ranking_Rating": 1084,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.26,
+  "Rating": 4.24,
   "NumberOfRatings": 39,
   "RatingHistory": [
     {
@@ -185,6 +185,12 @@
       "Rating": 4.26,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-21T07:58:21.7277838+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -202,8 +208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.1438666+00:00",
-  "LastChanged": "2024-09-09T03:59:17.3433963+00:00",
+  "LastChanged": "2024-09-21T07:58:21.7277838+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:39.10197+00:00",
-  "LastUpdate_Ratings": "2024-09-21T06:00:12.8194987+00:00",
+  "LastUpdate_Ratings": "2024-09-21T07:58:21.727784+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:54.4174787+00:00"
 }
