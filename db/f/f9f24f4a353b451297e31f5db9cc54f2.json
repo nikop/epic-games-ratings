@@ -2,7 +2,7 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1143,
+  "Ranking_Rating": 1156,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 171,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.18,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2024-08-07T22:57:45.2970789+00:00",
@@ -888,10 +888,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 372,
       "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-09-21T10:57:15.0038393+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 374,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 372,
+  "NumberOfAwards": 374,
   "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -911,7 +917,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 50
+      "Count": 52
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1089,9 +1095,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-09-21T06:59:39.8860639+00:00",
+  "LastChanged": "2024-09-21T10:57:15.0038392+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:25.9255025+00:00",
   "LastUpdate_AppInfo": "2024-09-16T22:57:16.4000397+00:00",
-  "LastUpdate_Ratings": "2024-09-21T08:58:09.2577802+00:00",
+  "LastUpdate_Ratings": "2024-09-21T10:57:15.0038396+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:25.9255133+00:00"
 }
