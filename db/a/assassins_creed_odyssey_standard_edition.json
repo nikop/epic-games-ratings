@@ -2,7 +2,7 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 1254,
@@ -21522,10 +21522,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 26178,
       "NumberOfAwardsMax": 9276
+    },
+    {
+      "Time": "2024-09-20T23:57:28.8868061+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 26181,
+      "NumberOfAwardsMax": 9276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26178,
+  "NumberOfAwards": 26181,
   "NumberOfAwardsMax": 9276,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21551,7 +21557,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1073
+      "Count": 1074
     },
     {
       "Text": "This game has Diverse Characters",
@@ -21569,7 +21575,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1082
+      "Count": 1083
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -21593,7 +21599,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1050
+      "Count": 1051
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -21625,8 +21631,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-09-20T14:58:08.4736227+00:00",
+  "LastChanged": "2024-09-20T23:57:28.8868057+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:11.8862493+00:00",
-  "LastUpdate_Ratings": "2024-09-20T21:58:09.4144914+00:00",
+  "LastUpdate_Ratings": "2024-09-20T23:57:28.8868064+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:05.6043493+00:00"
 }

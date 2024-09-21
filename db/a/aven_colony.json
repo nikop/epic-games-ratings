@@ -4,7 +4,7 @@
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 1123,
   "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 358,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2065,10 +2065,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 823,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-09-20T23:59:47.1520914+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 824,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 823,
+  "NumberOfAwards": 824,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2124,7 +2130,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 57
+      "Count": 58
     }
   ],
   "EOS_Progressed": 0,
@@ -2138,8 +2144,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-09-20T11:58:43.0644935+00:00",
+  "LastChanged": "2024-09-20T23:59:47.1520912+00:00",
   "LastUpdate_AppInfo": "2024-09-16T11:57:19.7457878+00:00",
-  "LastUpdate_Ratings": "2024-09-20T22:57:23.6198886+00:00",
+  "LastUpdate_Ratings": "2024-09-20T23:59:47.1520917+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:04.9136453+00:00"
 }
