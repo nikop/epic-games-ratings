@@ -54,8 +54,8 @@
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [The Smurfs – Dreams](games/d/d6bbed959ee545229d579407d5616452.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
@@ -71,6 +71,7 @@
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2024-11-30 | - |  | - | - |
 | [Warehouse Bots](games/1/1425a316528c444ab263d66abd3e3176.md) | 2024-11-30 | - |  | - | - |
 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-12-02 | 24 (1,000 XP) | 1 | - | - |
+| [Marvel Rivals](games/3/38e211ced4e448a5a653a8d1e13fef18.md) | 2024-12-06 | - |  | - | - |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-12-31 | 62 (1,000 XP) | 6 | - | - |
 | [Age of Zalmoxis - Rise of the Fallen](games/3/3be7d39a69c34da7bdd5fb6db6c049df.md) | 2024-12-31 | - |  | - | - |
 | [AI Limit](games/2/2fb538cb267a4d3db252beee84659e97.md) | 2024-12-31 | - |  | - | - |
@@ -473,7 +474,6 @@
 | [Mara's Quest](games/m/mara's_quest.md) | 2099-01-01 | - |  | - | - |
 | [Mariachi Legends](games/b/b36b7a4e0cb940bda5e3cac83b0955f4.md) | 2099-01-01 | - |  | - | - |
 | [Maritime hegemony](games/2/2f903cb0807545078d2c65248e75afb3.md) | 2099-01-01 | - |  | - | - |
-| [Marvel Rivals](games/3/38e211ced4e448a5a653a8d1e13fef18.md) | 2099-01-01 | - |  | - | - |
 | [Max Beyond](games/0/0eab9a9677e141ac8c2551fc0d05fe11.md) | 2099-01-01 | - |  | - | - |
 | [Memory Lost](games/7/767f4ae2fc194d7fb26b6276e6c81675.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
