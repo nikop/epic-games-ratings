@@ -321,7 +321,7 @@ Completed: 125 (0.26%) (Ranked 404)
 | 2024-09-14 | 49,011 | 125 |
 ## Awards
 Max (Quickly Understood Controls): 134  (Ranked 427)  
-Sum: 869 (Ranked 350)  
+Sum: 870 (Ranked 350)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): 77
 | This game is Relaxing | 106 |
 | This game has Amazing Storytelling | 101 |
 | This game has Amazing Characters | 94 |
-| This game has a Competitive Community | 83 |
+| This game has a Competitive Community | 84 |
 | This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -483,3 +483,4 @@ Diff (max vs sum): 77
 | 2024-09-17 | 4.21 | - | 132 | 866 |
 | 2024-09-19 | 4.21 | - | 133 | 868 |
 | 2024-09-20 | 4.21 | - | 134 | 869 |
+| 2024-09-21 | 4.21 | - | 134 | 870 |
