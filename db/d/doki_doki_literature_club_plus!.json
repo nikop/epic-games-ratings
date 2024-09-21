@@ -2,7 +2,7 @@
   "ID": "1311a5735ed844c0b3c47027cab321f0",
   "Name": "Doki Doki Literature Club Plus!",
   "ProductSlug": "doki-doki-literature-club-plus",
-  "Ranking_Rating": 54,
+  "Ranking_Rating": 53,
   "Ranking_Popularity": 297,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 1254,
@@ -1125,18 +1125,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 399,
       "NumberOfAwardsMax": 379
+    },
+    {
+      "Time": "2024-09-21T08:58:58.9297809+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 400,
+      "NumberOfAwardsMax": 380
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 399,
-  "NumberOfAwardsMax": 379,
+  "NumberOfAwards": 400,
+  "NumberOfAwardsMax": 380,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 379
+      "Count": 380
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1156,8 +1162,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:25.5906311+00:00",
-  "LastChanged": "2024-09-20T00:00:34.3413415+00:00",
+  "LastChanged": "2024-09-21T08:58:58.9297807+00:00",
   "LastUpdate_AppInfo": "2024-09-16T08:57:07.4169492+00:00",
-  "LastUpdate_Ratings": "2024-09-21T07:00:48.7417139+00:00",
+  "LastUpdate_Ratings": "2024-09-21T08:58:58.9297813+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:23.9620323+00:00"
 }
