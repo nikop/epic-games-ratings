@@ -337,8 +337,8 @@ Completed: 89 (0.01%) (Ranked 559)
 | 2024-09-14 | 601,709 | 89 |
 ## Awards
 Max (Amazing Storytelling): 709  (Ranked 240)  
-Sum: 3,837 (Ranked 196)  
-Diff (max vs sum): 44  
+Sum: 3,837 (Ranked 197)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 709 |

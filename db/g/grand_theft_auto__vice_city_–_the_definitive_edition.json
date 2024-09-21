@@ -1679,12 +1679,18 @@
       "Rating": 4.53,
       "NumberOfAwards": 251,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-21T13:10:11.1229785+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 251,
+  "NumberOfAwards": 253,
   "NumberOfAwardsMax": 33,
-  "MaxAwardTitle": "Amazing Storytelling",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1696,7 +1702,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1750,7 +1756,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 20126,
@@ -20107,9 +20113,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-09-20T13:14:38.9548982+00:00",
+  "LastChanged": "2024-09-21T13:10:11.1229783+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:59.5449146+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:18.826581+00:00",
-  "LastUpdate_Ratings": "2024-09-21T10:59:20.4768502+00:00",
+  "LastUpdate_Ratings": "2024-09-21T13:10:11.1229789+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:59.5450176+00:00"
 }

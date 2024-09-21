@@ -3,8 +3,8 @@
   "Name": "Black Myth: Wukong",
   "ProductSlug": "black-myth-wukong-87a72b",
   "Ranking_Rating": 20,
-  "Ranking_Popularity": 50,
-  "Ranking_PopularitySum": 54,
+  "Ranking_Popularity": 49,
+  "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 3,
@@ -1254,18 +1254,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 35979,
       "NumberOfAwardsMax": 12488
+    },
+    {
+      "Time": "2024-09-21T13:10:43.913821+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 36404,
+      "NumberOfAwardsMax": 12763
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35979,
-  "NumberOfAwardsMax": 12488,
+  "NumberOfAwards": 36404,
+  "NumberOfAwardsMax": 12763,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 12488
+      "Count": 12763
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1283,13 +1289,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1288
+      "Count": 1335
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1265
+      "Count": 1323
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1301,7 +1307,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1222
+      "Count": 1267
     },
     {
       "Text": "This game is Relaxing",
@@ -1653,9 +1659,9 @@
   "FirstSeen": "2024-08-20T05:59:33.1921959+00:00",
   "FirstSeenRating": "2024-08-20T09:57:56.1070988+00:00",
   "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
-  "LastChanged": "2024-09-21T11:00:11.0695384+00:00",
+  "LastChanged": "2024-09-21T13:10:43.9138208+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:37.4964365+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:27.2369784+00:00",
-  "LastUpdate_Ratings": "2024-09-21T11:00:11.0695389+00:00",
+  "LastUpdate_Ratings": "2024-09-21T13:10:43.9138214+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.4964564+00:00"
 }
