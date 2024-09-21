@@ -2,9 +2,9 @@
   "ID": "f640a0c1648147fea7e81565b45a3003",
   "Name": "Warhammer 40,000: Space Marine 2",
   "ProductSlug": "warhammer-40000-space-marine-2",
-  "Ranking_Rating": 353,
-  "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 522,
+  "Ranking_Rating": 337,
+  "Ranking_Popularity": 352,
+  "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2024-09-10T15:57:34.5232302+00:00",
@@ -187,18 +187,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 205,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2024-09-21T21:57:41.6994972+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 227,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 205,
-  "NumberOfAwardsMax": 205,
+  "NumberOfAwards": 227,
+  "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 205
+      "Count": 227
     }
   ],
   "EOS_Progressed": 147344,
@@ -621,9 +627,9 @@
   "FirstSeen": "2024-09-09T17:59:34.2597996+00:00",
   "FirstSeenRating": "2024-09-10T15:57:34.5232299+00:00",
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
-  "LastChanged": "2024-09-20T21:58:52.2382616+00:00",
+  "LastChanged": "2024-09-21T21:57:41.699497+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:36.8395859+00:00",
   "LastUpdate_AppInfo": "2024-09-21T03:01:45.3560184+00:00",
-  "LastUpdate_Ratings": "2024-09-21T19:58:46.1424605+00:00",
+  "LastUpdate_Ratings": "2024-09-21T21:57:41.6994974+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:36.8402529+00:00"
 }

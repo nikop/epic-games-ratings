@@ -4,7 +4,7 @@
   "ProductSlug": "blood-bowl-3",
   "Ranking_Rating": 1254,
   "Ranking_Popularity": 641,
-  "Ranking_PopularitySum": 634,
+  "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -505,10 +505,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 54,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-09-21T21:58:37.3095093+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 55,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 54,
+  "NumberOfAwards": 55,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -522,7 +528,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -537,8 +543,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-23T17:57:00.609773+00:00",
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
-  "LastChanged": "2024-09-21T14:58:18.4415792+00:00",
+  "LastChanged": "2024-09-21T21:58:37.3095092+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:46.5534419+00:00",
-  "LastUpdate_Ratings": "2024-09-21T19:59:22.6725477+00:00",
+  "LastUpdate_Ratings": "2024-09-21T21:58:37.30951+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:03.7001351+00:00"
 }

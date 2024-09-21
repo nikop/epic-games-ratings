@@ -4,12 +4,12 @@
 Rating: 3.95 (Ranked 1,254)  
 ## Awards
 Max (Diverse Characters): 31  (Ranked 641)  
-Sum: 54 (Ranked 634)  
-Diff (max vs sum): 7  
+Sum: 55 (Ranked 632)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31 |
-| This game has a Competitive Community | 23 |
+| This game has a Competitive Community | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -92,4 +92,4 @@ Diff (max vs sum): 7
 | 2024-09-17 | 3.94 | 30 | 51 |
 | 2024-09-18 | 3.94 | 30 | 53 |
 | 2024-09-19 | 3.94 | 31 | 54 |
-| 2024-09-21 | 3.95 | 31 | 54 |
+| 2024-09-21 | 3.95 | 31 | 55 |
