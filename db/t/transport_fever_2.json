@@ -1375,10 +1375,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 433,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-09-21T14:58:57.3090782+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 434,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 433,
+  "NumberOfAwards": 434,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1416,7 +1422,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8282,9 +8288,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2024-09-20T16:59:16.3430896+00:00",
+  "LastChanged": "2024-09-21T14:58:57.309078+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:04.329607+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:01.3295537+00:00",
-  "LastUpdate_Ratings": "2024-09-21T13:12:17.5100485+00:00",
+  "LastUpdate_Ratings": "2024-09-21T14:58:57.3090785+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:04.329685+00:00"
 }

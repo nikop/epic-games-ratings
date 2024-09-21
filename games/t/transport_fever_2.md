@@ -345,7 +345,7 @@ Completed: 1 (0.03%) (Ranked 521)
 | 2024-09-14 | 3,030 | 1 |
 ## Awards
 Max (Great for Beginners): 64  (Ranked 531)  
-Sum: 433 (Ranked 427)  
+Sum: 434 (Ranked 427)  
 Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): 104
 | This game is Highly Recommended | 63 |
 | This game has Amazing Storytelling | 53 |
 | This game is Extremely Fun | 52 |
-| This game has Quickly Understood Controls | 45 |
+| This game has Quickly Understood Controls | 46 |
 | This game has a Creative Community | 44 |
 | This game is Relaxing | 43 |
 | This game is Educational | 37 |
@@ -557,3 +557,4 @@ Diff (max vs sum): 104
 | 2024-09-14 | 4.67 | - | 63 | 430 |
 | 2024-09-18 | 4.67 | - | 64 | 432 |
 | 2024-09-20 | 4.67 | - | 64 | 433 |
+| 2024-09-21 | 4.67 | - | 64 | 434 |

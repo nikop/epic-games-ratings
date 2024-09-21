@@ -1,12 +1,12 @@
 # Century: Age of Ashes
 [Store](https://store.epicgames.com/en-US/p/century-age-of-ashes)  
 [View Rawdata](../../db/c/century__age_of_ashes.json)  
-Rating: 4.40 (Ranked 889)  
+Rating: 4.40 (Ranked 888)  
 Number of Ratings: 1,747  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 89  (Ranked 487)  
-Sum: 748 (Ranked 370)  
-Diff (max vs sum): 117  
+Sum: 748 (Ranked 371)  
+Diff (max vs sum): 116  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 89 |

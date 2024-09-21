@@ -1,7 +1,7 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.57 (Ranked 548)  
+Rating: 4.57 (Ranked 547)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -201,7 +201,7 @@ Completed: 1 (0.00%) (Ranked 591)
 | 2024-09-14 | 22,025 | 1 |
 ## Awards
 Max (Diverse Characters): 346  (Ranked 301)  
-Sum: 2,106 (Ranked 257)  
+Sum: 2,107 (Ranked 257)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -212,7 +212,7 @@ Diff (max vs sum): 44
 | This game has Amazing Characters | 206 |
 | This game has Challenging Combat | 189 |
 | This game has Amazing Storytelling | 178 |
-| This game is Extremely Fun | 175 |
+| This game is Extremely Fun | 176 |
 | This game is Educational | 171 |
 | This game has Competitive Players | 157 |
 | This game has Quickly Understood Controls | 150 |
@@ -593,4 +593,4 @@ Diff (max vs sum): 44
 | 2024-09-18 | 4.57 | 340 | 2,082 |
 | 2024-09-19 | 4.57 | 342 | 2,087 |
 | 2024-09-20 | 4.57 | 342 | 2,095 |
-| 2024-09-21 | 4.57 | 346 | 2,106 |
+| 2024-09-21 | 4.57 | 346 | 2,107 |
