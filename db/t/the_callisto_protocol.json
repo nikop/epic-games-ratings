@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 1177,
-  "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 197,
+  "Ranking_Popularity": 240,
+  "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -4875,12 +4875,18 @@
       "Rating": 4.14,
       "NumberOfAwards": 3813,
       "NumberOfAwardsMax": 706
+    },
+    {
+      "Time": "2024-09-21T11:58:36.744359+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 3837,
+      "NumberOfAwardsMax": 709
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3813,
-  "NumberOfAwardsMax": 706,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 3837,
+  "NumberOfAwardsMax": 709,
+  "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -4892,7 +4898,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 700
+      "Count": 709
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4910,7 +4916,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 694
+      "Count": 709
     },
     {
       "Text": "This game has Challenging Combat",
@@ -18029,9 +18035,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-09-21T09:59:17.6450444+00:00",
+  "LastChanged": "2024-09-21T11:58:36.7443589+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:56.6736367+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:36.9976645+00:00",
-  "LastUpdate_Ratings": "2024-09-21T09:59:17.6450448+00:00",
+  "LastUpdate_Ratings": "2024-09-21T11:58:36.7443592+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:56.6737154+00:00"
 }
