@@ -3,12 +3,12 @@
 [View Rawdata](../../db/n/nightingale.json)  
 Rating: 4.27 (Ranked 1,050)  
 ## Awards
-Max (Great for Beginners): 91  (Ranked 485)  
-Sum: 474 (Ranked 417)  
-Diff (max vs sum): 68  
+Max (Great for Beginners): 92  (Ranked 485)  
+Sum: 475 (Ranked 415)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 91 |
+| This game is Great for Beginners | 92 |
 | This game is Highly Recommended | 82 |
 | This game has Quickly Understood Controls | 68 |
 | This game has Amazing Storytelling | 67 |
@@ -159,3 +159,4 @@ Diff (max vs sum): 68
 | 2024-09-18 | 4.28 | 90 | 466 |
 | 2024-09-19 | 4.27 | 91 | 473 |
 | 2024-09-20 | 4.27 | 91 | 474 |
+| 2024-09-21 | 4.27 | 92 | 475 |
