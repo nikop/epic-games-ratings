@@ -2,9 +2,9 @@
   "ID": "78f42129096d4233bccc527733debfbd",
   "Name": "Outlast",
   "ProductSlug": "outlast",
-  "Ranking_Rating": 171,
+  "Ranking_Rating": 187,
   "Ranking_Popularity": 551,
-  "Ranking_PopularitySum": 468,
+  "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T15:31:49.6878413+00:00",
@@ -1113,10 +1113,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 321,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-09-21T15:57:54.8168419+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 323,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 321,
+  "NumberOfAwards": 323,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1142,7 +1148,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1166,7 +1172,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has a Creative Community",
@@ -1187,8 +1193,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-09-21T12:00:22.9127783+00:00",
+  "LastChanged": "2024-09-21T15:57:54.8168401+00:00",
   "LastUpdate_AppInfo": "2024-09-16T06:57:25.9447711+00:00",
-  "LastUpdate_Ratings": "2024-09-21T13:59:30.5523651+00:00",
+  "LastUpdate_Ratings": "2024-09-21T15:57:54.8168421+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:28.4292735+00:00"
 }

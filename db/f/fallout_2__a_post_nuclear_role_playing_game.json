@@ -2,7 +2,7 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 294,
+  "Ranking_Rating": 266,
   "Ranking_Popularity": 294,
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2022-10-31T14:02:48.9261197+00:00",
@@ -2197,6 +2197,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 692,
       "NumberOfAwardsMax": 388
+    },
+    {
+      "Time": "2024-09-21T15:59:19.8554177+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 692,
+      "NumberOfAwardsMax": 388
     }
   ],
   "ReviewsDisabled": false,
@@ -2283,8 +2289,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-09-21T07:57:10.0674726+00:00",
+  "LastChanged": "2024-09-21T15:59:19.8554176+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:21.2228524+00:00",
-  "LastUpdate_Ratings": "2024-09-21T14:57:05.7551011+00:00",
+  "LastUpdate_Ratings": "2024-09-21T15:59:19.8554179+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:04.0016007+00:00"
 }

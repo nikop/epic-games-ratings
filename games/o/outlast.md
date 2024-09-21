@@ -1,20 +1,20 @@
 # Outlast
 [Store](https://store.epicgames.com/en-US/p/outlast)  
 [View Rawdata](../../db/o/outlast.json)  
-Rating: 4.75 (Ranked 171)  
+Rating: 4.74 (Ranked 187)  
 ## Awards
 Max (Great for Beginners): 57  (Ranked 551)  
-Sum: 321 (Ranked 468)  
-Diff (max vs sum): 83  
+Sum: 323 (Ranked 467)  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |
 | This game is Highly Recommended | 51 |
-| This game has Diverse Characters | 50 |
+| This game has Diverse Characters | 51 |
 | This game has Amazing Storytelling | 40 |
+| This game is Extremely Fun | 33 |
 | This game has Quickly Understood Controls | 32 |
 | This game has Amazing Characters | 32 |
-| This game is Extremely Fun | 32 |
 | This game has a Creative Community | 27 |
 | This game is Great for Quick Sessions | 21 |
 ## Ratings History
@@ -159,4 +159,4 @@ Diff (max vs sum): 83
 | 2024-09-18 | 4.75 | 56 | 318 |
 | 2024-09-19 | 4.74 | 56 | 319 |
 | 2024-09-20 | 4.74 | 57 | 321 |
-| 2024-09-21 | 4.75 | 57 | 321 |
+| 2024-09-21 | 4.75 | 57 | 323 |
