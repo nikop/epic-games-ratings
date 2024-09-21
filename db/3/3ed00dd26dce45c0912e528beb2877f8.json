@@ -2,7 +2,7 @@
   "ID": "3ed00dd26dce45c0912e528beb2877f8",
   "Name": "Formula Evolution 2024",
   "ProductSlug": "formula-evolution-2024-085f66",
-  "Ranking_Rating": 1300,
+  "Ranking_Rating": 1299,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 202,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.64,
+  "Rating": 3.67,
   "RatingHistory": [
     {
       "Time": "2024-08-30T13:14:04.0421609+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-09-12T22:58:38.1809252+00:00",
       "Rating": 3.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-21T22:59:34.0563783+00:00",
+      "Rating": 3.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -343,9 +349,9 @@
   "FirstSeen": "2024-06-04T01:48:11.0671181+00:00",
   "FirstSeenRating": "2024-08-30T13:14:04.0421607+00:00",
   "FirstSeenAchievements": "2024-01-22T13:11:28.0449271+00:00",
-  "LastChanged": "2024-09-12T22:58:38.180925+00:00",
+  "LastChanged": "2024-09-21T22:59:34.0563782+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:21.2633459+00:00",
   "LastUpdate_AppInfo": "2024-09-17T09:57:09.0432568+00:00",
-  "LastUpdate_Ratings": "2024-09-21T21:57:27.8135889+00:00",
+  "LastUpdate_Ratings": "2024-09-21T22:59:34.0563787+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:21.2633645+00:00"
 }

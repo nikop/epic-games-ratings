@@ -2,7 +2,7 @@
   "ID": "4a759e15a2d54dd38e2a7db55564ba45",
   "Name": "MetalCore",
   "ProductSlug": "metalcore-f60c27",
-  "Ranking_Rating": 910,
+  "Ranking_Rating": 928,
   "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2024-02-03T23:58:24.9428256+00:00",
@@ -2226,10 +2226,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 1068,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-09-21T22:59:53.798319+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 1069,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1068,
+  "NumberOfAwards": 1069,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2309,7 +2315,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 91
+      "Count": 92
     }
   ],
   "EOS_Progressed": 0,
@@ -2324,8 +2330,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-30T02:21:05.077575+00:00",
   "FirstSeenRating": "2024-02-03T23:58:24.9428253+00:00",
-  "LastChanged": "2024-09-21T14:57:53.9707086+00:00",
+  "LastChanged": "2024-09-21T22:59:53.7983189+00:00",
   "LastUpdate_AppInfo": "2024-09-15T23:57:13.8393143+00:00",
-  "LastUpdate_Ratings": "2024-09-21T21:57:58.2466352+00:00",
+  "LastUpdate_Ratings": "2024-09-21T22:59:53.7983194+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:47.8002526+00:00"
 }
