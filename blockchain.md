@@ -156,7 +156,7 @@
 | [NEXUS](games/1/17ef2e993267472eacb83202c50d41e4.md) | 2023-09-02 | 74 (1,000 XP) | 57,944 | 4.29 | 455 |
 | [CyberTitans](games/c/cf8c412fbb52453d83133933381e634d.md) | 2023-08-30 | - |  | 4.07 | 23 |
 | [Meta NANOs: Rumble Race](games/d/d1dd254226e84377a6cf930e37726333.md) | 2023-08-30 | - |  | - | 0 |
-| [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | 4.55 | 0 |
+| [The Lost Glitches](games/f/fa193e6390404683a6002376f276bfed.md) | 2023-08-21 | - |  | 4.57 | 0 |
 | [Haven's Compass](games/d/da744ab3564a4d2dac8b942a86d5aad9.md) | 2023-08-15 | - |  | 4.47 | 0 |
 | [Metaverser](games/8/88478d819cbc45ea8bf3b9b7ee90d358.md) | 2023-08-07 | - |  | - | 0 |
 | [Synergy of Serra](games/c/cd4adce6fc0b4e68b0c8bc8e3d84488d.md) | 2023-08-07 | - |  | - | 0 |
@@ -164,7 +164,7 @@
 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 2023-07-24 | - |  | 4.70 | 49 |
 | [POLYGOD](games/p/polygod.md) | 2023-07-01 | - |  | - | 0 |
 | [DinoDash](games/3/3411919497ef47359de5d9a67a7225fb.md) | 2023-06-30 | - |  | - | 0 |
-| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | 3.97 | 0 |
+| [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 2023-06-29 | - |  | 4.00 | 0 |
 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 2023-06-27 | - |  | 4.24 | 29 |
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.49 | 52 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.65 | 0 |
