@@ -2,9 +2,9 @@
   "ID": "6b753bd045604be89d9779e741c604b1",
   "Name": "Void Bastards",
   "ProductSlug": "void-bastards",
-  "Ranking_Rating": 477,
+  "Ranking_Rating": 478,
   "Ranking_Popularity": 611,
-  "Ranking_PopularitySum": 494,
+  "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1043,10 +1043,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-09-21T09:57:56.8638773+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 258,
+  "NumberOfAwards": 286,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1096,7 +1102,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 25
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1128,8 +1134,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:35.6625013+00:00",
-  "LastChanged": "2024-09-20T03:03:47.4888996+00:00",
+  "LastChanged": "2024-09-21T09:57:56.8638771+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:40.258678+00:00",
-  "LastUpdate_Ratings": "2024-09-21T07:58:24.460581+00:00",
+  "LastUpdate_Ratings": "2024-09-21T09:57:56.8638775+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:07.6611753+00:00"
 }

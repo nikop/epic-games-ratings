@@ -4869,10 +4869,16 @@
       "Rating": 4.14,
       "NumberOfAwards": 3803,
       "NumberOfAwardsMax": 706
+    },
+    {
+      "Time": "2024-09-21T09:59:17.6450446+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 3813,
+      "NumberOfAwardsMax": 706
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3803,
+  "NumberOfAwards": 3813,
   "NumberOfAwardsMax": 706,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4898,7 +4904,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 681
+      "Count": 691
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -18023,9 +18029,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-09-20T20:58:09.7208536+00:00",
+  "LastChanged": "2024-09-21T09:59:17.6450444+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:56.6736367+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:36.9976645+00:00",
-  "LastUpdate_Ratings": "2024-09-21T07:59:43.7132165+00:00",
+  "LastUpdate_Ratings": "2024-09-21T09:59:17.6450448+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:56.6737154+00:00"
 }

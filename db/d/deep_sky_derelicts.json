@@ -2,7 +2,7 @@
   "ID": "093251d750d4445e8c7fc1f5a17c9531",
   "Name": "Deep Sky Derelicts",
   "ProductSlug": "deep-sky-derelicts",
-  "Ranking_Rating": 857,
+  "Ranking_Rating": 910,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.39,
   "NumberOfRatings": 37,
   "RatingHistory": [
     {
@@ -182,6 +182,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-21T09:57:40.405598+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -200,8 +206,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:46.8611038+00:00",
   "FirstSeenRating": "2022-08-03T14:00:54.5917999+00:00",
-  "LastChanged": "2024-07-19T16:58:45.056523+00:00",
+  "LastChanged": "2024-09-21T09:57:40.4055979+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:32.929887+00:00",
-  "LastUpdate_Ratings": "2024-09-21T07:58:13.916616+00:00",
+  "LastUpdate_Ratings": "2024-09-21T09:57:40.4055983+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:18.4731593+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.47 (Ranked 768)
 Number of Ratings: 248  (23.09.2022)  
 ## Awards
 Max (Realistic Visuals): 45  (Ranked 584)  
-Sum: 363 (Ranked 452)  
+Sum: 364 (Ranked 452)  
 Diff (max vs sum): 132  
 | Award | Count |
 | ----- | ----- |
@@ -21,7 +21,7 @@ Diff (max vs sum): 132
 | This game is Educational | 24 |
 | This game has a Competitive Community | 24 |
 | This game has Obsessive Gameplay | 21 |
-| This game has Amazing Characters | 20 |
+| This game has Amazing Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -153,3 +153,4 @@ Diff (max vs sum): 132
 | 2024-09-17 | 4.47 | - | 44 | 361 |
 | 2024-09-19 | 4.47 | - | 45 | 362 |
 | 2024-09-20 | 4.47 | - | 45 | 363 |
+| 2024-09-21 | 4.47 | - | 45 | 364 |
