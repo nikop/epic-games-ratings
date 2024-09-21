@@ -4,7 +4,7 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 1027,
   "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 446,
+  "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1123,10 +1123,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 384,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-09-21T16:59:13.1974288+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 385,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 384,
+  "NumberOfAwards": 385,
   "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1170,7 +1176,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1202,8 +1208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2024-09-19T05:58:44.5692126+00:00",
+  "LastChanged": "2024-09-21T16:59:13.1974287+00:00",
   "LastUpdate_AppInfo": "2024-09-16T11:57:22.9881864+00:00",
-  "LastUpdate_Ratings": "2024-09-21T14:59:28.1663081+00:00",
+  "LastUpdate_Ratings": "2024-09-21T16:59:13.1974291+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:42.2675109+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "raini-the-lords-of-light-eaeed0",
   "Ranking_Rating": 248,
   "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -971,10 +971,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 426,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-09-21T16:59:26.8229517+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 427,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 426,
+  "NumberOfAwards": 427,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -982,7 +988,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1069,8 +1075,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-24T03:57:18.8590918+00:00",
   "FirstSeenRating": "2023-08-17T14:58:23.8866793+00:00",
-  "LastChanged": "2024-09-15T17:59:32.1103646+00:00",
+  "LastChanged": "2024-09-21T16:59:26.8229515+00:00",
   "LastUpdate_AppInfo": "2024-09-15T20:57:09.503345+00:00",
-  "LastUpdate_Ratings": "2024-09-21T14:59:42.0545492+00:00",
+  "LastUpdate_Ratings": "2024-09-21T16:59:26.822952+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:10.4563941+00:00"
 }

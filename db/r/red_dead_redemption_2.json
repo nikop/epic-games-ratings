@@ -2,7 +2,7 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 20,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 1254,
@@ -32765,10 +32765,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1047109,
       "NumberOfAwardsMax": 363073
+    },
+    {
+      "Time": "2024-09-21T16:59:26.4414643+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1047309,
+      "NumberOfAwardsMax": 363073
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1047109,
+  "NumberOfAwards": 1047309,
   "NumberOfAwardsMax": 363073,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -32806,7 +32812,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 47691
+      "Count": 47786
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -32818,7 +32824,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 50532
+      "Count": 50637
     },
     {
       "Text": "This game is Highly Recommended",
@@ -32868,8 +32874,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-09-21T14:59:41.5973507+00:00",
+  "LastChanged": "2024-09-21T16:59:26.4414641+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:05.5533751+00:00",
-  "LastUpdate_Ratings": "2024-09-21T14:59:41.5973514+00:00",
+  "LastUpdate_Ratings": "2024-09-21T16:59:26.4414651+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:12.3871459+00:00"
 }

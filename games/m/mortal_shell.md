@@ -1,7 +1,7 @@
 # Mortal Shell
 [Store](https://store.epicgames.com/en-US/p/mortal-shell)  
 [View Rawdata](../../db/m/mortal_shell.json)  
-Rating: 4.25 (Ranked 1,075)  
+Rating: 4.24 (Ranked 1,083)  
 Number of Ratings: 213  (23.09.2022)  
 ## Awards
 Max (Unique Visuals): 29  (Ranked 651)  
@@ -192,3 +192,4 @@ Diff (max vs sum): 140
 | 2024-09-03 | 4.25 | - | 29 | 216 |
 | 2024-09-05 | 4.25 | - | 29 | 220 |
 | 2024-09-17 | 4.25 | - | 29 | 221 |
+| 2024-09-21 | 4.24 | - | 29 | 221 |
