@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 187,
+  "Ranking_Rating": 188,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 1254,
@@ -18139,10 +18139,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 11720,
       "NumberOfAwardsMax": 1243
+    },
+    {
+      "Time": "2024-09-21T18:59:15.9371454+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 11721,
+      "NumberOfAwardsMax": 1243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11720,
+  "NumberOfAwards": 11721,
   "NumberOfAwardsMax": 1243,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -18162,7 +18168,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1170
+      "Count": 1171
     },
     {
       "Text": "This game is Highly Recommended",
@@ -18236,8 +18242,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-09-21T13:58:43.2274831+00:00",
+  "LastChanged": "2024-09-21T18:59:15.9371452+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:18.2984112+00:00",
-  "LastUpdate_Ratings": "2024-09-21T17:00:07.0203256+00:00",
+  "LastUpdate_Ratings": "2024-09-21T18:59:15.937146+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:01.2887803+00:00"
 }

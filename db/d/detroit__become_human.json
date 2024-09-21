@@ -2,7 +2,7 @@
   "ID": "columbine",
   "Name": "Detroit: Become Human",
   "ProductSlug": "detroit-become-human",
-  "Ranking_Rating": 30,
+  "Ranking_Rating": 29,
   "Ranking_Popularity": 144,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 1254,
@@ -3316,18 +3316,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 2347,
       "NumberOfAwardsMax": 2026
+    },
+    {
+      "Time": "2024-09-21T18:59:05.5510215+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 2349,
+      "NumberOfAwardsMax": 2028
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2347,
-  "NumberOfAwardsMax": 2026,
+  "NumberOfAwards": 2349,
+  "NumberOfAwardsMax": 2028,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 2026
+      "Count": 2028
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3401,8 +3407,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
-  "LastChanged": "2024-09-21T11:59:36.9006707+00:00",
+  "LastChanged": "2024-09-21T18:59:05.5510214+00:00",
   "LastUpdate_AppInfo": "2024-09-15T20:57:11.9879795+00:00",
-  "LastUpdate_Ratings": "2024-09-21T16:59:56.8586404+00:00",
+  "LastUpdate_Ratings": "2024-09-21T18:59:05.5510219+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:44.964458+00:00"
 }
