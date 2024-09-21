@@ -346,7 +346,7 @@ Completed: 14 (0.01%) (Ranked 559)
 | 2024-09-14 | 266,314 | 14 |
 ## Awards
 Max (Character Customization): 409  (Ranked 286)  
-Sum: 896 (Ranked 346)  
+Sum: 897 (Ranked 346)  
 Diff (max vs sum): -60  
 | Award | Count |
 | ----- | ----- |
@@ -360,7 +360,7 @@ Diff (max vs sum): -60
 | This game has Quickly Understood Controls | 48 |
 | This game is Extremely Fun | 45 |
 | This game has Playful Visuals | 39 |
-| This game has a Silly Community | 32 |
+| This game has a Silly Community | 33 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -736,4 +736,4 @@ Diff (max vs sum): -60
 | 2024-09-18 | 4.58 | - | 404 | 888 |
 | 2024-09-19 | 4.58 | - | 406 | 892 |
 | 2024-09-20 | 4.58 | - | 406 | 893 |
-| 2024-09-21 | 4.58 | - | 409 | 896 |
+| 2024-09-21 | 4.58 | - | 409 | 897 |

@@ -2,9 +2,9 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 999,
   "Ranking_Popularity": 641,
-  "Ranking_PopularitySum": 554,
+  "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 521,
   "Ranking_EOS_NewPlayers": 3,
@@ -551,10 +551,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 142,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-09-21T17:58:34.3026788+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 143,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 142,
+  "NumberOfAwards": 143,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -598,7 +604,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 596729,
@@ -16858,9 +16864,9 @@
   "FirstSeen": "2023-09-14T16:00:42.0495436+00:00",
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged": "2024-09-20T18:00:38.2763297+00:00",
+  "LastChanged": "2024-09-21T17:58:34.3026786+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:27.4868483+00:00",
   "LastUpdate_AppInfo": "2024-09-20T23:57:14.8200708+00:00",
-  "LastUpdate_Ratings": "2024-09-21T15:59:05.3996973+00:00",
+  "LastUpdate_Ratings": "2024-09-21T17:58:34.3026792+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:27.4869378+00:00"
 }

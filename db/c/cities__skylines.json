@@ -2,7 +2,7 @@
   "ID": "6009be9994c2409099588cde6f3a5ed0",
   "Name": "Cities: Skylines",
   "ProductSlug": "cities-skylines",
-  "Ranking_Rating": 352,
+  "Ranking_Rating": 353,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 32,
   "Ranking_EOS_Progress": 14,
@@ -23951,10 +23951,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 66594,
       "NumberOfAwardsMax": 9337
+    },
+    {
+      "Time": "2024-09-21T17:57:04.9063003+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 66610,
+      "NumberOfAwardsMax": 9337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66594,
+  "NumberOfAwards": 66610,
   "NumberOfAwardsMax": 9337,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -23968,7 +23974,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 8789
+      "Count": 8805
     },
     {
       "Text": "This game is Educational",
@@ -57603,9 +57609,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:44.6167524+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.6011712+00:00",
-  "LastChanged": "2024-09-21T15:57:43.9367296+00:00",
+  "LastChanged": "2024-09-21T17:57:04.9063001+00:00",
   "LastChanged_Achievements": "2024-09-14T14:17:50.8438171+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:22.877419+00:00",
-  "LastUpdate_Ratings": "2024-09-21T15:57:43.9367303+00:00",
+  "LastUpdate_Ratings": "2024-09-21T17:57:04.9063006+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:50.8440549+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 841,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -14204,10 +14204,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 5644857,
       "NumberOfAwardsMax": 958198
+    },
+    {
+      "Time": "2024-09-21T17:59:11.6450921+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5651060,
+      "NumberOfAwardsMax": 958198
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5644857,
+  "NumberOfAwards": 5651060,
   "NumberOfAwardsMax": 958198,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14227,7 +14233,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 826744
+      "Count": 828104
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14239,37 +14245,37 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 725767
+      "Count": 726806
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 687938
+      "Count": 688763
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 610083
+      "Count": 610924
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 586536
+      "Count": 587125
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 575860
+      "Count": 576603
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 673731
+      "Count": 674537
     }
   ],
   "EOS_Progressed": 31025971,
@@ -47687,9 +47693,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-09-21T13:10:42.2188245+00:00",
+  "LastChanged": "2024-09-21T17:59:11.6450919+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:10.1895739+00:00",
   "LastUpdate_AppInfo": "2024-09-16T08:57:16.8774344+00:00",
-  "LastUpdate_Ratings": "2024-09-21T15:59:37.8790502+00:00",
+  "LastUpdate_Ratings": "2024-09-21T17:59:11.6450927+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:10.1897641+00:00"
 }
