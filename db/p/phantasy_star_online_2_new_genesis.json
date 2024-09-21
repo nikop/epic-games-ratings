@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 624,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 170,
+  "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8454,10 +8454,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 5269,
       "NumberOfAwardsMax": 1185
+    },
+    {
+      "Time": "2024-09-21T02:06:11.7039903+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 5271,
+      "NumberOfAwardsMax": 1185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5269,
+  "NumberOfAwards": 5271,
   "NumberOfAwardsMax": 1185,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8471,7 +8477,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 933
+      "Count": 935
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8545,8 +8551,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-09-20T19:57:57.8643874+00:00",
+  "LastChanged": "2024-09-21T02:06:11.7039901+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:32.8716902+00:00",
-  "LastUpdate_Ratings": "2024-09-20T22:59:03.606129+00:00",
+  "LastUpdate_Ratings": "2024-09-21T02:06:11.7039907+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:23.794379+00:00"
 }

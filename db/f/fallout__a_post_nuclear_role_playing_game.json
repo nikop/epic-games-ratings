@@ -4,7 +4,7 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 452,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 406,
+  "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1331,18 +1331,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 539,
       "NumberOfAwardsMax": 410
+    },
+    {
+      "Time": "2024-09-21T02:08:54.0584039+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 543,
+      "NumberOfAwardsMax": 414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 539,
-  "NumberOfAwardsMax": 410,
+  "NumberOfAwards": 543,
+  "NumberOfAwardsMax": 414,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 410
+      "Count": 414
     },
     {
       "Text": "This game is Hard for Beginners",
@@ -1399,8 +1405,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-09-20T03:03:06.6496117+00:00",
+  "LastChanged": "2024-09-21T02:08:54.0584036+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:14.0725928+00:00",
-  "LastUpdate_Ratings": "2024-09-20T23:57:59.0973955+00:00",
+  "LastUpdate_Ratings": "2024-09-21T02:08:54.0584042+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:57.1927683+00:00"
 }

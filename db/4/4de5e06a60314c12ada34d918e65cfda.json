@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 939,
   "Ranking_Popularity": 230,
-  "Ranking_PopularitySum": 217,
+  "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2874,10 +2874,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 3091,
       "NumberOfAwardsMax": 801
+    },
+    {
+      "Time": "2024-09-21T02:07:23.3057022+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 3122,
+      "NumberOfAwardsMax": 801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3091,
+  "NumberOfAwards": 3122,
   "NumberOfAwardsMax": 801,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2891,7 +2897,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 337
+      "Count": 346
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2903,7 +2909,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 647
+      "Count": 663
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2915,7 +2921,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 201
+      "Count": 207
     },
     {
       "Text": "This game has Competitive Players",
@@ -2960,8 +2966,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-09-20T21:57:42.0870103+00:00",
+  "LastChanged": "2024-09-21T02:07:23.3057019+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:47.9670567+00:00",
-  "LastUpdate_Ratings": "2024-09-20T22:59:48.8979778+00:00",
+  "LastUpdate_Ratings": "2024-09-21T02:07:23.3057025+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:32.1715824+00:00"
 }
