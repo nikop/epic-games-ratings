@@ -92,4 +92,3 @@
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | 26 (1,000 XP) | 29 | - | 0 |
 | [SPGP](games/a/ab566a024224474b8d4a4042d1d140df.md) | 2024-08-26 | 32 (1,000 XP) | 4 | - | - |
 | [The Eightfold Path](games/3/32aff53b2ea849249541da8da6d6592a.md) | 2024-08-24 | - |  | - | - |
-| [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-23 | 100 (1,000 XP) | 31 | - | 0 |
