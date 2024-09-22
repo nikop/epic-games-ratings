@@ -1,21 +1,21 @@
 # Hello Neighbor
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor)  
 [View Rawdata](../../db/h/hello_neighbor.json)  
-Rating: 4.56 (Ranked 573)  
+Rating: 4.56 (Ranked 572)  
 Number of Ratings: 1,166  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 622  (Ranked 251)  
-Sum: 3,826 (Ranked 198)  
+Max (Great for Beginners): 623  (Ranked 251)  
+Sum: 3,828 (Ranked 198)  
 Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 622 |
+| This game is Great for Beginners | 623 |
 | This game is Relaxing | 542 |
 | This game has Amazing Storytelling | 478 |
 | This game has Quickly Understood Controls | 456 |
 | This game is Highly Recommended | 451 |
 | This game has Amazing Characters | 447 |
-| This game is Extremely Fun | 431 |
+| This game is Extremely Fun | 432 |
 | This game has a Creative Community | 399 |
 | This game has Obsessive Gameplay | 68 |
 | This game is Great for Quick Sessions | 37 |
@@ -617,4 +617,4 @@ Diff (max vs sum): 53
 | 2024-09-19 | 4.56 | - | 619 | 3,814 |
 | 2024-09-20 | 4.56 | - | 619 | 3,818 |
 | 2024-09-21 | 4.56 | - | 622 | 3,825 |
-| 2024-09-22 | 4.56 | - | 622 | 3,826 |
+| 2024-09-22 | 4.56 | - | 623 | 3,828 |

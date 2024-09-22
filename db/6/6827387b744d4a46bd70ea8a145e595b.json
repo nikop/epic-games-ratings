@@ -2,7 +2,7 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 573,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 1254,
@@ -3449,10 +3449,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 70397,
       "NumberOfAwardsMax": 23005
+    },
+    {
+      "Time": "2024-09-22T19:58:51.3505759+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 70452,
+      "NumberOfAwardsMax": 23005
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 70397,
+  "NumberOfAwards": 70452,
   "NumberOfAwardsMax": 23005,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3520,7 +3526,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3216
+      "Count": 3271
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3541,8 +3547,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-09-22T18:00:02.2424082+00:00",
+  "LastChanged": "2024-09-22T19:58:51.3505758+00:00",
   "LastUpdate_AppInfo": "2024-09-17T03:56:56.0785963+00:00",
-  "LastUpdate_Ratings": "2024-09-22T18:00:02.2424089+00:00",
+  "LastUpdate_Ratings": "2024-09-22T19:58:51.3505765+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.5484973+00:00"
 }
