@@ -2,9 +2,9 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 1118,
-  "Ranking_Popularity": 438,
-  "Ranking_PopularitySum": 564,
+  "Ranking_Rating": 1117,
+  "Ranking_Popularity": 436,
+  "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -807,11 +807,17 @@
       "Rating": 4.21,
       "NumberOfAwards": 127,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2024-09-22T21:57:16.6300714+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 129,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 127,
-  "NumberOfAwardsMax": 127,
+  "NumberOfAwards": 129,
+  "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -824,7 +830,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 127
+      "Count": 129
     }
   ],
   "EOS_Progressed": 413101,
@@ -15605,9 +15611,9 @@
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2024-09-16T06:58:28.3713396+00:00",
+  "LastChanged": "2024-09-22T21:57:16.6300713+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:41.3111204+00:00",
   "LastUpdate_AppInfo": "2024-09-20T23:57:15.3976871+00:00",
-  "LastUpdate_Ratings": "2024-09-22T19:58:05.7372466+00:00",
+  "LastUpdate_Ratings": "2024-09-22T21:57:16.6300721+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:41.3111947+00:00"
 }

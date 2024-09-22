@@ -3,8 +3,8 @@
   "Name": "Plants vs. Zombies\u2122 GW2: Deluxe Edition",
   "ProductSlug": "plants-vs-zombies-gw2-deluxe-edition-99b9fd",
   "Ranking_Rating": 104,
-  "Ranking_Popularity": 410,
-  "Ranking_PopularitySum": 538,
+  "Ranking_Popularity": 403,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 497,
   "Ranking_EOS_NewPlayers": 3,
@@ -336,18 +336,24 @@
       "Rating": 4.8,
       "NumberOfAwards": 170,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-09-22T21:58:02.091353+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 174,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 170,
-  "NumberOfAwardsMax": 150,
+  "NumberOfAwards": 174,
+  "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 150
+      "Count": 154
     },
     {
       "Text": "This game is Great for Beginners",
@@ -914,9 +920,9 @@
   "FirstSeen": "2024-06-01T10:59:40.2201626+00:00",
   "FirstSeenRating": "2024-08-09T14:58:14.8565005+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:15.0844989+00:00",
-  "LastChanged": "2024-09-21T05:59:48.0393443+00:00",
+  "LastChanged": "2024-09-22T21:58:02.0913528+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.7191771+00:00",
   "LastUpdate_AppInfo": "2024-09-20T06:57:15.090268+00:00",
-  "LastUpdate_Ratings": "2024-09-22T19:58:36.2063696+00:00",
+  "LastUpdate_Ratings": "2024-09-22T21:58:02.0913533+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.7192218+00:00"
 }
