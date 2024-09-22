@@ -1,7 +1,7 @@
 # Pascal's Wager: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/pascals-wager)  
 [View Rawdata](../../db/p/pascal's_wager__definitive_edition.json)  
-Rating: 4.39 (Ranked 910)  
+Rating: 4.41 (Ranked 878)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -15,3 +15,4 @@ Rating: 4.39 (Ranked 910)
 | 2024-01-05 | 4.38 | 0 | 0 |
 | 2024-02-26 | 4.37 | 0 | 0 |
 | 2024-05-29 | 4.39 | 0 | 0 |
+| 2024-09-22 | 4.41 | 0 | 0 |
