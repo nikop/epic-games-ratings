@@ -2,7 +2,7 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "ProductSlug": "mortal-shell",
-  "Ranking_Rating": 1086,
+  "Ranking_Rating": 1076,
   "Ranking_Popularity": 652,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "NumberOfRatings": 213,
   "RatingHistory": [
     {
@@ -1099,6 +1099,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-22T18:58:10.6696925+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -1172,8 +1178,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-09-21T18:58:24.4285133+00:00",
+  "LastChanged": "2024-09-22T18:58:10.6696923+00:00",
   "LastUpdate_AppInfo": "2024-09-16T11:57:25.3895735+00:00",
-  "LastUpdate_Ratings": "2024-09-22T16:57:55.2220047+00:00",
+  "LastUpdate_Ratings": "2024-09-22T18:58:10.6696929+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:27.7867356+00:00"
 }
