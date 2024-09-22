@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 596,
   "Ranking_Popularity": 57,
-  "Ranking_PopularitySum": 70,
+  "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -17027,18 +17027,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 26185,
       "NumberOfAwardsMax": 10650
+    },
+    {
+      "Time": "2024-09-22T08:57:17.8159011+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 26201,
+      "NumberOfAwardsMax": 10663
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26185,
-  "NumberOfAwardsMax": 10650,
+  "NumberOfAwards": 26201,
+  "NumberOfAwardsMax": 10663,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 10650
+      "Count": 10663
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -17050,7 +17056,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1311
+      "Count": 1314
     },
     {
       "Text": "This game has Diverse Characters",
@@ -17106,8 +17112,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-09-22T03:17:10.7836398+00:00",
+  "LastChanged": "2024-09-22T08:57:17.8159009+00:00",
   "LastUpdate_AppInfo": "2024-09-15T20:57:06.6311899+00:00",
-  "LastUpdate_Ratings": "2024-09-22T06:58:23.4747048+00:00",
+  "LastUpdate_Ratings": "2024-09-22T08:57:17.8159015+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:18.3392341+00:00"
 }
