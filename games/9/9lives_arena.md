@@ -1,7 +1,7 @@
 # 9Lives Arena
 [Store](https://store.epicgames.com/en-US/p/9lives-arena-fb6229)  
 [View Rawdata](../../db/9/9lives_arena.json)  
-Rating: 4.52 (Ranked 666)  
+Rating: 4.53 (Ranked 647)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -64,8 +64,8 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 7,587 | 0 |
 ## Awards
 Max (Character Customization): 41  (Ranked 595)  
-Sum: 243 (Ranked 502)  
-Diff (max vs sum): 93  
+Sum: 263 (Ranked 492)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 41 |
@@ -78,6 +78,7 @@ Diff (max vs sum): 93
 | This game is Relaxing | 22 |
 | This game has Competitive Players | 20 |
 | This game has a Creative Community | 20 |
+| This game has Unique Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -149,3 +150,4 @@ Diff (max vs sum): 93
 | 2024-09-17 | 4.52 | 39 | 240 |
 | 2024-09-18 | 4.52 | 40 | 241 |
 | 2024-09-21 | 4.52 | 41 | 243 |
+| 2024-09-22 | 4.53 | 41 | 263 |

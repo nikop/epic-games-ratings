@@ -1,15 +1,15 @@
 # Witchfire
 [Store](https://store.epicgames.com/en-US/p/witchfire-db273e)  
 [View Rawdata](../../db/w/witchfire.json)  
-Rating: 4.62 (Ranked 427)  
+Rating: 4.62 (Ranked 426)  
 ## Awards
 Max (Challenging Combat): 247  (Ranked 342)  
-Sum: 1,382 (Ranked 303)  
+Sum: 1,385 (Ranked 303)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 247 |
-| This game is Highly Recommended | 233 |
+| This game is Highly Recommended | 236 |
 | This game is Extremely Fun | 200 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Amazing Storytelling | 195 |
@@ -316,3 +316,4 @@ Diff (max vs sum): 39
 | 2024-09-19 | 4.62 | 246 | 1,352 |
 | 2024-09-20 | 4.61 | 247 | 1,366 |
 | 2024-09-21 | 4.62 | 247 | 1,382 |
+| 2024-09-22 | 4.62 | 247 | 1,385 |

@@ -1,10 +1,10 @@
 # The Machines Arena
 [Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.77 (Ranked 134)  
+Rating: 4.77 (Ranked 133)  
 ## Awards
 Max (Great for Quick Sessions): 54  (Ranked 558)  
-Sum: 262 (Ranked 492)  
+Sum: 263 (Ranked 492)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 66
 | This game has Challenging Combat | 24 |
 | This game has Amazing Characters | 24 |
 | This game has Amazing Storytelling | 23 |
-| This game is Extremely Fun | 21 |
+| This game is Extremely Fun | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -120,3 +120,4 @@ Diff (max vs sum): 66
 | 2024-09-19 | 4.78 | 52 | 251 |
 | 2024-09-20 | 4.78 | 54 | 258 |
 | 2024-09-21 | 4.77 | 54 | 262 |
+| 2024-09-22 | 4.77 | 54 | 263 |
