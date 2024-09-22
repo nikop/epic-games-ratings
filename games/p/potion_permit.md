@@ -1,7 +1,7 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.99 (Ranked 1,237)  
+Rating: 4.00 (Ranked 1,235)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -358,3 +358,4 @@ Diff (max vs sum): -99
 | 2024-07-29 | 3.98 | 80 | 80 |
 | 2024-08-05 | 3.98 | 81 | 81 |
 | 2024-08-25 | 3.99 | 81 | 81 |
+| 2024-09-21 | 4.00 | 81 | 81 |
