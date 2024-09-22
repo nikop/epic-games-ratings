@@ -3,7 +3,7 @@
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 1124,
-  "Ranking_Popularity": 419,
+  "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 358,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -2071,11 +2071,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 824,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-09-22T11:01:30.2161835+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 825,
+      "NumberOfAwardsMax": 142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 824,
-  "NumberOfAwardsMax": 141,
+  "NumberOfAwards": 825,
+  "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2088,7 +2094,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 141
+      "Count": 142
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2144,8 +2150,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-09-20T23:59:47.1520912+00:00",
+  "LastChanged": "2024-09-22T11:01:30.2161833+00:00",
   "LastUpdate_AppInfo": "2024-09-16T11:57:19.7457878+00:00",
-  "LastUpdate_Ratings": "2024-09-22T09:57:49.9588082+00:00",
+  "LastUpdate_Ratings": "2024-09-22T11:01:30.216184+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:04.9136453+00:00"
 }
