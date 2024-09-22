@@ -62,6 +62,7 @@
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-12-31 | - |  | - | - |
 | [Voyager: Ascension](games/1/11f121ab17ac41c79278a6e3c15cfd3b.md) | 2024-12-31 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
+| [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-09-30 | - |  | - | - |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Interlude](games/d/d75da0b94bfe48898940f73cb3061f05.md) | 2024-09-30 | - |  | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
