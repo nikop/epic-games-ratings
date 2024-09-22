@@ -1,7 +1,7 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.49 (Ranked 728)  
+Rating: 4.50 (Ranked 705)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -860,3 +860,4 @@ Diff (max vs sum): -47
 | 2024-09-19 | 4.49 | - | 1,554 | 3,570 |
 | 2024-09-20 | 4.49 | - | 1,559 | 3,582 |
 | 2024-09-21 | 4.49 | - | 1,561 | 3,592 |
+| 2024-09-22 | 4.50 | - | 1,561 | 3,592 |
