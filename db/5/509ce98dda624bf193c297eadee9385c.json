@@ -2,7 +2,7 @@
   "ID": "509ce98dda624bf193c297eadee9385c",
   "Name": "AC Sailing",
   "ProductSlug": "ac-sailing-f23bc9",
-  "Ranking_Rating": 1198,
+  "Ranking_Rating": 1222,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -23,11 +23,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.05,
   "RatingHistory": [
     {
       "Time": "2024-09-20T00:00:05.3316414+00:00",
       "Rating": 4.1,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-22T11:58:45.5678552+00:00",
+      "Rating": 4.05,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -48,8 +54,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-15T10:59:11.9313262+00:00",
   "FirstSeenRating": "2024-09-20T00:00:05.3316411+00:00",
-  "LastChanged": "2024-09-20T00:00:05.3316413+00:00",
+  "LastChanged": "2024-09-22T11:58:45.567855+00:00",
   "LastUpdate_AppInfo": "2024-09-20T10:57:07.4533945+00:00",
-  "LastUpdate_Ratings": "2024-09-22T09:59:53.6688216+00:00",
+  "LastUpdate_Ratings": "2024-09-22T11:58:45.5678555+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:30.2345901+00:00"
 }

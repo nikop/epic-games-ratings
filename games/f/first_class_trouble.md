@@ -1,7 +1,7 @@
 # First Class Trouble
 [Store](https://store.epicgames.com/en-US/p/first-class-trouble)  
 [View Rawdata](../../db/f/first_class_trouble.json)  
-Rating: 4.47 (Ranked 771)  
+Rating: 4.47 (Ranked 770)  
 ## Awards
 Max (Great for Quick Sessions): 170  (Ranked 394)  
 Sum: 913 (Ranked 342)  
