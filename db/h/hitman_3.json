@@ -21836,10 +21836,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 88980,
       "NumberOfAwardsMax": 14022
+    },
+    {
+      "Time": "2024-09-22T03:16:28.9497729+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 88988,
+      "NumberOfAwardsMax": 14022
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 88980,
+  "NumberOfAwards": 88988,
   "NumberOfAwardsMax": 14022,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -21895,7 +21901,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 10835
+      "Count": 10843
     },
     {
       "Text": "This game is Great for Beginners",
@@ -54876,9 +54882,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:51.8099598+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:56.7371376+00:00",
-  "LastChanged": "2024-09-21T18:59:31.4371815+00:00",
+  "LastChanged": "2024-09-22T03:16:28.9497727+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:33.0305846+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:18.3884632+00:00",
-  "LastUpdate_Ratings": "2024-09-21T23:59:40.92576+00:00",
+  "LastUpdate_Ratings": "2024-09-22T03:16:28.9497732+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:33.0307837+00:00"
 }

@@ -1,7 +1,7 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.54 (Ranked 623)  
+Rating: 4.54 (Ranked 622)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -252,9 +252,9 @@ Completed: 111 (0.02%) (Ranked 536)
 | 2024-08-20 | 446,449 | 108 |
 | 2024-09-14 | 449,252 | 111 |
 ## Awards
-Max (Amazing Storytelling): 21  (Ranked 708)  
+Max (Amazing Storytelling): 21  (Ranked 709)  
 Sum: 82 (Ranked 595)  
-Diff (max vs sum): 113  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 21 |
