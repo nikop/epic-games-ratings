@@ -1,10 +1,10 @@
 # MetalCore
 [Store](https://store.epicgames.com/en-US/p/metalcore-f60c27)  
 [View Rawdata](../../db/m/metalcore.json)  
-Rating: 4.38 (Ranked 927)  
+Rating: 4.38 (Ranked 928)  
 ## Awards
 Max (Great for Beginners): 141  (Ranked 420)  
-Sum: 1,070 (Ranked 322)  
+Sum: 1,072 (Ranked 322)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 98
 | This game has Diverse Characters | 126 |
 | This game has a Competitive Community | 93 |
 | This game has Challenging Combat | 92 |
-| This game has Amazing Characters | 86 |
+| This game has Amazing Characters | 88 |
 | This game is Highly Recommended | 86 |
 | This game is Extremely Fun | 84 |
 | This game has Unique Visuals | 80 |
@@ -137,4 +137,4 @@ Diff (max vs sum): 98
 | 2024-09-19 | 4.39 | 135 | 1,044 |
 | 2024-09-20 | 4.39 | 139 | 1,064 |
 | 2024-09-21 | 4.39 | 141 | 1,069 |
-| 2024-09-22 | 4.38 | 141 | 1,070 |
+| 2024-09-22 | 4.38 | 141 | 1,072 |

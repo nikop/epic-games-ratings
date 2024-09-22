@@ -4,7 +4,7 @@
 Rating: 4.69 (Ranked 268)  
 ## Awards
 Max (Character Customization): 392  (Ranked 295)  
-Sum: 701 (Ranked 381)  
+Sum: 705 (Ranked 381)  
 Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
@@ -16,8 +16,8 @@ Diff (max vs sum): -86
 | This game is Extremely Fun | 36 |
 | This game has Challenging Combat | 31 |
 | This game has Quickly Understood Controls | 30 |
-| This game is Highly Recommended | 29 |
-| This game has a Creative Community | 27 |
+| This game is Highly Recommended | 30 |
+| This game has a Creative Community | 30 |
 | This game is Relaxing | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -308,4 +308,4 @@ Diff (max vs sum): -86
 | 2024-09-19 | 4.68 | 379 | 676 |
 | 2024-09-20 | 4.68 | 381 | 683 |
 | 2024-09-21 | 4.69 | 388 | 697 |
-| 2024-09-22 | 4.69 | 392 | 701 |
+| 2024-09-22 | 4.69 | 392 | 705 |

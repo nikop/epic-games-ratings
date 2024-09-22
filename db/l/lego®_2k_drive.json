@@ -2,7 +2,7 @@
   "ID": "130de7f2c9bd4d65bd7e52b8600aaad0",
   "Name": "LEGO\u00AE 2K Drive",
   "ProductSlug": "lego-2k-drive",
-  "Ranking_Rating": 622,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-06-05T10:57:21.5213734+00:00",
@@ -363,6 +363,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-22T17:59:48.267827+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -381,8 +387,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-19T05:57:13.721276+00:00",
   "FirstSeenRating": "2023-06-05T10:57:21.5213731+00:00",
-  "LastChanged": "2024-09-07T02:01:30.7262189+00:00",
+  "LastChanged": "2024-09-22T17:59:48.2678269+00:00",
   "LastUpdate_AppInfo": "2024-09-15T21:57:17.0148826+00:00",
-  "LastUpdate_Ratings": "2024-09-22T15:59:51.4863198+00:00",
+  "LastUpdate_Ratings": "2024-09-22T17:59:48.2678274+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:01.6959869+00:00"
 }

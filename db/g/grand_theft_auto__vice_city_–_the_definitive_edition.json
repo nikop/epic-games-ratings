@@ -3,7 +3,7 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 648,
-  "Ranking_Popularity": 631,
+  "Ranking_Popularity": 627,
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 304,
@@ -1691,11 +1691,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 254,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-22T17:58:04.1408314+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 255,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 254,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 255,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1738,7 +1744,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -20119,9 +20125,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-09-22T08:58:04.0325973+00:00",
+  "LastChanged": "2024-09-22T17:58:04.1408312+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:59.5449146+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:18.826581+00:00",
-  "LastUpdate_Ratings": "2024-09-22T15:58:36.4791059+00:00",
+  "LastUpdate_Ratings": "2024-09-22T17:58:04.140832+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:59.5450176+00:00"
 }
