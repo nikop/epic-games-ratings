@@ -2,7 +2,7 @@
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 156,
@@ -2321,10 +2321,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1689,
       "NumberOfAwardsMax": 810
+    },
+    {
+      "Time": "2024-09-22T13:10:58.831834+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1690,
+      "NumberOfAwardsMax": 810
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1689,
+  "NumberOfAwards": 1690,
   "NumberOfAwardsMax": 810,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2374,7 +2380,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 123
+      "Count": 124
     },
     {
       "Text": "This game has Amazing Characters",
@@ -15695,9 +15701,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
-  "LastChanged": "2024-09-15T13:59:50.2224118+00:00",
+  "LastChanged": "2024-09-22T13:10:58.8318337+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:24.2780814+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:56.0658598+00:00",
-  "LastUpdate_Ratings": "2024-09-22T11:00:27.1308454+00:00",
+  "LastUpdate_Ratings": "2024-09-22T13:10:58.8318342+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:24.2781608+00:00"
 }
