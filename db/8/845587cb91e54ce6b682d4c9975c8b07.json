@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 126,
   "Ranking_Popularity": 522,
-  "Ranking_PopularitySum": 578,
+  "Ranking_PopularitySum": 568,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -145,10 +145,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 106,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-09-22T14:59:55.9632841+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 122,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 106,
+  "NumberOfAwards": 122,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -162,7 +168,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 36
+      "Count": 52
     }
   ],
   "EOS_Progressed": 532,
@@ -751,9 +757,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-09-22T09:58:35.5662771+00:00",
+  "LastChanged": "2024-09-22T14:59:55.9632839+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-16T17:57:14.2059715+00:00",
-  "LastUpdate_Ratings": "2024-09-22T13:12:20.8676391+00:00",
+  "LastUpdate_Ratings": "2024-09-22T14:59:55.9632844+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }

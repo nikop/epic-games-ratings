@@ -3,7 +3,7 @@
   "Name": "Loop Hero",
   "ProductSlug": "loop-hero",
   "Ranking_Rating": 315,
-  "Ranking_Popularity": 249,
+  "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -8890,11 +8890,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 5238,
       "NumberOfAwardsMax": 635
+    },
+    {
+      "Time": "2024-09-22T14:57:34.5441924+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5243,
+      "NumberOfAwardsMax": 640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5238,
-  "NumberOfAwardsMax": 635,
+  "NumberOfAwards": 5243,
+  "NumberOfAwardsMax": 640,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8949,7 +8955,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 635
+      "Count": 640
     },
     {
       "Text": "This game has a Creative Community",
@@ -8969,8 +8975,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:49.2794881+00:00",
-  "LastChanged": "2024-09-22T07:57:13.2969072+00:00",
+  "LastChanged": "2024-09-22T14:57:34.5441923+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:30.9202179+00:00",
-  "LastUpdate_Ratings": "2024-09-22T13:10:42.0084086+00:00",
+  "LastUpdate_Ratings": "2024-09-22T14:57:34.5441928+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.1670664+00:00"
 }
