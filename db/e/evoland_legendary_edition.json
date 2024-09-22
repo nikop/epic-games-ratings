@@ -4,7 +4,7 @@
   "ProductSlug": "evoland-legendary-edition-5753ec",
   "Ranking_Rating": 746,
   "Ranking_Popularity": 321,
-  "Ranking_PopularitySum": 481,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -156,11 +156,17 @@
       "Rating": 4.48,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 285
+    },
+    {
+      "Time": "2024-09-22T20:58:17.5808296+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
-  "NumberOfAwardsMax": 285,
+  "NumberOfAwards": 286,
+  "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -173,7 +179,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 285
+      "Count": 286
     }
   ],
   "EOS_Progressed": 0,
@@ -188,8 +194,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:33.1892038+00:00",
   "FirstSeenRating": "2022-10-21T11:02:38.8584727+00:00",
-  "LastChanged": "2024-09-19T14:58:37.6151119+00:00",
+  "LastChanged": "2024-09-22T20:58:17.5808294+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:15.760287+00:00",
-  "LastUpdate_Ratings": "2024-09-22T18:59:17.064446+00:00",
+  "LastUpdate_Ratings": "2024-09-22T20:58:17.5808299+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:47.9876657+00:00"
 }

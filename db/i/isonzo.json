@@ -4,7 +4,7 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 547,
   "Ranking_Popularity": 525,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -1871,10 +1871,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 551,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-09-22T20:57:40.2556975+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 552,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 551,
+  "NumberOfAwards": 552,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1912,7 +1918,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Educational",
@@ -12888,9 +12894,9 @@
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-09-22T18:58:40.9711815+00:00",
+  "LastChanged": "2024-09-22T20:57:40.2556973+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:50.3660861+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:57:50.4110073+00:00",
-  "LastUpdate_Ratings": "2024-09-22T18:58:40.9711821+00:00",
+  "LastUpdate_Ratings": "2024-09-22T20:57:40.2556978+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:50.3661783+00:00"
 }
