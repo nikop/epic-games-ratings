@@ -26984,10 +26984,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 128539,
       "NumberOfAwardsMax": 17326
+    },
+    {
+      "Time": "2024-09-23T20:58:50.3308195+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 128555,
+      "NumberOfAwardsMax": 17326
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 128539,
+  "NumberOfAwards": 128555,
   "NumberOfAwardsMax": 17326,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -27043,7 +27049,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 9063
+      "Count": 9079
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -27069,8 +27075,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-09-23T15:58:46.7135943+00:00",
+  "LastChanged": "2024-09-23T20:58:50.3308193+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:50.0308737+00:00",
-  "LastUpdate_Ratings": "2024-09-23T18:59:36.3237097+00:00",
+  "LastUpdate_Ratings": "2024-09-23T20:58:50.33082+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:32.7309528+00:00"
 }

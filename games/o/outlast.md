@@ -4,7 +4,7 @@
 Rating: 4.74 (Ranked 187)  
 ## Awards
 Max (Great for Beginners): 57  (Ranked 552)  
-Sum: 326 (Ranked 467)  
+Sum: 327 (Ranked 467)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 85
 | This game has Amazing Characters | 33 |
 | This game is Extremely Fun | 33 |
 | This game has Quickly Understood Controls | 32 |
-| This game has a Creative Community | 27 |
+| This game has a Creative Community | 28 |
 | This game is Great for Quick Sessions | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -161,4 +161,4 @@ Diff (max vs sum): 85
 | 2024-09-20 | 4.74 | 57 | 321 |
 | 2024-09-21 | 4.75 | 57 | 323 |
 | 2024-09-22 | 4.75 | 57 | 324 |
-| 2024-09-23 | 4.74 | 57 | 326 |
+| 2024-09-23 | 4.74 | 57 | 327 |
