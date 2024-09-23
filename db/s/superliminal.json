@@ -2,7 +2,7 @@
   "ID": "6cec00f8934146508b884b0f139d55d0",
   "Name": "Superliminal",
   "ProductSlug": "superliminal",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 64,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -267,6 +267,6 @@
   "FirstSeen": "2022-07-22T20:17:46.1254178+00:00",
   "LastChanged": "2024-09-07T21:58:54.2273589+00:00",
   "LastUpdate_AppInfo": "2024-09-16T14:57:09.0549717+00:00",
-  "LastUpdate_Ratings": "2024-09-23T13:15:04.422543+00:00",
+  "LastUpdate_Ratings": "2024-09-23T14:00:47.1845999+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:19.3267595+00:00"
 }
