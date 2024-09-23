@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 171,
   "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 77,
+  "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -17510,10 +17510,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 19774,
       "NumberOfAwardsMax": 8528
+    },
+    {
+      "Time": "2024-09-23T21:59:21.686675+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 19783,
+      "NumberOfAwardsMax": 8528
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19774,
+  "NumberOfAwards": 19783,
   "NumberOfAwardsMax": 8528,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17527,7 +17533,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 5507
+      "Count": 5514
     },
     {
       "Text": "This game is Extremely Fun",
@@ -17557,7 +17563,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 579
+      "Count": 580
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -17587,7 +17593,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 614
+      "Count": 615
     }
   ],
   "EOS_Progressed": 0,
@@ -17601,8 +17607,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2024-09-23T16:58:01.4953703+00:00",
+  "LastChanged": "2024-09-23T21:59:21.6866748+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:42.93403+00:00",
-  "LastUpdate_Ratings": "2024-09-23T19:59:53.5751391+00:00",
+  "LastUpdate_Ratings": "2024-09-23T21:59:21.6866754+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:05.068283+00:00"
 }
