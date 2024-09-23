@@ -614,10 +614,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 131,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-23T15:58:26.1324392+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 132,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 131,
+  "NumberOfAwards": 132,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -655,7 +661,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -669,8 +675,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2024-09-18T13:15:50.7592164+00:00",
+  "LastChanged": "2024-09-23T15:58:26.1324391+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:42.6613876+00:00",
-  "LastUpdate_Ratings": "2024-09-23T13:59:15.8568359+00:00",
+  "LastUpdate_Ratings": "2024-09-23T15:58:26.1324396+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:30.522087+00:00"
 }
