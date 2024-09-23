@@ -4,7 +4,7 @@
   "ProductSlug": "crsed-f-o-a-d",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 447,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2218,6 +2218,6 @@
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
   "LastChanged": "2024-09-22T15:57:50.0335283+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:33.1097271+00:00",
-  "LastUpdate_Ratings": "2024-09-23T08:59:45.3974707+00:00",
+  "LastUpdate_Ratings": "2024-09-23T10:57:42.1638531+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:08.2493314+00:00"
 }

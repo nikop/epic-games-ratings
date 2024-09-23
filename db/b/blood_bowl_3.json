@@ -4,7 +4,7 @@
   "ProductSlug": "blood-bowl-3",
   "Ranking_Rating": 1255,
   "Ranking_Popularity": 643,
-  "Ranking_PopularitySum": 633,
+  "Ranking_PopularitySum": 634,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -545,6 +545,6 @@
   "FirstSeenRating": "2023-03-31T05:57:03.2574154+00:00",
   "LastChanged": "2024-09-21T21:58:37.3095092+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:46.5534419+00:00",
-  "LastUpdate_Ratings": "2024-09-23T09:57:40.0997205+00:00",
+  "LastUpdate_Ratings": "2024-09-23T10:59:52.3310497+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:03.7001351+00:00"
 }
