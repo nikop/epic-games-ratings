@@ -11987,10 +11987,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 12948,
       "NumberOfAwardsMax": 4024
+    },
+    {
+      "Time": "2024-09-23T19:57:22.4404416+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 12950,
+      "NumberOfAwardsMax": 4024
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12948,
+  "NumberOfAwards": 12950,
   "NumberOfAwardsMax": 4024,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -12046,7 +12052,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 903
+      "Count": 905
     },
     {
       "Text": "This game has Easy Combat",
@@ -12079,8 +12085,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-09-23T17:58:33.0509051+00:00",
+  "LastChanged": "2024-09-23T19:57:22.4404413+00:00",
   "LastUpdate_AppInfo": "2024-09-18T19:57:26.456414+00:00",
-  "LastUpdate_Ratings": "2024-09-23T17:58:33.050907+00:00",
+  "LastUpdate_Ratings": "2024-09-23T19:57:22.4404418+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:50.025404+00:00"
 }

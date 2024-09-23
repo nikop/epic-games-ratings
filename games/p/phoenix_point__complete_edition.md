@@ -1,7 +1,7 @@
 # Phoenix Point: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/phoenix-point)  
 [View Rawdata](../../db/p/phoenix_point__complete_edition.json)  
-Rating: 4.55 (Ranked 597)  
+Rating: 4.56 (Ranked 572)  
 Number of Ratings: 2,121  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,921  (Ranked 147)  
@@ -423,3 +423,4 @@ Diff (max vs sum): 0
 | 2024-09-19 | 4.56 | - | 1,920 | 7,709 |
 | 2024-09-20 | 4.56 | - | 1,920 | 7,717 |
 | 2024-09-21 | 4.56 | - | 1,921 | 7,718 |
+| 2024-09-23 | 4.56 | - | 1,921 | 7,718 |

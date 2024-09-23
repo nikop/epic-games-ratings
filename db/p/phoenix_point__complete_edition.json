@@ -2,7 +2,7 @@
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
-  "Ranking_Rating": 597,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 147,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 2121,
   "RatingHistory": [
     {
@@ -5215,6 +5215,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 7718,
       "NumberOfAwardsMax": 1921
+    },
+    {
+      "Time": "2024-09-23T19:58:10.5563266+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7718,
+      "NumberOfAwardsMax": 1921
     }
   ],
   "ReviewsDisabled": false,
@@ -5294,8 +5300,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-09-21T21:00:47.6916268+00:00",
+  "LastChanged": "2024-09-23T19:58:10.5563264+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:38.0636649+00:00",
-  "LastUpdate_Ratings": "2024-09-23T17:59:38.2623092+00:00",
+  "LastUpdate_Ratings": "2024-09-23T19:58:10.5563269+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:41.7074597+00:00"
 }
