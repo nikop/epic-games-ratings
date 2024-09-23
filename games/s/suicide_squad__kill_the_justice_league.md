@@ -68,7 +68,7 @@ Completed: 38 (0.02%) (Ranked 536)
 | 2024-09-14 | 158,456 | 38 |
 ## Awards
 Max (Highly Recommended): 276  (Ranked 326)  
-Sum: 2,077 (Ranked 260)  
+Sum: 2,079 (Ranked 260)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -79,7 +79,7 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 272 |
 | This game has Amazing Storytelling | 265 |
 | This game has Quickly Understood Controls | 251 |
-| This game has Amazing Characters | 242 |
+| This game has Amazing Characters | 244 |
 | This game is Relaxing | 223 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -247,3 +247,4 @@ Diff (max vs sum): 66
 | 2024-09-20 | 3.78 | 273 | 2,054 |
 | 2024-09-21 | 3.78 | 273 | 2,067 |
 | 2024-09-22 | 3.78 | 276 | 2,077 |
+| 2024-09-23 | 3.78 | 276 | 2,079 |

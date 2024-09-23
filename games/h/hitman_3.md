@@ -1,7 +1,7 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.76 (Ranked 151)  
+Rating: 4.76 (Ranked 150)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -346,7 +346,7 @@ Completed: 2,379 (0.16%) (Ranked 435)
 | 2024-09-14 | 1,490,867 | 2,379 |
 ## Awards
 Max (Diverse Characters): 14,046  (Ranked 44)  
-Sum: 89,044 (Ranked 29)  
+Sum: 89,053 (Ranked 29)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 15
 | This game is Extremely Fun | 10,986 |
 | This game has Amazing Storytelling | 10,895 |
 | This game has Amazing Characters | 10,877 |
-| This game has a Creative Community | 10,843 |
+| This game has a Creative Community | 10,852 |
 | This game has Quickly Understood Controls | 9,915 |
 | This game is Relaxing | 9,750 |
 | This game is Great for Beginners | 8,394 |
@@ -997,3 +997,4 @@ Diff (max vs sum): 15
 | 2024-09-20 | 4.76 | - | 14,006 | 88,919 |
 | 2024-09-21 | 4.76 | - | 14,022 | 88,980 |
 | 2024-09-22 | 4.76 | - | 14,046 | 89,044 |
+| 2024-09-23 | 4.76 | - | 14,046 | 89,053 |
