@@ -2,7 +2,7 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1000,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 1254,
@@ -5117,10 +5117,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 3508,
       "NumberOfAwardsMax": 490
+    },
+    {
+      "Time": "2024-09-23T14:58:45.3165217+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 3510,
+      "NumberOfAwardsMax": 490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3508,
+  "NumberOfAwards": 3510,
   "NumberOfAwardsMax": 490,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5146,7 +5152,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 481
+      "Count": 483
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5196,8 +5202,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-09-23T13:16:15.2303997+00:00",
+  "LastChanged": "2024-09-23T14:58:45.3165216+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:54.7240162+00:00",
-  "LastUpdate_Ratings": "2024-09-23T13:16:15.2304004+00:00",
+  "LastUpdate_Ratings": "2024-09-23T14:58:45.3165221+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:21.2834315+00:00"
 }

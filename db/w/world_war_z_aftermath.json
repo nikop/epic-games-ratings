@@ -2,7 +2,7 @@
   "ID": "wombat",
   "Name": "World War Z Aftermath",
   "ProductSlug": "world-war-z",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 1254,
@@ -19892,10 +19892,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 38936,
       "NumberOfAwardsMax": 7011
+    },
+    {
+      "Time": "2024-09-23T15:00:55.8067508+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 38941,
+      "NumberOfAwardsMax": 7011
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38936,
+  "NumberOfAwards": 38941,
   "NumberOfAwardsMax": 7011,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19939,7 +19945,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4205
+      "Count": 4210
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19973,9 +19979,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2024-09-23T13:58:27.6767495+00:00",
+  "LastChanged": "2024-09-23T15:00:55.8067507+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:06.4392257+00:00",
-  "LastUpdate_AppInfo": "2024-09-16T13:57:47.1797472+00:00",
-  "LastUpdate_Ratings": "2024-09-23T13:58:27.6767503+00:00",
+  "LastUpdate_AppInfo": "2024-09-23T14:57:25.3663094+00:00",
+  "LastUpdate_Ratings": "2024-09-23T15:00:55.8067513+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.4392292+00:00"
 }
