@@ -2,7 +2,7 @@
   "ID": "61bc780f42f84fe29e6dfee957ab82de",
   "Name": "The Escapists",
   "ProductSlug": "the-escapists",
-  "Ranking_Rating": 805,
+  "Ranking_Rating": 827,
   "Ranking_Popularity": 723,
   "Ranking_PopularitySum": 723,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 596,
   "RatingHistory": [
     {
@@ -622,6 +622,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-23T09:00:09.4656895+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -639,8 +645,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:12.5435213+00:00",
-  "LastChanged": "2024-08-18T02:02:58.5776842+00:00",
+  "LastChanged": "2024-09-23T09:00:09.4656891+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:58:45.2478176+00:00",
-  "LastUpdate_Ratings": "2024-09-23T07:00:01.1770647+00:00",
+  "LastUpdate_Ratings": "2024-09-23T09:00:09.4656899+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:56.6082584+00:00"
 }

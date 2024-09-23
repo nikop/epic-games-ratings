@@ -64,12 +64,12 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-20 | 10,675 | 0 |
 | 2024-09-14 | 12,347 | 0 |
 ## Awards
-Max (Great Boss Battles): 114  (Ranked 454)  
-Sum: 114 (Ranked 572)  
-Diff (max vs sum): -118  
+Max (Great Boss Battles): 115  (Ranked 453)  
+Sum: 115 (Ranked 572)  
+Diff (max vs sum): -119  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 114 |
+| This game has Great Boss Battles | 115 |
 | This game has Inclusive Character Customization | 86 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -233,3 +233,4 @@ Diff (max vs sum): -118
 | 2024-09-10 | 4.61 | - | 111 | 111 |
 | 2024-09-15 | 4.61 | - | 112 | 112 |
 | 2024-09-19 | 4.61 | - | 114 | 114 |
+| 2024-09-23 | 4.61 | - | 115 | 115 |
