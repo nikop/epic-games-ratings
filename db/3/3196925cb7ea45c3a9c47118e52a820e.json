@@ -4,7 +4,7 @@
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
   "Ranking_Rating": 1115,
   "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -456,10 +456,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 683,
       "NumberOfAwardsMax": 194
+    },
+    {
+      "Time": "2024-09-23T02:10:30.1420525+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 695,
+      "NumberOfAwardsMax": 194
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 683,
+  "NumberOfAwards": 695,
   "NumberOfAwardsMax": 194,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -497,7 +503,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 106
+      "Count": 118
     },
     {
       "Text": "This game has a Competitive Community",
@@ -860,9 +866,9 @@
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:09.4518896+00:00",
-  "LastChanged": "2024-09-22T19:57:50.1270649+00:00",
+  "LastChanged": "2024-09-23T02:10:30.1420523+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:09.451883+00:00",
   "LastUpdate_AppInfo": "2024-09-19T17:57:15.3630914+00:00",
-  "LastUpdate_Ratings": "2024-09-22T22:59:18.3479143+00:00",
+  "LastUpdate_Ratings": "2024-09-23T02:10:30.1420528+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:09.4527531+00:00"
 }
