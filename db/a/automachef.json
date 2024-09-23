@@ -4,7 +4,7 @@
   "ProductSlug": "automachef",
   "Ranking_Rating": 983,
   "Ranking_Popularity": 652,
-  "Ranking_PopularitySum": 587,
+  "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -672,10 +672,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 99,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-23T07:58:32.8466835+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 100,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 99,
+  "NumberOfAwards": 100,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -701,7 +707,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -715,8 +721,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:48.5612754+00:00",
-  "LastChanged": "2024-09-10T20:58:48.9773091+00:00",
+  "LastChanged": "2024-09-23T07:58:32.8466833+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:34.5191148+00:00",
-  "LastUpdate_Ratings": "2024-09-23T05:58:25.1751831+00:00",
+  "LastUpdate_Ratings": "2024-09-23T07:58:32.8466838+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:17.350279+00:00"
 }
