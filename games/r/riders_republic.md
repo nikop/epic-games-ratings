@@ -1,11 +1,11 @@
 # Riders Republic
 [Store](https://store.epicgames.com/en-US/p/riders-republic)  
 [View Rawdata](../../db/r/riders_republic.json)  
-Rating: 4.74 (Ranked 188)  
+Rating: 4.74 (Ranked 187)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,249  (Ranked 179)  
-Sum: 11,750 (Ranked 113)  
+Sum: 11,755 (Ranked 113)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -14,11 +14,11 @@ Diff (max vs sum): 66
 | This game has Quickly Understood Controls | 1,207 |
 | This game is Great for Quick Sessions | 1,205 |
 | This game is Extremely Fun | 1,202 |
+| This game has Competitive Players | 1,175 |
 | This game is Highly Recommended | 1,175 |
-| This game has Competitive Players | 1,171 |
 | This game has Diverse Characters | 1,143 |
 | This game is Educational | 1,091 |
-| This game has Amazing Storytelling | 1,086 |
+| This game has Amazing Storytelling | 1,087 |
 | This game has Amazing Characters | 1,085 |
 | This game has a Creative Community | 864 |
 | This game has Obsessive Gameplay | 164 |
@@ -642,4 +642,4 @@ Diff (max vs sum): 66
 | 2024-09-20 | 4.74 | - | 1,243 | 11,717 |
 | 2024-09-21 | 4.74 | - | 1,245 | 11,727 |
 | 2024-09-22 | 4.74 | - | 1,245 | 11,735 |
-| 2024-09-23 | 4.74 | - | 1,249 | 11,750 |
+| 2024-09-23 | 4.74 | - | 1,249 | 11,755 |

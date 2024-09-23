@@ -2,7 +2,7 @@
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
   "ProductSlug": "motogp-21",
-  "Ranking_Rating": 501,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 653,
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 95,
   "RatingHistory": [
     {
@@ -488,6 +488,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 169,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-09-23T18:59:35.4597613+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
@@ -549,8 +555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2024-09-20T22:58:54.514798+00:00",
+  "LastChanged": "2024-09-23T18:59:35.4597611+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:49.7227159+00:00",
-  "LastUpdate_Ratings": "2024-09-23T17:57:19.2850787+00:00",
+  "LastUpdate_Ratings": "2024-09-23T18:59:35.4597617+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:01.4261977+00:00"
 }
