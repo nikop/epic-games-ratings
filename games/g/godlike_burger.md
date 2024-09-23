@@ -253,8 +253,8 @@ Completed: 111 (0.02%) (Ranked 536)
 | 2024-09-14 | 449,252 | 111 |
 ## Awards
 Max (Amazing Storytelling): 21  (Ranked 709)  
-Sum: 82 (Ranked 596)  
-Diff (max vs sum): 113  
+Sum: 82 (Ranked 595)  
+Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 21 |

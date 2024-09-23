@@ -2,9 +2,9 @@
   "ID": "1c26f99d58a94ae08d094d5911ba7883",
   "Name": "Blade of God X",
   "ProductSlug": "bogx-a639f3",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 611,
+  "Ranking_PopularitySum": 610,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -199,6 +199,6 @@
   "LastChanged": "2024-09-07T16:57:30.0400331+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:58.550048+00:00",
   "LastUpdate_AppInfo": "2024-09-16T21:57:16.0734499+00:00",
-  "LastUpdate_Ratings": "2024-09-23T10:57:37.5724766+00:00",
+  "LastUpdate_Ratings": "2024-09-23T12:00:10.3639713+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:58.550051+00:00"
 }
