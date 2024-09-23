@@ -2,7 +2,7 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 910,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 110,
@@ -4485,10 +4485,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3472,
       "NumberOfAwardsMax": 351
+    },
+    {
+      "Time": "2024-09-23T04:00:20.3959198+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3473,
+      "NumberOfAwardsMax": 351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3472,
+  "NumberOfAwards": 3473,
   "NumberOfAwardsMax": 351,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -4562,7 +4568,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 284
+      "Count": 285
     },
     {
       "Text": "This game has Challenging Combat",
@@ -37008,9 +37014,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
-  "LastChanged": "2024-09-22T02:17:48.9813122+00:00",
+  "LastChanged": "2024-09-23T04:00:20.3959197+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:44.0312777+00:00",
   "LastUpdate_AppInfo": "2024-09-16T13:14:51.6235349+00:00",
-  "LastUpdate_Ratings": "2024-09-23T02:11:53.47258+00:00",
+  "LastUpdate_Ratings": "2024-09-23T04:00:20.3959203+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:44.0314692+00:00"
 }
