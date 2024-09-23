@@ -4,7 +4,7 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 1029,
   "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 446,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1135,10 +1135,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-09-22T23:59:08.0619547+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 343,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 387,
+  "NumberOfAwards": 343,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1214,8 +1220,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
-  "LastChanged": "2024-09-22T05:59:10.9470535+00:00",
+  "LastChanged": "2024-09-22T23:59:08.0619545+00:00",
   "LastUpdate_AppInfo": "2024-09-16T11:57:22.9881864+00:00",
-  "LastUpdate_Ratings": "2024-09-22T22:00:29.0195037+00:00",
+  "LastUpdate_Ratings": "2024-09-22T23:59:08.061955+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:42.2675109+00:00"
 }
