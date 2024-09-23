@@ -2,7 +2,7 @@
   "ID": "c3e63401d6ba410493de31ed69a798a1",
   "Name": "Heroes \u0026 Generals WWII",
   "ProductSlug": "heroes-and-generals-wwii",
-  "Ranking_Rating": 1100,
+  "Ranking_Rating": 1101,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 1254,
@@ -3511,6 +3511,6 @@
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
   "LastChanged": "2024-05-25T02:59:53.8288083+00:00",
   "LastUpdate_AppInfo": "2024-09-22T22:57:04.8265211+00:00",
-  "LastUpdate_Ratings": "2024-09-23T03:58:31.9913496+00:00",
+  "LastUpdate_Ratings": "2024-09-23T05:57:37.42704+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:13.2423653+00:00"
 }

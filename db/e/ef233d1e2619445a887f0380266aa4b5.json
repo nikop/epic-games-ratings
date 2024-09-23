@@ -2,7 +2,7 @@
   "ID": "ef233d1e2619445a887f0380266aa4b5",
   "Name": "My Pet Hooligan",
   "ProductSlug": "my-pet-hooligan-453949",
-  "Ranking_Rating": 621,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 700,
   "Ranking_PopularitySum": 649,
   "Ranking_EOS_Progress": 1254,
@@ -603,6 +603,6 @@
   "FirstSeenRating": "2023-10-13T04:00:02.8847941+00:00",
   "LastChanged": "2024-09-14T17:58:31.1927542+00:00",
   "LastUpdate_AppInfo": "2024-09-19T09:57:27.6427322+00:00",
-  "LastUpdate_Ratings": "2024-09-23T03:59:11.2579708+00:00",
+  "LastUpdate_Ratings": "2024-09-23T05:58:04.2540003+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:19.819162+00:00"
 }
