@@ -3,7 +3,7 @@
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
   "Ranking_Rating": 501,
-  "Ranking_Popularity": 180,
+  "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -3666,11 +3666,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 5047,
       "NumberOfAwardsMax": 1233
+    },
+    {
+      "Time": "2024-09-23T16:57:11.0223202+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 5092,
+      "NumberOfAwardsMax": 1254
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5047,
-  "NumberOfAwardsMax": 1233,
+  "NumberOfAwards": 5092,
+  "NumberOfAwardsMax": 1254,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3695,7 +3701,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1233
+      "Count": 1254
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3719,19 +3725,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 394
+      "Count": 402
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 367
+      "Count": 375
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 509
+      "Count": 517
     }
   ],
   "EOS_Progressed": 0,
@@ -3746,8 +3752,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-09-23T09:57:10.0876393+00:00",
+  "LastChanged": "2024-09-23T16:57:11.0223201+00:00",
   "LastUpdate_AppInfo": "2024-09-20T13:57:20.8135999+00:00",
-  "LastUpdate_Ratings": "2024-09-23T14:58:57.8307993+00:00",
+  "LastUpdate_Ratings": "2024-09-23T16:57:11.0223205+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:22.0015912+00:00"
 }

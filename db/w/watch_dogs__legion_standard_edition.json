@@ -2,7 +2,7 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 954,
+  "Ranking_Rating": 955,
   "Ranking_Popularity": 373,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 1254,
@@ -5633,10 +5633,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1438,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-09-23T16:57:08.1591165+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 1439,
+      "NumberOfAwardsMax": 198
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1438,
+  "NumberOfAwards": 1439,
   "NumberOfAwardsMax": 198,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5674,7 +5680,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 167
+      "Count": 168
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5712,8 +5718,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-09-21T19:58:52.238574+00:00",
+  "LastChanged": "2024-09-23T16:57:08.1591163+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:09:00.3999886+00:00",
-  "LastUpdate_Ratings": "2024-09-23T14:58:55.0784695+00:00",
+  "LastUpdate_Ratings": "2024-09-23T16:57:08.1591168+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:43.3394751+00:00"
 }
