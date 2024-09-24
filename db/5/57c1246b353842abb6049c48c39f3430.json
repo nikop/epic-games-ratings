@@ -2,7 +2,7 @@
   "ID": "57c1246b353842abb6049c48c39f3430",
   "Name": "Plants vs. Zombies\u2122: BFN Deluxe Edition",
   "ProductSlug": "plants-vs-zombies-bfn-deluxe-edition-80d6cb",
-  "Ranking_Rating": 827,
+  "Ranking_Rating": 783,
   "Ranking_Popularity": 724,
   "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 398,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2024-08-16T14:00:34.7669294+00:00",
@@ -154,6 +154,12 @@
     {
       "Time": "2024-09-20T03:03:56.1008671+00:00",
       "Rating": 4.44,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-24T03:13:06.592218+00:00",
+      "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -610,9 +616,9 @@
   "FirstSeen": "2024-05-12T13:02:54.2996314+00:00",
   "FirstSeenRating": "2024-08-16T14:00:34.766929+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:57.1363121+00:00",
-  "LastChanged": "2024-09-20T03:03:56.1008668+00:00",
+  "LastChanged": "2024-09-24T03:13:06.5922152+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:32.897587+00:00",
   "LastUpdate_AppInfo": "2024-09-20T10:57:09.072801+00:00",
-  "LastUpdate_Ratings": "2024-09-23T23:58:40.4761459+00:00",
+  "LastUpdate_Ratings": "2024-09-24T03:13:06.5922183+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:32.8976251+00:00"
 }

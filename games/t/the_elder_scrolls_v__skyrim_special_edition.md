@@ -1,10 +1,10 @@
 # The Elder Scrolls V: Skyrim Special Edition
 [Store](https://store.epicgames.com/en-US/p/skyrim)  
 [View Rawdata](../../db/t/the_elder_scrolls_v__skyrim_special_edition.json)  
-Rating: 4.86 (Ranked 29)  
+Rating: 4.86 (Ranked 30)  
 ## Awards
 Max (Character Customization): 2,391  (Ranked 130)  
-Sum: 5,679 (Ranked 166)  
+Sum: 5,683 (Ranked 166)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -15,8 +15,8 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 343 |
 | This game has Amazing Characters | 342 |
 | This game is Extremely Fun | 326 |
-| This game has a Creative Community | 297 |
-| This game has Quickly Understood Controls | 283 |
+| This game has a Creative Community | 300 |
+| This game has Quickly Understood Controls | 284 |
 | This game is Relaxing | 276 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -579,3 +579,4 @@ Diff (max vs sum): -36
 | 2024-09-21 | 4.86 | 2,383 | 5,659 |
 | 2024-09-22 | 4.86 | 2,387 | 5,673 |
 | 2024-09-23 | 4.86 | 2,391 | 5,679 |
+| 2024-09-24 | 4.86 | 2,391 | 5,683 |

@@ -2,9 +2,9 @@
   "ID": "0c40923dd1174a768f732a3b013dcff2",
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 337,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 291,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-03-30T20:57:18.2148278+00:00",
@@ -3915,10 +3915,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1600,
       "NumberOfAwardsMax": 1051
+    },
+    {
+      "Time": "2024-09-24T03:15:02.7982426+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 1652,
+      "NumberOfAwardsMax": 1051
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1600,
+  "NumberOfAwards": 1652,
   "NumberOfAwardsMax": 1051,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3992,7 +3998,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 44
+      "Count": 52
     }
   ],
   "EOS_Progressed": 0,
@@ -4007,8 +4013,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2024-09-23T22:00:20.8438147+00:00",
+  "LastChanged": "2024-09-24T03:15:02.7982424+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:14:10.9080482+00:00",
-  "LastUpdate_Ratings": "2024-09-24T00:00:33.4289314+00:00",
+  "LastUpdate_Ratings": "2024-09-24T03:15:02.7982429+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:07.3407435+00:00"
 }
