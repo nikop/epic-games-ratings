@@ -2,7 +2,7 @@
   "ID": "66a0893b7b9a42a695f0a387d64dfcc6",
   "Name": "Sable",
   "ProductSlug": "sable",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 645,
   "Ranking_Popularity": 602,
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 125,
@@ -1083,10 +1083,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 276,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-09-24T13:17:14.7466443+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 277,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 276,
+  "NumberOfAwards": 277,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1142,7 +1148,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 134368,
@@ -34144,9 +34150,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
-  "LastChanged": "2024-09-22T14:58:05.5289711+00:00",
+  "LastChanged": "2024-09-24T13:17:14.7466441+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:06.1383965+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:45.0869981+00:00",
-  "LastUpdate_Ratings": "2024-09-24T11:01:20.2006326+00:00",
+  "LastUpdate_Ratings": "2024-09-24T13:17:14.7466447+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:06.1385566+00:00"
 }

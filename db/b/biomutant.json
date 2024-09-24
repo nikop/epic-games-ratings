@@ -2,7 +2,7 @@
   "ID": "f7dc2f3c915444f1a6ba4105bc00d592",
   "Name": "BIOMUTANT",
   "ProductSlug": "biomutant",
-  "Ranking_Rating": 1000,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 405,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 309,
@@ -797,10 +797,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 209,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-09-24T13:17:30.8180716+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 210,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 209,
+  "NumberOfAwards": 210,
   "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -814,7 +820,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 56
+      "Count": 57
     }
   ],
   "EOS_Progressed": 3981,
@@ -1232,9 +1238,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:34.6090065+00:00",
   "FirstSeenAchievements": "2023-11-30T12:05:23.2186094+00:00",
-  "LastChanged": "2024-09-23T23:59:34.3889229+00:00",
+  "LastChanged": "2024-09-24T13:17:30.8180714+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:37.7331699+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:50.4013053+00:00",
-  "LastUpdate_Ratings": "2024-09-24T11:01:35.8450505+00:00",
+  "LastUpdate_Ratings": "2024-09-24T13:17:30.818072+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.7331979+00:00"
 }

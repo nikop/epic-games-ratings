@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 205,
+  "Ranking_Rating": 206,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 67,
@@ -24823,10 +24823,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 99130,
       "NumberOfAwardsMax": 43956
+    },
+    {
+      "Time": "2024-09-24T13:16:37.7235084+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 99153,
+      "NumberOfAwardsMax": 43956
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 99130,
+  "NumberOfAwards": 99153,
   "NumberOfAwardsMax": 43956,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -24852,7 +24858,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3272
+      "Count": 3281
     },
     {
       "Text": "This game is Great for Beginners",
@@ -24864,7 +24870,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3471
+      "Count": 3478
     },
     {
       "Text": "This game has Diverse Characters",
@@ -24894,7 +24900,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3211
+      "Count": 3218
     },
     {
       "Text": "This game has a Creative Community",
@@ -56035,9 +56041,9 @@
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-09-24T11:00:48.1018932+00:00",
+  "LastChanged": "2024-09-24T13:16:37.7235082+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:53.4481832+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:34.6048351+00:00",
-  "LastUpdate_Ratings": "2024-09-24T11:00:48.1018938+00:00",
+  "LastUpdate_Ratings": "2024-09-24T13:16:37.7235092+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:53.4483298+00:00"
 }

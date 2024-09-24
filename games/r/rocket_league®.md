@@ -1,7 +1,7 @@
 # Rocket League®
 [Store](https://store.epicgames.com/en-US/p/rocket-league)  
 [View Rawdata](../../db/r/rocket_league®.json)  
-Rating: 4.43 (Ranked 844)  
+Rating: 4.43 (Ranked 845)  
 Number of Ratings: 366,020  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -386,12 +386,12 @@ Completed: 3,514 (0.01%) (Ranked 559)
 | 2024-08-20 | 30,691,645 | 3,420 |
 | 2024-09-14 | 31,025,971 | 3,514 |
 ## Awards
-Max (Great for Quick Sessions): 959,830  (Ranked 2)  
-Sum: 5,662,613 (Ranked 2)  
+Max (Great for Quick Sessions): 960,456  (Ranked 2)  
+Sum: 5,663,239 (Ranked 2)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 959,830 |
+| This game is Great for Quick Sessions | 960,456 |
 | This game has Competitive Players | 830,272 |
 | This game is Extremely Fun | 728,512 |
 | This game is Highly Recommended | 690,085 |
@@ -1014,3 +1014,4 @@ Diff (max vs sum): 0
 | 2024-09-21 | 4.43 | - | 958,198 | 5,651,060 |
 | 2024-09-22 | 4.43 | - | 959,063 | 5,657,611 |
 | 2024-09-23 | 4.43 | - | 959,830 | 5,662,613 |
+| 2024-09-24 | 4.43 | - | 960,456 | 5,663,239 |

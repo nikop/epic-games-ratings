@@ -2,7 +2,7 @@
   "ID": "4756b80eb0f74d45b77922e54052cfed",
   "Name": "Mutant Year Zero: Road to Eden",
   "ProductSlug": "mutant-year-zero",
-  "Ranking_Rating": 706,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 1254,
@@ -2175,10 +2175,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1102,
       "NumberOfAwardsMax": 761
+    },
+    {
+      "Time": "2024-09-24T13:14:35.2666319+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1103,
+      "NumberOfAwardsMax": 761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1102,
+  "NumberOfAwards": 1103,
   "NumberOfAwardsMax": 761,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2198,7 +2204,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Relaxing",
@@ -2260,8 +2266,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2024-09-23T19:58:03.8450471+00:00",
+  "LastChanged": "2024-09-24T13:14:35.2666317+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:13.358794+00:00",
-  "LastUpdate_Ratings": "2024-09-24T10:58:49.4591765+00:00",
+  "LastUpdate_Ratings": "2024-09-24T13:14:35.2666326+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.8783153+00:00"
 }
