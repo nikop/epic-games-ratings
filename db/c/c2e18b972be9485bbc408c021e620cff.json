@@ -4,7 +4,7 @@
   "ProductSlug": "train-sim-world-4",
   "Ranking_Rating": 749,
   "Ranking_Popularity": 284,
-  "Ranking_PopularitySum": 278,
+  "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5239,10 +5239,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 1740,
       "NumberOfAwardsMax": 418
+    },
+    {
+      "Time": "2024-09-24T20:00:59.7599472+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 1870,
+      "NumberOfAwardsMax": 418
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1740,
+  "NumberOfAwards": 1870,
   "NumberOfAwardsMax": 418,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5304,7 +5310,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 122
+      "Count": 130
     }
   ],
   "EOS_Progressed": 0,
@@ -5327,9 +5333,9 @@
   "FirstSeen": "2023-09-26T18:02:09.8849688+00:00",
   "FirstSeenRating": "2023-09-28T19:59:46.8251254+00:00",
   "FirstSeenAchievements": "2023-08-15T22:07:16.7768201+00:00",
-  "LastChanged": "2024-09-23T16:57:56.6079104+00:00",
+  "LastChanged": "2024-09-24T20:00:59.759947+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:00.1624261+00:00",
   "LastUpdate_AppInfo": "2024-09-19T06:57:07.9103551+00:00",
-  "LastUpdate_Ratings": "2024-09-24T17:59:47.5783163+00:00",
+  "LastUpdate_Ratings": "2024-09-24T20:00:59.7599477+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:00.1624291+00:00"
 }

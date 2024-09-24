@@ -2,7 +2,7 @@
   "ID": "bf9f3925764f43fab1059c3607b3a0e6",
   "Name": "Terra Invicta",
   "ProductSlug": "terra-invicta-5bbf09",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 724,
   "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:56.4154808+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-09-19T15:58:30.1180576+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-24T19:59:41.5844438+00:00",
+      "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -53,8 +59,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-03T13:57:56.428395+00:00",
   "FirstSeenRating": "2023-03-31T05:57:56.4154806+00:00",
-  "LastChanged": "2024-09-19T15:58:30.1180574+00:00",
+  "LastChanged": "2024-09-24T19:59:41.5844436+00:00",
   "LastUpdate_AppInfo": "2024-09-22T20:57:16.808512+00:00",
-  "LastUpdate_Ratings": "2024-09-24T17:58:58.7829278+00:00",
+  "LastUpdate_Ratings": "2024-09-24T19:59:41.5844441+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:12.4193265+00:00"
 }

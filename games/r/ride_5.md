@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.67 (Ranked 315)  
+Rating: 4.67 (Ranked 314)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -214,12 +214,12 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 10,385 | 0 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 673)  
-Sum: 70 (Ranked 616)  
-Diff (max vs sum): 57  
+Sum: 72 (Ranked 613)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 27 |
-| This game has Diverse Characters | 23 |
+| This game has Diverse Characters | 25 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -310,4 +310,4 @@ Diff (max vs sum): 57
 | 2024-09-20 | 4.68 | 26 | 49 |
 | 2024-09-21 | 4.67 | 26 | 49 |
 | 2024-09-22 | 4.67 | 27 | 50 |
-| 2024-09-24 | 4.67 | 27 | 70 |
+| 2024-09-24 | 4.67 | 27 | 72 |

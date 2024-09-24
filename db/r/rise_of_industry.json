@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 1057,
   "Ranking_Popularity": 561,
-  "Ranking_PopularitySum": 517,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -769,10 +769,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 220,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-09-24T19:58:36.2161868+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 240,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 220,
+  "NumberOfAwards": 240,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -822,6 +828,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
+      "Count": 20
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
       "Count": 20
     }
   ],
@@ -33658,9 +33670,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-09-23T23:01:12.1295561+00:00",
+  "LastChanged": "2024-09-24T19:58:36.2161866+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:00.7356154+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:14.6477898+00:00",
-  "LastUpdate_Ratings": "2024-09-24T17:58:17.9222241+00:00",
+  "LastUpdate_Ratings": "2024-09-24T19:58:36.2161872+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.7357689+00:00"
 }

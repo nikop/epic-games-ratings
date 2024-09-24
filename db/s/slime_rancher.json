@@ -3,7 +3,7 @@
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
   "Ranking_Rating": 76,
-  "Ranking_Popularity": 253,
+  "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -7145,11 +7145,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 4195,
       "NumberOfAwardsMax": 613
+    },
+    {
+      "Time": "2024-09-24T19:57:51.7930528+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 4203,
+      "NumberOfAwardsMax": 617
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4195,
-  "NumberOfAwardsMax": 613,
+  "NumberOfAwards": 4203,
+  "NumberOfAwardsMax": 617,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7174,7 +7180,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 613
+      "Count": 617
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7186,7 +7192,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 461
+      "Count": 463
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7210,7 +7216,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 468
+      "Count": 470
     },
     {
       "Text": "This game has a Kind Community",
@@ -7236,8 +7242,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2024-09-24T03:57:45.9485681+00:00",
+  "LastChanged": "2024-09-24T19:57:51.7930526+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:58:03.3976854+00:00",
-  "LastUpdate_Ratings": "2024-09-24T17:57:49.7346468+00:00",
+  "LastUpdate_Ratings": "2024-09-24T19:57:51.7930532+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:54.1639425+00:00"
 }
