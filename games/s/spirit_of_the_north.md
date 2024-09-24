@@ -1,7 +1,7 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 955)  
+Rating: 4.35 (Ranked 968)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -367,3 +367,4 @@ Diff (max vs sum): 92
 | 2024-05-28 | 4.36 | - | 27 | 117 |
 | 2024-08-05 | 4.36 | - | 28 | 118 |
 | 2024-08-25 | 4.36 | - | 28 | 119 |
+| 2024-09-24 | 4.35 | - | 28 | 119 |

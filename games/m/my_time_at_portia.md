@@ -1,21 +1,21 @@
 # My Time At Portia
 [Store](https://store.epicgames.com/en-US/p/my-time-at-portia)  
 [View Rawdata](../../db/m/my_time_at_portia.json)  
-Rating: 4.67 (Ranked 316)  
+Rating: 4.67 (Ranked 315)  
 Number of Ratings: 3,894  (23.09.2022)  
 ## Awards
 Max (Character Customization): 2,479  (Ranked 127)  
-Sum: 5,440 (Ranked 168)  
+Sum: 5,442 (Ranked 168)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 2,479 |
-| This game is Great for Beginners | 345 |
+| This game is Great for Beginners | 346 |
 | This game has Easy Combat | 294 |
 | This game is Extremely Fun | 282 |
 | This game is Relaxing | 278 |
 | This game has Quickly Understood Controls | 275 |
-| This game has Amazing Storytelling | 273 |
+| This game has Amazing Storytelling | 274 |
 | This game has Amazing Characters | 272 |
 | This game is Highly Recommended | 271 |
 | This game has Diverse Characters | 258 |
@@ -451,4 +451,4 @@ Diff (max vs sum): -41
 | 2024-09-21 | 4.67 | - | 2,477 | 5,434 |
 | 2024-09-22 | 4.67 | - | 2,477 | 5,436 |
 | 2024-09-23 | 4.67 | - | 2,477 | 5,438 |
-| 2024-09-24 | 4.67 | - | 2,479 | 5,440 |
+| 2024-09-24 | 4.67 | - | 2,479 | 5,442 |
