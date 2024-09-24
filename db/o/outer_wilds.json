@@ -4,7 +4,7 @@
   "ProductSlug": "outerwilds",
   "Ranking_Rating": 8,
   "Ranking_Popularity": 681,
-  "Ranking_PopularitySum": 561,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -620,10 +620,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 132,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-24T02:09:56.2416018+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 153,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 132,
+  "NumberOfAwards": 153,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -662,6 +668,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 21
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -675,8 +687,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2024-09-23T15:58:26.1324391+00:00",
+  "LastChanged": "2024-09-24T02:09:56.2416016+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:42.6613876+00:00",
-  "LastUpdate_Ratings": "2024-09-23T22:58:38.8463422+00:00",
+  "LastUpdate_Ratings": "2024-09-24T02:09:56.2416021+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:30.522087+00:00"
 }

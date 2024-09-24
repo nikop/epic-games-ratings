@@ -3,7 +3,7 @@
   "Name": "The Binding of Isaac: Repentance",
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 12,
-  "Ranking_Popularity": 128,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 116,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -10594,10 +10594,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 11438,
       "NumberOfAwardsMax": 2422
+    },
+    {
+      "Time": "2024-09-24T02:12:34.0169827+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11447,
+      "NumberOfAwardsMax": 2422
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11438,
+  "NumberOfAwards": 11447,
   "NumberOfAwardsMax": 2422,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10605,7 +10611,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2221
+      "Count": 2224
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10629,7 +10635,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 813
+      "Count": 814
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10659,7 +10665,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 945
+      "Count": 950
     },
     {
       "Text": "This game has Unique Visuals",
@@ -10691,8 +10697,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-09-23T19:58:47.0262826+00:00",
+  "LastChanged": "2024-09-24T02:12:34.0169825+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:14.9725562+00:00",
-  "LastUpdate_Ratings": "2024-09-23T23:57:42.0621458+00:00",
+  "LastUpdate_Ratings": "2024-09-24T02:12:34.0169831+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:03.4668896+00:00"
 }
