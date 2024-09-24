@@ -4,9 +4,9 @@
 Rating: 4.69 (Ranked 271)  
 Number of Ratings: 354  (23.09.2022)  
 ## Awards
-Max (Playful Visuals): 20  (Ranked 713)  
+Max (Playful Visuals): 20  (Ranked 714)  
 Sum: 20 (Ranked 714)  
-Diff (max vs sum): -1  
+Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Playful Visuals | 20 |

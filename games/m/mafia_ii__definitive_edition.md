@@ -1,12 +1,12 @@
 # Mafia II: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-ii-definitive-edition)  
 [View Rawdata](../../db/m/mafia_ii__definitive_edition.json)  
-Rating: 4.42 (Ranked 861)  
+Rating: 4.42 (Ranked 862)  
 Number of Ratings: 1,020  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 23  (Ranked 690)  
-Sum: 43 (Ranked 650)  
-Diff (max vs sum): 40  
+Sum: 43 (Ranked 651)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 365 |
