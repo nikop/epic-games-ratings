@@ -4,7 +4,7 @@
   "ProductSlug": "barony",
   "Ranking_Rating": 172,
   "Ranking_Popularity": 390,
-  "Ranking_PopularitySum": 312,
+  "Ranking_PopularitySum": 311,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3612,10 +3612,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 1178,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-09-24T21:58:15.3057916+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1180,
+      "NumberOfAwardsMax": 174
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1178,
+  "NumberOfAwards": 1180,
   "NumberOfAwardsMax": 174,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3629,7 +3635,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 144
+      "Count": 146
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3691,8 +3697,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:54.5508638+00:00",
-  "LastChanged": "2024-09-24T19:59:30.3181901+00:00",
+  "LastChanged": "2024-09-24T21:58:15.3057914+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:55.257788+00:00",
-  "LastUpdate_Ratings": "2024-09-24T19:59:30.3181913+00:00",
+  "LastUpdate_Ratings": "2024-09-24T21:58:15.3057919+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:24.7282579+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "a8400ce7530e4479b32dcaf0e92fce57",
   "Name": "Shadowrun Returns",
   "ProductSlug": "shadowrun-returns",
-  "Ranking_Rating": 894,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 510,
   "Ranking_PopularitySum": 606,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.39,
   "NumberOfRatings": 324,
   "RatingHistory": [
     {
@@ -572,6 +572,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 76,
       "NumberOfAwardsMax": 76
+    },
+    {
+      "Time": "2024-09-24T22:00:02.2243539+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 76,
+      "NumberOfAwardsMax": 76
     }
   ],
   "ReviewsDisabled": false,
@@ -597,8 +603,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:49.5317648+00:00",
-  "LastChanged": "2024-08-29T19:57:18.238479+00:00",
+  "LastChanged": "2024-09-24T22:00:02.2243537+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:49.8034001+00:00",
-  "LastUpdate_Ratings": "2024-09-24T20:01:25.5643107+00:00",
+  "LastUpdate_Ratings": "2024-09-24T22:00:02.2243544+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:15.267411+00:00"
 }
