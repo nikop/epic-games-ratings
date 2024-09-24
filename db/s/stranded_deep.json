@@ -4411,11 +4411,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 1757,
       "NumberOfAwardsMax": 290
+    },
+    {
+      "Time": "2024-09-24T03:57:07.1134916+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1758,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1757,
-  "NumberOfAwardsMax": 290,
+  "NumberOfAwards": 1758,
+  "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -4446,7 +4452,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 290
+      "Count": 291
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4490,8 +4496,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-09-23T13:59:52.0868272+00:00",
+  "LastChanged": "2024-09-24T03:57:07.1134914+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:26.6598409+00:00",
-  "LastUpdate_Ratings": "2024-09-24T02:10:37.3560478+00:00",
+  "LastUpdate_Ratings": "2024-09-24T03:57:07.1134921+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.5192702+00:00"
 }

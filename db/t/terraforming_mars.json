@@ -4,7 +4,7 @@
   "ProductSlug": "terraforming-mars-18c3ad",
   "Ranking_Rating": 622,
   "Ranking_Popularity": 258,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 415,
   "Ranking_EOS_NewPlayers": 3,
@@ -5129,10 +5129,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 3724,
       "NumberOfAwardsMax": 586
+    },
+    {
+      "Time": "2024-09-24T03:57:25.9864045+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 3726,
+      "NumberOfAwardsMax": 586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3724,
+  "NumberOfAwards": 3726,
   "NumberOfAwardsMax": 586,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -5176,7 +5182,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 433
+      "Count": 435
     },
     {
       "Text": "This game has Amazing Characters",
@@ -37118,9 +37124,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-09-23T22:59:59.9257092+00:00",
+  "LastChanged": "2024-09-24T03:57:25.9864044+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:08.3378504+00:00",
   "LastUpdate_AppInfo": "2024-09-23T05:57:14.9972387+00:00",
-  "LastUpdate_Ratings": "2024-09-24T02:10:57.6455301+00:00",
+  "LastUpdate_Ratings": "2024-09-24T03:57:25.986405+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:08.3380272+00:00"
 }
