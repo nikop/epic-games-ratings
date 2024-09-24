@@ -1,7 +1,7 @@
 # Calico
 [Store](https://store.epicgames.com/en-US/p/calico)  
 [View Rawdata](../../db/c/calico.json)  
-Rating: 4.52 (Ranked 666)  
+Rating: 4.52 (Ranked 665)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

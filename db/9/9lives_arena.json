@@ -2,8 +2,8 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 645,
-  "Ranking_Popularity": 595,
+  "Ranking_Rating": 644,
+  "Ranking_Popularity": 596,
   "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 591,
@@ -491,10 +491,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 263,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-09-24T05:57:59.7888902+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 263,
+  "NumberOfAwards": 264,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -538,7 +544,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Competitive Players",
@@ -4253,9 +4259,9 @@
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-09-22T02:16:51.6969078+00:00",
+  "LastChanged": "2024-09-24T05:57:59.7888896+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:12.1671258+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:16.9666005+00:00",
-  "LastUpdate_Ratings": "2024-09-24T03:59:00.5215947+00:00",
+  "LastUpdate_Ratings": "2024-09-24T05:57:59.7888905+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:12.1671506+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 454,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 401,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1367,10 +1367,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 561,
       "NumberOfAwardsMax": 423
+    },
+    {
+      "Time": "2024-09-24T05:57:39.5488196+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 423
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 561,
+  "NumberOfAwards": 562,
   "NumberOfAwardsMax": 423,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1396,7 +1402,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1435,8 +1441,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-09-23T19:58:34.1441752+00:00",
+  "LastChanged": "2024-09-24T05:57:39.5488195+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:10.7190324+00:00",
-  "LastUpdate_Ratings": "2024-09-24T03:58:40.3830181+00:00",
+  "LastUpdate_Ratings": "2024-09-24T05:57:39.5488199+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:57.1927683+00:00"
 }
