@@ -47,11 +47,12 @@ Completed: 21 (0.12%) (Ranked 450)
 | 2024-09-14 | 18,172 | 21 |
 ## Awards
 Max (Great for Quick Sessions): 30  (Ranked 650)  
-Sum: 30 (Ranked 675)  
-Diff (max vs sum): -25  
+Sum: 50 (Ranked 638)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 30 |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -147,3 +148,4 @@ Diff (max vs sum): -25
 | 2024-09-09 | 4.55 | - | 30 | 30 |
 | 2024-09-10 | 4.56 | - | 30 | 30 |
 | 2024-09-19 | 4.55 | - | 30 | 30 |
+| 2024-09-24 | 4.55 | - | 30 | 50 |
