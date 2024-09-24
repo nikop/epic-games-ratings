@@ -4,7 +4,7 @@
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 132,
   "Ranking_Popularity": 126,
-  "Ranking_PopularitySum": 87,
+  "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -11119,10 +11119,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 17589,
       "NumberOfAwardsMax": 2489
+    },
+    {
+      "Time": "2024-09-24T08:58:41.2364538+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 17779,
+      "NumberOfAwardsMax": 2489
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17589,
+  "NumberOfAwards": 17779,
   "NumberOfAwardsMax": 2489,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11148,7 +11154,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1721
+      "Count": 1787
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11172,13 +11178,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1459
+      "Count": 1523
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1476
+      "Count": 1536
     },
     {
       "Text": "This game has Amazing Characters",
@@ -21791,9 +21797,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-09-24T02:11:35.9702112+00:00",
+  "LastChanged": "2024-09-24T08:58:41.2364537+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:10.427211+00:00",
   "LastUpdate_AppInfo": "2024-09-18T19:57:27.7443422+00:00",
-  "LastUpdate_Ratings": "2024-09-24T06:59:34.4584484+00:00",
+  "LastUpdate_Ratings": "2024-09-24T08:58:41.2364542+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:10.4273315+00:00"
 }
