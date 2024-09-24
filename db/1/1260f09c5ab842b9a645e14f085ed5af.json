@@ -2,9 +2,9 @@
   "ID": "1260f09c5ab842b9a645e14f085ed5af",
   "Name": "Infinifactory",
   "ProductSlug": "infinifactory-ec9686",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 324,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1458,6 +1458,6 @@
   "LastChanged": "2024-09-24T13:58:52.1118974+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:16.7633632+00:00",
   "LastUpdate_AppInfo": "2024-09-20T10:57:06.8745742+00:00",
-  "LastUpdate_Ratings": "2024-09-24T20:58:47.7265238+00:00",
+  "LastUpdate_Ratings": "2024-09-24T22:58:15.0356404+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:16.7633663+00:00"
 }
