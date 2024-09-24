@@ -4,7 +4,7 @@
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 573,
   "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 465,
+  "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1743,10 +1743,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 336,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-09-24T14:59:10.2499208+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 336,
+  "NumberOfAwards": 338,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1808,7 +1814,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 47
+      "Count": 49
     },
     {
       "Text": "This game has Unique Visuals",
@@ -24008,9 +24014,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-09-24T11:57:25.6380729+00:00",
+  "LastChanged": "2024-09-24T14:59:10.2499206+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:02.3187751+00:00",
   "LastUpdate_AppInfo": "2024-09-21T09:57:03.6028761+00:00",
-  "LastUpdate_Ratings": "2024-09-24T13:18:35.1630657+00:00",
+  "LastUpdate_Ratings": "2024-09-24T14:59:10.2499211+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:02.3188789+00:00"
 }

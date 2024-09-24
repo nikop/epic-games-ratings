@@ -396,15 +396,15 @@ Completed: 22 (0.00%) (Ranked 591)
 | 2024-08-20 | 486,369 | 22 |
 | 2024-09-14 | 487,113 | 22 |
 ## Awards
-Max (Relaxing): 6,605  (Ranked 84)  
-Sum: 52,172 (Ranked 36)  
+Max (Relaxing): 6,606  (Ranked 84)  
+Sum: 52,174 (Ranked 36)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 6,605 |
+| This game is Relaxing | 6,606 |
 | This game is Extremely Fun | 6,168 |
 | This game is Highly Recommended | 6,049 |
-| This game has Competitive Players | 6,028 |
+| This game has Competitive Players | 6,029 |
 | This game has Quickly Understood Controls | 6,022 |
 | This game is Educational | 5,994 |
 | This game has Diverse Characters | 5,848 |
@@ -997,4 +997,4 @@ Diff (max vs sum): 48
 | 2024-09-19 | 4.80 | - | 6,603 | 52,162 |
 | 2024-09-20 | 4.80 | - | 6,605 | 52,166 |
 | 2024-09-22 | 4.80 | - | 6,605 | 52,171 |
-| 2024-09-24 | 4.80 | - | 6,605 | 52,172 |
+| 2024-09-24 | 4.80 | - | 6,606 | 52,174 |
