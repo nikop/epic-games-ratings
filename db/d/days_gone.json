@@ -2,7 +2,7 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 134,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "NumberOfRatings": 3949,
   "RatingHistory": [
     {
@@ -8513,10 +8513,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 9431,
       "NumberOfAwardsMax": 5444
+    },
+    {
+      "Time": "2024-09-24T17:07:10.2177863+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 9435,
+      "NumberOfAwardsMax": 5444
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9431,
+  "NumberOfAwards": 9435,
   "NumberOfAwardsMax": 5444,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8536,7 +8542,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 439
+      "Count": 441
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8554,7 +8560,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 433
+      "Count": 435
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8604,8 +8610,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-09-24T03:14:34.475266+00:00",
+  "LastChanged": "2024-09-24T17:07:10.2177862+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:14:01.5746871+00:00",
-  "LastUpdate_Ratings": "2024-09-24T14:58:48.5215764+00:00",
+  "LastUpdate_Ratings": "2024-09-24T17:07:10.2177867+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:26.0288253+00:00"
 }
