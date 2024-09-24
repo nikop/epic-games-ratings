@@ -4,7 +4,7 @@
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 132,
   "Ranking_Popularity": 560,
-  "Ranking_PopularitySum": 490,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -911,10 +911,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 54
+    },
+    {
+      "Time": "2024-09-24T07:57:17.8039709+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 54
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 272,
   "NumberOfAwardsMax": 54,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -964,7 +970,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -985,8 +991,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-09-23T23:58:12.0098132+00:00",
+  "LastChanged": "2024-09-24T07:57:17.8039707+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:24.9415527+00:00",
-  "LastUpdate_Ratings": "2024-09-24T05:58:11.116913+00:00",
+  "LastUpdate_Ratings": "2024-09-24T07:57:17.8039713+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:48.5529519+00:00"
 }

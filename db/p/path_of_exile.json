@@ -4,7 +4,7 @@
   "ProductSlug": "path-of-exile",
   "Ranking_Rating": 427,
   "Ranking_Popularity": 115,
-  "Ranking_PopularitySum": 111,
+  "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -10739,10 +10739,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 12344,
       "NumberOfAwardsMax": 3433
+    },
+    {
+      "Time": "2024-09-24T07:57:24.389928+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 12345,
+      "NumberOfAwardsMax": 3433
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12344,
+  "NumberOfAwards": 12345,
   "NumberOfAwardsMax": 3433,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10786,7 +10792,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 784
+      "Count": 785
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10836,8 +10842,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2024-09-24T02:13:05.1735631+00:00",
+  "LastChanged": "2024-09-24T07:57:24.3899277+00:00",
   "LastUpdate_AppInfo": "2024-09-22T22:57:06.5469171+00:00",
-  "LastUpdate_Ratings": "2024-09-24T05:58:17.752097+00:00",
+  "LastUpdate_Ratings": "2024-09-24T07:57:24.3899285+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:20.5046112+00:00"
 }

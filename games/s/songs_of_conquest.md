@@ -149,7 +149,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 3,713 | 0 |
 ## Awards
 Max (Diverse Characters): 33  (Ranked 633)  
-Sum: 291 (Ranked 478)  
+Sum: 292 (Ranked 478)  
 Diff (max vs sum): 155  
 | Award | Count |
 | ----- | ----- |
@@ -162,7 +162,7 @@ Diff (max vs sum): 155
 | This game has Unique Visuals | 27 |
 | This game is Extremely Fun | 27 |
 | This game has Competitive Players | 24 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -271,3 +271,4 @@ Diff (max vs sum): 155
 | 2024-09-07 | 4.66 | - | 33 | 290 |
 | 2024-09-22 | 4.65 | - | 33 | 290 |
 | 2024-09-23 | 4.66 | - | 33 | 291 |
+| 2024-09-24 | 4.66 | - | 33 | 292 |
