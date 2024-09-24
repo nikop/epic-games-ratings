@@ -360,7 +360,7 @@ Completed: 1 (0.00%) (Ranked 591)
 | 2024-09-14 | 84,039 | 1 |
 ## Awards
 Max (Diverse Characters): 125  (Ranked 441)  
-Sum: 1,145 (Ranked 316)  
+Sum: 1,146 (Ranked 316)  
 Diff (max vs sum): 125  
 | Award | Count |
 | ----- | ----- |
@@ -375,7 +375,7 @@ Diff (max vs sum): 125
 | This game has a Competitive Community | 97 |
 | This game has Competitive Players | 95 |
 | This game is Relaxing | 92 |
-| This game has Amazing Storytelling | 75 |
+| This game has Amazing Storytelling | 76 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -673,3 +673,4 @@ Diff (max vs sum): 125
 | 2024-09-19 | 4.53 | - | 134 | 1,273 |
 | 2024-09-21 | 4.53 | - | 125 | 1,141 |
 | 2024-09-22 | 4.53 | - | 125 | 1,145 |
+| 2024-09-24 | 4.53 | - | 125 | 1,146 |
