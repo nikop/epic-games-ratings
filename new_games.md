@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | - | - |
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | - |  | - | - |
 | [Zoo 2 Animal Park](games/d/d1f3026321264e2395699cd48ca3f346.md) | 2024-09-24 | - |  | - | 0 |
 | [Eternal Rebirth -Curses of love-](games/c/c3933af60a704fb9b0b056c5fc7d55e9.md) | 2024-09-24 | - |  | - | - |
