@@ -3,9 +3,9 @@
 [View Rawdata](../../db/r/returnal™.json)  
 Rating: 4.58 (Ranked 531)  
 ## Awards
-Max (Great Boss Battles): 253  (Ranked 340)  
+Max (Great Boss Battles): 253  (Ranked 341)  
 Sum: 438 (Ranked 426)  
-Diff (max vs sum): -86  
+Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 253 |
