@@ -20,7 +20,7 @@
 | [Baby Boomer 2: 35 Years Too Soon](games/e/ec138d2df7af46d39a50c5f454c7317d.md) | 2024-08-16 | 29 (1,000 XP) | 32 | - | - |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | - |
 | [Card Clash Chronicles](games/e/eb594d29ab71410fb26280a6fedb01b6.md) | 2024-12-31 | - |  | - | - |
-| [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | 18 (1,000 XP) | 909 | - | 0 |
+| [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | 18 (1,000 XP) | 909 | 4.60 | 0 |
 | [DimonD Hunt](games/4/412632fc3f0d4a8e8294f22149e1dff1.md) | 2099-01-01 | - |  | - | - |
 | [Good Morning Human](games/8/8ac6e27f09754a8c8ddd5f443ce1a462.md) | 2024-12-31 | - |  | - | - |
 | [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | - |  | - | - |
