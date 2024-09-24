@@ -364,7 +364,7 @@ Completed: 98 (0.01%) (Ranked 559)
 | 2024-09-14 | 1,261,035 | 98 |
 ## Awards
 Max (Character Customization): 18,936  (Ranked 30)  
-Sum: 58,757 (Ranked 34)  
+Sum: 58,760 (Ranked 34)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -373,7 +373,7 @@ Diff (max vs sum): -4
 | This game is Great for Beginners | 3,752 |
 | This game has Diverse Characters | 3,394 |
 | This game is Highly Recommended | 3,168 |
-| This game has Amazing Characters | 2,978 |
+| This game has Amazing Characters | 2,981 |
 | This game has Amazing Storytelling | 2,920 |
 | This game is Extremely Fun | 2,817 |
 | This game has Quickly Understood Controls | 2,635 |
@@ -1004,4 +1004,4 @@ Diff (max vs sum): -4
 | 2024-09-21 | 4.59 | - | 18,890 | 58,590 |
 | 2024-09-22 | 4.59 | - | 18,912 | 58,665 |
 | 2024-09-23 | 4.59 | - | 18,936 | 58,752 |
-| 2024-09-24 | 4.59 | - | 18,936 | 58,757 |
+| 2024-09-24 | 4.59 | - | 18,936 | 58,760 |
