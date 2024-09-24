@@ -1,6 +1,7 @@
 # Darkblade Ascent
 [Store](https://store.epicgames.com/en-US/p/darkblade-ascent-9b6b8b)  
 [View Rawdata](../../db/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.json)  
+Rating: 4.60 (Ranked 481)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -31,3 +32,7 @@ Completed: 28 (3.08%) (Ranked 184)
 | 2024-08-09 | 394 | 7 |
 | 2024-08-20 | 508 | 8 |
 | 2024-09-14 | 909 | 28 |
+## Ratings History
+| Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
+| ---- | ------ | ---------------------- | ---------------------- |
+| 2024-09-24 | 4.60 | 0 | 0 |

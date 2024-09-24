@@ -2,9 +2,9 @@
   "ID": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "Name": "Seekers of Tokane",
   "ProductSlug": "seekers-of-tokane-a5986d",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 576,
-  "Ranking_PopularitySum": 505,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -822,10 +822,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 241,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-09-24T17:58:12.8866053+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241,
+  "NumberOfAwards": 262,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -833,7 +839,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game is Great for Beginners",
@@ -876,6 +882,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 21
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -890,8 +902,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-09-23T17:59:25.9094048+00:00",
+  "LastChanged": "2024-09-24T17:58:12.8866052+00:00",
   "LastUpdate_AppInfo": "2024-09-20T10:57:08.3674981+00:00",
-  "LastUpdate_Ratings": "2024-09-24T15:59:07.642505+00:00",
+  "LastUpdate_Ratings": "2024-09-24T17:58:12.8866058+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:29.0330964+00:00"
 }

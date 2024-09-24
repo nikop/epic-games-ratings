@@ -2,6 +2,9 @@
   "ID": "a46b9e5fc65b4adbbc35e3b6d796f4ad",
   "Name": "Darkblade Ascent",
   "ProductSlug": "darkblade-ascent-9b6b8b",
+  "Ranking_Rating": 481,
+  "Ranking_Popularity": 724,
+  "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +23,15 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.6,
+  "RatingHistory": [
+    {
+      "Time": "2024-09-24T17:58:33.0436959+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -205,9 +216,11 @@
     }
   ],
   "FirstSeen": "2024-07-23T05:59:05.9228132+00:00",
+  "FirstSeenRating": "2024-09-24T17:58:33.0436958+00:00",
   "FirstSeenAchievements": "2024-08-09T18:05:59.5782889+00:00",
+  "LastChanged": "2024-09-24T17:58:33.0436958+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:35.0189909+00:00",
   "LastUpdate_AppInfo": "2024-09-17T18:57:15.9884817+00:00",
-  "LastUpdate_Ratings": "2024-09-24T15:59:29.338597+00:00",
+  "LastUpdate_Ratings": "2024-09-24T17:58:33.0436968+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:35.0190034+00:00"
 }

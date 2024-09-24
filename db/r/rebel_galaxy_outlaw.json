@@ -2,7 +2,7 @@
   "ID": "marmoset",
   "Name": "Rebel Galaxy Outlaw",
   "ProductSlug": "rebel-galaxy-outlaw",
-  "Ranking_Rating": 845,
+  "Ranking_Rating": 846,
   "Ranking_Popularity": 724,
   "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 1254,
@@ -446,6 +446,6 @@
   "FirstSeen": "2022-07-22T20:23:57.7523989+00:00",
   "LastChanged": "2024-09-15T23:00:33.7090705+00:00",
   "LastUpdate_AppInfo": "2024-09-22T22:57:08.1646856+00:00",
-  "LastUpdate_Ratings": "2024-09-24T17:06:33.3004722+00:00",
+  "LastUpdate_Ratings": "2024-09-24T17:59:52.3499433+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:19.7133034+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 172,
   "Ranking_Popularity": 65,
-  "Ranking_PopularitySum": 70,
+  "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -21624,10 +21624,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 26252,
       "NumberOfAwardsMax": 9295
+    },
+    {
+      "Time": "2024-09-24T17:58:11.8201351+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 26254,
+      "NumberOfAwardsMax": 9295
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26252,
+  "NumberOfAwards": 26254,
   "NumberOfAwardsMax": 9295,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21665,7 +21671,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1160
+      "Count": 1162
     },
     {
       "Text": "This game has Amazing Characters",
@@ -21727,8 +21733,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-09-24T08:58:50.7266603+00:00",
+  "LastChanged": "2024-09-24T17:58:11.8201349+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:07.89758+00:00",
-  "LastUpdate_Ratings": "2024-09-24T15:59:06.5321426+00:00",
+  "LastUpdate_Ratings": "2024-09-24T17:58:11.8201355+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:05.6043493+00:00"
 }
