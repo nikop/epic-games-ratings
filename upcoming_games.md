@@ -76,6 +76,7 @@
 | [Warehouse Bots](games/1/1425a316528c444ab263d66abd3e3176.md) | 2024-11-30 | - |  | - | - |
 | [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-12-02 | 24 (1,000 XP) | 1 | - | - |
 | [Marvel Rivals](games/3/38e211ced4e448a5a653a8d1e13fef18.md) | 2024-12-06 | - |  | - | - |
+| [Legacy of Kain™ Soul Reaver 1-2 Remastered](games/4/42042b00aa674b1bab0084bf88b42776.md) | 2024-12-10 | - |  | - | - |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-12-31 | 62 (1,000 XP) | 6 | - | - |
 | [Age of Zalmoxis - Rise of the Fallen](games/3/3be7d39a69c34da7bdd5fb6db6c049df.md) | 2024-12-31 | - |  | - | - |
 | [AI Limit](games/2/2fb538cb267a4d3db252beee84659e97.md) | 2024-12-31 | - |  | - | - |
