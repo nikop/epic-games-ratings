@@ -2,7 +2,7 @@
   "ID": "58004246d72f474a957ff5f57b9684ca",
   "Name": "Cat Quest II",
   "ProductSlug": "cat-quest-ii-9dbefc",
-  "Ranking_Rating": 297,
+  "Ranking_Rating": 296,
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 80,
@@ -641,18 +641,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 224,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2024-09-25T15:58:14.1004336+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 226,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 224,
-  "NumberOfAwardsMax": 224,
+  "NumberOfAwards": 226,
+  "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 224
+      "Count": 226
     }
   ],
   "EOS_Progressed": 335983,
@@ -775,9 +781,9 @@
   "FirstSeen": "2024-05-02T17:58:17.8761313+00:00",
   "FirstSeenRating": "2024-05-04T03:58:34.2984486+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:31.1354834+00:00",
-  "LastChanged": "2024-09-23T08:59:32.4201192+00:00",
+  "LastChanged": "2024-09-25T15:58:14.1004332+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:51.6792149+00:00",
   "LastUpdate_AppInfo": "2024-09-25T06:57:07.107569+00:00",
-  "LastUpdate_Ratings": "2024-09-25T13:58:48.2233259+00:00",
+  "LastUpdate_Ratings": "2024-09-25T15:58:14.1004339+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:51.6792245+00:00"
 }
