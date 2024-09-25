@@ -2,7 +2,7 @@
   "ID": "lotus",
   "Name": "Oxygen Not Included",
   "ProductSlug": "oxygen-not-included",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 302,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 1254,
@@ -4298,11 +4298,17 @@
       "Rating": 4.83,
       "NumberOfAwards": 2782,
       "NumberOfAwardsMax": 342
+    },
+    {
+      "Time": "2024-09-25T14:58:34.3721376+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 2784,
+      "NumberOfAwardsMax": 343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2782,
-  "NumberOfAwardsMax": 342,
+  "NumberOfAwards": 2784,
+  "NumberOfAwardsMax": 343,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4315,13 +4321,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 342
+      "Count": 343
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4391,9 +4397,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.1555168+00:00",
   "FirstSeenAchievements": "2024-09-14T14:23:21.6954801+00:00",
-  "LastChanged": "2024-09-25T03:59:51.3424869+00:00",
+  "LastChanged": "2024-09-25T14:58:34.3721374+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:21.6954781+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:29.2415777+00:00",
-  "LastUpdate_Ratings": "2024-09-25T13:16:35.5150336+00:00",
+  "LastUpdate_Ratings": "2024-09-25T14:58:34.3721379+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:21.6954814+00:00"
 }

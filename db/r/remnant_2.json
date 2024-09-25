@@ -4,7 +4,7 @@
   "ProductSlug": "remnant-2",
   "Ranking_Rating": 249,
   "Ranking_Popularity": 58,
-  "Ranking_PopularitySum": 65,
+  "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 3,
@@ -16591,24 +16591,30 @@
       "Rating": 4.7,
       "NumberOfAwards": 28353,
       "NumberOfAwardsMax": 10590
+    },
+    {
+      "Time": "2024-09-25T15:00:32.9113979+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 28389,
+      "NumberOfAwardsMax": 10604
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28353,
-  "NumberOfAwardsMax": 10590,
+  "NumberOfAwards": 28389,
+  "NumberOfAwardsMax": 10604,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 10590
+      "Count": 10604
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1933
+      "Count": 1939
     },
     {
       "Text": "This game is Extremely Fun",
@@ -16656,13 +16662,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1632
+      "Count": 1637
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1780
+      "Count": 1791
     }
   ],
   "EOS_Progressed": 431437,
@@ -39834,9 +39840,9 @@
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-09-25T11:57:36.9695053+00:00",
+  "LastChanged": "2024-09-25T15:00:32.9113977+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:21.1700222+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:20.3909159+00:00",
-  "LastUpdate_Ratings": "2024-09-25T13:17:53.9270257+00:00",
+  "LastUpdate_Ratings": "2024-09-25T15:00:32.9113982+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:21.1701443+00:00"
 }
