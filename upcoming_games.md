@@ -63,7 +63,6 @@
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-11-15 | - |  | - | - |
-| [Assassin’s Creed Shadows](games/1/14a28903e3d14bd5aa3e6dbf10868126.md) | 2024-11-15 | - |  | - | - |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2024-11-20 | - |  | - | - |
 | [Forgotten Playland](games/f/f10e47423c174a2fb9e271a20ced4fd0.md) | 2024-11-30 | - |  | - | - |
 | [Hidden Oddities](games/e/e9b119f0f7e04e35a9abc86e415cc233.md) | 2024-11-30 | - |  | - | - |
@@ -176,6 +175,7 @@
 | [Skystead Ranch](games/5/5df8e058035b4f1ab1522b584a0142f3.md) | 2025-01-31 | - |  | - | - |
 | [Sid Meier's Civilization® VII](games/e/eb9cdf6dbe4b47fc8ba474017023476a.md) | 2025-02-11 | - |  | - | - |
 | [Kingdom Come: Deliverance II](games/e/e5429798296d4f78b8090f243b00cf11.md) | 2025-02-11 | - |  | - | - |
+| [Assassin’s Creed Shadows](games/1/14a28903e3d14bd5aa3e6dbf10868126.md) | 2025-02-14 | - |  | - | - |
 | [Phantom Breaker: Battle Grounds Ultimate](games/6/6a2cb8188318475e98ff8b6bc5cf3d1e.md) | 2025-02-28 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
 | [Daahrien's Active and Operational](games/a/active_and_operational.md) | 2025-03-31 | - |  | - | - |
