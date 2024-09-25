@@ -4,7 +4,7 @@
   "ProductSlug": "pillars-of-eternity",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 420,
   "Ranking_EOS_NewPlayers": 3,
@@ -5068,10 +5068,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 5186,
       "NumberOfAwardsMax": 2090
+    },
+    {
+      "Time": "2024-09-25T03:59:35.0073968+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5187,
+      "NumberOfAwardsMax": 2090
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5186,
+  "NumberOfAwards": 5187,
   "NumberOfAwardsMax": 2090,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5103,7 +5109,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 357
+      "Count": 358
     },
     {
       "Text": "This game is Relaxing",
@@ -6002,9 +6008,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2024-09-25T02:13:19.3714121+00:00",
+  "LastChanged": "2024-09-25T03:59:35.0073967+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:03.574914+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:09:01.1470608+00:00",
-  "LastUpdate_Ratings": "2024-09-25T02:13:19.3714125+00:00",
+  "LastUpdate_Ratings": "2024-09-25T03:59:35.0073972+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:03.5749445+00:00"
 }
