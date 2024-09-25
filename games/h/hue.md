@@ -1,12 +1,12 @@
 # Hue
 [Store](https://store.epicgames.com/en-US/p/hue)  
 [View Rawdata](../../db/h/hue.json)  
-Rating: 4.58 (Ranked 530)  
+Rating: 4.58 (Ranked 531)  
 Number of Ratings: 426  (23.09.2022)  
 ## Awards
-Max (Challenging Puzzles): 75  (Ranked 513)  
+Max (Challenging Puzzles): 75  (Ranked 514)  
 Sum: 75 (Ranked 609)  
-Diff (max vs sum): -96  
+Diff (max vs sum): -95  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 75 |

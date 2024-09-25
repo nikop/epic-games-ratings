@@ -3,8 +3,8 @@
   "Name": "The Machines Arena",
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 133,
-  "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 489,
+  "Ranking_Popularity": 553,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -941,11 +941,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-09-25T21:57:59.1849811+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 285,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
-  "NumberOfAwardsMax": 55,
+  "NumberOfAwards": 285,
+  "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -958,19 +964,19 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 52
+      "Count": 55
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1015,8 +1021,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-09-25T07:57:34.3717451+00:00",
+  "LastChanged": "2024-09-25T21:57:59.1849809+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:24.9415527+00:00",
-  "LastUpdate_Ratings": "2024-09-25T19:59:16.6745539+00:00",
+  "LastUpdate_Ratings": "2024-09-25T21:57:59.1849814+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:48.5529519+00:00"
 }

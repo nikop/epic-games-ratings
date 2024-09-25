@@ -2,7 +2,7 @@
   "ID": "bb2a74164b4c44d19fe2d45cb8a13edd",
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
-  "Ranking_Rating": 773,
+  "Ranking_Rating": 749,
   "Ranking_Popularity": 155,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.47,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2024-07-11T18:57:10.0452281+00:00",
@@ -2676,10 +2676,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 7450,
       "NumberOfAwardsMax": 1663
+    },
+    {
+      "Time": "2024-09-25T21:59:19.6815499+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 7459,
+      "NumberOfAwardsMax": 1663
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7450,
+  "NumberOfAwards": 7459,
   "NumberOfAwardsMax": 1663,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2723,7 +2729,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 721
+      "Count": 730
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2750,8 +2756,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-09-25T16:59:04.9094646+00:00",
+  "LastChanged": "2024-09-25T21:59:19.6815497+00:00",
   "LastUpdate_AppInfo": "2024-09-19T06:57:09.1191717+00:00",
-  "LastUpdate_Ratings": "2024-09-25T20:01:19.8499796+00:00",
+  "LastUpdate_Ratings": "2024-09-25T21:59:19.6815502+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:51.1887147+00:00"
 }

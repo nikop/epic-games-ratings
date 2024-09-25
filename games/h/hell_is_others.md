@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 913)  
+Rating: 4.38 (Ranked 931)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -689,3 +689,4 @@ Diff (max vs sum): 91
 | 2024-09-20 | 4.39 | 85 | 553 |
 | 2024-09-21 | 4.39 | 85 | 554 |
 | 2024-09-23 | 4.39 | 85 | 555 |
+| 2024-09-25 | 4.38 | 85 | 555 |
