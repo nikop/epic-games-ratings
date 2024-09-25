@@ -4446,10 +4446,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 11873,
       "NumberOfAwardsMax": 1482
+    },
+    {
+      "Time": "2024-09-25T22:58:36.4513024+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 11887,
+      "NumberOfAwardsMax": 1482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11873,
+  "NumberOfAwards": 11887,
   "NumberOfAwardsMax": 1482,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4499,7 +4505,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1004
+      "Count": 1014
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4511,7 +4517,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 884
+      "Count": 888
     },
     {
       "Text": "This game has Competitive Players",
@@ -4532,8 +4538,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-08T02:23:34.8094996+00:00",
   "FirstSeenRating": "2024-06-08T20:00:01.7971584+00:00",
-  "LastChanged": "2024-09-25T20:59:04.8490164+00:00",
+  "LastChanged": "2024-09-25T22:58:36.4513022+00:00",
   "LastUpdate_AppInfo": "2024-09-22T20:57:14.2861596+00:00",
-  "LastUpdate_Ratings": "2024-09-25T20:59:04.8490169+00:00",
+  "LastUpdate_Ratings": "2024-09-25T22:58:36.4513029+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:05.5313052+00:00"
 }
