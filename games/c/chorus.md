@@ -1,7 +1,7 @@
 # Chorus
 [Store](https://store.epicgames.com/en-US/p/chorus)  
 [View Rawdata](../../db/c/chorus.json)  
-Rating: 4.45 (Ranked 807)  
+Rating: 4.44 (Ranked 829)  
 Number of Ratings: 58  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -371,3 +371,4 @@ Diff (max vs sum): -54
 | 2024-08-03 | 4.45 | - | 38 | 38 |
 | 2024-09-08 | 4.44 | - | 38 | 38 |
 | 2024-09-23 | 4.45 | - | 38 | 38 |
+| 2024-09-25 | 4.44 | - | 38 | 38 |
