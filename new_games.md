@@ -14,7 +14,7 @@
 | [MY LOVE WITH THE GIRLSGROUP](games/7/7cd735732c34491d9495144871c57d06.md) | 2024-09-23 | - |  | - | 0 |
 | [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-09-23 | - |  | - | - |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2024-09-22 | 11 (1,000 XP) | 0 | - | 0 |
-| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | 4.56 | 0 |
+| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | 4.53 | 0 |
 | [The Karate Kid Street Rumble](games/9/945620b4eca746e0991d17d4ea450d6a.md) | 2024-09-20 | - |  | - | - |
 | [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-09-20 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 0 | - | - |
@@ -41,7 +41,7 @@
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | 51 (1,000 XP) | 8 | - | 0 |
 | [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-13 | - |  | - | 0 |
-| [Fell in love with doctors](games/e/edcd55bb56c3485484dcdd2fd78f42ae.md) | 2024-09-12 | - |  | 4.80 | 0 |
+| [Fell in love with doctors](games/e/edcd55bb56c3485484dcdd2fd78f42ae.md) | 2024-09-12 | - |  | 4.76 | 0 |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 0 | - | - |
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | 41 (1,000 XP) | 0 | - | 0 |
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | 27 (1,000 XP) | 37 | - | 0 |
@@ -101,4 +101,3 @@
 | [BIOMORPH](games/a/a63da3e34b8a46799ea1bcc4cf62c97d.md) | 2024-08-27 | 30 (1,000 XP) | 23 | - | 0 |
 | [EVERYWHERE](games/e/eddf515e12ef4159aee9962a83e8cdfb.md) | 2024-08-27 | - |  | - | - |
 | [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.62 | 0 |
-| [Abysswalkers](games/b/b8bd5380b79344c59ea92636bd103ee8.md) | 2024-08-26 | - |  | - | 0 |
