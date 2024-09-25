@@ -2,6 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 1 | - | - |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | - |
+| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | - | - |
 | [Iron Meat](games/e/efcb5d283a3841a993f0c953ba28c264.md) | 2024-09-26 | - |  | - | - |
 | [EARTH DEFENSE FORCE: WORLD BROTHERS 2](games/7/72ddb9018c6047abb75fb8c97c8e8e92.md) | 2024-09-26 | - |  | - | - |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2024-09-26 | - |  | - | - |
