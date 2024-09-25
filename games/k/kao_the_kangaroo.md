@@ -3,8 +3,8 @@
 [View Rawdata](../../db/k/kao_the_kangaroo.json)  
 Rating: 4.26 (Ranked 1,068)  
 ## Awards
-Max (Highly Recommended): 20  (Ranked 714)  
-Sum: 20 (Ranked 714)  
+Max (Highly Recommended): 20  (Ranked 715)  
+Sum: 20 (Ranked 715)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |

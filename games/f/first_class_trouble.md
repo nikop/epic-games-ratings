@@ -4,14 +4,14 @@
 Rating: 4.46 (Ranked 785)  
 ## Awards
 Max (Great for Quick Sessions): 171  (Ranked 394)  
-Sum: 916 (Ranked 343)  
+Sum: 917 (Ranked 343)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 171 |
 | This game is Great for Beginners | 157 |
 | This game is Highly Recommended | 114 |
-| This game has Quickly Understood Controls | 100 |
+| This game has Quickly Understood Controls | 101 |
 | This game has Amazing Storytelling | 100 |
 | This game is Extremely Fun | 98 |
 | This game has Amazing Characters | 90 |
@@ -292,3 +292,4 @@ Diff (max vs sum): 51
 | 2024-09-18 | 4.46 | 170 | 912 |
 | 2024-09-19 | 4.47 | 170 | 913 |
 | 2024-09-22 | 4.46 | 171 | 916 |
+| 2024-09-25 | 4.46 | 171 | 917 |

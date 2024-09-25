@@ -3,8 +3,8 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_Rating": 913,
-  "Ranking_Popularity": 724,
-  "Ranking_PopularitySum": 724,
+  "Ranking_Popularity": 725,
+  "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18035,6 +18035,6 @@
   "LastChanged": "2024-08-15T02:58:32.189765+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:42.8237328+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:33.452961+00:00",
-  "LastUpdate_Ratings": "2024-09-25T05:58:53.1765402+00:00",
+  "LastUpdate_Ratings": "2024-09-25T07:57:52.6063111+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:42.8238168+00:00"
 }
