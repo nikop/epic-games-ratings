@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | - |
+| [Exographer](games/8/8cbdeae1e8b24e809cc445974e872f25.md) | 2024-09-26 | - |  | - | - |
 | [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | - | - |
 | [Iron Meat](games/e/efcb5d283a3841a993f0c953ba28c264.md) | 2024-09-26 | - |  | - | - |
 | [EARTH DEFENSE FORCE: WORLD BROTHERS 2](games/7/72ddb9018c6047abb75fb8c97c8e8e92.md) | 2024-09-26 | - |  | - | - |
@@ -17,7 +18,6 @@
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
 | [Epsylon](games/4/4b9bf181ec404f99bf552046c6b25ca0.md) | 2024-09-30 | - |  | - | - |
-| [Exographer](games/8/8cbdeae1e8b24e809cc445974e872f25.md) | 2024-09-30 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
 | [Honeycomb: The World Beyond](games/b/bedc86bbe4e6422e8216541921e4fd10.md) | 2024-09-30 | - |  | - | - |
 | [House Flipper 2](games/a/ac30e82169df47d88b8517c36ee5e916.md) | 2024-09-30 | - |  | - | - |
