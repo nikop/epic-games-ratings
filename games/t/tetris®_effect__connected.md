@@ -4,13 +4,13 @@
 Rating: 4.86 (Ranked 30)  
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 71  (Ranked 520)  
-Sum: 495 (Ranked 412)  
-Diff (max vs sum): 108  
+Max (Great for Beginners): 72  (Ranked 519)  
+Sum: 496 (Ranked 412)  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 194 |
-| This game is Great for Beginners | 71 |
+| This game is Great for Beginners | 72 |
 | This game is Great for Quick Sessions | 63 |
 | This game is Extremely Fun | 56 |
 | This game is Highly Recommended | 55 |
@@ -249,3 +249,4 @@ Diff (max vs sum): 108
 | 2024-09-20 | 4.86 | - | 70 | 492 |
 | 2024-09-22 | 4.86 | - | 71 | 493 |
 | 2024-09-23 | 4.86 | - | 71 | 495 |
+| 2024-09-25 | 4.86 | - | 72 | 496 |

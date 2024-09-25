@@ -3,7 +3,7 @@
   "Name": "Tetris\u00AE Effect: Connected",
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 520,
+  "Ranking_Popularity": 519,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -1680,11 +1680,17 @@
       "Rating": 4.86,
       "NumberOfAwards": 495,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2024-09-25T05:58:48.0446192+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 496,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 495,
-  "NumberOfAwardsMax": 71,
+  "NumberOfAwards": 496,
+  "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1757,7 +1763,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 71
+      "Count": 72
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1777,8 +1783,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-09-23T19:59:23.8612793+00:00",
+  "LastChanged": "2024-09-25T05:58:48.0446191+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:32.4406119+00:00",
-  "LastUpdate_Ratings": "2024-09-25T04:00:00.0786451+00:00",
+  "LastUpdate_Ratings": "2024-09-25T05:58:48.0446195+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:11.1502638+00:00"
 }
