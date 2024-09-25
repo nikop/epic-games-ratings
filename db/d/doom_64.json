@@ -2,7 +2,7 @@
   "ID": "0ea70edafcc54b3191e262bbb6971981",
   "Name": "DOOM 64",
   "ProductSlug": "doom-64",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 1254,
@@ -1529,10 +1529,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1740,
       "NumberOfAwardsMax": 1352
+    },
+    {
+      "Time": "2024-09-25T02:12:05.2721108+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1741,
+      "NumberOfAwardsMax": 1352
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1740,
+  "NumberOfAwards": 1741,
   "NumberOfAwardsMax": 1352,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1552,7 +1558,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 46
+      "Count": 47
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1621,8 +1627,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "LastChanged": "2024-09-24T02:11:37.4238339+00:00",
+  "LastChanged": "2024-09-25T02:12:05.2721106+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:45.2752888+00:00",
-  "LastUpdate_Ratings": "2024-09-24T22:59:35.4747718+00:00",
+  "LastUpdate_Ratings": "2024-09-25T02:12:05.2721111+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:41.6411359+00:00"
 }

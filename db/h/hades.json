@@ -2,7 +2,7 @@
   "ID": "min",
   "Name": "Hades",
   "ProductSlug": "hades",
-  "Ranking_Rating": 4,
+  "Ranking_Rating": 5,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 118,
   "Ranking_EOS_Progress": 32,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.92,
+  "Rating": 4.91,
   "NumberOfRatings": 6336,
   "RatingHistory": [
     {
@@ -11048,10 +11048,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 10960,
       "NumberOfAwardsMax": 4338
+    },
+    {
+      "Time": "2024-09-25T02:12:01.4252512+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 10963,
+      "NumberOfAwardsMax": 4338
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10960,
+  "NumberOfAwards": 10963,
   "NumberOfAwardsMax": 4338,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11137,7 +11143,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 378
+      "Count": 381
     },
     {
       "Text": "This game is Educational",
@@ -42659,9 +42665,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-09-24T15:58:56.1803172+00:00",
+  "LastChanged": "2024-09-25T02:12:01.425251+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:05.3782962+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:58:07.8967106+00:00",
-  "LastUpdate_Ratings": "2024-09-24T22:59:32.0756204+00:00",
+  "LastUpdate_Ratings": "2024-09-25T02:12:01.4252516+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:05.3784753+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pillars-of-eternity",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 172,
+  "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 420,
   "Ranking_EOS_NewPlayers": 3,
@@ -5062,10 +5062,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 5185,
       "NumberOfAwardsMax": 2090
+    },
+    {
+      "Time": "2024-09-25T02:13:19.3714123+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5186,
+      "NumberOfAwardsMax": 2090
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5185,
+  "NumberOfAwards": 5186,
   "NumberOfAwardsMax": 2090,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5121,7 +5127,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 353
+      "Count": 354
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5996,9 +6002,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2024-09-24T16:00:05.7044337+00:00",
+  "LastChanged": "2024-09-25T02:13:19.3714121+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:03.574914+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:09:01.1470608+00:00",
-  "LastUpdate_Ratings": "2024-09-24T23:57:12.1611549+00:00",
+  "LastUpdate_Ratings": "2024-09-25T02:13:19.3714125+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:03.5749445+00:00"
 }

@@ -1,7 +1,7 @@
 # System Shock
 [Store](https://store.epicgames.com/en-US/p/system-shock)  
 [View Rawdata](../../db/s/system_shock.json)  
-Rating: 4.61 (Ranked 455)  
+Rating: 4.62 (Ranked 429)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -130,3 +130,4 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-06 | 4.61 | 0 | 0 |
 | 2024-09-08 | 4.60 | 0 | 0 |
 | 2024-09-20 | 4.61 | 0 | 0 |
+| 2024-09-25 | 4.62 | 0 | 0 |
