@@ -1,12 +1,12 @@
 # God's Trigger
 [Store](https://store.epicgames.com/en-US/p/gods-trigger)  
 [View Rawdata](../../db/g/god's_trigger.json)  
-Rating: 4.16 (Ranked 1,171)  
+Rating: 4.16 (Ranked 1,173)  
 Number of Ratings: 114  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 654)  
-Sum: 29 (Ranked 677)  
-Diff (max vs sum): -23  
+Sum: 29 (Ranked 678)  
+Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 29 |

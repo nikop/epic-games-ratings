@@ -3,7 +3,7 @@
   "Name": "Metro 2033 Redux",
   "ProductSlug": "metro-2033-redux",
   "Ranking_Rating": 296,
-  "Ranking_Popularity": 165,
+  "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -2195,10 +2195,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1674,
       "NumberOfAwardsMax": 1453
+    },
+    {
+      "Time": "2024-09-25T18:57:33.2428705+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1675,
+      "NumberOfAwardsMax": 1453
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1674,
+  "NumberOfAwards": 1675,
   "NumberOfAwardsMax": 1453,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2248,7 +2254,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -2280,8 +2286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
-  "LastChanged": "2024-09-25T16:58:44.7652968+00:00",
+  "LastChanged": "2024-09-25T18:57:33.2428703+00:00",
   "LastUpdate_AppInfo": "2024-09-22T22:57:08.6759198+00:00",
-  "LastUpdate_Ratings": "2024-09-25T16:58:44.765301+00:00",
+  "LastUpdate_Ratings": "2024-09-25T18:57:33.2428708+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:19.9683185+00:00"
 }
