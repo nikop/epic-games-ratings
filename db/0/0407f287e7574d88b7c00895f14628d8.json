@@ -2,7 +2,7 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_Rating": 931,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 421,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2024-09-16T14:02:13.9605051+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-09-23T16:58:15.4765503+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-25T16:58:34.9904046+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1537,9 +1543,9 @@
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenRating": "2024-09-16T14:02:13.9605048+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged": "2024-09-23T16:58:15.4765477+00:00",
+  "LastChanged": "2024-09-25T16:58:34.9904044+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:44.6939989+00:00",
   "LastUpdate_AppInfo": "2024-09-19T06:57:08.4433482+00:00",
-  "LastUpdate_Ratings": "2024-09-25T14:59:45.9202012+00:00",
+  "LastUpdate_Ratings": "2024-09-25T16:58:34.990405+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:44.6940416+00:00"
 }
