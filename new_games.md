@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | - |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 1 | - | - |
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | - |
 | [Ductz](games/1/10a2adbb3abf4533a5009de9b44c2f93.md) | 2024-09-25 | - |  | - | - |
@@ -100,4 +101,4 @@
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
 | [BIOMORPH](games/a/a63da3e34b8a46799ea1bcc4cf62c97d.md) | 2024-08-27 | 30 (1,000 XP) | 23 | - | 0 |
 | [EVERYWHERE](games/e/eddf515e12ef4159aee9962a83e8cdfb.md) | 2024-08-27 | - |  | - | - |
-| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.62 | 0 |
+| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.64 | 0 |

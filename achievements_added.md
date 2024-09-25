@@ -48,7 +48,7 @@
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | 51 (1,000 XP) | 8 | - | 0 |
 | [Zen Chess: Champion's Moves](games/4/4214b36dc2434f0aa0a3210aa0f6ad91.md) | 2024-08-22 | 15 (1,000 XP) | 29 | - | 0 |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | 5 (1,000 XP) | 33 | - | - |
-| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.62 | 0 |
+| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.64 | 0 |
 | [ZELENSTROY](games/f/f8cdddb2e147402c89c8565a9276b148.md) | 2024-08-21 | 5 (1,000 XP) | 5 | - | - |
 | [Shelter: An Animal Adventure](games/3/380c783528fb4ec58069229a29c71802.md) | 2024-09-12 | 15 (1,000 XP) | 1 | - | - |
 | [Shelter: An Elephant Adventure](games/0/08970d9237b0458d92c1ee36bd3dbee3.md) | 2099-01-01 | 7 (1,000 XP) | 0 | - | - |
@@ -188,7 +188,7 @@
 | [Hauntii](games/9/9f16c280679749e8ab6179f64e005a37.md) | 2024-07-17 | 40 (1,000 XP) | 6 | - | 0 |
 | [Freshly Frosted](games/f/freshly_frosted.md) | 2022-06-10 | 78 (1,000 XP) | 93,707 | 4.56 | 106 |
 | [Smelogs Playground](games/1/16e5cbb017bc4cc8a304791d27ed982c.md) | 2024-04-25 | 31 (1,000 XP) | 770 | - | 0 |
-| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,130 | 4.65 | 39 |
+| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,130 | 4.65 | 41 |
 | [Wizened Dream](games/3/3b5e4301fa6c47c0b139115468ea6088.md) | 2024-02-17 | 11 (1,000 XP) | 216 | - | 0 |
 | [Arranger: A Role-Puzzling Adventure](games/2/2df8b055a5674c8e9211fc51f8efd210.md) | 2024-07-25 | 36 (1,000 XP) | 22 | - | 0 |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | 12 (1,000 XP) | 2 | - | 0 |
@@ -224,7 +224,7 @@
 | [Knight's Retreat](games/a/ada1e59de1dc499bb992074863a3d85a.md) | 2024-06-13 | 8 (1,000 XP) | 19 | - | 0 |
 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 2024-04-18 | 440 (3,000 XP) | 144,434 | 4.51 | 133 |
 | [HyperRogue](games/e/e11032a0439743babf7f530e4e747145.md) | 2024-06-17 | 308 (2,135 XP) | 1 | - | - |
-| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 335,983 | 4.68 | 224 |
+| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 335,983 | 4.68 | 226 |
 | [Zen Chess: Mate in One](games/c/c5c4671e21c14f20a82078ee4d7a6bd3.md) | 2024-06-06 | 30 (1,000 XP) | 276 | - | 0 |
 | [Olympics Go! Paris 2024](games/f/fe3e06d17d13402388cccfa984de6041.md) | 2024-06-11 | 37 (1,000 XP) | 89,073 | 3.60 | 53 |
 | [OLD SKOOL RACER](games/8/8d617ef953bf4147b3b507f33e2a7299.md) | 2024-04-10 | 8 (1,000 XP) | 8 | - | - |
@@ -716,7 +716,7 @@
 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 2023-09-22 | 5 (1,000 XP) | 39 | - | 0 |
 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2022-07-12 | 35 (1,000 XP) | 116 | - | 0 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,609 | - | 0 |
-| [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 8,746 | 4.40 | 0 |
+| [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 8,746 | 4.38 | 0 |
 | [ALAN-13 Reformation](games/f/f514ca89c14c49858748fd9569d35d52.md) | 2023-09-21 | 9 (1,000 XP) | 9 | - | 0 |
 | [CubeGate](games/6/60ec54354d8b4e45a826f3f90a515c75.md) | 2023-09-21 | 21 (1,000 XP) | 1 | - | - |
 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 2023-09-14 | 18 (1,000 XP) | 596,729 | 4.32 | 33 |

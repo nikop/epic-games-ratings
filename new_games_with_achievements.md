@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | - |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 1 | - | - |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2024-09-22 | 11 (1,000 XP) | 0 | - | 0 |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 0 | - | - |
@@ -45,4 +46,4 @@
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 332 | 4.76 | 0 |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
 | [BIOMORPH](games/a/a63da3e34b8a46799ea1bcc4cf62c97d.md) | 2024-08-27 | 30 (1,000 XP) | 23 | - | 0 |
-| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.62 | 0 |
+| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.64 | 0 |

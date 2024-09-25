@@ -80,7 +80,7 @@
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 332 | 4.76 | 0 |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
 | [BIOMORPH](games/a/a63da3e34b8a46799ea1bcc4cf62c97d.md) | 2024-08-27 | 30 (1,000 XP) | 23 | - | 0 |
-| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.62 | 0 |
+| [Core Keeper](games/5/586fb0aed71e484684b249c534506442.md) | 2024-08-27 | 46 (1,000 XP) | 0 | 4.64 | 0 |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | 26 (1,000 XP) | 29 | - | 0 |
 | [SPGP](games/a/ab566a024224474b8d4a4042d1d140df.md) | 2024-08-26 | 32 (1,000 XP) | 4 | - | - |
 | [Survivor Cells](games/7/70c9878f9bba4601947f79fdf2f8df03.md) | 2024-08-23 | 100 (1,000 XP) | 31 | - | 0 |
@@ -231,7 +231,7 @@
 | [Chronique des Silencieux](games/b/b2c22846c4d6454cb73a5cbf5625d76a.md) | 2024-06-05 | 13 (1,000 XP) | 4 | - | - |
 | [Fireside](games/2/206c851f04544725af8abb022128dd0d.md) | 2024-06-04 | 44 (1,000 XP) | 17 | - | 0 |
 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 2024-06-03 | 33 (1,000 XP) | 28,728 | 3.77 | 0 |
-| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,130 | 4.65 | 39 |
+| [F1® 24](games/e/edffc5fcc62140a7afd239d9e65df463.md) | 2024-05-31 | 50 (1,000 XP) | 3,130 | 4.65 | 41 |
 | [Cyberpunk SFX](games/7/7a0721af1f89440ba190a2c1eb2a1378.md) | 2024-05-31 | 5 (1,000 XP) | 41 | - | 0 |
 | [Doodle Mafia](games/5/54ee5f520a0348ffb8a1878e7a40bb48.md) | 2024-05-31 | 14 (1,000 XP) | 22 | - | 0 |
 | [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
@@ -287,7 +287,7 @@
 | [Space Accident](games/1/18efd480ed4549688383b6036df07bc2.md) | 2024-05-03 | 5 (1,000 XP) | 49 | - | 0 |
 | [Crowded Mysteries](games/5/53eee523face4bcfb716fe0caf9c67b0.md) | 2024-05-02 | 19 (1,000 XP) | 21 | - | 0 |
 | [Hidden Shapes - Cat Realm](games/2/24ca9ace6b504caa9417f0802c3e67ec.md) | 2024-05-02 | 42 (1,000 XP) | 45 | - | 0 |
-| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 335,983 | 4.68 | 224 |
+| [Cat Quest II](games/5/58004246d72f474a957ff5f57b9684ca.md) | 2024-05-02 | 9 (1,000 XP) | 335,983 | 4.68 | 226 |
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 526,510 | 4.55 | 1,474 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | 50 (1,000 XP) | 1 | - | 0 |
 | [Surmount](games/d/d3f8b5fc530c4445824813a1366a25d3.md) | 2024-05-02 | 15 (1,000 XP) | 4 | - | 0 |
@@ -668,7 +668,7 @@
 | [Batora: Lost Haven](games/c/c609e63aa7f44e55835f51df979ee6b8.md) | 2023-09-12 | 30 (1,000 XP) | 84 | - | 0 |
 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 2023-09-12 | 26 (1,000 XP) | 187 | - | 0 |
 | [Backrooms: Realm of Shadows](games/b/b5067143ff63434e9c902de3ffd197f6.md) | 2023-09-12 | 24 (1,000 XP) | 21,491 | - | 0 |
-| [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 8,746 | 4.40 | 0 |
+| [Eternights](games/e/eternights.md) | 2023-09-12 | 25 (1,000 XP) | 8,746 | 4.38 | 0 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-10 | 14 (1,000 XP) | 847 | - | 0 |
 | [Geometric Sniper - Z](games/7/706577b22cbb4ab38611e2c97e03a800.md) | 2023-09-08 | 50 (1,000 XP) | 244 | - | 0 |
 | [Fae Farm](games/0/013ca9b88fa34b21b2de7fdbfcfc843b.md) | 2023-09-08 | 51 (1,600 XP) | 11,290 | 4.63 | 39 |
