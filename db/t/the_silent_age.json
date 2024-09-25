@@ -2,7 +2,7 @@
   "ID": "46d340566781448ebdc2cb576f91d3b6",
   "Name": "The Silent Age",
   "ProductSlug": "the-silent-age-eb6972",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 1254,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 29,
   "RatingHistory": [
     {
@@ -448,6 +448,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-25T20:59:07.8544886+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -466,8 +472,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:31.9753367+00:00",
   "FirstSeenRating": "2022-08-05T17:31:55.1060737+00:00",
-  "LastChanged": "2024-09-23T19:57:13.031242+00:00",
+  "LastChanged": "2024-09-25T20:59:07.8544884+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:56.3469979+00:00",
-  "LastUpdate_Ratings": "2024-09-25T19:00:04.4539415+00:00",
+  "LastUpdate_Ratings": "2024-09-25T20:59:07.8544888+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:16.8314787+00:00"
 }
