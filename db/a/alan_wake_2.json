@@ -2,7 +2,7 @@
   "ID": "c4763f236d08423eb47b4c3008779c84",
   "Name": "Alan Wake 2",
   "ProductSlug": "alan-wake-2",
-  "Ranking_Rating": 95,
+  "Ranking_Rating": 96,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 61,
@@ -8659,10 +8659,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 8595,
       "NumberOfAwardsMax": 1478
+    },
+    {
+      "Time": "2024-09-25T11:59:18.4812728+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 8600,
+      "NumberOfAwardsMax": 1478
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8595,
+  "NumberOfAwards": 8600,
   "NumberOfAwardsMax": 1478,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -8706,7 +8712,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1311
+      "Count": 1316
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -21194,9 +21200,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-09-24T20:59:07.1995811+00:00",
+  "LastChanged": "2024-09-25T11:59:18.4812726+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:13.6489009+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:53.4202866+00:00",
-  "LastUpdate_Ratings": "2024-09-25T09:59:50.4182086+00:00",
+  "LastUpdate_Ratings": "2024-09-25T11:59:18.4812732+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:13.6490315+00:00"
 }
