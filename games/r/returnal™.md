@@ -1,11 +1,11 @@
 # Returnal™
 [Store](https://store.epicgames.com/en-US/p/returnal)  
 [View Rawdata](../../db/r/returnal™.json)  
-Rating: 4.58 (Ranked 530)  
+Rating: 4.58 (Ranked 531)  
 ## Awards
 Max (Great Boss Battles): 254  (Ranked 341)  
-Sum: 439 (Ranked 426)  
-Diff (max vs sum): -85  
+Sum: 439 (Ranked 427)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 254 |
