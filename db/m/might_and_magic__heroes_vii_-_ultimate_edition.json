@@ -3,7 +3,7 @@
   "Name": "Might and Magic: Heroes VII - Ultimate Edition",
   "ProductSlug": "might-and-magic-heroes-7",
   "Ranking_Rating": 785,
-  "Ranking_Popularity": 544,
+  "Ranking_Popularity": 542,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -1666,11 +1666,17 @@
       "Rating": 4.46,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-09-25T23:59:00.0421054+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 367,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
-  "NumberOfAwardsMax": 61,
+  "NumberOfAwards": 367,
+  "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1689,7 +1695,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1733,8 +1739,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:09.0043612+00:00",
-  "LastChanged": "2024-09-24T11:57:39.9385805+00:00",
+  "LastChanged": "2024-09-25T23:59:00.0421052+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:24.5051498+00:00",
-  "LastUpdate_Ratings": "2024-09-25T21:59:48.2816213+00:00",
+  "LastUpdate_Ratings": "2024-09-25T23:59:00.0421058+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:36.0781027+00:00"
 }
