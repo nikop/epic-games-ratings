@@ -1,7 +1,7 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 267)  
+Rating: 4.69 (Ranked 268)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -349,12 +349,12 @@ Completed: 84 (0.01%) (Ranked 559)
 | 2024-08-20 | 681,950 | 84 |
 | 2024-09-14 | 684,847 | 84 |
 ## Awards
-Max (Great Boss Battles): 741  (Ranked 238)  
-Sum: 1,042 (Ranked 328)  
-Diff (max vs sum): -90  
+Max (Great Boss Battles): 742  (Ranked 238)  
+Sum: 1,043 (Ranked 327)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 741 |
+| This game has Great Boss Battles | 742 |
 | This game is Great for Beginners | 47 |
 | This game is Great for Quick Sessions | 46 |
 | This game is Highly Recommended | 42 |
@@ -693,4 +693,4 @@ Diff (max vs sum): -90
 | 2024-09-22 | 4.69 | 738 | 1,036 |
 | 2024-09-23 | 4.69 | 739 | 1,038 |
 | 2024-09-24 | 4.69 | 741 | 1,041 |
-| 2024-09-26 | 4.69 | 741 | 1,042 |
+| 2024-09-26 | 4.69 | 742 | 1,043 |

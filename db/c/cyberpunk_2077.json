@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 267,
+  "Ranking_Rating": 268,
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 23,
@@ -30132,10 +30132,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 715091,
       "NumberOfAwardsMax": 178715
+    },
+    {
+      "Time": "2024-09-26T13:16:50.1735869+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 715236,
+      "NumberOfAwardsMax": 178715
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 715091,
+  "NumberOfAwards": 715236,
   "NumberOfAwardsMax": 178715,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -30149,7 +30155,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 140200
+      "Count": 140298
     },
     {
       "Text": "This game has Diverse Characters",
@@ -30197,7 +30203,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 44602
+      "Count": 44649
     },
     {
       "Text": "This game is Extremely Fun",
@@ -63156,9 +63162,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-09-26T07:59:37.5547948+00:00",
+  "LastChanged": "2024-09-26T13:16:50.1735867+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:39.0844381+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:13:58.5346922+00:00",
-  "LastUpdate_Ratings": "2024-09-26T11:01:32.4446555+00:00",
+  "LastUpdate_Ratings": "2024-09-26T13:16:50.1735871+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:39.0846528+00:00"
 }

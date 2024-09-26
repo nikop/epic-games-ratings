@@ -4,7 +4,7 @@
   "ProductSlug": "faeria",
   "Ranking_Rating": 830,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 423,
+  "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1293,10 +1293,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 460,
       "NumberOfAwardsMax": 127
+    },
+    {
+      "Time": "2024-09-26T13:16:38.3791478+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 127
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 460,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 127,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1364,7 +1370,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 45
+      "Count": 48
     }
   ],
   "EOS_Progressed": 0,
@@ -1378,8 +1384,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.9455282+00:00",
-  "LastChanged": "2024-09-21T23:57:58.4577197+00:00",
+  "LastChanged": "2024-09-26T13:16:38.3791476+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:12.2232742+00:00",
-  "LastUpdate_Ratings": "2024-09-26T11:01:15.1432192+00:00",
+  "LastUpdate_Ratings": "2024-09-26T13:16:38.3791482+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:56.8998294+00:00"
 }
