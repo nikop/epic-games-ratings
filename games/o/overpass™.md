@@ -1,7 +1,7 @@
 # OVERPASS™
 [Store](https://store.epicgames.com/en-US/p/overpass)  
 [View Rawdata](../../db/o/overpass™.json)  
-Rating: 4.28 (Ranked 1,048)  
+Rating: 4.30 (Ranked 1,027)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.28 (Ranked 1,048)
 | 2023-10-23 | 4.22 | 0 | 0 |
 | 2023-11-01 | 4.25 | 0 | 0 |
 | 2023-11-13 | 4.28 | 0 | 0 |
+| 2024-09-26 | 4.30 | 0 | 0 |

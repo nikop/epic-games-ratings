@@ -4,7 +4,7 @@
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 647,
   "Ranking_Popularity": 270,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 3,
@@ -1618,10 +1618,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 856,
       "NumberOfAwardsMax": 497
+    },
+    {
+      "Time": "2024-09-26T16:57:30.1759995+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 876,
+      "NumberOfAwardsMax": 497
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 856,
+  "NumberOfAwards": 876,
   "NumberOfAwardsMax": 497,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1660,6 +1666,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 13105,
@@ -2109,9 +2121,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:20.4320902+00:00",
-  "LastChanged": "2024-09-26T13:16:03.4931324+00:00",
+  "LastChanged": "2024-09-26T16:57:30.1759993+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:09.117238+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:28.0378615+00:00",
-  "LastUpdate_Ratings": "2024-09-26T14:57:51.473063+00:00",
+  "LastUpdate_Ratings": "2024-09-26T16:57:30.1759998+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:09.1172692+00:00"
 }

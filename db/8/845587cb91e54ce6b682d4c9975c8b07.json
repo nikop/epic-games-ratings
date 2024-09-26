@@ -3,8 +3,8 @@
   "Name": "FINAL FANTASY XVI",
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 217,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 579,
+  "Ranking_Popularity": 440,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -223,30 +223,42 @@
       "Rating": 4.72,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 90
+    },
+    {
+      "Time": "2024-09-26T16:59:08.5443737+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 274,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
-  "NumberOfAwardsMax": 90,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 274,
+  "NumberOfAwardsMax": 128,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 70
+      "Count": 128
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 90
+      "Count": 105
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 20
+    },
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 532,
@@ -835,9 +847,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-09-26T13:57:17.7048156+00:00",
+  "LastChanged": "2024-09-26T16:59:08.5443735+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-23T18:57:02.8972277+00:00",
-  "LastUpdate_Ratings": "2024-09-26T14:59:30.5234864+00:00",
+  "LastUpdate_Ratings": "2024-09-26T16:59:08.5443739+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }
