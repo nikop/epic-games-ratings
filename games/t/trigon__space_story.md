@@ -1,7 +1,7 @@
 # Trigon: Space Story
 [Store](https://store.epicgames.com/en-US/p/trigon-ce1936)  
 [View Rawdata](../../db/t/trigon__space_story.json)  
-Rating: 4.23 (Ranked 1,102)  
+Rating: 4.24 (Ranked 1,089)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -56,3 +56,4 @@ Number of Ratings: 38  (23.09.2022)
 | 2024-07-06 | 4.21 | - | 0 | 0 |
 | 2024-08-11 | 4.22 | - | 0 | 0 |
 | 2024-08-25 | 4.23 | - | 0 | 0 |
+| 2024-09-26 | 4.24 | - | 0 | 0 |

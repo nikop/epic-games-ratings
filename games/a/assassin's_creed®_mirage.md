@@ -3,9 +3,9 @@
 [View Rawdata](../../db/a/assassin's_creed®_mirage.json)  
 Rating: 4.43 (Ranked 846)  
 ## Awards
-Max (Great for Beginners): 420  (Ranked 283)  
+Max (Great for Beginners): 420  (Ranked 284)  
 Sum: 3,338 (Ranked 215)  
-Diff (max vs sum): 68  
+Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 420 |
