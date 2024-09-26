@@ -2,9 +2,9 @@
   "ID": "f3867695344144dc920630264c4dd678",
   "Name": "Doomsday Last Survivors",
   "ProductSlug": "doomsday-last-survivors-024df3",
-  "Ranking_Rating": 1170,
-  "Ranking_Popularity": 375,
-  "Ranking_PopularitySum": 405,
+  "Ranking_Rating": 1169,
+  "Ranking_Popularity": 372,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2543,11 +2543,17 @@
       "Rating": 4.16,
       "NumberOfAwards": 555,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-09-26T18:58:48.1310499+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 561,
+      "NumberOfAwardsMax": 200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 555,
-  "NumberOfAwardsMax": 198,
+  "NumberOfAwards": 561,
+  "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2560,13 +2566,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 198
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2584,7 +2590,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 70
+      "Count": 73
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2605,8 +2611,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-30T05:57:06.7778921+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.835064+00:00",
-  "LastChanged": "2024-09-26T08:01:17.8314647+00:00",
+  "LastChanged": "2024-09-26T18:58:48.1310497+00:00",
   "LastUpdate_AppInfo": "2024-09-19T21:57:21.1603028+00:00",
-  "LastUpdate_Ratings": "2024-09-26T16:59:20.1524362+00:00",
+  "LastUpdate_Ratings": "2024-09-26T18:58:48.1310502+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:58.3880712+00:00"
 }

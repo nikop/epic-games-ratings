@@ -5,7 +5,7 @@ Rating: 4.46 (Ranked 787)
 Number of Ratings: 14,652  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 17,454  (Ranked 35)  
-Sum: 129,241 (Ranked 20)  
+Sum: 129,253 (Ranked 20)  
 Diff (max vs sum): 15  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 15
 | This game is Relaxing | 13,404 |
 | This game has Quickly Understood Controls | 12,368 |
 | This game is Extremely Fun | 11,776 |
-| This game is Highly Recommended | 11,360 |
+| This game is Highly Recommended | 11,372 |
 | This game has Challenging Combat | 10,063 |
 | This game has Amazing Characters | 9,107 |
 | This game has a Competitive Community | 8,487 |
@@ -636,4 +636,4 @@ Diff (max vs sum): 15
 | 2024-09-23 | 4.46 | - | 17,326 | 128,576 |
 | 2024-09-24 | 4.46 | - | 17,358 | 128,748 |
 | 2024-09-25 | 4.46 | - | 17,420 | 129,053 |
-| 2024-09-26 | 4.46 | - | 17,454 | 129,241 |
+| 2024-09-26 | 4.46 | - | 17,454 | 129,253 |
