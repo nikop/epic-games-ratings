@@ -1,6 +1,6 @@
 # Mago
 [View Rawdata](../../db/m/mago.json)  
-Rating: 4.90 (Ranked 8)  
+Rating: 4.91 (Ranked 5)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -11,3 +11,4 @@ Rating: 4.90 (Ranked 8)
 | 2022-12-02 | 4.89 | - | - |
 | 2023-01-12 | 4.90 | - | - |
 | 2023-03-31 | 4.90 | 0 | 0 |
+| 2024-09-26 | 4.91 | 0 | 0 |

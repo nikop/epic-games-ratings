@@ -1,7 +1,7 @@
 {
   "ID": "f61b77d79ac34dc08ac9649b225168dd",
   "Name": "Mago",
-  "Ranking_Rating": 8,
+  "Ranking_Rating": 5,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 1254,
@@ -17,7 +17,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.9,
+  "Rating": 4.91,
   "RatingHistory": [
     {
       "Time": "2022-10-09T22:02:14.1425865+00:00",
@@ -48,6 +48,12 @@
       "Rating": 4.9,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-26T06:00:50.2301414+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -66,8 +72,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-24T02:02:00.1291984+00:00",
   "FirstSeenRating": "2022-10-09T22:02:14.1425861+00:00",
-  "LastChanged": "2023-03-31T05:58:37.7263784+00:00",
+  "LastChanged": "2024-09-26T06:00:50.2301412+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.0226418+00:00",
-  "LastUpdate_Ratings": "2024-09-26T04:57:26.9222051+00:00",
+  "LastUpdate_Ratings": "2024-09-26T06:00:50.2301417+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:25.1157528+00:00"
 }

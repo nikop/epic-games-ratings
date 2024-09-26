@@ -4,7 +4,7 @@
   "ProductSlug": "a-plague-tale-innocence",
   "Ranking_Rating": 337,
   "Ranking_Popularity": 106,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3653,6 +3653,6 @@
   "FirstSeen": "2022-07-22T20:22:00.8447799+00:00",
   "LastChanged": "2024-09-25T11:57:57.4117586+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:02.0642009+00:00",
-  "LastUpdate_Ratings": "2024-09-26T04:57:48.0053597+00:00",
+  "LastUpdate_Ratings": "2024-09-26T06:01:12.2710326+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:41.7758849+00:00"
 }
