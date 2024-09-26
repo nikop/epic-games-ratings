@@ -1,7 +1,7 @@
 # Horace
 [Store](https://store.epicgames.com/en-US/p/horace)  
 [View Rawdata](../../db/h/horace.json)  
-Rating: 4.55 (Ranked 599)  
+Rating: 4.56 (Ranked 573)  
 Number of Ratings: 45  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -67,3 +67,4 @@ Number of Ratings: 45  (23.09.2022)
 | 2024-09-03 | 4.57 | - | 0 | 0 |
 | 2024-09-21 | 4.56 | - | 0 | 0 |
 | 2024-09-25 | 4.55 | - | 0 | 0 |
+| 2024-09-26 | 4.56 | - | 0 | 0 |
