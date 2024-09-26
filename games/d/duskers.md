@@ -3,12 +3,12 @@
 [View Rawdata](../../db/d/duskers.json)  
 Rating: 4.54 (Ranked 621)  
 ## Awards
-Max (Highly Recommended): 22  (Ranked 701)  
-Sum: 63 (Ranked 625)  
-Diff (max vs sum): 76  
+Max (Highly Recommended): 23  (Ranked 691)  
+Sum: 64 (Ranked 623)  
+Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 22 |
+| This game is Highly Recommended | 23 |
 | This game has Quickly Understood Controls | 21 |
 | This game has Challenging Combat | 20 |
 ## Ratings History
@@ -78,3 +78,4 @@ Diff (max vs sum): 76
 | 2024-08-16 | 4.55 | 22 | 62 |
 | 2024-08-18 | 4.55 | 22 | 63 |
 | 2024-08-19 | 4.54 | 22 | 63 |
+| 2024-09-26 | 4.54 | 23 | 64 |
