@@ -44,6 +44,7 @@
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
 | [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
 | [Barrel Baller](games/5/51b263d03178465b87a5a46315be468e.md) | 2024-10-31 | - |  | - | - |
+| [Bmx Bastards](games/a/af34c848367c4071b8083b22c90e15fb.md) | 2024-10-31 | - |  | - | - |
 | [Hitmen Party](games/0/0229686d1f43464eabe959430ba6abaf.md) | 2024-10-31 | - |  | - | - |
 | [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-31 | - |  | - | - |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-31 | - |  | - | - |
@@ -337,6 +338,7 @@
 | [DimonD Hunt](games/4/412632fc3f0d4a8e8294f22149e1dff1.md) | 2099-01-01 | - |  | - | - |
 | [Dismay](games/d/dismay.md) | 2099-01-01 | - |  | - | - |
 | [Doggy Farmer](games/c/cb78e3de03514619a506cc0f526ec22a.md) | 2099-01-01 | - |  | - | - |
+| [Domenation](games/5/5f795153da624591993fbc4024daa4a7.md) | 2099-01-01 | - |  | - | - |
 | [Don Duality](games/2/2325c580f06d4eb4ba6814c1b6802bed.md) | 2099-01-01 | - |  | - | - |
 | [Don't Turn Back](games/a/afa43d028dd1408189c2cb83f846fbd6.md) | 2099-01-01 | - |  | - | - |
 | [Draw & Guess](games/7/777b78ab6336430396cfe89d7081efba.md) | 2099-01-01 | - |  | - | - |
@@ -709,7 +711,6 @@
 | [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | - |  | - | - |
 | [LEGO® Horizon Adventures™](games/b/bdb4adaa3874491bbafe9a16b2764200.md) | 2099-02-01 | - |  | - | - |
-| [MONOPOLY®](games/2/2730f9e6c3d442c6bb3ceb93027c9ba3.md) | 2099-02-01 | - |  | - | - |
 | [Nivalis](games/n/nivalis.md) | 2099-02-01 | - |  | - | - |
 | [Path of Exile 2](games/5/58a18be6bbba41a0bf52b014bb81d33b.md) | 2099-02-01 | - |  | - | - |
 | [PixelJunk Eden 2](games/c/c7d240a44afd4e0ba06780cfc6fc5884.md) | 2099-02-01 | - |  | - | - |
