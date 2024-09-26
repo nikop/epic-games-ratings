@@ -2,7 +2,7 @@
   "ID": "88feec140a2f41c3954365c24393be14",
   "Name": "We Were Here Expeditions: The FriendShip",
   "ProductSlug": "we-were-here-expeditions-the-friendship-1e8fb2",
-  "Ranking_Rating": 786,
+  "Ranking_Rating": 774,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 122,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2023-09-22T19:59:25.5945537+00:00",
@@ -279,6 +279,12 @@
     {
       "Time": "2024-09-22T14:59:31.8353495+00:00",
       "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-26T14:59:13.5704235+00:00",
+      "Rating": 4.47,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -16001,9 +16007,9 @@
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
-  "LastChanged": "2024-09-22T14:59:31.8353493+00:00",
+  "LastChanged": "2024-09-26T14:59:13.5704231+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:16.369138+00:00",
   "LastUpdate_AppInfo": "2024-09-20T14:57:13.9104363+00:00",
-  "LastUpdate_Ratings": "2024-09-26T13:17:26.0809221+00:00",
+  "LastUpdate_Ratings": "2024-09-26T14:59:13.5704238+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:16.3692159+00:00"
 }
