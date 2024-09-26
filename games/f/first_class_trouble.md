@@ -1,10 +1,10 @@
 # First Class Trouble
 [Store](https://store.epicgames.com/en-US/p/first-class-trouble)  
 [View Rawdata](../../db/f/first_class_trouble.json)  
-Rating: 4.46 (Ranked 785)  
+Rating: 4.46 (Ranked 784)  
 ## Awards
 Max (Great for Quick Sessions): 171  (Ranked 395)  
-Sum: 917 (Ranked 344)  
+Sum: 918 (Ranked 344)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 51
 | This game is Great for Beginners | 157 |
 | This game is Highly Recommended | 114 |
 | This game has Quickly Understood Controls | 101 |
-| This game has Amazing Storytelling | 100 |
+| This game has Amazing Storytelling | 101 |
 | This game is Extremely Fun | 98 |
 | This game has Amazing Characters | 90 |
 | This game is Relaxing | 86 |
@@ -293,3 +293,4 @@ Diff (max vs sum): 51
 | 2024-09-19 | 4.47 | 170 | 913 |
 | 2024-09-22 | 4.46 | 171 | 916 |
 | 2024-09-25 | 4.46 | 171 | 917 |
+| 2024-09-26 | 4.46 | 171 | 918 |

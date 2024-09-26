@@ -3,7 +3,7 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 645,
-  "Ranking_Popularity": 444,
+  "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 591,
@@ -2991,11 +2991,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 1148,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2024-09-26T03:16:04.9825259+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1149,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1148,
-  "NumberOfAwardsMax": 125,
+  "NumberOfAwards": 1149,
+  "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3032,7 +3038,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game is Relaxing",
@@ -34766,9 +34772,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-09-25T17:00:52.7212707+00:00",
+  "LastChanged": "2024-09-26T03:16:04.9825257+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:05.7487198+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:08:57.962829+00:00",
-  "LastUpdate_Ratings": "2024-09-26T00:00:04.917173+00:00",
+  "LastUpdate_Ratings": "2024-09-26T03:16:04.9825262+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:05.7488713+00:00"
 }
