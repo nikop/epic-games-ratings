@@ -425,7 +425,7 @@
 | 409 | [Outlast 2](games/o/outlast_2.md) | 4.63 | 0 | 725 |
 | 409 | [Prey](games/p/prey.md) | 4.63 | 6,299 | 88 |
 | 409 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.63 | 0 | 725 |
-| 409 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.63 | 1,637 | 156 |
+| 409 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.63 | 1,641 | 156 |
 | 409 | [The Outer Worlds](games/t/the_outer_worlds.md) | 4.63 | 1,880 | 150 |
 | 409 | [The Red Lantern](games/t/the_red_lantern.md) | 4.63 | 0 | 725 |
 | 409 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.63 | 23 | 691 |
@@ -549,7 +549,7 @@
 | 531 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.58 | 37 | 614 |
 | 531 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 7,508 | 75 |
 | 531 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.58 | 776 | 232 |
-| 531 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 15,290 | 40 |
+| 531 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 15,297 | 40 |
 | 551 | [Aimlabs](games/a/aimlabs.md) | 4.57 | 195 | 377 |
 | 551 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.57 | 0 | 725 |
 | 551 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.57 | 48 | 573 |
@@ -650,7 +650,7 @@
 | 645 | [Crying Suns](games/c/crying_suns.md) | 4.53 | 260 | 336 |
 | 645 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.53 | 497 | 270 |
 | 645 | [Dauntless](games/d/dauntless.md) | 4.53 | 32,151 | 19 |
-| 645 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.53 | 203 | 370 |
+| 645 | [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 4.53 | 204 | 370 |
 | 645 | [Frostpunk 2](games/f/frostpunk_2.md) | 4.53 | 0 | 725 |
 | 645 | [GigaBash](games/g/gigabash.md) | 4.53 | 140 | 422 |
 | 645 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.53 | 34 | 628 |
@@ -1074,20 +1074,20 @@
 | 1,068 | [RAGE 2](games/r/rage_2.md) | 4.26 | 3,452 | 114 |
 | 1,068 | [Rogue Company](games/r/rogue_company.md) | 4.26 | 6,531 | 85 |
 | 1,068 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 725 |
+| 1,068 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.26 | 0 | 725 |
 | 1,068 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.26 | 0 | 725 |
 | 1,068 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 297 | 318 |
 | 1,068 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.26 | 31 | 644 |
-| 1,078 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 35 | 624 |
-| 1,078 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.25 | 881 | 219 |
-| 1,078 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 4.25 | 0 | 725 |
-| 1,078 | [Predecessor](games/p/predecessor.md) | 4.25 | 906 | 216 |
-| 1,078 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 725 |
-| 1,078 | [RiMS Racing](games/r/rims_racing.md) | 4.25 | 0 | 725 |
-| 1,078 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 4.25 | 0 | 725 |
-| 1,078 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 725 |
-| 1,078 | [The Spectrum Retreat](games/t/the_spectrum_retreat.md) | 4.25 | 0 | 725 |
-| 1,078 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 725 |
-| 1,078 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 725 |
+| 1,079 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.25 | 35 | 624 |
+| 1,079 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.25 | 881 | 219 |
+| 1,079 | [EA SPORTS™ Madden NFL 25](games/3/333cce509c6b413c852e5177f19f8e84.md) | 4.25 | 0 | 725 |
+| 1,079 | [Predecessor](games/p/predecessor.md) | 4.25 | 906 | 216 |
+| 1,079 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.25 | 0 | 725 |
+| 1,079 | [RiMS Racing](games/r/rims_racing.md) | 4.25 | 0 | 725 |
+| 1,079 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 4.25 | 0 | 725 |
+| 1,079 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 725 |
+| 1,079 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 725 |
+| 1,079 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.25 | 0 | 725 |
 | 1,089 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 725 |
 | 1,089 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 31 | 644 |
 | 1,089 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.24 | 0 | 725 |
