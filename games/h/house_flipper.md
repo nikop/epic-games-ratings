@@ -318,12 +318,12 @@ Completed: 24 (0.09%) (Ranked 466)
 | 2024-08-09 | 26,177 | 24 |
 | 2024-09-14 | 26,503 | 24 |
 ## Awards
-Max (Great for Beginners): 403  (Ranked 290)  
-Sum: 2,528 (Ranked 238)  
+Max (Great for Beginners): 404  (Ranked 290)  
+Sum: 2,529 (Ranked 238)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 403 |
+| This game is Great for Beginners | 404 |
 | This game is Educational | 259 |
 | This game has a Creative Community | 258 |
 | This game is Extremely Fun | 249 |
@@ -657,3 +657,4 @@ Diff (max vs sum): 52
 | 2024-09-19 | 4.69 | - | 402 | 2,519 |
 | 2024-09-20 | 4.69 | - | 402 | 2,527 |
 | 2024-09-22 | 4.69 | - | 403 | 2,528 |
+| 2024-09-26 | 4.69 | - | 404 | 2,529 |
