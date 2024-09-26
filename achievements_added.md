@@ -57,7 +57,7 @@
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 3.93 | 0 |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.72 | 90 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.72 | 128 |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | 20 (1,000 XP) | 9 | - | 0 |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 0 | - | - |
@@ -131,7 +131,7 @@
 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | 18 (1,000 XP) | 71,349 | 4.45 | 32 |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 28 | - | - |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 90 | - | 0 |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.17 | 93 |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.17 | 94 |
 | [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-26 | 18 (1,000 XP) | 2 | - | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | 5 (1,000 XP) | 0 | - | - |
 | [Time Travel: Escape Room Game](games/6/6d5cd78354154858b6a05f84e6ffbea8.md) | 2024-09-05 | 13 (1,000 XP) | 0 | - | 0 |
@@ -417,7 +417,7 @@
 | [Youtubers Life 2](games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 2024-03-05 | 20 (1,000 XP) | 1 | - | 0 |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-12-31 | 38 (1,000 XP) | 1 | - | - |
 | [Barotrauma](games/d/d7faf8a687fb46d498c6aeeb6ee7f898.md) | 2024-03-28 | 69 (1,000 XP) | 1,064 | - | 0 |
-| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 2,377 | 4.69 | 21 |
+| [Tomb Raider I-III Remastered Starring Lara Croft](games/5/5aab0660c2db4caa8a535d267a84633c.md) | 2024-02-14 | 269 (1,345 XP) | 2,377 | 4.69 | 22 |
 | [qomp2](games/2/21d4aa1a99174082b7a63e1e97fb673c.md) | 2024-02-20 | 12 (1,000 XP) | 1 | - | 0 |
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | 30 (1,000 XP) | 31 | - | 0 |
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 5 | - | - |
@@ -496,7 +496,7 @@
 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 2023-12-12 | 32 (1,000 XP) | 280 | - | 0 |
 | [Virtual Rides 3](games/1/116f71b2da434337bba6498e0ea61d9c.md) | 2023-12-17 | 10 (1,000 XP) | 98 | - | 0 |
 | [Tales of the Tiny Planet](games/f/fcfb5f2cb071465391cc3c4555327790.md) | 2023-12-18 | 34 (1,000 XP) | 1 | - | 0 |
-| [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 157,189 | 4.53 | 140 |
+| [GigaBash](games/g/gigabash.md) | 2022-08-04 | 35 (1,000 XP) | 157,189 | 4.53 | 141 |
 | [WORLD OF ART - learn with JIGSAW PUZZLES](games/3/36bcb7861f4e48adbdb7adbe04b683e0.md) | 2024-01-25 | 100 (1,000 XP) | 30 | - | 0 |
 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 2023-12-07 | 5 (1,000 XP) | 1,580 | - | 0 |
 | [Your Computer Might Be At Risk](games/0/04db5160b1fa4fb9acd8f8603f65e12d.md) | 2023-06-28 | 37 (1,000 XP) | 11 | - | 0 |
@@ -575,7 +575,7 @@
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 137 | - | 0 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,224 | 4.69 | 760 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 9 | - | 0 |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 178,715 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 178,804 |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 447 | - | - |
@@ -808,7 +808,7 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-09-23 | 21 (1,000 XP) | 2 | - | - |
 | [Neon Noodles - Cyberpunk Kitchen Automation](games/e/e43864d9ce5b4ac3927a289c6d977650.md) | 2023-08-03 | 19 (1,000 XP) | 1 | - | 0 |
 | [Lifespace Traveler](games/7/77631a5827eb4a8ea16cf1ded0b24131.md) | 2023-08-03 | 13 (1,000 XP) | 1 | - | 0 |
-| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 431,437 | 4.70 | 10,604 |
+| [Remnant II®](games/r/remnant_2.md) | 2023-07-25 | 60 (1,500 XP) | 431,437 | 4.70 | 10,624 |
 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 2023-07-27 | 30 (1,000 XP) | 110 | - | 0 |
 | [Eternal Evil](games/c/c188c5b560174a979ede32563e6e25e5.md) | 2023-07-21 | 31 (1,000 XP) | 1 | - | 0 |
 | [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-07-27 | 34 (1,100 XP) | 1 | - | - |
