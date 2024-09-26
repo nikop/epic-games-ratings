@@ -3,8 +3,8 @@
   "Name": "Outlast",
   "ProductSlug": "outlast",
   "Ranking_Rating": 171,
-  "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 467,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1167,11 +1167,17 @@
       "Rating": 4.75,
       "NumberOfAwards": 329,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-09-26T13:58:22.3755794+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 333,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 329,
-  "NumberOfAwardsMax": 57,
+  "NumberOfAwards": 333,
+  "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1190,7 +1196,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 57
+      "Count": 60
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1220,7 +1226,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has a Creative Community",
@@ -1241,8 +1247,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-05T05:31:44.4184122+00:00",
   "FirstSeenRating": "2022-10-20T15:31:49.6878408+00:00",
-  "LastChanged": "2024-09-25T18:59:28.7990736+00:00",
+  "LastChanged": "2024-09-26T13:58:22.3755792+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:20.3119169+00:00",
-  "LastUpdate_Ratings": "2024-09-26T11:59:03.5115031+00:00",
+  "LastUpdate_Ratings": "2024-09-26T13:58:22.3755798+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:28.4292735+00:00"
 }
