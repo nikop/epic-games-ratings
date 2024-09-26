@@ -4,7 +4,7 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 622,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 170,
+  "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8526,10 +8526,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 5286,
       "NumberOfAwardsMax": 1191
+    },
+    {
+      "Time": "2024-09-26T20:59:39.7950192+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 5287,
+      "NumberOfAwardsMax": 1191
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5286,
+  "NumberOfAwards": 5287,
   "NumberOfAwardsMax": 1191,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8567,7 +8573,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 425
+      "Count": 426
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8617,8 +8623,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2024-09-25T02:10:49.0717669+00:00",
+  "LastChanged": "2024-09-26T20:59:39.795019+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:52.2383719+00:00",
-  "LastUpdate_Ratings": "2024-09-26T18:59:40.6507498+00:00",
+  "LastUpdate_Ratings": "2024-09-26T20:59:39.7950197+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:23.794379+00:00"
 }
