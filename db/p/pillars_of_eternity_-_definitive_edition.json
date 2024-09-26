@@ -4,7 +4,7 @@
   "ProductSlug": "pillars-of-eternity",
   "Ranking_Rating": 338,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 173,
+  "Ranking_PopularitySum": 172,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 420,
   "Ranking_EOS_NewPlayers": 3,
@@ -5080,18 +5080,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 5188,
       "NumberOfAwardsMax": 2091
+    },
+    {
+      "Time": "2024-09-26T21:58:41.8273882+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 5190,
+      "NumberOfAwardsMax": 2093
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5188,
-  "NumberOfAwardsMax": 2091,
+  "NumberOfAwards": 5190,
+  "NumberOfAwardsMax": 2093,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2091
+      "Count": 2093
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6014,9 +6020,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2024-09-25T21:57:55.2129236+00:00",
+  "LastChanged": "2024-09-26T21:58:41.827388+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:03.574914+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:09:01.1470608+00:00",
-  "LastUpdate_Ratings": "2024-09-26T19:58:39.6018549+00:00",
+  "LastUpdate_Ratings": "2024-09-26T21:58:41.8273885+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:03.5749445+00:00"
 }

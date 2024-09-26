@@ -5,7 +5,7 @@ Rating: 4.69 (Ranked 268)
 Number of Ratings: 151,211  (23.09.2022)  
 ## Awards
 Max (Character Customization): 142,630  (Ranked 10)  
-Sum: 439,791 (Ranked 11)  
+Sum: 439,803 (Ranked 11)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -1
 | This game has Unique Visuals | 31,613 |
 | This game has Amazing Characters | 31,270 |
 | This game has Quickly Understood Controls | 30,318 |
-| This game is Relaxing | 29,677 |
+| This game is Relaxing | 29,689 |
 | This game has a Creative Community | 18,347 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -632,4 +632,4 @@ Diff (max vs sum): -1
 | 2024-09-23 | 4.69 | - | 142,485 | 439,176 |
 | 2024-09-24 | 4.69 | - | 142,561 | 439,459 |
 | 2024-09-25 | 4.69 | - | 142,561 | 439,618 |
-| 2024-09-26 | 4.69 | - | 142,630 | 439,791 |
+| 2024-09-26 | 4.69 | - | 142,630 | 439,803 |
