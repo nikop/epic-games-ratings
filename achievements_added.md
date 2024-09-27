@@ -44,7 +44,7 @@
 | [Zen Chess: Mate in Four](games/0/0d2f8331491948169855cb81947e973a.md) | 2024-08-22 | 5 (1,000 XP) | 20 | - | 0 |
 | [Zen Chess: Blindfold Masters](games/d/d2615579d5cb48828c9b9167fcdf3dc1.md) | 2024-08-29 | 15 (1,000 XP) | 17 | - | - |
 | [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | 10 (1,000 XP) | 64 | - | 0 |
-| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | 40 (1,000 XP) | 765,960 | 4.21 | 250 |
+| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | 40 (1,000 XP) | 765,960 | 4.22 | 250 |
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | 51 (1,000 XP) | 8 | - | 0 |
 | [Zen Chess: Champion's Moves](games/4/4214b36dc2434f0aa0a3210aa0f6ad91.md) | 2024-08-22 | 15 (1,000 XP) | 29 | - | 0 |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | 5 (1,000 XP) | 33 | - | - |
@@ -54,10 +54,10 @@
 | [Shelter: An Elephant Adventure](games/0/08970d9237b0458d92c1ee36bd3dbee3.md) | 2099-01-01 | 7 (1,000 XP) | 0 | - | - |
 | [Kunkun Terror Express](games/2/27660b74cfde424bb757f518b171b30f.md) | 2024-10-04 | 5 (1,000 XP) | 1 | - | - |
 | [Kaptain Brawe - A Brawe New World](games/6/6360f6e14b864d1c998a0f04b4744f47.md) | 2024-09-03 | 29 (1,000 XP) | 5 | - | - |
-| [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 3.99 | 0 |
+| [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 4.00 | 0 |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 105 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 119 |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | 20 (1,000 XP) | 9 | - | 0 |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 0 | - | - |
@@ -232,7 +232,7 @@
 | [Orcs Must Die! 3](games/a/a1a52b1a570e4ee3ab3b2a8ca930753e.md) | 2024-05-02 | 37 (1,700 XP) | 526,510 | 4.55 | 1,477 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 612 | - | 0 |
 | [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2024-07-04 | 12 (1,000 XP) | 19 | - | 0 |
-| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 6,033 | 4.31 | 26 |
+| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 6,033 | 4.30 | 26 |
 | [Letters & Legends](games/f/fdf05d3975f44e8d989bc2923e3e6f38.md) | 2024-04-25 | 26 (1,000 XP) | 34 | - | 0 |
 | [Russian Village Simulator](games/c/c0faeee2598f4fcba5696d4fdda7d718.md) | 2024-05-02 | 50 (1,000 XP) | 1 | - | 0 |
 | [Whacking Hell!](games/4/44ff71d68cdb40a8afd0b4c5782d05c4.md) | 2024-06-12 | 23 (1,000 XP) | 0 | - | 0 |
@@ -490,7 +490,7 @@
 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 455,252 | 4.28 | 189 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 528,131 | 4.22 | 99 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 6,388 | 4.42 | 134 |
-| [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,732 | 4.48 | 125 |
+| [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,732 | 4.48 | 126 |
 | [Trinity Fusion](games/t/trinity_fusion.md) | 2023-04-13 | 46 (1,000 XP) | 1 | - | 0 |
 | [Settlement Survival](games/0/0407f287e7574d88b7c00895f14628d8.md) | 2023-12-13 | 51 (1,000 XP) | 1,024 | 4.41 | 0 |
 | [Bio Inc. Redemption](games/f/f00f2d0ae4f04fc987d4218d9355f026.md) | 2023-12-12 | 32 (1,000 XP) | 280 | - | 0 |
@@ -789,7 +789,7 @@
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 2 | - | 0 |
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 104,046 | 3.95 | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 915,468 | 4.53 | 1,374 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.58 | 289 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.59 | 289 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 495 | - | 0 |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 34 | - | - |
 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 2023-09-06 | 11 (1,000 XP) | 17 | - | 0 |

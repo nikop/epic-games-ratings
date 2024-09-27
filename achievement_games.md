@@ -43,7 +43,7 @@
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sammy Jukes: Twin Lakes](games/4/4ee1c06e76884f3b99af95fa347f9c36.md) | 2024-09-19 | 22 (1,000 XP) | 0 | - | - |
 | [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.32 | 0 |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 105 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 119 |
 | [ATOMIC SHELTER](games/b/b005ba75ad8d488c9d8be26cb04f18fc.md) | 2024-09-16 | 14 (1,000 XP) | 1 | - | 0 |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | 51 (1,000 XP) | 8 | - | 0 |
@@ -51,7 +51,7 @@
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | 41 (1,000 XP) | 0 | - | 0 |
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | 27 (1,000 XP) | 37 | - | 0 |
 | [Caravan SandWitch](games/4/45b137b2ecd14e01a54b52e575f1632d.md) | 2024-09-12 | 26 (1,000 XP) | 13 | - | 0 |
-| [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 3.99 | 0 |
+| [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 4.00 | 0 |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | 20 (1,000 XP) | 9 | - | 0 |
 | [Shelter: An Animal Adventure](games/3/380c783528fb4ec58069229a29c71802.md) | 2024-09-12 | 15 (1,000 XP) | 1 | - | - |
 | [Forklift Simulator](games/6/636d5e985fb44d938ce143d2b39957c8.md) | 2024-09-12 | 43 (1,000 XP) | 8 | - | 0 |
@@ -65,7 +65,7 @@
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
 | [Blacksmith of the Sand Kingdom](games/f/f2892c9f78c04780b6a40463a162b6c2.md) | 2024-09-06 | 45 (1,000 XP) | 20 | - | 0 |
 | [Time Travel: Escape Room Game](games/6/6d5cd78354154858b6a05f84e6ffbea8.md) | 2024-09-05 | 13 (1,000 XP) | 0 | - | 0 |
-| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | 40 (1,000 XP) | 765,960 | 4.21 | 250 |
+| [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 2024-09-05 | 40 (1,000 XP) | 765,960 | 4.22 | 250 |
 | [Sniper Ghost Warrior Contracts 2](games/1/1169554e6b18447280cf8e2af785d936.md) | 2024-09-05 | 43 (1,000 XP) | 44 | - | 0 |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | 32 (1,000 XP) | 280 | 4.22 | 0 |
 | [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | 31 (1,000 XP) | 988 | 4.42 | 0 |
@@ -247,7 +247,7 @@
 | [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 102 | - | 0 |
 | [Kubikon 3D](games/1/19e7f1f3eb5e4afb8015acf2fdc583ce.md) | 2024-05-23 | 10 (1,000 XP) | 28 | - | 0 |
 | [The Tribe Must Survive](games/5/50d794a4930c401f9f25e28ce7335db2.md) | 2024-05-23 | 30 (1,950 XP) | 57 | - | 0 |
-| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 6,033 | 4.31 | 26 |
+| [HAWKED](games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 2024-05-23 | 29 (1,000 XP) | 6,033 | 4.30 | 26 |
 | [Tennis Manager 2024](games/0/0ccff28e73c64060b1c9a74c3298fd68.md) | 2024-05-23 | 79 (1,000 XP) | 0 | - | 0 |
 | [KLONOA Phantasy Reverie Series](games/7/7120b2046fd845578509f66420ffc251.md) | 2024-05-23 | 25 (1,000 XP) | 16 | - | 0 |
 | [We Love Katamari REROLL+ Royal Reverie](games/5/5c8529a62b4243469be68b08bd5c1bfa.md) | 2024-05-23 | 35 (1,000 XP) | 23 | - | 0 |
@@ -735,7 +735,7 @@
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 156 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 915,468 | 4.53 | 1,374 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.58 | 289 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.59 | 289 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 49 | - | 0 |
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 478 | - | 0 |
@@ -894,7 +894,7 @@
 | [Ravenlok](games/r/ravenlok.md) | 2023-05-04 | 50 (1,000 XP) | 1,278 | - | 0 |
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 73 | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 54 (1,300 XP) | 3 | - | 0 |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 72 (1,735 XP) | 8,090 | 4.65 | 106 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 72 (1,735 XP) | 8,090 | 4.65 | 108 |
 | [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,663 | 3.74 | 50 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 15 | - | 0 |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 2023-05-01 | 60 (1,000 XP) | 8 | - | 0 |
@@ -1302,7 +1302,7 @@
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 178,896 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 266 | 4.16 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 30,004 | 4.86 | 58 |
-| [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 62,613 | 4.65 | 473 |
+| [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 62,613 | 4.65 | 474 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,114 | 4.74 | 100 |
 | [Ghostrunner](games/g/ghostrunner.md) | 2020-10-27 | 45 (1,195 XP) | 2,491,050 | 4.56 | 4,451 |
 | [STAR WARS™: Squadrons](games/s/star_wars™__squadrons.md) | 2020-10-02 | 47 (1,000 XP) | 90,333 | - | 0 |
@@ -1326,7 +1326,7 @@
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 93,629 | 4.70 | 0 |
 | [Satisfactory](games/s/satisfactory.md) | 2019-03-19 | 44 (1,000 XP) | 216,724 | 4.87 | 24,647 |
 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 2018-12-06 | 44 (1,000 XP) | 261,993 | 4.67 | 654 |
-| [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,732 | 4.48 | 125 |
+| [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,732 | 4.48 | 126 |
 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 2018-03-18 | 29 (1,000 XP) | 57,537 | 4.46 | 0 |
 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 2018-02-13 | 82 (1,000 XP) | 868,676 | 4.71 | 9,294 |
 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 2016-11-26 | 43 (1,000 XP) | 12,347 | 4.61 | 117 |
