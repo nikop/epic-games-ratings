@@ -1,12 +1,12 @@
 # Might & Magic: Chess Royale
 [Store](https://store.epicgames.com/en-US/p/might-and-magic-chess-royale)  
 [View Rawdata](../../db/m/might_&_magic__chess_royale.json)  
-Rating: 4.49 (Ranked 734)  
+Rating: 4.49 (Ranked 733)  
 Number of Ratings: 238  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 100  (Ranked 470)  
-Sum: 811 (Ranked 365)  
-Diff (max vs sum): 105  
+Sum: 811 (Ranked 366)  
+Diff (max vs sum): 104  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 100 |
