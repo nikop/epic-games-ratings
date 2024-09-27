@@ -3,7 +3,7 @@
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
   "Ranking_Rating": 601,
-  "Ranking_Popularity": 149,
+  "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -7431,11 +7431,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 15707,
       "NumberOfAwardsMax": 1917
+    },
+    {
+      "Time": "2024-09-27T19:59:40.0210134+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 15745,
+      "NumberOfAwardsMax": 1934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15707,
-  "NumberOfAwardsMax": 1917,
+  "NumberOfAwards": 15745,
+  "NumberOfAwardsMax": 1934,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7460,7 +7466,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1917
+      "Count": 1934
     },
     {
       "Text": "This game has Competitive Players",
@@ -7490,13 +7496,13 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1472
+      "Count": 1484
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1617
+      "Count": 1626
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -7516,8 +7522,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-09-27T18:00:08.0024627+00:00",
+  "LastChanged": "2024-09-27T19:59:40.0210132+00:00",
   "LastUpdate_AppInfo": "2024-09-22T20:57:11.5312006+00:00",
-  "LastUpdate_Ratings": "2024-09-27T18:00:08.0024633+00:00",
+  "LastUpdate_Ratings": "2024-09-27T19:59:40.021014+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:41.475167+00:00"
 }

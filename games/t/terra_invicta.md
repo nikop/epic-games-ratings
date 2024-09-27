@@ -1,7 +1,7 @@
 # Terra Invicta
 [Store](https://store.epicgames.com/en-US/p/terra-invicta-5bbf09)  
 [View Rawdata](../../db/t/terra_invicta.json)  
-Rating: 4.57 (Ranked 551)  
+Rating: 4.57 (Ranked 550)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
