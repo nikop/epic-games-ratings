@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 246,
   "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -247,10 +247,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 299,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2024-09-27T14:59:16.4944247+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 299,
+  "NumberOfAwards": 321,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -283,6 +289,12 @@
       "Prefix": "This game is",
       "Type": "Highly Recommended",
       "Count": 20
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 22
     }
   ],
   "EOS_Progressed": 532,
@@ -871,9 +883,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-09-27T03:14:22.1040526+00:00",
+  "LastChanged": "2024-09-27T14:59:16.4944246+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-23T18:57:02.8972277+00:00",
-  "LastUpdate_Ratings": "2024-09-27T13:16:53.1340651+00:00",
+  "LastUpdate_Ratings": "2024-09-27T14:59:16.494425+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }
