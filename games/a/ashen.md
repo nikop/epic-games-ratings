@@ -1,7 +1,7 @@
 # Ashen
 [Store](https://store.epicgames.com/en-US/p/ashen)  
 [View Rawdata](../../db/a/ashen.json)  
-Rating: 4.31 (Ranked 1,017)  
+Rating: 4.30 (Ranked 1,029)  
 Number of Ratings: 111  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 23  (Ranked 690)  
@@ -98,3 +98,4 @@ Diff (max vs sum): -9
 | 2024-08-26 | 4.31 | - | 23 | 23 |
 | 2024-09-09 | 4.32 | - | 23 | 23 |
 | 2024-09-25 | 4.31 | - | 23 | 23 |
+| 2024-09-27 | 4.30 | - | 23 | 23 |

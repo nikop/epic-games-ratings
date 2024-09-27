@@ -2,7 +2,7 @@
   "ID": "wren",
   "Name": "Ashen",
   "ProductSlug": "ashen",
-  "Ranking_Rating": 1017,
+  "Ranking_Rating": 1029,
   "Ranking_Popularity": 690,
   "Ranking_PopularitySum": 699,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.3,
   "NumberOfRatings": 111,
   "RatingHistory": [
     {
@@ -480,6 +480,12 @@
       "Rating": 4.31,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-09-27T21:59:33.5796169+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -511,8 +517,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
-  "LastChanged": "2024-09-25T21:59:39.5942712+00:00",
+  "LastChanged": "2024-09-27T21:59:33.5796167+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:00.4548394+00:00",
-  "LastUpdate_Ratings": "2024-09-27T19:59:30.9929612+00:00",
+  "LastUpdate_Ratings": "2024-09-27T21:59:33.5796173+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:26.1421071+00:00"
 }

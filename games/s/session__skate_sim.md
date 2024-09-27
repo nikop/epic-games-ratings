@@ -318,8 +318,8 @@ Completed: 3 (0.06%) (Ranked 486)
 | 2024-09-14 | 5,102 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 105  (Ranked 462)  
-Sum: 880 (Ranked 353)  
-Diff (max vs sum): 109  
+Sum: 881 (Ranked 352)  
+Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 105 |
@@ -333,7 +333,7 @@ Diff (max vs sum): 109
 | This game is Educational | 59 |
 | This game is Relaxing | 58 |
 | This game has Quickly Understood Controls | 55 |
-| This game has Challenging Combat | 53 |
+| This game has Challenging Combat | 54 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -689,3 +689,4 @@ Diff (max vs sum): 109
 | 2024-09-24 | 4.66 | - | 103 | 876 |
 | 2024-09-25 | 4.66 | - | 104 | 878 |
 | 2024-09-26 | 4.66 | - | 105 | 880 |
+| 2024-09-27 | 4.66 | - | 105 | 881 |
