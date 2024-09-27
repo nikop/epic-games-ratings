@@ -4,7 +4,7 @@
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 788,
   "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2597,6 +2597,6 @@
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
   "LastChanged": "2024-09-26T13:16:26.0623696+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:46.4042202+00:00",
-  "LastUpdate_Ratings": "2024-09-27T07:57:53.8909072+00:00",
+  "LastUpdate_Ratings": "2024-09-27T08:59:54.1560978+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:07.3578845+00:00"
 }

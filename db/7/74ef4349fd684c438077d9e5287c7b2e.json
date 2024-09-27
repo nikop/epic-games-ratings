@@ -3798,10 +3798,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 4953,
       "NumberOfAwardsMax": 1312
+    },
+    {
+      "Time": "2024-09-27T08:59:00.2811219+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4962,
+      "NumberOfAwardsMax": 1312
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4953,
+  "NumberOfAwards": 4962,
   "NumberOfAwardsMax": 1312,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3863,7 +3869,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 533
+      "Count": 542
     }
   ],
   "EOS_Progressed": 0,
@@ -3878,8 +3884,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-09-27T02:11:39.9555908+00:00",
+  "LastChanged": "2024-09-27T08:59:00.2811217+00:00",
   "LastUpdate_AppInfo": "2024-09-20T13:57:20.8135999+00:00",
-  "LastUpdate_Ratings": "2024-09-27T07:00:08.0605652+00:00",
+  "LastUpdate_Ratings": "2024-09-27T08:59:00.2811222+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:22.0015912+00:00"
 }

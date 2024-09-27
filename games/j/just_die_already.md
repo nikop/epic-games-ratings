@@ -1,12 +1,12 @@
 # Just Die Already
 [Store](https://store.epicgames.com/en-US/p/just-die-already)  
 [View Rawdata](../../db/j/just_die_already.json)  
-Rating: 4.52 (Ranked 667)  
+Rating: 4.52 (Ranked 668)  
 Number of Ratings: 2,280  (23.09.2022)  
 ## Awards
-Max (Diverse Characters): 123  (Ranked 450)  
+Max (Diverse Characters): 123  (Ranked 449)  
 Sum: 985 (Ranked 333)  
-Diff (max vs sum): 117  
+Diff (max vs sum): 116  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 123 |
