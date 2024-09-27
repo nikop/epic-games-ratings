@@ -1,10 +1,9 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Reqvia](games/7/7eae14353be148d4a941113dcaa00b87.md) | 2024-09-27 | - |  | - | - |
+| [Deadly Contagion](games/2/2fd1e4381c1542bb9aa1a0cc9f2195d8.md) | 2024-09-27 | - |  | - | - |
 | [Come on Fantasy baby!](games/0/0851f967f9fa4703be3039e11c03fdce.md) | 2024-09-28 | - |  | - | - |
 | [Blood on the Thames](games/1/1ff50356d2a34fb5b1448d14c53b8f10.md) | 2024-09-30 | - |  | - | - |
 | [Chiral](games/1/1c18ca5d42ac4b5d89509f75aa026846.md) | 2024-09-30 | - |  | - | - |
-| [Deadly Contagion](games/2/2fd1e4381c1542bb9aa1a0cc9f2195d8.md) | 2024-09-30 | - |  | - | - |
 | [Degenheim](games/c/caa12a2aa4ae420592e4a395212f3119.md) | 2024-09-30 | - |  | - | - |
 | [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
 | [Epsylon](games/4/4b9bf181ec404f99bf552046c6b25ca0.md) | 2024-09-30 | - |  | - | - |
