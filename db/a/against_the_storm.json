@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 77,
+  "Ranking_Rating": 76,
   "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 204,
   "Ranking_EOS_Progress": 211,
@@ -5419,10 +5419,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3721,
       "NumberOfAwardsMax": 530
+    },
+    {
+      "Time": "2024-09-27T10:58:24.8896891+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3722,
+      "NumberOfAwardsMax": 530
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3721,
+  "NumberOfAwards": 3722,
   "NumberOfAwardsMax": 530,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5484,7 +5490,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 396
+      "Count": 397
     }
   ],
   "EOS_Progressed": 22975,
@@ -22551,9 +22557,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-09-27T03:58:41.592049+00:00",
+  "LastChanged": "2024-09-27T10:58:24.8896888+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:20.9406475+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:58.2158958+00:00",
-  "LastUpdate_Ratings": "2024-09-27T08:59:11.1306032+00:00",
+  "LastUpdate_Ratings": "2024-09-27T10:58:24.8896893+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:20.9407455+00:00"
 }
