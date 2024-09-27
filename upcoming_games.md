@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | - |  | - | - |
 | [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | - |  | - | - |
 | [Reqvia](games/7/7eae14353be148d4a941113dcaa00b87.md) | 2024-09-27 | - |  | - | - |
 | [Come on Fantasy baby!](games/0/0851f967f9fa4703be3039e11c03fdce.md) | 2024-09-28 | - |  | - | - |
@@ -48,8 +49,8 @@
 | [The Smurfs – Dreams](games/d/d6bbed959ee545229d579407d5616452.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
@@ -222,6 +223,7 @@
 | [Where They Go](games/7/7ee5a15b09884e2190ed8743f1ea58ac.md) | 2025-12-31 | - |  | - | - |
 | [WUCHANG: Fallen Feathers](games/0/08d6df03616c42388556ce5fc1366d3d.md) | 2025-12-31 | - |  | - | - |
 | [Chocolate Factory](games/1/14acd6d0e20049f4bcd489aeb6dd6f85.md) | 2028-12-31 | - |  | - | - |
+| [3 Minutes to Midnight](games/9/98c3a59780714527a356c7c242690eaa.md) | 2099-01-01 | - |  | - | - |
 | [33 Immortals](games/0/059c9bf09df94e09b059eefaea025de1.md) | 2099-01-01 | - |  | - | - |
 | [A Frog's Job](games/a/a_frog's_job.md) | 2099-01-01 | - |  | - | - |
 | [A Game About Flicking A Switch](games/a/aedb8e24937442da8d94c9f293454d83.md) | 2099-01-01 | - |  | - | - |
