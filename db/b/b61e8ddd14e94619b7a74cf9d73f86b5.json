@@ -13,12 +13,12 @@
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
     "EpicFirstRunRemoved": null,
-    "CustomAttributes": {
-      "isPrepurchase": "true"
-    }
+    "CustomAttributes": {}
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -30,7 +30,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "LastUpdate_AppInfo": "2024-09-25T21:57:15.2837577+00:00",
-  "LastUpdate_Ratings": "2024-09-27T03:15:22.9655573+00:00",
+  "LastUpdate_Ratings": "2024-09-27T04:58:58.5500341+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:14.1150285+00:00"
 }
