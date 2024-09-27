@@ -4,7 +4,7 @@
   "ProductSlug": "gods-unchained-9b2cb5",
   "Ranking_Rating": 709,
   "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 488,
+  "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -959,10 +959,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-09-27T20:57:31.8460049+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 287,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
+  "NumberOfAwards": 287,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -970,7 +976,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game is Great for Beginners",
@@ -988,7 +994,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1033,8 +1039,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-09-25T06:58:00.5399811+00:00",
+  "LastChanged": "2024-09-27T20:57:31.8460047+00:00",
   "LastUpdate_AppInfo": "2024-09-27T14:57:19.938928+00:00",
-  "LastUpdate_Ratings": "2024-09-27T18:59:01.783203+00:00",
+  "LastUpdate_Ratings": "2024-09-27T20:57:31.8460052+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:40.0131806+00:00"
 }
