@@ -2,7 +2,7 @@
   "ID": "7c53d7dc86494d5abcdc974b0ef0a843",
   "Name": "Kena: Bridge of Spirits",
   "ProductSlug": "kena-bridge-of-spirits",
-  "Ranking_Rating": 248,
+  "Ranking_Rating": 247,
   "Ranking_Popularity": 167,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 69,
@@ -1935,18 +1935,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1814,
       "NumberOfAwardsMax": 1427
+    },
+    {
+      "Time": "2024-09-27T02:11:51.2113055+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1815,
+      "NumberOfAwardsMax": 1428
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1814,
-  "NumberOfAwardsMax": 1427,
+  "NumberOfAwards": 1815,
+  "NumberOfAwardsMax": 1428,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1427
+      "Count": 1428
     },
     {
       "Text": "This game is Highly Recommended",
@@ -21106,9 +21112,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2024-09-24T02:13:00.5742127+00:00",
+  "LastChanged": "2024-09-27T02:11:51.2113053+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:07.6411419+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:22.5746158+00:00",
-  "LastUpdate_Ratings": "2024-09-26T23:57:01.7385534+00:00",
+  "LastUpdate_Ratings": "2024-09-27T02:11:51.2113059+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:07.6412438+00:00"
 }

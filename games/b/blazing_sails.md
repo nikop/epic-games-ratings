@@ -1,7 +1,7 @@
 # Blazing Sails
 [Store](https://store.epicgames.com/en-US/p/blazing-sails)  
 [View Rawdata](../../db/b/blazing_sails.json)  
-Rating: 3.98 (Ranked 1,248)  
+Rating: 3.98 (Ranked 1,249)  
 ## Awards
 Max (Great for Beginners): 836  (Ranked 224)  
 Sum: 5,190 (Ranked 172)  

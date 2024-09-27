@@ -1,7 +1,7 @@
 # Hades
 [Store](https://store.epicgames.com/en-US/p/hades)  
 [View Rawdata](../../db/h/hades.json)  
-Rating: 4.92 (Ranked 4)  
+Rating: 4.91 (Ranked 5)  
 Number of Ratings: 6,336  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -957,3 +957,4 @@ Diff (max vs sum): -14
 | 2024-09-24 | 4.92 | - | 4,338 | 10,960 |
 | 2024-09-25 | 4.91 | - | 4,341 | 10,972 |
 | 2024-09-26 | 4.92 | - | 4,341 | 10,975 |
+| 2024-09-27 | 4.91 | - | 4,341 | 10,975 |

@@ -2,8 +2,8 @@
   "ID": "02c14a01b7044db98de3f3a10813a42e",
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
-  "Ranking_Rating": 687,
-  "Ranking_Popularity": 430,
+  "Ranking_Rating": 688,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -2463,11 +2463,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 1154,
       "NumberOfAwardsMax": 135
+    },
+    {
+      "Time": "2024-09-27T02:09:51.6732376+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1159,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1154,
-  "NumberOfAwardsMax": 135,
+  "NumberOfAwards": 1159,
+  "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -2480,7 +2486,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 135
+      "Count": 137
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2516,7 +2522,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2534,13 +2540,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 132
+      "Count": 133
     }
   ],
   "EOS_Progressed": 0,
@@ -2554,8 +2560,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2024-09-26T22:58:15.6196182+00:00",
+  "LastChanged": "2024-09-27T02:09:51.6732374+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:29.0589038+00:00",
-  "LastUpdate_Ratings": "2024-09-26T22:58:15.6196193+00:00",
+  "LastUpdate_Ratings": "2024-09-27T02:09:51.6732382+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.0969903+00:00"
 }

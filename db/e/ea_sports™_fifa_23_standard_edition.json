@@ -2,7 +2,7 @@
   "ID": "f5deacee017b4b109476933f7dd2edbd",
   "Name": "EA SPORTS\u2122 FIFA 23 Standard Edition",
   "ProductSlug": "fifa-23",
-  "Ranking_Rating": 1068,
+  "Ranking_Rating": 1069,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 21,
   "Ranking_EOS_Progress": 92,
@@ -18273,18 +18273,24 @@
       "Rating": 4.26,
       "NumberOfAwards": 122208,
       "NumberOfAwardsMax": 24835
+    },
+    {
+      "Time": "2024-09-27T02:10:16.0318714+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 122215,
+      "NumberOfAwardsMax": 24838
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 122208,
-  "NumberOfAwardsMax": 24835,
+  "NumberOfAwards": 122215,
+  "NumberOfAwardsMax": 24838,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 24835
+      "Count": 24838
     },
     {
       "Text": "This game has a Competitive Community",
@@ -18302,7 +18308,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 13523
+      "Count": 13527
     },
     {
       "Text": "This game has Competitive Players",
@@ -34004,9 +34010,9 @@
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
-  "LastChanged": "2024-09-26T19:00:28.4811484+00:00",
+  "LastChanged": "2024-09-27T02:10:16.0318712+00:00",
   "LastChanged_Achievements": "2024-09-14T14:17:50.2751851+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:37.6451094+00:00",
-  "LastUpdate_Ratings": "2024-09-26T22:58:40.1107628+00:00",
+  "LastUpdate_Ratings": "2024-09-27T02:10:16.0318718+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:50.2752922+00:00"
 }
