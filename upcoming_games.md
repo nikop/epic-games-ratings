@@ -189,6 +189,7 @@
 | [Escape the Charon](games/0/0c2bc94b5c6e45eab601489bd567db7d.md) | 2025-06-30 | - |  | - | - |
 | [THE GUARDIANS](games/b/b7018716306c4f0db9c8abe14f20647d.md) | 2025-06-30 | - |  | - | - |
 | [Valannia Arena](games/4/4706bb0e4a72425c8fbeea69d63acf1f.md) | 2025-06-30 | - |  | - | - |
+| [Zone Nine Nihilation](games/3/3a30a0b1bc1843b3936a81751ee2a13f.md) | 2025-06-30 | - |  | - | - |
 | [Temple of the Gods](games/5/5665bab3e0ea4f24a6f12afa762b956e.md) | 2025-09-30 | - |  | - | - |
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2025-12-31 | - |  | - | - |
