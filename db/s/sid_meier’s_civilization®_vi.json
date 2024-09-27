@@ -27077,18 +27077,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 474654,
       "NumberOfAwardsMax": 62015
+    },
+    {
+      "Time": "2024-09-27T17:58:26.6686234+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 474807,
+      "NumberOfAwardsMax": 62057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 474654,
-  "NumberOfAwardsMax": 62015,
+  "NumberOfAwards": 474807,
+  "NumberOfAwardsMax": 62057,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 62015
+      "Count": 62057
     },
     {
       "Text": "This game is Highly Recommended",
@@ -27118,19 +27124,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 48112
+      "Count": 48138
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 50494
+      "Count": 50530
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 46728
+      "Count": 46761
     },
     {
       "Text": "This game has Amazing Characters",
@@ -27148,7 +27154,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 32636
+      "Count": 32652
     }
   ],
   "EOS_Progressed": 0,
@@ -27162,8 +27168,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
-  "LastChanged": "2024-09-27T13:14:59.5814875+00:00",
+  "LastChanged": "2024-09-27T17:58:26.6686232+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:29.3631215+00:00",
-  "LastUpdate_Ratings": "2024-09-27T15:59:12.486009+00:00",
+  "LastUpdate_Ratings": "2024-09-27T17:58:26.6686243+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:52.352294+00:00"
 }

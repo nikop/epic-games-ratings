@@ -4,7 +4,7 @@
   "ProductSlug": "deaths-gambit-afterlife-b5f411",
   "Ranking_Rating": 576,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -810,18 +810,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 1225,
       "NumberOfAwardsMax": 885
+    },
+    {
+      "Time": "2024-09-27T17:59:19.7693614+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1239,
+      "NumberOfAwardsMax": 896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1225,
-  "NumberOfAwardsMax": 885,
+  "NumberOfAwards": 1239,
+  "NumberOfAwardsMax": 896,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 885
+      "Count": 896
     },
     {
       "Text": "This game has Challenging Combat",
@@ -845,13 +851,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -904,9 +910,9 @@
   "FirstSeen": "2024-08-12T09:00:11.602464+00:00",
   "FirstSeenRating": "2024-08-16T09:00:44.4168107+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:10.6887869+00:00",
-  "LastChanged": "2024-09-27T14:58:19.5694907+00:00",
+  "LastChanged": "2024-09-27T17:59:19.7693612+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:18.1464827+00:00",
   "LastUpdate_AppInfo": "2024-09-26T21:57:17.1056765+00:00",
-  "LastUpdate_Ratings": "2024-09-27T16:00:05.4619525+00:00",
+  "LastUpdate_Ratings": "2024-09-27T17:59:19.7693617+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:18.1464862+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "862d80a2d1044d88b01104b3ebaed032",
   "Name": "God of War Ragnar\u00F6k",
   "ProductSlug": "god-of-war-ragnarok-3ca641",
-  "Ranking_Rating": 95,
+  "Ranking_Rating": 76,
   "Ranking_Popularity": 624,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.81,
+  "Rating": 4.82,
   "RatingHistory": [
     {
       "Time": "2024-09-20T13:58:30.4692346+00:00",
@@ -234,10 +234,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 299,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-09-27T17:59:45.5124945+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 303,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 299,
+  "NumberOfAwards": 303,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -281,7 +287,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 26
     },
     {
       "Text": "This game has Unique Visuals",
@@ -328,9 +334,9 @@
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
-  "LastChanged": "2024-09-27T16:57:40.8545651+00:00",
+  "LastChanged": "2024-09-27T17:59:45.5124943+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
   "LastUpdate_AppInfo": "2024-09-27T11:57:10.6104815+00:00",
-  "LastUpdate_Ratings": "2024-09-27T16:57:40.8545655+00:00",
+  "LastUpdate_Ratings": "2024-09-27T17:59:45.5124948+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
 }
