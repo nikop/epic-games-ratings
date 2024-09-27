@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 507,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 111,
   "Ranking_EOS_Progress": 91,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 15086,
   "RatingHistory": [
     {
@@ -6084,6 +6084,12 @@
     {
       "Time": "2024-09-26T19:57:43.3566312+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 12362,
+      "NumberOfAwardsMax": 1558
+    },
+    {
+      "Time": "2024-09-27T06:59:08.6473498+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 12362,
       "NumberOfAwardsMax": 1558
     }
@@ -36517,9 +36523,9 @@
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-09-26T19:57:43.356631+00:00",
+  "LastChanged": "2024-09-27T06:59:08.6473496+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:12.8714211+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:36.0553716+00:00",
-  "LastUpdate_Ratings": "2024-09-27T05:00:11.2009503+00:00",
+  "LastUpdate_Ratings": "2024-09-27T06:59:08.64735+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:12.8716797+00:00"
 }

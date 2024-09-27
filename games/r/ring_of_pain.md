@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.59 (Ranked 507)  
+Rating: 4.58 (Ranked 532)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -887,3 +887,4 @@ Diff (max vs sum): 49
 | 2024-09-24 | 4.58 | - | 1,555 | 12,347 |
 | 2024-09-25 | 4.58 | - | 1,558 | 12,355 |
 | 2024-09-26 | 4.59 | - | 1,558 | 12,362 |
+| 2024-09-27 | 4.58 | - | 1,558 | 12,362 |
