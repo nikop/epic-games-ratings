@@ -2,7 +2,7 @@
   "ID": "9bcf72043732431397782f3a32efbbd5",
   "Name": "Darksiders Genesis",
   "ProductSlug": "darksiders-genesis",
-  "Ranking_Rating": 847,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 573,
   "Ranking_PopularitySum": 642,
   "Ranking_EOS_Progress": 348,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.41,
   "NumberOfRatings": 67,
   "RatingHistory": [
     {
@@ -495,6 +495,12 @@
     {
       "Time": "2024-09-23T11:57:20.8233513+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 48,
+      "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2024-09-27T13:15:25.4968339+00:00",
+      "Rating": 4.41,
       "NumberOfAwards": 48,
       "NumberOfAwardsMax": 48
     }
@@ -3163,9 +3169,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
-  "LastChanged": "2024-09-23T11:57:20.8233511+00:00",
+  "LastChanged": "2024-09-27T13:15:25.4968337+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:58.6795228+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:38.7783028+00:00",
-  "LastUpdate_Ratings": "2024-09-27T10:58:58.8142438+00:00",
+  "LastUpdate_Ratings": "2024-09-27T13:15:25.4968346+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:58.6795633+00:00"
 }

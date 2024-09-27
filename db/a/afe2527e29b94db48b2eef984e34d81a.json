@@ -4,7 +4,7 @@
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 668,
   "Ranking_Popularity": 161,
-  "Ranking_PopularitySum": 221,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 509,
   "Ranking_EOS_NewPlayers": 3,
@@ -2736,10 +2736,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 2970,
       "NumberOfAwardsMax": 1522
+    },
+    {
+      "Time": "2024-09-27T13:14:59.0296881+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 2981,
+      "NumberOfAwardsMax": 1522
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2970,
+  "NumberOfAwards": 2981,
   "NumberOfAwardsMax": 1522,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2753,7 +2759,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 726
+      "Count": 733
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2795,13 +2801,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 104
+      "Count": 107
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 129
+      "Count": 130
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3416,9 +3422,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-09-27T08:59:15.5994781+00:00",
+  "LastChanged": "2024-09-27T13:14:59.0296877+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:34.7080543+00:00",
   "LastUpdate_AppInfo": "2024-09-27T02:09:29.568226+00:00",
-  "LastUpdate_Ratings": "2024-09-27T10:58:29.9375705+00:00",
+  "LastUpdate_Ratings": "2024-09-27T13:14:59.0296885+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:34.7081339+00:00"
 }

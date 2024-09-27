@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.43 (Ranked 847)  
+Rating: 4.41 (Ranked 879)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -194,3 +194,4 @@ Diff (max vs sum): -69
 | 2024-07-12 | 4.42 | - | 47 | 47 |
 | 2024-07-26 | 4.42 | - | 48 | 48 |
 | 2024-09-23 | 4.43 | - | 48 | 48 |
+| 2024-09-27 | 4.41 | - | 48 | 48 |

@@ -3,8 +3,8 @@
   "Name": "The Bridge",
   "ProductSlug": "the-bridge",
   "Ranking_Rating": 1121,
-  "Ranking_Popularity": 682,
-  "Ranking_PopularitySum": 694,
+  "Ranking_Popularity": 680,
+  "Ranking_PopularitySum": 692,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 426,
   "Ranking_EOS_NewPlayers": 3,
@@ -413,18 +413,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-09-27T13:14:52.3612195+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 180202,
@@ -635,9 +641,9 @@
   "FirstSeen": "2022-07-22T20:22:48.769788+00:00",
   "FirstSeenRating": "2023-03-31T05:57:36.1011646+00:00",
   "FirstSeenAchievements": "2024-03-21T17:09:26.5019662+00:00",
-  "LastChanged": "2024-09-26T08:59:38.5271977+00:00",
+  "LastChanged": "2024-09-27T13:14:52.3612193+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:16.3635865+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:21.6683489+00:00",
-  "LastUpdate_Ratings": "2024-09-27T10:58:22.4873398+00:00",
+  "LastUpdate_Ratings": "2024-09-27T13:14:52.3612199+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:16.3635996+00:00"
 }
