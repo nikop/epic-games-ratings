@@ -4,7 +4,7 @@
   "ProductSlug": "fist-forged-in-shadow-torch",
   "Ranking_Rating": 623,
   "Ranking_Popularity": 141,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3441,10 +3441,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 2602,
       "NumberOfAwardsMax": 2088
+    },
+    {
+      "Time": "2024-09-27T13:57:17.2183374+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2534,
+      "NumberOfAwardsMax": 2088
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2602,
+  "NumberOfAwards": 2534,
   "NumberOfAwardsMax": 2088,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3520,8 +3526,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:53.9715824+00:00",
-  "LastChanged": "2024-09-27T09:59:42.0759035+00:00",
+  "LastChanged": "2024-09-27T13:57:17.2183372+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:19.5683181+00:00",
-  "LastUpdate_Ratings": "2024-09-27T11:58:05.0019108+00:00",
+  "LastUpdate_Ratings": "2024-09-27T13:57:17.2183379+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.4655314+00:00"
 }

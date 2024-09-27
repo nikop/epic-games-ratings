@@ -227,13 +227,13 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-20 | 178,958 | 0 |
 | 2024-09-14 | 193,460 | 0 |
 ## Awards
-Max (Challenging Combat): 2,620  (Ranked 124)  
-Sum: 19,663 (Ranked 79)  
+Max (Challenging Combat): 2,629  (Ranked 124)  
+Sum: 19,678 (Ranked 79)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
-| This game has Challenging Combat | 2,620 |
-| This game has Quickly Understood Controls | 2,618 |
+| This game has Challenging Combat | 2,629 |
+| This game has Quickly Understood Controls | 2,624 |
 | This game is Highly Recommended | 2,607 |
 | This game is Relaxing | 2,553 |
 | This game has Competitive Players | 2,536 |
@@ -869,4 +869,4 @@ Diff (max vs sum): 45
 | 2024-09-24 | 4.40 | - | 2,614 | 19,593 |
 | 2024-09-25 | 4.40 | - | 2,615 | 19,625 |
 | 2024-09-26 | 4.40 | - | 2,620 | 19,653 |
-| 2024-09-27 | 4.40 | - | 2,620 | 19,663 |
+| 2024-09-27 | 4.40 | - | 2,629 | 19,678 |

@@ -1,7 +1,7 @@
 # Edge Of Eternity
 [Store](https://store.epicgames.com/en-US/p/edge-of-eternity)  
 [View Rawdata](../../db/e/edge_of_eternity.json)  
-Rating: 3.70 (Ranked 1,302)  
+Rating: 3.67 (Ranked 1,305)  
 Number of Ratings: 22  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -35,3 +35,4 @@ Number of Ratings: 22  (23.09.2022)
 | 2024-08-12 | 3.71 | - | 0 | 0 |
 | 2024-08-31 | 3.73 | - | 0 | 0 |
 | 2024-09-03 | 3.70 | - | 0 | 0 |
+| 2024-09-27 | 3.67 | - | 0 | 0 |

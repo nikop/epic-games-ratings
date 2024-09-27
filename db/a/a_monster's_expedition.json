@@ -3,8 +3,8 @@
   "Name": "A Monster\u0027s Expedition",
   "ProductSlug": "a-monsters-expedition",
   "Ranking_Rating": 133,
-  "Ranking_Popularity": 725,
-  "Ranking_PopularitySum": 725,
+  "Ranking_Popularity": 724,
+  "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -63,6 +63,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.6505829+00:00",
   "LastChanged": "2024-09-08T17:58:24.5666592+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:40.0947519+00:00",
-  "LastUpdate_Ratings": "2024-09-27T11:59:23.7324644+00:00",
+  "LastUpdate_Ratings": "2024-09-27T13:59:26.8810029+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:07.5277118+00:00"
 }

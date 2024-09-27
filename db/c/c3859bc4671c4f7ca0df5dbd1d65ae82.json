@@ -2,9 +2,9 @@
   "ID": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "Name": "Seekers of Tokane",
   "ProductSlug": "seekers-of-tokane-a5986d",
-  "Ranking_Rating": 732,
-  "Ranking_Popularity": 570,
-  "Ranking_PopularitySum": 488,
+  "Ranking_Rating": 709,
+  "Ranking_Popularity": 566,
+  "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2024-02-16T07:00:10.8210371+00:00",
@@ -846,11 +846,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 285,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2024-09-27T14:00:06.918219+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 286,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 285,
-  "NumberOfAwardsMax": 49,
+  "NumberOfAwards": 286,
+  "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -863,7 +869,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Diverse Characters",
@@ -926,8 +932,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-09-26T16:00:45.9495813+00:00",
+  "LastChanged": "2024-09-27T14:00:06.9182189+00:00",
   "LastUpdate_AppInfo": "2024-09-27T11:57:08.3048929+00:00",
-  "LastUpdate_Ratings": "2024-09-27T11:59:47.9302003+00:00",
+  "LastUpdate_Ratings": "2024-09-27T14:00:06.9182194+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:29.0330964+00:00"
 }
