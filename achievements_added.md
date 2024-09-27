@@ -57,7 +57,7 @@
 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 2024-09-12 | 20 (1,000 XP) | 34,411 | 3.99 | 0 |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.71 | 128 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 128 |
 | [Jackbox Naughty Pack](games/5/5a4eeb82cf7c4200bb4e381511a1982b.md) | 2024-09-12 | 20 (1,000 XP) | 9 | - | 0 |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 0 | - | - |
@@ -603,7 +603,7 @@
 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2023-11-01 | 44 (1,000 XP) | 2,253 | 4.52 | 0 |
 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 2023-10-26 | 13 (1,000 XP) | 591 | - | 0 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 30 (1,000 XP) | 2,103 | - | 0 |
-| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 80,210 | 4.18 | 0 |
+| [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 80,210 | 4.21 | 0 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 13 (1,000 XP) | 64 | - | 0 |
 | [Lempo](games/l/lempo.md) | 2023-09-07 | 34 (1,000 XP) | 1 | - | 0 |
 | [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 476 | 4.59 | 0 |

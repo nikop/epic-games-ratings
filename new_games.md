@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 3 | - | - |
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | - |
-| [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | - |
+| [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | 0 |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-09-26 | 62 (1,000 XP) | 6 | - | 0 |
 | [The Magical Mixture Mill](games/a/afb1eb5b870649929df0d5cd7a9afb94.md) | 2024-09-26 | - |  | - | - |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2024-09-26 | - |  | - | 0 |
@@ -45,7 +45,7 @@
 | [Forgotten Bunker 1939](games/c/c7d05124d88241318dc8ff91c482e561.md) | 2024-09-18 | - |  | - | - |
 | [Seed of Heroes](games/0/0e55c16d6a89449c91646b3add220079.md) | 2024-09-17 | - |  | - | - |
 | [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.34 | 0 |
-| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.71 | 128 |
+| [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 128 |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2024-09-16 | - |  | - | - |
 | [Baby Blues Nightmares - Toddler Horror Game](games/2/2f74af2198f342c1b0cf949373e5e578.md) | 2024-09-16 | - |  | - | 0 |
