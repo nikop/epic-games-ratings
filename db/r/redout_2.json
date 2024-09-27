@@ -4,7 +4,7 @@
   "ProductSlug": "redout-2",
   "Ranking_Rating": 623,
   "Ranking_Popularity": 614,
-  "Ranking_PopularitySum": 547,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -593,10 +593,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 165,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-09-27T03:57:47.9494673+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 185,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 165,
+  "NumberOfAwards": 185,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Beautiful Visuals",
   "Tags": [
@@ -635,6 +641,12 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 21
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 156622,
@@ -2435,9 +2447,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-09-26T14:00:12.6644478+00:00",
+  "LastChanged": "2024-09-27T03:57:47.9494671+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:21.9496321+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:09.6458049+00:00",
-  "LastUpdate_Ratings": "2024-09-27T02:11:03.6760823+00:00",
+  "LastUpdate_Ratings": "2024-09-27T03:57:47.9494676+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:21.9496697+00:00"
 }
