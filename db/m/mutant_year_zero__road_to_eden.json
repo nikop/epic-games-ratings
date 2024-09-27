@@ -4,7 +4,7 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 709,
   "Ranking_Popularity": 235,
-  "Ranking_PopularitySum": 323,
+  "Ranking_PopularitySum": 322,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2187,18 +2187,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 1105,
       "NumberOfAwardsMax": 761
+    },
+    {
+      "Time": "2024-09-27T15:58:07.2220206+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1106,
+      "NumberOfAwardsMax": 762
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1105,
-  "NumberOfAwardsMax": 761,
+  "NumberOfAwards": 1106,
+  "NumberOfAwardsMax": 762,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 761
+      "Count": 762
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2272,8 +2278,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2024-09-27T05:00:12.7761009+00:00",
+  "LastChanged": "2024-09-27T15:58:07.2220204+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:13.358794+00:00",
-  "LastUpdate_Ratings": "2024-09-27T14:00:11.2753491+00:00",
+  "LastUpdate_Ratings": "2024-09-27T15:58:07.222021+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.8783153+00:00"
 }
