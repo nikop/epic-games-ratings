@@ -11,6 +11,7 @@
 | [BADMAD ROBOTS](games/8/8c9aba45f7364ae483dcd05cf7d61cc4.md) | 2099-01-01 | - |  | - | - |
 | [Battle Leet](games/6/68b61ac6800241caa70393fda6da575d.md) | 2099-01-01 | - |  | - | - |
 | [BloodLoop](games/e/e9a242d5b2ff42199ba462963f583cba.md) | 2099-01-01 | - |  | - | - |
+| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2099-01-01 | - |  | - | - |
 | [Calamity](games/6/605c18826d4048e7902d410f98e219ac.md) | 2099-01-01 | - |  | - | - |
 | [Chains of War](games/2/29f2565853204cf3ad9aa748f30a36d5.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |

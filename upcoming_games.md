@@ -27,6 +27,7 @@
 | [Rogue Waters](games/8/898ae428ada149888c1cdd97aaa29845.md) | 2024-09-30 | - |  | - | - |
 | [Dead No-Head](games/9/94e1d567e55e49e487f2fe2a95d26464.md) | 2024-09-30 | - |  | - | - |
 | [Kunkun Terror Express](games/2/27660b74cfde424bb757f518b171b30f.md) | 2024-10-04 | 5 (1,000 XP) | 1 | - | - |
+| [Sherlock Purr 2](games/6/6ab3e6e651b44c47a01354fe34eeab3c.md) | 2024-10-04 | - |  | - | - |
 | [Until Dawn™](games/1/110d3c2c06d6481eb6852a4d2e6a5480.md) | 2024-10-04 | - |  | - | - |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
 | [TRANSFORMERS: Galactic Trials](games/0/069c8b8455244d67bbf581d9ebc61f1c.md) | 2024-10-11 | - |  | - | - |
@@ -49,8 +50,8 @@
 | [The Smurfs – Dreams](games/d/d6bbed959ee545229d579407d5616452.md) | 2024-10-31 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
@@ -284,6 +285,7 @@
 | [Bohnice - Within the Mind](games/b/bc736ece2ddb43eb9850842fd7eb8167.md) | 2099-01-01 | - |  | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2099-01-01 | - |  | - | - |
 | [Brasil Fusion](games/0/0073bdfad01e4888aebd56eb22b3c9ba.md) | 2099-01-01 | - |  | - | - |
+| [Brilliantcrypto](games/e/ef862ce28c8743a1a9ac4d1f66cad91e.md) | 2099-01-01 | - |  | - | - |
 | [Bunnerly](games/e/eaa2c4e26f184354b825f93dd49f30d3.md) | 2099-01-01 | - |  | - | - |
 | [CabbageBall](games/0/0d85667260744011a6042263c3f59522.md) | 2099-01-01 | - |  | - | - |
 | [CadriaItemShop](games/1/156fe52117754eb98a332471081ff9ba.md) | 2099-01-01 | 54 (1,000 XP) | 0 | - | - |

@@ -294,7 +294,7 @@
 | 269 | [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 4.69 | 329 | 307 |
 | 269 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 20 | 717 |
 | 269 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.69 | 0 | 725 |
-| 269 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 998 | 206 |
+| 269 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 999 | 206 |
 | 296 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 5,195 | 97 |
 | 296 | [Astro Duel 2](games/a/astro_duel_2.md) | 4.68 | 0 | 725 |
 | 296 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 959 | 209 |
@@ -1088,21 +1088,21 @@
 | 1,080 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 4.25 | 0 | 725 |
 | 1,080 | [The Fall](games/t/the_fall.md) | 4.25 | 0 | 725 |
 | 1,080 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 725 |
-| 1,089 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 725 |
-| 1,089 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 31 | 647 |
-| 1,089 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.24 | 0 | 725 |
-| 1,089 | [Breakout: Recharged](games/b/breakout__recharged.md) | 4.24 | 0 | 725 |
-| 1,089 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 725 |
-| 1,089 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 29 | 655 |
-| 1,089 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,055 | 200 |
-| 1,089 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 725 |
-| 1,089 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 725 |
-| 1,089 | [Steelrising](games/s/steelrising.md) | 4.24 | 47 | 577 |
-| 1,089 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 49 | 570 |
-| 1,089 | [The Alien Cube](games/t/the_alien_cube.md) | 4.24 | 0 | 725 |
-| 1,089 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.24 | 0 | 725 |
-| 1,089 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 0 | 725 |
-| 1,089 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.24 | 132 | 436 |
+| 1,080 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 4.25 | 132 | 436 |
+| 1,090 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 725 |
+| 1,090 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 4.24 | 31 | 647 |
+| 1,090 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.24 | 0 | 725 |
+| 1,090 | [Breakout: Recharged](games/b/breakout__recharged.md) | 4.24 | 0 | 725 |
+| 1,090 | [City of Brass](games/c/city_of_brass.md) | 4.24 | 0 | 725 |
+| 1,090 | [Mortal Shell](games/m/mortal_shell.md) | 4.24 | 29 | 655 |
+| 1,090 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 1,055 | 200 |
+| 1,090 | [Somerville](games/s/somerville.md) | 4.24 | 0 | 725 |
+| 1,090 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.24 | 0 | 725 |
+| 1,090 | [Steelrising](games/s/steelrising.md) | 4.24 | 47 | 577 |
+| 1,090 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 4.24 | 49 | 570 |
+| 1,090 | [The Alien Cube](games/t/the_alien_cube.md) | 4.24 | 0 | 725 |
+| 1,090 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.24 | 0 | 725 |
+| 1,090 | [Trigon: Space Story](games/t/trigon__space_story.md) | 4.24 | 0 | 725 |
 | 1,104 | [Dragonheir: Silent Gods](games/2/291e87e34f2742d1a246630a2208abaf.md) | 4.23 | 188 | 383 |
 | 1,104 | [EVE Online](games/e/eve_online.md) | 4.23 | 1,362 | 171 |
 | 1,104 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 204 |

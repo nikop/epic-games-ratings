@@ -199,13 +199,13 @@
 | 197 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 1,079 | 4.79 | 115 |
 | 198 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 1,076 | 4.22 | 1,112 |
 | 199 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 1,074 | 4.66 | 337 |
-| 200 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,055 | 4.24 | 1,089 |
+| 200 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,055 | 4.24 | 1,090 |
 | 201 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 1,041 | 4.59 | 507 |
 | 202 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 1,040 | 4.66 | 337 |
 | 203 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1,032 | 4.31 | 1,014 |
 | 204 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,010 | 4.23 | 1,104 |
 | 204 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 1,010 | 4.59 | 507 |
-| 206 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 998 | 4.69 | 269 |
+| 206 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 999 | 4.69 | 269 |
 | 207 | [Prince of Persia The Lost Crown](games/2/22600f09e936468c8ecfc22b5eac7d7c.md) | 986 | 4.77 | 133 |
 | 208 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 982 | 4.46 | 788 |
 | 209 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 959 | 4.68 | 296 |
@@ -436,7 +436,7 @@
 | 432 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 134 | 4.42 | 862 |
 | 435 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 133 | 4.65 | 357 |
 | 436 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 132 | 4.63 | 410 |
-| 436 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 132 | 4.24 | 1,089 |
+| 436 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 132 | 4.25 | 1,080 |
 | 438 | [Art of Rally](games/a/art_of_rally_1.md) | 131 | 4.61 | 461 |
 | 438 | [Poker Club](games/p/poker_club.md) | 131 | 3.87 | 1,276 |
 | 440 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 130 | 4.21 | 1,120 |
@@ -571,13 +571,13 @@
 | 567 | [Redfall](games/r/redfall.md) | 50 | 3.74 | 1,299 |
 | 570 | [Seekers of Tokane](games/c/c3859bc4671c4f7ca0df5dbd1d65ae82.md) | 49 | 4.49 | 732 |
 | 570 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 49 | 4.61 | 461 |
-| 570 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 49 | 4.24 | 1,089 |
+| 570 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 49 | 4.24 | 1,090 |
 | 573 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 48 | 4.57 | 551 |
 | 573 | [Ancient Enemy](games/a/ancient_enemy.md) | 48 | 3.95 | 1,262 |
 | 573 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 48 | 4.43 | 847 |
 | 573 | [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 48 | 4.76 | 149 |
 | 577 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 47 | 3.98 | 1,249 |
-| 577 | [Steelrising](games/s/steelrising.md) | 47 | 4.24 | 1,089 |
+| 577 | [Steelrising](games/s/steelrising.md) | 47 | 4.24 | 1,090 |
 | 577 | [TUNIC](games/t/tunic.md) | 47 | 4.82 | 77 |
 | 580 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 46 | 4.19 | 1,136 |
 | 580 | [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 46 | 4.42 | 862 |
@@ -646,7 +646,7 @@
 | 642 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 32 | 4.45 | 807 |
 | 642 | [WRC Generations](games/w/wrc_generations.md) | 32 | 4.45 | 807 |
 | 642 | [Yooka-Laylee](games/y/yooka-laylee.md) | 32 | 4.26 | 1,069 |
-| 647 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 31 | 4.24 | 1,089 |
+| 647 | [Apeiron](games/0/0e3a1abdf0514f0cb09467038071df59.md) | 31 | 4.24 | 1,090 |
 | 647 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 31 | 3.95 | 1,262 |
 | 647 | [Dungeon Fighter Online](games/b/b567cb36ae39435792fe40d2e913cd92.md) | 31 | 4.48 | 752 |
 | 647 | [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 31 | 4.68 | 296 |
@@ -660,7 +660,7 @@
 | 655 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 29 | 4.56 | 576 |
 | 655 | [Fez](games/f/fez.md) | 29 | 4.75 | 171 |
 | 655 | [God's Trigger](games/g/god's_trigger.md) | 29 | 4.16 | 1,170 |
-| 655 | [Mortal Shell](games/m/mortal_shell.md) | 29 | 4.24 | 1,089 |
+| 655 | [Mortal Shell](games/m/mortal_shell.md) | 29 | 4.24 | 1,090 |
 | 655 | [MotoGP™21](games/m/motogp™21.md) | 29 | 4.58 | 532 |
 | 655 | [RIDE 5](games/r/ride_5.md) | 29 | 4.67 | 315 |
 | 655 | [Tails of Iron](games/t/tails_of_iron.md) | 29 | 4.62 | 432 |
