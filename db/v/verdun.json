@@ -3,7 +3,7 @@
   "Name": "Verdun",
   "ProductSlug": "verdun",
   "Ranking_Rating": 649,
-  "Ranking_Popularity": 443,
+  "Ranking_Popularity": 442,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 591,
@@ -3015,10 +3015,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 1152,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2024-09-27T16:59:05.8341806+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1153,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1152,
+  "NumberOfAwards": 1153,
   "NumberOfAwardsMax": 126,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3104,7 +3110,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 115
+      "Count": 116
     }
   ],
   "EOS_Progressed": 84039,
@@ -34790,9 +34796,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2024-09-26T23:59:45.252213+00:00",
+  "LastChanged": "2024-09-27T16:59:05.8341804+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:05.7487198+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:08:57.962829+00:00",
-  "LastUpdate_Ratings": "2024-09-27T15:00:07.1211748+00:00",
+  "LastUpdate_Ratings": "2024-09-27T16:59:05.8341811+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:05.7488713+00:00"
 }

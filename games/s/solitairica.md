@@ -1,12 +1,12 @@
 # Solitairica
 [Store](https://store.epicgames.com/en-US/p/solitairica)  
 [View Rawdata](../../db/s/solitairica.json)  
-Rating: 4.48 (Ranked 753)  
+Rating: 4.48 (Ranked 754)  
 Number of Ratings: 474  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 126  (Ranked 443)  
+Max (Great for Beginners): 126  (Ranked 442)  
 Sum: 787 (Ranked 369)  
-Diff (max vs sum): 74  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 126 |

@@ -1,7 +1,7 @@
 # Saints Row
 [Store](https://store.epicgames.com/en-US/p/saints-row)  
 [View Rawdata](../../db/s/saints_row.json)  
-Rating: 3.91 (Ranked 1,269)  
+Rating: 3.91 (Ranked 1,270)  
 Number of Ratings: 22,103  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -352,17 +352,17 @@ Completed: 265 (0.02%) (Ranked 536)
 | 2024-09-14 | 1,133,688 | 265 |
 ## Awards
 Max (Great for Beginners): 1,359  (Ranked 172)  
-Sum: 10,817 (Ranked 120)  
+Sum: 10,819 (Ranked 120)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,359 |
-| This game is Extremely Fun | 1,298 |
+| This game is Extremely Fun | 1,299 |
 | This game has Diverse Characters | 1,292 |
 | This game has Quickly Understood Controls | 1,251 |
 | This game is Highly Recommended | 1,244 |
 | This game has Amazing Characters | 1,231 |
-| This game has Amazing Storytelling | 1,198 |
+| This game has Amazing Storytelling | 1,199 |
 | This game is Relaxing | 1,178 |
 | This game has Playful Visuals | 927 |
 | This game has a Silly Community | 766 |
@@ -881,4 +881,4 @@ Diff (max vs sum): 52
 | 2024-09-24 | 3.91 | - | 1,357 | 10,801 |
 | 2024-09-25 | 3.91 | - | 1,357 | 10,807 |
 | 2024-09-26 | 3.91 | - | 1,359 | 10,815 |
-| 2024-09-27 | 3.91 | - | 1,359 | 10,817 |
+| 2024-09-27 | 3.91 | - | 1,359 | 10,819 |

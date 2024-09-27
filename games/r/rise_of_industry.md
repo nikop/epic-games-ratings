@@ -1,7 +1,7 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.27 (Ranked 1,061)  
+Rating: 4.27 (Ranked 1,062)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -325,8 +325,8 @@ Completed: 10 (0.00%) (Ranked 591)
 | 2024-09-14 | 808,753 | 10 |
 ## Awards
 Max (Great for Beginners): 54  (Ranked 560)  
-Sum: 241 (Ranked 507)  
-Diff (max vs sum): 53  
+Sum: 241 (Ranked 506)  
+Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 54 |

@@ -2,7 +2,7 @@
   "ID": "wren",
   "Name": "Ashen",
   "ProductSlug": "ashen",
-  "Ranking_Rating": 1015,
+  "Ranking_Rating": 1017,
   "Ranking_Popularity": 690,
   "Ranking_PopularitySum": 699,
   "Ranking_EOS_Progress": 1254,
@@ -513,6 +513,6 @@
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
   "LastChanged": "2024-09-25T21:59:39.5942712+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:00.4548394+00:00",
-  "LastUpdate_Ratings": "2024-09-27T14:58:57.4609798+00:00",
+  "LastUpdate_Ratings": "2024-09-27T16:57:54.1617651+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:26.1421071+00:00"
 }
