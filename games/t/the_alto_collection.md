@@ -1,7 +1,7 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.68 (Ranked 294)  
+Rating: 4.68 (Ranked 295)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -337,9 +337,9 @@ Completed: 6 (0.01%) (Ranked 559)
 | 2024-08-20 | 74,800 | 6 |
 | 2024-09-14 | 76,774 | 6 |
 ## Awards
-Max (Great for Quick Sessions): 66  (Ranked 528)  
+Max (Great for Quick Sessions): 66  (Ranked 529)  
 Sum: 466 (Ranked 422)  
-Diff (max vs sum): 106  
+Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 66 |
