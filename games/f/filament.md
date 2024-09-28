@@ -1,7 +1,7 @@
 # Filament
 [Store](https://store.epicgames.com/en-US/p/filament-332a92)  
 [View Rawdata](../../db/f/filament.json)  
-Rating: 4.33 (Ranked 996)  
+Rating: 4.34 (Ranked 983)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -442,3 +442,4 @@ Diff (max vs sum): -118
 | 2024-09-17 | 4.33 | 615 | 748 |
 | 2024-09-21 | 4.33 | 615 | 726 |
 | 2024-09-22 | 4.33 | 616 | 755 |
+| 2024-09-28 | 4.34 | 616 | 755 |
