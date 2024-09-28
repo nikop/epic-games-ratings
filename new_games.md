@@ -111,4 +111,3 @@
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2024-08-30 | 5 (1,000 XP) | 2 | - | - |
 | [Star Wars Outlaws](games/e/e860fa919120430ca12c557bb676bc6a.md) | 2024-08-30 | - |  | 4.36 | 0 |
 | [Death Noodle Delivery](games/a/aeb49c35b9fb43e1b1e157d4e1895222.md) | 2024-08-30 | 15 (1,000 XP) | 1 | - | 0 |
-| [Vagneria](games/6/64c04bc14ae04334bc9d6dcadbadaab2.md) | 2024-08-29 | - |  | - | - |
