@@ -4,13 +4,13 @@
 Rating: 4.43 (Ranked 847)  
 ## Awards
 Max (Extremely Fun): 95  (Ranked 482)  
-Sum: 698 (Ranked 383)  
+Sum: 699 (Ranked 383)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 95 |
 | This game is Relaxing | 93 |
-| This game has Amazing Characters | 92 |
+| This game has Amazing Characters | 93 |
 | This game has Amazing Storytelling | 92 |
 | This game has Diverse Characters | 91 |
 | This game has Quickly Understood Controls | 89 |
@@ -400,3 +400,4 @@ Diff (max vs sum): 99
 | 2024-09-23 | 4.43 | 93 | 696 |
 | 2024-09-24 | 4.43 | 94 | 697 |
 | 2024-09-26 | 4.43 | 95 | 698 |
+| 2024-09-28 | 4.43 | 95 | 699 |

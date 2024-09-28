@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dakar_desert_rally.json)  
 Rating: 3.96 (Ranked 1,261)  
 ## Awards
-Max (Great for Beginners): 260  (Ranked 336)  
+Max (Great for Beginners): 260  (Ranked 337)  
 Sum: 1,555 (Ranked 292)  
-Diff (max vs sum): 44  
+Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 260 |

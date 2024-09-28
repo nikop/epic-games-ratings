@@ -338,7 +338,7 @@ Completed: 6 (0.01%) (Ranked 559)
 | 2024-09-14 | 76,774 | 6 |
 ## Awards
 Max (Great for Quick Sessions): 66  (Ranked 529)  
-Sum: 466 (Ranked 422)  
+Sum: 467 (Ranked 422)  
 Diff (max vs sum): 107  
 | Award | Count |
 | ----- | ----- |
@@ -352,7 +352,7 @@ Diff (max vs sum): 107
 | This game is Relaxing | 42 |
 | This game has Amazing Characters | 36 |
 | This game has Amazing Storytelling | 36 |
-| This game has a Kind Community | 28 |
+| This game has a Kind Community | 29 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -576,4 +576,4 @@ Diff (max vs sum): 107
 | 2024-09-18 | 4.68 | - | 64 | 461 |
 | 2024-09-23 | 4.68 | - | 65 | 463 |
 | 2024-09-24 | 4.68 | - | 65 | 464 |
-| 2024-09-28 | 4.68 | - | 66 | 466 |
+| 2024-09-28 | 4.68 | - | 66 | 467 |
