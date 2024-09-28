@@ -2,7 +2,7 @@
   "ID": "043ffc92cbd64a9fbc350ea68f415937",
   "Name": "Arcadegeddon",
   "ProductSlug": "arcadegeddon",
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 248,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.49,
   "NumberOfRatings": 801,
   "RatingHistory": [
     {
@@ -834,6 +834,12 @@
     {
       "Time": "2024-07-31T18:01:28.9802903+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 475,
+      "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-09-28T17:58:46.4316468+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 475,
       "NumberOfAwardsMax": 67
     }
@@ -15091,9 +15097,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
-  "LastChanged": "2024-07-31T18:01:28.98029+00:00",
+  "LastChanged": "2024-09-28T17:58:46.4316466+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:03.8585835+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:51.4014923+00:00",
-  "LastUpdate_Ratings": "2024-09-28T15:59:49.6381425+00:00",
+  "LastUpdate_Ratings": "2024-09-28T17:58:46.4316471+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:03.8586814+00:00"
 }

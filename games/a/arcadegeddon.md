@@ -1,7 +1,7 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.48 (Ranked 751)  
+Rating: 4.49 (Ranked 732)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -465,3 +465,4 @@ Diff (max vs sum): 105
 | 2024-06-21 | 4.48 | - | 67 | 473 |
 | 2024-06-22 | 4.48 | - | 67 | 474 |
 | 2024-07-31 | 4.48 | - | 67 | 475 |
+| 2024-09-28 | 4.49 | - | 67 | 475 |
