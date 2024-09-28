@@ -4,7 +4,7 @@
   "ProductSlug": "fuser",
   "Ranking_Rating": 217,
   "Ranking_Popularity": 621,
-  "Ranking_PopularitySum": 459,
+  "Ranking_PopularitySum": 460,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -344,6 +344,6 @@
   "FirstSeen": "2022-07-22T20:17:53.9357224+00:00",
   "LastChanged": "2024-08-17T19:59:20.4226039+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:37.7033528+00:00",
-  "LastUpdate_Ratings": "2024-09-27T22:58:35.1777781+00:00",
+  "LastUpdate_Ratings": "2024-09-28T02:08:25.4874429+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:42.97358+00:00"
 }
