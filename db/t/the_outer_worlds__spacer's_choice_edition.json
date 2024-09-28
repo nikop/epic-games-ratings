@@ -2,7 +2,7 @@
   "ID": "dc61166eea95474e912953b163791d42",
   "Name": "The Outer Worlds: Spacer\u0027s Choice Edition",
   "ProductSlug": "the-outer-worlds-spacers-choice-edition",
-  "Ranking_Rating": 732,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 1254,
@@ -10539,18 +10539,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 27035,
       "NumberOfAwardsMax": 18293
+    },
+    {
+      "Time": "2024-09-28T21:58:59.0919466+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 27066,
+      "NumberOfAwardsMax": 18322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27035,
-  "NumberOfAwardsMax": 18293,
+  "NumberOfAwards": 27066,
+  "NumberOfAwardsMax": 18322,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 18293
+      "Count": 18322
     },
     {
       "Text": "This game is Relaxing",
@@ -10580,7 +10586,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1015
+      "Count": 1017
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10633,9 +10639,9 @@
   "FirstSeen": "2023-03-07T20:56:52.9843527+00:00",
   "FirstSeenRating": "2023-03-24T21:56:57.663882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5081268+00:00",
-  "LastChanged": "2024-09-28T03:12:05.0284909+00:00",
+  "LastChanged": "2024-09-28T21:58:59.0919464+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:41.3966712+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:09.5316206+00:00",
-  "LastUpdate_Ratings": "2024-09-28T19:59:42.9791707+00:00",
+  "LastUpdate_Ratings": "2024-09-28T21:58:59.0919471+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:41.3966745+00:00"
 }

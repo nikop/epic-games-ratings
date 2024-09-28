@@ -2,7 +2,7 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 601,
+  "Ranking_Rating": 602,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 95,
   "Ranking_EOS_Progress": 1254,
@@ -7455,11 +7455,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 15816,
       "NumberOfAwardsMax": 1934
+    },
+    {
+      "Time": "2024-09-28T21:58:30.1156372+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 15853,
+      "NumberOfAwardsMax": 1947
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15816,
-  "NumberOfAwardsMax": 1934,
+  "NumberOfAwards": 15853,
+  "NumberOfAwardsMax": 1947,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7484,7 +7490,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1934
+      "Count": 1947
     },
     {
       "Text": "This game has Competitive Players",
@@ -7496,7 +7502,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1761
+      "Count": 1774
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7514,7 +7520,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1484
+      "Count": 1495
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7540,8 +7546,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-09-28T19:59:14.0773409+00:00",
+  "LastChanged": "2024-09-28T21:58:30.115637+00:00",
   "LastUpdate_AppInfo": "2024-09-22T20:57:11.5312006+00:00",
-  "LastUpdate_Ratings": "2024-09-28T19:59:14.0773418+00:00",
+  "LastUpdate_Ratings": "2024-09-28T21:58:30.1156377+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:41.475167+00:00"
 }
