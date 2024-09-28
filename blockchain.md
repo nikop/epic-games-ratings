@@ -28,7 +28,6 @@
 | [Kingdom Karnage](games/6/69df793223b24b2aafcc36babbfb8f67.md) | 2099-01-01 | - |  | - | - |
 | [KIRAVERSE](games/9/90f2ff8eb85a4730a0ed66e6e38754c4.md) | 2099-01-01 | - |  | - | - |
 | [KOKODI](games/2/2d89fb7420d8473fa28de88efc7d2f99.md) | 2099-01-01 | - |  | - | - |
-| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2099-01-01 | - |  | - | - |
 | [Lowlife Forms](games/5/56584c5aaba5428582d56e561d0a81f4.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
 | [MetaDOS](games/c/c93d58631e5841a89a75dd2dce81add9.md) | 2099-01-01 | - |  | - | - |
@@ -70,6 +69,7 @@
 | [Interlude](games/d/d75da0b94bfe48898940f73cb3061f05.md) | 2024-09-30 | - |  | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
 | [Ponchiqs](games/2/2c3811eee56e4fb98681ef11991e73dc.md) | 2024-09-30 | - |  | - | - |
+| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | - | - |
 | [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | 0 |
 | [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-09-23 | - |  | - | - |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
@@ -78,7 +78,7 @@
 | [Abysswalkers](games/b/b8bd5380b79344c59ea92636bd103ee8.md) | 2024-08-26 | - |  | - | 0 |
 | [The Lost War](games/a/aa32800387e648c8a53d50684f60ea34.md) | 2024-08-19 | - |  | - | 0 |
 | [AneeMate](games/3/37c7383b38294eeaa49c2c2139cb3807.md) | 2024-08-19 | - |  | - | 0 |
-| [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | 4.62 | 0 |
+| [Etherscape](games/f/f013c08732e84e2db28edc95613f4d6b.md) | 2024-08-16 | - |  | 4.61 | 0 |
 | [Earniverse](games/c/c9eef872f5fb4b6e95e4ba4ea028b194.md) | 2024-08-15 | - |  | - | 0 |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | 0 |
 | [Chronoshot](games/9/9e3c3806794d49e7858081054f2fe2ab.md) | 2024-08-07 | - |  | - | 0 |
@@ -149,7 +149,7 @@
 | [Kugle](games/5/5b14619578434ff7b6cde619be141d38.md) | 2023-10-30 | - |  | - | 0 |
 | [Night Run](games/c/c9340fb1d3984f4f8f5bbafaa0ea066d.md) | 2023-10-24 | 53 (1,000 XP) | 80,210 | 4.21 | 0 |
 | [Brawlers](games/0/03daf1d62b1b42c0a2a5168d91cb61b2.md) | 2023-10-17 | - |  | - | 0 |
-| [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | 4.50 | 23 |
+| [KOMPETE](games/3/359ed81fde234ff2a1b190ba60da928e.md) | 2023-10-16 | - |  | 4.50 | 26 |
 | [Torque Drift 2](games/3/3a75347fa792448385b55a73a8bc5625.md) | 2023-10-02 | - |  | 3.83 | 0 |
 | [3D City: Metaverse](games/8/832915a6cdbc4da1889092021da40df2.md) | 2023-09-30 | - |  | - | 0 |
 | [Polker](games/1/1c380e2b8e7b4c2ea0643aff249fb7f1.md) | 2023-09-29 | - |  | - | 0 |
