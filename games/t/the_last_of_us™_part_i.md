@@ -1,11 +1,11 @@
 # The Last of Us™ Part I
 [Store](https://store.epicgames.com/en-US/p/the-last-of-us-part-1)  
 [View Rawdata](../../db/t/the_last_of_us™_part_i.json)  
-Rating: 4.66 (Ranked 338)  
+Rating: 4.66 (Ranked 339)  
 ## Awards
 Max (Great Boss Battles): 1,078  (Ranked 198)  
-Sum: 1,690 (Ranked 285)  
-Diff (max vs sum): -87  
+Sum: 1,691 (Ranked 284)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,078 |
@@ -17,7 +17,7 @@ Diff (max vs sum): -87
 | This game has Challenging Combat | 55 |
 | This game is Educational | 54 |
 | This game has Quickly Understood Controls | 52 |
-| This game has Amazing Storytelling | 51 |
+| This game has Amazing Storytelling | 52 |
 | This game is Relaxing | 47 |
 | This game has a Creative Community | 40 |
 ## Ratings History
@@ -413,4 +413,4 @@ Diff (max vs sum): -87
 | 2024-09-25 | 4.66 | 1,066 | 1,672 |
 | 2024-09-26 | 4.66 | 1,074 | 1,682 |
 | 2024-09-27 | 4.66 | 1,074 | 1,686 |
-| 2024-09-28 | 4.66 | 1,078 | 1,690 |
+| 2024-09-28 | 4.66 | 1,078 | 1,691 |

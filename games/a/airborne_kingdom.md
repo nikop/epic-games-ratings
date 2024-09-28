@@ -1,7 +1,7 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.64 (Ranked 386)  
+Rating: 4.63 (Ranked 409)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -388,3 +388,4 @@ Completed: 65 (0.76%) (Ranked 314)
 | 2023-08-27 | 4.64 | - | 0 | 0 |
 | 2023-10-20 | 4.65 | - | 0 | 0 |
 | 2024-09-22 | 4.64 | - | 0 | 0 |
+| 2024-09-28 | 4.63 | - | 0 | 0 |

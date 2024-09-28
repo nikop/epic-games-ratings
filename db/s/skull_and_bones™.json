@@ -4,7 +4,7 @@
   "ProductSlug": "skull-and-bones",
   "Ranking_Rating": 1187,
   "Ranking_Popularity": 116,
-  "Ranking_PopularitySum": 147,
+  "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5231,6 +5231,6 @@
   "FirstSeenRating": "2024-02-16T20:00:02.6134347+00:00",
   "LastChanged": "2024-09-28T16:58:00.5740676+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:36.6846509+00:00",
-  "LastUpdate_Ratings": "2024-09-28T18:57:23.2509342+00:00",
+  "LastUpdate_Ratings": "2024-09-28T19:59:48.4107909+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:04.7719506+00:00"
 }

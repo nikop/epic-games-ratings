@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 268,
   "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -301,10 +301,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 429,
       "NumberOfAwardsMax": 157
+    },
+    {
+      "Time": "2024-09-28T19:59:24.5066883+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 157
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 429,
+  "NumberOfAwards": 465,
   "NumberOfAwardsMax": 157,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -318,7 +324,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 119
+      "Count": 135
     },
     {
       "Text": "This game has Amazing Characters",
@@ -355,6 +361,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 532,
@@ -943,9 +955,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-09-28T17:59:47.2015509+00:00",
+  "LastChanged": "2024-09-28T19:59:24.5066865+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-23T18:57:02.8972277+00:00",
-  "LastUpdate_Ratings": "2024-09-28T17:59:47.2015514+00:00",
+  "LastUpdate_Ratings": "2024-09-28T19:59:24.5066885+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }

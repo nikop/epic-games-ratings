@@ -2,7 +2,7 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 386,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 263,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "NumberOfRatings": 74,
   "RatingHistory": [
     {
@@ -326,6 +326,12 @@
     {
       "Time": "2024-09-22T18:57:40.4698817+00:00",
       "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-28T19:58:37.5387221+00:00",
+      "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -7491,9 +7497,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
-  "LastChanged": "2024-09-22T18:57:40.4698815+00:00",
+  "LastChanged": "2024-09-28T19:58:37.5387219+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:12.5876886+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:14:02.4427056+00:00",
-  "LastUpdate_Ratings": "2024-09-28T17:59:01.5281977+00:00",
+  "LastUpdate_Ratings": "2024-09-28T19:58:37.5387225+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:12.5877434+00:00"
 }

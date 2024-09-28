@@ -2,7 +2,7 @@
   "ID": "300ee26a2d6746cdb7dd515ae819f5d4",
   "Name": "The Spirit and the Mouse",
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
-  "Ranking_Rating": 847,
+  "Ranking_Rating": 732,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 725,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:29.058664+00:00",
@@ -32,6 +32,12 @@
     {
       "Time": "2024-09-27T19:57:48.9899228+00:00",
       "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-28T19:57:20.9247795+00:00",
+      "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -467,9 +473,9 @@
   "FirstSeen": "2022-10-01T10:03:03.0283812+00:00",
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
-  "LastChanged": "2024-09-27T19:57:48.9899226+00:00",
+  "LastChanged": "2024-09-28T19:57:20.9247794+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:05.1000001+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:24.2672867+00:00",
-  "LastUpdate_Ratings": "2024-09-28T17:57:45.5565689+00:00",
+  "LastUpdate_Ratings": "2024-09-28T19:57:20.9247799+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:05.100023+00:00"
 }
