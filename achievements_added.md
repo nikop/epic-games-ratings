@@ -153,7 +153,7 @@
 | [Nerth Downfall](games/d/dad8521e64e74ece84dafbb0470b8ccf.md) | 2024-06-24 | 11 (1,000 XP) | 1 | - | 0 |
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | 7 (1,000 XP) | 60 | - | 0 |
 | [Hero of the Kingdom II](games/e/ed5411fb63534b74952a4dba16d5a38f.md) | 2024-08-05 | 48 (1,000 XP) | 57 | - | 0 |
-| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 115,549 | 4.44 | 196 |
+| [Sunless Skies: Sovereign Edition](games/3/3f6f54e0f8164224b817d23075cbb2a8.md) | 2024-06-27 | 31 (1,000 XP) | 115,549 | 4.44 | 197 |
 | [Hero of the Kingdom III](games/a/a64669daa91845c094bd01c537658db2.md) | 2024-08-12 | 57 (1,000 XP) | 19 | - | 0 |
 | [Flashback 2](games/f/flashback_2.md) | 2024-06-30 | 21 (1,000 XP) | 3 | - | - |
 | [The Oregon Trail](games/1/1d6775ba73a54669817f482fb89f9dae.md) | 2024-07-04 | 26 (1,195 XP) | 204 | - | 0 |
