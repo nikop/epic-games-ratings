@@ -17183,10 +17183,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 26339,
       "NumberOfAwardsMax": 10707
+    },
+    {
+      "Time": "2024-09-28T16:58:58.0278568+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 26340,
+      "NumberOfAwardsMax": 10707
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26339,
+  "NumberOfAwards": 26340,
   "NumberOfAwardsMax": 10707,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -17236,7 +17242,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1250
+      "Count": 1251
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17262,8 +17268,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-09-28T04:57:39.4623373+00:00",
+  "LastChanged": "2024-09-28T16:58:58.0278566+00:00",
   "LastUpdate_AppInfo": "2024-09-22T20:57:13.9287321+00:00",
-  "LastUpdate_Ratings": "2024-09-28T15:01:21.0402959+00:00",
+  "LastUpdate_Ratings": "2024-09-28T16:58:58.0278572+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:18.3392341+00:00"
 }

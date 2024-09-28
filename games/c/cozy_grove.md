@@ -1,7 +1,7 @@
 # Cozy Grove
 [Store](https://store.epicgames.com/en-US/p/cozy-grove)  
 [View Rawdata](../../db/c/cozy_grove.json)  
-Rating: 4.73 (Ranked 204)  
+Rating: 4.74 (Ranked 190)  
 Number of Ratings: 43  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -37,3 +37,4 @@ Number of Ratings: 43  (23.09.2022)
 | 2024-08-17 | 4.77 | - | 0 | 0 |
 | 2024-08-25 | 4.72 | - | 0 | 0 |
 | 2024-09-02 | 4.73 | - | 0 | 0 |
+| 2024-09-28 | 4.74 | - | 0 | 0 |

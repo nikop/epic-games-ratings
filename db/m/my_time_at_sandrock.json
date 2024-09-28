@@ -2,7 +2,7 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 269,
+  "Ranking_Rating": 268,
   "Ranking_Popularity": 237,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 405,
@@ -4066,10 +4066,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 1967,
       "NumberOfAwardsMax": 761
+    },
+    {
+      "Time": "2024-09-28T16:57:31.8483943+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1968,
+      "NumberOfAwardsMax": 761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1967,
+  "NumberOfAwards": 1968,
   "NumberOfAwardsMax": 761,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4149,7 +4155,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 96
+      "Count": 97
     }
   ],
   "EOS_Progressed": 1224,
@@ -14019,9 +14025,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-09-27T18:57:47.1548407+00:00",
+  "LastChanged": "2024-09-28T16:57:31.8483941+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:49.1554704+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:28.0176495+00:00",
-  "LastUpdate_Ratings": "2024-09-28T14:59:10.2086265+00:00",
+  "LastUpdate_Ratings": "2024-09-28T16:57:31.8483947+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:49.1555614+00:00"
 }

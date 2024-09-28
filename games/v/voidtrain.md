@@ -1,7 +1,7 @@
 # Voidtrain
 [Store](https://store.epicgames.com/en-US/p/voidtrain)  
 [View Rawdata](../../db/v/voidtrain.json)  
-Rating: 4.50 (Ranked 709)  
+Rating: 4.50 (Ranked 710)  
 Number of Ratings: 1,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -74,8 +74,8 @@ Completed: 3 (0.01%) (Ranked 559)
 | 2024-09-14 | 20,627 | 3 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 549)  
-Sum: 352 (Ranked 458)  
-Diff (max vs sum): 91  
+Sum: 352 (Ranked 459)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 58 |
