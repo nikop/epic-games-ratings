@@ -1,7 +1,7 @@
 # Hades
 [Store](https://store.epicgames.com/en-US/p/hades)  
 [View Rawdata](../../db/h/hades.json)  
-Rating: 4.92 (Ranked 4)  
+Rating: 4.91 (Ranked 5)  
 Number of Ratings: 6,336  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -347,12 +347,12 @@ Completed: 7,178 (0.95%) (Ranked 289)
 | 2024-08-20 | 752,219 | 7,153 |
 | 2024-09-14 | 753,371 | 7,178 |
 ## Awards
-Max (Character Customization): 4,345  (Ranked 104)  
-Sum: 10,988 (Ranked 118)  
+Max (Character Customization): 4,347  (Ranked 104)  
+Sum: 10,991 (Ranked 118)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 4,345 |
+| This game has Inclusive Character Customization | 4,347 |
 | This game has Great Boss Battles | 3,004 |
 | This game is Great for Beginners | 384 |
 | This game is Highly Recommended | 361 |
@@ -362,7 +362,7 @@ Diff (max vs sum): -14
 | This game has Quickly Understood Controls | 337 |
 | This game has Diverse Characters | 331 |
 | This game has Challenging Combat | 331 |
-| This game is Relaxing | 314 |
+| This game is Relaxing | 315 |
 | This game has Unique Visuals | 310 |
 | This game has a Creative Community | 239 |
 | This game has Obsessive Gameplay | 144 |
@@ -958,3 +958,4 @@ Diff (max vs sum): -14
 | 2024-09-25 | 4.91 | - | 4,341 | 10,972 |
 | 2024-09-26 | 4.92 | - | 4,341 | 10,975 |
 | 2024-09-27 | 4.92 | - | 4,345 | 10,988 |
+| 2024-09-28 | 4.91 | - | 4,347 | 10,991 |

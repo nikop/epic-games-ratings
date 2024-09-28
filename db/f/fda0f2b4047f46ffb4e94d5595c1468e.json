@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 550,
   "Ranking_Popularity": 101,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 195,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2023-09-20T09:57:46.6053491+00:00",
@@ -14251,10 +14251,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 17059,
       "NumberOfAwardsMax": 4675
+    },
+    {
+      "Time": "2024-09-28T18:59:05.552109+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 17069,
+      "NumberOfAwardsMax": 4675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17059,
+  "NumberOfAwards": 17069,
   "NumberOfAwardsMax": 4675,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -14274,7 +14280,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1236
+      "Count": 1240
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14298,7 +14304,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1236
+      "Count": 1239
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14328,7 +14334,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 1378
+      "Count": 1381
     }
   ],
   "EOS_Progressed": 31524,
@@ -27219,9 +27225,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-09-28T11:58:55.0958188+00:00",
+  "LastChanged": "2024-09-28T18:59:05.5521087+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:50.7464082+00:00",
   "LastUpdate_AppInfo": "2024-09-22T20:57:16.6227853+00:00",
-  "LastUpdate_Ratings": "2024-09-28T16:59:44.0909243+00:00",
+  "LastUpdate_Ratings": "2024-09-28T18:59:05.5521102+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:50.7464974+00:00"
 }

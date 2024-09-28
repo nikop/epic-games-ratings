@@ -2,7 +2,7 @@
   "ID": "4b4cf9f6797e47099d1a132d485ed0f2",
   "Name": "HAWKED",
   "ProductSlug": "hawked-b256b5",
-  "Ranking_Rating": 1029,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 679,
   "Ranking_PopularitySum": 691,
   "Ranking_EOS_Progress": 283,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2024-06-28T22:00:04.8756096+00:00",
@@ -232,6 +232,12 @@
     {
       "Time": "2024-09-27T18:57:59.2242317+00:00",
       "Rating": 4.3,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-09-28T18:57:02.189393+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
     }
@@ -528,9 +534,9 @@
   "FirstSeen": "2024-05-23T20:59:26.0928434+00:00",
   "FirstSeenRating": "2024-06-28T22:00:04.8756094+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:21.8377272+00:00",
-  "LastChanged": "2024-09-27T18:57:59.2242314+00:00",
+  "LastChanged": "2024-09-28T18:57:02.1893927+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:34.272322+00:00",
   "LastUpdate_AppInfo": "2024-09-26T16:57:12.8992447+00:00",
-  "LastUpdate_Ratings": "2024-09-28T16:57:40.027135+00:00",
+  "LastUpdate_Ratings": "2024-09-28T18:57:02.1893934+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.2723416+00:00"
 }
