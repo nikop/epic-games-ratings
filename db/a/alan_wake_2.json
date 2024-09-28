@@ -2,7 +2,7 @@
   "ID": "c4763f236d08423eb47b4c3008779c84",
   "Name": "Alan Wake 2",
   "ProductSlug": "alan-wake-2",
-  "Ranking_Rating": 96,
+  "Ranking_Rating": 95,
   "Ranking_Popularity": 163,
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 61,
@@ -8731,11 +8731,17 @@
       "Rating": 4.81,
       "NumberOfAwards": 8644,
       "NumberOfAwardsMax": 1481
+    },
+    {
+      "Time": "2024-09-28T08:00:08.7358272+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 8657,
+      "NumberOfAwardsMax": 1484
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8644,
-  "NumberOfAwardsMax": 1481,
+  "NumberOfAwards": 8657,
+  "NumberOfAwardsMax": 1484,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -8748,13 +8754,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1481
+      "Count": 1484
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1291
+      "Count": 1296
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8766,7 +8772,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1236
+      "Count": 1241
     },
     {
       "Text": "This game has a Creative Community",
@@ -21266,9 +21272,9 @@
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
-  "LastChanged": "2024-09-28T03:12:55.350488+00:00",
+  "LastChanged": "2024-09-28T08:00:08.7358271+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:13.6489009+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:53.4202866+00:00",
-  "LastUpdate_Ratings": "2024-09-28T05:59:28.5509766+00:00",
+  "LastUpdate_Ratings": "2024-09-28T08:00:08.7358276+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:13.6490315+00:00"
 }
