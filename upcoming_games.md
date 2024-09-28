@@ -185,10 +185,10 @@
 | [Ariokan](games/f/f4962a68cb2a46e295f690e592655ec0.md) | 2025-06-30 | - |  | - | - |
 | [Crystal Ball Critters](games/9/9f72ba7c750948d0ba91b26f9c989b3f.md) | 2025-06-30 | - |  | - | - |
 | [Escape the Charon](games/0/0c2bc94b5c6e45eab601489bd567db7d.md) | 2025-06-30 | - |  | - | - |
-| [THE GUARDIANS](games/b/b7018716306c4f0db9c8abe14f20647d.md) | 2025-06-30 | - |  | - | - |
 | [Valannia Arena](games/4/4706bb0e4a72425c8fbeea69d63acf1f.md) | 2025-06-30 | - |  | - | - |
 | [Zone Nine Nihilation](games/3/3a30a0b1bc1843b3936a81751ee2a13f.md) | 2025-06-30 | - |  | - | - |
 | [Temple of the Gods](games/5/5665bab3e0ea4f24a6f12afa762b956e.md) | 2025-09-30 | - |  | - | - |
+| [THE GUARDIANS](games/b/b7018716306c4f0db9c8abe14f20647d.md) | 2025-09-30 | - |  | - | - |
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2025-12-31 | - |  | - | - |
 | [Citizen Sleeper 2: Starward Vector](games/2/283988bcb09342d3901d99f3cc22ca77.md) | 2025-12-31 | - |  | - | - |
