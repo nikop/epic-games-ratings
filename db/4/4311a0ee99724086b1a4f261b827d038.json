@@ -3,7 +3,7 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 601,
-  "Ranking_Popularity": 557,
+  "Ranking_Popularity": 556,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 591,
@@ -1755,12 +1755,18 @@
       "Rating": 4.55,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-09-28T14:58:39.3057958+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 339,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 338,
-  "NumberOfAwardsMax": 55,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 339,
+  "NumberOfAwardsMax": 56,
+  "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1802,7 +1808,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has Amazing Characters",
@@ -24020,9 +24026,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-09-28T11:00:34.7016002+00:00",
+  "LastChanged": "2024-09-28T14:58:39.3057956+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:02.3187751+00:00",
   "LastUpdate_AppInfo": "2024-09-28T09:57:17.5446949+00:00",
-  "LastUpdate_Ratings": "2024-09-28T13:12:35.4530597+00:00",
+  "LastUpdate_Ratings": "2024-09-28T14:58:39.3057961+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:02.3188789+00:00"
 }

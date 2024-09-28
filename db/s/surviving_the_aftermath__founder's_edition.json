@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 943,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 50,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.37,
   "NumberOfRatings": 836,
   "RatingHistory": [
     {
@@ -6182,6 +6182,12 @@
     {
       "Time": "2024-09-28T11:58:20.6514552+00:00",
       "Rating": 4.38,
+      "NumberOfAwards": 2295,
+      "NumberOfAwardsMax": 483
+    },
+    {
+      "Time": "2024-09-28T15:01:38.3330804+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 2295,
       "NumberOfAwardsMax": 483
     }
@@ -31290,9 +31296,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
-  "LastChanged": "2024-09-28T11:58:20.651455+00:00",
+  "LastChanged": "2024-09-28T15:01:38.3330802+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:55.7098981+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:33.8552308+00:00",
-  "LastUpdate_Ratings": "2024-09-28T13:57:47.4962005+00:00",
+  "LastUpdate_Ratings": "2024-09-28T15:01:38.3330807+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:55.7100292+00:00"
 }
