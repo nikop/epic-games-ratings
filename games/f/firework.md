@@ -1,7 +1,7 @@
 # Firework
 [Store](https://store.epicgames.com/en-US/p/firework-a03fdc)  
 [View Rawdata](../../db/f/firework.json)  
-Rating: 4.84 (Ranked 52)  
+Rating: 4.84 (Ranked 51)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

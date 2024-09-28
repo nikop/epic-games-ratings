@@ -332,12 +332,12 @@ Completed: 228 (0.20%) (Ranked 415)
 | 2024-08-09 | 108,955 | 223 |
 | 2024-09-14 | 111,561 | 228 |
 ## Awards
-Max (Highly Recommended): 588  (Ranked 258)  
-Sum: 3,741 (Ranked 202)  
-Diff (max vs sum): 56  
+Max (Highly Recommended): 590  (Ranked 257)  
+Sum: 3,743 (Ranked 202)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 588 |
+| This game is Highly Recommended | 590 |
 | This game is Relaxing | 583 |
 | This game is Extremely Fun | 532 |
 | This game has Quickly Understood Controls | 528 |
@@ -772,3 +772,4 @@ Diff (max vs sum): 56
 | 2024-09-25 | 4.54 | - | 587 | 3,734 |
 | 2024-09-26 | 4.54 | - | 588 | 3,739 |
 | 2024-09-27 | 4.54 | - | 588 | 3,741 |
+| 2024-09-28 | 4.54 | - | 590 | 3,743 |
