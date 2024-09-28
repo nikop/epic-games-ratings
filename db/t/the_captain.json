@@ -4,7 +4,7 @@
   "ProductSlug": "the-captain",
   "Ranking_Rating": 829,
   "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 387,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -545,10 +545,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 688,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-09-28T03:58:41.5149542+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 689,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 688,
+  "NumberOfAwards": 689,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -616,7 +622,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 44
+      "Count": 45
     }
   ],
   "EOS_Progressed": 0,
@@ -631,8 +637,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2024-09-21T11:58:22.8297751+00:00",
+  "LastChanged": "2024-09-28T03:58:41.514954+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:16.5177585+00:00",
-  "LastUpdate_Ratings": "2024-09-28T02:10:27.4946172+00:00",
+  "LastUpdate_Ratings": "2024-09-28T03:58:41.5149545+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:07.293792+00:00"
 }
