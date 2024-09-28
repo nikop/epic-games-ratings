@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 943,
+  "Ranking_Rating": 960,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 191,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.37,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-10-22T18:02:06.461255+00:00",
@@ -441,6 +441,12 @@
     {
       "Time": "2024-09-21T09:57:26.7293396+00:00",
       "Rating": 4.37,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-28T10:57:58.2581047+00:00",
+      "Rating": 4.36,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -9842,9 +9848,9 @@
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
-  "LastChanged": "2024-09-21T09:57:26.7293395+00:00",
+  "LastChanged": "2024-09-28T10:57:58.2581045+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:35.5116879+00:00",
   "LastUpdate_AppInfo": "2024-09-27T22:57:17.26317+00:00",
-  "LastUpdate_Ratings": "2024-09-28T08:58:34.8100303+00:00",
+  "LastUpdate_Ratings": "2024-09-28T10:57:58.258105+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:35.5117461+00:00"
 }

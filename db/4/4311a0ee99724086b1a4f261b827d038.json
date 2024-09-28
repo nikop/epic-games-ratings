@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 576,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 557,
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 85,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-07-29T12:59:22.4734783+00:00",
@@ -1747,6 +1747,12 @@
     {
       "Time": "2024-09-24T14:59:10.2499208+00:00",
       "Rating": 4.56,
+      "NumberOfAwards": 338,
+      "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-09-28T11:00:34.7016004+00:00",
+      "Rating": 4.55,
       "NumberOfAwards": 338,
       "NumberOfAwardsMax": 55
     }
@@ -24014,9 +24020,9 @@
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-09-24T14:59:10.2499206+00:00",
+  "LastChanged": "2024-09-28T11:00:34.7016002+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:02.3187751+00:00",
   "LastUpdate_AppInfo": "2024-09-28T09:57:17.5446949+00:00",
-  "LastUpdate_Ratings": "2024-09-28T09:01:10.9176495+00:00",
+  "LastUpdate_Ratings": "2024-09-28T11:00:34.7016008+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:02.3188789+00:00"
 }
