@@ -4,7 +4,7 @@
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 269,
   "Ranking_Popularity": 289,
-  "Ranking_PopularitySum": 238,
+  "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 466,
   "Ranking_EOS_NewPlayers": 3,
@@ -3243,10 +3243,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2534,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2024-09-28T03:14:43.4724806+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2536,
+      "NumberOfAwardsMax": 407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2534,
+  "NumberOfAwards": 2536,
   "NumberOfAwardsMax": 407,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3290,7 +3296,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 236
+      "Count": 238
     },
     {
       "Text": "This game is Educational",
@@ -15067,9 +15073,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2024-09-27T22:58:54.5710669+00:00",
+  "LastChanged": "2024-09-28T03:14:43.4724789+00:00",
   "LastChanged_Achievements": "2024-09-14T14:17:47.8897909+00:00",
   "LastUpdate_AppInfo": "2024-09-23T02:08:59.0819193+00:00",
-  "LastUpdate_Ratings": "2024-09-28T02:08:45.1851977+00:00",
+  "LastUpdate_Ratings": "2024-09-28T03:14:43.4724808+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:47.8898828+00:00"
 }

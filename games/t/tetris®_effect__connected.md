@@ -5,8 +5,8 @@ Rating: 4.86 (Ranked 30)
 Number of Ratings: 272  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 72  (Ranked 518)  
-Sum: 498 (Ranked 414)  
-Diff (max vs sum): 104  
+Sum: 498 (Ranked 413)  
+Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 194 |

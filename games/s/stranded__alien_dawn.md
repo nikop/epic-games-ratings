@@ -1,15 +1,15 @@
 # Stranded: Alien Dawn
 [Store](https://store.epicgames.com/en-US/p/stranded-alien-dawn)  
 [View Rawdata](../../db/s/stranded__alien_dawn.json)  
-Rating: 4.55 (Ranked 600)  
+Rating: 4.56 (Ranked 575)  
 ## Awards
 Max (Great for Beginners): 55  (Ranked 557)  
-Sum: 237 (Ranked 509)  
-Diff (max vs sum): 48  
+Sum: 238 (Ranked 508)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 55 |
-| This game has Diverse Characters | 39 |
+| This game has Diverse Characters | 40 |
 | This game is Extremely Fun | 28 |
 | This game is Highly Recommended | 26 |
 | This game has Amazing Characters | 25 |
@@ -163,3 +163,4 @@ Diff (max vs sum): 48
 | 2024-09-21 | 4.55 | 55 | 233 |
 | 2024-09-25 | 4.55 | 55 | 236 |
 | 2024-09-27 | 4.55 | 55 | 237 |
+| 2024-09-28 | 4.56 | 55 | 238 |
