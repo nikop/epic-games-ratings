@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 914,
   "Ranking_Popularity": 493,
-  "Ranking_PopularitySum": 404,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2405,10 +2405,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 561,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-09-28T22:59:34.5028724+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 562,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 561,
+  "NumberOfAwards": 562,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2470,7 +2476,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54
+      "Count": 55
     }
   ],
   "EOS_Progressed": 265583,
@@ -29848,9 +29854,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-09-28T10:59:13.2512346+00:00",
+  "LastChanged": "2024-09-28T22:59:34.5028722+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:22.620348+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:43.7424085+00:00",
-  "LastUpdate_Ratings": "2024-09-28T21:57:22.7038406+00:00",
+  "LastUpdate_Ratings": "2024-09-28T22:59:34.5028727+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:22.6204954+00:00"
 }
