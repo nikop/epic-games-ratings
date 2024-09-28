@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.45 (Ranked 807)  
 ## Awards
-Max (Realistic Visuals): 32  (Ranked 641)  
+Max (Realistic Visuals): 32  (Ranked 643)  
 Sum: 201 (Ranked 531)  
-Diff (max vs sum): 110  
+Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 32 |

@@ -3,8 +3,8 @@
   "Name": "Parallel TCG",
   "ProductSlug": "parallel-tcg-724880",
   "Ranking_Rating": 297,
-  "Ranking_Popularity": 646,
-  "Ranking_PopularitySum": 601,
+  "Ranking_Popularity": 634,
+  "Ranking_PopularitySum": 599,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -354,24 +354,30 @@
       "Rating": 4.68,
       "NumberOfAwards": 82,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-09-27T23:57:00.6124295+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 85,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 82,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 85,
+  "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 31
+      "Count": 33
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Challenging Combat",
@@ -392,8 +398,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T02:56:53.6157309+00:00",
   "FirstSeenRating": "2024-07-25T16:58:09.7245638+00:00",
-  "LastChanged": "2024-09-27T13:16:02.6037811+00:00",
+  "LastChanged": "2024-09-27T23:57:00.6124293+00:00",
   "LastUpdate_AppInfo": "2024-09-26T07:57:11.820387+00:00",
-  "LastUpdate_Ratings": "2024-09-27T21:58:47.0768623+00:00",
+  "LastUpdate_Ratings": "2024-09-27T23:57:00.6124297+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.9315201+00:00"
 }
