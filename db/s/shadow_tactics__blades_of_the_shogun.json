@@ -4,7 +4,7 @@
   "ProductSlug": "shadow-tactics",
   "Ranking_Rating": 317,
   "Ranking_Popularity": 244,
-  "Ranking_PopularitySum": 171,
+  "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 497,
   "Ranking_EOS_NewPlayers": 3,
@@ -4148,11 +4148,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 5292,
       "NumberOfAwardsMax": 654
+    },
+    {
+      "Time": "2024-09-28T11:59:21.2142502+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 5293,
+      "NumberOfAwardsMax": 655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5292,
-  "NumberOfAwardsMax": 654,
+  "NumberOfAwards": 5293,
+  "NumberOfAwardsMax": 655,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4189,7 +4195,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 654
+      "Count": 655
     },
     {
       "Text": "This game has Diverse Characters",
@@ -37145,9 +37151,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-09-27T21:00:16.9717729+00:00",
+  "LastChanged": "2024-09-28T11:59:21.21425+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:04.3093062+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:17.7822708+00:00",
-  "LastUpdate_Ratings": "2024-09-28T10:01:26.1621778+00:00",
+  "LastUpdate_Ratings": "2024-09-28T11:59:21.2142506+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:04.3094832+00:00"
 }
