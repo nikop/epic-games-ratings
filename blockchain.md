@@ -111,7 +111,7 @@
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
 | [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.77 | 57 |
-| [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-04-22 | - |  | 4.68 | 31 |
+| [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-04-22 | - |  | 4.68 | 33 |
 | [Mars Battle](games/6/62681f0dc1b14afea3f65c97225ea517.md) | 2024-04-20 | 7 (1,000 XP) | 2,801 | - | 0 |
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | 0 |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | 0 |
@@ -174,7 +174,7 @@
 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 2023-06-22 | - |  | 4.50 | 52 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-06-03 | - |  | 4.65 | 0 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
-| [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.62 | 0 |
+| [GRIT](games/g/grit.md) | 2023-05-08 | - |  | 4.59 | 0 |
 | [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.43 | 39 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.86 | 64 |
