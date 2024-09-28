@@ -4,7 +4,7 @@
   "ProductSlug": "stranded-deep",
   "Ranking_Rating": 1105,
   "Ranking_Popularity": 319,
-  "Ranking_PopularitySum": 276,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -4447,10 +4447,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 1762,
       "NumberOfAwardsMax": 292
+    },
+    {
+      "Time": "2024-09-28T13:57:25.5048392+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1473,
+      "NumberOfAwardsMax": 292
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1762,
+  "NumberOfAwards": 1473,
   "NumberOfAwardsMax": 292,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4526,8 +4532,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-09-28T09:59:25.3195985+00:00",
+  "LastChanged": "2024-09-28T13:57:25.504839+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:26.6598409+00:00",
-  "LastUpdate_Ratings": "2024-09-28T11:58:01.025386+00:00",
+  "LastUpdate_Ratings": "2024-09-28T13:57:25.5048399+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.5192702+00:00"
 }
