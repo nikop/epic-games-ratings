@@ -4,7 +4,7 @@
   "ProductSlug": "shapez-0929c9",
   "Ranking_Rating": 217,
   "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 496,
+  "Ranking_PopularitySum": 495,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1024,10 +1024,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 272,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2024-09-29T16:58:45.7650601+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 273,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 272,
+  "NumberOfAwards": 273,
   "NumberOfAwardsMax": 46,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1077,7 +1083,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1098,8 +1104,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2024-09-27T22:01:08.9702899+00:00",
+  "LastChanged": "2024-09-29T16:58:45.7650599+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:46.154278+00:00",
-  "LastUpdate_Ratings": "2024-09-29T15:00:06.7639059+00:00",
+  "LastUpdate_Ratings": "2024-09-29T16:58:45.7650604+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:04.6278213+00:00"
 }
