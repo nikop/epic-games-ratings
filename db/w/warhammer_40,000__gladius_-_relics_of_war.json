@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-gladius-relics-of-war",
   "Ranking_Rating": 865,
   "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -4117,10 +4117,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 989,
       "NumberOfAwardsMax": 257
+    },
+    {
+      "Time": "2024-09-29T21:58:17.4006423+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 991,
+      "NumberOfAwardsMax": 257
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 989,
+  "NumberOfAwards": 991,
   "NumberOfAwardsMax": 257,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4134,7 +4140,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 128
+      "Count": 130
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4202,8 +4208,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2024-09-29T14:57:56.1091759+00:00",
+  "LastChanged": "2024-09-29T21:58:17.4006421+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:16.9720272+00:00",
-  "LastUpdate_Ratings": "2024-09-29T19:58:28.3491384+00:00",
+  "LastUpdate_Ratings": "2024-09-29T21:58:17.4006425+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:37.0956046+00:00"
 }

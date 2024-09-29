@@ -4,7 +4,7 @@
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 358,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2067,10 +2067,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 497,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-09-29T22:00:50.0579788+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 498,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 497,
+  "NumberOfAwards": 498,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2084,7 +2090,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game is Relaxing",
@@ -2164,8 +2170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2024-09-28T20:57:16.1517205+00:00",
+  "LastChanged": "2024-09-29T22:00:50.0579787+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:50.2649605+00:00",
-  "LastUpdate_Ratings": "2024-09-29T20:57:09.5931465+00:00",
+  "LastUpdate_Ratings": "2024-09-29T22:00:50.057979+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:40.0088674+00:00"
 }
