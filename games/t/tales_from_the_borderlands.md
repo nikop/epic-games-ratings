@@ -1,7 +1,7 @@
 # Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/tales-from-the-borderlands)  
 [View Rawdata](../../db/t/tales_from_the_borderlands.json)  
-Rating: 4.71 (Ranked 227)  
+Rating: 4.73 (Ranked 205)  
 Number of Ratings: 31  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -60,3 +60,4 @@ Number of Ratings: 31  (23.09.2022)
 | 2024-09-25 | 4.69 | - | 0 | 0 |
 | 2024-09-26 | 4.70 | - | 0 | 0 |
 | 2024-09-27 | 4.71 | - | 0 | 0 |
+| 2024-09-28 | 4.73 | - | 0 | 0 |
