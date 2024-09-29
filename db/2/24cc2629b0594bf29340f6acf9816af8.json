@@ -4177,10 +4177,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 2204,
       "NumberOfAwardsMax": 880
+    },
+    {
+      "Time": "2024-09-29T17:58:27.1102021+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 2206,
+      "NumberOfAwardsMax": 880
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2204,
+  "NumberOfAwards": 2206,
   "NumberOfAwardsMax": 880,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4242,7 +4248,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 91
+      "Count": 93
     },
     {
       "Text": "This game has a Creative Community",
@@ -4960,9 +4966,9 @@
   "FirstSeen": "2024-03-21T18:58:18.5835803+00:00",
   "FirstSeenRating": "2024-03-23T09:58:46.7447864+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:50.6535171+00:00",
-  "LastChanged": "2024-09-29T15:58:58.8993171+00:00",
+  "LastChanged": "2024-09-29T17:58:27.110202+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:11.1901907+00:00",
   "LastUpdate_AppInfo": "2024-09-26T21:57:15.5223286+00:00",
-  "LastUpdate_Ratings": "2024-09-29T15:58:58.8993176+00:00",
+  "LastUpdate_Ratings": "2024-09-29T17:58:27.1102025+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:11.1902552+00:00"
 }
