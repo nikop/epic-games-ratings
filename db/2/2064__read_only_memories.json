@@ -2,7 +2,7 @@
   "ID": "5b08e4db33c54e518c2a1360cc2c7f18",
   "Name": "2064: Read Only Memories",
   "ProductSlug": "2064-read-only-memories",
-  "Ranking_Rating": 1094,
+  "Ranking_Rating": 1105,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2022-10-09T09:33:27.3361077+00:00",
@@ -51,6 +51,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-29T15:59:20.883498+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -69,8 +75,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.6056272+00:00",
   "FirstSeenRating": "2022-10-09T09:33:27.3361075+00:00",
-  "LastChanged": "2023-03-31T05:58:17.7609638+00:00",
+  "LastChanged": "2024-09-29T15:59:20.8834979+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:36.4164067+00:00",
-  "LastUpdate_Ratings": "2024-09-29T13:59:58.4380937+00:00",
+  "LastUpdate_Ratings": "2024-09-29T15:59:20.8834983+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:14.7788487+00:00"
 }

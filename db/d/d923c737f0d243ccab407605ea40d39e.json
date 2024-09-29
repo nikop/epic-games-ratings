@@ -4,7 +4,7 @@
   "ProductSlug": "911-operator-585edd",
   "Ranking_Rating": 1008,
   "Ranking_Popularity": 630,
-  "Ranking_PopularitySum": 547,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 46,
   "Ranking_EOS_Completed": 521,
   "Ranking_EOS_NewPlayers": 3,
@@ -587,10 +587,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 168,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-09-29T15:57:33.5969054+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 169,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 168,
+  "NumberOfAwards": 169,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -628,7 +634,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Educational",
@@ -16900,9 +16906,9 @@
   "FirstSeen": "2023-09-14T16:00:42.0495436+00:00",
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged": "2024-09-28T11:58:51.2151832+00:00",
+  "LastChanged": "2024-09-29T15:57:33.5969053+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:27.4868483+00:00",
   "LastUpdate_AppInfo": "2024-09-28T02:07:59.3078541+00:00",
-  "LastUpdate_Ratings": "2024-09-29T13:58:23.2328135+00:00",
+  "LastUpdate_Ratings": "2024-09-29T15:57:33.5969057+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:27.4869378+00:00"
 }
