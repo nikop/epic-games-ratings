@@ -3,7 +3,7 @@
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 191,
-  "Ranking_Popularity": 471,
+  "Ranking_Popularity": 472,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 591,
@@ -2171,10 +2171,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 722,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-09-29T03:18:08.5762104+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 723,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 722,
+  "NumberOfAwards": 723,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2254,7 +2260,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 65
+      "Count": 66
     }
   ],
   "EOS_Progressed": 1114,
@@ -3368,9 +3374,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "FirstSeenAchievements": "2024-06-17T16:13:37.1010985+00:00",
-  "LastChanged": "2024-09-28T20:00:08.9004997+00:00",
+  "LastChanged": "2024-09-29T03:18:08.5762102+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:57.908882+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:47.0223507+00:00",
-  "LastUpdate_Ratings": "2024-09-28T23:59:00.6137395+00:00",
+  "LastUpdate_Ratings": "2024-09-29T03:18:08.5762108+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:57.909027+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 731,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 1254,
@@ -24431,10 +24431,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 1041243,
       "NumberOfAwardsMax": 151353
+    },
+    {
+      "Time": "2024-09-29T03:17:37.4593374+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1042449,
+      "NumberOfAwardsMax": 151353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1041243,
+  "NumberOfAwards": 1042449,
   "NumberOfAwardsMax": 151353,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -24448,7 +24454,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 116430
+      "Count": 116751
     },
     {
       "Text": "This game has Competitive Players",
@@ -24466,13 +24472,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 122349
+      "Count": 122690
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 113657
+      "Count": 113943
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -24496,7 +24502,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 112078
+      "Count": 112336
     }
   ],
   "EOS_Progressed": 0,
@@ -24510,8 +24516,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-09-28T21:58:56.3545114+00:00",
+  "LastChanged": "2024-09-29T03:17:37.4593373+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:08.7048997+00:00",
-  "LastUpdate_Ratings": "2024-09-28T23:58:29.4588691+00:00",
+  "LastUpdate_Ratings": "2024-09-29T03:17:37.459338+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:08.5790169+00:00"
 }
