@@ -2,9 +2,9 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 602,
-  "Ranking_Popularity": 725,
-  "Ranking_PopularitySum": 725,
+  "Ranking_Rating": 627,
+  "Ranking_Popularity": 726,
+  "Ranking_PopularitySum": 726,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.54,
   "NumberOfRatings": 82,
   "RatingHistory": [
     {
@@ -331,6 +331,12 @@
     {
       "Time": "2024-09-07T09:59:15.7739582+00:00",
       "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-29T02:16:05.5138578+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1894,9 +1900,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
-  "LastChanged": "2024-09-07T09:59:15.7739579+00:00",
+  "LastChanged": "2024-09-29T02:16:05.5138576+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:17.0906337+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:19.837595+00:00",
-  "LastUpdate_Ratings": "2024-09-28T22:58:10.3809033+00:00",
+  "LastUpdate_Ratings": "2024-09-29T02:16:05.5138589+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:17.0907254+00:00"
 }

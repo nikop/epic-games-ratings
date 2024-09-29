@@ -1,7 +1,7 @@
 # Frostpunk
 [Store](https://store.epicgames.com/en-US/p/frostpunk)  
 [View Rawdata](../../db/f/frostpunk.json)  
-Rating: 4.75 (Ranked 170)  
+Rating: 4.75 (Ranked 171)  
 Number of Ratings: 11,240  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 1,085  (Ranked 196)  

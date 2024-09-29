@@ -3,6 +3,13 @@
 [View Rawdata](../../db/t/the_last_stand__aftermath.json)  
 Rating: 4.31 (Ranked 1,018)  
 Number of Ratings: 44  (23.09.2022)  
+## Awards
+Max (Extremely Fun): 24  (Ranked 688)  
+Sum: 24 (Ranked 698)  
+Diff (max vs sum): -10  
+| Award | Count |
+| ----- | ----- |
+| This game is Extremely Fun | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -71,3 +78,4 @@ Number of Ratings: 44  (23.09.2022)
 | 2024-09-26 | 4.29 | - | 0 | 0 |
 | 2024-09-27 | 4.30 | - | 0 | 0 |
 | 2024-09-28 | 4.31 | - | 0 | 0 |
+| 2024-09-29 | 4.31 | - | 24 | 24 |
