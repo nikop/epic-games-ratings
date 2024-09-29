@@ -1,11 +1,11 @@
 # The Machines Arena
 [Store](https://store.epicgames.com/en-US/p/the-machines-arena-74e0f1)  
 [View Rawdata](../../db/t/the_machines_arena.json)  
-Rating: 4.77 (Ranked 134)  
+Rating: 4.77 (Ranked 135)  
 ## Awards
 Max (Great for Quick Sessions): 57  (Ranked 553)  
-Sum: 287 (Ranked 486)  
-Diff (max vs sum): 67  
+Sum: 287 (Ranked 487)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |

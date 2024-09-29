@@ -3,7 +3,7 @@
   "Name": "Black Myth: Wukong",
   "ProductSlug": "black-myth-wukong-87a72b",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 46,
+  "Ranking_Popularity": 45,
   "Ranking_PopularitySum": 47,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 247,
@@ -1512,18 +1512,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 40568,
       "NumberOfAwardsMax": 13810
+    },
+    {
+      "Time": "2024-09-29T11:59:27.9636217+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 40772,
+      "NumberOfAwardsMax": 13942
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40568,
-  "NumberOfAwardsMax": 13810,
+  "NumberOfAwards": 40772,
+  "NumberOfAwardsMax": 13942,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 13810
+      "Count": 13942
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1583,13 +1589,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1228
+      "Count": 1263
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 1576
+      "Count": 1613
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1911,9 +1917,9 @@
   "FirstSeen": "2024-08-20T05:59:33.1921959+00:00",
   "FirstSeenRating": "2024-08-20T09:57:56.1070988+00:00",
   "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
-  "LastChanged": "2024-09-28T22:58:08.8462+00:00",
+  "LastChanged": "2024-09-29T11:59:27.9636217+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:37.4964365+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:19.1205767+00:00",
-  "LastUpdate_Ratings": "2024-09-29T10:00:02.5515495+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:59:27.9636224+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.4964564+00:00"
 }

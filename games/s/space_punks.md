@@ -1,12 +1,12 @@
 # Space Punks
 [Store](https://store.epicgames.com/en-US/p/space-punks)  
 [View Rawdata](../../db/s/space_punks.json)  
-Rating: 4.16 (Ranked 1,172)  
+Rating: 4.16 (Ranked 1,173)  
 Number of Ratings: 1,927  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 176  (Ranked 391)  
-Sum: 968 (Ranked 335)  
-Diff (max vs sum): 56  
+Sum: 968 (Ranked 336)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 176 |

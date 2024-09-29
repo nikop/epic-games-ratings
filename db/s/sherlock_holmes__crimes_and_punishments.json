@@ -3,8 +3,8 @@
   "Name": "Sherlock Holmes: Crimes and Punishments",
   "ProductSlug": "sherlock-holmes-crimes-and-punishments",
   "Ranking_Rating": 864,
-  "Ranking_Popularity": 726,
-  "Ranking_PopularitySum": 726,
+  "Ranking_Popularity": 725,
+  "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -599,6 +599,6 @@
   "FirstSeen": "2022-07-22T20:25:12.9656224+00:00",
   "LastChanged": "2024-09-02T14:00:38.0526454+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:44.1403983+00:00",
-  "LastUpdate_Ratings": "2024-09-29T09:59:26.2235484+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:58:51.267201+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:17.2178776+00:00"
 }

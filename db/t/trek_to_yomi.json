@@ -2,9 +2,9 @@
   "ID": "2d2a077b8b7f450299ecd7068256aec4",
   "Name": "Trek to Yomi",
   "ProductSlug": "trek-to-yomi-70d134",
-  "Ranking_Rating": 1092,
-  "Ranking_Popularity": 726,
-  "Ranking_PopularitySum": 726,
+  "Ranking_Rating": 1083,
+  "Ranking_Popularity": 725,
+  "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.25,
   "RatingHistory": [
     {
       "Time": "2022-11-05T21:02:46.1050093+00:00",
@@ -257,6 +257,12 @@
       "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-29T11:59:31.967235+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -283,9 +289,9 @@
   "FirstSeen": "2022-07-22T20:32:48.9516719+00:00",
   "FirstSeenRating": "2022-11-05T21:02:46.105009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.0276808+00:00",
-  "LastChanged": "2024-09-27T05:57:09.1714812+00:00",
+  "LastChanged": "2024-09-29T11:59:31.9672348+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:04.301451+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:21.1276104+00:00",
-  "LastUpdate_Ratings": "2024-09-29T10:00:06.5251825+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:59:31.9672353+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:04.301454+00:00"
 }

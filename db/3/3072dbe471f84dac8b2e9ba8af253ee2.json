@@ -2,9 +2,9 @@
   "ID": "3072dbe471f84dac8b2e9ba8af253ee2",
   "Name": "Wild Card Football",
   "ProductSlug": "wild-card-football",
-  "Ranking_Rating": 1172,
-  "Ranking_Popularity": 726,
-  "Ranking_PopularitySum": 726,
+  "Ranking_Rating": 1173,
+  "Ranking_Popularity": 725,
+  "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -207,6 +207,6 @@
   "FirstSeenRating": "2024-09-01T08:58:38.1562843+00:00",
   "LastChanged": "2024-09-28T11:58:34.3981714+00:00",
   "LastUpdate_AppInfo": "2024-09-28T02:08:03.9926375+00:00",
-  "LastUpdate_Ratings": "2024-09-29T09:59:10.7531835+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:58:35.3451179+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:32.8752307+00:00"
 }

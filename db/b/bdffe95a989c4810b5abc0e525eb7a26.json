@@ -3,8 +3,8 @@
   "Name": "Harry Potter: Quidditch Champions",
   "ProductSlug": "harry-potter-quidditch-champions",
   "Ranking_Rating": 864,
-  "Ranking_Popularity": 726,
-  "Ranking_PopularitySum": 726,
+  "Ranking_Popularity": 725,
+  "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -508,6 +508,6 @@
   "LastChanged": "2024-09-25T10:57:32.4267137+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:33.6805714+00:00",
   "LastUpdate_AppInfo": "2024-09-28T09:57:12.9986508+00:00",
-  "LastUpdate_Ratings": "2024-09-29T09:59:15.6155595+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:58:40.3028608+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:33.6812516+00:00"
 }

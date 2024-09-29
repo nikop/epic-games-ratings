@@ -3,8 +3,8 @@
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
   "Ranking_Rating": 779,
-  "Ranking_Popularity": 726,
-  "Ranking_PopularitySum": 726,
+  "Ranking_Popularity": 725,
+  "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 3,
@@ -5460,6 +5460,6 @@
   "LastChanged": "2024-09-28T22:57:52.5272575+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:49.9635145+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:08.6585884+00:00",
-  "LastUpdate_Ratings": "2024-09-29T09:59:48.1803326+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:59:13.7123094+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:49.9635551+00:00"
 }

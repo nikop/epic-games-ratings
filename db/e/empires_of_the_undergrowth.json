@@ -2,8 +2,8 @@
   "ID": "4c436646d6f0400da483546a70e3a6e0",
   "Name": "Empires of the Undergrowth",
   "ProductSlug": "empires-of-the-undergrowth",
-  "Ranking_Rating": 191,
-  "Ranking_Popularity": 472,
+  "Ranking_Rating": 204,
+  "Ranking_Popularity": 473,
   "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 591,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.73,
   "NumberOfRatings": 212,
   "RatingHistory": [
     {
@@ -2177,10 +2177,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 723,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-09-29T11:57:33.374995+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 724,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 723,
+  "NumberOfAwards": 724,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2248,7 +2254,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 57
+      "Count": 58
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3374,9 +3380,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "FirstSeenAchievements": "2024-06-17T16:13:37.1010985+00:00",
-  "LastChanged": "2024-09-29T03:18:08.5762102+00:00",
+  "LastChanged": "2024-09-29T11:57:33.3749948+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:57.908882+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:47.0223507+00:00",
-  "LastUpdate_Ratings": "2024-09-29T09:58:09.2820794+00:00",
+  "LastUpdate_Ratings": "2024-09-29T11:57:33.3749955+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:57.909027+00:00"
 }
