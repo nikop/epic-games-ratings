@@ -2,7 +2,7 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 299,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 38,
   "Ranking_EOS_Progress": 21,
@@ -21357,10 +21357,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 51694,
       "NumberOfAwardsMax": 16485
+    },
+    {
+      "Time": "2024-09-29T10:57:30.8411697+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 51718,
+      "NumberOfAwardsMax": 16485
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51694,
+  "NumberOfAwards": 51718,
   "NumberOfAwardsMax": 16485,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21380,7 +21386,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 3687
+      "Count": 3695
     },
     {
       "Text": "This game is Highly Recommended",
@@ -21404,7 +21410,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2117
+      "Count": 2125
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -21434,7 +21440,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4474
+      "Count": 4482
     }
   ],
   "EOS_Progressed": 1147956,
@@ -51220,9 +51226,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-09-29T08:58:10.8694046+00:00",
+  "LastChanged": "2024-09-29T10:57:30.8411695+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:46.9030116+00:00",
   "LastUpdate_AppInfo": "2024-09-28T13:10:21.8779156+00:00",
-  "LastUpdate_Ratings": "2024-09-29T08:58:10.8694052+00:00",
+  "LastUpdate_Ratings": "2024-09-29T10:57:30.8411701+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:46.9031721+00:00"
 }

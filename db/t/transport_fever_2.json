@@ -2,7 +2,7 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 338,
   "Ranking_Popularity": 524,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 331,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 180,
   "RatingHistory": [
     {
@@ -1411,10 +1411,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 442,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-09-29T10:59:31.2870168+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 443,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 442,
+  "NumberOfAwards": 443,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1464,7 +1470,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game is Educational",
@@ -8318,9 +8324,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
-  "LastChanged": "2024-09-28T13:11:39.2733443+00:00",
+  "LastChanged": "2024-09-29T10:59:31.2870166+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:04.329607+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:51.4078484+00:00",
-  "LastUpdate_Ratings": "2024-09-29T08:59:38.690896+00:00",
+  "LastUpdate_Ratings": "2024-09-29T10:59:31.2870171+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:04.329685+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "dbfff2d3f4dc446b8f4931ed8a353685",
   "Name": "Squirrel with a Gun",
   "ProductSlug": "squirrel-with-a-gun-6b1fa1",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 268,
   "Ranking_Popularity": 726,
   "Ranking_PopularitySum": 726,
   "Ranking_EOS_Progress": 399,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2024-09-16T08:59:02.3333161+00:00",
@@ -58,6 +58,12 @@
     {
       "Time": "2024-09-28T10:59:11.7751158+00:00",
       "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-29T10:59:04.2744367+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -246,9 +252,9 @@
   "FirstSeen": "2024-08-29T17:57:42.1882876+00:00",
   "FirstSeenRating": "2024-09-16T08:59:02.3333158+00:00",
   "FirstSeenAchievements": "2024-08-20T20:10:30.3895592+00:00",
-  "LastChanged": "2024-09-28T10:59:11.7751153+00:00",
+  "LastChanged": "2024-09-29T10:59:04.2744365+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:51.4870771+00:00",
   "LastUpdate_AppInfo": "2024-09-28T03:11:31.8534542+00:00",
-  "LastUpdate_Ratings": "2024-09-29T08:59:19.3190006+00:00",
+  "LastUpdate_Ratings": "2024-09-29T10:59:04.274437+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:51.4879303+00:00"
 }

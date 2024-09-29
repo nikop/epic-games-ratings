@@ -2,7 +2,7 @@
   "ID": "5099c5ef163b4932b95e70f7298b07d5",
   "Name": "Eiyuden Chronicle: Hundred Heroes",
   "ProductSlug": "eiyuden-chronicle-hundred-heroes",
-  "Ranking_Rating": 296,
+  "Ranking_Rating": 268,
   "Ranking_Popularity": 726,
   "Ranking_PopularitySum": 726,
   "Ranking_EOS_Progress": 546,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2024-05-26T01:53:53.0838101+00:00",
@@ -125,6 +125,12 @@
     {
       "Time": "2024-09-15T05:57:18.4942779+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-29T10:58:25.6424684+00:00",
+      "Rating": 4.69,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -616,9 +622,9 @@
   "FirstSeen": "2024-04-23T15:57:46.2612871+00:00",
   "FirstSeenRating": "2024-05-26T01:53:53.0838099+00:00",
   "FirstSeenAchievements": "2024-03-21T17:11:11.5861303+00:00",
-  "LastChanged": "2024-09-15T05:57:18.4942777+00:00",
+  "LastChanged": "2024-09-29T10:58:25.6424682+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:50.6372822+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:24.9273761+00:00",
-  "LastUpdate_Ratings": "2024-09-29T08:58:50.8734974+00:00",
+  "LastUpdate_Ratings": "2024-09-29T10:58:25.6424686+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:50.6373251+00:00"
 }
