@@ -41,7 +41,7 @@
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 0 | - | - |
 | [Mouse Arcade](games/7/76dfad87100e4d69b7876b1c6d7c5448.md) | 2024-09-20 | - |  | - | - |
 | [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | - |  | 4.32 | 0 |
-| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | 4.84 | 49 |
+| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | 4.85 | 49 |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-09-19 | 10 (1,000 XP) | 1 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-09-19 | - |  | - | 0 |
@@ -108,4 +108,3 @@
 | [SEIDEN](games/4/4a8d265d048b4423bf30317aa9ad371d.md) | 2024-08-31 | - |  | - | - |
 | [Target](games/a/a78e1834dd0f43839f18750e0234f820.md) | 2024-08-31 | - |  | - | - |
 | [realm of magic](games/9/90167acd850a4e36aec17ea7c2ccc21f.md) | 2024-08-30 | - |  | - | 0 |
-| [StarbaseSim](games/5/5a1b2edca43946c5af9ae1098a327ff5.md) | 2024-08-30 | - |  | - | 0 |
