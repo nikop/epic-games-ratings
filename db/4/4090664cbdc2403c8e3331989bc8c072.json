@@ -2,7 +2,7 @@
   "ID": "4090664cbdc2403c8e3331989bc8c072",
   "Name": "A Way Out",
   "ProductSlug": "a-way-out-635680",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 318,
   "Ranking_Popularity": 725,
   "Ranking_PopularitySum": 725,
   "Ranking_EOS_Progress": 416,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.67,
   "RatingHistory": [
     {
       "Time": "2024-08-23T21:57:48.7736924+00:00",
@@ -106,6 +106,12 @@
     {
       "Time": "2024-09-27T13:15:06.4652542+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-29T13:10:44.276223+00:00",
+      "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -274,9 +280,9 @@
   "FirstSeen": "2024-05-11T23:57:23.4944435+00:00",
   "FirstSeenRating": "2024-08-23T21:57:48.7736922+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:16.0834411+00:00",
-  "LastChanged": "2024-09-27T13:15:06.465254+00:00",
+  "LastChanged": "2024-09-29T13:10:44.2762228+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:42.5021311+00:00",
   "LastUpdate_AppInfo": "2024-09-27T11:57:08.8570355+00:00",
-  "LastUpdate_Ratings": "2024-09-29T10:58:25.1423051+00:00",
+  "LastUpdate_Ratings": "2024-09-29T13:10:44.2762232+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:42.5021427+00:00"
 }
