@@ -1,7 +1,7 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.40 (Ranked 897)  
+Rating: 4.40 (Ranked 898)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -146,8 +146,8 @@ Completed: 408 (1.00%) (Ranked 284)
 | 2024-09-14 | 40,757 | 408 |
 ## Awards
 Max (Challenging Puzzles): 43  (Ranked 594)  
-Sum: 43 (Ranked 654)  
-Diff (max vs sum): -60  
+Sum: 43 (Ranked 655)  
+Diff (max vs sum): -61  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 43 |

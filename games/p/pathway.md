@@ -1,7 +1,7 @@
 # Pathway
 [Store](https://store.epicgames.com/en-US/p/pathway)  
 [View Rawdata](../../db/p/pathway.json)  
-Rating: 4.43 (Ranked 847)  
+Rating: 4.44 (Ranked 831)  
 Number of Ratings: 425  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 20  (Ranked 720)  
@@ -107,3 +107,4 @@ Diff (max vs sum): 0
 | 2024-09-18 | 4.43 | - | 20 | 20 |
 | 2024-09-25 | 4.44 | - | 20 | 20 |
 | 2024-09-26 | 4.43 | - | 20 | 20 |
+| 2024-09-29 | 4.44 | - | 20 | 20 |
