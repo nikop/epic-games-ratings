@@ -4,11 +4,12 @@
 Rating: 4.26 (Ranked 1,071)  
 ## Awards
 Max (Highly Recommended): 20  (Ranked 719)  
-Sum: 20 (Ranked 719)  
-Diff (max vs sum): 0  
+Sum: 40 (Ranked 662)  
+Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 20 |
+| This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -88,3 +89,4 @@ Diff (max vs sum): 0
 | 2024-09-18 | 4.26 | 20 | 20 |
 | 2024-09-23 | 4.27 | 20 | 20 |
 | 2024-09-24 | 4.26 | 20 | 20 |
+| 2024-09-29 | 4.26 | 20 | 40 |
