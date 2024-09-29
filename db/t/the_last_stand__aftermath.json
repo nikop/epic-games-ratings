@@ -2,9 +2,9 @@
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
-  "Ranking_Rating": 1018,
-  "Ranking_Popularity": 688,
-  "Ranking_PopularitySum": 698,
+  "Ranking_Rating": 1007,
+  "Ranking_Popularity": 679,
+  "Ranking_PopularitySum": 640,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "NumberOfRatings": 44,
   "RatingHistory": [
     {
@@ -458,18 +458,30 @@
       "Rating": 4.31,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-09-29T08:58:31.0920402+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24,
-  "NumberOfAwardsMax": 24,
-  "MaxAwardTitle": "Extremely Fun",
+  "NumberOfAwards": 50,
+  "NumberOfAwardsMax": 26,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 24
+    },
+    {
+      "Text": "This game is Highly Recommended",
+      "Prefix": "This game is",
+      "Type": "Highly Recommended",
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -483,8 +495,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-09-29T02:16:53.7747952+00:00",
+  "LastChanged": "2024-09-29T08:58:31.0920401+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:20.9223105+00:00",
-  "LastUpdate_Ratings": "2024-09-29T06:58:59.9472842+00:00",
+  "LastUpdate_Ratings": "2024-09-29T08:58:31.0920405+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.9577922+00:00"
 }
