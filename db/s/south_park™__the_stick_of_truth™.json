@@ -4,7 +4,7 @@
   "ProductSlug": "south-park-the-stick-of-truth",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 602,
+  "Ranking_PopularitySum": 603,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -646,6 +646,6 @@
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
   "LastChanged": "2024-05-10T06:58:22.8258539+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:28.3010844+00:00",
-  "LastUpdate_Ratings": "2024-09-29T12:00:10.0006292+00:00",
+  "LastUpdate_Ratings": "2024-09-29T13:59:39.5567424+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:09.1869553+00:00"
 }
