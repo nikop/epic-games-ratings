@@ -1,11 +1,11 @@
 # The Witcher 3: Wild Hunt – Complete Edition
 [Store](https://store.epicgames.com/en-US/p/the-witcher-3-wild-hunt)  
 [View Rawdata](../../db/t/the_witcher_3__wild_hunt_–_complete_edition.json)  
-Rating: 4.89 (Ranked 11)  
+Rating: 4.89 (Ranked 12)  
 Number of Ratings: 14,665  (23.09.2022)  
 ## Awards
 Max (Character Customization): 31,261  (Ranked 21)  
-Sum: 95,778 (Ranked 24)  
+Sum: 95,788 (Ranked 24)  
 Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -3
 | This game has Amazing Characters | 6,650 |
 | This game is Relaxing | 6,625 |
 | This game has Quickly Understood Controls | 6,573 |
-| This game is Educational | 6,185 |
+| This game is Educational | 6,195 |
 | This game has a Creative Community | 4,052 |
 | This game has Obsessive Gameplay | 1,080 |
 ## Ratings History
@@ -647,4 +647,4 @@ Diff (max vs sum): -3
 | 2024-09-26 | 4.89 | - | 31,167 | 95,408 |
 | 2024-09-27 | 4.89 | - | 31,189 | 95,499 |
 | 2024-09-28 | 4.89 | - | 31,218 | 95,635 |
-| 2024-09-29 | 4.89 | - | 31,261 | 95,778 |
+| 2024-09-29 | 4.89 | - | 31,261 | 95,788 |

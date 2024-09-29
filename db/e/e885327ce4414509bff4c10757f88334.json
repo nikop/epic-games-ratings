@@ -4,7 +4,7 @@
   "ProductSlug": "wuthering-waves-76ebc5",
   "Ranking_Rating": 691,
   "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 145,
+  "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3864,10 +3864,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 8091,
       "NumberOfAwardsMax": 5430
+    },
+    {
+      "Time": "2024-09-29T22:57:55.4915214+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 8138,
+      "NumberOfAwardsMax": 5430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8091,
+  "NumberOfAwards": 8138,
   "NumberOfAwardsMax": 5430,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3887,13 +3893,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 297
+      "Count": 310
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 282
+      "Count": 294
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3917,7 +3923,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 288
+      "Count": 302
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3935,7 +3941,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 315
+      "Count": 323
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3956,8 +3962,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-09-29T11:58:48.5176526+00:00",
+  "LastChanged": "2024-09-29T22:57:55.4915212+00:00",
   "LastUpdate_AppInfo": "2024-09-28T15:57:15.8227369+00:00",
-  "LastUpdate_Ratings": "2024-09-29T20:58:17.7023651+00:00",
+  "LastUpdate_Ratings": "2024-09-29T22:57:55.4915219+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:05.6999323+00:00"
 }
