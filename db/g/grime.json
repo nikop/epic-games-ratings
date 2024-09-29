@@ -3533,10 +3533,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 814,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-09-29T14:59:36.2267626+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 816,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 814,
+  "NumberOfAwards": 816,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3568,7 +3574,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 109
+      "Count": 111
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -26734,9 +26740,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-09-28T13:13:45.3696921+00:00",
+  "LastChanged": "2024-09-29T14:59:36.2267624+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:05.8859941+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:10.927743+00:00",
-  "LastUpdate_Ratings": "2024-09-29T13:13:54.6412276+00:00",
+  "LastUpdate_Ratings": "2024-09-29T14:59:36.2267629+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:05.8861303+00:00"
 }
