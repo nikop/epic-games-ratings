@@ -4,7 +4,7 @@
   "ProductSlug": "risk-of-rain-2",
   "Ranking_Rating": 96,
   "Ranking_Popularity": 279,
-  "Ranking_PopularitySum": 207,
+  "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -6573,10 +6573,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3655,
       "NumberOfAwardsMax": 458
+    },
+    {
+      "Time": "2024-09-30T15:59:33.9673921+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3657,
+      "NumberOfAwardsMax": 458
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3655,
+  "NumberOfAwards": 3657,
   "NumberOfAwardsMax": 458,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6626,7 +6632,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 307
+      "Count": 309
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6664,8 +6670,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2024-09-30T13:58:38.7528247+00:00",
-  "LastUpdate_AppInfo": "2024-09-23T14:58:01.0893669+00:00",
-  "LastUpdate_Ratings": "2024-09-30T13:58:38.7528254+00:00",
+  "LastChanged": "2024-09-30T15:59:33.9673919+00:00",
+  "LastUpdate_AppInfo": "2024-09-30T15:57:44.7994341+00:00",
+  "LastUpdate_Ratings": "2024-09-30T15:59:33.9673925+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:43.3822532+00:00"
 }

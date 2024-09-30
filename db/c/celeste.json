@@ -2,7 +2,7 @@
   "ID": "b671fbc7be424e888c9346a9a6d3d9db",
   "Name": "Celeste",
   "ProductSlug": "celeste",
-  "Ranking_Rating": 5,
+  "Ranking_Rating": 4,
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 184,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.92,
   "NumberOfRatings": 2543,
   "RatingHistory": [
     {
@@ -8365,10 +8365,16 @@
       "Rating": 4.91,
       "NumberOfAwards": 4697,
       "NumberOfAwardsMax": 2280
+    },
+    {
+      "Time": "2024-09-30T16:00:37.2100541+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 4698,
+      "NumberOfAwardsMax": 2280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4697,
+  "NumberOfAwards": 4698,
   "NumberOfAwardsMax": 2280,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8388,7 +8394,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 264
+      "Count": 265
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8450,8 +8456,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:26.412797+00:00",
-  "LastChanged": "2024-09-30T13:16:12.8298941+00:00",
-  "LastUpdate_AppInfo": "2024-09-23T15:57:12.85514+00:00",
-  "LastUpdate_Ratings": "2024-09-30T13:59:44.7841831+00:00",
+  "LastChanged": "2024-09-30T16:00:37.2100539+00:00",
+  "LastUpdate_AppInfo": "2024-09-30T15:57:56.9482603+00:00",
+  "LastUpdate_Ratings": "2024-09-30T16:00:37.2100546+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:57.6133118+00:00"
 }
