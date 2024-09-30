@@ -3,7 +3,7 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1300,
-  "Ranking_Popularity": 188,
+  "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 536,
@@ -3954,18 +3954,24 @@
       "Rating": 3.75,
       "NumberOfAwards": 2848,
       "NumberOfAwardsMax": 1161
+    },
+    {
+      "Time": "2024-09-30T22:59:12.7300936+00:00",
+      "Rating": 3.75,
+      "NumberOfAwards": 2858,
+      "NumberOfAwardsMax": 1170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2848,
-  "NumberOfAwardsMax": 1161,
+  "NumberOfAwards": 2858,
+  "NumberOfAwardsMax": 1170,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1161
+      "Count": 1170
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4013,7 +4019,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 712
+      "Count": 713
     }
   ],
   "EOS_Progressed": 118579,
@@ -17433,9 +17439,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-09-30T17:57:46.140402+00:00",
+  "LastChanged": "2024-09-30T22:59:12.7300934+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:06.9325199+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:47.9938451+00:00",
-  "LastUpdate_Ratings": "2024-09-30T20:59:32.206395+00:00",
+  "LastUpdate_Ratings": "2024-09-30T22:59:12.7300941+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.9326231+00:00"
 }
