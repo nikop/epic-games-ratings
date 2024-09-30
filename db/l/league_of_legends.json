@@ -2,7 +2,7 @@
   "ID": "24b9b5e323bc40eea252a10cdd3b2f10",
   "Name": "League of Legends",
   "ProductSlug": "league-of-legends",
-  "Ranking_Rating": 1152,
+  "Ranking_Rating": 1153,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 1254,
@@ -19297,10 +19297,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 35422,
       "NumberOfAwardsMax": 7844
+    },
+    {
+      "Time": "2024-09-30T02:14:35.4076794+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 35437,
+      "NumberOfAwardsMax": 7844
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35422,
+  "NumberOfAwards": 35437,
   "NumberOfAwardsMax": 7844,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -19326,7 +19332,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5563
+      "Count": 5578
     },
     {
       "Text": "This game has Competitive Players",
@@ -19370,8 +19376,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:19.1268612+00:00",
-  "LastChanged": "2024-09-29T22:57:57.2681887+00:00",
+  "LastChanged": "2024-09-30T02:14:35.4076792+00:00",
   "LastUpdate_AppInfo": "2024-09-23T08:57:43.5811833+00:00",
-  "LastUpdate_Ratings": "2024-09-29T22:57:57.2681893+00:00",
+  "LastUpdate_Ratings": "2024-09-30T02:14:35.4076797+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:16.7085797+00:00"
 }

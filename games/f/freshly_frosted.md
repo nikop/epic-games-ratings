@@ -94,9 +94,12 @@ Completed: 846 (0.90%) (Ranked 296)
 | 2024-08-20 | 90,278 | 771 |
 | 2024-09-14 | 93,707 | 846 |
 ## Awards
+Max (Challenging Puzzles): 111  (Ranked 457)  
+Sum: 111 (Ranked 580)  
+Diff (max vs sum): -123  
 | Award | Count |
 | ----- | ----- |
-| This game features Challenging Puzzles | 108 |
+| This game features Challenging Puzzles | 111 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -149,3 +152,4 @@ Completed: 846 (0.90%) (Ranked 296)
 | 2024-09-19 | 4.56 | 106 | 106 |
 | 2024-09-26 | 4.56 | 108 | 108 |
 | 2024-09-29 | 4.57 | 0 | 0 |
+| 2024-09-30 | 4.57 | 111 | 111 |

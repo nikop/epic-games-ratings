@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 1,152)  
+Rating: 4.18 (Ranked 1,153)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -370,9 +370,9 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-20 | 7,975 | 0 |
 | 2024-09-14 | 8,009 | 0 |
 ## Awards
-Max (Diverse Characters): 102  (Ranked 469)  
+Max (Diverse Characters): 102  (Ranked 470)  
 Sum: 712 (Ranked 382)  
-Diff (max vs sum): 87  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 102 |

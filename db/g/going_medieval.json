@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 459,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 3,
@@ -2859,10 +2859,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 1307,
       "NumberOfAwardsMax": 195
+    },
+    {
+      "Time": "2024-09-30T02:17:12.408601+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1308,
+      "NumberOfAwardsMax": 195
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1307,
+  "NumberOfAwards": 1308,
   "NumberOfAwardsMax": 195,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2894,7 +2900,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 124
+      "Count": 125
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18933,9 +18939,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2024-09-28T22:59:27.2877731+00:00",
+  "LastChanged": "2024-09-30T02:17:12.4086008+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:00.7274818+00:00",
   "LastUpdate_AppInfo": "2024-09-23T13:57:39.7780237+00:00",
-  "LastUpdate_Ratings": "2024-09-29T22:59:46.7773295+00:00",
+  "LastUpdate_Ratings": "2024-09-30T02:17:12.4086014+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:00.7275726+00:00"
 }

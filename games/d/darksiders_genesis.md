@@ -1,7 +1,7 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.41 (Ranked 882)  
+Rating: 4.41 (Ranked 881)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -92,8 +92,8 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-20 | 2,328 | 0 |
 | 2024-09-14 | 2,560 | 0 |
 ## Awards
-Max (Great Boss Battles): 48  (Ranked 574)  
-Sum: 48 (Ranked 643)  
+Max (Great Boss Battles): 48  (Ranked 575)  
+Sum: 48 (Ranked 644)  
 Diff (max vs sum): -69  
 | Award | Count |
 | ----- | ----- |
