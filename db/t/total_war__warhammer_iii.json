@@ -18206,10 +18206,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 12884,
       "NumberOfAwardsMax": 3279
+    },
+    {
+      "Time": "2024-09-30T14:59:27.5992122+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 12901,
+      "NumberOfAwardsMax": 3279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12884,
+  "NumberOfAwards": 12901,
   "NumberOfAwardsMax": 3279,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -18235,7 +18241,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 783
+      "Count": 786
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18259,13 +18265,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 973
+      "Count": 976
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 923
+      "Count": 926
     },
     {
       "Text": "This game has Competitive Players",
@@ -18277,13 +18283,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 832
+      "Count": 834
     },
     {
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 965
+      "Count": 971
     },
     {
       "Text": "This game has Challenging Combat",
@@ -18303,8 +18309,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-09-30T13:16:42.4370302+00:00",
+  "LastChanged": "2024-09-30T14:59:27.5992121+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:22.8387429+00:00",
-  "LastUpdate_Ratings": "2024-09-30T13:16:42.4370308+00:00",
+  "LastUpdate_Ratings": "2024-09-30T14:59:27.5992126+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.7214313+00:00"
 }
