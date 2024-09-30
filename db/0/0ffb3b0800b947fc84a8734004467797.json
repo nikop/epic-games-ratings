@@ -2,7 +2,7 @@
   "ID": "0ffb3b0800b947fc84a8734004467797",
   "Name": "Alice: Madness Returns\u2122",
   "ProductSlug": "alice-madness-returns-3f8717",
-  "Ranking_Rating": 317,
+  "Ranking_Rating": 298,
   "Ranking_Popularity": 727,
   "Ranking_PopularitySum": 727,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.68,
   "RatingHistory": [
     {
       "Time": "2024-08-15T12:00:16.5803236+00:00",
@@ -138,6 +138,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-30T17:00:02.3726756+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -156,8 +162,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-04T05:00:46.6343852+00:00",
   "FirstSeenRating": "2024-08-15T12:00:16.5803234+00:00",
-  "LastChanged": "2024-09-28T20:00:01.9922238+00:00",
+  "LastChanged": "2024-09-30T17:00:02.3726754+00:00",
   "LastUpdate_AppInfo": "2024-09-27T11:57:05.9309897+00:00",
-  "LastUpdate_Ratings": "2024-09-30T15:58:27.0244668+00:00",
+  "LastUpdate_Ratings": "2024-09-30T17:00:02.372676+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.4261868+00:00"
 }

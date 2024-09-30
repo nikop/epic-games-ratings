@@ -2,9 +2,9 @@
   "ID": "a71ff65b058146b88b2562ef447f9fc2",
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
-  "Ranking_Rating": 577,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 488,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2024-05-30T22:57:52.5489386+00:00",
@@ -1236,10 +1236,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 510,
       "NumberOfAwardsMax": 94
+    },
+    {
+      "Time": "2024-09-30T16:59:36.0837189+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 518,
+      "NumberOfAwardsMax": 94
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 510,
+  "NumberOfAwards": 518,
   "NumberOfAwardsMax": 94,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1253,13 +1259,13 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 47
+      "Count": 51
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 51
+      "Count": 53
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1301,7 +1307,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -1744,9 +1750,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-09-30T11:58:00.3712621+00:00",
+  "LastChanged": "2024-09-30T16:59:36.0837187+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-09-27T07:57:14.3544256+00:00",
-  "LastUpdate_Ratings": "2024-09-30T15:02:40.8775724+00:00",
+  "LastUpdate_Ratings": "2024-09-30T16:59:36.0837192+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }
