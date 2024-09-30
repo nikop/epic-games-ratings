@@ -1,7 +1,7 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.74 (Ranked 190)  
+Rating: 4.74 (Ranked 191)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -301,12 +301,12 @@ Completed: 30 (0.17%) (Ranked 429)
 | 2024-08-20 | 17,660 | 28 |
 | 2024-09-14 | 17,986 | 30 |
 ## Awards
-Max (Great for Beginners): 237  (Ranked 351)  
-Sum: 1,368 (Ranked 305)  
-Diff (max vs sum): 46  
+Max (Great for Beginners): 241  (Ranked 349)  
+Sum: 1,372 (Ranked 305)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 237 |
+| This game is Great for Beginners | 241 |
 | This game has Diverse Characters | 213 |
 | This game is Highly Recommended | 165 |
 | This game is Extremely Fun | 143 |
@@ -671,4 +671,4 @@ Diff (max vs sum): 46
 | 2024-09-26 | 4.74 | - | 236 | 1,362 |
 | 2024-09-27 | 4.74 | - | 237 | 1,364 |
 | 2024-09-29 | 4.74 | - | 237 | 1,367 |
-| 2024-09-30 | 4.74 | - | 237 | 1,368 |
+| 2024-09-30 | 4.74 | - | 241 | 1,372 |
