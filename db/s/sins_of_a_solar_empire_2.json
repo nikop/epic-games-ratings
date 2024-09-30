@@ -2,9 +2,9 @@
   "ID": "24285307a56445f1bc5d546df7af3025",
   "Name": "Sins of a Solar Empire 2",
   "ProductSlug": "sins-of-a-solar-empire-ii",
-  "Ranking_Rating": 385,
-  "Ranking_Popularity": 399,
-  "Ranking_PopularitySum": 385,
+  "Ranking_Rating": 405,
+  "Ranking_Popularity": 395,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2022-10-28T20:01:29.0144786+00:00",
@@ -2341,18 +2341,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 696,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-09-30T19:00:26.9464116+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 702,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 696,
-  "NumberOfAwardsMax": 167,
+  "NumberOfAwards": 702,
+  "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 167
+      "Count": 172
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2394,7 +2400,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game has Competitive Players",
@@ -2415,8 +2421,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T20:00:58.3635967+00:00",
   "FirstSeenRating": "2022-10-28T20:01:29.0144781+00:00",
-  "LastChanged": "2024-09-30T11:59:19.830587+00:00",
+  "LastChanged": "2024-09-30T19:00:26.9464114+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:30.2328652+00:00",
-  "LastUpdate_Ratings": "2024-09-30T17:57:23.7733646+00:00",
+  "LastUpdate_Ratings": "2024-09-30T19:00:26.9464119+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:13.9538562+00:00"
 }
