@@ -4,7 +4,7 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 341,
   "Ranking_Popularity": 463,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 486,
   "Ranking_EOS_NewPlayers": 3,
@@ -2723,10 +2723,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 886,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-09-30T11:58:16.9234107+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 887,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 886,
+  "NumberOfAwards": 887,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2788,7 +2794,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 56
+      "Count": 57
     },
     {
       "Text": "This game has Challenging Combat",
@@ -10068,9 +10074,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2024-09-30T07:59:39.7301926+00:00",
+  "LastChanged": "2024-09-30T11:58:16.9234106+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:23.6674123+00:00",
   "LastUpdate_AppInfo": "2024-09-23T14:57:38.1458711+00:00",
-  "LastUpdate_Ratings": "2024-09-30T09:59:22.5150237+00:00",
+  "LastUpdate_Ratings": "2024-09-30T11:58:16.9234109+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:23.6674673+00:00"
 }
