@@ -2,9 +2,9 @@
   "ID": "048550a9623d4824894430a2c2823e02",
   "Name": "SUPER CRAZY RHYTHM CASTLE",
   "ProductSlug": "super-crazy-rhythm-castle-e3b464",
-  "Ranking_Rating": 431,
-  "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 640,
+  "Ranking_Rating": 406,
+  "Ranking_Popularity": 550,
+  "Ranking_PopularitySum": 632,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2024-09-14T03:01:26.475278+00:00",
@@ -192,18 +192,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 52,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-09-30T08:57:33.4446936+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 58,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52,
-  "NumberOfAwardsMax": 52,
+  "NumberOfAwards": 58,
+  "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 52
+      "Count": 58
     }
   ],
   "EOS_Progressed": 38315,
@@ -450,9 +456,9 @@
   "FirstSeen": "2024-09-03T23:58:26.2172698+00:00",
   "FirstSeenRating": "2024-09-14T03:01:26.4752778+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:04.2373302+00:00",
-  "LastChanged": "2024-09-29T11:58:03.2001485+00:00",
+  "LastChanged": "2024-09-30T08:57:33.4446934+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:14.9215299+00:00",
   "LastUpdate_AppInfo": "2024-09-26T03:13:32.1625573+00:00",
-  "LastUpdate_Ratings": "2024-09-30T06:57:54.9487406+00:00",
+  "LastUpdate_Ratings": "2024-09-30T08:57:33.4446939+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:14.9222083+00:00"
 }

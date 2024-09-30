@@ -57,7 +57,7 @@ Completed: 4 (0.10%) (Ranked 462)
 | 2024-09-14 | 3,813 | 4 |
 ## Awards
 Max (Amazing Storytelling): 60  (Ranked 546)  
-Sum: 427 (Ranked 437)  
+Sum: 428 (Ranked 437)  
 Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
@@ -70,9 +70,9 @@ Diff (max vs sum): 109
 | This game is Highly Recommended | 47 |
 | This game has Quickly Understood Controls | 43 |
 | This game has Challenging Combat | 36 |
+| This game has a Creative Community | 21 |
 | This game has Obsessive Gameplay | 20 |
 | This game has Unique Visuals | 20 |
-| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -249,3 +249,4 @@ Diff (max vs sum): 109
 | 2024-09-25 | 4.84 | - | 60 | 424 |
 | 2024-09-27 | 4.84 | - | 60 | 426 |
 | 2024-09-28 | 4.84 | - | 60 | 427 |
+| 2024-09-30 | 4.84 | - | 60 | 428 |
