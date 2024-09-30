@@ -3,7 +3,7 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 171,
-  "Ranking_Popularity": 66,
+  "Ranking_Popularity": 65,
   "Ranking_PopularitySum": 69,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -21810,18 +21810,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 26384,
       "NumberOfAwardsMax": 9330
+    },
+    {
+      "Time": "2024-09-30T17:58:05.9665623+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 26391,
+      "NumberOfAwardsMax": 9335
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26384,
-  "NumberOfAwardsMax": 9330,
+  "NumberOfAwards": 26391,
+  "NumberOfAwardsMax": 9335,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 9330
+      "Count": 9335
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -21839,7 +21845,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1077
+      "Count": 1078
     },
     {
       "Text": "This game has Diverse Characters",
@@ -21887,7 +21893,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1025
+      "Count": 1026
     },
     {
       "Text": "This game has a Creative Community",
@@ -21913,8 +21919,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-09-30T16:00:01.5788082+00:00",
+  "LastChanged": "2024-09-30T17:58:05.9665621+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:53.6995345+00:00",
-  "LastUpdate_Ratings": "2024-09-30T16:00:01.5788087+00:00",
+  "LastUpdate_Ratings": "2024-09-30T17:58:05.9665626+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:05.6043493+00:00"
 }

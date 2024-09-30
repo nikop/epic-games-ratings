@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-stand-aftermath",
   "Ranking_Rating": 1010,
   "Ranking_Popularity": 636,
-  "Ranking_PopularitySum": 584,
+  "Ranking_PopularitySum": 579,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -482,10 +482,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 107,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2024-09-30T17:59:04.6574492+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 113,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 107,
+  "NumberOfAwards": 113,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -511,7 +517,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -525,8 +531,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-09-30T14:59:17.8288429+00:00",
+  "LastChanged": "2024-09-30T17:59:04.657449+00:00",
   "LastUpdate_AppInfo": "2024-09-30T16:57:34.0096608+00:00",
-  "LastUpdate_Ratings": "2024-09-30T16:01:01.0543568+00:00",
+  "LastUpdate_Ratings": "2024-09-30T17:59:04.6574496+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.9577922+00:00"
 }

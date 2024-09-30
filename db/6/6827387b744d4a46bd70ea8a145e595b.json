@@ -2,9 +2,9 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 578,
+  "Ranking_Rating": 579,
   "Ranking_Popularity": 26,
-  "Ranking_PopularitySum": 30,
+  "Ranking_PopularitySum": 31,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3815,18 +3815,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 80841,
       "NumberOfAwardsMax": 24300
+    },
+    {
+      "Time": "2024-09-30T17:59:13.7784863+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 78023,
+      "NumberOfAwardsMax": 24451
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80841,
-  "NumberOfAwardsMax": 24300,
+  "NumberOfAwards": 78023,
+  "NumberOfAwardsMax": 24451,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24300
+      "Count": 24451
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3913,8 +3919,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-09-30T16:57:35.6431769+00:00",
+  "LastChanged": "2024-09-30T17:59:13.7784861+00:00",
   "LastUpdate_AppInfo": "2024-09-24T03:56:58.2608558+00:00",
-  "LastUpdate_Ratings": "2024-09-30T16:57:35.6431775+00:00",
+  "LastUpdate_Ratings": "2024-09-30T17:59:13.7784868+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.5484973+00:00"
 }
