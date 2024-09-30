@@ -399,7 +399,7 @@ Completed: 879 (0.12%) (Ranked 450)
 | 2024-09-14 | 760,808 | 879 |
 ## Awards
 Max (Challenging Puzzles): 8,030  (Ranked 72)  
-Sum: 10,596 (Ranked 123)  
+Sum: 10,599 (Ranked 123)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -411,7 +411,7 @@ Diff (max vs sum): -51
 | This game has Quickly Understood Controls | 292 |
 | This game is Relaxing | 289 |
 | This game is Extremely Fun | 281 |
-| This game is Highly Recommended | 264 |
+| This game is Highly Recommended | 267 |
 | This game has Obsessive Gameplay | 243 |
 | This game has a Creative Community | 217 |
 ## Ratings History
@@ -817,4 +817,4 @@ Diff (max vs sum): -51
 | 2024-09-27 | 4.61 | - | 8,028 | 10,591 |
 | 2024-09-28 | 4.61 | - | 8,028 | 10,592 |
 | 2024-09-29 | 4.61 | - | 8,030 | 10,594 |
-| 2024-09-30 | 4.61 | - | 8,030 | 10,596 |
+| 2024-09-30 | 4.61 | - | 8,030 | 10,599 |
