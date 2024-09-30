@@ -1,7 +1,7 @@
 # Nexomon: Extinction
 [Store](https://store.epicgames.com/en-US/p/nexomon-extinction)  
 [View Rawdata](../../db/n/nexomon__extinction.json)  
-Rating: 4.50 (Ranked 713)  
+Rating: 4.50 (Ranked 714)  
 Number of Ratings: 25  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

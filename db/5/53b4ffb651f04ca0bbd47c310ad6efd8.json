@@ -2,7 +2,7 @@
   "ID": "53b4ffb651f04ca0bbd47c310ad6efd8",
   "Name": "OpenSeason",
   "ProductSlug": "openseason-75e993",
-  "Ranking_Rating": 751,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 726,
   "Ranking_PopularitySum": 726,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2024-09-18T10:57:52.8499108+00:00",
@@ -59,6 +59,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-09-30T10:59:07.1458153+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -77,8 +83,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-06T22:01:07.8475416+00:00",
   "FirstSeenRating": "2024-09-18T10:57:52.8499105+00:00",
-  "LastChanged": "2024-09-28T15:58:46.0984756+00:00",
+  "LastChanged": "2024-09-30T10:59:07.1458151+00:00",
   "LastUpdate_AppInfo": "2024-09-23T15:57:20.3718289+00:00",
-  "LastUpdate_Ratings": "2024-09-30T08:59:45.1627514+00:00",
+  "LastUpdate_Ratings": "2024-09-30T10:59:07.1458156+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:43.2094515+00:00"
 }
