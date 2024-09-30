@@ -2,7 +2,7 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "ProductSlug": "lawn-mowing-simulator-838bf3",
-  "Ranking_Rating": 1225,
+  "Ranking_Rating": 1219,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 33,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.07,
+  "Rating": 4.08,
   "NumberOfRatings": 5086,
   "RatingHistory": [
     {
@@ -2424,6 +2424,12 @@
     {
       "Time": "2024-09-23T19:57:59.3178838+00:00",
       "Rating": 4.07,
+      "NumberOfAwards": 1033,
+      "NumberOfAwardsMax": 187
+    },
+    {
+      "Time": "2024-09-30T20:59:51.6875675+00:00",
+      "Rating": 4.08,
       "NumberOfAwards": 1033,
       "NumberOfAwardsMax": 187
     }
@@ -35527,9 +35533,9 @@
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
-  "LastChanged": "2024-09-23T19:57:59.3178836+00:00",
+  "LastChanged": "2024-09-30T20:59:51.6875673+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:56.9476854+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:38.2012665+00:00",
-  "LastUpdate_Ratings": "2024-09-30T19:57:32.8095906+00:00",
+  "LastUpdate_Ratings": "2024-09-30T20:59:51.6875678+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:56.9478448+00:00"
 }

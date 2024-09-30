@@ -2,7 +2,7 @@
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
-  "Ranking_Rating": 960,
+  "Ranking_Rating": 961,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 11,
@@ -13471,18 +13471,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 10756,
       "NumberOfAwardsMax": 2347
+    },
+    {
+      "Time": "2024-09-30T20:58:18.4784075+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 10768,
+      "NumberOfAwardsMax": 2349
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10756,
-  "NumberOfAwardsMax": 2347,
+  "NumberOfAwards": 10768,
+  "NumberOfAwardsMax": 2349,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1813
+      "Count": 1821
     },
     {
       "Text": "This game has Challenging Combat",
@@ -13506,7 +13512,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2347
+      "Count": 2349
     },
     {
       "Text": "This game has Competitive Players",
@@ -13524,7 +13530,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1551
+      "Count": 1553
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -46439,9 +46445,9 @@
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2024-09-30T15:58:28.4318432+00:00",
+  "LastChanged": "2024-09-30T20:58:18.4784073+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:28.5890797+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:26.3962108+00:00",
-  "LastUpdate_Ratings": "2024-09-30T18:59:29.5063298+00:00",
+  "LastUpdate_Ratings": "2024-09-30T20:58:18.478408+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:28.5892911+00:00"
 }

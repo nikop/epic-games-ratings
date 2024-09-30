@@ -2,7 +2,7 @@
   "ID": "304724b675974566b1d7e23af80a1f52",
   "Name": "BioShock 2 Remastered",
   "ProductSlug": "bioshock-2-remastered",
-  "Ranking_Rating": 693,
+  "Ranking_Rating": 692,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 1254,
@@ -3469,10 +3469,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 5583,
       "NumberOfAwardsMax": 4337
+    },
+    {
+      "Time": "2024-09-30T20:58:19.3353728+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5584,
+      "NumberOfAwardsMax": 4337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5583,
+  "NumberOfAwards": 5584,
   "NumberOfAwardsMax": 4337,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3498,7 +3504,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 160
+      "Count": 161
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3560,8 +3566,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
-  "LastChanged": "2024-09-30T13:57:34.9483691+00:00",
+  "LastChanged": "2024-09-30T20:58:19.3353726+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:26.7569026+00:00",
-  "LastUpdate_Ratings": "2024-09-30T18:59:30.5012943+00:00",
+  "LastUpdate_Ratings": "2024-09-30T20:58:19.3353731+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:55.1989084+00:00"
 }
