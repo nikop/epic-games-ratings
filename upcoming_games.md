@@ -17,12 +17,12 @@
 | [Cabernet](games/f/fe7271d3a3da49c6924e38388ed3174a.md) | 2024-10-24 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [Barbie Project Friendship™](games/8/8b9f266350ad4f95aec7fbc4021c1695.md) | 2024-10-24 | - |  | - | - |
+| [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-25 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
 | [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
 | [Barrel Baller](games/5/51b263d03178465b87a5a46315be468e.md) | 2024-10-31 | - |  | - | - |
 | [Bmx Bastards](games/a/af34c848367c4071b8083b22c90e15fb.md) | 2024-10-31 | - |  | - | - |
 | [Hitmen Party](games/0/0229686d1f43464eabe959430ba6abaf.md) | 2024-10-31 | - |  | - | - |
-| [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-31 | - |  | - | - |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-31 | - |  | - | - |
 | [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
