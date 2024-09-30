@@ -4,7 +4,7 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3340,10 +3340,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1467,
       "NumberOfAwardsMax": 934
+    },
+    {
+      "Time": "2024-09-30T03:21:07.1544624+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1421,
+      "NumberOfAwardsMax": 934
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1467,
+  "NumberOfAwards": 1421,
   "NumberOfAwardsMax": 934,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -3393,7 +3399,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 39
+      "Count": 41
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3431,8 +3437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-09-29T11:58:09.1080011+00:00",
+  "LastChanged": "2024-09-30T03:21:07.1544622+00:00",
   "LastUpdate_AppInfo": "2024-09-23T07:57:31.0638415+00:00",
-  "LastUpdate_Ratings": "2024-09-30T00:01:01.1862241+00:00",
+  "LastUpdate_Ratings": "2024-09-30T03:21:07.1544627+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.0660072+00:00"
 }
