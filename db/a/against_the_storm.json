@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 76,
   "Ranking_Popularity": 265,
-  "Ranking_PopularitySum": 204,
+  "Ranking_PopularitySum": 203,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 420,
   "Ranking_EOS_NewPlayers": 3,
@@ -5491,10 +5491,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3747,
       "NumberOfAwardsMax": 538
+    },
+    {
+      "Time": "2024-09-30T19:58:39.0817273+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3751,
+      "NumberOfAwardsMax": 538
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3747,
+  "NumberOfAwards": 3751,
   "NumberOfAwardsMax": 538,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5520,7 +5526,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 456
+      "Count": 460
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -22623,9 +22629,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-09-30T17:59:10.1198257+00:00",
+  "LastChanged": "2024-09-30T19:58:39.0817271+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:20.9406475+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:45.0335987+00:00",
-  "LastUpdate_Ratings": "2024-09-30T17:59:10.1198263+00:00",
+  "LastUpdate_Ratings": "2024-09-30T19:58:39.0817278+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:20.9407455+00:00"
 }
