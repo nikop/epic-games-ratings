@@ -370,9 +370,9 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-20 | 7,975 | 0 |
 | 2024-09-14 | 8,009 | 0 |
 ## Awards
-Max (Diverse Characters): 102  (Ranked 470)  
+Max (Diverse Characters): 102  (Ranked 471)  
 Sum: 712 (Ranked 382)  
-Diff (max vs sum): 88  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 102 |

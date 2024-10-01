@@ -2,9 +2,9 @@
   "ID": "bcca452821c54464bc2cf64458de387e",
   "Name": "Viking Rise: Valhalla",
   "ProductSlug": "viking-rise-876e15",
-  "Ranking_Rating": 1184,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Rating": 1189,
+  "Ranking_Popularity": 467,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2024-05-25T22:59:08.2682459+00:00",
@@ -750,18 +750,24 @@
       "Rating": 4.15,
       "NumberOfAwards": 170,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-10-01T03:59:21.5500686+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 103
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 170,
-  "NumberOfAwardsMax": 102,
+  "NumberOfAwards": 171,
+  "NumberOfAwardsMax": 103,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 102
+      "Count": 103
     },
     {
       "Text": "This game is Great for Beginners",
@@ -788,8 +794,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T06:58:36.7758205+00:00",
   "FirstSeenRating": "2024-05-25T22:59:08.2682454+00:00",
-  "LastChanged": "2024-09-30T17:59:36.0008988+00:00",
+  "LastChanged": "2024-10-01T03:59:21.5500684+00:00",
   "LastUpdate_AppInfo": "2024-09-25T20:57:08.4663734+00:00",
-  "LastUpdate_Ratings": "2024-10-01T03:22:00.3055214+00:00",
+  "LastUpdate_Ratings": "2024-10-01T03:59:21.550069+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:31.9909845+00:00"
 }
