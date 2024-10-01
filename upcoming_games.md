@@ -612,6 +612,7 @@
 | [The Netcode Conflict](games/b/b90475ab7a2542af810ec9dd9649398d.md) | 2099-01-01 | - |  | - | - |
 | [The Night Wanderer](games/4/45d15cce2e0749369154d8124be46910.md) | 2099-01-01 | - |  | - | - |
 | [The Prison](games/1/15d34b920cd04429975e95bf083d3902.md) | 2099-01-01 | - |  | - | - |
+| [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2099-01-01 | - |  | - | - |
 | [The Sinking City 2](games/5/5e3377fe4ff34650bfbd8dbea9b3a222.md) | 2099-01-01 | - |  | - | - |
 | [The Slayer:Rebirth](games/3/3d6e656e1ca044c880daffbf72cf9261.md) | 2099-01-01 | - |  | - | - |
 | [The World of Nifty Craft](games/9/9fdb4607f27248eaa4a0e72b346ec8e7.md) | 2099-01-01 | - |  | - | - |
