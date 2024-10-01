@@ -1,7 +1,7 @@
 # Close To The Sun
 [Store](https://store.epicgames.com/en-US/p/close-to-the-sun)  
 [View Rawdata](../../db/c/close_to_the_sun.json)  
-Rating: 3.96 (Ranked 1,261)  
+Rating: 3.97 (Ranked 1,257)  
 Number of Ratings: 147  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -97,3 +97,4 @@ Number of Ratings: 147  (23.09.2022)
 | 2024-09-27 | 3.96 | - | 0 | 0 |
 | 2024-09-28 | 3.97 | - | 0 | 0 |
 | 2024-09-29 | 3.96 | - | 0 | 0 |
+| 2024-10-01 | 3.97 | - | 0 | 0 |

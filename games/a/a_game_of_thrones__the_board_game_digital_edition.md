@@ -1,7 +1,7 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.21 (Ranked 1,123)  
+Rating: 4.21 (Ranked 1,122)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -321,12 +321,12 @@ Completed: 125 (0.26%) (Ranked 404)
 | 2024-09-14 | 49,011 | 125 |
 ## Awards
 Max (Quickly Understood Controls): 134  (Ranked 435)  
-Sum: 872 (Ranked 358)  
+Sum: 873 (Ranked 358)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 134 |
-| This game is Extremely Fun | 122 |
+| This game is Extremely Fun | 123 |
 | This game is Highly Recommended | 120 |
 | This game has Competitive Players | 109 |
 | This game is Relaxing | 107 |
@@ -486,3 +486,4 @@ Diff (max vs sum): 77
 | 2024-09-21 | 4.21 | - | 134 | 870 |
 | 2024-09-24 | 4.21 | - | 134 | 871 |
 | 2024-09-29 | 4.21 | - | 134 | 872 |
+| 2024-10-01 | 4.21 | - | 134 | 873 |

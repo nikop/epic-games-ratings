@@ -2,7 +2,7 @@
   "ID": "42c70202dc684966a827bfcb7b49ac5f",
   "Name": "Monster Jam\u2122 Showdown",
   "ProductSlug": "monster-jam-showdown",
-  "Ranking_Rating": 149,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 727,
   "Ranking_PopularitySum": 727,
   "Ranking_EOS_Progress": 539,
@@ -24,11 +24,17 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2024-09-23T05:58:31.6863115+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-01T02:21:46.6885946+00:00",
+      "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -470,9 +476,9 @@
   "FirstSeen": "2024-08-29T08:58:24.7721834+00:00",
   "FirstSeenRating": "2024-09-23T05:58:31.6863113+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:34.5246152+00:00",
-  "LastChanged": "2024-09-23T05:58:31.6863113+00:00",
+  "LastChanged": "2024-10-01T02:21:46.6885944+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:34.7705126+00:00",
   "LastUpdate_AppInfo": "2024-09-26T13:14:40.0805542+00:00",
-  "LastUpdate_Ratings": "2024-09-30T23:57:28.6914749+00:00",
+  "LastUpdate_Ratings": "2024-10-01T02:21:46.6885951+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.770577+00:00"
 }
