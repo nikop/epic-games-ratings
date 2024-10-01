@@ -2,7 +2,7 @@
   "ID": "3a212c0da4f1438e840c21565df4b6fe",
   "Name": "MultiVersus",
   "ProductSlug": "multiversus",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 16,
@@ -8856,10 +8856,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 51991,
       "NumberOfAwardsMax": 5786
+    },
+    {
+      "Time": "2024-10-01T22:57:43.2394883+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 52000,
+      "NumberOfAwardsMax": 5786
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51991,
+  "NumberOfAwards": 52000,
   "NumberOfAwardsMax": 5786,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8867,7 +8873,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4749
+      "Count": 4750
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -8897,7 +8903,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4422
+      "Count": 4424
     },
     {
       "Text": "This game has Playful Visuals",
@@ -8909,7 +8915,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4617
+      "Count": 4623
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -16372,9 +16378,9 @@
   ],
   "FirstSeen": "2022-07-26T18:01:28.8669143+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.2265474+00:00",
-  "LastChanged": "2024-10-01T19:58:28.2633051+00:00",
+  "LastChanged": "2024-10-01T22:57:43.2394879+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:24.8581057+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:43.7837255+00:00",
-  "LastUpdate_Ratings": "2024-10-01T19:58:28.2633059+00:00",
+  "LastUpdate_Ratings": "2024-10-01T22:57:43.239489+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:24.8581486+00:00"
 }
