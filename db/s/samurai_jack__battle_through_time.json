@@ -2,6 +2,9 @@
   "ID": "db9feb0da696474e9923764dd75b9854",
   "Name": "Samurai Jack: Battle Through Time",
   "ProductSlug": "samurai-jack-battle-through-time",
+  "Ranking_Rating": 716,
+  "Ranking_Popularity": 727,
+  "Ranking_PopularitySum": 727,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:06.2862277+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-01T04:59:27.1875277+00:00",
+      "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -41,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.9844591+00:00",
   "FirstSeenRating": "2023-03-31T05:57:06.2862274+00:00",
-  "LastChanged": "2023-03-31T05:57:06.2862275+00:00",
+  "LastChanged": "2024-10-01T04:59:27.1875275+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:09.9750993+00:00",
-  "LastUpdate_Ratings": "2024-10-01T03:24:48.3982698+00:00",
+  "LastUpdate_Ratings": "2024-10-01T04:59:27.187528+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:04.6854857+00:00"
 }

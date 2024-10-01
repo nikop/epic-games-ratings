@@ -1,7 +1,7 @@
 # Tortuga - A Pirate's Tale
 [Store](https://store.epicgames.com/en-US/p/tortuga-a-pirates-tale-e02635)  
 [View Rawdata](../../db/t/tortuga_-_a_pirate's_tale.json)  
-Rating: 3.84 (Ranked 1,287)  
+Rating: 3.84 (Ranked 1,288)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
