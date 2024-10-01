@@ -2,7 +2,7 @@
   "ID": "cinnamon",
   "Name": "Sherlock Holmes: The Devil\u0027s Daughter",
   "ProductSlug": "sherlock-holmes-the-devils-daughter",
-  "Ranking_Rating": 867,
+  "Ranking_Rating": 849,
   "Ranking_Popularity": 727,
   "Ranking_PopularitySum": 727,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 56,
   "RatingHistory": [
     {
@@ -420,6 +420,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-01T10:59:07.8026418+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -437,8 +443,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.2288345+00:00",
-  "LastChanged": "2024-09-20T07:58:33.1388265+00:00",
+  "LastChanged": "2024-10-01T10:59:07.8026416+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:58.1528333+00:00",
-  "LastUpdate_Ratings": "2024-10-01T08:59:19.3539401+00:00",
+  "LastUpdate_Ratings": "2024-10-01T10:59:07.8026422+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:56.7524141+00:00"
 }

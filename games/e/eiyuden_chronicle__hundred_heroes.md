@@ -1,7 +1,7 @@
 # Eiyuden Chronicle: Hundred Heroes
 [Store](https://store.epicgames.com/en-US/p/eiyuden-chronicle-hundred-heroes)  
 [View Rawdata](../../db/e/eiyuden_chronicle__hundred_heroes.json)  
-Rating: 4.69 (Ranked 269)  
+Rating: 4.70 (Ranked 251)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -92,3 +92,4 @@ Completed: 3 (0.94%) (Ranked 291)
 | 2024-09-07 | 4.67 | 0 | 0 |
 | 2024-09-15 | 4.68 | 0 | 0 |
 | 2024-09-29 | 4.69 | 0 | 0 |
+| 2024-10-01 | 4.70 | 0 | 0 |
