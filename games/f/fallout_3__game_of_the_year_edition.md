@@ -4,7 +4,7 @@
 Rating: 4.60 (Ranked 484)  
 ## Awards
 Max (Character Customization): 18,511  (Ranked 32)  
-Sum: 38,735 (Ranked 51)  
+Sum: 38,739 (Ranked 51)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -19
 | This game has Quickly Understood Controls | 1,924 |
 | This game has Unique Visuals | 1,901 |
 | This game is Relaxing | 1,830 |
-| This game has a Creative Community | 1,490 |
+| This game has a Creative Community | 1,494 |
 | This game has Obsessive Gameplay | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -582,4 +582,4 @@ Diff (max vs sum): -19
 | 2024-09-28 | 4.60 | 18,496 | 38,683 |
 | 2024-09-29 | 4.60 | 18,496 | 38,698 |
 | 2024-09-30 | 4.60 | 18,503 | 38,720 |
-| 2024-10-01 | 4.60 | 18,511 | 38,735 |
+| 2024-10-01 | 4.60 | 18,511 | 38,739 |

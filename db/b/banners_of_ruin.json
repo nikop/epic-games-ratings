@@ -2,9 +2,9 @@
   "ID": "163f3727bb6945a48d902fc5632626ac",
   "Name": "Banners of Ruin",
   "ProductSlug": "banners-of-ruin",
-  "Ranking_Rating": 985,
-  "Ranking_Popularity": 727,
-  "Ranking_PopularitySum": 727,
+  "Ranking_Rating": 963,
+  "Ranking_Popularity": 728,
+  "Ranking_PopularitySum": 728,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2022-10-06T05:31:48.7730939+00:00",
@@ -115,6 +115,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-01T16:59:46.612534+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -133,8 +139,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:24.5876592+00:00",
   "FirstSeenRating": "2022-10-06T05:31:48.7730935+00:00",
-  "LastChanged": "2024-01-22T22:59:41.3337745+00:00",
+  "LastChanged": "2024-10-01T16:59:46.6125339+00:00",
   "LastUpdate_AppInfo": "2024-09-29T21:57:08.7976256+00:00",
-  "LastUpdate_Ratings": "2024-10-01T15:57:20.0833517+00:00",
+  "LastUpdate_Ratings": "2024-10-01T16:59:46.6125346+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:51.0105899+00:00"
 }

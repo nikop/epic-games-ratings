@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 1,123)  
+Rating: 4.21 (Ranked 1,124)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
