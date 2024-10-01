@@ -3,8 +3,8 @@
   "Name": "Ghost of Tsushima DIRECTOR\u0027S CUT",
   "ProductSlug": "ghost-of-tsushima",
   "Ranking_Rating": 41,
-  "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 129,
+  "Ranking_Popularity": 109,
+  "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5473,18 +5473,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 10024,
       "NumberOfAwardsMax": 3800
+    },
+    {
+      "Time": "2024-09-30T23:59:01.2351997+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 10050,
+      "NumberOfAwardsMax": 3821
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10024,
-  "NumberOfAwardsMax": 3800,
+  "NumberOfAwards": 10050,
+  "NumberOfAwardsMax": 3821,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3800
+      "Count": 3821
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5502,7 +5508,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 554
+      "Count": 555
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5550,7 +5556,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 358
+      "Count": 362
     }
   ],
   "EOS_Progressed": 113593,
@@ -6217,9 +6223,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-09-30T22:01:02.7243271+00:00",
+  "LastChanged": "2024-09-30T23:59:01.2351995+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:12.2855371+00:00",
   "LastUpdate_AppInfo": "2024-09-26T10:57:13.9424155+00:00",
-  "LastUpdate_Ratings": "2024-09-30T22:01:02.7243278+00:00",
+  "LastUpdate_Ratings": "2024-09-30T23:59:01.2352002+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:12.2856292+00:00"
 }
