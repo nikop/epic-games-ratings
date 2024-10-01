@@ -1,18 +1,18 @@
 # Alien: Isolation
 [Store](https://store.epicgames.com/en-US/p/alien-isolation)  
 [View Rawdata](../../db/a/alien__isolation.json)  
-Rating: 4.62 (Ranked 432)  
+Rating: 4.62 (Ranked 433)  
 Number of Ratings: 5,222  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 179  (Ranked 388)  
-Sum: 1,285 (Ranked 310)  
+Sum: 1,286 (Ranked 310)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 179 |
 | This game has Diverse Characters | 174 |
 | This game has Challenging Combat | 172 |
-| This game has Amazing Storytelling | 171 |
+| This game has Amazing Storytelling | 172 |
 | This game is Extremely Fun | 168 |
 | This game has Quickly Understood Controls | 164 |
 | This game has Amazing Characters | 158 |
@@ -274,3 +274,4 @@ Diff (max vs sum): 78
 | 2024-09-28 | 4.62 | - | 178 | 1,278 |
 | 2024-09-29 | 4.62 | - | 179 | 1,284 |
 | 2024-09-30 | 4.62 | - | 179 | 1,285 |
+| 2024-10-01 | 4.62 | - | 179 | 1,286 |

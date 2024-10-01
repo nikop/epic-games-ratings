@@ -4,7 +4,7 @@
   "ProductSlug": "god-of-war-ragnarok-3ca641",
   "Ranking_Rating": 41,
   "Ranking_Popularity": 555,
-  "Ranking_PopularitySum": 413,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -378,10 +378,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 516,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-10-01T03:22:59.1568466+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 531,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 516,
+  "NumberOfAwards": 531,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -407,7 +413,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 44
+      "Count": 52
     },
     {
       "Text": "This game is Highly Recommended",
@@ -419,7 +425,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 54
     },
     {
       "Text": "This game has Diverse Characters",
@@ -484,9 +490,9 @@
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
-  "LastChanged": "2024-09-30T23:58:46.6157849+00:00",
+  "LastChanged": "2024-10-01T03:22:59.1568465+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
   "LastUpdate_AppInfo": "2024-09-27T11:57:10.6104815+00:00",
-  "LastUpdate_Ratings": "2024-09-30T23:58:46.6157855+00:00",
+  "LastUpdate_Ratings": "2024-10-01T03:22:59.1568469+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
 }

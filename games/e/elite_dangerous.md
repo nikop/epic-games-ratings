@@ -1,11 +1,11 @@
 # Elite Dangerous
 [Store](https://store.epicgames.com/en-US/p/elite-dangerous)  
 [View Rawdata](../../db/e/elite_dangerous.json)  
-Rating: 4.62 (Ranked 432)  
+Rating: 4.62 (Ranked 433)  
 Number of Ratings: 6,856  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 2,645  (Ranked 123)  
-Sum: 14,693 (Ranked 98)  
+Sum: 14,695 (Ranked 98)  
 Diff (max vs sum): 25  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 25
 | This game is Extremely Fun | 2,437 |
 | This game is Relaxing | 2,430 |
 | This game is Educational | 2,381 |
-| This game has Amazing Storytelling | 2,201 |
+| This game has Amazing Storytelling | 2,203 |
 | This game has Obsessive Gameplay | 1,244 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -605,3 +605,4 @@ Diff (max vs sum): 25
 | 2024-09-28 | 4.62 | - | 2,641 | 14,675 |
 | 2024-09-29 | 4.62 | - | 2,641 | 14,683 |
 | 2024-09-30 | 4.62 | - | 2,645 | 14,693 |
+| 2024-10-01 | 4.62 | - | 2,645 | 14,695 |

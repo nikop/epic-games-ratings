@@ -2,7 +2,7 @@
   "ID": "3db17abfd650423f993291624b1b2ac1",
   "Name": "Elite Dangerous",
   "ProductSlug": "elite-dangerous",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 433,
   "Ranking_Popularity": 123,
   "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 1254,
@@ -11117,10 +11117,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 14693,
       "NumberOfAwardsMax": 2645
+    },
+    {
+      "Time": "2024-10-01T03:23:15.5016185+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 14695,
+      "NumberOfAwardsMax": 2645
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14693,
+  "NumberOfAwards": 14695,
   "NumberOfAwardsMax": 2645,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -11164,7 +11170,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2201
+      "Count": 2203
     }
   ],
   "EOS_Progressed": 0,
@@ -11178,8 +11184,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.2143303+00:00",
-  "LastChanged": "2024-09-30T20:57:23.4897835+00:00",
+  "LastChanged": "2024-10-01T03:23:15.5016183+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:23.1532719+00:00",
-  "LastUpdate_Ratings": "2024-09-30T23:59:03.0349773+00:00",
+  "LastUpdate_Ratings": "2024-10-01T03:23:15.5016189+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:18.524616+00:00"
 }

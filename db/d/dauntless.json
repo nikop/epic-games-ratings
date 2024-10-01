@@ -2,7 +2,7 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 651,
+  "Ranking_Rating": 652,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 1254,
@@ -22557,18 +22557,24 @@
       "Rating": 4.53,
       "NumberOfAwards": 91503,
       "NumberOfAwardsMax": 32258
+    },
+    {
+      "Time": "2024-10-01T03:23:12.238088+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 91538,
+      "NumberOfAwardsMax": 32277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 91503,
-  "NumberOfAwardsMax": 32258,
+  "NumberOfAwards": 91538,
+  "NumberOfAwardsMax": 32277,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 32258
+      "Count": 32277
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -22616,19 +22622,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4911
+      "Count": 4916
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4708
+      "Count": 4712
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5564
+      "Count": 5571
     }
   ],
   "EOS_Progressed": 0,
@@ -22642,8 +22648,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
-  "LastChanged": "2024-09-30T20:57:20.1254222+00:00",
+  "LastChanged": "2024-10-01T03:23:12.2380879+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:20.9842162+00:00",
-  "LastUpdate_Ratings": "2024-09-30T23:58:59.7330961+00:00",
+  "LastUpdate_Ratings": "2024-10-01T03:23:12.2380885+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.4978151+00:00"
 }
