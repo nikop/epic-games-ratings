@@ -4,7 +4,7 @@
   "ProductSlug": "zeeverse-92a34e",
   "Ranking_Rating": 151,
   "Ranking_Popularity": 541,
-  "Ranking_PopularitySum": 506,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -755,10 +755,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 248,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-10-01T13:16:13.4832225+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 251,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 248,
+  "NumberOfAwards": 251,
   "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -772,7 +778,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 57
+      "Count": 59
     },
     {
       "Text": "This game has Diverse Characters",
@@ -784,7 +790,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -811,8 +817,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-18T18:59:41.818117+00:00",
   "FirstSeenRating": "2024-02-09T15:57:23.2478123+00:00",
-  "LastChanged": "2024-10-01T10:59:31.8445934+00:00",
+  "LastChanged": "2024-10-01T13:16:13.4832223+00:00",
   "LastUpdate_AppInfo": "2024-09-26T10:57:12.5236274+00:00",
-  "LastUpdate_Ratings": "2024-10-01T10:59:31.8445939+00:00",
+  "LastUpdate_Ratings": "2024-10-01T13:16:13.4832228+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:56.7661649+00:00"
 }

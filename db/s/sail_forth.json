@@ -3,7 +3,7 @@
   "Name": "Sail Forth",
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 868,
-  "Ranking_Popularity": 623,
+  "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 559,
@@ -845,11 +845,17 @@
       "Rating": 4.42,
       "NumberOfAwards": 241,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-10-01T13:17:47.7150578+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 242,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 241,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 242,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -880,7 +886,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3220,9 +3226,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-10-01T11:01:36.1587039+00:00",
+  "LastChanged": "2024-10-01T13:17:47.7150577+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:28.3563301+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:38.6668825+00:00",
-  "LastUpdate_Ratings": "2024-10-01T11:01:36.1587043+00:00",
+  "LastUpdate_Ratings": "2024-10-01T13:17:47.7150581+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:28.3563658+00:00"
 }
