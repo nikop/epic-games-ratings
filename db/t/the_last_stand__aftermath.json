@@ -4,7 +4,7 @@
   "ProductSlug": "the-last-stand-aftermath",
   "Ranking_Rating": 1011,
   "Ranking_Popularity": 628,
-  "Ranking_PopularitySum": 549,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -518,10 +518,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 166,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-10-01T19:59:12.5614128+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 166,
+  "NumberOfAwards": 171,
   "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -547,7 +553,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
@@ -573,8 +579,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-10-01T17:59:05.042296+00:00",
+  "LastChanged": "2024-10-01T19:59:12.5614126+00:00",
   "LastUpdate_AppInfo": "2024-09-30T16:57:34.0096608+00:00",
-  "LastUpdate_Ratings": "2024-10-01T17:59:05.0422965+00:00",
+  "LastUpdate_Ratings": "2024-10-01T19:59:12.5614132+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.9577922+00:00"
 }
