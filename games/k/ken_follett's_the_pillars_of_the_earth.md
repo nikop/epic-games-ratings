@@ -339,8 +339,8 @@ Completed: 147 (0.67%) (Ranked 324)
 | 2024-08-20 | 21,620 | 145 |
 | 2024-09-14 | 22,040 | 147 |
 ## Awards
-Max (Easy Puzzles): 174  (Ranked 393)  
-Sum: 222 (Ranked 517)  
+Max (Easy Puzzles): 174  (Ranked 394)  
+Sum: 222 (Ranked 518)  
 Diff (max vs sum): -124  
 | Award | Count |
 | ----- | ----- |
