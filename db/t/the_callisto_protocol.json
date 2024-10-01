@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 1190,
   "Ranking_Popularity": 232,
-  "Ranking_PopularitySum": 192,
+  "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 44,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -5139,10 +5139,16 @@
       "Rating": 4.14,
       "NumberOfAwards": 4230,
       "NumberOfAwardsMax": 794
+    },
+    {
+      "Time": "2024-10-01T11:57:33.6210033+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 4236,
+      "NumberOfAwardsMax": 794
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4230,
+  "NumberOfAwards": 4236,
   "NumberOfAwardsMax": 794,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -5168,7 +5174,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 761
+      "Count": 767
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -18293,9 +18299,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-10-01T09:57:59.9521043+00:00",
+  "LastChanged": "2024-10-01T11:57:33.6210031+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:56.6736367+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:15.7349754+00:00",
-  "LastUpdate_Ratings": "2024-10-01T09:57:59.9521047+00:00",
+  "LastUpdate_Ratings": "2024-10-01T11:57:33.6210036+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:56.6737154+00:00"
 }
