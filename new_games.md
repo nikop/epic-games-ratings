@@ -29,10 +29,10 @@
 | [Come on Fantasy baby!](games/0/0851f967f9fa4703be3039e11c03fdce.md) | 2024-09-28 | - |  | - | 0 |
 | [Deadly Contagion](games/2/2fd1e4381c1542bb9aa1a0cc9f2195d8.md) | 2024-09-27 | - |  | - | - |
 | [Reqvia](games/7/7eae14353be148d4a941113dcaa00b87.md) | 2024-09-27 | - |  | - | - |
-| [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | - |  | - | - |
+| [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | - |  | - | 0 |
 | [DroneClash](games/e/e738fe9456c148babf669629bb50a6cc.md) | 2024-09-27 | - |  | - | - |
 | [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | - |  | - | 0 |
-| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.18 | 0 |
+| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.21 | 0 |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 3 | - | 0 |
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | - |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | 0 |
@@ -50,7 +50,7 @@
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | 0 |
 | [Ductz](games/1/10a2adbb3abf4533a5009de9b44c2f93.md) | 2024-09-25 | - |  | - | - |
 | [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | 0 |
-| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | 4.24 | 0 |
+| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | 4.25 | 0 |
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | - |  | - | 0 |
 | [Zoo 2 Animal Park](games/d/d1f3026321264e2395699cd48ca3f346.md) | 2024-09-24 | - |  | - | 0 |
 | [Anarkade](games/b/b249551ce1c84c6fbbe5b77adfe443cf.md) | 2024-09-23 | - |  | - | - |
