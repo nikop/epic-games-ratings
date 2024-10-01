@@ -2,7 +2,7 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 460,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 1254,
@@ -24188,10 +24188,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 80163,
       "NumberOfAwardsMax": 27574
+    },
+    {
+      "Time": "2024-10-01T09:58:40.104612+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 80170,
+      "NumberOfAwardsMax": 27574
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80163,
+  "NumberOfAwards": 80170,
   "NumberOfAwardsMax": 27574,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -24259,7 +24265,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 6462
+      "Count": 6469
     }
   ],
   "EOS_Progressed": 0,
@@ -24273,8 +24279,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2024-10-01T07:59:18.7501581+00:00",
+  "LastChanged": "2024-10-01T09:58:40.1046118+00:00",
   "LastUpdate_AppInfo": "2024-09-29T22:57:10.314195+00:00",
-  "LastUpdate_Ratings": "2024-10-01T07:59:18.7501586+00:00",
+  "LastUpdate_Ratings": "2024-10-01T09:58:40.1046124+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:28.262912+00:00"
 }
