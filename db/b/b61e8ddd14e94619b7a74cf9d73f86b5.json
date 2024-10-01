@@ -2,7 +2,7 @@
   "ID": "b61e8ddd14e94619b7a74cf9d73f86b5",
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
-  "Ranking_Rating": 1115,
+  "Ranking_Rating": 1096,
   "Ranking_Popularity": 695,
   "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2024-09-27T16:59:14.411303+00:00",
@@ -127,6 +127,12 @@
       "Rating": 4.22,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-10-01T19:00:38.5701476+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -153,8 +159,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
-  "LastChanged": "2024-10-01T16:59:59.1626297+00:00",
+  "LastChanged": "2024-10-01T19:00:38.5701474+00:00",
   "LastUpdate_AppInfo": "2024-09-25T21:57:15.2837577+00:00",
-  "LastUpdate_Ratings": "2024-10-01T16:59:59.1626301+00:00",
+  "LastUpdate_Ratings": "2024-10-01T19:00:38.570148+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:14.1150285+00:00"
 }

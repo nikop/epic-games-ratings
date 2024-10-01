@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 20,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 97,
@@ -26745,10 +26745,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 187228,
       "NumberOfAwardsMax": 25740
+    },
+    {
+      "Time": "2024-10-01T18:59:13.806728+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 187736,
+      "NumberOfAwardsMax": 25740
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187228,
+  "NumberOfAwards": 187736,
   "NumberOfAwardsMax": 25740,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -26768,7 +26774,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 18430
+      "Count": 18556
     },
     {
       "Text": "This game is Highly Recommended",
@@ -26780,7 +26786,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 19402
+      "Count": 19527
     },
     {
       "Text": "This game is Great for Beginners",
@@ -26792,13 +26798,13 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 18216
+      "Count": 18322
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 18891
+      "Count": 19042
     },
     {
       "Text": "This game has a Creative Community",
@@ -27198,9 +27204,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-10-01T16:59:05.2362226+00:00",
+  "LastChanged": "2024-10-01T18:59:13.8067278+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:38.0083264+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:14.2154989+00:00",
-  "LastUpdate_Ratings": "2024-10-01T16:59:05.2362231+00:00",
+  "LastUpdate_Ratings": "2024-10-01T18:59:13.8067285+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:38.0091964+00:00"
 }

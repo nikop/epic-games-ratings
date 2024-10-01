@@ -1,7 +1,7 @@
 # The Caligula Effect 2
 [Store](https://store.epicgames.com/en-US/p/the-caligula-effect-2-a51f60)  
 [View Rawdata](../../db/t/the_caligula_effect_2.json)  
-Rating: 4.43 (Ranked 849)  
+Rating: 4.44 (Ranked 833)  
 Number of Ratings: 32  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -106,3 +106,4 @@ Completed: 3 (1.01%) (Ranked 281)
 | 2023-01-10 | 4.44 | - | - | - |
 | 2023-03-31 | 4.44 | - | 0 | 0 |
 | 2024-03-18 | 4.43 | - | 0 | 0 |
+| 2024-10-01 | 4.44 | - | 0 | 0 |
