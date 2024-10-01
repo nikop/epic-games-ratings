@@ -273,13 +273,13 @@ Completed: 17 (0.06%) (Ranked 486)
 | 2024-08-20 | 25,118 | 15 |
 | 2024-09-14 | 27,883 | 17 |
 ## Awards
-Max (Impact the Story): 83  (Ranked 500)  
-Sum: 83 (Ranked 604)  
+Max (Impact the Story): 84  (Ranked 499)  
+Sum: 84 (Ranked 603)  
 Diff (max vs sum): -104  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 146 |
-| In this game, your choices Impact the Story | 83 |
+| In this game, your choices Impact the Story | 84 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -414,3 +414,4 @@ Diff (max vs sum): -104
 | 2024-09-27 | 4.41 | - | 81 | 81 |
 | 2024-09-28 | 4.41 | - | 82 | 82 |
 | 2024-09-29 | 4.41 | - | 83 | 83 |
+| 2024-10-01 | 4.41 | - | 84 | 84 |
