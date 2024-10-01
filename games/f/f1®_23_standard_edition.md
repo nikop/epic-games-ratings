@@ -201,7 +201,7 @@ Completed: 1 (0.00%) (Ranked 591)
 | 2024-09-14 | 22,025 | 1 |
 ## Awards
 Max (Diverse Characters): 360  (Ranked 300)  
-Sum: 2,173 (Ranked 257)  
+Sum: 2,175 (Ranked 257)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
@@ -211,8 +211,8 @@ Diff (max vs sum): 43
 | This game has Realistic Visuals | 228 |
 | This game has Amazing Characters | 210 |
 | This game has Challenging Combat | 189 |
-| This game has Amazing Storytelling | 185 |
-| This game is Extremely Fun | 180 |
+| This game has Amazing Storytelling | 186 |
+| This game is Extremely Fun | 181 |
 | This game is Educational | 175 |
 | This game has Competitive Players | 162 |
 | This game has Quickly Understood Controls | 152 |
@@ -602,4 +602,4 @@ Diff (max vs sum): 43
 | 2024-09-28 | 4.57 | 358 | 2,156 |
 | 2024-09-29 | 4.57 | 360 | 2,167 |
 | 2024-09-30 | 4.57 | 360 | 2,168 |
-| 2024-10-01 | 4.57 | 360 | 2,173 |
+| 2024-10-01 | 4.57 | 360 | 2,175 |
