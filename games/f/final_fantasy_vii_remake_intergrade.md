@@ -1,7 +1,7 @@
 # FINAL FANTASY VII REMAKE INTERGRADE
 [Store](https://store.epicgames.com/en-US/p/final-fantasy-vii-remake-intergrade)  
 [View Rawdata](../../db/f/final_fantasy_vii_remake_intergrade.json)  
-Rating: 4.85 (Ranked 41)  
+Rating: 4.84 (Ranked 50)  
 Number of Ratings: 15,120  (23.09.2022)  
 ## Awards
 Max (Character Customization): 6,313  (Ranked 87)  
@@ -567,3 +567,4 @@ Diff (max vs sum): -14
 | 2024-09-28 | 4.85 | - | 6,311 | 14,014 |
 | 2024-09-29 | 4.85 | - | 6,313 | 14,021 |
 | 2024-09-30 | 4.85 | - | 6,313 | 14,022 |
+| 2024-10-01 | 4.84 | - | 6,313 | 14,022 |

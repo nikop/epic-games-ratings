@@ -2,7 +2,7 @@
   "ID": "6f43ab8025ad42d18510aa91e9eb688b",
   "Name": "FINAL FANTASY VII REMAKE INTERGRADE",
   "ProductSlug": "final-fantasy-vii-remake-intergrade",
-  "Ranking_Rating": 41,
+  "Ranking_Rating": 50,
   "Ranking_Popularity": 87,
   "Ranking_PopularitySum": 101,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.85,
+  "Rating": 4.84,
   "NumberOfRatings": 15120,
   "RatingHistory": [
     {
@@ -8753,6 +8753,12 @@
       "Rating": 4.85,
       "NumberOfAwards": 14022,
       "NumberOfAwardsMax": 6313
+    },
+    {
+      "Time": "2024-10-01T14:59:47.7484142+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 14022,
+      "NumberOfAwardsMax": 6313
     }
   ],
   "ReviewsDisabled": false,
@@ -8850,8 +8856,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:16.7757899+00:00",
-  "LastChanged": "2024-09-30T15:01:57.2565335+00:00",
+  "LastChanged": "2024-10-01T14:59:47.748414+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:22.1284709+00:00",
-  "LastUpdate_Ratings": "2024-10-01T13:18:16.2679019+00:00",
+  "LastUpdate_Ratings": "2024-10-01T14:59:47.7484145+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:57.1658882+00:00"
 }
