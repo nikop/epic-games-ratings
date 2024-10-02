@@ -399,7 +399,7 @@ Completed: 879 (0.12%) (Ranked 450)
 | 2024-09-14 | 760,808 | 879 |
 ## Awards
 Max (Challenging Puzzles): 8,033  (Ranked 72)  
-Sum: 10,603 (Ranked 123)  
+Sum: 10,604 (Ranked 123)  
 Diff (max vs sum): -51  
 | Award | Count |
 | ----- | ----- |
@@ -413,7 +413,7 @@ Diff (max vs sum): -51
 | This game is Extremely Fun | 281 |
 | This game is Highly Recommended | 267 |
 | This game has Obsessive Gameplay | 243 |
-| This game has a Creative Community | 217 |
+| This game has a Creative Community | 218 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -818,4 +818,4 @@ Diff (max vs sum): -51
 | 2024-09-28 | 4.61 | - | 8,028 | 10,592 |
 | 2024-09-29 | 4.61 | - | 8,030 | 10,594 |
 | 2024-09-30 | 4.61 | - | 8,030 | 10,600 |
-| 2024-10-02 | 4.61 | - | 8,033 | 10,603 |
+| 2024-10-02 | 4.61 | - | 8,033 | 10,604 |

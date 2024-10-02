@@ -4,7 +4,7 @@
   "ProductSlug": "mutant-year-zero",
   "Ranking_Rating": 716,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 324,
+  "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2229,10 +2229,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 1112,
       "NumberOfAwardsMax": 764
+    },
+    {
+      "Time": "2024-10-02T09:58:31.5320966+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1114,
+      "NumberOfAwardsMax": 764
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1112,
+  "NumberOfAwards": 1114,
   "NumberOfAwardsMax": 764,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2270,7 +2276,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 43
+      "Count": 45
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2314,8 +2320,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:31.3944406+00:00",
-  "LastChanged": "2024-10-02T08:01:18.098185+00:00",
+  "LastChanged": "2024-10-02T09:58:31.5320964+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:38.4322354+00:00",
-  "LastUpdate_Ratings": "2024-10-02T08:01:18.0981857+00:00",
+  "LastUpdate_Ratings": "2024-10-02T09:58:31.5320969+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.8783153+00:00"
 }
