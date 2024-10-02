@@ -4,7 +4,7 @@
   "ProductSlug": "redout-2",
   "Ranking_Rating": 628,
   "Ranking_Popularity": 613,
-  "Ranking_PopularitySum": 538,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -629,10 +629,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 190,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-10-02T08:01:33.1683885+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 190,
+  "NumberOfAwards": 191,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Beautiful Visuals",
   "Tags": [
@@ -646,7 +652,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2477,9 +2483,9 @@
   "FirstSeen": "2022-07-22T20:21:48.0586054+00:00",
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
-  "LastChanged": "2024-10-01T05:57:11.5473967+00:00",
+  "LastChanged": "2024-10-02T08:01:33.1683882+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:21.9496321+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:55.0208074+00:00",
-  "LastUpdate_Ratings": "2024-10-02T06:01:31.9005115+00:00",
+  "LastUpdate_Ratings": "2024-10-02T08:01:33.1683887+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:21.9496697+00:00"
 }

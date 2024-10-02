@@ -3,8 +3,8 @@
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
   "Ranking_Rating": 694,
-  "Ranking_Popularity": 411,
-  "Ranking_PopularitySum": 557,
+  "Ranking_Popularity": 408,
+  "Ranking_PopularitySum": 556,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 462,
   "Ranking_EOS_NewPlayers": 3,
@@ -608,18 +608,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 153,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2024-10-02T07:59:12.3305585+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 154,
+      "NumberOfAwardsMax": 154
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 153,
-  "NumberOfAwardsMax": 153,
+  "NumberOfAwards": 154,
+  "NumberOfAwardsMax": 154,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 153
+      "Count": 154
     }
   ],
   "EOS_Progressed": 639434,
@@ -32827,9 +32833,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
-  "LastChanged": "2024-09-29T03:59:59.9414532+00:00",
+  "LastChanged": "2024-10-02T07:59:12.3305583+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:50.4146386+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:17.4256755+00:00",
-  "LastUpdate_Ratings": "2024-10-02T05:58:20.8176423+00:00",
+  "LastUpdate_Ratings": "2024-10-02T07:59:12.3305588+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:50.4148389+00:00"
 }
