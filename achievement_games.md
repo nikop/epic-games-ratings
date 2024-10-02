@@ -188,7 +188,7 @@
 | [Beatbuddy: On Tour](games/0/05f5de9a159b47a5b653684a0ac13f16.md) | 2024-07-03 | 27 (1,000 XP) | 1 | - | - |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | 15 (1,000 XP) | 1 | - | 0 |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | 30 (1,000 XP) | 12 | - | 0 |
-| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 87,887 | 4.76 | 50 |
+| [Teenage Mutant Ninja Turtles: Shredder's Revenge](games/a/a4977aac967e4e2c827336f074c82d64.md) | 2024-07-02 | 30 (1,000 XP) | 87,887 | 4.76 | 51 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | 5 (1,000 XP) | 0 | - | - |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | 21 (1,000 XP) | 5 | - | - |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 28 | - | - |
@@ -1092,7 +1092,7 @@
 | [Serial Cleaners](games/s/serial_cleaners.md) | 2022-09-22 | 24 (1,300 XP) | 493 | - | 0 |
 | [ANNO Mutationem](games/a/anno_mutationem.md) | 2022-09-22 | 36 (1,000 XP) | 947 | 4.62 | 0 |
 | [The Outbound Ghost](games/t/the_outbound_ghost.md) | 2022-09-20 | 31 (1,000 XP) | 0 | - | 0 |
-| [Tails of Iron](games/t/tails_of_iron.md) | 2022-09-15 | 36 (1,230 XP) | 3,398 | 4.62 | 29 |
+| [Tails of Iron](games/t/tails_of_iron.md) | 2022-09-15 | 36 (1,230 XP) | 3,398 | 4.61 | 29 |
 | [Absolute Tactics](games/a/absolute_tactics.md) | 2022-09-15 | 21 (1,000 XP) | 6 | - | 0 |
 | [Foretales](games/f/foretales.md) | 2022-09-15 | 41 (1,000 XP) | 334 | 4.71 | 0 |
 | [Isonzo](games/i/isonzo.md) | 2022-09-13 | 45 (1,000 XP) | 8,852 | 4.57 | 67 |
@@ -1155,7 +1155,7 @@
 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 2022-06-02 | 19 (1,000 XP) | 4,085 | - | 0 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,224 | 4.69 | 763 |
 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 2022-05-20 | 11 (1,000 XP) | 2,408 | 4.19 | 0 |
-| [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2022-05-19 | 75 (1,000 XP) | 62,414 | 4.38 | 2,210 |
+| [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2022-05-19 | 75 (1,000 XP) | 62,414 | 4.38 | 2,212 |
 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 2022-05-19 | 60 (1,000 XP) | 496 | 4.73 | 0 |
 | [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 7,091 | 4.52 | 40 |
 | [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 433 | 4.29 | 0 |

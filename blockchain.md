@@ -69,7 +69,7 @@
 | [Interlude](games/d/d75da0b94bfe48898940f73cb3061f05.md) | 2024-09-30 | - |  | - | - |
 | [KMON: World of Kogaea](games/e/edf3f9a1425d408cb5d5b28fda549f04.md) | 2024-09-30 | - |  | - | - |
 | [Ponchiqs](games/2/2c3811eee56e4fb98681ef11991e73dc.md) | 2024-09-30 | - |  | - | - |
-| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.73 | 0 |
+| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.69 | 0 |
 | [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | 0 |
 | [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-09-23 | - |  | - | - |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
@@ -178,5 +178,5 @@
 | [Aether TCG](games/c/cards_of_ethernity.md) | 2023-04-26 | - |  | 4.43 | 39 |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.68 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | 4.86 | 64 |
-| [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.40 | 56 |
+| [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.41 | 56 |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 32 |
