@@ -1,7 +1,7 @@
 # SpellForce: Conquest of Eo
 [Store](https://store.epicgames.com/en-US/p/spellforce-conquest-of-eo)  
 [View Rawdata](../../db/s/spellforce__conquest_of_eo.json)  
-Rating: 4.55 (Ranked 607)  
+Rating: 4.55 (Ranked 606)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

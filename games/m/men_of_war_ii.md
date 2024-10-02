@@ -1,7 +1,7 @@
 # Men of War II
 [Store](https://store.epicgames.com/en-US/p/men-of-war-ii-171a7e)  
 [View Rawdata](../../db/m/men_of_war_ii.json)  
-Rating: 4.11 (Ranked 1,208)  
+Rating: 4.10 (Ranked 1,211)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.11 (Ranked 1,208)
 | 2024-09-22 | 4.04 | 0 | 0 |
 | 2024-09-27 | 4.07 | 0 | 0 |
 | 2024-09-29 | 4.11 | 0 | 0 |
+| 2024-10-02 | 4.10 | 0 | 0 |
