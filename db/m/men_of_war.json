@@ -2,7 +2,7 @@
   "ID": "8b234aeb354e4688b000853a2085fd71",
   "Name": "Men of War",
   "ProductSlug": "men-of-war-74bf75",
-  "Ranking_Rating": 986,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 729,
   "Ranking_PopularitySum": 729,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:41.8479655+00:00",
@@ -155,6 +155,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-02T04:59:49.2541972+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -173,8 +179,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-06T22:57:57.9535341+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.8479653+00:00",
-  "LastChanged": "2024-09-25T03:15:48.8208644+00:00",
+  "LastChanged": "2024-10-02T04:59:49.254197+00:00",
   "LastUpdate_AppInfo": "2024-09-29T23:57:22.7602427+00:00",
-  "LastUpdate_Ratings": "2024-10-02T03:57:12.7612318+00:00",
+  "LastUpdate_Ratings": "2024-10-02T04:59:49.2541974+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:30.4547398+00:00"
 }
