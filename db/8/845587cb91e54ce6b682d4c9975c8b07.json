@@ -2,9 +2,9 @@
   "ID": "845587cb91e54ce6b682d4c9975c8b07",
   "Name": "FINAL FANTASY XVI",
   "ProductSlug": "final-fantasy-xvi",
-  "Ranking_Rating": 270,
-  "Ranking_Popularity": 391,
-  "Ranking_PopularitySum": 421,
+  "Ranking_Rating": 269,
+  "Ranking_Popularity": 366,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -475,18 +475,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 478,
       "NumberOfAwardsMax": 178
+    },
+    {
+      "Time": "2024-10-02T19:57:51.9562819+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 695,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 478,
-  "NumberOfAwardsMax": 178,
-  "MaxAwardTitle": "Great Boss Battles",
+  "NumberOfAwards": 695,
+  "NumberOfAwardsMax": 213,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 157
+      "Count": 213
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -504,7 +510,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 45
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1135,9 +1141,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-10-02T16:00:39.6217315+00:00",
+  "LastChanged": "2024-10-02T19:57:51.9562817+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-30T18:57:28.8852885+00:00",
-  "LastUpdate_Ratings": "2024-10-02T17:59:14.2865136+00:00",
+  "LastUpdate_Ratings": "2024-10-02T19:57:51.9562822+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }
