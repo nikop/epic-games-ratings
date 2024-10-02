@@ -3,8 +3,8 @@
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
 Rating: 4.43 (Ranked 850)  
 ## Awards
-Max (Great for Beginners): 39  (Ranked 609)  
-Sum: 92 (Ranked 599)  
+Max (Great for Beginners): 39  (Ranked 610)  
+Sum: 92 (Ranked 600)  
 Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |

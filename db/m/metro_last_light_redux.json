@@ -4,7 +4,7 @@
   "ProductSlug": "metro-last-light-redux",
   "Ranking_Rating": 270,
   "Ranking_Popularity": 132,
-  "Ranking_PopularitySum": 232,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3340,10 +3340,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2786,
       "NumberOfAwardsMax": 2363
+    },
+    {
+      "Time": "2024-10-02T15:58:10.1010712+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2839,
+      "NumberOfAwardsMax": 2363
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2786,
+  "NumberOfAwards": 2839,
   "NumberOfAwardsMax": 2363,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3387,7 +3393,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3417,7 +3423,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 45
+      "Count": 47
     }
   ],
   "EOS_Progressed": 0,
@@ -3431,8 +3437,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2024-10-02T13:58:50.0406365+00:00",
+  "LastChanged": "2024-10-02T15:58:10.101071+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:40.3781046+00:00",
-  "LastUpdate_Ratings": "2024-10-02T13:58:50.0406384+00:00",
+  "LastUpdate_Ratings": "2024-10-02T15:58:10.1010717+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:57.616582+00:00"
 }
