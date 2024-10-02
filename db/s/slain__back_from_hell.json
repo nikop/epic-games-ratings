@@ -3,7 +3,7 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 1065,
-  "Ranking_Popularity": 430,
+  "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 567,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 478,
@@ -326,18 +326,24 @@
       "Rating": 4.27,
       "NumberOfAwards": 136,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2024-10-02T13:59:26.2404622+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 137,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 136,
-  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 137,
+  "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 136
+      "Count": 137
     }
   ],
   "EOS_Progressed": 53424,
@@ -31189,9 +31195,9 @@
   "FirstSeen": "2022-10-06T18:03:31.3585803+00:00",
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
-  "LastChanged": "2024-09-04T17:58:20.8913012+00:00",
+  "LastChanged": "2024-10-02T13:59:26.240462+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:47.242122+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:03.9489182+00:00",
-  "LastUpdate_Ratings": "2024-10-02T12:01:15.745325+00:00",
+  "LastUpdate_Ratings": "2024-10-02T13:59:26.2404626+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:47.2422485+00:00"
 }

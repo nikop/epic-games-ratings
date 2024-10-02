@@ -1,7 +1,7 @@
 # The Captain
 [Store](https://store.epicgames.com/en-US/p/the-captain)  
 [View Rawdata](../../db/t/the_captain.json)  
-Rating: 4.44 (Ranked 833)  
+Rating: 4.45 (Ranked 813)  
 Number of Ratings: 2,117  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 100  (Ranked 474)  
@@ -65,3 +65,4 @@ Diff (max vs sum): 87
 | 2024-09-16 | 4.44 | - | 100 | 687 |
 | 2024-09-21 | 4.44 | - | 100 | 688 |
 | 2024-09-28 | 4.44 | - | 100 | 690 |
+| 2024-10-02 | 4.45 | - | 100 | 690 |
