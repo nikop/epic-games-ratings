@@ -2,7 +2,7 @@
   "ID": "oleander",
   "Name": "Journey to the Savage Planet",
   "ProductSlug": "journey-to-the-savage-planet",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 580,
   "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 649,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "NumberOfRatings": 114,
   "RatingHistory": [
     {
@@ -457,6 +457,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-10-02T06:00:42.1671904+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -482,8 +488,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:18.1838434+00:00",
-  "LastChanged": "2024-09-28T04:58:19.5091313+00:00",
+  "LastChanged": "2024-10-02T06:00:42.1671902+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:49.4876995+00:00",
-  "LastUpdate_Ratings": "2024-10-02T04:00:08.7296191+00:00",
+  "LastUpdate_Ratings": "2024-10-02T06:00:42.1671907+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:57.0857912+00:00"
 }
