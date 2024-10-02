@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-warships",
   "Ranking_Rating": 900,
   "Ranking_Popularity": 123,
-  "Ranking_PopularitySum": 79,
+  "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -21520,10 +21520,16 @@
       "Rating": 4.4,
       "NumberOfAwards": 19853,
       "NumberOfAwardsMax": 2653
+    },
+    {
+      "Time": "2024-10-02T18:57:09.6071093+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 22197,
+      "NumberOfAwardsMax": 2653
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19853,
+  "NumberOfAwards": 22197,
   "NumberOfAwardsMax": 2653,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -21555,7 +21561,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 2237
+      "Count": 2344
     },
     {
       "Text": "This game is Extremely Fun",
@@ -41317,9 +41323,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
   "FirstSeenAchievements": "2023-08-17T14:05:57.9480502+00:00",
-  "LastChanged": "2024-10-02T16:58:06.3001645+00:00",
+  "LastChanged": "2024-10-02T18:57:09.6071091+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:04.1530247+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:10.7441518+00:00",
-  "LastUpdate_Ratings": "2024-10-02T16:58:06.3001652+00:00",
+  "LastUpdate_Ratings": "2024-10-02T18:57:09.6071099+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:04.1531318+00:00"
 }
