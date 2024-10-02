@@ -318,7 +318,7 @@ Completed: 3 (0.06%) (Ranked 486)
 | 2024-09-14 | 5,102 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 105  (Ranked 465)  
-Sum: 892 (Ranked 351)  
+Sum: 893 (Ranked 351)  
 Diff (max vs sum): 114  
 | Award | Count |
 | ----- | ----- |
@@ -328,7 +328,7 @@ Diff (max vs sum): 114
 | This game has a Creative Community | 80 |
 | This game has Realistic Visuals | 76 |
 | This game is Extremely Fun | 73 |
-| This game has Amazing Characters | 68 |
+| This game has Amazing Characters | 69 |
 | This game has Amazing Storytelling | 65 |
 | This game is Educational | 59 |
 | This game is Relaxing | 58 |
@@ -694,3 +694,4 @@ Diff (max vs sum): 114
 | 2024-09-29 | 4.66 | - | 105 | 885 |
 | 2024-09-30 | 4.66 | - | 105 | 889 |
 | 2024-10-01 | 4.66 | - | 105 | 892 |
+| 2024-10-02 | 4.66 | - | 105 | 893 |

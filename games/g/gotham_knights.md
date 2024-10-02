@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 1,141)  
+Rating: 4.19 (Ranked 1,142)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -357,7 +357,7 @@ Completed: 161 (0.17%) (Ranked 429)
 | 2024-09-14 | 92,002 | 161 |
 ## Awards
 Max (Great Boss Battles): 3,776  (Ranked 113)  
-Sum: 6,744 (Ranked 159)  
+Sum: 6,745 (Ranked 159)  
 Diff (max vs sum): -46  
 | Award | Count |
 | ----- | ----- |
@@ -368,7 +368,7 @@ Diff (max vs sum): -46
 | This game has Amazing Storytelling | 372 |
 | This game has Quickly Understood Controls | 367 |
 | This game is Extremely Fun | 366 |
-| This game is Relaxing | 361 |
+| This game is Relaxing | 362 |
 | This game is Highly Recommended | 356 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
@@ -950,3 +950,4 @@ Diff (max vs sum): -46
 | 2024-09-29 | 4.19 | 3,775 | 6,738 |
 | 2024-09-30 | 4.19 | 3,775 | 6,739 |
 | 2024-10-01 | 4.19 | 3,776 | 6,744 |
+| 2024-10-02 | 4.19 | 3,776 | 6,745 |
