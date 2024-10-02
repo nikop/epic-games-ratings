@@ -4,7 +4,7 @@
   "ProductSlug": "wuthering-waves-76ebc5",
   "Ranking_Rating": 694,
   "Ranking_Popularity": 91,
-  "Ranking_PopularitySum": 143,
+  "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3966,10 +3966,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 8604,
       "NumberOfAwardsMax": 5760
+    },
+    {
+      "Time": "2024-10-02T16:58:55.2859027+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 8840,
+      "NumberOfAwardsMax": 5760
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8604,
+  "NumberOfAwards": 8840,
   "NumberOfAwardsMax": 5760,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4043,7 +4049,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 206
+      "Count": 236
     }
   ],
   "EOS_Progressed": 0,
@@ -4058,8 +4064,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T02:22:20.3878047+00:00",
   "FirstSeenRating": "2024-05-23T10:59:58.0087542+00:00",
-  "LastChanged": "2024-10-02T14:59:12.7165957+00:00",
+  "LastChanged": "2024-10-02T16:58:55.2859025+00:00",
   "LastUpdate_AppInfo": "2024-09-28T15:57:15.8227369+00:00",
-  "LastUpdate_Ratings": "2024-10-02T14:59:12.7165963+00:00",
+  "LastUpdate_Ratings": "2024-10-02T16:58:55.2859031+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:05.6999323+00:00"
 }
