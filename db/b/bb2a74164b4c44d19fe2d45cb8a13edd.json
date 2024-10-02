@@ -3,7 +3,7 @@
   "Name": "Once Human",
   "ProductSlug": "once-human-b5c576",
   "Ranking_Rating": 756,
-  "Ranking_Popularity": 152,
+  "Ranking_Popularity": 151,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -2922,11 +2922,17 @@
       "Rating": 4.48,
       "NumberOfAwards": 8146,
       "NumberOfAwardsMax": 1801
+    },
+    {
+      "Time": "2024-10-02T17:58:28.3628101+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 8164,
+      "NumberOfAwardsMax": 1819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8146,
-  "NumberOfAwardsMax": 1801,
+  "NumberOfAwards": 8164,
+  "NumberOfAwardsMax": 1819,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2975,7 +2981,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1801
+      "Count": 1819
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2996,8 +3002,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-10-02T12:01:57.0381375+00:00",
+  "LastChanged": "2024-10-02T17:58:28.36281+00:00",
   "LastUpdate_AppInfo": "2024-09-26T07:57:12.7327408+00:00",
-  "LastUpdate_Ratings": "2024-10-02T15:59:38.1361611+00:00",
+  "LastUpdate_Ratings": "2024-10-02T17:58:28.3628103+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:51.1887147+00:00"
 }
