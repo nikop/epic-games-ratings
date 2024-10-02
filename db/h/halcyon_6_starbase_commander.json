@@ -2,7 +2,7 @@
   "ID": "3dd7b519d7ab4631ae96d3efa8588514",
   "Name": "Halcyon 6 Starbase Commander",
   "ProductSlug": "halcyon-6",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 716,
   "Ranking_Popularity": 729,
   "Ranking_PopularitySum": 729,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 146,
   "RatingHistory": [
     {
@@ -411,6 +411,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-02T03:13:46.108178+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -428,8 +434,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.8946593+00:00",
-  "LastChanged": "2024-09-11T03:01:12.4463616+00:00",
+  "LastChanged": "2024-10-02T03:13:46.1081778+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:39.2650776+00:00",
-  "LastUpdate_Ratings": "2024-10-01T23:59:42.6216867+00:00",
+  "LastUpdate_Ratings": "2024-10-02T03:13:46.1081784+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:17.0736972+00:00"
 }

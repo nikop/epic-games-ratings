@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 1075,
   "Ranking_Popularity": 562,
-  "Ranking_PopularitySum": 519,
+  "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -811,10 +811,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 221,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-10-02T03:13:29.4542211+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 221,
+  "NumberOfAwards": 223,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -822,7 +828,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
@@ -870,7 +876,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 808753,
@@ -33706,9 +33712,9 @@
   "FirstSeen": "2022-08-13T00:31:45.0285821+00:00",
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
-  "LastChanged": "2024-09-30T13:59:13.7877584+00:00",
+  "LastChanged": "2024-10-02T03:13:29.4542209+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:00.7356154+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:39.569557+00:00",
-  "LastUpdate_Ratings": "2024-10-01T23:59:26.3671202+00:00",
+  "LastUpdate_Ratings": "2024-10-02T03:13:29.4542215+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.7357689+00:00"
 }
