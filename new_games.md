@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Madtoys Knights](games/f/f409756a622f4058b1b773212b28d280.md) | 2024-10-02 | - |  | - | 0 |
 | [NeuraGun](games/1/14dd4527fdce49f6a7b2911fef500f2c.md) | 2024-10-01 | - |  | - | - |
 | [Store Simulator](games/3/3affa1294bbf4aa88e2d008e46fba6fc.md) | 2024-10-01 | - |  | - | - |
 | [Dead No-Head](games/9/94e1d567e55e49e487f2fe2a95d26464.md) | 2024-09-30 | - |  | - | - |
