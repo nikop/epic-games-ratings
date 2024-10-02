@@ -3,8 +3,8 @@
   "Name": "Amnesia: Rebirth",
   "ProductSlug": "amnesia-rebirth",
   "Ranking_Rating": 1085,
-  "Ranking_Popularity": 629,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 625,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -730,18 +730,24 @@
       "Rating": 4.25,
       "NumberOfAwards": 191,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-10-02T21:58:10.1241456+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 192,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 191,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 192,
+  "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Unique Visuals",
@@ -791,8 +797,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:30.9158166+00:00",
-  "LastChanged": "2024-09-27T15:00:04.0446987+00:00",
+  "LastChanged": "2024-10-02T21:58:10.1241454+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:31.9508885+00:00",
-  "LastUpdate_Ratings": "2024-10-02T19:58:42.4078443+00:00",
+  "LastUpdate_Ratings": "2024-10-02T21:58:10.1241459+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:40.1590533+00:00"
 }
