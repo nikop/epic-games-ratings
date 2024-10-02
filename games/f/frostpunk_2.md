@@ -1,7 +1,7 @@
 # Frostpunk 2
 [Store](https://store.epicgames.com/en-US/p/frostpunk-2)  
 [View Rawdata](../../db/f/frostpunk_2.json)  
-Rating: 4.59 (Ranked 507)  
+Rating: 4.58 (Ranked 535)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.59 (Ranked 507)
 | 2024-09-29 | 4.57 | 0 | 0 |
 | 2024-09-30 | 4.57 | 0 | 0 |
 | 2024-10-01 | 4.59 | 0 | 0 |
+| 2024-10-02 | 4.58 | 0 | 0 |
