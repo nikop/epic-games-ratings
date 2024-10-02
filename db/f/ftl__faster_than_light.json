@@ -3436,10 +3436,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 1655,
       "NumberOfAwardsMax": 200
+    },
+    {
+      "Time": "2024-10-02T08:57:24.8746384+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 1656,
+      "NumberOfAwardsMax": 200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1655,
+  "NumberOfAwards": 1656,
   "NumberOfAwardsMax": 200,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3501,7 +3507,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has a Creative Community",
@@ -3521,8 +3527,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-10-01T16:57:27.2165462+00:00",
+  "LastChanged": "2024-10-02T08:57:24.8746382+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:42.7195721+00:00",
-  "LastUpdate_Ratings": "2024-10-02T06:58:19.4510336+00:00",
+  "LastUpdate_Ratings": "2024-10-02T08:57:24.8746387+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:26.0850749+00:00"
 }
