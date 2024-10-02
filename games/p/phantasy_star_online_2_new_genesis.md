@@ -4,14 +4,14 @@
 Rating: 4.54 (Ranked 628)  
 Number of Ratings: 692  (23.09.2022)  
 ## Awards
-Max (Character Customization): 1,193  (Ranked 182)  
-Sum: 5,301 (Ranked 172)  
-Diff (max vs sum): 10  
+Max (Character Customization): 1,193  (Ranked 183)  
+Sum: 5,303 (Ranked 171)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,193 |
 | This game has Great Boss Battles | 938 |
-| This game is Great for Beginners | 426 |
+| This game is Great for Beginners | 428 |
 | This game has Diverse Characters | 402 |
 | This game is Highly Recommended | 363 |
 | This game has Amazing Characters | 354 |
@@ -621,3 +621,4 @@ Diff (max vs sum): 10
 | 2024-09-29 | 4.54 | - | 1,193 | 5,295 |
 | 2024-09-30 | 4.54 | - | 1,193 | 5,298 |
 | 2024-10-01 | 4.54 | - | 1,193 | 5,301 |
+| 2024-10-02 | 4.54 | - | 1,193 | 5,303 |
