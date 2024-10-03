@@ -4,7 +4,7 @@
   "ProductSlug": "chivalry-2",
   "Ranking_Rating": 653,
   "Ranking_Popularity": 71,
-  "Ranking_PopularitySum": 44,
+  "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18504,11 +18504,17 @@
       "Rating": 4.53,
       "NumberOfAwards": 45467,
       "NumberOfAwardsMax": 8149
+    },
+    {
+      "Time": "2024-10-03T18:59:19.4023152+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 45527,
+      "NumberOfAwardsMax": 8173
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45467,
-  "NumberOfAwardsMax": 8149,
+  "NumberOfAwards": 45527,
+  "NumberOfAwardsMax": 8173,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -18539,19 +18545,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 5870
+      "Count": 5880
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 8149
+      "Count": 8173
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6915
+      "Count": 6930
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18563,7 +18569,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 5443
+      "Count": 5454
     }
   ],
   "EOS_Progressed": 0,
@@ -18577,8 +18583,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.5003131+00:00",
-  "LastChanged": "2024-10-03T15:01:32.6876756+00:00",
+  "LastChanged": "2024-10-03T18:59:19.4023149+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:48.8156805+00:00",
-  "LastUpdate_Ratings": "2024-10-03T17:00:32.5178623+00:00",
+  "LastUpdate_Ratings": "2024-10-03T18:59:19.4023156+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:15.1848183+00:00"
 }

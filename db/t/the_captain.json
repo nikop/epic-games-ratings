@@ -3,8 +3,8 @@
   "Name": "The Captain",
   "ProductSlug": "the-captain",
   "Ranking_Rating": 814,
-  "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 390,
+  "Ranking_Popularity": 475,
+  "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -569,10 +569,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 691,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-10-03T19:00:01.9720107+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 691,
+  "NumberOfAwards": 693,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -592,7 +598,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Extremely Fun",
@@ -616,7 +622,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Relaxing",
@@ -655,8 +661,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2024-10-03T17:01:17.6570546+00:00",
+  "LastChanged": "2024-10-03T19:00:01.9720105+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:11.3719161+00:00",
-  "LastUpdate_Ratings": "2024-10-03T17:01:17.6570551+00:00",
+  "LastUpdate_Ratings": "2024-10-03T19:00:01.972011+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:07.293792+00:00"
 }
