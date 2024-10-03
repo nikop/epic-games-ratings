@@ -528,7 +528,7 @@
 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 2023-11-17 | 6 (1,000 XP) | 316 | - | 0 |
 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 2,083 | 3.68 | 0 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 9 | - | 0 |
-| [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 91,273 | 4.13 | 0 |
+| [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 2023-11-16 | 34 (1,000 XP) | 91,273 | 4.14 | 0 |
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | 30 (1,000 XP) | 0 | 4.42 | 0 |
 | [Cave Digger 2](games/9/959857360f1a4558b390204178101bc3.md) | 2023-11-14 | 24 (1,000 XP) | 12 | - | 0 |
 | [Metalstorm](games/m/metalstorm.md) | 2023-11-14 | 20 (1,000 XP) | 82,401 | 4.45 | 436 |
@@ -1158,7 +1158,7 @@
 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2022-05-19 | 75 (1,000 XP) | 62,414 | 4.38 | 2,212 |
 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 2022-05-19 | 60 (1,000 XP) | 496 | 4.73 | 0 |
 | [Outward Definitive Edition](games/o/outward.md) | 2022-05-17 | 42 (1,000 XP) | 7,091 | 4.52 | 41 |
-| [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 433 | 4.29 | 0 |
+| [Lamentum](games/l/lamentum.md) | 2022-05-12 | 19 (1,000 XP) | 433 | 4.31 | 0 |
 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 2022-05-12 | 34 (1,000 XP) | 239,503 | 4.49 | 0 |
 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 2022-05-12 | 24 (1,000 XP) | 17,986 | 4.74 | 241 |
 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 2022-05-10 | 50 (1,000 XP) | 908 | 4.48 | 0 |
