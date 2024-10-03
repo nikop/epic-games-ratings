@@ -33,14 +33,16 @@
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-10-31 | - |  | - | - |
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 0 | - | - |
-| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-11-14 | - |  | - | - |
+| [LEGO® Horizon Adventures™](games/b/bdb4adaa3874491bbafe9a16b2764200.md) | 2024-11-14 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2024-11-15 | - |  | - | - |
 | [Pro Basketball Manager 2025](games/6/645d341503a04bfa8c129e42ffd196f4.md) | 2024-11-18 | - |  | - | - |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2024-11-20 | - |  | - | - |
@@ -100,7 +102,6 @@
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
 | [Little Big Adventure – Twinsen’s Quest](games/t/twinsen's_little_big_adventure_remastered.md) | 2024-12-31 | - |  | - | - |
 | [Lost Lullabies](games/2/2eb0ee8613b0414ebb07dbbf006f029c.md) | 2024-12-31 | - |  | - | - |
-| [Lucky Tower Ultimate](games/b/b5dcd31f40894936ab1b6f14197dbc6d.md) | 2024-12-31 | - |  | - | - |
 | [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |
 | [MATCHO](games/d/d192be5921354325abfb1aae75ec106c.md) | 2024-12-31 | - |  | - | - |
 | [MENACE](games/d/d21aef9c18434bd89ee67023baba05fe.md) | 2024-12-31 | - |  | - | - |
@@ -198,6 +199,7 @@
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [Jetsoccer](games/5/533d845b34614ec8aaa18d34e00b1bd9.md) | 2025-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2025-12-31 | - |  | - | - |
+| [Lucky Tower Ultimate](games/b/b5dcd31f40894936ab1b6f14197dbc6d.md) | 2025-12-31 | - |  | - | - |
 | [Promise Mascot Agency](games/9/9cdcb83442bd412fa8d0c47704e358b7.md) | 2025-12-31 | - |  | - | - |
 | [Revenge of the Savage Planet](games/0/0ac5868e8b8443ba9d31178cf7c4d1aa.md) | 2025-12-31 | - |  | - | - |
 | [Revomon Novus](games/5/555331295ae1426b921b8919bfc38039.md) | 2025-12-31 | - |  | - | - |
@@ -695,7 +697,6 @@
 | [Eville](games/e/eville.md) | 2099-02-01 | - |  | - | - |
 | [John Carpenter’s Toxic Commando](games/a/a22be63a94a64dd4a999ed959f0ce77f.md) | 2099-02-01 | - |  | - | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | - |  | - | - |
-| [LEGO® Horizon Adventures™](games/b/bdb4adaa3874491bbafe9a16b2764200.md) | 2099-02-01 | - |  | - | - |
 | [Nivalis](games/n/nivalis.md) | 2099-02-01 | - |  | - | - |
 | [Path of Exile 2](games/5/58a18be6bbba41a0bf52b014bb81d33b.md) | 2099-02-01 | - |  | - | - |
 | [PixelJunk Eden 2](games/c/c7d240a44afd4e0ba06780cfc6fc5884.md) | 2099-02-01 | - |  | - | - |
