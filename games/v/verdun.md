@@ -360,7 +360,7 @@ Completed: 1 (0.00%) (Ranked 591)
 | 2024-09-14 | 84,039 | 1 |
 ## Awards
 Max (Highly Recommended): 128  (Ranked 441)  
-Sum: 1,164 (Ranked 317)  
+Sum: 1,166 (Ranked 317)  
 Diff (max vs sum): 124  
 | Award | Count |
 | ----- | ----- |
@@ -368,7 +368,7 @@ Diff (max vs sum): 124
 | This game is Highly Recommended | 128 |
 | This game has Diverse Characters | 126 |
 | This game is Extremely Fun | 122 |
-| This game is Educational | 116 |
+| This game is Educational | 118 |
 | This game has Quickly Understood Controls | 104 |
 | This game has Realistic Visuals | 103 |
 | This game has Amazing Characters | 102 |
@@ -680,3 +680,4 @@ Diff (max vs sum): 124
 | 2024-09-28 | 4.53 | - | 126 | 1,159 |
 | 2024-10-01 | 4.53 | - | 126 | 1,160 |
 | 2024-10-02 | 4.53 | - | 128 | 1,164 |
+| 2024-10-03 | 4.53 | - | 128 | 1,166 |

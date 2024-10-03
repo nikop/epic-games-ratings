@@ -341,9 +341,9 @@ Completed: 2,313 (2.74%) (Ranked 197)
 | 2024-08-09 | 84,353 | 2,305 |
 | 2024-09-14 | 84,527 | 2,313 |
 ## Awards
-Max (Great Boss Battles): 811  (Ranked 229)  
+Max (Great Boss Battles): 811  (Ranked 230)  
 Sum: 1,691 (Ranked 284)  
-Diff (max vs sum): -55  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,083 |

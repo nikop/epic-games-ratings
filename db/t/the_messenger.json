@@ -4,7 +4,7 @@
   "ProductSlug": "the-messenger",
   "Ranking_Rating": 97,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1165,10 +1165,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 526,
       "NumberOfAwardsMax": 407
+    },
+    {
+      "Time": "2024-10-03T18:00:07.6041073+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 498,
+      "NumberOfAwardsMax": 407
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 526,
+  "NumberOfAwards": 498,
   "NumberOfAwardsMax": 407,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1220,8 +1226,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.3850647+00:00",
-  "LastChanged": "2024-10-02T19:59:38.5377357+00:00",
+  "LastChanged": "2024-10-03T18:00:07.6041071+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:44.9841953+00:00",
-  "LastUpdate_Ratings": "2024-10-03T16:57:14.4659383+00:00",
+  "LastUpdate_Ratings": "2024-10-03T18:00:07.6041076+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:42.8440775+00:00"
 }
