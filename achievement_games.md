@@ -97,7 +97,7 @@
 | [Office Fight](games/5/596e41f75cf64aa8b2d19d32320f7473.md) | 2024-08-21 | 40 (1,000 XP) | 10 | - | 0 |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | 5 (1,000 XP) | 33 | - | - |
 | [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2024-08-20 | 20 (1,000 XP) | 30 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 14,282 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 14,403 |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 8 | - | 0 |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | 21 (1,000 XP) | 8 | - | 0 |
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | 36 (1,000 XP) | 5 | - | 0 |
@@ -377,7 +377,7 @@
 | [Medieval Knight](games/6/6ac1cb16aaf949c0aa7ca74c9663665f.md) | 2024-03-11 | 5 (1,000 XP) | 38 | - | - |
 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 2024-03-07 | 64 (1,000 XP) | 37 | - | 0 |
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 186 | - | 0 |
-| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,754 | 4.16 | 0 |
+| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,754 | 4.14 | 0 |
 | [Astro Duel 2](games/a/astro_duel_2.md) | 2024-03-07 | 30 (1,000 XP) | 158,334 | 4.68 | 0 |
 | [As Dusk Falls](games/b/bff2e203fab54008b0dfc3b56f91ba54.md) | 2024-03-07 | 50 (1,000 XP) | 89 | - | 0 |
 | [ABRISS - build to destroy](games/e/ea0bddd31e544e3383885acfed97cb7c.md) | 2024-03-07 | 47 (1,000 XP) | 8 | - | 0 |
@@ -629,7 +629,7 @@
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 699,623 | 4.18 | 50,335 |
 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 2023-09-28 | 10 (1,000 XP) | 1,609 | - | 0 |
 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | 2023-09-28 | 11 (1,000 XP) | 4 | - | 0 |
-| [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 413,101 | 4.21 | 131 |
+| [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 413,101 | 4.21 | 132 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 565 | 4.82 | 22 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 25 | - | 0 |
 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2023-09-28 | 24 (1,000 XP) | 533,309 | 4.41 | 683 |
@@ -1292,7 +1292,7 @@
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 636,542 | - | 0 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 8,677 | - | 0 |
-| [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 483,032 | 4.53 | 261 |
+| [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 483,032 | 4.53 | 263 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,508 | 4.65 | 203 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 594,653 | 4.53 | 164 |
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 507,427 | 4.45 | 332 |

@@ -65,7 +65,7 @@
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2099-02-01 | 51 (1,000 XP) | 131 | - | 0 |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | 35 (1,000 XP) | 38 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 14,282 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 72,186 | 4.87 | 14,403 |
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 332 | 4.77 | 0 |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 16 | - | 0 |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 9 | - | 0 |
@@ -423,7 +423,7 @@
 | [Miwa: The Sacred Fox](games/4/4a4eb74c23e14ae380f41a109b25cf1f.md) | 2024-06-14 | 42 (1,000 XP) | 5 | - | - |
 | [Castaway Station](games/f/f81f6b9e39a54c2294a939f175bed52b.md) | 2024-01-30 | 27 (1,000 XP) | 4 | - | - |
 | [Revenge Of The Ronin](games/2/21edf107f297432e92d754543485ad08.md) | 2024-02-23 | 10 (1,000 XP) | 84 | - | 0 |
-| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,754 | 4.16 | 0 |
+| [Taxi Life: A City Driving Simulator](games/6/659883a1ecfc4aeeb5fb69dd4688e734.md) | 2024-03-07 | 30 (1,000 XP) | 1,754 | 4.14 | 0 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
 | [The Gap](games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 2024-01-25 | 18 (1,000 XP) | 51 | - | 0 |
@@ -647,7 +647,7 @@
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 2023-10-19 | 55 (1,170 XP) | 3,811 | 4.72 | 0 |
 | [Sunlight Scream](games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 2023-10-01 | 23 (1,000 XP) | 1 | - | 0 |
 | [Metamorphosis](games/a/a8f1b444a68b4d82803dd7f5374bcd42.md) | 2023-10-05 | 26 (1,000 XP) | 0 | - | 0 |
-| [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 413,101 | 4.21 | 131 |
+| [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 2023-09-28 | 40 (1,000 XP) | 413,101 | 4.21 | 132 |
 | [Overpass 2](games/e/e7a7820e516744b88212c1f78aa895df.md) | 2023-09-28 | 28 (1,000 XP) | 729 | - | 0 |
 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 2021-11-02 | 26 (1,000 XP) | 231 | 4.60 | 0 |
 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 2023-10-24 | 31 (1,000 XP) | 122 | - | 0 |

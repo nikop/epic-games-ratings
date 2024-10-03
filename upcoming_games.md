@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Tower Defense: Goblin Wars](games/b/b7bbf67ea0af46e995f60d4226330c3d.md) | 2024-10-03 | - |  | - | - |
 | [Paug](games/0/0c7a53f95cef4566b38b667345c437c0.md) | 2024-10-03 | - |  | - | - |
 | [Bananamania](games/f/f1cf72f878744ff6a50a9ef030348056.md) | 2024-10-04 | - |  | - | - |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | - |
@@ -128,7 +129,6 @@
 | [The End of the Sun](games/6/69569d1b9145402f8e557bd1baed7343.md) | 2024-12-31 | - |  | - | - |
 | [The Last Citadel](games/9/90abbb77fe434ec39e3a4b8c1b3d2eec.md) | 2024-12-31 | - |  | - | - |
 | [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2024-12-31 | - |  | - | - |
-| [The Sophisticated Art of Friendship: Tales of a Lost Friend](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2024-12-31 | - |  | - | - |
 | [The Spirit of the Samurai](games/7/7e23872d64c54cb08e988a697bd03839.md) | 2024-12-31 | - |  | - | - |
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | 5 (1,000 XP) | 0 | - | - |
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2024-12-31 | - |  | - | - |
@@ -153,6 +153,7 @@
 | [Assassin’s Creed Shadows](games/1/14a28903e3d14bd5aa3e6dbf10868126.md) | 2025-02-14 | - |  | - | - |
 | [Phantom Breaker: Battle Grounds Ultimate](games/6/6a2cb8188318475e98ff8b6bc5cf3d1e.md) | 2025-02-28 | - |  | - | - |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
+| [The Sophisticated Art of Friendship: Tales of a Lost Friend](games/0/0e6f7995691248e59df9d6c9efb7e495.md) | 2025-02-28 | - |  | - | - |
 | [Daahrien's Active and Operational](games/a/active_and_operational.md) | 2025-03-31 | - |  | - | - |
 | [Day of the Shell](games/2/28cf4c9348854bf5869237e0b4c8ca22.md) | 2025-03-31 | - |  | - | - |
 | [Orcs Must Die! Deathtrap](games/1/1a6c29112ec747bda627f2f6643d1dae.md) | 2025-03-31 | - |  | - | - |

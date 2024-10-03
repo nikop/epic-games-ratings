@@ -34,7 +34,7 @@
 | [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | - |  | - | 0 |
 | [DroneClash](games/e/e738fe9456c148babf669629bb50a6cc.md) | 2024-09-27 | - |  | - | - |
 | [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | - |  | - | 0 |
-| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.25 | 29 |
+| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.24 | 29 |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 3 | - | 0 |
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | 0 |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | 0 |
@@ -122,4 +122,3 @@
 | [Sniper Ghost Warrior Contracts 2](games/1/1169554e6b18447280cf8e2af785d936.md) | 2024-09-05 | 43 (1,000 XP) | 44 | - | 0 |
 | [Son and Bone](games/f/f0bf0742b7fd44398d2c920e613b9e05.md) | 2024-09-04 | - |  | - | 0 |
 | [The Casting of Frank Stone™](games/4/41802c0165634dd99993e87b60107d1a.md) | 2024-09-03 | 32 (1,000 XP) | 280 | 4.21 | 0 |
-| [Harry Potter: Quidditch Champions](games/b/bdffe95a989c4810b5abc0e525eb7a26.md) | 2024-09-03 | 31 (1,000 XP) | 988 | 4.40 | 0 |
