@@ -22,7 +22,7 @@
 | 20 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 31,766 | 4.64 | 385 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 31,346 | 4.89 | 12 |
 | 22 | [Warframe](games/w/warframe.md) | 27,632 | 4.61 | 460 |
-| 23 | [Satisfactory](games/s/satisfactory.md) | 25,977 | 4.87 | 19 |
+| 23 | [Satisfactory](games/s/satisfactory.md) | 26,173 | 4.87 | 19 |
 | 24 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 25,562 | 4.57 | 554 |
 | 25 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 24,858 | 4.26 | 1,075 |
 | 26 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 24,721 | 4.56 | 582 |
@@ -36,7 +36,7 @@
 | 34 | [Bloons TD 6](games/b/bloons_td_6.md) | 17,902 | 4.77 | 136 |
 | 35 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 17,626 | 4.47 | 780 |
 | 36 | [Dead Island 2](games/d/dead_island_2.md) | 17,104 | 4.54 | 630 |
-| 37 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 16,711 | 4.84 | 50 |
+| 37 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 16,724 | 4.84 | 50 |
 | 38 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 16,535 | 4.68 | 300 |
 | 39 | [Killing Floor 2](games/k/killing_floor_2.md) | 16,492 | 4.45 | 814 |
 | 40 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 15,315 | 4.58 | 536 |
@@ -102,7 +102,7 @@
 | 100 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,877 | 4.70 | 249 |
 | 101 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4,697 | 4.56 | 582 |
 | 102 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4,636 | 4.47 | 780 |
-| 103 | [Ghostrunner](games/g/ghostrunner.md) | 4,510 | 4.56 | 582 |
+| 103 | [Ghostrunner](games/g/ghostrunner.md) | 4,518 | 4.56 | 582 |
 | 104 | [Hades](games/h/hades.md) | 4,352 | 4.91 | 5 |
 | 105 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,342 | 4.51 | 693 |
 | 106 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4,234 | 4.66 | 340 |
@@ -181,7 +181,7 @@
 | 179 | [20 Minutes Till Dawn](games/e/ee9fad7056a94957b3a4d8c457000337.md) | 1,273 | 4.60 | 485 |
 | 180 | [Riders Republic](games/r/riders_republic.md) | 1,263 | 4.75 | 171 |
 | 181 | [Torchlight II](games/t/torchlight_ii.md) | 1,241 | 4.59 | 508 |
-| 182 | [Dishonored 2](games/d/dishonored_2.md) | 1,195 | 4.78 | 126 |
+| 182 | [Dishonored 2](games/d/dishonored_2.md) | 1,198 | 4.78 | 126 |
 | 183 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 1,194 | 4.54 | 630 |
 | 184 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 1,189 | 3.76 | 1,303 |
 | 185 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,186 | 4.61 | 460 |
@@ -219,7 +219,7 @@
 | 217 | [Neverwinter](games/n/neverwinter.md) | 928 | 4.30 | 1,036 |
 | 218 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 927 | 3.98 | 1,255 |
 | 219 | [Predecessor](games/p/predecessor.md) | 917 | 4.25 | 1,085 |
-| 220 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 894 | 4.25 | 1,085 |
+| 220 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 898 | 4.25 | 1,085 |
 | 221 | [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 885 | 4.82 | 76 |
 | 222 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 862 | 4.87 | 19 |
 | 223 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 855 | 4.35 | 977 |
@@ -407,10 +407,10 @@
 | 404 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 162 | 3.93 | 1,273 |
 | 406 | [Cave Story+](games/c/cave_story+.md) | 157 | 4.69 | 269 |
 | 407 | [BIOMUTANT](games/b/biomutant.md) | 155 | 4.33 | 1,001 |
-| 408 | [Armored Warfare](games/a/armored_warfare.md) | 154 | 4.00 | 1,248 |
-| 408 | [MetalCore](games/m/metalcore.md) | 154 | 4.38 | 938 |
-| 408 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 154 | 4.79 | 115 |
-| 408 | [while True: learn()](games/w/while_true__learn().md) | 154 | 4.51 | 693 |
+| 407 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 155 | 4.79 | 115 |
+| 409 | [Armored Warfare](games/a/armored_warfare.md) | 154 | 4.00 | 1,248 |
+| 409 | [MetalCore](games/m/metalcore.md) | 154 | 4.38 | 938 |
+| 409 | [while True: learn()](games/w/while_true__learn().md) | 154 | 4.51 | 693 |
 | 412 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 153 | 4.27 | 1,063 |
 | 412 | [Overcooked](games/o/overcooked.md) | 153 | 4.64 | 385 |
 | 414 | [Fort Triumph](games/f/fort_triumph.md) | 152 | 4.08 | 1,222 |
