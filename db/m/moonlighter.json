@@ -3,8 +3,8 @@
   "Name": "Moonlighter",
   "ProductSlug": "moonlighter",
   "Ranking_Rating": 269,
-  "Ranking_Popularity": 730,
-  "Ranking_PopularitySum": 730,
+  "Ranking_Popularity": 731,
+  "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -645,6 +645,6 @@
   "FirstSeen": "2022-07-22T20:20:50.3946089+00:00",
   "LastChanged": "2024-09-30T03:21:34.0484464+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:41.6663924+00:00",
-  "LastUpdate_Ratings": "2024-10-03T03:13:39.219061+00:00",
+  "LastUpdate_Ratings": "2024-10-03T03:59:45.5243802+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:56.0938778+00:00"
 }
