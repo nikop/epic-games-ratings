@@ -4,7 +4,7 @@
   "ProductSlug": "metalstorm",
   "Ranking_Rating": 814,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 240,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5028,18 +5028,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 2540,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2024-10-03T20:59:09.4555764+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2546,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2540,
-  "NumberOfAwardsMax": 436,
+  "NumberOfAwards": 2546,
+  "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 436
+      "Count": 439
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -5057,7 +5063,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 226
+      "Count": 227
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5087,13 +5093,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 187
+      "Count": 188
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 163
+      "Count": 164
     },
     {
       "Text": "This game has Competitive Players",
@@ -5310,9 +5316,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-10-03T17:59:01.6273674+00:00",
+  "LastChanged": "2024-10-03T20:59:09.4555762+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:42.3109163+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:30.9654569+00:00",
-  "LastUpdate_Ratings": "2024-10-03T17:59:01.6273678+00:00",
+  "LastUpdate_Ratings": "2024-10-03T20:59:09.4555767+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:42.3109314+00:00"
 }

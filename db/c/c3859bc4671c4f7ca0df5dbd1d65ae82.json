@@ -2,7 +2,7 @@
   "ID": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "Name": "Seekers of Tokane",
   "ProductSlug": "seekers-of-tokane-a5986d",
-  "Ranking_Rating": 715,
+  "Ranking_Rating": 694,
   "Ranking_Popularity": 566,
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2024-02-16T07:00:10.8210371+00:00",
@@ -894,10 +894,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 271,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-10-03T21:00:38.725505+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 272,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 271,
+  "NumberOfAwards": 272,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -947,7 +953,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Amazing Characters",
@@ -974,8 +980,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-10-02T20:57:27.602561+00:00",
+  "LastChanged": "2024-10-03T21:00:38.7255049+00:00",
   "LastUpdate_AppInfo": "2024-09-27T11:57:08.3048929+00:00",
-  "LastUpdate_Ratings": "2024-10-03T18:00:39.8688503+00:00",
+  "LastUpdate_Ratings": "2024-10-03T21:00:38.7255052+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:29.0330964+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sniper-ghost-warrior-contracts-c772b9",
   "Ranking_Rating": 1116,
   "Ranking_Popularity": 312,
-  "Ranking_PopularitySum": 289,
+  "Ranking_PopularitySum": 288,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -726,10 +726,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1649,
       "NumberOfAwardsMax": 320
+    },
+    {
+      "Time": "2024-10-03T21:00:44.866767+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1667,
+      "NumberOfAwardsMax": 320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1649,
+  "NumberOfAwards": 1667,
   "NumberOfAwardsMax": 320,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -761,13 +767,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 231
+      "Count": 235
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 193
+      "Count": 199
     },
     {
       "Text": "This game has a Competitive Community",
@@ -797,7 +803,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 175
+      "Count": 183
     }
   ],
   "EOS_Progressed": 765960,
@@ -1148,9 +1154,9 @@
   "FirstSeen": "2024-09-05T17:59:20.5088395+00:00",
   "FirstSeenRating": "2024-09-06T17:01:24.0348149+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:09.4518896+00:00",
-  "LastChanged": "2024-10-03T16:58:07.8933959+00:00",
+  "LastChanged": "2024-10-03T21:00:44.8667668+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:09.451883+00:00",
-  "LastUpdate_AppInfo": "2024-09-26T18:57:11.1039257+00:00",
-  "LastUpdate_Ratings": "2024-10-03T18:00:46.6050924+00:00",
+  "LastUpdate_AppInfo": "2024-10-03T20:58:20.0840897+00:00",
+  "LastUpdate_Ratings": "2024-10-03T21:00:44.8667673+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:09.4527531+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Suicide Squad: Kill the Justice League",
   "ProductSlug": "suicide-squad-kill-the-justice-league",
   "Ranking_Rating": 1301,
-  "Ranking_Popularity": 328,
+  "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 536,
@@ -3307,12 +3307,18 @@
       "Rating": 3.78,
       "NumberOfAwards": 2146,
       "NumberOfAwardsMax": 283
+    },
+    {
+      "Time": "2024-10-03T20:58:47.253351+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 2155,
+      "NumberOfAwardsMax": 285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2146,
-  "NumberOfAwardsMax": 283,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 2155,
+  "NumberOfAwardsMax": 285,
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -3336,19 +3342,19 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 280
+      "Count": 285
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 282
+      "Count": 284
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3360,7 +3366,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 274
+      "Count": 275
     },
     {
       "Text": "This game is Relaxing",
@@ -3817,9 +3823,9 @@
   "FirstSeen": "2024-03-26T17:58:15.3540943+00:00",
   "FirstSeenRating": "2024-03-28T20:59:22.3411345+00:00",
   "FirstSeenAchievements": "2024-04-10T06:06:23.0346606+00:00",
-  "LastChanged": "2024-10-03T17:58:37.3189764+00:00",
+  "LastChanged": "2024-10-03T20:58:47.2533509+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:01.8298042+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:17.9512483+00:00",
-  "LastUpdate_Ratings": "2024-10-03T17:58:37.318977+00:00",
+  "LastUpdate_Ratings": "2024-10-03T20:58:47.2533514+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:01.8298341+00:00"
 }

@@ -1,11 +1,11 @@
 # Trackmania Starter Access
 [Store](https://store.epicgames.com/en-US/p/trackmania)  
 [View Rawdata](../../db/t/trackmania.json)  
-Rating: 4.65 (Ranked 361)  
+Rating: 4.65 (Ranked 360)  
 Number of Ratings: 6,825  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 5,320  (Ranked 96)  
-Sum: 41,766 (Ranked 47)  
+Sum: 41,779 (Ranked 47)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -14,12 +14,12 @@ Diff (max vs sum): 49
 | This game has Competitive Players | 4,322 |
 | This game has Quickly Understood Controls | 4,242 |
 | This game is Relaxing | 4,192 |
-| This game is Extremely Fun | 3,974 |
-| This game is Highly Recommended | 3,831 |
+| This game is Extremely Fun | 3,980 |
+| This game is Highly Recommended | 3,835 |
 | This game has a Competitive Community | 3,460 |
 | This game has Challenging Combat | 2,620 |
 | This game has Amazing Storytelling | 2,508 |
-| This game has Amazing Characters | 2,105 |
+| This game has Amazing Characters | 2,108 |
 | This game has Obsessive Gameplay | 1,144 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -643,4 +643,4 @@ Diff (max vs sum): 49
 | 2024-09-30 | 4.65 | - | 5,308 | 41,717 |
 | 2024-10-01 | 4.65 | - | 5,312 | 41,734 |
 | 2024-10-02 | 4.65 | - | 5,315 | 41,758 |
-| 2024-10-03 | 4.65 | - | 5,320 | 41,766 |
+| 2024-10-03 | 4.65 | - | 5,320 | 41,779 |
