@@ -3,7 +3,7 @@
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 555,
-  "Ranking_Popularity": 548,
+  "Ranking_Popularity": 545,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -1302,18 +1302,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 449,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-10-03T15:58:37.0851295+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 451,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 449,
-  "NumberOfAwardsMax": 60,
+  "NumberOfAwards": 451,
+  "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 60
+      "Count": 62
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1810,9 +1816,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-03T14:00:34.291936+00:00",
+  "LastChanged": "2024-10-03T15:58:37.0851293+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-09-27T07:57:14.3544256+00:00",
-  "LastUpdate_Ratings": "2024-10-03T14:00:34.2919366+00:00",
+  "LastUpdate_Ratings": "2024-10-03T15:58:37.0851298+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }

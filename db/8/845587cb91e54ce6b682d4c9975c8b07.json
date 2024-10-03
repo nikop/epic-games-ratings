@@ -2,9 +2,9 @@
   "ID": "845587cb91e54ce6b682d4c9975c8b07",
   "Name": "FINAL FANTASY XVI",
   "ProductSlug": "final-fantasy-xvi",
-  "Ranking_Rating": 269,
+  "Ranking_Rating": 270,
   "Ranking_Popularity": 366,
-  "Ranking_PopularitySum": 378,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -499,10 +499,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 727,
       "NumberOfAwardsMax": 213
+    },
+    {
+      "Time": "2024-10-03T15:58:26.2920192+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 729,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 727,
+  "NumberOfAwards": 729,
   "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -546,7 +552,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game is Relaxing",
@@ -1159,9 +1165,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-10-03T10:57:34.1770776+00:00",
+  "LastChanged": "2024-10-03T15:58:26.2920187+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-30T18:57:28.8852885+00:00",
-  "LastUpdate_Ratings": "2024-10-03T14:00:17.897497+00:00",
+  "LastUpdate_Ratings": "2024-10-03T15:58:26.2920196+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }
