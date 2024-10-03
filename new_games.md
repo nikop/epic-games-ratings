@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Paug](games/0/0c7a53f95cef4566b38b667345c437c0.md) | 2024-10-03 | - |  | - | - |
 | [Tower Defense: Goblin Wars](games/b/b7bbf67ea0af46e995f60d4226330c3d.md) | 2024-10-03 | - |  | - | - |
 | [Sammy Jukes: Twin Lakes](games/4/4ee1c06e76884f3b99af95fa347f9c36.md) | 2024-10-03 | 22 (1,000 XP) | 0 | - | - |
 | [Madtoys Knights](games/f/f409756a622f4058b1b773212b28d280.md) | 2024-10-02 | - |  | - | 0 |

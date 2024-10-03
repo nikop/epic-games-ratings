@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Paug](games/0/0c7a53f95cef4566b38b667345c437c0.md) | 2024-10-03 | - |  | - | - |
 | [Bananamania](games/f/f1cf72f878744ff6a50a9ef030348056.md) | 2024-10-04 | - |  | - | - |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | - |
 | [Kunkun Terror Express](games/2/27660b74cfde424bb757f518b171b30f.md) | 2024-10-04 | 5 (1,000 XP) | 1 | - | - |
@@ -37,8 +36,8 @@
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 0 | - | - |
 | [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
