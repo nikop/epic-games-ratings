@@ -3,7 +3,7 @@
   "Name": "Need for Speed\u2122 Heat Deluxe Edition",
   "ProductSlug": "need-for-speed-heat-ccbf8d",
   "Ranking_Rating": 407,
-  "Ranking_Popularity": 530,
+  "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 497,
@@ -1254,18 +1254,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 464,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-10-03T14:00:38.0999535+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 464,
-  "NumberOfAwardsMax": 66,
+  "NumberOfAwards": 465,
+  "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 66
+      "Count": 67
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1728,9 +1734,9 @@
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
-  "LastChanged": "2024-10-03T12:01:45.9237088+00:00",
+  "LastChanged": "2024-10-03T14:00:38.0999534+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:09.9606677+00:00",
   "LastUpdate_AppInfo": "2024-09-27T07:57:14.6788945+00:00",
-  "LastUpdate_Ratings": "2024-10-03T12:01:45.9237093+00:00",
+  "LastUpdate_Ratings": "2024-10-03T14:00:38.0999542+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:09.9606973+00:00"
 }

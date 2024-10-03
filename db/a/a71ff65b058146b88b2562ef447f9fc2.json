@@ -3,8 +3,8 @@
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 555,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 431,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1296,10 +1296,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 447,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-10-03T14:00:34.2919362+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 449,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 447,
+  "NumberOfAwards": 449,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1319,7 +1325,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1337,7 +1343,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1804,9 +1810,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-03T03:58:06.8551771+00:00",
+  "LastChanged": "2024-10-03T14:00:34.291936+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-09-27T07:57:14.3544256+00:00",
-  "LastUpdate_Ratings": "2024-10-03T12:01:41.9395417+00:00",
+  "LastUpdate_Ratings": "2024-10-03T14:00:34.2919366+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }

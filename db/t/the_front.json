@@ -3,8 +3,8 @@
   "Name": "The Front",
   "ProductSlug": "the-front-3a8219",
   "Ranking_Rating": 1222,
-  "Ranking_Popularity": 645,
-  "Ranking_PopularitySum": 585,
+  "Ranking_Popularity": 640,
+  "Ranking_PopularitySum": 583,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -803,11 +803,17 @@
       "Rating": 4.08,
       "NumberOfAwards": 110,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-10-03T13:58:16.6049352+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 111,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 110,
-  "NumberOfAwardsMax": 32,
+  "NumberOfAwards": 111,
+  "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -820,7 +826,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Relaxing",
@@ -865,8 +871,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-09-30T02:17:20.4682579+00:00",
+  "LastChanged": "2024-10-03T13:58:16.6049349+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:50.729483+00:00",
-  "LastUpdate_Ratings": "2024-10-03T11:59:23.8264499+00:00",
+  "LastUpdate_Ratings": "2024-10-03T13:58:16.6049355+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:47.1643565+00:00"
 }
