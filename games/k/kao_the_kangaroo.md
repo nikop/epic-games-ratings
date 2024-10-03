@@ -3,9 +3,9 @@
 [View Rawdata](../../db/k/kao_the_kangaroo.json)  
 Rating: 4.26 (Ranked 1,075)  
 ## Awards
-Max (Highly Recommended): 20  (Ranked 721)  
+Max (Highly Recommended): 20  (Ranked 722)  
 Sum: 40 (Ranked 664)  
-Diff (max vs sum): 57  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 20 |

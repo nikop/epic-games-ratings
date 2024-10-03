@@ -2,9 +2,9 @@
   "ID": "586fb0aed71e484684b249c534506442",
   "Name": "Core Keeper",
   "ProductSlug": "core-keeper-868404",
-  "Ranking_Rating": 320,
-  "Ranking_Popularity": 729,
-  "Ranking_PopularitySum": 729,
+  "Ranking_Rating": 321,
+  "Ranking_Popularity": 730,
+  "Ranking_PopularitySum": 730,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -453,6 +453,6 @@
   "LastChanged": "2024-09-28T10:00:30.9191931+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:07.8229392+00:00",
   "LastUpdate_AppInfo": "2024-10-01T13:15:03.7646467+00:00",
-  "LastUpdate_Ratings": "2024-10-02T23:59:08.6305842+00:00",
+  "LastUpdate_Ratings": "2024-10-03T03:14:07.274288+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:07.8238055+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Scorn",
   "ProductSlug": "scorn",
   "Ranking_Rating": 851,
-  "Ranking_Popularity": 729,
-  "Ranking_PopularitySum": 729,
+  "Ranking_Popularity": 730,
+  "Ranking_PopularitySum": 730,
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 3,
@@ -5720,6 +5720,6 @@
   "LastChanged": "2024-09-24T19:01:42.6368883+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:24.8927584+00:00",
   "LastUpdate_AppInfo": "2024-09-30T06:57:03.7102723+00:00",
-  "LastUpdate_Ratings": "2024-10-02T23:58:27.7913018+00:00",
+  "LastUpdate_Ratings": "2024-10-03T03:13:26.3269136+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:24.8927934+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "into-the-breach",
   "Ranking_Rating": 50,
   "Ranking_Popularity": 264,
-  "Ranking_PopularitySum": 184,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -6532,10 +6532,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 4723,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2024-10-03T03:17:36.8664701+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 4728,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4723,
+  "NumberOfAwards": 4728,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6567,7 +6573,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 431
+      "Count": 432
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6609,13 +6615,13 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 345
+      "Count": 348
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 234
+      "Count": 235
     }
   ],
   "EOS_Progressed": 0,
@@ -6629,8 +6635,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:50.8479509+00:00",
-  "LastChanged": "2024-09-30T21:59:57.8138877+00:00",
+  "LastChanged": "2024-10-03T03:17:36.8664699+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:06.6415376+00:00",
-  "LastUpdate_Ratings": "2024-10-03T02:10:14.008955+00:00",
+  "LastUpdate_Ratings": "2024-10-03T03:17:36.8664704+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:57.2160873+00:00"
 }
