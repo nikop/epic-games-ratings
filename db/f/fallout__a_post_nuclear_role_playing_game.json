@@ -4,7 +4,7 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 459,
   "Ranking_Popularity": 281,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1515,6 +1515,6 @@
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
   "LastChanged": "2024-10-02T16:59:45.2089617+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:55.6499698+00:00",
-  "LastUpdate_Ratings": "2024-10-02T22:00:17.7346418+00:00",
+  "LastUpdate_Ratings": "2024-10-03T00:00:21.8289489+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:57.1927683+00:00"
 }
