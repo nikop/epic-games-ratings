@@ -2,7 +2,7 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
-  "Ranking_Rating": 1026,
+  "Ranking_Rating": 1001,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 508,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2022-10-04T02:32:44.3620859+00:00",
@@ -88,6 +88,12 @@
     {
       "Time": "2024-10-03T03:59:24.5193831+00:00",
       "Rating": 4.31,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-03T14:57:33.4122282+00:00",
+      "Rating": 4.33,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -730,9 +736,9 @@
   "FirstSeen": "2022-07-22T20:26:03.7136517+00:00",
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
-  "LastChanged": "2024-10-03T03:59:24.519383+00:00",
+  "LastChanged": "2024-10-03T14:57:33.412228+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:06.2151371+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:12.8131367+00:00",
-  "LastUpdate_Ratings": "2024-10-03T13:15:44.619816+00:00",
+  "LastUpdate_Ratings": "2024-10-03T14:57:33.4122285+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.2151521+00:00"
 }

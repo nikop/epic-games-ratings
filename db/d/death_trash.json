@@ -2,7 +2,7 @@
   "ID": "af3bde581952400fbc26b5335cd2011e",
   "Name": "Death Trash",
   "ProductSlug": "death-trash",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 755,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "KR,CN"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.48,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:35.7401241+00:00",
@@ -46,6 +46,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-03T15:00:08.6374617+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -64,8 +70,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:30.2611001+00:00",
   "FirstSeenRating": "2023-03-31T05:58:35.7401238+00:00",
-  "LastChanged": "2024-09-04T07:57:40.2189746+00:00",
+  "LastChanged": "2024-10-03T15:00:08.6374615+00:00",
   "LastUpdate_AppInfo": "2024-09-30T07:57:16.560095+00:00",
-  "LastUpdate_Ratings": "2024-10-03T13:17:26.5612043+00:00",
+  "LastUpdate_Ratings": "2024-10-03T15:00:08.6374627+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:51.7412963+00:00"
 }
