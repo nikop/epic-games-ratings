@@ -115,7 +115,7 @@ Completed: 97,066 (6.86%) (Ranked 108)
 | 2024-09-14 | 1,414,906 | 97,066 |
 ## Awards
 Max (Great for Beginners): 5,802  (Ranked 91)  
-Sum: 52,057 (Ranked 37)  
+Sum: 52,061 (Ranked 37)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -129,7 +129,7 @@ Diff (max vs sum): 54
 | This game is Highly Recommended | 4,428 |
 | This game has Playful Visuals | 4,109 |
 | This game has Amazing Storytelling | 4,033 |
-| This game has a Competitive Community | 3,925 |
+| This game has a Competitive Community | 3,929 |
 | This game has Obsessive Gameplay | 3,030 |
 | This game is Relaxing | 86 |
 ## Ratings History
@@ -466,4 +466,4 @@ Diff (max vs sum): 54
 | 2024-09-30 | 4.54 | - | 5,783 | 51,977 |
 | 2024-10-01 | 4.54 | - | 5,786 | 52,000 |
 | 2024-10-02 | 4.54 | - | 5,794 | 52,042 |
-| 2024-10-03 | 4.54 | - | 5,802 | 52,057 |
+| 2024-10-03 | 4.54 | - | 5,802 | 52,061 |

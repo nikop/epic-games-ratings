@@ -1,16 +1,16 @@
 # Fallout Tactics: Brotherhood of Steel
 [Store](https://store.epicgames.com/en-US/p/fallout-tactics-brotherhood-of-steel)  
 [View Rawdata](../../db/f/fallout_tactics__brotherhood_of_steel.json)  
-Rating: 4.41 (Ranked 884)  
+Rating: 4.42 (Ranked 870)  
 ## Awards
 Max (Character Customization): 231  (Ranked 354)  
-Sum: 541 (Ranked 410)  
+Sum: 542 (Ranked 410)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 231 |
 | This game has Challenging Combat | 43 |
-| This game has Amazing Storytelling | 40 |
+| This game has Amazing Storytelling | 41 |
 | This game has Unique Visuals | 40 |
 | This game has Diverse Characters | 39 |
 | This game is Relaxing | 38 |
@@ -253,3 +253,4 @@ Diff (max vs sum): -56
 | 2024-09-30 | 4.41 | 228 | 535 |
 | 2024-10-01 | 4.41 | 229 | 539 |
 | 2024-10-02 | 4.41 | 231 | 541 |
+| 2024-10-03 | 4.42 | 231 | 542 |
