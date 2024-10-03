@@ -2,7 +2,7 @@
   "ID": "917551a8060244469eb4e6ab8a99cf24",
   "Name": "Amnesia: The Dark Descent",
   "ProductSlug": "amnesia-the-dark-descent",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 537,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "NumberOfRatings": 289,
   "RatingHistory": [
     {
@@ -474,6 +474,12 @@
       "Rating": 4.57,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-03T21:59:58.3715125+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -491,8 +497,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:24.3819232+00:00",
-  "LastChanged": "2024-06-10T15:59:27.0270868+00:00",
+  "LastChanged": "2024-10-03T21:59:58.3715123+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:03.0767066+00:00",
-  "LastUpdate_Ratings": "2024-10-03T19:00:48.9036023+00:00",
+  "LastUpdate_Ratings": "2024-10-03T21:59:58.3715128+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:08.7054922+00:00"
 }

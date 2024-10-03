@@ -3,12 +3,12 @@
 [View Rawdata](../../db/k/kao_the_kangaroo.json)  
 Rating: 4.26 (Ranked 1,075)  
 ## Awards
-Max (Highly Recommended): 20  (Ranked 722)  
-Sum: 40 (Ranked 667)  
-Diff (max vs sum): 55  
+Max (Highly Recommended): 21  (Ranked 716)  
+Sum: 41 (Ranked 663)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 20 |
+| This game is Highly Recommended | 21 |
 | This game is Great for Beginners | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -90,3 +90,4 @@ Diff (max vs sum): 55
 | 2024-09-23 | 4.27 | 20 | 20 |
 | 2024-09-24 | 4.26 | 20 | 20 |
 | 2024-09-29 | 4.26 | 20 | 40 |
+| 2024-10-03 | 4.26 | 21 | 41 |
