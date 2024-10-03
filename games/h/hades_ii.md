@@ -4,8 +4,8 @@
 Rating: 4.90 (Ranked 9)  
 ## Awards
 Max (Character Customization): 223  (Ranked 357)  
-Sum: 469 (Ranked 424)  
-Diff (max vs sum): -67  
+Sum: 489 (Ranked 421)  
+Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 223 |
@@ -14,6 +14,7 @@ Diff (max vs sum): -67
 | This game is Relaxing | 22 |
 | This game is Highly Recommended | 21 |
 | This game has Challenging Combat | 21 |
+| This game has Quickly Understood Controls | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -128,3 +129,4 @@ Diff (max vs sum): -67
 | 2024-09-28 | 4.89 | 220 | 466 |
 | 2024-09-29 | 4.90 | 222 | 468 |
 | 2024-10-02 | 4.90 | 223 | 469 |
+| 2024-10-03 | 4.90 | 223 | 489 |
