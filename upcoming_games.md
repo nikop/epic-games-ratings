@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Tower Defense: Goblin Wars](games/b/b7bbf67ea0af46e995f60d4226330c3d.md) | 2024-10-03 | - |  | - | - |
 | [Paug](games/0/0c7a53f95cef4566b38b667345c437c0.md) | 2024-10-03 | - |  | - | - |
 | [Bananamania](games/f/f1cf72f878744ff6a50a9ef030348056.md) | 2024-10-04 | - |  | - | - |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | - |
@@ -160,6 +159,7 @@
 | [Pluto Lost Its Colors](games/9/9fe8c7c2e71441ceb62dedcf702d71da.md) | 2025-03-31 | - |  | - | - |
 | [Rebirth of Arcadia](games/9/918384f1d23c4b09aa02ac3639536e00.md) | 2025-03-31 | - |  | - | - |
 | [refugees:shelter](games/a/a4ec942bf76b48e0a1f3d27008d0ae93.md) | 2025-03-31 | - |  | - | - |
+| [The Alters](games/t/the_alters.md) | 2025-03-31 | - |  | - | - |
 | [The Crimson Lyre](games/3/397c0a87980c4098b5a37d77a33e2713.md) | 2025-03-31 | - |  | - | - |
 | [The Stone of Madness](games/b/bc51d32ca88b41bda1e50f5876c0b16e.md) | 2025-03-31 | - |  | - | - |
 | [Wrekless](games/1/1ca7ecb5530d4ae9b1b0348266a44555.md) | 2025-03-31 | - |  | - | - |
@@ -328,6 +328,7 @@
 | [Draw & Guess](games/7/777b78ab6336430396cfe89d7081efba.md) | 2099-01-01 | - |  | - | - |
 | [Dreamsettler](games/d/dreamsettler.md) | 2099-01-01 | - |  | - | - |
 | [Drift Reign](games/f/f683e94995e94d229a23ac80b3de6bdc.md) | 2099-01-01 | - |  | - | - |
+| [Drive Me Crazy](games/b/b25678361fb7482aad5ceeae759e2856.md) | 2099-01-01 | - |  | - | - |
 | [Dumbriel - Magnificent Adventure in Hell](games/d/dda406e1f3d54507b7de96870809da62.md) | 2099-01-01 | - |  | - | - |
 | [Dungeon Knight](games/b/bb813cebe527480abb7d459661931369.md) | 2099-01-01 | 12 (1,000 XP) | 1 | - | - |
 | [Dungeon Of Dragon Knight](games/d/dungeon_of_dragon_knight.md) | 2099-01-01 | - |  | - | - |
@@ -604,7 +605,6 @@
 | [Teatopia](games/e/e7d0487d6172481f9092dc7c46cede33.md) | 2099-01-01 | - |  | - | - |
 | [Telf AG](games/6/6057831110484c449e3721433dd2afd8.md) | 2099-01-01 | - |  | - | - |
 | [The 22nd is Serda. f0a178](games/e/ee7012dfa0784b638503492ccd494e1f.md) | 2099-01-01 | - |  | - | - |
-| [The Alters](games/t/the_alters.md) | 2099-01-01 | - |  | - | - |
 | [The Bridge Curse 2: The Extrication](games/f/ff2082fe95a24381a0dc3b3d4ca92636.md) | 2099-01-01 | - |  | - | - |
 | [The Bustling World](games/b/b38a9cee1f0e4b72ab9b8f2aff8b1e07.md) | 2099-01-01 | - |  | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
