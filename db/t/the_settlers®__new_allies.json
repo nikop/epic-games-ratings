@@ -4,7 +4,7 @@
   "ProductSlug": "the-settlers",
   "Ranking_Rating": 1273,
   "Ranking_Popularity": 403,
-  "Ranking_PopularitySum": 377,
+  "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2455,10 +2455,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 727,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2024-10-03T06:57:49.8384638+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 728,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 727,
+  "NumberOfAwards": 728,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2484,7 +2490,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 132
+      "Count": 133
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2505,8 +2511,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-17T13:12:44.8398615+00:00",
   "FirstSeenRating": "2023-02-19T13:09:54.8324207+00:00",
-  "LastChanged": "2024-10-02T17:57:45.3667859+00:00",
+  "LastChanged": "2024-10-03T06:57:49.8384636+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:52.9508586+00:00",
-  "LastUpdate_Ratings": "2024-10-03T04:59:45.2730481+00:00",
+  "LastUpdate_Ratings": "2024-10-03T06:57:49.8384642+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:53.2583418+00:00"
 }

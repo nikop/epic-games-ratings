@@ -4,7 +4,7 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 152,
   "Ranking_Popularity": 153,
-  "Ranking_PopularitySum": 122,
+  "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 3,
@@ -11389,10 +11389,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 10805,
       "NumberOfAwardsMax": 1737
+    },
+    {
+      "Time": "2024-10-03T06:57:45.9289971+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10809,
+      "NumberOfAwardsMax": 1737
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10805,
+  "NumberOfAwards": 10809,
   "NumberOfAwardsMax": 1737,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11436,7 +11442,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1407
+      "Count": 1411
     },
     {
       "Text": "This game is Relaxing",
@@ -31780,9 +31786,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-10-02T22:58:01.4121301+00:00",
+  "LastChanged": "2024-10-03T06:57:45.9289969+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:46.9002694+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:49.7463302+00:00",
-  "LastUpdate_Ratings": "2024-10-03T04:59:39.3351532+00:00",
+  "LastUpdate_Ratings": "2024-10-03T06:57:45.9289974+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:46.9003661+00:00"
 }
