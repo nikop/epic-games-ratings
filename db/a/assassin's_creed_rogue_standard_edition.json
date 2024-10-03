@@ -3,7 +3,7 @@
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
   "ProductSlug": "assassins-creed-rogue",
   "Ranking_Rating": 536,
-  "Ranking_Popularity": 342,
+  "Ranking_Popularity": 341,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -1327,18 +1327,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 349,
       "NumberOfAwardsMax": 257
+    },
+    {
+      "Time": "2024-10-03T13:16:07.8903488+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 350,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 349,
-  "NumberOfAwardsMax": 257,
+  "NumberOfAwards": 350,
+  "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1358,8 +1364,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2024-09-30T20:59:21.1712452+00:00",
+  "LastChanged": "2024-10-03T13:16:07.8903486+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:31.0690144+00:00",
-  "LastUpdate_Ratings": "2024-10-03T10:59:20.0475803+00:00",
+  "LastUpdate_Ratings": "2024-10-03T13:16:07.890349+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:33.3056632+00:00"
 }

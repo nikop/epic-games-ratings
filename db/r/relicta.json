@@ -718,10 +718,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 289,
       "NumberOfAwardsMax": 213
+    },
+    {
+      "Time": "2024-10-03T13:16:47.6999127+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 289,
+  "NumberOfAwards": 290,
   "NumberOfAwardsMax": 213,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -735,7 +741,7 @@
       "Text": "In this game, your choices Don\u0027t Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Don\u0027t Impact the Story",
-      "Count": 76
+      "Count": 77
     }
   ],
   "EOS_Progressed": 0,
@@ -749,8 +755,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:55.5563049+00:00",
-  "LastChanged": "2024-09-30T19:57:41.3444847+00:00",
+  "LastChanged": "2024-10-03T13:16:47.6999125+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:40.002426+00:00",
-  "LastUpdate_Ratings": "2024-10-03T10:59:59.6321128+00:00",
+  "LastUpdate_Ratings": "2024-10-03T13:16:47.699913+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:40.5574775+00:00"
 }

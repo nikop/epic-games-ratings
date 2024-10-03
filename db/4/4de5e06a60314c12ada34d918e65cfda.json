@@ -4,7 +4,7 @@
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 938,
   "Ranking_Popularity": 204,
-  "Ranking_PopularitySum": 191,
+  "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3264,10 +3264,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 4317,
       "NumberOfAwardsMax": 1031
+    },
+    {
+      "Time": "2024-10-03T13:16:10.9393125+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 4353,
+      "NumberOfAwardsMax": 1031
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4317,
+  "NumberOfAwards": 4353,
   "NumberOfAwardsMax": 1031,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3281,7 +3287,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 442
+      "Count": 452
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3317,13 +3323,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 345
+      "Count": 351
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 301
+      "Count": 314
     },
     {
       "Text": "This game is Relaxing",
@@ -3335,7 +3341,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 358
+      "Count": 365
     }
   ],
   "EOS_Progressed": 0,
@@ -3350,8 +3356,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-10-03T10:59:23.0447576+00:00",
+  "LastChanged": "2024-10-03T13:16:10.9393124+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:44.6461649+00:00",
-  "LastUpdate_Ratings": "2024-10-03T10:59:23.0447581+00:00",
+  "LastUpdate_Ratings": "2024-10-03T13:16:10.9393129+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:32.1715824+00:00"
 }
