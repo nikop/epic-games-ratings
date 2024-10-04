@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 508,
   "Ranking_Popularity": 256,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5696,6 +5696,6 @@
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
   "LastChanged": "2024-10-04T03:57:46.2569356+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:45.7772102+00:00",
-  "LastUpdate_Ratings": "2024-10-04T04:59:43.1889022+00:00",
+  "LastUpdate_Ratings": "2024-10-04T06:59:05.1861033+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:55.7342137+00:00"
 }
