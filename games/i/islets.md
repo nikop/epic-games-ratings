@@ -3,9 +3,9 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 229)  
 ## Awards
-Max (Great for Beginners): 65  (Ranked 536)  
+Max (Great for Beginners): 65  (Ranked 537)  
 Sum: 440 (Ranked 434)  
-Diff (max vs sum): 102  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |

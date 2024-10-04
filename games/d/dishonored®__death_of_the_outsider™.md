@@ -3,9 +3,9 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 855)  
 ## Awards
-Max (Extremely Fun): 96  (Ranked 482)  
+Max (Extremely Fun): 96  (Ranked 483)  
 Sum: 706 (Ranked 387)  
-Diff (max vs sum): 95  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 96 |
