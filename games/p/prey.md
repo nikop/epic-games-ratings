@@ -1,11 +1,11 @@
 # Prey
 [Store](https://store.epicgames.com/en-US/p/prey)  
 [View Rawdata](../../db/p/prey.json)  
-Rating: 4.63 (Ranked 409)  
+Rating: 4.63 (Ranked 410)  
 Number of Ratings: 13,217  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 6,319  (Ranked 88)  
-Sum: 8,629 (Ranked 143)  
+Sum: 8,630 (Ranked 143)  
 Diff (max vs sum): -55  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -55
 | This game has Amazing Storytelling | 361 |
 | This game has Diverse Characters | 355 |
 | This game is Extremely Fun | 352 |
-| This game has Amazing Characters | 340 |
+| This game has Amazing Characters | 341 |
 | This game has Quickly Understood Controls | 323 |
 | This game has Obsessive Gameplay | 204 |
 | This game has a Creative Community | 204 |
@@ -524,4 +524,4 @@ Diff (max vs sum): -55
 | 2024-09-30 | 4.63 | - | 6,311 | 8,616 |
 | 2024-10-01 | 4.63 | - | 6,311 | 8,621 |
 | 2024-10-02 | 4.63 | - | 6,316 | 8,626 |
-| 2024-10-04 | 4.63 | - | 6,319 | 8,629 |
+| 2024-10-04 | 4.63 | - | 6,319 | 8,630 |

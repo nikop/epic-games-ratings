@@ -2,7 +2,7 @@
   "ID": "silene",
   "Name": "Close To The Sun",
   "ProductSlug": "close-to-the-sun",
-  "Ranking_Rating": 1261,
+  "Ranking_Rating": 1262,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -508,6 +508,6 @@
   "FirstSeen": "2022-07-22T20:29:28.4985337+00:00",
   "LastChanged": "2024-10-01T02:18:19.2436207+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:23.1306284+00:00",
-  "LastUpdate_Ratings": "2024-10-04T15:00:04.2612168+00:00",
+  "LastUpdate_Ratings": "2024-10-04T16:59:39.0331286+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:05.1509324+00:00"
 }

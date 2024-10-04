@@ -2,6 +2,9 @@
   "ID": "4e53f148899a4565bded9d485880203e",
   "Name": "BeamNG.drive",
   "ProductSlug": "beamngdrive-7f5f3a",
+  "Ranking_Rating": 114,
+  "Ranking_Popularity": 731,
+  "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +23,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.79,
+  "RatingHistory": [
+    {
+      "Time": "2024-10-04T16:59:02.8729687+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -36,6 +47,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2024-09-28T03:12:15.4354428+00:00",
+  "FirstSeenRating": "2024-10-04T16:59:02.8729684+00:00",
+  "LastChanged": "2024-10-04T16:59:02.8729685+00:00",
   "LastUpdate_AppInfo": "2024-10-04T06:57:09.5306595+00:00",
-  "LastUpdate_Ratings": "2024-10-04T14:59:32.1609246+00:00"
+  "LastUpdate_Ratings": "2024-10-04T16:59:02.8729694+00:00"
 }

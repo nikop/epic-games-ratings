@@ -1,17 +1,17 @@
 # Predator: Hunting Grounds Standard Edition
 [Store](https://store.epicgames.com/en-US/p/predator-hunting-grounds)  
 [View Rawdata](../../db/p/predator__hunting_grounds_standard_edition.json)  
-Rating: 4.46 (Ranked 795)  
+Rating: 4.46 (Ranked 796)  
 Number of Ratings: 1,373  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 992  (Ranked 209)  
-Sum: 2,755 (Ranked 233)  
+Sum: 2,760 (Ranked 233)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 992 |
 | This game is Great for Quick Sessions | 229 |
-| This game has Diverse Characters | 214 |
+| This game has Diverse Characters | 219 |
 | This game is Highly Recommended | 210 |
 | This game has Quickly Understood Controls | 202 |
 | This game is Extremely Fun | 196 |
@@ -357,3 +357,4 @@ Diff (max vs sum): -24
 | 2024-10-01 | 4.46 | - | 985 | 2,731 |
 | 2024-10-02 | 4.46 | - | 988 | 2,739 |
 | 2024-10-03 | 4.46 | - | 992 | 2,755 |
+| 2024-10-04 | 4.46 | - | 992 | 2,760 |

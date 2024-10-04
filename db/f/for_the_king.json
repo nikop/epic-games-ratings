@@ -2,7 +2,7 @@
   "ID": "4492ce99b4124b74a0bb83f78b3d70b8",
   "Name": "For The King",
   "ProductSlug": "for-the-king",
-  "Ranking_Rating": 248,
+  "Ranking_Rating": 249,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 1254,
@@ -5821,10 +5821,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 3482,
       "NumberOfAwardsMax": 501
+    },
+    {
+      "Time": "2024-10-04T16:58:37.9513914+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3483,
+      "NumberOfAwardsMax": 501
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3482,
+  "NumberOfAwards": 3483,
   "NumberOfAwardsMax": 501,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5844,7 +5850,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 335
+      "Count": 336
     },
     {
       "Text": "This game is Relaxing",
@@ -5900,8 +5906,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2024-10-03T20:58:25.5316884+00:00",
+  "LastChanged": "2024-10-04T16:58:37.9513912+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:26.8500412+00:00",
-  "LastUpdate_Ratings": "2024-10-04T14:59:09.925855+00:00",
+  "LastUpdate_Ratings": "2024-10-04T16:58:37.9513917+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:27.3864384+00:00"
 }
