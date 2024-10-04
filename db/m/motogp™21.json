@@ -2,9 +2,9 @@
   "ID": "4a9527d6d2984bb39d527631b94ec7f2",
   "Name": "MotoGP\u212221",
   "ProductSlug": "motogp-21",
-  "Ranking_Rating": 539,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 657,
-  "Ranking_PopularitySum": 529,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": ""
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 95,
   "RatingHistory": [
     {
@@ -530,10 +530,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-10-04T18:58:19.0027226+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 212,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
+  "NumberOfAwards": 212,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -577,7 +583,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Competitive Players",
@@ -603,8 +609,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2024-10-04T11:58:06.812879+00:00",
+  "LastChanged": "2024-10-04T18:58:19.0027224+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:31.808231+00:00",
-  "LastUpdate_Ratings": "2024-10-04T16:59:28.0476637+00:00",
+  "LastUpdate_Ratings": "2024-10-04T18:58:19.0027231+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:01.4261977+00:00"
 }
