@@ -141,7 +141,6 @@
 | [World of Magic: Rise of Magic](games/0/052e5962131044f1bbe2da2057b83df5.md) | 2024-12-31 | - |  | - | - |
 | [Worshippers of Cthulhu](games/3/3cc25c5644354b8aa07d735794004cbf.md) | 2024-12-31 | - |  | - | - |
 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 2024-12-31 | 38 (1,000 XP) | 1 | - | - |
-| [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-12-31 | - |  | - | - |
 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 2024-12-31 | 38 (1,000 XP) | 1 | - | - |
 | [Total Reload](games/t/total_reload.md) | 2025-01-15 | - |  | - | - |
 | [Dawnshard](games/b/bd9874dd0e2b4302937845e79e5605ce.md) | 2025-01-31 | - |  | - | - |
