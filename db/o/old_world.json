@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 360,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 222,
@@ -3364,10 +3364,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 2168,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2024-10-03T23:58:56.7946412+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2170,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2168,
+  "NumberOfAwards": 2170,
   "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3393,7 +3399,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 241
+      "Count": 243
     },
     {
       "Text": "This game has Challenging Combat",
@@ -25129,9 +25135,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-10-02T05:57:46.5933405+00:00",
+  "LastChanged": "2024-10-03T23:58:56.794641+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:09.1046223+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:13.1148999+00:00",
-  "LastUpdate_Ratings": "2024-10-03T22:00:22.5804745+00:00",
+  "LastUpdate_Ratings": "2024-10-03T23:58:56.7946415+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:09.1056354+00:00"
 }

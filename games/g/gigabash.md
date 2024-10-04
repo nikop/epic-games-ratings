@@ -102,12 +102,12 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 154,991 | 0 |
 | 2024-09-14 | 157,189 | 0 |
 ## Awards
-Max (Great Boss Battles): 141  (Ranked 424)  
-Sum: 162 (Ranked 554)  
+Max (Great Boss Battles): 142  (Ranked 424)  
+Sum: 163 (Ranked 554)  
 Diff (max vs sum): -130  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 141 |
+| This game has Great Boss Battles | 142 |
 | This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -240,3 +240,4 @@ Diff (max vs sum): -130
 | 2024-09-20 | 4.53 | 139 | 159 |
 | 2024-09-25 | 4.53 | 140 | 160 |
 | 2024-09-26 | 4.53 | 141 | 162 |
+| 2024-10-03 | 4.53 | 142 | 163 |
