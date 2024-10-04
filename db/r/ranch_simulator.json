@@ -4,7 +4,7 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 923,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3270,10 +3270,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 828,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-10-04T20:57:56.7545819+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 830,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 828,
+  "NumberOfAwards": 830,
   "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3281,7 +3287,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 108
+      "Count": 109
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3335,7 +3341,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 86
+      "Count": 87
     },
     {
       "Text": "This game has a Creative Community",
@@ -3355,8 +3361,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2024-10-03T22:58:22.2075934+00:00",
+  "LastChanged": "2024-10-04T20:57:56.7545817+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:11.6005217+00:00",
-  "LastUpdate_Ratings": "2024-10-04T18:58:46.5257663+00:00",
+  "LastUpdate_Ratings": "2024-10-04T20:57:56.7545822+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:11.7721912+00:00"
 }

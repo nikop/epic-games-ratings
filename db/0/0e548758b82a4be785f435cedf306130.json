@@ -4,7 +4,7 @@
   "ProductSlug": "black-myth-wukong-87a72b",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 43,
-  "Ranking_PopularitySum": 43,
+  "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 3,
@@ -1716,10 +1716,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 46114,
       "NumberOfAwardsMax": 14522
+    },
+    {
+      "Time": "2024-10-04T20:59:29.0621869+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 46151,
+      "NumberOfAwardsMax": 14522
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46114,
+  "NumberOfAwards": 46151,
   "NumberOfAwardsMax": 14522,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1739,7 +1745,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2092
+      "Count": 2129
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2115,9 +2121,9 @@
   "FirstSeen": "2024-08-20T05:59:33.1921959+00:00",
   "FirstSeenRating": "2024-08-20T09:57:56.1070988+00:00",
   "FirstSeenAchievements": "2023-11-24T09:04:54.1532971+00:00",
-  "LastChanged": "2024-10-04T17:57:53.0720086+00:00",
+  "LastChanged": "2024-10-04T20:59:29.0621867+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:37.4964365+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:45.5854752+00:00",
-  "LastUpdate_Ratings": "2024-10-04T19:00:08.7590802+00:00",
+  "LastUpdate_Ratings": "2024-10-04T20:59:29.0621872+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.4964564+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "tiny-tinas-wonderlands",
   "Ranking_Rating": 561,
   "Ranking_Popularity": 24,
-  "Ranking_PopularitySum": 42,
+  "Ranking_PopularitySum": 43,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -19511,10 +19511,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 46131,
       "NumberOfAwardsMax": 25578
+    },
+    {
+      "Time": "2024-10-04T20:59:48.9781465+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 46134,
+      "NumberOfAwardsMax": 25578
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46131,
+  "NumberOfAwards": 46134,
   "NumberOfAwardsMax": 25578,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -19564,7 +19570,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2662
+      "Count": 2665
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19590,8 +19596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2024-10-04T19:57:26.9351054+00:00",
+  "LastChanged": "2024-10-04T20:59:48.9781463+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:43.6265863+00:00",
-  "LastUpdate_Ratings": "2024-10-04T19:57:26.935106+00:00",
+  "LastUpdate_Ratings": "2024-10-04T20:59:48.9781469+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:39.7240111+00:00"
 }

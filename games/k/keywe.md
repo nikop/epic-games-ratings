@@ -1,7 +1,7 @@
 # KeyWe
 [Store](https://store.epicgames.com/en-US/p/keywe-c3a70e)  
 [View Rawdata](../../db/k/keywe.json)  
-Rating: 4.62 (Ranked 432)  
+Rating: 4.62 (Ranked 431)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
