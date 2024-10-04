@@ -2,7 +2,7 @@
   "ID": "0a9e3c5ab6684506bd624a849ca0cf39",
   "Name": "DEATH STRANDING DIRECTOR\u0027S CUT",
   "ProductSlug": "death-stranding-directors-cut",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 11,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 76,
   "Ranking_EOS_Progress": 43,
@@ -17021,10 +17021,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 20731,
       "NumberOfAwardsMax": 11605
+    },
+    {
+      "Time": "2024-10-04T10:57:17.4652902+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 20735,
+      "NumberOfAwardsMax": 11605
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20731,
+  "NumberOfAwards": 20735,
   "NumberOfAwardsMax": 11605,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -17038,7 +17044,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 850
+      "Count": 854
     },
     {
       "Text": "This game is Highly Recommended",
@@ -50182,9 +50188,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
-  "LastChanged": "2024-10-04T04:59:18.004581+00:00",
+  "LastChanged": "2024-10-04T10:57:17.46529+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:10.9786578+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:53.8049023+00:00",
-  "LastUpdate_Ratings": "2024-10-04T08:58:34.3949181+00:00",
+  "LastUpdate_Ratings": "2024-10-04T10:57:17.4652907+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:10.9788599+00:00"
 }

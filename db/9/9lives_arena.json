@@ -2,8 +2,8 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 630,
-  "Ranking_Popularity": 603,
+  "Ranking_Rating": 606,
+  "Ranking_Popularity": 601,
   "Ranking_PopularitySum": 481,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 591,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
@@ -575,18 +575,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 296,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-10-04T10:58:15.813629+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 298,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 296,
-  "NumberOfAwardsMax": 41,
+  "NumberOfAwards": 298,
+  "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Great for Beginners",
@@ -598,7 +604,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 24
+      "Count": 25
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4343,9 +4349,9 @@
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-10-04T02:11:53.4715944+00:00",
+  "LastChanged": "2024-10-04T10:58:15.8136288+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:12.1671258+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:19.8688467+00:00",
-  "LastUpdate_Ratings": "2024-10-04T08:59:28.2760018+00:00",
+  "LastUpdate_Ratings": "2024-10-04T10:58:15.8136294+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:12.1671506+00:00"
 }
