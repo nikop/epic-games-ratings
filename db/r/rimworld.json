@@ -4,7 +4,7 @@
   "ProductSlug": "rimworld",
   "Ranking_Rating": 16,
   "Ranking_Popularity": 246,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -6737,10 +6737,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 5076,
       "NumberOfAwardsMax": 655
+    },
+    {
+      "Time": "2024-10-04T09:59:49.7184963+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 5077,
+      "NumberOfAwardsMax": 655
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5076,
+  "NumberOfAwards": 5077,
   "NumberOfAwardsMax": 655,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6772,7 +6778,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 472
+      "Count": 473
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6822,8 +6828,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
-  "LastChanged": "2024-10-03T21:00:00.9042626+00:00",
+  "LastChanged": "2024-10-04T09:59:49.7184961+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:16.2327513+00:00",
-  "LastUpdate_Ratings": "2024-10-04T08:57:57.4118838+00:00",
+  "LastUpdate_Ratings": "2024-10-04T09:59:49.7184968+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:05.7770741+00:00"
 }
