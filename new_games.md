@@ -45,7 +45,7 @@
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | 0 |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | 0 |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-09-26 | 62 (1,000 XP) | 6 | - | 0 |
-| [The Magical Mixture Mill](games/a/afb1eb5b870649929df0d5cd7a9afb94.md) | 2024-09-26 | - |  | - | - |
+| [The Magical Mixture Mill](games/a/afb1eb5b870649929df0d5cd7a9afb94.md) | 2024-09-26 | - |  | - | 0 |
 | [G.I. Joe Wrath of Cobra](games/d/d9d79f35d883467ca7886d443087b602.md) | 2024-09-26 | - |  | - | 0 |
 | [MONOPOLY®](games/2/2730f9e6c3d442c6bb3ceb93027c9ba3.md) | 2024-09-26 | - |  | - | - |
 | [Night Slashers: Remake](games/1/16408a3021d44e2bb6198950bf1de5c1.md) | 2024-09-26 | - |  | - | - |
