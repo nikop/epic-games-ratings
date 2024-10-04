@@ -1,7 +1,7 @@
 # TUNIC
 [Store](https://store.epicgames.com/en-US/p/tunic)  
 [View Rawdata](../../db/t/tunic.json)  
-Rating: 4.82 (Ranked 77)  
+Rating: 4.82 (Ranked 78)  
 Number of Ratings: 100  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 47  (Ranked 584)  
