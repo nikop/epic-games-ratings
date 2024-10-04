@@ -3,7 +3,7 @@
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
   "Ranking_Rating": 988,
-  "Ranking_Popularity": 397,
+  "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 591,
@@ -3108,10 +3108,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 1172,
       "NumberOfAwardsMax": 172
+    },
+    {
+      "Time": "2024-10-04T02:13:40.1430008+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 1174,
+      "NumberOfAwardsMax": 172
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1172,
+  "NumberOfAwards": 1174,
   "NumberOfAwardsMax": 172,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3137,7 +3143,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 119
+      "Count": 121
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8170,9 +8176,9 @@
   "FirstSeen": "2023-12-18T12:03:11.9776038+00:00",
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
-  "LastChanged": "2024-10-03T17:01:09.0596272+00:00",
+  "LastChanged": "2024-10-04T02:13:40.1430004+00:00",
   "LastChanged_Achievements": "2024-09-14T14:22:59.4441405+00:00",
   "LastUpdate_AppInfo": "2024-10-02T13:57:13.9503991+00:00",
-  "LastUpdate_Ratings": "2024-10-03T23:57:45.730527+00:00",
+  "LastUpdate_Ratings": "2024-10-04T02:13:40.1430012+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:59.444186+00:00"
 }

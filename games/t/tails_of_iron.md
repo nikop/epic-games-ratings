@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.61 (Ranked 459)  
+Rating: 4.62 (Ranked 430)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -379,3 +379,4 @@ Diff (max vs sum): -23
 | 2024-09-13 | 4.62 | 28 | 28 |
 | 2024-09-14 | 4.62 | 29 | 29 |
 | 2024-10-02 | 4.61 | 29 | 29 |
+| 2024-10-04 | 4.62 | 29 | 29 |

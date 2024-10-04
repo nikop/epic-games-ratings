@@ -3,8 +3,8 @@
   "Name": "Sonic Colors: Ultimate",
   "ProductSlug": "sonic-colors-ultimate",
   "Ranking_Rating": 950,
-  "Ranking_Popularity": 510,
-  "Ranking_PopularitySum": 614,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 613,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -457,18 +457,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 78,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-10-04T02:13:50.3418476+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78,
-  "NumberOfAwardsMax": 78,
+  "NumberOfAwards": 79,
+  "NumberOfAwardsMax": 79,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 78
+      "Count": 79
     }
   ],
   "EOS_Progressed": 0,
@@ -482,8 +488,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:26.673333+00:00",
-  "LastChanged": "2024-09-27T03:13:30.674926+00:00",
+  "LastChanged": "2024-10-04T02:13:50.3418474+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:11.7384641+00:00",
-  "LastUpdate_Ratings": "2024-10-03T23:57:53.9884379+00:00",
+  "LastUpdate_Ratings": "2024-10-04T02:13:50.3418479+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:00.4052544+00:00"
 }

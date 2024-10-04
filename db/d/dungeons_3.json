@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 339,
   "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 172,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "NumberOfRatings": 1635,
   "RatingHistory": [
     {
@@ -4971,6 +4971,12 @@
     {
       "Time": "2024-10-03T18:57:26.7699259+00:00",
       "Rating": 4.65,
+      "NumberOfAwards": 3154,
+      "NumberOfAwardsMax": 476
+    },
+    {
+      "Time": "2024-10-04T02:11:11.2318283+00:00",
+      "Rating": 4.66,
       "NumberOfAwards": 3154,
       "NumberOfAwardsMax": 476
     }
@@ -36993,9 +36999,9 @@
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
-  "LastChanged": "2024-10-03T18:57:26.7699258+00:00",
+  "LastChanged": "2024-10-04T02:11:11.2318281+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:28.1905789+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:40.0000157+00:00",
-  "LastUpdate_Ratings": "2024-10-03T22:59:40.5307833+00:00",
+  "LastUpdate_Ratings": "2024-10-04T02:11:11.2318286+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:28.190751+00:00"
 }

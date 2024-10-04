@@ -2,7 +2,7 @@
   "ID": "ccd109fa7d104647a93aefd2180533d2",
   "Name": "Auto Legends",
   "ProductSlug": "auto-legends-36ce7e",
-  "Ranking_Rating": 76,
+  "Ranking_Rating": 68,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.83,
   "RatingHistory": [
     {
       "Time": "2024-09-09T22:58:51.5907359+00:00",
@@ -40,6 +40,12 @@
     {
       "Time": "2024-09-29T16:59:59.7948199+00:00",
       "Rating": 4.82,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-04T02:10:16.2053059+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -60,8 +66,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-30T01:59:26.6179029+00:00",
   "FirstSeenRating": "2024-09-09T22:58:51.5907357+00:00",
-  "LastChanged": "2024-09-29T16:59:59.7948198+00:00",
+  "LastChanged": "2024-10-04T02:10:16.2053057+00:00",
   "LastUpdate_AppInfo": "2024-10-01T11:57:28.0081636+00:00",
-  "LastUpdate_Ratings": "2024-10-03T22:59:03.5203218+00:00",
+  "LastUpdate_Ratings": "2024-10-04T02:10:16.2053062+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:22.9150465+00:00"
 }

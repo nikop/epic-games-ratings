@@ -1,15 +1,15 @@
 # DOOM 64
 [Store](https://store.epicgames.com/en-US/p/doom-64)  
 [View Rawdata](../../db/d/doom_64.json)  
-Rating: 4.65 (Ranked 359)  
+Rating: 4.65 (Ranked 360)  
 Number of Ratings: 5,134  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,356  (Ranked 174)  
-Sum: 1,745 (Ranked 280)  
+Max (Great Boss Battles): 1,358  (Ranked 174)  
+Sum: 1,747 (Ranked 280)  
 Diff (max vs sum): -106  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,356 |
+| This game has Great Boss Battles | 1,358 |
 | This game is Great for Beginners | 52 |
 | This game has Quickly Understood Controls | 47 |
 | This game has Challenging Combat | 47 |
@@ -148,3 +148,4 @@ Diff (max vs sum): -106
 | 2024-09-26 | 4.65 | - | 1,353 | 1,742 |
 | 2024-09-28 | 4.65 | - | 1,355 | 1,744 |
 | 2024-09-29 | 4.65 | - | 1,356 | 1,745 |
+| 2024-10-04 | 4.65 | - | 1,358 | 1,747 |
