@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.37 (Ranked 950)  
+Rating: 4.37 (Ranked 951)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -358,14 +358,14 @@ Completed: 115 (0.02%) (Ranked 536)
 | 2024-09-14 | 584,492 | 115 |
 ## Awards
 Max (Great for Beginners): 492  (Ranked 273)  
-Sum: 2,326 (Ranked 249)  
+Sum: 2,329 (Ranked 249)  
 Diff (max vs sum): 24  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 492 |
 | This game is Extremely Fun | 357 |
 | This game is Highly Recommended | 343 |
-| This game has Quickly Understood Controls | 334 |
+| This game has Quickly Understood Controls | 337 |
 | This game has Amazing Storytelling | 320 |
 | This game is Relaxing | 296 |
 | This game has Amazing Characters | 192 |
@@ -815,4 +815,4 @@ Diff (max vs sum): 24
 | 2024-10-01 | 4.37 | - | 491 | 2,315 |
 | 2024-10-02 | 4.37 | - | 491 | 2,316 |
 | 2024-10-03 | 4.37 | - | 492 | 2,324 |
-| 2024-10-04 | 4.37 | - | 492 | 2,326 |
+| 2024-10-04 | 4.37 | - | 492 | 2,329 |

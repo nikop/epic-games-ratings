@@ -4,7 +4,7 @@
   "ProductSlug": "dead-cells",
   "Ranking_Rating": 51,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 178,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8804,11 +8804,17 @@
       "Rating": 4.84,
       "NumberOfAwards": 5077,
       "NumberOfAwardsMax": 617
+    },
+    {
+      "Time": "2024-10-04T15:58:27.4999795+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5081,
+      "NumberOfAwardsMax": 620
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5077,
-  "NumberOfAwardsMax": 617,
+  "NumberOfAwards": 5081,
+  "NumberOfAwardsMax": 620,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8839,13 +8845,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 617
+      "Count": 620
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 401
+      "Count": 402
     },
     {
       "Text": "This game is Relaxing",
@@ -8895,8 +8901,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:26.6981291+00:00",
-  "LastChanged": "2024-10-04T08:58:31.9679988+00:00",
+  "LastChanged": "2024-10-04T15:58:27.4999794+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:52.8691003+00:00",
-  "LastUpdate_Ratings": "2024-10-04T13:59:55.3242691+00:00",
+  "LastUpdate_Ratings": "2024-10-04T15:58:27.4999801+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:51.2466489+00:00"
 }

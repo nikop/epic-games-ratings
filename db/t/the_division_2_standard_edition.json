@@ -2,7 +2,7 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 694,
+  "Ranking_Rating": 695,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 54,
   "Ranking_EOS_Progress": 1254,
@@ -22299,10 +22299,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 36479,
       "NumberOfAwardsMax": 10202
+    },
+    {
+      "Time": "2024-10-04T15:58:47.0464477+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 36480,
+      "NumberOfAwardsMax": 10202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36479,
+  "NumberOfAwards": 36480,
   "NumberOfAwardsMax": 10202,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -22328,7 +22334,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1988
+      "Count": 1989
     },
     {
       "Text": "This game is Highly Recommended",
@@ -22390,8 +22396,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-10-04T02:11:04.2450115+00:00",
+  "LastChanged": "2024-10-04T15:58:47.0464475+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:19.3079251+00:00",
-  "LastUpdate_Ratings": "2024-10-04T14:00:23.8681438+00:00",
+  "LastUpdate_Ratings": "2024-10-04T15:58:47.0464484+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:47.698886+00:00"
 }

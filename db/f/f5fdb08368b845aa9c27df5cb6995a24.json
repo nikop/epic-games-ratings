@@ -2,7 +2,7 @@
   "ID": "f5fdb08368b845aa9c27df5cb6995a24",
   "Name": "Workers \u0026 Resources: Soviet Republic",
   "ProductSlug": "workers-and-resources-soviet-republic-c33013",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 248,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 606,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2024-09-27T02:10:05.328325+00:00",
@@ -40,6 +40,12 @@
     {
       "Time": "2024-10-03T03:13:28.6849426+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-04T15:57:46.7694317+00:00",
+      "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -227,9 +233,9 @@
   "FirstSeen": "2024-06-22T11:01:13.4344702+00:00",
   "FirstSeenRating": "2024-09-27T02:10:05.3283248+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:22.2762371+00:00",
-  "LastChanged": "2024-10-03T03:13:28.6849423+00:00",
+  "LastChanged": "2024-10-04T15:57:46.7694315+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:31.4470203+00:00",
   "LastUpdate_AppInfo": "2024-09-28T02:08:03.8774966+00:00",
-  "LastUpdate_Ratings": "2024-10-04T13:58:56.0781217+00:00",
+  "LastUpdate_Ratings": "2024-10-04T15:57:46.769432+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:31.4470324+00:00"
 }
