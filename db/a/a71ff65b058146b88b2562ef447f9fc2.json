@@ -2,9 +2,9 @@
   "ID": "a71ff65b058146b88b2562ef447f9fc2",
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
-  "Ranking_Rating": 537,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 545,
-  "Ranking_PopularitySum": 430,
+  "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2024-05-30T22:57:52.5489386+00:00",
@@ -1326,10 +1326,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 460,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-10-04T11:57:27.0647534+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 462,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 460,
+  "NumberOfAwards": 462,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1361,7 +1367,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1385,7 +1391,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1834,9 +1840,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-03T22:00:29.8562968+00:00",
+  "LastChanged": "2024-10-04T11:57:27.0647532+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:43.8667972+00:00",
-  "LastUpdate_Ratings": "2024-10-04T09:58:20.7625609+00:00",
+  "LastUpdate_Ratings": "2024-10-04T11:57:27.0647538+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }
