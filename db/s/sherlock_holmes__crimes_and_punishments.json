@@ -2,7 +2,7 @@
   "ID": "23f3da2016b94461a7bd7e2eb46aa0f9",
   "Name": "Sherlock Holmes: Crimes and Punishments",
   "ProductSlug": "sherlock-holmes-crimes-and-punishments",
-  "Ranking_Rating": 870,
+  "Ranking_Rating": 855,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 491,
   "RatingHistory": [
     {
@@ -592,6 +592,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-04T17:57:16.5718754+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -609,8 +615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:12.9656224+00:00",
-  "LastChanged": "2024-10-03T16:57:40.1263352+00:00",
+  "LastChanged": "2024-10-04T17:57:16.5718752+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:35.5412064+00:00",
-  "LastUpdate_Ratings": "2024-10-04T15:58:18.3674905+00:00",
+  "LastUpdate_Ratings": "2024-10-04T17:57:16.5718756+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:17.2178776+00:00"
 }

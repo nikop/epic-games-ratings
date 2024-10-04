@@ -2,7 +2,7 @@
   "ID": "1972d7d943d144318403545b8ae517ed",
   "Name": "Moonray",
   "ProductSlug": "moonray-52967b",
-  "Ranking_Rating": 634,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-07-25T19:58:17.3352434+00:00",
@@ -221,6 +221,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 38,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-10-04T17:59:12.6792072+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -246,8 +252,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-01T14:57:24.8686221+00:00",
   "FirstSeenRating": "2024-07-25T19:58:17.3352432+00:00",
-  "LastChanged": "2024-09-04T07:58:39.4971097+00:00",
+  "LastChanged": "2024-10-04T17:59:12.679207+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:54.7293321+00:00",
-  "LastUpdate_Ratings": "2024-10-04T16:00:17.4841341+00:00",
+  "LastUpdate_Ratings": "2024-10-04T17:59:12.6792075+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:18.8557183+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "301980d060324bb29202677f468c6c44",
   "Name": "The Captain",
   "ProductSlug": "the-captain",
-  "Ranking_Rating": 815,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 476,
   "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.44,
   "NumberOfRatings": 2117,
   "RatingHistory": [
     {
@@ -575,6 +575,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 693,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-10-04T17:59:35.28958+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 693,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
@@ -661,8 +667,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:04.1173029+00:00",
   "FirstSeenRating": "2022-09-16T04:31:51.0192278+00:00",
-  "LastChanged": "2024-10-03T19:00:01.9720105+00:00",
+  "LastChanged": "2024-10-04T17:59:35.2895798+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:11.3719161+00:00",
-  "LastUpdate_Ratings": "2024-10-04T16:57:31.043945+00:00",
+  "LastUpdate_Ratings": "2024-10-04T17:59:35.2895804+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:07.293792+00:00"
 }
