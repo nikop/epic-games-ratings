@@ -4,7 +4,7 @@
   "ProductSlug": "return-alive-0ffdd1",
   "Ranking_Rating": 1295,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 514,
+  "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 478,
   "Ranking_EOS_NewPlayers": 3,
@@ -1113,6 +1113,6 @@
   "LastChanged": "2024-09-28T17:58:55.9983352+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:02.4205217+00:00",
   "LastUpdate_AppInfo": "2024-09-27T22:57:19.5529222+00:00",
-  "LastUpdate_Ratings": "2024-10-04T07:57:43.9503894+00:00",
+  "LastUpdate_Ratings": "2024-10-04T09:00:49.9692342+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:02.420531+00:00"
 }

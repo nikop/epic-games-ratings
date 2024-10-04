@@ -2,9 +2,9 @@
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 988,
   "Ranking_Popularity": 582,
-  "Ranking_PopularitySum": 515,
+  "Ranking_PopularitySum": 513,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "NumberOfRatings": 44,
   "RatingHistory": [
     {
@@ -584,10 +584,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 227,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-10-04T08:59:36.5539458+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 227,
+  "NumberOfAwards": 233,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -619,7 +625,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 31
+      "Count": 37
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -639,8 +645,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-10-04T02:12:04.8914039+00:00",
+  "LastChanged": "2024-10-04T08:59:36.5539456+00:00",
   "LastUpdate_AppInfo": "2024-09-30T16:57:34.0096608+00:00",
-  "LastUpdate_Ratings": "2024-10-04T06:59:43.5211087+00:00",
+  "LastUpdate_Ratings": "2024-10-04T08:59:36.5539461+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.9577922+00:00"
 }
