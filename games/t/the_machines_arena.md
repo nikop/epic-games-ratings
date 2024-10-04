@@ -3,19 +3,19 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.77 (Ranked 137)  
 ## Awards
-Max (Great for Quick Sessions): 58  (Ranked 554)  
-Sum: 294 (Ranked 483)  
-Diff (max vs sum): 71  
+Max (Great for Beginners): 59  (Ranked 554)  
+Sum: 297 (Ranked 482)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
+| This game is Great for Beginners | 59 |
 | This game is Great for Quick Sessions | 58 |
-| This game is Great for Beginners | 58 |
 | This game has Diverse Characters | 51 |
 | This game has a Competitive Community | 29 |
 | This game has Challenging Combat | 26 |
 | This game has Amazing Characters | 26 |
-| This game has Amazing Storytelling | 24 |
+| This game has Amazing Storytelling | 26 |
 | This game is Extremely Fun | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -128,4 +128,4 @@ Diff (max vs sum): 71
 | 2024-09-30 | 4.77 | 57 | 288 |
 | 2024-10-01 | 4.77 | 58 | 291 |
 | 2024-10-03 | 4.77 | 58 | 292 |
-| 2024-10-04 | 4.77 | 58 | 294 |
+| 2024-10-04 | 4.77 | 59 | 297 |

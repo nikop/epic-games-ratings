@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 631,
   "Ranking_Popularity": 348,
-  "Ranking_PopularitySum": 262,
+  "Ranking_PopularitySum": 261,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 486,
   "Ranking_EOS_NewPlayers": 3,
@@ -5525,10 +5525,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 2097,
       "NumberOfAwardsMax": 244
+    },
+    {
+      "Time": "2024-10-04T13:15:30.6812093+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 2099,
+      "NumberOfAwardsMax": 244
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2097,
+  "NumberOfAwards": 2099,
   "NumberOfAwardsMax": 244,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5584,7 +5590,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 205
+      "Count": 207
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -38467,9 +38473,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2024-10-04T03:59:46.3076534+00:00",
+  "LastChanged": "2024-10-04T13:15:30.6812091+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:27.0833882+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:34.8197276+00:00",
-  "LastUpdate_Ratings": "2024-10-04T10:59:46.3437174+00:00",
+  "LastUpdate_Ratings": "2024-10-04T13:15:30.6812096+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:27.0835989+00:00"
 }
