@@ -2,7 +2,7 @@
   "ID": "0aab4b93b04d4b23bd8ea803d0a481d7",
   "Name": "Karos Classic",
   "ProductSlug": "karos-classic-93c08d",
-  "Ranking_Rating": 1184,
+  "Ranking_Rating": 1187,
   "Ranking_Popularity": 731,
   "Ranking_PopularitySum": 731,
   "Ranking_EOS_Progress": 1254,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2024-06-01T22:57:19.2052463+00:00",
@@ -59,6 +59,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-04T03:13:51.6988438+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -77,8 +83,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-11T11:57:52.6336857+00:00",
   "FirstSeenRating": "2024-06-01T22:57:19.2052461+00:00",
-  "LastChanged": "2024-09-22T18:58:34.44553+00:00",
+  "LastChanged": "2024-10-04T03:13:51.6988436+00:00",
   "LastUpdate_AppInfo": "2024-10-02T07:59:02.640233+00:00",
-  "LastUpdate_Ratings": "2024-10-03T23:58:41.2236271+00:00",
+  "LastUpdate_Ratings": "2024-10-04T03:13:51.6988441+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:59.9589473+00:00"
 }
