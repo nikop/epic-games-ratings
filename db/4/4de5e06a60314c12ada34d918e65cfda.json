@@ -3,7 +3,7 @@
   "Name": "Crosshair V2",
   "ProductSlug": "crosshair-v2-d58322",
   "Ranking_Rating": 939,
-  "Ranking_Popularity": 202,
+  "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -3288,24 +3288,30 @@
       "Rating": 4.38,
       "NumberOfAwards": 4385,
       "NumberOfAwardsMax": 1046
+    },
+    {
+      "Time": "2024-10-04T13:59:15.923996+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 4439,
+      "NumberOfAwardsMax": 1063
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4385,
-  "NumberOfAwardsMax": 1046,
+  "NumberOfAwards": 4439,
+  "NumberOfAwardsMax": 1063,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1046
+      "Count": 1063
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 452
+      "Count": 461
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3323,7 +3329,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 425
+      "Count": 434
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3335,13 +3341,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 293
+      "Count": 297
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 351
+      "Count": 359
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3359,7 +3365,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 365
+      "Count": 372
     }
   ],
   "EOS_Progressed": 0,
@@ -3374,8 +3380,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T19:59:26.2371071+00:00",
   "FirstSeenRating": "2024-05-16T18:57:41.17393+00:00",
-  "LastChanged": "2024-10-04T11:59:03.1390787+00:00",
+  "LastChanged": "2024-10-04T13:59:15.9239959+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:44.6461649+00:00",
-  "LastUpdate_Ratings": "2024-10-04T11:59:03.1390794+00:00",
+  "LastUpdate_Ratings": "2024-10-04T13:59:15.9239964+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:32.1715824+00:00"
 }

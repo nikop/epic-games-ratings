@@ -4,7 +4,7 @@
   "ProductSlug": "empires-of-the-undergrowth",
   "Ranking_Rating": 190,
   "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 379,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2213,10 +2213,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 728,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-10-04T13:57:47.1769187+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 729,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 728,
+  "NumberOfAwards": 729,
   "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2278,7 +2284,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game is Relaxing",
@@ -3410,9 +3416,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:38.799219+00:00",
   "FirstSeenAchievements": "2024-06-17T16:13:37.1010985+00:00",
-  "LastChanged": "2024-10-04T03:15:10.7513114+00:00",
+  "LastChanged": "2024-10-04T13:57:47.1769186+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:57.908882+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:29.2734214+00:00",
-  "LastUpdate_Ratings": "2024-10-04T11:58:01.2299396+00:00",
+  "LastUpdate_Ratings": "2024-10-04T13:57:47.176919+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:57.909027+00:00"
 }

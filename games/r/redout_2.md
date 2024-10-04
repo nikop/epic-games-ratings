@@ -234,12 +234,12 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 156,622 | 0 |
 ## Awards
 Max (Beautiful Visuals): 39  (Ranked 612)  
-Sum: 216 (Ranked 523)  
-Diff (max vs sum): 89  
+Sum: 217 (Ranked 522)  
+Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
 | This game has Beautiful Visuals | 39 |
-| This game is Extremely Fun | 32 |
+| This game is Extremely Fun | 33 |
 | This game is Great for Quick Sessions | 32 |
 | This game has Challenging Combat | 27 |
 | This game has a Competitive Community | 23 |
@@ -329,4 +329,4 @@ Diff (max vs sum): 89
 | 2024-10-01 | 4.54 | 38 | 190 |
 | 2024-10-02 | 4.54 | 38 | 191 |
 | 2024-10-03 | 4.54 | 38 | 214 |
-| 2024-10-04 | 4.54 | 39 | 216 |
+| 2024-10-04 | 4.54 | 39 | 217 |
