@@ -2,7 +2,7 @@
   "ID": "151e56468b5049628653dedab7c88007",
   "Name": "Saints Row IV Re-Elected",
   "ProductSlug": "saints-row-iv-re-elected",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 63,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2022-12-09T02:11:05.5025321+00:00",
@@ -1683,6 +1683,12 @@
     {
       "Time": "2024-10-04T15:59:07.9796122+00:00",
       "Rating": 4.41,
+      "NumberOfAwards": 964,
+      "NumberOfAwardsMax": 731
+    },
+    {
+      "Time": "2024-10-04T22:58:31.3214556+00:00",
+      "Rating": 4.4,
       "NumberOfAwards": 964,
       "NumberOfAwardsMax": 731
     }
@@ -34966,9 +34972,9 @@
   "FirstSeen": "2022-12-08T19:57:27.2562206+00:00",
   "FirstSeenRating": "2022-12-09T02:11:05.5025317+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5717008+00:00",
-  "LastChanged": "2024-10-04T15:59:07.979612+00:00",
+  "LastChanged": "2024-10-04T22:58:31.3214555+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:31.7021618+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:57.3408964+00:00",
-  "LastUpdate_Ratings": "2024-10-04T20:59:43.2929353+00:00",
+  "LastUpdate_Ratings": "2024-10-04T22:58:31.321456+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:31.7023724+00:00"
 }
