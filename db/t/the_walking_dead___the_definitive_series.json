@@ -3394,18 +3394,24 @@
       "Rating": 4.87,
       "NumberOfAwards": 1441,
       "NumberOfAwardsMax": 945
+    },
+    {
+      "Time": "2024-10-04T04:58:26.4206211+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1449,
+      "NumberOfAwardsMax": 952
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1441,
-  "NumberOfAwardsMax": 945,
+  "NumberOfAwards": 1449,
+  "NumberOfAwardsMax": 952,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 945
+      "Count": 952
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3471,7 +3477,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 30
+      "Count": 31
     }
   ],
   "EOS_Progressed": 0,
@@ -3485,8 +3491,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-10-03T20:59:43.1148946+00:00",
+  "LastChanged": "2024-10-04T04:58:26.4206205+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:13.4909492+00:00",
-  "LastUpdate_Ratings": "2024-10-04T03:16:02.0205659+00:00",
+  "LastUpdate_Ratings": "2024-10-04T04:58:26.4206214+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.0660072+00:00"
 }
