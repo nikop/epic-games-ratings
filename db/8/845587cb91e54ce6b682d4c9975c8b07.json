@@ -4,7 +4,7 @@
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 270,
   "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 373,
+  "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -523,10 +523,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 758,
       "NumberOfAwardsMax": 220
+    },
+    {
+      "Time": "2024-10-04T06:00:36.2989649+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 792,
+      "NumberOfAwardsMax": 220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 758,
+  "NumberOfAwards": 792,
   "NumberOfAwardsMax": 220,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -558,7 +564,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 44
     },
     {
       "Text": "This game has Diverse Characters",
@@ -582,7 +588,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 39
     },
     {
       "Text": "This game is Extremely Fun",
@@ -594,7 +600,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 22
+      "Count": 28
     }
   ],
   "EOS_Progressed": 532,
@@ -1183,9 +1189,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-10-03T23:58:52.9995283+00:00",
+  "LastChanged": "2024-10-04T06:00:36.2989648+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-30T18:57:28.8852885+00:00",
-  "LastUpdate_Ratings": "2024-10-04T04:00:46.0844905+00:00",
+  "LastUpdate_Ratings": "2024-10-04T06:00:36.2989652+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }
