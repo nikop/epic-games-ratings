@@ -167,9 +167,9 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-20 | 1,189 | 0 |
 | 2024-09-14 | 1,224 | 0 |
 ## Awards
-Max (Character Customization): 765  (Ranked 235)  
+Max (Character Customization): 765  (Ranked 236)  
 Sum: 1,981 (Ranked 265)  
-Diff (max vs sum): -30  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 765 |
