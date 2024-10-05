@@ -4,7 +4,7 @@
   "ProductSlug": "tetris-effect",
   "Ranking_Rating": 31,
   "Ranking_Popularity": 521,
-  "Ranking_PopularitySum": 421,
+  "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1698,10 +1698,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 499,
       "NumberOfAwardsMax": 72
+    },
+    {
+      "Time": "2024-10-05T10:58:31.8519284+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 500,
+      "NumberOfAwardsMax": 72
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 499,
+  "NumberOfAwards": 500,
   "NumberOfAwardsMax": 72,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1757,7 +1763,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1795,8 +1801,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-10-01T19:59:31.8659927+00:00",
+  "LastChanged": "2024-10-05T10:58:31.8519282+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:35.2572806+00:00",
-  "LastUpdate_Ratings": "2024-10-05T08:58:58.5877873+00:00",
+  "LastUpdate_Ratings": "2024-10-05T10:58:31.8519287+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:11.1502638+00:00"
 }

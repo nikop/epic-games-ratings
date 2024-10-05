@@ -2,7 +2,7 @@
   "ID": "d250bdf072934b70ab080c6fcee77734",
   "Name": "Iratus: Lord of the Dead",
   "ProductSlug": "iratus-d0e5ba",
-  "Ranking_Rating": 941,
+  "Ranking_Rating": 940,
   "Ranking_Popularity": 137,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 173,
@@ -2897,10 +2897,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 4323,
       "NumberOfAwardsMax": 2213
+    },
+    {
+      "Time": "2024-10-05T11:00:03.0830095+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 4324,
+      "NumberOfAwardsMax": 2213
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4323,
+  "NumberOfAwards": 4324,
   "NumberOfAwardsMax": 2213,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2956,7 +2962,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 231
+      "Count": 232
     },
     {
       "Text": "This game has Unique Visuals",
@@ -34347,9 +34353,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
-  "LastChanged": "2024-10-03T23:57:58.9717765+00:00",
+  "LastChanged": "2024-10-05T11:00:03.0830094+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:15.8341545+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:37.1157932+00:00",
-  "LastUpdate_Ratings": "2024-10-05T09:00:04.6110208+00:00",
+  "LastUpdate_Ratings": "2024-10-05T11:00:03.0830099+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:15.8343466+00:00"
 }
