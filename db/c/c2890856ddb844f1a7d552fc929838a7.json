@@ -2,7 +2,7 @@
   "ID": "c2890856ddb844f1a7d552fc929838a7",
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
-  "Ranking_Rating": 51,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 310,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.84,
+  "Rating": 4.83,
   "RatingHistory": [
     {
       "Time": "2023-08-31T05:00:39.0192379+00:00",
@@ -599,6 +599,12 @@
     {
       "Time": "2024-10-04T09:00:04.3316534+00:00",
       "Rating": 4.84,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 83
+    },
+    {
+      "Time": "2024-10-05T08:59:09.6206768+00:00",
+      "Rating": 4.83,
       "NumberOfAwards": 83,
       "NumberOfAwardsMax": 83
     }
@@ -7276,9 +7282,9 @@
   "FirstSeen": "2023-07-26T07:57:19.1818171+00:00",
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
-  "LastChanged": "2024-10-04T09:00:04.3316532+00:00",
+  "LastChanged": "2024-10-05T08:59:09.6206766+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:02.9992832+00:00",
   "LastUpdate_AppInfo": "2024-10-03T07:57:12.8805317+00:00",
-  "LastUpdate_Ratings": "2024-10-05T06:59:24.8564728+00:00",
+  "LastUpdate_Ratings": "2024-10-05T08:59:09.6206772+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:02.999345+00:00"
 }
