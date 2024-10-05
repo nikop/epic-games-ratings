@@ -1,7 +1,7 @@
 # Riders Republic
 [Store](https://store.epicgames.com/en-US/p/riders-republic)  
 [View Rawdata](../../db/r/riders_republic.json)  
-Rating: 4.74 (Ranked 188)  
+Rating: 4.75 (Ranked 170)  
 Number of Ratings: 4,120  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 1,264  (Ranked 180)  
@@ -654,4 +654,4 @@ Diff (max vs sum): 66
 | 2024-10-02 | 4.75 | - | 1,263 | 11,863 |
 | 2024-10-03 | 4.75 | - | 1,264 | 11,872 |
 | 2024-10-04 | 4.75 | - | 1,264 | 11,886 |
-| 2024-10-05 | 4.74 | - | 1,264 | 11,900 |
+| 2024-10-05 | 4.75 | - | 1,264 | 11,900 |

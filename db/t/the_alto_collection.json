@@ -4,7 +4,7 @@
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 427,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -1550,10 +1550,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 471,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-10-05T14:58:09.1660341+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 472,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 471,
+  "NumberOfAwards": 472,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1561,7 +1567,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Great for Beginners",
@@ -34147,9 +34153,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-10-05T02:10:08.1622884+00:00",
+  "LastChanged": "2024-10-05T14:58:09.1660338+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:34.6744342+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:35.2188656+00:00",
-  "LastUpdate_Ratings": "2024-10-05T13:11:40.4549912+00:00",
+  "LastUpdate_Ratings": "2024-10-05T14:58:09.1660345+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:34.6745915+00:00"
 }

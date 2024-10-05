@@ -2,7 +2,7 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1178,
+  "Ranking_Rating": 1174,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 171,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.16,
+  "Rating": 4.17,
   "RatingHistory": [
     {
       "Time": "2024-08-07T22:57:45.2970789+00:00",
@@ -1254,6 +1254,12 @@
       "Rating": 4.16,
       "NumberOfAwards": 567,
       "NumberOfAwardsMax": 126
+    },
+    {
+      "Time": "2024-10-05T15:00:34.8946224+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 126
     }
   ],
   "ReviewsDisabled": false,
@@ -1455,9 +1461,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-10-05T11:57:52.1018523+00:00",
+  "LastChanged": "2024-10-05T15:00:34.8946223+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:25.9255025+00:00",
   "LastUpdate_AppInfo": "2024-10-01T02:18:04.8365542+00:00",
-  "LastUpdate_Ratings": "2024-10-05T13:57:10.7413376+00:00",
+  "LastUpdate_Ratings": "2024-10-05T15:00:34.8946228+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:25.9255133+00:00"
 }
