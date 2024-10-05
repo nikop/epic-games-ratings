@@ -2,7 +2,7 @@
   "ID": "2b352b4aea3849bd9519842dda263ac7",
   "Name": "CRSED: Cuisine Royale",
   "ProductSlug": "crsed-f-o-a-d",
-  "Ranking_Rating": 1039,
+  "Ranking_Rating": 1047,
   "Ranking_Popularity": 451,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.3,
+  "Rating": 4.29,
   "NumberOfRatings": 464,
   "RatingHistory": [
     {
@@ -2155,6 +2155,12 @@
       "Rating": 4.3,
       "NumberOfAwards": 912,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2024-10-05T20:58:01.7117937+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 912,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
@@ -2252,8 +2258,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:35.4348464+00:00",
-  "LastChanged": "2024-10-05T04:58:32.21291+00:00",
+  "LastChanged": "2024-10-05T20:58:01.7117936+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:27.6220824+00:00",
-  "LastUpdate_Ratings": "2024-10-05T18:58:46.6129+00:00",
+  "LastUpdate_Ratings": "2024-10-05T20:58:01.711794+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:08.2493314+00:00"
 }

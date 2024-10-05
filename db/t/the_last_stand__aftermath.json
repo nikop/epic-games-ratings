@@ -2,9 +2,9 @@
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 569,
-  "Ranking_PopularitySum": 501,
+  "Ranking_PopularitySum": 502,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "NumberOfRatings": 44,
   "RatingHistory": [
     {
@@ -638,6 +638,12 @@
       "Rating": 4.33,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-10-05T20:59:46.4967572+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -693,8 +699,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-10-05T17:58:16.1306825+00:00",
+  "LastChanged": "2024-10-05T20:59:46.496757+00:00",
   "LastUpdate_AppInfo": "2024-09-30T16:57:34.0096608+00:00",
-  "LastUpdate_Ratings": "2024-10-05T19:57:29.3836717+00:00",
+  "LastUpdate_Ratings": "2024-10-05T20:59:46.4967574+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.9577922+00:00"
 }
