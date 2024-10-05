@@ -2,7 +2,7 @@
   "ID": "21916c391ae4425d8f6cce2382aebd0c",
   "Name": "Darkest Dungeon\u00AE",
   "ProductSlug": "darkest-dungeon",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 152,
   "Ranking_Popularity": 110,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 1254,
@@ -9159,10 +9159,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 10362,
       "NumberOfAwardsMax": 3843
+    },
+    {
+      "Time": "2024-10-05T18:58:39.7510762+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 10370,
+      "NumberOfAwardsMax": 3843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10362,
+  "NumberOfAwards": 10370,
   "NumberOfAwardsMax": 3843,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9188,31 +9194,31 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 846
+      "Count": 848
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 735
+      "Count": 737
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 764
+      "Count": 765
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 712
+      "Count": 714
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 693
+      "Count": 694
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9244,8 +9250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:59.2764084+00:00",
-  "LastChanged": "2024-10-05T11:58:31.6972795+00:00",
+  "LastChanged": "2024-10-05T18:58:39.7510761+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:12.2755626+00:00",
-  "LastUpdate_Ratings": "2024-10-05T16:59:54.1092192+00:00",
+  "LastUpdate_Ratings": "2024-10-05T18:58:39.7510765+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:57.3439897+00:00"
 }

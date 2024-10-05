@@ -671,20 +671,20 @@ Completed: 6 (0.00%) (Ranked 591)
 | 2024-08-20 | 591,216 | 5 |
 | 2024-09-14 | 599,367 | 6 |
 ## Awards
-Max (Educational): 11,405  (Ranked 55)  
-Sum: 93,012 (Ranked 26)  
+Max (Educational): 11,421  (Ranked 55)  
+Sum: 93,057 (Ranked 26)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 11,405 |
+| This game is Educational | 11,421 |
 | This game has Diverse Characters | 11,229 |
 | This game is Highly Recommended | 10,880 |
 | This game has Challenging Combat | 10,777 |
 | This game is Extremely Fun | 10,409 |
 | This game is Relaxing | 10,318 |
 | This game has Competitive Players | 10,062 |
-| This game has Amazing Storytelling | 9,385 |
-| This game has Amazing Characters | 8,547 |
+| This game has Amazing Storytelling | 9,403 |
+| This game has Amazing Characters | 8,558 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -1316,4 +1316,4 @@ Diff (max vs sum): 29
 | 2024-10-02 | 4.68 | - | 11,384 | 92,786 |
 | 2024-10-03 | 4.68 | - | 11,390 | 92,871 |
 | 2024-10-04 | 4.68 | - | 11,405 | 92,969 |
-| 2024-10-05 | 4.68 | - | 11,405 | 93,012 |
+| 2024-10-05 | 4.68 | - | 11,421 | 93,057 |

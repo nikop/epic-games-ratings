@@ -2,7 +2,7 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 78,
   "Ranking_PopularitySum": 53,
   "Ranking_EOS_Progress": 1254,
@@ -19499,11 +19499,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 38453,
       "NumberOfAwardsMax": 7130
+    },
+    {
+      "Time": "2024-10-05T18:59:28.1341196+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 38462,
+      "NumberOfAwardsMax": 7139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38453,
-  "NumberOfAwardsMax": 7130,
+  "NumberOfAwards": 38462,
+  "NumberOfAwardsMax": 7139,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -19564,7 +19570,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 7130
+      "Count": 7139
     }
   ],
   "EOS_Progressed": 0,
@@ -19578,8 +19584,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2024-10-05T15:58:18.2249376+00:00",
+  "LastChanged": "2024-10-05T18:59:28.1341194+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:35.3797312+00:00",
-  "LastUpdate_Ratings": "2024-10-05T17:00:37.3594998+00:00",
+  "LastUpdate_Ratings": "2024-10-05T18:59:28.13412+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.9962155+00:00"
 }

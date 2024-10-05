@@ -3,7 +3,7 @@
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
   "Ranking_Rating": 462,
-  "Ranking_Popularity": 27,
+  "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 591,
@@ -22630,18 +22630,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 139786,
       "NumberOfAwardsMax": 24746
+    },
+    {
+      "Time": "2024-10-05T18:59:46.3842181+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 140131,
+      "NumberOfAwardsMax": 24912
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 139786,
-  "NumberOfAwardsMax": 24746,
+  "NumberOfAwards": 140131,
+  "NumberOfAwardsMax": 24912,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 24746
+      "Count": 24912
     },
     {
       "Text": "This game is Relaxing",
@@ -22671,7 +22677,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 11819
+      "Count": 11904
     },
     {
       "Text": "This game is Extremely Fun",
@@ -22689,7 +22695,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 11646
+      "Count": 11740
     },
     {
       "Text": "This game has Diverse Characters",
@@ -50160,9 +50166,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-10-05T17:57:15.231027+00:00",
+  "LastChanged": "2024-10-05T18:59:46.3842179+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:14.7630611+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:17.4451674+00:00",
-  "LastUpdate_Ratings": "2024-10-05T17:57:15.2310278+00:00",
+  "LastUpdate_Ratings": "2024-10-05T18:59:46.3842184+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:14.7632029+00:00"
 }

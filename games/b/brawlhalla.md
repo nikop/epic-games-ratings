@@ -1,10 +1,10 @@
 # Brawlhalla
 [Store](https://store.epicgames.com/en-US/p/brawlhalla)  
 [View Rawdata](../../db/b/brawlhalla.json)  
-Rating: 4.57 (Ranked 558)  
+Rating: 4.57 (Ranked 559)  
 ## Awards
 Max (Great for Quick Sessions): 1,299  (Ranked 178)  
-Sum: 9,907 (Ranked 130)  
+Sum: 9,909 (Ranked 130)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 48
 | This game has Challenging Combat | 949 |
 | This game is Highly Recommended | 938 |
 | This game is Extremely Fun | 912 |
-| This game has Amazing Characters | 898 |
+| This game has Amazing Characters | 900 |
 | This game has a Competitive Community | 855 |
 | This game has Amazing Storytelling | 821 |
 | This game is Relaxing | 463 |
@@ -643,4 +643,4 @@ Diff (max vs sum): 48
 | 2024-10-02 | 4.57 | 1,295 | 9,891 |
 | 2024-10-03 | 4.58 | 1,298 | 9,899 |
 | 2024-10-04 | 4.58 | 1,298 | 9,904 |
-| 2024-10-05 | 4.57 | 1,299 | 9,907 |
+| 2024-10-05 | 4.57 | 1,299 | 9,909 |
