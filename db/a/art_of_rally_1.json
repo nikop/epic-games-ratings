@@ -2,9 +2,9 @@
   "ID": "4751c4f6a96547209a33831d847d2810",
   "Name": "Art of Rally",
   "ProductSlug": "art-of-rally",
-  "Ranking_Rating": 462,
+  "Ranking_Rating": 463,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 536,
   "Ranking_EOS_NewPlayers": 3,
@@ -3242,10 +3242,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 932,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-10-05T22:59:06.6852034+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 856,
+      "NumberOfAwardsMax": 134
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 932,
+  "NumberOfAwards": 856,
   "NumberOfAwardsMax": 134,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -9906,9 +9912,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
-  "LastChanged": "2024-10-05T02:08:47.4908034+00:00",
+  "LastChanged": "2024-10-05T22:59:06.6852032+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:50.4396184+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:24.4818326+00:00",
-  "LastUpdate_Ratings": "2024-10-05T20:59:47.3680431+00:00",
+  "LastUpdate_Ratings": "2024-10-05T22:59:06.6852041+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:50.4396692+00:00"
 }
