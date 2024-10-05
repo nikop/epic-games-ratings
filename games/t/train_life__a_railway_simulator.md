@@ -1,7 +1,7 @@
 # Train Life: A Railway Simulator
 [Store](https://store.epicgames.com/en-US/p/train-life)  
 [View Rawdata](../../db/t/train_life__a_railway_simulator.json)  
-Rating: 3.97 (Ranked 1,262)  
+Rating: 3.96 (Ranked 1,266)  
 Number of Ratings: 42  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -64,3 +64,4 @@ Number of Ratings: 42  (23.09.2022)
 | 2024-08-18 | 3.97 | - | 0 | 0 |
 | 2024-08-23 | 3.96 | - | 0 | 0 |
 | 2024-08-25 | 3.97 | - | 0 | 0 |
+| 2024-10-05 | 3.96 | - | 0 | 0 |

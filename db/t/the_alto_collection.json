@@ -4,7 +4,7 @@
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 302,
   "Ranking_Popularity": 534,
-  "Ranking_PopularitySum": 428,
+  "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 559,
   "Ranking_EOS_NewPlayers": 3,
@@ -1544,10 +1544,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 470,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2024-10-05T02:10:08.1622886+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 471,
+      "NumberOfAwardsMax": 66
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 470,
+  "NumberOfAwards": 471,
   "NumberOfAwardsMax": 66,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1591,7 +1597,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
@@ -34141,9 +34147,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-10-04T10:59:46.6815558+00:00",
+  "LastChanged": "2024-10-05T02:10:08.1622884+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:34.6744342+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:35.2188656+00:00",
-  "LastUpdate_Ratings": "2024-10-04T23:57:09.6679492+00:00",
+  "LastUpdate_Ratings": "2024-10-05T02:10:08.162289+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:34.6745915+00:00"
 }

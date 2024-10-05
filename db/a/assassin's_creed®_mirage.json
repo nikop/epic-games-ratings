@@ -2,7 +2,7 @@
   "ID": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
-  "Ranking_Rating": 855,
+  "Ranking_Rating": 870,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-10-06T05:58:23.6709701+00:00",
@@ -7297,6 +7297,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 3346,
       "NumberOfAwardsMax": 421
+    },
+    {
+      "Time": "2024-10-05T02:08:36.6917563+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 3346,
+      "NumberOfAwardsMax": 421
     }
   ],
   "ReviewsDisabled": false,
@@ -7383,8 +7389,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-10-03T18:58:07.0218717+00:00",
+  "LastChanged": "2024-10-05T02:08:36.6917561+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:19.7873014+00:00",
-  "LastUpdate_Ratings": "2024-10-04T22:58:42.7976959+00:00",
+  "LastUpdate_Ratings": "2024-10-05T02:08:36.6917566+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:51.1326973+00:00"
 }
