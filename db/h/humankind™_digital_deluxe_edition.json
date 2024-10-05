@@ -4,7 +4,7 @@
   "ProductSlug": "humankind",
   "Ranking_Rating": 695,
   "Ranking_Popularity": 429,
-  "Ranking_PopularitySum": 319,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2493,10 +2493,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 1165,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-10-05T03:12:44.4712316+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 1167,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1165,
+  "NumberOfAwards": 1167,
   "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -2528,7 +2534,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2552,7 +2558,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2584,8 +2590,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2024-10-04T18:58:46.2557416+00:00",
+  "LastChanged": "2024-10-05T03:12:44.4712314+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:11.3843943+00:00",
-  "LastUpdate_Ratings": "2024-10-04T23:59:17.1301425+00:00",
+  "LastUpdate_Ratings": "2024-10-05T03:12:44.471232+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.0969903+00:00"
 }
