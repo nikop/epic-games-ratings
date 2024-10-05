@@ -2,8 +2,8 @@
   "ID": "b567cb36ae39435792fe40d2e913cd92",
   "Name": "Dungeon Fighter Online",
   "ProductSlug": "dungeon-fighter-online",
-  "Ranking_Rating": 737,
-  "Ranking_Popularity": 653,
+  "Ranking_Rating": 736,
+  "Ranking_Popularity": 648,
   "Ranking_PopularitySum": 643,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -372,11 +372,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-10-05T13:58:16.1682893+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 54,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 53,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 54,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
@@ -389,7 +395,7 @@
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 31
+      "Count": 32
     }
   ],
   "EOS_Progressed": 0,
@@ -404,8 +410,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-27T09:57:07.1075928+00:00",
   "FirstSeenRating": "2023-08-18T10:58:33.1698717+00:00",
-  "LastChanged": "2024-10-01T17:57:41.5733141+00:00",
+  "LastChanged": "2024-10-05T13:58:16.1682892+00:00",
   "LastUpdate_AppInfo": "2024-10-02T20:57:19.1907967+00:00",
-  "LastUpdate_Ratings": "2024-10-05T11:59:03.6077298+00:00",
+  "LastUpdate_Ratings": "2024-10-05T13:58:16.1682898+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.3184235+00:00"
 }

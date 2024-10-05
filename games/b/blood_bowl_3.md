@@ -3,9 +3,9 @@
 [View Rawdata](../../db/b/blood_bowl_3.json)  
 Rating: 3.94 (Ranked 1,271)  
 ## Awards
-Max (Diverse Characters): 31  (Ranked 653)  
+Max (Diverse Characters): 31  (Ranked 654)  
 Sum: 95 (Ranked 599)  
-Diff (max vs sum): 54  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 31 |

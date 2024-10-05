@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 651,
   "Ranking_Popularity": 638,
-  "Ranking_PopularitySum": 505,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 3,
@@ -1715,10 +1715,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 258,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-10-05T13:58:35.4680165+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 259,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 258,
+  "NumberOfAwards": 259,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1768,7 +1774,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Relaxing",
@@ -20143,9 +20149,9 @@
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2024-10-03T14:58:46.1951634+00:00",
+  "LastChanged": "2024-10-05T13:58:35.4680163+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:59.5449146+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:36.6164408+00:00",
-  "LastUpdate_Ratings": "2024-10-05T11:59:25.0772376+00:00",
+  "LastUpdate_Ratings": "2024-10-05T13:58:35.4680169+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:59.5450176+00:00"
 }
