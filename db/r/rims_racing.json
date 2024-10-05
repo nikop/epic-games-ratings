@@ -2,7 +2,7 @@
   "ID": "1ef3edbf3bf14defac0cdb42301e3d5e",
   "Name": "RiMS Racing",
   "ProductSlug": "rims-racing",
-  "Ranking_Rating": 1087,
+  "Ranking_Rating": 1077,
   "Ranking_Popularity": 732,
   "Ranking_PopularitySum": 732,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.25,
+  "Rating": 4.26,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -173,6 +173,12 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-05T11:58:21.243504+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -190,8 +196,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:54.8665503+00:00",
-  "LastChanged": "2024-09-22T11:58:46.2057617+00:00",
+  "LastChanged": "2024-10-05T11:58:21.2435038+00:00",
   "LastUpdate_AppInfo": "2024-09-30T06:57:01.9502941+00:00",
-  "LastUpdate_Ratings": "2024-10-05T10:00:21.7249336+00:00",
+  "LastUpdate_Ratings": "2024-10-05T11:58:21.2435044+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:48.5570026+00:00"
 }
