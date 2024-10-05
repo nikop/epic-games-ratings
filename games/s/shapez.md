@@ -3,8 +3,8 @@
 [View Rawdata](../../db/s/shapez.json)  
 Rating: 4.72 (Ranked 214)  
 ## Awards
-Max (Great for Beginners): 47  (Ranked 584)  
-Sum: 275 (Ranked 497)  
+Max (Great for Beginners): 47  (Ranked 585)  
+Sum: 275 (Ranked 498)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |

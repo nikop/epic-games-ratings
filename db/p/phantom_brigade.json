@@ -3,8 +3,8 @@
   "Name": "Phantom Brigade",
   "ProductSlug": "phantom-brigade",
   "Ranking_Rating": 462,
-  "Ranking_Popularity": 732,
-  "Ranking_PopularitySum": 732,
+  "Ranking_Popularity": 453,
+  "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -530,17 +530,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 115,
       "NumberOfAwardsMax": 115
+    },
+    {
+      "Time": "2024-10-05T21:57:27.5872589+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 122,
+      "NumberOfAwardsMax": 122
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
+  "NumberOfAwards": 122,
+  "NumberOfAwardsMax": 122,
+  "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 115
+      "Count": 122
     }
   ],
   "EOS_Progressed": 0,
@@ -554,8 +561,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:24.542788+00:00",
-  "LastChanged": "2024-07-03T21:58:17.2261187+00:00",
+  "LastChanged": "2024-10-05T21:57:27.5872587+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:55.157672+00:00",
-  "LastUpdate_Ratings": "2024-10-05T19:58:38.3420103+00:00",
+  "LastUpdate_Ratings": "2024-10-05T21:57:27.5872595+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:31.6362711+00:00"
 }

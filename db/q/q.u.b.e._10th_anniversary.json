@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_Rating": 901,
-  "Ranking_Popularity": 600,
-  "Ranking_PopularitySum": 660,
+  "Ranking_Popularity": 595,
+  "Ranking_PopularitySum": 656,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 3,
@@ -592,18 +592,24 @@
       "Rating": 4.4,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-10-05T21:57:19.3511758+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 44,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 43
+      "Count": 44
     }
   ],
   "EOS_Progressed": 40757,
@@ -12535,9 +12541,9 @@
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2024-10-02T06:58:31.7531568+00:00",
+  "LastChanged": "2024-10-05T21:57:19.3511756+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:58.2554592+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:50.1041374+00:00",
-  "LastUpdate_Ratings": "2024-10-05T19:58:30.529188+00:00",
+  "LastUpdate_Ratings": "2024-10-05T21:57:19.3511761+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:58.2555437+00:00"
 }

@@ -68,8 +68,8 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-02-22 | 87 | 0 |
 | 2024-03-21 | 89 | 0 |
 ## Awards
-Max (Easy Puzzles): 32  (Ranked 648)  
-Sum: 32 (Ranked 681)  
+Max (Easy Puzzles): 32  (Ranked 649)  
+Sum: 32 (Ranked 682)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |

@@ -3,8 +3,8 @@
   "Name": "WHAT THE GOLF?",
   "ProductSlug": "what-the-golf",
   "Ranking_Rating": 138,
-  "Ranking_Popularity": 732,
-  "Ranking_PopularitySum": 732,
+  "Ranking_Popularity": 733,
+  "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -188,6 +188,6 @@
   "FirstSeen": "2022-07-22T20:25:31.118083+00:00",
   "LastChanged": "2024-02-11T15:57:32.8316366+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:02.9008177+00:00",
-  "LastUpdate_Ratings": "2024-10-05T19:59:55.6317657+00:00",
+  "LastUpdate_Ratings": "2024-10-05T21:58:46.9355224+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:47.3477385+00:00"
 }

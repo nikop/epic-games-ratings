@@ -3,8 +3,8 @@
   "Name": "Intonight",
   "ProductSlug": "intonight-74c196",
   "Ranking_Rating": 977,
-  "Ranking_Popularity": 732,
-  "Ranking_PopularitySum": 732,
+  "Ranking_Popularity": 733,
+  "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -188,6 +188,6 @@
   "FirstSeenRating": "2024-07-30T13:08:08.9561255+00:00",
   "LastChanged": "2024-10-05T20:57:32.6365927+00:00",
   "LastUpdate_AppInfo": "2024-10-05T09:57:34.0407939+00:00",
-  "LastUpdate_Ratings": "2024-10-05T20:57:32.6365932+00:00",
+  "LastUpdate_Ratings": "2024-10-05T22:00:41.6432711+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:25.3703215+00:00"
 }
