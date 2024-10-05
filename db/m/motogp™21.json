@@ -4,7 +4,7 @@
   "ProductSlug": "motogp-21",
   "Ranking_Rating": 560,
   "Ranking_Popularity": 657,
-  "Ranking_PopularitySum": 530,
+  "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -536,10 +536,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 212,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-10-05T09:59:51.8351765+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 214,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 212,
+  "NumberOfAwards": 214,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -547,7 +553,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has Diverse Characters",
@@ -577,7 +583,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -609,8 +615,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:40.3601329+00:00",
-  "LastChanged": "2024-10-04T18:58:19.0027224+00:00",
+  "LastChanged": "2024-10-05T09:59:51.8351763+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:31.808231+00:00",
-  "LastUpdate_Ratings": "2024-10-05T07:59:07.5169631+00:00",
+  "LastUpdate_Ratings": "2024-10-05T09:59:51.8351769+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:01.4261977+00:00"
 }

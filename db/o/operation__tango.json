@@ -2,7 +2,7 @@
   "ID": "0cdc1f2bb18a4384a96ddac4c5c84886",
   "Name": "Operation: Tango",
   "ProductSlug": "operation-tango",
-  "Ranking_Rating": 431,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 732,
   "Ranking_PopularitySum": 732,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 43,
   "RatingHistory": [
     {
@@ -189,6 +189,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-05T09:58:23.8442585+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -207,8 +213,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:35.1547145+00:00",
   "FirstSeenRating": "2022-08-07T15:01:29.3377422+00:00",
-  "LastChanged": "2024-07-16T22:58:02.0596597+00:00",
+  "LastChanged": "2024-10-05T09:58:23.844258+00:00",
   "LastUpdate_AppInfo": "2024-09-29T22:57:09.9823702+00:00",
-  "LastUpdate_Ratings": "2024-10-05T07:58:09.7117143+00:00",
+  "LastUpdate_Ratings": "2024-10-05T09:58:23.8442588+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.4157814+00:00"
 }

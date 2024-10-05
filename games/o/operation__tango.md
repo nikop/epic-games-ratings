@@ -1,7 +1,7 @@
 # Operation: Tango
 [Store](https://store.epicgames.com/en-US/p/operation-tango)  
 [View Rawdata](../../db/o/operation__tango.json)  
-Rating: 4.62 (Ranked 431)  
+Rating: 4.63 (Ranked 411)  
 Number of Ratings: 43  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -40,3 +40,4 @@ Number of Ratings: 43  (23.09.2022)
 | 2023-12-17 | 4.62 | - | 0 | 0 |
 | 2024-05-05 | 4.61 | - | 0 | 0 |
 | 2024-07-16 | 4.62 | - | 0 | 0 |
+| 2024-10-05 | 4.63 | - | 0 | 0 |
