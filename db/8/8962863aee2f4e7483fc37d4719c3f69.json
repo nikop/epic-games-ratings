@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1244,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 403,
+  "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2633,6 +2633,6 @@
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
   "LastChanged": "2024-10-05T14:58:21.8253836+00:00",
   "LastUpdate_AppInfo": "2024-10-05T09:57:40.6035631+00:00",
-  "LastUpdate_Ratings": "2024-10-05T17:59:48.2577406+00:00",
+  "LastUpdate_Ratings": "2024-10-05T19:59:23.7291151+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:28.1561061+00:00"
 }

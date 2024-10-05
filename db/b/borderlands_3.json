@@ -2,7 +2,7 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 269,
+  "Ranking_Rating": 270,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 1254,
@@ -28769,10 +28769,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 442088,
       "NumberOfAwardsMax": 143285
+    },
+    {
+      "Time": "2024-10-05T19:58:34.8321355+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 442113,
+      "NumberOfAwardsMax": 143285
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 442088,
+  "NumberOfAwards": 442113,
   "NumberOfAwardsMax": 143285,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -28828,7 +28834,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 31435
+      "Count": 31460
     },
     {
       "Text": "This game has Unique Visuals",
@@ -28854,8 +28860,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-10-05T17:59:08.9447069+00:00",
+  "LastChanged": "2024-10-05T19:58:34.8321353+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:53.2046254+00:00",
-  "LastUpdate_Ratings": "2024-10-05T17:59:08.9447078+00:00",
+  "LastUpdate_Ratings": "2024-10-05T19:58:34.8321359+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:45.081511+00:00"
 }

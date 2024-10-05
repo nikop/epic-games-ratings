@@ -4,7 +4,7 @@
   "ProductSlug": "tyranny",
   "Ranking_Rating": 538,
   "Ranking_Popularity": 233,
-  "Ranking_PopularitySum": 294,
+  "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2426,6 +2426,6 @@
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
   "LastChanged": "2024-10-03T15:57:28.8907345+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:09.5254745+00:00",
-  "LastUpdate_Ratings": "2024-10-05T17:59:34.2313155+00:00",
+  "LastUpdate_Ratings": "2024-10-05T19:59:05.6587547+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:58.4700443+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "dying-light",
   "Ranking_Rating": 433,
   "Ranking_Popularity": 13,
-  "Ranking_PopularitySum": 17,
+  "Ranking_PopularitySum": 18,
   "Ranking_EOS_Progress": 3,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -25488,10 +25488,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 143724,
       "NumberOfAwardsMax": 70608
+    },
+    {
+      "Time": "2024-10-05T19:58:54.446884+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 143730,
+      "NumberOfAwardsMax": 70608
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143724,
+  "NumberOfAwards": 143730,
   "NumberOfAwardsMax": 70608,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -25541,7 +25547,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4182
+      "Count": 4188
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -58804,9 +58810,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-10-05T17:59:25.2550429+00:00",
+  "LastChanged": "2024-10-05T19:58:54.4468839+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:16.0445044+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:04.3508008+00:00",
-  "LastUpdate_Ratings": "2024-10-05T17:59:25.2550435+00:00",
+  "LastUpdate_Ratings": "2024-10-05T19:58:54.4468844+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:16.0446832+00:00"
 }
