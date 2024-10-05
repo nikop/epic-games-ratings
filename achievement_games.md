@@ -59,7 +59,7 @@
 | [Garden Witch Life](games/0/0ff2a1392b884d6fba75823c49c96af4.md) | 2024-09-12 | 26 (1,000 XP) | 6 | - | 0 |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2024-09-12 | 15 (1,000 XP) | 0 | - | - |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 470 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.70 | 470 |
 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
@@ -157,7 +157,7 @@
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | 43 (1,000 XP) | 123,931 | 4.38 | 24 |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | 34 (1,000 XP) | 27 | - | 0 |
 | [Werewolf: The Apocalypse - Purgatory](games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 2024-07-23 | 47 (1,000 XP) | 3 | - | - |
-| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 1,946 | 4.57 | 36 |
+| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 1,946 | 4.56 | 37 |
 | [The Star Named EOS](games/7/7ce9f498f68c49cb82f60e04335d917f.md) | 2024-07-23 | 24 (1,000 XP) | 16 | - | 0 |
 | [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | 18 (1,000 XP) | 909 | 4.60 | 0 |
 | [NINJA KATO 4](games/e/e44eb86202844dfe9644e88d0c9c232a.md) | 2024-07-21 | 6 (1,000 XP) | 3 | - | - |
@@ -257,7 +257,7 @@
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | 48 (1,000 XP) | 1 | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 15 | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 113,593 | 4.85 | 3,892 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,625 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,638 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 612 | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 117 | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 99 | - | 0 |
@@ -328,7 +328,7 @@
 | [Sons of Valhalla](games/s/sons_of_valhalla.md) | 2024-04-05 | 30 (1,000 XP) | 2 | - | 0 |
 | [Boxes: Lost Fragments](games/a/abc34708e5a0420287f52302582e3fec.md) | 2024-04-05 | 12 (1,000 XP) | 2 | - | 0 |
 | [The Cub](games/c/c3a896e5dfd740309a3069cb32835592.md) | 2024-04-04 | 20 (1,000 XP) | 2 | - | - |
-| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 7,697 | 4.81 | 79 |
+| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 7,697 | 4.81 | 83 |
 | [The Unexpected Quest](games/d/d2ad3196483f4a8ea6e1a43de9400bbb.md) | 2024-04-04 | 15 (1,000 XP) | 1 | - | 0 |
 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-04-03 | 12 (1,000 XP) | 67,384 | 3.81 | 136 |
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
@@ -359,7 +359,7 @@
 | [Serafina's Saga: Awakened](games/1/1d6771bd28dc4b35aa722cfea2c4913f.md) | 2024-03-22 | 14 (1,000 XP) | 1 | - | 0 |
 | [Tram Simulator Urban Transit](games/a/a8d73557f6d64f94930ea229d5b4427c.md) | 2024-03-21 | 23 (1,000 XP) | 205 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 29 | - | 0 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 16,335 | 4.82 | 890 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 16,335 | 4.82 | 898 |
 | [Ouch! So many beauties!](games/d/d904c4f29bd541ac91a4ca4bb7cebde8.md) | 2024-03-21 | 43 (1,000 XP) | 13,401 | 4.47 | 28 |
 | [Scott Whiskers in: the Search for Mr. Fumbleclaw](games/c/c13296d2098b4582aafc0133fe020734.md) | 2024-03-20 | 25 (1,000 XP) | 1 | - | 0 |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 16 | - | 0 |
@@ -994,7 +994,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 20,126 | 4.53 | 34 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 7,123 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 902 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 445,246 | 4.73 | 44,391 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 445,246 | 4.73 | 44,432 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 314 | 4.55 | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 111,933 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 5,042 | - | 0 |
@@ -1034,7 +1034,7 @@
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,716 | 4.40 | 20 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 3,292 | 4.43 | 0 |
 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,394,109 | 4.01 | 13,232 |
-| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 601,709 | 4.14 | 815 |
+| [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 601,709 | 4.14 | 823 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 86,923 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 432 | - | 0 |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 2022-11-18 | 15 (1,000 XP) | 613 | - | 0 |
@@ -1142,7 +1142,7 @@
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 49,011 | 4.21 | 134 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 1,015 | 4.57 | 151 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 298 | 4.44 | 0 |
-| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 41,125,112 | 4.50 | 167,808 |
+| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 41,125,112 | 4.50 | 167,873 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 156,622 | 4.54 | 39 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 8,217 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,960 | 4.74 | 121 |
@@ -1264,7 +1264,7 @@
 | [Crash Drive 3](games/c/crash_drive_3.md) | 2021-07-08 | 55 (1,000 XP) | 542 | - | 0 |
 | [Supraland](games/s/supraland.md) | 2021-07-02 | 98 (1,000 XP) | 760,808 | 4.61 | 8,040 |
 | [Adios](games/a/adios.md) | 2021-06-29 | 25 (1,000 XP) | 96,252 | 3.65 | 0 |
-| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,171,840 | 4.54 | 244 |
+| [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 2021-06-24 | 37 (1,000 XP) | 1,171,840 | 4.54 | 245 |
 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 2021-06-22 | 16 (1,000 XP) | 30,044 | 4.44 | 0 |
 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 2021-06-16 | 14 (1,000 XP) | 723 | - | 0 |
 | [Going Medieval](games/g/going_medieval.md) | 2021-06-01 | 31 (1,000 XP) | 10,244 | 4.61 | 196 |
@@ -1295,10 +1295,10 @@
 | [Crying Suns](games/c/crying_suns.md) | 2021-01-07 | 79 (1,160 XP) | 483,032 | 4.53 | 263 |
 | [Tropico 6](games/t/tropico_6.md) | 2020-12-23 | 40 (1,000 XP) | 9,508 | 4.65 | 204 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 594,653 | 4.53 | 164 |
-| [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 507,427 | 4.45 | 334 |
+| [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 507,427 | 4.45 | 337 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,500,450 | 4.65 | 9,465 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,609 | 4.64 | 0 |
-| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,051 | 4.66 | 2,102 |
+| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,051 | 4.66 | 2,107 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 179,735 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 266 | 4.16 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 30,004 | 4.86 | 60 |

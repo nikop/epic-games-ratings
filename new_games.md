@@ -8,7 +8,7 @@
 | [Under The Thorns](games/c/cc3295be53984ee1a3658d98c6305d81.md) | 2024-10-04 | - |  | - | 0 |
 | [Until Dawn™](games/1/110d3c2c06d6481eb6852a4d2e6a5480.md) | 2024-10-04 | - |  | - | 0 |
 | [Shop Manager Simulator](games/4/4e1e9a188b1c450cba15775f53c7bca1.md) | 2024-10-04 | - |  | - | - |
-| [Sherlock Purr 2](games/6/6ab3e6e651b44c47a01354fe34eeab3c.md) | 2024-10-04 | - |  | - | - |
+| [Sherlock Purr 2](games/6/6ab3e6e651b44c47a01354fe34eeab3c.md) | 2024-10-04 | - |  | - | 0 |
 | [Bananamania](games/f/f1cf72f878744ff6a50a9ef030348056.md) | 2024-10-04 | - |  | - | - |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | 0 |
 | [Kunkun Terror Express](games/2/27660b74cfde424bb757f518b171b30f.md) | 2024-10-04 | 5 (1,000 XP) | 1 | - | - |
@@ -121,7 +121,7 @@
 | [KurtzPel](games/7/727a79e37aea499db68214a27867aec2.md) | 2024-09-11 | - |  | - | 0 |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |
 | [Asilium 2](games/8/8003a47f7a024beeac824c38c1ace029.md) | 2024-09-09 | - |  | - | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 470 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.70 | 470 |
 | [Block Master 3D Puzzle](games/8/83cd8bf12dcc4a579f2c36a20974ef09.md) | 2024-09-08 | - |  | - | 0 |
 | [Wolf Simulator: Silent Paws](games/6/6dce698021fe497aa25d47a584cf47ba.md) | 2024-09-08 | - |  | - | 0 |
 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |

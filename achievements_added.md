@@ -14,7 +14,7 @@
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | 27 (1,000 XP) | 37 | - | 0 |
 | [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-08-06 | 40 (1,000 XP) | 4 | - | - |
 | [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-29 | 19 (1,000 XP) | 1,289 | 4.68 | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 470 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.70 | 470 |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
@@ -112,7 +112,7 @@
 | [Airport](games/6/685f5a4e22814cf88dd98cdda721649e.md) | 2024-08-09 | 45 (1,000 XP) | 127 | - | 0 |
 | [Firelight Fantasy: Resistance](games/e/e0fceab3d7bc433ba25b9142a965ed09.md) | 2024-08-10 | 6 (1,000 XP) | 25 | - | - |
 | [The Smurfs - Village Party](games/e/e0d342096dbe47e9a41a2b7735683edd.md) | 2024-06-24 | 36 (1,000 XP) | 1 | - | 0 |
-| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 1,946 | 4.57 | 36 |
+| [F1® Manager 2024](games/5/53ea1f0a585f4fbc9c8adc6b76af1165.md) | 2024-07-23 | 31 (1,000 XP) | 1,946 | 4.56 | 37 |
 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 2024-03-27 | 9 (1,000 XP) | 150 | - | 0 |
 | [Still Wakes The Deep](games/a/a2100103ee894b96826d1c1ce2bae4c9.md) | 2024-06-18 | 37 (1,000 XP) | 247 | - | 0 |
 | [CONSCRIPT](games/c/c35e949c4c29471aa23033ad9bb97879.md) | 2024-07-23 | 34 (1,000 XP) | 27 | - | 0 |
@@ -269,7 +269,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,296 | 4.51 | 22 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 19,865 | 4.52 | 46 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 29 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,625 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,638 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 7 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 29 | - | 0 |
@@ -321,7 +321,7 @@
 | [Dungeon Escape](games/a/ae565113ca3b4892afd6f196a6f1b5ea.md) | 2024-05-06 | 51 (1,000 XP) | 80 | - | 0 |
 | [URBO](games/c/cd7de0977e0f4f7f8468653789569766.md) | 2024-04-08 | 29 (1,000 XP) | 17 | - | 0 |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 1 | - | - |
-| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 7,697 | 4.81 | 79 |
+| [Titanfall® 2: Ultimate Edition](games/0/0af9f54fedd4457aa7c8d23566036bdb.md) | 2024-04-04 | 50 (1,000 XP) | 7,697 | 4.81 | 83 |
 | [Hidden Shapes Animals](games/f/fd28199790f441de828b16e9fd646438.md) | 2024-04-18 | 42 (1,000 XP) | 92 | - | 0 |
 | [Alchemist: The Potion Monger](games/7/7e5660658d644368a5c0f5851125d196.md) | 2024-03-21 | 33 (1,000 XP) | 29 | - | 0 |
 | [Asurya's Embers](games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 2024-03-06 | 5 (1,000 XP) | 2 | - | 0 |
@@ -346,7 +346,7 @@
 | [Brothers: A Tale of Two Sons Remake](games/0/0246b51e02da40329ad6d20f5c8dc631.md) | 2024-02-28 | 14 (1,000 XP) | 559 | - | 0 |
 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 2020-12-23 | 36 (1,000 XP) | 594,653 | 4.53 | 164 |
 | [Expeditions: A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | 20 (1,000 XP) | 33,665 | 4.19 | 47 |
-| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 16,335 | 4.82 | 890 |
+| [Horizon Forbidden West™ Complete Edition](games/2/24cc2629b0594bf29340f6acf9816af8.md) | 2024-03-21 | 80 (1,000 XP) | 16,335 | 4.82 | 898 |
 | [Pacific Drive](games/p/pacific_drive.md) | 2024-02-22 | 49 (1,000 XP) | 3,148 | 4.59 | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 30 | - | 0 |
 | [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2024-01-23 | 37 (1,000 XP) | 2 | - | 0 |

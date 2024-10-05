@@ -31,8 +31,8 @@
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 0 | - | - |
 | [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Teenage Mutant Ninja Turtles: Splintered Fate](games/7/7f983c72f7824a41b5ef591ccc365abd.md) | 2024-11-06 | - |  | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
@@ -226,7 +226,7 @@
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | - |  | - | - |
 | [Alder Choke](games/a/alder_choke.md) | 2099-01-01 | - |  | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |
-| [Angelic](games/d/decb411846c64904a09bb131c6a1bff1.md) | 2099-01-01 | - |  | - | - |
+| [Angelic: Dark Symphony Prelude](games/d/decb411846c64904a09bb131c6a1bff1.md) | 2099-01-01 | - |  | - | - |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | - |  | - | - |
 | [Annulus](games/3/349361a5a00a462783a6110e576dc911.md) | 2099-01-01 | - |  | - | - |
 | [Another World](games/4/4c209f89f2b64535aa82d5828426353d.md) | 2099-01-01 | - |  | - | - |
