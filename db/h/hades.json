@@ -2,7 +2,7 @@
   "ID": "min",
   "Name": "Hades",
   "ProductSlug": "hades",
-  "Ranking_Rating": 5,
+  "Ranking_Rating": 4,
   "Ranking_Popularity": 104,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 32,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.92,
   "NumberOfRatings": 6336,
   "RatingHistory": [
     {
@@ -11234,10 +11234,16 @@
       "Rating": 4.91,
       "NumberOfAwards": 11027,
       "NumberOfAwardsMax": 4354
+    },
+    {
+      "Time": "2024-10-05T00:00:03.4822212+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 11028,
+      "NumberOfAwardsMax": 4354
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11027,
+  "NumberOfAwards": 11028,
   "NumberOfAwardsMax": 4354,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11269,7 +11275,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 343
+      "Count": 344
     },
     {
       "Text": "This game has Unique Visuals",
@@ -42845,9 +42851,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-10-04T03:17:06.7459559+00:00",
+  "LastChanged": "2024-10-05T00:00:03.482221+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:05.3782962+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:51.2127114+00:00",
-  "LastUpdate_Ratings": "2024-10-04T22:57:43.7540817+00:00",
+  "LastUpdate_Ratings": "2024-10-05T00:00:03.4822216+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:05.3784753+00:00"
 }
