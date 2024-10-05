@@ -3,7 +3,7 @@
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 511,
-  "Ranking_Popularity": 426,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -3797,18 +3797,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 1129,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-10-05T15:59:58.2240722+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1130,
+      "NumberOfAwardsMax": 142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1129,
-  "NumberOfAwardsMax": 141,
+  "NumberOfAwards": 1130,
+  "NumberOfAwardsMax": 142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 141
+      "Count": 142
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3889,8 +3895,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-10-05T13:10:22.0212019+00:00",
+  "LastChanged": "2024-10-05T15:59:58.224072+00:00",
   "LastUpdate_AppInfo": "2024-10-02T20:57:12.7476932+00:00",
-  "LastUpdate_Ratings": "2024-10-05T13:59:37.1249687+00:00",
+  "LastUpdate_Ratings": "2024-10-05T15:59:58.2240726+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:11.5519179+00:00"
 }
