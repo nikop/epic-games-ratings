@@ -17,7 +17,7 @@
 | [Sammy Jukes: Twin Lakes](games/4/4ee1c06e76884f3b99af95fa347f9c36.md) | 2024-10-03 | 22 (1,000 XP) | 0 | - | - |
 | [Madtoys Knights](games/f/f409756a622f4058b1b773212b28d280.md) | 2024-10-02 | - |  | - | 0 |
 | [NeuraGun](games/1/14dd4527fdce49f6a7b2911fef500f2c.md) | 2024-10-01 | - |  | - | - |
-| [Store Simulator](games/3/3affa1294bbf4aa88e2d008e46fba6fc.md) | 2024-10-01 | - |  | - | - |
+| [Store Simulator](games/3/3affa1294bbf4aa88e2d008e46fba6fc.md) | 2024-10-01 | - |  | - | 0 |
 | [Dead No-Head](games/9/94e1d567e55e49e487f2fe2a95d26464.md) | 2024-09-30 | - |  | - | - |
 | [Rogue Waters](games/8/898ae428ada149888c1cdd97aaa29845.md) | 2024-09-30 | - |  | - | 0 |
 | [Eternal Rebirth -Curses of love-](games/c/c3933af60a704fb9b0b056c5fc7d55e9.md) | 2024-09-30 | - |  | - | 0 |
@@ -49,7 +49,7 @@
 | [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | - |  | - | 0 |
 | [DroneClash](games/e/e738fe9456c148babf669629bb50a6cc.md) | 2024-09-27 | - |  | - | - |
 | [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | - |  | 4.69 | 0 |
-| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.24 | 49 |
+| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.24 | 62 |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 3 | - | 0 |
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | 0 |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | 0 |
