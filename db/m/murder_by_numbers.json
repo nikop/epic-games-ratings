@@ -3,8 +3,8 @@
   "Name": "Murder by Numbers",
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 1055,
-  "Ranking_Popularity": 670,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Popularity": 662,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -819,11 +819,17 @@
       "Rating": 4.28,
       "NumberOfAwards": 220,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-05T05:58:56.6356069+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 222,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 220,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 222,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -836,7 +842,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Playful Visuals",
@@ -878,7 +884,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -899,8 +905,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-10-03T23:58:44.1181507+00:00",
+  "LastChanged": "2024-10-05T05:58:56.6356068+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:07.1280677+00:00",
-  "LastUpdate_Ratings": "2024-10-05T03:59:32.1461423+00:00",
+  "LastUpdate_Ratings": "2024-10-05T05:58:56.6356073+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:25.3926793+00:00"
 }

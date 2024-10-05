@@ -4,7 +4,7 @@
   "ProductSlug": "dying-light",
   "Ranking_Rating": 431,
   "Ranking_Popularity": 13,
-  "Ranking_PopularitySum": 17,
+  "Ranking_PopularitySum": 18,
   "Ranking_EOS_Progress": 3,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -25458,10 +25458,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 143625,
       "NumberOfAwardsMax": 70550
+    },
+    {
+      "Time": "2024-10-05T05:57:53.2424461+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 143628,
+      "NumberOfAwardsMax": 70550
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143625,
+  "NumberOfAwards": 143628,
   "NumberOfAwardsMax": 70550,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -25535,7 +25541,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 3631
+      "Count": 3634
     },
     {
       "Text": "This game has a Creative Community",
@@ -58774,9 +58780,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:05.0678131+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:58.6045663+00:00",
-  "LastChanged": "2024-10-05T03:58:35.6055873+00:00",
+  "LastChanged": "2024-10-05T05:57:53.2424459+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:16.0445044+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:04.3508008+00:00",
-  "LastUpdate_Ratings": "2024-10-05T03:58:35.605588+00:00",
+  "LastUpdate_Ratings": "2024-10-05T05:57:53.2424464+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:16.0446832+00:00"
 }
