@@ -4,7 +4,7 @@
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 1141,
   "Ranking_Popularity": 420,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 363,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2101,11 +2101,17 @@
       "Rating": 4.2,
       "NumberOfAwards": 830,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-10-05T03:58:58.4819959+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 831,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 830,
-  "NumberOfAwardsMax": 144,
+  "NumberOfAwards": 831,
+  "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2118,7 +2124,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 144
+      "Count": 145
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2174,8 +2180,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-10-03T21:59:37.5361641+00:00",
+  "LastChanged": "2024-10-05T03:58:58.4819957+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:39.0677437+00:00",
-  "LastUpdate_Ratings": "2024-10-05T02:10:20.6156676+00:00",
+  "LastUpdate_Ratings": "2024-10-05T03:58:58.4819963+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:04.9136453+00:00"
 }
