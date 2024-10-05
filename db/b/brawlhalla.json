@@ -2,7 +2,7 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 538,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 178,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2022-11-21T06:57:02.0735411+00:00",
@@ -18099,6 +18099,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 9904,
       "NumberOfAwardsMax": 1298
+    },
+    {
+      "Time": "2024-10-05T04:57:53.0906773+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9904,
+      "NumberOfAwardsMax": 1298
     }
   ],
   "ReviewsDisabled": false,
@@ -18191,8 +18197,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2024-10-04T18:58:28.3857868+00:00",
+  "LastChanged": "2024-10-05T04:57:53.0906772+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:35.0929746+00:00",
-  "LastUpdate_Ratings": "2024-10-05T03:12:26.0527509+00:00",
+  "LastUpdate_Ratings": "2024-10-05T04:57:53.0906778+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:01.7736812+00:00"
 }
