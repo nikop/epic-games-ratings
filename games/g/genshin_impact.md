@@ -1,7 +1,7 @@
 # Genshin Impact
 [Store](https://store.epicgames.com/en-US/p/genshin-impact)  
 [View Rawdata](../../db/g/genshin_impact.json)  
-Rating: 4.66 (Ranked 338)  
+Rating: 4.66 (Ranked 339)  
 Number of Ratings: 219,180  (23.09.2022)  
 ## Awards
 Max (Character Customization): 375,450  (Ranked 4)  

@@ -2,7 +2,7 @@
   "ID": "9773aa1aa54f4f7b80e44bef04986cea",
   "Name": "Rocket League\u00AE",
   "ProductSlug": "rocket-league",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 2,
   "Ranking_PopularitySum": 2,
   "Ranking_EOS_Progress": 2,
@@ -14432,10 +14432,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 5732458,
       "NumberOfAwardsMax": 973790
+    },
+    {
+      "Time": "2024-10-05T17:57:36.6675653+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5737118,
+      "NumberOfAwardsMax": 973790
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5732458,
+  "NumberOfAwards": 5737118,
   "NumberOfAwardsMax": 973790,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -14455,7 +14461,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 840381
+      "Count": 841165
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14467,19 +14473,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 737073
+      "Count": 737884
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 698223
+      "Count": 699062
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 619315
+      "Count": 620018
     },
     {
       "Text": "This game has a Competitive Community",
@@ -14491,13 +14497,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 584538
+      "Count": 585229
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 684198
+      "Count": 685030
     }
   ],
   "EOS_Progressed": 31025971,
@@ -47915,9 +47921,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:22.1538752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.1822521+00:00",
-  "LastChanged": "2024-10-05T12:00:00.9000609+00:00",
+  "LastChanged": "2024-10-05T17:57:36.6675651+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:10.1895739+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:40.1021989+00:00",
-  "LastUpdate_Ratings": "2024-10-05T15:59:12.1730565+00:00",
+  "LastUpdate_Ratings": "2024-10-05T17:57:36.6675657+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:10.1897641+00:00"
 }

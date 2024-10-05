@@ -2,7 +2,7 @@
   "ID": "4fd85a772cd5471aa5e38efcaa0d6f24",
   "Name": "Last Day of June",
   "ProductSlug": "last-day-of-june",
-  "Ranking_Rating": 338,
+  "Ranking_Rating": 320,
   "Ranking_Popularity": 732,
   "Ranking_PopularitySum": 732,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 33,
   "RatingHistory": [
     {
@@ -193,6 +193,12 @@
       "Rating": 4.66,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-05T17:57:17.3033106+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -211,8 +217,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:53.547299+00:00",
   "FirstSeenRating": "2022-08-09T02:31:32.2864337+00:00",
-  "LastChanged": "2024-09-19T15:57:44.1814073+00:00",
+  "LastChanged": "2024-10-05T17:57:17.3033105+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:17.8675667+00:00",
-  "LastUpdate_Ratings": "2024-10-05T15:58:45.8468076+00:00",
+  "LastUpdate_Ratings": "2024-10-05T17:57:17.303311+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:15.4228983+00:00"
 }

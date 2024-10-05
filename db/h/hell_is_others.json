@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 938,
   "Ranking_Popularity": 494,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 87,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-02-05T15:57:56.0114161+00:00",
@@ -2439,6 +2439,12 @@
     {
       "Time": "2024-10-04T17:59:09.9130068+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 89
+    },
+    {
+      "Time": "2024-10-05T17:59:07.5392769+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 567,
       "NumberOfAwardsMax": 89
     }
@@ -29884,9 +29890,9 @@
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-10-04T17:59:09.9130066+00:00",
+  "LastChanged": "2024-10-05T17:59:07.5392767+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:22.620348+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:52.06958+00:00",
-  "LastUpdate_Ratings": "2024-10-05T16:01:15.4093857+00:00",
+  "LastUpdate_Ratings": "2024-10-05T17:59:07.5392773+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:22.6204954+00:00"
 }

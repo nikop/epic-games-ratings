@@ -2,7 +2,7 @@
   "ID": "493e9ad801e8487497fe7840cb8404bb",
   "Name": "Farming Simulator 19",
   "ProductSlug": "farming-simulator-19",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 59,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 1254,
@@ -20541,10 +20541,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 62620,
       "NumberOfAwardsMax": 10646
+    },
+    {
+      "Time": "2024-10-05T17:58:39.4814436+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 62623,
+      "NumberOfAwardsMax": 10646
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 62620,
+  "NumberOfAwards": 62623,
   "NumberOfAwardsMax": 10646,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20552,7 +20558,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6860
+      "Count": 6863
     },
     {
       "Text": "This game is Great for Beginners",
@@ -20626,8 +20632,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:56.7737014+00:00",
-  "LastChanged": "2024-10-05T16:00:38.5064278+00:00",
+  "LastChanged": "2024-10-05T17:58:39.4814433+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:37.3842343+00:00",
-  "LastUpdate_Ratings": "2024-10-05T16:00:38.5064285+00:00",
+  "LastUpdate_Ratings": "2024-10-05T17:58:39.481444+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:25.2334537+00:00"
 }

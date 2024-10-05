@@ -3,8 +3,8 @@
   "Name": "RUINER",
   "ProductSlug": "ruiner",
   "Ranking_Rating": 735,
-  "Ranking_Popularity": 672,
-  "Ranking_PopularitySum": 691,
+  "Ranking_Popularity": 663,
+  "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -428,18 +428,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-05T17:59:04.7050872+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 29,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -453,8 +459,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:12.7413327+00:00",
-  "LastChanged": "2024-09-28T21:57:19.8771185+00:00",
+  "LastChanged": "2024-10-05T17:59:04.7050871+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:57:49.3401233+00:00",
-  "LastUpdate_Ratings": "2024-10-05T16:01:11.5629254+00:00",
+  "LastUpdate_Ratings": "2024-10-05T17:59:04.7050875+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:37.0083895+00:00"
 }

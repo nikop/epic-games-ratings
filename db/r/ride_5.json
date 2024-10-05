@@ -2,7 +2,7 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_Rating": 301,
+  "Ranking_Rating": 300,
   "Ranking_Popularity": 648,
   "Ranking_PopularitySum": 576,
   "Ranking_EOS_Progress": 251,
@@ -10535,6 +10535,6 @@
   "LastChanged": "2024-10-04T17:57:44.0529341+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:06.9111964+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:19.2460632+00:00",
-  "LastUpdate_Ratings": "2024-10-05T15:59:01.9904542+00:00",
+  "LastUpdate_Ratings": "2024-10-05T17:57:29.1671449+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.9112761+00:00"
 }
