@@ -49,6 +49,7 @@
 | [Wilder World](games/3/373e41c357e942c382015b9cd2cb7390.md) | 2099-01-01 | - |  | - | - |
 | [Elders Grace - Rise of the Mobley](games/e/elder's_grace_-_rise_of_the_mobley.md) | 2025-12-31 | - |  | - | - |
 | [Revomon Novus](games/5/555331295ae1426b921b8919bfc38039.md) | 2025-12-31 | - |  | - | - |
+| [OverKnights](games/5/5bc1103e08e74bcb98905b1d9d83e6ac.md) | 2025-06-30 | - |  | - | - |
 | [Valannia Arena](games/4/4706bb0e4a72425c8fbeea69d63acf1f.md) | 2025-06-30 | - |  | - | - |
 | [Quantum Command](games/f/f49b950ecea842f5a5ba4911a5f19bba.md) | 2025-04-30 | - |  | - | - |
 | [Dawnshard](games/b/bd9874dd0e2b4302937845e79e5605ce.md) | 2025-01-31 | - |  | - | - |
