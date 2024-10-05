@@ -337,13 +337,13 @@ Completed: 89 (0.01%) (Ranked 559)
 | 2024-09-14 | 601,709 | 89 |
 ## Awards
 Max (Amazing Storytelling): 815  (Ranked 229)  
-Sum: 4,332 (Ranked 191)  
+Sum: 4,335 (Ranked 191)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Storytelling | 815 |
 | This game is Extremely Fun | 797 |
-| This game is Highly Recommended | 789 |
+| This game is Highly Recommended | 792 |
 | This game has Amazing Characters | 785 |
 | This game has Quickly Understood Controls | 781 |
 | This game has a Creative Community | 365 |
@@ -770,4 +770,4 @@ Diff (max vs sum): 38
 | 2024-10-02 | 4.14 | 801 | 4,262 |
 | 2024-10-03 | 4.14 | 810 | 4,301 |
 | 2024-10-04 | 4.14 | 815 | 4,324 |
-| 2024-10-05 | 4.14 | 815 | 4,332 |
+| 2024-10-05 | 4.14 | 815 | 4,335 |
