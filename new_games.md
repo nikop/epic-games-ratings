@@ -82,7 +82,7 @@
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 0 | - | - |
 | [Mouse Arcade](games/7/76dfad87100e4d69b7876b1c6d7c5448.md) | 2024-09-20 | - |  | - | - |
 | [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | - |  | 4.43 | 0 |
-| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | 4.87 | 108 |
+| [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | 4.86 | 108 |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-09-19 | 10 (1,000 XP) | 1 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-09-19 | - |  | - | 0 |
@@ -128,4 +128,3 @@
 | [WorldShadow](games/4/4796e309f0d749cc901f80167fb6bd94.md) | 2024-09-08 | - |  | - | - |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
 | [Drizzlepath: Picturae](games/b/b764ec91043244a2918ed594205c0149.md) | 2024-09-06 | - |  | - | 0 |
-| [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
