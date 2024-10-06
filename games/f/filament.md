@@ -328,8 +328,8 @@ Completed: 657 (0.30%) (Ranked 395)
 | 2024-09-14 | 218,595 | 657 |
 ## Awards
 Max (Challenging Puzzles): 617  (Ranked 254)  
-Sum: 756 (Ranked 376)  
-Diff (max vs sum): -122  
+Sum: 756 (Ranked 375)  
+Diff (max vs sum): -121  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 617 |
