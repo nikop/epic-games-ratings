@@ -4,7 +4,7 @@
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 301,
   "Ranking_Popularity": 423,
-  "Ranking_PopularitySum": 448,
+  "Ranking_PopularitySum": 453,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1195,10 +1195,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 401,
       "NumberOfAwardsMax": 143
+    },
+    {
+      "Time": "2024-10-06T18:57:04.6196826+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 401,
+  "NumberOfAwards": 380,
   "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1268,8 +1274,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-10-05T03:13:09.5547952+00:00",
+  "LastChanged": "2024-10-06T18:57:04.6196824+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:43.4197548+00:00",
-  "LastUpdate_Ratings": "2024-10-06T16:57:53.4274955+00:00",
+  "LastUpdate_Ratings": "2024-10-06T18:57:04.6196829+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:38.2459869+00:00"
 }

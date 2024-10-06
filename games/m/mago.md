@@ -1,6 +1,6 @@
 # Mago
 [View Rawdata](../../db/m/mago.json)  
-Rating: 4.91 (Ranked 7)  
+Rating: 4.91 (Ranked 6)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
