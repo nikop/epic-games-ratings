@@ -4,7 +4,7 @@
   "ProductSlug": "offworld-trading-company",
   "Ranking_Rating": 1056,
   "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 467,
+  "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1258,6 +1258,6 @@
   "FirstSeen": "2022-07-22T20:20:30.0277807+00:00",
   "LastChanged": "2024-10-06T20:59:39.9901524+00:00",
   "LastUpdate_AppInfo": "2024-09-30T13:15:42.2589724+00:00",
-  "LastUpdate_Ratings": "2024-10-06T20:59:39.9901529+00:00",
+  "LastUpdate_Ratings": "2024-10-06T22:58:45.2668631+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:42.2675109+00:00"
 }
