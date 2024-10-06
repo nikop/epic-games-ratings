@@ -4,7 +4,7 @@
   "ProductSlug": "doom-64",
   "Ranking_Rating": 359,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 283,
+  "Ranking_PopularitySum": 282,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1565,10 +1565,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1748,
       "NumberOfAwardsMax": 1358
+    },
+    {
+      "Time": "2024-10-06T11:57:14.0093254+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1749,
+      "NumberOfAwardsMax": 1358
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1748,
+  "NumberOfAwards": 1749,
   "NumberOfAwardsMax": 1358,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1600,7 +1606,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1657,8 +1663,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T18:02:01.0810167+00:00",
   "FirstSeenRating": "2022-08-19T16:01:55.9057824+00:00",
-  "LastChanged": "2024-10-05T17:57:01.064559+00:00",
+  "LastChanged": "2024-10-06T11:57:14.0093252+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:36.3023425+00:00",
-  "LastUpdate_Ratings": "2024-10-06T08:57:46.3957613+00:00",
+  "LastUpdate_Ratings": "2024-10-06T11:57:14.0093256+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:41.6411359+00:00"
 }
