@@ -4,7 +4,7 @@
   "ProductSlug": "rise-of-the-tomb-raider",
   "Ranking_Rating": 270,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 91,
+  "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8906,18 +8906,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 17284,
       "NumberOfAwardsMax": 13453
+    },
+    {
+      "Time": "2024-10-06T15:59:27.183726+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 17305,
+      "NumberOfAwardsMax": 13474
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17284,
-  "NumberOfAwardsMax": 13453,
+  "NumberOfAwards": 17305,
+  "NumberOfAwardsMax": 13474,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13453
+      "Count": 13474
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8991,8 +8997,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2024-10-06T13:10:55.8411715+00:00",
+  "LastChanged": "2024-10-06T15:59:27.1837259+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:27.2315245+00:00",
-  "LastUpdate_Ratings": "2024-10-06T13:59:59.5521447+00:00",
+  "LastUpdate_Ratings": "2024-10-06T15:59:27.1837264+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:50.8944618+00:00"
 }

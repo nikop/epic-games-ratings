@@ -3,8 +3,8 @@
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
   "Ranking_Rating": 604,
-  "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 380,
+  "Ranking_Popularity": 479,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 446,
   "Ranking_EOS_NewPlayers": 3,
@@ -805,11 +805,17 @@
       "Rating": 4.55,
       "NumberOfAwards": 729,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-10-06T15:58:58.3393815+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 730,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 729,
-  "NumberOfAwardsMax": 99,
+  "NumberOfAwards": 730,
+  "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -834,7 +840,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 99
+      "Count": 100
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13281,9 +13287,9 @@
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "LastChanged": "2024-10-01T03:23:14.6425475+00:00",
+  "LastChanged": "2024-10-06T15:58:58.3393814+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:38.2951882+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:22.698593+00:00",
-  "LastUpdate_Ratings": "2024-10-06T13:59:35.95691+00:00",
+  "LastUpdate_Ratings": "2024-10-06T15:58:58.3393817+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:38.2952649+00:00"
 }
