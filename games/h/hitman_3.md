@@ -346,7 +346,7 @@ Completed: 2,379 (0.16%) (Ranked 435)
 | 2024-09-14 | 1,490,867 | 2,379 |
 ## Awards
 Max (Diverse Characters): 14,180  (Ranked 45)  
-Sum: 89,711 (Ranked 29)  
+Sum: 89,717 (Ranked 29)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): 16
 | This game has Amazing Characters | 10,960 |
 | This game has a Creative Community | 10,942 |
 | This game has Quickly Understood Controls | 9,974 |
-| This game is Relaxing | 9,803 |
+| This game is Relaxing | 9,809 |
 | This game is Great for Beginners | 8,394 |
 | This game has Obsessive Gameplay | 5,956 |
 ## Ratings History
@@ -1009,4 +1009,4 @@ Diff (max vs sum): 16
 | 2024-10-02 | 4.76 | - | 14,136 | 89,538 |
 | 2024-10-03 | 4.76 | - | 14,147 | 89,597 |
 | 2024-10-04 | 4.76 | - | 14,166 | 89,655 |
-| 2024-10-05 | 4.76 | - | 14,180 | 89,711 |
+| 2024-10-05 | 4.76 | - | 14,180 | 89,717 |

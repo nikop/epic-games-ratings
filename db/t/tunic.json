@@ -2,7 +2,7 @@
   "ID": "b6faa05b8b594ec39944ff71dbdfdfc1",
   "Name": "TUNIC",
   "ProductSlug": "tunic",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 96,
   "Ranking_Popularity": 585,
   "Ranking_PopularitySum": 652,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.82,
+  "Rating": 4.81,
   "NumberOfRatings": 100,
   "RatingHistory": [
     {
@@ -312,6 +312,12 @@
       "Rating": 4.82,
       "NumberOfAwards": 47,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-10-05T23:58:58.7982207+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 47,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
@@ -337,8 +343,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:39.6224803+00:00",
-  "LastChanged": "2024-09-20T21:57:05.3934324+00:00",
+  "LastChanged": "2024-10-05T23:58:58.7982206+00:00",
   "LastUpdate_AppInfo": "2024-09-30T06:57:01.5838874+00:00",
-  "LastUpdate_Ratings": "2024-10-05T22:01:03.2059279+00:00",
+  "LastUpdate_Ratings": "2024-10-05T23:58:58.7982211+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:49.4229527+00:00"
 }
