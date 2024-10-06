@@ -2,7 +2,7 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 558,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 215,
@@ -6295,10 +6295,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 2195,
       "NumberOfAwardsMax": 360
+    },
+    {
+      "Time": "2024-10-06T14:59:45.9932489+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 2197,
+      "NumberOfAwardsMax": 360
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2195,
+  "NumberOfAwards": 2197,
   "NumberOfAwardsMax": 360,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -6342,7 +6348,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 153
+      "Count": 155
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18131,9 +18137,9 @@
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-10-05T19:57:14.8219098+00:00",
+  "LastChanged": "2024-10-06T14:59:45.9932486+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:00.5476198+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:44.761008+00:00",
-  "LastUpdate_Ratings": "2024-10-06T13:57:43.0431196+00:00",
+  "LastUpdate_Ratings": "2024-10-06T14:59:45.9932494+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.5477206+00:00"
 }

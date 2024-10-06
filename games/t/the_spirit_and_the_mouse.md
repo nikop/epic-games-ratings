@@ -1,7 +1,7 @@
 # The Spirit and the Mouse
 [Store](https://store.epicgames.com/en-US/p/the-spirit-and-the-mouse-42390b)  
 [View Rawdata](../../db/t/the_spirit_and_the_mouse.json)  
-Rating: 4.53 (Ranked 651)  
+Rating: 4.54 (Ranked 631)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -87,3 +87,4 @@ Diff (max vs sum): -33
 | 2024-10-03 | 4.54 | 21 | 21 |
 | 2024-10-04 | 4.55 | 26 | 26 |
 | 2024-10-05 | 4.53 | 32 | 32 |
+| 2024-10-06 | 4.54 | 32 | 32 |

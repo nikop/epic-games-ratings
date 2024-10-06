@@ -2,7 +2,7 @@
   "ID": "34f7e1e275924bb6a90074920f9c1696",
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
   "ProductSlug": "assassins-creed-rogue",
-  "Ranking_Rating": 538,
+  "Ranking_Rating": 558,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.57,
   "NumberOfRatings": 305,
   "RatingHistory": [
     {
@@ -1333,6 +1333,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 350,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2024-10-06T14:58:23.453309+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 350,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
@@ -1364,8 +1370,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2024-10-03T13:16:07.8903486+00:00",
+  "LastChanged": "2024-10-06T14:58:23.4533088+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:31.0690144+00:00",
-  "LastUpdate_Ratings": "2024-10-06T13:12:31.0264039+00:00",
+  "LastUpdate_Ratings": "2024-10-06T14:58:23.4533094+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:33.3056632+00:00"
 }

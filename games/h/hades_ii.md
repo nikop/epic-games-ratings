@@ -1,15 +1,15 @@
 # Hades II
 [Store](https://store.epicgames.com/en-US/p/hades-ii)  
 [View Rawdata](../../db/h/hades_ii.json)  
-Rating: 4.89 (Ranked 11)  
+Rating: 4.90 (Ranked 9)  
 ## Awards
 Max (Character Customization): 223  (Ranked 359)  
-Sum: 492 (Ranked 422)  
+Sum: 493 (Ranked 422)  
 Diff (max vs sum): -63  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 223 |
-| This game has Great Boss Battles | 159 |
+| This game has Great Boss Battles | 160 |
 | This game is Great for Beginners | 26 |
 | This game is Relaxing | 22 |
 | This game is Highly Recommended | 21 |
@@ -131,3 +131,4 @@ Diff (max vs sum): -63
 | 2024-10-02 | 4.90 | 223 | 469 |
 | 2024-10-03 | 4.90 | 223 | 491 |
 | 2024-10-04 | 4.89 | 223 | 492 |
+| 2024-10-06 | 4.90 | 223 | 493 |
