@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "EA SPORTS\u2122 WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_Rating": 1020,
-  "Ranking_Popularity": 604,
-  "Ranking_PopularitySum": 462,
+  "Ranking_Rating": 1028,
+  "Ranking_Popularity": 596,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.32,
+  "Rating": 4.31,
   "RatingHistory": [
     {
       "Time": "2023-11-25T01:40:43.9281936+00:00",
@@ -1375,18 +1375,24 @@
       "Rating": 4.32,
       "NumberOfAwards": 356,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-10-06T21:57:57.2762376+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 356,
-  "NumberOfAwardsMax": 43,
+  "NumberOfAwards": 358,
+  "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1416,7 +1422,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Competitive Players",
@@ -3590,9 +3596,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-10-06T14:57:49.1709201+00:00",
+  "LastChanged": "2024-10-06T21:57:57.2762375+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:55.9621814+00:00",
   "LastUpdate_AppInfo": "2024-10-02T20:57:17.6701778+00:00",
-  "LastUpdate_Ratings": "2024-10-06T19:58:34.8683659+00:00",
+  "LastUpdate_Ratings": "2024-10-06T21:57:57.2762379+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:55.962207+00:00"
 }
