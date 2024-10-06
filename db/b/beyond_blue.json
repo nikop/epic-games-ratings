@@ -2,7 +2,7 @@
   "ID": "bd9fd28ca1214868922f2ab41d6d3b65",
   "Name": "Beyond Blue",
   "ProductSlug": "beyond-blue",
-  "Ranking_Rating": 988,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.33,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:31.0323245+00:00",
@@ -447,6 +447,12 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-06T17:57:22.2632915+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -465,8 +471,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:42.8790244+00:00",
   "FirstSeenRating": "2023-03-31T05:58:31.0323242+00:00",
-  "LastChanged": "2024-09-23T16:58:21.852721+00:00",
+  "LastChanged": "2024-10-06T17:57:22.2632912+00:00",
   "LastUpdate_AppInfo": "2024-09-30T11:57:18.9969866+00:00",
-  "LastUpdate_Ratings": "2024-10-06T15:58:11.4924572+00:00",
+  "LastUpdate_Ratings": "2024-10-06T17:57:22.2632919+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:49.3901124+00:00"
 }

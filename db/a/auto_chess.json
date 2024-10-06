@@ -3,7 +3,7 @@
   "Name": "Auto Chess",
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 735,
-  "Ranking_Popularity": 195,
+  "Ranking_Popularity": 194,
   "Ranking_PopularitySum": 154,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -8812,11 +8812,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 7458,
       "NumberOfAwardsMax": 1105
+    },
+    {
+      "Time": "2024-10-06T17:58:42.7894343+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 7466,
+      "NumberOfAwardsMax": 1107
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7458,
-  "NumberOfAwardsMax": 1105,
+  "NumberOfAwards": 7466,
+  "NumberOfAwardsMax": 1107,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -8829,19 +8835,19 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 884
+      "Count": 886
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1105
+      "Count": 1107
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 814
+      "Count": 815
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8865,7 +8871,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 701
+      "Count": 704
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -8897,8 +8903,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2024-10-06T15:59:32.6142174+00:00",
+  "LastChanged": "2024-10-06T17:58:42.7894341+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:15.202518+00:00",
-  "LastUpdate_Ratings": "2024-10-06T15:59:32.6142178+00:00",
+  "LastUpdate_Ratings": "2024-10-06T17:58:42.7894346+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:52.4867514+00:00"
 }

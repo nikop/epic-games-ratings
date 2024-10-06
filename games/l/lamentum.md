@@ -1,7 +1,7 @@
 # Lamentum
 [Store](https://store.epicgames.com/en-US/p/lamentum-962e3e)  
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.33 (Ranked 1,003)  
+Rating: 4.33 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

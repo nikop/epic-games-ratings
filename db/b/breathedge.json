@@ -2,7 +2,7 @@
   "ID": "08ae29e4f70a4b62aa055e383381aa82",
   "Name": "Breathedge",
   "ProductSlug": "breathedge",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
@@ -558,6 +558,6 @@
   "FirstSeen": "2022-07-22T20:28:13.8182721+00:00",
   "LastChanged": "2024-04-15T10:57:37.6068827+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:11.5817751+00:00",
-  "LastUpdate_Ratings": "2024-10-06T15:59:19.5939775+00:00",
+  "LastUpdate_Ratings": "2024-10-06T17:58:30.6517791+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:51.4902441+00:00"
 }
