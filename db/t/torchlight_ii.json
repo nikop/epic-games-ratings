@@ -4,7 +4,7 @@
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 511,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 240,
+  "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -4384,10 +4384,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2549,
       "NumberOfAwardsMax": 1245
+    },
+    {
+      "Time": "2024-10-06T13:10:46.8620669+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2551,
+      "NumberOfAwardsMax": 1245
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2549,
+  "NumberOfAwards": 2551,
   "NumberOfAwardsMax": 1245,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4437,7 +4443,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 74
+      "Count": 75
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4455,7 +4461,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 40
+      "Count": 41
     }
   ],
   "EOS_Progressed": 0,
@@ -4469,8 +4475,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-10-06T09:57:59.1604408+00:00",
+  "LastChanged": "2024-10-06T13:10:46.8620667+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:09.9692119+00:00",
-  "LastUpdate_Ratings": "2024-10-06T09:57:59.1604415+00:00",
+  "LastUpdate_Ratings": "2024-10-06T13:10:46.8620672+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:55.9470712+00:00"
 }

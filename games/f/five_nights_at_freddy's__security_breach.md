@@ -5,16 +5,16 @@ Rating: 4.63 (Ranked 412)
 Number of Ratings: 169  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 54  (Ranked 569)  
-Sum: 418 (Ranked 441)  
-Diff (max vs sum): 128  
+Sum: 420 (Ranked 440)  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 54 |
-| This game is Great for Beginners | 53 |
+| This game is Great for Beginners | 54 |
 | This game has Diverse Characters | 52 |
+| This game has Amazing Storytelling | 46 |
 | This game has Quickly Understood Controls | 46 |
 | This game is Extremely Fun | 46 |
-| This game has Amazing Storytelling | 45 |
 | This game is Highly Recommended | 44 |
 | This game is Relaxing | 39 |
 | This game has a Creative Community | 39 |
@@ -308,3 +308,4 @@ Diff (max vs sum): 128
 | 2024-09-27 | 4.63 | - | 53 | 414 |
 | 2024-09-28 | 4.63 | - | 53 | 415 |
 | 2024-10-04 | 4.63 | - | 54 | 418 |
+| 2024-10-06 | 4.63 | - | 54 | 420 |

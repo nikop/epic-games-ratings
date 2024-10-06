@@ -1,12 +1,12 @@
 # Nioh: The Complete Edition
 [Store](https://store.epicgames.com/en-US/p/nioh-the-complete-edition)  
 [View Rawdata](../../db/n/nioh__the_complete_edition.json)  
-Rating: 4.55 (Ranked 605)  
+Rating: 4.55 (Ranked 604)  
 Number of Ratings: 10,807  (23.09.2022)  
 ## Awards
 Max (Character Customization): 10,784  (Ranked 58)  
-Sum: 26,555 (Ranked 68)  
-Diff (max vs sum): -10  
+Sum: 26,555 (Ranked 69)  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 10,784 |

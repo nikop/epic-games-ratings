@@ -3,8 +3,8 @@
   "Name": "FINAL FANTASY XVI",
   "ProductSlug": "final-fantasy-xvi",
   "Ranking_Rating": 270,
-  "Ranking_Popularity": 359,
-  "Ranking_PopularitySum": 400,
+  "Ranking_Popularity": 354,
+  "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -595,11 +595,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 624,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2024-10-06T13:10:49.0280532+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 636,
+      "NumberOfAwardsMax": 234
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 624,
-  "NumberOfAwardsMax": 222,
+  "NumberOfAwards": 636,
+  "NumberOfAwardsMax": 234,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -612,7 +618,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 222
+      "Count": 234
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1255,9 +1261,9 @@
   "FirstSeen": "2024-09-17T16:59:05.3512253+00:00",
   "FirstSeenRating": "2024-09-18T13:15:14.3478706+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:04.3258113+00:00",
-  "LastChanged": "2024-10-06T06:00:05.3944635+00:00",
+  "LastChanged": "2024-10-06T13:10:49.0280531+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:04.3258026+00:00",
   "LastUpdate_AppInfo": "2024-09-30T18:57:28.8852885+00:00",
-  "LastUpdate_Ratings": "2024-10-06T09:58:01.6910265+00:00",
+  "LastUpdate_Ratings": "2024-10-06T13:10:49.0280535+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:04.3270024+00:00"
 }

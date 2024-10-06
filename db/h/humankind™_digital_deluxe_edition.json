@@ -2,7 +2,7 @@
   "ID": "02c14a01b7044db98de3f3a10813a42e",
   "Name": "HUMANKIND\u2122 Standard Edition",
   "ProductSlug": "humankind",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 716,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.51,
+  "Rating": 4.5,
   "NumberOfRatings": 609,
   "RatingHistory": [
     {
@@ -2499,6 +2499,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 1167,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-10-06T13:12:06.7960928+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 1167,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
@@ -2590,8 +2596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:22.8287391+00:00",
-  "LastChanged": "2024-10-05T03:12:44.4712314+00:00",
+  "LastChanged": "2024-10-06T13:12:06.7960927+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:11.3843943+00:00",
-  "LastUpdate_Ratings": "2024-10-06T09:59:20.7675621+00:00",
+  "LastUpdate_Ratings": "2024-10-06T13:12:06.7960932+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:26.0969903+00:00"
 }
