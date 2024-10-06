@@ -4,7 +4,7 @@
   "ProductSlug": "f1-manager-2024-fe51bd",
   "Ranking_Rating": 581,
   "Ranking_Popularity": 624,
-  "Ranking_PopularitySum": 541,
+  "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -522,10 +522,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 193,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-10-06T13:59:06.3576949+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 171,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 193,
+  "NumberOfAwards": 171,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -863,9 +869,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-10-06T02:18:39.9487998+00:00",
+  "LastChanged": "2024-10-06T13:59:06.3576947+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
   "LastUpdate_AppInfo": "2024-10-02T10:57:13.9929729+00:00",
-  "LastUpdate_Ratings": "2024-10-06T12:00:07.9920832+00:00",
+  "LastUpdate_Ratings": "2024-10-06T13:59:06.3576953+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
 }
