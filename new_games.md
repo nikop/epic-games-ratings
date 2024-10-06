@@ -67,7 +67,7 @@
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | 0 |
 | [Ductz](games/1/10a2adbb3abf4533a5009de9b44c2f93.md) | 2024-09-25 | - |  | - | - |
 | [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | 0 |
-| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | 4.44 | 21 |
+| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | 4.45 | 21 |
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | - |  | - | 0 |
 | [Zoo 2 Animal Park](games/d/d1f3026321264e2395699cd48ca3f346.md) | 2024-09-24 | - |  | - | 0 |
 | [Anarkade](games/b/b249551ce1c84c6fbbe5b77adfe443cf.md) | 2024-09-23 | - |  | - | - |
@@ -129,4 +129,3 @@
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
 | [Drizzlepath: Picturae](games/b/b764ec91043244a2918ed594205c0149.md) | 2024-09-06 | - |  | - | - |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
-| [Blacksmith of the Sand Kingdom](games/f/f2892c9f78c04780b6a40463a162b6c2.md) | 2024-09-06 | 45 (1,000 XP) | 20 | - | 0 |
