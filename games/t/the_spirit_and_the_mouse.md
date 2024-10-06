@@ -1,7 +1,7 @@
 # The Spirit and the Mouse
 [Store](https://store.epicgames.com/en-US/p/the-spirit-and-the-mouse-42390b)  
 [View Rawdata](../../db/t/the_spirit_and_the_mouse.json)  
-Rating: 4.54 (Ranked 631)  
+Rating: 4.54 (Ranked 630)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,12 +68,12 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-02-22 | 87 | 0 |
 | 2024-03-21 | 89 | 0 |
 ## Awards
-Max (Easy Puzzles): 32  (Ranked 649)  
-Sum: 32 (Ranked 682)  
-Diff (max vs sum): -33  
+Max (Easy Puzzles): 38  (Ranked 620)  
+Sum: 38 (Ranked 673)  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 32 |
+| This game features Easy Puzzles | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -87,4 +87,4 @@ Diff (max vs sum): -33
 | 2024-10-03 | 4.54 | 21 | 21 |
 | 2024-10-04 | 4.55 | 26 | 26 |
 | 2024-10-05 | 4.53 | 32 | 32 |
-| 2024-10-06 | 4.54 | 32 | 32 |
+| 2024-10-06 | 4.54 | 38 | 38 |

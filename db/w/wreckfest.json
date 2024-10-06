@@ -2,7 +2,7 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 318,
@@ -3885,6 +3885,6 @@
   "LastChanged": "2024-10-01T23:58:27.2669954+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:40.0899982+00:00",
   "LastUpdate_AppInfo": "2024-09-30T09:57:28.753147+00:00",
-  "LastUpdate_Ratings": "2024-10-06T14:58:08.4077904+00:00",
+  "LastUpdate_Ratings": "2024-10-06T16:57:36.5348481+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:40.0900229+00:00"
 }

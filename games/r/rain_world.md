@@ -3,9 +3,9 @@
 [View Rawdata](../../db/r/rain_world.json)  
 Rating: 4.86 (Ranked 31)  
 ## Awards
-Max (Great for Quick Sessions): 35  (Ranked 633)  
+Max (Great for Quick Sessions): 35  (Ranked 634)  
 Sum: 114 (Ranked 583)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |

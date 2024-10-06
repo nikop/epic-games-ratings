@@ -2,7 +2,7 @@
   "ID": "edcd55bb56c3485484dcdd2fd78f42ae",
   "Name": "Fell in love with doctors",
   "ProductSlug": "love-with-doctors-9ab1c0",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 138,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "RatingHistory": [
     {
       "Time": "2024-09-24T13:15:53.2759395+00:00",
@@ -34,6 +34,12 @@
     {
       "Time": "2024-09-25T13:16:19.9439132+00:00",
       "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-06T16:59:30.5928184+00:00",
+      "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -54,8 +60,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-13T03:57:21.1065377+00:00",
   "FirstSeenRating": "2024-09-24T13:15:53.2759393+00:00",
-  "LastChanged": "2024-09-25T13:16:19.9439131+00:00",
+  "LastChanged": "2024-10-06T16:59:30.5928182+00:00",
   "LastUpdate_AppInfo": "2024-10-03T16:57:10.454543+00:00",
-  "LastUpdate_Ratings": "2024-10-06T14:59:51.4603045+00:00",
+  "LastUpdate_Ratings": "2024-10-06T16:59:30.5928186+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:10.4224995+00:00"
 }
