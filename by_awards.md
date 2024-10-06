@@ -81,15 +81,15 @@
 | 79 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 7,135 | 4.77 | 138 |
 | 80 | [God of War](games/g/god_of_war.md) | 7,089 | 4.87 | 20 |
 | 81 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 7,016 | 4.07 | 1,231 |
-| 82 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,861 | 4.66 | 338 |
+| 82 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 6,869 | 4.66 | 338 |
 | 83 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 871 |
 | 84 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,607 | 4.80 | 104 |
 | 85 | [Rogue Company](games/r/rogue_company.md) | 6,556 | 4.26 | 1,077 |
 | 86 | [SMITE](games/s/smite.md) | 6,475 | 4.39 | 922 |
 | 87 | [Prey](games/p/prey.md) | 6,328 | 4.63 | 412 |
 | 88 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,320 | 4.84 | 51 |
-| 89 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,305 | 4.64 | 386 |
-| 90 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 5,939 | 4.51 | 695 |
+| 89 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,309 | 4.64 | 386 |
+| 90 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 5,977 | 4.51 | 695 |
 | 91 | [MultiVersus](games/m/multiversus.md) | 5,812 | 4.54 | 631 |
 | 92 | [Days Gone](games/d/days_gone.md) | 5,590 | 4.69 | 268 |
 | 93 | [Shop Titans](games/s/shop_titans.md) | 5,547 | 4.01 | 1,248 |
@@ -109,11 +109,11 @@
 | 107 | [Among Us](games/a/among_us.md) | 4,142 | 4.55 | 605 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4,132 | 4.55 | 605 |
 | 109 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 3,892 | 4.85 | 42 |
-| 110 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,843 | 4.76 | 152 |
-| 111 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,821 | 4.57 | 559 |
-| 112 | [Gotham Knights](games/g/gotham_knights.md) | 3,788 | 4.19 | 1,145 |
-| 113 | [Gloomhaven](games/g/gloomhaven.md) | 3,784 | 4.47 | 781 |
-| 114 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 3,760 | 4.77 | 138 |
+| 110 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 3,884 | 4.77 | 138 |
+| 111 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,843 | 4.76 | 152 |
+| 112 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,821 | 4.57 | 559 |
+| 113 | [Gotham Knights](games/g/gotham_knights.md) | 3,788 | 4.19 | 1,145 |
+| 114 | [Gloomhaven](games/g/gloomhaven.md) | 3,784 | 4.47 | 781 |
 | 115 | [RAGE 2](games/r/rage_2.md) | 3,497 | 4.26 | 1,077 |
 | 116 | [Path of Exile](games/p/path_of_exile.md) | 3,476 | 4.62 | 434 |
 | 117 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,418 | 4.14 | 1,187 |
@@ -211,7 +211,7 @@
 | 209 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 994 | 4.46 | 793 |
 | 210 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 981 | 4.68 | 299 |
 | 211 | [Death's Gambit - Afterlife](games/7/7b9cdaaca4f5424e8d6bd7dabe559010.md) | 965 | 4.56 | 582 |
-| 212 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 956 | 4.87 | 20 |
+| 212 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 959 | 4.87 | 20 |
 | 213 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 954 | 4.60 | 487 |
 | 214 | [The Outlast Trials](games/t/the_outlast_trials.md) | 952 | 4.65 | 359 |
 | 215 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 941 | 4.64 | 386 |
@@ -291,17 +291,17 @@
 | 289 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 415 | 4.64 | 386 |
 | 290 | [Inscryption](games/i/inscryption.md) | 413 | 4.87 | 20 |
 | 291 | [House Flipper](games/h/house_flipper.md) | 412 | 4.69 | 268 |
-| 292 | [MudRunner](games/m/mudrunner.md) | 411 | 4.60 | 487 |
+| 291 | [MudRunner](games/m/mudrunner.md) | 412 | 4.60 | 487 |
 | 293 | [The Messenger](games/t/the_messenger.md) | 409 | 4.81 | 96 |
 | 294 | [Overcooked! 2](games/o/overcooked!_2.md) | 403 | 4.69 | 268 |
 | 295 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 401 | 4.52 | 672 |
 | 296 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 400 | 4.83 | 66 |
 | 297 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 397 | 3.99 | 1,254 |
 | 298 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 383 | 4.44 | 832 |
-| 299 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 363 | 4.34 | 991 |
-| 300 | [F1® 23](games/f/f1®_23_standard_edition.md) | 360 | 4.57 | 559 |
-| 301 | [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 354 | 4.22 | 1,119 |
-| 301 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 354 | 4.27 | 1,066 |
+| 299 | [Sniper Ghost Warrior Contracts](games/3/3196925cb7ea45c3a9c47118e52a820e.md) | 367 | 4.22 | 1,119 |
+| 300 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 363 | 4.34 | 991 |
+| 301 | [F1® 23](games/f/f1®_23_standard_edition.md) | 360 | 4.57 | 559 |
+| 302 | [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 354 | 4.27 | 1,066 |
 | 303 | [Darkwood](games/d/darkwood.md) | 353 | 4.62 | 434 |
 | 303 | [Tannenberg](games/t/tannenberg.md) | 353 | 4.39 | 922 |
 | 305 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 346 | 4.83 | 66 |
