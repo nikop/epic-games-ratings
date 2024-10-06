@@ -4,7 +4,7 @@
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 538,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 328,
+  "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -4753,10 +4753,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1089,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-10-06T09:57:40.7451839+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1090,
+      "NumberOfAwardsMax": 198
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1089,
+  "NumberOfAwards": 1090,
   "NumberOfAwardsMax": 198,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4800,7 +4806,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has a Competitive Community",
@@ -4845,8 +4851,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-10-06T02:19:21.5534749+00:00",
+  "LastChanged": "2024-10-06T09:57:40.7451837+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:20.5282021+00:00",
-  "LastUpdate_Ratings": "2024-10-06T07:58:48.9370311+00:00",
+  "LastUpdate_Ratings": "2024-10-06T09:57:40.7451848+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:23.6003253+00:00"
 }

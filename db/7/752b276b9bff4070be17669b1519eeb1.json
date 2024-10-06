@@ -4,7 +4,7 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 832,
   "Ranking_Popularity": 186,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 195,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -7955,10 +7955,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 4305,
       "NumberOfAwardsMax": 1188
+    },
+    {
+      "Time": "2024-10-06T09:57:57.9463923+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 4007,
+      "NumberOfAwardsMax": 1188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4305,
+  "NumberOfAwards": 4007,
   "NumberOfAwardsMax": 1188,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8041,8 +8047,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-10-06T03:16:40.0950774+00:00",
+  "LastChanged": "2024-10-06T09:57:57.9463922+00:00",
   "LastUpdate_AppInfo": "2024-10-05T03:11:12.6482376+00:00",
-  "LastUpdate_Ratings": "2024-10-06T07:59:14.8428689+00:00",
+  "LastUpdate_Ratings": "2024-10-06T09:57:57.9463927+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:53.6477857+00:00"
 }
