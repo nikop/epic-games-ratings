@@ -103,7 +103,7 @@
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | 51 (1,000 XP) | 8 | - | 0 |
 | [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-13 | - |  | - | 0 |
-| [Fell in love with doctors](games/e/edcd55bb56c3485484dcdd2fd78f42ae.md) | 2024-09-12 | - |  | 4.76 | 0 |
+| [Fell in love with doctors](games/e/edcd55bb56c3485484dcdd2fd78f42ae.md) | 2024-09-12 | - |  | 4.77 | 0 |
 | [GoobnBalloonsDX](games/3/320330b0fc79466b9af5a71c9f749ad8.md) | 2024-09-12 | 44 (1,000 XP) | 0 | - | - |
 | [Hot Lap Racing](games/a/a331288275de48b4851781c73db32b77.md) | 2024-09-12 | 41 (1,000 XP) | 0 | - | 0 |
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | 27 (1,000 XP) | 37 | - | 0 |
@@ -122,9 +122,8 @@
 | [KurtzPel](games/7/727a79e37aea499db68214a27867aec2.md) | 2024-09-11 | - |  | - | 0 |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |
 | [Asilium 2](games/8/8003a47f7a024beeac824c38c1ace029.md) | 2024-09-09 | - |  | - | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 470 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 482 |
 | [Block Master 3D Puzzle](games/8/83cd8bf12dcc4a579f2c36a20974ef09.md) | 2024-09-08 | - |  | - | 0 |
 | [Wolf Simulator: Silent Paws](games/6/6dce698021fe497aa25d47a584cf47ba.md) | 2024-09-08 | - |  | - | 0 |
 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |
 | [WorldShadow](games/4/4796e309f0d749cc901f80167fb6bd94.md) | 2024-09-08 | - |  | - | - |
-| [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |

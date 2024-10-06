@@ -59,7 +59,7 @@
 | [Garden Witch Life](games/0/0ff2a1392b884d6fba75823c49c96af4.md) | 2024-09-12 | 26 (1,000 XP) | 6 | - | 0 |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2024-09-12 | 15 (1,000 XP) | 0 | - | - |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 470 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 482 |
 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
@@ -459,7 +459,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 89 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 145 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 83 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 89,497 | 4.27 | 354 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 89,497 | 4.27 | 358 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 121 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 51 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 204 | - | 0 |
@@ -1003,7 +1003,7 @@
 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 2023-01-31 | 16 (1,000 XP) | 2,465 | - | 0 |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 27,910 | 4.72 | 586 |
 | [Risen](games/r/risen.md) | 2023-01-27 | 50 (1,000 XP) | 476 | 4.59 | 0 |
-| [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 265,583 | 4.38 | 89 |
+| [Hell is Others](games/h/hell_is_others.md) | 2023-01-26 | 56 (1,000 XP) | 265,583 | 4.38 | 90 |
 | [Learning Factory](games/l/learning_factory.md) | 2023-01-26 | 57 (1,000 XP) | 0 | - | 0 |
 | [Garden In](games/g/garden_in.md) | 2023-01-26 | 31 (1,000 XP) | 245 | - | 0 |
 | [Shoulders of Giants: Ultimate](games/s/shoulders_of_giants.md) | 2023-01-26 | 19 (1,000 XP) | 2,639 | 4.34 | 0 |
@@ -1086,7 +1086,7 @@
 | [Runbow](games/r/runbow.md) | 2022-09-29 | 46 (1,000 XP) | 258,787 | 4.46 | 0 |
 | [RAILGRADE](games/r/railgrade.md) | 2022-09-29 | 37 (1,000 XP) | 16,798 | 4.55 | 100 |
 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 2022-09-29 | 24 (1,000 XP) | 40,757 | 4.40 | 44 |
-| [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 2022-09-26 | 40 (1,000 XP) | 89 | 4.54 | 32 |
+| [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 2022-09-26 | 40 (1,000 XP) | 89 | 4.54 | 38 |
 | [Potion Permit](games/p/potion_permit.md) | 2022-09-22 | 38 (1,000 XP) | 2,504 | 4.02 | 83 |
 | [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 66,550 | 4.47 | 3,786 |
 | [Serial Cleaners](games/s/serial_cleaners.md) | 2022-09-22 | 24 (1,300 XP) | 493 | - | 0 |
@@ -1205,7 +1205,7 @@
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 13,652 | 4.23 | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 196 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 790,667 | 4.82 | 8,556 |
-| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,261,035 | 4.59 | 19,125 |
+| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,261,035 | 4.59 | 19,142 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 764 | 4.69 | 58 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,490,867 | 4.76 | 14,180 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 587 | - | 0 |
@@ -1287,7 +1287,7 @@
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 57,916 | 4.59 | 253 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 97 | - | 0 |
 | [Absolute Drift](games/a/absolute_drift.md) | 2021-02-18 | 20 (1,000 XP) | 1,596,081 | 4.47 | 0 |
-| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 361,905 | 4.07 | 7,016 |
+| [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2021-02-16 | 598 (2,990 XP) | 361,905 | 4.07 | 7,024 |
 | [Haven](games/h/haven.md) | 2021-02-04 | 30 (1,000 XP) | 2,564 | 4.72 | 0 |
 | [Olija](games/o/olija.md) | 2021-01-28 | 10 (1,000 XP) | 0 | - | 0 |
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 636,542 | - | 0 |
