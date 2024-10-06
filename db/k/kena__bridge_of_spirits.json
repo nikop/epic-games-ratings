@@ -4,7 +4,7 @@
   "ProductSlug": "kena-bridge-of-spirits",
   "Ranking_Rating": 249,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 441,
   "Ranking_EOS_NewPlayers": 3,
@@ -1971,18 +1971,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 1820,
       "NumberOfAwardsMax": 1429
+    },
+    {
+      "Time": "2024-10-06T02:16:56.7517883+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1821,
+      "NumberOfAwardsMax": 1430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1820,
-  "NumberOfAwardsMax": 1429,
+  "NumberOfAwards": 1821,
+  "NumberOfAwardsMax": 1430,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1429
+      "Count": 1430
     },
     {
       "Text": "This game is Highly Recommended",
@@ -21142,9 +21148,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2024-10-05T13:10:33.8839438+00:00",
+  "LastChanged": "2024-10-06T02:16:56.7517881+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:07.6411419+00:00",
   "LastUpdate_AppInfo": "2024-09-30T16:57:35.0848515+00:00",
-  "LastUpdate_Ratings": "2024-10-05T22:59:12.4359281+00:00",
+  "LastUpdate_Ratings": "2024-10-06T02:16:56.7517886+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:07.6412438+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "3b661fd6a9724ac7b6ac6d10d0572511",
   "Name": "PAYDAY 2",
   "ProductSlug": "payday-2-c66369",
-  "Ranking_Rating": 559,
+  "Ranking_Rating": 560,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 8,
@@ -18707,18 +18707,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 35437,
       "NumberOfAwardsMax": 13918
+    },
+    {
+      "Time": "2024-10-06T02:16:18.7795934+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 35459,
+      "NumberOfAwardsMax": 13929
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35437,
-  "NumberOfAwardsMax": 13918,
+  "NumberOfAwards": 35459,
+  "NumberOfAwardsMax": 13929,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13918
+      "Count": 13929
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18730,7 +18736,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2238
+      "Count": 2241
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18748,7 +18754,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2417
+      "Count": 2425
     },
     {
       "Text": "This game has Amazing Characters",
@@ -56963,9 +56969,9 @@
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2024-10-05T17:57:54.1497333+00:00",
+  "LastChanged": "2024-10-06T02:16:18.7795932+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:27.4121944+00:00",
   "LastUpdate_AppInfo": "2024-10-05T03:57:09.7562975+00:00",
-  "LastUpdate_Ratings": "2024-10-05T22:58:43.9160073+00:00",
+  "LastUpdate_Ratings": "2024-10-06T02:16:18.7795939+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:27.4246811+00:00"
 }
