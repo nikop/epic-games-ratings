@@ -3,8 +3,8 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 736,
-  "Ranking_Popularity": 396,
-  "Ranking_PopularitySum": 521,
+  "Ranking_Popularity": 395,
+  "Ranking_PopularitySum": 520,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 3,
@@ -730,18 +730,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 174
+    },
+    {
+      "Time": "2024-10-06T20:58:57.6194528+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 223,
+      "NumberOfAwardsMax": 175
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
-  "NumberOfAwardsMax": 174,
+  "NumberOfAwards": 223,
+  "NumberOfAwardsMax": 175,
   "MaxAwardTitle": "Easy Puzzles",
   "Tags": [
     {
       "Text": "This game features Easy Puzzles",
       "Prefix": "This game features",
       "Type": "Easy Puzzles",
-      "Count": 174
+      "Count": 175
     },
     {
       "Text": "In this game, your choices Impact the Story",
@@ -19789,9 +19795,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
-  "LastChanged": "2024-10-01T14:58:49.5442936+00:00",
+  "LastChanged": "2024-10-06T20:58:57.6194526+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:07.7495183+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:00.8132315+00:00",
-  "LastUpdate_Ratings": "2024-10-06T18:59:29.1421388+00:00",
+  "LastUpdate_Ratings": "2024-10-06T20:58:57.6194532+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:07.7496228+00:00"
 }

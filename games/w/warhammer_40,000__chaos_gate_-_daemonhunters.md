@@ -333,7 +333,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 4,571 | 0 |
 ## Awards
 Max (Character Customization): 264  (Ranked 336)  
-Sum: 582 (Ranked 408)  
+Sum: 583 (Ranked 408)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -72
 | This game has Challenging Combat | 37 |
 | This game has Amazing Characters | 36 |
 | This game has Competitive Players | 34 |
-| This game is Relaxing | 30 |
+| This game is Relaxing | 31 |
 | This game has Quickly Understood Controls | 24 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -539,3 +539,4 @@ Diff (max vs sum): -72
 | 2024-09-30 | 4.56 | - | 262 | 580 |
 | 2024-10-03 | 4.56 | - | 263 | 581 |
 | 2024-10-04 | 4.56 | - | 264 | 582 |
+| 2024-10-06 | 4.56 | - | 264 | 583 |

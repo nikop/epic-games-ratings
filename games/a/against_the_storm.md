@@ -357,7 +357,7 @@ Completed: 43 (0.19%) (Ranked 420)
 | 2024-09-14 | 22,975 | 43 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 263)  
-Sum: 3,786 (Ranked 203)  
+Sum: 3,787 (Ranked 203)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +369,7 @@ Diff (max vs sum): 60
 | This game has Unique Visuals | 403 |
 | This game has Amazing Storytelling | 373 |
 | This game has Amazing Characters | 333 |
-| This game has a Creative Community | 255 |
+| This game has a Creative Community | 256 |
 | This game has Obsessive Gameplay | 254 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -822,4 +822,4 @@ Diff (max vs sum): 60
 | 2024-10-03 | 4.82 | - | 542 | 3,766 |
 | 2024-10-04 | 4.82 | - | 547 | 3,774 |
 | 2024-10-05 | 4.82 | - | 547 | 3,777 |
-| 2024-10-06 | 4.82 | - | 551 | 3,786 |
+| 2024-10-06 | 4.82 | - | 551 | 3,787 |

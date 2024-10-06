@@ -3,7 +3,7 @@
   "Name": "Dragon Age: Inquisition \u2013 Game of the Year Edition",
   "ProductSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
   "Ranking_Rating": 670,
-  "Ranking_Popularity": 158,
+  "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 216,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 509,
@@ -2994,18 +2994,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 3232,
       "NumberOfAwardsMax": 1638
+    },
+    {
+      "Time": "2024-10-06T20:58:06.8809804+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 3257,
+      "NumberOfAwardsMax": 1658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3232,
-  "NumberOfAwardsMax": 1638,
+  "NumberOfAwards": 3257,
+  "NumberOfAwardsMax": 1658,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1638
+      "Count": 1658
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -3047,13 +3053,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 84
+      "Count": 86
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 117
+      "Count": 120
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3674,9 +3680,9 @@
   "FirstSeen": "2024-05-16T18:59:38.3966676+00:00",
   "FirstSeenRating": "2024-05-17T19:01:00.7997608+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:54.7600776+00:00",
-  "LastChanged": "2024-10-06T15:57:11.1693912+00:00",
+  "LastChanged": "2024-10-06T20:58:06.8809802+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:34.7080543+00:00",
   "LastUpdate_AppInfo": "2024-10-04T02:09:37.4820231+00:00",
-  "LastUpdate_Ratings": "2024-10-06T18:58:44.4653735+00:00",
+  "LastUpdate_Ratings": "2024-10-06T20:58:06.8809809+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:34.7081339+00:00"
 }
