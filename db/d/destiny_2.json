@@ -2,7 +2,7 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "ProductSlug": "destiny-2",
-  "Ranking_Rating": 832,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 9,
@@ -23092,18 +23092,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 210680,
       "NumberOfAwardsMax": 85789
+    },
+    {
+      "Time": "2024-10-07T15:00:23.9044968+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 210733,
+      "NumberOfAwardsMax": 85823
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 210680,
-  "NumberOfAwardsMax": 85789,
+  "NumberOfAwards": 210733,
+  "NumberOfAwardsMax": 85823,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 85789
+      "Count": 85823
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23115,7 +23121,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 18167
+      "Count": 18176
     },
     {
       "Text": "This game is Relaxing",
@@ -23145,7 +23151,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 15740
+      "Count": 15750
     },
     {
       "Text": "This game has Competitive Players",
@@ -55933,9 +55939,9 @@
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
-  "LastChanged": "2024-10-07T03:57:44.8200275+00:00",
+  "LastChanged": "2024-10-07T15:00:23.9044966+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:36.7307485+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:53.8078425+00:00",
-  "LastUpdate_Ratings": "2024-10-07T12:01:19.5586268+00:00",
+  "LastUpdate_Ratings": "2024-10-07T15:00:23.9044972+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:36.7309137+00:00"
 }

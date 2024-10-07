@@ -1,15 +1,15 @@
 # Far Cry New Dawn Standard Edition
 [Store](https://store.epicgames.com/en-US/p/far-cry-new-dawn)  
 [View Rawdata](../../db/f/far_cry_new_dawn_standard_edition.json)  
-Rating: 4.44 (Ranked 832)  
+Rating: 4.44 (Ranked 833)  
 Number of Ratings: 338  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 383  (Ranked 298)  
-Sum: 533 (Ranked 414)  
+Max (Great Boss Battles): 384  (Ranked 298)  
+Sum: 534 (Ranked 414)  
 Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 383 |
+| This game has Great Boss Battles | 384 |
 | This game has Amazing Storytelling | 29 |
 | This game is Highly Recommended | 28 |
 | This game is Extremely Fun | 25 |
@@ -302,3 +302,4 @@ Diff (max vs sum): -116
 | 2024-09-21 | 4.44 | - | 382 | 531 |
 | 2024-10-03 | 4.44 | - | 382 | 532 |
 | 2024-10-05 | 4.44 | - | 383 | 533 |
+| 2024-10-07 | 4.44 | - | 384 | 534 |
