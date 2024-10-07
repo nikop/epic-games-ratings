@@ -3,9 +3,9 @@
 [View Rawdata](../../db/c/cards_of_ethernity.json)  
 Rating: 4.43 (Ranked 852)  
 ## Awards
-Max (Great for Beginners): 40  (Ranked 612)  
+Max (Great for Beginners): 40  (Ranked 613)  
 Sum: 93 (Ranked 603)  
-Diff (max vs sum): 9  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 40 |

@@ -3,7 +3,7 @@
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
   "Ranking_Rating": 602,
-  "Ranking_Popularity": 607,
+  "Ranking_Popularity": 608,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 591,
@@ -599,10 +599,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 340,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-10-07T18:58:52.2912735+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340,
+  "NumberOfAwards": 341,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -622,7 +628,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4379,9 +4385,9 @@
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-10-06T11:58:34.3713977+00:00",
+  "LastChanged": "2024-10-07T18:58:52.2912733+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:12.1671258+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:24.4614067+00:00",
-  "LastUpdate_Ratings": "2024-10-07T17:00:23.5808309+00:00",
+  "LastUpdate_Ratings": "2024-10-07T18:58:52.2912738+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:12.1671506+00:00"
 }
