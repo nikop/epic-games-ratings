@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 114,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 256,
+  "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -5210,10 +5210,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2233,
       "NumberOfAwardsMax": 1084
+    },
+    {
+      "Time": "2024-10-07T17:57:41.8759119+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2234,
+      "NumberOfAwardsMax": 1084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2233,
+  "NumberOfAwards": 2234,
   "NumberOfAwardsMax": 1084,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5275,7 +5281,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5301,8 +5307,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
-  "LastChanged": "2024-10-07T05:59:06.1674305+00:00",
+  "LastChanged": "2024-10-07T17:57:41.8759118+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:41.924101+00:00",
-  "LastUpdate_Ratings": "2024-10-07T15:59:42.5747026+00:00",
+  "LastUpdate_Ratings": "2024-10-07T17:57:41.8759122+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.8626501+00:00"
 }

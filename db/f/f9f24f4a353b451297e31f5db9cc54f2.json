@@ -2,7 +2,7 @@
   "ID": "f9f24f4a353b451297e31f5db9cc54f2",
   "Name": "Apex Legends\u2122",
   "ProductSlug": "apex-legends-006cde",
-  "Ranking_Rating": 1173,
+  "Ranking_Rating": 1172,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 171,
@@ -1314,10 +1314,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 608,
       "NumberOfAwardsMax": 138
+    },
+    {
+      "Time": "2024-10-07T17:59:41.5197663+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 611,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 608,
+  "NumberOfAwards": 611,
   "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1343,7 +1349,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 91
+      "Count": 94
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1515,9 +1521,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-10-07T16:57:59.5870375+00:00",
+  "LastChanged": "2024-10-07T17:59:41.5197661+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:25.9255025+00:00",
   "LastUpdate_AppInfo": "2024-10-01T02:18:04.8365542+00:00",
-  "LastUpdate_Ratings": "2024-10-07T16:57:59.587038+00:00",
+  "LastUpdate_Ratings": "2024-10-07T17:59:41.5197668+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:25.9255133+00:00"
 }

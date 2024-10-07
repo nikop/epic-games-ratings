@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 462,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 252,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.61,
+  "Rating": 4.6,
   "NumberOfRatings": 706,
   "RatingHistory": [
     {
@@ -2923,6 +2923,12 @@
     {
       "Time": "2024-10-06T18:59:12.8684307+00:00",
       "Rating": 4.61,
+      "NumberOfAwards": 1320,
+      "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-10-07T17:57:12.0834009+00:00",
+      "Rating": 4.6,
       "NumberOfAwards": 1320,
       "NumberOfAwardsMax": 198
     }
@@ -18999,9 +19005,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2024-10-06T18:59:12.8684305+00:00",
+  "LastChanged": "2024-10-07T17:57:12.0834007+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:00.7274818+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:25.855562+00:00",
-  "LastUpdate_Ratings": "2024-10-07T15:59:12.7910862+00:00",
+  "LastUpdate_Ratings": "2024-10-07T17:57:12.0834011+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:00.7275726+00:00"
 }

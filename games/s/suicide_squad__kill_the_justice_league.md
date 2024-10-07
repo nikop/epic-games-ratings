@@ -67,13 +67,13 @@ Completed: 38 (0.02%) (Ranked 536)
 | 2024-08-20 | 150,702 | 22 |
 | 2024-09-14 | 158,456 | 38 |
 ## Awards
-Max (Highly Recommended): 287  (Ranked 324)  
-Sum: 2,176 (Ranked 260)  
-Diff (max vs sum): 64  
+Max (Highly Recommended): 288  (Ranked 324)  
+Sum: 2,177 (Ranked 259)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |
-| This game is Highly Recommended | 287 |
+| This game is Highly Recommended | 288 |
 | This game is Great for Beginners | 286 |
 | This game is Extremely Fun | 285 |
 | This game has Diverse Characters | 282 |
@@ -261,4 +261,4 @@ Diff (max vs sum): 64
 | 2024-10-04 | 3.78 | 285 | 2,160 |
 | 2024-10-05 | 3.78 | 287 | 2,168 |
 | 2024-10-06 | 3.78 | 287 | 2,173 |
-| 2024-10-07 | 3.78 | 287 | 2,176 |
+| 2024-10-07 | 3.78 | 288 | 2,177 |
