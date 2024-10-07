@@ -2,7 +2,7 @@
   "ID": "3928fd8975b2437d894bbc5cd21de9a0",
   "Name": "Saints Row\u00AE: The Third\u2122  Remastered",
   "ProductSlug": "saints-row-the-third-remastered",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "NumberOfRatings": 6169,
   "RatingHistory": [
     {
@@ -3533,18 +3533,24 @@
       "Rating": 4.4,
       "NumberOfAwards": 3382,
       "NumberOfAwardsMax": 2399
+    },
+    {
+      "Time": "2024-10-07T03:19:14.7611836+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 3386,
+      "NumberOfAwardsMax": 2401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3382,
-  "NumberOfAwardsMax": 2399,
+  "NumberOfAwards": 3386,
+  "NumberOfAwardsMax": 2401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2399
+      "Count": 2401
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3568,13 +3574,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 117
+      "Count": 118
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 128
+      "Count": 129
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3624,8 +3630,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:06.5840635+00:00",
-  "LastChanged": "2024-10-05T18:58:56.9479483+00:00",
+  "LastChanged": "2024-10-07T03:19:14.7611834+00:00",
   "LastUpdate_AppInfo": "2024-09-30T08:57:15.5622153+00:00",
-  "LastUpdate_Ratings": "2024-10-06T23:57:47.2716343+00:00",
+  "LastUpdate_Ratings": "2024-10-07T03:19:14.7611839+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:16.9136447+00:00"
 }

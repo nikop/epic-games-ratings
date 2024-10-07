@@ -2,7 +2,7 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 629,
+  "Ranking_Rating": 630,
   "Ranking_Popularity": 145,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 1254,
@@ -7725,10 +7725,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 16654,
       "NumberOfAwardsMax": 2040
+    },
+    {
+      "Time": "2024-10-07T03:17:13.0838099+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 16671,
+      "NumberOfAwardsMax": 2040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16654,
+  "NumberOfAwards": 16671,
   "NumberOfAwardsMax": 2040,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -7742,7 +7748,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1871
+      "Count": 1888
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7810,8 +7816,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-10-06T17:58:18.0136189+00:00",
+  "LastChanged": "2024-10-07T03:17:13.0838097+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:11.405814+00:00",
-  "LastUpdate_Ratings": "2024-10-06T22:59:06.6921924+00:00",
+  "LastUpdate_Ratings": "2024-10-07T03:17:13.0838103+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:41.475167+00:00"
 }

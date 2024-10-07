@@ -2,9 +2,9 @@
   "ID": "beb7e64d3da74ae780405da48cccb581",
   "Name": "Godlike Burger",
   "ProductSlug": "godlike-burger-4150a0",
-  "Ranking_Rating": 629,
-  "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 608,
+  "Ranking_Rating": 630,
+  "Ranking_Popularity": 714,
+  "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 536,
   "Ranking_EOS_NewPlayers": 3,
@@ -388,10 +388,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 85,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-10-07T03:16:21.2153194+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 86,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85,
+  "NumberOfAwards": 86,
   "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -405,7 +411,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Playful Visuals",
@@ -15301,9 +15307,9 @@
   "FirstSeen": "2022-07-22T20:19:42.5762189+00:00",
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
-  "LastChanged": "2024-10-01T14:59:04.2050366+00:00",
+  "LastChanged": "2024-10-07T03:16:21.2153193+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:54.2558503+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:09.3471603+00:00",
-  "LastUpdate_Ratings": "2024-10-06T22:58:19.8779332+00:00",
+  "LastUpdate_Ratings": "2024-10-07T03:16:21.2153201+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:54.2559428+00:00"
 }

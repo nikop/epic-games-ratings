@@ -2,7 +2,7 @@
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity",
-  "Ranking_Rating": 461,
+  "Ranking_Rating": 462,
   "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 275,
   "Ranking_EOS_Progress": 1254,
@@ -4306,18 +4306,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 1815,
       "NumberOfAwardsMax": 1305
+    },
+    {
+      "Time": "2024-10-07T03:18:22.0508164+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 1817,
+      "NumberOfAwardsMax": 1307
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1815,
-  "NumberOfAwardsMax": 1305,
+  "NumberOfAwards": 1817,
+  "NumberOfAwardsMax": 1307,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1305
+      "Count": 1307
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4409,8 +4415,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-10-06T13:11:38.1268725+00:00",
+  "LastChanged": "2024-10-07T03:18:22.0508162+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:57:31.1152173+00:00",
-  "LastUpdate_Ratings": "2024-10-06T23:00:06.3866094+00:00",
+  "LastUpdate_Ratings": "2024-10-07T03:18:22.0508168+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:32.1250622+00:00"
 }

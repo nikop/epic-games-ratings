@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 361,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 222,
@@ -3394,10 +3394,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 2175,
       "NumberOfAwardsMax": 279
+    },
+    {
+      "Time": "2024-10-07T03:17:30.5286547+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2176,
+      "NumberOfAwardsMax": 279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2175,
+  "NumberOfAwards": 2176,
   "NumberOfAwardsMax": 279,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3429,7 +3435,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 245
+      "Count": 246
     },
     {
       "Text": "This game is Highly Recommended",
@@ -25159,9 +25165,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-10-06T13:10:52.3051221+00:00",
+  "LastChanged": "2024-10-07T03:17:30.5286545+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:09.1046223+00:00",
   "LastUpdate_AppInfo": "2024-09-30T15:58:13.1148999+00:00",
-  "LastUpdate_Ratings": "2024-10-06T22:59:20.5225573+00:00",
+  "LastUpdate_Ratings": "2024-10-07T03:17:30.5286553+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:09.1056354+00:00"
 }
