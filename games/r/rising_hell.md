@@ -4,8 +4,8 @@
 Rating: 4.40 (Ranked 905)  
 ## Awards
 Max (Quickly Understood Controls): 76  (Ranked 518)  
-Sum: 698 (Ranked 388)  
-Diff (max vs sum): 130  
+Sum: 699 (Ranked 387)  
+Diff (max vs sum): 131  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 76 |
@@ -14,8 +14,8 @@ Diff (max vs sum): 130
 | This game is Relaxing | 66 |
 | This game has Unique Visuals | 65 |
 | This game is Extremely Fun | 63 |
+| This game is Great for Quick Sessions | 63 |
 | This game is Great for Beginners | 62 |
-| This game is Great for Quick Sessions | 62 |
 | This game is Highly Recommended | 60 |
 | This game has Amazing Characters | 60 |
 | This game has a Creative Community | 43 |
@@ -87,3 +87,4 @@ Diff (max vs sum): 130
 | 2024-09-15 | 4.40 | 76 | 696 |
 | 2024-09-21 | 4.40 | 76 | 697 |
 | 2024-09-29 | 4.40 | 76 | 698 |
+| 2024-10-07 | 4.40 | 76 | 699 |

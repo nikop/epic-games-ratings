@@ -7785,10 +7785,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7976,
       "NumberOfAwardsMax": 1929
+    },
+    {
+      "Time": "2024-10-07T12:00:11.365046+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7982,
+      "NumberOfAwardsMax": 1929
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7976,
+  "NumberOfAwards": 7982,
   "NumberOfAwardsMax": 1929,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7802,19 +7808,19 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 694
+      "Count": 695
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 729
+      "Count": 730
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 729
+      "Count": 730
     },
     {
       "Text": "This game has Diverse Characters",
@@ -7838,19 +7844,19 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 618
+      "Count": 619
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 633
+      "Count": 634
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 661
+      "Count": 662
     },
     {
       "Text": "This game has a Creative Community",
@@ -24337,9 +24343,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-10-07T03:19:06.6339367+00:00",
+  "LastChanged": "2024-10-07T12:00:11.3650458+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:11.7434528+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:26.1034993+00:00",
-  "LastUpdate_Ratings": "2024-10-07T10:00:14.2047684+00:00",
+  "LastUpdate_Ratings": "2024-10-07T12:00:11.3650463+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:11.7436881+00:00"
 }
