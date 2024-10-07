@@ -2,7 +2,7 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 20,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 1254,
@@ -12193,10 +12193,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 42395,
       "NumberOfAwardsMax": 31843
+    },
+    {
+      "Time": "2024-10-07T13:58:44.5687738+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 42396,
+      "NumberOfAwardsMax": 31843
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42395,
+  "NumberOfAwards": 42396,
   "NumberOfAwardsMax": 31843,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -12240,7 +12246,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1126
+      "Count": 1127
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12284,8 +12290,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
-  "LastChanged": "2024-10-07T06:59:51.4659301+00:00",
+  "LastChanged": "2024-10-07T13:58:44.5687736+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:04.5844251+00:00",
-  "LastUpdate_Ratings": "2024-10-07T10:59:02.0962476+00:00",
+  "LastUpdate_Ratings": "2024-10-07T13:58:44.5687743+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:49.280134+00:00"
 }
