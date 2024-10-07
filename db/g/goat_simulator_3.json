@@ -2,7 +2,7 @@
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
-  "Ranking_Rating": 66,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 216,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 82,
@@ -12905,10 +12905,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 7249,
       "NumberOfAwardsMax": 942
+    },
+    {
+      "Time": "2024-10-07T03:58:04.0850028+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 7252,
+      "NumberOfAwardsMax": 942
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7249,
+  "NumberOfAwards": 7252,
   "NumberOfAwardsMax": 942,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12976,7 +12982,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 676
+      "Count": 679
     }
   ],
   "EOS_Progressed": 310287,
@@ -44559,9 +44565,9 @@
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-10-06T21:59:57.3280718+00:00",
+  "LastChanged": "2024-10-07T03:58:04.0850026+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:56.2806585+00:00",
   "LastUpdate_AppInfo": "2024-09-30T14:58:43.2344117+00:00",
-  "LastUpdate_Ratings": "2024-10-06T23:58:53.950408+00:00",
+  "LastUpdate_Ratings": "2024-10-07T03:58:04.0850031+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:56.2808048+00:00"
 }
