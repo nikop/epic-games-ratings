@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 652,
   "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1860,10 +1860,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 962,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2024-10-07T20:58:44.409886+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 963,
+      "NumberOfAwardsMax": 184
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 962,
+  "NumberOfAwards": 963,
   "NumberOfAwardsMax": 184,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1919,7 +1925,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Easy Combat",
@@ -1940,8 +1946,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-10-07T13:59:02.2556618+00:00",
+  "LastChanged": "2024-10-07T20:58:44.4098858+00:00",
   "LastUpdate_AppInfo": "2024-10-04T23:57:06.9062274+00:00",
-  "LastUpdate_Ratings": "2024-10-07T18:59:21.5051187+00:00",
+  "LastUpdate_Ratings": "2024-10-07T20:58:44.4098865+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:17.3598509+00:00"
 }

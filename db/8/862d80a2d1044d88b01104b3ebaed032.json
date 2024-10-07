@@ -4,7 +4,7 @@
   "ProductSlug": "god-of-war-ragnarok-3ca641",
   "Ranking_Rating": 20,
   "Ranking_Popularity": 442,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -672,10 +672,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 959,
       "NumberOfAwardsMax": 129
+    },
+    {
+      "Time": "2024-10-07T20:59:57.8664212+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 984,
+      "NumberOfAwardsMax": 129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 959,
+  "NumberOfAwards": 984,
   "NumberOfAwardsMax": 129,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -683,7 +689,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 86
+      "Count": 92
     },
     {
       "Text": "This game is Great for Beginners",
@@ -707,7 +713,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 98
+      "Count": 107
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -737,7 +743,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 79
+      "Count": 89
     },
     {
       "Text": "This game has Competitive Players",
@@ -784,9 +790,9 @@
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
-  "LastChanged": "2024-10-07T19:57:35.7321842+00:00",
+  "LastChanged": "2024-10-07T20:59:57.866421+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
   "LastUpdate_AppInfo": "2024-10-04T13:13:52.6197864+00:00",
-  "LastUpdate_Ratings": "2024-10-07T19:57:35.7321847+00:00",
+  "LastUpdate_Ratings": "2024-10-07T20:59:57.8664215+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
 }
