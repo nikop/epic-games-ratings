@@ -59,7 +59,7 @@
 | [Garden Witch Life](games/0/0ff2a1392b884d6fba75823c49c96af4.md) | 2024-09-12 | 26 (1,000 XP) | 6 | - | 0 |
 | [Line Time](games/e/ef5a6a2ad7a24dbc91622a36ebc45ed0.md) | 2024-09-12 | 15 (1,000 XP) | 0 | - | - |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 482 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 492 |
 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
@@ -419,7 +419,7 @@
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 14 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 586,224 | 4.30 | 595 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 586,224 | 4.30 | 597 |
 | [Island Idle RPG](games/a/a516fac159ae4af39f50dc7bcdb94b7d.md) | 2024-02-07 | 23 (1,000 XP) | 205 | - | 0 |
 | [CLeM](games/a/a78848dfcbb046deadbc956260fd9123.md) | 2024-02-06 | 18 (1,000 XP) | 30 | - | 0 |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 1 | - | - |
@@ -489,7 +489,7 @@
 | [Epic World - Hunt For Quest](games/2/2f46b1c7a34944f5acf90fe0b0c3368e.md) | 2023-12-07 | 10 (1,000 XP) | 6 | - | - |
 | [Funtoon's World](games/a/a7ec33941949459cab07e39c65ca4309.md) | 2023-12-07 | 6 (1,000 XP) | 16 | - | 0 |
 | [Super Kids Racing](games/6/69cf8b0d605e4d88bc89e2c04199ab2e.md) | 2023-12-07 | 8 (1,000 XP) | 15 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 86 (1,250 XP) | 18,721 | 4.70 | 349 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 86 (1,250 XP) | 18,721 | 4.70 | 353 |
 | [NINJA KATO 1](games/1/1d712926020a45dc8fe28cb4c963c9ce.md) | 2023-12-07 | 8 (1,000 XP) | 12 | - | - |
 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 2023-12-07 | 5 (1,000 XP) | 1,580 | - | 0 |
 | [Miniland Adventure](games/8/8900287f0941428abcdd1b92af29abce.md) | 2023-12-07 | 52 (1,000 XP) | 56 | - | 0 |
@@ -1086,7 +1086,7 @@
 | [Runbow](games/r/runbow.md) | 2022-09-29 | 46 (1,000 XP) | 258,787 | 4.46 | 0 |
 | [RAILGRADE](games/r/railgrade.md) | 2022-09-29 | 37 (1,000 XP) | 16,798 | 4.55 | 100 |
 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 2022-09-29 | 24 (1,000 XP) | 40,757 | 4.40 | 44 |
-| [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 2022-09-26 | 40 (1,000 XP) | 89 | 4.54 | 38 |
+| [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 2022-09-26 | 40 (1,000 XP) | 89 | 4.54 | 45 |
 | [Potion Permit](games/p/potion_permit.md) | 2022-09-22 | 38 (1,000 XP) | 2,504 | 4.02 | 83 |
 | [Gloomhaven](games/g/gloomhaven.md) | 2022-09-22 | 61 (1,000 XP) | 66,550 | 4.47 | 3,786 |
 | [Serial Cleaners](games/s/serial_cleaners.md) | 2022-09-22 | 24 (1,300 XP) | 493 | - | 0 |
@@ -1205,7 +1205,7 @@
 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2022-02-10 | 15 (1,000 XP) | 13,652 | 4.23 | 0 |
 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 2022-02-10 | 21 (1,000 XP) | 196 | - | 0 |
 | [Sifu](games/s/sifu.md) | 2022-02-08 | 60 (1,720 XP) | 790,667 | 4.82 | 8,563 |
-| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,261,035 | 4.59 | 19,142 |
+| [Dying Light 2 Stay Human - Reloaded Edition](games/d/dying_light_2_stay_human.md) | 2022-02-04 | 65 (1,200 XP) | 1,261,035 | 4.59 | 19,158 |
 | [Expeditions: Rome](games/e/expeditions__rome.md) | 2022-01-20 | 70 (1,000 XP) | 764 | 4.69 | 58 |
 | [HITMAN World of Assassination](games/h/hitman_3.md) | 2022-01-20 | 47 (1,000 XP) | 1,490,867 | 4.76 | 14,191 |
 | [Iron Danger](games/i/iron_danger.md) | 2022-01-18 | 23 (1,000 XP) | 587 | - | 0 |
@@ -1220,7 +1220,7 @@
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 20 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,768 | 4.44 | 38 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 639,434 | 4.51 | 154 |
-| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,142,884 | 4.61 | 25,104 |
+| [Farming Simulator 22](games/f/farming_simulator_22.md) | 2021-11-22 | 43 (1,000 XP) | 3,142,884 | 4.61 | 25,204 |
 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 2021-11-19 | 34 (1,000 XP) | 202,325 | - | 0 |
 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 2021-11-16 | 59 (1,000 XP) | 584,492 | 4.37 | 498 |
 | [Lifeslide](games/l/lifeslide.md) | 2021-11-15 | 31 (1,000 XP) | 393 | - | 0 |
@@ -1299,7 +1299,7 @@
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,500,450 | 4.65 | 9,488 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,609 | 4.64 | 0 |
 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,051 | 4.66 | 2,109 |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 179,871 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 179,957 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 266 | 4.16 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 30,004 | 4.86 | 60 |
 | [Dungeons 3](games/d/dungeons_3.md) | 2020-11-05 | 60 (1,000 XP) | 62,613 | 4.66 | 479 |

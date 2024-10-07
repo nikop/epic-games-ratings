@@ -14,7 +14,7 @@
 | [Wild Bastards](games/c/c938c13bd45843738cd4443069c76e74.md) | 2024-09-12 | 27 (1,000 XP) | 37 | - | 0 |
 | [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-08-06 | 40 (1,000 XP) | 4 | - | - |
 | [Squirrel with a Gun](games/d/dbfff2d3f4dc446b8f4931ed8a353685.md) | 2024-08-29 | 19 (1,000 XP) | 1,289 | 4.71 | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 482 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 492 |
 | [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 2024-09-06 | 32 (1,000 XP) | 0 | - | 0 |
 | [Gordian Rooms 2 - A curious island](games/0/0a614259bea749cd93e59347d35df9ae.md) | 2024-09-06 | 30 (1,000 XP) | 6 | - | 0 |
@@ -395,7 +395,7 @@
 | [Hidden Shapes Lovely Cats](games/0/09d5ec77740e470993122a1a16f508aa.md) | 2024-03-07 | 42 (1,000 XP) | 186 | - | 0 |
 | [Zombie Defense TD](games/4/4e678071364c4d0abe352925f84ad5e2.md) | 2024-03-05 | 32 (1,000 XP) | 2 | - | 0 |
 | [Camp Canyonwood](games/7/760df178070b4dcbbfbe498b07b5d1a8.md) | 2024-02-26 | 44 (1,000 XP) | 60 | - | 0 |
-| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 586,224 | 4.30 | 595 |
+| [Lost Castle](games/a/ab29925a0a9a49598adba45d108ceb3e.md) | 2024-02-08 | 98 (1,000 XP) | 586,224 | 4.30 | 597 |
 | [Death From Above - Complete Edition](games/f/f7dd9963616b4c1d9b89d5582a07766c.md) | 2024-02-23 | 21 (1,000 XP) | 0 | - | 0 |
 | [Those who Came:Healing Solarus - Definitive Edition](games/5/5d58c784b440452e854593ab737535fd.md) | 2024-01-31 | 14 (1,000 XP) | 3 | - | - |
 | [The Chosen One by the World](games/e/e075cda690de4ad68eaa173317863162.md) | 2024-02-05 | 5 (1,000 XP) | 1 | - | - |
@@ -504,7 +504,7 @@
 | [Stone Guardian](games/9/97e89a0da1004cdfb0661afb798fc495.md) | 2023-12-07 | 16 (1,000 XP) | 17 | - | - |
 | [Super Kids Racing - Mini Edition](games/0/05f959ab5f6d4c64b1072b752ec27140.md) | 2023-12-09 | 5 (1,000 XP) | 24 | - | 0 |
 | [Born of Bread](games/2/269f94247b4f471b9381fd4052bf1fad.md) | 2023-12-05 | 36 (1,000 XP) | 83 | - | 0 |
-| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 86 (1,250 XP) | 18,721 | 4.70 | 349 |
+| [Warhammer 40,000: Rogue Trader](games/c/cb88aea9aed742e4a911a65c4898d857.md) | 2023-12-07 | 86 (1,250 XP) | 18,721 | 4.70 | 353 |
 | [DNF Duel](games/3/3eb832eb6d9f4496818a0b0d667420c0.md) | 2023-12-18 | 43 (1,000 XP) | 720,919 | 4.34 | 174 |
 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 2023-12-21 | 8 (1,000 XP) | 20,169 | - | 0 |
 | [Asterix and Obelix Heroes](games/b/be7cf2a479094ae88f605dd9f77430cf.md) | 2023-10-05 | 22 (1,000 XP) | 69 | - | 0 |
@@ -575,7 +575,7 @@
 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 2023-11-11 | 11 (1,000 XP) | 137 | - | 0 |
 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 2022-05-26 | 60 (1,000 XP) | 1,224 | 4.69 | 765 |
 | [Galactic Empire](games/6/684f406af86a4a7eb01a8b263e7280e2.md) | 2023-11-17 | 67 (1,000 XP) | 9 | - | 0 |
-| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 179,871 |
+| [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 179,957 |
 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 2023-11-03 | 27 (1,000 XP) | 5 | - | 0 |
 | [DINOSAURS: Mission Dino Camp](games/2/20938450f73b48a9bb1a5243bcac965b.md) | 2023-11-01 | 21 (1,000 XP) | 0 | - | 0 |
 | [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 447 | - | - |

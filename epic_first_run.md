@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
 | [Sherlock Purr 2](games/6/6ab3e6e651b44c47a01354fe34eeab3c.md) | 2024-10-04 | - |  | - | 0 |
 | [Ponchiqs](games/2/2c3811eee56e4fb98681ef11991e73dc.md) | 2024-09-30 | - |  | - | - |
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |

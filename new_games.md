@@ -62,7 +62,7 @@
 | [EARTH DEFENSE FORCE: WORLD BROTHERS 2](games/7/72ddb9018c6047abb75fb8c97c8e8e92.md) | 2024-09-26 | - |  | - | 0 |
 | [Iron Meat](games/e/efcb5d283a3841a993f0c953ba28c264.md) | 2024-09-26 | - |  | - | 0 |
 | [Exographer](games/8/8cbdeae1e8b24e809cc445974e872f25.md) | 2024-09-26 | - |  | - | 0 |
-| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | - | - |
+| [Priest Simulator: Vampire Show](games/5/549f7581de7a4227a9f91f03282424de.md) | 2024-09-26 | - |  | - | 0 |
 | [#DRIVE Rally](games/3/395197ba9a1541318975c7c01aea5c56.md) | 2024-09-25 | 27 (1,000 XP) | 1 | - | 0 |
 | [Murder On Space Station 52](games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 2024-09-25 | 23 (1,000 XP) | 1 | - | 0 |
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | 0 |
@@ -122,7 +122,7 @@
 | [KurtzPel](games/7/727a79e37aea499db68214a27867aec2.md) | 2024-09-11 | - |  | - | 0 |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 6 | - | 0 |
 | [Asilium 2](games/8/8003a47f7a024beeac824c38c1ace029.md) | 2024-09-09 | - |  | - | 0 |
-| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 482 |
+| [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | 49 (1,000 XP) | 147,344 | 4.69 | 492 |
 | [Block Master 3D Puzzle](games/8/83cd8bf12dcc4a579f2c36a20974ef09.md) | 2024-09-08 | - |  | - | 0 |
 | [Wolf Simulator: Silent Paws](games/6/6dce698021fe497aa25d47a584cf47ba.md) | 2024-09-08 | - |  | - | 0 |
 | [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |
