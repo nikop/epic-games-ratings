@@ -5,7 +5,7 @@ Rating: 4.71 (Ranked 229)
 Number of Ratings: 414  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 35  (Ranked 635)  
-Sum: 248 (Ranked 510)  
+Sum: 249 (Ranked 510)  
 Diff (max vs sum): 125  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 125
 | This game is Great for Quick Sessions | 32 |
 | This game has Realistic Visuals | 32 |
 | This game is Highly Recommended | 31 |
-| This game is Extremely Fun | 29 |
+| This game is Extremely Fun | 30 |
 | This game is Relaxing | 28 |
 | This game has Amazing Characters | 27 |
 | This game has Diverse Characters | 26 |
@@ -190,3 +190,4 @@ Diff (max vs sum): 125
 | 2024-09-27 | 4.70 | - | 33 | 246 |
 | 2024-09-28 | 4.71 | - | 33 | 246 |
 | 2024-10-01 | 4.71 | - | 35 | 248 |
+| 2024-10-07 | 4.71 | - | 35 | 249 |

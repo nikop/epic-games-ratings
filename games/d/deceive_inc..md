@@ -1,7 +1,7 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.51 (Ranked 695)  
+Rating: 4.50 (Ranked 713)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -333,15 +333,15 @@ Completed: 6 (0.02%) (Ranked 536)
 | 2024-09-14 | 37,188 | 6 |
 ## Awards
 Max (Diverse Characters): 35  (Ranked 635)  
-Sum: 154 (Ranked 558)  
+Sum: 155 (Ranked 558)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 35 |
 | This game is Highly Recommended | 25 |
+| This game has Amazing Characters | 24 |
 | This game has Challenging Combat | 24 |
 | This game is Extremely Fun | 24 |
-| This game has Amazing Characters | 23 |
 | This game has Playful Visuals | 23 |
 | This game is Great for Quick Sessions | 22 |
 ## Ratings History
@@ -447,3 +447,4 @@ Diff (max vs sum): 77
 | 2024-10-01 | 4.51 | 34 | 152 |
 | 2024-10-02 | 4.51 | 34 | 153 |
 | 2024-10-03 | 4.51 | 35 | 154 |
+| 2024-10-07 | 4.50 | 35 | 155 |

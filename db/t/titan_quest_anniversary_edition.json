@@ -4,7 +4,7 @@
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 300,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 453,
+  "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1207,10 +1207,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 381,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-10-07T16:58:58.4803382+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 383,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 381,
+  "NumberOfAwards": 383,
   "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1224,7 +1230,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 83
+      "Count": 85
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1280,8 +1286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-10-06T23:57:55.8198982+00:00",
-  "LastUpdate_AppInfo": "2024-09-30T15:57:43.4197548+00:00",
-  "LastUpdate_Ratings": "2024-10-07T14:59:34.5377896+00:00",
+  "LastChanged": "2024-10-07T16:58:58.4803381+00:00",
+  "LastUpdate_AppInfo": "2024-10-07T16:57:11.1576809+00:00",
+  "LastUpdate_Ratings": "2024-10-07T16:58:58.4803386+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:38.2459869+00:00"
 }
