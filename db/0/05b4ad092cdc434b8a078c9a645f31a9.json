@@ -2,7 +2,7 @@
   "ID": "05b4ad092cdc434b8a078c9a645f31a9",
   "Name": "Intonight",
   "ProductSlug": "intonight-74c196",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 968,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-07-30T13:08:08.9561258+00:00",
@@ -168,6 +168,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-07T19:59:51.4571524+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -186,8 +192,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-22T15:01:17.4230801+00:00",
   "FirstSeenRating": "2024-07-30T13:08:08.9561255+00:00",
-  "LastChanged": "2024-10-05T20:57:32.6365927+00:00",
+  "LastChanged": "2024-10-07T19:59:51.4571522+00:00",
   "LastUpdate_AppInfo": "2024-10-05T09:57:34.0407939+00:00",
-  "LastUpdate_Ratings": "2024-10-07T17:59:53.8907923+00:00",
+  "LastUpdate_Ratings": "2024-10-07T19:59:51.457153+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:25.3703215+00:00"
 }
