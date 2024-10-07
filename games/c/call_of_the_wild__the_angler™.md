@@ -345,12 +345,12 @@ Completed: 78 (0.01%) (Ranked 559)
 | 2024-09-14 | 949,474 | 78 |
 ## Awards
 Max (Great for Beginners): 911  (Ranked 220)  
-Sum: 3,043 (Ranked 220)  
+Sum: 3,046 (Ranked 220)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 911 |
-| This game is Highly Recommended | 456 |
+| This game is Highly Recommended | 459 |
 | This game has Amazing Storytelling | 360 |
 | This game is Extremely Fun | 345 |
 | This game is Educational | 343 |
@@ -686,3 +686,4 @@ Diff (max vs sum): 0
 | 2024-10-04 | 4.25 | - | 904 | 3,022 |
 | 2024-10-05 | 4.25 | - | 907 | 3,033 |
 | 2024-10-06 | 4.25 | - | 911 | 3,043 |
+| 2024-10-07 | 4.25 | - | 911 | 3,046 |

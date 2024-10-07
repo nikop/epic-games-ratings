@@ -1,11 +1,11 @@
 # Rain World
 [Store](https://store.epicgames.com/en-US/p/rain-world-4c860c)  
 [View Rawdata](../../db/r/rain_world.json)  
-Rating: 4.86 (Ranked 32)  
+Rating: 4.86 (Ranked 31)  
 ## Awards
-Max (Great for Quick Sessions): 35  (Ranked 634)  
+Max (Great for Quick Sessions): 35  (Ranked 635)  
 Sum: 114 (Ranked 583)  
-Diff (max vs sum): 51  
+Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 35 |
