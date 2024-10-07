@@ -1,16 +1,16 @@
 # CRSED: Cuisine Royale
 [Store](https://store.epicgames.com/en-US/p/crsed-f-o-a-d)  
 [View Rawdata](../../db/c/crsed__f.o.a.d..json)  
-Rating: 4.29 (Ranked 1,048)  
+Rating: 4.29 (Ranked 1,047)  
 Number of Ratings: 464  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 125  (Ranked 450)  
-Sum: 914 (Ranked 351)  
+Sum: 915 (Ranked 351)  
 Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 125 |
-| This game has Diverse Characters | 116 |
+| This game has Diverse Characters | 117 |
 | This game has Amazing Characters | 108 |
 | This game has Competitive Players | 101 |
 | This game has Quickly Understood Controls | 101 |
@@ -296,3 +296,4 @@ Diff (max vs sum): 99
 | 2024-10-04 | 4.30 | - | 124 | 911 |
 | 2024-10-05 | 4.30 | - | 124 | 912 |
 | 2024-10-06 | 4.29 | - | 125 | 914 |
+| 2024-10-07 | 4.29 | - | 125 | 915 |
