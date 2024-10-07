@@ -131,7 +131,7 @@
 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 2024-07-11 | 18 (1,000 XP) | 71,349 | 4.45 | 32 |
 | [Empire of the Gods](games/c/c21d21b921bb4c23bf93ab40b636d69b.md) | 2024-07-01 | 15 (1,000 XP) | 28 | - | - |
 | [Romopolis](games/c/cd69fe35f5af4b3eafcc8e5e837c0f2b.md) | 2024-07-10 | 22 (1,000 XP) | 90 | - | 0 |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.17 | 133 |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.17 | 138 |
 | [Bewitched Part 1](games/a/ad301bcb6ada429a8877384b65aff932.md) | 2024-07-26 | 18 (1,000 XP) | 2 | - | 0 |
 | [Universe Millionaire: The New Era of Energy](games/3/3d349ad0280249afa0148a2f159c7988.md) | 2024-07-02 | 5 (1,000 XP) | 0 | - | - |
 | [Time Travel: Escape Room Game](games/6/6d5cd78354154858b6a05f84e6ffbea8.md) | 2024-09-05 | 13 (1,000 XP) | 0 | - | 0 |
@@ -366,7 +366,7 @@
 | [Saviorless](games/s/saviorless.md) | 2024-04-02 | 27 (1,000 XP) | 0 | - | 0 |
 | [Booze Masters: Freezing Moonshine](games/d/deca76ccbe584df395bc785c61653e50.md) | 2023-12-13 | 35 (1,000 XP) | 0 | - | 0 |
 | [WW2 Bunker Simulator](games/c/c45afa4ac296479abee2e864b4496318.md) | 2024-04-10 | 19 (1,000 XP) | 72 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,639 | 4.56 | 193 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,639 | 4.57 | 193 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 27 (1,000 XP) | 53,577 | 4.65 | 952 |
 | [Project Element](games/a/a9c5d48f93f742d8b8225d21f23fe95b.md) | 2024-03-13 | 6 (1,000 XP) | 17 | - | - |
 | [100 Doors Escape: Let me In!](games/3/3876cf5c14134c79a4d1c73b693f1e86.md) | 2024-03-19 | 10 (1,000 XP) | 16 | - | 0 |
@@ -684,7 +684,7 @@
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 8,217 | - | - |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 86,923 | - | - |
 | [Madden NFL 23](games/m/madden_nfl_23.md) | 2022-08-19 | 21 (1,000 XP) | 5,313 | 4.29 | 65 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 248,288 | 4.26 | 24,871 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 248,288 | 4.26 | 24,873 |
 | [F1® 22 Standard Edition](games/f/f1®_22_standard_edition.md) | - | 50 (1,000 XP) | 0 | - | - |
 | [Dead Space](games/d/dead_space.md) | 2023-01-27 | 47 (1,000 XP) | 27,910 | 4.72 | 586 |
 | [CyberTD](games/a/adab489f8cd8435aa1e0afe1463ec550.md) | 2023-09-28 | 42 (1,000 XP) | 25 | - | 0 |
@@ -785,11 +785,11 @@
 | [Nephise: Ascension](games/d/d683909340554b3396b3aa477c07639e.md) | 2023-09-15 | 10 (1,000 XP) | 0 | - | 0 |
 | [Bottle: Pilgrim Redux](games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 2023-10-13 | 24 (1,000 XP) | 0 | - | - |
 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 2023-08-04 | 26 (1,000 XP) | 94,502 | 4.20 | 0 |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 378,254 | 4.42 | 48 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 378,254 | 4.42 | 49 |
 | [SlavicPunk: Oldtimer](games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 2023-08-11 | 74 (1,000 XP) | 2 | - | 0 |
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 104,046 | 3.94 | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 915,468 | 4.53 | 1,386 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.59 | 335 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.59 | 337 |
 | [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 52 (1,000 XP) | 495 | - | 0 |
 | [laserlemon Production](games/l/laserlemon_production.md) | - | 22 (1,000 XP) | 34 | - | - |
 | [No Son Of Mine](games/1/1c916c48d92b4e8d9f6fed2816f5e464.md) | 2023-09-06 | 11 (1,000 XP) | 17 | - | 0 |

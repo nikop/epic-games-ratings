@@ -130,7 +130,7 @@
 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 11 (1,000 XP) | 1 | - | 0 |
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 16 | - | 0 |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.17 | 133 |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.17 | 138 |
 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2024-08-06 | 38 (1,045 XP) | 3,553 | 4.24 | 0 |
 | [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-08-06 | 40 (1,000 XP) | 4 | - | - |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | 34 (1,000 XP) | 3 | - | - |
@@ -415,7 +415,7 @@
 | [Loca Deserta: Odesa](games/c/c29a096e453645309273f04dd3c09bfb.md) | 2024-02-13 | 32 (1,000 XP) | 34 | - | 0 |
 | [Lysfanga: The Time Shift Warrior](games/4/4d7b7a63e2f4443bb29486d8f4db941b.md) | 2024-02-13 | 63 (1,000 XP) | 88 | - | 0 |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | 31 (1,000 XP) | 161 | - | 0 |
-| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,639 | 4.56 | 193 |
+| [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | 43 (1,000 XP) | 2,639 | 4.57 | 193 |
 | [Airhead](games/a/airhead.md) | 2024-02-12 | 29 (1,000 XP) | 14 | - | 0 |
 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 2024-02-08 | 26 (1,000 XP) | 14 | - | 0 |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | 41 (1,000 XP) | 5 | - | 0 |
@@ -697,7 +697,7 @@
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-08-29 | 46 (1,000 XP) | 175 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,863 | 4.83 | 83 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 378,254 | 4.42 | 48 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 378,254 | 4.42 | 49 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 10,385 | 4.68 | 32 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | 41 (1,000 XP) | 0 | - | 0 |
@@ -735,7 +735,7 @@
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 156 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 915,468 | 4.53 | 1,386 |
-| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.59 | 335 |
+| [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.59 | 337 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 49 | - | 0 |
 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 2023-07-28 | 11 (1,000 XP) | 478 | - | 0 |
@@ -966,7 +966,7 @@
 | [Chess Ultra](games/c/chess_ultra.md) | 2023-03-23 | 38 (1,000 XP) | 251,368 | 4.29 | 31 |
 | [Quest of Dungeons](games/q/quest_of_dungeons.md) | 2023-03-23 | 25 (1,000 XP) | 87 | - | 0 |
 | [Gigapocalypse](games/g/gigapocalypse.md) | 2023-03-22 | 53 (1,000 XP) | 229 | - | 0 |
-| [Deceive Inc.](games/d/deceive_inc..md) | 2023-03-21 | 36 (1,000 XP) | 37,188 | 4.51 | 35 |
+| [Deceive Inc.](games/d/deceive_inc..md) | 2023-03-21 | 36 (1,000 XP) | 37,188 | 4.50 | 35 |
 | [Tchia](games/t/tchia.md) | 2023-03-21 | 21 (1,000 XP) | 9,404 | 4.71 | 0 |
 | [12 orbits](games/1/12_orbits.md) | 2023-03-18 | 25 (1,000 XP) | 37 | - | 0 |
 | [Heim](games/h/heim.md) | 2023-03-17 | 36 (1,000 XP) | 1 | - | - |
@@ -1039,7 +1039,7 @@
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 432 | - | 0 |
 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 2022-11-18 | 15 (1,000 XP) | 613 | - | 0 |
 | [Night Book](games/n/night_book.md) | 2022-11-18 | 17 (1,000 XP) | 497 | - | 0 |
-| [Goat Simulator 3](games/g/goat_simulator_3.md) | 2022-11-17 | 54 (1,705 XP) | 310,287 | 4.83 | 942 |
+| [Goat Simulator 3](games/g/goat_simulator_3.md) | 2022-11-17 | 54 (1,705 XP) | 310,287 | 4.83 | 944 |
 | [My Fantastic Ranch: Unicorns & Dragons](games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 2022-11-17 | 25 (1,000 XP) | 70 | - | 0 |
 | [Cursed Castilla (Maldita Castilla EX)](games/c/cursed_castilla_(maldita_castilla_ex).md) | 2022-11-17 | 16 (1,000 XP) | 94 | - | 0 |
 | [Somerville](games/s/somerville.md) | 2022-11-15 | 11 (1,000 XP) | 1,789 | 4.24 | 0 |
@@ -1060,7 +1060,7 @@
 | [Saturnalia](games/s/saturnalia.md) | 2022-10-27 | 20 (1,000 XP) | 76,496 | 4.26 | 0 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 2022-10-27 | 23 (1,000 XP) | 13 | - | 0 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 2022-10-22 | 16 (1,000 XP) | 210,404 | 4.15 | 0 |
-| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 92,002 | 4.19 | 3,793 |
+| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 92,002 | 4.19 | 3,795 |
 | [Late Shift](games/l/late_shift.md) | 2022-10-21 | 20 (1,000 XP) | 2,989 | - | 0 |
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 279 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 4,183 | 4.09 | 0 |
@@ -1079,7 +1079,7 @@
 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 2022-10-06 | 29 (1,000 XP) | 53,424 | 4.27 | 137 |
 | [The Complex](games/t/the_complex.md) | 2022-10-04 | 20 (1,000 XP) | 1,396 | - | 0 |
 | [Airoheart](games/a/airoheart.md) | 2022-09-30 | 29 (1,000 XP) | 0 | - | 0 |
-| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 248,288 | 4.26 | 24,871 |
+| [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 2022-09-30 | 39 (1,000 XP) | 248,288 | 4.26 | 24,873 |
 | [Bunny Park](games/b/bunny_park.md) | 2022-09-30 | 18 (1,000 XP) | 348 | - | 0 |
 | [Lemon Cake](games/l/lemon_cake.md) | 2022-09-29 | 17 (1,000 XP) | 328 | - | 0 |
 | [Despot's Game](games/d/despot's_game.md) | 2022-09-29 | 35 (1,000 XP) | 574 | 4.43 | 0 |
@@ -1275,7 +1275,7 @@
 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2021-04-29 | 32 (1,000 XP) | 771 | 3.75 | 0 |
 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 2021-04-22 | 48 (1,000 XP) | 675,691 | 4.53 | 44 |
 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 2021-04-15 | 41 (1,000 XP) | 22,040 | 4.49 | 175 |
-| [The First Tree](games/t/the_first_tree.md) | 2021-04-15 | 14 (1,000 XP) | 47,776 | 4.02 | 0 |
+| [The First Tree](games/t/the_first_tree.md) | 2021-04-15 | 14 (1,000 XP) | 47,776 | 4.03 | 0 |
 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 2021-04-13 | 12 (1,000 XP) | 1,001 | - | 0 |
 | [Spacebase Startopia - Standard Edition](games/s/spacebase_startopia.md) | 2021-03-26 | 30 (1,000 XP) | 18 | - | 0 |
 | [The Tenants](games/t/the_tenants.md) | 2021-03-25 | 86 (1,400 XP) | 9,865 | 4.54 | 0 |
@@ -1298,7 +1298,7 @@
 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 2020-12-20 | 87 (1,000 XP) | 507,427 | 4.45 | 337 |
 | [Cities: Skylines](games/c/cities__skylines.md) | 2020-12-17 | 119 (2,580 XP) | 1,500,450 | 4.65 | 9,488 |
 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 2020-12-17 | 27 (1,000 XP) | 8,609 | 4.64 | 0 |
-| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,051 | 4.66 | 2,107 |
+| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 2020-12-10 | 48 (1,000 XP) | 1,051 | 4.66 | 2,109 |
 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 2020-12-10 | 57 (1,500 XP) | 1,122,807 | 4.69 | 179,871 |
 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 2020-12-01 | 43 (1,000 XP) | 266 | 4.16 | 0 |
 | [Bugsnax](games/b/bugsnax.md) | 2020-11-12 | 30 (1,000 XP) | 30,004 | 4.86 | 60 |
