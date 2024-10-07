@@ -3,8 +3,8 @@
   "Name": "Plants vs. Zombies\u2122: BFN Deluxe Edition",
   "ProductSlug": "plants-vs-zombies-bfn-deluxe-edition-80d6cb",
   "Ranking_Rating": 672,
-  "Ranking_Popularity": 714,
-  "Ranking_PopularitySum": 717,
+  "Ranking_Popularity": 702,
+  "Ranking_PopularitySum": 709,
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -216,18 +216,24 @@
       "Rating": 4.52,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-10-07T10:59:23.4281838+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 1296,
@@ -678,9 +684,9 @@
   "FirstSeen": "2024-05-12T13:02:54.2996314+00:00",
   "FirstSeenRating": "2024-08-16T14:00:34.766929+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:57.1363121+00:00",
-  "LastChanged": "2024-10-07T05:58:21.427091+00:00",
+  "LastChanged": "2024-10-07T10:59:23.4281836+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:32.897587+00:00",
   "LastUpdate_AppInfo": "2024-10-04T13:13:50.8361106+00:00",
-  "LastUpdate_Ratings": "2024-10-07T08:59:35.9460261+00:00",
+  "LastUpdate_Ratings": "2024-10-07T10:59:23.4281843+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:32.8976251+00:00"
 }
