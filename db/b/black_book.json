@@ -3,8 +3,8 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 361,
-  "Ranking_Popularity": 418,
-  "Ranking_PopularitySum": 481,
+  "Ranking_Popularity": 416,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 441,
   "Ranking_EOS_NewPlayers": 3,
@@ -985,18 +985,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2024-10-08T15:59:20.261575+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
-  "NumberOfAwardsMax": 151,
+  "NumberOfAwards": 318,
+  "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 151
+      "Count": 153
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19208,9 +19214,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
-  "LastChanged": "2024-10-05T18:59:17.5384451+00:00",
+  "LastChanged": "2024-10-08T15:59:20.2615748+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:35.5084712+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:16.1495997+00:00",
-  "LastUpdate_Ratings": "2024-10-08T13:59:56.0009429+00:00",
+  "LastUpdate_Ratings": "2024-10-08T15:59:20.2615755+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:35.5085942+00:00"
 }

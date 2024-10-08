@@ -3,8 +3,8 @@
   "Name": "Star Wars Outlaws",
   "ProductSlug": "star-wars-outlaws",
   "Ranking_Rating": 989,
-  "Ranking_Popularity": 692,
-  "Ranking_PopularitySum": 626,
+  "Ranking_Popularity": 687,
+  "Ranking_PopularitySum": 623,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -351,12 +351,18 @@
       "Rating": 4.34,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-10-08T15:57:24.8585919+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 72,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 25,
-  "MaxAwardTitle": "Highly Recommended",
+  "NumberOfAwards": 72,
+  "NumberOfAwardsMax": 26,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -368,13 +374,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 24
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -389,8 +395,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-04T17:59:24.1826817+00:00",
   "FirstSeenRating": "2024-09-06T17:59:47.8215369+00:00",
-  "LastChanged": "2024-10-08T13:58:00.3931332+00:00",
+  "LastChanged": "2024-10-08T15:57:24.8585917+00:00",
   "LastUpdate_AppInfo": "2024-10-02T07:59:03.0107653+00:00",
-  "LastUpdate_Ratings": "2024-10-08T13:58:00.3931337+00:00",
+  "LastUpdate_Ratings": "2024-10-08T15:57:24.8585921+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:35.2203508+00:00"
 }
