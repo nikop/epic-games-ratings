@@ -4,7 +4,7 @@
   "ProductSlug": "xdefiant",
   "Ranking_Rating": 1094,
   "Ranking_Popularity": 407,
-  "Ranking_PopularitySum": 334,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2083,10 +2083,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 1014,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-10-08T11:58:19.6201189+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 1019,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1014,
+  "NumberOfAwards": 1019,
   "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2154,7 +2160,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 104
+      "Count": 109
     }
   ],
   "EOS_Progressed": 0,
@@ -2169,8 +2175,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-10-08T03:18:19.2081078+00:00",
+  "LastChanged": "2024-10-08T11:58:19.6201187+00:00",
   "LastUpdate_AppInfo": "2024-10-01T19:57:19.3871329+00:00",
-  "LastUpdate_Ratings": "2024-10-08T09:59:37.7708149+00:00",
+  "LastUpdate_Ratings": "2024-10-08T11:58:19.6201192+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.8502216+00:00"
 }
