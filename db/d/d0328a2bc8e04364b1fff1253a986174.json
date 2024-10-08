@@ -2,7 +2,7 @@
   "ID": "d0328a2bc8e04364b1fff1253a986174",
   "Name": "Battlefield\u2122 Hardline Ultimate Edition",
   "ProductSlug": "battlefield-hardline-4e07d3",
-  "Ranking_Rating": 652,
+  "Ranking_Rating": 631,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 358,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.53,
+  "Rating": 4.54,
   "RatingHistory": [
     {
       "Time": "2024-08-13T02:01:59.9259906+00:00",
@@ -166,6 +166,12 @@
     {
       "Time": "2024-10-07T03:17:33.1027674+00:00",
       "Rating": 4.53,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-08T03:18:37.354874+00:00",
+      "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -729,9 +735,9 @@
   "FirstSeen": "2024-04-02T14:00:20.3036176+00:00",
   "FirstSeenRating": "2024-08-13T02:01:59.9259903+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:57.3811942+00:00",
-  "LastChanged": "2024-10-07T03:17:33.1027672+00:00",
+  "LastChanged": "2024-10-08T03:18:37.3548738+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:04.1087807+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:43.2745835+00:00",
-  "LastUpdate_Ratings": "2024-10-08T00:01:19.2142026+00:00",
+  "LastUpdate_Ratings": "2024-10-08T03:18:37.3548743+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:04.1088246+00:00"
 }
