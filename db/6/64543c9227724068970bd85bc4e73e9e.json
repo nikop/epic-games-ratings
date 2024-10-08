@@ -4,7 +4,7 @@
   "ProductSlug": "farlight-84-8e689a",
   "Ranking_Rating": 1067,
   "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 361,
+  "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3622,6 +3622,6 @@
   "FirstSeenRating": "2023-11-02T19:03:18.4376932+00:00",
   "LastChanged": "2024-10-08T17:58:58.7756923+00:00",
   "LastUpdate_AppInfo": "2024-10-02T17:57:13.2671546+00:00",
-  "LastUpdate_Ratings": "2024-10-08T17:58:58.775693+00:00",
+  "LastUpdate_Ratings": "2024-10-08T19:57:25.4177166+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:03.5462685+00:00"
 }

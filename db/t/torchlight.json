@@ -3,8 +3,8 @@
   "Name": "Torchlight",
   "ProductSlug": "torchlight",
   "Ranking_Rating": 967,
-  "Ranking_Popularity": 675,
-  "Ranking_PopularitySum": 693,
+  "Ranking_Popularity": 666,
+  "Ranking_PopularitySum": 689,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -532,18 +532,24 @@
       "Rating": 4.36,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-08T19:58:31.5416054+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 29,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 0,
@@ -557,8 +563,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:57.2645224+00:00",
-  "LastChanged": "2024-10-02T08:01:35.0492955+00:00",
+  "LastChanged": "2024-10-08T19:58:31.5416052+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:15.6349401+00:00",
-  "LastUpdate_Ratings": "2024-10-08T18:00:35.8171679+00:00",
+  "LastUpdate_Ratings": "2024-10-08T19:58:31.5416056+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:02.4475628+00:00"
 }

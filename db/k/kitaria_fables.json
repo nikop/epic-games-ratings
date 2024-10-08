@@ -3,8 +3,8 @@
   "Name": "Kitaria Fables",
   "ProductSlug": "kitaria-fables",
   "Ranking_Rating": 759,
-  "Ranking_Popularity": 733,
-  "Ranking_PopularitySum": 733,
+  "Ranking_Popularity": 734,
+  "Ranking_PopularitySum": 734,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -109,6 +109,6 @@
   "FirstSeenRating": "2022-09-21T23:00:48.4332122+00:00",
   "LastChanged": "2024-09-14T08:59:38.7122017+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:02.6634202+00:00",
-  "LastUpdate_Ratings": "2024-10-08T17:58:21.9389393+00:00",
+  "LastUpdate_Ratings": "2024-10-08T19:57:00.0470239+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:46.6799993+00:00"
 }

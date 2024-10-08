@@ -3,8 +3,8 @@
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_Rating": 715,
-  "Ranking_Popularity": 733,
-  "Ranking_PopularitySum": 733,
+  "Ranking_Popularity": 728,
+  "Ranking_PopularitySum": 728,
   "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -137,12 +137,26 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-08T19:58:30.7666463+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Beginners",
+  "Tags": [
+    {
+      "Text": "This game is Great for Beginners",
+      "Prefix": "This game is",
+      "Type": "Great for Beginners",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 1766,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -5638,9 +5652,9 @@
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenRating": "2024-02-15T09:59:01.6736465+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged": "2024-10-06T18:57:53.7214668+00:00",
+  "LastChanged": "2024-10-08T19:58:30.7666461+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:57.2035747+00:00",
   "LastUpdate_AppInfo": "2024-10-02T13:57:12.3412603+00:00",
-  "LastUpdate_Ratings": "2024-10-08T18:00:34.5825585+00:00",
+  "LastUpdate_Ratings": "2024-10-08T19:58:30.7666465+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:57.2036378+00:00"
 }

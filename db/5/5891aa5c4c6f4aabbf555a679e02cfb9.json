@@ -4,7 +4,7 @@
   "ProductSlug": "the-evil-within-2",
   "Ranking_Rating": 538,
   "Ranking_Popularity": 309,
-  "Ranking_PopularitySum": 248,
+  "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 478,
   "Ranking_EOS_NewPlayers": 3,
@@ -5521,10 +5521,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 2405,
       "NumberOfAwardsMax": 337
+    },
+    {
+      "Time": "2024-10-08T19:57:33.566856+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 2409,
+      "NumberOfAwardsMax": 337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2405,
+  "NumberOfAwards": 2409,
   "NumberOfAwardsMax": 337,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5532,7 +5538,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 238
+      "Count": 240
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5568,7 +5574,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 166
+      "Count": 168
     },
     {
       "Text": "This game has Unique Visuals",
@@ -17455,9 +17461,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-10-08T13:59:35.5528344+00:00",
+  "LastChanged": "2024-10-08T19:57:33.5668558+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:44.4555515+00:00",
   "LastUpdate_AppInfo": "2024-10-04T05:57:19.7966217+00:00",
-  "LastUpdate_Ratings": "2024-10-08T17:59:10.6388099+00:00",
+  "LastUpdate_Ratings": "2024-10-08T19:57:33.5668564+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:44.455633+00:00"
 }
