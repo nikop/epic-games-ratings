@@ -3,9 +3,9 @@
 [View Rawdata](../../db/o/outlast.json)  
 Rating: 4.75 (Ranked 170)  
 ## Awards
-Max (Great for Beginners): 64  (Ranked 543)  
+Max (Great for Beginners): 64  (Ranked 544)  
 Sum: 353 (Ranked 465)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |

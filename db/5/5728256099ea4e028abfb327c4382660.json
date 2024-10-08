@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 653,
   "Ranking_Popularity": 387,
-  "Ranking_PopularitySum": 344,
+  "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1878,12 +1878,18 @@
       "Rating": 4.53,
       "NumberOfAwards": 967,
       "NumberOfAwardsMax": 184
+    },
+    {
+      "Time": "2024-10-08T14:58:54.7685812+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 971,
+      "NumberOfAwardsMax": 186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 967,
-  "NumberOfAwardsMax": 184,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 971,
+  "NumberOfAwardsMax": 186,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -1895,7 +1901,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 183
+      "Count": 186
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1919,7 +1925,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 72
+      "Count": 73
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1958,8 +1964,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-10-08T09:57:42.6797521+00:00",
+  "LastChanged": "2024-10-08T14:58:54.768581+00:00",
   "LastUpdate_AppInfo": "2024-10-04T23:57:06.9062274+00:00",
-  "LastUpdate_Ratings": "2024-10-08T13:16:56.5272528+00:00",
+  "LastUpdate_Ratings": "2024-10-08T14:58:54.7685815+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:17.3598509+00:00"
 }
