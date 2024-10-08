@@ -1,7 +1,7 @@
 # Chernobylite
 [Store](https://store.epicgames.com/en-US/p/chernobylite)  
 [View Rawdata](../../db/c/chernobylite.json)  
-Rating: 4.17 (Ranked 1,171)  
+Rating: 4.17 (Ranked 1,170)  
 Number of Ratings: 149  (23.09.2022)  
 ## Awards
 | Award | Count |

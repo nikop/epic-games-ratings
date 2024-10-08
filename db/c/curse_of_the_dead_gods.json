@@ -3,7 +3,7 @@
   "Name": "Curse of the Dead Gods",
   "ProductSlug": "curse-of-the-dead-gods",
   "Ranking_Rating": 361,
-  "Ranking_Popularity": 437,
+  "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 570,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -591,18 +591,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 134,
       "NumberOfAwardsMax": 134
+    },
+    {
+      "Time": "2024-10-08T13:57:40.8436008+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 135,
+      "NumberOfAwardsMax": 135
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 134,
-  "NumberOfAwardsMax": 134,
+  "NumberOfAwards": 135,
+  "NumberOfAwardsMax": 135,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 134
+      "Count": 135
     }
   ],
   "EOS_Progressed": 0,
@@ -616,8 +622,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:59.8576233+00:00",
-  "LastChanged": "2024-10-06T22:58:54.1397934+00:00",
+  "LastChanged": "2024-10-08T13:57:40.8436007+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:51.2586797+00:00",
-  "LastUpdate_Ratings": "2024-10-08T11:58:03.3967753+00:00",
+  "LastUpdate_Ratings": "2024-10-08T13:57:40.843601+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:21.0533678+00:00"
 }
