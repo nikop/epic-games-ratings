@@ -4,7 +4,7 @@
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 696,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 3,
@@ -1744,10 +1744,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 965,
       "NumberOfAwardsMax": 505
+    },
+    {
+      "Time": "2024-10-08T07:58:50.6005713+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 966,
+      "NumberOfAwardsMax": 505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 965,
+  "NumberOfAwards": 966,
   "NumberOfAwardsMax": 505,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1797,7 +1803,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2259,9 +2265,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:20.4320902+00:00",
-  "LastChanged": "2024-10-08T05:59:45.2370526+00:00",
+  "LastChanged": "2024-10-08T07:58:50.6005711+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:09.117238+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:08.4345216+00:00",
-  "LastUpdate_Ratings": "2024-10-08T05:59:45.2370531+00:00",
+  "LastUpdate_Ratings": "2024-10-08T07:58:50.6005716+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:09.1172692+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1259,
-  "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 176,
+  "Ranking_Popularity": 218,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 468,
   "Ranking_EOS_NewPlayers": 3,
@@ -9529,11 +9529,17 @@
       "Rating": 3.98,
       "NumberOfAwards": 5215,
       "NumberOfAwardsMax": 930
+    },
+    {
+      "Time": "2024-10-08T08:00:27.0755456+00:00",
+      "Rating": 3.98,
+      "NumberOfAwards": 5220,
+      "NumberOfAwardsMax": 932
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 5215,
-  "NumberOfAwardsMax": 930,
+  "NumberOfAwards": 5220,
+  "NumberOfAwardsMax": 932,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -9546,7 +9552,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 930
+      "Count": 932
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9558,7 +9564,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 857
+      "Count": 858
     },
     {
       "Text": "This game has Challenging Combat",
@@ -9570,7 +9576,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 864
+      "Count": 866
     },
     {
       "Text": "This game is Highly Recommended",
@@ -36504,9 +36510,9 @@
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2024-10-07T17:58:15.3673538+00:00",
+  "LastChanged": "2024-10-08T08:00:27.0755453+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:25.9952328+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:32.9504917+00:00",
-  "LastUpdate_Ratings": "2024-10-08T06:01:28.8714808+00:00",
+  "LastUpdate_Ratings": "2024-10-08T08:00:27.0755461+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:25.9953881+00:00"
 }

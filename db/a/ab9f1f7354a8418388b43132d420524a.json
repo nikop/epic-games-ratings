@@ -3,7 +3,7 @@
   "Name": "Town of Salem 2",
   "ProductSlug": "town-of-salem-2-ab6497",
   "Ranking_Rating": 672,
-  "Ranking_Popularity": 433,
+  "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 396,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 536,
@@ -2070,11 +2070,17 @@
       "Rating": 4.52,
       "NumberOfAwards": 642,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2024-10-08T08:00:09.7982022+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 645,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 642,
-  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 645,
+  "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -2099,7 +2105,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 136
+      "Count": 139
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5712,9 +5718,9 @@
   "FirstSeen": "2024-04-18T16:58:38.5286967+00:00",
   "FirstSeenRating": "2024-04-20T18:57:39.0302099+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:33.4303838+00:00",
-  "LastChanged": "2024-10-08T03:17:23.9235727+00:00",
+  "LastChanged": "2024-10-08T08:00:09.798202+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:56.7622323+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:40.4270072+00:00",
-  "LastUpdate_Ratings": "2024-10-08T06:01:11.0123926+00:00",
+  "LastUpdate_Ratings": "2024-10-08T08:00:09.7982027+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:56.7636938+00:00"
 }
