@@ -698,7 +698,7 @@
 | 696 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 206 | 372 |
 | 696 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.51 | 286 | 328 |
 | 696 | [Aztez](games/a/aztez.md) | 4.51 | 26 | 687 |
-| 696 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,346 | 105 |
+| 696 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,348 | 105 |
 | 696 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.51 | 604 | 257 |
 | 696 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.51 | 123 | 453 |
 | 696 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.51 | 505 | 269 |
@@ -764,7 +764,7 @@
 | 757 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.48 | 287 | 325 |
 | 757 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 4.48 | 0 | 733 |
 | 757 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.48 | 10,024 | 62 |
-| 757 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.48 | 52 | 575 |
+| 757 | [Gods Unchained](games/7/749a943da8ca4937883c195aea8b2652.md) | 4.48 | 52 | 576 |
 | 757 | [Hell Pie](games/h/hell_pie.md) | 4.48 | 0 | 733 |
 | 757 | [Indies Lies](games/i/indies_lies.md) | 4.48 | 0 | 733 |
 | 757 | [Industries of Titan](games/i/industries_of_titan.md) | 4.48 | 0 | 733 |
@@ -1232,18 +1232,18 @@
 | 1,223 | [The Falconeer: Standard Edition](games/t/the_falconeer__standard_edition.md) | 4.08 | 0 | 733 |
 | 1,223 | [The Front](games/t/the_front.md) | 4.08 | 33 | 643 |
 | 1,232 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.07 | 7,032 | 81 |
-| 1,232 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 4.07 | 0 | 733 |
 | 1,232 | [Second Extinction™](games/s/second_extinction™.md) | 4.07 | 513 | 267 |
 | 1,232 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.07 | 0 | 733 |
-| 1,236 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.06 | 0 | 733 |
-| 1,237 | [A Knights Quest](games/a/a_knights_quest.md) | 4.05 | 0 | 733 |
-| 1,237 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 733 |
-| 1,237 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.05 | 654 | 247 |
-| 1,237 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 733 |
-| 1,237 | [Soulless - Ray Of Hope](games/s/soulless_-_ray_of_hope.md) | 4.05 | 0 | 733 |
-| 1,237 | [Sphere 3](games/s/sphere_3.md) | 4.05 | 0 | 733 |
-| 1,243 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 733 |
-| 1,243 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.04 | 0 | 733 |
+| 1,235 | [Werewolf: The Apocalypse – Earthblood](games/w/werewolf__the_apocalypse_–_earthblood.md) | 4.06 | 0 | 733 |
+| 1,236 | [A Knights Quest](games/a/a_knights_quest.md) | 4.05 | 0 | 733 |
+| 1,236 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.05 | 0 | 733 |
+| 1,236 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.05 | 654 | 247 |
+| 1,236 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 733 |
+| 1,236 | [Soulless - Ray Of Hope](games/s/soulless_-_ray_of_hope.md) | 4.05 | 0 | 733 |
+| 1,236 | [Sphere 3](games/s/sphere_3.md) | 4.05 | 0 | 733 |
+| 1,242 | [Astria Ascending](games/a/astria_ascending.md) | 4.04 | 0 | 733 |
+| 1,242 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 4.04 | 0 | 733 |
+| 1,242 | [Rugrats: Adventures in Gameland](games/c/c20d98862be8473b896df438004868c5.md) | 4.04 | 0 | 733 |
 | 1,245 | [PAYDAY 3](games/8/8962863aee2f4e7483fc37d4719c3f69.md) | 4.03 | 111 | 463 |
 | 1,245 | [Port Royale 4](games/p/port_royale_4.md) | 4.03 | 0 | 733 |
 | 1,245 | [The First Tree](games/t/the_first_tree.md) | 4.03 | 0 | 733 |
@@ -1268,7 +1268,7 @@
 | 1,266 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 3.96 | 62 | 550 |
 | 1,266 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.96 | 0 | 733 |
 | 1,266 | [Conarium](games/c/conarium.md) | 3.96 | 0 | 733 |
-| 1,266 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 3.96 | 52 | 575 |
+| 1,266 | [CYGNI - All Guns Blazing](games/5/5d9f109e44ec4c8bbc5495f43b601f25.md) | 3.96 | 53 | 572 |
 | 1,266 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.96 | 0 | 733 |
 | 1,271 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 48 | 581 |
 | 1,271 | [Dakar Desert Rally](games/d/dakar_desert_rally.md) | 3.95 | 264 | 336 |
@@ -1303,7 +1303,7 @@
 | 1,301 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.79 | 0 | 733 |
 | 1,301 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.79 | 0 | 733 |
 | 1,303 | [Formula Evolution 2024](games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 3.78 | 0 | 733 |
-| 1,304 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 3.77 | 288 | 324 |
+| 1,303 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 3.78 | 288 | 324 |
 | 1,305 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.76 | 1,224 | 182 |
 | 1,306 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.75 | 0 | 733 |
 | 1,307 | [League of Angels: Pact](games/0/075ee5cb11b74aba8ea786c0476fad8f.md) | 3.74 | 0 | 733 |
