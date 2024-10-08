@@ -3,7 +3,7 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 190,
-  "Ranking_Popularity": 351,
+  "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 429,
@@ -3126,11 +3126,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 1391,
       "NumberOfAwardsMax": 241
+    },
+    {
+      "Time": "2024-10-08T02:12:36.7686094+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1392,
+      "NumberOfAwardsMax": 242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1391,
-  "NumberOfAwardsMax": 241,
+  "NumberOfAwards": 1392,
+  "NumberOfAwardsMax": 242,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3197,7 +3203,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 241
+      "Count": 242
     }
   ],
   "EOS_Progressed": 17986,
@@ -12778,9 +12784,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-10-07T04:59:48.0432057+00:00",
+  "LastChanged": "2024-10-08T02:12:36.7686093+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:57.0290198+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:05.1190759+00:00",
-  "LastUpdate_Ratings": "2024-10-07T21:58:52.6438318+00:00",
+  "LastUpdate_Ratings": "2024-10-08T02:12:36.7686098+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:57.0290859+00:00"
 }

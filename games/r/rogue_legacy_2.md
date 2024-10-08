@@ -335,9 +335,9 @@ Completed: 35 (0.11%) (Ranked 455)
 | 2024-08-20 | 30,539 | 35 |
 | 2024-09-14 | 30,777 | 35 |
 ## Awards
-Max (Extremely Fun): 241  (Ranked 351)  
+Max (Extremely Fun): 241  (Ranked 352)  
 Sum: 1,872 (Ranked 273)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 241 |

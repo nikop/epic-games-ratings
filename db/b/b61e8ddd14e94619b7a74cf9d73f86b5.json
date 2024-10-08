@@ -2,9 +2,9 @@
   "ID": "b61e8ddd14e94619b7a74cf9d73f86b5",
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
-  "Ranking_Rating": 1094,
+  "Ranking_Rating": 1112,
   "Ranking_Popularity": 516,
-  "Ranking_PopularitySum": 459,
+  "Ranking_PopularitySum": 454,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2024-09-27T16:59:14.411303+00:00",
@@ -331,10 +331,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 78
+    },
+    {
+      "Time": "2024-10-08T02:12:27.6237868+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 78
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
+  "NumberOfAwards": 372,
   "NumberOfAwardsMax": 78,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -366,7 +372,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 39
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -399,8 +405,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
-  "LastChanged": "2024-10-07T21:58:42.7196298+00:00",
+  "LastChanged": "2024-10-08T02:12:27.6237865+00:00",
   "LastUpdate_AppInfo": "2024-10-02T22:56:53.8328819+00:00",
-  "LastUpdate_Ratings": "2024-10-07T21:58:42.7196302+00:00",
+  "LastUpdate_Ratings": "2024-10-08T02:12:27.6237871+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:14.1150285+00:00"
 }

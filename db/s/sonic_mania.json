@@ -2,7 +2,7 @@
   "ID": "45e7cf3c49054f2fb20b673d9b0ae69e",
   "Name": "Sonic Mania",
   "ProductSlug": "sonic-mania",
-  "Ranking_Rating": 138,
+  "Ranking_Rating": 139,
   "Ranking_Popularity": 191,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 1254,
@@ -3028,10 +3028,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1942,
       "NumberOfAwardsMax": 1124
+    },
+    {
+      "Time": "2024-10-08T02:12:30.2918328+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1943,
+      "NumberOfAwardsMax": 1124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1942,
+  "NumberOfAwards": 1943,
   "NumberOfAwardsMax": 1124,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3093,7 +3099,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 79
+      "Count": 80
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3131,8 +3137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:14.1875943+00:00",
-  "LastChanged": "2024-10-06T21:57:52.0684916+00:00",
+  "LastChanged": "2024-10-08T02:12:30.2918326+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:13.8709393+00:00",
-  "LastUpdate_Ratings": "2024-10-07T21:58:45.5690121+00:00",
+  "LastUpdate_Ratings": "2024-10-08T02:12:30.2918331+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:21.7157498+00:00"
 }
