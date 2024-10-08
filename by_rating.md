@@ -123,7 +123,7 @@
 | 114 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 512 | 268 |
 | 114 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 143 | 426 |
 | 114 | [Plants vs. Zombies™ GW2: Deluxe Edition](games/1/156c9c9399f940878eec5e83b446198f.md) | 4.79 | 177 | 394 |
-| 114 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 155 | 412 |
+| 114 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.79 | 155 | 413 |
 | 114 | [SpiderHeck](games/s/spiderheck.md) | 4.79 | 0 | 733 |
 | 114 | [Wildermyth](games/w/wildermyth.md) | 4.79 | 37 | 628 |
 | 127 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 29 | 666 |
@@ -252,7 +252,7 @@
 | 249 | [Cave Story+](games/c/cave_story+.md) | 4.70 | 158 | 408 |
 | 249 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 4.70 | 0 | 733 |
 | 249 | [For The King](games/f/for_the_king.md) | 4.70 | 503 | 270 |
-| 249 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.70 | 155 | 412 |
+| 249 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.70 | 155 | 413 |
 | 249 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.70 | 2,105 | 142 |
 | 249 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,432 | 169 |
 | 249 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 227 | 358 |
@@ -365,7 +365,7 @@
 | 361 | [Black Book](games/b/black_book.md) | 4.65 | 151 | 418 |
 | 361 | [Black Skylands](games/b/black_skylands.md) | 4.65 | 0 | 733 |
 | 361 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 4.65 | 0 | 733 |
-| 361 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 9,488 | 64 |
+| 361 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 9,500 | 64 |
 | 361 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.65 | 134 | 437 |
 | 361 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 4.65 | 0 | 733 |
 | 361 | [DOOM 64](games/d/doom_64.md) | 4.65 | 1,358 | 174 |
@@ -379,7 +379,7 @@
 | 361 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 79 | 514 |
 | 361 | [Old World](games/o/old_world.md) | 4.65 | 279 | 331 |
 | 361 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,321 | 175 |
-| 361 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 106 | 468 |
+| 361 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.65 | 107 | 467 |
 | 361 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.65 | 0 | 733 |
 | 361 | [Tennis Manager 2022](games/t/tennis_manager_2022.md) | 4.65 | 0 | 733 |
 | 361 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.65 | 1,072 | 201 |
@@ -465,7 +465,7 @@
 | 461 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.61 | 1,307 | 177 |
 | 461 | [Bandle Tale: A League of Legends Story](games/2/267d05131d004e3494f952a9b1056562.md) | 4.61 | 0 | 733 |
 | 461 | [CARRION](games/c/carrion.md) | 4.61 | 0 | 733 |
-| 461 | [Control](games/c/control.md) | 4.61 | 10,254 | 60 |
+| 461 | [Control](games/c/control.md) | 4.61 | 10,260 | 60 |
 | 461 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.61 | 274 | 334 |
 | 461 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 118 | 457 |
 | 461 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.61 | 450 | 282 |
@@ -694,7 +694,7 @@
 | 672 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 4.52 | 139 | 429 |
 | 672 | [UnMetal](games/u/unmetal.md) | 4.52 | 0 | 733 |
 | 672 | [Wall World](games/w/wall_world.md) | 4.52 | 0 | 733 |
-| 672 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.52 | 6,017 | 90 |
+| 672 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 4.52 | 6,046 | 90 |
 | 696 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 206 | 372 |
 | 696 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.51 | 286 | 328 |
 | 696 | [Aztez](games/a/aztez.md) | 4.51 | 26 | 687 |
@@ -755,7 +755,7 @@
 | 737 | [RUINER](games/r/ruiner.md) | 4.49 | 29 | 666 |
 | 737 | [Solitairica](games/s/solitairica.md) | 4.49 | 126 | 449 |
 | 737 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 18,487 | 33 |
-| 737 | [VALORANT](games/v/valorant.md) | 4.49 | 153,844 | 9 |
+| 737 | [VALORANT](games/v/valorant.md) | 4.49 | 154,043 | 9 |
 | 757 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.48 | 67 | 536 |
 | 757 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 127 | 445 |
 | 757 | [Death Trash](games/d/death_trash.md) | 4.48 | 0 | 733 |
@@ -1133,7 +1133,7 @@
 | 1,130 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 650 |
 | 1,130 | [Pinball M](games/d/d054771c2f3c4f4fb7d7028eca6ccca0.md) | 4.21 | 0 | 733 |
 | 1,130 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.21 | 0 | 733 |
-| 1,130 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.21 | 106 | 468 |
+| 1,130 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 4.21 | 106 | 469 |
 | 1,130 | [Tom Clancy’s Splinter Cell Double Agent](games/t/tom_clancy’s_splinter_cell_double_agent.md) | 4.21 | 0 | 733 |
 | 1,130 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 81 | 512 |
 | 1,137 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 145 | 420 |
@@ -1250,7 +1250,7 @@
 | 1,248 | [Potion Permit](games/p/potion_permit.md) | 4.02 | 83 | 506 |
 | 1,249 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4.01 | 13,260 | 48 |
 | 1,249 | [Shop Titans](games/s/shop_titans.md) | 4.01 | 5,552 | 93 |
-| 1,251 | [Armored Warfare](games/a/armored_warfare.md) | 4.00 | 155 | 412 |
+| 1,251 | [Armored Warfare](games/a/armored_warfare.md) | 4.00 | 156 | 410 |
 | 1,251 | [Homeworld 3](games/h/homeworld_3.md) | 4.00 | 0 | 733 |
 | 1,251 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.00 | 0 | 733 |
 | 1,251 | [Striker Manager 3](games/2/2825f101eb8b48fc8676beed92553e35.md) | 4.00 | 0 | 733 |

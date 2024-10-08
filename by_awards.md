@@ -8,7 +8,7 @@
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 237,534 | 4.18 | 1,160 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 179,957 | 4.69 | 273 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 167,977 | 4.50 | 714 |
-| 9 | [VALORANT](games/v/valorant.md) | 153,844 | 4.49 | 737 |
+| 9 | [VALORANT](games/v/valorant.md) | 154,043 | 4.49 | 737 |
 | 10 | [Borderlands 3](games/b/borderlands_3.md) | 143,497 | 4.69 | 273 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 85,823 | 4.44 | 832 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 73,697 | 4.58 | 539 |
@@ -59,11 +59,11 @@
 | 57 | [Remnant II®](games/r/remnant_2.md) | 10,881 | 4.70 | 249 |
 | 58 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 10,795 | 4.55 | 603 |
 | 59 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 10,674 | 4.68 | 301 |
-| 60 | [Control](games/c/control.md) | 10,254 | 4.61 | 461 |
+| 60 | [Control](games/c/control.md) | 10,260 | 4.61 | 461 |
 | 61 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 10,212 | 4.51 | 696 |
 | 62 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 10,024 | 4.48 | 757 |
 | 63 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 9,569 | 4.84 | 51 |
-| 64 | [Cities: Skylines](games/c/cities__skylines.md) | 9,488 | 4.65 | 361 |
+| 64 | [Cities: Skylines](games/c/cities__skylines.md) | 9,500 | 4.65 | 361 |
 | 65 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 9,434 | 4.71 | 228 |
 | 66 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 9,363 | 4.75 | 170 |
 | 67 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,966 | 4.69 | 273 |
@@ -89,7 +89,7 @@
 | 87 | [Prey](games/p/prey.md) | 6,330 | 4.63 | 411 |
 | 88 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,328 | 4.84 | 51 |
 | 89 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,309 | 4.64 | 387 |
-| 90 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 6,017 | 4.52 | 672 |
+| 90 | [Wuthering Waves](games/e/e885327ce4414509bff4c10757f88334.md) | 6,046 | 4.52 | 672 |
 | 91 | [MultiVersus](games/m/multiversus.md) | 5,822 | 4.54 | 631 |
 | 92 | [Days Gone](games/d/days_gone.md) | 5,615 | 4.69 | 273 |
 | 93 | [Shop Titans](games/s/shop_titans.md) | 5,552 | 4.01 | 1,249 |
@@ -409,11 +409,11 @@
 | 407 | [XDefiant](games/a/a53baa615cea46f08a8bcbc11d4614af.md) | 159 | 4.24 | 1,094 |
 | 408 | [Cave Story+](games/c/cave_story+.md) | 158 | 4.70 | 249 |
 | 408 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 158 | 4.27 | 1,067 |
+| 410 | [Armored Warfare](games/a/armored_warfare.md) | 156 | 4.00 | 1,251 |
 | 410 | [BIOMUTANT](games/b/biomutant.md) | 156 | 4.33 | 1,003 |
 | 410 | [Mortal Online 2](games/2/28a45b35886145129a846cc1c8088877.md) | 156 | 4.45 | 814 |
-| 412 | [Armored Warfare](games/a/armored_warfare.md) | 155 | 4.00 | 1,251 |
-| 412 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 155 | 4.70 | 249 |
-| 412 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 155 | 4.79 | 114 |
+| 413 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 155 | 4.70 | 249 |
+| 413 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 155 | 4.79 | 114 |
 | 415 | [while True: learn()](games/w/while_true__learn().md) | 154 | 4.51 | 696 |
 | 416 | [Overcooked](games/o/overcooked.md) | 153 | 4.64 | 387 |
 | 417 | [Fort Triumph](games/f/fort_triumph.md) | 152 | 4.08 | 1,223 |
@@ -467,8 +467,8 @@
 | 465 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 110 | 4.65 | 361 |
 | 466 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 109 | 4.56 | 580 |
 | 467 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 107 | 4.32 | 1,020 |
-| 468 | [Session: Skate Sim](games/s/session__skate_sim.md) | 106 | 4.65 | 361 |
-| 468 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 106 | 4.21 | 1,130 |
+| 467 | [Session: Skate Sim](games/s/session__skate_sim.md) | 107 | 4.65 | 361 |
+| 469 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 106 | 4.21 | 1,130 |
 | 470 | [LISA: The Painful - Definitive Edition](games/2/2052c58b9f64498386cbbbc85df90bbf.md) | 105 | 4.82 | 79 |
 | 470 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 105 | 4.86 | 31 |
 | 470 | [Viking Rise: Valhalla](games/b/bcca452821c54464bc2cf64458de387e.md) | 105 | 4.13 | 1,198 |
