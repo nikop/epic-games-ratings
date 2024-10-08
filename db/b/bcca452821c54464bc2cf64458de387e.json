@@ -4,7 +4,7 @@
   "ProductSlug": "viking-rise-876e15",
   "Ranking_Rating": 1198,
   "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 546,
+  "Ranking_PopularitySum": 545,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -804,10 +804,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 175,
       "NumberOfAwardsMax": 105
+    },
+    {
+      "Time": "2024-10-08T13:17:18.989115+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 105
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 175,
+  "NumberOfAwards": 177,
   "NumberOfAwardsMax": 105,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -821,7 +827,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
@@ -842,8 +848,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-10T06:58:36.7758205+00:00",
   "FirstSeenRating": "2024-05-25T22:59:08.2682454+00:00",
-  "LastChanged": "2024-10-07T13:59:19.6815665+00:00",
+  "LastChanged": "2024-10-08T13:17:18.9891148+00:00",
   "LastUpdate_AppInfo": "2024-10-02T20:57:14.4632499+00:00",
-  "LastUpdate_Ratings": "2024-10-08T11:00:19.593434+00:00",
+  "LastUpdate_Ratings": "2024-10-08T13:17:18.9891154+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:31.9909845+00:00"
 }

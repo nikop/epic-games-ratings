@@ -4,7 +4,7 @@
   "ProductSlug": "9lives-arena-fb6229",
   "Ranking_Rating": 603,
   "Ranking_Popularity": 608,
-  "Ranking_PopularitySum": 475,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -605,10 +605,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 341,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-10-08T13:16:20.7431062+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 342,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341,
+  "NumberOfAwards": 342,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -664,7 +670,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
@@ -4385,9 +4391,9 @@
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-10-07T18:58:52.2912733+00:00",
+  "LastChanged": "2024-10-08T13:16:20.7431057+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:12.1671258+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:24.4614067+00:00",
-  "LastUpdate_Ratings": "2024-10-08T10:59:34.3911242+00:00",
+  "LastUpdate_Ratings": "2024-10-08T13:16:20.7431065+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:12.1671506+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/i/islets.json)  
 Rating: 4.71 (Ranked 228)  
 ## Awards
-Max (Great for Beginners): 65  (Ranked 539)  
-Sum: 442 (Ranked 434)  
+Max (Great for Beginners): 66  (Ranked 539)  
+Sum: 443 (Ranked 434)  
 Diff (max vs sum): 105  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 65 |
+| This game is Great for Beginners | 66 |
 | This game is Extremely Fun | 60 |
 | This game has Quickly Understood Controls | 55 |
 | This game is Highly Recommended | 54 |
@@ -161,3 +161,4 @@ Diff (max vs sum): 105
 | 2024-10-02 | 4.71 | 65 | 438 |
 | 2024-10-03 | 4.71 | 65 | 440 |
 | 2024-10-07 | 4.71 | 65 | 442 |
+| 2024-10-08 | 4.71 | 66 | 443 |
