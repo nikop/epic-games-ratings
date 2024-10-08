@@ -25,7 +25,7 @@
 | [Hitmen Party](games/0/0229686d1f43464eabe959430ba6abaf.md) | 2024-10-31 | - |  | - | - |
 | [Holiday Fantasy](games/6/6999943986284eb0a87cb47ac183b06c.md) | 2024-10-31 | - |  | - | - |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-31 | - |  | - | - |
-| [MechWarrior 5 Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
+| [MechWarrior 5: Clans](games/1/11caacd8754d43ffb0c4f479d6035b5b.md) | 2024-10-31 | - |  | - | - |
 | [MeiQi 2024](games/9/991d58ba0c154a1ba5e57518449562fa.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [The Smurfs – Dreams](games/d/d6bbed959ee545229d579407d5616452.md) | 2024-10-31 | - |  | - | - |
