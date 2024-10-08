@@ -2,7 +2,7 @@
   "ID": "5891aa5c4c6f4aabbf555a679e02cfb9",
   "Name": "The Evil Within 2",
   "ProductSlug": "the-evil-within-2",
-  "Ranking_Rating": 511,
+  "Ranking_Rating": 538,
   "Ranking_Popularity": 309,
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 39,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-10-27T14:01:02.8840366+00:00",
@@ -5509,10 +5509,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2402,
       "NumberOfAwardsMax": 337
+    },
+    {
+      "Time": "2024-10-08T10:57:51.7393784+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 2404,
+      "NumberOfAwardsMax": 337
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2402,
+  "NumberOfAwards": 2404,
   "NumberOfAwardsMax": 337,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5574,7 +5580,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 291
+      "Count": 293
     }
   ],
   "EOS_Progressed": 658776,
@@ -17443,9 +17449,9 @@
   "FirstSeen": "2023-08-04T14:57:02.8417876+00:00",
   "FirstSeenRating": "2023-10-27T14:01:02.8840364+00:00",
   "FirstSeenAchievements": "2023-08-02T16:01:14.4921822+00:00",
-  "LastChanged": "2024-10-07T16:58:48.2545605+00:00",
+  "LastChanged": "2024-10-08T10:57:51.7393783+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:44.4555515+00:00",
   "LastUpdate_AppInfo": "2024-10-04T05:57:19.7966217+00:00",
-  "LastUpdate_Ratings": "2024-10-08T08:59:07.3892041+00:00",
+  "LastUpdate_Ratings": "2024-10-08T10:57:51.7393788+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:44.455633+00:00"
 }
