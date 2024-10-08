@@ -4,7 +4,7 @@
   "ProductSlug": "fishing-planet-87df68",
   "Ranking_Rating": 631,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 337,
+  "Ranking_PopularitySum": 336,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -2645,11 +2645,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 1008,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-10-08T22:57:41.9420126+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 1014,
+      "NumberOfAwardsMax": 233
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1008,
-  "NumberOfAwardsMax": 231,
+  "NumberOfAwards": 1014,
+  "NumberOfAwardsMax": 233,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2662,7 +2668,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 231
+      "Count": 233
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -2704,13 +2710,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 77
+      "Count": 78
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 74
+      "Count": 77
     },
     {
       "Text": "This game has Competitive Players",
@@ -2927,9 +2933,9 @@
   "FirstSeen": "2024-01-30T20:57:10.5239583+00:00",
   "FirstSeenRating": "2024-02-06T16:00:39.8962705+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged": "2024-10-08T20:58:18.3411982+00:00",
+  "LastChanged": "2024-10-08T22:57:41.9420124+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:47.6751208+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:41.2822204+00:00",
-  "LastUpdate_Ratings": "2024-10-08T20:58:18.3411992+00:00",
+  "LastUpdate_Ratings": "2024-10-08T22:57:41.9420129+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:47.6751325+00:00"
 }
