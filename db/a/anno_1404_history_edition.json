@@ -3,7 +3,7 @@
   "Name": "Anno 1404 History Edition",
   "ProductSlug": "anno-1404",
   "Ranking_Rating": 126,
-  "Ranking_Popularity": 674,
+  "Ranking_Popularity": 666,
   "Ranking_PopularitySum": 598,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -509,18 +509,24 @@
       "Rating": 4.78,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-07T23:58:03.2398167+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 98,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 98,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
@@ -552,8 +558,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
-  "LastChanged": "2024-10-05T10:58:07.1447246+00:00",
+  "LastChanged": "2024-10-07T23:58:03.2398165+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:09.5924452+00:00",
-  "LastUpdate_Ratings": "2024-10-07T20:58:27.5014812+00:00",
+  "LastUpdate_Ratings": "2024-10-07T23:58:03.2398171+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:30.1841219+00:00"
 }
