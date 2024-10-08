@@ -12,7 +12,7 @@
 | 9 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 26 | 687 |
 | 9 | [The Legend of Heroes: Trails of Cold Steel IV](games/t/the_legend_of_heroes__trails_of_cold_steel_iv.md) | 4.90 | 0 | 733 |
 | 12 | [Dead Space™ 2](games/b/b71378a3955b4aba8e722241664d4380.md) | 4.89 | 0 | 733 |
-| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,671 | 54 |
+| 12 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 11,688 | 54 |
 | 12 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,467 | 129 |
 | 12 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 31,466 | 21 |
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 33 | 643 |
@@ -253,7 +253,7 @@
 | 249 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 4.70 | 0 | 733 |
 | 249 | [For The King](games/f/for_the_king.md) | 4.70 | 503 | 270 |
 | 249 | [GrandChase](games/7/7973ee6548ab4863a815a208f8721f4f.md) | 4.70 | 155 | 412 |
-| 249 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.70 | 2,103 | 142 |
+| 249 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 4.70 | 2,105 | 142 |
 | 249 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,430 | 169 |
 | 249 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 227 | 358 |
 | 249 | [Remnant II®](games/r/remnant_2.md) | 4.70 | 10,881 | 57 |
@@ -346,7 +346,7 @@
 | 341 | [Crashlands](games/c/crashlands.md) | 4.66 | 214 | 367 |
 | 341 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.66 | 216 | 365 |
 | 341 | [Dungeons 3](games/d/dungeons_3.md) | 4.66 | 479 | 277 |
-| 341 | [Genshin Impact](games/g/genshin_impact.md) | 4.66 | 376,107 | 4 |
+| 341 | [Genshin Impact](games/g/genshin_impact.md) | 4.66 | 376,399 | 4 |
 | 341 | [High On Life](games/h/high_on_life.md) | 4.66 | 20 | 728 |
 | 341 | [Mutazione](games/m/mutazione.md) | 4.66 | 0 | 733 |
 | 341 | [Pikuniku](games/p/pikuniku.md) | 4.66 | 0 | 733 |
@@ -571,7 +571,7 @@
 | 557 | [Hob](games/h/hob.md) | 4.57 | 0 | 733 |
 | 557 | [Isonzo](games/i/isonzo.md) | 4.57 | 69 | 531 |
 | 557 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,825 | 112 |
-| 557 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 13,937 | 46 |
+| 557 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.57 | 13,945 | 46 |
 | 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.57 | 0 | 733 |
 | 557 | [Terra Invicta](games/t/terra_invicta.md) | 4.57 | 0 | 733 |
 | 557 | [The Escapists 2](games/t/the_escapists_2.md) | 4.57 | 72 | 524 |
@@ -603,7 +603,7 @@
 | 580 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 7,170 | 77 |
 | 580 | [Zenless Zone Zero](games/6/6827387b744d4a46bd70ea8a145e595b.md) | 4.56 | 25,435 | 25 |
 | 603 | [9Lives Arena](games/9/9lives_arena.md) | 4.55 | 42 | 608 |
-| 603 | [Among Us](games/a/among_us.md) | 4.55 | 4,151 | 107 |
+| 603 | [Among Us](games/a/among_us.md) | 4.55 | 4,157 | 107 |
 | 603 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.55 | 0 | 733 |
 | 603 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 4.55 | 423 | 286 |
 | 603 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.55 | 30 | 661 |
@@ -666,7 +666,7 @@
 | 653 | [Sable](games/s/sable.md) | 4.53 | 40 | 613 |
 | 653 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 733 |
 | 653 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 733 |
-| 653 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 165 | 403 |
+| 653 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 166 | 403 |
 | 653 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 0 | 733 |
 | 653 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,388 | 171 |
 | 653 | [Verdun](games/v/verdun.md) | 4.53 | 128 | 443 |
