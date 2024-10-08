@@ -744,7 +744,7 @@
 | [Caravan SandWitch](../games/4/45b137b2ecd14e01a54b52e575f1632d.md) | 26 | 1,000 |
 | [Children of Silentown](../games/c/children_of_silentown.md) | 26 | 1,000 |
 | [Dustborn](../games/b/b42792c248724e988066e575f59c1df9.md) | 26 | 1,000 |
-| [EA SPORTS™ WRC](../games/5/50b6612049324d0faf8642014139b082.md) | 26 | 1,000 |
+| [EA SPORTS™ WRC 24](../games/5/50b6612049324d0faf8642014139b082.md) | 26 | 1,000 |
 | [Electrician Simulator](../games/d/d400b874b09b4cd49d149358c67aa453.md) | 26 | 1,000 |
 | [Gambit Shifter](../games/b/ba3fea8881d54b1a805074c89f03874f.md) | 26 | 1,000 |
 | [Garden Witch Life](../games/0/0ff2a1392b884d6fba75823c49c96af4.md) | 26 | 1,000 |

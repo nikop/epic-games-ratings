@@ -303,7 +303,7 @@
 | 301 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4,571 | 0 |
 | 302 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4,501 | 7 |
 | 303 | [Yars: Recharged](games/y/yars__recharged.md) | 4,364 | 8 |
-| 304 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 4,343 | 0 |
+| 304 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 4,343 | 0 |
 | 305 | [Five Dates](games/f/five_dates.md) | 4,209 | 27 |
 | 306 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4,183 | 1 |
 | 307 | [Gravitar Recharged](games/g/gravitar_recharged.md) | 4,085 | 1 |

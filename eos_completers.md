@@ -757,7 +757,7 @@
 | 591 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 0.00% |
 | 591 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 0.00% |
 | 591 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 0.00% |
-| 591 | [EA SPORTS™ WRC](games/5/50b6612049324d0faf8642014139b082.md) | 0.00% |
+| 591 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 0.00% |
 | 591 | [Ebenezer and the Invisible World](games/6/6ff11bcfbc474680a15eae71234a8188.md) | 0.00% |
 | 591 | [EBOLA 2](games/e/ebola_2.md) | 0.00% |
 | 591 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 0.00% |

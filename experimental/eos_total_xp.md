@@ -412,7 +412,7 @@
 | [EA SPORTS FC™ 24 Standard Edition](../games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 40 | 1,000 |
 | [EA SPORTS™ FIFA 23 Standard Edition](../games/e/ea_sports™_fifa_23_standard_edition.md) | 39 | 1,000 |
 | [EA SPORTS™ PGA TOUR™](../games/e/ea_sports™_pga_tour™.md) | 18 | 1,000 |
-| [EA SPORTS™ WRC](../games/5/50b6612049324d0faf8642014139b082.md) | 26 | 1,000 |
+| [EA SPORTS™ WRC 24](../games/5/50b6612049324d0faf8642014139b082.md) | 26 | 1,000 |
 | [EARTH DEFENSE FORCE ６](../games/1/10aa3c43a96642b3845f741a169c95b3.md) | 39 | 1,000 |
 | [EARTHLOCK](../games/5/5c82c05d2978489090d30c05e17e6e12.md) | 34 | 1,000 |
 | [Ebenezer and the Invisible World](../games/6/6ff11bcfbc474680a15eae71234a8188.md) | 27 | 1,000 |
