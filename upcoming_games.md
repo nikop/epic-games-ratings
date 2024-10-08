@@ -22,7 +22,6 @@
 | [Barrel Baller](games/5/51b263d03178465b87a5a46315be468e.md) | 2024-10-31 | - |  | - | - |
 | [Bmx Bastards](games/a/af34c848367c4071b8083b22c90e15fb.md) | 2024-10-31 | - |  | - | - |
 | [Flint: The Treasure of Oblivion](games/a/ae1a11a634df42feb2e6c28eea474260.md) | 2024-10-31 | - |  | - | - |
-| [GT Manager](games/4/4c5ee9d67d8449478f3f58722ee54eab.md) | 2024-10-31 | - |  | - | - |
 | [Hitmen Party](games/0/0229686d1f43464eabe959430ba6abaf.md) | 2024-10-31 | - |  | - | - |
 | [Holiday Fantasy](games/6/6999943986284eb0a87cb47ac183b06c.md) | 2024-10-31 | - |  | - | - |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-31 | - |  | - | - |
