@@ -4,7 +4,7 @@
   "ProductSlug": "snowbreak-containment-zone-abc820",
   "Ranking_Rating": 832,
   "Ranking_Popularity": 185,
-  "Ranking_PopularitySum": 195,
+  "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8009,10 +8009,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 4027,
       "NumberOfAwardsMax": 1192
+    },
+    {
+      "Time": "2024-10-08T20:58:31.1977352+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 4328,
+      "NumberOfAwardsMax": 1192
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4027,
+  "NumberOfAwards": 4328,
   "NumberOfAwardsMax": 1192,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8080,7 +8086,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 298
+      "Count": 301
     }
   ],
   "EOS_Progressed": 0,
@@ -8095,8 +8101,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-10-08T17:00:49.4347217+00:00",
+  "LastChanged": "2024-10-08T20:58:31.1977347+00:00",
   "LastUpdate_AppInfo": "2024-10-05T03:11:12.6482376+00:00",
-  "LastUpdate_Ratings": "2024-10-08T18:59:33.7836908+00:00",
+  "LastUpdate_Ratings": "2024-10-08T20:58:31.1977356+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:53.6477857+00:00"
 }
