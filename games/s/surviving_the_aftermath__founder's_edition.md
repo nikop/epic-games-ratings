@@ -1,7 +1,7 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.37 (Ranked 954)  
+Rating: 4.38 (Ranked 941)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -819,4 +819,4 @@ Diff (max vs sum): 23
 | 2024-10-05 | 4.37 | - | 494 | 2,337 |
 | 2024-10-06 | 4.37 | - | 498 | 2,342 |
 | 2024-10-07 | 4.37 | - | 498 | 2,345 |
-| 2024-10-08 | 4.37 | - | 498 | 2,347 |
+| 2024-10-08 | 4.38 | - | 498 | 2,347 |
