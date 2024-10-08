@@ -3,8 +3,8 @@
   "Name": "Hello Neighbor: Hide and Seek",
   "ProductSlug": "hello-neighbor-hide-and-seek",
   "Ranking_Rating": 1057,
-  "Ranking_Popularity": 681,
-  "Ranking_PopularitySum": 697,
+  "Ranking_Popularity": 675,
+  "Ranking_PopularitySum": 693,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -748,18 +748,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 27,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-10-08T18:57:54.1043304+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 28,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 28,
+  "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 27
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -773,8 +779,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:38.5841657+00:00",
-  "LastChanged": "2024-10-06T08:59:28.6281044+00:00",
+  "LastChanged": "2024-10-08T18:57:54.1043301+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:10.3643132+00:00",
-  "LastUpdate_Ratings": "2024-10-08T16:58:37.6943533+00:00",
+  "LastUpdate_Ratings": "2024-10-08T18:57:54.1043306+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:15.3962323+00:00"
 }

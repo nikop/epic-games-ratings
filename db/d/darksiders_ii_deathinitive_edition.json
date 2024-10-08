@@ -4,7 +4,7 @@
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 695,
   "Ranking_Popularity": 269,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 455,
   "Ranking_EOS_NewPlayers": 3,
@@ -1750,10 +1750,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 966,
       "NumberOfAwardsMax": 505
+    },
+    {
+      "Time": "2024-10-08T18:57:46.875783+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 987,
+      "NumberOfAwardsMax": 505
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 966,
+  "NumberOfAwards": 987,
   "NumberOfAwardsMax": 505,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1779,7 +1785,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1815,6 +1821,12 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
+      "Count": 20
+    },
+    {
+      "Text": "This game has Competitive Players",
+      "Prefix": "This game has",
+      "Type": "Competitive Players",
       "Count": 20
     }
   ],
@@ -2265,9 +2277,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "FirstSeenAchievements": "2024-03-21T17:07:20.4320902+00:00",
-  "LastChanged": "2024-10-08T07:58:50.6005711+00:00",
+  "LastChanged": "2024-10-08T18:57:46.8757826+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:09.117238+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:08.4345216+00:00",
-  "LastUpdate_Ratings": "2024-10-08T16:58:28.3356077+00:00",
+  "LastUpdate_Ratings": "2024-10-08T18:57:46.8757833+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:09.1172692+00:00"
 }

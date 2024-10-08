@@ -4,12 +4,12 @@
 Rating: 4.51 (Ranked 695)  
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
-Max (Great for Quick Sessions): 92  (Ranked 493)  
-Sum: 697 (Ranked 390)  
-Diff (max vs sum): 103  
+Max (Great for Quick Sessions): 93  (Ranked 492)  
+Sum: 698 (Ranked 390)  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 92 |
+| This game is Great for Quick Sessions | 93 |
 | This game is Extremely Fun | 85 |
 | This game is Educational | 81 |
 | This game is Relaxing | 70 |
@@ -228,3 +228,4 @@ Diff (max vs sum): 103
 | 2024-10-05 | 4.51 | - | 90 | 690 |
 | 2024-10-06 | 4.51 | - | 90 | 691 |
 | 2024-10-07 | 4.51 | - | 92 | 697 |
+| 2024-10-08 | 4.51 | - | 93 | 698 |

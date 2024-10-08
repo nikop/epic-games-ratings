@@ -2,7 +2,7 @@
   "ID": "31bd7140ab344cd59a770e14b2afbcea",
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
-  "Ranking_Rating": 1137,
+  "Ranking_Rating": 1138,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 1254,
@@ -2131,10 +2131,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 835,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-10-08T18:58:49.5454496+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 836,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 835,
+  "NumberOfAwards": 836,
   "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2160,7 +2166,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 125
+      "Count": 126
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2204,8 +2210,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-10-08T16:59:51.1749028+00:00",
+  "LastChanged": "2024-10-08T18:58:49.5454494+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:35.3570658+00:00",
-  "LastUpdate_Ratings": "2024-10-08T16:59:51.1749034+00:00",
+  "LastUpdate_Ratings": "2024-10-08T18:58:49.5454499+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:04.9136453+00:00"
 }

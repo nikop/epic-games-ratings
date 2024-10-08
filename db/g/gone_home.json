@@ -2,7 +2,7 @@
   "ID": "52326e805bac4619a4a8fac165363a42",
   "Name": "Gone Home",
   "ProductSlug": "gone-home",
-  "Ranking_Rating": 1137,
+  "Ranking_Rating": 1130,
   "Ranking_Popularity": 733,
   "Ranking_PopularitySum": 733,
   "Ranking_EOS_Progress": 1254,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "NumberOfRatings": 55,
   "RatingHistory": [
     {
@@ -343,6 +343,12 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-08T18:59:16.0814023+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -360,8 +366,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:36.6755135+00:00",
-  "LastChanged": "2024-10-06T19:57:06.7355602+00:00",
+  "LastChanged": "2024-10-08T18:59:16.081402+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:52.4413074+00:00",
-  "LastUpdate_Ratings": "2024-10-08T17:00:25.8649126+00:00",
+  "LastUpdate_Ratings": "2024-10-08T18:59:16.0814027+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:48.5451485+00:00"
 }
