@@ -4,7 +4,7 @@
   "ProductSlug": "maneater",
   "Ranking_Rating": 739,
   "Ranking_Popularity": 43,
-  "Ranking_PopularitySum": 81,
+  "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -6984,10 +6984,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 19460,
       "NumberOfAwardsMax": 14629
+    },
+    {
+      "Time": "2024-10-09T10:59:08.1450176+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 19560,
+      "NumberOfAwardsMax": 14629
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19460,
+  "NumberOfAwards": 19560,
   "NumberOfAwardsMax": 14629,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7061,7 +7067,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 85
+      "Count": 100
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7087,8 +7093,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2024-10-08T17:58:41.3879213+00:00",
+  "LastChanged": "2024-10-09T10:59:08.1450174+00:00",
   "LastUpdate_AppInfo": "2024-10-07T07:57:13.7914123+00:00",
-  "LastUpdate_Ratings": "2024-10-09T08:58:56.7573973+00:00",
+  "LastUpdate_Ratings": "2024-10-09T10:59:08.1450184+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:26.6494324+00:00"
 }

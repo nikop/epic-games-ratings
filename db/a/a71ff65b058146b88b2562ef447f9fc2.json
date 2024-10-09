@@ -2,7 +2,7 @@
   "ID": "a71ff65b058146b88b2562ef447f9fc2",
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 1254,
@@ -1464,10 +1464,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 609,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-10-09T10:57:35.5798959+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 612,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 609,
+  "NumberOfAwards": 612,
   "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1511,7 +1517,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1523,7 +1529,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1972,9 +1978,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-08T22:58:08.278328+00:00",
+  "LastChanged": "2024-10-09T10:57:35.5798958+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:43.8667972+00:00",
-  "LastUpdate_Ratings": "2024-10-09T08:57:57.9363829+00:00",
+  "LastUpdate_Ratings": "2024-10-09T10:57:35.5798963+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }

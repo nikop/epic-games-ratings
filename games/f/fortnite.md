@@ -1,7 +1,7 @@
 # Fortnite
 [Store](https://store.epicgames.com/en-US/p/fortnite)  
 [View Rawdata](../../db/f/fortnite.json)  
-Rating: 4.29 (Ranked 1,045)  
+Rating: 4.29 (Ranked 1,046)  
 Number of Ratings: 2,283,925  (23.09.2022)  
 ## Awards
 Max (Competitive Players): 4,014,919  (Ranked 1)  

@@ -3,7 +3,7 @@
   "Name": "Mothergunship",
   "ProductSlug": "mothergunship",
   "Ranking_Rating": 925,
-  "Ranking_Popularity": 371,
+  "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 534,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -871,18 +871,24 @@
       "Rating": 4.39,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 208
+    },
+    {
+      "Time": "2024-10-09T10:58:38.7776487+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 208,
-  "NumberOfAwardsMax": 208,
+  "NumberOfAwards": 209,
+  "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 208
+      "Count": 209
     }
   ],
   "EOS_Progressed": 0,
@@ -896,8 +902,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:55.041007+00:00",
-  "LastChanged": "2024-10-02T19:58:44.3444113+00:00",
+  "LastChanged": "2024-10-09T10:58:38.7776486+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:00.8321805+00:00",
-  "LastUpdate_Ratings": "2024-10-09T08:58:38.2761513+00:00",
+  "LastUpdate_Ratings": "2024-10-09T10:58:38.7776491+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:27.3461796+00:00"
 }
