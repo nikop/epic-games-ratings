@@ -68,8 +68,8 @@ Completed: 38 (0.02%) (Ranked 536)
 | 2024-09-14 | 158,456 | 38 |
 ## Awards
 Max (Extremely Fun): 289  (Ranked 324)  
-Sum: 2,184 (Ranked 259)  
-Diff (max vs sum): 65  
+Sum: 2,184 (Ranked 260)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 1,767 |

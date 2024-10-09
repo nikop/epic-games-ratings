@@ -3,8 +3,8 @@
   "Name": "South Park\u2122: The Stick of Truth\u2122",
   "ProductSlug": "south-park-the-stick-of-truth",
   "Ranking_Rating": 81,
-  "Ranking_Popularity": 511,
-  "Ranking_PopularitySum": 613,
+  "Ranking_Popularity": 508,
+  "Ranking_PopularitySum": 611,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -619,18 +619,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 82,
       "NumberOfAwardsMax": 82
+    },
+    {
+      "Time": "2024-10-09T13:17:19.9977571+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 83,
+      "NumberOfAwardsMax": 83
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 82,
-  "NumberOfAwardsMax": 82,
+  "NumberOfAwards": 83,
+  "NumberOfAwardsMax": 83,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 82
+      "Count": 83
     }
   ],
   "EOS_Progressed": 0,
@@ -644,8 +650,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:01.6762384+00:00",
-  "LastChanged": "2024-05-10T06:58:22.8258539+00:00",
+  "LastChanged": "2024-10-09T13:17:19.9977569+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:13.0000909+00:00",
-  "LastUpdate_Ratings": "2024-10-09T11:57:34.0850109+00:00",
+  "LastUpdate_Ratings": "2024-10-09T13:17:19.9977574+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:09.1869553+00:00"
 }
