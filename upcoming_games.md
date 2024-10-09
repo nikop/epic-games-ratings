@@ -33,8 +33,8 @@
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 0 | - | - |
 | [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Teenage Mutant Ninja Turtles: Splintered Fate](games/7/7f983c72f7824a41b5ef591ccc365abd.md) | 2024-11-06 | - |  | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
@@ -193,6 +193,7 @@
 | [Eriksholm: The Stolen Dream](games/8/833ef2482db54a19a83c264f5371f550.md) | 2025-12-31 | - |  | - | - |
 | [Falling Frontier](games/f/falling_frontier.md) | 2025-12-31 | - |  | - | - |
 | [Federation](games/f/ff6f8be77181424abd51b0fc551da825.md) | 2025-12-31 | - |  | - | - |
+| [G-Rebels](games/7/779308ab750f4d0cadf7d54bb87d04f1.md) | 2025-12-31 | - |  | - | - |
 | [Green Hawk Platoon](games/8/8e9581e6efd141878e25dd1a0c0dceb6.md) | 2025-12-31 | - |  | - | - |
 | [Head North: The Inevitable](games/c/c98237093b7f4f108ff63cfcee8e27e2.md) | 2025-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |
