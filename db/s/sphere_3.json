@@ -2,7 +2,7 @@
   "ID": "ffebd598d5494ae28740e6507ecbe2ba",
   "Name": "Sphere 3",
   "ProductSlug": "sphere-3-deb200",
-  "Ranking_Rating": 1238,
+  "Ranking_Rating": 1280,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
   "Ranking_EOS_Progress": 1263,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.05,
+  "Rating": 3.91,
   "RatingHistory": [
     {
       "Time": "2023-05-03T08:57:50.4684092+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2024-10-01T17:57:53.3199787+00:00",
       "Rating": 4.05,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T19:58:31.8501883+00:00",
+      "Rating": 3.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -53,8 +59,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-03T08:57:50.4684052+00:00",
   "FirstSeenRating": "2023-05-03T08:57:50.4684088+00:00",
-  "LastChanged": "2024-10-01T17:57:53.3199785+00:00",
+  "LastChanged": "2024-10-09T19:58:31.8501882+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:12.5338743+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:59:51.7407475+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:58:31.8501887+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:54.3269692+00:00"
 }
