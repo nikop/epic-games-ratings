@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_Rating": 302,
   "Ranking_Popularity": 650,
-  "Ranking_PopularitySum": 577,
+  "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -651,10 +651,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 126,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2024-10-09T09:57:25.5574351+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 127,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 126,
+  "NumberOfAwards": 127,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -686,7 +692,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 10385,
@@ -10544,9 +10550,9 @@
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged": "2024-10-06T16:58:48.3722067+00:00",
+  "LastChanged": "2024-10-09T09:57:25.5574349+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:06.9111964+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:23.7829251+00:00",
-  "LastUpdate_Ratings": "2024-10-09T07:58:16.7751553+00:00",
+  "LastUpdate_Ratings": "2024-10-09T09:57:25.5574354+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.9112761+00:00"
 }
