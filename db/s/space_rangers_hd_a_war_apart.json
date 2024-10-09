@@ -2,6 +2,9 @@
   "ID": "2a2a530df049450c907d818879767f45",
   "Name": "Space Rangers HD A War Apart",
   "ProductSlug": "space-rangers-hd-a-war-apart-455702",
+  "Ranking_Rating": 104,
+  "Ranking_Popularity": 734,
+  "Ranking_PopularitySum": 734,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -19,10 +22,17 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:58.8699202+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T03:57:28.9818458+00:00",
+      "Rating": 4.8,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -43,8 +53,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-19T00:31:31.8660926+00:00",
   "FirstSeenRating": "2023-03-31T05:57:58.8699198+00:00",
-  "LastChanged": "2023-03-31T05:57:58.8699199+00:00",
+  "LastChanged": "2024-10-09T03:57:28.9818455+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:10.0850297+00:00",
-  "LastUpdate_Ratings": "2024-10-09T02:09:22.3869835+00:00",
+  "LastUpdate_Ratings": "2024-10-09T03:57:28.9818461+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:12.8157202+00:00"
 }

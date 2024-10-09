@@ -1,11 +1,11 @@
 # Celeste
 [Store](https://store.epicgames.com/en-US/p/celeste)  
 [View Rawdata](../../db/c/celeste.json)  
-Rating: 4.92 (Ranked 4)  
+Rating: 4.91 (Ranked 5)  
 Number of Ratings: 2,543  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 2,301  (Ranked 135)  
-Sum: 4,737 (Ranked 185)  
+Sum: 4,738 (Ranked 185)  
 Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -50
 | This game is Highly Recommended | 340 |
 | This game has Amazing Storytelling | 322 |
 | This game is Extremely Fun | 310 |
-| This game has Amazing Characters | 293 |
+| This game has Amazing Characters | 294 |
 | This game has Quickly Understood Controls | 289 |
 | This game is Relaxing | 274 |
 | This game has Challenging Combat | 266 |
@@ -594,3 +594,4 @@ Diff (max vs sum): -50
 | 2024-10-06 | 4.92 | - | 2,296 | 4,730 |
 | 2024-10-07 | 4.92 | - | 2,298 | 4,732 |
 | 2024-10-08 | 4.92 | - | 2,301 | 4,737 |
+| 2024-10-09 | 4.91 | - | 2,301 | 4,738 |

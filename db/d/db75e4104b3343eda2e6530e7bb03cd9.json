@@ -2,7 +2,7 @@
   "ID": "db75e4104b3343eda2e6530e7bb03cd9",
   "Name": "Prince of Persia: The Forgotten Sands STANDARD EDITION",
   "ProductSlug": "prince-of-persia-the-forgotten-sands",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 1005,
   "Ranking_Popularity": 734,
   "Ranking_PopularitySum": 734,
   "Ranking_EOS_Progress": 1254,
@@ -209,6 +209,6 @@
   "FirstSeenRating": "2023-12-31T20:01:07.1794571+00:00",
   "LastChanged": "2024-10-07T16:59:13.4148066+00:00",
   "LastUpdate_AppInfo": "2024-10-05T03:57:12.3937973+00:00",
-  "LastUpdate_Ratings": "2024-10-09T02:10:30.4941591+00:00",
+  "LastUpdate_Ratings": "2024-10-09T03:59:06.5793476+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:59.2588245+00:00"
 }

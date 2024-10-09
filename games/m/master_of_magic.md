@@ -1,7 +1,7 @@
 # Master of Magic
 [Store](https://store.epicgames.com/en-US/p/master-of-magic)  
 [View Rawdata](../../db/m/master_of_magic.json)  
-Rating: 4.71 (Ranked 228)  
+Rating: 4.72 (Ranked 215)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -15,3 +15,4 @@ Rating: 4.71 (Ranked 228)
 | 2024-08-10 | 4.69 | 0 | 0 |
 | 2024-08-25 | 4.70 | 0 | 0 |
 | 2024-09-13 | 4.71 | 0 | 0 |
+| 2024-10-09 | 4.72 | 0 | 0 |
