@@ -4,7 +4,7 @@
   "ProductSlug": "god-of-war-ragnarok-3ca641",
   "Ranking_Rating": 19,
   "Ranking_Popularity": 415,
-  "Ranking_PopularitySum": 318,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -744,10 +744,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1189,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2024-10-09T22:58:10.2166212+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1207,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1189,
+  "NumberOfAwards": 1207,
   "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -755,7 +761,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 97
+      "Count": 101
     },
     {
       "Text": "This game is Great for Beginners",
@@ -779,7 +785,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 116
+      "Count": 127
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -821,7 +827,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 83
+      "Count": 86
     },
     {
       "Text": "This game has a Competitive Community",
@@ -856,9 +862,9 @@
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
-  "LastChanged": "2024-10-09T20:59:22.0406618+00:00",
+  "LastChanged": "2024-10-09T22:58:10.216621+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
   "LastUpdate_AppInfo": "2024-10-04T13:13:52.6197864+00:00",
-  "LastUpdate_Ratings": "2024-10-09T20:59:22.0406622+00:00",
+  "LastUpdate_Ratings": "2024-10-09T22:58:10.2166216+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
 }
