@@ -2,7 +2,7 @@
   "ID": "ca05bd340e84436ebea4a0c0ca55befa",
   "Name": "Golden Light",
   "ProductSlug": "golden-light-f543b3",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 953,
   "Ranking_Popularity": 734,
   "Ranking_PopularitySum": 734,
   "Ranking_EOS_Progress": 236,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "RatingHistory": [
     {
       "Time": "2023-11-17T10:00:31.8324774+00:00",
@@ -255,6 +255,12 @@
     {
       "Time": "2024-10-08T02:14:09.315841+00:00",
       "Rating": 4.36,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T14:58:59.8092373+00:00",
+      "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1647,9 +1653,9 @@
   "FirstSeen": "2023-10-15T21:59:09.4936341+00:00",
   "FirstSeenRating": "2023-11-17T10:00:31.8324772+00:00",
   "FirstSeenAchievements": "2023-10-12T12:03:32.4502016+00:00",
-  "LastChanged": "2024-10-08T02:14:09.3158408+00:00",
+  "LastChanged": "2024-10-09T14:58:59.8092371+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:23.8432672+00:00",
   "LastUpdate_AppInfo": "2024-10-05T03:11:15.9811956+00:00",
-  "LastUpdate_Ratings": "2024-10-09T13:16:39.0918374+00:00",
+  "LastUpdate_Ratings": "2024-10-09T14:58:59.8092378+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:23.8433292+00:00"
 }

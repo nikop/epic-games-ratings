@@ -3,7 +3,7 @@
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
   "Ranking_Rating": 485,
-  "Ranking_Popularity": 292,
+  "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
@@ -6017,11 +6017,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 2553,
       "NumberOfAwardsMax": 412
+    },
+    {
+      "Time": "2024-10-09T14:58:27.7999094+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2555,
+      "NumberOfAwardsMax": 414
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2553,
-  "NumberOfAwardsMax": 412,
+  "NumberOfAwards": 2555,
+  "NumberOfAwardsMax": 414,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6040,7 +6046,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 412
+      "Count": 414
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6102,8 +6108,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-10-09T02:10:42.7798714+00:00",
+  "LastChanged": "2024-10-09T14:58:27.7999093+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:22.5636002+00:00",
-  "LastUpdate_Ratings": "2024-10-09T13:16:07.2196795+00:00",
+  "LastUpdate_Ratings": "2024-10-09T14:58:27.7999098+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:44.3811376+00:00"
 }
