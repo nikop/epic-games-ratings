@@ -300,6 +300,7 @@
 | [STAR WARS™: Squadrons](../games/s/star_wars™__squadrons.md) | 47 | 1,000 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 |
 | [The Fabulous Fear Machine](../games/t/the_fabulous_fear_machine.md) | 47 | 1,000 |
+| [The Karate Kid Street Rumble](../games/9/945620b4eca746e0991d17d4ea450d6a.md) | 47 | 1,000 |
 | [Werewolf: The Apocalypse - Purgatory](../games/d/d687fc7fa9814e76a19454c65a9ac863.md) | 47 | 1,000 |
 | [Agatha Christie - Hercule Poirot: The London Case](../games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 46 | 1,000 |
 | [BIOMUTANT](../games/b/biomutant.md) | 46 | 1,000 |
@@ -458,8 +459,8 @@
 | [Horizon Chase 2](../games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 38 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Operation New Earth](../games/o/operation_new_earth.md) | 38 | 1,000 |
-| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Peerless Destiny](../games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 38 | 1,000 |
+| [Peerless Destiny](../games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 38 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [ROBOBEAT](../games/r/robobeat.md) | 38 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
@@ -678,6 +679,7 @@
 | [De-Exit - Eternal Matters](../games/d/de-exit_-_eternal_matters.md) | 29 | 1,000 |
 | [DEMON'S TILT](../games/d/demon's_tilt.md) | 29 | 1,000 |
 | [Filament](../games/f/filament.md) | 29 | 1,000 |
+| [File Destined](../games/a/a797d4405a1c4f0ab62023d72628f60c.md) | 29 | 1,000 |
 | [Grand Theft Auto III – The Definitive Edition](../games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 29 | 1,000 |
 | [HAWKED](../games/4/4b4cf9f6797e47099d1a132d485ed0f2.md) | 29 | 1,000 |
 | [Kaptain Brawe - A Brawe New World](../games/6/6360f6e14b864d1c998a0f04b4744f47.md) | 29 | 1,000 |
@@ -848,6 +850,7 @@
 | [Murder On Space Station 52](../games/9/93037c70ec2a4681bc1fb26d558cc5a4.md) | 23 | 1,000 |
 | [MythForce](../games/m/mythforce.md) | 23 | 1,000 |
 | [Pepper Grinder](../games/p/pepper_grinder.md) | 23 | 1,000 |
+| [Realm of Dread](../games/5/5830e39c9f3149cdaf4d6fcb4953273a.md) | 23 | 1,000 |
 | [Sunlight Scream](../games/f/f1d0d2bf90c0444684c26bb6190cc74f.md) | 23 | 1,000 |
 | [The Galactic Junkers](../games/t/the_galactic_junkers.md) | 23 | 1,000 |
 | [The Unbeatable Path](../games/t/the_unbeatable_path.md) | 23 | 1,000 |
@@ -952,6 +955,7 @@
 | [The Jackbox Party Pack 10](../games/3/3b925119dbd84a9986f06e66e6794033.md) | 20 | 1,000 |
 | [The Jackbox Party Starter](../games/t/the_jackbox_party_starter.md) | 20 | 1,000 |
 | [Wildcat Gun Machine](../games/w/wildcat_gun_machine.md) | 20 | 1,000 |
+| [Witchfire](../games/w/witchfire.md) | 20 | 1,000 |
 | [Wreckfest](../games/w/wreckfest.md) | 20 | 1,000 |
 | [Youtubers Life 2](../games/1/1a5d2c6a072a4cbc81fc35b7e6e0af84.md) | 20 | 1,000 |
 | [Are You Smarter Than A 5th Grader](../games/a/are_you_smarter_than_a_5th_grader.md) | 19 | 1,000 |
@@ -994,6 +998,7 @@
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
 | [Nova Strike](../games/b/b1555bed500048b79f6fad321d5a7202.md) | 18 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |
+| [Rogue Waters](../games/8/898ae428ada149888c1cdd97aaa29845.md) | 18 | 1,000 |
 | [Snowmen](../games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 18 | 1,000 |
 | [The Backroom Project](../games/5/51dd70aea58d47609d82b87473877daa.md) | 18 | 1,000 |
 | [The Gap](../games/2/2ecda9f5dc5945c39b98d63d65c0797d.md) | 18 | 1,000 |
@@ -1051,6 +1056,7 @@
 | [Tales of the Orient: The Rising Sun](../games/t/tales_of_the_orient__the_rising_sun.md) | 16 | 1,000 |
 | [The Hidden Room](../games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 16 | 1,000 |
 | [TrekkingAndCamping](../games/5/5f9ba5f02fce44f4ab7faba53e835305.md) | 16 | 1,000 |
+| [While We Wait Here](../games/w/while_we_wait_here.md) | 16 | 1,000 |
 | [Beatbuddy: Tale of the Guardians](../games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 15 | 1,000 |
 | [Biped](../games/b/biped.md) | 15 | 1,000 |
 | [Bosorka](../games/b/bosorka.md) | 15 | 1,000 |
@@ -1289,6 +1295,7 @@
 | [Asurya's Embers](../games/c/c2d8e1ed422240c4a174bb59bee22dcb.md) | 5 | 1,000 |
 | [Aya & Naya](../games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 5 | 1,000 |
 | [Balloon Strike](../games/5/524a7bde223b442d9e006c9891b5d702.md) | 5 | 1,000 |
+| [BeamNG.drive](../games/4/4e53f148899a4565bded9d485880203e.md) | 5 | 1,000 |
 | [Box Bop](../games/1/14e70c79a4774d7e8b405bf123b02884.md) | 5 | 1,000 |
 | [Carsick Carventure](../games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 5 | 1,000 |
 | [Cepheus Protocol](../games/c/cepheus_protocol.md) | 5 | 1,000 |
