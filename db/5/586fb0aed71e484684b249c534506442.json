@@ -2,7 +2,7 @@
   "ID": "586fb0aed71e484684b249c534506442",
   "Name": "Core Keeper",
   "ProductSlug": "core-keeper-868404",
-  "Ranking_Rating": 274,
+  "Ranking_Rating": 252,
   "Ranking_Popularity": 734,
   "Ranking_PopularitySum": 734,
   "Ranking_EOS_Progress": 1254,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2024-09-21T19:57:44.4673648+00:00",
@@ -58,6 +58,12 @@
     {
       "Time": "2024-10-08T15:59:24.1488417+00:00",
       "Rating": 4.69,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T16:57:16.6213482+00:00",
+      "Rating": 4.7,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -456,9 +462,9 @@
   "FirstSeen": "2024-08-27T20:58:10.0495642+00:00",
   "FirstSeenRating": "2024-09-21T19:57:44.4673647+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:07.8229448+00:00",
-  "LastChanged": "2024-10-08T15:59:24.1488415+00:00",
+  "LastChanged": "2024-10-09T16:57:16.621348+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:07.8229392+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:57:13.1147173+00:00",
-  "LastUpdate_Ratings": "2024-10-09T14:58:14.6414366+00:00",
+  "LastUpdate_Ratings": "2024-10-09T16:57:16.6213486+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:07.8238055+00:00"
 }

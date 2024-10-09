@@ -2,7 +2,7 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 129,
+  "Ranking_Rating": 116,
   "Ranking_Popularity": 734,
   "Ranking_PopularitySum": 734,
   "Ranking_EOS_Progress": 316,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2023-04-18T18:57:53.9681459+00:00",
@@ -227,6 +227,12 @@
     {
       "Time": "2024-06-04T11:58:05.6997809+00:00",
       "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T16:57:58.5933573+00:00",
+      "Rating": 4.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -7396,9 +7402,9 @@
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
-  "LastChanged": "2024-06-04T11:58:05.6997805+00:00",
+  "LastChanged": "2024-10-09T16:57:58.5933571+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:47.0085307+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:18.4401221+00:00",
-  "LastUpdate_Ratings": "2024-10-09T14:58:53.4065589+00:00",
+  "LastUpdate_Ratings": "2024-10-09T16:57:58.5933578+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:47.0085915+00:00"
 }

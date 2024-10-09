@@ -4,7 +4,7 @@
 Rating: 4.61 (Ranked 462)  
 ## Awards
 Max (Character Customization): 450  (Ranked 282)  
-Sum: 622 (Ranked 402)  
+Sum: 623 (Ranked 402)  
 Diff (max vs sum): -120  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -120
 | This game has Diverse Characters | 23 |
 | This game has Amazing Characters | 22 |
 | This game is Hard for Beginners | 21 |
-| This game has Amazing Storytelling | 20 |
+| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -244,3 +244,4 @@ Diff (max vs sum): -120
 | 2024-10-05 | 4.61 | 442 | 609 |
 | 2024-10-06 | 4.61 | 446 | 618 |
 | 2024-10-07 | 4.61 | 450 | 622 |
+| 2024-10-09 | 4.61 | 450 | 623 |

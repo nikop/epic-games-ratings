@@ -1,7 +1,7 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.46 (Ranked 796)  
+Rating: 4.47 (Ranked 783)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -524,3 +524,4 @@ Diff (max vs sum): 133
 | 2024-10-01 | 4.46 | - | 27 | 170 |
 | 2024-10-05 | 4.46 | - | 27 | 171 |
 | 2024-10-07 | 4.46 | - | 27 | 172 |
+| 2024-10-09 | 4.47 | - | 27 | 172 |

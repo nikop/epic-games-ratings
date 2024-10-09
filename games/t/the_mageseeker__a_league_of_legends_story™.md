@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 129)  
+Rating: 4.79 (Ranked 116)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -336,3 +336,4 @@ Completed: 52 (1.39%) (Ranked 244)
 | 2024-05-14 | 4.80 | 0 | 0 |
 | 2024-06-01 | 4.77 | 0 | 0 |
 | 2024-06-04 | 4.78 | 0 | 0 |
+| 2024-10-09 | 4.79 | 0 | 0 |
