@@ -1,7 +1,7 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 905)  
+Rating: 4.41 (Ranked 884)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -633,3 +633,4 @@ Diff (max vs sum): -101
 | 2024-10-04 | 4.41 | 731 | 964 |
 | 2024-10-05 | 4.40 | 735 | 968 |
 | 2024-10-06 | 4.40 | 736 | 970 |
+| 2024-10-08 | 4.41 | 736 | 970 |
