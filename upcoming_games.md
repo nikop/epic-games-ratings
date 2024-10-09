@@ -35,13 +35,14 @@
 | [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 0 | - | - |
 | [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
-| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
+| [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Teenage Mutant Ninja Turtles: Splintered Fate](games/7/7f983c72f7824a41b5ef591ccc365abd.md) | 2024-11-06 | - |  | - | - |
 | [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
 | [Goat Simulator Remastered](games/9/9686eab4b6914aecb78934b95fd25919.md) | 2024-11-07 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
+| [Two Falls (Nishu Takuatshina)](games/8/864151ebfd544c4fb3f1de25e361713f.md) | 2024-11-08 | - |  | - | - |
 | [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
 | [LEGO® Horizon Adventures™](games/b/bdb4adaa3874491bbafe9a16b2764200.md) | 2024-11-14 | - |  | - | - |
@@ -133,7 +134,6 @@
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | 5 (1,000 XP) | 0 | - | - |
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2024-12-31 | - |  | - | - |
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | 2024-12-31 | - |  | - | - |
-| [Two Falls (Nishu Takuatshina)](games/8/864151ebfd544c4fb3f1de25e361713f.md) | 2024-12-31 | - |  | - | - |
 | [Universe Has No Favorites](games/f/fbce8614801c4fb7bf5900270c5b47d8.md) | 2024-12-31 | - |  | - | - |
 | [Unmasked: An Inner Journey](games/7/733ca16d97244408b857bdcc9e4b6e3b.md) | 2024-12-31 | - |  | - | - |
 | [Vampire Clans](games/b/b9db41117c624579ae611ce280503693.md) | 2024-12-31 | - |  | - | - |
@@ -345,6 +345,7 @@
 | [ElectriX](games/e/electrix.md) | 2099-01-01 | - |  | - | - |
 | [Elite Comet](games/4/4843acbd9ca647e3ad3eecae110daa80.md) | 2099-01-01 | - |  | - | - |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2099-01-01 | - |  | - | - |
+| [Enigma's Edge](games/4/456e25ce2188416ba190190f83a93b4f.md) | 2099-01-01 | - |  | - | - |
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | 2099-01-01 | - |  | - | - |
 | [Escape from Ever After](games/2/2ce0aeaba01a4c47b7c9dadb0eb7ad4e.md) | 2099-01-01 | - |  | - | - |
 | [Esophaguys](games/b/b98c4f25fa904256935d834da1462c2e.md) | 2099-01-01 | - |  | - | - |
