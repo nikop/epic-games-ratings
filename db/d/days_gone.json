@@ -2,9 +2,9 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 275,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 92,
-  "Ranking_PopularitySum": 133,
+  "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -8885,10 +8885,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 9738,
       "NumberOfAwardsMax": 5627
+    },
+    {
+      "Time": "2024-10-09T13:58:43.7855298+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 9743,
+      "NumberOfAwardsMax": 5627
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9738,
+  "NumberOfAwards": 9743,
   "NumberOfAwardsMax": 5627,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8938,7 +8944,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 566
+      "Count": 571
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -8976,8 +8982,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-10-09T03:15:10.410161+00:00",
+  "LastChanged": "2024-10-09T13:58:43.7855296+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:33.1218847+00:00",
-  "LastUpdate_Ratings": "2024-10-09T11:58:42.1355183+00:00",
+  "LastUpdate_Ratings": "2024-10-09T13:58:43.7855301+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:26.0288253+00:00"
 }

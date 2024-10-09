@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.69 (Ranked 275)  
+Rating: 4.69 (Ranked 274)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -366,12 +366,12 @@ Completed: 3,896 (0.35%) (Ranked 379)
 | 2024-09-14 | 1,122,807 | 3,896 |
 ## Awards
 Max (Character Customization): 180,036  (Ranked 7)  
-Sum: 723,391 (Ranked 8)  
+Sum: 723,485 (Ranked 8)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 180,036 |
-| This game has Great Boss Battles | 141,533 |
+| This game has Great Boss Battles | 141,627 |
 | This game is Great for Beginners | 50,941 |
 | This game has Diverse Characters | 49,443 |
 | This game is Highly Recommended | 46,800 |
@@ -1013,4 +1013,4 @@ Diff (max vs sum): -1
 | 2024-10-06 | 4.69 | - | 179,871 | 721,984 |
 | 2024-10-07 | 4.69 | - | 179,957 | 722,580 |
 | 2024-10-08 | 4.69 | - | 180,036 | 723,096 |
-| 2024-10-09 | 4.69 | - | 180,036 | 723,391 |
+| 2024-10-09 | 4.69 | - | 180,036 | 723,485 |
