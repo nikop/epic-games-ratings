@@ -1,7 +1,7 @@
 # Bramble The Mountain King
 [Store](https://store.epicgames.com/en-US/p/bramble-the-mountain-king-c0d1c6)  
 [View Rawdata](../../db/b/bramble_the_mountain_king.json)  
-Rating: 4.54 (Ranked 631)  
+Rating: 4.54 (Ranked 632)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,8 +36,8 @@ Rating: 4.54 (Ranked 631)
 | Savior | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 1,110)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 2 (Ranked 1,118)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

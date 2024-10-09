@@ -65,8 +65,8 @@
 | I will clean this world!!! | 0.00% | ~0 |
 | Break the rules!!! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 833)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 40 (Ranked 836)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "685f5a4e22814cf88dd98cdda721649e",
   "Name": "Airport",
   "ProductSlug": "airport-2919b6",
-  "Ranking_EOS_Progress": 667,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 618,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -40,6 +40,11 @@
       "Time": "2024-09-14T14:15:13.9629839+00:00",
       "NumProgressed": 127,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:02:08.1216002+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-08-09T18:02:02.5853126+00:00",
@@ -52,15 +57,15 @@
       "Name": "10 Hard Levels",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "100 Passengers",
       "SetID": "4kooeo0",
       "Name": "100 Passengers",
-      "Percentage": 51,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 84
     },
     {
       "ID": "100 Rounds",
@@ -68,7 +73,7 @@
       "Name": "100 Rounds",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "20 Hard Levels",
@@ -76,39 +81,39 @@
       "Name": "20 Hard Levels",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "20 planes",
       "SetID": "4kooeo0",
       "Name": "20 planes",
-      "Percentage": 49,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 82
     },
     {
       "ID": "200 Rounds",
       "SetID": "4kooeo0",
       "Name": "200 Rounds",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "200 planes",
       "SetID": "4kooeo0",
       "Name": "200 planes",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "2000 Passengers",
       "SetID": "4kooeo0",
       "Name": "2000 Passengers",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "3 Stars",
@@ -116,7 +121,7 @@
       "Name": "3 Stars",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 181
     },
     {
       "ID": "3 Stars Madness",
@@ -124,7 +129,7 @@
       "Name": "3 Stars Madness",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "3 Stars Pro",
@@ -132,13 +137,13 @@
       "Name": "3 Stars Pro",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 47
     },
     {
       "ID": "300 Rounds",
       "SetID": "4kooeo0",
       "Name": "300 Rounds",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -146,15 +151,15 @@
       "ID": "400 Passengers",
       "SetID": "4kooeo0",
       "Name": "400 Passengers",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 54
     },
     {
       "ID": "50 Hard Levels",
       "SetID": "4kooeo0",
       "Name": "50 Hard Levels",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -162,15 +167,15 @@
       "ID": "50 Passengers",
       "SetID": "4kooeo0",
       "Name": "50 Passengers",
-      "Percentage": 60,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 107
     },
     {
       "ID": "500 Rounds",
       "SetID": "4kooeo0",
       "Name": "500 Rounds",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -180,37 +185,37 @@
       "Name": "500 planes",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "70 planes",
       "SetID": "4kooeo0",
       "Name": "70 planes",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 49
     },
     {
       "ID": "800 Passengers",
       "SetID": "4kooeo0",
       "Name": "800 Passengers",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 36
     },
     {
       "ID": "A big hit",
       "SetID": "4kooeo0",
       "Name": "A big hit",
-      "Percentage": 28,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 47
     },
     {
       "ID": "Chaos",
       "SetID": "4kooeo0",
       "Name": "Chaos",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -220,21 +225,21 @@
       "Name": "Collect 150 stars",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Collect 25 stars",
       "SetID": "4kooeo0",
       "Name": "Collect 25 stars",
-      "Percentage": 35,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 58
     },
     {
       "ID": "Collect 300 stars",
       "SetID": "4kooeo0",
       "Name": "Collect 300 stars",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -244,15 +249,15 @@
       "Name": "Collect 60 stars",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "Connected",
       "SetID": "4kooeo0",
       "Name": "Connected",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "Crash - 150",
@@ -260,29 +265,29 @@
       "Name": "Crash - 150",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 17
     },
     {
       "ID": "Crash - 20",
       "SetID": "4kooeo0",
       "Name": "Crash - 20",
-      "Percentage": 46,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 79
     },
     {
       "ID": "Crash - 50",
       "SetID": "4kooeo0",
       "Name": "Crash - 50",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 49
     },
     {
       "ID": "Crash - 600",
       "SetID": "4kooeo0",
       "Name": "Crash - 600",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -290,31 +295,31 @@
       "ID": "Experienced",
       "SetID": "4kooeo0",
       "Name": "Experienced",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "Hard Victory",
       "SetID": "4kooeo0",
       "Name": "Hard Victory",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "Huge mess",
       "SetID": "4kooeo0",
       "Name": "Huge mess",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 36
     },
     {
       "ID": "Madness",
       "SetID": "4kooeo0",
       "Name": "Madness",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -322,7 +327,7 @@
       "ID": "Multitasking",
       "SetID": "4kooeo0",
       "Name": "Multitasking",
-      "Percentage": 5,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -330,7 +335,7 @@
       "ID": "No Accidents - 10",
       "SetID": "4kooeo0",
       "Name": "No Accidents - 10",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -338,7 +343,7 @@
       "ID": "No Accidents - 20",
       "SetID": "4kooeo0",
       "Name": "No Accidents - 20",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -346,23 +351,23 @@
       "ID": "No Accidents - 5",
       "SetID": "4kooeo0",
       "Name": "No Accidents - 5",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "Scoot over",
       "SetID": "4kooeo0",
       "Name": "Scoot over",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 24
     },
     {
       "ID": "The biggest hit",
       "SetID": "4kooeo0",
       "Name": "The biggest hit",
-      "Percentage": 0.8,
+      "Percentage": 0.5,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -370,55 +375,55 @@
       "ID": "Whoops!",
       "SetID": "4kooeo0",
       "Name": "Whoops!",
-      "Percentage": 9,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "Win 10 times",
       "SetID": "4kooeo0",
       "Name": "Win 10 times",
-      "Percentage": 39,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 65
     },
     {
       "ID": "Win 30 times",
       "SetID": "4kooeo0",
       "Name": "Win 30 times",
-      "Percentage": 19,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 32
     },
     {
       "ID": "Win 5 times",
       "SetID": "4kooeo0",
       "Name": "Win 5 times",
-      "Percentage": 54,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 94
     },
     {
       "ID": "Win 60 times",
       "SetID": "4kooeo0",
       "Name": "Win 60 times",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kooeo0",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-08-13T19:58:45.8128166+00:00",
   "FirstSeenAchievements": "2024-08-09T18:02:02.5853126+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:13.9629831+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:02:08.1215994+00:00",
   "LastUpdate_AppInfo": "2024-10-06T18:57:00.468568+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:12.663445+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:13.9630282+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:11.3386622+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:02:08.1216468+00:00"
 }

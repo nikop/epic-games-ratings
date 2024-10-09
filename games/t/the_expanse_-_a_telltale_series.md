@@ -5,44 +5,44 @@ Rating: 4.44 (Ranked 832)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 26.00% | ~5,808 |
-| Captain Drummer | 24.00% | ~5,361 |
-| Celebrations are in Order | 23.00% | ~5,138 |
-| Martian Music | 22.00% | ~4,914 |
-| Impossible Objects | 22.00% | ~4,914 |
-| The Pit and the Pirates | 21.00% | ~4,691 |
-| Bosmang | 21.00% | ~4,691 |
-| Drone Dodger | 20.00% | ~4,467 |
-| Spore Taste | 19.00% | ~4,244 |
-| Stogie for Fogey | 18.00% | ~4,021 |
-| Call it Even | 15.00% | ~3,351 |
-| Zen Master | 15.00% | ~1,244 |
-| Heal Thy Medic | 14.00% | ~3,127 |
-| Safe Cracker | 14.00% | ~1,161 |
-| Madame Undersecretary | 13.00% | ~1,078 |
-| Data Archivist | 12.00% | ~2,680 |
-| Thorston Mayer | 12.00% | ~2,680 |
-| Khan's Revenge | 12.00% | ~2,680 |
-| Keep Arjun in Check | 11.00% | ~912 |
-| Doctor Approved | 10.00% | ~2,234 |
-| Drug Gifter | 10.00% | ~2,234 |
-| Bottoms up! | 10.00% | ~2,234 |
-| Master Negotiator | 9.00% | ~746 |
-| Data Logger | 7.00% | ~1,564 |
-| Miraculous Maya | 7.00% | ~1,564 |
-| Data Master | 6.00% | ~1,340 |
-| Brother's Reaper | 4.00% | ~893 |
-| No Belter Left Behind | 4.00% | ~893 |
-| Debris Spree | 3.00% | ~670 |
-| Data Recoverer | 3.00% | ~670 |
-| Urshanabi Hoarder | 2.00% | ~447 |
-| Data Miner | 1.00% | ~223 |
-| Grave Robber | 1.00% | ~223 |
-| Scavenger Star | 0.60% | ~134 |
-| Data Collector | 0.40% | ~89 |
+| Oyedang, Kopengs | 26.00% | ~5,860 |
+| Captain Drummer | 25.00% | ~5,635 |
+| Celebrations are in Order | 24.00% | ~5,409 |
+| The Pit and the Pirates | 22.00% | ~4,959 |
+| Martian Music | 22.00% | ~4,959 |
+| Bosmang | 22.00% | ~4,959 |
+| Impossible Objects | 22.00% | ~4,959 |
+| Drone Dodger | 21.00% | ~4,733 |
+| Spore Taste | 19.00% | ~4,282 |
+| Stogie for Fogey | 18.00% | ~4,057 |
+| Call it Even | 16.00% | ~3,606 |
+| Zen Master | 15.00% | ~1,274 |
+| Heal Thy Medic | 14.00% | ~3,155 |
+| Safe Cracker | 14.00% | ~1,189 |
+| Data Archivist | 13.00% | ~2,930 |
+| Madame Undersecretary | 13.00% | ~1,104 |
+| Thorston Mayer | 12.00% | ~2,705 |
+| Khan's Revenge | 12.00% | ~2,705 |
+| Keep Arjun in Check | 11.00% | ~934 |
+| Doctor Approved | 10.00% | ~2,254 |
+| Drug Gifter | 10.00% | ~2,254 |
+| Bottoms up! | 10.00% | ~2,254 |
+| Master Negotiator | 9.00% | ~764 |
+| Data Logger | 7.00% | ~1,578 |
+| Miraculous Maya | 7.00% | ~1,578 |
+| Data Master | 6.00% | ~1,352 |
+| Brother's Reaper | 4.00% | ~902 |
+| No Belter Left Behind | 4.00% | ~902 |
+| Debris Spree | 3.00% | ~676 |
+| Data Recoverer | 3.00% | ~676 |
+| Urshanabi Hoarder | 2.00% | ~451 |
+| Data Miner | 1.00% | ~225 |
+| Grave Robber | 1.00% | ~225 |
+| Scavenger Star | 0.60% | ~135 |
+| Data Collector | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,337 (Ranked 212)  
-Completed: 102 (0.46%) (Ranked 360)  
+Progressed: 22,539 (Ranked 212)  
+Completed: 102 (0.45%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,6 +236,7 @@ Completed: 102 (0.46%) (Ranked 360)
 | 2024-06-17 | 21,402 | 90 |
 | 2024-08-09 | 22,029 | 95 |
 | 2024-09-14 | 22,337 | 102 |
+| 2024-10-09 | 22,539 | 102 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

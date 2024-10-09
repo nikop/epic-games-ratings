@@ -2,8 +2,8 @@
   "ID": "90abbb77fe434ec39e3a4b8c1b3d2eec",
   "Name": "The Last Citadel",
   "ProductSlug": "the-last-citadel-d18ed9",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-09T17:57:20.2882093+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:25.0741056+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:37.1777225+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:06:15.673493+00:00"
 }

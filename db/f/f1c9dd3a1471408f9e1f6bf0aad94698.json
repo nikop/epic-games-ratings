@@ -2,8 +2,8 @@
   "ID": "f1c9dd3a1471408f9e1f6bf0aad94698",
   "Name": "Coreborn",
   "ProductSlug": "coreborn-c48442",
-  "Ranking_EOS_Progress": 805,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 807,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -200,6 +200,6 @@
   "FirstSeenAchievements": "2024-07-25T19:01:45.2557214+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:30.8692046+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:14:09.9756272+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:58:01.2786803+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:53.3017829+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:30.8692152+00:00"
 }

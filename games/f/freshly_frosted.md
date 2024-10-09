@@ -85,7 +85,7 @@ Rating: 4.57 (Ranked 559)
 | Wait, That's Not How You Do It | 1.00% | ~937 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93,707 (Ranked 144)  
-Completed: 846 (0.90%) (Ranked 296)  
+Completed: 846 (0.90%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

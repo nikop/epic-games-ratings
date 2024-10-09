@@ -2,8 +2,8 @@
   "ID": "1e88d9727b3c46339da2d81de81590c2",
   "Name": "Turbo Sloths",
   "ProductSlug": "turbo-sloths-912a73",
-  "Ranking_EOS_Progress": 904,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 891,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -49,6 +49,11 @@
       "Time": "2024-09-14T14:15:45.9600968+00:00",
       "NumProgressed": 23,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:02:28.1834508+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-04-10T06:02:34.7944518+00:00",
@@ -59,9 +64,9 @@
       "ID": "debugger_10",
       "SetID": "3h542on",
       "Name": "DeBugger 10",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "debugger_1000",
@@ -83,9 +88,9 @@
       "ID": "destroyed_rivals_10",
       "SetID": "3h542on",
       "Name": "Destroyed Rivals 10",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "destroyed_rivals_1000",
@@ -107,9 +112,9 @@
       "ID": "first_in_race_1",
       "SetID": "3h542on",
       "Name": "First in the Race 1",
-      "Percentage": 70,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "first_in_race_25",
@@ -123,9 +128,9 @@
       "ID": "first_in_race_5",
       "SetID": "3h542on",
       "Name": "First in the Race 5",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "killphoto_100",
@@ -171,15 +176,15 @@
       "ID": "max_speed_150",
       "SetID": "3h542on",
       "Name": "Maximum Speed 150",
-      "Percentage": 78,
+      "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "max_speed_220",
       "SetID": "3h542on",
       "Name": "Maximum Speed 220",
-      "Percentage": 17,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -197,7 +202,7 @@
       "Name": "Roboshepherd! 10",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "roboshepherd_100",
@@ -227,7 +232,7 @@
       "ID": "toasted_25",
       "SetID": "3h542on",
       "Name": "Toasted 25",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -245,7 +250,7 @@
       "Name": "TV Destroyer 10",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "tv_destroyer_100",
@@ -267,9 +272,9 @@
       "ID": "warbot_killer_10",
       "SetID": "3h542on",
       "Name": "Warbot Killer 10",
-      "Percentage": 48,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "warbot_killer_1000",
@@ -291,7 +296,7 @@
       "ID": "warbot_killer_50",
       "SetID": "3h542on",
       "Name": "Warbot Killer 50",
-      "Percentage": 22,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 5
     }
@@ -300,14 +305,14 @@
     {
       "ID": "3h542on",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-04-11T19:59:35.6550698+00:00",
   "FirstSeenAchievements": "2024-03-21T17:06:33.190692+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:45.9600962+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:02:28.1834504+00:00",
   "LastUpdate_AppInfo": "2024-10-03T13:57:23.6160774+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:16.610656+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:45.960113+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:02:28.1834753+00:00"
 }

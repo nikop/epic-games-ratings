@@ -265,7 +265,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Trevor | 0.10% | ~1,618 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,617,795 (Ranked 12)  
-Completed: 128 (0.01%) (Ranked 559)  
+Completed: 128 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -557,13 +557,13 @@ Completed: 128 (0.01%) (Ranked 559)
 | 2024-09-14 | 1,617,795 | 128 |
 ## Awards
 Max (Diverse Characters): 56,203  (Ranked 16)  
-Sum: 410,149 (Ranked 12)  
+Sum: 410,269 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 56,203 |
-| This game is Highly Recommended | 47,130 |
-| This game has Amazing Characters | 46,048 |
+| This game is Highly Recommended | 47,197 |
+| This game has Amazing Characters | 46,101 |
 | This game has Challenging Combat | 45,903 |
 | This game has Competitive Players | 45,032 |
 | This game is Extremely Fun | 44,734 |
@@ -1199,4 +1199,4 @@ Diff (max vs sum): 4
 | 2024-10-06 | 4.50 | - | 55,953 | 408,812 |
 | 2024-10-07 | 4.50 | - | 56,031 | 409,228 |
 | 2024-10-08 | 4.50 | - | 56,091 | 409,735 |
-| 2024-10-09 | 4.50 | - | 56,203 | 410,149 |
+| 2024-10-09 | 4.50 | - | 56,203 | 410,269 |

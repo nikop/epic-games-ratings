@@ -45,8 +45,8 @@ Rating: 4.26 (Ranked 1,079)
 | Training Addict | 0.10% | ~248 |
 | Dazzling Personality | 0.10% | ~248 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,288 (Ranked 92)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 248,288 (Ranked 93)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

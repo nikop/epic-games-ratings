@@ -2,8 +2,8 @@
   "ID": "0c9bc4e378054051ad4433800e3c76d7",
   "Name": "BloodRayne 2: Terminal Cut",
   "ProductSlug": "bloodrayne-2-terminal-cut-a5d9d4",
-  "Ranking_EOS_Progress": 971,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 975,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -111,9 +111,9 @@
       "ID": "EAchievement_Deathtraps",
       "SetID": "2hpa30b",
       "Name": "Deathtraps",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EAchievement_Feeding_Frenzy",
@@ -200,8 +200,8 @@
   "FirstSeenRating": "2023-03-31T05:57:48.9575383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.3387527+00:00",
   "LastChanged": "2023-03-31T05:57:48.9575384+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:46.0823565+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:25.8461053+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:30.6020998+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:33.0310942+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:46.0823687+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:29.0585549+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:25.8461151+00:00"
 }

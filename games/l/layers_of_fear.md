@@ -57,8 +57,8 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 495 (Ranked 491)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 495 (Ranked 495)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

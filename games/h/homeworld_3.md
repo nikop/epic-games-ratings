@@ -41,8 +41,8 @@ Rating: 4.00 (Ranked 1,253)
 | Destruct Sequence Alpha-One | 3.00% | ~67 |
 | Navigator | 2.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,241 (Ranked 357)  
-Completed: 1 (0.04%) (Ranked 509)  
+Progressed: 2,241 (Ranked 358)  
+Completed: 1 (0.04%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

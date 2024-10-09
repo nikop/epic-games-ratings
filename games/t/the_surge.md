@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Tools of War | 0.70% | ~48 |
 | The Surge | 0.40% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,835 (Ranked 276)  
-Completed: 23 (0.34%) (Ranked 381)  
+Progressed: 6,835 (Ranked 277)  
+Completed: 23 (0.34%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

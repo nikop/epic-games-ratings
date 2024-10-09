@@ -2,8 +2,8 @@
   "ID": "59b1a57188fb429db7bf5afea8e70d88",
   "Name": "Dinobreak",
   "ProductSlug": "dinobreak-307b09",
-  "Ranking_EOS_Progress": 755,
-  "Ranking_EOS_Completed": 244,
+  "Ranking_EOS_Progress": 759,
+  "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -284,25 +284,25 @@
       "ID": "A_PATH_TO_SAFETY_ACH",
       "SetID": "7jaf9il",
       "Name": "A Patch to Safety",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CATCHING_UP_ACH",
       "SetID": "7jaf9il",
       "Name": "Catching Up",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "COMBAT_EVOLUTION_ACH",
       "SetID": "7jaf9il",
       "Name": "Combat Evolution",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CUTTING_EDGE_ACH",
@@ -356,9 +356,9 @@
       "ID": "HORRIFIC_BEYOND_BELIEF_ACH",
       "SetID": "7jaf9il",
       "Name": "Horrific Beyond Belief",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "IMPORTANT_FUEL_ACH",
@@ -396,9 +396,9 @@
       "ID": "MAKING_FRIENDS_ACH",
       "SetID": "7jaf9il",
       "Name": "Making Friends",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "QUITE_THE_CRISIS_ACH",
@@ -444,9 +444,9 @@
       "ID": "TEMPORARY_SHELTER_ACH",
       "SetID": "7jaf9il",
       "Name": "Temporary Shelter",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "THE_FOURTH_SURVIVOR_ACH",
@@ -491,8 +491,8 @@
   ],
   "FirstSeen": "2023-10-10T23:57:30.9159633+00:00",
   "FirstSeenAchievements": "2023-08-30T15:02:12.9396866+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:33.5358082+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:49.7095272+00:00",
   "LastUpdate_AppInfo": "2024-10-04T02:09:36.5643593+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:10.3598274+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:33.5358232+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:17.8754456+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:49.7095442+00:00"
 }

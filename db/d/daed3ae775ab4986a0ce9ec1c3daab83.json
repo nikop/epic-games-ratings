@@ -2,8 +2,8 @@
   "ID": "daed3ae775ab4986a0ce9ec1c3daab83",
   "Name": "The Wraith of the Galaxy",
   "ProductSlug": "the-wraith-of-the-galaxy-ac9fc1",
-  "Ranking_EOS_Progress": 1000,
-  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_Progress": 1004,
+  "Ranking_EOS_Completed": 71,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -114,6 +114,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:52.8419926+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:11.6037506+00:00",
   "LastUpdate_AppInfo": "2024-10-03T13:57:24.2530531+00:00",
-  "LastUpdate_Ratings": "2024-10-09T18:00:07.9794641+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:01:37.7477706+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:11.6037615+00:00"
 }

@@ -45,8 +45,8 @@
 | Gladiator | 2.00% | ~4 |
 | True Drafter | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 615)  
-Completed: 2 (1.07%) (Ranked 277)  
+Progressed: 187 (Ranked 618)  
+Completed: 2 (1.07%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,52 +5,62 @@ Rating: 3.97 (Ranked 1,264)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 69.00% | ~482 |
-| Photo shoot | 18.00% | ~126 |
-| No brakes | 14.00% | ~98 |
-| Wannabe | 12.00% | ~84 |
-| First taste | 10.00% | ~70 |
-| Amateur hitchhiker | 8.00% | ~56 |
-| Better than cake | 7.00% | ~49 |
-| Amateur newbie | 3.00% | ~21 |
-| Reliability expert | 3.00% | ~21 |
-| Hattrick | 3.00% | ~21 |
+| Newbie | 70.00% | ~503 |
+| Photo shoot | 19.00% | ~136 |
+| No brakes | 15.00% | ~108 |
+| Wannabe | 12.00% | ~86 |
+| First taste | 10.00% | ~72 |
+| Amateur hitchhiker | 8.00% | ~57 |
+| Better than cake | 7.00% | ~50 |
+| Amateur newbie | 4.00% | ~29 |
+| Reliability expert | 3.00% | ~22 |
+| Hattrick | 3.00% | ~22 |
+| Amateur photo shoot | 3.00% | ~22 |
+| On the top | 3.00% | ~22 |
+| Pro hitchhiker | 2.00% | ~14 |
 | Loyalty | 2.00% | ~14 |
 | Hero | 2.00% | ~14 |
 | Drama queen | 2.00% | ~14 |
 | Mr. Whiting | 2.00% | ~14 |
-| Amateur photo shoot | 2.00% | ~14 |
-| On the top | 2.00% | ~14 |
-| Pro hitchhiker | 1.00% | ~7 |
+| No brakes Amateur | 2.00% | ~14 |
 | Amateur wannabe | 1.00% | ~7 |
-| No brakes Amateur | 1.00% | ~7 |
 | First Amateur taste | 1.00% | ~7 |
+| Untouchable | 1.00% | ~7 |
+| Monster Amateur car | 0.70% | ~5 |
+| Addict | 0.70% | ~5 |
 | Tutorial master | 0.70% | ~5 |
 | Weatherman | 0.70% | ~5 |
-| Untouchable | 0.70% | ~5 |
-| Monster Amateur car | 0.60% | ~4 |
-| Addict | 0.60% | ~4 |
+| Pro newbie | 0.40% | ~3 |
+| Knockout Amateur | 0.40% | ~3 |
 | Grand Chelem | 0.40% | ~3 |
+| Amateur hattrick | 0.40% | ~3 |
 | Endurance team mate | 0.40% | ~3 |
-| Pro newbie | 0.30% | ~2 |
-| Knockout Amateur | 0.30% | ~2 |
-| Amateur hattrick | 0.30% | ~2 |
-| Pro photo shoot | 0.10% | ~1 |
-| Monster Pro car | 0.10% | ~1 |
-| Amateur champion | 0.10% | ~1 |
+| Pro photo shoot | 0.30% | ~2 |
+| Monster Pro car | 0.30% | ~2 |
+| Amateur champion | 0.30% | ~2 |
+| Amateur storm | 0.30% | ~2 |
+| Pro wannabe | 0.30% | ~2 |
+| No brakes Pro | 0.30% | ~2 |
+| Pro top pit crew | 0.30% | ~2 |
+| Amateur blue flag wonder | 0.30% | ~2 |
+| First Pro taste | 0.30% | ~2 |
+| Master photo shoot | 0.10% | ~1 |
+| Master newbie | 0.10% | ~1 |
+| Master hitchhiker | 0.10% | ~1 |
+| Elite hitchhiker | 0.10% | ~1 |
 | Amateur executor | 0.10% | ~1 |
-| Pro wannabe | 0.10% | ~1 |
-| No brakes Pro | 0.10% | ~1 |
+| Master wannabe | 0.10% | ~1 |
+| Knockout Pro | 0.10% | ~1 |
 | Amateur Grand Chelem | 0.10% | ~1 |
+| No brakes Master | 0.10% | ~1 |
+| Ladder climber | 0.10% | ~1 |
 | All over the place | 0.10% | ~1 |
 | Shepherd | 0.10% | ~1 |
 | Just don't scratch it | 0.10% | ~1 |
 | Amateur top racer | 0.10% | ~1 |
-| Pro top pit crew | 0.10% | ~1 |
-| Amateur blue flag wonder | 0.10% | ~1 |
 | Enemies for life | 0.10% | ~1 |
 | Wet qualifying record breaker | 0.10% | ~1 |
-| First Pro taste | 0.10% | ~1 |
+| First Master taste | 0.10% | ~1 |
 | Salesman | 0.10% | ~1 |
 | Top Amateur | 0.10% | ~1 |
 | Standing tall | 0.10% | ~1 |
@@ -58,14 +68,10 @@ Rating: 3.97 (Ranked 1,264)
 | Standing tall Master | 0.00% | ~0 |
 | Standing tall Elite | 0.00% | ~0 |
 | Cheater | 0.00% | ~0 |
-| Master photo shoot | 0.00% | ~0 |
 | Elite photo shoot | 0.00% | ~0 |
-| Master newbie | 0.00% | ~0 |
 | Elite newbie | 0.00% | ~0 |
 | Monster Master car | 0.00% | ~0 |
 | Monster Elite car | 0.00% | ~0 |
-| Master hitchhiker | 0.00% | ~0 |
-| Elite hitchhiker | 0.00% | ~0 |
 | Pro champion | 0.00% | ~0 |
 | Master champion | 0.00% | ~0 |
 | GPRO champion | 0.00% | ~0 |
@@ -78,7 +84,6 @@ Rating: 3.97 (Ranked 1,264)
 | Pro executor | 0.00% | ~0 |
 | Master executor | 0.00% | ~0 |
 | Elite executor | 0.00% | ~0 |
-| Amateur storm | 0.00% | ~0 |
 | Pro storm | 0.00% | ~0 |
 | Master storm | 0.00% | ~0 |
 | Elite storm | 0.00% | ~0 |
@@ -89,16 +94,13 @@ Rating: 3.97 (Ranked 1,264)
 | Endurance Amateur | 0.00% | ~0 |
 | Endurance Pro | 0.00% | ~0 |
 | Endurance Master | 0.00% | ~0 |
-| Master wannabe | 0.00% | ~0 |
 | Endurance Elite | 0.00% | ~0 |
 | Favorite team | 0.00% | ~0 |
-| Knockout Pro | 0.00% | ~0 |
 | Knockout Master | 0.00% | ~0 |
 | Knockout Elite | 0.00% | ~0 |
 | Elite wannabe | 0.00% | ~0 |
 | Relay | 0.00% | ~0 |
 | Pro Grand Chelem | 0.00% | ~0 |
-| No brakes Master | 0.00% | ~0 |
 | Master Grand Chelem | 0.00% | ~0 |
 | Elite Grand Chelem | 0.00% | ~0 |
 | The Winkelhock | 0.00% | ~0 |
@@ -106,7 +108,6 @@ Rating: 3.97 (Ranked 1,264)
 | Lucky smoker | 0.00% | ~0 |
 | Qualifying record breaker | 0.00% | ~0 |
 | Record breaker | 0.00% | ~0 |
-| Ladder climber | 0.00% | ~0 |
 | No brakes Elite | 0.00% | ~0 |
 | Consistency | 0.00% | ~0 |
 | Giant killer | 0.00% | ~0 |
@@ -151,7 +152,6 @@ Rating: 3.97 (Ranked 1,264)
 | Amateur polesitter | 0.00% | ~0 |
 | Trophy collector | 0.00% | ~0 |
 | Locomotive | 0.00% | ~0 |
-| First Master taste | 0.00% | ~0 |
 | First Elite taste | 0.00% | ~0 |
 | Heavy duty | 0.00% | ~0 |
 | Among gods | 0.00% | ~0 |
@@ -168,8 +168,8 @@ Rating: 3.97 (Ranked 1,264)
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699 (Ranked 456)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 718 (Ranked 456)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,6 +333,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 673 | 0 |
 | 2024-08-20 | 675 | 0 |
 | 2024-09-14 | 699 | 0 |
+| 2024-10-09 | 718 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

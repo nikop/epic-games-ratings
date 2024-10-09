@@ -2,8 +2,8 @@
   "ID": "adc4991d2edb4cdf80d47822d9149169",
   "Name": "Touch the Color",
   "ProductSlug": "touch-the-color-0f1d66",
-  "Ranking_EOS_Progress": 849,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -23,11 +23,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 36,
-  "EOS_Completed": 0,
+  "EOS_Progressed": 38,
+  "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Completed_Percentage": 2.63,
   "EosHistory": [
     {
       "Time": "2024-07-30T16:02:18.0447979+00:00",
@@ -43,6 +43,11 @@
       "Time": "2024-09-14T14:27:26.9280591+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:06:09.1653871+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2024-07-30T16:02:18.0448024+00:00",
@@ -53,17 +58,17 @@
       "ID": "addicted",
       "SetID": "bo68pn5",
       "Name": "I\u2019m addicted!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "first_game",
       "SetID": "bo68pn5",
       "Name": "First game!",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "game_cool",
@@ -71,52 +76,52 @@
       "Name": "This game is cool",
       "Percentage": 61,
       "XP": 95,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "head_stars",
       "SetID": "bo68pn5",
       "Name": "Head in the stars",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "like_shopping",
       "SetID": "bo68pn5",
       "Name": "I like shopping!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 95,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "new_dressing",
       "SetID": "bo68pn5",
       "Name": "New dressing!",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 165,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "santa",
       "SetID": "bo68pn5",
       "Name": "Thank you, Santa",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 165,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "bo68pn5",
       "IsBase": true,
-      "Progressed": 36,
-      "Completed": 0
+      "Progressed": 38,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2024-07-30T16:02:18.0448024+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:26.9280585+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:06:09.1653867+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:15.7500016+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:14.6494836+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:26.9280671+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:59:05.0979182+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:06:09.1653932+00:00"
 }

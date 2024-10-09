@@ -5,45 +5,45 @@ Rating: 4.62 (Ranked 433)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 74.00% | ~701 |
-| Don't judge a manhole by its cover | 61.00% | ~578 |
-| I just love stuff! | 43.00% | ~407 |
-| Keep 'em coming! | 43.00% | ~407 |
-| The things they print nowadays | 40.00% | ~379 |
-| Big Spender | 39.00% | ~369 |
-| That's gotta hurt | 38.00% | ~360 |
-| I think it's broke | 28.00% | ~265 |
-| The Ann Flores Combo Experience | 27.00% | ~256 |
-| Club Star | 25.00% | ~237 |
-| Omnipotence | 21.00% | ~199 |
-| The Warlord | 21.00% | ~199 |
-| Fire in the hole! | 20.00% | ~189 |
-| You are the One | 20.00% | ~189 |
-| Deadly Kombationem | 19.00% | ~180 |
-| The truth is out there | 17.00% | ~161 |
+| Tell me your story | 75.00% | ~714 |
+| Don't judge a manhole by its cover | 61.00% | ~581 |
+| I just love stuff! | 43.00% | ~409 |
+| Keep 'em coming! | 43.00% | ~409 |
+| The things they print nowadays | 40.00% | ~381 |
+| Big Spender | 39.00% | ~371 |
+| That's gotta hurt | 38.00% | ~362 |
+| I think it's broke | 28.00% | ~267 |
+| The Ann Flores Combo Experience | 27.00% | ~257 |
+| Club Star | 25.00% | ~238 |
+| Omnipotence | 21.00% | ~200 |
+| The Warlord | 21.00% | ~200 |
+| Fire in the hole! | 20.00% | ~190 |
+| You are the One | 20.00% | ~190 |
+| Deadly Kombationem | 19.00% | ~181 |
+| The truth is out there | 17.00% | ~162 |
 | Annakin Skyscroller | 14.00% | ~133 |
-| In the smacker...I think | 11.00% | ~104 |
+| In the smacker...I think | 11.00% | ~105 |
 | Arm Wrestlin' | 10.00% | ~95 |
 | 1+1>2 | 10.00% | ~95 |
-| This can't be right… | 9.00% | ~85 |
+| This can't be right… | 9.00% | ~86 |
 | Supreme Bartender Ann | 8.00% | ~76 |
 | Welcome home, 06 | 8.00% | ~76 |
-| I feel secure, contained & protected | 7.00% | ~66 |
-| I'm walking here! | 7.00% | ~66 |
-| So Fresh and So clean clean | 7.00% | ~66 |
+| I feel secure, contained & protected | 7.00% | ~67 |
+| I'm walking here! | 7.00% | ~67 |
+| So Fresh and So clean clean | 7.00% | ~67 |
 | Clarity of Mind | 6.00% | ~57 |
 | Science, it works! | 6.00% | ~57 |
 | The Traveler | 6.00% | ~57 |
-| Woman on a (side) mission | 5.00% | ~47 |
-| Ann ULTRA | 3.00% | ~28 |
-| Lady Luck is a cool cat | 3.00% | ~28 |
+| Woman on a (side) mission | 5.00% | ~48 |
+| Ann ULTRA | 3.00% | ~29 |
+| Lady Luck is a cool cat | 3.00% | ~29 |
 | SERENITY NOW | 2.00% | ~19 |
 | I just got real good | 2.00% | ~19 |
-| Love me like I love my posters | 1.00% | ~9 |
+| Love me like I love my posters | 1.00% | ~10 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 947 (Ranked 427)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 952 (Ranked 429)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,6 +184,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-06-17 | 921 | 0 |
 | 2024-08-09 | 936 | 0 |
 | 2024-09-14 | 947 | 0 |
+| 2024-10-09 | 952 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

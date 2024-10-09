@@ -63,7 +63,7 @@ Number of Ratings: 1,305  (23.09.2022)
 | Ladies' man | 0.30% | ~62 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20,627 (Ranked 220)  
-Completed: 3 (0.01%) (Ranked 559)  
+Completed: 3 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,8 +74,8 @@ Completed: 3 (0.01%) (Ranked 559)
 | 2024-09-14 | 20,627 | 3 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 558)  
-Sum: 354 (Ranked 465)  
-Diff (max vs sum): 93  
+Sum: 354 (Ranked 466)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 58 |

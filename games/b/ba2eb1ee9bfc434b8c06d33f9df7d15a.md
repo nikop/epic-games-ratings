@@ -33,7 +33,7 @@ Rating: 4.11 (Ranked 1,214)
 | Never Surrender | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 107,850 (Ranked 138)  
-Completed: 0 (0.00%) (Ranked 591)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

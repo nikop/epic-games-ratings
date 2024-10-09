@@ -25,7 +25,7 @@
 | Lily Strong | 4.00% | ~1 |
 | The Ultimate Weapon | 4.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 892)  
+Progressed: 25 (Ranked 898)  
 Completed: 1 (4.00%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |

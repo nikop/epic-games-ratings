@@ -68,7 +68,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Sacrifices! | 2.00% | ~1,252 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62,613 (Ranked 172)  
-Completed: 479 (0.77%) (Ranked 312)  
+Completed: 479 (0.77%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -56,8 +56,8 @@ Rating: 4.59 (Ranked 513)
 | Weaponsmith | 1.00% | ~5 |
 | Gladiator | 0.80% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 476 (Ranked 499)  
-Completed: 3 (0.63%) (Ranked 330)  
+Progressed: 476 (Ranked 502)  
+Completed: 3 (0.63%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

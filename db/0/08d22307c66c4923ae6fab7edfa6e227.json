@@ -2,8 +2,8 @@
   "ID": "08d22307c66c4923ae6fab7edfa6e227",
   "Name": "Tiny Jump",
   "ProductSlug": "tiny-jump-fbd556",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-08T20:57:09.8299909+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:59:40.3263431+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:01:14.912504+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:36.9416543+00:00"
 }

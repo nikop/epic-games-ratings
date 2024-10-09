@@ -45,7 +45,7 @@ Rating: 4.36 (Ranked 969)
 | That’s No Ordinary Cold | 0.10% | ~1,664 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,663,505 (Ranked 11)  
-Completed: 116 (0.01%) (Ranked 559)  
+Completed: 116 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -33,8 +33,8 @@
 | Nothing But Road | 0.30% | ~1 |
 | Yup. | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388 (Ranked 520)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 388 (Ranked 525)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

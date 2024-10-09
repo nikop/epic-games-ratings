@@ -2,8 +2,8 @@
   "ID": "945620b4eca746e0991d17d4ea450d6a",
   "Name": "The Karate Kid Street Rumble",
   "ProductSlug": "the-karate-kid-street-rumble-630b37",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1024,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -23,16 +23,410 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-09T19:01:59.7313919+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-09T19:01:59.7313998+00:00",
+  "TotalAchievements": 47,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "COMPLETE_ALL_BOSS_RUSHES",
+      "SetID": "6d0dpll",
+      "Name": "Baddies Galore",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALL_BOSS_RUSHES_HARD",
+      "SetID": "6d0dpll",
+      "Name": "They\u0027ve Been Training, Too!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALL_BOSS_RUSHES_NO_MERCY",
+      "SetID": "6d0dpll",
+      "Name": "Shown No Mercy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ALL_BOSS_RUSHES_VERY_HARD",
+      "SetID": "6d0dpll",
+      "Name": "Boiling Hot!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_ARCADE",
+      "SetID": "6d0dpll",
+      "Name": "Like the good old days",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_BOSS_RUSH",
+      "SetID": "6d0dpll",
+      "Name": "They\u2019re back! And together!?",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_GAME",
+      "SetID": "6d0dpll",
+      "Name": "First Learn Stand, Then Learn Fly",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_GAME_HARD",
+      "SetID": "6d0dpll",
+      "Name": "Don\u0027t you have something a bit harder?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_GAME_NO_MERCY",
+      "SetID": "6d0dpll",
+      "Name": "Must not lose to fear!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_GAME_VERY_HARD",
+      "SetID": "6d0dpll",
+      "Name": "Karate yes, or Karate no",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_1",
+      "SetID": "6d0dpll",
+      "Name": "Sand got everywhere",
+      "Percentage": 88,
+      "XP": 10,
+      "UsersEstimate": 7
+    },
+    {
+      "ID": "COMPLETE_LEVEL_10",
+      "SetID": "6d0dpll",
+      "Name": "Disco Rage",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_11",
+      "SetID": "6d0dpll",
+      "Name": "Now the real pain begins, Danny boy!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_12",
+      "SetID": "6d0dpll",
+      "Name": "Karate\u0027s Good Boy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_2",
+      "SetID": "6d0dpll",
+      "Name": "School is tough, man",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "COMPLETE_LEVEL_3",
+      "SetID": "6d0dpll",
+      "Name": "Boo!",
+      "Percentage": 25,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "COMPLETE_LEVEL_4",
+      "SetID": "6d0dpll",
+      "Name": "Money Gauntlet",
+      "Percentage": 13,
+      "XP": 10,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "COMPLETE_LEVEL_5",
+      "SetID": "6d0dpll",
+      "Name": "You\u0027re the Best Around",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_6",
+      "SetID": "6d0dpll",
+      "Name": "Shown Mercy",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_7",
+      "SetID": "6d0dpll",
+      "Name": "Shaky Reunion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_8",
+      "SetID": "6d0dpll",
+      "Name": "Live or Die, Man",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LEVEL_9",
+      "SetID": "6d0dpll",
+      "Name": "Not the Trees!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_STORY_PART_1",
+      "SetID": "6d0dpll",
+      "Name": "All Valley Champion",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_STORY_PART_2",
+      "SetID": "6d0dpll",
+      "Name": "Okinawa\u0027s Hero",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_STORY_PART_3",
+      "SetID": "6d0dpll",
+      "Name": "All Valley Legend",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GET_A_RATING_ALL_LEVELS",
+      "SetID": "6d0dpll",
+      "Name": "Be a Champion",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GET_S_PLUS_RATING",
+      "SetID": "6d0dpll",
+      "Name": "Perfectionist",
+      "Percentage": 63,
+      "XP": 30,
+      "UsersEstimate": 5
+    },
+    {
+      "ID": "GET_S_RATING",
+      "SetID": "6d0dpll",
+      "Name": "Like the Wind",
+      "Percentage": 75,
+      "XP": 20,
+      "UsersEstimate": 6
+    },
+    {
+      "ID": "GET_S_RATING_ALL_LEVELS",
+      "SetID": "6d0dpll",
+      "Name": "Don\u2019t be a Champion, be a Legend!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_ENDLESS",
+      "SetID": "6d0dpll",
+      "Name": "Complete mastery",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MINIGAME_1",
+      "SetID": "6d0dpll",
+      "Name": "Karate for defense only",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MINIGAME_2",
+      "SetID": "6d0dpll",
+      "Name": "Beginner luck",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MINIGAME_3",
+      "SetID": "6d0dpll",
+      "Name": "Learn fly",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MINIGAME_4",
+      "SetID": "6d0dpll",
+      "Name": "Ask the drum",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MINIGAME_5",
+      "SetID": "6d0dpll",
+      "Name": "Quicksilver rules",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MASTER_MINIGAME_6",
+      "SetID": "6d0dpll",
+      "Name": "Back where you belong",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAY_ARCADE",
+      "SetID": "6d0dpll",
+      "Name": "Custom-Fit",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PLAY_ENDLESS",
+      "SetID": "6d0dpll",
+      "Name": "Combat without end",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_LEVEL_10_ALI",
+      "SetID": "6d0dpll",
+      "Name": "Gleeful Athlete",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_LEVEL_10_DANIEL",
+      "SetID": "6d0dpll",
+      "Name": "Promising Pupil",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_LEVEL_10_KUMIKO",
+      "SetID": "6d0dpll",
+      "Name": "Not a Damsel in Distress",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_LEVEL_10_MIYAGI",
+      "SetID": "6d0dpll",
+      "Name": "Cleaning that Rust up",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_MAX_LEVEL_ALI",
+      "SetID": "6d0dpll",
+      "Name": "Olympic Champion",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_MAX_LEVEL_ALL_CHARACTERS",
+      "SetID": "6d0dpll",
+      "Name": "The Strongest Team",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_MAX_LEVEL_DANIEL",
+      "SetID": "6d0dpll",
+      "Name": "The Karate Kid",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_MAX_LEVEL_KUMIKO",
+      "SetID": "6d0dpll",
+      "Name": "Ritual Dancer",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "REACH_MAX_LEVEL_MIYAGI",
+      "SetID": "6d0dpll",
+      "Name": "Ultimate Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "6d0dpll",
+      "IsBase": true,
+      "Progressed": 8,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-09T19:01:59.7313997+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:01:59.7313914+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:14:07.2085589+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:20.0421667+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:17.7204046+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:01:59.7323419+00:00"
 }

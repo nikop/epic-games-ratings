@@ -57,8 +57,8 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.50% | ~9 |
 | Davy Jones' locker | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,862 (Ranked 377)  
-Completed: 1 (0.05%) (Ranked 497)  
+Progressed: 1,862 (Ranked 379)  
+Completed: 1 (0.05%) (Ranked 501)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Survive on Raft
 [Store](https://store.epicgames.com/en-US/p/survive-on-raft-9845bd)  
 [View Rawdata](../../db/s/survive_on_raft.json)  
-Rating: 3.58 (Ranked 1,320)  
+Rating: 3.59 (Ranked 1,320)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,8 +42,8 @@ Rating: 3.58 (Ranked 1,320)
 | Customer | 0.00% | ~0 |
 | Water Desalter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 1,110)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 2 (Ranked 1,118)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,3 +84,4 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-28 | 3.67 | 0 | 0 |
 | 2024-09-29 | 3.63 | 0 | 0 |
 | 2024-10-01 | 3.58 | 0 | 0 |
+| 2024-10-09 | 3.59 | 0 | 0 |

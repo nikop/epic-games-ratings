@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | Pacifist | 0.10% | ~2 |
 | Mystical relics | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,299 (Ranked 355)  
-Completed: 1 (0.04%) (Ranked 509)  
+Progressed: 2,299 (Ranked 356)  
+Completed: 1 (0.04%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

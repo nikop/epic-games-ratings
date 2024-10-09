@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Morgengrauen | 88.00% | ~312 |
-| Path of Despair | 88.00% | ~312 |
-| Not alone | 64.00% | ~227 |
-| Hunger | 54.00% | ~192 |
-| Awaken | 46.00% | ~163 |
-| Path of Corruption | 38.00% | ~135 |
-| Hope | 34.00% | ~121 |
-| Rage | 34.00% | ~121 |
-| Path of Pain | 28.00% | ~99 |
-| Mayhem | 24.00% | ~85 |
-| Reflections | 24.00% | ~85 |
-| The shining | 24.00% | ~85 |
-| Clarity | 21.00% | ~75 |
-| Health | 21.00% | ~75 |
-| Awaiting orders | 20.00% | ~71 |
-| Art critic | 15.00% | ~53 |
-| Jigsaw | 15.00% | ~53 |
-| Peace | 15.00% | ~53 |
-| All knowing | 10.00% | ~36 |
-| Lost | 8.00% | ~28 |
-| An act of courage | 6.00% | ~21 |
-| Corruption | 6.00% | ~21 |
+| Path of Despair | 89.00% | ~320 |
+| Morgengrauen | 88.00% | ~317 |
+| Not alone | 64.00% | ~230 |
+| Hunger | 55.00% | ~198 |
+| Awaken | 47.00% | ~169 |
+| Path of Corruption | 38.00% | ~137 |
+| Hope | 34.00% | ~122 |
+| Rage | 34.00% | ~122 |
+| Path of Pain | 28.00% | ~101 |
+| Mayhem | 24.00% | ~86 |
+| Reflections | 24.00% | ~86 |
+| The shining | 24.00% | ~86 |
+| Clarity | 22.00% | ~79 |
+| Health | 21.00% | ~76 |
+| Awaiting orders | 20.00% | ~72 |
+| Jigsaw | 16.00% | ~58 |
+| Peace | 16.00% | ~58 |
+| Art critic | 15.00% | ~54 |
+| All knowing | 11.00% | ~40 |
+| Lost | 8.00% | ~29 |
+| An act of courage | 6.00% | ~22 |
+| Corruption | 6.00% | ~22 |
 | An act of compassion | 4.00% | ~14 |
 | An act of mercy | 3.00% | ~11 |
 | Ad Infinitum | 0.60% | ~2 |
@@ -34,8 +34,8 @@
 | No one left behind | 0.00% | ~0 |
 | Their names | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 355 (Ranked 532)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 360 (Ranked 532)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,3 +126,4 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-06-17 | 317 | 0 |
 | 2024-08-09 | 339 | 0 |
 | 2024-09-14 | 355 | 0 |
+| 2024-10-09 | 360 | 0 |

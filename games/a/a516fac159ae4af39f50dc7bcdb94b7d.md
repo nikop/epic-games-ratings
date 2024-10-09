@@ -28,7 +28,7 @@
 | 100M coins | 7.00% | ~14 |
 | NobleMan | 6.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 205 (Ranked 598)  
+Progressed: 205 (Ranked 600)  
 Completed: 10 (4.88%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -57,7 +57,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Friends Forever | 4.00% | ~30,135 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 753,371 (Ranked 32)  
-Completed: 7,178 (0.95%) (Ranked 289)  
+Completed: 7,178 (0.95%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

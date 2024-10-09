@@ -2,8 +2,8 @@
   "ID": "fe3316099db5422ebeb202e518942fa1",
   "Name": "Undead Inc.",
   "ProductSlug": "undead-inc-3bb783",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -50,8 +50,8 @@
   ],
   "FirstSeen": "2024-05-03T05:57:35.8423237+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:04.9397919+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:38.5273975+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:06:16.5353204+00:00",
   "LastUpdate_AppInfo": "2024-10-03T08:57:24.41968+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:03.9167885+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:38.5274007+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:06:16.5353235+00:00"
 }

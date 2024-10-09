@@ -2,8 +2,8 @@
   "ID": "ada1e59de1dc499bb992074863a3d85a",
   "Name": "Knight\u0027s Retreat",
   "ProductSlug": "knights-retreat-618411",
-  "Ranking_EOS_Progress": 927,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 931,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -133,6 +133,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:33.9342617+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:52.7776834+00:00",
   "LastUpdate_AppInfo": "2024-10-03T02:09:28.7427565+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:57:52.9186068+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:45.3844011+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:52.7776993+00:00"
 }

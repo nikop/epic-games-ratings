@@ -2,8 +2,8 @@
   "ID": "5a0d5a894354436095e7d06b63ad09d4",
   "Name": "Zoochosis",
   "ProductSlug": "zoochosis-f48fd6",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-07T15:57:36.0563368+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:42.3045861+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:37.0374843+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:02:00.5794468+00:00"
 }

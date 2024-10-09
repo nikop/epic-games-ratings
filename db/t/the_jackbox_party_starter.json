@@ -2,8 +2,8 @@
   "ID": "ec47caf26e574aa882d96fc924afc291",
   "Name": "The Jackbox Party Starter",
   "ProductSlug": "jackbox-party-starter",
-  "Ranking_EOS_Progress": 523,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 379,
+  "EOS_Progressed": 451,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -56,6 +56,11 @@
       "Time": "2024-09-14T14:24:54.41802+00:00",
       "NumProgressed": 379,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:05:40.5414332+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-07-25T19:04:24.8339759+00:00",
@@ -68,7 +73,7 @@
       "Name": "Tee K.O.: COMFY\u0027S CHOICE",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 126
     },
     {
       "ID": "AWSHIRT_AUTHOR_SLOGAN_AND_SHIRT_OF_GAME_WINNING_SHIRT",
@@ -76,7 +81,7 @@
       "Name": "Tee K.O.: SUPPORT GARMENT",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "AWSHIRT_CREATE_EVERY_SHIRT_IN_FINAL_ROUND",
@@ -84,23 +89,23 @@
       "Name": "Tee K.O.: DOMINATION",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "AWSHIRT_GET_A_SHIRTALITY",
       "SetID": "4abedo6",
       "Name": "Tee K.O.: SHIRTALITY",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 59
     },
     {
       "ID": "AWSHIRT_USE_ALL_COLORS_IN_SINGLE_DRAWING",
       "SetID": "4abedo6",
       "Name": "Tee K.O.: DYE! DYE! DYE!",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "AWSHIRT_VOTE_AGAINST_OWN_SHIRT",
@@ -108,7 +113,7 @@
       "Name": "Tee K.O.: I FOLD",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 126
     },
     {
       "ID": "AWSHIRT_WIN_GAUNTLET_AND_STREAK_WITH_ONE_SHIRT",
@@ -116,23 +121,23 @@
       "Name": "Tee K.O.: SLEEVELESS VICTORY",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 86
     },
     {
       "ID": "QUIPLASH3_FINISH_GAME_IN_A_TIE",
       "SetID": "4abedo6",
       "Name": "Quiplash 3: Great Minds",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "QUIPLASH3_GET_QUIPLASH_AGAINST_SCHMITTY",
       "SetID": "4abedo6",
       "Name": "Quiplash 3: Schmitty Schmackdown",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 41
     },
     {
       "ID": "QUIPLASH3_GET_QUIPLASH_ON_EVERY_ANSWER",
@@ -140,7 +145,7 @@
       "Name": "Quiplash 3: Domination",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "QUIPLASH3_GET_QUIPLASH_WITH_SAFETY_QUIP",
@@ -148,7 +153,7 @@
       "Name": "Quiplash 3: Safety Net",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "QUIPLASH3_GET_SUPER_QUIPLASH_IN_FINAL_ROUND",
@@ -156,31 +161,31 @@
       "Name": "Quiplash 3: The Best For Last",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "QUIPLASH3_TRIGGER_A_RESPONSE_FROM_SCHMITTY",
       "SetID": "4abedo6",
       "Name": "Quiplash 3: Secret Schmitty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 9
     },
     {
       "ID": "QUIPLASH3_WIN_AFTER_BEING_LAST",
       "SetID": "4abedo6",
       "Name": "Quiplash 3: Worst to First",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 72
     },
     {
       "ID": "TMP2_CRACK_A_PASSWORD",
       "SetID": "4abedo6",
       "Name": "Trivia Murder Party 2: Password (un)Protected",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 95
     },
     {
       "ID": "TMP2_DEATH_CLOCK_REACHES_ZERO",
@@ -188,15 +193,15 @@
       "Name": "Trivia Murder Party 2: Time\u0027s Up",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "TMP2_GET_A_QUIPLASH",
       "SetID": "4abedo6",
       "Name": "Trivia Murder Party 2: Quiplash!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 18
     },
     {
       "ID": "TMP2_ONE_SURVIVOR_IN_SCALES",
@@ -204,15 +209,15 @@
       "Name": "Trivia Murder Party 2: One-Sided",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "TMP2_WIN_AS_AUDIENCE",
       "SetID": "4abedo6",
       "Name": "Trivia Murder Party 2: Runaways",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "TMP2_WIN_WITH_HAT",
@@ -220,14 +225,14 @@
       "Name": "Trivia Murder Party 2: Me and My Dad",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
     {
       "ID": "4abedo6",
       "IsBase": true,
-      "Progressed": 379,
+      "Progressed": 451,
       "Completed": 0
     }
   ],
@@ -235,8 +240,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.5607145+00:00",
   "FirstSeenAchievements": "2024-06-17T16:14:54.5723618+00:00",
   "LastChanged": "2023-03-31T05:58:06.5607146+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:54.4180194+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:05:40.5414327+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:21.9042716+00:00",
   "LastUpdate_Ratings": "2024-10-09T18:00:01.9453756+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:54.4180304+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:05:40.5414482+00:00"
 }

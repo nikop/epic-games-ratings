@@ -22,7 +22,7 @@
 | Good Company | 0.20% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,833 (Ranked 245)  
-Completed: 21 (0.16%) (Ranked 435)  
+Completed: 21 (0.16%) (Ranked 437)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

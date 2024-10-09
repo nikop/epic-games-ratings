@@ -57,7 +57,7 @@ Rating: 3.77 (Ranked 1,306)
 | The Reaper | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 158,456 (Ranked 111)  
-Completed: 38 (0.02%) (Ranked 536)  
+Completed: 38 (0.02%) (Ranked 540)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

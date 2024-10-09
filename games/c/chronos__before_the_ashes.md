@@ -49,8 +49,8 @@ Rating: 4.16 (Ranked 1,179)
 | …The Harder They Fall. | 0.00% | ~0 |
 | Ultimate Power! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 566)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 266 (Ranked 568)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -19,8 +19,8 @@
 | Observant | 0.00% | ~0 |
 | Profiler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 996)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 11 (Ranked 1,000)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

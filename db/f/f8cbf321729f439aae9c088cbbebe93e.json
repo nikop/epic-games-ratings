@@ -2,8 +2,8 @@
   "ID": "f8cbf321729f439aae9c088cbbebe93e",
   "Name": "Survivor - Castaway Island",
   "ProductSlug": "survivor-castaway-island-16f672",
-  "Ranking_EOS_Progress": 697,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 691,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 108,
+  "EOS_Progressed": 114,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -384,6 +384,11 @@
       "Time": "2024-08-20T20:06:28.6206825+00:00",
       "NumProgressed": 108,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:03:36.79346+00:00",
+      "NumProgressed": 114,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T10:09:15.6934484+00:00",
@@ -394,7 +399,7 @@
       "ID": "_00",
       "SetID": "670ak8f",
       "Name": "Immunity",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 14
     },
@@ -404,7 +409,7 @@
       "Name": "Let there be light",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "_02",
@@ -412,7 +417,7 @@
       "Name": "Only one family",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "_03",
@@ -420,7 +425,7 @@
       "Name": "Strategist",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "_04",
@@ -428,7 +433,7 @@
       "Name": "Multitasking",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "_05",
@@ -436,21 +441,21 @@
       "Name": "Lazy bones",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "_06",
       "SetID": "670ak8f",
       "Name": "Gossiper",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "_07",
       "SetID": "670ak8f",
       "Name": "Mastermind",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 150,
       "UsersEstimate": 5
     },
@@ -483,14 +488,14 @@
     {
       "ID": "670ak8f",
       "IsBase": true,
-      "Progressed": 108,
+      "Progressed": 114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-05T01:45:17.1796579+00:00",
   "FirstSeenAchievements": "2023-09-18T15:06:02.8477562+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:42.0668007+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:03:36.7934596+00:00",
   "LastUpdate_AppInfo": "2024-10-03T02:09:28.0713185+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:26.3539807+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:42.0668117+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:23.2154739+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:03:36.7934704+00:00"
 }

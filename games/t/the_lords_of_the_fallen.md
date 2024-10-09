@@ -79,7 +79,7 @@ Rating: 4.22 (Ranked 1,122)
 | Indomitable | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,098 (Ranked 231)  
-Completed: 7 (0.04%) (Ranked 509)  
+Completed: 7 (0.04%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

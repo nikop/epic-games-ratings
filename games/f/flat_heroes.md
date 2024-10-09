@@ -49,8 +49,8 @@
 | Yondu | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 447)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 761 (Ranked 449)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

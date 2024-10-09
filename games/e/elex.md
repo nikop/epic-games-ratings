@@ -6,50 +6,50 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Up and Away | 67.00% | ~419 |
-| Survival | 39.00% | ~244 |
-| The Big G | 23.00% | ~144 |
-| Fencing master | 18.00% | ~113 |
-| Shard hoarder | 11.00% | ~69 |
-| Flashback | 11.00% | ~69 |
-| Pack leader | 10.00% | ~63 |
-| Earner | 10.00% | ~63 |
-| Leader | 10.00% | ~63 |
-| Prepared | 9.00% | ~56 |
-| Detective | 8.00% | ~50 |
-| Turned the world upside down. | 8.00% | ~50 |
-| Thicker than Water | 8.00% | ~50 |
-| Atombouncer | 7.00% | ~44 |
-| Acolyte | 7.00% | ~44 |
-| Visionary | 7.00% | ~44 |
-| Hunter | 7.00% | ~44 |
-| Romantic | 7.00% | ~44 |
-| Cultivator | 6.00% | ~38 |
-| Balance of Power | 6.00% | ~38 |
-| Sewer Rat | 5.00% | ~31 |
-| The Third Way | 5.00% | ~31 |
-| Luminary | 4.00% | ~25 |
-| Calaan | 3.00% | ~19 |
-| Big Earner | 2.00% | ~13 |
-| Fightmaster | 2.00% | ~13 |
-| Flexible friend | 2.00% | ~13 |
-| Hero | 2.00% | ~13 |
-| Natural Survivor | 2.00% | ~13 |
-| Runner | 2.00% | ~13 |
-| Pure Rebel | 2.00% | ~13 |
-| Coldhearted | 2.00% | ~13 |
-| Picture Album | 1.00% | ~6 |
-| Beacon of faith | 1.00% | ~6 |
-| Human | 1.00% | ~6 |
-| Friend or Foe | 1.00% | ~6 |
-| Thief taker | 1.00% | ~6 |
-| Beast of Xacor | 0.80% | ~5 |
-| Butcher | 0.80% | ~5 |
+| Up and Away | 66.00% | ~475 |
+| Survival | 39.00% | ~280 |
+| The Big G | 22.00% | ~158 |
+| Fencing master | 18.00% | ~129 |
+| Shard hoarder | 11.00% | ~79 |
+| Pack leader | 10.00% | ~72 |
+| Flashback | 10.00% | ~72 |
+| Earner | 9.00% | ~65 |
+| Leader | 9.00% | ~65 |
+| Prepared | 8.00% | ~58 |
+| Detective | 8.00% | ~58 |
+| Acolyte | 7.00% | ~50 |
+| Hunter | 7.00% | ~50 |
+| Turned the world upside down. | 7.00% | ~50 |
+| Thicker than Water | 7.00% | ~50 |
+| Atombouncer | 6.00% | ~43 |
+| Cultivator | 6.00% | ~43 |
+| Visionary | 6.00% | ~43 |
+| Romantic | 6.00% | ~43 |
+| The Third Way | 5.00% | ~36 |
+| Balance of Power | 5.00% | ~36 |
+| Luminary | 4.00% | ~29 |
+| Sewer Rat | 4.00% | ~29 |
+| Calaan | 3.00% | ~22 |
+| Big Earner | 2.00% | ~14 |
+| Fightmaster | 2.00% | ~14 |
+| Flexible friend | 2.00% | ~14 |
+| Hero | 2.00% | ~14 |
+| Natural Survivor | 2.00% | ~14 |
+| Runner | 2.00% | ~14 |
+| Pure Rebel | 2.00% | ~14 |
+| Coldhearted | 2.00% | ~14 |
+| Human | 1.00% | ~7 |
+| Friend or Foe | 1.00% | ~7 |
+| Thief taker | 1.00% | ~7 |
+| Picture Album | 0.80% | ~6 |
+| Beacon of faith | 0.80% | ~6 |
+| Beast of Xacor | 0.70% | ~5 |
+| Butcher | 0.70% | ~5 |
 | Splattermaster | 0.60% | ~4 |
-| Tinkerer | 0.50% | ~3 |
+| Tinkerer | 0.40% | ~3 |
 | Safecracker | 0.30% | ~2 |
 | Nature Lover | 0.30% | ~2 |
-| Master criminal | 0.20% | ~1 |
+| Master criminal | 0.10% | ~1 |
 | Locksmith | 0.00% | ~0 |
 | Careerist | 0.00% | ~0 |
 | Pilferer | 0.00% | ~0 |
@@ -57,8 +57,8 @@ Number of Ratings: 58  (23.09.2022)
 | Big Game Hunter | 0.00% | ~0 |
 | Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 626 (Ranked 461)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 719 (Ranked 455)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-06-17 | 390 | 0 |
 | 2024-08-09 | 524 | 0 |
 | 2024-09-14 | 626 | 0 |
+| 2024-10-09 | 719 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

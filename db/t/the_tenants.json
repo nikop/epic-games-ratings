@@ -2,11 +2,11 @@
   "ID": "edaebe133189475c9fd853858b7fa9ac",
   "Name": "The Tenants",
   "ProductSlug": "the-tenants",
-  "Ranking_Rating": 631,
+  "Ranking_Rating": 632,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
-  "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -345,7 +345,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9865,
+  "EOS_Progressed": 9871,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -1190,6 +1190,11 @@
       "Time": "2024-09-14T14:19:17.0906343+00:00",
       "NumProgressed": 9865,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:03:21.4478678+00:00",
+      "NumProgressed": 9871,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 86,
@@ -1671,9 +1676,9 @@
       "ID": "ACH_REALTOR",
       "SetID": "13614nd",
       "Name": "Realtor",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REALTOR_EXPERT",
@@ -1703,9 +1708,9 @@
       "ID": "ACH_RENOVATOR_EXPERT",
       "SetID": "13614nd",
       "Name": "Expert Renovator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_RENOVATOR_MASTER",
@@ -1888,21 +1893,21 @@
     {
       "ID": "13614nd",
       "IsBase": true,
-      "Progressed": 9865,
+      "Progressed": 9871,
       "Completed": 0
     },
     {
       "ID": "1ejmoln",
       "IsBase": false,
-      "Progressed": 362,
+      "Progressed": 368,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2024-09-29T02:16:05.5138576+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:17.0906337+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:03:21.4478673+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:11.1311317+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:05.3246887+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:17.0907254+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:13.4468054+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:03:21.4479735+00:00"
 }

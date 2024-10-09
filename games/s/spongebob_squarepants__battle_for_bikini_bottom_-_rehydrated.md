@@ -39,8 +39,8 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 2.00% | ~75 |
 | Super Ultra Mega Spatula Seeker | 2.00% | ~75 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,756 (Ranked 315)  
-Completed: 51 (1.36%) (Ranked 246)  
+Progressed: 3,756 (Ranked 316)  
+Completed: 51 (1.36%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

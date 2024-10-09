@@ -2,8 +2,8 @@
   "ID": "f056b83fd8c04561826d41aa08ff5e8c",
   "Name": "PaperMadeRacing",
   "ProductSlug": "papermaderacing-efa82c",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-04T10:57:09.8101118+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:48.9780517+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:42.6755343+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:16.2891728+00:00"
 }

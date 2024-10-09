@@ -67,7 +67,7 @@ Rating: 4.70 (Ranked 252)
 | A Foul Feast | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 431,437 (Ranked 70)  
-Completed: 2,195 (0.51%) (Ranked 351)  
+Completed: 2,195 (0.51%) (Ranked 354)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

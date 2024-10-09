@@ -2,8 +2,8 @@
   "ID": "9588d511dc28483dbadb1b8c1ec196e9",
   "Name": "Tri6 Infinite",
   "ProductSlug": "tri6-infinite-3ac4cc",
-  "Ranking_EOS_Progress": 963,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 958,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -99,6 +99,11 @@
       "Time": "2024-08-20T20:10:19.2241089+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:04:56.1861277+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-02T08:01:17.6787047+00:00",
@@ -109,7 +114,7 @@
       "ID": "0",
       "SetID": "72mf9o7",
       "Name": "Hyperion",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -133,7 +138,7 @@
       "ID": "11",
       "SetID": "72mf9o7",
       "Name": "Full power",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -141,7 +146,7 @@
       "ID": "12",
       "SetID": "72mf9o7",
       "Name": "Collector",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -157,7 +162,7 @@
       "ID": "14",
       "SetID": "72mf9o7",
       "Name": "Destructor",
-      "Percentage": 53,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 8
     },
@@ -165,7 +170,7 @@
       "ID": "15",
       "SetID": "72mf9o7",
       "Name": "Stomper",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -173,7 +178,7 @@
       "ID": "16",
       "SetID": "72mf9o7",
       "Name": "Weapon Master",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -197,7 +202,7 @@
       "ID": "19",
       "SetID": "72mf9o7",
       "Name": "High Speed",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -205,15 +210,15 @@
       "ID": "2",
       "SetID": "72mf9o7",
       "Name": "Hermes",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "20",
       "SetID": "72mf9o7",
       "Name": "Trampoline",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -237,7 +242,7 @@
       "ID": "23",
       "SetID": "72mf9o7",
       "Name": "Rage Attack",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -253,7 +258,7 @@
       "ID": "4",
       "SetID": "72mf9o7",
       "Name": "Lap 5",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -261,7 +266,7 @@
       "ID": "5",
       "SetID": "72mf9o7",
       "Name": "Lap 6",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -269,7 +274,7 @@
       "ID": "6",
       "SetID": "72mf9o7",
       "Name": "Lap 7",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -277,7 +282,7 @@
       "ID": "7",
       "SetID": "72mf9o7",
       "Name": "Lap 8",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -285,7 +290,7 @@
       "ID": "8",
       "SetID": "72mf9o7",
       "Name": "Lap 9",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -302,14 +307,14 @@
     {
       "ID": "72mf9o7",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T02:57:55.7033583+00:00",
   "FirstSeenAchievements": "2023-07-02T08:01:17.6787047+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:43.9184329+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:56.1861271+00:00",
   "LastUpdate_AppInfo": "2024-10-07T23:57:16.5158541+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:09.4492006+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:43.9184468+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:59:00.4875124+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:56.1861412+00:00"
 }

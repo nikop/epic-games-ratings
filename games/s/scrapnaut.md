@@ -38,8 +38,8 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~17 |
 | Invincible | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 868 (Ranked 435)  
-Completed: 4 (0.46%) (Ranked 360)  
+Progressed: 868 (Ranked 437)  
+Completed: 4 (0.46%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

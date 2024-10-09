@@ -31,8 +31,8 @@
 | Renowned | 10.00% | ~5 |
 | Wealthy | 10.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51 (Ranked 801)  
-Completed: 3 (5.88%) (Ranked 120)  
+Progressed: 51 (Ranked 803)  
+Completed: 3 (5.88%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

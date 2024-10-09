@@ -23,8 +23,8 @@
 | Working carefully | 0.30% | ~1 |
 | Here comes the light | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 325 (Ranked 544)  
-Completed: 7 (2.15%) (Ranked 213)  
+Progressed: 325 (Ranked 548)  
+Completed: 7 (2.15%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

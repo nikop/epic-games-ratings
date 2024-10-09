@@ -57,8 +57,8 @@ Rating: 4.64 (Ranked 388)
 | Climate Clientele | 0.00% | ~0 |
 | Among Us | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,290 (Ranked 250)  
-Completed: 3 (0.03%) (Ranked 521)  
+Progressed: 11,290 (Ranked 251)  
+Completed: 3 (0.03%) (Ranked 525)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

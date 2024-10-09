@@ -2,8 +2,8 @@
   "ID": "267b56359a8c45ee9154861187de210b",
   "Name": "Marble It Up! Ultra",
   "ProductSlug": "marble-it-up-ultra-7b5692",
-  "Ranking_EOS_Progress": 571,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 573,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 252,
+  "EOS_Progressed": 258,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -749,6 +749,11 @@
       "Time": "2024-09-14T14:24:41.4069991+00:00",
       "NumProgressed": 252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:05:32.545005+00:00",
+      "NumProgressed": 258,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T22:03:23.4161887+00:00",
@@ -759,9 +764,9 @@
       "ID": "TOURN_PARTICIP_10",
       "SetID": "3448go",
       "Name": "Welcome to Fortnight",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "TOURN_PARTICIP_20",
@@ -785,7 +790,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "TOURN_PARTICIP_60",
@@ -857,7 +862,7 @@
       "Name": "Glider",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "beat_c1_bronze",
@@ -871,25 +876,25 @@
       "ID": "beat_c1_diamond",
       "SetID": "3448go",
       "Name": "Wax On, Wax Off",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "beat_c1_gold",
       "SetID": "3448go",
       "Name": "Venture Time",
-      "Percentage": 41,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 111
     },
     {
       "ID": "beat_c1_silver",
       "SetID": "3448go",
       "Name": "Treasured Momentum",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 142
     },
     {
       "ID": "beat_c1a_bronze",
@@ -903,9 +908,9 @@
       "ID": "beat_c1a_diamond",
       "SetID": "3448go",
       "Name": "Side-Quester",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c1a_gold",
@@ -919,9 +924,9 @@
       "ID": "beat_c1a_silver",
       "SetID": "3448go",
       "Name": "Yonder",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "beat_c2_bronze",
@@ -943,17 +948,17 @@
       "ID": "beat_c2_gold",
       "SetID": "3448go",
       "Name": "In Good Company",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 41
     },
     {
       "ID": "beat_c2_silver",
       "SetID": "3448go",
       "Name": "Gone for a Whirl",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 72
     },
     {
       "ID": "beat_c2a_bronze",
@@ -967,9 +972,9 @@
       "ID": "beat_c2a_diamond",
       "SetID": "3448go",
       "Name": "Pathfinder",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c2a_gold",
@@ -983,9 +988,9 @@
       "ID": "beat_c2a_silver",
       "SetID": "3448go",
       "Name": "The Wide World",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "beat_c3_bronze",
@@ -1009,15 +1014,15 @@
       "Name": "Storm the Citadel",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "beat_c3_silver",
       "SetID": "3448go",
       "Name": "Power-Ups and Downs",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 54
     },
     {
       "ID": "beat_c3a_bronze",
@@ -1103,17 +1108,17 @@
       "ID": "beat_c4a_gold",
       "SetID": "3448go",
       "Name": "Herculean Effort",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c4a_silver",
       "SetID": "3448go",
       "Name": "The Distance",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "beat_c5_bronze",
@@ -1145,7 +1150,7 @@
       "Name": "Symbiotic Relationship",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "beat_c6_bronze",
@@ -1159,9 +1164,9 @@
       "ID": "beat_c6_diamond",
       "SetID": "3448go",
       "Name": "Bane of Icosahydra",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_c6_gold",
@@ -1183,17 +1188,17 @@
       "ID": "beat_mayhem",
       "SetID": "3448go",
       "Name": "Ultra Unlocked",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "beat_mayhem_diamond",
       "SetID": "3448go",
       "Name": "Unreasonably Ultra",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "beat_mayhem_gold",
@@ -1231,17 +1236,17 @@
       "ID": "bonus_gold",
       "SetID": "3448go",
       "Name": "Connoisseur",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "bonus_silver",
       "SetID": "3448go",
       "Name": "A Fan of the Classics",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "firsttimeuser_arcadeFTUX",
@@ -1335,9 +1340,9 @@
       "ID": "rolldist_mid",
       "SetID": "3448go",
       "Name": "Marathon",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "rolldist_short",
@@ -1345,7 +1350,7 @@
       "Name": "Rolling the Competition",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 173
     },
     {
       "ID": "soccer_hattrick",
@@ -1385,15 +1390,15 @@
       "Name": "Look What I Found!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "trophies_117",
       "SetID": "3448go",
       "Name": "No Stone Unturned",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "trophies_25",
@@ -1448,14 +1453,14 @@
     {
       "ID": "3448go",
       "IsBase": true,
-      "Progressed": 252,
+      "Progressed": 258,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-19T13:58:39.0296011+00:00",
   "FirstSeenAchievements": "2023-08-09T19:01:52.0053989+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:41.4069985+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:05:32.5450045+00:00",
   "LastUpdate_AppInfo": "2024-10-04T05:57:21.1875339+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:36.0895934+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:41.4070693+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:05:32.5450926+00:00"
 }

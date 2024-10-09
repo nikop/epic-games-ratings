@@ -75,7 +75,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~286 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 179,562 (Ranked 105)  
-Completed: 222 (0.12%) (Ranked 450)  
+Completed: 222 (0.12%) (Ranked 453)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

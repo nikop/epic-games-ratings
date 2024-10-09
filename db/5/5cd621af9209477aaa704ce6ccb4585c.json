@@ -2,8 +2,8 @@
   "ID": "5cd621af9209477aaa704ce6ccb4585c",
   "Name": "Shardbound",
   "ProductSlug": "shardbound-504243",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-05T02:10:24.2296316+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:15.8401612+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:17.1442314+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:07.328961+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:52.1444126+00:00"
 }

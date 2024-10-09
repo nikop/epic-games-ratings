@@ -2,8 +2,8 @@
   "ID": "4df1977381ba479a978a857d12fe2f62",
   "Name": "Creaks",
   "ProductSlug": "creaks-43f0f6",
-  "Ranking_EOS_Progress": 682,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Progress": 687,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -297,6 +297,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:45.5785007+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:31.2483876+00:00",
   "LastUpdate_AppInfo": "2024-10-08T03:57:17.5662596+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:59.5780556+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:51.9768948+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:31.2484034+00:00"
 }

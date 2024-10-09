@@ -2,8 +2,8 @@
   "ID": "0ff2a1392b884d6fba75823c49c96af4",
   "Name": "Garden Witch Life",
   "ProductSlug": "garden-witch-life-f4c4b3",
-  "Ranking_EOS_Progress": 1038,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-09-14T14:27:32.3831466+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:06:12.7086526+00:00",
+      "NumProgressed": 38,
       "NumCompleted": 0
     }
   ],
@@ -45,25 +50,25 @@
       "ID": "ACH_ANCIENT_DEBT",
       "SetID": "750c41k",
       "Name": "Ancient Debt",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_ATLANTIS",
       "SetID": "750c41k",
       "Name": "Atlantis",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_BOOKWORM",
       "SetID": "750c41k",
       "Name": "Bookworm",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BURNED_BREAD",
@@ -85,105 +90,105 @@
       "ID": "ACH_ENFORCED_NAP",
       "SetID": "750c41k",
       "Name": "Enforced Nap",
-      "Percentage": 33,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FREN",
       "SetID": "750c41k",
       "Name": "Fren?",
-      "Percentage": 0,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_FRIEND_SHAPED",
       "SetID": "750c41k",
       "Name": "Friend-Shaped",
-      "Percentage": 0,
+      "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_LINE_COOK",
       "SetID": "750c41k",
       "Name": "Line Cook",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_MONOCULTURE",
       "SetID": "750c41k",
       "Name": "Monoculture",
-      "Percentage": 0,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_PERMACULTURE",
       "SetID": "750c41k",
       "Name": "Permaculture",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_PET_THE_DOG",
       "SetID": "750c41k",
       "Name": "Can You Pet the Dog?",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_PRAISE_THE_SUN",
       "SetID": "750c41k",
       "Name": "Praise the Sun!",
-      "Percentage": 0,
+      "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_RELAXING_WAVES",
       "SetID": "750c41k",
       "Name": "Relaxing Waves",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_SOCKS_AND_SANDALS",
       "SetID": "750c41k",
       "Name": "Socks and Sandals",
-      "Percentage": 17,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_SOFT_LIFE",
       "SetID": "750c41k",
       "Name": "Soft Life",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SOLITARY_BEE",
       "SetID": "750c41k",
       "Name": "Solitary Bee",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SO_LONG",
       "SetID": "750c41k",
       "Name": "So Long\u2026",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_STAY_FROSTY",
@@ -205,9 +210,9 @@
       "ID": "ACH_SUPERCHARGED",
       "SetID": "750c41k",
       "Name": "Supercharged",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_THE_CALL",
@@ -229,9 +234,9 @@
       "ID": "ACH_TO_ANOTHER_YEAR",
       "SetID": "750c41k",
       "Name": "To Another Year!",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WORK_LIFE_BALANCE",
@@ -245,23 +250,23 @@
       "ID": "ACH_WRENCH_IN_THE_GEARS",
       "SetID": "750c41k",
       "Name": "Wrench in the Gears",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "750c41k",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-13T03:02:30.6868488+00:00",
   "FirstSeenAchievements": "2024-06-17T16:07:48.974838+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:32.3831459+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:06:12.7086522+00:00",
   "LastUpdate_AppInfo": "2024-10-04T20:57:06.0702158+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:32.6663962+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:32.3840604+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:06:12.7086691+00:00"
 }

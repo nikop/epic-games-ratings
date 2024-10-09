@@ -2,8 +2,8 @@
   "ID": "d23d0870e4a74ab4a993efec319ae2e8",
   "Name": "Elflock",
   "ProductSlug": "elflock-459d79",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-08T20:57:07.0412001+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:40.8708959+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:35.8493474+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.7024423+00:00"
 }

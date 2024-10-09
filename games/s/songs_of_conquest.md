@@ -61,8 +61,8 @@ Number of Ratings: 292  (23.09.2022)
 | Die by the Sword | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,713 (Ranked 317)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 3,713 (Ranked 318)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

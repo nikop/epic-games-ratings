@@ -5,8 +5,8 @@
   "Ranking_Rating": 1047,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
-  "Ranking_EOS_Progress": 380,
-  "Ranking_EOS_Completed": 388,
+  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -43,11 +43,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1816,
-  "EOS_Completed": 6,
+  "EOS_Progressed": 1936,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.33,
+  "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -2953,6 +2953,11 @@
       "Time": "2024-09-14T14:20:59.6069695+00:00",
       "NumProgressed": 1816,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-10-09T19:04:01.0285974+00:00",
+      "NumProgressed": 1936,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -2962,9 +2967,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 60,
-      "UsersEstimate": 654
+      "UsersEstimate": 678
     },
     {
       "ID": "completeact2",
@@ -2972,7 +2977,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 563
+      "UsersEstimate": 600
     },
     {
       "ID": "completeact3",
@@ -2980,15 +2985,15 @@
       "Name": "On the Road",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 545
+      "UsersEstimate": 581
     },
     {
       "ID": "findalltapes",
       "SetID": "40n95i5",
       "Name": "Song Harvester",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 150,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "scoremaxrankallrides",
@@ -3002,9 +3007,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 174
     },
     {
       "ID": "scoreminrankrb2",
@@ -3012,7 +3017,7 @@
       "Name": "Freedom",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "scoreminrankrf1",
@@ -3020,7 +3025,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "scoreminrankrf2",
@@ -3028,7 +3033,7 @@
       "Name": "Partners in Crime",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "scoreminrankrh1",
@@ -3036,7 +3041,7 @@
       "Name": "Souvenirs",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 400
+      "UsersEstimate": 426
     },
     {
       "ID": "scoreminrankrp1",
@@ -3044,7 +3049,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 182
+      "UsersEstimate": 194
     },
     {
       "ID": "scoreminrankrp2",
@@ -3052,7 +3057,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "scoreminrankrp3",
@@ -3060,7 +3065,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "scoreminrankrv1",
@@ -3068,7 +3073,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 200
+      "UsersEstimate": 213
     },
     {
       "ID": "scoreminrankrv2",
@@ -3076,23 +3081,23 @@
       "Name": "Friendzone",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 1816,
-      "Completed": 6
+      "Progressed": 1936,
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-04-05T01:40:29.4675735+00:00",
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2024-09-27T10:57:35.0709491+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:20:59.6069689+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:01.0285968+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:18.1599282+00:00",
   "LastUpdate_Ratings": "2024-10-09T18:00:27.1229775+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:20:59.6069953+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:04:01.0286461+00:00"
 }

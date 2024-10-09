@@ -43,8 +43,8 @@ Number of Ratings: 351  (23.09.2022)
 | Power Nap | 0.30% | ~11 |
 | Veteran Bounty Hunter | 0.20% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,813 (Ranked 312)  
-Completed: 4 (0.10%) (Ranked 462)  
+Progressed: 3,813 (Ranked 313)  
+Completed: 4 (0.10%) (Ranked 465)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

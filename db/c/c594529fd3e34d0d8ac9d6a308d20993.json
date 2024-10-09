@@ -2,8 +2,8 @@
   "ID": "c594529fd3e34d0d8ac9d6a308d20993",
   "Name": "Planet Sandbox",
   "ProductSlug": "planetsandbox-f48483",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-07T15:57:12.4822139+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:50.0864997+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:51.8575841+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:28.2637639+00:00"
 }

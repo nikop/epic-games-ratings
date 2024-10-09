@@ -2,8 +2,8 @@
   "ID": "3e6fbfed12a74b6c99f4353925b396bd",
   "Name": "Zen Chess: Mate in Three",
   "ProductSlug": "zen-chess-mate-in-three-461bff",
-  "Ranking_EOS_Progress": 768,
-  "Ranking_EOS_Completed": 95,
+  "Ranking_EOS_Progress": 764,
+  "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -25,16 +25,21 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
-  "EOS_Completed": 5,
+  "EOS_Progressed": 69,
+  "EOS_Completed": 6,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.81,
+  "EOS_Completed_Percentage": 8.7,
   "EosHistory": [
     {
       "Time": "2024-09-14T14:15:09.570903+00:00",
       "NumProgressed": 64,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-10-09T19:02:05.3500157+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2024-09-14T14:15:09.5709108+00:00",
@@ -47,15 +52,15 @@
       "Name": "The Walking ECO",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_100",
       "SetID": "23hla16",
       "Name": "Garry the Terrible",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_20",
@@ -63,77 +68,77 @@
       "Name": "Iron Viktor",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LEVEL_30",
       "SetID": "23hla16",
       "Name": "The Doctor",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "LEVEL_40",
       "SetID": "23hla16",
       "Name": "The Austrian Morphy",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_50",
       "SetID": "23hla16",
       "Name": "Baby Snake",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_60",
       "SetID": "23hla16",
       "Name": "The Grand Master Slayer",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_70",
       "SetID": "23hla16",
       "Name": "The Flying Dutchman",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "LEVEL_80",
       "SetID": "23hla16",
       "Name": "Beast of Birmingham",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_90",
       "SetID": "23hla16",
       "Name": "Dean of American Chess",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "23hla16",
       "IsBase": true,
-      "Progressed": 64,
-      "Completed": 5
+      "Progressed": 69,
+      "Completed": 6
     }
   ],
   "FirstSeen": "2024-08-22T04:57:30.771243+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:09.5709107+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:09.5709024+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:02:05.350015+00:00",
   "LastUpdate_AppInfo": "2024-10-07T23:57:13.8975976+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:16.3183918+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:09.571702+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:23.043971+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:02:05.3504467+00:00"
 }

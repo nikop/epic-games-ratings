@@ -2,8 +2,8 @@
   "ID": "f2ed44898a204bee866836b9b659bce4",
   "Name": "The Creepy Syndrome",
   "ProductSlug": "the-creepy-syndrome-90fc19",
-  "Ranking_EOS_Progress": 1110,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1118,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -153,6 +153,6 @@
   "FirstSeenAchievements": "2023-05-12T22:01:31.6521412+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:20.9841669+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:10.5130511+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:18.7654116+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:16.5584443+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:20.9841778+00:00"
 }

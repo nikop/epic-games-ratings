@@ -96,7 +96,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dwarf Candy | 0.10% | ~266 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 266,314 (Ranked 86)  
-Completed: 14 (0.01%) (Ranked 559)  
+Completed: 14 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -346,8 +346,8 @@ Completed: 14 (0.01%) (Ranked 559)
 | 2024-09-14 | 266,314 | 14 |
 ## Awards
 Max (Character Customization): 425  (Ranked 286)  
-Sum: 925 (Ranked 350)  
-Diff (max vs sum): -64  
+Sum: 925 (Ranked 351)  
+Diff (max vs sum): -65  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 425 |

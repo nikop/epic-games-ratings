@@ -2,11 +2,11 @@
   "ID": "bd9fd28ca1214868922f2ab41d6d3b65",
   "Name": "Beyond Blue",
   "ProductSlug": "beyond-blue",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -473,6 +473,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.0323242+00:00",
   "LastChanged": "2024-10-06T17:57:22.2632912+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:28.6522618+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:52.4044584+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:45.7502036+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:49.3901124+00:00"
 }

@@ -44,8 +44,8 @@ Rating: 4.24 (Ranked 1,096)
 | The Forgotten Realm | 0.80% | ~4 |
 | Feeling Fancy | 0.40% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,553 (Ranked 320)  
-Completed: 8 (0.23%) (Ranked 411)  
+Progressed: 3,553 (Ranked 322)  
+Completed: 8 (0.23%) (Ranked 413)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

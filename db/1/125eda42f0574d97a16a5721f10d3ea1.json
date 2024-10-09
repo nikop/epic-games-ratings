@@ -2,8 +2,8 @@
   "ID": "125eda42f0574d97a16a5721f10d3ea1",
   "Name": "Definitely Sneaky But Not Sneaky",
   "ProductSlug": "my-product-b51a19",
-  "Ranking_EOS_Progress": 801,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 803,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -347,8 +347,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-05T00:05:33.9112333+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:04.7514015+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:05:59.9542576+00:00",
   "LastUpdate_AppInfo": "2024-10-08T20:57:10.2395731+00:00",
   "LastUpdate_Ratings": "2024-10-09T18:00:00.6090148+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:04.7514164+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:05:59.9542739+00:00"
 }

@@ -20,8 +20,8 @@
 | Massive slaughter | 8.00% | ~8 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 707)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 100 (Ranked 710)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "909c6e888c164c78a1811afccedbc3a7",
   "Name": "Candle Knight",
   "ProductSlug": "candle-knight-b52970",
-  "Ranking_EOS_Progress": 1155,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1118,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -33,6 +33,11 @@
     {
       "Time": "2023-10-18T22:15:21.8471415+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:04:29.731499+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -84,7 +89,7 @@
       "ID": "achvDreamOn",
       "SetID": "6kgmn48",
       "Name": "Dream On",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "achvNoPlayDead",
       "SetID": "6kgmn48",
       "Name": "Can\u0027t Play Dead",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -156,7 +161,7 @@
       "ID": "achvPaintItBlack",
       "SetID": "6kgmn48",
       "Name": "Paint It, Black",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -212,7 +217,7 @@
       "ID": "achvWanderer",
       "SetID": "6kgmn48",
       "Name": "The Wanderer",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -229,14 +234,14 @@
     {
       "ID": "6kgmn48",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-18T22:09:38.6957834+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.8471499+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:00.2798943+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:29.7314985+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:38.2335181+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:12.1535386+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:00.2799065+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:10.8917004+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:29.731513+00:00"
 }

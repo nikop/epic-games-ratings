@@ -26,8 +26,8 @@
 | Hoist the Flag | 0.50% | ~728 |
 | Sins of the Fathers | 0.30% | ~437 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,614 (Ranked 119)  
-Completed: 10 (0.01%) (Ranked 559)  
+Progressed: 145,614 (Ranked 120)  
+Completed: 10 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

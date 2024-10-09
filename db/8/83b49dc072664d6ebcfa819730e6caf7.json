@@ -2,8 +2,8 @@
   "ID": "83b49dc072664d6ebcfa819730e6caf7",
   "Name": "Pantomime",
   "ProductSlug": "resonance-3cc2ec",
-  "Ranking_EOS_Progress": 1110,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1118,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -91,6 +91,6 @@
   "FirstSeenAchievements": "2024-09-14T14:19:24.1037257+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:24.1037245+00:00",
   "LastUpdate_AppInfo": "2024-10-06T11:57:13.0820462+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:59:45.8587635+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:01:19.537107+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:24.1045003+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "e07a23238eb744e48941547e0aa89228",
   "Name": "Athenian Rhapsody",
   "ProductSlug": "athenian-rhapsody-5ef478",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-18T18:58:16.914953+00:00",
   "LastUpdate_AppInfo": "2024-10-09T17:57:21.1059444+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:58:44.6712802+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:00:29.7469285+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:53.0325933+00:00"
 }

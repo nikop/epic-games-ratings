@@ -2,8 +2,8 @@
   "ID": "d7d04ac078b04cf894d3a68f15c71a98",
   "Name": "Unleaving",
   "ProductSlug": "unleaving-9d452e",
-  "Ranking_EOS_Progress": 941,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Progress": 939,
+  "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -25,11 +25,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.88,
+  "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
     {
       "Time": "2024-08-09T18:03:12.0548373+00:00",
@@ -39,6 +39,11 @@
     {
       "Time": "2024-09-14T14:17:50.4689405+00:00",
       "NumProgressed": 17,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-09T19:02:54.959519+00:00",
+      "NumProgressed": 18,
       "NumCompleted": 1
     }
   ],
@@ -50,7 +55,7 @@
       "ID": "ACH_HOW_DO_YOU_BEGIN",
       "SetID": "63ckp97",
       "Name": "how do you begin?",
-      "Percentage": 76,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -66,9 +71,9 @@
       "ID": "ACH_TILL_THE_END",
       "SetID": "63ckp97",
       "Name": "till the end",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_VAN_GOGH",
@@ -82,7 +87,7 @@
       "ID": "ACH_WHAT_DO_YOU_SEARCH_FOR",
       "SetID": "63ckp97",
       "Name": "what do you search for?",
-      "Percentage": 76,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -90,15 +95,15 @@
       "ID": "ACH_WHAT_DRIVES_YOU",
       "SetID": "63ckp97",
       "Name": "what drives you?",
-      "Percentage": 12,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_WHAT_DULLS_YOUR_FEARS",
       "SetID": "63ckp97",
       "Name": "what dulls your fears?",
-      "Percentage": 65,
+      "Percentage": 61,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -106,15 +111,15 @@
       "ID": "ACH_WHAT_IS_INSIDE_YOU",
       "SetID": "63ckp97",
       "Name": "what is inside you?",
-      "Percentage": 6,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WHAT_QUENCHES_YOUR_DOUBTS",
       "SetID": "63ckp97",
       "Name": "what quenches your doubts?",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -122,7 +127,7 @@
       "ID": "ACH_WHAT_SATES_YOUR_HUNGER",
       "SetID": "63ckp97",
       "Name": "what sates your hunger?",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -130,7 +135,7 @@
       "ID": "ACH_WHO_ARE_YOU",
       "SetID": "63ckp97",
       "Name": "who are you?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "ACH_WHY_ARE_YOU_HERE",
       "SetID": "63ckp97",
       "Name": "why are you here?",
-      "Percentage": 76,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -146,7 +151,7 @@
       "ID": "ACH_ZEN",
       "SetID": "63ckp97",
       "Name": "zen",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 200,
       "UsersEstimate": 2
     }
@@ -155,14 +160,14 @@
     {
       "ID": "63ckp97",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 1
     }
   ],
   "FirstSeen": "2024-08-04T17:58:29.9298356+00:00",
   "FirstSeenAchievements": "2024-08-09T18:03:12.0548387+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:17:50.46894+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:02:54.9595186+00:00",
   "LastUpdate_AppInfo": "2024-10-08T20:57:10.2833666+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:59.5318957+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:17:50.4689509+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:02:54.9595285+00:00"
 }

@@ -52,8 +52,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Now For A Difficult Provenance | 0.10% | ~2 |
 | Spectres of Hope | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 148,633 (Ranked 115)  
-Completed: 33 (0.02%) (Ranked 536)  
+Progressed: 148,633 (Ranked 116)  
+Completed: 33 (0.02%) (Ranked 540)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

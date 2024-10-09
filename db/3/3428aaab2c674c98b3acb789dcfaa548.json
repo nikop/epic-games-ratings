@@ -2,11 +2,11 @@
   "ID": "3428aaab2c674c98b3acb789dcfaa548",
   "Name": "Fallout: New Vegas",
   "ProductSlug": "fallout-new-vegas",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 38,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 509,
+  "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -21753,10 +21753,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 52474,
       "NumberOfAwardsMax": 16658
+    },
+    {
+      "Time": "2024-10-09T18:57:26.8683409+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 52481,
+      "NumberOfAwardsMax": 16658
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 52474,
+  "NumberOfAwards": 52481,
   "NumberOfAwardsMax": 16658,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -21830,7 +21836,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4558
+      "Count": 4565
     }
   ],
   "EOS_Progressed": 1147956,
@@ -51616,9 +51622,9 @@
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-10-09T16:58:20.8538584+00:00",
+  "LastChanged": "2024-10-09T18:57:26.8683405+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:46.9030116+00:00",
   "LastUpdate_AppInfo": "2024-10-05T13:57:07.2763313+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:20.853859+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:26.8683414+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:46.9031721+00:00"
 }

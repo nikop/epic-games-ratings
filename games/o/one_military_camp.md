@@ -49,8 +49,8 @@
 | Attack of the Drones | 0.00% | ~0 |
 | Sandbox Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 396 (Ranked 517)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 396 (Ranked 521)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

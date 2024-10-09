@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Augmented | 49.00% | ~589 |
-| Challenge Accepted | 40.00% | ~481 |
-| Terminated I | 40.00% | ~481 |
-| Nanonic I | 38.00% | ~457 |
-| Unlocked and Loaded | 37.00% | ~445 |
-| Terminated II | 32.00% | ~385 |
-| The City | 26.00% | ~313 |
-| Challenge Mastered | 23.00% | ~276 |
-| Terminated III | 23.00% | ~276 |
-| Nanonic II | 19.00% | ~228 |
-| Fully Modded | 18.00% | ~216 |
-| Starship Docks | 15.00% | ~180 |
-| Nanonic III | 14.00% | ~168 |
-| Supply Run | 14.00% | ~168 |
-| Cybernetic | 13.00% | ~156 |
-| Rookie | 13.00% | ~156 |
-| The Bigger They Are | 11.00% | ~132 |
-| Eden Heights | 9.00% | ~108 |
-| Up Close And Personal | 9.00% | ~108 |
-| Outer Core | 7.00% | ~84 |
-| Inner Core | 6.00% | ~72 |
+| Augmented | 50.00% | ~606 |
+| Challenge Accepted | 41.00% | ~497 |
+| Terminated I | 40.00% | ~485 |
+| Nanonic I | 39.00% | ~473 |
+| Unlocked and Loaded | 37.00% | ~448 |
+| Terminated II | 32.00% | ~388 |
+| The City | 26.00% | ~315 |
+| Challenge Mastered | 23.00% | ~279 |
+| Terminated III | 23.00% | ~279 |
+| Nanonic II | 19.00% | ~230 |
+| Fully Modded | 18.00% | ~218 |
+| Starship Docks | 15.00% | ~182 |
+| Supply Run | 15.00% | ~182 |
+| Nanonic III | 14.00% | ~170 |
+| Cybernetic | 13.00% | ~158 |
+| Rookie | 13.00% | ~158 |
+| The Bigger They Are | 11.00% | ~133 |
+| Eden Heights | 9.00% | ~109 |
+| Up Close And Personal | 9.00% | ~109 |
+| Outer Core | 7.00% | ~85 |
+| Inner Core | 6.00% | ~73 |
 | Integration | 4.00% | ~48 |
 | Destruction | 2.00% | ~24 |
 | Trickshot | 2.00% | ~24 |
 | Ripperdoc | 1.00% | ~12 |
-| Hard Boiled | 0.60% | ~7 |
+| Hard Boiled | 0.70% | ~8 |
 | Cyborg | 0.40% | ~5 |
-| Weaponsmith | 0.20% | ~2 |
+| Weaponsmith | 0.30% | ~4 |
 | Hell Raiser | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,202 (Ranked 407)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 1,212 (Ranked 407)  
+Completed: 1 (0.08%) (Ranked 471)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -207,6 +207,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 1,179 | 0 |
 | 2024-08-20 | 1,194 | 0 |
 | 2024-09-14 | 1,202 | 0 |
+| 2024-10-09 | 1,212 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

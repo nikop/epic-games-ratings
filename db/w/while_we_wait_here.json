@@ -2,8 +2,8 @@
   "ID": "80bb6e7ef6b94fe79b56f5254746f824",
   "Name": "While We Wait Here",
   "ProductSlug": "while-we-wait-here-94fa5d",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1098,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -22,17 +22,162 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
-  "AchievementSets": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-09T19:02:55.4169036+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-09T19:02:55.4169067+00:00",
+  "TotalAchievements": 16,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_Alex_Story",
+      "SetID": "a43c671",
+      "Name": "I did it for you",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_All_Recipes",
+      "SetID": "a43c671",
+      "Name": "Oh, right! I was supposed to cook",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Cliff",
+      "SetID": "a43c671",
+      "Name": "As long as you stay here...",
+      "Percentage": 33,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Eddie_Story",
+      "SetID": "a43c671",
+      "Name": "Am I a hero?",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Hank_Story",
+      "SetID": "a43c671",
+      "Name": "Workaholic",
+      "Percentage": 33,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Nora",
+      "SetID": "a43c671",
+      "Name": "... I\u0027ll be by your side",
+      "Percentage": 33,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Pet_The_Cow",
+      "SetID": "a43c671",
+      "Name": "She doesn\u0027t bite",
+      "Percentage": 0,
+      "XP": 25,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Scene_002",
+      "SetID": "a43c671",
+      "Name": "I\u0027ll cheer you up!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Scene_004",
+      "SetID": "a43c671",
+      "Name": "The hunter\u0027s training",
+      "Percentage": 33,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Scene_006",
+      "SetID": "a43c671",
+      "Name": "Childhood memories",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Scene_007",
+      "SetID": "a43c671",
+      "Name": "Lights on!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Scene_010",
+      "SetID": "a43c671",
+      "Name": "Amateur painter",
+      "Percentage": 33,
+      "XP": 50,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_Scene_011_Flashback",
+      "SetID": "a43c671",
+      "Name": "I was waiting for you",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_Scene_013",
+      "SetID": "a43c671",
+      "Name": "How it all ended",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_WWWH",
+      "SetID": "a43c671",
+      "Name": "The storm is over",
+      "Percentage": 33,
+      "XP": 100,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "ACH_William_Story",
+      "SetID": "a43c671",
+      "Name": "Heartache",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    }
+  ],
+  "AchievementSets": [
+    {
+      "ID": "a43c671",
+      "IsBase": true,
+      "Progressed": 3,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-09T19:02:55.4169066+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:02:55.4169031+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:07.1627568+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:22.6472795+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:17:52.0208257+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:02:55.4179631+00:00"
 }

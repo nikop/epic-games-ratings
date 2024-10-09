@@ -101,8 +101,8 @@ Number of Ratings: 45  (23.09.2022)
 | The Survivor | 0.10% | ~0 |
 | Waymaster | 0.10% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,991 (Ranked 368)  
-Completed: 9 (0.45%) (Ranked 364)  
+Progressed: 1,991 (Ranked 369)  
+Completed: 9 (0.45%) (Ranked 366)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

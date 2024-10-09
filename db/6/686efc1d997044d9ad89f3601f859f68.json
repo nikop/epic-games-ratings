@@ -2,8 +2,8 @@
   "ID": "686efc1d997044d9ad89f3601f859f68",
   "Name": "SAE",
   "ProductSlug": "sae-7a5090",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-07T15:57:23.9544191+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:20.3301253+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:17.9764364+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:16.5087127+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "cd0c538ae44e4261b8ef0306649598b8",
   "Name": "Mirrors Edge: Catalyst",
   "ProductSlug": "mirrors-edge-catalyst-aa7791",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -46,6 +46,6 @@
   "FirstSeenAchievements": "2024-06-17T16:08:23.4655348+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.8814897+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:36.6842416+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:36.9975771+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:40.9208119+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.8814927+00:00"
 }

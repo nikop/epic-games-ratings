@@ -4,36 +4,36 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| With A Single Step | 89.00% | ~86 |
-| In Snow And Moonlight | 73.00% | ~71 |
-| Friendly Fire | 55.00% | ~53 |
-| Minelayer | 48.00% | ~47 |
-| Kickstatter | 48.00% | ~47 |
-| Lifesaver | 39.00% | ~38 |
-| Slash And Dash | 34.00% | ~33 |
-| Naked And Savage | 25.00% | ~24 |
-| Scattershot | 24.00% | ~23 |
-| Purple Haze | 23.00% | ~22 |
-| Heart Attack | 16.00% | ~16 |
-| Bounceback | 15.00% | ~15 |
-| Ascension | 14.00% | ~14 |
-| In Sand And Starlight | 14.00% | ~14 |
-| Thick As Thieves | 13.00% | ~13 |
-| No Stone Unturned | 12.00% | ~12 |
-| Worlds Within Whirls | 12.00% | ~12 |
-| Passing Of The Torch | 11.00% | ~11 |
-| Chain Reaction | 10.00% | ~10 |
-| Bone Idol | 9.00% | ~9 |
-| In The Mouth Of Madness | 9.00% | ~9 |
-| Total Massacre | 8.00% | ~8 |
-| Transcendence | 8.00% | ~8 |
+| With A Single Step | 89.00% | ~95 |
+| In Snow And Moonlight | 72.00% | ~77 |
+| Friendly Fire | 53.00% | ~57 |
+| Minelayer | 48.00% | ~51 |
+| Kickstatter | 47.00% | ~50 |
+| Lifesaver | 37.00% | ~40 |
+| Slash And Dash | 32.00% | ~34 |
+| Naked And Savage | 25.00% | ~27 |
+| Scattershot | 23.00% | ~25 |
+| Purple Haze | 21.00% | ~22 |
+| Bounceback | 16.00% | ~17 |
+| Heart Attack | 15.00% | ~16 |
+| Ascension | 14.00% | ~15 |
+| In Sand And Starlight | 14.00% | ~15 |
+| Thick As Thieves | 12.00% | ~13 |
+| No Stone Unturned | 11.00% | ~12 |
+| Worlds Within Whirls | 11.00% | ~12 |
+| Passing Of The Torch | 10.00% | ~11 |
+| Chain Reaction | 9.00% | ~10 |
+| In The Mouth Of Madness | 9.00% | ~10 |
+| Bone Idol | 8.00% | ~9 |
+| Transcendence | 8.00% | ~9 |
 | Treasure Hunter | 7.00% | ~7 |
+| Rampage | 7.00% | ~7 |
+| Total Massacre | 7.00% | ~7 |
 | Harvester | 7.00% | ~7 |
-| Rampage | 5.00% | ~5 |
+| Act Of Wrath | 5.00% | ~5 |
 | Crystal Cave | 5.00% | ~5 |
+| Victory | 5.00% | ~5 |
 | Cannoneer | 4.00% | ~4 |
-| Act Of Wrath | 4.00% | ~4 |
-| Victory | 4.00% | ~4 |
 | Secrets Of The Vale | 3.00% | ~3 |
 | Shock Tactics | 3.00% | ~3 |
 | The One And Only | 3.00% | ~3 |
@@ -44,10 +44,10 @@
 | Stop Staring | 2.00% | ~2 |
 | Steam | 2.00% | ~2 |
 | Kell’s Cage | 2.00% | ~2 |
-| Time Dilation | 1.00% | ~1 |
-| Outlander | 1.00% | ~1 |
-| Secrets Of The Wastes | 1.00% | ~1 |
-| The Scribe | 1.00% | ~1 |
+| Time Dilation | 0.90% | ~1 |
+| Outlander | 0.90% | ~1 |
+| Secrets Of The Wastes | 0.90% | ~1 |
+| The Scribe | 0.90% | ~1 |
 | Iron Lungs | 0.00% | ~0 |
 | Close And Personal | 0.00% | ~0 |
 | Treasure Hoarder | 0.00% | ~0 |
@@ -55,8 +55,8 @@
 | Secrets Of The Domain | 0.00% | ~0 |
 | Desecration | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 713)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 107 (Ranked 704)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 93 | 0 |
 | 2024-08-20 | 96 | 0 |
 | 2024-09-14 | 97 | 0 |
+| 2024-10-09 | 107 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

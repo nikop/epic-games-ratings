@@ -2,8 +2,8 @@
   "ID": "8bf17fa0bd774f72bb06bd095830af2a",
   "Name": "The Dragoness Command Of The Flame",
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
-  "Ranking_EOS_Progress": 783,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 784,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -284,6 +284,11 @@
       "Time": "2024-09-14T14:21:38.1472222+00:00",
       "NumProgressed": 57,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:04:22.3223066+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-04T17:05:09.1155779+00:00",
@@ -294,17 +299,17 @@
       "ID": "SteamAchievement_CompleteAllMapChallengeAtOnce",
       "SetID": "b8gj0ip",
       "Name": "One Fell Swoop",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SteamAchievement_KillDesertMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Watan",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SteamAchievement_KillFireMonsters",
@@ -320,55 +325,55 @@
       "Name": "Crushing the rebelion: Grassholt",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "SteamAchievement_KillFrostMonsters",
       "SetID": "b8gj0ip",
       "Name": "Crushing the rebelion: Frosthyll",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "SteamAchievement_UpgradeDemonDogToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "It was such a cute egg",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SteamAchievement_WinBattles01",
       "SetID": "b8gj0ip",
       "Name": "Battle Commander",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "SteamAchievement_WinBattles02",
       "SetID": "b8gj0ip",
       "Name": "General",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "SteamAchievements_KillDragons",
       "SetID": "b8gj0ip",
       "Name": "Dragon Slayer",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SteamAchievment_BuildAllBuildings",
@@ -382,9 +387,9 @@
       "ID": "SteamAchievment_BuildOneBuilding",
       "SetID": "b8gj0ip",
       "Name": "Emerging Constructor",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "SteamAchievment_CompleteAllChallenges",
@@ -422,97 +427,97 @@
       "ID": "SteamAchievment_CompleteFifteenChallenges",
       "SetID": "b8gj0ip",
       "Name": "Amateur of Challenges",
-      "Percentage": 18,
-      "XP": 10,
-      "UsersEstimate": 10
-    },
-    {
-      "ID": "SteamAchievment_CompleteOneChallenge",
-      "SetID": "b8gj0ip",
-      "Name": "First One",
-      "Percentage": 56,
-      "XP": 5,
-      "UsersEstimate": 32
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest02",
-      "SetID": "b8gj0ip",
-      "Name": "Defender of the Forced Gates",
-      "Percentage": 35,
-      "XP": 10,
-      "UsersEstimate": 20
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest03",
-      "SetID": "b8gj0ip",
-      "Name": "Cleansing of the Cursed Fountain",
-      "Percentage": 32,
-      "XP": 10,
-      "UsersEstimate": 18
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest04",
-      "SetID": "b8gj0ip",
-      "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 26,
-      "XP": 10,
-      "UsersEstimate": 15
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest05",
-      "SetID": "b8gj0ip",
-      "Name": "Monster Slayer",
-      "Percentage": 23,
-      "XP": 10,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest06",
-      "SetID": "b8gj0ip",
-      "Name": "Ancient Machinery Operator",
-      "Percentage": 23,
-      "XP": 10,
-      "UsersEstimate": 13
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest07",
-      "SetID": "b8gj0ip",
-      "Name": "Master of Choice",
       "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 11
     },
     {
+      "ID": "SteamAchievment_CompleteOneChallenge",
+      "SetID": "b8gj0ip",
+      "Name": "First One",
+      "Percentage": 57,
+      "XP": 5,
+      "UsersEstimate": 33
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest02",
+      "SetID": "b8gj0ip",
+      "Name": "Defender of the Forced Gates",
+      "Percentage": 36,
+      "XP": 10,
+      "UsersEstimate": 21
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest03",
+      "SetID": "b8gj0ip",
+      "Name": "Cleansing of the Cursed Fountain",
+      "Percentage": 33,
+      "XP": 10,
+      "UsersEstimate": 19
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest04",
+      "SetID": "b8gj0ip",
+      "Name": "Forest Dragons\u0027 Ally",
+      "Percentage": 28,
+      "XP": 10,
+      "UsersEstimate": 16
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest05",
+      "SetID": "b8gj0ip",
+      "Name": "Monster Slayer",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest06",
+      "SetID": "b8gj0ip",
+      "Name": "Ancient Machinery Operator",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 14
+    },
+    {
+      "ID": "SteamAchievment_CompleteQuest07",
+      "SetID": "b8gj0ip",
+      "Name": "Master of Choice",
+      "Percentage": 21,
+      "XP": 10,
+      "UsersEstimate": 12
+    },
+    {
       "ID": "SteamAchievment_CompleteQuest08",
       "SetID": "b8gj0ip",
       "Name": "Savior of the Fortress",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SteamAchievment_CompleteQuest09",
       "SetID": "b8gj0ip",
       "Name": "Defeat Yourself",
-      "Percentage": 11,
-      "XP": 10,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "SteamAchievment_CompleteQuest10",
-      "SetID": "b8gj0ip",
-      "Name": "Trade Lover",
       "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 7
     },
     {
+      "ID": "SteamAchievment_CompleteQuest10",
+      "SetID": "b8gj0ip",
+      "Name": "Trade Lover",
+      "Percentage": 14,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
       "ID": "SteamAchievment_CompleteQuest11",
       "SetID": "b8gj0ip",
       "Name": "Mother of the Dragons",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SteamAchievment_CompleteQuest12",
@@ -550,25 +555,25 @@
       "ID": "SteamAchievment_CompleteQuest16",
       "SetID": "b8gj0ip",
       "Name": "Where the Story Ends",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SteamAchievment_CompleteStoryQuest01",
       "SetID": "b8gj0ip",
       "Name": "Hunger Buster",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "SteamAchievment_CompleteThirtyChallenges",
       "SetID": "b8gj0ip",
       "Name": "Connoisseur of Challenges",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SteamAchievment_FirstVisitCapitalCity",
@@ -576,29 +581,29 @@
       "Name": "The Dawn",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "SteamAchievment_MergeAnyArtifactOnMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "Merging Specialist",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8gj0ip",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:38.1472217+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:22.3223061+00:00",
   "LastUpdate_AppInfo": "2024-10-03T02:09:30.1713849+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:59:21.1241306+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:38.147248+00:00"
+  "LastUpdate_Ratings": "2024-10-09T19:00:59.7360042+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:22.3223393+00:00"
 }

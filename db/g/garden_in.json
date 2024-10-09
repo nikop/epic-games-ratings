@@ -2,8 +2,8 @@
   "ID": "c3c107b5e1894020ae78c0346c43598f",
   "Name": "Garden In",
   "ProductSlug": "garden-in-671c44",
-  "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_Progress": 578,
+  "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -754,6 +754,6 @@
   "LastChanged": "2023-03-31T05:57:23.5695132+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:10.6019304+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:36.4803721+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:17.4372084+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:07.5679318+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:10.601951+00:00"
 }

@@ -78,8 +78,8 @@ Rating: 4.65 (Ranked 361)
 | Draconic Connoisseur | 0.10% | ~8 |
 | Graze Tactics | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,090 (Ranked 268)  
-Completed: 12 (0.15%) (Ranked 439)  
+Progressed: 8,090 (Ranked 269)  
+Completed: 12 (0.15%) (Ranked 441)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

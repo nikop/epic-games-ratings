@@ -2,8 +2,8 @@
   "ID": "7f3d1cc99606488c889a893f5b82762a",
   "Name": "Goalgetter",
   "ProductSlug": "goalgetter-9a4123",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-04T13:13:50.4702689+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:50.1775655+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:51.9038935+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:21.1488628+00:00"
 }

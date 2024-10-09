@@ -39,7 +39,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 43,479 (Ranked 185)  
-Completed: 19 (0.04%) (Ranked 509)  
+Completed: 19 (0.04%) (Ranked 513)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

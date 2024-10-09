@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | What is this? | 73.00% | ~81 |
 | Complete Level 1-1 | 64.00% | ~71 |
-| Immortal | 57.00% | ~63 |
+| Immortal | 58.00% | ~64 |
 | Complete Level 1-2 | 46.00% | ~51 |
 | Scraping by | 34.00% | ~38 |
 | Engineer-mage hybrid | 34.00% | ~38 |
@@ -19,11 +19,11 @@
 | Complete Level 2-2 | 19.00% | ~21 |
 | Complete Level 2-3 | 15.00% | ~17 |
 | Defeat the engineer boss | 14.00% | ~16 |
+| Engineer-warrior hybrid | 14.00% | ~16 |
 | Versatile | 14.00% | ~16 |
 | Well-off | 13.00% | ~14 |
 | Too many crates | 13.00% | ~14 |
 | Complete Level 3-1 | 13.00% | ~14 |
-| Engineer-warrior hybrid | 13.00% | ~14 |
 | Baby steps | 11.00% | ~12 |
 | Complete Level 3-2 | 11.00% | ~12 |
 | Party popper | 11.00% | ~12 |
@@ -51,8 +51,8 @@
 | Almost there | 0.90% | ~1 |
 | Go go go | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 691)  
-Completed: 1 (0.90%) (Ranked 296)  
+Progressed: 111 (Ranked 696)  
+Completed: 1 (0.90%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

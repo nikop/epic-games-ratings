@@ -2,8 +2,8 @@
   "ID": "15d34b920cd04429975e95bf083d3902",
   "Name": "The Prison",
   "ProductSlug": "the-prison-f6cb95",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-04T17:57:05.695255+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:58.0014975+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:58.628163+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.7590411+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "b81917c3f5b741dbb6cfde1e4e9e2a43",
   "Name": "HUNGER",
   "ProductSlug": "hunger-cde4bb",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-03T17:57:21.2018465+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:26.179583+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:14.930087+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:15.7344191+00:00"
 }

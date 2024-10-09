@@ -1,7 +1,7 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.33 (Ranked 1,004)  
+Rating: 4.33 (Ranked 1,003)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -46,8 +46,8 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~5 |
 | Vandal | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 889 (Ranked 434)  
-Completed: 2 (0.22%) (Ranked 412)  
+Progressed: 889 (Ranked 436)  
+Completed: 2 (0.22%) (Ranked 414)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,62 +1,62 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.68 (Ranked 302)  
+Rating: 4.68 (Ranked 301)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 51.00% | ~5,296 |
-| First Love | 46.00% | ~4,777 |
-| Clean Race | 46.00% | ~4,777 |
-| Hear That Roar! | 43.00% | ~4,466 |
-| Bitter Rivalry | 33.00% | ~3,427 |
-| Champagne Spray | 33.00% | ~3,427 |
-| Rivals to the End | 32.00% | ~3,323 |
-| We're Going to Need a Bigger Garage | 28.00% | ~2,908 |
-| Quick Pit Stop | 25.00% | ~2,596 |
-| I Want One Too! | 22.00% | ~2,285 |
-| Legendary!!! | 21.00% | ~2,181 |
-| Restored and Ready | 19.00% | ~1,973 |
-| Go-Faster Stripes | 18.00% | ~1,869 |
-| We've Just Begun | 17.00% | ~1,765 |
-| I'm Here Too! | 13.00% | ~1,350 |
-| Is It the Right Size? | 10.00% | ~1,038 |
-| Stamina Star | 8.00% | ~831 |
-| Evangelist | 8.00% | ~831 |
-| The Road to Liberty | 6.00% | ~623 |
-| Make It Your Own! | 5.00% | ~519 |
-| Cherry Blossom and Temples | 5.00% | ~519 |
-| Romantic Races | 5.00% | ~519 |
-| My Work Here Is Done | 5.00% | ~519 |
-| La Dolce Vita | 4.00% | ~415 |
-| Spoilt for Choice | 3.00% | ~312 |
-| Back in Blighty | 3.00% | ~312 |
-| I Make the Rules! | 3.00% | ~312 |
-| Rounding Off | 3.00% | ~312 |
-| Iconic! | 2.00% | ~208 |
-| I'll Be the Best! | 2.00% | ~208 |
-| Still Here | 2.00% | ~208 |
-| Next Level | 2.00% | ~208 |
-| I Don't Stop | 2.00% | ~208 |
-| Overtaking the Master | 2.00% | ~208 |
-| Exhausted but Happy | 0.60% | ~62 |
-| In Search of Perfection | 0.60% | ~62 |
-| Breathtaking Views | 0.50% | ~52 |
-| Globe-trotter | 0.40% | ~42 |
-| All My Own Toys | 0.40% | ~42 |
-| Full Power | 0.30% | ~31 |
-| Maximum Endurance | 0.10% | ~10 |
-| Dream Chaser | 0.10% | ~10 |
-| Beyond the Limiter | 0.10% | ~10 |
-| Endless | 0.10% | ~10 |
-| At the Top | 0.10% | ~10 |
-| Know Your Enemy | 0.10% | ~10 |
-| Who's Next?! | 0.10% | ~10 |
-| There's a Great View up Here | 0.10% | ~10 |
-| Absolute Champion | 0.10% | ~10 |
+| Eat My Dust | 51.00% | ~5,770 |
+| First Love | 47.00% | ~5,317 |
+| Clean Race | 47.00% | ~5,317 |
+| Hear That Roar! | 45.00% | ~5,091 |
+| Bitter Rivalry | 34.00% | ~3,846 |
+| Champagne Spray | 34.00% | ~3,846 |
+| Rivals to the End | 33.00% | ~3,733 |
+| We're Going to Need a Bigger Garage | 29.00% | ~3,281 |
+| Quick Pit Stop | 26.00% | ~2,941 |
+| I Want One Too! | 23.00% | ~2,602 |
+| Legendary!!! | 23.00% | ~2,602 |
+| Restored and Ready | 21.00% | ~2,376 |
+| Go-Faster Stripes | 19.00% | ~2,149 |
+| We've Just Begun | 19.00% | ~2,149 |
+| I'm Here Too! | 13.00% | ~1,471 |
+| Is It the Right Size? | 11.00% | ~1,244 |
+| Stamina Star | 9.00% | ~1,018 |
+| Evangelist | 9.00% | ~1,018 |
+| Make It Your Own! | 6.00% | ~679 |
+| Cherry Blossom and Temples | 6.00% | ~679 |
+| The Road to Liberty | 6.00% | ~679 |
+| Romantic Races | 5.00% | ~566 |
+| My Work Here Is Done | 5.00% | ~566 |
+| La Dolce Vita | 4.00% | ~453 |
+| Spoilt for Choice | 3.00% | ~339 |
+| Back in Blighty | 3.00% | ~339 |
+| I Make the Rules! | 3.00% | ~339 |
+| Rounding Off | 3.00% | ~339 |
+| Overtaking the Master | 3.00% | ~339 |
+| Iconic! | 2.00% | ~226 |
+| I'll Be the Best! | 2.00% | ~226 |
+| Still Here | 2.00% | ~226 |
+| Next Level | 2.00% | ~226 |
+| I Don't Stop | 2.00% | ~226 |
+| Breathtaking Views | 0.60% | ~68 |
+| In Search of Perfection | 0.60% | ~68 |
+| Exhausted but Happy | 0.50% | ~57 |
+| Globe-trotter | 0.40% | ~45 |
+| All My Own Toys | 0.40% | ~45 |
+| Full Power | 0.30% | ~34 |
+| Beyond the Limiter | 0.20% | ~23 |
+| Maximum Endurance | 0.10% | ~11 |
+| Dream Chaser | 0.10% | ~11 |
+| Endless | 0.10% | ~11 |
+| At the Top | 0.10% | ~11 |
+| Know Your Enemy | 0.10% | ~11 |
+| Who's Next?! | 0.10% | ~11 |
+| There's a Great View up Here | 0.10% | ~11 |
+| Absolute Champion | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,385 (Ranked 251)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 11,313 (Ranked 250)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -212,6 +212,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 8,355 | 0 |
 | 2024-08-20 | 8,533 | 0 |
 | 2024-09-14 | 10,385 | 0 |
+| 2024-10-09 | 11,313 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 650)  
 Sum: 127 (Ranked 574)  

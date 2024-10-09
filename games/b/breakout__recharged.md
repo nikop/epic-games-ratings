@@ -1,7 +1,7 @@
 # Breakout: Recharged
 [Store](https://store.epicgames.com/en-US/p/breakout-recharged)  
 [View Rawdata](../../db/b/breakout__recharged.json)  
-Rating: 4.23 (Ranked 1,113)  
+Rating: 4.23 (Ranked 1,112)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,7 +22,7 @@ Rating: 4.23 (Ranked 1,113)
 | What Shall We Do Now? | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,652 (Ranked 242)  
-Completed: 15 (0.11%) (Ranked 455)  
+Completed: 15 (0.11%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

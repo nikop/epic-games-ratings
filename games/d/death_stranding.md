@@ -70,7 +70,7 @@ Rating: 4.77 (Ranked 139)
 | Homo Faber | 0.10% | ~4,418 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,417,997 (Ranked 4)  
-Completed: 2,743 (0.06%) (Ranked 486)  
+Completed: 2,743 (0.06%) (Ranked 490)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -360,12 +360,12 @@ Completed: 2,743 (0.06%) (Ranked 486)
 | 2024-08-20 | 4,382,203 | 2,690 |
 | 2024-09-14 | 4,417,997 | 2,743 |
 ## Awards
-Max (Great Boss Battles): 12,946  (Ranked 50)  
-Sum: 19,053 (Ranked 83)  
+Max (Great Boss Battles): 12,970  (Ranked 50)  
+Sum: 19,077 (Ranked 83)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 12,946 |
+| This game has Great Boss Battles | 12,970 |
 | This game is Great for Beginners | 833 |
 | This game has Diverse Characters | 754 |
 | This game is Highly Recommended | 729 |
@@ -947,4 +947,4 @@ Diff (max vs sum): -33
 | 2024-10-06 | 4.77 | 12,901 | 18,979 |
 | 2024-10-07 | 4.77 | 12,923 | 19,009 |
 | 2024-10-08 | 4.77 | 12,946 | 19,043 |
-| 2024-10-09 | 4.77 | 12,946 | 19,053 |
+| 2024-10-09 | 4.77 | 12,970 | 19,077 |

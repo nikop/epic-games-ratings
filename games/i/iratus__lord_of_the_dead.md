@@ -83,7 +83,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Renowned Researcher | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 62,414 (Ranked 173)  
-Completed: 31 (0.05%) (Ranked 497)  
+Completed: 31 (0.05%) (Ranked 501)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -372,7 +372,7 @@ Completed: 31 (0.05%) (Ranked 497)
 | 2024-09-14 | 62,414 | 31 |
 ## Awards
 Max (Character Customization): 2,217  (Ranked 137)  
-Sum: 4,330 (Ranked 193)  
+Sum: 4,331 (Ranked 193)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -385,7 +385,7 @@ Diff (max vs sum): -56
 | This game has Amazing Characters | 223 |
 | This game is Extremely Fun | 221 |
 | This game has Quickly Understood Controls | 206 |
-| This game has Unique Visuals | 200 |
+| This game has Unique Visuals | 201 |
 | This game has a Creative Community | 108 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -620,4 +620,4 @@ Diff (max vs sum): -56
 | 2024-10-06 | 4.38 | - | 2,215 | 4,326 |
 | 2024-10-07 | 4.38 | - | 2,217 | 4,328 |
 | 2024-10-08 | 4.38 | - | 2,217 | 4,329 |
-| 2024-10-09 | 4.38 | - | 2,217 | 4,330 |
+| 2024-10-09 | 4.38 | - | 2,217 | 4,331 |

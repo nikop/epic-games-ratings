@@ -2,8 +2,8 @@
   "ID": "0d36d28dad0942d8be178cb68f6793af",
   "Name": "Control",
   "ProductSlug": "control-316ad1",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,5 +34,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-09T11:57:18.1065092+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:33.3507784+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:37.6433597+00:00"
 }

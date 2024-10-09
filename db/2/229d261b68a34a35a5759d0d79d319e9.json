@@ -2,8 +2,8 @@
   "ID": "229d261b68a34a35a5759d0d79d319e9",
   "Name": "XERA: Survival",
   "ProductSlug": "xera-survival-57716f",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -43,6 +43,6 @@
   "FirstSeenAchievements": "2024-07-30T16:02:12.0738071+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:19.8057296+00:00",
   "LastUpdate_AppInfo": "2024-10-07T19:57:15.5562816+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:20.462189+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:17.9980344+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:19.8057336+00:00"
 }

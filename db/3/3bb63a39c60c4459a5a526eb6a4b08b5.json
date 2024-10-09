@@ -2,8 +2,8 @@
   "ID": "3bb63a39c60c4459a5a526eb6a4b08b5",
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
-  "Ranking_EOS_Progress": 386,
-  "Ranking_EOS_Completed": 486,
+  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Completed": 490,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1699,
+  "EOS_Progressed": 1771,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -4659,6 +4659,11 @@
       "Time": "2024-09-14T14:21:06.7030785+00:00",
       "NumProgressed": 1699,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-10-09T19:04:04.678975+00:00",
+      "NumProgressed": 1771,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -4668,25 +4673,25 @@
       "ID": "ABigLuck",
       "SetID": "1e89b4i",
       "Name": "Great Luck",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     },
     {
       "ID": "ActivePause",
       "SetID": "1e89b4i",
       "Name": "Active Pause",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "BasicControls",
       "SetID": "1e89b4i",
       "Name": "Basic Controls",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 142
     },
     {
       "ID": "BigPlane",
@@ -4694,47 +4699,47 @@
       "Name": "Expensive Plane",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "BudgetFlight",
       "SetID": "1e89b4i",
       "Name": "Budget Flight",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 195
     },
     {
       "ID": "Calculated",
       "SetID": "1e89b4i",
       "Name": "Calculated",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 71
     },
     {
       "ID": "Close",
       "SetID": "1e89b4i",
       "Name": "That Was Close!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 71
     },
     {
       "ID": "Creator",
       "SetID": "1e89b4i",
       "Name": "Creator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Debtor",
       "SetID": "1e89b4i",
       "Name": "Debtor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 35
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -4742,23 +4747,23 @@
       "Name": "Edge of the World",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ExperiencedExecutive",
       "SetID": "1e89b4i",
       "Name": "Experienced Manager",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Fifty",
       "SetID": "1e89b4i",
       "Name": "Fifty",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "First",
@@ -4766,7 +4771,7 @@
       "Name": "Game Started",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FullCompletion",
@@ -4796,9 +4801,9 @@
       "ID": "LackOfTime",
       "SetID": "1e89b4i",
       "Name": "Lack of Time",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 53
     },
     {
       "ID": "LargeAirport",
@@ -4806,7 +4811,7 @@
       "Name": "Large Airport",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LargeTerritories",
@@ -4820,17 +4825,17 @@
       "ID": "LegendaryTransporter",
       "SetID": "1e89b4i",
       "Name": "Legendary transporter",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "LinearNetwork",
       "SetID": "1e89b4i",
       "Name": "Linear Network",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 106
     },
     {
       "ID": "LongDistance",
@@ -4838,15 +4843,15 @@
       "Name": "Long Distances",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ManagementMaster",
       "SetID": "1e89b4i",
       "Name": "Management Master",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "MaximumUpgrade",
@@ -4854,7 +4859,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Millionaire",
@@ -4862,15 +4867,15 @@
       "Name": "Millionaire",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NewRecord",
       "SetID": "1e89b4i",
       "Name": "New Record",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 195
     },
     {
       "ID": "NoTimeForModernization",
@@ -4878,31 +4883,31 @@
       "Name": "No Time for Modernization",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 230
     },
     {
       "ID": "NotPlanned",
       "SetID": "1e89b4i",
       "Name": "This Wasn\u0027t Part of the Plan...",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 71
     },
     {
       "ID": "Ownway",
       "SetID": "1e89b4i",
       "Name": "Own Way",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "PublicFigure",
@@ -4934,23 +4939,23 @@
       "Name": "Reliable Transporter",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ResourceEconomy",
       "SetID": "1e89b4i",
       "Name": "Resource Economy",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 195
     },
     {
       "ID": "Restructuring",
       "SetID": "1e89b4i",
       "Name": "Restructuring",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 53
     },
     {
       "ID": "Reviewer",
@@ -4964,9 +4969,9 @@
       "ID": "ScenarioAmateur",
       "SetID": "1e89b4i",
       "Name": "Scenario Amateur",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ScenarioExpert",
@@ -4982,29 +4987,29 @@
       "Name": "Ten!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "TimeForManagement",
       "SetID": "1e89b4i",
       "Name": "Time for Management",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 71
     },
     {
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 106
     },
     {
       "ID": "Africa",
       "SetID": "9egci21",
       "Name": "Africa",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -5012,9 +5017,9 @@
       "ID": "Asia",
       "SetID": "9egci21",
       "Name": "Asia",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "AustraliaAndOceania",
@@ -5028,9 +5033,9 @@
       "ID": "Europe",
       "SetID": "9egci21",
       "Name": "Europe",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 12
     },
     {
       "ID": "FirstStep",
@@ -5038,7 +5043,7 @@
       "Name": "First Step",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "NorthAmerica",
@@ -5046,15 +5051,15 @@
       "Name": "North America",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SouthAmerica",
       "SetID": "9egci21",
       "Name": "South America",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TenSteps",
@@ -5062,27 +5067,27 @@
       "Name": "Ten Steps",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1699,
+      "Progressed": 1771,
       "Completed": 1
     },
     {
       "ID": "9egci21",
       "IsBase": false,
-      "Progressed": 316,
+      "Progressed": 388,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:06.7030779+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:04.6789745+00:00",
   "LastUpdate_AppInfo": "2024-10-02T20:57:17.4166416+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:48.7625013+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:06.7031257+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:04:04.679021+00:00"
 }

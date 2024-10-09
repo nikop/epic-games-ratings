@@ -2,8 +2,8 @@
   "ID": "c0ec8837e5e248259075443e531da3ab",
   "Name": "Horizon Heat",
   "ProductSlug": "horizon-heat-688fde",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -35,5 +35,5 @@
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-06T11:57:12.6852406+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:30.2234816+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:02.0984556+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:05:07.6637847+00:00"
 }

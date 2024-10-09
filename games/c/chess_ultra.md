@@ -45,7 +45,7 @@ Rating: 4.29 (Ranked 1,047)
 | Tournament Pro | 0.10% | ~251 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 251,368 (Ranked 90)  
-Completed: 3 (0.00%) (Ranked 591)  
+Completed: 3 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

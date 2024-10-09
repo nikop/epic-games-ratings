@@ -47,7 +47,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Rogue's Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30,777 (Ranked 197)  
-Completed: 35 (0.11%) (Ranked 455)  
+Completed: 35 (0.11%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

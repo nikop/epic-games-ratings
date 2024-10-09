@@ -2,8 +2,8 @@
   "ID": "f8cdddb2e147402c89c8565a9276b148",
   "Name": "ZELENSTROY",
   "ProductSlug": "zelenstroy-b7bb69",
-  "Ranking_EOS_Progress": 1053,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1057,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -91,6 +91,6 @@
   "FirstSeenAchievements": "2024-09-14T14:15:06.8940878+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:06.8940794+00:00",
   "LastUpdate_AppInfo": "2024-10-09T17:57:23.730555+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:56.0920799+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:48.9319724+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:06.8949467+00:00"
 }

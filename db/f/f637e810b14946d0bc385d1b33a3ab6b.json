@@ -2,8 +2,8 @@
   "ID": "f637e810b14946d0bc385d1b33a3ab6b",
   "Name": "Space Will",
   "ProductSlug": "space-will-bfe98b",
-  "Ranking_EOS_Progress": 917,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 921,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -864,6 +864,6 @@
   "FirstSeenAchievements": "2024-08-09T18:06:49.7281211+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:31.8404316+00:00",
   "LastUpdate_AppInfo": "2024-10-02T22:56:53.7277678+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:55.7263513+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:48.6529897+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:31.8405201+00:00"
 }

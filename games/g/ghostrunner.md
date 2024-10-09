@@ -1,7 +1,7 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.56 (Ranked 581)  
+Rating: 4.56 (Ranked 582)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Up Close And Personal | 0.10% | ~2,491 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,491,050 (Ranked 7)  
-Completed: 790 (0.03%) (Ranked 521)  
+Completed: 790 (0.03%) (Ranked 525)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

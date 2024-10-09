@@ -34,7 +34,7 @@ Rating: 4.65 (Ranked 361)
 | Sleight of Hand | 3.00% | ~1,607 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 53,577 (Ranked 178)  
-Completed: 713 (1.33%) (Ranked 250)  
+Completed: 713 (1.33%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

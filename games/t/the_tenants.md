@@ -1,7 +1,7 @@
 # The Tenants
 [Store](https://store.epicgames.com/en-US/p/the-tenants)  
 [View Rawdata](../../db/t/the_tenants.json)  
-Rating: 4.54 (Ranked 631)  
+Rating: 4.54 (Ranked 632)  
 Number of Ratings: 82  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -18,6 +18,7 @@ Number of Ratings: 82  (23.09.2022)
 | Home, Sweet Home | 0.30% | ~30 |
 | Loaded | 0.30% | ~30 |
 | Lured In | 0.30% | ~30 |
+| Expert Renovator | 0.30% | ~30 |
 | Master Renovator | 0.30% | ~30 |
 | Treasure Hunter | 0.30% | ~30 |
 | Expert Agent | 0.20% | ~20 |
@@ -28,7 +29,7 @@ Number of Ratings: 82  (23.09.2022)
 | Millionaire | 0.20% | ~20 |
 | Mr Clean | 0.20% | ~20 |
 | Rat Race | 0.20% | ~20 |
-| Expert Renovator | 0.20% | ~20 |
+| Realtor | 0.20% | ~20 |
 | Run, Forrest, Run! | 0.20% | ~20 |
 | TGIF | 0.20% | ~20 |
 | The Aftershock | 0.20% | ~20 |
@@ -51,7 +52,6 @@ Number of Ratings: 82  (23.09.2022)
 | Passive Income | 0.10% | ~10 |
 | Petty Bickering | 0.10% | ~10 |
 | Privileged | 0.10% | ~10 |
-| Realtor | 0.10% | ~10 |
 | Master Realtor | 0.10% | ~10 |
 | Senpai | 0.10% | ~10 |
 | The More The Merrier | 0.10% | ~10 |
@@ -93,8 +93,8 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,865 (Ranked 253)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 9,871 (Ranked 254)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,6 +216,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-06-17 | 9,846 | 0 |
 | 2024-08-09 | 9,862 | 0 |
 | 2024-09-14 | 9,865 | 0 |
+| 2024-10-09 | 9,871 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

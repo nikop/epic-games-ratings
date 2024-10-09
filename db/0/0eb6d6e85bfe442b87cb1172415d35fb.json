@@ -2,8 +2,8 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 661,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 660,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -439,6 +439,11 @@
       "Time": "2024-09-14T14:21:35.650331+00:00",
       "NumProgressed": 132,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:04:20.6072588+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -457,7 +462,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 36
     },
@@ -467,7 +472,7 @@
       "Name": "Avian veterinarian",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "BehemothOfTheSkies",
@@ -491,7 +496,7 @@
       "Name": "Do a barrel roll!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FiveThousand",
@@ -515,7 +520,7 @@
       "Name": "Interim CEO",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "InternationalHub",
@@ -537,9 +542,9 @@
       "ID": "LifeAtApoapsis",
       "SetID": "d11cl5p",
       "Name": "Life at the lab",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "MrRobot",
@@ -561,7 +566,7 @@
       "ID": "NouveauRiche",
       "SetID": "d11cl5p",
       "Name": "Nouveau riche",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 22
     },
@@ -569,17 +574,17 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "OrACEO",
       "SetID": "d11cl5p",
       "Name": "Or\u2026 a CEO!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 14
     },
     {
       "ID": "Over9000",
@@ -593,15 +598,15 @@
       "ID": "QueenOfTheSkies",
       "SetID": "d11cl5p",
       "Name": "Queen of the skies",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 25,
       "UsersEstimate": 42
     },
@@ -635,29 +640,29 @@
       "Name": "Small airfield",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "TakeMeToYourHeaven",
       "SetID": "d11cl5p",
       "Name": "Take me to your heaven",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "TheAirportCEO",
       "SetID": "d11cl5p",
       "Name": "The Airport CEO",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -675,15 +680,15 @@
       "Name": "The luxury trap",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TheScientist",
       "SetID": "d11cl5p",
       "Name": "The scientist",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 12
     },
     {
       "ID": "ThereAndBackAgain",
@@ -705,7 +710,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -713,7 +718,7 @@
       "ID": "YoungSuccessfullEntrepreneur",
       "SetID": "d11cl5p",
       "Name": "Young successfull entrepreneur",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -722,14 +727,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:21:35.6503305+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:20.6072585+00:00",
   "LastUpdate_AppInfo": "2024-10-03T21:57:55.4294703+00:00",
-  "LastUpdate_Ratings": "2024-10-09T18:00:29.9678969+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:35.6503554+00:00"
+  "LastUpdate_Ratings": "2024-10-09T19:01:55.2401234+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:20.6072782+00:00"
 }

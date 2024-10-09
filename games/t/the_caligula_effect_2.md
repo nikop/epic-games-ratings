@@ -56,8 +56,8 @@ Number of Ratings: 32  (23.09.2022)
 | Heart of Gold | 1.00% | ~3 |
 | Topical Conversationalist | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 551)  
-Completed: 3 (1.01%) (Ranked 281)  
+Progressed: 298 (Ranked 553)  
+Completed: 3 (1.01%) (Ranked 282)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

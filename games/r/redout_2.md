@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.54 (Ranked 631)  
+Rating: 4.54 (Ranked 632)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,7 +59,7 @@ Rating: 4.54 (Ranked 631)
 | Great Start | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 156,622 (Ranked 114)  
-Completed: 0 (0.00%) (Ranked 591)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,8 +234,8 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 156,622 | 0 |
 ## Awards
 Max (Beautiful Visuals): 39  (Ranked 617)  
-Sum: 231 (Ranked 517)  
-Diff (max vs sum): 100  
+Sum: 231 (Ranked 516)  
+Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game has Beautiful Visuals | 39 |

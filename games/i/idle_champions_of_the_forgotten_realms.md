@@ -606,7 +606,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lawfulwork | 0.10% | ~328 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 361,905 (Ranked 78)  
-Completed: 3,344 (0.92%) (Ranked 294)  
+Completed: 3,344 (0.92%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -35,8 +35,8 @@
 | Backfired | 0.00% | ~0 |
 | The Great Gabber | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 866)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 31 (Ranked 870)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

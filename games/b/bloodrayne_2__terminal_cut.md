@@ -8,19 +8,19 @@
 | Amateur Electrician | 7.00% | ~1 |
 | Armed and Dangerous | 7.00% | ~1 |
 | CARNAGE | 7.00% | ~1 |
+| Deathtraps | 7.00% | ~1 |
 | Go for the Heart | 7.00% | ~1 |
 | Patricide | 7.00% | ~1 |
 | Tightrope | 7.00% | ~1 |
 | Zen Garden | 7.00% | ~1 |
 | Combat Specialist | 0.00% | ~0 |
-| Deathtraps | 0.00% | ~0 |
 | Executioner | 0.00% | ~0 |
 | Full Blooded Vampire | 0.00% | ~0 |
 | Nowhere you can hide | 0.00% | ~0 |
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 971)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 14 (Ranked 975)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

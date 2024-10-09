@@ -4,9 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Now It's Official! | 100.00% | ~3 |
-| Season Premiere | 67.00% | ~2 |
-| Group Kill | 33.00% | ~1 |
+| Now It's Official! | 75.00% | ~3 |
+| Season Premiere | 50.00% | ~2 |
+| Cry Me a River | 25.00% | ~1 |
+| Group Kill | 25.00% | ~1 |
 | Star | 0.00% | ~0 |
 | Superstar | 0.00% | ~0 |
 | Legend | 0.00% | ~0 |
@@ -14,7 +15,6 @@
 | Material Girl | 0.00% | ~0 |
 | I'm Your Biggest Fan | 0.00% | ~0 |
 | Baby, There's No Other Superstar | 0.00% | ~0 |
-| Cry Me a River | 0.00% | ~0 |
 | Cry Me a Riveeer | 0.00% | ~0 |
 | Murder, Inc. | 0.00% | ~0 |
 | Queen of the Kill | 0.00% | ~0 |
@@ -59,13 +59,14 @@
 | Laser Precision | 0.00% | ~0 |
 | Forced into Hiding | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 1,091)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 4 (Ranked 1,078)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-02 | 1 | 0 |
 | 2023-05-03 | 3 | 0 |
+| 2024-10-09 | 4 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,7 +26,7 @@
 | Faraway Frequencies | 3.00% | ~6,298 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 209,940 (Ranked 100)  
-Completed: 789 (0.38%) (Ranked 374)  
+Completed: 789 (0.38%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

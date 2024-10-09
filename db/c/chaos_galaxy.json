@@ -2,8 +2,8 @@
   "ID": "a657bc575c164ebf9380c00e2da4abbc",
   "Name": "Chaos Galaxy",
   "ProductSlug": "chaos-galaxy-a33dac",
-  "Ranking_EOS_Progress": 744,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 747,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -359,9 +359,9 @@
       "ID": "11",
       "SetID": "4fgie3j",
       "Name": "Assassination",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "12",
@@ -383,25 +383,25 @@
       "ID": "14",
       "SetID": "4fgie3j",
       "Name": "Punish Eastgalaxy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "15",
       "SetID": "4fgie3j",
       "Name": "Tyrant Rise",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "17",
@@ -415,9 +415,9 @@
       "ID": "18",
       "SetID": "4fgie3j",
       "Name": "Princess Crowned",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "19",
@@ -431,9 +431,9 @@
       "ID": "2",
       "SetID": "4fgie3j",
       "Name": "Secret War",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "20",
@@ -607,9 +607,9 @@
       "ID": "4",
       "SetID": "4fgie3j",
       "Name": "Investment",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "40",
@@ -695,9 +695,9 @@
       "ID": "6",
       "SetID": "4fgie3j",
       "Name": "Honor Medal",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "7",
@@ -734,8 +734,8 @@
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:07.5226359+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:03:15.425005+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:53.3208914+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:25.2251332+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:07.5226653+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:03:15.4250383+00:00"
 }

@@ -68,7 +68,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fighter in the Pond | 0.10% | ~100 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 790,667 (Ranked 29)  
-Completed: 13,242 (1.67%) (Ranked 226)  
+Completed: 13,242 (1.67%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -359,13 +359,13 @@ Completed: 13,242 (1.67%) (Ranked 226)
 | 2024-09-14 | 790,667 | 13,242 |
 ## Awards
 Max (Great Boss Battles): 8,570  (Ranked 70)  
-Sum: 14,910 (Ranked 97)  
+Sum: 14,911 (Ranked 97)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 8,570 |
 | This game has Diverse Characters | 920 |
-| This game has Challenging Combat | 845 |
+| This game has Challenging Combat | 846 |
 | This game is Highly Recommended | 798 |
 | This game has Unique Visuals | 777 |
 | This game has Amazing Characters | 774 |
@@ -1007,4 +1007,4 @@ Diff (max vs sum): -27
 | 2024-10-06 | 4.82 | - | 8,556 | 14,890 |
 | 2024-10-07 | 4.82 | - | 8,563 | 14,900 |
 | 2024-10-08 | 4.82 | - | 8,570 | 14,909 |
-| 2024-10-09 | 4.82 | - | 8,570 | 14,910 |
+| 2024-10-09 | 4.82 | - | 8,570 | 14,911 |

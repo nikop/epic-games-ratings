@@ -2,8 +2,8 @@
   "ID": "5ba511dbf4c840f79b97eb39f776ab93",
   "Name": "Adventures of Astronaut Max",
   "ProductSlug": "adventures-of-astronaut-max-d84ce0",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-13T18:58:15.320489+00:00",
   "LastUpdate_AppInfo": "2024-10-05T09:57:34.5526302+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:59:18.500148+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:00:57.6220575+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:06.5684265+00:00"
 }

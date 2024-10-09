@@ -51,7 +51,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Thoroughbred! | 0.10% | ~3,143 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,142,884 (Ranked 6)  
-Completed: 28 (0.00%) (Ranked 591)  
+Completed: 28 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

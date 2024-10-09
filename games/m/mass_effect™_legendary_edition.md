@@ -132,8 +132,8 @@
 | Neural Shock Specialist | 2.00% | ~164 |
 | The One and Only | 0.80% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,217 (Ranked 266)  
-Completed: 51 (0.62%) (Ranked 334)  
+Progressed: 8,217 (Ranked 267)  
+Completed: 51 (0.62%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

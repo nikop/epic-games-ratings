@@ -27,8 +27,8 @@
 | Daughter of Blood and Darkness | 5.00% | ~1 |
 | Evening Star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21 (Ranked 914)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 21 (Ranked 918)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "3ef48399a4044d9eb00beb44623fe5e5",
   "Name": "Thymesia",
   "ProductSlug": "thymesia-f4f399",
-  "Ranking_EOS_Progress": 808,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 810,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -362,6 +362,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:04.5681156+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:15.1064316+00:00",
   "LastUpdate_AppInfo": "2024-10-03T22:57:44.897559+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:58:08.3978243+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:59.8537394+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:15.106459+00:00"
 }

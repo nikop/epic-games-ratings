@@ -4,9 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Interstellar Archeologist | 14.00% | ~1 |
+| Welcome To Opis | 14.00% | ~1 |
 | Explorer | 0.00% | ~0 |
 | Collector | 0.00% | ~0 |
-| Interstellar Archeologist | 0.00% | ~0 |
 | Cadet Explorer | 0.00% | ~0 |
 | Converter | 0.00% | ~0 |
 | Locked up | 0.00% | ~0 |
@@ -20,16 +21,16 @@
 | The Sky's the ceiling! | 0.00% | ~0 |
 | Down the Rabbit hole | 0.00% | ~0 |
 | Get the hang of it | 0.00% | ~0 |
-| Welcome To Opis | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 1,038)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 7 (Ranked 1,036)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4 | 0 |
 | 2023-08-20 | 5 | 0 |
 | 2024-01-15 | 6 | 0 |
+| 2024-10-09 | 7 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

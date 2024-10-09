@@ -24,8 +24,8 @@
 | Graduated | 0.20% | ~1 |
 | "A+" Student | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 506)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 458 (Ranked 509)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

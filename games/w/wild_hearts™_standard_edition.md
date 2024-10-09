@@ -53,8 +53,8 @@
 | Bewitched by Bathing | 6.00% | ~119 |
 | Tsukumo Whisperer | 4.00% | ~80 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,988 (Ranked 369)  
-Completed: 12 (0.60%) (Ranked 339)  
+Progressed: 1,988 (Ranked 370)  
+Completed: 12 (0.60%) (Ranked 342)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

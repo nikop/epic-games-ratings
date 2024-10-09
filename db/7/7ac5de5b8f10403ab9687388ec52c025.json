@@ -2,8 +2,8 @@
   "ID": "7ac5de5b8f10403ab9687388ec52c025",
   "Name": "FIRE",
   "ProductSlug": "fire-f56ebf",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-09T08:57:13.5893763+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:03.3165938+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:11.7875496+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:39.8485845+00:00"
 }

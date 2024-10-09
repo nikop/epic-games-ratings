@@ -61,7 +61,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~1,134 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,133,688 (Ranked 22)  
-Completed: 265 (0.02%) (Ranked 536)  
+Completed: 265 (0.02%) (Ranked 540)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

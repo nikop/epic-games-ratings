@@ -22,7 +22,7 @@ Rating: 4.39 (Ranked 927)
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,022 (Ranked 239)  
-Completed: 0 (0.00%) (Ranked 591)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

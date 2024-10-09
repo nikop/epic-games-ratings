@@ -46,8 +46,8 @@ Rating: 4.78 (Ranked 130)
 | Necromancer | 0.50% | ~5 |
 | Hardboiled | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 921 (Ranked 429)  
-Completed: 1 (0.11%) (Ranked 455)  
+Progressed: 921 (Ranked 431)  
+Completed: 1 (0.11%) (Ranked 458)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

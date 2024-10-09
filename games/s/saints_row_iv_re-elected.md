@@ -79,7 +79,7 @@ Rating: 4.41 (Ranked 885)
 | Ultimate Hot Potato | 0.10% | ~456 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 455,759 (Ranked 63)  
-Completed: 20 (0.00%) (Ranked 591)  
+Completed: 20 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

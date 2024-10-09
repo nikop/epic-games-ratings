@@ -2,8 +2,8 @@
   "ID": "944bbd1268a54ff0a3f4942d00bc39d6",
   "Name": "Deathbound",
   "ProductSlug": "deathbound-1c300b",
-  "Ranking_EOS_Progress": 839,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -339,6 +339,6 @@
   "FirstSeenAchievements": "2024-07-30T16:02:18.5958701+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:27.4772645+00:00",
   "LastUpdate_AppInfo": "2024-10-03T17:57:22.5129733+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:45.9709603+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:40.1733571+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:27.4772898+00:00"
 }

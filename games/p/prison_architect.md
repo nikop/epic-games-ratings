@@ -24,7 +24,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | ... It's What You Can Prove | 0.10% | ~286 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 285,985 (Ranked 83)  
-Completed: 14 (0.00%) (Ranked 591)  
+Completed: 14 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -316,7 +316,7 @@ Completed: 14 (0.00%) (Ranked 591)
 | 2024-09-14 | 285,985 | 14 |
 ## Awards
 Max (Great for Beginners): 1,129  (Ranked 192)  
-Sum: 8,505 (Ranked 145)  
+Sum: 8,506 (Ranked 145)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -325,7 +325,7 @@ Diff (max vs sum): 47
 | This game is Extremely Fun | 1,005 |
 | This game has Diverse Characters | 992 |
 | This game is Highly Recommended | 983 |
-| This game has Quickly Understood Controls | 974 |
+| This game has Quickly Understood Controls | 975 |
 | This game has Amazing Storytelling | 899 |
 | This game has Amazing Characters | 815 |
 | This game has a Creative Community | 665 |
@@ -959,4 +959,4 @@ Diff (max vs sum): 47
 | 2024-10-06 | 4.61 | - | 1,121 | 8,477 |
 | 2024-10-07 | 4.61 | - | 1,124 | 8,483 |
 | 2024-10-08 | 4.61 | - | 1,128 | 8,496 |
-| 2024-10-09 | 4.61 | - | 1,129 | 8,505 |
+| 2024-10-09 | 4.61 | - | 1,129 | 8,506 |

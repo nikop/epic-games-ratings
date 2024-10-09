@@ -3,7 +3,7 @@
   "Name": "Saint Kotar",
   "ProductSlug": "saint-kotar-7f0c47",
   "Ranking_EOS_Progress": 842,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -99,6 +99,11 @@
       "Time": "2024-09-14T14:23:19.0180501+00:00",
       "NumProgressed": 37,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:04:41.5036279+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -124,33 +129,33 @@
       "ID": "Benedek_put_Kata_out_of_misery",
       "SetID": "4akddl8",
       "Name": "Put Kata out of Her Misery",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Mojse_an_ally",
       "SetID": "4akddl8",
       "Name": "Make the Prophet Your Ally",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Nikolay_one_eye_less",
       "SetID": "4akddl8",
       "Name": "Become a Half-Child",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "Ulric_painting_acquired",
       "SetID": "4akddl8",
       "Name": "Ulric\u0027s Painting Acquired",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Vilim_found_hanged_with_note",
@@ -164,9 +169,9 @@
       "ID": "all_slips_read_wall_of_laments",
       "SetID": "4akddl8",
       "Name": "The Wall of Laments",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "by_killing_Hem_you_saved_one_soul",
@@ -188,17 +193,17 @@
       "ID": "death_whistle_acquired",
       "SetID": "4akddl8",
       "Name": "Death Whistle",
-      "Percentage": 27,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "denouncement_declined_Ida",
       "SetID": "4akddl8",
       "Name": "Forgive Ida",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "denouncement_successful_Davor",
@@ -220,9 +225,9 @@
       "ID": "denouncement_successful_Kabeer",
       "SetID": "4akddl8",
       "Name": "Kabeer is Dead",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "eaten_by_food_man",
@@ -236,57 +241,57 @@
       "ID": "ended_bloodline_curse",
       "SetID": "4akddl8",
       "Name": "You Ended the Bloodline Curse!",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "finished_tutorial",
       "SetID": "4akddl8",
       "Name": "Finish the Tutorial",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "found_Put_leseva",
       "SetID": "4akddl8",
       "Name": "Find the Road of Cadavers",
-      "Percentage": 24,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "found_Ulric_portrait",
       "SetID": "4akddl8",
       "Name": "Found Ulric\u0027s Portrait",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "found_veil_of_Vera",
       "SetID": "4akddl8",
       "Name": "Veil of Vera",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "fulfilled_prophecy",
       "SetID": "4akddl8",
       "Name": "You Helped Fulfill the Prophecy",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "full_story_revealed",
       "SetID": "4akddl8",
       "Name": "Become the Hero of Sveti Kotar",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "got_into_watermill_with_death_whistle",
@@ -316,25 +321,25 @@
       "ID": "hidden_location_ida_mother_discovered",
       "SetID": "4akddl8",
       "Name": "Burial Mound",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "hidden_location_kabeer_catacomb_discovered",
       "SetID": "4akddl8",
       "Name": "A Catacomb",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "hidden_location_kotar_crypt_discovered",
       "SetID": "4akddl8",
       "Name": "The Crypt of Ivan Kotar",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "hidden_location_sanctuary_discovered",
@@ -364,9 +369,9 @@
       "ID": "incapacitated_Nikolay_with_death_whistle",
       "SetID": "4akddl8",
       "Name": "Incapacitated by the Death Whistle",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "infuriated_Elizabeta_bell_5_times",
@@ -380,9 +385,9 @@
       "ID": "learned_Goldins_fate",
       "SetID": "4akddl8",
       "Name": "Goldin\u0027s Fate",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "learned_about_warden_monstrosities",
@@ -396,41 +401,41 @@
       "ID": "learned_more_about_Kotar_and_lore_and_background_story",
       "SetID": "4akddl8",
       "Name": "Lore and Background Story",
-      "Percentage": 16,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "made_Nikolay_ponder_about_meaning_of_life",
       "SetID": "4akddl8",
       "Name": "The Meaning of Life",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "made_Nikolay_say_all_his_nonsense",
       "SetID": "4akddl8",
       "Name": "Nikolay\u0027s Nonsense",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "map_enabled_for_Benedek",
       "SetID": "4akddl8",
       "Name": "A Map for Benedek",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "map_enabled_for_Nikolay",
       "SetID": "4akddl8",
       "Name": "A Map for Nikolay",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "opened_passage_with_walking_stick",
@@ -444,32 +449,32 @@
       "ID": "that_is_really_Benedeks_sister",
       "SetID": "4akddl8",
       "Name": "That\u0027s Viktoria",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "you_decided_to_abandon_God",
       "SetID": "4akddl8",
       "Name": "You Abandoned God",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "you_decided_to_stay_with_God",
       "SetID": "4akddl8",
       "Name": "You Decided to Stay With God",
-      "Percentage": 11,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "4akddl8",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 0
     }
   ],
@@ -477,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:43.0246209+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.7285802+00:00",
   "LastChanged": "2023-03-31T05:58:43.024621+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:23:19.0180495+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:04:41.5036273+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:12.4872971+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:59.2947776+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:23:19.0180757+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:04:41.5036579+00:00"
 }

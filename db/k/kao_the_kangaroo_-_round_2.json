@@ -2,11 +2,11 @@
   "ID": "ba4d5efc4fa443769df759ee56c0c88e",
   "Name": "Kao the Kangaroo - Round 2",
   "ProductSlug": "kao-the-kangaroo-round-2-5d4d25",
-  "Ranking_Rating": 302,
+  "Ranking_Rating": 301,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -160,6 +160,6 @@
   "FirstSeenRating": "2022-11-11T08:58:40.4466787+00:00",
   "LastChanged": "2024-08-26T06:59:00.5802417+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:03.0977388+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:30.9631328+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:57.8362665+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:35.5128687+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:03:46.5289503+00:00"
 }

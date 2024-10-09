@@ -2,8 +2,8 @@
   "ID": "a3d0aa5c97ad41c6a4255e70174e6a64",
   "Name": null,
   "ProductSlug": "frostkit",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -29,5 +29,5 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-04T18:57:10.2347906+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:57:37.7489834+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:59:31.1698103+00:00"
 }

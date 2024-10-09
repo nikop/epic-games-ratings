@@ -2,8 +2,8 @@
   "ID": "a3def65eb16d4cc4993a7d7f626bc42f",
   "Name": "Ubersoldier",
   "ProductSlug": "ubersoldier-83a15a",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-02T22:57:36.2626838+00:00",
   "LastUpdate_AppInfo": "2024-10-05T16:57:27.0312515+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:57:56.1379596+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:48.3478382+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:02.0914089+00:00"
 }

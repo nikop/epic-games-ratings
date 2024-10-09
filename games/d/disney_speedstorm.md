@@ -31,7 +31,7 @@ Rating: 4.41 (Ranked 885)
 | ACE TRICKSTER | 0.90% | ~4,800 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 533,309 (Ranked 54)  
-Completed: 3,349 (0.63%) (Ranked 330)  
+Completed: 3,349 (0.63%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -317,17 +317,17 @@ Completed: 3,349 (0.63%) (Ranked 330)
 | 2024-09-14 | 533,309 | 3,349 |
 ## Awards
 Max (Great for Beginners): 690  (Ranked 243)  
-Sum: 4,642 (Ranked 189)  
+Sum: 4,652 (Ranked 189)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 690 |
 | This game is Great for Quick Sessions | 651 |
-| This game has Diverse Characters | 565 |
-| This game has Playful Visuals | 369 |
+| This game has Diverse Characters | 570 |
+| This game has Playful Visuals | 371 |
 | This game is Highly Recommended | 362 |
 | This game has a Competitive Community | 355 |
-| This game has Amazing Characters | 326 |
+| This game has Amazing Characters | 329 |
 | This game is Extremely Fun | 294 |
 | This game has Competitive Players | 279 |
 | This game has Amazing Storytelling | 257 |
@@ -710,4 +710,4 @@ Diff (max vs sum): 54
 | 2024-10-06 | 4.41 | 687 | 4,610 |
 | 2024-10-07 | 4.41 | 687 | 4,622 |
 | 2024-10-08 | 4.41 | 690 | 4,640 |
-| 2024-10-09 | 4.41 | 690 | 4,642 |
+| 2024-10-09 | 4.41 | 690 | 4,652 |

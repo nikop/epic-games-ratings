@@ -2,8 +2,8 @@
   "ID": "ad301bcb6ada429a8877384b65aff932",
   "Name": "Bewitched Part 1",
   "ProductSlug": "bewitched-part-1-8e6964",
-  "Ranking_EOS_Progress": 1110,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1098,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -25,7 +25,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -34,6 +34,11 @@
     {
       "Time": "2024-07-30T16:02:16.8215095+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:06:08.2840731+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -53,7 +58,7 @@
       "ID": "Close Encounters of the Fourth Type",
       "SetID": "cka3fpd",
       "Name": "Close Encounters of the Fourth Type",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -69,7 +74,7 @@
       "ID": "Deadly Hug",
       "SetID": "cka3fpd",
       "Name": "Deadly Hug",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -93,7 +98,7 @@
       "ID": "It Takes Two: Malicenta and my shadow",
       "SetID": "cka3fpd",
       "Name": "It Takes Two: Malicente and my shadow",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -190,14 +195,14 @@
     {
       "ID": "cka3fpd",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-09-23T02:09:16.3161572+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.8215407+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:25.5817878+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:06:08.2840727+00:00",
   "LastUpdate_AppInfo": "2024-10-05T11:57:10.5677881+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:59.1442217+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:25.5818003+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:06:08.2840846+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "b005ba75ad8d488c9d8be26cb04f18fc",
   "Name": "ATOMIC SHELTER",
   "ProductSlug": "atomic-shelter-9bf5c4",
-  "Ranking_EOS_Progress": 1155,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1164,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -166,6 +166,6 @@
   "FirstSeenAchievements": "2024-09-14T14:15:12.6760288+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:12.6760225+00:00",
   "LastUpdate_AppInfo": "2024-10-03T20:58:20.2147229+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:42.7242182+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:45.5783209+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:12.6766973+00:00"
 }

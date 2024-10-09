@@ -13,21 +13,21 @@
 | Armored | 30.00% | ~69 |
 | Amokuali Tower | 28.00% | ~64 |
 | Freedom | 27.00% | ~62 |
+| Winner | 24.00% | ~55 |
 | The Pride of Moozhaw | 23.00% | ~53 |
-| Winner | 23.00% | ~53 |
-| Omnia Vincit Amor | 22.00% | ~51 |
-| Stilt House | 16.00% | ~37 |
+| Omnia Vincit Amor | 23.00% | ~53 |
+| Stilt House | 17.00% | ~39 |
 | Corwid Hill | 13.00% | ~30 |
 | Armor Collector | 12.00% | ~28 |
 | Dreamwalker | 10.00% | ~23 |
-| Your Training Is Complete | 8.00% | ~18 |
+| Your Training Is Complete | 9.00% | ~21 |
 | Total Eclipse | 8.00% | ~18 |
-| Red in Tooth and Claw | 6.00% | ~14 |
-| Vivid Dreams | 2.00% | ~5 |
-| Broken Reflection | 1.00% | ~2 |
+| Red in Tooth and Claw | 7.00% | ~16 |
+| Vivid Dreams | 3.00% | ~7 |
+| Broken Reflection | 2.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 587)  
-Completed: 1 (0.43%) (Ranked 367)  
+Progressed: 230 (Ranked 589)  
+Completed: 2 (0.87%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -114,6 +114,7 @@ Completed: 1 (0.43%) (Ranked 367)
 | 2024-06-26 | 218 | 1 |
 | 2024-08-09 | 226 | 1 |
 | 2024-09-14 | 230 | 1 |
+| 2024-10-09 | 230 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

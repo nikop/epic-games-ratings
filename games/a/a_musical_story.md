@@ -59,8 +59,8 @@
 | Love is All | 1.00% | ~1 |
 | Stairway to Heaven | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 134 (Ranked 658)  
-Completed: 2 (1.49%) (Ranked 234)  
+Progressed: 134 (Ranked 662)  
+Completed: 2 (1.49%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

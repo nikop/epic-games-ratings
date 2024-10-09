@@ -2,8 +2,8 @@
   "ID": "f4bfcee7af9b46f182ac93bd01494595",
   "Name": "Horizon Zero Dawn\u2122 Remastered",
   "ProductSlug": "horizon-zero-dawn-remastered",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -29,7 +29,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "9iabado",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-10-09T19:01:58.1812262+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:01:58.1812087+00:00",
   "LastUpdate_AppInfo": "2024-10-03T15:57:06.7248358+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:33.3303685+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:29.3609576+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:01:58.1812278+00:00"
 }

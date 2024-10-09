@@ -2,8 +2,8 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 664,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 662,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 130,
+  "EOS_Progressed": 134,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -409,6 +409,11 @@
       "Time": "2024-09-14T14:24:29.1070789+00:00",
       "NumProgressed": 130,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:05:24.602565+00:00",
+      "NumProgressed": 134,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -419,15 +424,15 @@
       "ID": "apoland",
       "SetID": "d4692al",
       "Name": "Apocalypse Land",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "articland",
       "SetID": "d4692al",
       "Name": "Articland",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -443,17 +448,17 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "crazyCoaster",
@@ -467,7 +472,7 @@
       "ID": "crazyRide",
       "SetID": "d4692al",
       "Name": "Crazy Ride",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -483,17 +488,17 @@
       "ID": "decorated",
       "SetID": "d4692al",
       "Name": "Decorated",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "dining",
       "SetID": "d4692al",
       "Name": "Fine Dining",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "entertainment",
@@ -509,7 +514,7 @@
       "Name": "Experienced Contractor",
       "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "expanded",
@@ -523,7 +528,7 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 35
     },
@@ -563,15 +568,15 @@
       "ID": "mass",
       "SetID": "d4692al",
       "Name": "Mass Transportation",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 5
     },
     {
       "ID": "noSpaceWasted",
       "SetID": "d4692al",
       "Name": "No Space Wasted",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -579,9 +584,9 @@
       "ID": "researcher",
       "SetID": "d4692al",
       "Name": "Researcher",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "sandland",
@@ -589,7 +594,7 @@
       "Name": "Sandland",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "sight",
@@ -603,25 +608,25 @@
       "ID": "store",
       "SetID": "d4692al",
       "Name": "Luxurious Store",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 17
     },
     {
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 13
     },
     {
       "ID": "upgrades",
       "SetID": "d4692al",
       "Name": "Not enough upgrades",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "variety",
@@ -635,9 +640,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "visitorLife",
@@ -651,31 +656,31 @@
       "ID": "visitorSat",
       "SetID": "d4692al",
       "Name": "Visitor Satisfaction Wanted",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 9
     },
     {
       "ID": "wealthy",
       "SetID": "d4692al",
       "Name": "Wealthy",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 130,
+      "Progressed": 134,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:29.1070783+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:05:24.6025646+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:37.734023+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:03.4743351+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:29.1071006+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:58:03.2855457+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:05:24.6025843+00:00"
 }

@@ -42,7 +42,7 @@ Number of Ratings: 1,046,587  (23.09.2022)
 | Infallible | 0.50% | ~205,626 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41,125,112 (Ranked 1)  
-Completed: 58,880 (0.14%) (Ranked 441)  
+Completed: 58,880 (0.14%) (Ranked 444)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -333,7 +333,7 @@ Completed: 58,880 (0.14%) (Ranked 441)
 | 2024-09-14 | 41,125,112 | 58,880 |
 ## Awards
 Max (Great for Beginners): 168,043  (Ranked 8)  
-Sum: 1,482,327 (Ranked 5)  
+Sum: 1,482,353 (Ranked 5)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
@@ -347,7 +347,7 @@ Diff (max vs sum): 3
 | This game is Highly Recommended | 124,360 |
 | This game has Amazing Characters | 120,360 |
 | This game has Amazing Storytelling | 113,927 |
-| This game has Playful Visuals | 111,727 |
+| This game has Playful Visuals | 111,753 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -974,4 +974,4 @@ Diff (max vs sum): 3
 | 2024-10-06 | 4.50 | - | 167,934 | 1,481,610 |
 | 2024-10-07 | 4.50 | - | 167,977 | 1,481,892 |
 | 2024-10-08 | 4.50 | - | 168,043 | 1,482,201 |
-| 2024-10-09 | 4.50 | - | 168,043 | 1,482,327 |
+| 2024-10-09 | 4.50 | - | 168,043 | 1,482,353 |

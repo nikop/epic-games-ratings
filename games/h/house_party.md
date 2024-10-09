@@ -77,7 +77,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,333 (Ranked 258)  
-Completed: 3 (0.03%) (Ranked 521)  
+Completed: 3 (0.03%) (Ranked 525)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

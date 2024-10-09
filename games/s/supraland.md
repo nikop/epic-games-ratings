@@ -106,7 +106,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~761 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 760,808 (Ranked 31)  
-Completed: 879 (0.12%) (Ranked 450)  
+Completed: 879 (0.12%) (Ranked 453)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

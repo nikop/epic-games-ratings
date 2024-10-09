@@ -52,8 +52,8 @@ Rating: 4.37 (Ranked 953)
 | Room with a View | 8.00% | ~47 |
 | Work-life Balance | 3.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593 (Ranked 468)  
-Completed: 8 (1.35%) (Ranked 247)  
+Progressed: 593 (Ranked 471)  
+Completed: 8 (1.35%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

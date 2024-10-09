@@ -98,7 +98,7 @@
 | The day is saved! | 100.00% | ~1 |
 | Imma just hide in the corner | 100.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 1,155)  
+Progressed: 1 (Ranked 1,164)  
 Completed: 1 (100.00%) (Ranked 1)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -87,8 +87,8 @@
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 620)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 182 (Ranked 623)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

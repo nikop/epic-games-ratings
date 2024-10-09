@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 631)  
+Rating: 4.54 (Ranked 632)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -64,7 +64,7 @@ Rating: 4.54 (Ranked 631)
 | Wilhelm | 0.10% | ~356 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,030,222 (Ranked 24)  
-Completed: 3,158 (0.31%) (Ranked 389)  
+Completed: 3,158 (0.31%) (Ranked 391)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

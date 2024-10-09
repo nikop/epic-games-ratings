@@ -2,8 +2,8 @@
   "ID": "5830e39c9f3149cdaf4d6fcb4953273a",
   "Name": "Realm of Dread",
   "ProductSlug": "realm-of-dread-f0b020",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1118,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -23,26 +23,218 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-09T19:02:05.7808101+00:00",
+      "NumProgressed": 2,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2024-10-09T19:02:05.780818+00:00",
+  "TotalAchievements": 23,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_BETRAYELSTORY",
+      "SetID": "d2ee5ma",
+      "Name": "STORY OF BETRAYEL",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C1",
+      "SetID": "d2ee5ma",
+      "Name": "A NEW WORLD",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C2",
+      "SetID": "d2ee5ma",
+      "Name": "NOT A GOOD GUY",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C3",
+      "SetID": "d2ee5ma",
+      "Name": "ABANDONED",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C4",
+      "SetID": "d2ee5ma",
+      "Name": "CLAUSTROPHOBIA",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C5",
+      "SetID": "d2ee5ma",
+      "Name": "WILDERNESS",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C6",
+      "SetID": "d2ee5ma",
+      "Name": "DECAYED TOWN",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_C7",
+      "SetID": "d2ee5ma",
+      "Name": "IT NEVER ENDS",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CAMERA",
+      "SetID": "d2ee5ma",
+      "Name": "SMILE!",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_CAMP",
+      "SetID": "d2ee5ma",
+      "Name": "TRUE CAMPER",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_DEFEATBOSS",
+      "SetID": "d2ee5ma",
+      "Name": "SALVATION",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_EXPLORER",
+      "SetID": "d2ee5ma",
+      "Name": "EXPLORER",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_FLASHLIGHT",
+      "SetID": "d2ee5ma",
+      "Name": "LET THERE BE LIGHT",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_GASOLINE",
+      "SetID": "d2ee5ma",
+      "Name": "FUEL",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_MECHANIC",
+      "SetID": "d2ee5ma",
+      "Name": "MECHANIC",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_PISTOL",
+      "SetID": "d2ee5ma",
+      "Name": "A BULLET TO THE HEAD",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RATS",
+      "SetID": "d2ee5ma",
+      "Name": "EXTERMINATOR",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_RITUAL",
+      "SetID": "d2ee5ma",
+      "Name": "PRIEST",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SCORE",
+      "SetID": "d2ee5ma",
+      "Name": "SCORE!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_SIGNS",
+      "SetID": "d2ee5ma",
+      "Name": "SIGNS",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TEDDY",
+      "SetID": "d2ee5ma",
+      "Name": "LOST \u0026 FOUND",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_TREEHOUSE",
+      "SetID": "d2ee5ma",
+      "Name": "PLAYTHING",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_VILLAGE",
+      "SetID": "d2ee5ma",
+      "Name": "SURVIVOR",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "d2ee5ma",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-09-14T14:15:10.2760793+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:15:10.2760745+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:02:05.7808097+00:00",
   "LastUpdate_AppInfo": "2024-10-06T18:57:00.4685649+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:11.6762609+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:15:10.2760807+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:19.0462784+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:02:05.7816874+00:00"
 }

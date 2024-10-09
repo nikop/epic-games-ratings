@@ -2,8 +2,8 @@
   "ID": "6c215e03a0894bc0acf2ed206f2f2e89",
   "Name": "Tiny Witch",
   "ProductSlug": "tiny-witch-5d89db",
-  "Ranking_EOS_Progress": 917,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 921,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -208,6 +208,6 @@
   "FirstSeenAchievements": "2024-07-29T18:04:01.841684+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:35.6499623+00:00",
   "LastUpdate_AppInfo": "2024-10-07T19:57:15.7538447+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:44.1020866+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:38.5993262+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:35.6499744+00:00"
 }

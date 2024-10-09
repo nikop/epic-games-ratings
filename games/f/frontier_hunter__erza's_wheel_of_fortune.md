@@ -64,8 +64,8 @@ Rating: 4.48 (Ranked 759)
 | Alicia Challenge | 4.00% | ~9 |
 | Combo Master | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 581)  
-Completed: 1 (0.42%) (Ranked 370)  
+Progressed: 237 (Ranked 583)  
+Completed: 1 (0.42%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

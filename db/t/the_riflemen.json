@@ -2,11 +2,11 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 1004,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
   "Ranking_EOS_Progress": 123,
-  "Ranking_EOS_Completed": 85,
+  "Ranking_EOS_Completed": 87,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -539,11 +539,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134774,
+  "EOS_Progressed": 136161,
   "EOS_Completed": 11761,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.73,
+  "EOS_Completed_Percentage": 8.64,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -18504,6 +18504,11 @@
       "Time": "2024-09-14T14:19:58.4857689+00:00",
       "NumProgressed": 134774,
       "NumCompleted": 11761
+    },
+    {
+      "Time": "2024-10-09T19:03:46.9950376+00:00",
+      "NumProgressed": 136161,
+      "NumCompleted": 11761
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -18516,7 +18521,7 @@
       "Name": "Bazooka Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "firstMatch",
@@ -18524,7 +18529,7 @@
       "Name": "First blood",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 102428
+      "UsersEstimate": 103482
     },
     {
       "ID": "grenadeKills",
@@ -18532,7 +18537,7 @@
       "Name": "Grenade Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "headshots100",
@@ -18540,7 +18545,7 @@
       "Name": "Head popping I",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 6739
+      "UsersEstimate": 6808
     },
     {
       "ID": "headshots1000",
@@ -18548,7 +18553,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "headshots500",
@@ -18556,7 +18561,7 @@
       "Name": "Head popping II",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 404
+      "UsersEstimate": 408
     },
     {
       "ID": "knifeKills",
@@ -18564,7 +18569,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "matchesLost",
@@ -18572,7 +18577,7 @@
       "Name": "Hang in there",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 809
+      "UsersEstimate": 817
     },
     {
       "ID": "matchesWon",
@@ -18580,7 +18585,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2723
     },
     {
       "ID": "revengeMedal",
@@ -18588,7 +18593,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "rifleKills",
@@ -18596,7 +18601,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 943
+      "UsersEstimate": 953
     },
     {
       "ID": "shotgunKills",
@@ -18604,7 +18609,7 @@
       "Name": "Shotgun Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "sniperKills",
@@ -18612,7 +18617,7 @@
       "Name": "Sniper Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "swordKills",
@@ -18620,14 +18625,14 @@
       "Name": "Sword Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 134774,
+      "Progressed": 136161,
       "Completed": 11761
     }
   ],
@@ -18635,8 +18640,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-10-06T19:57:16.367731+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:58.4857683+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:03:46.9950371+00:00",
   "LastUpdate_AppInfo": "2024-10-06T23:57:06.9446933+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:57:41.3007268+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:58.4858781+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:59:34.6672716+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:03:46.9951448+00:00"
 }

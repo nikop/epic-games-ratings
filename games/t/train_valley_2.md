@@ -108,7 +108,7 @@ Number of Ratings: 87  (23.09.2022)
 | Exoplanetologist | 0.10% | ~464 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 464,954 (Ranked 62)  
-Completed: 37 (0.01%) (Ranked 559)  
+Completed: 37 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,8 +2,8 @@
   "ID": "04826f20ceb04ea0b4119ad49d6db976",
   "Name": "Kneedle Knight",
   "ProductSlug": "kneedle-knight-f3bbbb",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -45,6 +45,6 @@
   "FirstSeenAchievements": "2024-03-21T17:05:23.6390215+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:05.1097871+00:00",
   "LastUpdate_AppInfo": "2024-10-03T11:57:10.7819603+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:57:55.0048234+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:47.2782134+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:05.1097903+00:00"
 }

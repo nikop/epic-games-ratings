@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.56 (Ranked 581)  
+Rating: 4.56 (Ranked 582)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -59,8 +59,8 @@ Rating: 4.56 (Ranked 581)
 | Wildlife Protection | 0.80% | ~12 |
 | Going to Live Forever | 0.50% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,491 (Ranked 395)  
-Completed: 8 (0.54%) (Ranked 347)  
+Progressed: 1,491 (Ranked 396)  
+Completed: 8 (0.54%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

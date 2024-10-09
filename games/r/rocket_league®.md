@@ -96,7 +96,7 @@ Number of Ratings: 366,020  (23.09.2022)
 | Rocketeer | 0.10% | ~31,026 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31,025,971 (Ranked 2)  
-Completed: 3,514 (0.01%) (Ranked 559)  
+Completed: 3,514 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -387,7 +387,7 @@ Completed: 3,514 (0.01%) (Ranked 559)
 | 2024-09-14 | 31,025,971 | 3,514 |
 ## Awards
 Max (Great for Quick Sessions): 977,198  (Ranked 2)  
-Sum: 5,757,722 (Ranked 2)  
+Sum: 5,758,642 (Ranked 2)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -397,9 +397,9 @@ Diff (max vs sum): 0
 | This game is Highly Recommended | 701,583 |
 | This game has Challenging Combat | 687,386 |
 | This game has Amazing Storytelling | 622,349 |
-| This game has a Competitive Community | 597,153 |
+| This game has a Competitive Community | 597,565 |
 | This game has Quickly Understood Controls | 590,241 |
-| This game has Amazing Characters | 586,779 |
+| This game has Amazing Characters | 587,287 |
 | This game has Obsessive Gameplay | 167,946 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1029,4 +1029,4 @@ Diff (max vs sum): 0
 | 2024-10-06 | 4.43 | - | 975,105 | 5,744,305 |
 | 2024-10-07 | 4.43 | - | 975,919 | 5,749,248 |
 | 2024-10-08 | 4.43 | - | 976,505 | 5,753,729 |
-| 2024-10-09 | 4.43 | - | 977,198 | 5,757,722 |
+| 2024-10-09 | 4.43 | - | 977,198 | 5,758,642 |

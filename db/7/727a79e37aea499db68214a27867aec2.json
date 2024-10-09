@@ -2,8 +2,8 @@
   "ID": "727a79e37aea499db68214a27867aec2",
   "Name": "KurtzPel",
   "ProductSlug": "kurtzpel-fe28e8",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-11T08:58:42.2221917+00:00",
   "LastUpdate_AppInfo": "2024-10-09T07:57:14.6889696+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:58:07.6801247+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:59.2177098+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:13.3579686+00:00"
 }

@@ -2,8 +2,8 @@
   "ID": "3003b961602b4ecfa8dd7dd16a3646bc",
   "Name": "HORSE CLUB Adventures",
   "ProductSlug": "horse-club-adventures-19e7a0",
-  "Ranking_EOS_Progress": 665,
-  "Ranking_EOS_Completed": 309,
+  "Ranking_EOS_Progress": 668,
+  "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -698,6 +698,6 @@
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:10.6748592+00:00",
   "LastUpdate_AppInfo": "2024-10-08T03:57:16.6398338+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:44.806389+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:47.3719241+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:10.6748756+00:00"
 }

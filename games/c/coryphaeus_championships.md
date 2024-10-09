@@ -10,8 +10,8 @@
 | You are a true Pro! | 0.00% | ~0 |
 | YOU ARE A RECORD BREAKER! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 572)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 249 (Ranked 574)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

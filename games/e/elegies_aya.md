@@ -18,8 +18,8 @@
 | Never fade away | 0.00% | ~0 |
 | Thank you for playing! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 971)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 14 (Ranked 975)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

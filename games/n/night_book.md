@@ -22,8 +22,8 @@
 | Shady Truth | 6.00% | ~30 |
 | Hopeful | 5.00% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 497 (Ranked 489)  
-Completed: 12 (2.41%) (Ranked 207)  
+Progressed: 497 (Ranked 493)  
+Completed: 12 (2.41%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

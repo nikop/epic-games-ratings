@@ -2,6 +2,36 @@
 [Store](https://store.epicgames.com/en-US/p/witchfire-db273e)  
 [View Rawdata](../../db/w/witchfire.json)  
 Rating: 4.63 (Ranked 412)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| Research | 92.00% | ~8,250 |
+| Gnosis | 78.00% | ~6,994 |
+| Mirage | 69.00% | ~6,187 |
+| Arcana | 65.00% | ~5,829 |
+| Armamentarium | 64.00% | ~5,739 |
+| Lost and Found | 62.00% | ~5,560 |
+| Mysteria | 54.00% | ~4,842 |
+| Prophecy | 54.00% | ~4,842 |
+| Soul Sigil | 53.00% | ~4,753 |
+| Shieldbearer | 52.00% | ~4,663 |
+| Event | 47.00% | ~4,214 |
+| Vault Breaker | 33.00% | ~2,959 |
+| Cursed Chest | 32.00% | ~2,869 |
+| Faithful | 26.00% | ~2,331 |
+| Galley Slave | 19.00% | ~1,704 |
+| Gatekeeper | 19.00% | ~1,704 |
+| Mushrooms | 14.00% | ~1,255 |
+| Master Sentinel | 14.00% | ~1,255 |
+| Fallen Preyer | 13.00% | ~1,166 |
+| Prophet of the Whispering God | 7.00% | ~628 |
+## Popularity (Based on EOS Achievements)
+Progressed: 8,967 (Ranked 260)  
+Completed: 168 (1.87%) (Ranked 223)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2024-10-09 | 8,967 | 168 |
 ## Awards
 Max (Challenging Combat): 301  (Ranked 320)  
 Sum: 1,684 (Ranked 289)  

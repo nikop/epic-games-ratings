@@ -2,8 +2,8 @@
   "ID": "5c610ed6aec14085a604cb5e42e70ad4",
   "Name": "Ships At Sea",
   "ProductSlug": "ships-at-sea-e6d302",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-05-23T19:57:06.2079911+00:00",
   "LastUpdate_AppInfo": "2024-10-03T08:57:18.475947+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:18.6005958+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:08.5389254+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:39.9458684+00:00"
 }

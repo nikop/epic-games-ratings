@@ -2,8 +2,8 @@
   "ID": "4e2e4b7052de48e192361c7364b27bf0",
   "Name": "Runes of Mystery",
   "ProductSlug": "runes-of-mystery-44388a",
-  "Ranking_EOS_Progress": 653,
-  "Ranking_EOS_Completed": 320,
+  "Ranking_EOS_Progress": 656,
+  "Ranking_EOS_Completed": 322,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -99,6 +99,6 @@
   "FirstSeenAchievements": "2024-08-09T18:02:03.4889007+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:14.4946357+00:00",
   "LastUpdate_AppInfo": "2024-10-09T13:57:29.1907507+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:38.9346816+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:34.1571572+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:14.4946469+00:00"
 }

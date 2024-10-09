@@ -2,11 +2,11 @@
   "ID": "53b4ffb651f04ca0bbd47c310ad6efd8",
   "Name": "OpenSeason",
   "ProductSlug": "openseason-75e993",
-  "Ranking_Rating": 1066,
+  "Ranking_Rating": 1067,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -97,6 +97,6 @@
   "FirstSeenRating": "2024-09-18T10:57:52.8499105+00:00",
   "LastChanged": "2024-10-09T07:59:17.3256366+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:32.3793708+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:38.9779454+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:42.602058+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:43.2094515+00:00"
 }

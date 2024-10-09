@@ -72,7 +72,7 @@ Rating: 4.65 (Ranked 361)
 | I Aced It Without Even Trying! | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21,171 (Ranked 218)  
-Completed: 422 (1.99%) (Ranked 217)  
+Completed: 422 (1.99%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

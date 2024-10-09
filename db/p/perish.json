@@ -2,8 +2,8 @@
   "ID": "b589bb7fbc204ee59d363b9fb4ef0a41",
   "Name": "PERISH",
   "ProductSlug": "perish-390141",
-  "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -5615,6 +5615,6 @@
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:34.0269444+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:02.6960891+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:26.194659+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:31.4447604+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:34.0270064+00:00"
 }

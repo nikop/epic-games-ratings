@@ -2,8 +2,8 @@
   "ID": "4bc5b2dfad714b379462cbbc06ea94ca",
   "Name": "The Six Dragons",
   "ProductSlug": "the-six-dragons-6804c2",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-30T18:59:13.1042604+00:00",
   "LastUpdate_AppInfo": "2024-10-08T23:57:17.92714+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:23.9418213+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:13.2448183+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:14.3792335+00:00"
 }

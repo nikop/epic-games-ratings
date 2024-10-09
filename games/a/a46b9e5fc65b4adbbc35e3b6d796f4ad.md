@@ -24,8 +24,8 @@ Rating: 4.60 (Ranked 485)
 | Apex Overlord | 7.00% | ~64 |
 | The Gauntlet | 5.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909 (Ranked 430)  
-Completed: 28 (3.08%) (Ranked 184)  
+Progressed: 909 (Ranked 432)  
+Completed: 28 (3.08%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

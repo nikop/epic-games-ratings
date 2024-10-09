@@ -2,8 +2,8 @@
   "ID": "877493b28f0a4f319f76d77fd4932a6c",
   "Name": "Make It Stop!",
   "ProductSlug": "make-it-stop-ce2ab0",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-06T02:15:10.8876468+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:36.3027459+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:40.2110175+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:13.8762254+00:00"
 }

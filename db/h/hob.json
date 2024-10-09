@@ -2,11 +2,11 @@
   "ID": "e1067ce994e24a4abbe36247eaa26bfd",
   "Name": "Hob",
   "ProductSlug": "hob",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 559,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "NumberOfRatings": 466,
   "RatingHistory": [
     {
@@ -535,6 +535,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T18:57:23.535546+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -552,8 +558,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:19.3157268+00:00",
-  "LastChanged": "2024-10-08T18:01:01.9712325+00:00",
+  "LastChanged": "2024-10-09T18:57:23.5355458+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:20.3606262+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:16.8933129+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:23.5355466+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:44.0176925+00:00"
 }

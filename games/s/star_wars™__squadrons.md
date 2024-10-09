@@ -53,7 +53,7 @@
 | Ultimate Weapon | 0.10% | ~90 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 90,333 (Ranked 151)  
-Completed: 5 (0.01%) (Ranked 559)  
+Completed: 5 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

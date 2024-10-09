@@ -4,9 +4,9 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 739,
   "Ranking_Popularity": 397,
-  "Ranking_PopularitySum": 523,
+  "Ranking_PopularitySum": 522,
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -19798,6 +19798,6 @@
   "LastChanged": "2024-10-06T20:58:57.6194526+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:07.7495183+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:36.3465404+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:42.8670341+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:37.5133233+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:07.7496228+00:00"
 }

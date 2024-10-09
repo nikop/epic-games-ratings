@@ -1,7 +1,7 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 631)  
+Rating: 4.54 (Ranked 632)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.80% | ~10 |
 | Trans-Siberian Express | 0.80% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,238 (Ranked 404)  
-Completed: 5 (0.40%) (Ranked 373)  
+Progressed: 1,238 (Ranked 405)  
+Completed: 5 (0.40%) (Ranked 375)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

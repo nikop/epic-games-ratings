@@ -42,8 +42,8 @@ Rating: 3.05 (Ranked 1,325)
 | Rule them all! | 0.10% | ~1 |
 | How Did You Do That? | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,205 (Ranked 406)  
-Completed: 1 (0.08%) (Ranked 468)  
+Progressed: 1,205 (Ranked 408)  
+Completed: 1 (0.08%) (Ranked 471)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

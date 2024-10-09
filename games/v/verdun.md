@@ -67,7 +67,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Blood Brother | 0.10% | ~84 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 84,039 (Ranked 157)  
-Completed: 1 (0.00%) (Ranked 591)  
+Completed: 1 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -360,8 +360,8 @@ Completed: 1 (0.00%) (Ranked 591)
 | 2024-09-14 | 84,039 | 1 |
 ## Awards
 Max (Highly Recommended): 128  (Ranked 443)  
-Sum: 1,172 (Ranked 318)  
-Diff (max vs sum): 125  
+Sum: 1,172 (Ranked 319)  
+Diff (max vs sum): 124  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 134 |

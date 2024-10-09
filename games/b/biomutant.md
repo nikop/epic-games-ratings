@@ -1,7 +1,7 @@
 # BIOMUTANT
 [Store](https://store.epicgames.com/en-US/p/biomutant)  
 [View Rawdata](../../db/b/biomutant.json)  
-Rating: 4.33 (Ranked 1,004)  
+Rating: 4.33 (Ranked 1,003)  
 Number of Ratings: 198  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,8 +53,8 @@ Number of Ratings: 198  (23.09.2022)
 | Angler | 0.10% | ~4 |
 | Quack | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,981 (Ranked 309)  
-Completed: 1 (0.03%) (Ranked 521)  
+Progressed: 3,981 (Ranked 310)  
+Completed: 1 (0.03%) (Ranked 525)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,8 +65,8 @@ Completed: 1 (0.03%) (Ranked 521)
 | 2024-09-14 | 3,981 | 1 |
 ## Awards
 Max (Character Customization): 156  (Ranked 410)  
-Sum: 214 (Ranked 532)  
-Diff (max vs sum): -122  
+Sum: 214 (Ranked 531)  
+Diff (max vs sum): -121  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 156 |

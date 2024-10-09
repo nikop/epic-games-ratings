@@ -2,8 +2,8 @@
   "ID": "0e99a89594bc46d9a1aa600264b821e8",
   "Name": "Welcome to Empyreum",
   "ProductSlug": "welcome-to-empyreum-f29a56",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1057,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -25,12 +25,18 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
+  "EosHistory": [
+    {
+      "Time": "2024-10-09T19:06:21.6860005+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
+    }
+  ],
   "AchievementsAdded": "2024-07-30T16:02:35.7426829+00:00",
   "TotalAchievements": 36,
   "TotalAchievementsXP": 1000,
@@ -39,25 +45,25 @@
       "ID": "1",
       "SetID": "6k6c6l0",
       "Name": "Back to school",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "10",
       "SetID": "6k6c6l0",
       "Name": "Boss Baby",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "11",
       "SetID": "6k6c6l0",
       "Name": "Happy ever after",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "12",
@@ -127,17 +133,17 @@
       "ID": "2",
       "SetID": "6k6c6l0",
       "Name": "The Garden of Earthly Delights",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "20",
       "SetID": "6k6c6l0",
       "Name": "Welcome to Empyreum",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "21",
@@ -223,17 +229,17 @@
       "ID": "30",
       "SetID": "6k6c6l0",
       "Name": "Caution, wet floor!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "31",
       "SetID": "6k6c6l0",
       "Name": "Clean sheets",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "32",
@@ -328,14 +334,14 @@
     {
       "ID": "6k6c6l0",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-10-06T09:57:39.5479166+00:00",
   "FirstSeenAchievements": "2024-06-17T16:08:24.7750753+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:27:46.7251993+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:06:21.6859998+00:00",
   "LastUpdate_AppInfo": "2024-10-03T08:57:19.3819231+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:57:29.067195+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:27:46.7252226+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:59:23.0101905+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:06:21.6860337+00:00"
 }

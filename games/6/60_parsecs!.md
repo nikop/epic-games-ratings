@@ -4,53 +4,53 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,932 |
-| Space Colonization | 80.00% | ~1,610 |
-| Friendzone | 79.00% | ~1,589 |
-| Hello World | 73.00% | ~1,469 |
-| Tinkerer | 62.00% | ~1,247 |
-| Space Engineer | 61.00% | ~1,227 |
-| Dust to Dust | 58.00% | ~1,167 |
-| Across The Stars | 46.00% | ~926 |
-| Crafty | 45.00% | ~905 |
-| All Seats Taken | 39.00% | ~785 |
-| Meet the Petersons | 33.00% | ~664 |
-| For Science! | 32.00% | ~644 |
-| KIA | 29.00% | ~583 |
-| Stay Cool | 28.00% | ~563 |
-| Mutiny in making | 25.00% | ~503 |
-| Eco-Shuttle | 20.00% | ~402 |
-| Et tu, Astrocitizen? | 20.00% | ~402 |
-| Space Explorer | 17.00% | ~342 |
-| Hands Full | 13.00% | ~262 |
-| Non-Fiction | 11.00% | ~221 |
-| Gold Medalist | 10.00% | ~201 |
-| Intergalactic Breakup | 8.00% | ~161 |
-| No Man Left Behind | 8.00% | ~161 |
-| Second Life | 8.00% | ~161 |
-| First of April | 7.00% | ~141 |
-| Fix-It Felix | 7.00% | ~141 |
-| Axel jump in space! | 6.00% | ~121 |
-| Flawless Maegangement | 6.00% | ~121 |
-| Extreme Makeover | 4.00% | ~80 |
-| The Improvinator | 4.00% | ~80 |
-| The Last Supper | 4.00% | ~80 |
-| 2018: A Soup Odyssey | 3.00% | ~60 |
+| Don't Panic! | 96.00% | ~1,968 |
+| Space Colonization | 80.00% | ~1,640 |
+| Friendzone | 79.00% | ~1,620 |
+| Hello World | 73.00% | ~1,496 |
+| Tinkerer | 63.00% | ~1,292 |
+| Space Engineer | 61.00% | ~1,250 |
+| Dust to Dust | 58.00% | ~1,189 |
+| Across The Stars | 46.00% | ~943 |
+| Crafty | 45.00% | ~922 |
+| All Seats Taken | 38.00% | ~779 |
+| Meet the Petersons | 33.00% | ~676 |
+| For Science! | 32.00% | ~656 |
+| KIA | 29.00% | ~594 |
+| Stay Cool | 28.00% | ~574 |
+| Mutiny in making | 24.00% | ~492 |
+| Eco-Shuttle | 20.00% | ~410 |
+| Et tu, Astrocitizen? | 20.00% | ~410 |
+| Space Explorer | 17.00% | ~348 |
+| Hands Full | 13.00% | ~266 |
+| Gold Medalist | 11.00% | ~226 |
+| Non-Fiction | 11.00% | ~226 |
+| First of April | 8.00% | ~164 |
+| Intergalactic Breakup | 8.00% | ~164 |
+| No Man Left Behind | 8.00% | ~164 |
+| Second Life | 8.00% | ~164 |
+| Fix-It Felix | 7.00% | ~144 |
+| Axel jump in space! | 6.00% | ~123 |
+| Flawless Maegangement | 6.00% | ~123 |
+| Extreme Makeover | 4.00% | ~82 |
+| The Last Supper | 4.00% | ~82 |
+| The Improvinator | 3.00% | ~62 |
+| 2018: A Soup Odyssey | 3.00% | ~62 |
 | Bovine Domain | 1.00% | ~20 |
 | Feels like home | 1.00% | ~20 |
 | That's No Moon! | 1.00% | ~20 |
 | No Ticket | 0.90% | ~18 |
 | AAARGH! | 0.80% | ~16 |
+| Bingpot! | 0.70% | ~14 |
 | Space Selfie | 0.70% | ~14 |
-| Bingpot! | 0.60% | ~12 |
 | Small Step | 0.40% | ~8 |
 | Unidentified Flying Offspring | 0.10% | ~2 |
 | Liberté, Égalité, Félinité | 0.10% | ~2 |
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,012 (Ranked 366)  
-Completed: 1 (0.05%) (Ranked 497)  
+Progressed: 2,050 (Ranked 364)  
+Completed: 1 (0.05%) (Ranked 501)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -222,6 +222,7 @@ Completed: 1 (0.05%) (Ranked 497)
 | 2024-06-17 | 1,945 | 1 |
 | 2024-08-09 | 1,984 | 1 |
 | 2024-09-14 | 2,012 | 1 |
+| 2024-10-09 | 2,050 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

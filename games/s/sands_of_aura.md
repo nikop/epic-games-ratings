@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 91.00% | ~249 |
-| Advanced Armaments | 13.00% | ~36 |
-| Dousing a Venerable Flame | 12.00% | ~33 |
-| A Small Thirsty Thing | 11.00% | ~30 |
-| Spirit Within | 11.00% | ~30 |
+| Setting Sail | 91.00% | ~258 |
+| Dousing a Venerable Flame | 12.00% | ~34 |
+| Advanced Armaments | 12.00% | ~34 |
+| A Small Thirsty Thing | 11.00% | ~31 |
+| Spirit Within | 11.00% | ~31 |
 | Overboard | 9.00% | ~25 |
 | Bladesmith | 9.00% | ~25 |
 | Leisis Bless You | 9.00% | ~25 |
-| Rain Must Fall | 8.00% | ~22 |
-| The River Styx | 8.00% | ~22 |
-| The Guardian of Fire | 8.00% | ~22 |
-| Sovereignty of Irons | 8.00% | ~22 |
-| Explorer | 7.00% | ~19 |
-| Twin Thorns | 7.00% | ~19 |
-| Let Me Solo Them | 6.00% | ~16 |
+| Rain Must Fall | 8.00% | ~23 |
+| The Guardian of Fire | 8.00% | ~23 |
+| Explorer | 7.00% | ~20 |
+| The River Styx | 7.00% | ~20 |
+| Sovereignty of Irons | 7.00% | ~20 |
+| Let Me Solo Them | 6.00% | ~17 |
+| Twin Thorns | 6.00% | ~17 |
 | Sommelier | 5.00% | ~14 |
 | A Sandwyrm's Hoard | 5.00% | ~14 |
 | Frigid Winds | 4.00% | ~11 |
 | Missing Melodies | 3.00% | ~8 |
-| Transformative Nature | 2.00% | ~5 |
+| Transformative Nature | 2.00% | ~6 |
 | Pommelsmith | 1.00% | ~3 |
 | Redeemer | 1.00% | ~3 |
 | Smotherly Love | 1.00% | ~3 |
@@ -63,8 +63,8 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 563)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 283 (Ranked 560)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 259 | 0 |
 | 2024-08-20 | 266 | 0 |
 | 2024-09-14 | 274 | 0 |
+| 2024-10-09 | 283 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

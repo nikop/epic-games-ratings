@@ -2,8 +2,8 @@
   "ID": "1e4df99c0f534878a737ff8ada9c0fc6",
   "Name": "Peggle Nights",
   "ProductSlug": "peggle-nights-c10dc6",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-06-02T10:59:50.7185765+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:36.669785+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:36.0386961+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:40.0749902+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:45.4446935+00:00"
 }

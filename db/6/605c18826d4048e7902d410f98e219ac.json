@@ -2,8 +2,8 @@
   "ID": "605c18826d4048e7902d410f98e219ac",
   "Name": "Calamity",
   "ProductSlug": "calamity-3cb31b",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-08T13:14:06.0241712+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:41.6433364+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:44.836553+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:03.4647101+00:00"
 }

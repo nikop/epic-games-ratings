@@ -20,7 +20,7 @@ Rating: 4.40 (Ranked 906)
 | Reunion | 21.00% | ~1,410 |
 | Dog Person | 19.00% | ~1,276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,716 (Ranked 278)  
+Progressed: 6,716 (Ranked 279)  
 Completed: 251 (3.74%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |

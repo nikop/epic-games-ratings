@@ -2,8 +2,8 @@
   "ID": "b9e6e3d5a4474a8ead248c62bfdf08b7",
   "Name": "Witch It",
   "ProductSlug": "witch-it-3624a9",
-  "Ranking_EOS_Progress": 458,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -406,6 +406,6 @@
   "FirstSeenAchievements": "2024-04-10T06:01:56.8110183+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:02.4637457+00:00",
   "LastUpdate_AppInfo": "2024-10-09T10:57:29.5406704+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:59:01.5786008+00:00",
+  "LastUpdate_Ratings": "2024-10-09T19:00:43.7649682+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:02.4637733+00:00"
 }

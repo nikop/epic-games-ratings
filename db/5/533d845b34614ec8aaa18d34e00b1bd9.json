@@ -2,8 +2,8 @@
   "ID": "533d845b34614ec8aaa18d34e00b1bd9",
   "Name": "Jetsoccer",
   "ProductSlug": "jetsoccer-5d4ea6",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,6 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-08T20:57:07.5622949+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:58:01.5372255+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:53.5557941+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:06.2217374+00:00"
 }

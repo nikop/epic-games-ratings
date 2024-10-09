@@ -72,8 +72,8 @@ Rating: 4.48 (Ranked 759)
 | The last bell ring | 25.00% | ~224 |
 | Your own way | 25.00% | ~224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895 (Ranked 433)  
-Completed: 17 (1.90%) (Ranked 219)  
+Progressed: 895 (Ranked 435)  
+Completed: 17 (1.90%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

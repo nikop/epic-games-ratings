@@ -5,43 +5,43 @@ Rating: 4.44 (Ranked 832)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~64,171 |
-| This is only the beginning | 20.00% | ~49,362 |
-| Knowledge is power | 13.00% | ~32,085 |
-| Power Ranger | 10.00% | ~24,681 |
-| Galvanic Rifle | 10.00% | ~24,681 |
-| Taser Goad | 10.00% | ~24,681 |
-| Radium Ready | 10.00% | ~24,681 |
-| Half a cog | 10.00% | ~24,681 |
-| Watch them crumble | 6.00% | ~14,809 |
-| Competent Cohort | 4.00% | ~9,872 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,872 |
-| One with the Machine | 4.00% | ~9,872 |
-| Legio Cybernetica | 3.00% | ~7,404 |
-| Fleshy Disposal | 3.00% | ~7,404 |
-| Battle Servitor | 2.00% | ~4,936 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,936 |
-| Impatient destruction | 2.00% | ~4,936 |
-| Vivisected Vizier | 2.00% | ~4,936 |
-| Architect Abortion | 2.00% | ~4,936 |
-| Cohortus Maximus | 0.90% | ~2,221 |
-| Mother of Xenarites | 0.50% | ~1,234 |
-| False God | 0.40% | ~987 |
-| Hard | 0.30% | ~740 |
-| Sensory overload | 0.20% | ~494 |
-| Transonic Blur | 0.20% | ~494 |
-| Not the Men-of-Iron | 0.20% | ~494 |
-| Sterile Perfection | 0.10% | ~247 |
-| Impossible | 0.10% | ~247 |
-| Melee Machine | 0.10% | ~247 |
-| AoE-phobia | 0.10% | ~247 |
-| Zero to Hero | 0.10% | ~247 |
-| No Omnissian Guidance | 0.10% | ~247 |
-| Perma-live | 0.10% | ~247 |
-| Purge the Heretek | 0.10% | ~247 |
+| No aid from the Omnissiah | 26.00% | ~64,816 |
+| This is only the beginning | 20.00% | ~49,859 |
+| Knowledge is power | 13.00% | ~32,408 |
+| Power Ranger | 10.00% | ~24,929 |
+| Galvanic Rifle | 10.00% | ~24,929 |
+| Taser Goad | 10.00% | ~24,929 |
+| Radium Ready | 10.00% | ~24,929 |
+| Half a cog | 10.00% | ~24,929 |
+| Watch them crumble | 6.00% | ~14,958 |
+| Competent Cohort | 4.00% | ~9,972 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,972 |
+| One with the Machine | 4.00% | ~9,972 |
+| Legio Cybernetica | 3.00% | ~7,479 |
+| Fleshy Disposal | 3.00% | ~7,479 |
+| Architect Abortion | 3.00% | ~7,479 |
+| Battle Servitor | 2.00% | ~4,986 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,986 |
+| Impatient destruction | 2.00% | ~4,986 |
+| Vivisected Vizier | 2.00% | ~4,986 |
+| Cohortus Maximus | 0.90% | ~2,244 |
+| Mother of Xenarites | 0.50% | ~1,246 |
+| False God | 0.40% | ~997 |
+| Hard | 0.30% | ~748 |
+| Sensory overload | 0.20% | ~499 |
+| Transonic Blur | 0.20% | ~499 |
+| Not the Men-of-Iron | 0.20% | ~499 |
+| Sterile Perfection | 0.10% | ~249 |
+| Impossible | 0.10% | ~249 |
+| Melee Machine | 0.10% | ~249 |
+| AoE-phobia | 0.10% | ~249 |
+| Zero to Hero | 0.10% | ~249 |
+| No Omnissian Guidance | 0.10% | ~249 |
+| Perma-live | 0.10% | ~249 |
+| Purge the Heretek | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246,811 (Ranked 93)  
-Completed: 8 (0.00%) (Ranked 591)  
+Progressed: 249,294 (Ranked 92)  
+Completed: 11 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -330,6 +330,7 @@ Completed: 8 (0.00%) (Ranked 591)
 | 2024-08-09 | 244,566 | 8 |
 | 2024-08-20 | 245,079 | 8 |
 | 2024-09-14 | 246,811 | 8 |
+| 2024-10-09 | 249,294 | 11 |
 ## Awards
 Max (Highly Recommended): 315  (Ranked 315)  
 Sum: 2,414 (Ranked 246)  

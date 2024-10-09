@@ -61,7 +61,7 @@ Rating: 4.83 (Ranked 65)
 | So Aerodynamic | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 310,287 (Ranked 82)  
-Completed: 1,168 (0.38%) (Ranked 374)  
+Completed: 1,168 (0.38%) (Ranked 376)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

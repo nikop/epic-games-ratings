@@ -51,7 +51,7 @@ Number of Ratings: 721  (23.09.2022)
 | BFA | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,347 (Ranked 249)  
-Completed: 0 (0.00%) (Ranked 591)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -72,8 +72,8 @@ Rating: 4.41 (Ranked 885)
 | Hotel Transylvania | 0.10% | ~1 |
 | A/C you like it | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,327 (Ranked 323)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 3,327 (Ranked 324)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,12 +334,12 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-09-14 | 3,327 | 0 |
 ## Awards
 Max (Great for Beginners): 37  (Ranked 628)  
-Sum: 59 (Ranked 638)  
-Diff (max vs sum): -10  
+Sum: 60 (Ranked 637)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 37 |
-| This game is Highly Recommended | 22 |
+| This game is Highly Recommended | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -452,3 +452,4 @@ Diff (max vs sum): -10
 | 2024-10-05 | 4.41 | 35 | 57 |
 | 2024-10-07 | 4.41 | 36 | 58 |
 | 2024-10-08 | 4.41 | 37 | 59 |
+| 2024-10-09 | 4.41 | 37 | 60 |

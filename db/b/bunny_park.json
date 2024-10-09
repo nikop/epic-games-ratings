@@ -2,8 +2,8 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 534,
-  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_Progress": 537,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 348,
+  "EOS_Progressed": 350,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -285,6 +285,11 @@
       "Time": "2024-09-14T14:24:55.8128382+00:00",
       "NumProgressed": 348,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-10-09T19:05:41.3841223+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 18,
@@ -296,7 +301,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 338
+      "UsersEstimate": 340
     },
     {
       "ID": "BP-02",
@@ -312,15 +317,15 @@
       "Name": "Bunny Fluffle",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "BP-04",
       "SetID": "7fc93f2",
       "Name": "Debris Finder",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 285
+      "UsersEstimate": 290
     },
     {
       "ID": "BP-05",
@@ -328,7 +333,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "BP-06",
@@ -344,7 +349,7 @@
       "Name": "Beginner Decorator",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "BP-08",
@@ -408,7 +413,7 @@
       "Name": "Helpful Bot-terfly",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "BP-16",
@@ -424,7 +429,7 @@
       "Name": "Quack quack",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BP-18",
@@ -439,7 +444,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 348,
+      "Progressed": 350,
       "Completed": 11
     }
   ],
@@ -447,8 +452,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:24:55.8128376+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:05:41.3841217+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:56:59.9816985+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:58:41.9904185+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:24:55.8128509+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:05:41.3841368+00:00"
 }

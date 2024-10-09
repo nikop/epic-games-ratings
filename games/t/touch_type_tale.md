@@ -39,8 +39,8 @@ Rating: 4.71 (Ranked 230)
 | Untouchable | 1.00% | ~47 |
 | All Geared Up | 0.90% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,728 (Ranked 298)  
-Completed: 16 (0.34%) (Ranked 381)  
+Progressed: 4,728 (Ranked 300)  
+Completed: 16 (0.34%) (Ranked 384)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

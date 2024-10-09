@@ -2,8 +2,8 @@
   "ID": "b7bbf67ea0af46e995f60d4226330c3d",
   "Name": "Tower Defense: Goblin Wars",
   "ProductSlug": "tower-defense-goblin-wars-afad66",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -34,5 +34,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-10-03T13:14:37.6421749+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:58:07.3726924+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:59:58.9079633+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:01:57.8315956+00:00"
 }

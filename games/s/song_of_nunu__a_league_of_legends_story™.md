@@ -50,8 +50,8 @@ Rating: 4.52 (Ranked 673)
 | Sneaky Notai | 1.00% | ~23 |
 | We Are Speed | 1.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,253 (Ranked 356)  
-Completed: 14 (0.62%) (Ranked 334)  
+Progressed: 2,253 (Ranked 357)  
+Completed: 14 (0.62%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

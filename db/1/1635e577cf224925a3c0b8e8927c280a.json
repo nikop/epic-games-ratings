@@ -2,8 +2,8 @@
   "ID": "1635e577cf224925a3c0b8e8927c280a",
   "Name": "Shadow of the matrix",
   "ProductSlug": "shadow-of-the-matri-ab375a",
-  "Ranking_EOS_Progress": 858,
-  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_Progress": 863,
+  "Ranking_EOS_Completed": 80,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -91,6 +91,6 @@
   "FirstSeenAchievements": "2024-09-14T14:15:07.9770594+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:07.9770534+00:00",
   "LastUpdate_AppInfo": "2024-10-07T11:57:09.3229657+00:00",
-  "LastUpdate_Ratings": "2024-10-09T17:00:17.3592616+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:59:07.4952249+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:07.9777764+00:00"
 }

@@ -53,7 +53,7 @@ Number of Ratings: 281  (23.09.2022)
 | Club Crawl | 0.10% | ~949 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 949,474 (Ranked 25)  
-Completed: 78 (0.01%) (Ranked 559)  
+Completed: 78 (0.01%) (Ranked 563)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

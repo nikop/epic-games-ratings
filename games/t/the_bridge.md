@@ -5,29 +5,29 @@ Rating: 4.20 (Ranked 1,140)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Thinker | 43.00% | ~77,487 |
-| Academic | 20.00% | ~36,040 |
-| Scholar | 11.00% | ~19,822 |
-| Aftermath-Inverter | 8.00% | ~14,416 |
-| Runner | 4.00% | ~7,208 |
-| Bridgewalker | 2.00% | ~3,604 |
-| Challenger | 2.00% | ~3,604 |
-| Plummeter | 2.00% | ~3,604 |
-| Catcher | 1.00% | ~1,802 |
-| Corridor-Inverter | 1.00% | ~1,802 |
-| Heretic | 1.00% | ~1,802 |
-| Outcast | 0.70% | ~1,261 |
-| Hermit | 0.60% | ~1,081 |
-| Refrainer | 0.50% | ~901 |
-| Genius | 0.40% | ~721 |
-| Visionary | 0.40% | ~721 |
-| Whisperer | 0.40% | ~721 |
-| Slider | 0.30% | ~541 |
-| Collector | 0.20% | ~360 |
-| Garden-Inverter | 0.20% | ~360 |
+| Thinker | 43.00% | ~78,449 |
+| Academic | 20.00% | ~36,488 |
+| Scholar | 11.00% | ~20,068 |
+| Aftermath-Inverter | 8.00% | ~14,595 |
+| Runner | 4.00% | ~7,298 |
+| Bridgewalker | 2.00% | ~3,649 |
+| Challenger | 2.00% | ~3,649 |
+| Plummeter | 2.00% | ~3,649 |
+| Catcher | 1.00% | ~1,824 |
+| Corridor-Inverter | 1.00% | ~1,824 |
+| Heretic | 1.00% | ~1,824 |
+| Outcast | 0.70% | ~1,277 |
+| Hermit | 0.60% | ~1,095 |
+| Refrainer | 0.50% | ~912 |
+| Genius | 0.40% | ~730 |
+| Visionary | 0.40% | ~730 |
+| Whisperer | 0.40% | ~730 |
+| Garden-Inverter | 0.30% | ~547 |
+| Slider | 0.30% | ~547 |
+| Collector | 0.20% | ~365 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 180,202 (Ranked 104)  
-Completed: 326 (0.18%) (Ranked 426)  
+Progressed: 182,439 (Ranked 104)  
+Completed: 341 (0.19%) (Ranked 422)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -36,6 +36,7 @@ Completed: 326 (0.18%) (Ranked 426)
 | 2024-06-17 | 169,555 | 257 |
 | 2024-08-09 | 176,424 | 305 |
 | 2024-09-14 | 180,202 | 326 |
+| 2024-10-09 | 182,439 | 341 |
 ## Awards
 Max (Challenging Puzzles): 26  (Ranked 688)  
 Sum: 26 (Ranked 702)  

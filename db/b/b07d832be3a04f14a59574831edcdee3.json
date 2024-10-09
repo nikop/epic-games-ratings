@@ -1,8 +1,8 @@
 {
   "ID": "b07d832be3a04f14a59574831edcdee3",
   "Name": null,
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -27,6 +27,6 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_Ratings": "2024-10-09T16:58:34.5150649+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:38.6260865+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:01.5510447+00:00"
 }

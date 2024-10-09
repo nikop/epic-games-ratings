@@ -42,8 +42,8 @@
 | Uh... Thanks. I Think. | 0.00% | ~0 |
 | Get-it-off-get-it-off! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 419 (Ranked 512)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 419 (Ranked 516)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

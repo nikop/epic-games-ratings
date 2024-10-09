@@ -53,8 +53,8 @@ Rating: 4.18 (Ranked 1,162)
 | Master of Malachite | 0.80% | ~36 |
 | Fowl Play | 0.40% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,501 (Ranked 302)  
-Completed: 7 (0.16%) (Ranked 435)  
+Progressed: 4,501 (Ranked 303)  
+Completed: 7 (0.16%) (Ranked 437)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,8 +185,8 @@ Completed: 7 (0.16%) (Ranked 435)
 | 2024-09-14 | 4,501 | 7 |
 ## Awards
 Max (Quickly Understood Controls): 38  (Ranked 622)  
-Sum: 239 (Ranked 514)  
-Diff (max vs sum): 108  
+Sum: 239 (Ranked 513)  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 38 |

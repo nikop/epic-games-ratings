@@ -2,8 +2,8 @@
   "ID": "cd4a7839ad21465cab08d6742093d2a0",
   "Name": "Mask of the Rose",
   "ProductSlug": "mask-of-the-rose-9f7efe",
-  "Ranking_EOS_Progress": 952,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 947,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -64,6 +64,11 @@
       "Time": "2024-08-09T18:04:12.9960666+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-10-09T19:03:38.9575208+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 17,
@@ -81,7 +86,7 @@
       "ID": "beach",
       "SetID": "506b0a7",
       "Name": "Ascension",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -89,7 +94,7 @@
       "ID": "bodkin",
       "SetID": "506b0a7",
       "Name": "Confessed",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 55,
       "UsersEstimate": 7
     },
@@ -97,7 +102,7 @@
       "ID": "bosham",
       "SetID": "506b0a7",
       "Name": "Flourished",
-      "Percentage": 44,
+      "Percentage": 41,
       "XP": 55,
       "UsersEstimate": 7
     },
@@ -105,7 +110,7 @@
       "ID": "clarence",
       "SetID": "506b0a7",
       "Name": "The Impostor Synod",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 55,
       "UsersEstimate": 3
     },
@@ -121,7 +126,7 @@
       "ID": "empress",
       "SetID": "506b0a7",
       "Name": "Katabasis",
-      "Percentage": 75,
+      "Percentage": 71,
       "XP": 55,
       "UsersEstimate": 12
     },
@@ -129,7 +134,7 @@
       "ID": "freddie",
       "SetID": "506b0a7",
       "Name": "Confessor",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 55,
       "UsersEstimate": 3
     },
@@ -153,7 +158,7 @@
       "ID": "ickenham",
       "SetID": "506b0a7",
       "Name": "Forger of Bonds",
-      "Percentage": 63,
+      "Percentage": 59,
       "XP": 55,
       "UsersEstimate": 10
     },
@@ -185,7 +190,7 @@
       "ID": "pilbeam",
       "SetID": "506b0a7",
       "Name": "Acceptance",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 55,
       "UsersEstimate": 2
     },
@@ -193,7 +198,7 @@
       "ID": "pongo",
       "SetID": "506b0a7",
       "Name": "Tried",
-      "Percentage": 38,
+      "Percentage": 35,
       "XP": 55,
       "UsersEstimate": 6
     },
@@ -210,14 +215,14 @@
     {
       "ID": "506b0a7",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-09T04:57:25.0433962+00:00",
   "FirstSeenAchievements": "2023-06-08T18:00:58.4934075+00:00",
-  "LastChanged_Achievements": "2024-09-14T14:19:45.6168543+00:00",
+  "LastChanged_Achievements": "2024-10-09T19:03:38.9575205+00:00",
   "LastUpdate_AppInfo": "2024-10-05T11:57:10.8723671+00:00",
   "LastUpdate_Ratings": "2024-10-09T17:59:03.7166063+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:19:45.6168675+00:00"
+  "LastUpdate_Achievements": "2024-10-09T19:03:38.957531+00:00"
 }

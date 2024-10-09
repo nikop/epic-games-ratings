@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Leap Before You Look | 67.00% | ~1,409 |
-| Getting the Hang of It | 41.00% | ~862 |
-| Hoarder | 33.00% | ~694 |
-| Pest Control | 29.00% | ~610 |
-| Blobmeister | 26.00% | ~547 |
-| Exhaustive Explorer | 26.00% | ~547 |
-| How Low Can We Go? | 25.00% | ~526 |
-| Team Builder | 20.00% | ~421 |
-| Aggressive Antivirus | 16.00% | ~336 |
-| Long Live Rock | 16.00% | ~336 |
-| Unblurred Lines | 13.00% | ~273 |
-| Effective Efficiency | 13.00% | ~273 |
-| Obsessively Thorough | 12.00% | ~252 |
-| Endlessly Effective | 12.00% | ~252 |
-| What's Behind Every Door? | 6.00% | ~126 |
-| No Stone Unturned | 5.00% | ~105 |
-| Turret Syndrome | 2.00% | ~42 |
+| Leap Before You Look | 66.00% | ~1,404 |
+| Getting the Hang of It | 41.00% | ~872 |
+| Hoarder | 33.00% | ~702 |
+| Pest Control | 29.00% | ~617 |
+| Blobmeister | 26.00% | ~553 |
+| Exhaustive Explorer | 26.00% | ~553 |
+| How Low Can We Go? | 25.00% | ~532 |
+| Team Builder | 20.00% | ~426 |
+| Aggressive Antivirus | 16.00% | ~340 |
+| Long Live Rock | 16.00% | ~340 |
+| Unblurred Lines | 13.00% | ~277 |
+| Effective Efficiency | 13.00% | ~277 |
+| Obsessively Thorough | 12.00% | ~255 |
+| Endlessly Effective | 12.00% | ~255 |
+| What's Behind Every Door? | 6.00% | ~128 |
+| No Stone Unturned | 5.00% | ~106 |
+| Turret Syndrome | 2.00% | ~43 |
 | Endless Biographer | 1.00% | ~21 |
 | All Your Secrets Are Belong to Us | 1.00% | ~21 |
 | Grab 'Em All | 0.50% | ~11 |
@@ -35,8 +35,8 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,103 (Ranked 360)  
-Completed: 0 (0.00%) (Ranked 591)  
+Progressed: 2,128 (Ranked 361)  
+Completed: 0 (0.00%) (Ranked 595)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -149,3 +149,4 @@ Completed: 0 (0.00%) (Ranked 591)
 | 2024-08-09 | 2,055 | 0 |
 | 2024-08-20 | 2,075 | 0 |
 | 2024-09-14 | 2,103 | 0 |
+| 2024-10-09 | 2,128 | 0 |

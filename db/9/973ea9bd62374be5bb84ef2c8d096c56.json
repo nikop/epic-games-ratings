@@ -2,8 +2,8 @@
   "ID": "973ea9bd62374be5bb84ef2c8d096c56",
   "Name": "Metal Mind",
   "ProductSlug": "metal-mind-84cb32",
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -37,6 +37,6 @@
   "AchievementSets": [],
   "FirstSeen": "2024-03-11T20:58:03.1673033+00:00",
   "LastUpdate_AppInfo": "2024-10-03T07:57:12.4424836+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:38.2278726+00:00",
-  "LastUpdate_Achievements": "2024-09-14T14:21:18.703917+00:00"
+  "LastUpdate_Ratings": "2024-10-09T18:57:41.8857645+00:00",
+  "LastUpdate_Achievements": "2024-10-09T19:04:10.5756196+00:00"
 }

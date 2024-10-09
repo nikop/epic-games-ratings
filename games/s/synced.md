@@ -23,7 +23,7 @@ Rating: 4.08 (Ranked 1,226)
 | Runs for Your Money | 0.20% | ~217 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 108,661 (Ranked 137)  
-Completed: 88 (0.08%) (Ranked 468)  
+Completed: 88 (0.08%) (Ranked 471)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

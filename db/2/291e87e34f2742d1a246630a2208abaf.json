@@ -2,11 +2,11 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 1096,
+  "Ranking_Rating": 1112,
   "Ranking_Popularity": 380,
-  "Ranking_PopularitySum": 351,
-  "Ranking_EOS_Progress": 1254,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_PopularitySum": 350,
+  "Ranking_EOS_Progress": 1263,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -3653,24 +3653,30 @@
       "Rating": 4.24,
       "NumberOfAwards": 924,
       "NumberOfAwardsMax": 198
+    },
+    {
+      "Time": "2024-10-09T18:57:47.253514+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 926,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 924,
-  "NumberOfAwardsMax": 198,
+  "NumberOfAwards": 926,
+  "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3727,8 +3733,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-10-09T14:59:35.0678829+00:00",
+  "LastChanged": "2024-10-09T18:57:47.2535138+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:14:05.8872773+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:58:44.6475628+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:57:47.2535143+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:34.6348945+00:00"
 }

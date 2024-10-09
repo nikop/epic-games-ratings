@@ -2,8 +2,8 @@
   "ID": "b6eb3c81751b4bda90599356bcc4ae4a",
   "Name": "Sea of Solitude",
   "ProductSlug": "sea-of-solitude-68aef2",
-  "Ranking_EOS_Progress": 874,
-  "Ranking_EOS_Completed": 591,
+  "Ranking_EOS_Progress": 878,
+  "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
@@ -250,6 +250,6 @@
   "FirstSeenAchievements": "2024-06-17T16:07:51.0977681+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:01.4689078+00:00",
   "LastUpdate_AppInfo": "2024-10-04T13:13:51.9366126+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:59:53.3552319+00:00",
+  "LastUpdate_Ratings": "2024-10-09T18:58:46.5903619+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:01.4689244+00:00"
 }
