@@ -2,7 +2,7 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1096,
+  "Ranking_Rating": 1113,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 332,
   "Ranking_EOS_Progress": 1254,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.24,
+  "Rating": 4.23,
   "RatingHistory": [
     {
       "Time": "2024-07-06T01:47:40.4690961+00:00",
@@ -2131,10 +2131,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 1046,
       "NumberOfAwardsMax": 162
+    },
+    {
+      "Time": "2024-10-09T17:57:44.835128+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1055,
+      "NumberOfAwardsMax": 162
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1046,
+  "NumberOfAwards": 1055,
   "NumberOfAwardsMax": 162,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2184,7 +2190,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 81
+      "Count": 84
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2196,13 +2202,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 94
+      "Count": 98
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 109
+      "Count": 111
     }
   ],
   "EOS_Progressed": 0,
@@ -2217,8 +2223,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-10-09T13:59:47.9788905+00:00",
+  "LastChanged": "2024-10-09T17:57:44.8351278+00:00",
   "LastUpdate_AppInfo": "2024-10-08T20:57:07.3568199+00:00",
-  "LastUpdate_Ratings": "2024-10-09T15:58:28.1545207+00:00",
+  "LastUpdate_Ratings": "2024-10-09T17:57:44.8351284+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.8502216+00:00"
 }

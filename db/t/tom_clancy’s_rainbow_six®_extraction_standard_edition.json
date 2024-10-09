@@ -4,7 +4,7 @@
   "ProductSlug": "rainbow-six-extraction",
   "Ranking_Rating": 759,
   "Ranking_Popularity": 361,
-  "Ranking_PopularitySum": 309,
+  "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -3547,10 +3547,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 1322,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2024-10-09T17:57:27.1392073+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 1323,
+      "NumberOfAwardsMax": 219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1322,
+  "NumberOfAwards": 1323,
   "NumberOfAwardsMax": 219,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3594,7 +3600,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 176
+      "Count": 177
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3626,8 +3632,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2024-10-07T19:57:50.7570509+00:00",
+  "LastChanged": "2024-10-09T17:57:27.1392071+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:42.7218547+00:00",
-  "LastUpdate_Ratings": "2024-10-09T15:58:01.9262555+00:00",
+  "LastUpdate_Ratings": "2024-10-09T17:57:27.1392076+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:46.2291977+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "b61e8ddd14e94619b7a74cf9d73f86b5",
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
-  "Ranking_Rating": 1114,
+  "Ranking_Rating": 1122,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 434,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2024-09-27T16:59:14.411303+00:00",
@@ -409,10 +409,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 446,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2024-10-09T17:58:53.7488804+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 446,
+  "NumberOfAwards": 458,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -426,7 +432,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 57
+      "Count": 63
     },
     {
       "Text": "This game has Challenging Combat",
@@ -450,7 +456,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 54
+      "Count": 60
     },
     {
       "Text": "This game has Competitive Players",
@@ -477,8 +483,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
-  "LastChanged": "2024-10-09T16:00:12.1246988+00:00",
+  "LastChanged": "2024-10-09T17:58:53.7488802+00:00",
   "LastUpdate_AppInfo": "2024-10-02T22:56:53.8328819+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:00:12.1246995+00:00",
+  "LastUpdate_Ratings": "2024-10-09T17:58:53.7488808+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:14.1150285+00:00"
 }

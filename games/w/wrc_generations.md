@@ -4,12 +4,12 @@
 Rating: 4.45 (Ranked 814)  
 ## Awards
 Max (Realistic Visuals): 32  (Ranked 650)  
-Sum: 201 (Ranked 540)  
-Diff (max vs sum): 110  
+Sum: 202 (Ranked 538)  
+Diff (max vs sum): 112  
 | Award | Count |
 | ----- | ----- |
 | This game has Realistic Visuals | 32 |
-| This game has Diverse Characters | 31 |
+| This game has Diverse Characters | 32 |
 | This game is Great for Beginners | 30 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Amazing Characters | 22 |
@@ -140,3 +140,4 @@ Diff (max vs sum): 110
 | 2024-09-20 | 4.45 | 32 | 198 |
 | 2024-09-21 | 4.45 | 32 | 200 |
 | 2024-09-22 | 4.45 | 32 | 201 |
+| 2024-10-09 | 4.45 | 32 | 202 |

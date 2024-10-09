@@ -3,8 +3,8 @@
   "Name": "Battlefield\u2122 1 Revolution",
   "ProductSlug": "battlefield-1-124758",
   "Ranking_Rating": 559,
-  "Ranking_Popularity": 461,
-  "Ranking_PopularitySum": 404,
+  "Ranking_Popularity": 460,
+  "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 1254,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -1476,11 +1476,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 613,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-10-09T17:58:01.8704229+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 616,
+      "NumberOfAwardsMax": 113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 613,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 616,
+  "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1511,7 +1517,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 48
+      "Count": 50
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1553,7 +1559,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 112
+      "Count": 113
     }
   ],
   "EOS_Progressed": 0,
@@ -1984,9 +1990,9 @@
   "FirstSeen": "2024-03-30T20:59:49.3569463+00:00",
   "FirstSeenRating": "2024-05-30T22:57:52.5489382+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:54.2825872+00:00",
-  "LastChanged": "2024-10-09T14:00:13.5936124+00:00",
+  "LastChanged": "2024-10-09T17:58:01.8704227+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:58.6593441+00:00",
   "LastUpdate_AppInfo": "2024-10-04T08:57:43.8667972+00:00",
-  "LastUpdate_Ratings": "2024-10-09T15:58:53.6962882+00:00",
+  "LastUpdate_Ratings": "2024-10-09T17:58:01.8704233+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:58.6593757+00:00"
 }

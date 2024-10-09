@@ -2,9 +2,9 @@
   "ID": "bdffe95a989c4810b5abc0e525eb7a26",
   "Name": "Harry Potter: Quidditch Champions",
   "ProductSlug": "harry-potter-quidditch-champions",
-  "Ranking_Rating": 926,
-  "Ranking_Popularity": 734,
-  "Ranking_PopularitySum": 734,
+  "Ranking_Rating": 906,
+  "Ranking_Popularity": 728,
+  "Ranking_PopularitySum": 728,
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 3,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2024-09-06T03:57:30.8777804+00:00",
@@ -271,12 +271,26 @@
       "Rating": 4.39,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-09T17:59:44.3159164+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Great for Quick Sessions",
+  "Tags": [
+    {
+      "Text": "This game is Great for Quick Sessions",
+      "Prefix": "This game is",
+      "Type": "Great for Quick Sessions",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 988,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -553,9 +567,9 @@
   "FirstSeen": "2024-09-03T18:58:28.6942734+00:00",
   "FirstSeenRating": "2024-09-06T03:57:30.8777801+00:00",
   "FirstSeenAchievements": "2024-08-20T20:13:24.6120024+00:00",
-  "LastChanged": "2024-10-08T19:57:51.9481413+00:00",
+  "LastChanged": "2024-10-09T17:59:44.3159162+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:33.6805714+00:00",
   "LastUpdate_AppInfo": "2024-10-05T09:57:36.3028341+00:00",
-  "LastUpdate_Ratings": "2024-10-09T16:01:27.3937435+00:00",
+  "LastUpdate_Ratings": "2024-10-09T17:59:44.3159166+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:33.6812516+00:00"
 }
