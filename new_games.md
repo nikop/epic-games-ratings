@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | - |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,343 | 4.32 | 45 |
 | [Dead Season](games/f/f01957afd8ed40b1aaad3e4e8536cfa4.md) | 2024-10-08 | - |  | - | - |
 | [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 4.24 | 0 |
