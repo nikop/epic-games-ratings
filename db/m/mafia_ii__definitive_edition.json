@@ -4,7 +4,7 @@
   "ProductSlug": "mafia-ii-definitive-edition",
   "Ranking_Rating": 874,
   "Ranking_Popularity": 705,
-  "Ranking_PopularitySum": 666,
+  "Ranking_PopularitySum": 660,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -859,10 +859,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-10-09T21:57:58.6598491+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 44,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
+  "NumberOfAwards": 44,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -882,7 +888,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -896,8 +902,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:51.6879744+00:00",
-  "LastChanged": "2024-10-06T03:19:01.4534376+00:00",
+  "LastChanged": "2024-10-09T21:57:58.659849+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:06.8667305+00:00",
-  "LastUpdate_Ratings": "2024-10-09T19:58:06.4147673+00:00",
+  "LastUpdate_Ratings": "2024-10-09T21:57:58.6598494+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:39.933163+00:00"
 }

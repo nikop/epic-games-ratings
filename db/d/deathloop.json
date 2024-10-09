@@ -4,7 +4,7 @@
   "ProductSlug": "deathloop",
   "Ranking_Rating": 855,
   "Ranking_Popularity": 484,
-  "Ranking_PopularitySum": 391,
+  "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -3001,10 +3001,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 697,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-10-09T22:00:49.6410205+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 698,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 697,
+  "NumberOfAwards": 698,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3018,7 +3024,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3074,8 +3080,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-10-09T07:59:45.2266765+00:00",
+  "LastChanged": "2024-10-09T22:00:49.6410203+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:05.3100378+00:00",
-  "LastUpdate_Ratings": "2024-10-09T19:59:57.3997376+00:00",
+  "LastUpdate_Ratings": "2024-10-09T22:00:49.6410207+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:35.8641008+00:00"
 }

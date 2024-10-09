@@ -4,7 +4,7 @@
   "ProductSlug": "faster-than-light",
   "Ranking_Rating": 104,
   "Ranking_Popularity": 377,
-  "Ranking_PopularitySum": 291,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -3496,10 +3496,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 1670,
       "NumberOfAwardsMax": 202
+    },
+    {
+      "Time": "2024-10-09T22:01:12.7594494+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 1671,
+      "NumberOfAwardsMax": 202
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1670,
+  "NumberOfAwards": 1671,
   "NumberOfAwardsMax": 202,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -3525,7 +3531,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3581,8 +3587,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:43.0008392+00:00",
-  "LastChanged": "2024-10-09T16:59:16.2339244+00:00",
+  "LastChanged": "2024-10-09T22:01:12.7594492+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:22.9717533+00:00",
-  "LastUpdate_Ratings": "2024-10-09T20:57:57.6105361+00:00",
+  "LastUpdate_Ratings": "2024-10-09T22:01:12.7594498+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:26.0850749+00:00"
 }
