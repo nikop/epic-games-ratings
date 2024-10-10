@@ -2,9 +2,9 @@
   "ID": "b6aa6a98bb394a53870bd6b026fefd1d",
   "Name": "The Drone Racing League\u00AE",
   "ProductSlug": "the-drone-racing-league-simulator",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 491,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1578,10 +1578,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 705,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-10-10T20:58:05.7813797+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 706,
+      "NumberOfAwardsMax": 95
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 705,
+  "NumberOfAwards": 706,
   "NumberOfAwardsMax": 95,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1649,7 +1655,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 44
+      "Count": 45
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1670,8 +1676,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
-  "LastChanged": "2024-10-10T18:59:09.8016816+00:00",
+  "LastChanged": "2024-10-10T20:58:05.7813794+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:06.4356007+00:00",
-  "LastUpdate_Ratings": "2024-10-10T18:59:09.8016821+00:00",
+  "LastUpdate_Ratings": "2024-10-10T20:58:05.78138+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:19.3455341+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 926,
+  "Ranking_Rating": 927,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 1263,
@@ -19234,10 +19234,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 34416,
       "NumberOfAwardsMax": 6496
+    },
+    {
+      "Time": "2024-10-10T20:59:35.3483915+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 34418,
+      "NumberOfAwardsMax": 6496
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34416,
+  "NumberOfAwards": 34418,
   "NumberOfAwardsMax": 6496,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -19281,7 +19287,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4112
+      "Count": 4114
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19313,8 +19319,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2024-10-10T15:58:20.5775941+00:00",
+  "LastChanged": "2024-10-10T20:59:35.3483913+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:58.5349165+00:00",
-  "LastUpdate_Ratings": "2024-10-10T19:01:25.8963674+00:00",
+  "LastUpdate_Ratings": "2024-10-10T20:59:35.3483918+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:20.3531961+00:00"
 }

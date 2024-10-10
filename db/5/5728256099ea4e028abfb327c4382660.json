@@ -2,7 +2,7 @@
   "ID": "5728256099ea4e028abfb327c4382660",
   "Name": "Illuvium Zero",
   "ProductSlug": "illuvium-zero-ca46a6",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 655,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 1263,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.53,
   "RatingHistory": [
     {
       "Time": "2024-07-19T16:58:57.1679558+00:00",
@@ -1932,10 +1932,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 989,
       "NumberOfAwardsMax": 188
+    },
+    {
+      "Time": "2024-10-10T20:57:37.0144555+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 992,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 989,
+  "NumberOfAwards": 992,
   "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1949,7 +1955,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 186
+      "Count": 187
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1973,7 +1979,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 74
+      "Count": 76
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2012,8 +2018,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-10-10T04:57:33.7958763+00:00",
+  "LastChanged": "2024-10-10T20:57:37.0144554+00:00",
   "LastUpdate_AppInfo": "2024-10-04T23:57:06.9062274+00:00",
-  "LastUpdate_Ratings": "2024-10-10T18:58:25.7010148+00:00",
+  "LastUpdate_Ratings": "2024-10-10T20:57:37.0144558+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:17.3598509+00:00"
 }

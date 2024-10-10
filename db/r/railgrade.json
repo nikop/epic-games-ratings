@@ -2,9 +2,9 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 382,
+  "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 449,
   "Ranking_EOS_NewPlayers": 3,
@@ -811,10 +811,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 730,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-10-10T20:59:06.2493566+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 731,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 730,
+  "NumberOfAwards": 731,
   "NumberOfAwardsMax": 100,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -876,7 +882,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 52
+      "Count": 53
     }
   ],
   "EOS_Progressed": 16798,
@@ -13287,9 +13293,9 @@
   "FirstSeen": "2022-09-29T18:01:57.1676877+00:00",
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
-  "LastChanged": "2024-10-06T15:58:58.3393814+00:00",
+  "LastChanged": "2024-10-10T20:59:06.2493565+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:38.2951882+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:53.3238125+00:00",
-  "LastUpdate_Ratings": "2024-10-10T19:00:41.668267+00:00",
+  "LastUpdate_Ratings": "2024-10-10T20:59:06.2493568+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:38.2952649+00:00"
 }

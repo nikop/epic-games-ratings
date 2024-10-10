@@ -2,7 +2,7 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 1119,
+  "Ranking_Rating": 1111,
   "Ranking_Popularity": 321,
   "Ranking_PopularitySum": 279,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.22,
+  "Rating": 4.23,
   "NumberOfRatings": 3300,
   "RatingHistory": [
     {
@@ -4561,10 +4561,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1794,
       "NumberOfAwardsMax": 299
+    },
+    {
+      "Time": "2024-10-10T20:59:48.437038+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 1795,
+      "NumberOfAwardsMax": 299
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1794,
+  "NumberOfAwards": 1795,
   "NumberOfAwardsMax": 299,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4578,7 +4584,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 266
+      "Count": 267
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4640,8 +4646,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-10-10T19:57:19.9352678+00:00",
+  "LastChanged": "2024-10-10T20:59:48.4370378+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:15.0495067+00:00",
-  "LastUpdate_Ratings": "2024-10-10T19:57:19.9352687+00:00",
+  "LastUpdate_Ratings": "2024-10-10T20:59:48.4370384+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:37.5192702+00:00"
 }

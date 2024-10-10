@@ -1,11 +1,11 @@
 # Total War: WARHAMMER
 [Store](https://store.epicgames.com/en-US/p/total-war-warhammer)  
 [View Rawdata](../../db/t/total_war__warhammer.json)  
-Rating: 4.58 (Ranked 540)  
+Rating: 4.58 (Ranked 541)  
 Number of Ratings: 8,439  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 7,556  (Ranked 75)  
-Sum: 17,326 (Ranked 91)  
+Sum: 17,328 (Ranked 91)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -16
 | This game has Challenging Combat | 1,081 |
 | This game has Amazing Storytelling | 1,072 |
 | This game has Amazing Characters | 1,055 |
-| This game has Competitive Players | 989 |
+| This game has Competitive Players | 991 |
 | This game is Relaxing | 988 |
 | This game has Quickly Understood Controls | 956 |
 | This game has Obsessive Gameplay | 631 |
@@ -633,4 +633,4 @@ Diff (max vs sum): -16
 | 2024-10-07 | 4.58 | - | 7,550 | 17,313 |
 | 2024-10-08 | 4.58 | - | 7,553 | 17,316 |
 | 2024-10-09 | 4.58 | - | 7,553 | 17,321 |
-| 2024-10-10 | 4.58 | - | 7,556 | 17,326 |
+| 2024-10-10 | 4.58 | - | 7,556 | 17,328 |

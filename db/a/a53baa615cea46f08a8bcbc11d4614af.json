@@ -2,7 +2,7 @@
   "ID": "a53baa615cea46f08a8bcbc11d4614af",
   "Name": "XDefiant",
   "ProductSlug": "xdefiant",
-  "Ranking_Rating": 1096,
+  "Ranking_Rating": 1097,
   "Ranking_Popularity": 403,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 1263,
@@ -2173,10 +2173,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 1073,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-10-10T20:59:18.1518774+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 1087,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1073,
+  "NumberOfAwards": 1087,
   "NumberOfAwardsMax": 167,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2196,19 +2202,19 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 106
+      "Count": 109
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 143
+      "Count": 145
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 70
+      "Count": 75
     },
     {
       "Text": "This game has Competitive Players",
@@ -2226,7 +2232,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 84
+      "Count": 88
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2259,8 +2265,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T18:59:16.5618862+00:00",
   "FirstSeenRating": "2024-07-06T01:47:40.4690959+00:00",
-  "LastChanged": "2024-10-10T19:00:59.8106343+00:00",
+  "LastChanged": "2024-10-10T20:59:18.1518773+00:00",
   "LastUpdate_AppInfo": "2024-10-08T20:57:07.3568199+00:00",
-  "LastUpdate_Ratings": "2024-10-10T19:00:59.8106348+00:00",
+  "LastUpdate_Ratings": "2024-10-10T20:59:18.1518779+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:26.8502216+00:00"
 }
