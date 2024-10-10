@@ -2,9 +2,9 @@
   "ID": "a482505de9174374943604102e61972e",
   "Name": "The Forever Winter",
   "ProductSlug": "the-forever-winter-8b8280",
-  "Ranking_Rating": 988,
-  "Ranking_Popularity": 657,
-  "Ranking_PopularitySum": 685,
+  "Ranking_Rating": 976,
+  "Ranking_Popularity": 637,
+  "Ranking_PopularitySum": 683,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2024-09-30T02:14:57.8482583+00:00",
@@ -180,18 +180,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-10-10T20:00:09.5193342+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 35,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 31
+      "Count": 35
     }
   ],
   "EOS_Progressed": 0,
@@ -206,7 +212,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-24T22:59:46.1276331+00:00",
   "FirstSeenRating": "2024-09-30T02:14:57.8482578+00:00",
-  "LastChanged": "2024-10-10T16:57:41.9620278+00:00",
+  "LastChanged": "2024-10-10T20:00:09.519334+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:57:13.5849144+00:00",
-  "LastUpdate_Ratings": "2024-10-10T18:00:09.5103445+00:00"
+  "LastUpdate_Ratings": "2024-10-10T20:00:09.519335+00:00"
 }
