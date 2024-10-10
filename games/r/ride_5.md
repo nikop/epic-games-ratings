@@ -215,13 +215,13 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-10-09 | 11,313 | 0 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 650)  
-Sum: 127 (Ranked 574)  
+Sum: 128 (Ranked 574)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |
 | This game has Diverse Characters | 27 |
-| This game is Great for Quick Sessions | 24 |
+| This game is Great for Quick Sessions | 25 |
 | This game is Highly Recommended | 22 |
 | This game has Realistic Visuals | 22 |
 ## Ratings History
@@ -323,3 +323,4 @@ Diff (max vs sum): 76
 | 2024-10-05 | 4.68 | 32 | 125 |
 | 2024-10-06 | 4.68 | 32 | 126 |
 | 2024-10-09 | 4.68 | 32 | 127 |
+| 2024-10-10 | 4.68 | 32 | 128 |

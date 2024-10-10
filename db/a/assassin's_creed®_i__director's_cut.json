@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-1",
   "Ranking_Rating": 854,
   "Ranking_Popularity": 722,
-  "Ranking_PopularitySum": 669,
+  "Ranking_PopularitySum": 670,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -772,6 +772,6 @@
   "FirstSeen": "2022-07-22T20:24:57.2958454+00:00",
   "LastChanged": "2024-09-25T21:58:45.1501996+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:32.6339213+00:00",
-  "LastUpdate_Ratings": "2024-10-10T07:59:35.8611392+00:00",
+  "LastUpdate_Ratings": "2024-10-10T09:59:08.7585843+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:26.7274312+00:00"
 }
