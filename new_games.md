@@ -127,4 +127,3 @@
 | [Superscout](games/3/34813212c9b04b2793d4f7e90814b7a5.md) | 2024-09-12 | - |  | - | 0 |
 | [Facecheck](games/d/d552eca77bcc418183d7689fc8156c58.md) | 2024-09-11 | - |  | - | - |
 | [KurtzPel](games/7/727a79e37aea499db68214a27867aec2.md) | 2024-09-11 | - |  | - | 0 |
-| [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 9 | - | 0 |
