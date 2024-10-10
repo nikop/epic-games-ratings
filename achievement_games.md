@@ -104,7 +104,7 @@
 | [Office Fight](games/5/596e41f75cf64aa8b2d19d32320f7473.md) | 2024-08-21 | 40 (1,000 XP) | 10 | - | 0 |
 | [Shadow of the matrix](games/1/1635e577cf224925a3c0b8e8927c280a.md) | 2024-08-21 | 5 (1,000 XP) | 33 | - | - |
 | [City Transport Simulator: Tram](games/4/4017aaf2580940f981e66076469a1a99.md) | 2024-08-20 | 20 (1,000 XP) | 30 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 78,318 | 4.87 | 14,982 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 78,318 | 4.87 | 15,039 |
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 8 | - | 0 |
 | [Elemental Exiles](games/c/c6043994c41440229c2988d410ece536.md) | 2024-08-20 | 21 (1,000 XP) | 8 | - | 0 |
 | [LOEK](games/9/92bf624272ba483fba3ffadc78a767eb.md) | 2024-08-20 | 36 (1,000 XP) | 5 | - | 0 |
@@ -115,7 +115,7 @@
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 9 | - | 0 |
 | [Zen Chess: Mate in Three](games/3/3e6fbfed12a74b6c99f4353925b396bd.md) | 2024-08-15 | 10 (1,000 XP) | 69 | - | 0 |
 | [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | 15 (1,000 XP) | 68 | - | 0 |
-| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.63 | 86 |
+| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.63 | 89 |
 | [To the Stars](games/3/37766a4f6c994e8ba33c9892ec5a56e2.md) | 2024-08-13 | 40 (1,000 XP) | 5 | - | 0 |
 | [Operation Polygon Storm](games/o/operation_polygon_storm.md) | 2024-08-13 | 21 (1,000 XP) | 3 | - | 0 |
 | [Sidecar Evolution 2024](games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 2024-08-12 | 33 (1,000 XP) | 1,942 | - | 0 |
@@ -824,7 +824,7 @@
 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 2023-06-09 | 6 (1,000 XP) | 1,166 | - | 0 |
 | [Quest Hunter](games/b/b72f5f79f855471e9691ff22e4967656.md) | 2023-06-09 | 74 (1,110 XP) | 330 | - | 0 |
 | [Mask of the Rose](games/c/cd4a7839ad21465cab08d6742093d2a0.md) | 2023-06-08 | 17 (1,000 XP) | 17 | - | 0 |
-| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,985,220 | 4.57 | 13,956 |
+| [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 2023-06-08 | 1,328 (15,000 XP) | 1,985,220 | 4.57 | 13,968 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-06-07 | 13 (1,000 XP) | 64 | - | 0 |
 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 2023-06-07 | 11 (1,000 XP) | 114 | - | 0 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 131 | - | 0 |
@@ -900,7 +900,7 @@
 | [Ravenlok](games/r/ravenlok.md) | 2023-05-04 | 50 (1,000 XP) | 1,278 | - | 0 |
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 73 | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 54 (1,300 XP) | 4 | - | 0 |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 72 (1,735 XP) | 8,090 | 4.65 | 110 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 72 (1,735 XP) | 8,090 | 4.65 | 112 |
 | [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 2,663 | 3.74 | 53 |
 | [Arto](games/a/arto.md) | 2023-05-01 | 18 (1,000 XP) | 15 | - | 0 |
 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 2023-05-01 | 60 (1,000 XP) | 8 | - | 0 |
@@ -1222,7 +1222,7 @@
 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 2021-12-14 | 16 (1,000 XP) | 12,833 | - | 0 |
 | [One Hand Clapping](games/o/one_hand_clapping.md) | 2021-12-14 | 28 (1,000 XP) | 1,108 | - | 0 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 2021-12-09 | 257 (6,205 XP) | 1,617,795 | 4.50 | 56,252 |
-| [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 285,985 | 4.61 | 1,129 |
+| [Prison Architect](games/p/prison_architect.md) | 2021-12-09 | 16 (1,000 XP) | 285,985 | 4.61 | 1,133 |
 | [LOVE 3](games/l/love_3.md) | 2021-12-07 | 22 (1,000 XP) | 20 | - | 0 |
 | [Chorus](games/c/chorus.md) | 2021-12-03 | 43 (1,000 XP) | 1,768 | 4.44 | 38 |
 | [while True: learn()](games/w/while_true__learn().md) | 2021-12-02 | 28 (1,000 XP) | 641,428 | 4.51 | 154 |
@@ -1288,7 +1288,7 @@
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 233 | 4.64 | 21 |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 719 | 4.42 | 0 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,697 | 4.36 | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,690 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,694 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 868 | 4.31 | 0 |
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 57,916 | 4.60 | 254 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 107 | - | 0 |
@@ -1327,7 +1327,7 @@
 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 2020-06-06 | 45 (1,070 XP) | 148,633 | 4.87 | 867 |
 | [Old World](games/o/old_world.md) | 2020-05-05 | 366 (3,480 XP) | 20,212 | 4.65 | 279 |
 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 2020-03-31 | 51 (1,000 XP) | 124,942 | 4.75 | 11,235 |
-| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,426 | 4.69 | 1,004 |
+| [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 2020-02-04 | 66 (1,000 XP) | 46,426 | 4.68 | 1,004 |
 | [Hades](games/h/hades.md) | 2019-12-10 | 49 (1,000 XP) | 753,371 | 4.91 | 4,366 |
 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 2019-11-14 | 39 (1,000 XP) | 93,629 | 4.70 | 0 |
 | [Satisfactory](games/s/satisfactory.md) | 2019-03-19 | 44 (1,000 XP) | 216,724 | 4.87 | 27,869 |

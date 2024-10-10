@@ -37,7 +37,7 @@
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2024-08-20 | 26 (1,000 XP) | 8 | - | 0 |
 | [Exo Mayhem](games/0/05a60577cbce49f987ccebfd548cd088.md) | 2024-08-22 | 11 (1,000 XP) | 12 | - | - |
 | [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.31 | 49 |
-| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.63 | 86 |
+| [SUPER CRAZY RHYTHM CASTLE](games/0/048550a9623d4824894430a2c2823e02.md) | 2024-08-15 | 27 (1,000 XP) | 38,315 | 4.63 | 89 |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [ATOMIC SHELTER](games/b/b005ba75ad8d488c9d8be26cb04f18fc.md) | 2024-09-16 | 14 (1,000 XP) | 1 | - | 0 |
 | [Zen Chess: Mate in Two](games/2/289ee4672297498794192722256f4e92.md) | 2024-08-15 | 15 (1,000 XP) | 68 | - | 0 |
@@ -72,7 +72,7 @@
 | [Concord](games/6/61e4bb2351e2475b8d841507f8bfdd9b.md) | 2099-02-01 | 51 (1,000 XP) | 131 | - | 0 |
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
 | [Deathbound](games/9/944bbd1268a54ff0a3f4942d00bc39d6.md) | 2024-08-08 | 35 (1,000 XP) | 38 | - | 0 |
-| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 78,318 | 4.87 | 14,982 |
+| [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | 35 (1,000 XP) | 78,318 | 4.87 | 15,039 |
 | [Monster Jam™ Showdown](games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 2024-08-29 | 50 (1,000 XP) | 332 | 4.78 | 0 |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 17 | - | 0 |
 | [House of Golf 2](games/f/f3779db6bf0d4694b6808e53779b890f.md) | 2024-08-16 | 31 (1,000 XP) | 9 | - | 0 |
@@ -763,7 +763,7 @@
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,863 | 4.83 | 84 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,690 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,694 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 47 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 15 | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |
