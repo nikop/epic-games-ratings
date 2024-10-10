@@ -3,7 +3,7 @@
   "Name": "Aven Colony",
   "ProductSlug": "aven-colony",
   "Ranking_Rating": 1139,
-  "Ranking_Popularity": 421,
+  "Ranking_Popularity": 422,
   "Ranking_PopularitySum": 364,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -2143,10 +2143,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 842,
       "NumberOfAwardsMax": 147
+    },
+    {
+      "Time": "2024-10-10T06:58:15.0975303+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 844,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 842,
+  "NumberOfAwards": 844,
   "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2184,7 +2190,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 135
+      "Count": 137
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2216,8 +2222,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:59.6890424+00:00",
-  "LastChanged": "2024-10-08T20:57:52.7521269+00:00",
+  "LastChanged": "2024-10-10T06:58:15.0975301+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:35.3570658+00:00",
-  "LastUpdate_Ratings": "2024-10-10T04:59:13.3873499+00:00",
+  "LastUpdate_Ratings": "2024-10-10T06:58:15.0975308+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:04.9136453+00:00"
 }
