@@ -1,7 +1,7 @@
 # DEATH STRANDING
 [Store](https://store.epicgames.com/en-US/p/death-stranding)  
 [View Rawdata](../../db/d/death_stranding.json)  
-Rating: 4.77 (Ranked 138)  
+Rating: 4.77 (Ranked 139)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

@@ -2,7 +2,7 @@
   "ID": "610a546d4e204215a0b9a1c8a382bacb",
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
-  "Ranking_Rating": 138,
+  "Ranking_Rating": 129,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 10,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-11-08T07:59:36.9365658+00:00",
@@ -11761,10 +11761,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 29135,
       "NumberOfAwardsMax": 4352
+    },
+    {
+      "Time": "2024-10-10T10:59:50.27265+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 29241,
+      "NumberOfAwardsMax": 4352
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29135,
+  "NumberOfAwards": 29241,
   "NumberOfAwardsMax": 4352,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11784,7 +11790,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2667
+      "Count": 2710
     },
     {
       "Text": "This game is Educational",
@@ -11796,7 +11802,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2738
+      "Count": 2801
     },
     {
       "Text": "This game has Competitive Players",
@@ -22433,9 +22439,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-10-10T07:57:40.6872834+00:00",
+  "LastChanged": "2024-10-10T10:59:50.2726498+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:10.427211+00:00",
   "LastUpdate_AppInfo": "2024-10-09T20:57:36.5424408+00:00",
-  "LastUpdate_Ratings": "2024-10-10T09:00:14.5077613+00:00",
+  "LastUpdate_Ratings": "2024-10-10T10:59:50.2726507+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:10.4273315+00:00"
 }

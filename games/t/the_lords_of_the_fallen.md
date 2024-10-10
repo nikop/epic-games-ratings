@@ -189,8 +189,8 @@ Completed: 7 (0.04%) (Ranked 513)
 | 2024-09-14 | 18,098 | 7 |
 ## Awards
 Max (Character Customization): 1,090  (Ranked 199)  
-Sum: 3,010 (Ranked 223)  
-Diff (max vs sum): -24  
+Sum: 3,010 (Ranked 224)  
+Diff (max vs sum): -25  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,090 |
