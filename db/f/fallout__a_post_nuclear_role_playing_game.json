@@ -4,7 +4,7 @@
   "ProductSlug": "fallout",
   "Ranking_Rating": 462,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 402,
+  "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1505,10 +1505,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 625,
       "NumberOfAwardsMax": 450
+    },
+    {
+      "Time": "2024-10-10T04:00:12.0133678+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 645,
+      "NumberOfAwardsMax": 450
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 625,
+  "NumberOfAwards": 645,
   "NumberOfAwardsMax": 450,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1565,6 +1571,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Characters",
       "Count": 22
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1579,8 +1591,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T22:02:33.2875741+00:00",
   "FirstSeenRating": "2022-10-28T01:33:28.7432563+00:00",
-  "LastChanged": "2024-10-09T23:58:27.0575+00:00",
+  "LastChanged": "2024-10-10T04:00:12.0133676+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:25.8203796+00:00",
-  "LastUpdate_Ratings": "2024-10-10T03:13:44.2560597+00:00",
+  "LastUpdate_Ratings": "2024-10-10T04:00:12.0133682+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:57.1927683+00:00"
 }

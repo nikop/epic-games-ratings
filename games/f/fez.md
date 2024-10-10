@@ -1,7 +1,7 @@
 # Fez
 [Store](https://store.epicgames.com/en-US/p/fez)  
 [View Rawdata](../../db/f/fez.json)  
-Rating: 4.75 (Ranked 171)  
+Rating: 4.74 (Ranked 190)  
 Number of Ratings: 103  (23.09.2022)  
 ## Awards
 Max (Challenging Puzzles): 30  (Ranked 663)  
@@ -92,3 +92,4 @@ Diff (max vs sum): -25
 | 2024-08-27 | 4.75 | - | 28 | 28 |
 | 2024-09-18 | 4.75 | - | 29 | 29 |
 | 2024-10-07 | 4.75 | - | 30 | 30 |
+| 2024-10-10 | 4.74 | - | 30 | 30 |

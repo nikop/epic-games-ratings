@@ -3472,10 +3472,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1477,
       "NumberOfAwardsMax": 967
+    },
+    {
+      "Time": "2024-10-10T03:58:47.3095049+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1478,
+      "NumberOfAwardsMax": 967
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1477,
+  "NumberOfAwards": 1478,
   "NumberOfAwardsMax": 967,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -3549,7 +3555,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 31
+      "Count": 32
     }
   ],
   "EOS_Progressed": 0,
@@ -3563,8 +3569,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-10-09T21:57:46.6511665+00:00",
+  "LastChanged": "2024-10-10T03:58:47.3095047+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:18.2141819+00:00",
-  "LastUpdate_Ratings": "2024-10-10T02:11:14.013748+00:00",
+  "LastUpdate_Ratings": "2024-10-10T03:58:47.3095052+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.0660072+00:00"
 }
