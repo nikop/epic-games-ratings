@@ -39,7 +39,7 @@
 | 31 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.86 | 25 | 693 |
 | 31 | [Star Atlas](games/s/star_atlas.md) | 4.86 | 64 | 544 |
 | 31 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 72 | 525 |
-| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,453 | 130 |
+| 31 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 2,456 | 130 |
 | 31 | [The Legend of Heroes: Trails from Zero](games/t/the_legend_of_heroes__trails_from_zero.md) | 4.86 | 0 | 736 |
 | 42 | [A Short Hike](games/a/a_short_hike.md) | 4.85 | 0 | 736 |
 | 42 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 4.85 | 0 | 736 |
@@ -119,7 +119,7 @@
 | 115 | [Griftlands](games/g/griftlands.md) | 4.79 | 23 | 705 |
 | 115 | [Kenshi](games/e/ef2ca9fad90049ffa89aad61bd203b61.md) | 4.79 | 23 | 705 |
 | 115 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,929 | 150 |
-| 115 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,085 | 200 |
+| 115 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 1,087 | 200 |
 | 115 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.79 | 3,210 | 119 |
 | 115 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 514 | 268 |
 | 115 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 145 | 422 |
@@ -236,7 +236,7 @@
 | 230 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.71 | 0 | 736 |
 | 230 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.71 | 0 | 736 |
 | 230 | [Islets](games/i/islets.md) | 4.71 | 66 | 540 |
-| 230 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 9,446 | 65 |
+| 230 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 9,456 | 65 |
 | 230 | [Ratchet & Clank: Rift Apart](games/0/046aeb7098b94ac3961dad6c5dbe68c0.md) | 4.71 | 29 | 667 |
 | 230 | [Sailing Era](games/s/sailing_era.md) | 4.71 | 24 | 695 |
 | 230 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 4.71 | 44 | 599 |
@@ -279,7 +279,7 @@
 | 276 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.69 | 5,232 | 97 |
 | 276 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 736 |
 | 276 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.69 | 92 | 495 |
-| 276 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 143,578 | 10 |
+| 276 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 143,641 | 10 |
 | 276 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.69 | 0 | 736 |
 | 276 | [Coromon](games/c/coromon.md) | 4.69 | 53 | 572 |
 | 276 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.69 | 180,114 | 7 |
@@ -669,7 +669,7 @@
 | 655 | [SpellForce 3: Fallen God](games/s/spellforce_3__fallen_god.md) | 4.53 | 0 | 736 |
 | 655 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.53 | 166 | 403 |
 | 655 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.53 | 0 | 736 |
-| 655 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,388 | 171 |
+| 655 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 4.53 | 1,391 | 171 |
 | 655 | [Verdun](games/v/verdun.md) | 4.53 | 128 | 443 |
 | 655 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.53 | 0 | 736 |
 | 673 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.52 | 0 | 736 |
@@ -678,7 +678,7 @@
 | 673 | [Calico](games/c/calico.md) | 4.52 | 0 | 736 |
 | 673 | [Colt Canyon](games/c/colt_canyon.md) | 4.52 | 0 | 736 |
 | 673 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 4.52 | 0 | 736 |
-| 673 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 4.52 | 1,674 | 157 |
+| 673 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 4.52 | 1,681 | 157 |
 | 673 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 736 |
 | 673 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.52 | 401 | 296 |
 | 673 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 4.52 | 172 | 399 |
@@ -1298,8 +1298,8 @@
 | 1,296 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 3.84 | 0 | 736 |
 | 1,296 | [Spelldrifter](games/s/spelldrifter.md) | 3.84 | 0 | 736 |
 | 1,296 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.84 | 0 | 736 |
-| 1,299 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.83 | 0 | 736 |
-| 1,300 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.82 | 138 | 433 |
+| 1,299 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 3.82 | 138 | 433 |
+| 1,299 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.82 | 0 | 736 |
 | 1,301 | [INDUSTRIA](games/i/industria.md) | 3.81 | 0 | 736 |
 | 1,301 | [War Tanks](games/6/6e6916441a70473eac5849afca73080f.md) | 3.81 | 0 | 736 |
 | 1,303 | [Stormshot: Isle of Adventure](games/4/4fabdbae3e4749d9a240e6bc0166b454.md) | 3.79 | 0 | 736 |

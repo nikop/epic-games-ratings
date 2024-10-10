@@ -9,7 +9,7 @@
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 180,114 | 4.69 | 276 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 168,099 | 4.50 | 717 |
 | 9 | [VALORANT](games/v/valorant.md) | 154,250 | 4.49 | 739 |
-| 10 | [Borderlands 3](games/b/borderlands_3.md) | 143,578 | 4.69 | 276 |
+| 10 | [Borderlands 3](games/b/borderlands_3.md) | 143,641 | 4.69 | 276 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 85,944 | 4.44 | 832 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 73,722 | 4.58 | 539 |
 | 13 | [Dying Light: Standard Edition](games/d/dying_light_enhanced_edition.md) | 70,832 | 4.62 | 434 |
@@ -64,7 +64,7 @@
 | 62 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 10,043 | 4.48 | 759 |
 | 63 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 9,590 | 4.84 | 51 |
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 9,513 | 4.65 | 361 |
-| 65 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 9,446 | 4.71 | 230 |
+| 65 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 9,456 | 4.71 | 230 |
 | 66 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 9,373 | 4.75 | 171 |
 | 67 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 8,971 | 4.69 | 276 |
 | 68 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 8,656 | 4.75 | 171 |
@@ -129,7 +129,7 @@
 | 127 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 2,502 | 4.82 | 81 |
 | 128 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,492 | 4.67 | 320 |
 | 129 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 2,474 | 4.89 | 12 |
-| 130 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,453 | 4.86 | 31 |
+| 130 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 2,456 | 4.86 | 31 |
 | 131 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,403 | 4.41 | 885 |
 | 132 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 2,385 | 4.69 | 276 |
 | 133 | [MORDHAU](games/m/mordhau.md) | 2,382 | 4.36 | 968 |
@@ -156,7 +156,7 @@
 | 154 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,742 | 4.62 | 434 |
 | 155 | [OUTRIDERS](games/o/outriders.md) | 1,712 | 4.44 | 832 |
 | 156 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 1,688 | 4.63 | 412 |
-| 157 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 1,674 | 4.52 | 673 |
+| 157 | [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 1,681 | 4.52 | 673 |
 | 158 | [Crosshair X](games/7/74ef4349fd684c438077d9e5287c7b2e.md) | 1,668 | 4.58 | 539 |
 | 159 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 1,651 | 4.75 | 171 |
 | 160 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 1,647 | 4.43 | 854 |
@@ -170,7 +170,7 @@
 | 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,438 | 4.67 | 320 |
 | 169 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,432 | 4.70 | 252 |
 | 170 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,406 | 4.46 | 797 |
-| 171 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,388 | 4.53 | 655 |
+| 171 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,391 | 4.53 | 655 |
 | 172 | [EVE Online](games/e/eve_online.md) | 1,378 | 4.23 | 1,109 |
 | 173 | [Saints Row](games/s/saints_row.md) | 1,365 | 3.91 | 1,280 |
 | 174 | [DOOM 64](games/d/doom_64.md) | 1,358 | 4.65 | 361 |
@@ -199,7 +199,7 @@
 | 197 | [Frostpunk](games/f/frostpunk.md) | 1,101 | 4.75 | 171 |
 | 198 | [Ooblets](games/o/ooblets.md) | 1,096 | 4.87 | 19 |
 | 199 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 1,090 | 4.22 | 1,121 |
-| 200 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 1,085 | 4.79 | 115 |
+| 200 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 1,087 | 4.79 | 115 |
 | 201 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 1,078 | 4.65 | 361 |
 | 202 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 1,056 | 4.59 | 512 |
 | 203 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 1,055 | 4.24 | 1,096 |
@@ -432,7 +432,7 @@
 | 430 | [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 142 | 4.16 | 1,178 |
 | 431 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 140 | 4.42 | 874 |
 | 432 | [Town of Salem 2](games/a/ab9f1f7354a8418388b43132d420524a.md) | 139 | 4.52 | 673 |
-| 433 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 138 | 3.82 | 1,300 |
+| 433 | [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 138 | 3.82 | 1,299 |
 | 434 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 137 | 4.50 | 717 |
 | 434 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 137 | 4.27 | 1,068 |
 | 436 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 136 | 4.62 | 434 |
