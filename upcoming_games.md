@@ -18,6 +18,7 @@
 | [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-25 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
 | [BloodBound](games/e/eaa1681d545e405b92a2665a443d02d7.md) | 2024-10-25 | - |  | - | - |
+| [Red Dead Redemption](games/f/fbbfe0bfd2ba46bd8eaeff0981b6e1e1.md) | 2024-10-29 | - |  | - | - |
 | [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
 | [Barrel Baller](games/5/51b263d03178465b87a5a46315be468e.md) | 2024-10-31 | - |  | - | - |
 | [Bmx Bastards](games/a/af34c848367c4071b8083b22c90e15fb.md) | 2024-10-31 | - |  | - | - |
