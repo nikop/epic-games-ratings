@@ -3,8 +3,8 @@
   "Name": "Freshly Frosted",
   "ProductSlug": "freshly-frosted-c636d0",
   "Ranking_Rating": 560,
-  "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 586,
+  "Ranking_Popularity": 459,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 3,
@@ -376,18 +376,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 112,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2024-10-09T23:58:23.6694474+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 114,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 112,
-  "NumberOfAwardsMax": 112,
+  "NumberOfAwards": 114,
+  "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 112
+      "Count": 114
     }
   ],
   "EOS_Progressed": 93707,
@@ -1057,9 +1063,9 @@
   "FirstSeen": "2022-07-22T20:32:23.8799258+00:00",
   "FirstSeenRating": "2023-03-31T05:58:42.7543353+00:00",
   "FirstSeenAchievements": "2024-06-17T16:16:37.4164305+00:00",
-  "LastChanged": "2024-10-03T11:57:29.6083176+00:00",
+  "LastChanged": "2024-10-09T23:58:23.6694472+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:43.060858+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:11.5754169+00:00",
-  "LastUpdate_Ratings": "2024-10-09T21:59:37.1445105+00:00",
+  "LastUpdate_Ratings": "2024-10-09T23:58:23.6694477+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:43.0609306+00:00"
 }
