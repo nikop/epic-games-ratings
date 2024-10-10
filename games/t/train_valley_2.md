@@ -361,7 +361,7 @@ Completed: 37 (0.01%) (Ranked 563)
 | 2024-09-14 | 464,954 | 37 |
 ## Awards
 Max (Challenging Puzzles): 1,605  (Ranked 161)  
-Sum: 3,739 (Ranked 206)  
+Sum: 3,741 (Ranked 206)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
@@ -369,12 +369,12 @@ Diff (max vs sum): -45
 | This game is Great for Beginners | 503 |
 | This game has Playful Visuals | 245 |
 | This game is Highly Recommended | 221 |
-| This game is Extremely Fun | 187 |
+| This game is Extremely Fun | 188 |
 | This game has Quickly Understood Controls | 185 |
 | This game is Relaxing | 178 |
 | This game has a Creative Community | 172 |
 | This game has Challenging Combat | 170 |
-| This game has Amazing Storytelling | 151 |
+| This game has Amazing Storytelling | 152 |
 | This game has Amazing Characters | 122 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -878,4 +878,4 @@ Diff (max vs sum): -45
 | 2024-10-07 | 4.50 | - | 1,601 | 3,724 |
 | 2024-10-08 | 4.50 | - | 1,605 | 3,734 |
 | 2024-10-09 | 4.50 | - | 1,605 | 3,735 |
-| 2024-10-10 | 4.50 | - | 1,605 | 3,739 |
+| 2024-10-10 | 4.50 | - | 1,605 | 3,741 |

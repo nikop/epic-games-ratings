@@ -2,7 +2,7 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 739,
+  "Ranking_Rating": 740,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 7,
   "Ranking_EOS_Progress": 1263,
@@ -24905,10 +24905,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 1061171,
       "NumberOfAwardsMax": 154467
+    },
+    {
+      "Time": "2024-10-10T15:58:25.1602598+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 1061274,
+      "NumberOfAwardsMax": 154467
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1061171,
+  "NumberOfAwards": 1061274,
   "NumberOfAwardsMax": 154467,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -24958,7 +24964,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 104505
+      "Count": 104608
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -24984,8 +24990,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2024-10-10T10:57:41.3416245+00:00",
+  "LastChanged": "2024-10-10T15:58:25.1602596+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:00.4527223+00:00",
-  "LastUpdate_Ratings": "2024-10-10T13:59:08.7684168+00:00",
+  "LastUpdate_Ratings": "2024-10-10T15:58:25.1602602+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:08.5790169+00:00"
 }

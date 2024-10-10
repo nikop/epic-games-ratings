@@ -2,7 +2,7 @@
   "ID": "8ad9396e01f046aaa784a33f7e60dfbe",
   "Name": "Mafia III: Definitive Edition",
   "ProductSlug": "mafia-iii-definitive-edition",
-  "Ranking_Rating": 1179,
+  "Ranking_Rating": 1178,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 1263,
@@ -1645,10 +1645,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 567,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-10-10T15:58:35.9610715+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 568,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 567,
+  "NumberOfAwards": 568,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1674,7 +1680,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1730,8 +1736,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2024-10-08T21:57:22.9766256+00:00",
+  "LastChanged": "2024-10-10T15:58:35.9610713+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:20.4572465+00:00",
-  "LastUpdate_Ratings": "2024-10-10T13:59:19.6439402+00:00",
+  "LastUpdate_Ratings": "2024-10-10T15:58:35.9610718+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:54.4738009+00:00"
 }
