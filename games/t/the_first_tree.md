@@ -1,7 +1,7 @@
 # The First Tree
 [Store](https://store.epicgames.com/en-US/p/the-first-tree)  
 [View Rawdata](../../db/t/the_first_tree.json)  
-Rating: 4.03 (Ranked 1,245)  
+Rating: 4.04 (Ranked 1,241)  
 Number of Ratings: 56  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -380,3 +380,4 @@ Completed: 150 (0.31%) (Ranked 391)
 | 2024-08-16 | 4.01 | - | 0 | 0 |
 | 2024-08-20 | 4.02 | - | 0 | 0 |
 | 2024-10-07 | 4.03 | - | 0 | 0 |
+| 2024-10-10 | 4.04 | - | 0 | 0 |

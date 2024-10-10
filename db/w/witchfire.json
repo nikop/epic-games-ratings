@@ -4,7 +4,7 @@
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 412,
   "Ranking_Popularity": 320,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 223,
   "Ranking_EOS_NewPlayers": 3,
@@ -4464,10 +4464,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1685,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2024-10-10T16:57:24.1684048+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1695,
+      "NumberOfAwardsMax": 301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1685,
+  "NumberOfAwards": 1695,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -4481,13 +4487,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 284
+      "Count": 288
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 242
+      "Count": 245
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4529,13 +4535,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 214
+      "Count": 215
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 157
+      "Count": 159
     }
   ],
   "EOS_Progressed": 8967,
@@ -4726,9 +4732,9 @@
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
   "FirstSeenAchievements": "2024-09-14T14:19:34.9419485+00:00",
-  "LastChanged": "2024-10-09T19:58:35.8474575+00:00",
+  "LastChanged": "2024-10-10T16:57:24.1684046+00:00",
   "LastChanged_Achievements": "2024-10-09T19:03:32.1056476+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:14.1538488+00:00",
-  "LastUpdate_Ratings": "2024-10-10T14:58:38.3209578+00:00",
+  "LastUpdate_Ratings": "2024-10-10T16:57:24.1684053+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:32.1068107+00:00"
 }
