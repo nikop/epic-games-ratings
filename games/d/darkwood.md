@@ -1,10 +1,10 @@
 # Darkwood
 [Store](https://store.epicgames.com/en-US/p/darkwood-fa73bd)  
 [View Rawdata](../../db/d/darkwood.json)  
-Rating: 4.62 (Ranked 434)  
+Rating: 4.62 (Ranked 435)  
 ## Awards
 Max (Extremely Fun): 353  (Ranked 305)  
-Sum: 2,670 (Ranked 236)  
+Sum: 2,671 (Ranked 236)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 69
 | This game has Unique Visuals | 295 |
 | This game has Diverse Characters | 295 |
 | This game has Amazing Characters | 284 |
-| This game has a Creative Community | 192 |
+| This game has a Creative Community | 193 |
 | This game has Obsessive Gameplay | 65 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -232,3 +232,4 @@ Diff (max vs sum): 69
 | 2024-10-06 | 4.62 | 353 | 2,668 |
 | 2024-10-08 | 4.62 | 353 | 2,669 |
 | 2024-10-09 | 4.62 | 353 | 2,670 |
+| 2024-10-10 | 4.62 | 353 | 2,671 |
