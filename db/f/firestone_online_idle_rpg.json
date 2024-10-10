@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1307,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 222,
+  "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 540,
   "Ranking_EOS_NewPlayers": 3,
@@ -4128,10 +4128,16 @@
       "Rating": 3.76,
       "NumberOfAwards": 3014,
       "NumberOfAwardsMax": 1240
+    },
+    {
+      "Time": "2024-10-10T13:15:23.7899928+00:00",
+      "Rating": 3.76,
+      "NumberOfAwards": 3017,
+      "NumberOfAwardsMax": 1240
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3014,
+  "NumberOfAwards": 3017,
   "NumberOfAwardsMax": 1240,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4175,7 +4181,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 482
+      "Count": 485
     },
     {
       "Text": "This game is Relaxing",
@@ -17607,9 +17613,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-10-10T10:59:38.0689543+00:00",
+  "LastChanged": "2024-10-10T13:15:23.7899926+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:06.9325199+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:16.3282481+00:00",
-  "LastUpdate_Ratings": "2024-10-10T10:59:38.0689549+00:00",
+  "LastUpdate_Ratings": "2024-10-10T13:15:23.789993+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.9326231+00:00"
 }
