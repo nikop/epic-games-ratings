@@ -1,7 +1,7 @@
 # Melatonin
 [Store](https://store.epicgames.com/en-US/p/melatonin-f16dcb)  
 [View Rawdata](../../db/m/melatonin.json)  
-Rating: 4.84 (Ranked 51)  
+Rating: 4.85 (Ranked 42)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -16,3 +16,4 @@ Rating: 4.84 (Ranked 51)
 | 2024-09-06 | 4.82 | 0 | 0 |
 | 2024-09-21 | 4.83 | 0 | 0 |
 | 2024-09-25 | 4.84 | 0 | 0 |
+| 2024-10-10 | 4.85 | 0 | 0 |

@@ -2,8 +2,8 @@
   "ID": "53ea1f0a585f4fbc9c8adc6b76af1165",
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
-  "Ranking_Rating": 560,
-  "Ranking_Popularity": 622,
+  "Ranking_Rating": 561,
+  "Ranking_Popularity": 617,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 595,
@@ -552,12 +552,18 @@
       "Rating": 4.57,
       "NumberOfAwards": 174,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2024-10-10T22:57:47.9958089+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 177,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 174,
-  "NumberOfAwardsMax": 38,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 177,
+  "NumberOfAwardsMax": 39,
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -569,7 +575,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 39
     },
     {
       "Text": "This game is Highly Recommended",
@@ -599,7 +605,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 1946,
@@ -893,9 +899,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-10-10T08:57:14.2644562+00:00",
+  "LastChanged": "2024-10-10T22:57:47.9958084+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
   "LastUpdate_AppInfo": "2024-10-09T10:57:31.8229379+00:00",
-  "LastUpdate_Ratings": "2024-10-10T20:58:35.4256649+00:00",
+  "LastUpdate_Ratings": "2024-10-10T22:57:47.9958092+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
 }
