@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 3.81,
+  "Rating": 3.82,
   "RatingHistory": [
     {
       "Time": "2024-04-07T15:58:07.8680422+00:00",
@@ -929,18 +929,24 @@
       "Rating": 3.81,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 137
+    },
+    {
+      "Time": "2024-10-10T03:16:13.7890837+00:00",
+      "Rating": 3.82,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 138
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
-  "NumberOfAwardsMax": 137,
+  "NumberOfAwards": 231,
+  "NumberOfAwardsMax": 138,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 137
+      "Count": 138
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1116,9 +1122,9 @@
   "FirstSeen": "2024-04-03T02:14:35.9374728+00:00",
   "FirstSeenRating": "2024-04-07T15:58:07.8680419+00:00",
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged": "2024-10-08T09:58:43.7031308+00:00",
+  "LastChanged": "2024-10-10T03:16:13.7890836+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:02.4205217+00:00",
   "LastUpdate_AppInfo": "2024-10-04T23:57:05.1783453+00:00",
-  "LastUpdate_Ratings": "2024-10-10T00:00:21.227214+00:00",
+  "LastUpdate_Ratings": "2024-10-10T03:16:13.7890841+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:02.420531+00:00"
 }
