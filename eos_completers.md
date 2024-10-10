@@ -674,7 +674,7 @@
 | 595 | [Bread and Fred](games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 0.00% |
 | 595 | [BROK the InvestiGator](games/b/brok_the_investigator.md) | 0.00% |
 | 595 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 0.00% |
-| 595 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 0.00% |
+| 595 | [Bulwark Evolution: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 0.00% |
 | 595 | [Burst Hero](games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 0.00% |
 | 595 | [Bus World](games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 0.00% |
 | 595 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 0.00% |

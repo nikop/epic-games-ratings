@@ -248,7 +248,7 @@
 | [Buddy and Friends in Halloween](../games/a/ad3283cc38a64db89c010975976948de.md) | 31 | 1,000 |
 | [Bug Fables -The Everlasting Sapling-](../games/b/bug_fables_-the_everlasting_sapling-.md) | 30 | 1,000 |
 | [Bugsnax](../games/b/bugsnax.md) | 30 | 1,000 |
-| [Bulwark: Falconeer Chronicles](../games/0/03372ee2086f45c0a2f70807c75189ab.md) | 24 | 1,000 |
+| [Bulwark Evolution: Falconeer Chronicles](../games/0/03372ee2086f45c0a2f70807c75189ab.md) | 24 | 1,000 |
 | [Bunny Park](../games/b/bunny_park.md) | 18 | 1,000 |
 | [Burst Hero](../games/c/c923cc91073d4405bd8d2f356066bfbd.md) | 69 | 1,000 |
 | [Bus World](../games/e/e5fe6253deb3455c9ce9ecf0d2b68a6d.md) | 14 | 1,000 |

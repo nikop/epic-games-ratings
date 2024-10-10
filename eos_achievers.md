@@ -711,7 +711,7 @@
 | 709 | [Enchanted Portals](games/7/78d62c43bcae4a649f87fdb6c0105b9a.md) | 102 | 0 |
 | 710 | [Grim Nights](games/g/grim_nights.md) | 100 | 0 |
 | 710 | [HAAK](games/2/24bd39f944fa45ad8a953116f9908525.md) | 100 | 0 |
-| 712 | [Bulwark: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 99 | 0 |
+| 712 | [Bulwark Evolution: Falconeer Chronicles](games/0/03372ee2086f45c0a2f70807c75189ab.md) | 99 | 0 |
 | 712 | [HORSE CLUB Adventures 2 - Hazelwood Stories](games/f/f03926dee08f4c29b20d907c4cb5f9e4.md) | 99 | 0 |
 | 712 | [ROBOBEAT](games/r/robobeat.md) | 99 | 1 |
 | 712 | [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 99 | 0 |
