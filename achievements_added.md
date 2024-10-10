@@ -6,7 +6,7 @@
 | [Rogue Waters](games/8/898ae428ada149888c1cdd97aaa29845.md) | 2024-09-30 | 18 (1,000 XP) | 48 | - | 0 |
 | [The Karate Kid Street Rumble](games/9/945620b4eca746e0991d17d4ea450d6a.md) | 2024-09-20 | 47 (1,000 XP) | 8 | - | - |
 | [File Destined](games/a/a797d4405a1c4f0ab62023d72628f60c.md) | 2024-09-30 | 29 (1,000 XP) | 0 | - | - |
-| [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | 5 (1,000 XP) | 1,140 | 4.78 | 0 |
+| [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | 5 (1,000 XP) | 1,140 | 4.80 | 0 |
 | [Forklift Simulator](games/6/636d5e985fb44d938ce143d2b39957c8.md) | 2024-09-12 | 43 (1,000 XP) | 8 | - | 0 |
 | [63 Days](games/8/843074ada4be43cd82187404f21ca7d1.md) | 2024-09-26 | 62 (1,000 XP) | 6 | - | 0 |
 | [Yars Rising](games/e/ec0adf6692fb49eea0f16dc908008d86.md) | 2024-09-10 | 33 (1,000 XP) | 9 | - | 0 |
@@ -205,7 +205,7 @@
 | [Eiyuden Chronicle: Hundred Heroes](games/e/eiyuden_chronicle__hundred_heroes.md) | 2024-04-23 | 55 (1,000 XP) | 349 | 4.70 | 0 |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |
 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 2020-10-28 | 133 (1,000 XP) | 1,114 | 4.74 | 101 |
-| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 21,355 | 4.64 | 827 |
+| [Fallout 4](games/9/9c1a74145a9145ec803d7452e80819a0.md) | 2024-04-25 | 84 (1,600 XP) | 21,355 | 4.64 | 830 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 15 | - | 0 |
 | [Voidtrain](games/v/voidtrain.md) | 2021-08-12 | 55 (1,000 XP) | 20,627 | 4.50 | 58 |
 | [Republic of Pirates](games/0/0cf54ee6730540daadb4f3bb7d54d481.md) | 2024-06-19 | 50 (1,000 XP) | 168 | - | 0 |
@@ -494,7 +494,7 @@
 | [CounterAttack: Uprising](games/4/474de2af8ae04a7b9991ea3fbbc56c7b.md) | 2024-01-12 | 24 (1,000 XP) | 96 | - | 0 |
 | [Love Money Rock-n-Roll](games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 2024-01-25 | 18 (1,000 XP) | 2 | - | 0 |
 | [Indoorlands](games/e/e920c823522745c88a85e396965afc62.md) | 2023-12-17 | 31 (1,000 XP) | 134 | - | 0 |
-| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 455,252 | 4.29 | 192 |
+| [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 2023-12-13 | 81 (1,400 XP) | 455,252 | 4.29 | 193 |
 | [Thief](games/3/3319fe5042ab4392a2b11c6938c0cda1.md) | 2023-12-13 | 37 (1,000 XP) | 528,131 | 4.21 | 106 |
 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 2022-08-22 | 27 (1,000 XP) | 6,388 | 4.42 | 140 |
 | [Darksiders III](games/d/darksiders_iii.md) | 2018-11-27 | 64 (1,000 XP) | 2,732 | 4.48 | 127 |
@@ -679,7 +679,7 @@
 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 2021-01-14 | 43 (1,045 XP) | 636,542 | - | 0 |
 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 2023-08-18 | 21 (1,000 XP) | 16,002 | 4.19 | 615 |
 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 2021-01-14 | 63 (2,000 XP) | 8,677 | - | 0 |
-| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 67,367 | 4.51 | 14,330 |
+| [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | 53 (1,000 XP) | 67,367 | 4.51 | 14,339 |
 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 2023-09-29 | 40 (1,000 XP) | 702,799 | 4.18 | 50,854 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-08-22 | 47 (1,000 XP) | 4,501 | 4.18 | 38 |
 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 2023-09-28 | 77 (1,000 XP) | 565 | 4.83 | 22 |
