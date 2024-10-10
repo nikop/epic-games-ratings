@@ -4,7 +4,7 @@
   "ProductSlug": "metro-2033-redux",
   "Ranking_Rating": 276,
   "Ranking_Popularity": 167,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -2396,6 +2396,6 @@
   "FirstSeen": "2022-07-22T20:19:16.3934902+00:00",
   "LastChanged": "2024-10-09T20:58:48.7227972+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:00.2340709+00:00",
-  "LastUpdate_Ratings": "2024-10-10T09:59:25.8269479+00:00",
+  "LastUpdate_Ratings": "2024-10-10T11:58:38.7618384+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:19.9683185+00:00"
 }

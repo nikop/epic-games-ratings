@@ -2729,10 +2729,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 672,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2024-10-10T12:00:15.4757435+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 673,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 672,
+  "NumberOfAwards": 673,
   "NumberOfAwardsMax": 156,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2800,7 +2806,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 61
+      "Count": 62
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2821,8 +2827,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-10-09T17:58:12.4134428+00:00",
+  "LastChanged": "2024-10-10T12:00:15.4757433+00:00",
   "LastUpdate_AppInfo": "2024-10-08T23:57:18.817305+00:00",
-  "LastUpdate_Ratings": "2024-10-10T10:58:06.4396986+00:00",
+  "LastUpdate_Ratings": "2024-10-10T12:00:15.4757438+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:48.412847+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 252,
   "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -13202,10 +13202,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 17357,
       "NumberOfAwardsMax": 5479
+    },
+    {
+      "Time": "2024-10-10T11:58:32.9932884+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 17360,
+      "NumberOfAwardsMax": 5479
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17357,
+  "NumberOfAwards": 17360,
   "NumberOfAwardsMax": 5479,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13261,7 +13267,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1204
+      "Count": 1207
     },
     {
       "Text": "This game is Relaxing",
@@ -13299,8 +13305,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2024-10-10T00:00:08.6541179+00:00",
+  "LastChanged": "2024-10-10T11:58:32.9932882+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:40.0193991+00:00",
-  "LastUpdate_Ratings": "2024-10-10T09:59:20.1710431+00:00",
+  "LastUpdate_Ratings": "2024-10-10T11:58:32.9932888+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:37.2421177+00:00"
 }
