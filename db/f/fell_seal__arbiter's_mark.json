@@ -3,8 +3,8 @@
   "Name": "Fell Seal: Arbiter\u0027s Mark",
   "ProductSlug": "fell-seal-arbiters-mark",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 667,
-  "Ranking_PopularitySum": 691,
+  "Ranking_Popularity": 663,
+  "Ranking_PopularitySum": 689,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -215,18 +215,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-10-10T17:57:36.0068419+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 30,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 29
+      "Count": 30
     }
   ],
   "EOS_Progressed": 0,
@@ -240,8 +246,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:38.543998+00:00",
-  "LastChanged": "2024-10-04T18:57:20.1057176+00:00",
+  "LastChanged": "2024-10-10T17:57:36.0068417+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:37.6481789+00:00",
-  "LastUpdate_Ratings": "2024-10-10T15:58:01.5032354+00:00",
+  "LastUpdate_Ratings": "2024-10-10T17:57:36.0068423+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:50.358402+00:00"
 }

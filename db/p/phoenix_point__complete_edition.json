@@ -3,7 +3,7 @@
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
   "Ranking_Rating": 584,
-  "Ranking_Popularity": 149,
+  "Ranking_Popularity": 148,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -5341,18 +5341,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 7746,
       "NumberOfAwardsMax": 1930
+    },
+    {
+      "Time": "2024-10-10T18:00:14.4474188+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 7748,
+      "NumberOfAwardsMax": 1932
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7746,
-  "NumberOfAwardsMax": 1930,
+  "NumberOfAwards": 7748,
+  "NumberOfAwardsMax": 1932,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1930
+      "Count": 1932
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5420,8 +5426,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
-  "LastChanged": "2024-10-10T09:57:29.4951047+00:00",
+  "LastChanged": "2024-10-10T18:00:14.4474186+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:22.9658419+00:00",
-  "LastUpdate_Ratings": "2024-10-10T16:57:49.6642945+00:00",
+  "LastUpdate_Ratings": "2024-10-10T18:00:14.4474192+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:41.7074597+00:00"
 }

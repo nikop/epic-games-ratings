@@ -1,12 +1,12 @@
 # Quake
 [Store](https://store.epicgames.com/en-US/p/quake)  
 [View Rawdata](../../db/q/quake.json)  
-Rating: 4.78 (Ranked 129)  
+Rating: 4.78 (Ranked 130)  
 Number of Ratings: 53  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 67  (Ranked 537)  
-Sum: 67 (Ranked 630)  
-Diff (max vs sum): -93  
+Sum: 67 (Ranked 631)  
+Diff (max vs sum): -94  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 67 |
