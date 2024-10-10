@@ -2,7 +2,7 @@
   "ID": "8d296e80f3ec42a79881f0693f3bded0",
   "Name": "The Last Stand: Aftermath",
   "ProductSlug": "the-last-stand-aftermath",
-  "Ranking_Rating": 987,
+  "Ranking_Rating": 976,
   "Ranking_Popularity": 523,
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 1263,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "NumberOfRatings": 44,
   "RatingHistory": [
     {
@@ -752,10 +752,16 @@
       "Rating": 4.34,
       "NumberOfAwards": 374,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-10-10T18:57:59.1616988+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 378,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 374,
+  "NumberOfAwards": 378,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -769,7 +775,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -807,8 +813,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:56.9021792+00:00",
-  "LastChanged": "2024-10-10T13:16:38.7769041+00:00",
+  "LastChanged": "2024-10-10T18:57:59.1616987+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:02.1377437+00:00",
-  "LastUpdate_Ratings": "2024-10-10T16:59:00.6241584+00:00",
+  "LastUpdate_Ratings": "2024-10-10T18:57:59.1616993+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.9577922+00:00"
 }

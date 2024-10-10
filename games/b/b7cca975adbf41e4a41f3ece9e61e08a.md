@@ -1,7 +1,7 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.65 (Ranked 360)  
+Rating: 4.65 (Ranked 361)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -192,8 +192,8 @@ Completed: 422 (1.99%) (Ranked 219)
 | 2024-08-20 | 21,064 | 413 |
 | 2024-09-14 | 21,171 | 422 |
 ## Awards
-Max (Impact the Story): 68  (Ranked 535)  
-Sum: 68 (Ranked 628)  
+Max (Impact the Story): 68  (Ranked 536)  
+Sum: 68 (Ranked 629)  
 Diff (max vs sum): -93  
 | Award | Count |
 | ----- | ----- |
