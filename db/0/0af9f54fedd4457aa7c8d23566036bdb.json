@@ -3,8 +3,8 @@
   "Name": "Titanfall\u00AE 2: Ultimate Edition",
   "ProductSlug": "titanfall-2-6231e2",
   "Ranking_Rating": 97,
-  "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 610,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 449,
   "Ranking_EOS_NewPlayers": 3,
@@ -504,18 +504,24 @@
       "Rating": 4.81,
       "NumberOfAwards": 85,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2024-10-11T18:59:33.0662474+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 87,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 85,
-  "NumberOfAwardsMax": 85,
+  "NumberOfAwards": 87,
+  "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 85
+      "Count": 87
     }
   ],
   "EOS_Progressed": 7697,
@@ -971,9 +977,9 @@
   "FirstSeen": "2024-04-06T23:59:49.4790422+00:00",
   "FirstSeenRating": "2024-06-02T19:58:12.7386021+00:00",
   "FirstSeenAchievements": "2024-04-05T15:01:39.6620521+00:00",
-  "LastChanged": "2024-10-10T15:57:45.843875+00:00",
+  "LastChanged": "2024-10-11T18:59:33.0662472+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:12.8094367+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.979486+00:00",
-  "LastUpdate_Ratings": "2024-10-11T17:00:19.3034067+00:00",
+  "LastUpdate_Ratings": "2024-10-11T18:59:33.0662478+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:12.8094678+00:00"
 }
