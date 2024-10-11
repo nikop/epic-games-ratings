@@ -4,7 +4,7 @@
   "ProductSlug": "apex-legends-006cde",
   "Ranking_Rating": 1181,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 3,
@@ -1392,10 +1392,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 578,
       "NumberOfAwardsMax": 150
+    },
+    {
+      "Time": "2024-10-11T17:59:29.4188199+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 589,
+      "NumberOfAwardsMax": 150
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 578,
+  "NumberOfAwards": 589,
   "NumberOfAwardsMax": 150,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1427,7 +1433,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 86
+      "Count": 88
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1439,7 +1445,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 99
+      "Count": 104
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1451,7 +1457,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 52
+      "Count": 56
     }
   ],
   "EOS_Progressed": 64436,
@@ -1593,9 +1599,9 @@
   "FirstSeen": "2024-08-06T20:57:40.4122368+00:00",
   "FirstSeenRating": "2024-08-07T22:57:45.2970786+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:16.9309535+00:00",
-  "LastChanged": "2024-10-11T08:58:44.3928765+00:00",
+  "LastChanged": "2024-10-11T17:59:29.4188197+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:25.9255025+00:00",
   "LastUpdate_AppInfo": "2024-10-08T03:15:46.6913093+00:00",
-  "LastUpdate_Ratings": "2024-10-11T16:00:26.2153957+00:00",
+  "LastUpdate_Ratings": "2024-10-11T17:59:29.4188203+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:25.9255133+00:00"
 }
