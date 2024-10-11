@@ -4,14 +4,14 @@
 Rating: 4.37 (Ranked 954)  
 ## Awards
 Max (Great for Beginners): 165  (Ranked 405)  
-Sum: 1,161 (Ranked 323)  
-Diff (max vs sum): 82  
+Sum: 1,162 (Ranked 322)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 165 |
 | This game has Diverse Characters | 140 |
 | This game has a Competitive Community | 108 |
-| This game is Highly Recommended | 104 |
+| This game is Highly Recommended | 105 |
 | This game has Challenging Combat | 103 |
 | This game is Extremely Fun | 99 |
 | This game has Amazing Characters | 96 |
@@ -155,4 +155,4 @@ Diff (max vs sum): 82
 | 2024-10-07 | 4.38 | 161 | 1,130 |
 | 2024-10-08 | 4.37 | 161 | 1,142 |
 | 2024-10-09 | 4.37 | 162 | 1,149 |
-| 2024-10-10 | 4.37 | 165 | 1,161 |
+| 2024-10-10 | 4.37 | 165 | 1,162 |
