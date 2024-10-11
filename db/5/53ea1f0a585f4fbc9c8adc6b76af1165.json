@@ -3,8 +3,8 @@
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
   "Ranking_Rating": 586,
-  "Ranking_Popularity": 619,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 618,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -570,10 +570,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 202,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-10-11T20:58:54.3053273+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 203,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202,
+  "NumberOfAwards": 203,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -599,7 +605,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -911,9 +917,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-10-11T15:57:42.4555735+00:00",
+  "LastChanged": "2024-10-11T20:58:54.305327+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
   "LastUpdate_AppInfo": "2024-10-09T10:57:31.8229379+00:00",
-  "LastUpdate_Ratings": "2024-10-11T18:59:08.4192978+00:00",
+  "LastUpdate_Ratings": "2024-10-11T20:58:54.3053275+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
 }

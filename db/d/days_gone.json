@@ -2,7 +2,7 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 274,
+  "Ranking_Rating": 276,
   "Ranking_Popularity": 92,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 1263,
@@ -8957,10 +8957,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 9775,
       "NumberOfAwardsMax": 5644
+    },
+    {
+      "Time": "2024-10-11T20:58:54.6353738+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 9779,
+      "NumberOfAwardsMax": 5644
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9775,
+  "NumberOfAwards": 9779,
   "NumberOfAwardsMax": 5644,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9022,7 +9028,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 449
+      "Count": 453
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9048,8 +9054,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-10-11T18:59:08.7747424+00:00",
+  "LastChanged": "2024-10-11T20:58:54.6353736+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:33.1218847+00:00",
-  "LastUpdate_Ratings": "2024-10-11T18:59:08.774743+00:00",
+  "LastUpdate_Ratings": "2024-10-11T20:58:54.6353741+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:45.434642+00:00"
 }

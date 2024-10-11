@@ -3,8 +3,8 @@
   "Name": "RAWMEN: Food Fighter Arena \uD83C\uDF5C",
   "ProductSlug": "rawmen-03f74e",
   "Ranking_Rating": 957,
-  "Ranking_Popularity": 693,
-  "Ranking_PopularitySum": 627,
+  "Ranking_Popularity": 682,
+  "Ranking_PopularitySum": 625,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -443,18 +443,24 @@
       "Rating": 4.37,
       "NumberOfAwards": 69,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-10-11T20:58:46.5000228+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 71,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 69,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 71,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Characters",
@@ -851,9 +857,9 @@
   "FirstSeen": "2022-12-31T04:58:39.4215478+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:47.2562781+00:00",
-  "LastChanged": "2024-10-10T18:59:42.3362591+00:00",
+  "LastChanged": "2024-10-11T20:58:46.5000226+00:00",
   "LastChanged_Achievements": "2024-10-09T19:02:59.0128646+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:43.1367842+00:00",
-  "LastUpdate_Ratings": "2024-10-11T18:59:00.5716055+00:00",
+  "LastUpdate_Ratings": "2024-10-11T20:58:46.5000231+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:59.0128977+00:00"
 }

@@ -1,11 +1,11 @@
 # Coromon
 [Store](https://store.epicgames.com/en-US/p/coromon-d4ef84)  
 [View Rawdata](../../db/c/coromon.json)  
-Rating: 4.69 (Ranked 274)  
+Rating: 4.69 (Ranked 276)  
 Number of Ratings: 84  (23.09.2022)  
 ## Awards
-Max (Character Customization): 53  (Ranked 574)  
-Sum: 53 (Ranked 647)  
+Max (Character Customization): 53  (Ranked 573)  
+Sum: 53 (Ranked 646)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |
