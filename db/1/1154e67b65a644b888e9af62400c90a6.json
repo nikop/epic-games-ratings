@@ -3,7 +3,7 @@
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 607,
-  "Ranking_Popularity": 109,
+  "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -12587,18 +12587,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 13509,
       "NumberOfAwardsMax": 4167
+    },
+    {
+      "Time": "2024-10-11T13:13:32.1106462+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 13549,
+      "NumberOfAwardsMax": 4190
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13509,
-  "NumberOfAwardsMax": 4167,
+  "NumberOfAwards": 13549,
+  "NumberOfAwardsMax": 4190,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 4167
+      "Count": 4190
     },
     {
       "Text": "This game is Relaxing",
@@ -12640,7 +12646,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 949
+      "Count": 957
     },
     {
       "Text": "This game is Highly Recommended",
@@ -12652,7 +12658,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 770
+      "Count": 779
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12679,8 +12685,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-10-10T21:58:36.3776564+00:00",
+  "LastChanged": "2024-10-11T13:13:32.110646+00:00",
   "LastUpdate_AppInfo": "2024-10-09T20:57:34.3228346+00:00",
-  "LastUpdate_Ratings": "2024-10-11T10:59:08.983148+00:00",
+  "LastUpdate_Ratings": "2024-10-11T13:13:32.1106468+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:50.025404+00:00"
 }

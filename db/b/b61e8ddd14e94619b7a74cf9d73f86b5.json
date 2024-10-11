@@ -3,8 +3,8 @@
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
   "Ranking_Rating": 1131,
-  "Ranking_Popularity": 456,
-  "Ranking_PopularitySum": 431,
+  "Ranking_Popularity": 434,
+  "Ranking_PopularitySum": 424,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -445,18 +445,24 @@
       "Rating": 4.21,
       "NumberOfAwards": 463,
       "NumberOfAwardsMax": 119
+    },
+    {
+      "Time": "2024-10-11T13:12:58.3941362+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 494,
+      "NumberOfAwardsMax": 137
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 463,
-  "NumberOfAwardsMax": 119,
+  "NumberOfAwards": 494,
+  "NumberOfAwardsMax": 137,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 119
+      "Count": 137
     },
     {
       "Text": "This game has Amazing Characters",
@@ -468,7 +474,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 75
+      "Count": 84
     },
     {
       "Text": "This game is Highly Recommended",
@@ -480,7 +486,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 64
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -513,8 +519,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
-  "LastChanged": "2024-10-10T19:58:32.3916061+00:00",
+  "LastChanged": "2024-10-11T13:12:58.394136+00:00",
   "LastUpdate_AppInfo": "2024-10-09T22:57:11.0881369+00:00",
-  "LastUpdate_Ratings": "2024-10-11T10:58:32.4340987+00:00",
+  "LastUpdate_Ratings": "2024-10-11T13:12:58.3941365+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:14.1150285+00:00"
 }
