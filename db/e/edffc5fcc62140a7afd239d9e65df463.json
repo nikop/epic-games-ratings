@@ -4,7 +4,7 @@
   "ProductSlug": "f1-24",
   "Ranking_Rating": 363,
   "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 484,
+  "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -967,10 +967,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 315,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-10-11T14:58:38.7614833+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 315,
+  "NumberOfAwards": 317,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1026,7 +1032,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1483,9 +1489,9 @@
   "FirstSeen": "2024-05-31T16:58:14.3785937+00:00",
   "FirstSeenRating": "2024-06-08T16:01:02.7098356+00:00",
   "FirstSeenAchievements": "2024-06-17T16:15:55.9192889+00:00",
-  "LastChanged": "2024-10-11T13:14:29.5518836+00:00",
+  "LastChanged": "2024-10-11T14:58:38.7614831+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:21.6353706+00:00",
   "LastUpdate_AppInfo": "2024-10-09T13:57:31.8113566+00:00",
-  "LastUpdate_Ratings": "2024-10-11T13:14:29.551884+00:00",
+  "LastUpdate_Ratings": "2024-10-11T14:58:38.7614836+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:21.6354041+00:00"
 }

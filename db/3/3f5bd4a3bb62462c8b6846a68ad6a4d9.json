@@ -4,7 +4,7 @@
   "ProductSlug": "cosmik-battle-f6dbf4",
   "Ranking_Rating": 719,
   "Ranking_Popularity": 564,
-  "Ranking_PopularitySum": 534,
+  "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -876,10 +876,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 208,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-10-11T14:59:13.7230284+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 208,
+  "NumberOfAwards": 209,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -923,7 +929,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -956,8 +962,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T17:57:36.2608146+00:00",
   "FirstSeenRating": "2024-04-14T07:50:45.1717656+00:00",
-  "LastChanged": "2024-10-10T18:58:05.6142012+00:00",
+  "LastChanged": "2024-10-11T14:59:13.7230282+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:14.6015671+00:00",
-  "LastUpdate_Ratings": "2024-10-11T13:15:05.5442819+00:00",
+  "LastUpdate_Ratings": "2024-10-11T14:59:13.7230287+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:29.8572727+00:00"
 }

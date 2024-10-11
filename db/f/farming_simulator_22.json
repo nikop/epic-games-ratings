@@ -2,7 +2,7 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 465,
+  "Ranking_Rating": 466,
   "Ranking_Popularity": 26,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 6,
@@ -22816,10 +22816,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 143702,
       "NumberOfAwardsMax": 25523
+    },
+    {
+      "Time": "2024-10-11T14:58:17.8990589+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 143919,
+      "NumberOfAwardsMax": 25523
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 143702,
+  "NumberOfAwards": 143919,
   "NumberOfAwardsMax": 25523,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -22839,7 +22845,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 12817
+      "Count": 12879
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -22863,7 +22869,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12178
+      "Count": 12235
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -22881,7 +22887,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 19103
+      "Count": 19201
     },
     {
       "Text": "This game has a Creative Community",
@@ -50346,9 +50352,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-10-11T03:59:03.4657977+00:00",
+  "LastChanged": "2024-10-11T14:58:17.8990588+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:14.7630611+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:21.9022083+00:00",
-  "LastUpdate_Ratings": "2024-10-11T13:14:07.1895788+00:00",
+  "LastUpdate_Ratings": "2024-10-11T14:58:17.8990593+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:14.7632029+00:00"
 }

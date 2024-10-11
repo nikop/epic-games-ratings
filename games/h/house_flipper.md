@@ -1,7 +1,7 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.69 (Ranked 274)  
+Rating: 4.69 (Ranked 273)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -319,7 +319,7 @@ Completed: 24 (0.09%) (Ranked 469)
 | 2024-09-14 | 26,503 | 24 |
 ## Awards
 Max (Great for Beginners): 414  (Ranked 292)  
-Sum: 2,546 (Ranked 241)  
+Sum: 2,547 (Ranked 241)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): 51
 | This game is Extremely Fun | 249 |
 | This game is Relaxing | 242 |
 | This game has Amazing Storytelling | 238 |
-| This game has Quickly Understood Controls | 234 |
+| This game has Quickly Understood Controls | 235 |
 | This game has Amazing Characters | 213 |
 | This game has Easy Combat | 188 |
 | This game has Obsessive Gameplay | 173 |
@@ -666,3 +666,4 @@ Diff (max vs sum): 51
 | 2024-10-06 | 4.69 | - | 412 | 2,543 |
 | 2024-10-08 | 4.69 | - | 413 | 2,544 |
 | 2024-10-10 | 4.69 | - | 414 | 2,546 |
+| 2024-10-11 | 4.69 | - | 414 | 2,547 |
