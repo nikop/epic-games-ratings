@@ -16,7 +16,7 @@
 | 13 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.89 | 2,479 | 129 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 31,533 | 21 |
 | 16 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 4.88 | 33 | 646 |
-| 16 | [RimWorld](games/r/rimworld.md) | 4.88 | 661 | 245 |
+| 16 | [RimWorld](games/r/rimworld.md) | 4.88 | 663 | 244 |
 | 16 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 738 |
 | 19 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 4.87 | 15,039 | 42 |
 | 19 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 867 | 222 |
@@ -160,7 +160,7 @@
 | 155 | [GNOG](games/g/gnog.md) | 4.76 | 0 | 738 |
 | 155 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.76 | 14,225 | 45 |
 | 155 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.76 | 0 | 738 |
-| 155 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 3,081 | 120 |
+| 155 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.76 | 3,084 | 120 |
 | 155 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.76 | 0 | 738 |
 | 155 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,932 | 148 |
 | 155 | [Planescape: Torment: Enhanced Edition](games/p/planescape__torment__enhanced_edition.md) | 4.76 | 0 | 738 |
@@ -331,7 +331,7 @@
 | 321 | [INSIDE](games/i/inside.md) | 4.67 | 0 | 738 |
 | 321 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.67 | 0 | 738 |
 | 321 | [Last Day of June](games/l/last_day_of_june.md) | 4.67 | 0 | 738 |
-| 321 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 662 | 244 |
+| 321 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 662 | 245 |
 | 321 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,495 | 128 |
 | 321 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 839 | 225 |
 | 321 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.67 | 44 | 601 |
@@ -700,7 +700,7 @@
 | 698 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 206 | 372 |
 | 698 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.51 | 286 | 328 |
 | 698 | [Aztez](games/a/aztez.md) | 4.51 | 26 | 688 |
-| 698 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,348 | 106 |
+| 698 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,350 | 106 |
 | 698 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.51 | 609 | 256 |
 | 698 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.51 | 123 | 453 |
 | 698 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.51 | 506 | 270 |
@@ -758,7 +758,7 @@
 | 740 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 18,530 | 33 |
 | 740 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.49 | 0 | 738 |
 | 740 | [VALORANT](games/v/valorant.md) | 4.49 | 154,467 | 9 |
-| 759 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 127 | 447 |
+| 759 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 128 | 443 |
 | 759 | [Death Trash](games/d/death_trash.md) | 4.48 | 0 | 738 |
 | 759 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.48 | 0 | 738 |
 | 759 | [Escape Academy](games/e/escape_academy.md) | 4.48 | 0 | 738 |
@@ -819,7 +819,7 @@
 | 815 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 337 | 310 |
 | 815 | [Floppy Knights](games/f/f7ca5706875344d8a1fe695093353fae.md) | 4.45 | 32 | 655 |
 | 815 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.45 | 0 | 738 |
-| 815 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 127 | 447 |
+| 815 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.45 | 127 | 448 |
 | 815 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.45 | 16,542 | 39 |
 | 815 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.45 | 0 | 738 |
 | 815 | [Metalstorm](games/m/metalstorm.md) | 4.45 | 463 | 281 |
@@ -938,7 +938,7 @@
 | 927 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 738 |
 | 927 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.39 | 146 | 423 |
 | 927 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.39 | 77 | 517 |
-| 927 | [SMITE](games/s/smite.md) | 4.39 | 6,496 | 86 |
+| 927 | [SMITE](games/s/smite.md) | 4.39 | 6,501 | 86 |
 | 927 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 354 | 304 |
 | 927 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.39 | 7,287 | 76 |
 | 927 | [The Silent Age](games/t/the_silent_age.md) | 4.39 | 0 | 738 |
@@ -1072,7 +1072,7 @@
 | 1,069 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.27 | 0 | 738 |
 | 1,069 | [Farlight 84](games/6/64543c9227724068970bd85bc4e73e9e.md) | 4.27 | 158 | 410 |
 | 1,069 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.27 | 0 | 738 |
-| 1,069 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.27 | 127 | 447 |
+| 1,069 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 4.27 | 127 | 448 |
 | 1,069 | [Hammerting](games/h/hammerting.md) | 4.27 | 0 | 738 |
 | 1,069 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 21 | 723 |
 | 1,069 | [Nightingale](games/n/nightingale.md) | 4.27 | 97 | 486 |

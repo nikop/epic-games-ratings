@@ -85,7 +85,7 @@
 | 83 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 876 |
 | 84 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,607 | 4.80 | 105 |
 | 85 | [Rogue Company](games/r/rogue_company.md) | 6,561 | 4.26 | 1,081 |
-| 86 | [SMITE](games/s/smite.md) | 6,496 | 4.39 | 927 |
+| 86 | [SMITE](games/s/smite.md) | 6,501 | 4.39 | 927 |
 | 87 | [Prey](games/p/prey.md) | 6,334 | 4.63 | 413 |
 | 88 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 6,329 | 4.84 | 52 |
 | 89 | [BioShock Remastered](games/b/bioshock_remastered.md) | 6,320 | 4.64 | 388 |
@@ -105,7 +105,7 @@
 | 103 | [Ghostrunner](games/g/ghostrunner.md) | 4,558 | 4.56 | 585 |
 | 104 | [Hades](games/h/hades.md) | 4,368 | 4.91 | 5 |
 | 105 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4,352 | 4.77 | 139 |
-| 106 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,348 | 4.51 | 698 |
+| 106 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,350 | 4.51 | 698 |
 | 107 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4,265 | 4.66 | 342 |
 | 108 | [Among Us](games/a/among_us.md) | 4,167 | 4.55 | 606 |
 | 108 | [Palia](games/1/1154e67b65a644b888e9af62400c90a6.md) | 4,167 | 4.55 | 606 |
@@ -119,7 +119,7 @@
 | 117 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 3,426 | 4.14 | 1,191 |
 | 118 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 3,329 | 4.71 | 230 |
 | 119 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 3,212 | 4.79 | 115 |
-| 120 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 3,081 | 4.76 | 155 |
+| 120 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 3,084 | 4.76 | 155 |
 | 121 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,778 | 4.75 | 172 |
 | 122 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,700 | 4.81 | 95 |
 | 123 | [World of Warships](games/w/world_of_warships.md) | 2,694 | 4.40 | 907 |
@@ -243,8 +243,8 @@
 | 241 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 737 | 4.41 | 886 |
 | 242 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 708 | 4.36 | 968 |
 | 243 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 692 | 4.41 | 886 |
-| 244 | [Loop Hero](games/l/loop_hero.md) | 662 | 4.67 | 321 |
-| 245 | [RimWorld](games/r/rimworld.md) | 661 | 4.88 | 16 |
+| 244 | [RimWorld](games/r/rimworld.md) | 663 | 4.88 | 16 |
+| 245 | [Loop Hero](games/l/loop_hero.md) | 662 | 4.67 | 321 |
 | 246 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 658 | 4.67 | 321 |
 | 247 | [Godfall Ultimate Edition](games/g/godfall.md) | 654 | 4.05 | 1,239 |
 | 248 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 650 | 4.75 | 172 |
@@ -443,12 +443,12 @@
 | 441 | [Poker Club](games/p/poker_club.md) | 133 | 3.87 | 1,292 |
 | 441 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 133 | 4.20 | 1,139 |
 | 443 | [Carcassonne](games/c/carcassonne.md) | 128 | 4.66 | 342 |
+| 443 | [Darksiders III](games/d/darksiders_iii.md) | 128 | 4.48 | 759 |
 | 443 | [Faeria](games/f/faeria.md) | 128 | 4.44 | 833 |
 | 443 | [This War of Mine](games/t/this_war_of_mine.md) | 128 | 4.74 | 190 |
 | 443 | [Verdun](games/v/verdun.md) | 128 | 4.53 | 655 |
-| 447 | [Darksiders III](games/d/darksiders_iii.md) | 127 | 4.48 | 759 |
-| 447 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 127 | 4.27 | 1,069 |
-| 447 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 127 | 4.45 | 815 |
+| 448 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 127 | 4.27 | 1,069 |
+| 448 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 127 | 4.45 | 815 |
 | 450 | [Solitairica](games/s/solitairica.md) | 126 | 4.48 | 759 |
 | 451 | [CRSED: Cuisine Royale](games/c/crsed__f.o.a.d..md) | 125 | 4.30 | 1,039 |
 | 451 | [Just Die Already](games/j/just_die_already.md) | 125 | 4.51 | 698 |
