@@ -2,7 +2,7 @@
   "ID": "818d9be07fb64277a061245a24035c48",
   "Name": "Might \u0026 Magic: Heroes VI",
   "ProductSlug": "might-and-magic-heroes-6",
-  "Ranking_Rating": 1321,
+  "Ranking_Rating": 1317,
   "Ranking_Popularity": 739,
   "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
@@ -20,11 +20,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.65,
+  "Rating": 3.71,
   "RatingHistory": [
     {
       "Time": "2024-10-10T10:59:00.648975+00:00",
       "Rating": 3.65,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-11T10:58:45.2724042+00:00",
+      "Rating": 3.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -45,8 +51,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-09T02:18:13.1617458+00:00",
   "FirstSeenRating": "2024-10-10T10:59:00.6489748+00:00",
-  "LastChanged": "2024-10-10T10:59:00.6489748+00:00",
+  "LastChanged": "2024-10-11T10:58:45.2724041+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:14:12.2021296+00:00",
-  "LastUpdate_Ratings": "2024-10-11T08:59:11.7214128+00:00",
+  "LastUpdate_Ratings": "2024-10-11T10:58:45.2724046+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:02.2955174+00:00"
 }

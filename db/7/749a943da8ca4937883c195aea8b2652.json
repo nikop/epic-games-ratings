@@ -2,7 +2,7 @@
   "ID": "749a943da8ca4937883c195aea8b2652",
   "Name": "Gods Unchained",
   "ProductSlug": "gods-unchained-9b2cb5",
-  "Ranking_Rating": 759,
+  "Ranking_Rating": 785,
   "Ranking_Popularity": 572,
   "Ranking_PopularitySum": 478,
   "Ranking_EOS_Progress": 1263,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2023-07-14T19:57:17.9448105+00:00",
@@ -1007,10 +1007,16 @@
       "Rating": 4.48,
       "NumberOfAwards": 332,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-10-11T10:58:17.0194295+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 334,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 332,
+  "NumberOfAwards": 334,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1036,7 +1042,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1072,7 +1078,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Relaxing",
@@ -1093,8 +1099,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-22T02:56:58.3555255+00:00",
   "FirstSeenRating": "2023-07-14T19:57:17.9448103+00:00",
-  "LastChanged": "2024-10-10T15:59:07.8084985+00:00",
+  "LastChanged": "2024-10-11T10:58:17.0194293+00:00",
   "LastUpdate_AppInfo": "2024-10-04T15:57:20.1670973+00:00",
-  "LastUpdate_Ratings": "2024-10-11T08:58:46.046268+00:00",
+  "LastUpdate_Ratings": "2024-10-11T10:58:17.0194298+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:40.0131806+00:00"
 }
