@@ -48,6 +48,7 @@
 | [Mineral](games/2/21594c7216e5490d906b0a32306bea1d.md) | 2024-11-21 | - |  | - | - |
 | [Forgotten Playland](games/f/f10e47423c174a2fb9e271a20ced4fd0.md) | 2024-11-30 | - |  | - | - |
 | [Hidden Oddities](games/e/e9b119f0f7e04e35a9abc86e415cc233.md) | 2024-11-30 | - |  | - | - |
+| [Little Big Adventure – Twinsen’s Quest](games/t/twinsen's_little_big_adventure_remastered.md) | 2024-11-30 | - |  | - | - |
 | [RETOOLED](games/3/3bb0cfb02595417f9134a5f31bc46333.md) | 2024-11-30 | - |  | - | - |
 | [Totally Spies! - Cyber Mission](games/7/745b555261dd4228972c3153de585118.md) | 2024-11-30 | - |  | - | - |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2024-11-30 | - |  | - | - |
@@ -98,7 +99,6 @@
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2024-12-31 | - |  | - | - |
 | [Kingmakers](games/d/d01caa04441f4cbf8e2a0fc68cd95d03.md) | 2024-12-31 | - |  | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
-| [Little Big Adventure – Twinsen’s Quest](games/t/twinsen's_little_big_adventure_remastered.md) | 2024-12-31 | - |  | - | - |
 | [Lost Lullabies](games/2/2eb0ee8613b0414ebb07dbbf006f029c.md) | 2024-12-31 | - |  | - | - |
 | [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |
 | [MATCHO](games/d/d192be5921354325abfb1aae75ec106c.md) | 2024-12-31 | - |  | - | - |
