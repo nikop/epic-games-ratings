@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_Rating": 886,
   "Ranking_Popularity": 243,
-  "Ranking_PopularitySum": 189,
+  "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 3,
@@ -9865,10 +9865,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 4675,
       "NumberOfAwardsMax": 692
+    },
+    {
+      "Time": "2024-10-11T11:57:07.3462549+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 4684,
+      "NumberOfAwardsMax": 692
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4675,
+  "NumberOfAwards": 4684,
   "NumberOfAwardsMax": 692,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9876,7 +9882,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 570
+      "Count": 576
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9906,7 +9912,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 362
+      "Count": 363
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9936,7 +9942,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 371
+      "Count": 373
     },
     {
       "Text": "This game is Relaxing",
@@ -29814,9 +29820,9 @@
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2024-10-11T03:13:09.4563692+00:00",
+  "LastChanged": "2024-10-11T11:57:07.3462547+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:23.4007401+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:04.4042505+00:00",
-  "LastUpdate_Ratings": "2024-10-11T09:58:32.9475996+00:00",
+  "LastUpdate_Ratings": "2024-10-11T11:57:07.3462558+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:23.4008509+00:00"
 }

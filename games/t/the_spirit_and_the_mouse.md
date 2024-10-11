@@ -68,12 +68,12 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-02-22 | 87 | 0 |
 | 2024-03-21 | 89 | 0 |
 ## Awards
-Max (Easy Puzzles): 52  (Ranked 577)  
-Sum: 52 (Ranked 650)  
-Diff (max vs sum): -73  
+Max (Easy Puzzles): 54  (Ranked 572)  
+Sum: 54 (Ranked 646)  
+Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 52 |
+| This game features Easy Puzzles | 54 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -91,3 +91,4 @@ Diff (max vs sum): -73
 | 2024-10-07 | 4.54 | 45 | 45 |
 | 2024-10-08 | 4.55 | 49 | 49 |
 | 2024-10-09 | 4.55 | 52 | 52 |
+| 2024-10-11 | 4.55 | 54 | 54 |
