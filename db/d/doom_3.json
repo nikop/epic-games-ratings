@@ -2,9 +2,9 @@
   "ID": "7f1853beef0a4b40827038d0f47606f3",
   "Name": "DOOM 3",
   "ProductSlug": "doom-3",
-  "Ranking_Rating": 515,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 616,
+  "Ranking_Rating": 517,
+  "Ranking_Popularity": 513,
+  "Ranking_PopularitySum": 615,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -489,18 +489,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2024-10-11T02:12:12.851317+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 80,
+      "NumberOfAwardsMax": 80
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
-  "NumberOfAwardsMax": 79,
+  "NumberOfAwards": 80,
+  "NumberOfAwardsMax": 80,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 79
+      "Count": 80
     }
   ],
   "EOS_Progressed": 0,
@@ -515,8 +521,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-18T16:02:43.6550747+00:00",
   "FirstSeenRating": "2022-08-25T17:32:08.5034693+00:00",
-  "LastChanged": "2024-09-09T13:59:54.9329397+00:00",
+  "LastChanged": "2024-10-11T02:12:12.8513168+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:10.5458319+00:00",
-  "LastUpdate_Ratings": "2024-10-10T23:57:28.9013127+00:00",
+  "LastUpdate_Ratings": "2024-10-11T02:12:12.8513172+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:12.9338468+00:00"
 }
