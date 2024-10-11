@@ -3,8 +3,8 @@
   "Name": "The Forever Winter",
   "ProductSlug": "the-forever-winter-8b8280",
   "Ranking_Rating": 1060,
-  "Ranking_Popularity": 636,
-  "Ranking_PopularitySum": 682,
+  "Ranking_Popularity": 622,
+  "Ranking_PopularitySum": 675,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -198,18 +198,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2024-10-11T21:58:53.705404+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 38,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35,
-  "NumberOfAwardsMax": 35,
+  "NumberOfAwards": 38,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 35
+      "Count": 38
     }
   ],
   "EOS_Progressed": 0,
@@ -224,7 +230,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-24T22:59:46.1276331+00:00",
   "FirstSeenRating": "2024-09-30T02:14:57.8482578+00:00",
-  "LastChanged": "2024-10-11T16:57:43.7640977+00:00",
+  "LastChanged": "2024-10-11T21:58:53.7054038+00:00",
   "LastUpdate_AppInfo": "2024-10-08T13:57:13.5849144+00:00",
-  "LastUpdate_Ratings": "2024-10-11T19:59:39.5198361+00:00"
+  "LastUpdate_Ratings": "2024-10-11T21:58:53.7054043+00:00"
 }

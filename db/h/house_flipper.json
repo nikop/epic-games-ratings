@@ -3,7 +3,7 @@
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
   "Ranking_Rating": 276,
-  "Ranking_Popularity": 292,
+  "Ranking_Popularity": 290,
   "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 469,
@@ -3297,18 +3297,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2548,
       "NumberOfAwardsMax": 414
+    },
+    {
+      "Time": "2024-10-11T21:59:24.1427364+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2549,
+      "NumberOfAwardsMax": 415
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2548,
-  "NumberOfAwardsMax": 414,
+  "NumberOfAwards": 2549,
+  "NumberOfAwardsMax": 415,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 414
+      "Count": 415
     },
     {
       "Text": "This game is Extremely Fun",
@@ -15121,9 +15127,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2024-10-11T16:58:05.5033071+00:00",
+  "LastChanged": "2024-10-11T21:59:24.1427362+00:00",
   "LastChanged_Achievements": "2024-09-14T14:17:47.8897909+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:02.2016296+00:00",
-  "LastUpdate_Ratings": "2024-10-11T20:00:03.0628539+00:00",
+  "LastUpdate_Ratings": "2024-10-11T21:59:24.1427369+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:47.8898828+00:00"
 }

@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-09-14 | 7,587 | 0 |
 ## Awards
 Max (Character Customization): 42  (Ranked 607)  
-Sum: 351 (Ranked 469)  
+Sum: 352 (Ranked 469)  
 Diff (max vs sum): 138  
 | Award | Count |
 | ----- | ----- |
@@ -78,8 +78,8 @@ Diff (max vs sum): 138
 | This game is Relaxing | 24 |
 | This game has Amazing Characters | 23 |
 | This game has Competitive Players | 23 |
+| This game has Unique Visuals | 21 |
 | This game has Amazing Storytelling | 21 |
-| This game has Unique Visuals | 20 |
 | This game is Highly Recommended | 20 |
 | This game is Educational | 20 |
 ## Ratings History
@@ -168,4 +168,4 @@ Diff (max vs sum): 138
 | 2024-10-08 | 4.55 | 42 | 342 |
 | 2024-10-09 | 4.55 | 42 | 344 |
 | 2024-10-10 | 4.55 | 42 | 349 |
-| 2024-10-11 | 4.55 | 42 | 351 |
+| 2024-10-11 | 4.55 | 42 | 352 |

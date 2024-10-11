@@ -3,8 +3,8 @@
   "Name": "Life Makeover Global",
   "ProductSlug": "lifemakeoverglobal-1aa05a",
   "Ranking_Rating": 518,
-  "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 325,
+  "Ranking_Popularity": 423,
+  "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -3905,18 +3905,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 1157,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-10-11T22:00:01.1615606+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1162,
+      "NumberOfAwardsMax": 147
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1157,
-  "NumberOfAwardsMax": 145,
+  "NumberOfAwards": 1162,
+  "NumberOfAwardsMax": 147,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 145
+      "Count": 147
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3952,7 +3958,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3964,13 +3970,13 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 104
+      "Count": 105
     },
     {
       "Text": "This game is Relaxing",
@@ -3997,8 +4003,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T14:58:09.2692979+00:00",
   "FirstSeenRating": "2023-12-13T01:50:49.5895065+00:00",
-  "LastChanged": "2024-10-11T16:58:32.2242454+00:00",
+  "LastChanged": "2024-10-11T22:00:01.1615604+00:00",
   "LastUpdate_AppInfo": "2024-10-09T20:57:39.0980666+00:00",
-  "LastUpdate_Ratings": "2024-10-11T20:00:31.9313359+00:00",
+  "LastUpdate_Ratings": "2024-10-11T22:00:01.1615611+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:11.5519179+00:00"
 }

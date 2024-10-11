@@ -4,7 +4,7 @@
   "ProductSlug": "zenless-zone-zero-c7c151",
   "Ranking_Rating": 586,
   "Ranking_Popularity": 24,
-  "Ranking_PopularitySum": 30,
+  "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -4355,10 +4355,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 87507,
       "NumberOfAwardsMax": 26044
+    },
+    {
+      "Time": "2024-10-11T22:00:22.0193442+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 91118,
+      "NumberOfAwardsMax": 26044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 87507,
+  "NumberOfAwards": 91118,
   "NumberOfAwardsMax": 26044,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4438,7 +4444,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 2969
+      "Count": 3611
     }
   ],
   "EOS_Progressed": 0,
@@ -4453,8 +4459,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-10-11T20:57:48.341389+00:00",
+  "LastChanged": "2024-10-11T22:00:22.019344+00:00",
   "LastUpdate_AppInfo": "2024-10-08T03:57:16.8268686+00:00",
-  "LastUpdate_Ratings": "2024-10-11T20:57:48.3413896+00:00",
+  "LastUpdate_Ratings": "2024-10-11T22:00:22.0193445+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:33.570386+00:00"
 }
