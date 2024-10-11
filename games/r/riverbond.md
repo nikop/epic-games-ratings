@@ -1,7 +1,7 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 800)  
+Rating: 4.46 (Ranked 801)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -356,9 +356,9 @@ Completed: 616 (0.11%) (Ranked 458)
 | 2024-08-20 | 546,214 | 609 |
 | 2024-09-14 | 547,124 | 616 |
 ## Awards
-Max (Great for Beginners): 24  (Ranked 696)  
+Max (Great for Beginners): 24  (Ranked 697)  
 Sum: 111 (Ranked 588)  
-Diff (max vs sum): 108  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 24 |

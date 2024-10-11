@@ -1,7 +1,7 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 542)  
+Rating: 4.58 (Ranked 543)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -346,13 +346,13 @@ Completed: 14 (0.01%) (Ranked 563)
 | 2024-09-14 | 266,314 | 14 |
 ## Awards
 Max (Character Customization): 427  (Ranked 285)  
-Sum: 927 (Ranked 351)  
+Sum: 928 (Ranked 351)  
 Diff (max vs sum): -66  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 427 |
 | This game is Great for Beginners | 63 |
-| This game is Relaxing | 56 |
+| This game is Relaxing | 57 |
 | This game is Highly Recommended | 54 |
 | This game has Diverse Characters | 54 |
 | This game has Amazing Characters | 52 |
@@ -753,3 +753,4 @@ Diff (max vs sum): -66
 | 2024-10-08 | 4.58 | - | 425 | 924 |
 | 2024-10-09 | 4.58 | - | 425 | 925 |
 | 2024-10-10 | 4.58 | - | 427 | 927 |
+| 2024-10-11 | 4.58 | - | 427 | 928 |

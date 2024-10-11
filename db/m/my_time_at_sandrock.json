@@ -2,7 +2,7 @@
   "ID": "e65d8864e0e84d6eb7fe228b2041c15f",
   "Name": "My Time at Sandrock",
   "ProductSlug": "my-time-at-sandrock",
-  "Ranking_Rating": 273,
+  "Ranking_Rating": 274,
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 406,
@@ -4228,10 +4228,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 1999,
       "NumberOfAwardsMax": 770
+    },
+    {
+      "Time": "2024-10-11T15:58:49.8017023+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2000,
+      "NumberOfAwardsMax": 770
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1999,
+  "NumberOfAwards": 2000,
   "NumberOfAwardsMax": 770,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4287,7 +4293,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 114
+      "Count": 115
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14181,9 +14187,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-10-11T13:59:41.2588001+00:00",
+  "LastChanged": "2024-10-11T15:58:49.8017022+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:49.1554704+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:39.6241314+00:00",
-  "LastUpdate_Ratings": "2024-10-11T13:59:41.2588006+00:00",
+  "LastUpdate_Ratings": "2024-10-11T15:58:49.8017027+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:49.1555614+00:00"
 }

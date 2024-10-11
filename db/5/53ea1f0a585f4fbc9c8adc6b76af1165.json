@@ -2,9 +2,9 @@
   "ID": "53ea1f0a585f4fbc9c8adc6b76af1165",
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 586,
   "Ranking_Popularity": 617,
-  "Ranking_PopularitySum": 547,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.57,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2024-07-29T08:58:31.2395445+00:00",
@@ -564,12 +564,18 @@
       "Rating": 4.57,
       "NumberOfAwards": 178,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-10-11T15:57:42.4555737+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 202,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 178,
+  "NumberOfAwards": 202,
   "NumberOfAwardsMax": 39,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -605,7 +611,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game has a Competitive Community",
@@ -905,9 +911,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-10-11T06:57:29.89385+00:00",
+  "LastChanged": "2024-10-11T15:57:42.4555735+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
   "LastUpdate_AppInfo": "2024-10-09T10:57:31.8229379+00:00",
-  "LastUpdate_Ratings": "2024-10-11T13:58:35.8806042+00:00",
+  "LastUpdate_Ratings": "2024-10-11T15:57:42.4555739+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
 }

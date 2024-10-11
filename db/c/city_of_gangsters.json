@@ -2,9 +2,9 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 1029,
+  "Ranking_Rating": 1030,
   "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 442,
+  "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -2012,10 +2012,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 425,
       "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-10-11T16:00:43.9052442+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 426,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 425,
+  "NumberOfAwards": 426,
   "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2077,7 +2083,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 29
+      "Count": 30
     }
   ],
   "EOS_Progressed": 386183,
@@ -35042,9 +35048,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-10-10T14:00:01.225272+00:00",
+  "LastChanged": "2024-10-11T16:00:43.9052441+00:00",
   "LastChanged_Achievements": "2024-09-14T14:22:58.3609172+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:11.1330534+00:00",
-  "LastUpdate_Ratings": "2024-10-11T14:01:32.0183285+00:00",
+  "LastUpdate_Ratings": "2024-10-11T16:00:43.9052445+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:58.3612387+00:00"
 }

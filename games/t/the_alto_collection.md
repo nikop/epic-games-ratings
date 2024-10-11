@@ -1,7 +1,7 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.68 (Ranked 302)  
+Rating: 4.67 (Ranked 321)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -585,3 +585,4 @@ Diff (max vs sum): 110
 | 2024-10-07 | 4.68 | - | 67 | 475 |
 | 2024-10-08 | 4.68 | - | 67 | 476 |
 | 2024-10-09 | 4.68 | - | 67 | 477 |
+| 2024-10-11 | 4.67 | - | 67 | 477 |
