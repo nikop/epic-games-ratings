@@ -2,9 +2,9 @@
   "ID": "0e9ae0e756524ed49a27435c9c3c3e1c",
   "Name": "Chess Ultra",
   "ProductSlug": "chess-ultra-91bba3",
-  "Ranking_Rating": 1048,
-  "Ranking_Popularity": 658,
-  "Ranking_PopularitySum": 686,
+  "Ranking_Rating": 1049,
+  "Ranking_Popularity": 646,
+  "Ranking_PopularitySum": 684,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -671,18 +671,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-10-11T14:00:31.1215905+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 33,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 33,
+  "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 31
+      "Count": 33
     }
   ],
   "EOS_Progressed": 251368,
@@ -33406,9 +33412,9 @@
   "FirstSeen": "2023-03-23T15:57:26.8098096+00:00",
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
-  "LastChanged": "2024-10-06T03:19:29.4913265+00:00",
+  "LastChanged": "2024-10-11T14:00:31.1215903+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:29.9561624+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:13.7077586+00:00",
-  "LastUpdate_Ratings": "2024-10-11T11:59:35.5737905+00:00",
+  "LastUpdate_Ratings": "2024-10-11T14:00:31.1215909+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:29.9563088+00:00"
 }

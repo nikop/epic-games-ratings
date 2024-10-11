@@ -2,9 +2,9 @@
   "ID": "c3859bc4671c4f7ca0df5dbd1d65ae82",
   "Name": "Seekers of Tokane",
   "ProductSlug": "seekers-of-tokane-a5986d",
-  "Ranking_Rating": 698,
+  "Ranking_Rating": 699,
   "Ranking_Popularity": 566,
-  "Ranking_PopularitySum": 498,
+  "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -942,10 +942,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 279,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2024-10-11T14:00:35.6428543+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 299,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 279,
+  "NumberOfAwards": 299,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1008,6 +1014,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 21
+    },
+    {
+      "Text": "This game is Extremely Fun",
+      "Prefix": "This game is",
+      "Type": "Extremely Fun",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -1022,8 +1034,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-12T20:58:24.4473261+00:00",
   "FirstSeenRating": "2024-02-16T07:00:10.8210369+00:00",
-  "LastChanged": "2024-10-11T08:58:17.8944002+00:00",
-  "LastUpdate_AppInfo": "2024-10-04T13:13:56.3634598+00:00",
-  "LastUpdate_Ratings": "2024-10-11T11:59:38.4589423+00:00",
+  "LastChanged": "2024-10-11T14:00:35.6428542+00:00",
+  "LastUpdate_AppInfo": "2024-10-11T13:57:22.1971866+00:00",
+  "LastUpdate_Ratings": "2024-10-11T14:00:35.6428546+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:29.0330964+00:00"
 }

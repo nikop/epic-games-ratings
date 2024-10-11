@@ -33743,10 +33743,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1070380,
       "NumberOfAwardsMax": 369315
+    },
+    {
+      "Time": "2024-10-11T13:59:23.2170666+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1070689,
+      "NumberOfAwardsMax": 369315
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1070380,
+  "NumberOfAwards": 1070689,
   "NumberOfAwardsMax": 369315,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -33766,7 +33772,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 48718
+      "Count": 48822
     },
     {
       "Text": "This game has Amazing Characters",
@@ -33802,7 +33808,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 49911
+      "Count": 50007
     },
     {
       "Text": "This game is Great for Beginners",
@@ -33826,7 +33832,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47028
+      "Count": 47137
     },
     {
       "Text": "This game has a Creative Community",
@@ -33846,8 +33852,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-10-11T11:58:51.3167592+00:00",
+  "LastChanged": "2024-10-11T13:59:23.2170665+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:53.4672696+00:00",
-  "LastUpdate_Ratings": "2024-10-11T11:58:51.3167597+00:00",
+  "LastUpdate_Ratings": "2024-10-11T13:59:23.2170669+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:12.3871459+00:00"
 }

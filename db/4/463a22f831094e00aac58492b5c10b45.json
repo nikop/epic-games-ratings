@@ -2,9 +2,9 @@
   "ID": "463a22f831094e00aac58492b5c10b45",
   "Name": "Manor Lords",
   "ProductSlug": "manor-lords-ef795f",
-  "Ranking_Rating": 655,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 488,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 3,
@@ -1305,6 +1305,6 @@
   "LastChanged": "2024-10-11T11:58:19.3398324+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:34.9712248+00:00",
   "LastUpdate_AppInfo": "2024-10-05T09:57:39.9389503+00:00",
-  "LastUpdate_Ratings": "2024-10-11T11:58:19.3398329+00:00",
+  "LastUpdate_Ratings": "2024-10-11T13:58:34.1957812+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:34.9712348+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9c1a74145a9145ec803d7452e80819a0",
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
-  "Ranking_Rating": 389,
+  "Ranking_Rating": 390,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 217,
@@ -3907,10 +3907,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 2266,
       "NumberOfAwardsMax": 830
+    },
+    {
+      "Time": "2024-10-11T13:59:24.8253413+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 2274,
+      "NumberOfAwardsMax": 830
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2266,
+  "NumberOfAwards": 2274,
   "NumberOfAwardsMax": 830,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3924,7 +3930,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 268
+      "Count": 269
     },
     {
       "Text": "This game has Unique Visuals",
@@ -3936,7 +3942,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 153
+      "Count": 156
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3948,13 +3954,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 121
+      "Count": 123
     },
     {
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 150
+      "Count": 152
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4713,9 +4719,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-10-10T22:58:19.544076+00:00",
+  "LastChanged": "2024-10-11T13:59:24.8253411+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:48.1183499+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:17.4673753+00:00",
-  "LastUpdate_Ratings": "2024-10-11T11:58:52.2685943+00:00",
+  "LastUpdate_Ratings": "2024-10-11T13:59:24.8253418+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:48.1184201+00:00"
 }

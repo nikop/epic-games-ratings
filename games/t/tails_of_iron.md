@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.62 (Ranked 438)  
+Rating: 4.62 (Ranked 439)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -286,8 +286,8 @@ Completed: 35 (0.98%) (Ranked 288)
 | 2024-09-14 | 3,398 | 35 |
 | 2024-10-09 | 3,579 | 35 |
 ## Awards
-Max (Character Customization): 31  (Ranked 658)  
-Sum: 31 (Ranked 686)  
+Max (Character Customization): 31  (Ranked 659)  
+Sum: 31 (Ranked 687)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
