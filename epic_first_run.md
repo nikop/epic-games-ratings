@@ -43,7 +43,6 @@
 | [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-12-31 | - |  | - | - |
 | [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 61 | - | 0 |
-| [Maze OF Disorder](games/f/fd5bc52d529043ff8757d7bc937f22a3.md) | 2024-04-10 | 5 (1,000 XP) | 6 | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
 | [The Slayer:Rebirth](games/3/3d6e656e1ca044c880daffbf72cf9261.md) | 2099-01-01 | - |  | - | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | 0 |
