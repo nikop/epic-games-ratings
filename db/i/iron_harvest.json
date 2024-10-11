@@ -3,8 +3,8 @@
   "Name": "Iron Harvest",
   "ProductSlug": "iron-harvest",
   "Ranking_Rating": 886,
-  "Ranking_Popularity": 738,
-  "Ranking_PopularitySum": 738,
+  "Ranking_Popularity": 739,
+  "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -549,6 +549,6 @@
   "FirstSeen": "2022-07-22T20:22:43.0842749+00:00",
   "LastChanged": "2024-10-07T18:59:24.9072525+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:06.7207141+00:00",
-  "LastUpdate_Ratings": "2024-10-11T04:57:37.2304604+00:00",
+  "LastUpdate_Ratings": "2024-10-11T06:00:03.674315+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:20.4935594+00:00"
 }

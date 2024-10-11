@@ -2,9 +2,9 @@
   "ID": "c5e46dc234c449408ede15767c2c631e",
   "Name": "Off The Grid - Early Access",
   "ProductSlug": "off-the-grid-7e3cc5",
-  "Ranking_Rating": 1284,
-  "Ranking_Popularity": 738,
-  "Ranking_PopularitySum": 738,
+  "Ranking_Rating": 1281,
+  "Ranking_Popularity": 739,
+  "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.9,
+  "Rating": 3.91,
   "RatingHistory": [
     {
       "Time": "2024-10-08T22:00:55.9352561+00:00",
@@ -66,6 +66,12 @@
       "Rating": 3.9,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-11T06:00:25.7259408+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -84,7 +90,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T11:57:04.8885344+00:00",
   "FirstSeenRating": "2024-10-08T22:00:55.9352559+00:00",
-  "LastChanged": "2024-10-11T04:58:10.5856451+00:00",
+  "LastChanged": "2024-10-11T06:00:25.7259406+00:00",
   "LastUpdate_AppInfo": "2024-10-08T11:57:04.7559827+00:00",
-  "LastUpdate_Ratings": "2024-10-11T04:58:10.5856457+00:00"
+  "LastUpdate_Ratings": "2024-10-11T06:00:25.7259412+00:00"
 }
