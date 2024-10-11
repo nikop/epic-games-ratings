@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-outlaws",
   "Ranking_Rating": 1006,
   "Ranking_Popularity": 682,
-  "Ranking_PopularitySum": 646,
+  "Ranking_PopularitySum": 622,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -375,10 +375,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-10-11T22:58:07.2881318+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 73,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 53,
+  "NumberOfAwards": 73,
   "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -399,6 +405,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 26
+    },
+    {
+      "Text": "This game is Relaxing",
+      "Prefix": "This game is",
+      "Type": "Relaxing",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -413,8 +425,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-04T17:59:24.1826817+00:00",
   "FirstSeenRating": "2024-09-06T17:59:47.8215369+00:00",
-  "LastChanged": "2024-10-11T06:58:15.3844622+00:00",
+  "LastChanged": "2024-10-11T22:58:07.2881316+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:11.9937776+00:00",
-  "LastUpdate_Ratings": "2024-10-11T20:59:39.7511307+00:00",
+  "LastUpdate_Ratings": "2024-10-11T22:58:07.288132+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:35.2203508+00:00"
 }

@@ -1,17 +1,17 @@
 # RimWorld
 [Store](https://store.epicgames.com/en-US/p/rimworld)  
 [View Rawdata](../../db/r/rimworld.json)  
-Rating: 4.88 (Ranked 16)  
+Rating: 4.88 (Ranked 15)  
 Number of Ratings: 870  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 663  (Ranked 244)  
-Sum: 5,133 (Ranked 179)  
+Sum: 5,137 (Ranked 179)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 663 |
 | This game is Highly Recommended | 553 |
-| This game has Challenging Combat | 535 |
+| This game has Challenging Combat | 539 |
 | This game has Unique Visuals | 523 |
 | This game has a Creative Community | 499 |
 | This game is Extremely Fun | 492 |
@@ -532,4 +532,4 @@ Diff (max vs sum): 65
 | 2024-10-08 | 4.88 | - | 661 | 5,112 |
 | 2024-10-09 | 4.88 | - | 661 | 5,119 |
 | 2024-10-10 | 4.88 | - | 661 | 5,128 |
-| 2024-10-11 | 4.88 | - | 663 | 5,133 |
+| 2024-10-11 | 4.88 | - | 663 | 5,137 |

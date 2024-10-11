@@ -379,7 +379,7 @@ Completed: 26 (0.01%) (Ranked 563)
 | 2024-09-14 | 483,032 | 26 |
 ## Awards
 Max (Character Customization): 263  (Ranked 341)  
-Sum: 393 (Ranked 454)  
+Sum: 394 (Ranked 454)  
 Diff (max vs sum): -113  
 | Award | Count |
 | ----- | ----- |
@@ -388,8 +388,8 @@ Diff (max vs sum): -113
 | This game is Great for Quick Sessions | 24 |
 | This game is Highly Recommended | 24 |
 | This game is Great for Beginners | 21 |
+| This game has Unique Visuals | 21 |
 | This game has Amazing Characters | 20 |
-| This game has Unique Visuals | 20 |
 | This game has Amazing Storytelling | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -531,3 +531,4 @@ Diff (max vs sum): -113
 | 2024-10-03 | 4.53 | - | 263 | 372 |
 | 2024-10-05 | 4.53 | - | 263 | 392 |
 | 2024-10-06 | 4.53 | - | 263 | 393 |
+| 2024-10-11 | 4.53 | - | 263 | 394 |

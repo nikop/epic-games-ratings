@@ -1,12 +1,12 @@
 # Void Bastards
 [Store](https://store.epicgames.com/en-US/p/void-bastards)  
 [View Rawdata](../../db/v/void_bastards.json)  
-Rating: 4.60 (Ranked 490)  
+Rating: 4.60 (Ranked 491)  
 Number of Ratings: 986  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 38  (Ranked 622)  
-Sum: 269 (Ranked 502)  
-Diff (max vs sum): 120  
+Sum: 269 (Ranked 501)  
+Diff (max vs sum): 121  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 38 |
