@@ -2,7 +2,7 @@
   "ID": "94cec4802e954a6c9579e29e8b817f3a",
   "Name": "Insurgency: Sandstorm",
   "ProductSlug": "insurgency-sandstorm",
-  "Ranking_Rating": 490,
+  "Ranking_Rating": 466,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 40,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 1316,
   "RatingHistory": [
     {
@@ -8940,6 +8940,12 @@
     {
       "Time": "2024-10-11T14:59:20.9201648+00:00",
       "Rating": 4.6,
+      "NumberOfAwards": 4687,
+      "NumberOfAwardsMax": 588
+    },
+    {
+      "Time": "2024-10-11T16:58:49.8088056+00:00",
+      "Rating": 4.61,
       "NumberOfAwards": 4687,
       "NumberOfAwardsMax": 588
     }
@@ -41847,9 +41853,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2024-10-11T14:59:20.9201645+00:00",
+  "LastChanged": "2024-10-11T16:58:49.8088054+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:21.8603836+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:14.6631209+00:00",
-  "LastUpdate_Ratings": "2024-10-11T14:59:20.9201653+00:00",
+  "LastUpdate_Ratings": "2024-10-11T16:58:49.808806+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:21.8605648+00:00"
 }
