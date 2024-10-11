@@ -1,6 +1,7 @@
 # ZZT!
 [Store](https://store.epicgames.com/en-US/p/zzt)  
 [View Rawdata](../../db/z/zzt!.json)  
+Rating: 3.85 (Ranked 1,296)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -300,3 +301,4 @@ Completed: 225 (5.57%) (Ranked 126)
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
+| 2024-10-11 | 3.85 | 0 | 0 |

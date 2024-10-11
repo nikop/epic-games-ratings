@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 274,
   "Ranking_Popularity": 236,
-  "Ranking_PopularitySum": 265,
+  "Ranking_PopularitySum": 264,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -4216,10 +4216,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 1995,
       "NumberOfAwardsMax": 768
+    },
+    {
+      "Time": "2024-10-11T08:57:41.7182951+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 1997,
+      "NumberOfAwardsMax": 768
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1995,
+  "NumberOfAwards": 1997,
   "NumberOfAwardsMax": 768,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4251,7 +4257,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 117
+      "Count": 119
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14169,9 +14175,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-10-10T17:57:39.5849355+00:00",
+  "LastChanged": "2024-10-11T08:57:41.718295+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:49.1554704+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:39.6241314+00:00",
-  "LastUpdate_Ratings": "2024-10-11T06:58:13.5636459+00:00",
+  "LastUpdate_Ratings": "2024-10-11T08:57:41.7182954+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:49.1555614+00:00"
 }

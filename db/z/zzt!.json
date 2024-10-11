@@ -2,6 +2,9 @@
   "ID": "dba7dabb038f40209c6075de144754de",
   "Name": "ZZT!",
   "ProductSlug": "zzt",
+  "Ranking_Rating": 1296,
+  "Ranking_Popularity": 739,
+  "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 3,
@@ -17,10 +20,17 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
+  "Rating": 3.85,
   "RatingHistory": [
     {
       "Time": "2023-03-31T21:57:04.3858766+00:00",
       "Rating": null,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-11T08:57:21.7414934+00:00",
+      "Rating": 3.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -6821,9 +6831,9 @@
   "FirstSeen": "2023-03-31T21:57:04.3858731+00:00",
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
-  "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
+  "LastChanged": "2024-10-11T08:57:21.7414932+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:49.79508+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:42.5831221+00:00",
-  "LastUpdate_Ratings": "2024-10-11T06:57:53.3905329+00:00",
+  "LastUpdate_Ratings": "2024-10-11T08:57:21.741494+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:49.7951232+00:00"
 }
