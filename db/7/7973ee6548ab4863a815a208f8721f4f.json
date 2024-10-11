@@ -2,9 +2,9 @@
   "ID": "7973ee6548ab4863a815a208f8721f4f",
   "Name": "GrandChase",
   "ProductSlug": "grandchase-c03eb2",
-  "Ranking_Rating": 253,
-  "Ranking_Popularity": 408,
-  "Ranking_PopularitySum": 460,
+  "Ranking_Rating": 274,
+  "Ranking_Popularity": 409,
+  "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-12-07T10:57:43.4911973+00:00",
@@ -1379,10 +1379,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 369,
       "NumberOfAwardsMax": 159
+    },
+    {
+      "Time": "2024-10-11T03:12:17.5661237+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 371,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 369,
+  "NumberOfAwards": 371,
   "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1402,7 +1408,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 35
+      "Count": 37
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -1441,8 +1447,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-15T05:56:58.3446483+00:00",
   "FirstSeenRating": "2023-12-07T10:57:43.491197+00:00",
-  "LastChanged": "2024-10-10T07:57:58.6916535+00:00",
+  "LastChanged": "2024-10-11T03:12:17.5661235+00:00",
   "LastUpdate_AppInfo": "2024-10-10T03:13:09.5552623+00:00",
-  "LastUpdate_Ratings": "2024-10-10T23:58:13.0912945+00:00",
+  "LastUpdate_Ratings": "2024-10-11T03:12:17.5661241+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:03.8843705+00:00"
 }

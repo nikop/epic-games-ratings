@@ -2,8 +2,8 @@
   "ID": "c5e786eddfd041caa9984213e3f9621d",
   "Name": "Metro Last Light Redux",
   "ProductSlug": "metro-last-light-redux",
-  "Ranking_Rating": 275,
-  "Ranking_Popularity": 133,
+  "Ranking_Rating": 274,
+  "Ranking_Popularity": 132,
   "Ranking_PopularitySum": 233,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -3412,18 +3412,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 2803,
       "NumberOfAwardsMax": 2385
+    },
+    {
+      "Time": "2024-10-11T03:13:39.5634903+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2806,
+      "NumberOfAwardsMax": 2388
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2803,
-  "NumberOfAwardsMax": 2385,
+  "NumberOfAwards": 2806,
+  "NumberOfAwardsMax": 2388,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2385
+      "Count": 2388
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3503,8 +3509,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2024-10-09T20:57:52.1957829+00:00",
+  "LastChanged": "2024-10-11T03:13:39.5634902+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:21.3591872+00:00",
-  "LastUpdate_Ratings": "2024-10-10T23:59:57.1236987+00:00",
+  "LastUpdate_Ratings": "2024-10-11T03:13:39.5634908+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:57.616582+00:00"
 }
