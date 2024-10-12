@@ -2,7 +2,7 @@
   "ID": "b30b6d1b4dfd4dcc93b5490be5e094e5",
   "Name": "Red Dead Redemption 2",
   "ProductSlug": "red-dead-redemption-2",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 1263,
@@ -33791,10 +33791,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1071906,
       "NumberOfAwardsMax": 369702
+    },
+    {
+      "Time": "2024-10-12T13:57:36.6122446+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1072221,
+      "NumberOfAwardsMax": 369702
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1071906,
+  "NumberOfAwards": 1072221,
   "NumberOfAwardsMax": 369702,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -33814,7 +33820,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 48822
+      "Count": 48937
     },
     {
       "Text": "This game has Amazing Characters",
@@ -33850,7 +33856,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 50007
+      "Count": 50108
     },
     {
       "Text": "This game is Great for Beginners",
@@ -33874,7 +33880,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47137
+      "Count": 47236
     },
     {
       "Text": "This game has a Creative Community",
@@ -33894,8 +33900,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-10-12T11:58:40.5445864+00:00",
+  "LastChanged": "2024-10-12T13:57:36.6122444+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:53.4672696+00:00",
-  "LastUpdate_Ratings": "2024-10-12T11:58:40.5445869+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:57:36.6122451+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:12.3871459+00:00"
 }

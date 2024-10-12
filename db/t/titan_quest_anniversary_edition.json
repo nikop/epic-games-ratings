@@ -3,7 +3,7 @@
   "Name": "Titan Quest Anniversary Edition",
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 302,
-  "Ranking_Popularity": 425,
+  "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -1231,10 +1231,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 386,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-10-12T13:59:36.9527122+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 386,
+  "NumberOfAwards": 387,
   "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1266,7 +1272,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1304,8 +1310,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-10-11T07:00:06.6132762+00:00",
+  "LastChanged": "2024-10-12T13:59:36.952712+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:11.1576809+00:00",
-  "LastUpdate_Ratings": "2024-10-12T13:10:49.8981761+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:59:36.9527126+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:38.2459869+00:00"
 }

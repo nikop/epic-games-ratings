@@ -1,7 +1,7 @@
 # Space Rangers HD A War Apart
 [Store](https://store.epicgames.com/en-US/p/space-rangers-hd-a-war-apart-455702)  
 [View Rawdata](../../db/s/space_rangers_hd_a_war_apart.json)  
-Rating: 4.81 (Ranked 96)  
+Rating: 4.81 (Ranked 95)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

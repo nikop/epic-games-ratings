@@ -5,13 +5,13 @@ Rating: 4.51 (Ranked 702)
 Number of Ratings: 2,006  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 123  (Ranked 454)  
-Sum: 800 (Ranked 371)  
+Sum: 801 (Ranked 371)  
 Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 123 |
 | This game has Amazing Characters | 111 |
-| This game is Extremely Fun | 105 |
+| This game is Extremely Fun | 106 |
 | This game is Highly Recommended | 103 |
 | This game has Quickly Understood Controls | 101 |
 | This game has Playful Visuals | 96 |
@@ -153,3 +153,4 @@ Diff (max vs sum): 83
 | 2024-09-26 | 4.51 | - | 123 | 798 |
 | 2024-09-28 | 4.51 | - | 123 | 799 |
 | 2024-10-01 | 4.51 | - | 123 | 800 |
+| 2024-10-12 | 4.51 | - | 123 | 801 |

@@ -2,9 +2,9 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_Rating": 66,
-  "Ranking_Popularity": 717,
-  "Ranking_PopularitySum": 720,
+  "Ranking_Rating": 130,
+  "Ranking_Popularity": 697,
+  "Ranking_PopularitySum": 707,
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 3,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2024-01-11T05:00:16.5712266+00:00",
@@ -143,18 +143,24 @@
       "Rating": 4.83,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-10-12T13:57:07.6659966+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 22
+      "Count": 24
     }
   ],
   "EOS_Progressed": 565,
@@ -2352,9 +2358,9 @@
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged": "2024-10-09T11:58:43.1810827+00:00",
+  "LastChanged": "2024-10-12T13:57:07.6659966+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:00.834937+00:00",
   "LastUpdate_AppInfo": "2024-10-11T16:57:08.4273246+00:00",
-  "LastUpdate_Ratings": "2024-10-12T11:58:06.7301736+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:57:07.6659971+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:00.8349996+00:00"
 }

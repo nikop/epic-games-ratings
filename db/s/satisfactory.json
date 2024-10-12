@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 15,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 97,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 29401,
   "RatingHistory": [
     {
@@ -27207,11 +27207,17 @@
       "Rating": 4.88,
       "NumberOfAwards": 202124,
       "NumberOfAwardsMax": 28106
+    },
+    {
+      "Time": "2024-10-12T13:57:58.5709827+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 202602,
+      "NumberOfAwardsMax": 28430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 202124,
-  "NumberOfAwardsMax": 28106,
+  "NumberOfAwards": 202602,
+  "NumberOfAwardsMax": 28430,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -27248,7 +27254,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28106
+      "Count": 28430
     },
     {
       "Text": "This game is Educational",
@@ -27278,7 +27284,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 16006
+      "Count": 16160
     }
   ],
   "EOS_Progressed": 216724,
@@ -27660,9 +27666,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-10-12T06:58:36.3354341+00:00",
+  "LastChanged": "2024-10-12T13:57:58.5709822+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:38.0083264+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:45.3629226+00:00",
-  "LastUpdate_Ratings": "2024-10-12T11:59:05.5960267+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:57:58.5709831+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:38.0091964+00:00"
 }

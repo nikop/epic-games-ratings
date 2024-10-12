@@ -1,7 +1,7 @@
 # A Knights Quest
 [Store](https://store.epicgames.com/en-US/p/a-knights-quest)  
 [View Rawdata](../../db/a/a_knights_quest.json)  
-Rating: 4.05 (Ranked 1,242)  
+Rating: 4.05 (Ranked 1,243)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

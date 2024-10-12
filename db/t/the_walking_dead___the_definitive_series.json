@@ -2,9 +2,9 @@
   "ID": "b534830f4c524447bfd2266ce70cf8ab",
   "Name": "The Walking Dead : The Definitive Series",
   "ProductSlug": "walking-dead-definitive-series",
-  "Ranking_Rating": 19,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 212,
-  "Ranking_PopularitySum": 300,
+  "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -3508,10 +3508,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1493,
       "NumberOfAwardsMax": 976
+    },
+    {
+      "Time": "2024-10-12T13:59:19.5458946+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1494,
+      "NumberOfAwardsMax": 976
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1493,
+  "NumberOfAwards": 1494,
   "NumberOfAwardsMax": 976,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -3549,7 +3555,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 65
+      "Count": 66
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3599,8 +3605,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2024-10-12T13:10:21.8377042+00:00",
+  "LastChanged": "2024-10-12T13:59:19.5458944+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:18.2141819+00:00",
-  "LastUpdate_Ratings": "2024-10-12T13:10:21.8377047+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:59:19.5458951+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:00.0660072+00:00"
 }
