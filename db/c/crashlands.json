@@ -3,7 +3,7 @@
   "Name": "Crashlands",
   "ProductSlug": "crashlands",
   "Ranking_Rating": 345,
-  "Ranking_Popularity": 367,
+  "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 484,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -903,18 +903,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 215
+    },
+    {
+      "Time": "2024-10-12T16:58:00.0104873+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 317,
+      "NumberOfAwardsMax": 216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
-  "NumberOfAwardsMax": 215,
+  "NumberOfAwards": 317,
+  "NumberOfAwardsMax": 216,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -934,8 +940,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:11.0234055+00:00",
-  "LastChanged": "2024-10-10T09:58:41.3947433+00:00",
+  "LastChanged": "2024-10-12T16:58:00.0104871+00:00",
   "LastUpdate_AppInfo": "2024-10-07T17:57:07.5186227+00:00",
-  "LastUpdate_Ratings": "2024-10-12T14:58:40.2036412+00:00",
+  "LastUpdate_Ratings": "2024-10-12T16:58:00.0104877+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:22.4896802+00:00"
 }

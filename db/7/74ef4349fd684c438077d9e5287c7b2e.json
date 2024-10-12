@@ -2,9 +2,9 @@
   "ID": "74ef4349fd684c438077d9e5287c7b2e",
   "Name": "Crosshair X",
   "ProductSlug": "crosshair-x-5d70eb",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 157,
-  "Ranking_PopularitySum": 169,
+  "Ranking_PopularitySum": 168,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2024-03-14T14:58:36.3976804+00:00",
@@ -4320,10 +4320,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 5488,
       "NumberOfAwardsMax": 1706
+    },
+    {
+      "Time": "2024-10-12T16:57:33.6669203+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 5576,
+      "NumberOfAwardsMax": 1706
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5488,
+  "NumberOfAwards": 5576,
   "NumberOfAwardsMax": 1706,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4355,7 +4361,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 633
+      "Count": 668
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4367,13 +4373,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 493
+      "Count": 514
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 515
+      "Count": 547
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4400,8 +4406,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-24T06:57:07.6813186+00:00",
   "FirstSeenRating": "2024-03-14T14:58:36.3976801+00:00",
-  "LastChanged": "2024-10-12T09:57:33.48525+00:00",
+  "LastChanged": "2024-10-12T16:57:33.6669202+00:00",
   "LastUpdate_AppInfo": "2024-10-11T15:57:21.4811659+00:00",
-  "LastUpdate_Ratings": "2024-10-12T14:58:14.2859666+00:00",
+  "LastUpdate_Ratings": "2024-10-12T16:57:33.6669206+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:12.167421+00:00"
 }
