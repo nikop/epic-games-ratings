@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-wrc-24",
   "Ranking_Rating": 1023,
   "Ranking_Popularity": 596,
-  "Ranking_PopularitySum": 485,
+  "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1453,10 +1453,16 @@
       "Rating": 4.32,
       "NumberOfAwards": 315,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-10-12T08:58:44.815157+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 318,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 315,
+  "NumberOfAwards": 318,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1470,7 +1476,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1488,7 +1494,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Educational",
@@ -1518,7 +1524,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3668,9 +3674,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-10-11T02:11:20.4727366+00:00",
+  "LastChanged": "2024-10-12T08:58:44.8151569+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:55.9621814+00:00",
   "LastUpdate_AppInfo": "2024-10-09T20:57:32.224201+00:00",
-  "LastUpdate_Ratings": "2024-10-12T06:59:50.4339204+00:00",
+  "LastUpdate_Ratings": "2024-10-12T08:58:44.8151574+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:55.962207+00:00"
 }
