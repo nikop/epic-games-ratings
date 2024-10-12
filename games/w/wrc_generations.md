@@ -3,9 +3,9 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.45 (Ranked 815)  
 ## Awards
-Max (Diverse Characters): 33  (Ranked 645)  
+Max (Diverse Characters): 33  (Ranked 646)  
 Sum: 204 (Ranked 537)  
-Diff (max vs sum): 108  
+Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33 |

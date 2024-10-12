@@ -2,9 +2,9 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 469,
+  "Ranking_Rating": 468,
   "Ranking_Popularity": 26,
-  "Ranking_PopularitySum": 19,
+  "Ranking_PopularitySum": 18,
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -22846,10 +22846,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 144449,
       "NumberOfAwardsMax": 25668
+    },
+    {
+      "Time": "2024-10-12T14:57:28.6000963+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 144801,
+      "NumberOfAwardsMax": 25668
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 144449,
+  "NumberOfAwards": 144801,
   "NumberOfAwardsMax": 25668,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -22869,7 +22875,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 12879
+      "Count": 12975
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -22893,7 +22899,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12235
+      "Count": 12343
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -22911,7 +22917,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 19201
+      "Count": 19349
     },
     {
       "Text": "This game has a Creative Community",
@@ -50376,9 +50382,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2024-10-12T03:59:09.2174613+00:00",
+  "LastChanged": "2024-10-12T14:57:28.6000962+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:14.7630611+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:21.9022083+00:00",
-  "LastUpdate_Ratings": "2024-10-12T13:11:37.665161+00:00",
+  "LastUpdate_Ratings": "2024-10-12T14:57:28.6000968+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:14.7632029+00:00"
 }
