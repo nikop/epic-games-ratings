@@ -2,7 +2,7 @@
   "ID": "crab",
   "Name": "Satisfactory",
   "ProductSlug": "satisfactory",
-  "Ranking_Rating": 15,
+  "Ranking_Rating": 18,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 16,
   "Ranking_EOS_Progress": 97,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.88,
+  "Rating": 4.87,
   "NumberOfRatings": 29401,
   "RatingHistory": [
     {
@@ -27231,6 +27231,12 @@
       "Rating": 4.88,
       "NumberOfAwards": 203508,
       "NumberOfAwardsMax": 28430
+    },
+    {
+      "Time": "2024-10-12T22:57:36.8873967+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 203508,
+      "NumberOfAwardsMax": 28430
     }
   ],
   "ReviewsDisabled": false,
@@ -27684,9 +27690,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:11.7040586+00:00",
   "FirstSeenAchievements": "2023-09-19T23:04:48.6869528+00:00",
-  "LastChanged": "2024-10-12T20:57:56.4569248+00:00",
+  "LastChanged": "2024-10-12T22:57:36.8873965+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:38.0083264+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:45.3629226+00:00",
-  "LastUpdate_Ratings": "2024-10-12T20:57:56.4569257+00:00",
+  "LastUpdate_Ratings": "2024-10-12T22:57:36.8873973+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:38.0091964+00:00"
 }

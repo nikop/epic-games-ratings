@@ -4,7 +4,7 @@
   "ProductSlug": "thehunter-call-of-the-wild",
   "Ranking_Rating": 563,
   "Ranking_Popularity": 78,
-  "Ranking_PopularitySum": 53,
+  "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -19733,10 +19733,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 38798,
       "NumberOfAwardsMax": 7211
+    },
+    {
+      "Time": "2024-10-12T22:59:33.5071285+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 38818,
+      "NumberOfAwardsMax": 7211
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 38798,
+  "NumberOfAwards": 38818,
   "NumberOfAwardsMax": 7211,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -19744,7 +19750,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 4494
+      "Count": 4503
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -19756,7 +19762,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4510
+      "Count": 4516
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19792,7 +19798,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4147
+      "Count": 4152
     },
     {
       "Text": "This game is Great for Beginners",
@@ -19812,8 +19818,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2024-10-12T21:00:10.0787548+00:00",
+  "LastChanged": "2024-10-12T22:59:33.5071283+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:13.7544568+00:00",
-  "LastUpdate_Ratings": "2024-10-12T21:00:10.0787556+00:00",
+  "LastUpdate_Ratings": "2024-10-12T22:59:33.5071288+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.9962155+00:00"
 }

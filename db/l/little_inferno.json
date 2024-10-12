@@ -2,7 +2,7 @@
   "ID": "clover",
   "Name": "Little Inferno",
   "ProductSlug": "little-inferno",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 587,
   "Ranking_Popularity": 739,
   "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "NumberOfRatings": 66,
   "RatingHistory": [
     {
@@ -458,6 +458,12 @@
       "Rating": 4.55,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-12T22:59:40.5566692+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -475,8 +481,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:23.1362481+00:00",
-  "LastChanged": "2024-09-23T19:57:57.3911729+00:00",
+  "LastChanged": "2024-10-12T22:59:40.5566689+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:22.4527414+00:00",
-  "LastUpdate_Ratings": "2024-10-12T21:57:25.2451682+00:00",
+  "LastUpdate_Ratings": "2024-10-12T22:59:40.5566695+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:52.8727238+00:00"
 }
