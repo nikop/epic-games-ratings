@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 82,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 422,
   "Ranking_EOS_NewPlayers": 3,
@@ -5665,10 +5665,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3808,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2024-10-11T23:58:22.8481571+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3809,
+      "NumberOfAwardsMax": 557
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3808,
+  "NumberOfAwards": 3809,
   "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5724,7 +5730,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 256
+      "Count": 257
     },
     {
       "Text": "This game has Unique Visuals",
@@ -22797,9 +22803,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-10-11T22:00:17.3739404+00:00",
+  "LastChanged": "2024-10-11T23:58:22.8481569+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:20.9406475+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:24.2963199+00:00",
-  "LastUpdate_Ratings": "2024-10-11T22:00:17.3739409+00:00",
+  "LastUpdate_Ratings": "2024-10-11T23:58:22.8481575+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:20.9407455+00:00"
 }
