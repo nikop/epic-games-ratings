@@ -2,7 +2,7 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 959,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 71,
@@ -1441,10 +1441,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 483,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2024-10-12T19:58:24.0901977+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 485,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 483,
+  "NumberOfAwards": 485,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1482,7 +1488,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 82
+      "Count": 84
     },
     {
       "Text": "This game has Easy Combat",
@@ -2919,9 +2925,9 @@
   "FirstSeen": "2022-08-12T15:02:48.2909171+00:00",
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
-  "LastChanged": "2024-10-12T14:57:48.9982917+00:00",
+  "LastChanged": "2024-10-12T19:58:24.0901975+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:19.1191686+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:11.3067217+00:00",
-  "LastUpdate_Ratings": "2024-10-12T17:59:35.030299+00:00",
+  "LastUpdate_Ratings": "2024-10-12T19:58:24.0901982+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:19.1192269+00:00"
 }

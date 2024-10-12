@@ -1,7 +1,7 @@
 # Wolcen: Lords of Mayhem
 [Store](https://store.epicgames.com/en-US/p/wolcen-lords-of-mayhem-e893e7)  
 [View Rawdata](../../db/w/wolcen__lords_of_mayhem.json)  
-Rating: 4.19 (Ranked 1,152)  
+Rating: 4.19 (Ranked 1,153)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

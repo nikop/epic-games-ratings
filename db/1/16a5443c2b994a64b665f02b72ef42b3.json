@@ -4,7 +4,7 @@
   "ProductSlug": "parallel-tcg-724880",
   "Ranking_Rating": 279,
   "Ranking_Popularity": 596,
-  "Ranking_PopularitySum": 527,
+  "Ranking_PopularitySum": 526,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -534,10 +534,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 218,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-10-12T20:00:08.7271085+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 220,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 218,
+  "NumberOfAwards": 220,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -551,7 +557,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game has Challenging Combat",
@@ -602,8 +608,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-04-26T02:56:53.6157309+00:00",
   "FirstSeenRating": "2024-07-25T16:58:09.7245638+00:00",
-  "LastChanged": "2024-10-12T11:58:03.3347756+00:00",
+  "LastChanged": "2024-10-12T20:00:08.7271084+00:00",
   "LastUpdate_AppInfo": "2024-10-10T08:57:12.5675976+00:00",
-  "LastUpdate_Ratings": "2024-10-12T18:58:08.1779343+00:00",
+  "LastUpdate_Ratings": "2024-10-12T20:00:08.7271093+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:34.9315201+00:00"
 }

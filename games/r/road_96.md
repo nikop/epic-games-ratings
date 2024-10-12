@@ -1,7 +1,7 @@
 # Road 96
 [Store](https://store.epicgames.com/en-US/p/road-96)  
 [View Rawdata](../../db/r/road_96.json)  
-Rating: 4.70 (Ranked 253)  
+Rating: 4.71 (Ranked 233)  
 Number of Ratings: 86  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -114,3 +114,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-09-17 | 4.70 | - | 0 | 0 |
 | 2024-09-19 | 4.71 | - | 0 | 0 |
 | 2024-10-03 | 4.70 | - | 0 | 0 |
+| 2024-10-12 | 4.71 | - | 0 | 0 |

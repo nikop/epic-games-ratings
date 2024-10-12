@@ -2,7 +2,7 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 1113,
+  "Ranking_Rating": 1114,
   "Ranking_Popularity": 239,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 1263,
@@ -7433,10 +7433,16 @@
       "Rating": 4.23,
       "NumberOfAwards": 3997,
       "NumberOfAwardsMax": 754
+    },
+    {
+      "Time": "2024-10-12T19:57:56.1380375+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 3998,
+      "NumberOfAwardsMax": 754
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3997,
+  "NumberOfAwards": 3998,
   "NumberOfAwardsMax": 754,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7480,7 +7486,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 449
+      "Count": 450
     },
     {
       "Text": "This game is Relaxing",
@@ -7506,8 +7512,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
-  "LastChanged": "2024-10-12T13:11:26.7875441+00:00",
+  "LastChanged": "2024-10-12T19:57:56.1380374+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:16.3673324+00:00",
-  "LastUpdate_Ratings": "2024-10-12T17:59:03.8312808+00:00",
+  "LastUpdate_Ratings": "2024-10-12T19:57:56.1380378+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:24.4362731+00:00"
 }
