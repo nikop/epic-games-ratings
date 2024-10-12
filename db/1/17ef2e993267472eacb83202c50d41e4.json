@@ -2,7 +2,7 @@
   "ID": "17ef2e993267472eacb83202c50d41e4",
   "Name": "NEXUS",
   "ProductSlug": "nexus-058364",
-  "Ranking_Rating": 1050,
+  "Ranking_Rating": 1049,
   "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 175,
@@ -5093,10 +5093,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 1594,
       "NumberOfAwardsMax": 481
+    },
+    {
+      "Time": "2024-10-12T22:00:43.4123394+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1597,
+      "NumberOfAwardsMax": 481
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1594,
+  "NumberOfAwards": 1597,
   "NumberOfAwardsMax": 481,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -5134,7 +5140,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 225
+      "Count": 228
     },
     {
       "Text": "This game is Extremely Fun",
@@ -19071,9 +19077,9 @@
   "FirstSeen": "2023-09-02T15:00:09.6375086+00:00",
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
-  "LastChanged": "2024-10-12T04:59:14.3558466+00:00",
+  "LastChanged": "2024-10-12T22:00:43.4123392+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:16.3721872+00:00",
   "LastUpdate_AppInfo": "2024-10-09T13:14:45.539052+00:00",
-  "LastUpdate_Ratings": "2024-10-12T20:57:02.0516349+00:00",
+  "LastUpdate_Ratings": "2024-10-12T22:00:43.4123398+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:16.372298+00:00"
 }

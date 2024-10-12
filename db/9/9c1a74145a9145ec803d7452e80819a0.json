@@ -2,7 +2,7 @@
   "ID": "9c1a74145a9145ec803d7452e80819a0",
   "Name": "Fallout 4",
   "ProductSlug": "fallout-4",
-  "Ranking_Rating": 390,
+  "Ranking_Rating": 389,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 217,
@@ -3937,10 +3937,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 2283,
       "NumberOfAwardsMax": 832
+    },
+    {
+      "Time": "2024-10-12T22:01:22.9615372+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 2284,
+      "NumberOfAwardsMax": 832
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2283,
+  "NumberOfAwards": 2284,
   "NumberOfAwardsMax": 832,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3972,7 +3978,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 115
+      "Count": 116
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4743,9 +4749,9 @@
   "FirstSeen": "2024-04-25T14:59:24.6177677+00:00",
   "FirstSeenRating": "2024-04-27T19:57:32.7546992+00:00",
   "FirstSeenAchievements": "2024-06-17T16:12:56.0880542+00:00",
-  "LastChanged": "2024-10-12T13:57:37.6028092+00:00",
+  "LastChanged": "2024-10-12T22:01:22.961537+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:48.1183499+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:17.4673753+00:00",
-  "LastUpdate_Ratings": "2024-10-12T20:57:32.0332373+00:00",
+  "LastUpdate_Ratings": "2024-10-12T22:01:22.9615375+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:48.1184201+00:00"
 }
