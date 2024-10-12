@@ -2,7 +2,7 @@
   "ID": "da0fa474b1c04bfe8ee6c1f980285214",
   "Name": "Tales from the Borderlands",
   "ProductSlug": "tales-from-the-borderlands",
-  "Ranking_Rating": 155,
+  "Ranking_Rating": 172,
   "Ranking_Popularity": 708,
   "Ranking_PopularitySum": 714,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "NumberOfRatings": 31,
   "RatingHistory": [
     {
@@ -326,6 +326,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-10-12T09:59:30.7084131+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -352,8 +358,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:03.1733272+00:00",
   "FirstSeenRating": "2022-08-28T13:31:01.8966538+00:00",
-  "LastChanged": "2024-10-10T08:57:39.2605615+00:00",
+  "LastChanged": "2024-10-12T09:59:30.708413+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:50.4506169+00:00",
-  "LastUpdate_Ratings": "2024-10-12T07:59:49.0019142+00:00",
+  "LastUpdate_Ratings": "2024-10-12T09:59:30.7084134+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:45.2277071+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 321,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 161,
@@ -1592,10 +1592,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 477,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-10-12T09:59:00.2589003+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 478,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 477,
+  "NumberOfAwards": 478,
   "NumberOfAwardsMax": 67,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1657,7 +1663,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has a Kind Community",
@@ -34189,9 +34195,9 @@
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2024-10-11T15:57:37.9273646+00:00",
+  "LastChanged": "2024-10-12T09:59:00.2589002+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:34.6744342+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:31.3963728+00:00",
-  "LastUpdate_Ratings": "2024-10-12T07:59:20.7190646+00:00",
+  "LastUpdate_Ratings": "2024-10-12T09:59:00.2589005+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:34.6745915+00:00"
 }
