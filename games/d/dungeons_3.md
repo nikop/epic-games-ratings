@@ -1,7 +1,7 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 344)  
+Rating: 4.66 (Ranked 345)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -360,7 +360,7 @@ Completed: 479 (0.77%) (Ranked 315)
 | 2024-09-14 | 62,613 | 479 |
 ## Awards
 Max (Great for Beginners): 479  (Ranked 278)  
-Sum: 3,169 (Ranked 218)  
+Sum: 3,170 (Ranked 218)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -372,7 +372,7 @@ Diff (max vs sum): 60
 | This game has Amazing Storytelling | 338 |
 | This game has Amazing Characters | 331 |
 | This game is Relaxing | 308 |
-| This game has Playful Visuals | 305 |
+| This game has Playful Visuals | 306 |
 | This game has Obsessive Gameplay | 189 |
 | This game has a Silly Community | 24 |
 ## Ratings History
@@ -807,3 +807,4 @@ Diff (max vs sum): 60
 | 2024-10-08 | 4.66 | - | 479 | 3,162 |
 | 2024-10-10 | 4.66 | - | 479 | 3,166 |
 | 2024-10-11 | 4.66 | - | 479 | 3,169 |
+| 2024-10-12 | 4.66 | - | 479 | 3,170 |

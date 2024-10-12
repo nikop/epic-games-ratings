@@ -24313,11 +24313,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 93570,
       "NumberOfAwardsMax": 11484
+    },
+    {
+      "Time": "2024-10-12T13:11:09.7875277+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 93592,
+      "NumberOfAwardsMax": 11506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93570,
-  "NumberOfAwardsMax": 11484,
+  "NumberOfAwards": 93592,
+  "NumberOfAwardsMax": 11506,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -24348,7 +24354,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 11484
+      "Count": 11506
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -60038,9 +60044,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-10-12T10:58:37.5880105+00:00",
+  "LastChanged": "2024-10-12T13:11:09.7875275+00:00",
   "LastChanged_Achievements": "2024-10-09T19:04:08.2294984+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:12.3702542+00:00",
-  "LastUpdate_Ratings": "2024-10-12T10:58:37.5880109+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:11:09.787528+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:08.2306634+00:00"
 }

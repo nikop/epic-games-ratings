@@ -3,8 +3,8 @@
   "Name": "The Lamplighters League",
   "ProductSlug": "the-lamplighters-league",
   "Ranking_Rating": 815,
-  "Ranking_Popularity": 716,
-  "Ranking_PopularitySum": 719,
+  "Ranking_Popularity": 709,
+  "Ranking_PopularitySum": 715,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -199,18 +199,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-10-12T13:10:23.5235702+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22,
-  "NumberOfAwardsMax": 22,
+  "NumberOfAwards": 23,
+  "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -233,9 +239,9 @@
   "FirstSeen": "2023-10-03T19:58:16.7647482+00:00",
   "FirstSeenRating": "2024-01-07T15:59:37.9515995+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:39.3400058+00:00",
-  "LastChanged": "2024-10-10T17:59:19.7399388+00:00",
+  "LastChanged": "2024-10-12T13:10:23.52357+00:00",
   "LastChanged_Achievements": "2024-10-09T19:03:57.803542+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:18.8101367+00:00",
-  "LastUpdate_Ratings": "2024-10-12T10:58:08.0885802+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:10:23.5235705+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:57.803546+00:00"
 }

@@ -1,11 +1,11 @@
 # Unreal Tournament
 [Store](https://store.epicgames.com/en-US/p/unreal-tournament)  
 [View Rawdata](../../db/u/unreal_tournament.json)  
-Rating: 4.66 (Ranked 344)  
+Rating: 4.66 (Ranked 345)  
 Number of Ratings: 1,070  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 464  (Ranked 281)  
-Sum: 3,976 (Ranked 197)  
+Sum: 3,977 (Ranked 197)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 84
 | This game is Extremely Fun | 385 |
 | This game is Highly Recommended | 378 |
 | This game has Quickly Understood Controls | 367 |
-| This game has Challenging Combat | 356 |
+| This game has Challenging Combat | 357 |
 | This game has Amazing Characters | 333 |
 | This game has Amazing Storytelling | 312 |
 | This game has a Competitive Community | 306 |
@@ -115,3 +115,4 @@ Diff (max vs sum): 84
 | 2024-08-07 | 4.66 | - | 464 | 3,974 |
 | 2024-08-08 | 4.66 | - | 464 | 3,975 |
 | 2024-09-28 | 4.66 | - | 464 | 3,976 |
+| 2024-10-12 | 4.66 | - | 464 | 3,977 |

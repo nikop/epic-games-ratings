@@ -2,7 +2,7 @@
   "ID": "ut",
   "Name": "Unreal Tournament",
   "ProductSlug": "unreal-tournament",
-  "Ranking_Rating": 344,
+  "Ranking_Rating": 345,
   "Ranking_Popularity": 281,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 1263,
@@ -1518,10 +1518,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 3976,
       "NumberOfAwardsMax": 464
+    },
+    {
+      "Time": "2024-10-12T13:11:00.6565056+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3977,
+      "NumberOfAwardsMax": 464
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3976,
+  "NumberOfAwards": 3977,
   "NumberOfAwardsMax": 464,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1559,7 +1565,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 356
+      "Count": 357
     },
     {
       "Text": "This game is Relaxing",
@@ -1615,8 +1621,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:08.0500861+00:00",
-  "LastChanged": "2024-09-28T13:58:05.5281897+00:00",
+  "LastChanged": "2024-10-12T13:11:00.6565054+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:14.4258766+00:00",
-  "LastUpdate_Ratings": "2024-10-12T10:58:31.6058531+00:00",
+  "LastUpdate_Ratings": "2024-10-12T13:11:00.6565058+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:32.7167412+00:00"
 }
