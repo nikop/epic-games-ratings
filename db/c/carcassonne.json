@@ -2,7 +2,7 @@
   "ID": "0aaf0617ee0d47df87c0dc93509159dd",
   "Name": "Carcassonne",
   "ProductSlug": "carcassonne",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 344,
   "Ranking_Popularity": 444,
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "NumberOfRatings": 276,
   "RatingHistory": [
     {
@@ -1620,6 +1620,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2024-10-12T17:57:52.0493842+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 709,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
@@ -1705,8 +1711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2024-10-11T17:59:44.7748792+00:00",
+  "LastChanged": "2024-10-12T17:57:52.0493841+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:01.2994869+00:00",
-  "LastUpdate_Ratings": "2024-10-12T15:58:13.8591104+00:00",
+  "LastUpdate_Ratings": "2024-10-12T17:57:52.0493845+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:40.5508594+00:00"
 }
