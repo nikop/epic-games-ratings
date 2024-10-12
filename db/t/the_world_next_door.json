@@ -2,7 +2,7 @@
   "ID": "b258cb25f6cc4031914256c2d42b2188",
   "Name": "The World Next Door",
   "ProductSlug": "the-world-next-door",
-  "Ranking_Rating": 1222,
+  "Ranking_Rating": 1235,
   "Ranking_Popularity": 739,
   "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.1,
+  "Rating": 4.07,
   "NumberOfRatings": 38,
   "RatingHistory": [
     {
@@ -208,6 +208,12 @@
       "Rating": 4.1,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-12T15:57:48.6137789+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": true,
@@ -225,8 +231,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:16.7067769+00:00",
-  "LastChanged": "2024-08-18T08:57:12.7917155+00:00",
+  "LastChanged": "2024-10-12T15:57:48.6137787+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:49.1730995+00:00",
-  "LastUpdate_Ratings": "2024-10-12T13:58:33.1793685+00:00",
+  "LastUpdate_Ratings": "2024-10-12T15:57:48.6137794+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:38.7099615+00:00"
 }

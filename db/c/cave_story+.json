@@ -2,7 +2,7 @@
   "ID": "78473822f724474d8e436f6bde735623",
   "Name": "Cave Story\u002B",
   "ProductSlug": "cave-story-plus",
-  "Ranking_Rating": 276,
+  "Ranking_Rating": 253,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 558,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.69,
+  "Rating": 4.7,
   "NumberOfRatings": 278,
   "RatingHistory": [
     {
@@ -913,6 +913,12 @@
       "Rating": 4.69,
       "NumberOfAwards": 158,
       "NumberOfAwardsMax": 158
+    },
+    {
+      "Time": "2024-10-12T15:57:44.1327571+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 158,
+      "NumberOfAwardsMax": 158
     }
   ],
   "ReviewsDisabled": false,
@@ -938,8 +944,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:31.2539727+00:00",
-  "LastChanged": "2024-10-10T15:58:46.2726179+00:00",
+  "LastChanged": "2024-10-12T15:57:44.1327568+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:02.0813186+00:00",
-  "LastUpdate_Ratings": "2024-10-12T13:58:28.7707858+00:00",
+  "LastUpdate_Ratings": "2024-10-12T15:57:44.1327573+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:58.2296576+00:00"
 }

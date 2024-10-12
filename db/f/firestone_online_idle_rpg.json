@@ -4,7 +4,7 @@
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 1313,
   "Ranking_Popularity": 181,
-  "Ranking_PopularitySum": 221,
+  "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 540,
   "Ranking_EOS_NewPlayers": 3,
@@ -4170,10 +4170,16 @@
       "Rating": 3.76,
       "NumberOfAwards": 3087,
       "NumberOfAwardsMax": 1271
+    },
+    {
+      "Time": "2024-10-12T15:59:02.3399274+00:00",
+      "Rating": 3.76,
+      "NumberOfAwards": 3096,
+      "NumberOfAwardsMax": 1271
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3087,
+  "NumberOfAwards": 3096,
   "NumberOfAwardsMax": 1271,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4229,7 +4235,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 757
+      "Count": 766
     }
   ],
   "EOS_Progressed": 118579,
@@ -17649,9 +17655,9 @@
   "FirstSeen": "2023-04-03T11:57:10.5871058+00:00",
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
-  "LastChanged": "2024-10-12T13:59:46.0863065+00:00",
+  "LastChanged": "2024-10-12T15:59:02.3399272+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:06.9325199+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:16.3282481+00:00",
-  "LastUpdate_Ratings": "2024-10-12T13:59:46.0863071+00:00",
+  "LastUpdate_Ratings": "2024-10-12T15:59:02.3399279+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:06.9326231+00:00"
 }
