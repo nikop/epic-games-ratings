@@ -1,7 +1,7 @@
 # WRC Generations
 [Store](https://store.epicgames.com/en-US/p/wrc-11-fia-world-rally-championship-f0749b)  
 [View Rawdata](../../db/w/wrc_generations.json)  
-Rating: 4.45 (Ranked 814)  
+Rating: 4.45 (Ranked 815)  
 ## Awards
 Max (Diverse Characters): 33  (Ranked 645)  
 Sum: 204 (Ranked 537)  

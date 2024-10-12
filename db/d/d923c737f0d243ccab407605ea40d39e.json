@@ -2,7 +2,7 @@
   "ID": "d923c737f0d243ccab407605ea40d39e",
   "Name": "911 Operator",
   "ProductSlug": "911-operator-585edd",
-  "Ranking_Rating": 1006,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 640,
   "Ranking_PopularitySum": 549,
   "Ranking_EOS_Progress": 46,
@@ -647,10 +647,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 175,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2024-10-12T03:58:56.3861868+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 176,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 175,
+  "NumberOfAwards": 176,
   "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -700,7 +706,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 596729,
@@ -16960,9 +16966,9 @@
   "FirstSeen": "2023-09-14T16:00:42.0495436+00:00",
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
-  "LastChanged": "2024-10-11T19:59:26.4290408+00:00",
+  "LastChanged": "2024-10-12T03:58:56.3861867+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:27.4868483+00:00",
-  "LastUpdate_AppInfo": "2024-10-05T03:11:15.2702266+00:00",
-  "LastUpdate_Ratings": "2024-10-12T02:09:45.405619+00:00",
+  "LastUpdate_AppInfo": "2024-10-12T03:57:10.5135507+00:00",
+  "LastUpdate_Ratings": "2024-10-12T03:58:56.3861869+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:27.4869378+00:00"
 }

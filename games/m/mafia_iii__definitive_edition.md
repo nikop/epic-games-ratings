@@ -1,18 +1,18 @@
 # Mafia III: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/mafia-iii-definitive-edition)  
 [View Rawdata](../../db/m/mafia_iii__definitive_edition.json)  
-Rating: 4.16 (Ranked 1,181)  
+Rating: 4.16 (Ranked 1,182)  
 Number of Ratings: 1,289  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 87  (Ranked 503)  
-Sum: 569 (Ranked 411)  
+Sum: 570 (Ranked 411)  
 Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 307 |
 | This game has Amazing Characters | 87 |
 | This game has Amazing Storytelling | 77 |
-| This game has Diverse Characters | 74 |
+| This game has Diverse Characters | 75 |
 | This game is Great for Beginners | 71 |
 | This game is Relaxing | 70 |
 | This game is Extremely Fun | 70 |
@@ -221,3 +221,4 @@ Diff (max vs sum): 92
 | 2024-10-08 | 4.16 | - | 87 | 567 |
 | 2024-10-10 | 4.16 | - | 87 | 568 |
 | 2024-10-11 | 4.16 | - | 87 | 569 |
+| 2024-10-12 | 4.16 | - | 87 | 570 |

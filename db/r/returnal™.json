@@ -2,7 +2,7 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 543,
+  "Ranking_Rating": 544,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 1263,
@@ -1707,10 +1707,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 453,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2024-10-12T03:59:27.3131523+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 454,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 453,
+  "NumberOfAwards": 454,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1736,7 +1742,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1775,8 +1781,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2024-10-11T13:14:25.952544+00:00",
+  "LastChanged": "2024-10-12T03:59:27.3131522+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:10.360164+00:00",
-  "LastUpdate_Ratings": "2024-10-12T02:10:31.6265114+00:00",
+  "LastUpdate_Ratings": "2024-10-12T03:59:27.3131525+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:59.9364381+00:00"
 }
