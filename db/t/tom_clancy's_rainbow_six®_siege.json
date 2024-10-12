@@ -3,8 +3,8 @@
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
   "Ranking_Rating": 639,
-  "Ranking_Popularity": 142,
-  "Ranking_PopularitySum": 93,
+  "Ranking_Popularity": 141,
+  "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -7917,11 +7917,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 17213,
       "NumberOfAwardsMax": 2113
+    },
+    {
+      "Time": "2024-10-12T20:57:38.3383082+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 17261,
+      "NumberOfAwardsMax": 2141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17213,
-  "NumberOfAwardsMax": 2113,
+  "NumberOfAwards": 17261,
+  "NumberOfAwardsMax": 2141,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -7946,7 +7952,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2113
+      "Count": 2141
     },
     {
       "Text": "This game has Competitive Players",
@@ -7964,7 +7970,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1941
+      "Count": 1961
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8002,8 +8008,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-10-12T13:57:42.8863425+00:00",
+  "LastChanged": "2024-10-12T20:57:38.338308+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:11.405814+00:00",
-  "LastUpdate_Ratings": "2024-10-12T18:59:08.6414241+00:00",
+  "LastUpdate_Ratings": "2024-10-12T20:57:38.3383088+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:41.475167+00:00"
 }

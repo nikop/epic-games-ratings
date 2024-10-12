@@ -4,7 +4,7 @@
   "ProductSlug": "rennsport-3776b8",
   "Ranking_Rating": 1134,
   "Ranking_Popularity": 609,
-  "Ranking_PopularitySum": 520,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -804,10 +804,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 230,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-10-12T20:58:11.6193317+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 230,
+  "NumberOfAwards": 231,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -857,7 +863,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -872,8 +878,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T13:08:52.5809065+00:00",
   "FirstSeenRating": "2024-07-12T12:00:28.9090218+00:00",
-  "LastChanged": "2024-10-12T18:59:53.8636887+00:00",
+  "LastChanged": "2024-10-12T20:58:11.6193315+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:16.5806142+00:00",
-  "LastUpdate_Ratings": "2024-10-12T18:59:53.8636892+00:00",
+  "LastUpdate_Ratings": "2024-10-12T20:58:11.6193321+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:10.4091037+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "carcassonne",
   "Ranking_Rating": 344,
   "Ranking_Popularity": 444,
-  "Ranking_PopularitySum": 389,
+  "Ranking_PopularitySum": 390,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1626,10 +1626,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 709,
       "NumberOfAwardsMax": 130
+    },
+    {
+      "Time": "2024-10-12T20:59:05.5113292+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 710,
+      "NumberOfAwardsMax": 130
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 709,
+  "NumberOfAwards": 710,
   "NumberOfAwardsMax": 130,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1643,7 +1649,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 81
+      "Count": 82
     },
     {
       "Text": "This game is Relaxing",
@@ -1711,8 +1717,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:17.016066+00:00",
-  "LastChanged": "2024-10-12T17:57:52.0493841+00:00",
+  "LastChanged": "2024-10-12T20:59:05.511329+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:01.2994869+00:00",
-  "LastUpdate_Ratings": "2024-10-12T19:01:07.2300252+00:00",
+  "LastUpdate_Ratings": "2024-10-12T20:59:05.5113297+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:40.5508594+00:00"
 }

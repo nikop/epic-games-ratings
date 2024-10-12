@@ -1,7 +1,7 @@
 # Stranded Deep
 [Store](https://store.epicgames.com/en-US/p/stranded-deep)  
 [View Rawdata](../../db/s/stranded_deep.json)  
-Rating: 4.23 (Ranked 1,114)  
+Rating: 4.22 (Ranked 1,125)  
 Number of Ratings: 3,300  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 300  (Ranked 321)  
@@ -426,3 +426,4 @@ Diff (max vs sum): 42
 | 2024-10-09 | 4.23 | - | 299 | 1,792 |
 | 2024-10-10 | 4.23 | - | 299 | 1,795 |
 | 2024-10-11 | 4.23 | - | 300 | 1,798 |
+| 2024-10-12 | 4.22 | - | 300 | 1,798 |
