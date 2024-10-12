@@ -2,7 +2,7 @@
   "ID": "6110c92696a54f108c8e9002713ea5f9",
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
-  "Ranking_Rating": 702,
+  "Ranking_Rating": 701,
   "Ranking_Popularity": 256,
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 1263,
@@ -7209,10 +7209,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 3917,
       "NumberOfAwardsMax": 612
+    },
+    {
+      "Time": "2024-10-12T18:57:55.7528992+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 3919,
+      "NumberOfAwardsMax": 612
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3917,
+  "NumberOfAwards": 3919,
   "NumberOfAwardsMax": 612,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7262,7 +7268,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 408
+      "Count": 410
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7288,8 +7294,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2024-10-12T06:57:31.5667111+00:00",
+  "LastChanged": "2024-10-12T18:57:55.752899+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:42.270339+00:00",
-  "LastUpdate_Ratings": "2024-10-12T16:58:42.7886966+00:00",
+  "LastUpdate_Ratings": "2024-10-12T18:57:55.7528994+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:59.3471783+00:00"
 }
