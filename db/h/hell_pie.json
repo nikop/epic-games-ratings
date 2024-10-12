@@ -2,7 +2,7 @@
   "ID": "3e6684b430674b2aab4db7c778ed3263",
   "Name": "Hell Pie",
   "ProductSlug": "hell-pie-edc41f",
-  "Ranking_Rating": 762,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 739,
   "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.45,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:22.1752726+00:00",
@@ -38,6 +38,12 @@
     {
       "Time": "2024-09-09T16:59:01.5020008+00:00",
       "Rating": 4.48,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-12T03:12:09.620281+00:00",
+      "Rating": 4.45,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -58,8 +64,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T22:01:50.0348802+00:00",
   "FirstSeenRating": "2023-03-31T05:57:22.1752723+00:00",
-  "LastChanged": "2024-09-09T16:59:01.5020006+00:00",
+  "LastChanged": "2024-10-12T03:12:09.6202809+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:38.2164767+00:00",
-  "LastUpdate_Ratings": "2024-10-11T23:59:44.7191243+00:00",
+  "LastUpdate_Ratings": "2024-10-12T03:12:09.6202813+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:29.6593172+00:00"
 }

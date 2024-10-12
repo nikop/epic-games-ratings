@@ -4,7 +4,7 @@
   "ProductSlug": "once-human-b5c576",
   "Ranking_Rating": 762,
   "Ranking_Popularity": 146,
-  "Ranking_PopularitySum": 143,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -3264,11 +3264,17 @@
       "Rating": 4.48,
       "NumberOfAwards": 8875,
       "NumberOfAwardsMax": 1990
+    },
+    {
+      "Time": "2024-10-12T03:12:02.968189+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 8927,
+      "NumberOfAwardsMax": 2025
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8875,
-  "NumberOfAwardsMax": 1990,
+  "NumberOfAwards": 8927,
+  "NumberOfAwardsMax": 2025,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3281,7 +3287,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 582
+      "Count": 587
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3311,13 +3317,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 865
+      "Count": 877
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1990
+      "Count": 2025
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3338,8 +3344,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-09T23:58:22.5101908+00:00",
   "FirstSeenRating": "2024-07-11T18:57:10.0452278+00:00",
-  "LastChanged": "2024-10-11T22:57:25.7744709+00:00",
+  "LastChanged": "2024-10-12T03:12:02.9681888+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:15.0784336+00:00",
-  "LastUpdate_Ratings": "2024-10-11T23:59:38.1328155+00:00",
+  "LastUpdate_Ratings": "2024-10-12T03:12:02.9681893+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:51.1887147+00:00"
 }
