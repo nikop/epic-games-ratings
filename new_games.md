@@ -6,12 +6,12 @@
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | - |  | - | - |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-11 | - |  | - | - |
 | [Control](games/0/0d36d28dad0942d8be178cb68f6793af.md) | 2024-10-10 | - |  | - | - |
-| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.41 | 0 |
+| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.35 | 0 |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | - |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,343 | 4.32 | 45 |
 | [Dead Season](games/f/f01957afd8ed40b1aaad3e4e8536cfa4.md) | 2024-10-08 | - |  | - | 0 |
-| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.90 | 0 |
+| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.91 | 0 |
 | [FALLEN](games/6/607af50a638b4e8ab9b826fc477c4cbe.md) | 2024-10-08 | - |  | - | - |
 | [GT Manager](games/4/4c5ee9d67d8449478f3f58722ee54eab.md) | 2024-10-08 | - |  | - | - |
 | [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2024-10-06 | - |  | - | - |
@@ -107,7 +107,7 @@
 | [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-09-18 | - |  | - | 0 |
 | [Forgotten Bunker 1939](games/c/c7d05124d88241318dc8ff91c482e561.md) | 2024-09-18 | - |  | - | - |
 | [Seed of Heroes](games/0/0e55c16d6a89449c91646b3add220079.md) | 2024-09-17 | - |  | - | 0 |
-| [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.30 | 54 |
+| [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.30 | 58 |
 | [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.69 | 291 |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2024-09-16 | - |  | - | - |
