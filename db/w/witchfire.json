@@ -3,7 +3,7 @@
   "Name": "Witchfire",
   "ProductSlug": "witchfire-db273e",
   "Ranking_Rating": 414,
-  "Ranking_Popularity": 318,
+  "Ranking_Popularity": 317,
   "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 223,
@@ -4500,18 +4500,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 1715,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2024-10-12T02:09:45.1367108+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1718,
+      "NumberOfAwardsMax": 308
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1715,
-  "NumberOfAwardsMax": 305,
+  "NumberOfAwards": 1718,
+  "NumberOfAwardsMax": 308,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 305
+      "Count": 308
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4762,9 +4768,9 @@
   "FirstSeen": "2023-09-20T14:59:38.0794771+00:00",
   "FirstSeenRating": "2023-09-21T14:59:00.914233+00:00",
   "FirstSeenAchievements": "2024-09-14T14:19:34.9419485+00:00",
-  "LastChanged": "2024-10-11T21:58:36.5660782+00:00",
+  "LastChanged": "2024-10-12T02:09:45.1367107+00:00",
   "LastChanged_Achievements": "2024-10-09T19:03:32.1056476+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:14.1538488+00:00",
-  "LastUpdate_Ratings": "2024-10-11T23:57:13.5829505+00:00",
+  "LastUpdate_Ratings": "2024-10-12T02:09:45.1367111+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:32.1068107+00:00"
 }

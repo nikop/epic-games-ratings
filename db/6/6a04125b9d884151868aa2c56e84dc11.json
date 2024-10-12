@@ -3,8 +3,8 @@
   "Name": "LOVE",
   "ProductSlug": "love-65c4d0",
   "Ranking_Rating": 889,
-  "Ranking_Popularity": 738,
-  "Ranking_PopularitySum": 738,
+  "Ranking_Popularity": 739,
+  "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 482,
   "Ranking_EOS_NewPlayers": 3,
@@ -1609,6 +1609,6 @@
   "LastChanged": "2024-10-06T17:58:40.0128313+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:30.906736+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:21.4953889+00:00",
-  "LastUpdate_Ratings": "2024-10-11T22:58:21.1477971+00:00",
+  "LastUpdate_Ratings": "2024-10-12T02:06:45.7976268+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:30.9067523+00:00"
 }

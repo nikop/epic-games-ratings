@@ -2,7 +2,7 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 815,
   "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.45,
   "NumberOfRatings": 2008,
   "RatingHistory": [
     {
@@ -3108,6 +3108,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 1161,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2024-10-12T02:08:08.219718+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 1161,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
@@ -3193,8 +3199,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2024-10-11T02:10:57.4531451+00:00",
+  "LastChanged": "2024-10-12T02:08:08.2197178+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:11.7596087+00:00",
-  "LastUpdate_Ratings": "2024-10-11T22:59:22.3430041+00:00",
+  "LastUpdate_Ratings": "2024-10-12T02:08:08.2197186+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:57.8809964+00:00"
 }
