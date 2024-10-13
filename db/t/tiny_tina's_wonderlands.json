@@ -4,7 +4,7 @@
   "ProductSlug": "tiny-tinas-wonderlands",
   "Ranking_Rating": 564,
   "Ranking_Popularity": 26,
-  "Ranking_PopularitySum": 43,
+  "Ranking_PopularitySum": 44,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -19757,10 +19757,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 46338,
       "NumberOfAwardsMax": 25690
+    },
+    {
+      "Time": "2024-10-13T05:58:13.5772767+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 46341,
+      "NumberOfAwardsMax": 25690
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 46338,
+  "NumberOfAwards": 46341,
   "NumberOfAwardsMax": 25690,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -19792,7 +19798,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2688
+      "Count": 2691
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -19836,8 +19842,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2024-10-13T03:58:39.5675893+00:00",
+  "LastChanged": "2024-10-13T05:58:13.5772765+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:22.8003724+00:00",
-  "LastUpdate_Ratings": "2024-10-13T03:58:39.5675898+00:00",
+  "LastUpdate_Ratings": "2024-10-13T05:58:13.5772771+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:39.7240111+00:00"
 }

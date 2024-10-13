@@ -3,8 +3,8 @@
   "Name": "Cosmik Battle - Trading Card Game",
   "ProductSlug": "cosmik-battle-f6dbf4",
   "Ranking_Rating": 721,
-  "Ranking_Popularity": 565,
-  "Ranking_PopularitySum": 518,
+  "Ranking_Popularity": 557,
+  "Ranking_PopularitySum": 493,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -900,12 +900,18 @@
       "Rating": 4.5,
       "NumberOfAwards": 231,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2024-10-13T05:58:35.8760739+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 231,
-  "NumberOfAwardsMax": 57,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 290,
+  "NumberOfAwardsMax": 59,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
@@ -917,7 +923,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 56
+      "Count": 59
     },
     {
       "Text": "This game has Challenging Combat",
@@ -986,8 +992,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-02-20T17:57:36.2608146+00:00",
   "FirstSeenRating": "2024-04-14T07:50:45.1717656+00:00",
-  "LastChanged": "2024-10-12T07:58:11.2852773+00:00",
+  "LastChanged": "2024-10-13T05:58:35.8760738+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:14.6015671+00:00",
-  "LastUpdate_Ratings": "2024-10-13T03:58:58.9084356+00:00",
+  "LastUpdate_Ratings": "2024-10-13T05:58:35.8760745+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:29.8572727+00:00"
 }
