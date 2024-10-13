@@ -4,7 +4,7 @@
   "ProductSlug": "northgard",
   "Ranking_Rating": 413,
   "Ranking_Popularity": 533,
-  "Ranking_PopularitySum": 476,
+  "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1201,10 +1201,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 346,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-10-13T13:14:27.3569022+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 310,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 346,
+  "NumberOfAwards": 310,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1280,8 +1286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:06.911042+00:00",
-  "LastChanged": "2024-10-10T18:59:37.4552936+00:00",
+  "LastChanged": "2024-10-13T13:14:27.3569021+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:41.6472844+00:00",
-  "LastUpdate_Ratings": "2024-10-13T11:57:43.6325435+00:00",
+  "LastUpdate_Ratings": "2024-10-13T13:14:27.3569026+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:35.8169798+00:00"
 }
