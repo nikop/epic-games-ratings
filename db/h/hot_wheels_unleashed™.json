@@ -2,7 +2,7 @@
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
-  "Ranking_Rating": 544,
+  "Ranking_Rating": 543,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 1263,
@@ -879,10 +879,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 410,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-10-13T21:57:13.4407471+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 411,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 410,
+  "NumberOfAwards": 411,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -926,7 +932,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Diverse Characters",
@@ -978,9 +984,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "FirstSeenAchievements": "2023-10-25T15:04:44.0813586+00:00",
-  "LastChanged": "2024-10-12T21:57:27.5354477+00:00",
+  "LastChanged": "2024-10-13T21:57:13.4407469+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:54.4150728+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:17.2967761+00:00",
-  "LastUpdate_Ratings": "2024-10-13T19:57:54.5121348+00:00",
+  "LastUpdate_Ratings": "2024-10-13T21:57:13.4407475+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:54.4150758+00:00"
 }

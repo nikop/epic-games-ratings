@@ -3,9 +3,9 @@
 [View Rawdata](../../db/t/the_machines_arena.json)  
 Rating: 4.78 (Ranked 129)  
 ## Awards
-Max (Great for Beginners): 61  (Ranked 552)  
+Max (Great for Beginners): 61  (Ranked 553)  
 Sum: 387 (Ranked 457)  
-Diff (max vs sum): 95  
+Diff (max vs sum): 96  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |
