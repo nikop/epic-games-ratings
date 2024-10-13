@@ -4,7 +4,7 @@
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 129,
   "Ranking_Popularity": 552,
-  "Ranking_PopularitySum": 458,
+  "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1085,12 +1085,18 @@
       "Rating": 4.78,
       "NumberOfAwards": 385,
       "NumberOfAwardsMax": 61
+    },
+    {
+      "Time": "2024-10-13T17:59:53.9927573+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 385,
+  "NumberOfAwards": 387,
   "NumberOfAwardsMax": 61,
-  "MaxAwardTitle": "Great for Quick Sessions",
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
@@ -1114,7 +1120,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 59
+      "Count": 61
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1177,8 +1183,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-10-13T02:18:21.9819287+00:00",
+  "LastChanged": "2024-10-13T17:59:53.9927571+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:10.4209099+00:00",
-  "LastUpdate_Ratings": "2024-10-13T16:57:52.2676253+00:00",
+  "LastUpdate_Ratings": "2024-10-13T17:59:53.9927576+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:48.5529519+00:00"
 }

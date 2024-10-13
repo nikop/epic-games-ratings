@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-wrc-24",
   "Ranking_Rating": 1031,
   "Ranking_Popularity": 598,
-  "Ranking_PopularitySum": 482,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1465,10 +1465,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 318,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2024-10-13T17:57:59.0309629+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 321,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 318,
+  "NumberOfAwards": 321,
   "NumberOfAwardsMax": 45,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -1494,7 +1500,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1518,7 +1524,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 33
+      "Count": 35
     },
     {
       "Text": "This game is Relaxing",
@@ -3680,9 +3686,9 @@
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenRating": "2023-11-25T01:40:43.9281933+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged": "2024-10-13T06:58:50.9118712+00:00",
+  "LastChanged": "2024-10-13T17:57:59.0309627+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:55.9621814+00:00",
   "LastUpdate_AppInfo": "2024-10-09T20:57:32.224201+00:00",
-  "LastUpdate_Ratings": "2024-10-13T15:59:06.5167058+00:00",
+  "LastUpdate_Ratings": "2024-10-13T17:57:59.0309634+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:55.962207+00:00"
 }
