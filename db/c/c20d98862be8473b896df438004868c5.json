@@ -2,7 +2,7 @@
   "ID": "c20d98862be8473b896df438004868c5",
   "Name": "Rugrats: Adventures in Gameland",
   "ProductSlug": "rugrats-adventures-in-gameland-737402",
-  "Ranking_Rating": 1241,
+  "Ranking_Rating": 1255,
   "Ranking_Popularity": 740,
   "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 193,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.06,
+  "Rating": 4.01,
   "RatingHistory": [
     {
       "Time": "2024-09-15T15:00:20.8075182+00:00",
@@ -160,6 +160,12 @@
     {
       "Time": "2024-10-12T13:58:56.8334037+00:00",
       "Rating": 4.06,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-13T13:59:08.4516082+00:00",
+      "Rating": 4.01,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -356,9 +362,9 @@
   "FirstSeen": "2024-09-12T18:58:33.2616676+00:00",
   "FirstSeenRating": "2024-09-15T15:00:20.807518+00:00",
   "FirstSeenAchievements": "2024-09-14T14:15:05.7682459+00:00",
-  "LastChanged": "2024-10-12T13:58:56.8334036+00:00",
+  "LastChanged": "2024-10-13T13:59:08.4516081+00:00",
   "LastChanged_Achievements": "2024-09-14T14:15:05.7682382+00:00",
   "LastUpdate_AppInfo": "2024-10-10T03:13:15.2147119+00:00",
-  "LastUpdate_Ratings": "2024-10-13T11:59:51.5405788+00:00",
+  "LastUpdate_Ratings": "2024-10-13T13:59:08.4516084+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:05.7689843+00:00"
 }

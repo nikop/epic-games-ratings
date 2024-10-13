@@ -1,7 +1,7 @@
 # Disco Elysium - The Final Cut
 [Store](https://store.epicgames.com/en-US/p/disco-elysium)  
 [View Rawdata](../../db/d/disco_elysium_-_the_final_cut.json)  
-Rating: 4.87 (Ranked 18)  
+Rating: 4.87 (Ranked 19)  
 Number of Ratings: 1,611  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -344,7 +344,7 @@ Completed: 33 (0.02%) (Ranked 540)
 | 2024-09-14 | 148,633 | 33 |
 ## Awards
 Max (Character Customization): 868  (Ranked 223)  
-Sum: 1,356 (Ranked 308)  
+Sum: 1,357 (Ranked 308)  
 Diff (max vs sum): -85  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): -85
 | This game has Quickly Understood Controls | 51 |
 | This game has Unique Visuals | 48 |
 | This game is Relaxing | 48 |
-| This game has Diverse Characters | 47 |
+| This game has Diverse Characters | 48 |
 | This game has Amazing Characters | 46 |
 | This game is Extremely Fun | 43 |
 | This game has a Creative Community | 33 |
@@ -657,3 +657,4 @@ Diff (max vs sum): -85
 | 2024-10-08 | 4.87 | - | 865 | 1,352 |
 | 2024-10-10 | 4.87 | - | 867 | 1,355 |
 | 2024-10-11 | 4.87 | - | 868 | 1,356 |
+| 2024-10-13 | 4.87 | - | 868 | 1,357 |

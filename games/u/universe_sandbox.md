@@ -1,12 +1,12 @@
 # Universe Sandbox
 [Store](https://store.epicgames.com/en-US/p/universe-sandbox)  
 [View Rawdata](../../db/u/universe_sandbox.json)  
-Rating: 4.61 (Ranked 467)  
+Rating: 4.62 (Ranked 438)  
 Number of Ratings: 63  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 23  (Ranked 711)  
+Max (Great for Beginners): 23  (Ranked 712)  
 Sum: 45 (Ranked 661)  
-Diff (max vs sum): 50  
+Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 23 |
@@ -109,3 +109,4 @@ Diff (max vs sum): 50
 | 2024-09-30 | 4.62 | - | 23 | 44 |
 | 2024-10-06 | 4.62 | - | 23 | 45 |
 | 2024-10-12 | 4.61 | - | 23 | 45 |
+| 2024-10-13 | 4.62 | - | 23 | 45 |

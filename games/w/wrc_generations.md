@@ -3,8 +3,8 @@
 [View Rawdata](../../db/w/wrc_generations.json)  
 Rating: 4.45 (Ranked 815)  
 ## Awards
-Max (Diverse Characters): 33  (Ranked 646)  
-Sum: 204 (Ranked 537)  
+Max (Diverse Characters): 33  (Ranked 647)  
+Sum: 204 (Ranked 538)  
 Diff (max vs sum): 109  
 | Award | Count |
 | ----- | ----- |

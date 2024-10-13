@@ -1,7 +1,7 @@
 # DRAGON QUEST® XI S: Echoes of an Elusive Age™
 [Store](https://store.epicgames.com/en-US/p/dragon-quest-xi-s-echoes-of-an-elusive-age)  
 [View Rawdata](../../db/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.json)  
-Rating: 4.82 (Ranked 80)  
+Rating: 4.81 (Ranked 94)  
 Number of Ratings: 306  (23.09.2022)  
 ## Awards
 Max (Character Customization): 279  (Ranked 333)  
@@ -243,3 +243,4 @@ Diff (max vs sum): -70
 | 2024-10-02 | 4.82 | - | 277 | 625 |
 | 2024-10-06 | 4.82 | - | 278 | 626 |
 | 2024-10-07 | 4.82 | - | 279 | 627 |
+| 2024-10-13 | 4.81 | - | 279 | 627 |

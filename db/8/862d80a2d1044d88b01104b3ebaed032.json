@@ -2,9 +2,9 @@
   "ID": "862d80a2d1044d88b01104b3ebaed032",
   "Name": "God of War Ragnar\u00F6k",
   "ProductSlug": "god-of-war-ragnarok-3ca641",
-  "Ranking_Rating": 18,
-  "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 296,
+  "Ranking_Rating": 19,
+  "Ranking_Popularity": 384,
+  "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -894,10 +894,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1588,
       "NumberOfAwardsMax": 193
+    },
+    {
+      "Time": "2024-10-13T13:57:27.8982254+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1624,
+      "NumberOfAwardsMax": 193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1588,
+  "NumberOfAwards": 1624,
   "NumberOfAwardsMax": 193,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -929,13 +935,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 154
+      "Count": 164
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 119
+      "Count": 130
     },
     {
       "Text": "This game has Diverse Characters",
@@ -953,7 +959,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 132
+      "Count": 147
     },
     {
       "Text": "This game is Relaxing",
@@ -1006,9 +1012,9 @@
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
-  "LastChanged": "2024-10-13T11:58:10.2650425+00:00",
+  "LastChanged": "2024-10-13T13:57:27.8982252+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.3692219+00:00",
-  "LastUpdate_Ratings": "2024-10-13T11:58:10.2650431+00:00",
+  "LastUpdate_Ratings": "2024-10-13T13:57:27.8982255+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
 }

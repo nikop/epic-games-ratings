@@ -2,7 +2,7 @@
   "ID": "0dfcaeede0214b80b597f08fd7d64b1b",
   "Name": "Risk of Rain 2",
   "ProductSlug": "risk-of-rain-2",
-  "Ranking_Rating": 95,
+  "Ranking_Rating": 94,
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 207,
   "Ranking_EOS_Progress": 1263,
@@ -6777,10 +6777,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3715,
       "NumberOfAwardsMax": 465
+    },
+    {
+      "Time": "2024-10-13T13:59:53.6474972+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3716,
+      "NumberOfAwardsMax": 465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3715,
+  "NumberOfAwards": 3716,
   "NumberOfAwardsMax": 465,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6800,7 +6806,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 313
+      "Count": 314
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6868,8 +6874,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:31.4387684+00:00",
-  "LastChanged": "2024-10-13T13:12:01.499604+00:00",
+  "LastChanged": "2024-10-13T13:59:53.6474971+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:12.6514668+00:00",
-  "LastUpdate_Ratings": "2024-10-13T13:12:01.4996047+00:00",
+  "LastUpdate_Ratings": "2024-10-13T13:59:53.6474976+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:43.3822532+00:00"
 }

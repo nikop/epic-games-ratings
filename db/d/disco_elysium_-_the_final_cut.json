@@ -2,7 +2,7 @@
   "ID": "ff52981b1d9947978153c7a7f8bc6d90",
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
-  "Ranking_Rating": 18,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 223,
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 116,
@@ -2486,10 +2486,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 1356,
       "NumberOfAwardsMax": 868
+    },
+    {
+      "Time": "2024-10-13T13:58:06.2089833+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1357,
+      "NumberOfAwardsMax": 868
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1356,
+  "NumberOfAwards": 1357,
   "NumberOfAwardsMax": 868,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2557,7 +2563,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Easy Combat",
@@ -31284,9 +31290,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
-  "LastChanged": "2024-10-11T20:59:46.848472+00:00",
+  "LastChanged": "2024-10-13T13:58:06.2089832+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:33.282039+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:44.4977146+00:00",
-  "LastUpdate_Ratings": "2024-10-13T11:58:48.6335812+00:00",
+  "LastUpdate_Ratings": "2024-10-13T13:58:06.2089835+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:33.2821751+00:00"
 }
