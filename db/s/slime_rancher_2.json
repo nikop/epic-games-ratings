@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 116,
   "Ranking_Popularity": 416,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -2299,6 +2299,6 @@
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
   "LastChanged": "2024-10-12T03:13:02.380343+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:48.7207269+00:00",
-  "LastUpdate_Ratings": "2024-10-13T10:00:43.5839993+00:00",
+  "LastUpdate_Ratings": "2024-10-13T11:59:03.0629831+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:08.8629791+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 492,
+  "Ranking_Rating": 493,
   "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 1263,
@@ -23929,18 +23929,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 50143,
       "NumberOfAwardsMax": 19354
+    },
+    {
+      "Time": "2024-10-13T11:58:19.6990101+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 50162,
+      "NumberOfAwardsMax": 19368
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50143,
-  "NumberOfAwardsMax": 19354,
+  "NumberOfAwards": 50162,
+  "NumberOfAwardsMax": 19368,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 19354
+      "Count": 19368
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -23958,7 +23964,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2081
+      "Count": 2084
     },
     {
       "Text": "This game is Great for Beginners",
@@ -23970,7 +23976,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2047
+      "Count": 2049
     },
     {
       "Text": "This game has Amazing Characters",
@@ -24020,8 +24026,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-10-13T09:59:42.3123698+00:00",
+  "LastChanged": "2024-10-13T11:58:19.6990099+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:33.6725607+00:00",
-  "LastUpdate_Ratings": "2024-10-13T09:59:42.3123704+00:00",
+  "LastUpdate_Ratings": "2024-10-13T11:58:19.6990104+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:49.5488418+00:00"
 }
