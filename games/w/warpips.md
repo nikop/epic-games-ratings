@@ -1,7 +1,7 @@
 # Warpips
 [Store](https://store.epicgames.com/en-US/p/warpips-57e2c4)  
 [View Rawdata](../../db/w/warpips.json)  
-Rating: 4.44 (Ranked 838)  
+Rating: 4.43 (Ranked 860)  
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 69  (Ranked 533)  
@@ -268,3 +268,4 @@ Diff (max vs sum): 81
 | 2024-10-05 | 4.44 | - | 69 | 399 |
 | 2024-10-07 | 4.44 | - | 69 | 400 |
 | 2024-10-11 | 4.44 | - | 69 | 401 |
+| 2024-10-13 | 4.43 | - | 69 | 401 |
