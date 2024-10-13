@@ -3,7 +3,7 @@
   "Name": "Salt and Sanctuary",
   "ProductSlug": "salt-and-sanctuary",
   "Ranking_Rating": 438,
-  "Ranking_Popularity": 309,
+  "Ranking_Popularity": 308,
   "Ranking_PopularitySum": 244,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 384,
@@ -4438,11 +4438,17 @@
       "Rating": 4.62,
       "NumberOfAwards": 2482,
       "NumberOfAwardsMax": 343
+    },
+    {
+      "Time": "2024-10-13T18:57:29.7265083+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2486,
+      "NumberOfAwardsMax": 345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2482,
-  "NumberOfAwardsMax": 343,
+  "NumberOfAwards": 2486,
+  "NumberOfAwardsMax": 345,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
@@ -4461,7 +4467,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 343
+      "Count": 345
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4479,7 +4485,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 276
+      "Count": 277
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4491,7 +4497,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -36198,9 +36204,9 @@
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
-  "LastChanged": "2024-10-12T16:58:22.8800323+00:00",
+  "LastChanged": "2024-10-13T18:57:29.7265081+00:00",
   "LastChanged_Achievements": "2024-09-14T14:17:53.6972562+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:29.8005057+00:00",
-  "LastUpdate_Ratings": "2024-10-13T16:58:55.2406259+00:00",
+  "LastUpdate_Ratings": "2024-10-13T18:57:29.7265086+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:17:53.6973925+00:00"
 }

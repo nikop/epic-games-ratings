@@ -3,7 +3,7 @@
   "Name": "Mafia III: Definitive Edition",
   "ProductSlug": "mafia-iii-definitive-edition",
   "Ranking_Rating": 1183,
-  "Ranking_Popularity": 504,
+  "Ranking_Popularity": 505,
   "Ranking_PopularitySum": 412,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -1663,10 +1663,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 570,
       "NumberOfAwardsMax": 87
+    },
+    {
+      "Time": "2024-10-13T18:59:12.5661364+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 571,
+      "NumberOfAwardsMax": 87
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 570,
+  "NumberOfAwards": 571,
   "NumberOfAwardsMax": 87,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1728,7 +1734,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 70
+      "Count": 71
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -1748,8 +1754,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
-  "LastChanged": "2024-10-12T03:57:14.3611164+00:00",
+  "LastChanged": "2024-10-13T18:59:12.5661362+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:20.4572465+00:00",
-  "LastUpdate_Ratings": "2024-10-13T17:57:07.7112966+00:00",
+  "LastUpdate_Ratings": "2024-10-13T18:59:12.5661368+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:54.4738009+00:00"
 }
