@@ -2,7 +2,7 @@
   "ID": "3b661fd6a9724ac7b6ac6d10d0572511",
   "Name": "PAYDAY 2",
   "ProductSlug": "payday-2-c66369",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 8,
@@ -18941,18 +18941,24 @@
       "Rating": 4.57,
       "NumberOfAwards": 35694,
       "NumberOfAwardsMax": 13997
+    },
+    {
+      "Time": "2024-10-13T16:57:17.1223779+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 35709,
+      "NumberOfAwardsMax": 14012
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 35694,
-  "NumberOfAwardsMax": 13997,
+  "NumberOfAwards": 35709,
+  "NumberOfAwardsMax": 14012,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 13997
+      "Count": 14012
     },
     {
       "Text": "This game has Diverse Characters",
@@ -57197,9 +57203,9 @@
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2024-10-13T13:13:03.4395251+00:00",
+  "LastChanged": "2024-10-13T16:57:17.1223778+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:27.4121944+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:37.1871174+00:00",
-  "LastUpdate_Ratings": "2024-10-13T14:57:59.6442413+00:00",
+  "LastUpdate_Ratings": "2024-10-13T16:57:17.1223782+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:27.4246811+00:00"
 }
