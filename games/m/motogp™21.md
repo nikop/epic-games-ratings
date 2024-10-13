@@ -1,11 +1,11 @@
 # MotoGP™21
 [Store](https://store.epicgames.com/en-US/p/motogp-21)  
 [View Rawdata](../../db/m/motogp™21.json)  
-Rating: 4.57 (Ranked 563)  
+Rating: 4.58 (Ranked 543)  
 Number of Ratings: 95  (23.09.2022)  
 ## Awards
 Max (Amazing Characters): 31  (Ranked 658)  
-Sum: 239 (Ranked 514)  
+Sum: 241 (Ranked 514)  
 Diff (max vs sum): 144  
 | Award | Count |
 | ----- | ----- |
@@ -13,9 +13,9 @@ Diff (max vs sum): 144
 | This game has Diverse Characters | 31 |
 | This game is Highly Recommended | 24 |
 | This game has Amazing Storytelling | 24 |
+| This game is Extremely Fun | 24 |
 | This game has Quickly Understood Controls | 23 |
 | This game has Realistic Visuals | 23 |
-| This game is Extremely Fun | 22 |
 | This game has Competitive Players | 21 |
 | This game is Relaxing | 20 |
 | This game has a Competitive Community | 20 |
@@ -116,3 +116,4 @@ Diff (max vs sum): 144
 | 2024-10-10 | 4.58 | - | 31 | 217 |
 | 2024-10-11 | 4.58 | - | 31 | 219 |
 | 2024-10-12 | 4.57 | - | 31 | 239 |
+| 2024-10-13 | 4.58 | - | 31 | 241 |

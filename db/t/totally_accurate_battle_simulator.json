@@ -4,7 +4,7 @@
   "ProductSlug": "totally-accurate-battle-simulator",
   "Ranking_Rating": 172,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 182,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -9440,10 +9440,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4831,
       "NumberOfAwardsMax": 650
+    },
+    {
+      "Time": "2024-10-13T03:20:27.1410811+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4833,
+      "NumberOfAwardsMax": 650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4831,
+  "NumberOfAwards": 4833,
   "NumberOfAwardsMax": 650,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9499,7 +9505,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 447
+      "Count": 449
     },
     {
       "Text": "This game has a Creative Community",
@@ -9543,8 +9549,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:14.6922177+00:00",
-  "LastChanged": "2024-10-13T02:15:15.4749207+00:00",
+  "LastChanged": "2024-10-13T03:20:27.1410809+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:12.7352404+00:00",
-  "LastUpdate_Ratings": "2024-10-13T02:15:15.4749216+00:00",
+  "LastUpdate_Ratings": "2024-10-13T03:20:27.1410814+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:41.039164+00:00"
 }
