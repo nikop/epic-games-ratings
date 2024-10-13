@@ -2,7 +2,7 @@
   "ID": "dbf5337d024e457bac68f2059112da86",
   "Name": "The Binding of Isaac: Repentance",
   "ProductSlug": "the-binding-of-isaac-repentance",
-  "Ranking_Rating": 12,
+  "Ranking_Rating": 11,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 114,
   "Ranking_EOS_Progress": 1263,
@@ -11110,10 +11110,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 11829,
       "NumberOfAwardsMax": 2491
+    },
+    {
+      "Time": "2024-10-13T14:58:03.3906598+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11834,
+      "NumberOfAwardsMax": 2491
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11829,
+  "NumberOfAwards": 11834,
   "NumberOfAwardsMax": 2491,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -11193,7 +11199,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 725
+      "Count": 730
     }
   ],
   "EOS_Progressed": 0,
@@ -11207,8 +11213,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-10-13T13:13:06.9839175+00:00",
+  "LastChanged": "2024-10-13T14:58:03.3906597+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:29.0593683+00:00",
-  "LastUpdate_Ratings": "2024-10-13T13:13:06.983918+00:00",
+  "LastUpdate_Ratings": "2024-10-13T14:58:03.3906603+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:03.4668896+00:00"
 }

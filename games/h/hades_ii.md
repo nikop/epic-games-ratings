@@ -1,7 +1,7 @@
 # Hades II
 [Store](https://store.epicgames.com/en-US/p/hades-ii)  
 [View Rawdata](../../db/h/hades_ii.json)  
-Rating: 4.90 (Ranked 9)  
+Rating: 4.89 (Ranked 11)  
 ## Awards
 Max (Character Customization): 228  (Ranked 358)  
 Sum: 501 (Ranked 424)  
@@ -135,3 +135,4 @@ Diff (max vs sum): -66
 | 2024-10-07 | 4.90 | 223 | 494 |
 | 2024-10-08 | 4.90 | 227 | 500 |
 | 2024-10-11 | 4.90 | 228 | 501 |
+| 2024-10-13 | 4.89 | 228 | 501 |
