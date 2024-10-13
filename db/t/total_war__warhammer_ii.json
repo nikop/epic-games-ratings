@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 254,
   "Ranking_Popularity": 94,
-  "Ranking_PopularitySum": 90,
+  "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -13298,10 +13298,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 17406,
       "NumberOfAwardsMax": 5490
+    },
+    {
+      "Time": "2024-10-13T09:58:47.636792+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 17410,
+      "NumberOfAwardsMax": 5490
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17406,
+  "NumberOfAwards": 17410,
   "NumberOfAwardsMax": 5490,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -13333,7 +13339,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1202
+      "Count": 1206
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13395,8 +13401,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2024-10-13T03:17:02.8771233+00:00",
+  "LastChanged": "2024-10-13T09:58:47.6367919+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:40.0193991+00:00",
-  "LastUpdate_Ratings": "2024-10-13T07:58:47.1983903+00:00",
+  "LastUpdate_Ratings": "2024-10-13T09:58:47.6367923+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:37.2421177+00:00"
 }
