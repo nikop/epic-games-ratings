@@ -6,7 +6,7 @@
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | - |  | - | 0 |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-11 | - |  | - | - |
 | [Control](games/0/0d36d28dad0942d8be178cb68f6793af.md) | 2024-10-10 | - |  | - | - |
-| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.46 | 0 |
+| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.50 | 0 |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | - |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,343 | 4.31 | 45 |
@@ -96,7 +96,7 @@
 | [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-09-20 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 5 | - | 0 |
 | [Mouse Arcade](games/7/76dfad87100e4d69b7876b1c6d7c5448.md) | 2024-09-20 | - |  | - | - |
-| [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | - |  | 4.42 | 0 |
+| [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 2024-09-20 | - |  | 4.44 | 0 |
 | [God of War Ragnarök](games/8/862d80a2d1044d88b01104b3ebaed032.md) | 2024-09-19 | - |  | 4.87 | 193 |
 | [Cricket: Jae's Really Peculiar Game](games/6/60bacbafcd4649869bb52a5ee09005f5.md) | 2024-09-19 | 10 (1,000 XP) | 1 | - | - |
 | [Shelter: A Lynx Adventure](games/8/80d78ff4059c488784165948b212f721.md) | 2024-09-19 | 26 (1,000 XP) | 0 | - | 0 |
