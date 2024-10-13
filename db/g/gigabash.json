@@ -4,7 +4,7 @@
   "ProductSlug": "gigabash",
   "Ranking_Rating": 638,
   "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 556,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -874,10 +874,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 165,
       "NumberOfAwardsMax": 144
+    },
+    {
+      "Time": "2024-10-13T20:57:20.3800496+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 185,
+      "NumberOfAwardsMax": 144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 165,
+  "NumberOfAwards": 185,
   "NumberOfAwardsMax": 144,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -892,6 +898,12 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 157189,
@@ -6987,9 +6999,9 @@
   "FirstSeen": "2022-08-05T02:02:12.3319338+00:00",
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
-  "LastChanged": "2024-10-07T03:16:30.2983292+00:00",
+  "LastChanged": "2024-10-13T20:57:20.3800494+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:54.476+00:00",
   "LastUpdate_AppInfo": "2024-10-07T13:57:32.9399271+00:00",
-  "LastUpdate_Ratings": "2024-10-13T18:57:59.5050756+00:00",
+  "LastUpdate_Ratings": "2024-10-13T20:57:20.3800499+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:54.4760423+00:00"
 }

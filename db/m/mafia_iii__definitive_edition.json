@@ -4,7 +4,7 @@
   "ProductSlug": "mafia-iii-definitive-edition",
   "Ranking_Rating": 1183,
   "Ranking_Popularity": 505,
-  "Ranking_PopularitySum": 412,
+  "Ranking_PopularitySum": 411,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1756,6 +1756,6 @@
   "FirstSeen": "2022-07-22T20:19:34.9657602+00:00",
   "LastChanged": "2024-10-13T18:59:12.5661362+00:00",
   "LastUpdate_AppInfo": "2024-10-07T09:57:20.4572465+00:00",
-  "LastUpdate_Ratings": "2024-10-13T18:59:12.5661368+00:00",
+  "LastUpdate_Ratings": "2024-10-13T20:59:07.1806562+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:54.4738009+00:00"
 }
