@@ -3,8 +3,8 @@
   "Name": "Melatonin",
   "ProductSlug": "melatonin-f16dcb",
   "Ranking_Rating": 42,
-  "Ranking_Popularity": 739,
-  "Ranking_PopularitySum": 739,
+  "Ranking_Popularity": 740,
+  "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -115,6 +115,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.2547734+00:00",
   "LastChanged": "2024-10-10T23:00:10.01506+00:00",
   "LastUpdate_AppInfo": "2024-10-07T07:57:14.4981482+00:00",
-  "LastUpdate_Ratings": "2024-10-13T06:59:09.963166+00:00",
+  "LastUpdate_Ratings": "2024-10-13T08:59:00.1920745+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.8057238+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "A Short Hike",
   "ProductSlug": "a-short-hike",
   "Ranking_Rating": 42,
-  "Ranking_Popularity": 739,
-  "Ranking_PopularitySum": 739,
+  "Ranking_Popularity": 740,
+  "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -408,6 +408,6 @@
   "FirstSeen": "2022-07-22T20:29:23.6184484+00:00",
   "LastChanged": "2024-08-28T02:58:58.3230988+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:58:06.4523866+00:00",
-  "LastUpdate_Ratings": "2024-10-13T06:59:55.9422917+00:00",
+  "LastUpdate_Ratings": "2024-10-13T09:00:08.6495013+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:05:44.3445153+00:00"
 }

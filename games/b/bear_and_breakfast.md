@@ -2,6 +2,13 @@
 [Store](https://store.epicgames.com/en-US/p/bear-and-breakfast-77c209)  
 [View Rawdata](../../db/b/bear_and_breakfast.json)  
 Rating: 4.60 (Ranked 491)  
+## Awards
+Max (Great for Beginners): 21  (Ranked 723)  
+Sum: 21 (Ranked 725)  
+Diff (max vs sum): -2  
+| Award | Count |
+| ----- | ----- |
+| This game is Great for Beginners | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -26,3 +33,4 @@ Rating: 4.60 (Ranked 491)
 | 2024-10-10 | 4.60 | 0 | 0 |
 | 2024-10-11 | 4.61 | 0 | 0 |
 | 2024-10-12 | 4.60 | 0 | 0 |
+| 2024-10-13 | 4.60 | 21 | 21 |
