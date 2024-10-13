@@ -116,4 +116,3 @@
 | [PaperMadeRacing](games/f/f056b83fd8c04561826d41aa08ff5e8c.md) | 2024-09-15 | - |  | - | - |
 | [Visual Novel Sisters](games/0/00bab981d718475f974762ecaeaeb7fb.md) | 2024-09-14 | 5 (1,000 XP) | 3 | - | - |
 | [Edge of Sanity](games/c/c91b94ecb13244d48fe0e62edd500e5e.md) | 2024-09-13 | 51 (1,000 XP) | 8 | - | 0 |
-| [Stormedge](games/0/014e225d587d41ea80c0adb3f33041d0.md) | 2024-09-13 | - |  | - | 0 |
