@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 80,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 422,
   "Ranking_EOS_NewPlayers": 3,
@@ -5689,11 +5689,17 @@
       "Rating": 4.82,
       "NumberOfAwards": 3814,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2024-10-12T23:57:48.8212324+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3816,
+      "NumberOfAwardsMax": 559
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3814,
-  "NumberOfAwardsMax": 557,
+  "NumberOfAwards": 3816,
+  "NumberOfAwardsMax": 559,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -5730,7 +5736,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 557
+      "Count": 559
     },
     {
       "Text": "This game has Amazing Characters",
@@ -22821,9 +22827,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-10-12T19:59:01.3519238+00:00",
+  "LastChanged": "2024-10-12T23:57:48.8212322+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:20.9406475+00:00",
   "LastUpdate_AppInfo": "2024-10-07T10:57:24.2963199+00:00",
-  "LastUpdate_Ratings": "2024-10-12T21:58:57.3300215+00:00",
+  "LastUpdate_Ratings": "2024-10-12T23:57:48.8212327+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:20.9407455+00:00"
 }

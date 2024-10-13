@@ -2,7 +2,7 @@
   "ID": "c5e46dc234c449408ede15767c2c631e",
   "Name": "Off The Grid - Early Access",
   "ProductSlug": "off-the-grid-7e3cc5",
-  "Ranking_Rating": 1285,
+  "Ranking_Rating": 1288,
   "Ranking_Popularity": 739,
   "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 3.91,
+  "Rating": 3.9,
   "RatingHistory": [
     {
       "Time": "2024-10-08T22:00:55.9352561+00:00",
@@ -96,6 +96,12 @@
       "Rating": 3.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-12T23:58:43.8309151+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -114,7 +120,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-08T11:57:04.8885344+00:00",
   "FirstSeenRating": "2024-10-08T22:00:55.9352559+00:00",
-  "LastChanged": "2024-10-12T18:57:21.8662252+00:00",
+  "LastChanged": "2024-10-12T23:58:43.8309149+00:00",
   "LastUpdate_AppInfo": "2024-10-08T11:57:04.7559827+00:00",
-  "LastUpdate_Ratings": "2024-10-12T21:59:48.9075802+00:00"
+  "LastUpdate_Ratings": "2024-10-12T23:58:43.8309154+00:00"
 }

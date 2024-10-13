@@ -1,7 +1,7 @@
 # Men of War
 [Store](https://store.epicgames.com/en-US/p/men-of-war-74bf75)  
 [View Rawdata](../../db/m/men_of_war.json)  
-Rating: 4.39 (Ranked 933)  
+Rating: 4.40 (Ranked 911)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -29,3 +29,4 @@ Rating: 4.39 (Ranked 933)
 | 2024-10-03 | 4.38 | 0 | 0 |
 | 2024-10-06 | 4.40 | 0 | 0 |
 | 2024-10-09 | 4.39 | 0 | 0 |
+| 2024-10-12 | 4.40 | 0 | 0 |

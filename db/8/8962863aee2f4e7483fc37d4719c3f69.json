@@ -4,7 +4,7 @@
   "ProductSlug": "payday-3",
   "Ranking_Rating": 1252,
   "Ranking_Popularity": 464,
-  "Ranking_PopularitySum": 408,
+  "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -2623,10 +2623,16 @@
       "Rating": 4.03,
       "NumberOfAwards": 601,
       "NumberOfAwardsMax": 113
+    },
+    {
+      "Time": "2024-10-12T23:59:40.7150438+00:00",
+      "Rating": 4.03,
+      "NumberOfAwards": 602,
+      "NumberOfAwardsMax": 113
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 601,
+  "NumberOfAwards": 602,
   "NumberOfAwardsMax": 113,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2646,7 +2652,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 83
+      "Count": 84
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2691,8 +2697,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-21T15:59:03.5169673+00:00",
   "FirstSeenRating": "2023-09-22T23:59:41.3450917+00:00",
-  "LastChanged": "2024-10-12T22:00:43.2307868+00:00",
+  "LastChanged": "2024-10-12T23:59:40.7150436+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:13.1445963+00:00",
-  "LastUpdate_Ratings": "2024-10-12T22:00:43.2307873+00:00",
+  "LastUpdate_Ratings": "2024-10-12T23:59:40.715044+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:28.1561061+00:00"
 }
