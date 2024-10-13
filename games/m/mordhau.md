@@ -1,7 +1,7 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.35 (Ranked 981)  
+Rating: 4.36 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -900,4 +900,4 @@ Diff (max vs sum): 13
 | 2024-10-10 | 4.36 | 2,388 | 10,996 |
 | 2024-10-11 | 4.36 | 2,396 | 11,025 |
 | 2024-10-12 | 4.35 | 2,396 | 11,046 |
-| 2024-10-13 | 4.35 | 2,403 | 11,053 |
+| 2024-10-13 | 4.36 | 2,403 | 11,053 |
