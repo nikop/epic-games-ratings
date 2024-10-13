@@ -2,7 +2,7 @@
   "ID": "72324f542dc4488681e617b0d39ad115",
   "Name": "SpellForce 3: Versus Edition",
   "ProductSlug": "spellforce-3-versus",
-  "Ranking_Rating": 1300,
+  "Ranking_Rating": 1299,
   "Ranking_Popularity": 739,
   "Ranking_PopularitySum": 739,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.85,
+  "Rating": 3.86,
   "NumberOfRatings": 66,
   "RatingHistory": [
     {
@@ -374,6 +374,12 @@
       "Rating": 3.85,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-13T06:58:31.8768236+00:00",
+      "Rating": 3.86,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -391,8 +397,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:51.1807363+00:00",
-  "LastChanged": "2024-09-25T20:58:23.7928065+00:00",
+  "LastChanged": "2024-10-13T06:58:31.8768233+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:56:58.0658655+00:00",
-  "LastUpdate_Ratings": "2024-10-13T04:59:01.2514625+00:00",
+  "LastUpdate_Ratings": "2024-10-13T06:58:31.8768238+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:45.7535561+00:00"
 }
