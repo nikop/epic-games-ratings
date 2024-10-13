@@ -2,7 +2,7 @@
   "ID": "d3f34b351df646e0ab932fd8d8e5dfc2",
   "Name": "Speed Brawl",
   "ProductSlug": "speed-brawl",
-  "Ranking_Rating": 995,
+  "Ranking_Rating": 994,
   "Ranking_Popularity": 658,
   "Ranking_PopularitySum": 687,
   "Ranking_EOS_Progress": 1263,
@@ -373,6 +373,6 @@
   "FirstSeen": "2022-07-22T20:31:43.9675796+00:00",
   "LastChanged": "2024-09-11T13:57:26.072929+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:33.0026941+00:00",
-  "LastUpdate_Ratings": "2024-10-13T18:57:34.4799217+00:00",
+  "LastUpdate_Ratings": "2024-10-13T19:59:53.2797447+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:41.6360387+00:00"
 }

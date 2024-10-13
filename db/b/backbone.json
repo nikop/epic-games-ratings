@@ -2,7 +2,7 @@
   "ID": "09d8b60b834a47d48fb0aba85a6d6a2e",
   "Name": "Tails Noir",
   "ProductSlug": "backbone",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 740,
   "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
@@ -133,6 +133,6 @@
   "FirstSeenRating": "2022-10-07T12:31:08.1263406+00:00",
   "LastChanged": "2024-10-12T16:57:35.2330921+00:00",
   "LastUpdate_AppInfo": "2024-10-06T22:57:17.4788861+00:00",
-  "LastUpdate_Ratings": "2024-10-13T17:59:47.3250812+00:00",
+  "LastUpdate_Ratings": "2024-10-13T19:58:53.8709214+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:22.8918165+00:00"
 }
