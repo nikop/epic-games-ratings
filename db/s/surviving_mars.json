@@ -4,7 +4,7 @@
   "ProductSlug": "surviving-mars",
   "Ranking_Rating": 469,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 203,
+  "Ranking_PopularitySum": 202,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -7473,10 +7473,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 3824,
       "NumberOfAwardsMax": 747
+    },
+    {
+      "Time": "2024-10-14T22:58:53.0124587+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3825,
+      "NumberOfAwardsMax": 747
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3824,
+  "NumberOfAwards": 3825,
   "NumberOfAwardsMax": 747,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7526,7 +7532,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 484
+      "Count": 485
     },
     {
       "Text": "This game has a Creative Community",
@@ -7552,8 +7558,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2024-10-14T15:59:08.1410321+00:00",
+  "LastChanged": "2024-10-14T22:58:53.0124585+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:22.7416361+00:00",
-  "LastUpdate_Ratings": "2024-10-14T20:59:32.3312846+00:00",
+  "LastUpdate_Ratings": "2024-10-14T22:58:53.0124592+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:43.354874+00:00"
 }

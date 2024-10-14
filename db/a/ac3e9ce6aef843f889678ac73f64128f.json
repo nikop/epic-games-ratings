@@ -3,8 +3,8 @@
   "Name": "Lost Relics",
   "ProductSlug": "lost-relics-80b4fe",
   "Ranking_Rating": 414,
-  "Ranking_Popularity": 691,
-  "Ranking_PopularitySum": 703,
+  "Ranking_Popularity": 641,
+  "Ranking_PopularitySum": 685,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -174,18 +174,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-10-14T22:57:35.9200437+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26,
-  "NumberOfAwardsMax": 26,
+  "NumberOfAwards": 34,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 26
+      "Count": 34
     }
   ],
   "EOS_Progressed": 0,
@@ -200,8 +206,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-28T05:58:57.9503754+00:00",
   "FirstSeenRating": "2024-10-01T03:24:05.5338289+00:00",
-  "LastChanged": "2024-10-14T18:59:14.6208295+00:00",
+  "LastChanged": "2024-10-14T22:57:35.9200435+00:00",
   "LastUpdate_AppInfo": "2024-10-09T03:13:04.6501744+00:00",
-  "LastUpdate_Ratings": "2024-10-14T20:58:36.3476797+00:00",
+  "LastUpdate_Ratings": "2024-10-14T22:57:35.920044+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:08.2951942+00:00"
 }
