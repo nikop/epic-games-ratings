@@ -1,7 +1,7 @@
 # Shoulders of Giants: Ultimate
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.34 (Ranked 995)  
+Rating: 4.34 (Ranked 994)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

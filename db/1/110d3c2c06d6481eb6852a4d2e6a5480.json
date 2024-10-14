@@ -2,7 +2,7 @@
   "ID": "110d3c2c06d6481eb6852a4d2e6a5480",
   "Name": "Until Dawn\u2122",
   "ProductSlug": "until-dawn",
-  "Ranking_Rating": 518,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 740,
   "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2024-10-10T21:00:17.0007095+00:00",
@@ -49,6 +49,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-14T02:12:20.9116363+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -75,9 +81,9 @@
   "FirstSeen": "2024-10-04T18:58:06.400312+00:00",
   "FirstSeenRating": "2024-10-10T21:00:17.0007092+00:00",
   "FirstSeenAchievements": "2024-09-14T14:21:21.8519766+00:00",
-  "LastChanged": "2024-10-13T04:58:53.9330653+00:00",
+  "LastChanged": "2024-10-14T02:12:20.9116361+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:21.8519747+00:00",
   "LastUpdate_AppInfo": "2024-10-10T22:57:12.7525648+00:00",
-  "LastUpdate_Ratings": "2024-10-13T22:58:09.8417906+00:00",
+  "LastUpdate_Ratings": "2024-10-14T02:12:20.9116367+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:21.8519781+00:00"
 }

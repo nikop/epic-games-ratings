@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 1008,
+  "Ranking_Rating": 1007,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 96,
@@ -682,10 +682,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 758,
       "NumberOfAwardsMax": 619
+    },
+    {
+      "Time": "2024-10-14T02:15:06.4676801+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 759,
+      "NumberOfAwardsMax": 619
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 758,
+  "NumberOfAwards": 759,
   "NumberOfAwardsMax": 619,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -705,7 +711,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30
+      "Count": 31
     },
     {
       "Text": "This game has Amazing Characters",
@@ -31148,9 +31154,9 @@
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-10-12T21:58:03.881442+00:00",
+  "LastChanged": "2024-10-14T02:15:06.46768+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:15.6821494+00:00",
   "LastUpdate_AppInfo": "2024-10-07T03:16:02.1945721+00:00",
-  "LastUpdate_Ratings": "2024-10-13T22:59:58.3013049+00:00",
+  "LastUpdate_Ratings": "2024-10-14T02:15:06.4676806+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:15.6822915+00:00"
 }
