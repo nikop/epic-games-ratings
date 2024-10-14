@@ -3,7 +3,7 @@
   "Name": "Football Manager 2024",
   "ProductSlug": "football-manager-2024",
   "Ranking_Rating": 137,
-  "Ranking_Popularity": 101,
+  "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 59,
   "Ranking_EOS_Progress": 10,
   "Ranking_EOS_Completed": 595,
@@ -11881,11 +11881,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 32031,
       "NumberOfAwardsMax": 4804
+    },
+    {
+      "Time": "2024-10-14T06:59:46.0115432+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 32320,
+      "NumberOfAwardsMax": 4932
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32031,
-  "NumberOfAwardsMax": 4804,
+  "NumberOfAwards": 32320,
+  "NumberOfAwardsMax": 4932,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -11898,7 +11904,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4804
+      "Count": 4932
     },
     {
       "Text": "This game is Relaxing",
@@ -11922,13 +11928,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 2715
+      "Count": 2777
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3752
+      "Count": 3851
     },
     {
       "Text": "This game has a Creative Community",
@@ -22553,9 +22559,9 @@
   "FirstSeen": "2023-11-06T17:02:58.769701+00:00",
   "FirstSeenRating": "2023-11-08T07:59:36.9365653+00:00",
   "FirstSeenAchievements": "2023-10-02T11:06:23.203391+00:00",
-  "LastChanged": "2024-10-13T17:58:47.8910835+00:00",
+  "LastChanged": "2024-10-14T06:59:46.011543+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:10.427211+00:00",
   "LastUpdate_AppInfo": "2024-10-09T20:57:36.5424408+00:00",
-  "LastUpdate_Ratings": "2024-10-14T05:00:35.8014688+00:00",
+  "LastUpdate_Ratings": "2024-10-14T06:59:46.0115437+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:10.4273315+00:00"
 }

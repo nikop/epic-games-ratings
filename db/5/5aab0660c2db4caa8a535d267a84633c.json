@@ -3,8 +3,8 @@
   "Name": "Tomb Raider I-III Remastered Starring Lara Croft",
   "ProductSlug": "tomb-raider-iiii-remastered-538640",
   "Ranking_Rating": 304,
-  "Ranking_Popularity": 694,
-  "Ranking_PopularitySum": 609,
+  "Ranking_Popularity": 686,
+  "Ranking_PopularitySum": 608,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 471,
   "Ranking_EOS_NewPlayers": 3,
@@ -509,18 +509,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 91,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-10-14T06:57:13.6576968+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 93,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 91,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 93,
+  "NumberOfAwardsMax": 27,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Relaxing",
@@ -2757,9 +2763,9 @@
   "FirstSeen": "2024-02-14T21:58:16.6244204+00:00",
   "FirstSeenRating": "2024-02-19T03:58:00.8221348+00:00",
   "FirstSeenAchievements": "2023-12-08T17:06:49.6815041+00:00",
-  "LastChanged": "2024-10-14T04:58:00.0523856+00:00",
+  "LastChanged": "2024-10-14T06:57:13.6576966+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:30.9077553+00:00",
   "LastUpdate_AppInfo": "2024-10-09T17:57:19.5861179+00:00",
-  "LastUpdate_Ratings": "2024-10-14T04:58:00.0523861+00:00",
+  "LastUpdate_Ratings": "2024-10-14T06:57:13.657697+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:30.9082871+00:00"
 }
