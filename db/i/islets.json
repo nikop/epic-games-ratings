@@ -3,7 +3,7 @@
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
   "Ranking_Rating": 234,
-  "Ranking_Popularity": 538,
+  "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -1474,11 +1474,17 @@
       "Rating": 4.71,
       "NumberOfAwards": 448,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2024-10-14T19:57:55.0585814+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 449,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 448,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 449,
+  "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1515,7 +1521,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1554,8 +1560,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-10-13T10:59:38.2741383+00:00",
+  "LastChanged": "2024-10-14T19:57:55.0585812+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.1365798+00:00",
-  "LastUpdate_Ratings": "2024-10-14T17:59:52.9905111+00:00",
+  "LastUpdate_Ratings": "2024-10-14T19:57:55.058582+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:49.2444849+00:00"
 }

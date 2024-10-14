@@ -1,15 +1,15 @@
 # Total War: WARHAMMER
 [Store](https://store.epicgames.com/en-US/p/total-war-warhammer)  
 [View Rawdata](../../db/t/total_war__warhammer.json)  
-Rating: 4.58 (Ranked 543)  
+Rating: 4.58 (Ranked 542)  
 Number of Ratings: 8,439  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 7,571  (Ranked 75)  
-Sum: 17,358 (Ranked 92)  
+Max (Great Boss Battles): 7,578  (Ranked 75)  
+Sum: 17,365 (Ranked 92)  
 Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,571 |
+| This game has Great Boss Battles | 7,578 |
 | This game has Diverse Characters | 1,317 |
 | This game is Highly Recommended | 1,206 |
 | This game is Extremely Fun | 1,111 |
@@ -637,4 +637,4 @@ Diff (max vs sum): -17
 | 2024-10-11 | 4.58 | - | 7,559 | 17,336 |
 | 2024-10-12 | 4.58 | - | 7,563 | 17,345 |
 | 2024-10-13 | 4.58 | - | 7,571 | 17,355 |
-| 2024-10-14 | 4.58 | - | 7,571 | 17,358 |
+| 2024-10-14 | 4.58 | - | 7,578 | 17,365 |

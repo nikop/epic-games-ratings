@@ -2,9 +2,9 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 254,
+  "Ranking_Rating": 253,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 353,
+  "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 563,
   "Ranking_EOS_NewPlayers": 3,
@@ -2759,10 +2759,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 931,
       "NumberOfAwardsMax": 368
+    },
+    {
+      "Time": "2024-10-14T19:58:24.2177376+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 936,
+      "NumberOfAwardsMax": 368
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 931,
+  "NumberOfAwards": 936,
   "NumberOfAwardsMax": 368,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2776,7 +2782,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 99
+      "Count": 102
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2830,7 +2836,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 42
+      "Count": 44
     }
   ],
   "EOS_Progressed": 18721,
@@ -9405,9 +9411,9 @@
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-10-14T02:15:15.5607309+00:00",
+  "LastChanged": "2024-10-14T19:58:24.2177375+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:07.2311481+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:08.7491587+00:00",
-  "LastUpdate_Ratings": "2024-10-14T18:00:19.2941222+00:00",
+  "LastUpdate_Ratings": "2024-10-14T19:58:24.217738+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:07.2312378+00:00"
 }
