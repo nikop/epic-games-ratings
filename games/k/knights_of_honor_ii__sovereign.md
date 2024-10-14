@@ -1,7 +1,7 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.44 (Ranked 840)  
+Rating: 4.45 (Ranked 817)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -199,3 +199,4 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-10-09 | 4.44 | 0 | 0 |
 | 2024-10-11 | 4.43 | 0 | 0 |
 | 2024-10-13 | 4.44 | 0 | 0 |
+| 2024-10-14 | 4.45 | 0 | 0 |

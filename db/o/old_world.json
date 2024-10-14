@@ -3,8 +3,8 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 362,
-  "Ranking_Popularity": 332,
-  "Ranking_PopularitySum": 260,
+  "Ranking_Popularity": 331,
+  "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 525,
   "Ranking_EOS_NewPlayers": 1,
@@ -25228,6 +25228,6 @@
   "LastChanged": "2024-10-14T18:58:59.33016+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:09.1046223+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:56.4934225+00:00",
-  "LastUpdate_Ratings": "2024-10-14T18:58:59.3301605+00:00",
+  "LastUpdate_Ratings": "2024-10-14T20:58:18.7091441+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:09.1056354+00:00"
 }
