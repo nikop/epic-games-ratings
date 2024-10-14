@@ -2,7 +2,7 @@
   "ID": "f6dcd5bf17c0469789292d1166bf91a1",
   "Name": "WRC 8 FIA World Rally Championship",
   "ProductSlug": "wrc-8",
-  "Ranking_Rating": 637,
+  "Ranking_Rating": 638,
   "Ranking_Popularity": 663,
   "Ranking_PopularitySum": 555,
   "Ranking_EOS_Progress": 1263,
@@ -757,6 +757,6 @@
   "FirstSeen": "2022-07-22T20:18:20.314289+00:00",
   "LastChanged": "2024-10-12T22:00:03.1230224+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:34.8666942+00:00",
-  "LastUpdate_Ratings": "2024-10-13T21:58:59.5460932+00:00",
+  "LastUpdate_Ratings": "2024-10-13T23:58:34.0587326+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:31.4622566+00:00"
 }
