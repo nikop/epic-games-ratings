@@ -4,7 +4,7 @@
   "ProductSlug": "tomb-raider-iiii-remastered-538640",
   "Ranking_Rating": 304,
   "Ranking_Popularity": 694,
-  "Ranking_PopularitySum": 610,
+  "Ranking_PopularitySum": 609,
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 471,
   "Ranking_EOS_NewPlayers": 3,
@@ -503,10 +503,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 90,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-10-14T04:58:00.0523858+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 91,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 90,
+  "NumberOfAwards": 91,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -526,7 +532,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2751,9 +2757,9 @@
   "FirstSeen": "2024-02-14T21:58:16.6244204+00:00",
   "FirstSeenRating": "2024-02-19T03:58:00.8221348+00:00",
   "FirstSeenAchievements": "2023-12-08T17:06:49.6815041+00:00",
-  "LastChanged": "2024-10-13T20:58:18.852672+00:00",
+  "LastChanged": "2024-10-14T04:58:00.0523856+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:30.9077553+00:00",
   "LastUpdate_AppInfo": "2024-10-09T17:57:19.5861179+00:00",
-  "LastUpdate_Ratings": "2024-10-14T03:18:32.9888038+00:00",
+  "LastUpdate_Ratings": "2024-10-14T04:58:00.0523861+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:30.9082871+00:00"
 }
