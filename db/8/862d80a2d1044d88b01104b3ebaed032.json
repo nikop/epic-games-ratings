@@ -3,8 +3,8 @@
   "Name": "God of War Ragnar\u00F6k",
   "ProductSlug": "god-of-war-ragnarok-3ca641",
   "Ranking_Rating": 19,
-  "Ranking_Popularity": 385,
-  "Ranking_PopularitySum": 291,
+  "Ranking_Popularity": 372,
+  "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -924,11 +924,17 @@
       "Rating": 4.87,
       "NumberOfAwards": 1673,
       "NumberOfAwardsMax": 193
+    },
+    {
+      "Time": "2024-10-14T07:59:15.7555816+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 1687,
+      "NumberOfAwardsMax": 207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1673,
-  "NumberOfAwardsMax": 193,
+  "NumberOfAwards": 1687,
+  "NumberOfAwardsMax": 207,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -941,7 +947,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 193
+      "Count": 207
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1036,9 +1042,9 @@
   "FirstSeen": "2024-09-19T16:00:22.9629634+00:00",
   "FirstSeenRating": "2024-09-20T13:58:30.4692343+00:00",
   "FirstSeenAchievements": "2024-08-09T18:06:51.293274+00:00",
-  "LastChanged": "2024-10-14T03:18:05.954031+00:00",
+  "LastChanged": "2024-10-14T07:59:15.7555814+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:33.5173764+00:00",
   "LastUpdate_AppInfo": "2024-10-11T13:57:20.3692219+00:00",
-  "LastUpdate_Ratings": "2024-10-14T06:00:52.2675295+00:00",
+  "LastUpdate_Ratings": "2024-10-14T07:59:15.7555822+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:33.5173794+00:00"
 }

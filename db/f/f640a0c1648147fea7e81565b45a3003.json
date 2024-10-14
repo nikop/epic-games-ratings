@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-space-marine-2",
   "Ranking_Rating": 234,
   "Ranking_Popularity": 263,
-  "Ranking_PopularitySum": 340,
+  "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -709,10 +709,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 995,
       "NumberOfAwardsMax": 575
+    },
+    {
+      "Time": "2024-10-14T07:57:25.2419019+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 1002,
+      "NumberOfAwardsMax": 575
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 995,
+  "NumberOfAwards": 1002,
   "NumberOfAwardsMax": 575,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -726,7 +732,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 68
+      "Count": 73
     },
     {
       "Text": "This game has Challenging Combat",
@@ -762,7 +768,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -780,7 +786,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Competitive Players",
@@ -1209,9 +1215,9 @@
   "FirstSeen": "2024-09-09T17:59:34.2597996+00:00",
   "FirstSeenRating": "2024-09-10T15:57:34.5232299+00:00",
   "FirstSeenAchievements": "2023-12-08T05:02:59.0194168+00:00",
-  "LastChanged": "2024-10-14T02:15:32.1079787+00:00",
+  "LastChanged": "2024-10-14T07:57:25.2419018+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:36.8395859+00:00",
   "LastUpdate_AppInfo": "2024-10-12T04:57:37.6740372+00:00",
-  "LastUpdate_Ratings": "2024-10-14T05:58:20.6820689+00:00",
+  "LastUpdate_Ratings": "2024-10-14T07:57:25.2419022+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:36.8402529+00:00"
 }

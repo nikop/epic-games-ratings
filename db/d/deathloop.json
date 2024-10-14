@@ -2,7 +2,7 @@
   "ID": "7dee3ddeac7d427eb35def472be64d9c",
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 393,
   "Ranking_EOS_Progress": 1263,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.43,
+  "Rating": 4.44,
   "NumberOfRatings": 874,
   "RatingHistory": [
     {
@@ -3049,6 +3049,12 @@
       "Rating": 4.43,
       "NumberOfAwards": 706,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-10-14T07:57:57.7509825+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 706,
+      "NumberOfAwardsMax": 100
     }
   ],
   "ReviewsDisabled": false,
@@ -3122,8 +3128,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-10-13T21:58:24.1500026+00:00",
+  "LastChanged": "2024-10-14T07:57:57.7509823+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:57.4588627+00:00",
-  "LastUpdate_Ratings": "2024-10-14T05:59:05.0063044+00:00",
+  "LastUpdate_Ratings": "2024-10-14T07:57:57.7509828+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:35.8641008+00:00"
 }
