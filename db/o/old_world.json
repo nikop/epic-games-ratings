@@ -3454,10 +3454,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 2188,
       "NumberOfAwardsMax": 280
+    },
+    {
+      "Time": "2024-10-14T18:58:59.3301602+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 2191,
+      "NumberOfAwardsMax": 280
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2188,
+  "NumberOfAwards": 2191,
   "NumberOfAwardsMax": 280,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3471,7 +3477,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 253
+      "Count": 256
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -25219,9 +25225,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-10-13T17:00:59.2604417+00:00",
+  "LastChanged": "2024-10-14T18:58:59.33016+00:00",
   "LastChanged_Achievements": "2024-08-20T20:12:09.1046223+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:56.4934225+00:00",
-  "LastUpdate_Ratings": "2024-10-14T17:02:28.1703014+00:00",
+  "LastUpdate_Ratings": "2024-10-14T18:58:59.3301605+00:00",
   "LastUpdate_Achievements": "2024-08-20T20:12:09.1056354+00:00"
 }

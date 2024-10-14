@@ -2,7 +2,7 @@
   "ID": "270e1d648a5e4060b7b441615c4da4d9",
   "Name": "Figment",
   "ProductSlug": "figment",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 721,
   "Ranking_Popularity": 700,
   "Ranking_PopularitySum": 709,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "NumberOfRatings": 109,
   "RatingHistory": [
     {
@@ -382,6 +382,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 24,
       "NumberOfAwardsMax": 24
+    },
+    {
+      "Time": "2024-10-14T18:58:34.7515172+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
@@ -407,8 +413,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:25.7495486+00:00",
-  "LastChanged": "2024-10-08T17:00:23.3077837+00:00",
+  "LastChanged": "2024-10-14T18:58:34.7515171+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:00.7973742+00:00",
-  "LastUpdate_Ratings": "2024-10-14T17:01:50.1791898+00:00",
+  "LastUpdate_Ratings": "2024-10-14T18:58:34.7515175+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:11.7206548+00:00"
 }

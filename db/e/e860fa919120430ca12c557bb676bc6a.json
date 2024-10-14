@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-outlaws",
   "Ranking_Rating": 1006,
   "Ranking_Popularity": 669,
-  "Ranking_PopularitySum": 601,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -399,10 +399,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 97,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-10-14T18:58:52.9374819+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 117,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 97,
+  "NumberOfAwards": 117,
   "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -435,6 +441,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 20
+    },
+    {
+      "Text": "This game has Beautiful Visuals",
+      "Prefix": "This game has",
+      "Type": "Beautiful Visuals",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -449,8 +461,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-04T17:59:24.1826817+00:00",
   "FirstSeenRating": "2024-09-06T17:59:47.8215369+00:00",
-  "LastChanged": "2024-10-14T13:57:44.327508+00:00",
+  "LastChanged": "2024-10-14T18:58:52.9374817+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:11.9937776+00:00",
-  "LastUpdate_Ratings": "2024-10-14T17:02:17.8286721+00:00",
+  "LastUpdate_Ratings": "2024-10-14T18:58:52.9374821+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:35.2203508+00:00"
 }
