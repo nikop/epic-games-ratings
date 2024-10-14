@@ -1,15 +1,15 @@
 # Yoku's Island Express
 [Store](https://store.epicgames.com/en-US/p/yokus-island-express)  
 [View Rawdata](../../db/y/yoku's_island_express.json)  
-Rating: 4.69 (Ranked 278)  
+Rating: 4.69 (Ranked 277)  
 Number of Ratings: 354  (23.09.2022)  
 ## Awards
-Max (Playful Visuals): 20  (Ranked 734)  
-Sum: 20 (Ranked 734)  
-Diff (max vs sum): 0  
+Max (Playful Visuals): 21  (Ranked 725)  
+Sum: 21 (Ranked 728)  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
-| This game has Playful Visuals | 20 |
+| This game has Playful Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -95,3 +95,4 @@ Diff (max vs sum): 0
 | 2024-08-23 | 4.69 | - | 20 | 20 |
 | 2024-08-25 | 4.70 | - | 20 | 20 |
 | 2024-09-16 | 4.69 | - | 20 | 20 |
+| 2024-10-14 | 4.69 | - | 21 | 21 |

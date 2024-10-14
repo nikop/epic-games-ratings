@@ -1,7 +1,7 @@
 # Wolfenstein: The Old Blood
 [Store](https://store.epicgames.com/en-US/p/wolfenstein-the-old-blood)  
 [View Rawdata](../../db/w/wolfenstein__the_old_blood_-_worldwide.json)  
-Rating: 4.60 (Ranked 490)  
+Rating: 4.61 (Ranked 469)  
 Number of Ratings: 290  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 96  (Ranked 493)  
@@ -101,3 +101,4 @@ Diff (max vs sum): -109
 | 2024-09-10 | 4.61 | - | 95 | 95 |
 | 2024-09-17 | 4.60 | - | 95 | 95 |
 | 2024-10-03 | 4.60 | - | 96 | 96 |
+| 2024-10-14 | 4.61 | - | 96 | 96 |
