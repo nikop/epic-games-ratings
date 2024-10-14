@@ -2,7 +2,7 @@
   "ID": "ace4435645d9489cacfbb422b7c1c817",
   "Name": "SAMURAI SHODOWN",
   "ProductSlug": "samurai-shodown-reboot",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 740,
   "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2022-11-04T12:00:55.2608334+00:00",
@@ -91,6 +91,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-14T09:57:31.8280128+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -109,8 +115,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:02.6645196+00:00",
   "FirstSeenRating": "2022-11-04T12:00:55.2608332+00:00",
-  "LastChanged": "2024-10-07T07:57:45.4158549+00:00",
+  "LastChanged": "2024-10-14T09:57:31.8280126+00:00",
   "LastUpdate_AppInfo": "2024-10-07T15:57:26.6718698+00:00",
-  "LastUpdate_Ratings": "2024-10-14T07:58:23.1584512+00:00",
+  "LastUpdate_Ratings": "2024-10-14T09:57:31.8280132+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:42.3146321+00:00"
 }

@@ -1,7 +1,7 @@
 # SAMURAI SHODOWN
 [Store](https://store.epicgames.com/en-US/p/samurai-shodown-reboot)  
 [View Rawdata](../../db/s/samurai_shodown.json)  
-Rating: 4.59 (Ranked 520)  
+Rating: 4.52 (Ranked 676)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.59 (Ranked 520)
 | 2024-09-03 | 4.57 | 0 | 0 |
 | 2024-10-02 | 4.58 | 0 | 0 |
 | 2024-10-07 | 4.59 | 0 | 0 |
+| 2024-10-14 | 4.52 | 0 | 0 |
