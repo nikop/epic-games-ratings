@@ -3,8 +3,8 @@
   "Name": "Expeditions: Rome",
   "ProductSlug": "expeditions-rome",
   "Ranking_Rating": 278,
-  "Ranking_Popularity": 563,
-  "Ranking_PopularitySum": 644,
+  "Ranking_Popularity": 560,
+  "Ranking_PopularitySum": 642,
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -423,18 +423,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 58,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2024-10-14T13:15:28.2725667+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 59,
+      "NumberOfAwardsMax": 59
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 58,
-  "NumberOfAwardsMax": 58,
+  "NumberOfAwards": 59,
+  "NumberOfAwardsMax": 59,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 58
+      "Count": 59
     }
   ],
   "EOS_Progressed": 808,
@@ -1054,9 +1060,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:55.9100449+00:00",
   "FirstSeenAchievements": "2024-02-22T21:04:54.2215837+00:00",
-  "LastChanged": "2024-10-05T20:58:54.7538661+00:00",
+  "LastChanged": "2024-10-14T13:15:28.2725665+00:00",
   "LastChanged_Achievements": "2024-10-09T19:03:39.9556769+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:26.7555287+00:00",
-  "LastUpdate_Ratings": "2024-10-14T10:58:42.8798359+00:00",
+  "LastUpdate_Ratings": "2024-10-14T13:15:28.272567+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:39.9557314+00:00"
 }
