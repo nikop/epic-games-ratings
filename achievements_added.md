@@ -150,7 +150,7 @@
 | [Townopolis](games/3/3220b39e314b4d10ad1dbb2a3491b051.md) | 2024-07-05 | 22 (1,000 XP) | 96 | - | 0 |
 | [PolyClassic: Wild](games/1/1d8b0901c1794bb3a136a2877b569c5b.md) | 2024-06-26 | 6 (1,000 XP) | 22 | - | 0 |
 | [Hero of the Kingdom: The Lost Tales 2](games/7/756ea7cef5ec4ad49abb5b275068a007.md) | 2024-08-26 | 26 (1,000 XP) | 29 | - | 0 |
-| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 91,596 | 4.75 | 31 |
+| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 91,596 | 4.76 | 31 |
 | [Beatbuddy: Tale of the Guardians](games/6/6ac9313c401c4dc4ae2cea3b2ea921f4.md) | 2024-07-03 | 15 (1,000 XP) | 1 | - | 0 |
 | [Terra Memoria](games/5/504480ef54fb44a1902de7511f42a74d.md) | 2024-07-02 | 30 (1,000 XP) | 12 | - | 0 |
 | [MOBIUS BAND*](games/7/795254ed8529486abf33bda2f15d1ce3.md) | 2024-07-02 | 21 (1,000 XP) | 5 | - | - |
@@ -276,7 +276,7 @@
 | [Plants vs. Zombies™: BFN Deluxe Edition](games/5/57c1246b353842abb6049c48c39f3430.md) | 2024-05-09 | 50 (1,000 XP) | 1,296 | 4.52 | 24 |
 | [Manor Lords](games/4/463a22f831094e00aac58492b5c10b45.md) | 2024-04-26 | 11 (1,000 XP) | 19,865 | 4.53 | 51 |
 | [Astor: Blade of the Monolith](games/6/6da5555f0d304bbe899fe6c21fe38b6e.md) | 2024-05-30 | 41 (1,000 XP) | 29 | - | 0 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,740 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,754 |
 | [Lost in Random™](games/e/e90ca75b24874ba397f316b447d6d01a.md) | 2024-05-09 | 40 (1,000 XP) | 7 | - | - |
 | [Ready.Steady.Ship!](games/b/b5b28db11da348249e78e1ed040d0368.md) | 2024-04-19 | 26 (1,000 XP) | 0 | - | 0 |
 | [Sea of Solitude](games/b/b6eb3c81751b4bda90599356bcc4ae4a.md) | 2024-05-09 | 22 (1,000 XP) | 29 | - | 0 |
@@ -463,7 +463,7 @@
 | [Beach Invasion 1945 - Pacific](games/1/10290198c6dc48d5aa24d45bca39215a.md) | 2099-01-01 | 70 (1,000 XP) | 4 | - | - |
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 89 | - | 0 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 121 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 89,497 | 4.27 | 379 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 89,497 | 4.27 | 382 |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-02-01 | 18 (1,000 XP) | 430 | - | 0 |
 | [Monster Coming](games/3/36b8a835391149e7b9a755fb3eb21f61.md) | 2024-04-25 | 25 (1,000 XP) | 0 | - | 0 |
 | [Boti - Byteland Overclocked](games/1/1409385ad20c4ba48849a6cc0973db4a.md) | 2024-05-17 | 52 (1,000 XP) | 19 | - | 0 |
@@ -763,7 +763,7 @@
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,863 | 4.83 | 84 |
 | [Dust to the End](games/1/17652a2d37d5457cba590ba6fa6531b6.md) | 2023-08-21 | 47 (1,000 XP) | 3 | - | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,709 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,714 |
 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 2023-08-29 | 19 (1,000 XP) | 47 | - | 0 |
 | [Aerial Platforms](games/e/ea6b00889ce34487bdc4b03fa35dd8f3.md) | 2023-09-04 | 11 (1,000 XP) | 15 | - | - |
 | [Amigo Kebab Simulator](games/c/ce929d57694e45eba04876a0d6cf8c55.md) | 2099-01-01 | 31 (1,000 XP) | 0 | - | - |

@@ -158,7 +158,7 @@
 | [Unlock The King 2](games/7/7480b94cd4454a27a51155694dc0ab91.md) | 2024-07-25 | 7 (1,000 XP) | 60 | - | 0 |
 | [TACTICAL BANDITS](games/6/66ad2c3335b34b64ac28f438287766fc.md) | 2024-07-25 | 20 (1,000 XP) | 0 | - | 0 |
 | [Trepang2](games/e/e9e954cebd354b7092bbecef04b5d7fd.md) | 2024-07-25 | 49 (1,000 XP) | 1 | - | 0 |
-| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 91,596 | 4.75 | 31 |
+| [EARTH DEFENSE FORCE ６](games/1/10aa3c43a96642b3845f741a169c95b3.md) | 2024-07-25 | 39 (1,000 XP) | 91,596 | 4.76 | 31 |
 | [Happy Lab](games/e/e93d97d4ad334c75b10412ae114c00dd.md) | 2024-07-25 | 38 (1,000 XP) | 0 | - | - |
 | [Silenced: The House](games/d/d58638016a464d09919c32f8830f682e.md) | 2024-07-24 | 11 (1,000 XP) | 19 | - | - |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2024-07-23 | 43 (1,000 XP) | 126,839 | 4.38 | 28 |
@@ -263,7 +263,7 @@
 | [Cleaning Queens: Crystal Clean Home](games/3/3d7d0ca7e4254df681cc70b72349932d.md) | 2024-05-16 | 48 (1,000 XP) | 1 | - | 0 |
 | [Still Joking](games/s/still_joking.md) | 2024-05-16 | 100 (1,000 XP) | 15 | - | 0 |
 | [Ghost of Tsushima DIRECTOR'S CUT](games/6/6e6aa039c73347b885803de65ac5d3db.md) | 2024-05-16 | 77 (1,000 XP) | 113,593 | 4.85 | 4,022 |
-| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,740 |
+| [Dragon Age: Inquisition – Game of the Year Edition](games/a/afe2527e29b94db48b2eef984e34d81a.md) | 2024-05-16 | 69 (1,750 XP) | 340,768 | 4.52 | 1,754 |
 | [Trust No One](games/f/fb58cd91974e4751b6b8b6c19b7c936c.md) | 2024-05-16 | 7 (1,000 XP) | 612 | - | 0 |
 | [Creaks](games/4/4df1977381ba479a978a857d12fe2f62.md) | 2024-05-15 | 28 (1,000 XP) | 117 | - | 0 |
 | [ROBOBEAT](games/r/robobeat.md) | 2024-05-14 | 38 (1,000 XP) | 99 | - | 0 |
@@ -465,7 +465,7 @@
 | [War Hospital](games/8/80bb776135c84a43bb4cdeadc6e541c2.md) | 2024-01-11 | 29 (1,000 XP) | 89 | - | 0 |
 | [Quiplash 2 InterLASHional](games/3/38931bb693204b7289689de85a8e4b44.md) | 2024-01-11 | 10 (1,000 XP) | 145 | - | 0 |
 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 2024-01-10 | 14 (1,000 XP) | 83 | - | 0 |
-| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 89,497 | 4.27 | 379 |
+| [The Walking Dead No Man's Land](games/7/7a6c212ee9cf425c82d4b08af3f564a9.md) | 2024-01-10 | 75 (1,000 XP) | 89,497 | 4.27 | 382 |
 | [River City Girls](games/a/a02304688fb3406192a3491b4281bee7.md) | 2024-01-10 | 28 (1,000 XP) | 121 | - | 0 |
 | [Definitely Sneaky But Not Sneaky](games/1/125eda42f0574d97a16a5721f10d3ea1.md) | 2024-01-07 | 28 (1,000 XP) | 51 | - | - |
 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 2024-01-05 | 14 (1,000 XP) | 204 | - | 0 |
@@ -1066,7 +1066,7 @@
 | [Saturnalia](games/s/saturnalia.md) | 2022-10-27 | 20 (1,000 XP) | 76,496 | 4.26 | 0 |
 | [Arkanoid - Eternal Battle](games/a/arkanoid_-_eternal_battle.md) | 2022-10-27 | 23 (1,000 XP) | 13 | - | 0 |
 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 2022-10-22 | 16 (1,000 XP) | 210,404 | 4.15 | 0 |
-| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 92,002 | 4.19 | 3,810 |
+| [Gotham Knights](games/g/gotham_knights.md) | 2022-10-21 | 61 (1,390 XP) | 92,002 | 4.19 | 3,813 |
 | [Late Shift](games/l/late_shift.md) | 2022-10-21 | 20 (1,000 XP) | 2,989 | - | 0 |
 | [The Bunker](games/t/the_bunker.md) | 2022-10-21 | 28 (1,000 XP) | 279 | - | 0 |
 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 2022-10-21 | 26 (1,000 XP) | 4,183 | 4.09 | 0 |
@@ -1195,7 +1195,7 @@
 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 2022-04-01 | 30 (1,000 XP) | 123 | - | 0 |
 | [Pinball FX](games/p/pinball_fx.md) | 2022-03-31 | 52 (1,440 XP) | 329,739 | 4.10 | 278 |
 | [Weird West: Definitive Edition](games/w/weird_west.md) | 2022-03-31 | 53 (1,000 XP) | 27,883 | 4.41 | 87 |
-| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 607,017 | 4.89 | 11,769 |
+| [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 2022-03-30 | 63 (1,000 XP) | 607,017 | 4.89 | 11,794 |
 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 2022-03-18 | 31 (1,000 XP) | 0 | 4.66 | 0 |
 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 2022-03-16 | 49 (1,000 XP) | 0 | 4.38 | 0 |
 | [Doodle God](games/d/doodle_god.md) | 2022-03-10 | 22 (1,000 XP) | 342 | - | 0 |
@@ -1288,7 +1288,7 @@
 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 2021-03-25 | 48 (1,000 XP) | 233 | 4.64 | 21 |
 | [ELEX](games/e/elex.md) | 2021-03-25 | 50 (1,000 XP) | 719 | 4.42 | 0 |
 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 2021-03-18 | 19 (1,000 XP) | 1,697 | 4.36 | 0 |
-| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,709 |
+| [World of Warships](games/w/world_of_warships.md) | 2021-03-18 | 44 (1,000 XP) | 193,460 | 4.40 | 2,714 |
 | [Scrapnaut](games/s/scrapnaut.md) | 2021-03-03 | 31 (1,000 XP) | 868 | 4.29 | 0 |
 | [Sunless Sea](games/s/sunless_sea.md) | 2021-02-25 | 54 (1,000 XP) | 57,916 | 4.60 | 256 |
 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 2021-02-18 | 50 (1,000 XP) | 107 | - | 0 |
