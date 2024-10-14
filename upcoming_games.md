@@ -348,6 +348,7 @@
 | [Elite Comet](games/4/4843acbd9ca647e3ad3eecae110daa80.md) | 2099-01-01 | - |  | - | - |
 | [EndGame](games/b/b17eb0bdbfa642e6a051fd833c87076f.md) | 2099-01-01 | - |  | - | - |
 | [Enigma's Edge](games/4/456e25ce2188416ba190190f83a93b4f.md) | 2099-01-01 | - |  | - | - |
+| [Enthralled](games/f/f8a60d2c27004a60aff254b2da950cbe.md) | 2099-01-01 | - |  | - | - |
 | [Entropic Decay](games/6/634b4057b29d483a9f3d6541b362f681.md) | 2099-01-01 | - |  | - | - |
 | [Escape from Ever After](games/2/2ce0aeaba01a4c47b7c9dadb0eb7ad4e.md) | 2099-01-01 | - |  | - | - |
 | [Esophaguys](games/b/b98c4f25fa904256935d834da1462c2e.md) | 2099-01-01 | - |  | - | - |
