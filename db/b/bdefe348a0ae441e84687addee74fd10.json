@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-heat-ccbf8d",
   "Ranking_Rating": 414,
   "Ranking_Popularity": 521,
-  "Ranking_PopularitySum": 417,
+  "Ranking_PopularitySum": 416,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 501,
   "Ranking_EOS_NewPlayers": 3,
@@ -1470,10 +1470,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 529,
       "NumberOfAwardsMax": 75
+    },
+    {
+      "Time": "2024-10-14T17:02:42.3123615+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 531,
+      "NumberOfAwardsMax": 75
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 529,
+  "NumberOfAwards": 531,
   "NumberOfAwardsMax": 75,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1487,7 +1493,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 69
+      "Count": 71
     },
     {
       "Text": "This game is Relaxing",
@@ -1944,9 +1950,9 @@
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
-  "LastChanged": "2024-10-14T15:57:39.2845366+00:00",
+  "LastChanged": "2024-10-14T17:02:42.3123614+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:09.9606677+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:20.3741941+00:00",
-  "LastUpdate_Ratings": "2024-10-14T15:57:39.2845371+00:00",
+  "LastUpdate_Ratings": "2024-10-14T17:02:42.3123619+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:09.9606973+00:00"
 }
