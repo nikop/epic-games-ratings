@@ -4,8 +4,8 @@
 Rating: 4.78 (Ranked 130)  
 ## Awards
 Max (Great for Beginners): 61  (Ranked 553)  
-Sum: 387 (Ranked 457)  
-Diff (max vs sum): 96  
+Sum: 387 (Ranked 456)  
+Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 115 |

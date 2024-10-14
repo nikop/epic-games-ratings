@@ -2,7 +2,7 @@
   "ID": "b0409fc6425f407fb8cfc707c70947fc",
   "Name": "Quasimorph",
   "ProductSlug": "quasimorph-6d2b87",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 362,
   "Ranking_Popularity": 740,
   "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.68,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2024-08-25T03:57:12.2516362+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2024-10-04T13:59:27.1178625+00:00",
       "Rating": 4.68,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-14T08:58:33.0345317+00:00",
+      "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -59,8 +65,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-02T22:00:25.0368579+00:00",
   "FirstSeenRating": "2024-08-25T03:57:12.2516359+00:00",
-  "LastChanged": "2024-10-04T13:59:27.1178623+00:00",
+  "LastChanged": "2024-10-14T08:58:33.0345315+00:00",
   "LastUpdate_AppInfo": "2024-10-08T20:57:10.0983176+00:00",
-  "LastUpdate_Ratings": "2024-10-14T06:59:32.9277221+00:00",
+  "LastUpdate_Ratings": "2024-10-14T08:58:33.034532+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:27.3919648+00:00"
 }
