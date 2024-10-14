@@ -1,16 +1,16 @@
 # Outer Wilds
 [Store](https://store.epicgames.com/en-US/p/outerwilds)  
 [View Rawdata](../../db/o/outer_wilds.json)  
-Rating: 4.90 (Ranked 9)  
+Rating: 4.91 (Ranked 6)  
 Number of Ratings: 726  (23.09.2022)  
 ## Awards
 Max (Extremely Fun): 26  (Ranked 690)  
-Sum: 154 (Ranked 562)  
-Diff (max vs sum): 128  
+Sum: 155 (Ranked 561)  
+Diff (max vs sum): 129  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 26 |
-| This game has Amazing Characters | 22 |
+| This game has Amazing Characters | 23 |
 | This game has a Creative Community | 22 |
 | This game is Highly Recommended | 22 |
 | This game has Amazing Storytelling | 21 |
@@ -108,3 +108,4 @@ Diff (max vs sum): 128
 | 2024-10-01 | 4.90 | - | 26 | 154 |
 | 2024-10-09 | 4.91 | - | 26 | 154 |
 | 2024-10-12 | 4.90 | - | 26 | 154 |
+| 2024-10-14 | 4.91 | - | 26 | 155 |

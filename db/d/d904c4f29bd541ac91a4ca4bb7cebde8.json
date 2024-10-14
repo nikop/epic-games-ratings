@@ -3,8 +3,8 @@
   "Name": "Ouch! So many beauties!",
   "ProductSlug": "videogame-9ad7f5",
   "Ranking_Rating": 764,
-  "Ranking_Popularity": 677,
-  "Ranking_PopularitySum": 697,
+  "Ranking_Popularity": 669,
+  "Ranking_PopularitySum": 693,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -534,18 +534,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 28,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-14T13:57:49.9624366+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 29,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 29,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 28
+      "Count": 29
     }
   ],
   "EOS_Progressed": 13401,
@@ -945,9 +951,9 @@
   "FirstSeen": "2024-03-22T06:00:07.0009039+00:00",
   "FirstSeenRating": "2024-03-26T01:38:52.8302764+00:00",
   "FirstSeenAchievements": "2024-03-21T17:12:00.7760315+00:00",
-  "LastChanged": "2024-10-07T04:58:03.8617766+00:00",
+  "LastChanged": "2024-10-14T13:57:49.9624364+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:18.2906907+00:00",
   "LastUpdate_AppInfo": "2024-10-13T03:15:51.6292072+00:00",
-  "LastUpdate_Ratings": "2024-10-14T11:58:20.2727329+00:00",
+  "LastUpdate_Ratings": "2024-10-14T13:57:49.962437+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:18.2907467+00:00"
 }

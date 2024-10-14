@@ -2,7 +2,7 @@
   "ID": "ac3e9ce6aef843f889678ac73f64128f",
   "Name": "Lost Relics",
   "ProductSlug": "lost-relics-80b4fe",
-  "Ranking_Rating": 469,
+  "Ranking_Rating": 438,
   "Ranking_Popularity": 690,
   "Ranking_PopularitySum": 703,
   "Ranking_EOS_Progress": 1263,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.61,
+  "Rating": 4.62,
   "RatingHistory": [
     {
       "Time": "2024-10-01T03:24:05.5338291+00:00",
@@ -162,6 +162,12 @@
       "Rating": 4.61,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-10-14T13:58:09.7152545+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -188,8 +194,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-28T05:58:57.9503754+00:00",
   "FirstSeenRating": "2024-10-01T03:24:05.5338289+00:00",
-  "LastChanged": "2024-10-13T11:59:03.9417939+00:00",
+  "LastChanged": "2024-10-14T13:58:09.7152543+00:00",
   "LastUpdate_AppInfo": "2024-10-09T03:13:04.6501744+00:00",
-  "LastUpdate_Ratings": "2024-10-14T11:58:37.760352+00:00",
+  "LastUpdate_Ratings": "2024-10-14T13:58:09.715255+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:08.2951942+00:00"
 }

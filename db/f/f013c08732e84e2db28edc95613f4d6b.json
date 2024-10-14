@@ -3,8 +3,8 @@
   "Name": "Etherscape",
   "ProductSlug": "the-etherscape-b2e3d2",
   "Ranking_Rating": 438,
-  "Ranking_Popularity": 727,
-  "Ranking_PopularitySum": 729,
+  "Ranking_Popularity": 721,
+  "Ranking_PopularitySum": 724,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -192,18 +192,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 21,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-10-14T13:59:35.1164418+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21,
-  "NumberOfAwardsMax": 21,
+  "NumberOfAwards": 22,
+  "NumberOfAwardsMax": 22,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -218,8 +224,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-08-16T19:59:21.1403932+00:00",
   "FirstSeenRating": "2024-08-29T21:59:36.5085015+00:00",
-  "LastChanged": "2024-10-13T15:59:23.6946102+00:00",
+  "LastChanged": "2024-10-14T13:59:35.1164416+00:00",
   "LastUpdate_AppInfo": "2024-10-09T22:57:11.0813904+00:00",
-  "LastUpdate_Ratings": "2024-10-14T11:59:53.1827943+00:00",
+  "LastUpdate_Ratings": "2024-10-14T13:59:35.1164425+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:17.0001175+00:00"
 }

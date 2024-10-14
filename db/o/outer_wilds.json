@@ -2,9 +2,9 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Ranking_Rating": 9,
+  "Ranking_Rating": 6,
   "Ranking_Popularity": 690,
-  "Ranking_PopularitySum": 562,
+  "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.9,
+  "Rating": 4.91,
   "NumberOfRatings": 726,
   "RatingHistory": [
     {
@@ -644,10 +644,16 @@
       "Rating": 4.9,
       "NumberOfAwards": 154,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-10-14T13:58:47.0104667+00:00",
+      "Rating": 4.91,
+      "NumberOfAwards": 155,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 154,
+  "NumberOfAwards": 155,
   "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -661,7 +667,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has a Creative Community",
@@ -705,8 +711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2024-10-12T06:59:23.2986573+00:00",
+  "LastChanged": "2024-10-14T13:58:47.0104666+00:00",
   "LastUpdate_AppInfo": "2024-10-07T16:57:55.0249105+00:00",
-  "LastUpdate_Ratings": "2024-10-14T11:59:10.6897734+00:00",
+  "LastUpdate_Ratings": "2024-10-14T13:58:47.0104671+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:30.522087+00:00"
 }
