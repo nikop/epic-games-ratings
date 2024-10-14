@@ -4,7 +4,7 @@
   "ProductSlug": "illuvium-zero-ca46a6",
   "Ranking_Rating": 656,
   "Ranking_Popularity": 383,
-  "Ranking_PopularitySum": 335,
+  "Ranking_PopularitySum": 333,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -2028,10 +2028,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 1034,
       "NumberOfAwardsMax": 196
+    },
+    {
+      "Time": "2024-10-14T14:59:28.562675+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 1037,
+      "NumberOfAwardsMax": 196
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1034,
+  "NumberOfAwards": 1037,
   "NumberOfAwardsMax": 196,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2045,7 +2051,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 189
+      "Count": 192
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2108,8 +2114,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-12T22:58:43.6583667+00:00",
   "FirstSeenRating": "2024-07-19T16:58:57.1679556+00:00",
-  "LastChanged": "2024-10-14T13:16:36.7764672+00:00",
+  "LastChanged": "2024-10-14T14:59:28.5626747+00:00",
   "LastUpdate_AppInfo": "2024-10-12T02:06:18.9616753+00:00",
-  "LastUpdate_Ratings": "2024-10-14T13:16:36.7764677+00:00",
+  "LastUpdate_Ratings": "2024-10-14T14:59:28.5626752+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:17.3598509+00:00"
 }
