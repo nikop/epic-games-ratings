@@ -1,12 +1,12 @@
 # King's Bounty: The Legend
 [Store](https://store.epicgames.com/en-US/p/kings-bounty-the-legend-b69320)  
 [View Rawdata](../../db/k/king's_bounty__the_legend.json)  
-Rating: 4.77 (Ranked 137)  
+Rating: 4.77 (Ranked 138)  
 Number of Ratings: 48  (23.09.2022)  
 ## Awards
-Max (Character Customization): 24  (Ranked 699)  
+Max (Character Customization): 24  (Ranked 700)  
 Sum: 24 (Ranked 709)  
-Diff (max vs sum): -10  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |
