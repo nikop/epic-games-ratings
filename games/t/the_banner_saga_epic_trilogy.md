@@ -1,7 +1,7 @@
 # The Banner Saga Epic Trilogy
 [Store](https://store.epicgames.com/en-US/p/the-banner-saga-epic-trilogy)  
 [View Rawdata](../../db/t/the_banner_saga_epic_trilogy.json)  
-Rating: 4.59 (Ranked 520)  
+Rating: 4.60 (Ranked 491)  
 Number of Ratings: 20  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -29,3 +29,4 @@ Number of Ratings: 20  (23.09.2022)
 | 2024-06-10 | 4.56 | - | 0 | 0 |
 | 2024-06-18 | 4.58 | - | 0 | 0 |
 | 2024-08-07 | 4.59 | - | 0 | 0 |
+| 2024-10-14 | 4.60 | - | 0 | 0 |

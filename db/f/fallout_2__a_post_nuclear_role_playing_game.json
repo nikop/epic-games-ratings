@@ -2,7 +2,7 @@
   "ID": "aae22da1fb884fa395b25bc30dd61faf",
   "Name": "Fallout 2: A Post Nuclear Role Playing Game",
   "ProductSlug": "fallout-2",
-  "Ranking_Rating": 304,
+  "Ranking_Rating": 303,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 1263,
@@ -2497,10 +2497,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 825,
       "NumberOfAwardsMax": 446
+    },
+    {
+      "Time": "2024-10-14T21:57:30.565891+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 826,
+      "NumberOfAwardsMax": 446
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 825,
+  "NumberOfAwards": 826,
   "NumberOfAwardsMax": 446,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2568,7 +2574,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 24
+      "Count": 25
     }
   ],
   "EOS_Progressed": 0,
@@ -2583,8 +2589,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-22T00:03:23.4324557+00:00",
   "FirstSeenRating": "2022-10-31T14:02:48.9261194+00:00",
-  "LastChanged": "2024-10-13T17:59:00.034677+00:00",
+  "LastChanged": "2024-10-14T21:57:30.5658908+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.5022034+00:00",
-  "LastUpdate_Ratings": "2024-10-14T19:57:55.7567118+00:00",
+  "LastUpdate_Ratings": "2024-10-14T21:57:30.5658914+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:03:50.3710564+00:00"
 }

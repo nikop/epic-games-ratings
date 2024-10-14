@@ -14779,10 +14779,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 17521,
       "NumberOfAwardsMax": 4742
+    },
+    {
+      "Time": "2024-10-14T21:57:20.7903033+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 17531,
+      "NumberOfAwardsMax": 4742
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17521,
+  "NumberOfAwards": 17531,
   "NumberOfAwardsMax": 4742,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -14802,7 +14808,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1272
+      "Count": 1276
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14814,7 +14820,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1211
+      "Count": 1214
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14832,7 +14838,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1241
+      "Count": 1243
     },
     {
       "Text": "This game is Highly Recommended",
@@ -14844,7 +14850,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1226
+      "Count": 1227
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -27747,9 +27753,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-10-14T19:57:44.7672339+00:00",
+  "LastChanged": "2024-10-14T21:57:20.7903031+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:50.7464082+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:18.6464845+00:00",
-  "LastUpdate_Ratings": "2024-10-14T19:57:44.7672344+00:00",
+  "LastUpdate_Ratings": "2024-10-14T21:57:20.7903038+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:50.7464974+00:00"
 }

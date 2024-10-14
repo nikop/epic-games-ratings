@@ -2,7 +2,7 @@
   "ID": "42c16682591a49f6bc488ed2fa422589",
   "Name": "The Banner Saga Epic Trilogy",
   "ProductSlug": "the-banner-saga-epic-trilogy",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 491,
   "Ranking_Popularity": 740,
   "Ranking_PopularitySum": 740,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "NumberOfRatings": 20,
   "RatingHistory": [
     {
@@ -129,6 +129,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-14T21:58:43.3704172+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -147,8 +153,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:15.6569997+00:00",
   "FirstSeenRating": "2022-09-23T09:02:16.9087013+00:00",
-  "LastChanged": "2024-08-07T21:58:39.9237557+00:00",
+  "LastChanged": "2024-10-14T21:58:43.3704171+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:42.8486024+00:00",
-  "LastUpdate_Ratings": "2024-10-14T19:59:16.7782722+00:00",
+  "LastUpdate_Ratings": "2024-10-14T21:58:43.3704176+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:33.9152933+00:00"
 }

@@ -1,7 +1,7 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.54 (Ranked 637)  
+Rating: 4.54 (Ranked 638)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -103,12 +103,12 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-09-14 | 157,189 | 0 |
 ## Awards
 Max (Great Boss Battles): 144  (Ranked 430)  
-Sum: 185 (Ranked 546)  
-Diff (max vs sum): -116  
+Sum: 186 (Ranked 545)  
+Diff (max vs sum): -115  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 144 |
-| This game is Great for Beginners | 21 |
+| This game is Great for Beginners | 22 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -245,3 +245,4 @@ Diff (max vs sum): -116
 | 2024-10-06 | 4.54 | 142 | 163 |
 | 2024-10-07 | 4.54 | 144 | 165 |
 | 2024-10-13 | 4.54 | 144 | 185 |
+| 2024-10-14 | 4.54 | 144 | 186 |
