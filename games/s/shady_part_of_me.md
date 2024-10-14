@@ -1,7 +1,7 @@
 # Shady Part of Me
 [Store](https://store.epicgames.com/en-US/p/shady-part-of-me)  
 [View Rawdata](../../db/s/shady_part_of_me.json)  
-Rating: 4.70 (Ranked 254)  
+Rating: 4.71 (Ranked 234)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -23,3 +23,4 @@ Rating: 4.70 (Ranked 254)
 | 2024-09-12 | 4.68 | 0 | 0 |
 | 2024-09-14 | 4.69 | 0 | 0 |
 | 2024-10-02 | 4.70 | 0 | 0 |
+| 2024-10-14 | 4.71 | 0 | 0 |
