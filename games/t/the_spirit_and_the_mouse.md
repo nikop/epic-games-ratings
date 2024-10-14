@@ -69,8 +69,8 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-03-21 | 89 | 0 |
 ## Awards
 Max (Easy Puzzles): 63  (Ranked 548)  
-Sum: 63 (Ranked 636)  
-Diff (max vs sum): -88  
+Sum: 63 (Ranked 637)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 63 |
