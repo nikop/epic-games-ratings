@@ -64,8 +64,6 @@
 | [Arena Tails](games/4/484b67c9648047c9a26f8c34a65b6624.md) | 2024-12-31 | - |  | - | - |
 | [Arsene Lupin - Once a Thief](games/b/b640cb27f5a947d9b0fa2e812554dc79.md) | 2024-12-31 | - |  | - | - |
 | [Avalon The Game](games/c/c1e86ca0e67349d1b6c62d3f23cda1d5.md) | 2024-12-31 | - |  | - | - |
-| [Beyond These Stars](games/b/beyond_these_stars.md) | 2024-12-31 | - |  | - | - |
-| [Capital Command](games/c/capital_command.md) | 2024-12-31 | - |  | - | - |
 | [Card Clash Chronicles](games/e/eb594d29ab71410fb26280a6fedb01b6.md) | 2024-12-31 | - |  | - | - |
 | [Chain Crisis](games/1/181df30b672e4037a677b3819b17362c.md) | 2024-12-31 | - |  | - | - |
 | [Coffee Town](games/a/a8b07df0c03c4a29992d60683e17cf84.md) | 2024-12-31 | - |  | - | - |
@@ -81,18 +79,13 @@
 | [Earthblade](games/1/178581eea2254939b03212df69dd8021.md) | 2024-12-31 | - |  | - | - |
 | [EBOLA VILLAGE](games/e/e37cc2b5002a46bd9d0207d4b5b70d0c.md) | 2024-12-31 | - |  | - | - |
 | [England In London](games/9/9a648ce6a6634184ad45f5fe3788a3c2.md) | 2024-12-31 | - |  | - | - |
-| [Espiocracy](games/e/espiocracy.md) | 2024-12-31 | - |  | - | - |
 | [Evershire](games/8/82d7f438164d4ed182d27265c63574fc.md) | 2024-12-31 | - |  | - | - |
 | [Everstorm](games/2/2247c107d7f74b8bb72445b10b6c1eae.md) | 2024-12-31 | - |  | - | - |
-| [Falling Frontier](games/f/falling_frontier.md) | 2024-12-31 | - |  | - | - |
-| [Fata Deum](games/f/fata_deum.md) | 2024-12-31 | - |  | - | - |
 | [Feverdream: Rainbow Chaser](games/4/4838b0b4a084422997a5b43a29ba8fd6.md) | 2024-12-31 | - |  | - | - |
-| [Fragile Existence](games/f/fragile_existence.md) | 2024-12-31 | - |  | - | - |
 | [Genkai: Primal Awakening](games/6/631264786bda409f919dd1db541825a9.md) | 2024-12-31 | - |  | - | - |
 | [Good Morning Human](games/8/8ac6e27f09754a8c8ddd5f443ce1a462.md) | 2024-12-31 | - |  | - | - |
 | [Grand Emprise: Time Travel Survival](games/f/f5e2b23815ac4da58630dc30656cd5ea.md) | 2024-12-31 | - |  | - | - |
 | [Hatone](games/8/81de567b4b2d489ab9571bf6bccdbc97.md) | 2024-12-31 | - |  | - | - |
-| [Hexxen: Hunters](games/e/eaab430db9f24d558c949b85906f1c79.md) | 2024-12-31 | - |  | - | - |
 | [Hunt and Fight](games/0/091cccf4f1e84e19b576ffbf4337a9e2.md) | 2024-12-31 | - |  | - | - |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2024-12-31 | 16 (1,000 XP) | 0 | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
@@ -101,7 +94,6 @@
 | [Kingmakers](games/d/d01caa04441f4cbf8e2a0fc68cd95d03.md) | 2024-12-31 | - |  | - | - |
 | [Lesson Learned](games/7/73451456d3d0498385b49ae94424d37d.md) | 2024-12-31 | - |  | - | - |
 | [Lost Lullabies](games/2/2eb0ee8613b0414ebb07dbbf006f029c.md) | 2024-12-31 | - |  | - | - |
-| [Mars Tactics](games/m/mars_tactics.md) | 2024-12-31 | - |  | - | - |
 | [MATCHO](games/d/d192be5921354325abfb1aae75ec106c.md) | 2024-12-31 | - |  | - | - |
 | [MENACE](games/d/d21aef9c18434bd89ee67023baba05fe.md) | 2024-12-31 | - |  | - | - |
 | [Metarush](games/c/c9bc37f95dbc4104bdfa7f8e1da7a149.md) | 2024-12-31 | - |  | - | - |
@@ -111,7 +103,6 @@
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-12-31 | - |  | - | - |
 | [NEO BERLIN 2087](games/6/6360997dd9194c40aa70a701791b1819.md) | 2024-12-31 | - |  | - | - |
 | [Nikoderiko: The Magical World](games/0/02968e20aefe4b798e179e182cede492.md) | 2024-12-31 | - |  | - | - |
-| [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2024-12-31 | - |  | - | - |
 | [Pine: A Story of Loss](games/d/d3c16b1b2d8e4331a1daea61170425f0.md) | 2024-12-31 | - |  | - | - |
 | [Puppet House](games/d/d581f8bd34204f98af1a404d99bd347a.md) | 2024-12-31 | - |  | - | - |
 | [Realpolitiks 3: Earth and Beyond](games/b/ba2f4991f6aa48ac8c7313b7b1dab551.md) | 2024-12-31 | - |  | - | - |
@@ -132,7 +123,6 @@
 | [The Precinct](games/2/2d1432c62a8c49ab80feaefa176a9671.md) | 2024-12-31 | - |  | - | - |
 | [The Spirit of the Samurai](games/7/7e23872d64c54cb08e988a697bd03839.md) | 2024-12-31 | - |  | - | - |
 | [The Swine](games/t/the_swine.md) | 2024-12-31 | 5 (1,000 XP) | 0 | - | - |
-| [The Way of Wrath](games/t/the_way_of_wrath.md) | 2024-12-31 | - |  | - | - |
 | [Train Valley World](games/f/f68e8934386448ed8b280c3eb0f8c5a4.md) | 2024-12-31 | - |  | - | - |
 | [Universe Has No Favorites](games/f/fbce8614801c4fb7bf5900270c5b47d8.md) | 2024-12-31 | - |  | - | - |
 | [Unmasked: An Inner Journey](games/7/733ca16d97244408b857bdcc9e4b6e3b.md) | 2024-12-31 | - |  | - | - |
@@ -180,8 +170,10 @@
 | [A BIT BEAST WILD DREAM - PHASE ONE](games/8/8330f2785acf46d3bf3c1be7ed87994a.md) | 2025-09-30 | - |  | - | - |
 | [Temple of the Gods](games/5/5665bab3e0ea4f24a6f12afa762b956e.md) | 2025-09-30 | - |  | - | - |
 | [THE GUARDIANS](games/b/b7018716306c4f0db9c8abe14f20647d.md) | 2025-09-30 | - |  | - | - |
+| [Beyond These Stars](games/b/beyond_these_stars.md) | 2025-12-31 | - |  | - | - |
 | [Big Walk](games/2/271473d449b34fa5825cd0c6af7ca728.md) | 2025-12-31 | - |  | - | - |
 | [Blacksmith Master](games/b/blacksmith_master.md) | 2025-12-31 | - |  | - | - |
+| [Capital Command](games/c/capital_command.md) | 2025-12-31 | - |  | - | - |
 | [Citizen Sleeper 2: Starward Vector](games/2/283988bcb09342d3901d99f3cc22ca77.md) | 2025-12-31 | - |  | - | - |
 | [Dawn Apart](games/d/dawn_apart.md) | 2025-12-31 | - |  | - | - |
 | [Deal With The Devil Chapter:2 - From Tuonela to Hell](games/8/809a6e61e8ac49fb93cd96568ae9158e.md) | 2025-12-31 | - |  | - | - |
@@ -194,14 +186,21 @@
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2025-12-31 | - |  | - | - |
 | [Elflock](games/d/d23d0870e4a74ab4a993efec319ae2e8.md) | 2025-12-31 | - |  | - | - |
 | [Eriksholm: The Stolen Dream](games/8/833ef2482db54a19a83c264f5371f550.md) | 2025-12-31 | - |  | - | - |
+| [Espiocracy](games/e/espiocracy.md) | 2025-12-31 | - |  | - | - |
+| [Falling Frontier](games/f/falling_frontier.md) | 2025-12-31 | - |  | - | - |
+| [Fata Deum](games/f/fata_deum.md) | 2025-12-31 | - |  | - | - |
 | [Federation](games/f/ff6f8be77181424abd51b0fc551da825.md) | 2025-12-31 | - |  | - | - |
+| [Fragile Existence](games/f/fragile_existence.md) | 2025-12-31 | - |  | - | - |
 | [G-Rebels](games/7/779308ab750f4d0cadf7d54bb87d04f1.md) | 2025-12-31 | - |  | - | - |
 | [Green Hawk Platoon](games/8/8e9581e6efd141878e25dd1a0c0dceb6.md) | 2025-12-31 | - |  | - | - |
 | [Head North: The Inevitable](games/c/c98237093b7f4f108ff63cfcee8e27e2.md) | 2025-12-31 | - |  | - | - |
+| [Hexxen: Hunters](games/e/eaab430db9f24d558c949b85906f1c79.md) | 2025-12-31 | - |  | - | - |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2025-12-31 | 19 (1,000 XP) | 1 | - | - |
 | [Jetsoccer](games/5/533d845b34614ec8aaa18d34e00b1bd9.md) | 2025-12-31 | - |  | - | - |
 | [Lost Colony](games/0/06a110092f0143eeb0c13bdbf367fb55.md) | 2025-12-31 | - |  | - | - |
 | [Lucky Tower Ultimate](games/b/b5dcd31f40894936ab1b6f14197dbc6d.md) | 2025-12-31 | - |  | - | - |
+| [Mars Tactics](games/m/mars_tactics.md) | 2025-12-31 | - |  | - | - |
+| [Nova Roma](games/2/2e8cb86b0e9a4322bd9b57ae31d7e632.md) | 2025-12-31 | - |  | - | - |
 | [Promise Mascot Agency](games/9/9cdcb83442bd412fa8d0c47704e358b7.md) | 2025-12-31 | - |  | - | - |
 | [Revenge of the Savage Planet](games/0/0ac5868e8b8443ba9d31178cf7c4d1aa.md) | 2025-12-31 | - |  | - | - |
 | [Revomon Novus](games/5/555331295ae1426b921b8919bfc38039.md) | 2025-12-31 | - |  | - | - |
@@ -210,6 +209,7 @@
 | [Space Adventure Cobra - The Awakening](games/4/47dcf2571ed6420c9b24a200af1fbf24.md) | 2025-12-31 | - |  | - | - |
 | [SpasmsOfStupidity](games/c/c56dd8ab2daf431c9feacc0fc87b42fc.md) | 2025-12-31 | - |  | - | - |
 | [Splitgate 2](games/7/7c5be037103c457a92ffc6e0d911be2e.md) | 2025-12-31 | - |  | - | - |
+| [The Way of Wrath](games/t/the_way_of_wrath.md) | 2025-12-31 | - |  | - | - |
 | [Tukoni: Forest Keepers](games/8/8ef296a169af4192a0e0fa65df61c0e2.md) | 2025-12-31 | - |  | - | - |
 | [Where They Go](games/7/7ee5a15b09884e2190ed8743f1ea58ac.md) | 2025-12-31 | - |  | - | - |
 | [WUCHANG: Fallen Feathers](games/0/08d6df03616c42388556ce5fc1366d3d.md) | 2025-12-31 | - |  | - | - |
