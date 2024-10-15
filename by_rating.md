@@ -181,7 +181,7 @@
 | 172 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 4.75 | 8,712 | 69 |
 | 172 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 741 |
 | 172 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.75 | 2,781 | 121 |
-| 172 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 11,310 | 56 |
+| 172 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.75 | 11,326 | 56 |
 | 172 | [Outlast](games/o/outlast.md) | 4.75 | 65 | 542 |
 | 172 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.75 | 33 | 648 |
 | 172 | [Slipways](games/s/slipways.md) | 4.75 | 0 | 741 |
@@ -290,7 +290,7 @@
 | 277 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.69 | 59 | 560 |
 | 277 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.69 | 112 | 465 |
 | 277 | [House Flipper](games/h/house_flipper.md) | 4.69 | 416 | 292 |
-| 277 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,392 | 133 |
+| 277 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.69 | 2,395 | 133 |
 | 277 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 741 |
 | 277 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.69 | 771 | 235 |
 | 277 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.69 | 409 | 295 |
@@ -330,7 +330,7 @@
 | 321 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.67 | 0 | 741 |
 | 321 | [INSIDE](games/i/inside.md) | 4.67 | 0 | 741 |
 | 321 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.67 | 0 | 741 |
-| 321 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 667 | 243 |
+| 321 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 668 | 243 |
 | 321 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,498 | 128 |
 | 321 | [Neon Abyss](games/n/neon_abyss.md) | 4.67 | 843 | 225 |
 | 321 | [Oddworld: Soulstorm Enhanced Edition](games/o/oddworld_soulstorm.md) | 4.67 | 44 | 602 |
@@ -757,7 +757,7 @@
 | 743 | [Observation](games/o/observation.md) | 4.49 | 0 | 741 |
 | 743 | [Paradigm](games/p/paradigm.md) | 4.49 | 0 | 741 |
 | 743 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.49 | 0 | 741 |
-| 743 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,326 | 177 |
+| 743 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.49 | 1,327 | 177 |
 | 743 | [RUINER](games/r/ruiner.md) | 4.49 | 29 | 670 |
 | 743 | [Solitairica](games/s/solitairica.md) | 4.49 | 126 | 451 |
 | 743 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 18,625 | 32 |
