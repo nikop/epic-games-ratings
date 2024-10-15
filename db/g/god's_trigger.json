@@ -3,8 +3,8 @@
   "Name": "God\u0027s Trigger",
   "ProductSlug": "gods-trigger",
   "Ranking_Rating": 1178,
-  "Ranking_Popularity": 670,
-  "Ranking_PopularitySum": 694,
+  "Ranking_Popularity": 665,
+  "Ranking_PopularitySum": 692,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -415,18 +415,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 29,
       "NumberOfAwardsMax": 29
+    },
+    {
+      "Time": "2024-10-15T13:15:13.8625731+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 30,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29,
-  "NumberOfAwardsMax": 29,
+  "NumberOfAwards": 30,
+  "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 29
+      "Count": 30
     }
   ],
   "EOS_Progressed": 0,
@@ -440,8 +446,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:51.7607722+00:00",
-  "LastChanged": "2024-10-14T16:00:39.5918611+00:00",
+  "LastChanged": "2024-10-15T13:15:13.8625729+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.3242478+00:00",
-  "LastUpdate_Ratings": "2024-10-15T10:57:57.1527254+00:00",
+  "LastUpdate_Ratings": "2024-10-15T13:15:13.8625736+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:22.3495562+00:00"
 }

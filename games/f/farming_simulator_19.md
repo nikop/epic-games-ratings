@@ -1,15 +1,15 @@
 # Farming Simulator 19
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-19)  
 [View Rawdata](../../db/f/farming_simulator_19.json)  
-Rating: 4.68 (Ranked 302)  
+Rating: 4.68 (Ranked 303)  
 Number of Ratings: 16,706  (23.09.2022)  
 ## Awards
-Max (Great for Beginners): 10,736  (Ranked 59)  
-Sum: 62,920 (Ranked 33)  
+Max (Great for Beginners): 10,745  (Ranked 59)  
+Sum: 62,929 (Ranked 33)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 10,736 |
+| This game is Great for Beginners | 10,745 |
 | This game is Educational | 7,023 |
 | This game is Relaxing | 6,879 |
 | This game is Highly Recommended | 6,876 |
@@ -662,3 +662,4 @@ Diff (max vs sum): 26
 | 2024-10-12 | 4.68 | - | 10,725 | 62,855 |
 | 2024-10-13 | 4.68 | - | 10,736 | 62,885 |
 | 2024-10-14 | 4.68 | - | 10,736 | 62,920 |
+| 2024-10-15 | 4.68 | - | 10,745 | 62,929 |
