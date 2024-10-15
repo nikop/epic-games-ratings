@@ -11,6 +11,7 @@
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-10-23 | 16 (1,000 XP) | 3 | - | - |
 | [Cabernet](games/f/fe7271d3a3da49c6924e38388ed3174a.md) | 2024-10-24 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
+| [Orange Season](games/f/f4a6b55c57fa44a6ad819905f78ec85c.md) | 2024-10-24 | - |  | - | - |
 | [The Jackbox Survey Scramble](games/4/4b8e02fdfaad4426b9f8caa6dd4493a3.md) | 2024-10-24 | - |  | - | - |
 | [Enki's Return](games/7/79a42b67162c4f4694b3d70fcf25350d.md) | 2024-10-24 | - |  | - | - |
 | [Voidwrought](games/1/1c6e13038e00432ba0a3c11bb85d1d5f.md) | 2024-10-24 | - |  | - | - |
