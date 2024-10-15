@@ -18,6 +18,7 @@
 | [Barbie Project Friendship™](games/8/8b9f266350ad4f95aec7fbc4021c1695.md) | 2024-10-24 | - |  | - | - |
 | [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-25 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
+| [Surfing Legends](games/2/2f041426f4ce4d65a6c1b100b4b3bf4a.md) | 2024-10-25 | - |  | - | - |
 | [BloodBound](games/e/eaa1681d545e405b92a2665a443d02d7.md) | 2024-10-25 | - |  | - | - |
 | [Red Dead Redemption](games/f/fbbfe0bfd2ba46bd8eaeff0981b6e1e1.md) | 2024-10-29 | - |  | - | - |
 | [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
@@ -597,7 +598,6 @@
 | [Super BUFF HD](games/7/74b34f2f86db48579e9f785686886111.md) | 2099-01-01 | - |  | - | - |
 | [Super Farming Boy](games/3/3fabb6db9e5a4a17b86601d9accd8556.md) | 2099-01-01 | - |  | - | - |
 | [Supergalactix](games/s/supergalactix.md) | 2099-01-01 | - |  | - | - |
-| [Surfing Legends](games/2/2f041426f4ce4d65a6c1b100b4b3bf4a.md) | 2099-01-01 | - |  | - | - |
 | [Surrealverse](games/4/41ac4135cc994a0bb5a7349701c292df.md) | 2099-01-01 | - |  | - | - |
 | [Survival Bunker](games/2/2169f3808bad448fbc29f18ada527f28.md) | 2099-01-01 | - |  | - | - |
 | [Survive The Unknown](games/s/survive_the_unknown.md) | 2099-01-01 | - |  | - | - |
