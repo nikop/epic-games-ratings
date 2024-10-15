@@ -1,7 +1,7 @@
 # Colt Canyon
 [Store](https://store.epicgames.com/en-US/p/colt-canyon)  
 [View Rawdata](../../db/c/colt_canyon.json)  
-Rating: 4.52 (Ranked 676)  
+Rating: 4.54 (Ranked 638)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -14,3 +14,4 @@ Rating: 4.52 (Ranked 676)
 | 2024-10-04 | 4.64 | 0 | 0 |
 | 2024-10-06 | 4.50 | 0 | 0 |
 | 2024-10-07 | 4.52 | 0 | 0 |
+| 2024-10-15 | 4.54 | 0 | 0 |

@@ -15610,10 +15610,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 11045,
       "NumberOfAwardsMax": 1327
+    },
+    {
+      "Time": "2024-10-15T22:59:19.2457925+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 11052,
+      "NumberOfAwardsMax": 1327
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11045,
+  "NumberOfAwards": 11052,
   "NumberOfAwardsMax": 1327,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -15627,7 +15633,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1233
+      "Count": 1234
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -15639,7 +15645,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1058
+      "Count": 1059
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -15651,19 +15657,19 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1117
+      "Count": 1118
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 998
+      "Count": 1000
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 956
+      "Count": 958
     },
     {
       "Text": "This game is Highly Recommended",
@@ -15701,8 +15707,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2024-10-15T14:57:45.6570971+00:00",
+  "LastChanged": "2024-10-15T22:59:19.2457923+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:16.4172811+00:00",
-  "LastUpdate_Ratings": "2024-10-15T21:00:06.203866+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:59:19.2458307+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.5715581+00:00"
 }

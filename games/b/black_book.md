@@ -219,7 +219,7 @@ Completed: 129 (0.14%) (Ranked 444)
 | 2024-09-14 | 91,808 | 129 |
 ## Awards
 Max (Character Customization): 154  (Ranked 419)  
-Sum: 321 (Ranked 481)  
+Sum: 322 (Ranked 481)  
 Diff (max vs sum): -62  
 | Award | Count |
 | ----- | ----- |
@@ -230,7 +230,7 @@ Diff (max vs sum): -62
 | This game is Educational | 23 |
 | This game is Great for Beginners | 22 |
 | This game has Quickly Understood Controls | 21 |
-| This game has Diverse Characters | 20 |
+| This game has Diverse Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -392,4 +392,4 @@ Diff (max vs sum): -62
 | 2024-10-08 | 4.65 | - | 153 | 318 |
 | 2024-10-09 | 4.65 | - | 154 | 319 |
 | 2024-10-13 | 4.65 | - | 154 | 320 |
-| 2024-10-15 | 4.65 | - | 154 | 321 |
+| 2024-10-15 | 4.65 | - | 154 | 322 |

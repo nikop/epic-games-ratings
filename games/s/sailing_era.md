@@ -3,9 +3,9 @@
 [View Rawdata](../../db/s/sailing_era.json)  
 Rating: 4.71 (Ranked 234)  
 ## Awards
-Max (Character Customization): 24  (Ranked 702)  
+Max (Character Customization): 24  (Ranked 703)  
 Sum: 24 (Ranked 711)  
-Diff (max vs sum): -9  
+Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24 |
