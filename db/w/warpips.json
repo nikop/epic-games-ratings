@@ -3,7 +3,7 @@
   "Name": "Warpips",
   "ProductSlug": "warpips-57e2c4",
   "Ranking_Rating": 860,
-  "Ranking_Popularity": 534,
+  "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -1831,11 +1831,17 @@
       "Rating": 4.43,
       "NumberOfAwards": 402,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-10-15T06:59:10.301921+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 403,
+      "NumberOfAwardsMax": 70
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 402,
-  "NumberOfAwardsMax": 69,
+  "NumberOfAwards": 403,
+  "NumberOfAwardsMax": 70,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1854,7 +1860,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1931,9 +1937,9 @@
   "FirstSeen": "2022-07-22T20:30:43.3276462+00:00",
   "FirstSeenRating": "2022-08-17T17:32:36.298975+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:17.8561641+00:00",
-  "LastChanged": "2024-10-13T17:58:49.1211648+00:00",
+  "LastChanged": "2024-10-15T06:59:10.3019208+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:44.5620044+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:25.8749441+00:00",
-  "LastUpdate_Ratings": "2024-10-15T05:01:30.6500184+00:00",
+  "LastUpdate_Ratings": "2024-10-15T06:59:10.3019213+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:44.5620076+00:00"
 }
