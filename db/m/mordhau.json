@@ -2,8 +2,8 @@
   "ID": "2bda08f9230144a19e98373cc4a6ac2d",
   "Name": "MORDHAU",
   "ProductSlug": "mordhau",
-  "Ranking_Rating": 971,
-  "Ranking_Popularity": 132,
+  "Ranking_Rating": 972,
+  "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 563,
@@ -13807,11 +13807,17 @@
       "Rating": 4.36,
       "NumberOfAwards": 11102,
       "NumberOfAwardsMax": 2407
+    },
+    {
+      "Time": "2024-10-15T13:58:13.9306919+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 11104,
+      "NumberOfAwardsMax": 2409
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11102,
-  "NumberOfAwardsMax": 2407,
+  "NumberOfAwards": 11104,
+  "NumberOfAwardsMax": 2409,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -13842,7 +13848,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2407
+      "Count": 2409
     },
     {
       "Text": "This game has Competitive Players",
@@ -46775,9 +46781,9 @@
   "FirstSeen": "2023-04-13T15:58:07.4170825+00:00",
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
-  "LastChanged": "2024-10-15T10:00:26.320454+00:00",
+  "LastChanged": "2024-10-15T13:58:13.9306917+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:28.5890797+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:17.9398318+00:00",
-  "LastUpdate_Ratings": "2024-10-15T11:58:58.8737527+00:00",
+  "LastUpdate_Ratings": "2024-10-15T13:58:13.9306922+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:28.5892911+00:00"
 }

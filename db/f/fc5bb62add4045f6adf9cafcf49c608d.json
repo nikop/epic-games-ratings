@@ -2,7 +2,7 @@
   "ID": "fc5bb62add4045f6adf9cafcf49c608d",
   "Name": "Prince of Persia: Sands of Time",
   "ProductSlug": "prince-of-persia-sands-of-time",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 946,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.35,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2024-02-27T05:59:29.6969736+00:00",
@@ -91,6 +91,12 @@
       "Rating": 4.35,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T13:57:39.9435125+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -109,8 +115,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-21T10:59:02.192103+00:00",
   "FirstSeenRating": "2024-02-27T05:59:29.6969733+00:00",
-  "LastChanged": "2024-08-18T04:59:53.2883992+00:00",
+  "LastChanged": "2024-10-15T13:57:39.9435124+00:00",
   "LastUpdate_AppInfo": "2024-10-12T10:57:15.1130193+00:00",
-  "LastUpdate_Ratings": "2024-10-15T11:58:22.0466163+00:00",
+  "LastUpdate_Ratings": "2024-10-15T13:57:39.9435129+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:17.0086963+00:00"
 }

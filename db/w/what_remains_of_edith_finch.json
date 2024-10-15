@@ -2,7 +2,7 @@
   "ID": "badger",
   "Name": "What Remains of Edith Finch",
   "ProductSlug": "what-remains-of-edith-finch",
-  "Ranking_Rating": 192,
+  "Ranking_Rating": 216,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.72,
   "NumberOfRatings": 75,
   "RatingHistory": [
     {
@@ -292,6 +292,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T13:57:58.4892451+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -309,8 +315,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:14.3324277+00:00",
-  "LastChanged": "2024-09-06T03:03:25.0636083+00:00",
+  "LastChanged": "2024-10-15T13:57:58.4892449+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:10.8039582+00:00",
-  "LastUpdate_Ratings": "2024-10-15T11:58:42.4877845+00:00",
+  "LastUpdate_Ratings": "2024-10-15T13:57:58.4892456+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:23.5571577+00:00"
 }

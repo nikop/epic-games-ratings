@@ -2,7 +2,7 @@
   "ID": "65a9273ec61f4bb6b94461eb1ce8ec23",
   "Name": "PC Building Simulator 2",
   "ProductSlug": "pc-building-simulator-2",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 542,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 160,
   "Ranking_EOS_Progress": 57,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2022-10-12T23:00:34.9560943+00:00",
@@ -8429,6 +8429,12 @@
     {
       "Time": "2024-10-15T02:13:03.1862286+00:00",
       "Rating": 4.59,
+      "NumberOfAwards": 6772,
+      "NumberOfAwardsMax": 1067
+    },
+    {
+      "Time": "2024-10-15T13:59:14.9664996+00:00",
+      "Rating": 4.58,
       "NumberOfAwards": 6772,
       "NumberOfAwardsMax": 1067
     }
@@ -40829,9 +40835,9 @@
   "FirstSeen": "2022-10-12T19:00:44.2364682+00:00",
   "FirstSeenRating": "2022-10-12T23:00:34.9560938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.796705+00:00",
-  "LastChanged": "2024-10-15T02:13:03.1862284+00:00",
+  "LastChanged": "2024-10-15T13:59:14.9664994+00:00",
   "LastChanged_Achievements": "2024-09-14T14:18:41.0548286+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:22.8294689+00:00",
-  "LastUpdate_Ratings": "2024-10-15T12:00:06.9718373+00:00",
+  "LastUpdate_Ratings": "2024-10-15T13:59:14.9665+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:18:41.0550026+00:00"
 }

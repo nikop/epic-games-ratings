@@ -4,7 +4,7 @@
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 519,
   "Ranking_Popularity": 183,
-  "Ranking_PopularitySum": 239,
+  "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -4498,10 +4498,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2579,
       "NumberOfAwardsMax": 1257
+    },
+    {
+      "Time": "2024-10-15T13:57:16.3414583+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2581,
+      "NumberOfAwardsMax": 1257
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2579,
+  "NumberOfAwards": 2581,
   "NumberOfAwardsMax": 1257,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4515,7 +4521,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 641
+      "Count": 643
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4583,8 +4589,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2024-10-14T22:00:26.0857066+00:00",
+  "LastChanged": "2024-10-15T13:57:16.3414581+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:53.1987926+00:00",
-  "LastUpdate_Ratings": "2024-10-15T11:57:56.3142222+00:00",
+  "LastUpdate_Ratings": "2024-10-15T13:57:16.3414586+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:55.9470712+00:00"
 }

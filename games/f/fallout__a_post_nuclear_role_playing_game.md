@@ -3,12 +3,12 @@
 [View Rawdata](../../db/f/fallout__a_post_nuclear_role_playing_game.json)  
 Rating: 4.60 (Ranked 491)  
 ## Awards
-Max (Character Customization): 458  (Ranked 281)  
-Sum: 655 (Ranked 400)  
+Max (Character Customization): 461  (Ranked 281)  
+Sum: 658 (Ranked 400)  
 Diff (max vs sum): -119  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 458 |
+| This game has Inclusive Character Customization | 461 |
 | This game is Extremely Fun | 29 |
 | This game has Challenging Combat | 27 |
 | This game is Highly Recommended | 26 |
@@ -251,4 +251,4 @@ Diff (max vs sum): -119
 | 2024-10-12 | 4.61 | 456 | 652 |
 | 2024-10-13 | 4.60 | 456 | 652 |
 | 2024-10-14 | 4.60 | 458 | 654 |
-| 2024-10-15 | 4.60 | 458 | 655 |
+| 2024-10-15 | 4.60 | 461 | 658 |
