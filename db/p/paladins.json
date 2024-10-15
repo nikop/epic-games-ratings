@@ -2,7 +2,7 @@
   "ID": "badb0ee71b474ed591ec43212547cfc8",
   "Name": "Paladins",
   "ProductSlug": "paladins",
-  "Ranking_Rating": 1030,
+  "Ranking_Rating": 1031,
   "Ranking_Popularity": 100,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 1263,
@@ -17865,11 +17865,17 @@
       "Rating": 4.31,
       "NumberOfAwards": 30614,
       "NumberOfAwardsMax": 5027
+    },
+    {
+      "Time": "2024-10-15T22:00:13.9812812+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 30628,
+      "NumberOfAwardsMax": 5030
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 30614,
-  "NumberOfAwardsMax": 5027,
+  "NumberOfAwards": 30628,
+  "NumberOfAwardsMax": 5030,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -17882,13 +17888,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5027
+      "Count": 5030
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 3835
+      "Count": 3839
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -17906,13 +17912,13 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3799
+      "Count": 3801
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3895
+      "Count": 3898
     },
     {
       "Text": "This game has Amazing Characters",
@@ -17930,7 +17936,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3152
+      "Count": 3154
     }
   ],
   "EOS_Progressed": 0,
@@ -17944,8 +17950,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:05.5508389+00:00",
-  "LastChanged": "2024-10-15T11:58:08.6278409+00:00",
+  "LastChanged": "2024-10-15T22:00:13.9812811+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:07.7398931+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:43.7889322+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:00:13.9812816+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:14.22891+00:00"
 }

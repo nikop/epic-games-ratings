@@ -2,7 +2,7 @@
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
   "ProductSlug": "warhammer-40000-gladius-relics-of-war",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 1263,
@@ -4345,10 +4345,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 1044,
       "NumberOfAwardsMax": 277
+    },
+    {
+      "Time": "2024-10-15T21:58:43.6171093+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 1046,
+      "NumberOfAwardsMax": 277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1044,
+  "NumberOfAwards": 1046,
   "NumberOfAwardsMax": 277,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4356,7 +4362,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 156
+      "Count": 158
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4430,8 +4436,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2024-10-15T11:00:03.5871769+00:00",
+  "LastChanged": "2024-10-15T21:58:43.6171089+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:53.6850698+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:58:45.8077874+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:58:43.6171101+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:53.6307738+00:00"
 }

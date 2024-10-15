@@ -2,8 +2,8 @@
   "ID": "carnation",
   "Name": "Tom Clancy\u0027s Rainbow Six\u00AE Siege",
   "ProductSlug": "rainbow-six-siege",
-  "Ranking_Rating": 637,
-  "Ranking_Popularity": 141,
+  "Ranking_Rating": 638,
+  "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -8007,11 +8007,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 17608,
       "NumberOfAwardsMax": 2174
+    },
+    {
+      "Time": "2024-10-15T21:59:44.4093946+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 17643,
+      "NumberOfAwardsMax": 2186
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17608,
-  "NumberOfAwardsMax": 2174,
+  "NumberOfAwards": 17643,
+  "NumberOfAwardsMax": 2186,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -8030,13 +8036,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1976
+      "Count": 1991
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2174
+      "Count": 2186
     },
     {
       "Text": "This game has Competitive Players",
@@ -8060,7 +8066,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1957
+      "Count": 1965
     },
     {
       "Text": "This game has a Competitive Community",
@@ -8092,8 +8098,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:50.9592707+00:00",
-  "LastChanged": "2024-10-15T03:16:01.5849429+00:00",
+  "LastChanged": "2024-10-15T21:59:44.4093945+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:12.8326851+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:24.5701172+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:59:44.4093948+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:41.475167+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "53ea1f0a585f4fbc9c8adc6b76af1165",
   "Name": "F1\u00AE Manager 2024",
   "ProductSlug": "f1-manager-2024-fe51bd",
-  "Ranking_Rating": 584,
-  "Ranking_Popularity": 608,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Rating": 583,
+  "Ranking_Popularity": 607,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -606,24 +606,30 @@
       "Rating": 4.56,
       "NumberOfAwards": 183,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-10-15T21:58:44.5458882+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 188,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 183,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 188,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 39
+      "Count": 41
     },
     {
       "Text": "This game is Highly Recommended",
@@ -653,7 +659,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 23
+      "Count": 25
     }
   ],
   "EOS_Progressed": 1946,
@@ -947,9 +953,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-10-14T15:00:57.6024867+00:00",
+  "LastChanged": "2024-10-15T21:58:44.5458881+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
   "LastUpdate_AppInfo": "2024-10-09T10:57:31.8229379+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:58:46.3339382+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:58:44.5458884+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
 }

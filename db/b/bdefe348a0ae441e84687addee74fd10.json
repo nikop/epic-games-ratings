@@ -2,9 +2,9 @@
   "ID": "bdefe348a0ae441e84687addee74fd10",
   "Name": "Need for Speed\u2122 Heat Deluxe Edition",
   "ProductSlug": "need-for-speed-heat-ccbf8d",
-  "Ranking_Rating": 415,
-  "Ranking_Popularity": 513,
-  "Ranking_PopularitySum": 415,
+  "Ranking_Rating": 416,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 501,
   "Ranking_EOS_NewPlayers": 3,
@@ -1488,18 +1488,24 @@
       "Rating": 4.63,
       "NumberOfAwards": 539,
       "NumberOfAwardsMax": 80
+    },
+    {
+      "Time": "2024-10-15T22:00:20.3257677+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 543,
+      "NumberOfAwardsMax": 81
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 539,
-  "NumberOfAwardsMax": 80,
+  "NumberOfAwards": 543,
+  "NumberOfAwardsMax": 81,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1529,13 +1535,13 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 55
+      "Count": 57
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1962,9 +1968,9 @@
   "FirstSeen": "2024-03-29T12:58:54.8476024+00:00",
   "FirstSeenRating": "2024-05-23T16:57:57.3969802+00:00",
   "FirstSeenAchievements": "2024-04-10T06:01:52.9236989+00:00",
-  "LastChanged": "2024-10-15T04:58:28.7343189+00:00",
+  "LastChanged": "2024-10-15T22:00:20.3257676+00:00",
   "LastChanged_Achievements": "2024-09-14T14:27:09.9606677+00:00",
   "LastUpdate_AppInfo": "2024-10-11T09:57:20.3741941+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:47.7212166+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:00:20.3257682+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:09.9606973+00:00"
 }

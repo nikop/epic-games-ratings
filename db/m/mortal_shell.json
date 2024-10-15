@@ -2,9 +2,9 @@
   "ID": "ff8c96d781824ba1ae62d18d207fc52e",
   "Name": "Mortal Shell",
   "ProductSlug": "mortal-shell",
-  "Ranking_Rating": 1093,
+  "Ranking_Rating": 1094,
   "Ranking_Popularity": 659,
-  "Ranking_PopularitySum": 524,
+  "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1141,10 +1141,16 @@
       "Rating": 4.25,
       "NumberOfAwards": 226,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2024-10-15T21:59:20.0322602+00:00",
+      "Rating": 4.25,
+      "NumberOfAwards": 227,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 226,
+  "NumberOfAwards": 227,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1194,7 +1200,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1214,8 +1220,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-10-08T18:59:07.7206296+00:00",
+  "LastChanged": "2024-10-15T21:59:20.0322601+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:43.368905+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:08.9524865+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:59:20.0322604+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:27.7867356+00:00"
 }

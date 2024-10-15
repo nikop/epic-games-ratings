@@ -1,21 +1,21 @@
 # The Outer Worlds: Spacer's Choice Edition
 [Store](https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition)  
 [View Rawdata](../../db/t/the_outer_worlds__spacer's_choice_edition.json)  
-Rating: 4.49 (Ranked 741)  
+Rating: 4.49 (Ranked 743)  
 ## Awards
-Max (Character Customization): 18,625  (Ranked 32)  
-Sum: 27,615 (Ranked 68)  
+Max (Character Customization): 18,646  (Ranked 32)  
+Sum: 27,640 (Ranked 68)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 18,625 |
+| This game has Inclusive Character Customization | 18,646 |
 | This game is Highly Recommended | 1,101 |
 | This game is Extremely Fun | 1,085 |
 | This game has Amazing Storytelling | 1,075 |
-| This game is Great for Beginners | 1,053 |
+| This game is Great for Beginners | 1,054 |
 | This game has Quickly Understood Controls | 1,045 |
 | This game has Diverse Characters | 1,043 |
-| This game has Amazing Characters | 1,024 |
+| This game has Amazing Characters | 1,027 |
 | This game is Relaxing | 1,001 |
 | This game has Easy Combat | 591 |
 | This game has a Creative Community | 563 |
@@ -424,4 +424,4 @@ Diff (max vs sum): -36
 | 2024-10-12 | 4.49 | 18,573 | 27,530 |
 | 2024-10-13 | 4.49 | 18,602 | 27,570 |
 | 2024-10-14 | 4.49 | 18,625 | 27,600 |
-| 2024-10-15 | 4.49 | 18,625 | 27,615 |
+| 2024-10-15 | 4.49 | 18,646 | 27,640 |

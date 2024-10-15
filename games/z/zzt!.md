@@ -1,7 +1,7 @@
 # ZZT!
 [Store](https://store.epicgames.com/en-US/p/zzt)  
 [View Rawdata](../../db/z/zzt!.json)  
-Rating: 3.85 (Ranked 1,302)  
+Rating: 3.85 (Ranked 1,303)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

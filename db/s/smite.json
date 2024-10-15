@@ -2,7 +2,7 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 932,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 86,
   "Ranking_PopularitySum": 57,
   "Ranking_EOS_Progress": 1263,
@@ -19366,10 +19366,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 34522,
       "NumberOfAwardsMax": 6518
+    },
+    {
+      "Time": "2024-10-15T22:00:17.4669099+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 34535,
+      "NumberOfAwardsMax": 6518
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34522,
+  "NumberOfAwards": 34535,
   "NumberOfAwardsMax": 6518,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -19395,7 +19401,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4484
+      "Count": 4487
     },
     {
       "Text": "This game is Highly Recommended",
@@ -19407,13 +19413,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4028
+      "Count": 4033
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4129
+      "Count": 4131
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -19425,7 +19431,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 3521
+      "Count": 3524
     },
     {
       "Text": "This game has Challenging Combat",
@@ -19445,8 +19451,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2024-10-15T14:59:45.9989581+00:00",
+  "LastChanged": "2024-10-15T22:00:17.4669098+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:08.7634818+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:45.9989587+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:00:17.4669102+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:20.3531961+00:00"
 }

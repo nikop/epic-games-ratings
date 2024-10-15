@@ -2,9 +2,9 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 982,
+  "Ranking_Rating": 983,
   "Ranking_Popularity": 365,
-  "Ranking_PopularitySum": 292,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 513,
   "Ranking_EOS_NewPlayers": 3,
@@ -1415,10 +1415,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1671,
       "NumberOfAwardsMax": 218
+    },
+    {
+      "Time": "2024-10-15T21:57:29.5874677+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1805,
+      "NumberOfAwardsMax": 218
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1671,
+  "NumberOfAwards": 1805,
   "NumberOfAwardsMax": 218,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1468,7 +1474,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 131
+      "Count": 134
     },
     {
       "Text": "This game has Amazing Characters",
@@ -19469,9 +19475,9 @@
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2024-10-05T17:58:46.7330714+00:00",
+  "LastChanged": "2024-10-15T21:57:29.5874676+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:51.5688841+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:23.496699+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:57:59.5548394+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:57:29.5874688+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:51.5689904+00:00"
 }

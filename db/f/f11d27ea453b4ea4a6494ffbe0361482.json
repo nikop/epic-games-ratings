@@ -2,9 +2,9 @@
   "ID": "f11d27ea453b4ea4a6494ffbe0361482",
   "Name": "Sonic Superstars",
   "ProductSlug": "sonic-superstars",
-  "Ranking_Rating": 343,
-  "Ranking_Popularity": 697,
-  "Ranking_PopularitySum": 707,
+  "Ranking_Rating": 342,
+  "Ranking_Popularity": 699,
+  "Ranking_PopularitySum": 708,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -311,6 +311,6 @@
   "FirstSeenRating": "2023-11-06T09:58:53.8502354+00:00",
   "LastChanged": "2024-10-11T16:00:21.4467696+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:17.9803722+00:00",
-  "LastUpdate_Ratings": "2024-10-15T20:57:32.8521999+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:01:24.5944463+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:39.2726933+00:00"
 }

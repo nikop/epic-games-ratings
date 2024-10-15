@@ -2,7 +2,7 @@
   "ID": "jackal",
   "Name": "Dauntless",
   "ProductSlug": "dauntless",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 1263,
@@ -23037,24 +23037,30 @@
       "Rating": 4.53,
       "NumberOfAwards": 92582,
       "NumberOfAwardsMax": 32555
+    },
+    {
+      "Time": "2024-10-15T21:59:29.0004666+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 92639,
+      "NumberOfAwardsMax": 32576
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92582,
-  "NumberOfAwardsMax": 32555,
+  "NumberOfAwards": 92639,
+  "NumberOfAwardsMax": 32576,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 32555
+      "Count": 32576
     },
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 23003
+      "Count": 23014
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -23066,7 +23072,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 5107
+      "Count": 5111
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -23084,25 +23090,25 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5219
+      "Count": 5225
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 6455
+      "Count": 6463
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4986
+      "Count": 4991
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4768
+      "Count": 4770
     },
     {
       "Text": "This game has Diverse Characters",
@@ -23130,9 +23136,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:00.3029746+00:00",
   "FirstSeenAchievements": "2024-10-09T19:02:52.730809+00:00",
-  "LastChanged": "2024-10-15T05:59:56.1388335+00:00",
+  "LastChanged": "2024-10-15T21:59:29.0004664+00:00",
   "LastChanged_Achievements": "2024-10-09T19:02:52.7308029+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:01.1602444+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:14.9600598+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:59:29.0004669+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:52.7308105+00:00"
 }

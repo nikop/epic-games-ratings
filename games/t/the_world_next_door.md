@@ -1,7 +1,7 @@
 # The World Next Door
 [Store](https://store.epicgames.com/en-US/p/the-world-next-door)  
 [View Rawdata](../../db/t/the_world_next_door.json)  
-Rating: 4.07 (Ranked 1,235)  
+Rating: 4.08 (Ranked 1,231)  
 Number of Ratings: 38  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -45,3 +45,4 @@ Number of Ratings: 38  (23.09.2022)
 | 2024-07-20 | 4.09 | - | 0 | 0 |
 | 2024-08-18 | 4.10 | - | 0 | 0 |
 | 2024-10-12 | 4.07 | - | 0 | 0 |
+| 2024-10-15 | 4.08 | - | 0 | 0 |

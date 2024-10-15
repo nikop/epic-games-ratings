@@ -2,7 +2,7 @@
   "ID": "83d6990f16444655866b04be562bf589",
   "Name": "Riders Republic",
   "ProductSlug": "riders-republic",
-  "Ranking_Rating": 192,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 182,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 1263,
@@ -18781,11 +18781,17 @@
       "Rating": 4.74,
       "NumberOfAwards": 12053,
       "NumberOfAwardsMax": 1282
+    },
+    {
+      "Time": "2024-10-15T22:01:00.9713405+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 12059,
+      "NumberOfAwardsMax": 1284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12053,
-  "NumberOfAwardsMax": 1282,
+  "NumberOfAwards": 12059,
+  "NumberOfAwardsMax": 1284,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -18822,13 +18828,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1122
+      "Count": 1123
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1282
+      "Count": 1284
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -18852,13 +18858,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1256
+      "Count": 1258
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1110
+      "Count": 1111
     },
     {
       "Text": "This game has a Creative Community",
@@ -18878,8 +18884,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:50.8722129+00:00",
-  "LastChanged": "2024-10-15T15:00:13.7099292+00:00",
+  "LastChanged": "2024-10-15T22:01:00.9713404+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:16.6524962+00:00",
-  "LastUpdate_Ratings": "2024-10-15T15:00:13.70993+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:01:00.9713407+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:01.2887803+00:00"
 }

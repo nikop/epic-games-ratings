@@ -2,9 +2,9 @@
   "ID": "1faf75ce10534366b99229d1507de1cb",
   "Name": "RENNSPORT",
   "ProductSlug": "rennsport-3776b8",
-  "Ranking_Rating": 1132,
+  "Ranking_Rating": 1124,
   "Ranking_Popularity": 612,
-  "Ranking_PopularitySum": 510,
+  "Ranking_PopularitySum": 507,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2024-07-12T12:00:28.909022+00:00",
@@ -828,10 +828,16 @@
       "Rating": 4.21,
       "NumberOfAwards": 257,
       "NumberOfAwardsMax": 41
+    },
+    {
+      "Time": "2024-10-15T22:00:30.9892871+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 262,
+      "NumberOfAwardsMax": 41
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 257,
+  "NumberOfAwards": 262,
   "NumberOfAwardsMax": 41,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -863,7 +869,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -875,7 +881,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 24
+      "Count": 26
     },
     {
       "Text": "This game has Challenging Combat",
@@ -887,7 +893,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 21
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -902,8 +908,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T13:08:52.5809065+00:00",
   "FirstSeenRating": "2024-07-12T12:00:28.9090218+00:00",
-  "LastChanged": "2024-10-14T17:02:52.8535835+00:00",
+  "LastChanged": "2024-10-15T22:00:30.989287+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:16.5806142+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:54.5774592+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:00:30.9892873+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:10.4091037+00:00"
 }

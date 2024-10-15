@@ -1,12 +1,12 @@
 # Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/tales-from-the-borderlands)  
 [View Rawdata](../../db/t/tales_from_the_borderlands.json)  
-Rating: 4.76 (Ranked 155)  
+Rating: 4.75 (Ranked 170)  
 Number of Ratings: 31  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 25  (Ranked 697)  
-Sum: 25 (Ranked 707)  
-Diff (max vs sum): -10  
+Max (Impact the Story): 25  (Ranked 699)  
+Sum: 25 (Ranked 708)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | In this game, your choices Impact the Story | 25 |
@@ -73,3 +73,4 @@ Diff (max vs sum): -10
 | 2024-10-10 | 4.76 | - | 23 | 23 |
 | 2024-10-12 | 4.75 | - | 25 | 25 |
 | 2024-10-14 | 4.76 | - | 25 | 25 |
+| 2024-10-15 | 4.75 | - | 25 | 25 |

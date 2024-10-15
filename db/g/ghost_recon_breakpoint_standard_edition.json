@@ -2,7 +2,7 @@
   "ID": "2dbd2f64abdc4bbab077424d5c85e01b",
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 583,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 1263,
@@ -20296,10 +20296,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 19624,
       "NumberOfAwardsMax": 2588
+    },
+    {
+      "Time": "2024-10-15T21:58:44.3910742+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 19637,
+      "NumberOfAwardsMax": 2588
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19624,
+  "NumberOfAwards": 19637,
   "NumberOfAwardsMax": 2588,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20307,7 +20313,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2147
+      "Count": 2151
     },
     {
       "Text": "This game is Great for Beginners",
@@ -20325,13 +20331,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2171
+      "Count": 2175
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2308
+      "Count": 2309
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -20361,7 +20367,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1696
+      "Count": 1700
     }
   ],
   "EOS_Progressed": 0,
@@ -20375,8 +20381,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2024-10-14T23:59:24.8458784+00:00",
+  "LastChanged": "2024-10-15T21:58:44.3910741+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:53.9645788+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:58:46.2871538+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:58:44.3910744+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:12.7814809+00:00"
 }

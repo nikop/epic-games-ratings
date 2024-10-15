@@ -2,8 +2,8 @@
   "ID": "8c7ed85dae4341d385919ee4d832eb1a",
   "Name": "Just Die Already",
   "ProductSlug": "just-die-already",
-  "Ranking_Rating": 695,
-  "Ranking_Popularity": 452,
+  "Ranking_Rating": 676,
+  "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "NumberOfRatings": 2280,
   "RatingHistory": [
     {
@@ -2442,6 +2442,12 @@
       "Rating": 4.51,
       "NumberOfAwards": 999,
       "NumberOfAwardsMax": 125
+    },
+    {
+      "Time": "2024-10-15T21:59:34.8087838+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 999,
+      "NumberOfAwardsMax": 125
     }
   ],
   "ReviewsDisabled": false,
@@ -2533,8 +2539,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:50.679277+00:00",
-  "LastChanged": "2024-10-13T20:58:05.5436759+00:00",
+  "LastChanged": "2024-10-15T21:59:34.8087837+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:46.8837628+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:18.5324094+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:59:34.8087841+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:11.5531852+00:00"
 }

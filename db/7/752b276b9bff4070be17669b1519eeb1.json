@@ -2,7 +2,7 @@
   "ID": "752b276b9bff4070be17669b1519eeb1",
   "Name": "Snowbreak Containment Zone",
   "ProductSlug": "snowbreak-containment-zone-abc820",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 1263,
@@ -8231,18 +8231,24 @@
       "Rating": 4.44,
       "NumberOfAwards": 4451,
       "NumberOfAwardsMax": 1208
+    },
+    {
+      "Time": "2024-10-15T21:59:54.8160512+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 4463,
+      "NumberOfAwardsMax": 1216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4451,
-  "NumberOfAwardsMax": 1208,
+  "NumberOfAwards": 4463,
+  "NumberOfAwardsMax": 1216,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1208
+      "Count": 1216
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -8266,7 +8272,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 307
+      "Count": 309
     },
     {
       "Text": "This game has Amazing Characters",
@@ -8278,7 +8284,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 324
+      "Count": 326
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8317,8 +8323,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-25T06:57:36.7654235+00:00",
   "FirstSeenRating": "2023-07-29T23:57:57.5620258+00:00",
-  "LastChanged": "2024-10-15T09:58:58.2222028+00:00",
+  "LastChanged": "2024-10-15T21:59:54.816051+00:00",
   "LastUpdate_AppInfo": "2024-10-12T03:57:12.8410877+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:59:31.3204497+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:59:54.8160514+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:53.6477857+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1256,
+  "Ranking_Rating": 1257,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 107,
@@ -13061,11 +13061,17 @@
       "Rating": 4.01,
       "NumberOfAwards": 30399,
       "NumberOfAwardsMax": 5582
+    },
+    {
+      "Time": "2024-10-15T21:58:56.018579+00:00",
+      "Rating": 4.01,
+      "NumberOfAwards": 30412,
+      "NumberOfAwardsMax": 5587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30399,
-  "NumberOfAwardsMax": 5582,
+  "NumberOfAwards": 30412,
+  "NumberOfAwardsMax": 5587,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -13078,13 +13084,13 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4481
+      "Count": 4483
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5582
+      "Count": 5587
     },
     {
       "Text": "This game has Easy Combat",
@@ -13102,13 +13108,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4298
+      "Count": 4300
     },
     {
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3535
+      "Count": 3539
     },
     {
       "Text": "This game is Highly Recommended",
@@ -44084,9 +44090,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-10-15T07:58:30.143947+00:00",
+  "LastChanged": "2024-10-15T21:58:56.0185789+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:26.7313731+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:55.9864973+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:58:53.4718635+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:58:56.0185793+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:26.7315959+00:00"
 }

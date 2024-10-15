@@ -1,11 +1,11 @@
 # Evoland Legendary Edition
 [Store](https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec)  
 [View Rawdata](../../db/e/evoland_legendary_edition.json)  
-Rating: 4.48 (Ranked 762)  
+Rating: 4.48 (Ranked 763)  
 ## Awards
 Max (Great Boss Battles): 287  (Ranked 325)  
-Sum: 287 (Ranked 496)  
-Diff (max vs sum): -171  
+Sum: 287 (Ranked 497)  
+Diff (max vs sum): -172  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 287 |

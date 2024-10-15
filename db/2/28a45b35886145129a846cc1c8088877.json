@@ -2,8 +2,8 @@
   "ID": "28a45b35886145129a846cc1c8088877",
   "Name": "Mortal Online 2",
   "ProductSlug": "mortal-online-2-d7bb78",
-  "Ranking_Rating": 819,
-  "Ranking_Popularity": 417,
+  "Ranking_Rating": 801,
+  "Ranking_Popularity": 418,
   "Ranking_PopularitySum": 397,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.45,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-12-21T16:59:51.7204837+00:00",
@@ -2759,6 +2759,12 @@
       "Rating": 4.45,
       "NumberOfAwards": 678,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2024-10-15T22:00:58.6197987+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 678,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
@@ -2851,8 +2857,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-11T20:58:55.3583755+00:00",
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
-  "LastChanged": "2024-10-14T20:58:57.3917286+00:00",
+  "LastChanged": "2024-10-15T22:00:58.6197987+00:00",
   "LastUpdate_AppInfo": "2024-10-08T23:57:18.817305+00:00",
-  "LastUpdate_Ratings": "2024-10-15T15:00:12.0891994+00:00",
+  "LastUpdate_Ratings": "2024-10-15T22:00:58.6197991+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:48.412847+00:00"
 }

@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.66 (Ranked 343)  
+Rating: 4.66 (Ranked 342)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -149,8 +149,8 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-09-14 | 3,713 | 0 |
 ## Awards
 Max (Diverse Characters): 33  (Ranked 648)  
-Sum: 292 (Ranked 491)  
-Diff (max vs sum): 157  
+Sum: 292 (Ranked 492)  
+Diff (max vs sum): 156  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 33 |

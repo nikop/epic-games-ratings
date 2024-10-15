@@ -2,7 +2,7 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 171,
+  "Ranking_Rating": 170,
   "Ranking_Popularity": 31,
   "Ranking_PopularitySum": 22,
   "Ranking_EOS_Progress": 1263,
@@ -25357,10 +25357,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 120118,
       "NumberOfAwardsMax": 19067
+    },
+    {
+      "Time": "2024-10-15T21:58:20.5115954+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 120146,
+      "NumberOfAwardsMax": 19067
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 120118,
+  "NumberOfAwards": 120146,
   "NumberOfAwardsMax": 19067,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -25380,7 +25386,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 14142
+      "Count": 14147
     },
     {
       "Text": "This game is Great for Beginners",
@@ -25392,7 +25398,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 14365
+      "Count": 14370
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -25404,13 +25410,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 12898
+      "Count": 12906
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 10792
+      "Count": 10802
     },
     {
       "Text": "This game has Amazing Characters",
@@ -25436,8 +25442,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-10-15T14:58:31.3378037+00:00",
+  "LastChanged": "2024-10-15T21:58:20.5115953+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:45.8200737+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:58:31.3378044+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:58:20.5115958+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:10.7610729+00:00"
 }

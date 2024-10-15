@@ -23491,24 +23491,30 @@
       "Rating": 4.72,
       "NumberOfAwards": 340967,
       "NumberOfAwardsMax": 69519
+    },
+    {
+      "Time": "2024-10-15T21:58:47.8756192+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 341412,
+      "NumberOfAwardsMax": 69613
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340967,
-  "NumberOfAwardsMax": 69519,
+  "NumberOfAwards": 341412,
+  "NumberOfAwardsMax": 69613,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 69519
+      "Count": 69613
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 25609
+      "Count": 25677
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -23520,19 +23526,19 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 37021
+      "Count": 37107
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 34742
+      "Count": 34812
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 25454
+      "Count": 25494
     },
     {
       "Text": "This game is Extremely Fun",
@@ -23550,13 +23556,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 19106
+      "Count": 19144
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 19555
+      "Count": 19604
     },
     {
       "Text": "This game has Amazing Characters",
@@ -23583,8 +23589,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-10-15T13:17:21.0536884+00:00",
+  "LastChanged": "2024-10-15T21:58:47.875619+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:32.335131+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:58:48.5110833+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:58:47.8756195+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:53.7667848+00:00"
 }
