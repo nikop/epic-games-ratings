@@ -4,7 +4,7 @@
   "ProductSlug": "darkwood-fa73bd",
   "Ranking_Rating": 440,
   "Ranking_Popularity": 304,
-  "Ranking_PopularitySum": 236,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1812,10 +1812,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 2676,
       "NumberOfAwardsMax": 353
+    },
+    {
+      "Time": "2024-10-15T02:13:01.0064131+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 2677,
+      "NumberOfAwardsMax": 353
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2676,
+  "NumberOfAwards": 2677,
   "NumberOfAwardsMax": 353,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1859,7 +1865,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 295
+      "Count": 296
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1892,8 +1898,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-13T18:04:06.1897035+00:00",
   "FirstSeenRating": "2022-10-14T04:32:25.5553197+00:00",
-  "LastChanged": "2024-10-14T02:13:53.1891869+00:00",
+  "LastChanged": "2024-10-15T02:13:01.0064129+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:24.112939+00:00",
-  "LastUpdate_Ratings": "2024-10-14T22:59:59.8474476+00:00",
+  "LastUpdate_Ratings": "2024-10-15T02:13:01.0064134+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:18.8402149+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-origins",
   "Ranking_Rating": 563,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 519,
+  "Ranking_PopularitySum": 518,
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 125,
   "Ranking_EOS_NewPlayers": 3,
@@ -528,10 +528,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 237,
       "NumberOfAwardsMax": 152
+    },
+    {
+      "Time": "2024-10-15T02:13:37.2739154+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 152
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 237,
+  "NumberOfAwards": 238,
   "NumberOfAwardsMax": 152,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -545,7 +551,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 20
+      "Count": 21
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3777,9 +3783,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
-  "LastChanged": "2024-10-11T19:59:36.1264211+00:00",
+  "LastChanged": "2024-10-15T02:13:37.2739152+00:00",
   "LastChanged_Achievements": "2024-10-09T19:04:04.1416779+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:44.9497284+00:00",
-  "LastUpdate_Ratings": "2024-10-14T23:00:36.0904258+00:00",
+  "LastUpdate_Ratings": "2024-10-15T02:13:37.2739156+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:04.1417152+00:00"
 }

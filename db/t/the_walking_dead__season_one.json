@@ -2,7 +2,7 @@
   "ID": "bloodroot",
   "Name": "The Walking Dead: Season One",
   "ProductSlug": "walking-dead-season-one",
-  "Ranking_Rating": 115,
+  "Ranking_Rating": 116,
   "Ranking_Popularity": 597,
   "Ranking_PopularitySum": 662,
   "Ranking_EOS_Progress": 1263,
@@ -503,6 +503,6 @@
   "FirstSeen": "2022-07-22T20:18:47.8231949+00:00",
   "LastChanged": "2024-10-12T20:58:47.7276353+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:16.9143911+00:00",
-  "LastUpdate_Ratings": "2024-10-14T22:58:26.4200976+00:00",
+  "LastUpdate_Ratings": "2024-10-15T02:11:27.6052827+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:04.039464+00:00"
 }
