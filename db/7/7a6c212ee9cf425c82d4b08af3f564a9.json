@@ -4,7 +4,7 @@
   "ProductSlug": "the-walking-dead-no-mans-land-d3b769",
   "Ranking_Rating": 1070,
   "Ranking_Popularity": 299,
-  "Ranking_PopularitySum": 265,
+  "Ranking_PopularitySum": 263,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 563,
   "Ranking_EOS_NewPlayers": 3,
@@ -4631,10 +4631,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 2014,
       "NumberOfAwardsMax": 382
+    },
+    {
+      "Time": "2024-10-15T05:00:26.043352+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 2026,
+      "NumberOfAwardsMax": 382
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2014,
+  "NumberOfAwards": 2026,
   "NumberOfAwardsMax": 382,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4660,7 +4666,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 237
+      "Count": 240
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4678,7 +4684,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 215
+      "Count": 222
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4696,7 +4702,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 188
+      "Count": 190
     }
   ],
   "EOS_Progressed": 89497,
@@ -7402,9 +7408,9 @@
   "FirstSeen": "2024-01-10T09:57:12.7833182+00:00",
   "FirstSeenRating": "2024-01-14T22:59:40.5405563+00:00",
   "FirstSeenAchievements": "2024-01-10T10:04:20.1419386+00:00",
-  "LastChanged": "2024-10-14T17:59:00.3654662+00:00",
+  "LastChanged": "2024-10-15T05:00:26.0433518+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:46.6247272+00:00",
   "LastUpdate_AppInfo": "2024-10-10T09:57:18.7518695+00:00",
-  "LastUpdate_Ratings": "2024-10-15T03:57:07.1492074+00:00",
+  "LastUpdate_Ratings": "2024-10-15T05:00:26.0433524+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:46.624802+00:00"
 }
