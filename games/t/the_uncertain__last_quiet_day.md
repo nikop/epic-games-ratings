@@ -1,7 +1,7 @@
 # The Uncertain: Last Quiet Day
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-last-quiet-day)  
 [View Rawdata](../../db/t/the_uncertain__last_quiet_day.json)  
-Rating: 3.75 (Ranked 1,315)  
+Rating: 3.67 (Ranked 1,323)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -212,3 +212,4 @@ Completed: 22 (2.85%) (Ranked 193)
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-03-31 | - | 0 | 0 |
 | 2023-12-08 | 3.75 | 0 | 0 |
+| 2024-10-15 | 3.67 | 0 | 0 |

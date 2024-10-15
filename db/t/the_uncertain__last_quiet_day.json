@@ -2,7 +2,7 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_Rating": 1315,
+  "Ranking_Rating": 1323,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 447,
@@ -22,7 +22,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.75,
+  "Rating": 3.67,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:48.84438+00:00",
@@ -33,6 +33,12 @@
     {
       "Time": "2023-12-08T04:01:04.3643056+00:00",
       "Rating": 3.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T07:57:25.7314757+00:00",
+      "Rating": 3.67,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1524,9 +1530,9 @@
   "FirstSeen": "2022-07-22T20:33:10.5332764+00:00",
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
-  "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
+  "LastChanged": "2024-10-15T07:57:25.7314754+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:04.1331945+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:20.5272695+00:00",
-  "LastUpdate_Ratings": "2024-10-15T05:58:33.2239308+00:00",
+  "LastUpdate_Ratings": "2024-10-15T07:57:25.7314761+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:04.1332168+00:00"
 }
