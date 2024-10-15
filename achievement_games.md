@@ -703,7 +703,7 @@
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-08-29 | 46 (1,000 XP) | 175 | - | 0 |
 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 2023-08-24 | 46 (1,000 XP) | 3,863 | 4.83 | 84 |
 | [GINSHA](games/f/f63608bdb9234e0cbfb6d7f81e96d33c.md) | 2023-08-24 | 23 (1,000 XP) | 12 | - | 0 |
-| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 378,254 | 4.42 | 49 |
+| [Homeworld: Deserts of Kharak](games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 2023-08-24 | 48 (1,440 XP) | 378,254 | 4.42 | 50 |
 | [Little Brother Jim](games/e/e0ae558efb3d42f9bd62184665286d3b.md) | 2023-08-24 | 5 (1,000 XP) | 0 | - | - |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 49 (1,000 XP) | 11,313 | 4.68 | 35 |
 | [Dust Fleet](games/d/dust_fleet.md) | 2023-08-23 | 41 (1,000 XP) | 0 | - | 0 |
@@ -834,7 +834,7 @@
 | [Battle Ram](games/b/battle_ram.md) | 2023-06-04 | 21 (1,000 XP) | 330 | - | 0 |
 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 2023-06-02 | 26 (1,000 XP) | 179 | - | 0 |
 | [Poi](games/p/poi.md) | 2023-06-01 | 25 (1,000 XP) | 2 | - | 0 |
-| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 1,147,956 | 4.68 | 16,796 |
+| [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 2023-06-01 | 75 (1,655 XP) | 1,147,956 | 4.68 | 16,816 |
 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 2023-06-01 | 42 (1,000 XP) | 1,362,488 | 4.32 | 146 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 24 (1,000 XP) | 715 | - | 0 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 23 (1,000 XP) | 24 | - | 0 |
@@ -922,7 +922,7 @@
 | [Island Cities](games/i/island_cities.md) | 2023-04-27 | 22 (1,000 XP) | 1,110 | - | 0 |
 | [EBOLA 3](games/e/ebola_3.md) | 2023-04-26 | 50 (1,000 XP) | 1,026 | - | 0 |
 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 2,725 | - | 0 |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 118,579 | 3.76 | 1,287 |
+| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 75 (1,000 XP) | 118,579 | 3.76 | 1,293 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 15 (1,000 XP) | 100 | - | 0 |
 | [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 57 (1,300 XP) | 1,030,222 | 4.54 | 17,247 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 10 (1,000 XP) | 9 | - | - |
@@ -1000,7 +1000,7 @@
 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 2023-02-15 | 34 (1,000 XP) | 20,126 | 4.53 | 34 |
 | [Blanc](games/b/blanc.md) | 2023-02-14 | 13 (1,000 XP) | 7,123 | - | 0 |
 | [Ten Dates](games/t/ten_dates.md) | 2023-02-14 | 19 (1,000 XP) | 902 | - | 0 |
-| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 445,246 | 4.73 | 44,766 |
+| [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 2023-02-10 | 45 (1,000 XP) | 445,246 | 4.73 | 44,796 |
 | [SpellForce: Conquest of Eo](games/s/spellforce__conquest_of_eo.md) | 2023-02-03 | 70 (1,000 XP) | 314 | 4.55 | 0 |
 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 2023-02-02 | 33 (1,000 XP) | 111,933 | 4.15 | 0 |
 | [PERISH](games/p/perish.md) | 2023-02-02 | 63 (1,000 XP) | 5,042 | - | 0 |
@@ -1148,7 +1148,7 @@
 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 2022-06-23 | 22 (1,000 XP) | 49,011 | 4.21 | 135 |
 | [Sonic Origins](games/s/sonic_origins.md) | 2022-06-23 | 35 (1,000 XP) | 1,059 | 4.57 | 152 |
 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 2022-06-23 | 49 (1,000 XP) | 298 | 4.44 | 0 |
-| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 41,125,112 | 4.50 | 168,376 |
+| [Fall Guys](games/f/fall_guys.md) | 2022-06-21 | 34 (1,000 XP) | 41,125,112 | 4.50 | 168,429 |
 | [Redout 2](games/r/redout_2.md) | 2022-06-16 | 52 (1,000 XP) | 156,622 | 4.54 | 40 |
 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 2022-06-15 | 127 (2,915 XP) | 8,217 | - | - |
 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 2022-06-15 | 53 (1,000 XP) | 2,960 | 4.74 | 121 |
@@ -1251,7 +1251,7 @@
 | [The Surge](games/t/the_surge.md) | 2021-09-23 | 67 (1,000 XP) | 6,835 | 4.39 | 45 |
 | [Sable](games/s/sable.md) | 2021-09-23 | 56 (1,000 XP) | 134,368 | 4.53 | 40 |
 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 2021-09-21 | 41 (1,000 XP) | 433,336 | 4.70 | 1,435 |
-| [Severed Steel](games/s/severed_steel.md) | 2021-09-17 | 52 (1,000 XP) | 684,847 | 4.69 | 757 |
+| [Severed Steel](games/s/severed_steel.md) | 2021-09-17 | 52 (1,000 XP) | 684,847 | 4.69 | 758 |
 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 2021-09-16 | 52 (1,000 XP) | 271,748 | 4.27 | 128 |
 | [Flat Heroes](games/f/flat_heroes.md) | 2021-09-15 | 44 (1,000 XP) | 761 | - | 0 |
 | [Dice Legacy](games/d/dice_legacy.md) | 2021-09-09 | 45 (1,000 XP) | 1,635 | 4.32 | 0 |
