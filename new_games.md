@@ -9,7 +9,7 @@
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | - |  | - | 0 |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-11 | - |  | - | - |
 | [Control](games/0/0d36d28dad0942d8be178cb68f6793af.md) | 2024-10-10 | - |  | - | - |
-| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.66 | 0 |
+| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.67 | 0 |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | - |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,343 | 4.31 | 47 |
@@ -20,7 +20,7 @@
 | [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2024-10-06 | - |  | - | - |
 | [Street Defenders](games/2/2c6272c2f5544728a5759ffe13525564.md) | 2024-10-05 | - |  | - | - |
 | [DarkManor](games/1/187a0616d5b94effbd275f7e8b76997f.md) | 2024-10-05 | - |  | - | - |
-| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.19 | 0 |
+| [WW2 Frontline 1942](games/1/1b92595510534ffa90b05dbe921e51e2.md) | 2024-10-04 | - |  | 4.09 | 0 |
 | [Shardbound](games/5/5cd621af9209477aaa704ce6ccb4585c.md) | 2024-10-04 | - |  | - | 0 |
 | [Potion Tycoon](games/b/bb556387682d4fc3b7b4a5c8760a7cca.md) | 2024-10-04 | - |  | - | 0 |
 | [Under The Thorns](games/c/cc3295be53984ee1a3658d98c6305d81.md) | 2024-10-04 | - |  | - | 0 |
@@ -67,7 +67,7 @@
 | [Looney Tunes: Wacky World of Sports](games/9/9f496f3ce2cc4a25b4e16d262c215f19.md) | 2024-09-27 | - |  | - | 0 |
 | [DroneClash](games/e/e738fe9456c148babf669629bb50a6cc.md) | 2024-09-27 | - |  | - | 0 |
 | [BeamNG.drive](games/4/4e53f148899a4565bded9d485880203e.md) | 2024-09-27 | 5 (1,000 XP) | 1,140 | 4.74 | 0 |
-| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.18 | 220 |
+| [EA SPORTS FC™ 25 Standard Edition](games/b/b61e8ddd14e94619b7a74cf9d73f86b5.md) | 2024-09-27 | - |  | 4.18 | 237 |
 | [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 3 | - | 0 |
 | [Fossil Skater](games/3/3af2265021d7463ca94cf411dacb0c13.md) | 2024-09-26 | - |  | - | 0 |
 | [Breachway](games/b/breachway.md) | 2024-09-26 | - |  | - | 0 |
@@ -85,7 +85,7 @@
 | [Idle Saga](games/a/a6ffde51073c496991fe89f3497d4cb1.md) | 2024-09-25 | - |  | - | 0 |
 | [Ductz](games/1/10a2adbb3abf4533a5009de9b44c2f93.md) | 2024-09-25 | - |  | - | - |
 | [Everdawn: Champions](games/f/f130d806abdc4c64b893307665318eaf.md) | 2024-09-25 | - |  | - | 0 |
-| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | 4.30 | 44 |
+| [The Forever Winter](games/a/a482505de9174374943604102e61972e.md) | 2024-09-24 | - |  | 4.27 | 44 |
 | [Beyond Galaxyland](games/5/561ff6b1f6ba4e359dfc625134d4f806.md) | 2024-09-24 | - |  | - | 0 |
 | [Zoo 2 Animal Park](games/d/d1f3026321264e2395699cd48ca3f346.md) | 2024-09-24 | - |  | - | 0 |
 | [Anarkade](games/b/b249551ce1c84c6fbbe5b77adfe443cf.md) | 2024-09-23 | - |  | - | - |
@@ -94,7 +94,7 @@
 | [MY LOVE WITH THE GIRLSGROUP](games/7/7cd735732c34491d9495144871c57d06.md) | 2024-09-23 | - |  | - | 0 |
 | [atika the blue quest](games/1/1340819c40e9493e9b827e6ff55a2aaf.md) | 2024-09-23 | - |  | - | - |
 | [Heroes of Latera](games/e/ef58f7e6ac8648a99de895f5e571d9e7.md) | 2024-09-22 | 11 (1,000 XP) | 0 | - | 0 |
-| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | 4.62 | 0 |
+| [Frostpunk 2](games/f/frostpunk_2.md) | 2024-09-20 | - |  | 4.61 | 0 |
 | [The Karate Kid Street Rumble](games/9/945620b4eca746e0991d17d4ea450d6a.md) | 2024-09-20 | 47 (1,000 XP) | 8 | - | - |
 | [CRISIS Command](games/4/453d65c8f12b4acaa2512031bc1d9ca6.md) | 2024-09-20 | - |  | - | - |
 | [Welcome to Empyreum](games/0/0e99a89594bc46d9a1aa600264b821e8.md) | 2024-09-20 | 36 (1,000 XP) | 5 | - | 0 |
@@ -110,7 +110,7 @@
 | [City of Graves](games/8/822ebd51d45941ab945ccd4b124938c2.md) | 2024-09-18 | - |  | - | 0 |
 | [Forgotten Bunker 1939](games/c/c7d05124d88241318dc8ff91c482e561.md) | 2024-09-18 | - |  | - | - |
 | [Seed of Heroes](games/0/0e55c16d6a89449c91646b3add220079.md) | 2024-09-17 | - |  | - | 0 |
-| [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.30 | 62 |
+| [Train Sim World® 5: Standard Edition](games/6/65ebb4f95d5845bba92b300f21235d1a.md) | 2024-09-17 | 39 (1,400 XP) | 189 | 4.28 | 62 |
 | [FINAL FANTASY XVI](games/8/845587cb91e54ce6b682d4c9975c8b07.md) | 2024-09-17 | 69 (1,095 XP) | 532 | 4.70 | 310 |
 | [Verse World](games/b/b73c0f22d0ab4804a0b9be047aba6a62.md) | 2024-09-16 | - |  | - | - |
 | [Hands of Necromancy II](games/4/4bbdc84ecd234d5d8d94b8a350ad17c0.md) | 2024-09-16 | - |  | - | - |
