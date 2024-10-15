@@ -2,7 +2,7 @@
   "ID": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
   "Name": "Pathway",
   "ProductSlug": "pathway",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 859,
   "Ranking_Popularity": 735,
   "Ranking_PopularitySum": 735,
   "Ranking_EOS_Progress": 1263,
@@ -612,6 +612,6 @@
   "FirstSeen": "2022-07-22T20:28:48.5183295+00:00",
   "LastChanged": "2024-10-01T10:00:18.2695327+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:29.7562798+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:59:05.3707407+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:58:23.6769696+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:21.9001984+00:00"
 }

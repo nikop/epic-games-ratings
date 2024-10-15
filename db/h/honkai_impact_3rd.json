@@ -2,7 +2,7 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 787,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 1263,
@@ -19630,10 +19630,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 18639,
       "NumberOfAwardsMax": 4672
+    },
+    {
+      "Time": "2024-10-15T20:58:03.5300652+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 18654,
+      "NumberOfAwardsMax": 4672
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18639,
+  "NumberOfAwards": 18654,
   "NumberOfAwardsMax": 4672,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -19647,13 +19653,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3566
+      "Count": 3570
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1251
+      "Count": 1252
     },
     {
       "Text": "This game is Highly Recommended",
@@ -19665,13 +19671,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 847
+      "Count": 849
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 974
+      "Count": 977
     },
     {
       "Text": "This game has Challenging Combat",
@@ -19701,7 +19707,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1044
+      "Count": 1047
     },
     {
       "Text": "This game has a Kind Community",
@@ -19719,7 +19725,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 1282
+      "Count": 1284
     }
   ],
   "EOS_Progressed": 0,
@@ -19734,8 +19740,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2024-10-15T13:58:45.3703281+00:00",
+  "LastChanged": "2024-10-15T20:58:03.5300651+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:17.1918183+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:58:45.3703287+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:58:03.5300655+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:39.5216405+00:00"
 }

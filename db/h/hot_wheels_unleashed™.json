@@ -2,7 +2,7 @@
   "ID": "71e6bd85af1841f598526da595f22a62",
   "Name": "HOT WHEELS UNLEASHED\u2122",
   "ProductSlug": "hot-wheels-unleashed",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 1263,
@@ -891,10 +891,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 379,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2024-10-15T20:58:54.9779595+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 380,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 379,
+  "NumberOfAwards": 380,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -950,7 +956,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has a Creative Community",
@@ -990,9 +996,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
   "FirstSeenAchievements": "2023-10-25T15:04:44.0813586+00:00",
-  "LastChanged": "2024-10-14T08:58:51.6537111+00:00",
+  "LastChanged": "2024-10-15T20:58:54.9779593+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:54.4150728+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:11.2663017+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:59:37.1090212+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:58:54.9779599+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:54.4150758+00:00"
 }

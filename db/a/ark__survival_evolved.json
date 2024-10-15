@@ -2,7 +2,7 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 12,
   "Ranking_PopularitySum": 14,
   "Ranking_EOS_Progress": 1263,
@@ -28230,10 +28230,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 312909,
       "NumberOfAwardsMax": 73918
+    },
+    {
+      "Time": "2024-10-15T20:58:42.093473+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 312944,
+      "NumberOfAwardsMax": 73918
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 312909,
+  "NumberOfAwards": 312944,
   "NumberOfAwardsMax": 73918,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -28259,13 +28265,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 23672
+      "Count": 23677
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 24033
+      "Count": 24037
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -28283,7 +28289,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 22297
+      "Count": 22302
     },
     {
       "Text": "This game has Amazing Characters",
@@ -28295,13 +28301,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 22060
+      "Count": 22071
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 28118
+      "Count": 28128
     },
     {
       "Text": "This game is Relaxing",
@@ -28321,8 +28327,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2024-10-15T13:59:23.5016555+00:00",
+  "LastChanged": "2024-10-15T20:58:42.0934728+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:23.9517237+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:59:23.501656+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:58:42.0934735+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:32.7637383+00:00"
 }

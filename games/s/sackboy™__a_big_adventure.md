@@ -1,16 +1,16 @@
 # Sackboy™: A Big Adventure
 [Store](https://store.epicgames.com/en-US/p/sackboy-a-big-adventure)  
 [View Rawdata](../../db/s/sackboy™__a_big_adventure.json)  
-Rating: 4.75 (Ranked 172)  
+Rating: 4.75 (Ranked 171)  
 ## Awards
 Max (Great for Beginners): 33  (Ranked 648)  
-Sum: 220 (Ranked 527)  
+Sum: 221 (Ranked 527)  
 Diff (max vs sum): 121  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 33 |
 | This game is Great for Quick Sessions | 31 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game is Extremely Fun | 29 |
 | This game has Diverse Characters | 26 |
 | This game has Quickly Understood Controls | 26 |
@@ -157,3 +157,4 @@ Diff (max vs sum): 121
 | 2024-09-22 | 4.76 | 33 | 219 |
 | 2024-09-24 | 4.75 | 33 | 219 |
 | 2024-10-14 | 4.75 | 33 | 220 |
+| 2024-10-15 | 4.75 | 33 | 221 |

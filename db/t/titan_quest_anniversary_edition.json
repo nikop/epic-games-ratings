@@ -4,7 +4,7 @@
   "ProductSlug": "titan-quest",
   "Ranking_Rating": 280,
   "Ranking_Popularity": 428,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 456,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -1249,10 +1249,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 389,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-10-15T20:58:27.4152589+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 390,
+      "NumberOfAwardsMax": 145
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 389,
+  "NumberOfAwards": 390,
   "NumberOfAwardsMax": 145,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1272,7 +1278,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1322,8 +1328,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2024-10-14T12:00:06.8361848+00:00",
+  "LastChanged": "2024-10-15T20:58:27.4152587+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:21.715863+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:59:08.9213788+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:58:27.4152592+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:38.2459869+00:00"
 }

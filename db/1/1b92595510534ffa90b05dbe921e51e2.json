@@ -2,7 +2,7 @@
   "ID": "1b92595510534ffa90b05dbe921e51e2",
   "Name": "WW2 Frontline 1942",
   "ProductSlug": "ww2-frontline-1942-96fe8f",
-  "Ranking_Rating": 1151,
+  "Ranking_Rating": 1225,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.09,
   "RatingHistory": [
     {
       "Time": "2024-10-10T19:57:56.9621575+00:00",
@@ -53,6 +53,12 @@
       "Rating": 4.19,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T20:57:27.3884861+00:00",
+      "Rating": 4.09,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -71,7 +77,7 @@
   "AchievementSets": [],
   "FirstSeen": "2024-10-05T05:59:44.1993936+00:00",
   "FirstSeenRating": "2024-10-10T19:57:56.9621572+00:00",
-  "LastChanged": "2024-10-14T18:59:43.7761756+00:00",
+  "LastChanged": "2024-10-15T20:57:27.388486+00:00",
   "LastUpdate_AppInfo": "2024-10-11T20:57:40.4963499+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:58:08.9754102+00:00"
+  "LastUpdate_Ratings": "2024-10-15T20:57:27.3884865+00:00"
 }

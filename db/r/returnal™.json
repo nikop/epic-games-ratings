@@ -2,7 +2,7 @@
   "ID": "4c461792757541e99c4a16c00834c956",
   "Name": "Returnal\u2122",
   "ProductSlug": "returnal",
-  "Ranking_Rating": 542,
+  "Ranking_Rating": 541,
   "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 434,
   "Ranking_EOS_Progress": 1263,
@@ -1713,10 +1713,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 454,
       "NumberOfAwardsMax": 258
+    },
+    {
+      "Time": "2024-10-15T20:59:18.042524+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 258
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 258,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1730,7 +1736,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1781,8 +1787,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-15T19:57:17.063924+00:00",
   "FirstSeenRating": "2023-02-22T19:57:26.9994266+00:00",
-  "LastChanged": "2024-10-12T03:59:27.3131522+00:00",
+  "LastChanged": "2024-10-15T20:59:18.0425239+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:36.8173496+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:00:00.8931649+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:59:18.0425245+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:59.9364381+00:00"
 }

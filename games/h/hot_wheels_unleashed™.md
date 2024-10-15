@@ -1,11 +1,11 @@
 # HOT WHEELS UNLEASHED™
 [Store](https://store.epicgames.com/en-US/p/hot-wheels-unleashed)  
 [View Rawdata](../../db/h/hot_wheels_unleashed™.json)  
-Rating: 4.59 (Ranked 519)  
+Rating: 4.59 (Ranked 520)  
 Number of Ratings: 312  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 47  (Ranked 588)  
-Sum: 379 (Ranked 461)  
+Sum: 380 (Ranked 461)  
 Diff (max vs sum): 127  
 | Award | Count |
 | ----- | ----- |
@@ -17,8 +17,8 @@ Diff (max vs sum): 127
 | This game has Amazing Storytelling | 37 |
 | This game has Amazing Characters | 35 |
 | This game is Relaxing | 35 |
+| This game has Competitive Players | 32 |
 | This game has a Creative Community | 32 |
-| This game has Competitive Players | 31 |
 | This game is Highly Recommended | 27 |
 | This game has Challenging Combat | 21 |
 ## Ratings History
@@ -160,3 +160,4 @@ Diff (max vs sum): 127
 | 2024-10-12 | 4.58 | - | 47 | 410 |
 | 2024-10-13 | 4.58 | - | 47 | 411 |
 | 2024-10-14 | 4.59 | - | 47 | 379 |
+| 2024-10-15 | 4.59 | - | 47 | 380 |

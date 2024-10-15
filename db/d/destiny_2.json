@@ -2,7 +2,7 @@
   "ID": "428115def4ca4deea9d69c99c5a5a99e",
   "Name": "Destiny 2",
   "ProductSlug": "destiny-2",
-  "Ranking_Rating": 840,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 11,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 9,
@@ -23374,24 +23374,30 @@
       "Rating": 4.44,
       "NumberOfAwards": 212305,
       "NumberOfAwardsMax": 86210
+    },
+    {
+      "Time": "2024-10-15T20:58:56.1766343+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 212479,
+      "NumberOfAwardsMax": 86279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 212305,
-  "NumberOfAwardsMax": 86210,
+  "NumberOfAwards": 212479,
+  "NumberOfAwardsMax": 86279,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 86210
+      "Count": 86279
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 16607
+      "Count": 16624
     },
     {
       "Text": "This game is Highly Recommended",
@@ -23415,19 +23421,19 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22988
+      "Count": 23008
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 16794
+      "Count": 16814
     },
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 15881
+      "Count": 15906
     },
     {
       "Text": "This game has Competitive Players",
@@ -23445,7 +23451,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 18774
+      "Count": 18797
     }
   ],
   "EOS_Progressed": 1712101,
@@ -56220,9 +56226,9 @@
   "FirstSeen": "2022-08-23T20:00:58.6908762+00:00",
   "FirstSeenRating": "2022-08-24T03:30:20.9735605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:52.6483728+00:00",
-  "LastChanged": "2024-10-15T13:15:10.1438857+00:00",
+  "LastChanged": "2024-10-15T20:58:56.1766342+00:00",
   "LastChanged_Achievements": "2024-10-09T19:05:29.5194805+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:31.3370027+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:59:38.3655218+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:58:56.1766348+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:05:29.5196575+00:00"
 }

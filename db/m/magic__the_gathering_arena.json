@@ -2,7 +2,7 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 801,
+  "Ranking_Rating": 800,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 1263,
@@ -27878,10 +27878,16 @@
       "Rating": 4.46,
       "NumberOfAwards": 132311,
       "NumberOfAwardsMax": 17906
+    },
+    {
+      "Time": "2024-10-15T20:57:42.3891+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 132379,
+      "NumberOfAwardsMax": 17906
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 132311,
+  "NumberOfAwards": 132379,
   "NumberOfAwardsMax": 17906,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -27907,13 +27913,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 13671
+      "Count": 13693
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 12025
+      "Count": 12045
     },
     {
       "Text": "This game has Diverse Characters",
@@ -27925,7 +27931,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 11642
+      "Count": 11659
     },
     {
       "Text": "This game has Challenging Combat",
@@ -27949,7 +27955,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 8706
+      "Count": 8715
     }
   ],
   "EOS_Progressed": 0,
@@ -27963,8 +27969,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-10-15T13:58:24.1184633+00:00",
+  "LastChanged": "2024-10-15T20:57:42.3890998+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:20.7185781+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:58:24.1184638+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:57:42.3891005+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:32.7309528+00:00"
 }

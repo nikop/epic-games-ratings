@@ -1,7 +1,7 @@
 # Destiny 2
 [Store](https://store.epicgames.com/en-US/p/destiny-2)  
 [View Rawdata](../../db/d/destiny_2.json)  
-Rating: 4.44 (Ranked 840)  
+Rating: 4.44 (Ranked 838)  
 Number of Ratings: 32,207  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -322,20 +322,20 @@ Completed: 61,178 (3.57%) (Ranked 170)
 | 2024-09-14 | 1,699,069 | 60,159 |
 | 2024-10-09 | 1,712,101 | 61,178 |
 ## Awards
-Max (Great Boss Battles): 86,210  (Ranked 11)  
-Sum: 212,305 (Ranked 15)  
+Max (Great Boss Battles): 86,279  (Ranked 11)  
+Sum: 212,479 (Ranked 15)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 86,210 |
-| This game has Diverse Characters | 22,988 |
-| This game has Challenging Combat | 18,774 |
+| This game has Great Boss Battles | 86,279 |
+| This game has Diverse Characters | 23,008 |
+| This game has Challenging Combat | 18,797 |
 | This game is Highly Recommended | 18,353 |
-| This game has Amazing Characters | 16,794 |
+| This game has Amazing Characters | 16,814 |
 | This game has Amazing Storytelling | 16,698 |
-| This game is Extremely Fun | 16,607 |
+| This game is Extremely Fun | 16,624 |
 | This game has Competitive Players | 16,087 |
-| This game has Quickly Understood Controls | 15,881 |
+| This game has Quickly Understood Controls | 15,906 |
 | This game is Relaxing | 8,842 |
 | This game has Obsessive Gameplay | 3,329 |
 ## Ratings History
@@ -957,4 +957,4 @@ Diff (max vs sum): -4
 | 2024-10-12 | 4.44 | - | 86,107 | 211,891 |
 | 2024-10-13 | 4.44 | - | 86,161 | 212,101 |
 | 2024-10-14 | 4.44 | - | 86,210 | 228,379 |
-| 2024-10-15 | 4.44 | - | 86,210 | 228,392 |
+| 2024-10-15 | 4.44 | - | 86,279 | 228,392 |

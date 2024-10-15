@@ -2,7 +2,7 @@
   "ID": "6827387b744d4a46bd70ea8a145e595b",
   "Name": "Zenless Zone Zero",
   "ProductSlug": "zenless-zone-zero-c7c151",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 24,
   "Ranking_PopularitySum": 26,
   "Ranking_EOS_Progress": 1263,
@@ -4547,18 +4547,24 @@
       "Rating": 4.56,
       "NumberOfAwards": 94042,
       "NumberOfAwardsMax": 26431
+    },
+    {
+      "Time": "2024-10-15T21:00:02.8091206+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 94354,
+      "NumberOfAwardsMax": 26527
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 94042,
-  "NumberOfAwardsMax": 26431,
+  "NumberOfAwards": 94354,
+  "NumberOfAwardsMax": 26527,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 26431
+      "Count": 26527
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -4570,13 +4576,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4531
+      "Count": 4561
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5213
+      "Count": 5277
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -4600,7 +4606,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5387
+      "Count": 5454
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4624,7 +4630,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4439
+      "Count": 4494
     },
     {
       "Text": "This game has a Creative Community",
@@ -4645,8 +4651,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-02T05:00:17.6368903+00:00",
   "FirstSeenRating": "2024-07-03T05:57:28.537094+00:00",
-  "LastChanged": "2024-10-15T14:57:42.2105973+00:00",
+  "LastChanged": "2024-10-15T21:00:02.8091205+00:00",
   "LastUpdate_AppInfo": "2024-10-15T04:57:06.0795379+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:57:42.2105979+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:00:02.8091209+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:33.570386+00:00"
 }

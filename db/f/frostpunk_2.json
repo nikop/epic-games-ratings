@@ -2,7 +2,7 @@
   "ID": "32bc7c6aaecd40eeb5f58bb83dba1c05",
   "Name": "Frostpunk 2",
   "ProductSlug": "frostpunk-2",
-  "Ranking_Rating": 440,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -24,7 +24,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.61,
   "RatingHistory": [
     {
       "Time": "2024-09-21T18:00:16.5441711+00:00",
@@ -313,6 +313,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T21:00:16.9476903+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -339,9 +345,9 @@
   "FirstSeen": "2024-09-20T18:58:00.8801639+00:00",
   "FirstSeenRating": "2024-09-21T18:00:16.544171+00:00",
   "FirstSeenAchievements": "2024-09-14T14:16:02.2463932+00:00",
-  "LastChanged": "2024-10-14T23:58:05.9381509+00:00",
+  "LastChanged": "2024-10-15T21:00:16.9476901+00:00",
   "LastChanged_Achievements": "2024-09-14T14:16:02.2463913+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:43.3500244+00:00",
-  "LastUpdate_Ratings": "2024-10-15T14:57:56.1347164+00:00",
+  "LastUpdate_Ratings": "2024-10-15T21:00:16.9476906+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:02.2463945+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ocelot",
   "Name": "The Walking Dead: Final Season",
   "ProductSlug": "walking-dead-final-season",
-  "Ranking_Rating": 137,
+  "Ranking_Rating": 171,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.77,
+  "Rating": 4.75,
   "NumberOfRatings": 57,
   "RatingHistory": [
     {
@@ -308,6 +308,12 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T20:59:10.4683528+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -325,8 +331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:34.1366366+00:00",
-  "LastChanged": "2024-10-05T19:00:00.1407247+00:00",
+  "LastChanged": "2024-10-15T20:59:10.4683526+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:27.8796533+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:59:53.373075+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:59:10.4683536+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:38.3044786+00:00"
 }

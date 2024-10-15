@@ -2,9 +2,9 @@
   "ID": "d759128018124dcabb1fbee9bb28e178",
   "Name": "Surviving Mars",
   "ProductSlug": "surviving-mars",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 469,
   "Ranking_Popularity": 239,
-  "Ranking_PopularitySum": 202,
+  "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -7479,11 +7479,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 3825,
       "NumberOfAwardsMax": 747
+    },
+    {
+      "Time": "2024-10-15T20:57:47.5557097+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 3830,
+      "NumberOfAwardsMax": 751
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3825,
-  "NumberOfAwardsMax": 747,
+  "NumberOfAwards": 3830,
+  "NumberOfAwardsMax": 751,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -7502,7 +7508,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 747
+      "Count": 751
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -7520,7 +7526,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 497
+      "Count": 498
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7558,8 +7564,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:28.5955065+00:00",
-  "LastChanged": "2024-10-14T22:58:53.0124585+00:00",
+  "LastChanged": "2024-10-15T20:57:47.5557096+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:22.7416361+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:58:29.5208251+00:00",
+  "LastUpdate_Ratings": "2024-10-15T20:57:47.5557102+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:43.354874+00:00"
 }
