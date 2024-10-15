@@ -3,7 +3,7 @@
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
   "Ranking_Rating": 172,
-  "Ranking_Popularity": 69,
+  "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 79,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -18134,18 +18134,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 20273,
       "NumberOfAwardsMax": 8712
+    },
+    {
+      "Time": "2024-10-15T14:58:16.419028+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 20281,
+      "NumberOfAwardsMax": 8717
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20273,
-  "NumberOfAwardsMax": 8712,
+  "NumberOfAwards": 20281,
+  "NumberOfAwardsMax": 8717,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8712
+      "Count": 8717
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18169,7 +18175,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 641
+      "Count": 643
     },
     {
       "Text": "This game is Relaxing",
@@ -18187,7 +18193,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 602
+      "Count": 603
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18225,8 +18231,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2024-10-15T13:16:48.890304+00:00",
+  "LastChanged": "2024-10-15T14:58:16.4190278+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:33.5572028+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:16:48.8903045+00:00",
+  "LastUpdate_Ratings": "2024-10-15T14:58:16.4190285+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:05.068283+00:00"
 }

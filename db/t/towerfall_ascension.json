@@ -2,7 +2,7 @@
   "ID": "8e66d3f552b448afb1889c32ac855fc9",
   "Name": "TowerFall Ascension",
   "ProductSlug": "towerfall-ascension",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 137,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 32,
   "RatingHistory": [
     {
@@ -205,6 +205,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-15T15:00:07.089032+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -223,8 +229,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:19.2112419+00:00",
   "FirstSeenRating": "2022-08-10T22:30:46.7475035+00:00",
-  "LastChanged": "2024-09-29T02:15:42.7845709+00:00",
+  "LastChanged": "2024-10-15T15:00:07.0890318+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:14.0209226+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:57:52.1279778+00:00",
+  "LastUpdate_Ratings": "2024-10-15T15:00:07.0890323+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:55.133006+00:00"
 }

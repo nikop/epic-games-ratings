@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 279,
+  "Ranking_Rating": 280,
   "Ranking_Popularity": 7,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 23,
@@ -31008,10 +31008,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 726707,
       "NumberOfAwardsMax": 180576
+    },
+    {
+      "Time": "2024-10-15T14:58:43.4863223+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 726870,
+      "NumberOfAwardsMax": 180576
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 726707,
+  "NumberOfAwards": 726870,
   "NumberOfAwardsMax": 180576,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -31025,7 +31031,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 142034
+      "Count": 142129
     },
     {
       "Text": "This game has Diverse Characters",
@@ -31043,7 +31049,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 46073
+      "Count": 46115
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -31085,7 +31091,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 30290
+      "Count": 30316
     }
   ],
   "EOS_Progressed": 1122807,
@@ -64032,9 +64038,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-10-15T13:17:15.9896508+00:00",
+  "LastChanged": "2024-10-15T14:58:43.4863221+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:39.0844381+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:27.991683+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:17:15.9896513+00:00",
+  "LastUpdate_Ratings": "2024-10-15T14:58:43.4863228+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:39.0846528+00:00"
 }

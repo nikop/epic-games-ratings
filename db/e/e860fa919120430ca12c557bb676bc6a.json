@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-outlaws",
   "Ranking_Rating": 1006,
   "Ranking_Popularity": 671,
-  "Ranking_PopularitySum": 585,
+  "Ranking_PopularitySum": 584,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -463,6 +463,6 @@
   "FirstSeenRating": "2024-09-06T17:59:47.8215369+00:00",
   "LastChanged": "2024-10-14T18:58:52.9374817+00:00",
   "LastUpdate_AppInfo": "2024-10-09T08:57:11.9937776+00:00",
-  "LastUpdate_Ratings": "2024-10-15T13:57:15.3243901+00:00",
+  "LastUpdate_Ratings": "2024-10-15T14:59:31.5663327+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:35.2203508+00:00"
 }
