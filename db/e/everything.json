@@ -3,8 +3,8 @@
   "Name": "Everything",
   "ProductSlug": "everything",
   "Ranking_Rating": 470,
-  "Ranking_Popularity": 740,
-  "Ranking_PopularitySum": 740,
+  "Ranking_Popularity": 741,
+  "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -157,6 +157,6 @@
   "FirstSeenRating": "2022-10-18T21:30:46.9754194+00:00",
   "LastChanged": "2024-10-13T12:00:06.7131716+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:16.0478375+00:00",
-  "LastUpdate_Ratings": "2024-10-15T02:12:13.3025813+00:00",
+  "LastUpdate_Ratings": "2024-10-15T03:17:35.3990383+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:05:22.0063763+00:00"
 }

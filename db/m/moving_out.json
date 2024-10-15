@@ -2,7 +2,7 @@
   "ID": "f919a1262081444fb28f0fdef68d6b14",
   "Name": "Moving Out",
   "ProductSlug": "moving-out",
-  "Ranking_Rating": 521,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 700,
   "Ranking_PopularitySum": 709,
   "Ranking_EOS_Progress": 1263,
@@ -533,6 +533,6 @@
   "FirstSeen": "2022-07-22T20:18:42.4467794+00:00",
   "LastChanged": "2024-08-21T14:57:45.3817822+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:45.248604+00:00",
-  "LastUpdate_Ratings": "2024-10-14T23:59:54.5377287+00:00",
+  "LastUpdate_Ratings": "2024-10-15T03:15:41.9927591+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:29.2757729+00:00"
 }
