@@ -4,7 +4,7 @@
   "ProductSlug": "f1-manager-2024-fe51bd",
   "Ranking_Rating": 583,
   "Ranking_Popularity": 607,
-  "Ranking_PopularitySum": 546,
+  "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 373,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -612,10 +612,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 188,
       "NumberOfAwardsMax": 43
+    },
+    {
+      "Time": "2024-10-15T23:57:19.4306048+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 209,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 188,
+  "NumberOfAwards": 209,
   "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -660,6 +666,12 @@
       "Prefix": "This game has a",
       "Type": "Competitive Community",
       "Count": 25
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 1946,
@@ -953,9 +965,9 @@
   "FirstSeen": "2024-07-23T18:00:31.4200588+00:00",
   "FirstSeenRating": "2024-07-29T08:58:31.2395443+00:00",
   "FirstSeenAchievements": "2024-07-30T16:02:45.3315747+00:00",
-  "LastChanged": "2024-10-15T21:58:44.5458881+00:00",
+  "LastChanged": "2024-10-15T23:57:19.4306046+00:00",
   "LastChanged_Achievements": "2024-09-14T14:28:07.7543025+00:00",
   "LastUpdate_AppInfo": "2024-10-09T10:57:31.8229379+00:00",
-  "LastUpdate_Ratings": "2024-10-15T21:58:44.5458884+00:00",
+  "LastUpdate_Ratings": "2024-10-15T23:57:19.430605+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:28:07.754323+00:00"
 }

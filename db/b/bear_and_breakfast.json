@@ -2,9 +2,9 @@
   "ID": "6c3a09646a954c04b5ab774e5b8c861d",
   "Name": "Bear and Breakfast",
   "ProductSlug": "bear-and-breakfast-77c209",
-  "Ranking_Rating": 493,
-  "Ranking_Popularity": 687,
-  "Ranking_PopularitySum": 617,
+  "Ranking_Rating": 519,
+  "Ranking_Popularity": 671,
+  "Ranking_PopularitySum": 597,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-22T11:01:49.6440432+00:00",
@@ -276,18 +276,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 79,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-10-15T23:59:20.2222154+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 102,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 79,
-  "NumberOfAwardsMax": 27,
+  "NumberOfAwards": 102,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 27
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
@@ -300,6 +306,12 @@
       "Prefix": "This game is",
       "Type": "Relaxing",
       "Count": 25
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 21
     }
   ],
   "EOS_Progressed": 0,
@@ -314,8 +326,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-15T23:31:40.3408771+00:00",
   "FirstSeenRating": "2022-10-22T11:01:49.6440428+00:00",
-  "LastChanged": "2024-10-15T20:57:36.432282+00:00",
+  "LastChanged": "2024-10-15T23:59:20.2222152+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:17.1211116+00:00",
-  "LastUpdate_Ratings": "2024-10-15T22:01:30.0100973+00:00",
+  "LastUpdate_Ratings": "2024-10-15T23:59:20.2222156+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:23.1977331+00:00"
 }
