@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 206)
 Number of Ratings: 4,814  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 1,129  (Ranked 195)  
-Sum: 6,697 (Ranked 161)  
+Sum: 6,699 (Ranked 161)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 34
 | This game is Relaxing | 931 |
 | This game has Amazing Storytelling | 918 |
 | This game has Quickly Understood Controls | 916 |
-| This game has a Creative Community | 873 |
+| This game has a Creative Community | 875 |
 | This game has Obsessive Gameplay | 359 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -592,4 +592,4 @@ Diff (max vs sum): 34
 | 2024-10-13 | 4.73 | - | 1,128 | 6,682 |
 | 2024-10-14 | 4.73 | - | 1,128 | 6,683 |
 | 2024-10-15 | 4.73 | - | 1,129 | 6,693 |
-| 2024-10-16 | 4.73 | - | 1,129 | 6,697 |
+| 2024-10-16 | 4.73 | - | 1,129 | 6,699 |

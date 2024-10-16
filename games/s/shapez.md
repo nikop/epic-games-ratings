@@ -4,7 +4,7 @@
 Rating: 4.72 (Ranked 215)  
 ## Awards
 Max (Great for Beginners): 48  (Ranked 587)  
-Sum: 279 (Ranked 500)  
+Sum: 281 (Ranked 500)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 87
 | This game is Extremely Fun | 33 |
 | This game is Highly Recommended | 32 |
 | This game has a Creative Community | 30 |
-| This game has Unique Visuals | 26 |
+| This game has Unique Visuals | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -178,3 +178,4 @@ Diff (max vs sum): 87
 | 2024-10-13 | 4.72 | 48 | 277 |
 | 2024-10-14 | 4.72 | 48 | 278 |
 | 2024-10-15 | 4.72 | 48 | 279 |
+| 2024-10-16 | 4.72 | 48 | 281 |

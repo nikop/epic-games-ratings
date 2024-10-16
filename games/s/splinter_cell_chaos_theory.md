@@ -1,7 +1,7 @@
 # Splinter Cell Chaos Theory
 [Store](https://store.epicgames.com/en-US/p/splinter-cell-chaos-theory)  
 [View Rawdata](../../db/s/splinter_cell_chaos_theory.json)  
-Rating: 4.77 (Ranked 138)  
+Rating: 4.76 (Ranked 153)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -49,3 +49,4 @@ Rating: 4.77 (Ranked 138)
 | 2024-06-05 | 4.75 | 0 | 0 |
 | 2024-08-06 | 4.76 | 0 | 0 |
 | 2024-10-15 | 4.77 | 0 | 0 |
+| 2024-10-16 | 4.76 | 0 | 0 |
