@@ -60,7 +60,7 @@
 | [XERA: Survival](games/2/229d261b68a34a35a5759d0d79d319e9.md) | 2024-09-30 | - |  | - | - |
 | [Rogue Citadel](games/a/ab9d4c28dd6c4146beec1e24e2cc8b2a.md) | 2024-09-29 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-09-28 | - |  | - | 0 |
-| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.61 | 38 |
+| [Lost Relics](games/a/ac3e9ce6aef843f889678ac73f64128f.md) | 2024-09-28 | - |  | 4.62 | 38 |
 | [Come on Fantasy baby!](games/0/0851f967f9fa4703be3039e11c03fdce.md) | 2024-09-28 | - |  | - | 0 |
 | [Deadly Contagion](games/2/2fd1e4381c1542bb9aa1a0cc9f2195d8.md) | 2024-09-27 | - |  | - | - |
 | [Reqvia](games/7/7eae14353be148d4a941113dcaa00b87.md) | 2024-09-27 | - |  | - | - |
