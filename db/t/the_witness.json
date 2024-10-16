@@ -3,7 +3,7 @@
   "Name": "The Witness",
   "ProductSlug": "the-witness",
   "Ranking_Rating": 305,
-  "Ranking_Popularity": 370,
+  "Ranking_Popularity": 369,
   "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -744,18 +744,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 216,
       "NumberOfAwardsMax": 216
+    },
+    {
+      "Time": "2024-10-16T20:58:30.7216948+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 217,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 216,
-  "NumberOfAwardsMax": 216,
+  "NumberOfAwards": 217,
+  "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 216
+      "Count": 217
     }
   ],
   "EOS_Progressed": 0,
@@ -769,8 +775,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
-  "LastChanged": "2024-10-12T22:58:44.9622328+00:00",
+  "LastChanged": "2024-10-16T20:58:30.7216947+00:00",
   "LastUpdate_AppInfo": "2024-10-14T07:57:20.2113454+00:00",
-  "LastUpdate_Ratings": "2024-10-16T18:59:15.4311753+00:00",
+  "LastUpdate_Ratings": "2024-10-16T20:58:30.7216952+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:01.0719232+00:00"
 }
