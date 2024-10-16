@@ -59,12 +59,12 @@ Completed: 0 (0.00%) (Ranked 595)
 | 2024-10-09 | 126,839 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 680)  
-Sum: 93 (Ranked 609)  
-Diff (max vs sum): 71  
+Sum: 94 (Ranked 607)  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 28 |
-| This game has Amazing Characters | 23 |
+| This game has Amazing Characters | 24 |
 | This game is Great for Quick Sessions | 22 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -124,3 +124,4 @@ Diff (max vs sum): 71
 | 2024-10-10 | 4.37 | 25 | 69 |
 | 2024-10-11 | 4.37 | 27 | 71 |
 | 2024-10-13 | 4.38 | 28 | 93 |
+| 2024-10-16 | 4.38 | 28 | 94 |

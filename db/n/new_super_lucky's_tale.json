@@ -2,7 +2,7 @@
   "ID": "d3288d6aaf794eb4821bab4c5ba08a0a",
   "Name": "New Super Lucky\u0027s Tale",
   "ProductSlug": "new-super-luckys-tale",
-  "Ranking_Rating": 519,
+  "Ranking_Rating": 562,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2022-11-23T20:58:08.5109446+00:00",
@@ -105,6 +105,12 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-16T14:59:37.1545761+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -123,8 +129,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:51.2940988+00:00",
   "FirstSeenRating": "2022-11-23T20:58:08.5109445+00:00",
-  "LastChanged": "2024-10-08T13:57:40.6752468+00:00",
+  "LastChanged": "2024-10-16T14:59:37.1545758+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:00.2473116+00:00",
-  "LastUpdate_Ratings": "2024-10-16T13:17:19.0971795+00:00",
+  "LastUpdate_Ratings": "2024-10-16T14:59:37.1545765+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:07.8093636+00:00"
 }

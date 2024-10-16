@@ -4,7 +4,7 @@
   "ProductSlug": "rawmen-03f74e",
   "Ranking_Rating": 947,
   "Ranking_Popularity": 680,
-  "Ranking_PopularitySum": 609,
+  "Ranking_PopularitySum": 607,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -455,10 +455,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 93,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-10-16T14:58:47.4031559+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 94,
+      "NumberOfAwardsMax": 28
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 93,
+  "NumberOfAwards": 94,
   "NumberOfAwardsMax": 28,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -472,7 +478,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 24
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -869,9 +875,9 @@
   "FirstSeen": "2022-12-31T04:58:39.4215478+00:00",
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "FirstSeenAchievements": "2024-06-17T16:11:47.2562781+00:00",
-  "LastChanged": "2024-10-13T03:17:11.748589+00:00",
+  "LastChanged": "2024-10-16T14:58:47.4031557+00:00",
   "LastChanged_Achievements": "2024-10-09T19:02:59.0128646+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:50.5987506+00:00",
-  "LastUpdate_Ratings": "2024-10-16T13:16:28.4239927+00:00",
+  "LastUpdate_Ratings": "2024-10-16T14:58:47.4031562+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:02:59.0128977+00:00"
 }

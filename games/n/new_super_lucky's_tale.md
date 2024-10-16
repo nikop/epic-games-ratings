@@ -1,7 +1,7 @@
 # New Super Lucky's Tale
 [Store](https://store.epicgames.com/en-US/p/new-super-luckys-tale)  
 [View Rawdata](../../db/n/new_super_lucky's_tale.json)  
-Rating: 4.59 (Ranked 519)  
+Rating: 4.57 (Ranked 562)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -20,3 +20,4 @@ Rating: 4.59 (Ranked 519)
 | 2024-08-14 | 4.55 | 0 | 0 |
 | 2024-10-01 | 4.58 | 0 | 0 |
 | 2024-10-08 | 4.59 | 0 | 0 |
+| 2024-10-16 | 4.57 | 0 | 0 |
