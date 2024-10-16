@@ -4,7 +4,7 @@
   "ProductSlug": "world-war-z",
   "Ranking_Rating": 583,
   "Ranking_Popularity": 78,
-  "Ranking_PopularitySum": 49,
+  "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -20576,10 +20576,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 40009,
       "NumberOfAwardsMax": 7226
+    },
+    {
+      "Time": "2024-10-16T03:15:52.7112193+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 40020,
+      "NumberOfAwardsMax": 7226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 40009,
+  "NumberOfAwards": 40020,
   "NumberOfAwardsMax": 7226,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -20605,13 +20611,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4917
+      "Count": 4922
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4429
+      "Count": 4435
     },
     {
       "Text": "This game has Diverse Characters",
@@ -20657,9 +20663,9 @@
   ],
   "FirstSeen": "2022-07-22T20:17:09.1230837+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.7901405+00:00",
-  "LastChanged": "2024-10-15T21:59:44.9828802+00:00",
+  "LastChanged": "2024-10-16T03:15:52.7112191+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:06.4392257+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:49.2433726+00:00",
-  "LastUpdate_Ratings": "2024-10-15T23:58:03.191045+00:00",
+  "LastUpdate_Ratings": "2024-10-16T03:15:52.7112197+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:06.4392292+00:00"
 }

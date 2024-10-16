@@ -4,7 +4,7 @@
   "ProductSlug": "my-time-at-sandrock",
   "Ranking_Rating": 280,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 266,
+  "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -4288,10 +4288,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2016,
       "NumberOfAwardsMax": 772
+    },
+    {
+      "Time": "2024-10-16T03:16:00.1016912+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2017,
+      "NumberOfAwardsMax": 772
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2016,
+  "NumberOfAwards": 2017,
   "NumberOfAwardsMax": 772,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4305,7 +4311,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 181
+      "Count": 182
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14241,9 +14247,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-10-15T21:59:52.4944405+00:00",
+  "LastChanged": "2024-10-16T03:16:00.101691+00:00",
   "LastChanged_Achievements": "2024-09-14T14:19:49.1554704+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:51.5064109+00:00",
-  "LastUpdate_Ratings": "2024-10-15T23:58:08.7241356+00:00",
+  "LastUpdate_Ratings": "2024-10-16T03:16:00.1016917+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:19:49.1555614+00:00"
 }

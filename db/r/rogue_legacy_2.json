@@ -3,7 +3,7 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 51,
-  "Ranking_Popularity": 355,
+  "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 458,
@@ -2338,18 +2338,24 @@
       "Rating": 4.84,
       "NumberOfAwards": 1873,
       "NumberOfAwardsMax": 241
+    },
+    {
+      "Time": "2024-10-16T03:18:53.2372153+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 1874,
+      "NumberOfAwardsMax": 242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1873,
-  "NumberOfAwardsMax": 241,
+  "NumberOfAwards": 1874,
+  "NumberOfAwardsMax": 242,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 241
+      "Count": 242
     },
     {
       "Text": "This game is Relaxing",
@@ -16030,9 +16036,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-10-11T14:57:46.5660073+00:00",
+  "LastChanged": "2024-10-16T03:18:53.237215+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:02.7388216+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:09.18789+00:00",
-  "LastUpdate_Ratings": "2024-10-16T00:00:17.3509196+00:00",
+  "LastUpdate_Ratings": "2024-10-16T03:18:53.2372156+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:02.7389173+00:00"
 }
