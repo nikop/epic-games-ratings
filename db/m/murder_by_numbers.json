@@ -4,7 +4,7 @@
   "ProductSlug": "murder-by-numbers",
   "Ranking_Rating": 1060,
   "Ranking_Popularity": 665,
-  "Ranking_PopularitySum": 524,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -861,10 +861,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 228,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-10-16T05:59:51.5009934+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 229,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 228,
+  "NumberOfAwards": 229,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -890,7 +896,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Characters",
@@ -941,8 +947,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:06.0974426+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.0023596+00:00",
-  "LastChanged": "2024-10-14T18:58:48.2503727+00:00",
+  "LastChanged": "2024-10-16T05:59:51.5009932+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:49.9129049+00:00",
-  "LastUpdate_Ratings": "2024-10-16T04:00:54.7673792+00:00",
+  "LastUpdate_Ratings": "2024-10-16T05:59:51.5009937+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:25.3926793+00:00"
 }

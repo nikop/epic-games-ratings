@@ -4,7 +4,7 @@
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 255,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 212,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -5941,10 +5941,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 3508,
       "NumberOfAwardsMax": 506
+    },
+    {
+      "Time": "2024-10-16T06:00:12.8865742+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3510,
+      "NumberOfAwardsMax": 506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3508,
+  "NumberOfAwards": 3510,
   "NumberOfAwardsMax": 506,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5958,7 +5964,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 409
+      "Count": 410
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5994,7 +6000,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 424
+      "Count": 425
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6020,8 +6026,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2024-10-13T15:57:45.0157471+00:00",
+  "LastChanged": "2024-10-16T06:00:12.886574+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:05.9691889+00:00",
-  "LastUpdate_Ratings": "2024-10-16T04:01:16.2250004+00:00",
+  "LastUpdate_Ratings": "2024-10-16T06:00:12.8865745+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:27.3864384+00:00"
 }
