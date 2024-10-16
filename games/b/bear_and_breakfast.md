@@ -1,7 +1,7 @@
 # Bear and Breakfast
 [Store](https://store.epicgames.com/en-US/p/bear-and-breakfast-77c209)  
 [View Rawdata](../../db/b/bear_and_breakfast.json)  
-Rating: 4.59 (Ranked 519)  
+Rating: 4.59 (Ranked 518)  
 ## Awards
 Max (Great for Beginners): 29  (Ranked 671)  
 Sum: 122 (Ranked 580)  
