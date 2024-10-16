@@ -2,9 +2,9 @@
   "ID": "3c52fbac843d4375803187739db84801",
   "Name": "Galactic Civilizations III",
   "ProductSlug": "galactic-civilizations-iii",
-  "Ranking_Rating": 1124,
+  "Ranking_Rating": 1123,
   "Ranking_Popularity": 354,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -3206,10 +3206,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1477,
       "NumberOfAwardsMax": 242
+    },
+    {
+      "Time": "2024-10-16T04:58:23.299338+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1479,
+      "NumberOfAwardsMax": 242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1477,
+  "NumberOfAwards": 1479,
   "NumberOfAwardsMax": 242,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3235,7 +3241,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 180
+      "Count": 182
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3279,8 +3285,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:25.7061184+00:00",
-  "LastChanged": "2024-10-14T22:59:17.2431561+00:00",
+  "LastChanged": "2024-10-16T04:58:23.2993378+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:17.2362341+00:00",
-  "LastUpdate_Ratings": "2024-10-16T03:18:17.254547+00:00",
+  "LastUpdate_Ratings": "2024-10-16T04:58:23.2993382+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:24.1788332+00:00"
 }
