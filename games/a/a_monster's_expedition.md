@@ -1,7 +1,7 @@
 # A Monster's Expedition
 [Store](https://store.epicgames.com/en-US/p/a-monsters-expedition)  
 [View Rawdata](../../db/a/a_monster's_expedition.json)  
-Rating: 4.77 (Ranked 137)  
+Rating: 4.61 (Ranked 468)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -9,3 +9,4 @@ Rating: 4.77 (Ranked 137)
 | 2024-03-12 | 4.75 | 0 | 0 |
 | 2024-07-29 | 4.76 | 0 | 0 |
 | 2024-09-08 | 4.77 | 0 | 0 |
+| 2024-10-16 | 4.61 | 0 | 0 |

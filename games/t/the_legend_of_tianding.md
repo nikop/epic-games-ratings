@@ -1,7 +1,7 @@
 # The Legend of Tianding
 [Store](https://store.epicgames.com/en-US/p/the-legend-of-tianding)  
 [View Rawdata](../../db/t/the_legend_of_tianding.json)  
-Rating: 4.62 (Ranked 439)  
+Rating: 4.62 (Ranked 438)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |

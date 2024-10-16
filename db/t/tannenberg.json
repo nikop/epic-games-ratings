@@ -4,7 +4,7 @@
   "ProductSlug": "tannenberg",
   "Ranking_Rating": 933,
   "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 212,
+  "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 540,
   "Ranking_EOS_NewPlayers": 3,
@@ -4641,10 +4641,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 3509,
       "NumberOfAwardsMax": 356
+    },
+    {
+      "Time": "2024-10-16T08:59:23.2523742+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 3510,
+      "NumberOfAwardsMax": 356
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3509,
+  "NumberOfAwards": 3510,
   "NumberOfAwardsMax": 356,
   "MaxAwardTitle": "Challenging Combat",
   "Tags": [
@@ -4700,7 +4706,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 314
+      "Count": 315
     },
     {
       "Text": "This game has Diverse Characters",
@@ -37164,9 +37170,9 @@
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
-  "LastChanged": "2024-10-14T13:16:50.7987891+00:00",
+  "LastChanged": "2024-10-16T08:59:23.252374+00:00",
   "LastChanged_Achievements": "2024-09-14T14:23:44.0312777+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:26.4854274+00:00",
-  "LastUpdate_Ratings": "2024-10-16T07:01:34.6259893+00:00",
+  "LastUpdate_Ratings": "2024-10-16T08:59:23.2523748+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:44.0314692+00:00"
 }

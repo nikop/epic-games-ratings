@@ -2,7 +2,7 @@
   "ID": "cecc5a53aa534e15881fdbd67a1e83b7",
   "Name": "Islets",
   "ProductSlug": "islets-5f2670",
-  "Ranking_Rating": 234,
+  "Ranking_Rating": 233,
   "Ranking_Popularity": 535,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 1263,
@@ -1486,10 +1486,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 451,
       "NumberOfAwardsMax": 69
+    },
+    {
+      "Time": "2024-10-16T08:58:01.4068153+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 452,
+      "NumberOfAwardsMax": 69
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 451,
+  "NumberOfAwards": 452,
   "NumberOfAwardsMax": 69,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1545,7 +1551,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has a Creative Community",
@@ -1566,8 +1572,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-27T20:01:18.3998991+00:00",
   "FirstSeenRating": "2023-03-31T05:57:48.8913883+00:00",
-  "LastChanged": "2024-10-16T02:11:47.0329006+00:00",
+  "LastChanged": "2024-10-16T08:58:01.4068151+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:32.1365798+00:00",
-  "LastUpdate_Ratings": "2024-10-16T06:59:26.7701113+00:00",
+  "LastUpdate_Ratings": "2024-10-16T08:58:01.4068157+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:49.2444849+00:00"
 }
