@@ -2,7 +2,7 @@
   "ID": "7563789523404ae7ba52588adc99963a",
   "Name": "Next Up Hero",
   "ProductSlug": "next-up-hero",
-  "Ranking_Rating": 1335,
+  "Ranking_Rating": 1334,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 3.45,
+  "Rating": 3.52,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:29.4290072+00:00",
@@ -31,6 +31,12 @@
     {
       "Time": "2024-10-12T21:57:58.1104471+00:00",
       "Rating": 3.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-16T22:59:14.7718544+00:00",
+      "Rating": 3.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -51,8 +57,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:28.1387453+00:00",
   "FirstSeenRating": "2023-03-31T05:58:29.4290069+00:00",
-  "LastChanged": "2024-10-12T21:57:58.1104469+00:00",
+  "LastChanged": "2024-10-16T22:59:14.7718542+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:21.9449125+00:00",
-  "LastUpdate_Ratings": "2024-10-16T20:59:48.9025964+00:00",
+  "LastUpdate_Ratings": "2024-10-16T22:59:14.7718548+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:26.4420724+00:00"
 }

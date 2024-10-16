@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-fighter-online",
   "Ranking_Rating": 744,
   "Ranking_Popularity": 648,
-  "Ranking_PopularitySum": 648,
+  "Ranking_PopularitySum": 649,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -424,6 +424,6 @@
   "FirstSeenRating": "2023-08-18T10:58:33.1698717+00:00",
   "LastChanged": "2024-10-10T21:58:45.9393839+00:00",
   "LastUpdate_AppInfo": "2024-10-16T21:57:13.3730037+00:00",
-  "LastUpdate_Ratings": "2024-10-16T20:59:06.2228531+00:00",
+  "LastUpdate_Ratings": "2024-10-16T22:58:25.7897557+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:23:19.3184235+00:00"
 }

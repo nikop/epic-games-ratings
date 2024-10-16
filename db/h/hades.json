@@ -4,7 +4,7 @@
   "ProductSlug": "hades",
   "Ranking_Rating": 4,
   "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 122,
+  "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 3,
@@ -11444,10 +11444,16 @@
       "Rating": 4.92,
       "NumberOfAwards": 10790,
       "NumberOfAwardsMax": 4386
+    },
+    {
+      "Time": "2024-10-16T22:58:42.945522+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 11126,
+      "NumberOfAwardsMax": 4386
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10790,
+  "NumberOfAwards": 11126,
   "NumberOfAwardsMax": 4386,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11467,7 +11473,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 366
+      "Count": 367
     },
     {
       "Text": "This game is Relaxing",
@@ -11527,13 +11533,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 332
+      "Count": 334
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 388
+      "Count": 389
     },
     {
       "Text": "This game is Educational",
@@ -43055,9 +43061,9 @@
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
-  "LastChanged": "2024-10-16T19:00:07.2005582+00:00",
+  "LastChanged": "2024-10-16T22:58:42.9455218+00:00",
   "LastChanged_Achievements": "2024-09-14T14:21:05.3782962+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:29.0484443+00:00",
-  "LastUpdate_Ratings": "2024-10-16T20:59:20.8671769+00:00",
+  "LastUpdate_Ratings": "2024-10-16T22:58:42.9455224+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:05.3784753+00:00"
 }
