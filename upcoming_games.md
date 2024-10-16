@@ -297,6 +297,7 @@
 | [ChromaGun 2: Dye Hard](games/6/6ed7ed41ff3a431ebdd9d2bd25a4d9b3.md) | 2099-01-01 | - |  | - | - |
 | [Chronicles Of Galdurvale](games/3/342f562fb76f4b098138f1d838bc2169.md) | 2099-01-01 | - |  | - | - |
 | [Chrono Odyssey](games/0/0784e327b4474de18562b0eae53b16ca.md) | 2099-01-01 | - |  | - | - |
+| [ChronoForge](games/3/3347fc952acb48f1a4cbd0896e1316dc.md) | 2099-01-01 | - |  | - | 0 |
 | [Chronos Affinity](games/c/chronos_affinity.md) | 2099-01-01 | - |  | - | - |
 | [Clair Obscur: Expedition 33](games/f/fd04af72ea0f437aad3a15acd9ed5508.md) | 2099-01-01 | - |  | - | - |
 | [Clash Heroes of Feralia Terra](games/e/efb6aef408a04c04aa5f69e565b5a918.md) | 2099-01-01 | - |  | - | - |
@@ -317,6 +318,7 @@
 | [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2099-01-01 | - |  | - | - |
 | [Debtors' Club](games/d/dda54842f3d34f8791f2bddfe7d21676.md) | 2099-01-01 | - |  | - | - |
 | [Decadent](games/c/cb7b9392b46d47c2a279aa2d66cbdf04.md) | 2099-01-01 | - |  | - | - |
+| [DEFECT](games/f/f45ae36247a34496bb56b5e4a57c3217.md) | 2099-01-01 | - |  | - | - |
 | [Deliver At All Costs](games/2/2ef976af17b74478a4b2938d54bb3db4.md) | 2099-01-01 | - |  | - | - |
 | [Delta Force](games/3/3e2c28241611405aa231308a39bee638.md) | 2099-01-01 | - |  | - | - |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | - |  | - | - |
