@@ -3,7 +3,7 @@
   "Name": "The Binding of Isaac: Repentance",
   "ProductSlug": "the-binding-of-isaac-repentance",
   "Ranking_Rating": 11,
-  "Ranking_Popularity": 129,
+  "Ranking_Popularity": 128,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -11182,11 +11182,17 @@
       "Rating": 4.89,
       "NumberOfAwards": 11879,
       "NumberOfAwardsMax": 2497
+    },
+    {
+      "Time": "2024-10-16T19:57:42.6870431+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 11888,
+      "NumberOfAwardsMax": 2502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11879,
-  "NumberOfAwardsMax": 2497,
+  "NumberOfAwards": 11888,
+  "NumberOfAwardsMax": 2502,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
@@ -11199,7 +11205,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2497
+      "Count": 2502
     },
     {
       "Text": "This game is Highly Recommended",
@@ -11229,13 +11235,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 744
+      "Count": 746
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 729
+      "Count": 730
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -11265,7 +11271,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 735
+      "Count": 736
     }
   ],
   "EOS_Progressed": 0,
@@ -11279,8 +11285,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:34.9311333+00:00",
-  "LastChanged": "2024-10-15T22:58:50.6143071+00:00",
+  "LastChanged": "2024-10-16T19:57:42.6870429+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:35.4158061+00:00",
-  "LastUpdate_Ratings": "2024-10-16T17:58:28.9771975+00:00",
+  "LastUpdate_Ratings": "2024-10-16T19:57:42.6870435+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:03.4668896+00:00"
 }
