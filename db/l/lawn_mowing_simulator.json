@@ -4,7 +4,7 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 1237,
   "Ranking_Popularity": 392,
-  "Ranking_PopularitySum": 336,
+  "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -2456,10 +2456,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 1037,
       "NumberOfAwardsMax": 188
+    },
+    {
+      "Time": "2024-10-16T02:11:41.8290939+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 1038,
+      "NumberOfAwardsMax": 188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1037,
+  "NumberOfAwards": 1038,
   "NumberOfAwardsMax": 188,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2497,7 +2503,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 165
+      "Count": 166
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -35557,9 +35563,9 @@
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
-  "LastChanged": "2024-10-09T19:58:43.9968591+00:00",
+  "LastChanged": "2024-10-16T02:11:41.8290937+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:56.9476854+00:00",
   "LastUpdate_AppInfo": "2024-10-14T11:57:11.3846703+00:00",
-  "LastUpdate_Ratings": "2024-10-15T22:58:09.1905244+00:00",
+  "LastUpdate_Ratings": "2024-10-16T02:11:41.8290943+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:56.9478448+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ffcff8b4d613467b8e83ca8d15f78dbc",
   "Name": "Commandos 3 - HD Remaster",
   "ProductSlug": "commandos-3-ba41db",
-  "Ranking_Rating": 1226,
+  "Ranking_Rating": 1218,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.09,
+  "Rating": 4.11,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:33.6737469+00:00",
@@ -106,6 +106,12 @@
       "Rating": 4.09,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-16T02:14:06.0484125+00:00",
+      "Rating": 4.11,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -132,9 +138,9 @@
   "FirstSeen": "2022-08-31T02:32:48.3697829+00:00",
   "FirstSeenRating": "2023-03-31T05:58:33.6737466+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:22.5200559+00:00",
-  "LastChanged": "2024-09-08T18:58:34.7600696+00:00",
+  "LastChanged": "2024-10-16T02:14:06.0484124+00:00",
   "LastChanged_Achievements": "2024-09-14T14:24:53.1154549+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:36.4753306+00:00",
-  "LastUpdate_Ratings": "2024-10-15T23:57:33.7588444+00:00",
+  "LastUpdate_Ratings": "2024-10-16T02:14:06.0484127+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:53.1154582+00:00"
 }
