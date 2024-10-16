@@ -1,6 +1,6 @@
 {
   "ID": "0bd3e505924240adb702295fa08c1eff",
-  "Name": "Wolfenstein: The New Order",
+  "Name": "Wolfenstein: The New Order - Worldwide",
   "ProductSlug": "wolfenstein-the-new-order",
   "Ranking_Rating": 541,
   "Ranking_Popularity": 42,
@@ -10,7 +10,7 @@
   "Ranking_EOS_NewPlayers": 3,
   "Ranking_EOS_NewCompleters": 1,
   "Store": {
-    "ReleaseDate": "2021-09-09T15:00:00+00:00",
+    "ReleaseDate": "2022-12-15T16:00:00+00:00",
     "PcReleaseDate": "2014-05-20T15:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -6163,10 +6163,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 18359,
       "NumberOfAwardsMax": 15368
+    },
+    {
+      "Time": "2024-10-16T03:58:03.9621732+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 18361,
+      "NumberOfAwardsMax": 15368
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18359,
+  "NumberOfAwards": 18361,
   "NumberOfAwardsMax": 15368,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6204,7 +6210,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 412
+      "Count": 414
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6242,8 +6248,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:17.2471647+00:00",
-  "LastChanged": "2024-10-15T20:59:58.0601942+00:00",
+  "LastChanged": "2024-10-16T03:58:03.962173+00:00",
   "LastUpdate_AppInfo": "2024-10-14T15:57:15.0273193+00:00",
-  "LastUpdate_Ratings": "2024-10-16T02:12:45.0199127+00:00",
+  "LastUpdate_Ratings": "2024-10-16T03:58:03.962174+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:34.9460458+00:00"
 }
