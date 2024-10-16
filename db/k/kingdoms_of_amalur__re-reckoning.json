@@ -3,8 +3,8 @@
   "Name": "Kingdoms of Amalur: Re-Reckoning",
   "ProductSlug": "kingdoms-of-amalur-re-reckoning",
   "Ranking_Rating": 609,
-  "Ranking_Popularity": 483,
-  "Ranking_PopularitySum": 558,
+  "Ranking_Popularity": 481,
+  "Ranking_PopularitySum": 557,
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -685,18 +685,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 159,
       "NumberOfAwardsMax": 100
+    },
+    {
+      "Time": "2024-10-16T07:59:08.0880979+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 160,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 159,
-  "NumberOfAwardsMax": 100,
+  "NumberOfAwards": 160,
+  "NumberOfAwardsMax": 101,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 100
+      "Count": 101
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1309,9 +1315,9 @@
   ],
   "FirstSeen": "2022-07-22T20:23:19.3365419+00:00",
   "FirstSeenAchievements": "2024-02-22T21:05:28.573134+00:00",
-  "LastChanged": "2024-10-11T14:00:13.8993958+00:00",
+  "LastChanged": "2024-10-16T07:59:08.0880977+00:00",
   "LastChanged_Achievements": "2024-09-14T14:20:50.0492238+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:11.5497028+00:00",
-  "LastUpdate_Ratings": "2024-10-16T06:00:29.9162184+00:00",
+  "LastUpdate_Ratings": "2024-10-16T07:59:08.0880984+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:20:50.0492733+00:00"
 }

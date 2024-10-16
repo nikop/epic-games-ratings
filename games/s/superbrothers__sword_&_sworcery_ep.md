@@ -1,7 +1,7 @@
 # Superbrothers: Sword & Sworcery EP
 [Store](https://store.epicgames.com/en-US/p/superbrothers-sword-and-sworcery-ep)  
 [View Rawdata](../../db/s/superbrothers__sword_&_sworcery_ep.json)  
-Rating: 3.56 (Ranked 1,331)  
+Rating: 3.58 (Ranked 1,331)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -12,3 +12,4 @@ Rating: 3.56 (Ranked 1,331)
 | 2024-08-07 | 3.48 | 0 | 0 |
 | 2024-08-13 | 3.54 | 0 | 0 |
 | 2024-09-21 | 3.56 | 0 | 0 |
+| 2024-10-16 | 3.58 | 0 | 0 |
