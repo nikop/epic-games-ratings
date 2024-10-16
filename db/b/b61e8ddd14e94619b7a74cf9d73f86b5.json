@@ -2,7 +2,7 @@
   "ID": "b61e8ddd14e94619b7a74cf9d73f86b5",
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
-  "Ranking_Rating": 1177,
+  "Ranking_Rating": 1165,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 1263,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2024-09-27T16:59:14.411303+00:00",
@@ -607,10 +607,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 910,
       "NumberOfAwardsMax": 237
+    },
+    {
+      "Time": "2024-10-16T15:57:50.4614284+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 917,
+      "NumberOfAwardsMax": 237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 910,
+  "NumberOfAwards": 917,
   "NumberOfAwardsMax": 237,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -630,7 +636,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 152
+      "Count": 159
     },
     {
       "Text": "This game is Highly Recommended",
@@ -675,8 +681,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
-  "LastChanged": "2024-10-16T13:58:12.8127705+00:00",
+  "LastChanged": "2024-10-16T15:57:50.4614283+00:00",
   "LastUpdate_AppInfo": "2024-10-09T22:57:11.0881369+00:00",
-  "LastUpdate_Ratings": "2024-10-16T13:58:12.8127709+00:00",
+  "LastUpdate_Ratings": "2024-10-16T15:57:50.4614287+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:27:14.1150285+00:00"
 }
