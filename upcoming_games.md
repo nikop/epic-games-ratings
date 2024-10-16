@@ -20,6 +20,7 @@
 | [Innsmouth 22](games/9/9935c6494f7949238e8ad1dc9c401ad5.md) | 2024-10-25 | - |  | - | - |
 | [SONIC X SHADOW GENERATIONS](games/a/a195e51c853d46038d13c49b882a9215.md) | 2024-10-25 | - |  | - | - |
 | [Surfing Legends](games/2/2f041426f4ce4d65a6c1b100b4b3bf4a.md) | 2024-10-25 | - |  | - | - |
+| [The Coma 2B: Catacomb](games/6/6acda0e8f5d744c094ef0b85e1cae86f.md) | 2024-10-25 | - |  | - | - |
 | [BloodBound](games/e/eaa1681d545e405b92a2665a443d02d7.md) | 2024-10-25 | - |  | - | - |
 | [Red Dead Redemption](games/f/fbbfe0bfd2ba46bd8eaeff0981b6e1e1.md) | 2024-10-29 | - |  | - | - |
 | [[REDACTED]](games/0/04e4108a1fec4845bd2744e8d554c9a6.md) | 2024-10-31 | - |  | - | - |
@@ -564,6 +565,7 @@
 | [Shadow of the Road](games/c/cc3b1d2ad407462d85aae3421985df2f.md) | 2099-01-01 | - |  | - | - |
 | [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shelter: An Elephant Adventure](games/0/08970d9237b0458d92c1ee36bd3dbee3.md) | 2099-01-01 | 7 (1,000 XP) | 0 | - | - |
+| [Shop Crush](games/a/a289073490a24047a49e89b3db4f124b.md) | 2099-01-01 | - |  | - | - |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | - |  | - | - |
 | [Shy Cats Hidden Orchestra](games/7/744c73d9f99f416dabceeacaf91031a1.md) | 2099-01-01 | - |  | - | - |
 | [Silence of the Siren](games/e/eff9150abbd240558978d1285945ac45.md) | 2099-01-01 | - |  | - | - |
@@ -625,7 +627,6 @@
 | [The Bridge Curse 2: The Extrication](games/f/ff2082fe95a24381a0dc3b3d4ca92636.md) | 2099-01-01 | - |  | - | - |
 | [The Bustling World](games/b/b38a9cee1f0e4b72ab9b8f2aff8b1e07.md) | 2099-01-01 | - |  | - | - |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
-| [The Coma 2B: Catacomb](games/6/6acda0e8f5d744c094ef0b85e1cae86f.md) | 2099-01-01 | - |  | - | - |
 | [THE DARK SIDE OF CECLON](games/5/539015909ce942109cddcbfd3006a29b.md) | 2099-01-01 | - |  | - | - |
 | [The Dead Await](games/t/the_dead_await.md) | 2099-01-01 | - |  | - | - |
 | [The Fold Ingression](games/t/the_fold_ingression.md) | 2099-01-01 | - |  | - | - |
