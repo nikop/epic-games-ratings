@@ -5,12 +5,13 @@ Rating: 4.62 (Ranked 438)
 Number of Ratings: 63  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 23  (Ranked 713)  
-Sum: 45 (Ranked 666)  
-Diff (max vs sum): 47  
+Sum: 65 (Ranked 633)  
+Diff (max vs sum): 80  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 23 |
 | This game is Great for Quick Sessions | 22 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -110,3 +111,4 @@ Diff (max vs sum): 47
 | 2024-10-06 | 4.62 | - | 23 | 45 |
 | 2024-10-12 | 4.61 | - | 23 | 45 |
 | 2024-10-13 | 4.62 | - | 23 | 45 |
+| 2024-10-16 | 4.62 | - | 23 | 65 |

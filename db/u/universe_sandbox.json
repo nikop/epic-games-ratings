@@ -4,7 +4,7 @@
   "ProductSlug": "universe-sandbox",
   "Ranking_Rating": 438,
   "Ranking_Popularity": 713,
-  "Ranking_PopularitySum": 666,
+  "Ranking_PopularitySum": 633,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -530,10 +530,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-10-16T13:58:13.6729124+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 65,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 45,
+  "NumberOfAwards": 65,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -548,6 +554,12 @@
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
       "Count": 22
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -561,8 +573,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:26.3960335+00:00",
-  "LastChanged": "2024-10-13T13:59:16.7062708+00:00",
+  "LastChanged": "2024-10-16T13:58:13.6729122+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:15.3375235+00:00",
-  "LastUpdate_Ratings": "2024-10-16T11:58:52.0061865+00:00",
+  "LastUpdate_Ratings": "2024-10-16T13:58:13.6729127+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:16:11.2559584+00:00"
 }

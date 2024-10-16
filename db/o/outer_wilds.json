@@ -2,7 +2,7 @@
   "ID": "starfish",
   "Name": "Outer Wilds",
   "ProductSlug": "outerwilds",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 9,
   "Ranking_Popularity": 692,
   "Ranking_PopularitySum": 561,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.9,
   "NumberOfRatings": 726,
   "RatingHistory": [
     {
@@ -650,6 +650,12 @@
       "Rating": 4.91,
       "NumberOfAwards": 155,
       "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-10-16T13:57:48.4803756+00:00",
+      "Rating": 4.9,
+      "NumberOfAwards": 155,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
@@ -711,8 +717,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:49.0094837+00:00",
-  "LastChanged": "2024-10-14T13:58:47.0104666+00:00",
+  "LastChanged": "2024-10-16T13:57:48.4803753+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:17.0924142+00:00",
-  "LastUpdate_Ratings": "2024-10-16T11:58:18.5957329+00:00",
+  "LastUpdate_Ratings": "2024-10-16T13:57:48.4803758+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:21:30.522087+00:00"
 }
