@@ -137,7 +137,7 @@
 | [Plot of the Druid](games/7/7a2f6a7b3c4f4bfda758a3e85bfb7653.md) | 2024-08-07 | 11 (1,000 XP) | 1 | - | 0 |
 | [MoonFire: A Seeker's Saga](games/6/642decefed8c445db1386aa546728140.md) | 2024-08-07 | 27 (1,000 XP) | 2 | - | - |
 | [Creatures of Ava](games/3/3ca1f960b91b4a25abbfdcf5b98c829c.md) | 2024-08-07 | 27 (1,000 XP) | 17 | - | 0 |
-| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.15 | 168 |
+| [Apex Legends™](games/f/f9f24f4a353b451297e31f5db9cc54f2.md) | 2024-08-06 | 12 (1,000 XP) | 64,436 | 4.15 | 171 |
 | [Atlas Fallen: Reign Of Sand](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 2024-08-06 | 38 (1,045 XP) | 3,553 | 4.24 | 0 |
 | [Space Battle](games/9/92420cc14a954873b336db9e1355c758.md) | 2024-08-06 | 40 (1,000 XP) | 4 | - | - |
 | [Spider Fox](games/8/8fbfb86f41814949aebac6b1f3043b62.md) | 2024-08-06 | 34 (1,000 XP) | 3 | - | - |
@@ -740,7 +740,7 @@
 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 2023-08-03 | 17 (1,000 XP) | 104,046 | 3.94 | 0 |
 | [Forest Fire](games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 2023-08-02 | 34 (1,000 XP) | 156 | - | 0 |
 | [Paquerette Down the Bunburrows](games/3/3c8f3297965d4326b0b16a6aeb968b5d.md) | 2023-08-02 | 60 (1,000 XP) | 1 | - | 0 |
-| [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 915,468 | 4.53 | 1,396 |
+| [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 2023-08-02 | 71 (1,735 XP) | 915,468 | 4.53 | 1,397 |
 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 2023-08-02 | 51 (1,000 XP) | 658,776 | 4.58 | 345 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-07-31 | 23 (1,000 XP) | 1 | - | - |
 | [Mega City Force](games/m/mega_city_police.md) | 2023-07-28 | 27 (1,050 XP) | 49 | - | 0 |
@@ -1039,7 +1039,7 @@
 | [IXION](games/i/ixion.md) | 2022-12-07 | 57 (1,050 XP) | 5,097 | 4.58 | 0 |
 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 2022-12-06 | 14 (1,000 XP) | 6,716 | 4.40 | 20 |
 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 2022-12-06 | 100 (1,000 XP) | 3,292 | 4.45 | 0 |
-| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,434,081 | 4.01 | 13,383 |
+| [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2022-12-06 | 37 (1,000 XP) | 1,434,081 | 4.01 | 13,395 |
 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 2022-12-03 | 47 (1,750 XP) | 601,709 | 4.14 | 872 |
 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 2022-12-02 | 41 (1,000 XP) | 86,923 | - | - |
 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2022-12-01 | 15 (1,000 XP) | 432 | - | 0 |
@@ -1317,7 +1317,7 @@
 | [Rocket League®](games/r/rocket_league®.md) | 2020-09-23 | 88 (1,000 XP) | 31,025,971 | 4.43 | 982,572 |
 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 2020-09-17 | 88 (1,490 XP) | 266,314 | 4.58 | 430 |
 | [Kingdoms of Amalur: Re-Reckoning](games/k/kingdoms_of_amalur__re-reckoning.md) | 2020-09-08 | 69 (1,000 XP) | 1,912 | 4.55 | 100 |
-| [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 30,777 | 4.84 | 241 |
+| [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 2020-08-18 | 39 (1,240 XP) | 30,777 | 4.84 | 242 |
 | [The Alto Collection](games/t/the_alto_collection.md) | 2020-08-13 | 39 (1,000 XP) | 76,774 | 4.67 | 67 |
 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 2020-07-28 | 40 (1,000 XP) | 2,040 | 4.64 | 36 |
 | [DEATH STRANDING](games/d/death_stranding.md) | 2020-07-14 | 63 (1,000 XP) | 4,417,997 | 4.77 | 13,110 |
