@@ -53,7 +53,7 @@
 | 51 | [Dead Cells](games/d/dead_cells.md) | 4.84 | 638 | 251 |
 | 51 | [Dead Space™ 2](games/b/b71378a3955b4aba8e722241664d4380.md) | 4.84 | 0 | 741 |
 | 51 | [Desperados III](games/d/desperados_iii.md) | 4.84 | 60 | 554 |
-| 51 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 9,640 | 63 |
+| 51 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.84 | 9,651 | 63 |
 | 51 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.84 | 6,339 | 88 |
 | 51 | [Firework](games/f/firework.md) | 4.84 | 0 | 741 |
 | 51 | [Huntdown](games/h/huntdown.md) | 4.84 | 0 | 741 |
@@ -762,7 +762,7 @@
 | 743 | [Solitairica](games/s/solitairica.md) | 4.49 | 126 | 452 |
 | 743 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.49 | 18,646 | 32 |
 | 743 | [The Thaumaturge](games/t/the_thaumaturge.md) | 4.49 | 0 | 741 |
-| 743 | [VALORANT](games/v/valorant.md) | 4.49 | 155,926 | 9 |
+| 743 | [VALORANT](games/v/valorant.md) | 4.49 | 156,120 | 9 |
 | 764 | [Darksiders III](games/d/darksiders_iii.md) | 4.48 | 128 | 448 |
 | 764 | [Dead Space™ 3](games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 4.48 | 0 | 741 |
 | 764 | [Death Trash](games/d/death_trash.md) | 4.48 | 0 | 741 |
@@ -804,7 +804,7 @@
 | 801 | [Astrea Six Sided Oracles](games/a/astrea_six_sided_oracles.md) | 4.46 | 0 | 741 |
 | 801 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.46 | 0 | 741 |
 | 801 | [Faaast Penguin](games/5/5d0d760170c845ec988a5041f9b5198d.md) | 4.46 | 0 | 741 |
-| 801 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,413 | 170 |
+| 801 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.46 | 1,414 | 170 |
 | 801 | [First Class Trouble](games/f/first_class_trouble.md) | 4.46 | 173 | 402 |
 | 801 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.46 | 0 | 741 |
 | 801 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.46 | 0 | 741 |

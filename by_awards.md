@@ -8,7 +8,7 @@
 | 6 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 237,839 | 4.18 | 1,165 |
 | 7 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 180,646 | 4.69 | 279 |
 | 8 | [Fall Guys](games/f/fall_guys.md) | 168,429 | 4.50 | 719 |
-| 9 | [VALORANT](games/v/valorant.md) | 155,926 | 4.49 | 743 |
+| 9 | [VALORANT](games/v/valorant.md) | 156,120 | 4.49 | 743 |
 | 10 | [Borderlands 3](games/b/borderlands_3.md) | 143,996 | 4.69 | 279 |
 | 11 | [Destiny 2](games/d/destiny_2.md) | 86,279 | 4.44 | 839 |
 | 12 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 73,918 | 4.58 | 541 |
@@ -62,7 +62,7 @@
 | 60 | [Control](games/c/control.md) | 10,319 | 4.61 | 468 |
 | 61 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 10,226 | 4.51 | 697 |
 | 62 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 10,113 | 4.48 | 764 |
-| 63 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 9,640 | 4.84 | 51 |
+| 63 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 9,651 | 4.84 | 51 |
 | 64 | [Cities: Skylines](games/c/cities__skylines.md) | 9,588 | 4.65 | 361 |
 | 65 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 9,510 | 4.71 | 233 |
 | 66 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 9,427 | 4.75 | 169 |
@@ -169,7 +169,7 @@
 | 167 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,484 | 4.69 | 279 |
 | 168 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 1,448 | 4.67 | 320 |
 | 169 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,435 | 4.70 | 253 |
-| 170 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,413 | 4.46 | 801 |
+| 170 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 1,414 | 4.46 | 801 |
 | 171 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 1,397 | 4.53 | 657 |
 | 172 | [EVE Online](games/e/eve_online.md) | 1,383 | 4.23 | 1,113 |
 | 173 | [Saints Row](games/s/saints_row.md) | 1,372 | 3.91 | 1,287 |
