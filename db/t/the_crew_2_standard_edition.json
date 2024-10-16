@@ -3,7 +3,7 @@
   "Name": "The Crew 2 Standard Edition",
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 361,
-  "Ranking_Popularity": 199,
+  "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
@@ -13294,18 +13294,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 7085,
       "NumberOfAwardsMax": 1094
+    },
+    {
+      "Time": "2024-10-16T17:58:44.8702601+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 7089,
+      "NumberOfAwardsMax": 1098
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7085,
-  "NumberOfAwardsMax": 1094,
+  "NumberOfAwards": 7089,
+  "NumberOfAwardsMax": 1098,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1094
+      "Count": 1098
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13373,8 +13379,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2024-10-16T13:14:44.3530604+00:00",
+  "LastChanged": "2024-10-16T17:58:44.8702599+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:56.2809689+00:00",
-  "LastUpdate_Ratings": "2024-10-16T16:00:49.6379046+00:00",
+  "LastUpdate_Ratings": "2024-10-16T17:58:44.8702605+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:15:41.487184+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -18692,18 +18692,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 14037,
       "NumberOfAwardsMax": 3341
+    },
+    {
+      "Time": "2024-10-16T17:58:53.6578482+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 14047,
+      "NumberOfAwardsMax": 3347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14037,
-  "NumberOfAwardsMax": 3341,
+  "NumberOfAwards": 14047,
+  "NumberOfAwardsMax": 3347,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3341
+      "Count": 3347
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18745,7 +18751,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1000
+      "Count": 1004
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18789,8 +18795,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-10-16T14:57:12.1799569+00:00",
+  "LastChanged": "2024-10-16T17:58:53.657848+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:40.4951323+00:00",
-  "LastUpdate_Ratings": "2024-10-16T16:01:01.7573204+00:00",
+  "LastUpdate_Ratings": "2024-10-16T17:58:53.6578487+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:04:41.8662433+00:00"
 }
