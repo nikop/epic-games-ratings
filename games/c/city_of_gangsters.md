@@ -1,7 +1,7 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.31 (Ranked 1,031)  
+Rating: 4.32 (Ranked 1,022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -660,3 +660,4 @@ Diff (max vs sum): 88
 | 2024-10-11 | 4.31 | 70 | 426 |
 | 2024-10-13 | 4.31 | 70 | 427 |
 | 2024-10-15 | 4.31 | 70 | 431 |
+| 2024-10-16 | 4.32 | 70 | 431 |

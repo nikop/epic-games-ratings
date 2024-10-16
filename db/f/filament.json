@@ -2,7 +2,7 @@
   "ID": "89fb09a222a54e53b692e9c36e68d0a1",
   "Name": "Filament",
   "ProductSlug": "filament-332a92",
-  "Ranking_Rating": 1006,
+  "Ranking_Rating": 996,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 96,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.33,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2022-11-04T12:32:28.2806396+00:00",
@@ -692,6 +692,12 @@
     {
       "Time": "2024-10-14T13:15:48.4676064+00:00",
       "Rating": 4.33,
+      "NumberOfAwards": 761,
+      "NumberOfAwardsMax": 621
+    },
+    {
+      "Time": "2024-10-16T12:01:03.4190804+00:00",
+      "Rating": 4.34,
       "NumberOfAwards": 761,
       "NumberOfAwardsMax": 621
     }
@@ -31160,9 +31166,9 @@
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-10-14T13:15:48.4676062+00:00",
+  "LastChanged": "2024-10-16T12:01:03.4190803+00:00",
   "LastChanged_Achievements": "2024-09-14T14:26:15.6821494+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:54.4774467+00:00",
-  "LastUpdate_Ratings": "2024-10-16T10:58:03.1153461+00:00",
+  "LastUpdate_Ratings": "2024-10-16T12:01:03.4190807+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:26:15.6822915+00:00"
 }

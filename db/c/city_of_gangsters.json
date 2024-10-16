@@ -2,7 +2,7 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 1031,
+  "Ranking_Rating": 1022,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 75,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.31,
+  "Rating": 4.32,
   "RatingHistory": [
     {
       "Time": "2023-02-04T02:04:08.6033841+00:00",
@@ -2028,6 +2028,12 @@
     {
       "Time": "2024-10-15T20:57:47.6847336+00:00",
       "Rating": 4.31,
+      "NumberOfAwards": 431,
+      "NumberOfAwardsMax": 70
+    },
+    {
+      "Time": "2024-10-16T11:58:44.4543949+00:00",
+      "Rating": 4.32,
       "NumberOfAwards": 431,
       "NumberOfAwardsMax": 70
     }
@@ -35060,9 +35066,9 @@
   "FirstSeen": "2022-08-11T21:00:23.9390359+00:00",
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
-  "LastChanged": "2024-10-15T20:57:47.6847332+00:00",
+  "LastChanged": "2024-10-16T11:58:44.4543947+00:00",
   "LastChanged_Achievements": "2024-09-14T14:22:58.3609172+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:31.9173219+00:00",
-  "LastUpdate_Ratings": "2024-10-16T09:58:57.2018026+00:00",
+  "LastUpdate_Ratings": "2024-10-16T11:58:44.4543953+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:22:58.3612387+00:00"
 }
