@@ -4,7 +4,7 @@
   "ProductSlug": "sail-forth-51847e",
   "Ranking_Rating": 893,
   "Ranking_Popularity": 622,
-  "Ranking_PopularitySum": 527,
+  "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 591,
   "Ranking_EOS_NewPlayers": 82,
@@ -917,10 +917,16 @@
       "Rating": 4.41,
       "NumberOfAwards": 222,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2024-10-17T19:58:53.0981705+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 254,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 222,
+  "NumberOfAwards": 254,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -946,7 +952,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3297,9 +3303,9 @@
   "FirstSeen": "2022-12-22T16:58:05.6186581+00:00",
   "FirstSeenRating": "2023-03-31T05:58:32.4374953+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.5284182+00:00",
-  "LastChanged": "2024-10-17T04:00:19.5692261+00:00",
+  "LastChanged": "2024-10-17T19:58:53.0981704+00:00",
   "LastChanged_Achievements": "2024-10-17T05:09:37.0258752+00:00",
   "LastUpdate_AppInfo": "2024-10-14T14:57:33.5156688+00:00",
-  "LastUpdate_Ratings": "2024-10-17T18:00:43.1942723+00:00",
+  "LastUpdate_Ratings": "2024-10-17T19:58:53.0981708+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:37.0259165+00:00"
 }
