@@ -4,7 +4,7 @@
   "ProductSlug": "timberborn",
   "Ranking_Rating": 190,
   "Ranking_Popularity": 330,
-  "Ranking_PopularitySum": 297,
+  "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -4296,10 +4296,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1609,
       "NumberOfAwardsMax": 282
+    },
+    {
+      "Time": "2024-10-17T14:58:20.8316055+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1611,
+      "NumberOfAwardsMax": 282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1609,
+  "NumberOfAwards": 1611,
   "NumberOfAwardsMax": 282,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4313,7 +4319,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 174
+      "Count": 176
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4375,8 +4381,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:12.1167851+00:00",
-  "LastChanged": "2024-10-17T04:01:03.2463162+00:00",
+  "LastChanged": "2024-10-17T14:58:20.8316041+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:47.4162491+00:00",
-  "LastUpdate_Ratings": "2024-10-17T13:16:11.8673794+00:00",
+  "LastUpdate_Ratings": "2024-10-17T14:58:20.8316061+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:57.9721707+00:00"
 }
