@@ -4,7 +4,7 @@
   "ProductSlug": "rennsport-3776b8",
   "Ranking_Rating": 1123,
   "Ranking_Popularity": 609,
-  "Ranking_PopularitySum": 507,
+  "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -846,10 +846,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 264,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-10-17T09:58:41.592849+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 265,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 264,
+  "NumberOfAwards": 265,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -905,7 +911,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -920,8 +926,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-07-10T13:08:52.5809065+00:00",
   "FirstSeenRating": "2024-07-12T12:00:28.9090218+00:00",
-  "LastChanged": "2024-10-16T13:18:22.8279197+00:00",
-  "LastUpdate_AppInfo": "2024-10-10T09:57:16.5806142+00:00",
-  "LastUpdate_Ratings": "2024-10-17T07:58:56.2186381+00:00",
+  "LastChanged": "2024-10-17T09:58:41.5928488+00:00",
+  "LastUpdate_AppInfo": "2024-10-17T09:57:22.0528293+00:00",
+  "LastUpdate_Ratings": "2024-10-17T09:58:41.5928579+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:16.7208681+00:00"
 }
