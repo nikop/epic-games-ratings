@@ -334,12 +334,12 @@ Completed: 0 (0.00%) (Ranked 622)
 | 2024-09-14 | 3,327 | 0 |
 | 2024-10-17 | 3,384 | 0 |
 ## Awards
-Max (Great for Beginners): 42  (Ranked 609)  
-Sum: 86 (Ranked 612)  
-Diff (max vs sum): -3  
+Max (Great for Beginners): 43  (Ranked 608)  
+Sum: 87 (Ranked 612)  
+Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 42 |
+| This game is Great for Beginners | 43 |
 | This game is Highly Recommended | 23 |
 | This game is Extremely Fun | 21 |
 ## Ratings History
@@ -459,4 +459,4 @@ Diff (max vs sum): -3
 | 2024-10-13 | 4.41 | 39 | 62 |
 | 2024-10-14 | 4.42 | 39 | 62 |
 | 2024-10-15 | 4.42 | 42 | 65 |
-| 2024-10-17 | 4.42 | 42 | 86 |
+| 2024-10-17 | 4.42 | 43 | 87 |
