@@ -1,7 +1,7 @@
 # Hob
 [Store](https://store.epicgames.com/en-US/p/hob)  
 [View Rawdata](../../db/h/hob.json)  
-Rating: 4.57 (Ranked 563)  
+Rating: 4.56 (Ranked 583)  
 Number of Ratings: 466  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -92,3 +92,4 @@ Number of Ratings: 466  (23.09.2022)
 | 2024-10-03 | 4.57 | - | 0 | 0 |
 | 2024-10-08 | 4.56 | - | 0 | 0 |
 | 2024-10-09 | 4.57 | - | 0 | 0 |
+| 2024-10-17 | 4.56 | - | 0 | 0 |

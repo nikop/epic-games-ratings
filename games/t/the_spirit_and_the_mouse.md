@@ -69,12 +69,12 @@ Completed: 168 (0.11%) (Ranked 482)
 | 2024-03-21 | 89 | 0 |
 | 2024-10-17 | 154,965 | 168 |
 ## Awards
-Max (Easy Puzzles): 70  (Ranked 531)  
-Sum: 70 (Ranked 632)  
-Diff (max vs sum): -101  
+Max (Easy Puzzles): 80  (Ranked 514)  
+Sum: 80 (Ranked 617)  
+Diff (max vs sum): -103  
 | Award | Count |
 | ----- | ----- |
-| This game features Easy Puzzles | 70 |
+| This game features Easy Puzzles | 80 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -97,3 +97,4 @@ Diff (max vs sum): -101
 | 2024-10-13 | 4.55 | 63 | 63 |
 | 2024-10-15 | 4.55 | 66 | 66 |
 | 2024-10-16 | 4.55 | 70 | 70 |
+| 2024-10-17 | 4.55 | 80 | 80 |

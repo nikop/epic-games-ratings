@@ -1,12 +1,12 @@
 # HITMAN
 [Store](https://store.epicgames.com/en-US/p/hitman/standard-edition)  
 [View Rawdata](../../db/h/hitman.json)  
-Rating: 4.63 (Ranked 415)  
+Rating: 4.63 (Ranked 414)  
 Number of Ratings: 6,362  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 251  (Ranked 347)  
-Sum: 1,805 (Ranked 281)  
-Diff (max vs sum): 66  
+Sum: 1,806 (Ranked 280)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 251 |
@@ -14,7 +14,7 @@ Diff (max vs sum): 66
 | This game has Amazing Storytelling | 209 |
 | This game is Extremely Fun | 209 |
 | This game has Quickly Understood Controls | 202 |
-| This game is Relaxing | 199 |
+| This game is Relaxing | 200 |
 | This game is Highly Recommended | 194 |
 | This game has Amazing Characters | 173 |
 | This game has a Creative Community | 147 |
@@ -308,4 +308,4 @@ Diff (max vs sum): 66
 | 2024-10-12 | 4.63 | - | 249 | 1,801 |
 | 2024-10-14 | 4.63 | - | 250 | 1,803 |
 | 2024-10-15 | 4.63 | - | 250 | 1,804 |
-| 2024-10-17 | 4.63 | - | 251 | 1,805 |
+| 2024-10-17 | 4.63 | - | 251 | 1,806 |
