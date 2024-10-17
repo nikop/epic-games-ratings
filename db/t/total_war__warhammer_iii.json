@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-3",
   "Ranking_Rating": 233,
   "Ranking_Popularity": 118,
-  "Ranking_PopularitySum": 104,
+  "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -18710,10 +18710,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 14056,
       "NumberOfAwardsMax": 3347
+    },
+    {
+      "Time": "2024-10-17T08:58:44.3461124+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 14059,
+      "NumberOfAwardsMax": 3347
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14056,
+  "NumberOfAwards": 14059,
   "NumberOfAwardsMax": 3347,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -18793,7 +18799,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1047
+      "Count": 1050
     }
   ],
   "EOS_Progressed": 0,
@@ -18807,8 +18813,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-10-17T05:57:07.7389364+00:00",
+  "LastChanged": "2024-10-17T08:58:44.3461122+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:40.4951323+00:00",
-  "LastUpdate_Ratings": "2024-10-17T07:00:07.5435341+00:00",
+  "LastUpdate_Ratings": "2024-10-17T08:58:44.3461129+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:58.0237933+00:00"
 }

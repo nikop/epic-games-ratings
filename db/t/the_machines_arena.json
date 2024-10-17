@@ -4,7 +4,7 @@
   "ProductSlug": "the-machines-arena-74e0f1",
   "Ranking_Rating": 130,
   "Ranking_Popularity": 553,
-  "Ranking_PopularitySum": 457,
+  "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -1103,10 +1103,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 390,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-10-17T08:58:41.529498+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 396,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 390,
+  "NumberOfAwards": 396,
   "NumberOfAwardsMax": 62,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1150,7 +1156,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1162,7 +1168,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 25
+      "Count": 27
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1180,7 +1186,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -1195,8 +1201,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:03.1302851+00:00",
   "FirstSeenRating": "2023-03-31T05:58:17.7202815+00:00",
-  "LastChanged": "2024-10-15T02:15:08.6567217+00:00",
+  "LastChanged": "2024-10-17T08:58:41.5294978+00:00",
   "LastUpdate_AppInfo": "2024-10-14T15:57:14.6946662+00:00",
-  "LastUpdate_Ratings": "2024-10-17T07:00:04.2190822+00:00",
+  "LastUpdate_Ratings": "2024-10-17T08:58:41.5294983+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:10:26.9845379+00:00"
 }
