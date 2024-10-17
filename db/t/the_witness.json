@@ -4,7 +4,7 @@
   "ProductSlug": "the-witness",
   "Ranking_Rating": 306,
   "Ranking_Popularity": 370,
-  "Ranking_PopularitySum": 534,
+  "Ranking_PopularitySum": 533,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -777,6 +777,6 @@
   "FirstSeen": "2022-07-22T20:17:54.4282067+00:00",
   "LastChanged": "2024-10-16T20:58:30.7216947+00:00",
   "LastUpdate_AppInfo": "2024-10-14T07:57:20.2113454+00:00",
-  "LastUpdate_Ratings": "2024-10-17T10:00:06.7937171+00:00",
+  "LastUpdate_Ratings": "2024-10-17T11:58:11.4269377+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:04.9989265+00:00"
 }

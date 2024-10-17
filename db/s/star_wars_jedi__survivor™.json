@@ -2,7 +2,7 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 696,
   "Ranking_Popularity": 44,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 174,
@@ -16459,18 +16459,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 26673,
       "NumberOfAwardsMax": 14383
+    },
+    {
+      "Time": "2024-10-17T11:57:19.1260793+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 26685,
+      "NumberOfAwardsMax": 14395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26673,
-  "NumberOfAwardsMax": 14383,
+  "NumberOfAwards": 26685,
+  "NumberOfAwardsMax": 14395,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 14383
+      "Count": 14395
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -31434,9 +31440,9 @@
   "FirstSeen": "2023-04-28T17:02:09.2169534+00:00",
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
-  "LastChanged": "2024-10-17T04:57:30.2936459+00:00",
+  "LastChanged": "2024-10-17T11:57:19.1260792+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:16.7165494+00:00",
   "LastUpdate_AppInfo": "2024-10-13T23:57:15.285212+00:00",
-  "LastUpdate_Ratings": "2024-10-17T09:58:57.4398108+00:00",
+  "LastUpdate_Ratings": "2024-10-17T11:57:19.1260799+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:16.7166432+00:00"
 }
