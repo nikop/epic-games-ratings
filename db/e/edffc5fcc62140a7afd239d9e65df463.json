@@ -2,9 +2,9 @@
   "ID": "edffc5fcc62140a7afd239d9e65df463",
   "Name": "F1\u00AE 24",
   "ProductSlug": "f1-24",
-  "Ranking_Rating": 391,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 575,
-  "Ranking_PopularitySum": 468,
+  "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.63,
   "RatingHistory": [
     {
       "Time": "2024-06-08T16:01:02.7098359+00:00",
@@ -1075,10 +1075,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 363,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-10-17T17:57:51.1770106+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 369,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 363,
+  "NumberOfAwards": 369,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1104,13 +1110,13 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1122,19 +1128,19 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1602,9 +1608,9 @@
   "FirstSeen": "2024-05-31T16:58:14.3785937+00:00",
   "FirstSeenRating": "2024-06-08T16:01:02.7098356+00:00",
   "FirstSeenAchievements": "2024-06-17T16:15:55.9192889+00:00",
-  "LastChanged": "2024-10-16T19:57:28.1041652+00:00",
+  "LastChanged": "2024-10-17T17:57:51.1770104+00:00",
   "LastChanged_Achievements": "2024-10-17T05:13:06.4861773+00:00",
   "LastUpdate_AppInfo": "2024-10-16T14:57:06.2457483+00:00",
-  "LastUpdate_Ratings": "2024-10-17T15:58:17.2925721+00:00",
+  "LastUpdate_Ratings": "2024-10-17T17:57:51.1770113+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:06.4862154+00:00"
 }

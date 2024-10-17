@@ -4,7 +4,7 @@
   "ProductSlug": "the-division",
   "Ranking_Rating": 519,
   "Ranking_Popularity": 257,
-  "Ranking_PopularitySum": 277,
+  "Ranking_PopularitySum": 276,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -5717,10 +5717,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1826,
       "NumberOfAwardsMax": 613
+    },
+    {
+      "Time": "2024-10-17T17:57:47.1657191+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1827,
+      "NumberOfAwardsMax": 613
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1826,
+  "NumberOfAwards": 1827,
   "NumberOfAwardsMax": 613,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5788,7 +5794,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5820,8 +5826,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:11.4605071+00:00",
-  "LastChanged": "2024-10-17T13:58:43.3000647+00:00",
+  "LastChanged": "2024-10-17T17:57:47.1657189+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:58:37.1948819+00:00",
-  "LastUpdate_Ratings": "2024-10-17T15:58:14.3607105+00:00",
+  "LastUpdate_Ratings": "2024-10-17T17:57:47.1657197+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:36.8639463+00:00"
 }

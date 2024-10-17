@@ -2,7 +2,7 @@
   "ID": "0a84818055e740a7be21a2e5b6162703",
   "Name": "Watch Dogs: Legion Standard Edition",
   "ProductSlug": "watch-dogs-legion",
-  "Ranking_Rating": 972,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 377,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.37,
   "NumberOfRatings": 1361,
   "RatingHistory": [
     {
@@ -5855,10 +5855,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 1483,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2024-10-17T17:58:24.04911+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 1484,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1483,
+  "NumberOfAwards": 1484,
   "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -5908,7 +5914,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 198
+      "Count": 199
     },
     {
       "Text": "This game is Relaxing",
@@ -5934,8 +5940,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2024-10-16T13:14:33.4753037+00:00",
+  "LastChanged": "2024-10-17T17:58:24.0491098+00:00",
   "LastUpdate_AppInfo": "2024-10-14T03:16:55.4847402+00:00",
-  "LastUpdate_Ratings": "2024-10-17T15:58:41.9284013+00:00",
+  "LastUpdate_Ratings": "2024-10-17T17:58:24.0491105+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:09:53.7033437+00:00"
 }
