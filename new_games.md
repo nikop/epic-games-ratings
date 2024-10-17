@@ -1,5 +1,6 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
+| [Simulakros](games/f/f264e262218f41288138a386d2e91b07.md) | 2024-10-17 | - |  | - | - |
 | [Blindfire](games/e/ee3fb82a53c141d1a756f15183ea0e37.md) | 2024-10-17 | - |  | - | - |
 | [Ynglet](games/b/b9421d3ead634300a48c4f203634d918.md) | 2024-10-17 | 12 (1,000 XP) | 2 | - | - |
 | [Arsene Lupin - Once a Thief](games/b/b640cb27f5a947d9b0fa2e812554dc79.md) | 2024-10-17 | - |  | - | 0 |
@@ -13,7 +14,7 @@
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | 14 (1,000 XP) | 30 | - | 0 |
 | [Match 3 Game The world is going to](games/b/b16528e1468f45c2b46948741ec110e3.md) | 2024-10-11 | - |  | - | - |
 | [Control](games/0/0d36d28dad0942d8be178cb68f6793af.md) | 2024-10-10 | - |  | - | - |
-| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.70 | 0 |
+| [Empyrion - Galactic Survival](games/e/edd938a6d7ec4a55ab82bba8f8dd5b22.md) | 2024-10-10 | - |  | 3.73 | 0 |
 | [Plague: London 1665](games/e/ec77abf71c4b4cc6bdb509ecad14939d.md) | 2024-10-09 | - |  | - | - |
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | 0 |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,853 | 4.31 | 49 |
