@@ -81,7 +81,7 @@
 | 70 | [Touch the Color](games/a/adc4991d2edb4cdf80d47822d9149169.md) | 1 | 39 |
 | 70 | [TRIB3](games/f/f6f888bc947145dfadda50a043c880fc.md) | 1 | 152 |
 | 70 | [Wrath: Aeon of Ruin](games/w/wrath__aeon_of_ruin.md) | 1 | 108 |
-| 4,997 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | -1 | 4 |
-| 4,997 | [Quiz Time](games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | -1 | 13 |
-| 4,997 | [Vagrus - The Riven Realms](games/v/vagrus_-_the_riven_realms.md) | -1 | 399 |
-| 5,000 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | -36 | 433,300 |
+| 4,998 | [Inspector Gadget - Mad Time Party](games/i/inspector_gadget_-_mad_time_party.md) | -1 | 4 |
+| 4,998 | [Quiz Time](games/3/3a4eb3f9b5b34db6aeed3a636c4fd154.md) | -1 | 13 |
+| 4,998 | [Vagrus - The Riven Realms](games/v/vagrus_-_the_riven_realms.md) | -1 | 399 |
+| 5,001 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | -36 | 433,300 |

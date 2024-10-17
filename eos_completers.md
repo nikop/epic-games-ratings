@@ -1047,8 +1047,8 @@
 | 622 | [Passing By - A Tailwind Journey](games/f/f47bc8a0f3e94eecbbc88021b3011f73.md) | 0.00% |
 | 622 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 0.00% |
 | 622 | [PC Building Simulator](games/p/pc_building_simulator.md) | 0.00% |
-| 622 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
 | 622 | [Peerless Destiny](games/0/0a4df5e16cb34e1cb073d347eb105904.md) | 0.00% |
+| 622 | [Peerless Destiny](games/a/aa3f4c3a1c9d48a9ac8c887ebba06e91.md) | 0.00% |
 | 622 | [Perennial Order](games/a/a71c80b62f9048bca49f060f868313d4.md) | 0.00% |
 | 622 | [PERISH](games/p/perish.md) | 0.00% |
 | 622 | [Persha and the Magic Labyrinth -Arabian Nyaights-](games/3/3645577654d440e4a833ce60dac7ccf3.md) | 0.00% |
@@ -1325,4 +1325,4 @@
 | 622 | [Zoo 2 Animal Park](games/d/d1f3026321264e2395699cd48ca3f346.md) | 0.00% |
 | 622 | [Zoria Age of Shattering](games/6/68f79f57d943452a93f56b6ef66aa76c.md) | 0.00% |
 | 622 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 0.00% |
-| 5,000 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.74% |
+| 5,001 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.74% |
