@@ -2,7 +2,7 @@
   "ID": "a8f9fb4a881e47b489715f18f7d08e2f",
   "Name": "The Wolf Among Us",
   "ProductSlug": "the-wolf-among-us",
-  "Ranking_Rating": 116,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1263,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "NumberOfRatings": 511,
   "RatingHistory": [
     {
@@ -498,6 +498,12 @@
       "Rating": 4.79,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-17T03:14:33.6014271+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -515,8 +521,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
-  "LastChanged": "2024-10-10T20:59:43.1064021+00:00",
+  "LastChanged": "2024-10-17T03:14:33.6014269+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:59.3999758+00:00",
-  "LastUpdate_Ratings": "2024-10-16T23:59:16.6370292+00:00",
+  "LastUpdate_Ratings": "2024-10-17T03:14:33.6014275+00:00",
   "LastUpdate_Achievements": "2024-10-09T19:05:35.4949494+00:00"
 }
