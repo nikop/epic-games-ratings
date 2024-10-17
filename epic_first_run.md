@@ -1,31 +1,31 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Shatterline](games/1/1b817ce74ae244e08a0b3038e77e5b6b.md) | 2024-12-31 | - |  | - | - |
+| [Shatterline](games/1/1b817ce74ae244e08a0b3038e77e5b6b.md) | 2024-12-31 | 28 (1,000 XP) | 9 | - | - |
 | [Enigma's Edge](games/4/456e25ce2188416ba190190f83a93b4f.md) | 2099-01-01 | - |  | - | - |
 | [DAY_000](games/7/7862c34b00e749a3b3066004ae157859.md) | 2099-01-01 | - |  | - | - |
-| [Sherlock Purr 2](games/6/6ab3e6e651b44c47a01354fe34eeab3c.md) | 2024-10-04 | - |  | - | 0 |
+| [Sherlock Purr 2](games/6/6ab3e6e651b44c47a01354fe34eeab3c.md) | 2024-10-04 | 20 (1,000 XP) | 56 | - | 0 |
 | [Ponchiqs](games/2/2c3811eee56e4fb98681ef11991e73dc.md) | 2024-09-30 | - |  | - | - |
-| [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
-| [Ductz](games/1/10a2adbb3abf4533a5009de9b44c2f93.md) | 2024-09-25 | - |  | - | - |
-| [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 10 | - | 0 |
+| [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | 14 (1,000 XP) | 2 | - | - |
+| [Ductz](games/1/10a2adbb3abf4533a5009de9b44c2f93.md) | 2024-09-25 | 10 (1,000 XP) | 12 | - | - |
+| [Deal With The Devil: Chapter 1 – Journey to Tuonela](games/d/d6f114b7af6644d482cf4232cca775cc.md) | 2024-09-08 | 16 (1,000 XP) | 12 | - | 0 |
 | [ATOMIC SHELTER](games/b/b005ba75ad8d488c9d8be26cb04f18fc.md) | 2024-09-16 | 14 (1,000 XP) | 1 | - | 0 |
 | [SpaceSlog](games/s/spaceslog.md) | 2025-02-28 | - |  | - | - |
-| [ZELENSTROY](games/f/f8cdddb2e147402c89c8565a9276b148.md) | 2024-08-21 | 5 (1,000 XP) | 5 | - | - |
+| [ZELENSTROY](games/f/f8cdddb2e147402c89c8565a9276b148.md) | 2024-08-21 | 5 (1,000 XP) | 6 | - | - |
 | [Destiny's Soul](games/a/a34a0b4097a640e3b495a16c93e68cf6.md) | 2099-01-01 | - |  | - | - |
 | [Jetsoccer](games/5/533d845b34614ec8aaa18d34e00b1bd9.md) | 2025-12-31 | - |  | - | - |
 | [DuckXPlanet](games/3/3ca27e4c973d497bb2e799a68cd61c29.md) | 2024-08-21 | 5 (1,000 XP) | 18 | - | - |
 | [Surrealverse](games/4/41ac4135cc994a0bb5a7349701c292df.md) | 2099-01-01 | - |  | - | - |
 | [Box Bop](games/1/14e70c79a4774d7e8b405bf123b02884.md) | 2024-08-23 | 5 (1,000 XP) | 2 | - | 0 |
-| [Airport](games/6/685f5a4e22814cf88dd98cdda721649e.md) | 2024-08-09 | 45 (1,000 XP) | 187 | - | 0 |
+| [Airport](games/6/685f5a4e22814cf88dd98cdda721649e.md) | 2024-08-09 | 45 (1,000 XP) | 223 | - | 0 |
 | [Doggy Farmer](games/c/cb78e3de03514619a506cc0f526ec22a.md) | 2099-01-01 | - |  | - | - |
 | [legend battles](games/2/2fe88dd83b2847dfa21ca99b10255447.md) | 2024-07-30 | - |  | - | - |
-| [Baby Boomer 2: 35 Years Too Soon](games/e/ec138d2df7af46d39a50c5f454c7317d.md) | 2024-08-16 | 29 (1,000 XP) | 32 | - | - |
+| [Baby Boomer 2: 35 Years Too Soon](games/e/ec138d2df7af46d39a50c5f454c7317d.md) | 2024-08-16 | 29 (1,000 XP) | 47 | - | - |
 | [Run Hero](games/c/c9b51ed8ca364bfea40efb172e02cf1d.md) | 2024-08-02 | 5 (1,000 XP) | 1 | - | - |
 | [Card Clash Chronicles](games/e/eb594d29ab71410fb26280a6fedb01b6.md) | 2024-12-31 | - |  | - | - |
-| [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | 18 (1,000 XP) | 909 | 4.60 | 0 |
+| [Darkblade Ascent](games/a/a46b9e5fc65b4adbbc35e3b6d796f4ad.md) | 2024-07-22 | 18 (1,000 XP) | 1,002 | 4.60 | 0 |
 | [DimonD Hunt](games/4/412632fc3f0d4a8e8294f22149e1dff1.md) | 2099-01-01 | - |  | - | - |
 | [Good Morning Human](games/8/8ac6e27f09754a8c8ddd5f443ce1a462.md) | 2024-12-31 | - |  | - | - |
-| [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | - |  | - | - |
+| [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | 5 (1,000 XP) | 1 | - | - |
 | [Neon Blood](games/6/6837a72a7eec4e648f78b73d025bd53e.md) | 2099-01-01 | - |  | - | - |
 | [KnockedDown](games/7/7554c88a6af74e93bd19c4ecd540a62f.md) | 2099-01-01 | - |  | - | 0 |
 | [HardGame](games/7/7ca7a846b0124a1cb722646b6123a324.md) | 2099-01-01 | - |  | - | - |
@@ -34,15 +34,15 @@
 | [Backrooms Lost Dimension](games/e/e01fcd0a8d4d44ca8a7f90021d2ffd88.md) | 2099-01-01 | - |  | - | - |
 | [Feverdream: Rainbow Chaser](games/4/4838b0b4a084422997a5b43a29ba8fd6.md) | 2024-12-31 | - |  | - | - |
 | [Deathpunk](games/e/e2d3a34aeee943f588e6a62b8968df2f.md) | 2025-12-31 | - |  | - | - |
-| [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 29 | - | - |
+| [The Assault: Survivor](games/d/df9c3614f9e44c0ea9b70d4aa01a1de5.md) | 2024-06-23 | 5 (1,000 XP) | 30 | - | - |
 | [DATA2073](games/4/43fc2169b9d44923bbce3c372911de05.md) | 2024-07-31 | - |  | - | - |
-| [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 122 | - | 0 |
-| [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2024-07-04 | 12 (1,000 XP) | 19 | - | 0 |
-| [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 3 | - | 0 |
-| [FoxCode](games/8/80637b1991524bc1bbddadd39bde04a8.md) | 2024-04-30 | 7 (1,000 XP) | 12,763 | - | 0 |
-| [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 3 | - | 0 |
+| [Protector Goddess Fight](games/4/4c53ce93a15b48c898cbeaeb86763fc7.md) | 2024-05-24 | 25 (1,000 XP) | 126 | - | 0 |
+| [EscapeGameShow : THE TIMELINE](games/1/12b7efdc754646698a2e47012a94bd13.md) | 2024-07-04 | 12 (1,000 XP) | 37 | - | 0 |
+| [Tormented Soul](games/8/88d0c87c067544bfb12d8b3bc7d28ad7.md) | 2024-09-26 | 11 (1,000 XP) | 20 | - | 0 |
+| [FoxCode](games/8/80637b1991524bc1bbddadd39bde04a8.md) | 2024-04-30 | 7 (1,000 XP) | 14,566 | - | 0 |
+| [Ertugrul of Ulukayin](games/6/6c1b595abaff48f1a519872622da0934.md) | 2024-08-16 | 6 (1,000 XP) | 144 | - | 0 |
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-12-31 | - |  | - | - |
-| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 61 | - | 0 |
+| [Get Slapped!](games/d/d998151b857341e29d5241b6d7f6fd3a.md) | 2024-05-01 | 6 (1,000 XP) | 65 | - | 0 |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | - |  | - | - |
 | [The Slayer:Rebirth](games/3/3d6e656e1ca044c880daffbf72cf9261.md) | 2099-01-01 | - |  | - | - |
 | [Mirror Of Darkness](games/5/5896d071f8c544e39aef05706c15fc11.md) | 2024-08-31 | - |  | - | 0 |
@@ -51,18 +51,18 @@
 | [Expedition: Crushing Depth](games/0/0757d1c06c08401f9c02b88bcfb47f42.md) | 2024-05-08 | 13 (1,000 XP) | 5 | - | - |
 | [Singularity](games/d/df8d7b9bd9dc461991b6dd9429e11373.md) | 2099-01-01 | - |  | - | - |
 | [Kendo Warrior](games/1/1b93bdbbc5934ba5bc467d797bd30957.md) | 2024-12-31 | - |  | - | - |
-| [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 113 | - | 0 |
+| [Fading Faith](games/f/f50caaf75b0e475abf98bcde051e3d03.md) | 2024-05-31 | 5 (1,000 XP) | 114 | - | 0 |
 | [Crime 1997](games/2/2ced7203e2f548c5b31cec8739d2a5ca.md) | 2024-12-31 | - |  | - | - |
 | [Realife Simulator](games/b/b45f4ea9d6ca4644a06b5f52ee87930e.md) | 2099-01-01 | - |  | - | - |
 | [BERLIN](games/a/ac33e7dbfeb94e6197a6ae25f2fd6c93.md) | 2099-01-01 | - |  | - | - |
 | [Sipher Odyssey](games/6/64ece5ee89d84cb99ddd8929fa957a30.md) | 2024-06-30 | - |  | - | - |
 | [Blood Rush](games/d/d65e7e627d1a472b9821ea0985ab729d.md) | 2099-01-01 | - |  | - | - |
-| [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 2,903 | - | 0 |
+| [The Watch](games/d/d42e6e432a35491e8ba1fe5150912641.md) | 2024-08-28 | 7 (1,000 XP) | 5,554 | - | 0 |
 | [Game Room](games/4/40712343dccb4c8183c34eda1c034c17.md) | 2099-01-01 | - |  | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2024-12-31 | - |  | - | - |
 | [ZUBASH](games/d/d4d23beda95c4823bb8e187260ba340c.md) | 2024-06-14 | 26 (1,000 XP) | 2 | - | 0 |
 | [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2099-12-08 | - |  | - | - |
-| [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 67 | - | - |
+| [ROAD TO EXOTICS!](games/c/c738515085eb490fb8c13acf3749e9e9.md) | 2024-05-14 | 15 (1,000 XP) | 69 | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2099-01-01 | - |  | - | - |
 | [Pantomime](games/8/83b49dc072664d6ebcfa819730e6caf7.md) | 2024-08-30 | 5 (1,000 XP) | 2 | - | - |
 | [Knowledge Party](games/f/f079b0c7395a487fb6151891e6d6faa8.md) | 2099-01-01 | - |  | - | - |

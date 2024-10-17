@@ -1,17 +1,17 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Ynglet](games/b/b9421d3ead634300a48c4f203634d918.md) | 2024-10-17 | - |  | - | - |
-| [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-10-18 | 24 (1,000 XP) | 1 | - | - |
-| [Hot Wheels Monster Trucks: Stunt Mayhem™](games/0/05014262081d48fb9eb3e071c97f4969.md) | 2024-10-18 | - |  | - | - |
-| [Bloodhound](games/0/006f821255bb41a0bf7bfdfa942667a8.md) | 2024-10-19 | - |  | - | - |
+| [Ynglet](games/b/b9421d3ead634300a48c4f203634d918.md) | 2024-10-17 | 12 (1,000 XP) | 2 | - | - |
+| [Asylum Nightmares](games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 2024-10-18 | 41 (2,000 XP) | 1 | - | - |
+| [Hot Wheels Monster Trucks: Stunt Mayhem™](games/0/05014262081d48fb9eb3e071c97f4969.md) | 2024-10-18 | 19 (1,000 XP) | 0 | - | - |
+| [Bloodhound](games/0/006f821255bb41a0bf7bfdfa942667a8.md) | 2024-10-19 | 102 (1,000 XP) | 1 | - | - |
 | [The Axis Unseen](games/t/the_axis_unseen.md) | 2024-10-22 | - |  | - | - |
-| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | - |  | - | - |
+| [Heroine Anthem ZERO 2: Scalescars Oath](games/8/85e0feb325a24818aa0a7fad441160b5.md) | 2024-10-22 | 156 (1,000 XP) | 1 | - | - |
 | [ArkCraft: The Rebirth of the World](games/3/38306de37f404f389aec3a06ef18f51f.md) | 2024-10-22 | - |  | - | - |
-| [Love is All Around: Echoes of Yesterday](games/a/ae351841163c41e1b639fc2a958e72fe.md) | 2024-10-23 | - |  | - | - |
+| [Love is All Around: Echoes of Yesterday](games/a/ae351841163c41e1b639fc2a958e72fe.md) | 2024-10-23 | 56 (1,000 XP) | 4 | - | - |
 | [Subway Outbreak](games/6/68cff49f67af49f2909be946848af18a.md) | 2024-10-23 | - |  | - | - |
 | [While We Wait Here](games/w/while_we_wait_here.md) | 2024-10-23 | 16 (1,000 XP) | 3 | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
-| [Orange Season](games/f/f4a6b55c57fa44a6ad819905f78ec85c.md) | 2024-10-24 | - |  | - | - |
+| [Orange Season](games/f/f4a6b55c57fa44a6ad819905f78ec85c.md) | 2024-10-24 | 32 (1,000 XP) | 3 | - | - |
 | [The Jackbox Survey Scramble](games/4/4b8e02fdfaad4426b9f8caa6dd4493a3.md) | 2024-10-24 | - |  | - | - |
 | [Enki's Return](games/7/79a42b67162c4f4694b3d70fcf25350d.md) | 2024-10-24 | - |  | - | - |
 | [Voidwrought](games/1/1c6e13038e00432ba0a3c11bb85d1d5f.md) | 2024-10-24 | - |  | - | - |
@@ -31,24 +31,24 @@
 | [Scrap Age Survivors](games/0/01af8acf0e43441ead54cf5cf4dc8662.md) | 2024-10-31 | - |  | - | - |
 | [The InBetween](games/0/07d2e0643d6d4c1a9a2e690c48d576b2.md) | 2024-10-31 | - |  | - | - |
 | [The Smurfs – Dreams](games/d/d6bbed959ee545229d579407d5616452.md) | 2024-10-31 | - |  | - | - |
-| [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | - |  | - | - |
-| [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 0 | - | - |
+| [NINJA REVENGER](games/a/adb863608a8b46c9875012800780a0dd.md) | 2024-10-31 | 14 (1,000 XP) | 2 | - | - |
+| [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-10-31 | 62 (1,000 XP) | 2 | - | - |
 | [Horizon Zero Dawn™ Remastered](games/f/f4bfcee7af9b46f182ac93bd01494595.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/b/ba9a105d40234e4698bf79a789ef4b01.md) | 2024-10-31 | - |  | - | - |
 | [Dragon Age™: The Veilguard](games/4/4583306dbdc34076ac7ac2bf19bf7096.md) | 2024-10-31 | - |  | - | - |
 | [Quriocity](games/4/4baee0e30e784c43ac6d9432705c6559.md) | 2024-11-01 | 58 (1,000 XP) | 1 | - | - |
 | [Teenage Mutant Ninja Turtles: Splintered Fate](games/7/7f983c72f7824a41b5ef591ccc365abd.md) | 2024-11-06 | - |  | - | - |
-| [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | - |  | - | - |
+| [Planet Coaster 2](games/d/d945e57b9dde4510b664a581fead2819.md) | 2024-11-06 | 36 (1,000 XP) | 14 | - | - |
 | [Goat Simulator Remastered](games/9/9686eab4b6914aecb78934b95fd25919.md) | 2024-11-07 | - |  | - | - |
 | [Empire of the Ants](games/e/empire_of_the_ants.md) | 2024-11-07 | - |  | - | - |
-| [Two Falls (Nishu Takuatshina)](games/8/864151ebfd544c4fb3f1de25e361713f.md) | 2024-11-08 | - |  | - | - |
-| [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | - |  | - | - |
+| [Two Falls (Nishu Takuatshina)](games/8/864151ebfd544c4fb3f1de25e361713f.md) | 2024-11-08 | 12 (1,000 XP) | 0 | - | - |
+| [Slitterhead](games/f/f13456de6aaf42a890b87c4b8e45aa7a.md) | 2024-11-08 | 41 (1,000 XP) | 3 | - | - |
 | [Farming Simulator 25](games/e/e2f07405a896421fa0348e7863f7b97b.md) | 2024-11-12 | - |  | - | - |
 | [LEGO® Horizon Adventures™](games/b/bdb4adaa3874491bbafe9a16b2764200.md) | 2024-11-14 | - |  | - | - |
 | [Pocket Legend](games/f/faea33f432634a328f84723d574e6db3.md) | 2024-11-15 | - |  | - | - |
 | [Pro Basketball Manager 2025](games/6/645d341503a04bfa8c129e42ffd196f4.md) | 2024-11-18 | - |  | - | - |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2024-11-20 | - |  | - | - |
-| [Mineral](games/2/21594c7216e5490d906b0a32306bea1d.md) | 2024-11-21 | - |  | - | - |
+| [Mineral](games/2/21594c7216e5490d906b0a32306bea1d.md) | 2024-11-21 | 35 (1,000 XP) | 1 | - | - |
 | [Flint: The Treasure of Oblivion](games/a/ae1a11a634df42feb2e6c28eea474260.md) | 2024-11-30 | - |  | - | - |
 | [Forgotten Playland](games/f/f10e47423c174a2fb9e271a20ced4fd0.md) | 2024-11-30 | - |  | - | - |
 | [Hidden Oddities](games/e/e9b119f0f7e04e35a9abc86e415cc233.md) | 2024-11-30 | - |  | - | - |
@@ -101,7 +101,7 @@
 | [MATCHO](games/d/d192be5921354325abfb1aae75ec106c.md) | 2024-12-31 | - |  | - | - |
 | [MENACE](games/d/d21aef9c18434bd89ee67023baba05fe.md) | 2024-12-31 | - |  | - | - |
 | [Metarush](games/c/c9bc37f95dbc4104bdfa7f8e1da7a149.md) | 2024-12-31 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-12-31 | 31 (1,000 XP) | 398,740 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-12-31 | 31 (1,000 XP) | 398,690 | - | - |
 | [Monster knockout](games/9/9f6d3a33ba034660a209ba9a92a5403c.md) | 2024-12-31 | - |  | - | - |
 | [MonTamer](games/m/montamer.md) | 2024-12-31 | - |  | - | - |
 | [Myth & Mirage](games/5/5180c8d470c54875b18e52723630fdbb.md) | 2024-12-31 | - |  | - | - |
@@ -113,7 +113,7 @@
 | [RetraceTheLight](games/8/8154a95d8e314c43984ae952dd55e8dd.md) | 2024-12-31 | - |  | - | - |
 | [REVENGE](games/6/6beebb4d356a48118e607e2112bca45f.md) | 2024-12-31 | - |  | - | - |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2024-12-31 | - |  | - | - |
-| [Shatterline](games/1/1b817ce74ae244e08a0b3038e77e5b6b.md) | 2024-12-31 | - |  | - | - |
+| [Shatterline](games/1/1b817ce74ae244e08a0b3038e77e5b6b.md) | 2024-12-31 | 28 (1,000 XP) | 9 | - | - |
 | [Soliloquy](games/s/soliloquy.md) | 2024-12-31 | - |  | - | - |
 | [Space Chef](games/7/74bc63c48667442dad23f44f7daec969.md) | 2024-12-31 | - |  | - | - |
 | [Star Vortex](games/f/f752f0d1dba941d1934cfdb69c8e944d.md) | 2024-12-31 | - |  | - | - |
@@ -161,7 +161,7 @@
 | [Football Manager 25](games/9/9f892a3482964b6ab070a1fa360a2e69.md) | 2025-03-31 | - |  | - | - |
 | [FATAL FURY: City of the Wolves Special Edition](games/6/6ce9cadbab474f07928e3035473289d2.md) | 2025-04-24 | - |  | - | - |
 | [Navigating The Labyrinth](games/2/223e662749a74e1dbf26715af200def1.md) | 2025-04-28 | - |  | - | - |
-| [Battle Bits](games/d/dd2c84892f4945a48cf4213842f57fa0.md) | 2025-04-28 | - |  | - | - |
+| [Battle Bits](games/d/dd2c84892f4945a48cf4213842f57fa0.md) | 2025-04-28 | 82 (1,000 XP) | 0 | - | - |
 | [Pantheon Rift](games/p/project_chaos.md) | 2025-04-30 | - |  | - | - |
 | [Quantum Command](games/f/f49b950ecea842f5a5ba4911a5f19bba.md) | 2025-04-30 | - |  | - | - |
 | [Colonies of the Remnant](games/4/4d52bed5776a4ac48c0b87c7ab87cddf.md) | 2025-06-27 | - |  | - | - |
@@ -393,7 +393,7 @@
 | [GHOST at DAWN](games/7/709be43d805f419daa4880a85185a152.md) | 2099-01-01 | - |  | - | - |
 | [Golden Tides](games/2/260d3867eaa144fe9b0cd339fdb1b6ab.md) | 2099-01-01 | - |  | - | - |
 | [Goldilock One - BOSS Arena](games/g/goldilock_one_-_boss_arena.md) | 2099-01-01 | - |  | - | - |
-| [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 2099-01-01 | 14 (1,000 XP) | 5 | - | - |
+| [Golfing in Aether](games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 2099-01-01 | 14 (1,000 XP) | 10 | - | - |
 | [Good Heavens!](games/g/good_heavens!.md) | 2099-01-01 | - |  | - | - |
 | [Good Kill!](games/1/19f5f1c6259941838c77d24b3e7fd212.md) | 2099-01-01 | - |  | - | - |
 | [GRAFT](games/3/3d7df0c46165458092b4ab6d3218cc89.md) | 2099-01-01 | - |  | - | - |
@@ -431,7 +431,7 @@
 | [Infection Free Zone](games/5/582f0eafbde4494bbf31ef210830dd62.md) | 2099-01-01 | - |  | - | - |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | - |  | - | - |
 | [Infinity Nikki](games/a/ad13a7222a9b4e899e14cd021c7c5118.md) | 2099-01-01 | - |  | - | - |
-| [InFlux Redux](games/b/b54c9aa442944825966a8d5987933238.md) | 2099-01-01 | - |  | - | - |
+| [InFlux Redux](games/b/b54c9aa442944825966a8d5987933238.md) | 2099-01-01 | 9 (1,000 XP) | 1 | - | - |
 | [Inspector Schmidt - A Bavarian Tale](games/e/e17d960b753b44a8a3ee17241fbdbedd.md) | 2099-01-01 | 30 (1,000 XP) | 1 | - | - |
 | [Intravenous](games/1/1a75390ae85d492d875b29a6e7fe1466.md) | 2099-01-01 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2099-01-01 | - |  | - | 0 |
@@ -454,7 +454,7 @@
 | [Last Words](games/l/last_words.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Creatures 2](games/4/4ffea6176cd44dd7b7d4dc96f5b17a64.md) | 2099-01-01 | - |  | - | - |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | - |  | - | - |
-| [Legion TD 2](games/5/524c3386e7e6470a8d8400cc51d92296.md) | 2099-01-01 | - |  | - | - |
+| [Legion TD 2](games/5/524c3386e7e6470a8d8400cc51d92296.md) | 2099-01-01 | 78 (1,000 XP) | 2 | - | - |
 | [Lethal Honor - Order of the Apocalypse](games/4/4fd8ab38c14c4d91ba07aae139723027.md) | 2099-01-01 | - |  | - | - |
 | [Liberta Rise of Freedom](games/4/4a48a5997a5e45c887053d25a0a4e49d.md) | 2099-01-01 | - |  | - | - |
 | [Life After End](games/0/02ecdb76193847068c30293dcad33190.md) | 2099-01-01 | - |  | - | - |
@@ -478,7 +478,7 @@
 | [Mara's Quest](games/m/mara's_quest.md) | 2099-01-01 | - |  | - | - |
 | [Mariachi Legends](games/b/b36b7a4e0cb940bda5e3cac83b0955f4.md) | 2099-01-01 | - |  | - | - |
 | [Maritime hegemony](games/2/2f903cb0807545078d2c65248e75afb3.md) | 2099-01-01 | - |  | - | - |
-| [Mark of the Deep](games/3/3d6441ab9d4246208bc97d7babf664b5.md) | 2099-01-01 | - |  | - | - |
+| [Mark of the Deep](games/3/3d6441ab9d4246208bc97d7babf664b5.md) | 2099-01-01 | 10 (1,000 XP) | 3 | - | - |
 | [Max Beyond](games/0/0eab9a9677e141ac8c2551fc0d05fe11.md) | 2099-01-01 | - |  | - | - |
 | [Memory Lost](games/7/767f4ae2fc194d7fb26b6276e6c81675.md) | 2099-01-01 | - |  | - | - |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | - |  | - | - |
@@ -503,7 +503,7 @@
 | [Nifty Smashers](games/b/b2e06ea07b234d5cafe9fdcfe03aadf9.md) | 2099-01-01 | - |  | - | - |
 | [Nirvana Noir](games/b/bfe6ea830f804ba0a9fb3202d6e87514.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
-| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 447 | - | - |
+| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 448 | - | - |
 | [Norse](games/0/059219b5334940bbbf06e995c6b74e21.md) | 2099-01-01 | - |  | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Nyan Heroes](games/8/8e8c6752bd704123adc71241c92e7bce.md) | 2099-01-01 | - |  | - | - |
@@ -531,7 +531,7 @@
 | [Project Vesperi](games/5/55dfac02aaca4e078a868f3b9338b1f0.md) | 2099-01-01 | - |  | - | - |
 | [Project Wunderwaffe](games/5/510596dec35f49d084d339157539ef52.md) | 2099-01-01 | - |  | - | - |
 | [Prospect](games/c/c55698c1101c4c9e9b1448e08bd29be2.md) | 2099-01-01 | - |  | - | - |
-| [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | - |  | - | - |
+| [PROTOBOT](games/c/ce37450ae2f9431cacb23244a0d8ac76.md) | 2099-01-01 | 5 (1,000 XP) | 1 | - | - |
 | [Providence](games/4/46ddbd5e69374a07839e584a4bc8e8b2.md) | 2099-01-01 | - |  | - | - |
 | [PUGS Agents](games/p/pugs_agents.md) | 2099-01-01 | - |  | - | - |
 | [Puzzles for Clef](games/p/puzzles_for_clef.md) | 2099-01-01 | - |  | - | - |
@@ -687,7 +687,7 @@
 | [WorldShards](games/9/9fc3b81795414dc991af6c884d05b058.md) | 2099-01-01 | - |  | - | - |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | - |  | - | - |
 | [Your Chronicle](games/d/d62d66d0e4084ac4a941e1293a053e53.md) | 2099-01-01 | - |  | - | - |
-| [Ys X: Nordics](games/7/78e018c4f69d4ffc8840f94a76146822.md) | 2099-01-01 | - |  | - | - |
+| [Ys X: Nordics](games/7/78e018c4f69d4ffc8840f94a76146822.md) | 2099-01-01 | 54 (1,000 XP) | 0 | - | - |
 | [Zoochosis](games/5/5a0d5a894354436095e7d06b63ad09d4.md) | 2099-01-01 | - |  | - | - |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | 2099-01-01 | - |  | - | - |
 | [Binary Smoke](games/b/binary_smoke.md) | 2099-01-02 | - |  | - | - |

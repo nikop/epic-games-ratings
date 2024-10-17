@@ -2,10 +2,12 @@
 | ---- | ------------------ | -------- | ---- |
 | [](../games/4/4ceb047b661d401e95132c459fb00f9a.md) | 0 | 0 | 2 |
 | [A Hero's Rest: An RPG Town Simulator](../games/a/a_hero's_rest.md) | 0 | 0 | 2 |
+| [Against the Storm](../games/a/against_the_storm.md) | 66 | 1,100 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 72 | 1,735 | 2 |
 | [Alan Wake 2](../games/a/alan_wake_2.md) | 78 | 1,200 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [ArcRunner](../games/a/arcrunner.md) | 29 | 1,150 | 2 |
+| [Asylum Nightmares](../games/c/c9b641a9fe7d4797a0d06e4ace1e0640.md) | 41 | 2,000 | 2 |
 | [Atlas Fallen: Reign Of Sand](../games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 38 | 1,045 | 2 |
 | [Battlefield 4™ Premium Edition](../games/0/0a541deb1bbb42c987cb48d695431e18.md) | 67 | 1,990 | 2 |
 | [Battlefield™ 1 Revolution](../games/a/a71ff65b058146b88b2562ef447f9fc2.md) | 50 | 2,000 | 2 |
@@ -16,6 +18,7 @@
 | [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
 | [Cyberpunk 2077](../games/c/cyberpunk_2077.md) | 57 | 1,500 | 2 |
 | [Darkest Dungeon II](../games/d/darkest_dungeon_ii.md) | 79 | 1,270 | 2 |
+| [Dauntless](../games/d/dauntless.md) | 0 | 0 | 2 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 257 | 6,205 | 2 |
 | [Dead Island 2](../games/d/dead_island_2.md) | 57 | 1,300 | 2 |
 | [Dead Space™ 3](../games/a/a8b1e0df5fc847da9b7971d5821ee6f6.md) | 58 | 1,250 | 2 |
@@ -24,6 +27,7 @@
 | [Disco Elysium - The Final Cut](../games/d/disco_elysium_-_the_final_cut.md) | 45 | 1,070 | 2 |
 | [DOOM Eternal](../games/b/b5ac16dc12f3478e99dcfea07c13865c.md) | 50 | 1,545 | 2 |
 | [Dragon Age: Inquisition – Game of the Year Edition](../games/a/afe2527e29b94db48b2eef984e34d81a.md) | 69 | 1,750 | 2 |
+| [Dungeons of Hinterberg](../games/e/e42faa3ca424411db871181e13664ef3.md) | 41 | 1,000 | 2 |
 | [Dying Light 2 Stay Human - Reloaded Edition](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 66 | 1,200 | 2 |
 | [Europa Universalis IV](../games/e/europa_universalis_iv.md) | 373 | 5,500 | 2 |
@@ -40,7 +44,7 @@
 | [Ghostrunner](../games/g/ghostrunner.md) | 45 | 1,195 | 2 |
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 54 | 1,705 | 2 |
 | [Gotham Knights](../games/g/gotham_knights.md) | 61 | 1,390 | 2 |
-| [GRID Legends](../games/4/4dbce3b6359541ae90e4fcb14c9d2164.md) | 0 | 0 | 2 |
+| [GRID Legends](../games/4/4dbce3b6359541ae90e4fcb14c9d2164.md) | 90 | 1,800 | 2 |
 | [GRIME](../games/g/grime.md) | 46 | 1,210 | 2 |
 | [HAAK](../games/2/24bd39f944fa45ad8a953116f9908525.md) | 57 | 1,200 | 2 |
 | [Hi-Fi RUSH](../games/h/hi-fi_rush.md) | 71 | 1,250 | 2 |
@@ -49,15 +53,16 @@
 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](../games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 55 | 1,170 | 2 |
 | [House Party](../games/h/house_party.md) | 69 | 1,040 | 2 |
 | [HyperRogue](../games/e/e11032a0439743babf7f530e4e747145.md) | 308 | 2,135 | 2 |
-| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 598 | 2,990 | 2 |
+| [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 606 | 3,030 | 2 |
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 | 2 |
 | [Kingdom Rush Vengeance](../games/c/c0d2e8a180624787be1c4c6386493796.md) | 77 | 1,000 | 2 |
 | [Lords of the Fallen](../games/t/the_lords_of_the_fallen.md) | 72 | 1,200 | 2 |
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 65 | 1,500 | 2 |
-| [Mass Effect 3 N7 Digital Deluxe Edition](../games/f/ff53808bb3b5462283516ab21d09a4dc.md) | 0 | 0 | 2 |
+| [Mass Effect 3 N7 Digital Deluxe Edition](../games/f/ff53808bb3b5462283516ab21d09a4dc.md) | 68 | 1,550 | 2 |
 | [Mass Effect™ Legendary Edition](../games/m/mass_effect™_legendary_edition.md) | 127 | 2,915 | 2 |
 | [Mega City Force](../games/m/mega_city_police.md) | 27 | 1,050 | 2 |
+| [Monster Jam™ Showdown](../games/4/42c70202dc684966a827bfcb7b49ac5f.md) | 50 | 1,000 | 2 |
 | [Need for Speed™ Deluxe Edition](../games/7/77961f9557a149a8bf1cf761220d9d24.md) | 45 | 1,500 | 2 |
 | [Need for Speed™ Payback - Deluxe Edition](../games/3/319f44ad1aa041e58a0c8b4bed868adb.md) | 57 | 1,250 | 2 |
 | [Not Another Weekend](../games/0/0de089d70ff5482285814bb5df921541.md) | 37 | 1,000 | 2 |
@@ -70,9 +75,9 @@
 | [Plants vs. Zombies™ GW2: Deluxe Edition](../games/1/156c9c9399f940878eec5e83b446198f.md) | 63 | 1,250 | 2 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 | 2 |
 | [Quest Hunter](../games/b/b72f5f79f855471e9691ff22e4967656.md) | 74 | 1,110 | 2 |
-| [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |
+| [RAGE 2](../games/r/rage_2.md) | 65 | 1,435 | 2 |
 | [Railway Empire 2](../games/r/railway_empire_2.md) | 66 | 1,260 | 2 |
-| [Remnant II®](../games/r/remnant_2.md) | 60 | 1,500 | 2 |
+| [Remnant II®](../games/r/remnant_2.md) | 65 | 1,750 | 2 |
 | [Ring of Pain](../games/r/ring_of_pain.md) | 138 | 1,180 | 2 |
 | [Roboquest](../games/c/c981760ff69f4586aedb60a6db191705.md) | 81 | 1,070 | 2 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 | 2 |
@@ -87,6 +92,7 @@
 | [Stray Blade](../games/s/stray_blade.md) | 52 | 1,200 | 2 |
 | [Stray Gods: The Roleplaying Musical](../games/0/0113dd49216f4f2d995ef9a6eebd67f4.md) | 37 | 1,000 | 2 |
 | [Tails of Iron](../games/t/tails_of_iron.md) | 36 | 1,230 | 2 |
+| [Tents and Trees](../games/c/c3ee706f06354a7ca940a71fc28aa887.md) | 32 | 1,000 | 2 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 35 | 1,210 | 2 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 47 | 1,750 | 2 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 | 2 |
