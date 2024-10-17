@@ -1,15 +1,15 @@
 # Rogue Legacy
 [Store](https://store.epicgames.com/en-US/p/rogue-legacy)  
 [View Rawdata](../../db/r/rogue_legacy.json)  
-Rating: 4.61 (Ranked 468)  
+Rating: 4.61 (Ranked 469)  
 Number of Ratings: 2,133  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,193  (Ranked 189)  
-Sum: 1,760 (Ranked 287)  
+Max (Great Boss Battles): 1,196  (Ranked 188)  
+Sum: 1,763 (Ranked 286)  
 Diff (max vs sum): -98  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,193 |
+| This game has Great Boss Battles | 1,196 |
 | This game is Great for Quick Sessions | 68 |
 | This game is Highly Recommended | 67 |
 | This game has Amazing Characters | 62 |
@@ -251,3 +251,4 @@ Diff (max vs sum): -98
 | 2024-10-11 | 4.61 | - | 1,193 | 1,758 |
 | 2024-10-12 | 4.61 | - | 1,193 | 1,759 |
 | 2024-10-15 | 4.61 | - | 1,193 | 1,760 |
+| 2024-10-17 | 4.61 | - | 1,196 | 1,763 |

@@ -2,9 +2,9 @@
   "ID": "b61e8ddd14e94619b7a74cf9d73f86b5",
   "Name": "EA SPORTS FC\u2122 25 Standard Edition",
   "ProductSlug": "ea-sports-fc-25",
-  "Ranking_Rating": 1175,
-  "Ranking_Popularity": 341,
-  "Ranking_PopularitySum": 339,
+  "Ranking_Rating": 1164,
+  "Ranking_Popularity": 330,
+  "Ranking_PopularitySum": 334,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2024-09-27T16:59:14.411303+00:00",
@@ -643,18 +643,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 1022,
       "NumberOfAwardsMax": 262
+    },
+    {
+      "Time": "2024-10-17T18:58:26.7342404+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 1062,
+      "NumberOfAwardsMax": 283
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1022,
-  "NumberOfAwardsMax": 262,
+  "NumberOfAwards": 1062,
+  "NumberOfAwardsMax": 283,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 262
+      "Count": 283
     },
     {
       "Text": "This game has Amazing Characters",
@@ -678,7 +684,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 147
+      "Count": 166
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1039,9 +1045,9 @@
   "FirstSeen": "2024-09-27T04:58:58.5500316+00:00",
   "FirstSeenRating": "2024-09-27T16:59:14.4113028+00:00",
   "FirstSeenAchievements": "2024-10-17T05:14:24.9401681+00:00",
-  "LastChanged": "2024-10-17T16:59:57.9860964+00:00",
+  "LastChanged": "2024-10-17T18:58:26.7342402+00:00",
   "LastChanged_Achievements": "2024-10-17T05:14:24.9401656+00:00",
   "LastUpdate_AppInfo": "2024-10-16T23:57:09.5415619+00:00",
-  "LastUpdate_Ratings": "2024-10-17T16:59:57.9860969+00:00",
+  "LastUpdate_Ratings": "2024-10-17T18:58:26.7342407+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:14:24.9408406+00:00"
 }

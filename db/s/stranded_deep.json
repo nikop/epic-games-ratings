@@ -2,8 +2,8 @@
   "ID": "5fd8f5ae809f46d4b33741cc80d3aef8",
   "Name": "Stranded Deep",
   "ProductSlug": "stranded-deep",
-  "Ranking_Rating": 1123,
-  "Ranking_Popularity": 321,
+  "Ranking_Rating": 1124,
+  "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
@@ -4627,11 +4627,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 1807,
       "NumberOfAwardsMax": 302
+    },
+    {
+      "Time": "2024-10-17T18:57:36.5541614+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1810,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1807,
-  "NumberOfAwardsMax": 302,
+  "NumberOfAwards": 1810,
+  "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4680,7 +4686,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 302
+      "Count": 305
     },
     {
       "Text": "This game has a Creative Community",
@@ -4706,8 +4712,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:30:37.8027761+00:00",
-  "LastChanged": "2024-10-17T13:16:46.4533136+00:00",
+  "LastChanged": "2024-10-17T18:57:36.5541612+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:29.8073346+00:00",
-  "LastUpdate_Ratings": "2024-10-17T16:58:43.5476309+00:00",
+  "LastUpdate_Ratings": "2024-10-17T18:57:36.5541618+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:13:24.9701435+00:00"
 }

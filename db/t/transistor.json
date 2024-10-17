@@ -2,7 +2,7 @@
   "ID": "bc81d1e7d1794d3a94e4dbf26e92166d",
   "Name": "Transistor",
   "ProductSlug": "transistor",
-  "Ranking_Rating": 414,
+  "Ranking_Rating": 391,
   "Ranking_Popularity": 741,
   "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1327,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 4.63,
+  "Rating": 4.64,
   "NumberOfRatings": 123,
   "RatingHistory": [
     {
@@ -381,6 +381,12 @@
       "Rating": 4.63,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-10-17T18:59:23.8239251+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -398,8 +404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:51.9037164+00:00",
-  "LastChanged": "2024-09-15T13:58:06.3120494+00:00",
+  "LastChanged": "2024-10-17T18:59:23.8239249+00:00",
   "LastUpdate_AppInfo": "2024-10-14T10:57:26.0230537+00:00",
-  "LastUpdate_Ratings": "2024-10-17T17:01:24.0993806+00:00",
+  "LastUpdate_Ratings": "2024-10-17T18:59:23.8239254+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:12:21.9551282+00:00"
 }

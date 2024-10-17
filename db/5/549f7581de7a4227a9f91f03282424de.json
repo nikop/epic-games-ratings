@@ -2,6 +2,9 @@
   "ID": "549f7581de7a4227a9f91f03282424de",
   "Name": "Priest Simulator: Vampire Show",
   "ProductSlug": "priest-simulator-vampire-show-71f336",
+  "Ranking_Rating": 820,
+  "Ranking_Popularity": 741,
+  "Ranking_PopularitySum": 741,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -20,7 +23,15 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.45,
+  "RatingHistory": [
+    {
+      "Time": "2024-10-17T18:59:26.8501131+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
@@ -36,7 +47,9 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2024-10-07T18:57:49.7578701+00:00",
+  "FirstSeenRating": "2024-10-17T18:59:26.8501129+00:00",
+  "LastChanged": "2024-10-17T18:59:26.850113+00:00",
   "LastUpdate_AppInfo": "2024-10-16T07:57:23.4407272+00:00",
-  "LastUpdate_Ratings": "2024-10-17T17:01:28.5804061+00:00",
+  "LastUpdate_Ratings": "2024-10-17T18:59:26.850114+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:06:14.0565748+00:00"
 }
