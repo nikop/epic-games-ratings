@@ -1,7 +1,7 @@
 # Empyrion - Galactic Survival
 [Store](https://store.epicgames.com/en-US/p/empyrion-galactic-survival-fbd99f)  
 [View Rawdata](../../db/e/edd938a6d7ec4a55ab82bba8f8dd5b22.json)  
-Rating: 3.69 (Ranked 1,324)  
+Rating: 3.70 (Ranked 1,322)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -11,4 +11,4 @@ Rating: 3.69 (Ranked 1,324)
 | 2024-10-14 | 3.63 | 0 | 0 |
 | 2024-10-15 | 3.67 | 0 | 0 |
 | 2024-10-16 | 3.68 | 0 | 0 |
-| 2024-10-17 | 3.69 | 0 | 0 |
+| 2024-10-17 | 3.70 | 0 | 0 |

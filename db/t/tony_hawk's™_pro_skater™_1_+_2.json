@@ -4,7 +4,7 @@
   "ProductSlug": "tony-hawks-pro-skater-1-and-2",
   "Ranking_Rating": 94,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 362,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 1327,
   "Ranking_EOS_Completed": 622,
   "Ranking_EOS_NewPlayers": 82,
@@ -2600,10 +2600,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 892,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2024-10-17T13:58:11.9870721+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 893,
+      "NumberOfAwardsMax": 120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 892,
+  "NumberOfAwards": 893,
   "NumberOfAwardsMax": 120,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2659,7 +2665,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 110
+      "Count": 111
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2697,8 +2703,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:55.4170175+00:00",
-  "LastChanged": "2024-10-16T17:57:33.758329+00:00",
+  "LastChanged": "2024-10-17T13:58:11.9870717+00:00",
   "LastUpdate_AppInfo": "2024-10-14T17:57:28.7983838+00:00",
-  "LastUpdate_Ratings": "2024-10-17T11:59:08.0249101+00:00",
+  "LastUpdate_Ratings": "2024-10-17T13:58:11.9870724+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:20.5807559+00:00"
 }
