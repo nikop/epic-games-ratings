@@ -6115,10 +6115,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 10778,
       "NumberOfAwardsMax": 4057
+    },
+    {
+      "Time": "2024-10-17T21:58:47.5391521+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 10792,
+      "NumberOfAwardsMax": 4057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10778,
+  "NumberOfAwards": 10792,
   "NumberOfAwardsMax": 4057,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6132,7 +6138,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 640
+      "Count": 644
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6150,7 +6156,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 645
+      "Count": 647
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6168,7 +6174,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 698
+      "Count": 703
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6186,7 +6192,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 633
+      "Count": 636
     },
     {
       "Text": "This game has a Creative Community",
@@ -6864,9 +6870,9 @@
   "FirstSeen": "2024-05-16T16:00:42.2669497+00:00",
   "FirstSeenRating": "2024-05-17T11:59:38.4268398+00:00",
   "FirstSeenAchievements": "2024-03-21T17:05:29.7616655+00:00",
-  "LastChanged": "2024-10-17T18:01:20.5447584+00:00",
+  "LastChanged": "2024-10-17T21:58:47.5391519+00:00",
   "LastChanged_Achievements": "2024-10-17T05:15:13.2257625+00:00",
   "LastUpdate_AppInfo": "2024-10-17T13:14:22.0611394+00:00",
-  "LastUpdate_Ratings": "2024-10-17T19:59:20.3769209+00:00",
+  "LastUpdate_Ratings": "2024-10-17T21:58:47.5391526+00:00",
   "LastUpdate_Achievements": "2024-10-17T05:15:13.2258331+00:00"
 }
