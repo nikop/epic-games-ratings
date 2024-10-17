@@ -1,7 +1,7 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.60 (Ranked 492)  
+Rating: 4.60 (Ranked 491)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -336,7 +336,7 @@ Completed: 3 (0.00%) (Ranked 622)
 | 2024-10-17 | 656,470 | 3 |
 ## Awards
 Max (Challenging Combat): 591  (Ranked 262)  
-Sum: 4,712 (Ranked 190)  
+Sum: 4,713 (Ranked 190)  
 Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
@@ -347,8 +347,8 @@ Diff (max vs sum): 72
 | This game is Extremely Fun | 525 |
 | This game has Competitive Players | 519 |
 | This game has Amazing Storytelling | 488 |
+| This game has Amazing Characters | 479 |
 | This game has a Competitive Community | 479 |
-| This game has Amazing Characters | 478 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -955,3 +955,4 @@ Diff (max vs sum): 72
 | 2024-10-14 | 4.60 | - | 590 | 4,706 |
 | 2024-10-15 | 4.60 | - | 590 | 4,710 |
 | 2024-10-16 | 4.60 | - | 591 | 4,712 |
+| 2024-10-17 | 4.60 | - | 591 | 4,713 |
