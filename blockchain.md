@@ -65,6 +65,7 @@
 | [StrayShot](games/3/36392e8ef45f461a99ef6f3015fa2f66.md) | 2024-12-31 | - |  | - | - |
 | [Voyager: Ascension](games/1/11f121ab17ac41c79278a6e3c15cfd3b.md) | 2024-12-31 | - |  | - | - |
 | [Forgotten Playland](games/f/f10e47423c174a2fb9e271a20ced4fd0.md) | 2024-11-30 | - |  | - | - |
+| [X-WAR](games/d/d18b872280c94988b11e839c70513ee1.md) | 2024-11-11 | - |  | - | - |
 | [Cyberpunk City](games/8/82c2df7da9fd45b081b76db3034b99b4.md) | 2024-10-24 | - |  | - | - |
 | [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.86 | 0 |
 | [BATTLE BEARS HEROES](games/3/3821ed04487b41c0b7a6620209fd04fd.md) | 2024-10-04 | - |  | - | 0 |
@@ -113,7 +114,7 @@
 | [Necrodemic](games/7/783e2df24ab34679842dd2e12fb373d3.md) | 2024-04-30 | - |  | - | - |
 | [Altiros](games/3/35246776c777428db5218f7e758e18be.md) | 2024-04-24 | - |  | - | 0 |
 | [The Machines Arena](games/t/the_machines_arena.md) | 2024-04-23 | - |  | 4.78 | 62 |
-| [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-04-22 | - |  | 4.70 | 51 |
+| [Parallel TCG](games/1/16a5443c2b994a64b665f02b72ef42b3.md) | 2024-04-22 | - |  | 4.70 | 54 |
 | [Mars Battle](games/6/62681f0dc1b14afea3f65c97225ea517.md) | 2024-04-20 | 7 (1,000 XP) | 3,201 | - | 0 |
 | [PARAVOX](games/e/eaa0fed73635472aadec4ef232689d9c.md) | 2024-04-01 | - |  | - | 0 |
 | [Mars4](games/1/1efdb71c3b294c9fbc54bfd801e5f053.md) | 2024-03-31 | - |  | - | 0 |
