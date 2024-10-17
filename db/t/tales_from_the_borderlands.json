@@ -3,8 +3,8 @@
   "Name": "Tales from the Borderlands",
   "ProductSlug": "tales-from-the-borderlands",
   "Ranking_Rating": 153,
-  "Ranking_Popularity": 699,
-  "Ranking_PopularitySum": 708,
+  "Ranking_Popularity": 692,
+  "Ranking_PopularitySum": 704,
   "Ranking_EOS_Progress": 1263,
   "Ranking_EOS_Completed": 595,
   "Ranking_EOS_NewPlayers": 3,
@@ -356,18 +356,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-10-17T04:00:48.4884828+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 25
+      "Count": 26
     }
   ],
   "EOS_Progressed": 0,
@@ -382,8 +388,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:03.1733272+00:00",
   "FirstSeenRating": "2022-08-28T13:31:01.8966538+00:00",
-  "LastChanged": "2024-10-16T16:58:25.0470325+00:00",
+  "LastChanged": "2024-10-17T04:00:48.4884827+00:00",
   "LastUpdate_AppInfo": "2024-10-14T16:57:59.2662466+00:00",
-  "LastUpdate_Ratings": "2024-10-17T03:13:52.1875667+00:00",
+  "LastUpdate_Ratings": "2024-10-17T04:00:48.4884833+00:00",
   "LastUpdate_Achievements": "2024-09-14T14:24:45.2277071+00:00"
 }

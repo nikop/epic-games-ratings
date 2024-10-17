@@ -338,7 +338,7 @@ Completed: 6 (0.01%) (Ranked 563)
 | 2024-09-14 | 76,774 | 6 |
 ## Awards
 Max (Great for Quick Sessions): 67  (Ranked 540)  
-Sum: 480 (Ranked 429)  
+Sum: 482 (Ranked 429)  
 Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
@@ -349,7 +349,7 @@ Diff (max vs sum): 111
 | This game has Beautiful Visuals | 50 |
 | This game has Quickly Understood Controls | 48 |
 | This game has Diverse Characters | 48 |
-| This game is Relaxing | 43 |
+| This game is Relaxing | 45 |
 | This game has Amazing Storytelling | 38 |
 | This game has Amazing Characters | 36 |
 | This game has a Kind Community | 30 |
@@ -588,3 +588,4 @@ Diff (max vs sum): 111
 | 2024-10-11 | 4.67 | - | 67 | 477 |
 | 2024-10-12 | 4.67 | - | 67 | 479 |
 | 2024-10-13 | 4.67 | - | 67 | 480 |
+| 2024-10-17 | 4.67 | - | 67 | 482 |
