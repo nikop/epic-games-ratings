@@ -5,7 +5,7 @@
 | [3 Minutes to Midnight](games/9/98c3a59780714527a356c7c242690eaa.md) | 2024-10-15 | 60 (1,000 XP) | 2 | - | - |
 | [Labyrinth Destroyer 1](games/c/c26e2daeda1d48d99cfc15741fa66e88.md) | 2024-10-15 | - |  | - | - |
 | [SOF: Enemy from the future](games/f/fc2dfecf4eba4d2984b8042ca34585f2.md) | 2024-10-14 | - |  | - | - |
-| [DiggerSim - Excavator Simulator](games/c/cc3592f8f7fc4bbeb074ab6e4dfab786.md) | 2024-10-12 | - |  | - | - |
+| [DiggerSim - Excavator Simulator](games/c/cc3592f8f7fc4bbeb074ab6e4dfab786.md) | 2024-10-12 | - |  | - | 0 |
 | [Carpathian Survival](games/c/ce34ca6d3ae240d9b6f0753c004fef67.md) | 2024-10-11 | - |  | - | - |
 | [TRANSFORMERS: Galactic Trials](games/0/069c8b8455244d67bbf581d9ebc61f1c.md) | 2024-10-11 | 21 (1,000 XP) | 7 | - | 0 |
 | [FORGE SIMULATOR](games/d/de38a11d515f4c659f0cd8a40a6670c4.md) | 2024-10-11 | 14 (1,000 XP) | 30 | - | 0 |
@@ -16,7 +16,7 @@
 | [Halloween Trick or Treat 3 Collectors Edition](games/2/260838c7efbb4e57997bae541f62b370.md) | 2024-10-09 | - |  | - | 0 |
 | [EA SPORTS™ WRC 24](games/5/50b6612049324d0faf8642014139b082.md) | 2024-10-08 | 26 (1,000 XP) | 4,853 | 4.31 | 49 |
 | [Dead Season](games/f/f01957afd8ed40b1aaad3e4e8536cfa4.md) | 2024-10-08 | 25 (1,000 XP) | 3 | - | 0 |
-| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.86 | 0 |
+| [Off The Grid - Early Access](games/c/c5e46dc234c449408ede15767c2c631e.md) | 2024-10-08 | - |  | 3.87 | 0 |
 | [FALLEN](games/6/607af50a638b4e8ab9b826fc477c4cbe.md) | 2024-10-08 | - |  | - | - |
 | [GT Manager](games/4/4c5ee9d67d8449478f3f58722ee54eab.md) | 2024-10-08 | - |  | - | 0 |
 | [The Scarlet Key](games/e/e086749622bf4740adbbfe9b8f2ac194.md) | 2024-10-06 | - |  | - | - |

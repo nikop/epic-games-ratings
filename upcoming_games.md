@@ -612,6 +612,7 @@
 | [Surviving The Humans ACT 1](games/s/surviving_the_humans_act_1.md) | 2099-01-01 | - |  | - | - |
 | [Swarm Grinder](games/9/9e20456aa9964c3287bda848105582e2.md) | 2099-01-01 | - |  | - | - |
 | [Sword of the Spirit](games/s/sword_of_the_spirit.md) | 2099-01-01 | - |  | - | - |
+| [Symphonia](games/d/d7ed29b020f7482f98092ec2aab2d2f5.md) | 2099-01-01 | - |  | - | - |
 | [Syncromania](games/2/2c526317445249939868f82d02425e2f.md) | 2099-01-01 | - |  | - | - |
 | [TAGLINE](games/b/bab1afea00da4a519ff7d3925bd99f89.md) | 2099-01-01 | - |  | - | - |
 | [Tails of Iron 2: Whiskers of Winter](games/8/8f8f6f0f4e3c492aac38c828ea2f763a.md) | 2099-01-01 | - |  | - | - |
